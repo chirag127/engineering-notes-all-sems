@@ -8785,7 +8785,15 @@ The above example explains how to create a table in HBase with the name 'educati
 
 
 
+#### HBase vs RDBMS
 
+HBase and RDBMS are both types of database management systems, but they differ in several ways. Here are some of the main differences between them:
+
+- Data Model: RDBMS uses a relational data model, where data is stored in tables with predefined columns and rows. HBase, on the other hand, uses a column-family data model, where data is stored in column families, which contain columns and rows. HBase is often referred to as a NoSQL database because of its non-relational data model .
+- Scaling: RDBMS is designed for vertical scaling, which means adding more resources to a single server to increase its performance. HBase is designed for horizontal scaling, which means adding more servers to a cluster to increase its performance. HBase can handle large amounts of data by distributing it across multiple nodes in a Hadoop cluster .
+- Consistency: RDBMS follows the ACID (Atomicity, Consistency, Isolation, Durability) properties, which ensure that transactions are reliable and consistent. HBase follows the BASE (Basically Available, Soft state, Eventual consistency) properties, which trade off consistency for availability and performance. HBase does not guarantee immediate consistency, but it provides strong consistency for read and write operations within a row .
+- Speed: RDBMS is optimized for complex queries and transactions that require high-speed processing and low latency. HBase is optimized for simple queries and operations that require high-throughput processing and high availability. HBase can handle millions of operations per second on large data sets by using batch processing and caching techniques .
+- ACID Compliance: RDBMS is fully ACID compliant, which means it supports transactions that are atomic, consistent, isolated, and durable. HBase is partially ACID compliant, which means it supports transactions that are atomic and durable within a row, but not across rows or tables. HBase also supports multi-version concurrency control, which allows multiple versions of a row to coexist .
 
 
 
@@ -8875,7 +8883,16 @@ To become a zookeeper, one typically needs:
 
 
 
+#### Zookeeper concepts
 
+Zookeeper is a software project that provides a centralized service for distributed systems. It helps to coordinate, synchronize, and manage the configuration and state of the nodes in a cluster. Some of the concepts related to Zookeeper are:
+
+- **Znode**: A znode is a data node in the Zookeeper hierarchical namespace. It can store data and have children. Znodes can be ephemeral (deleted when the client session ends) or persistent (remain until explicitly deleted).
+- **Zookeeper Client**: A Zookeeper client is a node that connects to the Zookeeper service and uses its APIs to perform operations on the znodes. A client can create, read, update, delete, or watch znodes.
+- **Zookeeper Server**: A Zookeeper server is a node that provides the Zookeeper service and maintains the znode tree. A server can be a leader (handles client requests and coordinates updates) or a follower (replicates the leader's state and forwards requests to the leader).
+- **Zookeeper Ensemble**: A Zookeeper ensemble is a group of Zookeeper servers that work together to provide high availability and fault tolerance. An ensemble typically consists of an odd number of servers (at least three) to avoid split-brain scenarios. A majority of servers (a quorum) must be alive and reachable for the ensemble to function.
+- **Zookeeper Session**: A Zookeeper session is a logical connection between a client and an ensemble. A session is established when a client connects to a server and receives a session ID. A session is maintained by sending periodic heartbeats between the client and the server. A session is terminated when the client disconnects, the server expires the session due to timeout, or the client explicitly closes the session.
+- **Zookeeper Watch**: A Zookeeper watch is a mechanism for a client to get notified of changes in the znode tree. A client can set a watch on a znode or its children and receive a callback when the znode is created, deleted, updated, or has children changes. A watch is one-time and needs to be reset after each notification.
 
 
 

@@ -84,3 +84,5 @@ strcpy(timetable[4].end_station, "Surat");
 ```c
 // Define a function to display the train number, train name, departure time and arrival time of all the trains
 void display_all(struct TRAIN_INFO timetable[], int size) {
+
+```

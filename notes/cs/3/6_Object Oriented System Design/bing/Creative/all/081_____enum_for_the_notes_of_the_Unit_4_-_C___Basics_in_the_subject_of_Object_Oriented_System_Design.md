@@ -121,3 +121,5 @@ switch (color) {
         cout << "The color is green." << endl;
         break;
     case Rainbow::Blue:
+
+```

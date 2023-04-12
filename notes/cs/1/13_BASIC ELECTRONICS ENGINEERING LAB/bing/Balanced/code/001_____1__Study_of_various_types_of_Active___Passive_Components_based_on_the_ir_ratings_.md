@@ -25,3 +25,5 @@
     - Voltage rating: the maximum voltage that a capacitor can withstand across its terminals without breaking down or leaking. For example, a 100 µF capacitor with a 16 V voltage rating can handle up to 16 V of voltage.
     - Equivalent series resistance (ESR): the amount of resistance that a capacitor has due to its internal components and connections. It affects the performance and efficiency of a capacitor. For example, a 100 µF capacitor with a 0.1 Ω ESR has a resistance of 0.1 Ω in series with its capacitance.
   - Inductor: a passive component that generates magnetic flux and opposes the change of current in a circuit. It
+
+```

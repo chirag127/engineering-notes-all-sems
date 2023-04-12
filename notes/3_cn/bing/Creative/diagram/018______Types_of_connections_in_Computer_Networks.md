@@ -70,3 +70,5 @@ There are different types of connections in computer networks, depending on the 
 +----------------+      +----------------+      +----------------+
      |  |  |               |  |  |               |  |  |
      |  |  |               |  |  |               |
+
+```

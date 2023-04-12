@@ -204,3 +204,5 @@ A possible ASCII diagram of a big data platform is shown below:
                                                                                |
                                                                                |
                                                                                |
+
+```

@@ -105,3 +105,5 @@ def foo():
 def bar():
     z = 30 # local variable
     print(x) # prints 10, can access global variable
+
+```

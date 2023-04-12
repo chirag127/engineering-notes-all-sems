@@ -88,3 +88,5 @@ def receive_packet():
     # Attenuation
     attenuation_factor = math.exp(-attenuation * distance) # An exponential factor based on the attenuation and distance
     packet = (packet[0] * attenuation_factor, packet[1]) # Multiply the payload by the
+
+```

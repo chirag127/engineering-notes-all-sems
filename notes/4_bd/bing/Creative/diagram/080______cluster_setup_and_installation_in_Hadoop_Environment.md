@@ -233,3 +233,5 @@ The following diagram shows a possible cluster setup and installation in Hadoop 
                                 |
                                 |
                                 |
+
+```

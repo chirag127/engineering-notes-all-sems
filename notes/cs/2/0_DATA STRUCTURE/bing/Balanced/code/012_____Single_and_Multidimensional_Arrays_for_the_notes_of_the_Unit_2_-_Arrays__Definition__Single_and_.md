@@ -53,3 +53,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material o
 `address(A[i][j][k]) = base(A) + (i * q * r + j * r + k) * size`
 
 - where base(A) is the address of the first element of A, i, j and k are the indices of the element, q is the number of
+
+```

@@ -70,3 +70,5 @@ A diagram of the MapReduce types and formats is shown below:
 |  Key-Value     |       |  Key-Value     |       |  Key-Value     |
 |  Pairs         |       |  Pairs         |       |  Pairs         |
 +----------------+       +----------------
+
+```

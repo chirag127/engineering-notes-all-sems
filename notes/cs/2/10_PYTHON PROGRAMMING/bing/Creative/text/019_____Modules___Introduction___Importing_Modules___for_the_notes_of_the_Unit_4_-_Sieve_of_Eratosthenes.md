@@ -52,3 +52,5 @@ def sieve_of_eratosthenes(n):
 print(sieve_of_eratosthenes(10)) # [2, 3, 5, 7]
 print(sieve_of_eratosthenes(20)) # [2, 3, 5, 7, 11, 13, 17, 19]
 print(sieve_of_eratosthenes(100)) # [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53,
+
+```

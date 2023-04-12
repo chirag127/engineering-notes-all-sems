@@ -80,3 +80,5 @@ def convert_NFA_to_DFA(NFA, alphabet, initial):
                 if repr(next_state) not in DFA:
                     # Add it to the DFA with an empty transition dictionary
                     DFA[
+
+```

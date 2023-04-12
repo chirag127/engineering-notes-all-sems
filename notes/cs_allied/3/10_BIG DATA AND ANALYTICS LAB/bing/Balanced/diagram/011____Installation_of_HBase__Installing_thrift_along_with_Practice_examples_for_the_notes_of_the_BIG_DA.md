@@ -70,3 +70,5 @@ After installing thrift, you need to enable the thrift server in HBase. To do th
 ```xml
 <property>
   <name>hbase.regionserver.thrift
+
+```

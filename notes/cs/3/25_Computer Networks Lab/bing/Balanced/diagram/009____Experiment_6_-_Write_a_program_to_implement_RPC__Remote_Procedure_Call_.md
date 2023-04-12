@@ -47,3 +47,5 @@
 // input_file.x
 // definitions section
 typedef int
+
+```

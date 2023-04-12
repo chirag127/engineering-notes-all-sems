@@ -85,3 +85,5 @@ token get_token() {
     while (isalnum(c = get_char())) { // While the character is a letter or a digit
       temp = (char*) realloc(temp, (len + 1) * sizeof(char)); // Reallocate memory for the temporary string
       temp[len++] = c; // Append the character to the
+
+```

@@ -43,3 +43,5 @@ The following is a possible ASCII diagram for the layered architectural design p
 | |            |  |     | |            |  |     | |            |  |     | |            |  |
 | | Component  |  |     | | Component  |  |     | | Component  |  |     | | Component  |  |
 | |            |  |
+
+```

@@ -55,3 +55,5 @@ try:
     print(sieve_of_eratosthenes(1)) # ZeroDivisionError
     print(sieve_of_eratosthenes(-5)) # AssertionError
     print(s
+
+```

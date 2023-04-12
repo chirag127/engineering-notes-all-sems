@@ -46,3 +46,5 @@ public class VariableExample {
     // print the values of the variables
     System.out.println("The value of x is " + x); // x is a static variable that can be accessed by the class name
     System.out.println("The value of y is " + obj.y); // y is
+
+```

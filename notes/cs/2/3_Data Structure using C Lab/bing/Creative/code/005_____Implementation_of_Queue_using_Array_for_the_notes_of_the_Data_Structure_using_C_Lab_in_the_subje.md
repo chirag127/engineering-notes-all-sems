@@ -101,3 +101,5 @@ int peek()
     else
     {
         x = queue[front]; // store the element at the front index
+
+```

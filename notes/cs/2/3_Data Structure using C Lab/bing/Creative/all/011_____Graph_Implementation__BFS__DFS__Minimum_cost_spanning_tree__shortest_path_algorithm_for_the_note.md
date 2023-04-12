@@ -81,3 +81,5 @@ void addEdge(struct Graph* graph, int u, int v, int weight) {
 void printGraph(struct Graph* graph) {
     // iterate over the array of vertices
     for (int i = 0;
+
+```

@@ -41,3 +41,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
 
   - Big Oh notation: This notation gives the upper bound or the worst case of a function. It is denoted by O(f(n)), where f(n) is some function of n. It means that the function T(n) is always less than or equal to some constant multiple of f(n) for sufficiently large n. For example, T(n) = 3n^2 + 5n + 2 is O(n^2), because T(n) <= 3n^2 + 5n^2 + 2n^2 for all n >= 1.
   - Big Theta notation: This notation gives the tight bound or the exact order of a function. It is denoted by Θ(f(n)), where f(n) is some function of n. It means that the function T(n) is always equal to some constant multiple of f(n) for sufficiently large n. For example,
+
+```

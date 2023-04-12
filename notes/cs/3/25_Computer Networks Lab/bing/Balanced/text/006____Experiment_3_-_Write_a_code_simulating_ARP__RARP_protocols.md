@@ -83,3 +83,5 @@ class Device:
   # A method to send a RARP reply to the sender
   def rarp_reply(self, sender_ip, sender_mac):
     # Send a
+
+```

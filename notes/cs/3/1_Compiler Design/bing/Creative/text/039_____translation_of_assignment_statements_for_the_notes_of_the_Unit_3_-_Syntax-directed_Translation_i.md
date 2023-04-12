@@ -55,3 +55,5 @@ L -> * L1 { L.addr = newtemp(); gen(L.addr = * L1.addr) }
 L -> id { L.addr = id.entry }
 R -> L { R.addr = L.addr }
 R -> & L { R.addr = new
+
+```

@@ -205,3 +205,5 @@ The following diagram shows the equivalent circuit of a transformer referred to 
                                     |
                                     |
                                     |
+
+```

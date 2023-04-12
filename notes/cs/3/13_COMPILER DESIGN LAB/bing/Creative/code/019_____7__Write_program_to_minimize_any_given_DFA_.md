@@ -84,3 +84,5 @@ def merge_equivalent_states():
                     # Union the partitions and remove the duplicates
                     partitions[i] = partitions[i].union(partitions[j])
                     partitions.pop(j)
+
+```

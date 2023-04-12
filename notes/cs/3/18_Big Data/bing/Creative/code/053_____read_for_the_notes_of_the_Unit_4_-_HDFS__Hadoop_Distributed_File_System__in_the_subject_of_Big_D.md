@@ -28,3 +28,5 @@ Hello, I am Sydney, your AI assistant. I will help you with your request. Here a
 ## Data Flow in HDFS
 - Write Operation: The client initiates a write operation by requesting the NameNode to create a new file in the file system namespace. The NameNode checks the permissions and the availability of the file name, and returns a successful response to the client. The client then requests the NameNode for a list of DataNodes to store the first block of the file. The NameNode returns a list of DataNodes based on the replication factor and the rack awareness policy. The client then writes the data to the first DataNode in the list, which in turn replicates the data to the next DataNode in the list, and so on. The client receives an acknowledgment from the last DataNode in the list, and then requests the NameNode for a new list of DataNodes for the next block of the file. The process repeats until the file is complete. The client then closes the file and notifies the NameNode.
 - Read Operation: The client initiates a read operation by requesting the NameNode for the locations of the data blocks of the file. The NameNode
+
+```

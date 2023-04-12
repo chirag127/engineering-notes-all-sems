@@ -59,3 +59,5 @@ void selectionSort(int arr[], int n) {
   // Loop over the elements of the array, starting from the first element
   for (int i = 0; i < n - 1; i++) {
     // Initialize a pointer to the smallest element in the remaining
+
+```

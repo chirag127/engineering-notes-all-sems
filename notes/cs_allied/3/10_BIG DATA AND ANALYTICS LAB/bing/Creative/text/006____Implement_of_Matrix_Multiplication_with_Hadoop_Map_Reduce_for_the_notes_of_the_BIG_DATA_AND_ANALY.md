@@ -79,3 +79,5 @@ for line in sys.stdin:
     # parse the input we got from mapper.py
     key, value = line.split('\t', 1)
     # convert value to
+
+```

@@ -180,3 +180,5 @@ One way to draw an information model in SRS is to use an entity-relationship dia
          |                       |
          |                       |
          |                       |
+
+```

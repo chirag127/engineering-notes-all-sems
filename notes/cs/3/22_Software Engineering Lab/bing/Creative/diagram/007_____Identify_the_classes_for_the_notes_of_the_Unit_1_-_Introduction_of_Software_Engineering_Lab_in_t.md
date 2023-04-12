@@ -93,3 +93,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material f
 | -principles: String[]              |        | -phases: String[]                  |
 | -activities: String[]              |        | -inputs: String[]                  |
 | -methods: String[]                 |        | -outputs: String[]
+
+```

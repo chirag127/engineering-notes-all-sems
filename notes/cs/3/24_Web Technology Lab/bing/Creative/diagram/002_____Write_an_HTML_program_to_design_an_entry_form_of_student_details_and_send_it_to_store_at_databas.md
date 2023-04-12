@@ -100,3 +100,5 @@ Here is an example of a PHP script that receives the form data and stores it in 
 <?php
 // Check if the form is submitted
 if (isset($_
+
+```

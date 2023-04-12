@@ -51,3 +51,5 @@
 
   // Check the type of a regular expression
   typeof
+
+```

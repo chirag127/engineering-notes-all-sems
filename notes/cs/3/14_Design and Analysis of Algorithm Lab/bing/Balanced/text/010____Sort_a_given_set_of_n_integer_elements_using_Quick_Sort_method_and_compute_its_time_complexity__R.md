@@ -43,3 +43,5 @@ main():
   startTime = System.nanoTime() // get the current time in nanoseconds
   quickSort(array, 0, n - 1) // sort the array using Quick Sort
   endTime = System.nanoTime() // get the current time in nanoseconds
+
+```

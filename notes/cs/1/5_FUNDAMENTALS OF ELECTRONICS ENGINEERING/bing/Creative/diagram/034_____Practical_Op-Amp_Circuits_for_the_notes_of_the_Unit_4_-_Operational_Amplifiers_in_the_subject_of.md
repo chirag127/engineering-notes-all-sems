@@ -103,3 +103,5 @@ An operational amplifier (op-amp) is a versatile device that can be used to ampl
      |
      |    V1
      |-----
+
+```

@@ -86,3 +86,5 @@ public class ThermometerBeanInfo implements BeanInfo {
       PropertyDescriptor temperature = new PropertyDescriptor("temperature", Thermometer.class);
       temperature.setDisplayName("Temperature");
       temperature.setShort
+
+```

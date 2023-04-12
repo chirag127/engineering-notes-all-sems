@@ -69,3 +69,5 @@ int dequeue(struct queue *q) {
         return -1; // return -1 as an invalid value
     } else { // if the queue is not empty
         struct node *temp = q->front; // store the front node
+
+```

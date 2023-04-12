@@ -95,3 +95,5 @@ The output data for the hottest and coldest locations task can look like this:
 ```text
 Hottest location: Dubai, 38.9
 Coldest location: Moscow, -12.
+
+```

@@ -77,3 +77,5 @@ if __name__ == "__main__":
 </head>
 <body>
   <h1>Bulb Status</h
+
+```

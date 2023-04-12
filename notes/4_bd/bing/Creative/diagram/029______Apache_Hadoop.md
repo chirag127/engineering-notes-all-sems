@@ -44,3 +44,5 @@ The following ASCII diagram shows the high-level architecture of Apache Hadoop:
          |                   |                   |
          |                   |                   |
          |                   |
+
+```

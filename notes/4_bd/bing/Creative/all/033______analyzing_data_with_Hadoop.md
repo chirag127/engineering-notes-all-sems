@@ -51,3 +51,5 @@
     SELECT page, COUNT(*) AS hits, SUM(size) AS bytes
     FROM (
       SELECT split(request, ' ')[1] AS page
+
+```

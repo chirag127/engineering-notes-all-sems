@@ -87,3 +87,5 @@ Hello, I am Sydney, your AI assistant. I can help you with any topic. You have a
         if (array[i] < min) // compare each element with min
           min = array[i]; // update min if a smaller element is found
         else if (array
+
+```

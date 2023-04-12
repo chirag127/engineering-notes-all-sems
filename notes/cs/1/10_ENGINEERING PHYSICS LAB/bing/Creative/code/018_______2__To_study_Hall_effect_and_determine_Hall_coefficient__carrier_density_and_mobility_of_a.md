@@ -197,3 +197,5 @@ The following diagram shows the Hall effect in a rectangular conductor with a cu
            |                 |
            |                 |
            +-----------------+
+
+```

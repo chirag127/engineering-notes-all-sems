@@ -18,3 +18,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
   - The cell membrane is a phospholipid bilayer that surrounds the cytoplasm and regulates the movement of substances into and out of the cell. It also contains proteins that perform various functions, such as transport, enzymatic, and signal transduction. The cell membrane is also involved in energy production, as it contains the electron transport chain and the ATP synthase, which are involved in cellular respiration. 
   - The capsule is a layer of polysaccharides or proteins that surrounds the cell wall and the cell membrane. It provides protection, adhesion, and virulence to the bacterial cell. It also prevents the cell from being recognized and phagocytosed by the host immune system. The capsule can be classified into two types: slime layer and glycocalyx, based on the thickness and organization of the layer. 
     - Slime layer is a thin and loosely attached layer of polys
+
+```

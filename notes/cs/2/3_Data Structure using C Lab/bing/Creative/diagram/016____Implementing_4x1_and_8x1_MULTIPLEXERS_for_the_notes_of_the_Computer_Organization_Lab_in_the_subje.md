@@ -64,3 +64,5 @@ Y = (A0.S2'.S1'.S0') + (A1.S2'.S1'.S0) + (A2.S2'.S1.S0') + (A3.S2'.S1.S0) + (A4.
 module m81(out, a, b, c, d, e, f, g, h, s2, s1, s0);
   output out;
   input a
+
+```

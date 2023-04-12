@@ -45,3 +45,5 @@ The following diagram shows a simplified and unofficial UML representation of th
 | | EJB Local  | |     | | EJB Local  | |     | | EJB Local  | |
 | | Home       | |     | | Home       | |     | | Home       | |
 | +-------------+ |     | +-------------+ |
+
+```

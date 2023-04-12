@@ -53,3 +53,5 @@ filtered_data = data.filter(col("id").isNotNull() & col("name").isNotNull() & co
 mongo_sink = filtered_data.writeStream.format("mongo") \
     .option("spark.mongodb.output.uri", "mongodb://localhost:27017/test.output_collection") \
     .option("checkpointLocation",
+
+```

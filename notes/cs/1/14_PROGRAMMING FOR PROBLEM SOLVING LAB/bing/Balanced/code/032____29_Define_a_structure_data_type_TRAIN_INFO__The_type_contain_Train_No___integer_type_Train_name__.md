@@ -83,3 +83,5 @@ struct TRAIN_INFO timetable[5] = {
         printf("Train No.: %d\n", timetable[i].train_no);
         printf("Train Name: %s\n", timetable[i].train_name);
         printf("Departure Time: %02d:%02d\n", timetable[i].departure_time.hour, timetable[i
+
+```

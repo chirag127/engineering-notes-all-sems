@@ -38,3 +38,5 @@ erDiagram
   SECTION ||--||| COURSE : "N:1"
   SECTION {
     double Number
+
+```

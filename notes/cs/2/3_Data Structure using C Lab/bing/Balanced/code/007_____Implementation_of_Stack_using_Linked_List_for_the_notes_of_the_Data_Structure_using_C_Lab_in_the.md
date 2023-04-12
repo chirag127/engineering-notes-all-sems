@@ -84,3 +84,5 @@ void display(struct stack *s) {
 // Main function to test the stack implementation
 int main() {
   struct stack *s = createStack();
+
+```

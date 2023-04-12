@@ -47,3 +47,5 @@ public class LoginServlet extends HttpServlet {
 
     // Declare the JDBC or ODBC objects
     Connection connection
+
+```

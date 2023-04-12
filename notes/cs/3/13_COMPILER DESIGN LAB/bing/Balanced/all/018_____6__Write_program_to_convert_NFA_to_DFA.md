@@ -91,3 +91,5 @@ def nfa_to_dfa():
         for symbol in nfa_symbols:
             # Find the next state of the DFA for the current state and symbol
             next_s = next_state(state, symbol)
+
+```

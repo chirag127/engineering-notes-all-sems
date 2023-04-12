@@ -50,3 +50,5 @@ function clipLine(x1, y1, x2, y2, xmin, ymin, xmax, ymax):
         x1 = x
         y1 = y
         outcode1 = computeOutcode(x1, y1, xmin, ymin, xmax, ymax
+
+```

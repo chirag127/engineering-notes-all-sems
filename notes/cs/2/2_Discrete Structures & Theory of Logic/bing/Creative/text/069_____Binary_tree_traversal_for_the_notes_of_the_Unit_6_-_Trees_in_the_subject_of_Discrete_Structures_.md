@@ -121,3 +121,5 @@ The recursive algorithm for postorder traversal is:
 void postorder(node *root) {
   if (root == NULL) return; // base case
   postorder(root->left); //
+
+```

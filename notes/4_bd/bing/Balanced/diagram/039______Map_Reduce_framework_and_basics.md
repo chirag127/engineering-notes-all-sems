@@ -71,3 +71,5 @@ The following diagram illustrates the MapReduce framework and its basic componen
 |   Output File 2  <-----+   Output Split 2 <-----+   Reduce Task 2  |
 |                  |     |                  |     |                  |
 +------------------+
+
+```

@@ -60,3 +60,5 @@ module g2b_converter # (parameter WIDTH =4) (
 );
   genvar i;
   generate
+
+```

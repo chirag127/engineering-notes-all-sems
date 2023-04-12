@@ -69,3 +69,5 @@ public class AWTExample extends Frame implements ActionListener {
 
         // Create and add the checkbox components
         cb1 = new Checkbox("Male
+
+```

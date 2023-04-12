@@ -88,3 +88,5 @@ void dequeue() {
 ```c
 // Function to display the elements of the queue
 void display() {
+
+```

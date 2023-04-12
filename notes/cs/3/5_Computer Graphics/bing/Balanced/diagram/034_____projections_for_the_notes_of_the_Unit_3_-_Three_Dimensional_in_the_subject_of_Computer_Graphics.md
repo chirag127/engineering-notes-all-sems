@@ -87,3 +87,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material f
 foreshortening factor = cos(alpha) / cos(beta)
 
 where alpha is the angle between the line of projection and the projection plane, and beta is the angle between the line of projection and the original line.
+
+```

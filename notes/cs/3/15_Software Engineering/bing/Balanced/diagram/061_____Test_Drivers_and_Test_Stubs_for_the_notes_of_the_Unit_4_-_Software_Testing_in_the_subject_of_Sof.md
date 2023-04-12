@@ -36,3 +36,5 @@
 |                 |     |                 |     |                 |
 |  Receive output |<----|  Return output  |<----|  Return dummy   |
 |  from Module A  |     |  to Test
+
+```

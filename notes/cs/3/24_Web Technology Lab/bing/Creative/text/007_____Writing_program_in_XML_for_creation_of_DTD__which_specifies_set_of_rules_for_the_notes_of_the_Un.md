@@ -50,3 +50,5 @@
         <paragraph>- It is event-driven, meaning that it can respond to user actions, such as clicks, mouse movements, or keyboard inputs.</paragraph>
         <paragraph>- It can manipulate the HTML document object model (DOM), which is a tree-like representation of the web page elements.</paragraph>
         <paragraph>- It can
+
+```

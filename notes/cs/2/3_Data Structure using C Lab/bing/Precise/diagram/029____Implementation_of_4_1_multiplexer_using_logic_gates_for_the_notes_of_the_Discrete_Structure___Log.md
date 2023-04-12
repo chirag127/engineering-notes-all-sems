@@ -88,3 +88,5 @@ The implementation of a 4:1 multiplexer using logic gates can be done using AND,
   +---+   +---+   |   |
   | U |---|   |---|   |
   +---+   |   |   |   |
+
+```

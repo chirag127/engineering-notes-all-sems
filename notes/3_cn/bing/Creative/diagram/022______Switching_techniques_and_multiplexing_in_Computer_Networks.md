@@ -74,3 +74,5 @@ A diagram for switching techniques and multiplexing in computer networks is show
        |                   |                   |                   |
 +----------------+   +----------------+   +----------------+   +----------------+
 |                |   |                |
+
+```

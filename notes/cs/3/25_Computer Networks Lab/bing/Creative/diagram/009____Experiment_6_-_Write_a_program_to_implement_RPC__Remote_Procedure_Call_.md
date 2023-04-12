@@ -98,3 +98,5 @@ class FibonacciRpcClient(object):
     def on_response(self, ch, method, props, body):
         # Check if the correlation ID matches the request
         if self.corr_id == props.correlation_id:
+
+```

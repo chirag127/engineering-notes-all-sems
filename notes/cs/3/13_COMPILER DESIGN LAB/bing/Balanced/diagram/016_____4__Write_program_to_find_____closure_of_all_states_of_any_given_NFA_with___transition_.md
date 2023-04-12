@@ -83,3 +83,5 @@ def epsilon_closure(state):
         # Pop a state from the stack
         current = stack.pop()
         # For each epsilon transition from that state to another state, do the following
+
+```

@@ -163,3 +163,5 @@ The following diagram shows the basic circuit of a CE amplifier:
      |                                                                                                                                           \
      |                                                                                                                                            \
      |
+
+```

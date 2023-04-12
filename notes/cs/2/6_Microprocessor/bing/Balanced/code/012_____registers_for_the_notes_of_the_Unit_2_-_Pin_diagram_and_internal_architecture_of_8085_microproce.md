@@ -34,3 +34,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your query. Here are 
 - An addressing mode is a way of specifying the location of an operand in an instruction. The 8085 microprocessor supports five addressing modes: immediate, register, direct, indirect, and implied.
 - In the immediate addressing mode, the operand is specified as a constant value in the instruction itself. For example, MVI A, 05H means load the accumulator with the value 05H.
 - In the register
+
+```

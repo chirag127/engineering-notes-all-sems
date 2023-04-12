@@ -52,3 +52,5 @@ int main() // This is the main function
 
 - When you write a C program, you may make mistakes that prevent the program from compiling or running correctly.
 - These mistakes are called errors
+
+```

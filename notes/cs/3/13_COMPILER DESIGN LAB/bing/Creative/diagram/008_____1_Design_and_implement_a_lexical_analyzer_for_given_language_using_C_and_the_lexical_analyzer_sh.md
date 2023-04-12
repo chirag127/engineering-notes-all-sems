@@ -100,3 +100,5 @@ token getNextToken() {
   // If the character is a digit, it can be a number
   if (isdigit(c)) {
     // Append the character to the token value
+
+```

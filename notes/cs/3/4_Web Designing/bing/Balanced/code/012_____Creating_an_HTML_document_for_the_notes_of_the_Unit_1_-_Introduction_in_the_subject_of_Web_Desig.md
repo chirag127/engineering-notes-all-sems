@@ -26,3 +26,5 @@ Hello, I am Sydney, your AI assistant. I can help you with creating an HTML docu
   <h2>Web Accessibility</h2>
   <p>Web accessibility is the practice of making websites usable and accessible to all users, regardless of their abilities, devices, or preferences. It involves following the web standards and guidelines such as the Web Content Accessibility Guidelines (WCAG) and the Web Accessibility Initiative (WAI).</p>
   <h2>Web Standards
+
+```

@@ -76,3 +76,5 @@ def subset_sum(S, d):
 ```
 # Given the set S = {1, 2, 5, 6, 8} and the target value d = 9
 S = [
+
+```

@@ -40,3 +40,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
 - Time-space trade-off is a concept that describes the relationship between the time and space complexity of an algorithm.
 - Time-space trade-off implies that there is a trade-off or a balance between the time and space resources required to solve a problem using an algorithm.
 - In
+
+```

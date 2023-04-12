@@ -46,3 +46,5 @@ The following diagram illustrates the process of DNS resolution for the domain n
        | google.com IP       |                     |                     |                     |
        |-------------------->|                     |                     |                     |
        |                     |
+
+```

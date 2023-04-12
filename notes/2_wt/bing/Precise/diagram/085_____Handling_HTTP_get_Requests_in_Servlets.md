@@ -230,3 +230,5 @@ Here is an ASCII diagram that illustrates the process of handling an HTTP GET re
           |                             |
           |                             |
           |                             |
+
+```

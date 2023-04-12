@@ -288,3 +288,5 @@ A detailed ASCII diagram for exception handling in Java is shown below:
                     |
                     |
                     |
+
+```

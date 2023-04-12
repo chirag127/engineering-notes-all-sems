@@ -64,3 +64,5 @@ The ethical recommendations are:
 - Privacy: protect data confidentiality and security, by using encryption, authentication, and access control
 - Fairness: avoid discrimination and bias in data processing and interpretation, by applying fairness metrics and algorithms
 """
+
+```

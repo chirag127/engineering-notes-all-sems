@@ -162,3 +162,5 @@ void loop() {
   int switch1 = digitalRead(SWITCH1);
   int switch2 = digitalRead(SWITCH2);
   // Turn on the LED
+
+```

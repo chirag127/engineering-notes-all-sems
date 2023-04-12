@@ -286,3 +286,5 @@ The following is a simplified ASCII diagram of the HDFS architecture:
                          |
                          |
                          |
+
+```

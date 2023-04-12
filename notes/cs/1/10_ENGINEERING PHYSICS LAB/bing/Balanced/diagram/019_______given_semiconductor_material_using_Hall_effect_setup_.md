@@ -190,3 +190,5 @@ The diagram below illustrates the setup:
 A   +-----------------+   B
     |                 |
     |                 |
+
+```

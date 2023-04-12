@@ -84,3 +84,5 @@ int max_of_four(int a, int b, int c, int d) {
   if (c > max) max = c; // compare max with the third parameter
   if (d > max) max = d; // compare max with the fourth parameter
   return max; // return
+
+```

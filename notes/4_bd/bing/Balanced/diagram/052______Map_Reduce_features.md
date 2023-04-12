@@ -52,3 +52,5 @@ MapReduce is a programming model and a framework for distributed computing based
 |                 |      |                 |      |                 |
 +-----------------+      +-----------------+      +-----------------+
 |                 |      |                 |      |
+
+```

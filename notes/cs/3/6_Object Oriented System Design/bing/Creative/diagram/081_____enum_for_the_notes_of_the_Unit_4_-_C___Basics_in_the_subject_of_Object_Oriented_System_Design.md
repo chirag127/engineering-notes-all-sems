@@ -113,3 +113,5 @@ int main() {
   }
   if (dir & Direction::Left) {
     cout << "dir has the Left
+
+```

@@ -80,3 +80,5 @@ The following diagram shows an example of servlet collaboration and filtering:
 +-----------------+       +-----------------+
 |                 |       |                 |
 |    Client
+
+```

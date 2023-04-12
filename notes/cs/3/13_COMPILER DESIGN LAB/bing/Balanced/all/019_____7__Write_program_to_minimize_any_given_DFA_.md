@@ -58,3 +58,5 @@ class DFA:
 def minimize(dfa):
   # Step 1: Initialize P and W
   P = [dfa.final, d
+
+```

@@ -48,3 +48,5 @@ The following is an example of the SQL statements to create the database tables 
 CREATE TABLE Hotel (
   hotel_id INT PRIMARY KEY,
   name VARCHAR(50)
+
+```

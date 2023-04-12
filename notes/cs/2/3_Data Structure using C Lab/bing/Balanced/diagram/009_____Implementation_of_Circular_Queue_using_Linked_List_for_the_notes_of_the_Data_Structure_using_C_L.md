@@ -64,3 +64,5 @@ int dequeue(struct queue *q) {
     } else { // if the queue has more than one node
       q->front = q->front->next; // update front pointer to the next node
       q->rear
+
+```

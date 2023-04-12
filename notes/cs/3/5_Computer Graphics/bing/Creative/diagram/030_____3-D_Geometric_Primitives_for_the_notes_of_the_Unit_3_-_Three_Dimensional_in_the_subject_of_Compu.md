@@ -42,3 +42,5 @@ Here is a diagram that shows some examples of 3-D primitives and their attribute
 | Color:         | Color:         | Color:         | Color:         |
 | Purple         | Orange         | Pink           | White          |
 | Texture:       | Texture:       | Texture:       | Texture:       |
+
+```

@@ -95,3 +95,5 @@ A diagram for a real-world MapReduce example is shown below. The example is a wo
 |  Reduce        |     |  Reduce        |     |  Reduce        |
 |  Function      |     |  Function      |     |  Function      |
 |                |     |                |     |                |
+
+```

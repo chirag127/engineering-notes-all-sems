@@ -44,3 +44,5 @@ struct node *top = NULL;
 
 // Define a function to create a new node
 struct node *create_node(int data) {
+
+```

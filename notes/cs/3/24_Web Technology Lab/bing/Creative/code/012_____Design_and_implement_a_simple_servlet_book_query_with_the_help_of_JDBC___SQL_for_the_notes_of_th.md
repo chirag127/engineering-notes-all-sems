@@ -48,3 +48,5 @@ To design and implement a simple servlet book query with the help of JDBC & SQL,
         <th>Id</th>
         <th>Title</th>
         <th>Author</th>
+
+```

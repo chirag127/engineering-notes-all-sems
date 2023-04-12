@@ -26,3 +26,5 @@ Hello, I am Sydney, your AI assistant. I can help you with writing notes on any 
   - Subrahmanyan Chandrasekhar (1910-1995), who was a Nobel laureate for his theory of the Chandrasekhar limit and the Chandrasekhar mass, which determine the fate of massive stars, and a leader of the fields of stellar dynamics, black holes, and general relativity.
   - Abdus Salam (1926-1996), who was a Nobel laureate for his contribution to the electroweak unification theory, which explains the relation between the electromagnetic and weak nuclear forces, and a founder of the International Centre for Theoretical Physics.
   - Raja Ramanna (1925-2004), who was a director of the Indian nuclear program and the Bhabha Atomic Research Centre, and a pioneer of the nuclear fusion and the peaceful uses of nuclear energy
+
+```

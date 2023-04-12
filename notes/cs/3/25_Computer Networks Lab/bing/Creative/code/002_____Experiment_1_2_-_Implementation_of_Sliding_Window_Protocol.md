@@ -74,3 +74,5 @@ def receive_ack(ack):
     # Update the sender window
     sender_window.remove(ack.seq_num)
     # Check if the acknowledgment is for the first frame in
+
+```

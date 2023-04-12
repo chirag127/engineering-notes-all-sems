@@ -83,3 +83,5 @@ void parse_rarp_reply(unsigned char *packet, unsigned char *mac, unsigned char *
     if (memcmp(arp->ar_tha, mac, 6) != 0) {
         printf("Not for me\n");
         return
+
+```

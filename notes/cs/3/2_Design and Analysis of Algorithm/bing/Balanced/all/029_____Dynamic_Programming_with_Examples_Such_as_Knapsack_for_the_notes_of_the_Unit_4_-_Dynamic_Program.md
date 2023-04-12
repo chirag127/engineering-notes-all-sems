@@ -36,3 +36,5 @@ f(i, w) = max(f(i - 1, w), f(i - 1, w - wi) + vi), if wi <= w
 ```
 Number of items n = 4
 Knapsack capacity W =
+
+```

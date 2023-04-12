@@ -25,3 +25,5 @@
     - The Harvard architecture uses separate buses to connect the microprocessor with the data memory and the instruction memory, and it stores data and instructions in different memory spaces.
 - Addressing modes
   - The addressing mode is the way of specifying the location of the operand (the data to be processed) in an instruction[^
+
+```

@@ -44,3 +44,5 @@ The following diagram illustrates the anatomy of a Map Reduce job run:
        |                      |                      |      +----------------+
        |                      |                      |      |                |
        |                      |
+
+```

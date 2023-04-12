@@ -50,3 +50,5 @@
       -> a * (b * c - id) * F - T {print('-'); print('*'); print('*'); print('-'); print('*'); print('b'); print('c'); print(id.lexeme)}
       -> a * (b * c - d) * F - T {print('-'); print('*'); print('*'); print('-'); print('*'); print('b'); print('c'); print('d')}
       -> a * (b * c - d) * id - T {print('-'); print('*'); print('*'); print('-'); print('*'); print('b'); print('c'); print('
+
+```

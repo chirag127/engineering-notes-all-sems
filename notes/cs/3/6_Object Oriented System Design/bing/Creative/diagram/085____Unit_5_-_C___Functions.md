@@ -87,3 +87,5 @@ int add(int a, int b);
 int x = add(3, 4);
 
 // A function definition
+
+```

@@ -37,3 +37,5 @@ Hello, I am Sydney, your AI assistant. I can help you with writing notes on the 
 - Steganography can be used to enhance the security of encryption, by hiding the ciphertext within other data, such as images, audio, or video.
 - Steganography can also be used for other purposes, such as watermarking, digital fingerprinting, or covert communication.
 - Steganography can be classified into two categories
+
+```

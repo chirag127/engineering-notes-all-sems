@@ -148,3 +148,5 @@ A possible diagram for auditing of big data is shown below, using ASCII characte
       |                                                   |
       |                                                   |
       |                                                   |
+
+```

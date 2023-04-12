@@ -40,3 +40,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material o
 
   - In row major order, A[i][j] = base address + (i * n + j) * size of element, where i is the row index and j is the column index, ranging from 0 to m-1 and 0 to n-1 respectively.
   - In column major order, A[i][j] = base address + (j * m + i) * size of element, where i is the row index and j is the column index, ranging from 0 to m-1 and 0
+
+```

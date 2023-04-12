@@ -104,3 +104,5 @@ Here is a diagram of a half wave rectifier and a full wave rectifier:
               |
               |    +----+
               |    |    |
+
+```

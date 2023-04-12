@@ -65,3 +65,5 @@ int dequeue(struct queue *q) {
     q->front = q->front->next; // Update the front pointer
     free(temp); // Free the memory of the removed node
     if (q->front == NULL) { // If the queue becomes
+
+```

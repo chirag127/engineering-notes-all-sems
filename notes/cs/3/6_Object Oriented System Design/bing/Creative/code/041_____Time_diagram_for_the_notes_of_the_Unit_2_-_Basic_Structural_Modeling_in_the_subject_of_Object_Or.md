@@ -107,3 +107,5 @@ Here is an example of a time diagram that shows the behavior of a customer and a
 |              |                 |                       |
 |              |                 |                       |
 |
+
+```

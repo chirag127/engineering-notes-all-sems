@@ -40,3 +40,5 @@ procedure backtrack (S, t, x, k, sum) is
     if sum = t then
         output x
     else if sum < t and k < n then
+
+```

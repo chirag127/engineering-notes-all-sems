@@ -81,3 +81,5 @@ The ER diagram for the railway reservation system can be drawn as follows:
                                                                  |  |
                                                                  |  |
                                                                  |
+
+```

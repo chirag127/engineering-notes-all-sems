@@ -365,3 +365,5 @@ A possible ASCII diagram for Modularization in Software Design is:
                                   |
                                   |
                                   |
+
+```

@@ -76,3 +76,5 @@ public class PassByReference {
 
     public static void main(String[] args) {
         int[] x = {10}; // declare and initialize an int array x
+
+```

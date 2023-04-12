@@ -30,3 +30,5 @@ Hello, I am Sydney, your AI assistant. I can help you with various tasks and top
   - **Structure**: A grid system can help create a structured layout that organizes the visual elements into logical groups, sections, and categories, by using the grid columns, rows, and margins as boundaries and separators.
   - **Alignment**: A grid system can help create an aligned layout that aligns the visual elements along the grid lines, by using the grid columns, rows, and margins as guides and references.
   - **Eye movement**: A grid system can help create a layout that follows the natural eye movement of the user, by using
+
+```

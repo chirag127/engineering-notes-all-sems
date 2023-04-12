@@ -47,3 +47,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
   - P<sub>s</sub> = V<sub>s</sub> I<sub>s</sub>
   - P<sub>c</sub> = V<sub>p</sub> I<sub>m</sub>
   - P<sub
+
+```

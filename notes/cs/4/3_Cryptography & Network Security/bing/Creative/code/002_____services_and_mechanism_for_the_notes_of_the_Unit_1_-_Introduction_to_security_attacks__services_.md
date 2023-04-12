@@ -46,3 +46,5 @@
 
 - Steganography: The art of hiding information in other information, such as images, audio, video, etc., so that the existence of the hidden information is not noticeable.
 - Steganalysis: The art of detecting
+
+```

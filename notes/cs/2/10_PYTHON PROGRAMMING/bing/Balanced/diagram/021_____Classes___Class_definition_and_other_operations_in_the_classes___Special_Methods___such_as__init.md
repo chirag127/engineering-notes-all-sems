@@ -69,3 +69,5 @@ class Fraction:
         return self.numerator * other.denominator == self.denominator * other.numerator
 
     def __lt__(self,
+
+```

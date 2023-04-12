@@ -74,3 +74,5 @@ T2 = prim_mst(G)
 print("Prim's algorithm:")
 print(T2.edges(data=True))
 print
+
+```

@@ -85,3 +85,5 @@ public class RegisterServlet extends HttpServlet {
     String password = request.getParameter("password");
 
     // Create two cookies with the name "user_id
+
+```

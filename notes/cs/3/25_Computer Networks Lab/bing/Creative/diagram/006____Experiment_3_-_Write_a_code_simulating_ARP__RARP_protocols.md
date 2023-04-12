@@ -71,3 +71,5 @@ class Device:
       rarp_reply = {
         "sender_mac": self.mac,
         "sender_ip
+
+```

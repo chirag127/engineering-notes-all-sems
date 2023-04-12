@@ -353,3 +353,5 @@ The following diagram illustrates the basic steps of MapReduce:
                                                    |
                                                    |
                                                    |
+
+```

@@ -39,3 +39,5 @@ procedure backtrack(col, c)
       // place the queen at (r, c) by updating the array
       col[c] = r
       //
+
+```

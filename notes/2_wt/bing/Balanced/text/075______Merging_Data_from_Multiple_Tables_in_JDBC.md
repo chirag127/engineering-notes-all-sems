@@ -57,3 +57,5 @@
     ```java
     // Create a SQL query that returns the names and emails of the customers who have ordered the product with the name 'Laptop', using a nested query
     String sql = "SELECT c.name, c.email FROM customers c WHERE c.customer_id IN (SELECT o.customer_id FROM orders o INNER JOIN order_details od ON o.order_id = od.order_id INNER JOIN products p ON od.product_id = p.product_id WHERE p.name =
+
+```

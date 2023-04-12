@@ -86,3 +86,5 @@ void display_by_train_name(struct TRAIN_INFO timetable[], int size, char train_n
     // Check if the train name matches
     if (strcmp(timetable[i].train_name, train_name) == 0) {
       // Display the train information
+
+```

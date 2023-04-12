@@ -35,3 +35,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
 | Heap        | O(n log n)      | O(1)             | No        | No           |
 
 - To implement non-recursive sorting algorithms in C, we need to use arrays, loops, conditional statements, functions, and
+
+```

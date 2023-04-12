@@ -105,3 +105,5 @@ def is_operand(char):
 # Define a function to check if a character is an operator
 def is_operator(char):
   # Return True if the character is +
+
+```

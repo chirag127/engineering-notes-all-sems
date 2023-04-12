@@ -49,3 +49,5 @@ ORA C ; perform bitwise OR operation between register A and register C and store
 ORI 30H ; perform bitwise OR operation between register A and immediate data 30H and store the result in register A
 XRA D ; perform bitwise XOR operation between register A and register D and store the result in register A
 XRI 40H ; perform bitwise XOR operation between register A and immediate data 40H and store the result
+
+```

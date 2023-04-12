@@ -85,3 +85,5 @@ people[0].name = "Anna";
 
 // print the modified array
 console.log(people); // prints [{name: "Anna", age: 25},
+
+```

@@ -73,3 +73,5 @@ while (flag) { // while statement is a control structure that allows looping bas
   do { // do statement with a single condition
     print("y is " + y); // this statement is executed at least once, and then repeatedly as long as the condition is true
     y = y - 1; // this statement changes the value of the y variable
+
+```

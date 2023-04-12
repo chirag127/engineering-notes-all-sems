@@ -40,3 +40,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material f
 - Distributional-based methods rely on the statistical analysis of large corpora of text or speech to estimate the similarity between words based on their contextual usage.
 - The main assumption behind these methods is the distributional hypothesis, which states that words that occur in similar contexts tend to have similar meanings.
 - Distributional-based methods can represent words as vectors or points in a high-dimensional space, where each dimension corresponds to a feature or
+
+```

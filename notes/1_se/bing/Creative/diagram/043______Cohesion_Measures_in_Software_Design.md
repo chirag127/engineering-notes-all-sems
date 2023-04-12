@@ -39,3 +39,5 @@ The following diagram illustrates the different types of cohesion and their rela
 |                |                |                |                |                |                |
 |                |                |                |                |                |                |
 +----------------+----------------+----------------+----------------+----------------+----------------
+
+```

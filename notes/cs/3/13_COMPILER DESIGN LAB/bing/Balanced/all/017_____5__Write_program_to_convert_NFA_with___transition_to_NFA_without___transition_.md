@@ -55,3 +55,5 @@ F = {2, 4} # set of final states
 # Define a function to compute the epsilon closure of a state
 def epsilon_closure(q):
   #
+
+```

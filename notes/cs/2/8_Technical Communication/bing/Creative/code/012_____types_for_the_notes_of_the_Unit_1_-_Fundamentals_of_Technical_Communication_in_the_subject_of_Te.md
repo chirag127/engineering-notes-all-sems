@@ -48,3 +48,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material f
     Smith, J. (2020). Technical communication: An introduction. ABC Press.
 
     This book is an introductory textbook on technical
+
+```

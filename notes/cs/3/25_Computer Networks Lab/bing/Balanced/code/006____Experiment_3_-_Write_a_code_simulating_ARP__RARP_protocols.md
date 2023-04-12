@@ -91,3 +91,5 @@ def listen(sock):
         elif data.startswith("RARP"):
             # Handle the RARP request
             handle_rarp_request(sock, addr, data[5
+
+```

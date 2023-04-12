@@ -82,3 +82,5 @@ You also need to configure mod_jk to communicate with Tomcat. You can create a f
 worker.list=worker1
 worker.worker1.type=ajp13
 worker
+
+```

@@ -49,3 +49,5 @@ int main()
     struct sockaddr_in server_addr, client_addr; // Socket addresses
     socklen_t client_len; // Client address length
     char buffer[MAX];
+
+```

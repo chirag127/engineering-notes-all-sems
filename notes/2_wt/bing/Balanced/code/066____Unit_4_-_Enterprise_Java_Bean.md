@@ -90,3 +90,5 @@ import com.example.ejb.Calculator;
 
 public class CalculatorClient {
     // Inject the calculator bean
+
+```

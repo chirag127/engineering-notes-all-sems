@@ -45,3 +45,5 @@ CREATE TABLE customer (
 INSERT INTO customer VALUES
 (101, 'Alice', '123 Main Street, Seattle, WA', '206-123-4567', 'alice@gmail.com', 'F', 25),
 (102, 'Bob', '456 Park Avenue, New York,
+
+```

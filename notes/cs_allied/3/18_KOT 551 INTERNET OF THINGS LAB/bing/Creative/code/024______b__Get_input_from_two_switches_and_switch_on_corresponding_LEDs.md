@@ -65,3 +65,5 @@ void loop() {
 ```
 
 - This code should make the LEDs light up according to the states of the switches. For example, if switch1 is closed and
+
+```

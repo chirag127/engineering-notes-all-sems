@@ -99,3 +99,5 @@ fruits.shift(); // remove an element from the beginning
 console.log(fruits); // ["banana", "orange"]
 fruits.unshift("strawberry"); // add an element to the beginning
 console.log(fruits); // ["strawberry", "
+
+```

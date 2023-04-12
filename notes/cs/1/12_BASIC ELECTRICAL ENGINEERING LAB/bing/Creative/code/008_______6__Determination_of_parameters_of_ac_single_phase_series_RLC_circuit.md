@@ -29,3 +29,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your studies. Here is
   8. Calculate the active power (P) using the formula: `P = I^2R = VIpf`.
   9. Calculate the reactive power (Q) using the formula: `Q = I^2(XL - XC) = VI sin(φ)`.
   10. Calculate the apparent power (S) using the formula: `S = I^2Z = VI`.
+
+```

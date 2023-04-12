@@ -88,3 +88,5 @@ def nfa_to_dfa(nfa, alphabet, nfa_start, nfa_final):
                 # If the next subset is not in the set of subsets
                 if frozenset(next) not in subsets:
                     # Add it to the set of subsets
+
+```

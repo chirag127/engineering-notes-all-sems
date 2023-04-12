@@ -54,3 +54,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material f
   - Address: the unique identifier for the device in a multi-node network, such as I2C or CAN.
 - Setting up the data buffer involves allocating the memory space for storing the data to be transmitted or received, and using pointers or indexes to access the data.
 - Enabling the interrupts involves setting the interrupt enable bits and the interrupt priority bits for the serial communication module, and writing the interrupt service routine (ISR) to handle the interrupt events, such as data
+
+```

@@ -63,3 +63,5 @@ auc = evaluator.evaluate(predictions)
 # Log the model performance and the best parameters
 logging.info(f"Model performance on test data: AUC = {auc}") # Log the model performance
 logging.info(f"Best model parameters: regParam =
+
+```

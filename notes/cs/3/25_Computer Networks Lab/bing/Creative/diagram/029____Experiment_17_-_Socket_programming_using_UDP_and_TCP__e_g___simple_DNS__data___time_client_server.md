@@ -82,3 +82,5 @@ for domain_name in domain_names:
     # Receive the response from the server
     data, server = sock.recvfrom(4096)
     print('Received {} bytes from {}'.format(len(data),
+
+```

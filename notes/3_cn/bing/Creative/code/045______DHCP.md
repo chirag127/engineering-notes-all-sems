@@ -94,3 +94,5 @@ def create_offer(xid, mac, ip):
   header += b'\x00\x00\x00\x00' # Relay agent IP address: 0.0.0.0
   header += mac # Client MAC address
   header += b'\x00' *
+
+```

@@ -53,3 +53,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your topic.
     Shift *: push state 7 and * onto the stack, advance input pointer
     Shift (: push state 4 and ( onto the stack, advance input pointer
     Shift ): push state 11 and ) onto the stack, advance
+
+```

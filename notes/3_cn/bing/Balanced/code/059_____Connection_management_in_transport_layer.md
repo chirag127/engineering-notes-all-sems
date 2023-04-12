@@ -76,3 +76,5 @@ def handle_event(event):
     global state
     # Get the next state and action from the transition table
     next_state, action = transition_table.get((state, event), (None, DROP))
+
+```

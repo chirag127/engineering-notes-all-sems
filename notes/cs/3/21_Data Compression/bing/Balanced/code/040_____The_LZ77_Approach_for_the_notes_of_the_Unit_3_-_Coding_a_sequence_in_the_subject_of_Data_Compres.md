@@ -75,3 +75,5 @@ Here is an example of LZ77 compression and decompression:
 
 ```
 | Search buffer | Look-ahead buffer |
+
+```

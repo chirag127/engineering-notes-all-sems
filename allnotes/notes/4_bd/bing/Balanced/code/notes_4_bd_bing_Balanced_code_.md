@@ -4293,7 +4293,18 @@ A pig is a domesticated animal that belongs to the order Artiodactyla, the even-
 
 
 
+#### Execution Modes of Pig
 
+Apache Pig is a high-level platform for analyzing large data sets using a scripting language called Pig Latin. Pig can run on a single machine or on a distributed environment like Hadoop. Depending on where the data is stored and where the Pig script is executed, Pig has different execution modes. These are:
+
+- **Local mode**: In this mode, Pig runs in a single Java Virtual Machine (JVM) and accesses the local file system. This mode is useful for development, testing, and prototyping. To run Pig in local mode, use the `-x local` flag when invoking the `pig` command. For example: `pig -x local script.pig`
+- **MapReduce mode**: In this mode, Pig runs on a Hadoop cluster and accesses the Hadoop Distributed File System (HDFS). This mode is suitable for processing large data sets in parallel. To run Pig in MapReduce mode, use the `-x mapreduce` flag when invoking the `pig` command. For example: `pig -x mapreduce script.pig`
+- **Tez mode**: In this mode, Pig runs on a Hadoop cluster and uses Apache Tez as the execution engine. Tez is a framework for building high-performance data processing applications on Hadoop. Tez mode can improve the performance and scalability of Pig scripts by optimizing the execution plan and minimizing data shuffling. To run Pig in Tez mode, use the `-x tez` flag when invoking the `pig` command. For example: `pig -x tez script.pig`
+- **Spark mode**: In this mode, Pig runs on a Hadoop cluster and uses Apache Spark as the execution engine. Spark is a fast and general engine for large-scale data processing. Spark mode can leverage the in-memory computing and caching capabilities of Spark to speed up Pig scripts. To run Pig in Spark mode, use the `-x spark` flag when invoking the `pig` command. For example: `pig -x spark script.pig`
+- **Interactive mode**: In this mode, Pig runs in an interactive shell called Grunt. Grunt allows you to enter Pig Latin commands and see the results immediately. You can also load and run Pig scripts from Grunt. To start Grunt, use the `pig` command without any arguments. For example: `pig`
+- **Batch mode**: In this mode, Pig runs a Pig script from a file with a `.pig` extension. The file contains a sequence of Pig Latin commands. You can specify the execution mode and other options in the file or as command-line arguments. To run a Pig script in batch mode, use the `pig` command followed by the file name. For example: `pig script.pig`
+
+These are the main execution modes of Pig. You can choose the appropriate mode depending on your data size, location, and processing requirements.
 
 
 
@@ -4369,7 +4380,23 @@ There are different types of data processing operators in Pig, such as:
 
 
 
+### Hive
 
+Hive is a data warehouse software that facilitates querying and managing large datasets residing in distributed storage. It is built on top of Apache Hadoop, an open-source framework for processing and storing big data using a cluster of commodity hardware. Some of the features and benefits of Hive are:
+
+- It enables data summarization, querying, and analysis of data using HiveQL, a query language similar to SQL.
+- It allows you to project structure on largely unstructured data and supports various data formats such as text, JSON, ORC, Parquet, etc.
+- It provides a metadata repository that stores the schema and statistics of the tables and partitions in the data warehouse.
+- It supports user-defined functions (UDFs), user-defined aggregate functions (UDAFs), and user-defined table functions (UDTFs) to extend the functionality of HiveQL.
+- It integrates with other data processing tools such as Spark, Pig, and MapReduce to perform complex transformations and analysis.
+- It supports storage on various file systems such as HDFS, S3, ADLS, GS, etc.
+
+Hive is not a relational database and does not provide real-time queries, transactions, or row-level updates. It is mainly used for batch processing and analytical queries on large-scale data. Hive is suitable for scenarios where:
+
+- You need to perform ad-hoc queries or exploratory analysis on huge datasets.
+- You need to run scheduled or recurring jobs to process and transform data.
+- You need to create reports or dashboards based on aggregated or summarized data.
+- You need to join data from different sources or formats.
 
 
 
@@ -4478,7 +4505,28 @@ These are the basic steps to install and use Hive. For more details and advanced
 
 
 
+#### Hive shell
 
+- The Hive shell is a command-line interface (CLI) that allows users to interact with Hive and execute HiveQL commands.
+- The Hive shell can be launched by typing `hive` in the terminal. It will display a prompt `hive>` where users can enter their queries.
+- The Hive shell supports various options and commands to configure and control the Hive session. Some of the common options and commands are:
+
+  - `-e "query"`: Executes the query and prints the output to the standard output.
+  - `-f filename`: Executes the queries in the file and prints the output to the standard output.
+  - `-i filename`: Executes the commands in the file before entering the interactive shell.
+  - `-v`: Enables verbose mode, which prints more information about the execution process.
+  - `-h`: Displays the help message and exits.
+  - `set key=value;`: Sets a Hive configuration property for the current session.
+  - `!command;`: Executes a shell command from the Hive shell.
+  - `dfs command;`: Executes a Hadoop file system command from the Hive shell.
+  - `quit;`: Exits the Hive shell.
+
+- The Hive shell supports various features to enhance the user experience, such as:
+
+  - Tab completion: Pressing the tab key will complete the current word or suggest possible completions based on the context.
+  - History: Pressing the up and down arrow keys will navigate through the previous and next commands entered in the shell.
+  - Editing: Pressing the left and right arrow keys will move the cursor within the current command. Pressing the backspace key will delete the character before the cursor. Pressing the delete key will delete the character after the cursor.
+  - Multi-line commands: A command can span multiple lines by ending each line with a backslash (`\`) character. The shell will prompt with `>` for the continuation lines.
 
 
 

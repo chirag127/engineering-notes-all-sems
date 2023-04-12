@@ -65,3 +65,5 @@ int dequeue() {
   front = (front + 1) % MAX; // increment front and wrap around if needed
   if (front == (rear + 1) % MAX) { // if the queue is empty after the deletion
     front = -1; // reset front
+
+```

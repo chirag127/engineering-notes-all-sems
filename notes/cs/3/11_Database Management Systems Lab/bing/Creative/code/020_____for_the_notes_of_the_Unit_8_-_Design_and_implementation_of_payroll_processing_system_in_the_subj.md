@@ -85,3 +85,5 @@ CREATE TABLE Employee_Deduction (
   emp_ded_ded_id INT NOT NULL,
   emp_ded_amount DECIMAL(10,2) NOT NULL,
   FOREIGN KEY (emp_ded_emp_id) REFERENCES Employee(emp_id
+
+```

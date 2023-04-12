@@ -79,3 +79,5 @@ int peek(struct queue *q) {
 // Check if the queue is empty
 int isEmpty(struct queue *q) {
   return (q->front == NULL); // return
+
+```

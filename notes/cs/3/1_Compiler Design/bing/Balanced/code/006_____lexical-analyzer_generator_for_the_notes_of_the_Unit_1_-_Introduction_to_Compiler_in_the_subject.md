@@ -54,3 +54,5 @@ WHITESPACE [ \t\n] /* define a name for a whitespace */
 }
 {OPERATOR} { /* action for an operator */
   printf("OPERATOR: %s\n",
+
+```

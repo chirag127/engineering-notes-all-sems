@@ -48,3 +48,5 @@
 - For a three-dimensional array A of size m x p x q, stored in row-major order, the address of A[i][j][k] is given by:
 
 `address(A
+
+```

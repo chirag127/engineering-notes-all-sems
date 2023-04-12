@@ -90,3 +90,5 @@ int binary_search(int data[], int n, int value) {
     else {
       low = mid + 1; // narrow the search range to the right half
     }
+
+```

@@ -96,3 +96,5 @@ $dob = $_POST["dob"];
 // Prepare and execute the SQL query to insert the data
 $sql = "INSERT INTO student (name, email, phone, course, gender, dob) VALUES (?, ?, ?, ?, ?, ?)";
 $stmt = $conn
+
+```

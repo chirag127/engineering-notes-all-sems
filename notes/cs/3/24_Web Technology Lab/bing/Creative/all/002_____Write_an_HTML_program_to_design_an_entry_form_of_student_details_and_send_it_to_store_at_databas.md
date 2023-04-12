@@ -74,3 +74,5 @@ Here is an example of an HTML program to design an entry form of student details
           <input type="radio" name="gender" value="Male" required>Male
           <input type="radio" name="gender" value="Female" required>Female
           <input type="radio" name
+
+```

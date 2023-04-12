@@ -110,3 +110,5 @@ x = 10 # Global variable
 
 def my_function():
     y = 20 # Local
+
+```

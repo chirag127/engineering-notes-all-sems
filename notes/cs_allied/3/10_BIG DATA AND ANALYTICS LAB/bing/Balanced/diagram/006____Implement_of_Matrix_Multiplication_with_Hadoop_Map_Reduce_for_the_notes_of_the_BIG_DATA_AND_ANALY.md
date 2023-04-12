@@ -29,3 +29,5 @@
 Mapper input: A and B
 
 Mapper output: ((1, 1), (
+
+```

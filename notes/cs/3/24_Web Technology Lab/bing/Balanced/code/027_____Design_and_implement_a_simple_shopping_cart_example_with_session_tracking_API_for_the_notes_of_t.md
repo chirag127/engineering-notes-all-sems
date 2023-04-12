@@ -100,3 +100,5 @@ public class CartServlet extends HttpServlet {
     if (items == null || items.isEmpty()) {
   %>
   <p>Your cart is empty.</p>
+
+```

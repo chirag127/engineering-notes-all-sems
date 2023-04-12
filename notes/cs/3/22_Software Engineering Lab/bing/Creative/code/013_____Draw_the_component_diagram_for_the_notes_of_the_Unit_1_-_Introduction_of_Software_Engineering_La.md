@@ -34,3 +34,5 @@ The component diagram for the notes of the Unit 1 - Introduction of Software Eng
 |                        |     |                        |     | <<interface>>          |     | <<interface>>          |
 | + overview()           |     | + processModels()      |     | + projectManagement()  |     | + requirementsAnalysis()|
 +------------------------
+
+```

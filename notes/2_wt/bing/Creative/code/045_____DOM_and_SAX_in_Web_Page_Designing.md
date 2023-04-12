@@ -105,3 +105,5 @@ public class SAXExample {
         public void characters(char[] ch, int start, int length) throws SAXException {
           // If the current element is title, author, or price, append the characters to the corresponding variable
           if (currentElement.equals("title"))
+
+```

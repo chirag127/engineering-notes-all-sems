@@ -75,3 +75,5 @@ A deployment configuration can be represented by a deployment diagram with speci
 | | <<artifact>> | |       | | <<artifact>> | |
 | | WebApp.jar   | |       | | Database.db  | |
 | +--------------+ |
+
+```

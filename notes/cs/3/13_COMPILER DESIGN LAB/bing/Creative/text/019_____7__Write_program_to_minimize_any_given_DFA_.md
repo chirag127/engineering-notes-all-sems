@@ -64,3 +64,5 @@ function minimize(DFA):
         B = map[q] # find the partition that the state is mapped to
         if B not in newP: # if the partition is not in the new set of partitions
           newP[B] = {q} #
+
+```

@@ -65,3 +65,5 @@ $dbname = "student_db";
 $conn = new mysqli($servername, $username, $password, $dbname);
 
 // Check connection
+
+```

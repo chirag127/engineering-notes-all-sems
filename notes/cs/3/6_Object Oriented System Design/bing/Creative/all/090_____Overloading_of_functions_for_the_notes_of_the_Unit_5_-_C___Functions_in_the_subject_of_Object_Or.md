@@ -123,3 +123,5 @@ class Vector {
 
     // An overloaded operator to compare two vectors
     bool
+
+```

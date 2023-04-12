@@ -43,3 +43,5 @@ A possible diagram to illustrate the different types of cohesion in software des
 |                 |                 |                 |                 |                 |                 |                 |
 |                 |                 |                 |                 |                 |                 |                 |
 |    Input    +---+---+    Output   |                 |
+
+```

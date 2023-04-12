@@ -75,3 +75,5 @@ MapReduce is a programming model and a framework for processing large-scale data
                         |                            |
                         +------+-----+-----+          |
                         |     |     |     |          |
+
+```

@@ -78,3 +78,5 @@ def follow(symbol):
                 positions = [i for i, x in enumerate(production) if x == symbol]
                 for i in positions:
                     # If the symbol is not the last in the
+
+```

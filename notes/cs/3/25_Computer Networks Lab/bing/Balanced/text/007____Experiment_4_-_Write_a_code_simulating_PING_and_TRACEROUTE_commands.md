@@ -69,3 +69,5 @@ def send_packet(sock, dest_addr, port, packet, timeout):
 def ping(dest_addr, count, interval, timeout, payload_size):
     # Create a raw socket for ICMP protocol
     sock = socket.socket
+
+```

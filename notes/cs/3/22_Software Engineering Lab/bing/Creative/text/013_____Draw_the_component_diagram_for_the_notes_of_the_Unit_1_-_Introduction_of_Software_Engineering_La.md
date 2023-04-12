@@ -48,3 +48,5 @@
 +-----------------+       +-----------------+
 | <<web service>> |       | <<web service>> |
 | Notes API       |       | Notes UI
+
+```

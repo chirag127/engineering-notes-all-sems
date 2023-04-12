@@ -169,3 +169,7 @@ books/icts/desktop.ini
 books/icts/Unconfirmed 264503.crdownload
 *.crdownload
 *.ini
+
+
+*.aux
+tex2pdf.*

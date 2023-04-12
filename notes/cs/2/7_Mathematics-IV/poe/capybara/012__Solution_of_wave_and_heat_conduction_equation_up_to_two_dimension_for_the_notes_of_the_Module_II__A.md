@@ -106,3 +106,5 @@ Putting everything together, we get the general solution to the heat conduction 
 
 ```
 u(x, y, t) = ΣₙΣₘ[Anm
+
+```

@@ -106,3 +106,5 @@ form.addEventListener("submit", function(event) {
   }
 
   // Check if the email input is valid
+
+```

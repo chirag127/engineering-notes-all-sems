@@ -72,3 +72,5 @@ void merge(int arr[], int low, int mid, int high)
 
 // Function to sort an array arr[low..high] using merge sort
 void merge_sort(int arr[], int low, int high
+
+```

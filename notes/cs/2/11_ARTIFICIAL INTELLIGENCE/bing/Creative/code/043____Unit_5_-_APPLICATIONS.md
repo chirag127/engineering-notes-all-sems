@@ -35,3 +35,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
 - Some examples of AI applications in business are:
   - Marketing: AI can help marketers and advertisers to target and reach potential customers, by analyzing and predicting customer behavior, preferences, and needs, using data mining and machine learning techniques, such as clustering, classification, and regression.
   - Sales: AI can help salespeople and retailers to increase sales and revenue, by recommending and pricing products and services, using data-driven and predictive models, such as recommender systems and dynamic pricing algorithms.
+
+```

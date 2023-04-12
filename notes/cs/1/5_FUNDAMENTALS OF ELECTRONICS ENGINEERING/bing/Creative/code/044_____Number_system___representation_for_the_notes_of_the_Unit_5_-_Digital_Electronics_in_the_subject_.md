@@ -63,3 +63,5 @@ B23 (hexadecimal) = B x 16^2 + 2 x 16^1 + 3 x 16^0
              = 101 100 100 011 (binary)
 
 B23 (hex
+
+```

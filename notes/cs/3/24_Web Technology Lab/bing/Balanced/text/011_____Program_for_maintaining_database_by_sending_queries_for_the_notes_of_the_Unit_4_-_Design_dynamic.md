@@ -106,3 +106,5 @@
   ```php
   // SQL query to insert a record into the students table
   $sql = "INSERT INTO students (
+
+```

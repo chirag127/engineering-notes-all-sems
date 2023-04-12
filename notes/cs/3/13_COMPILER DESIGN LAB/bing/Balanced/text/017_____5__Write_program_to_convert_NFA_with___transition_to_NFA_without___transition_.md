@@ -76,3 +76,5 @@ for key, value in new_transitions.items():
 The new NFA without epsilon transition is:
 States: {'q0', 'q1', 'q2', 'q3'}
 Alphabet
+
+```

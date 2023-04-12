@@ -100,3 +100,5 @@ ORDER BY salary * 12 ASC;
 SELECT first_name, last_name, salary
 FROM employees
 ORDER BY CASE WHEN first
+
+```

@@ -69,3 +69,5 @@ def hanoi(n, source, aux, target):
 hanoi(3, A, B, C) # move 3 disks from A to C, using B as an auxiliary
 hanoi(2, A, C, B) # move 2 disks from A to B, using C as an auxiliary
 hanoi(1, A, B, C) # move 1 disk from A to C, using B as an auxiliary
+
+```

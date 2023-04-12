@@ -64,3 +64,5 @@ from pyspark.sql.functions import window, count
 spark = SparkSession.builder.appName("StructuredStreaming").getOrCreate()
 # Read data from a Kafka source
 df = spark.readStream.format("kafka").option("kafka.bootstrap.servers", "host1:port1,host2:port2").option("subscribe
+
+```

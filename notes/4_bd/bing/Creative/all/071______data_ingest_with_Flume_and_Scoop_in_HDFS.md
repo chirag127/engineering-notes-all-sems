@@ -68,3 +68,5 @@
     agent.sinks.hdfs1.hdfs.path = hdfs://namenode:8020/flume/web1
     agent.sinks.hdfs1.hdfs.fileType = DataStream
     agent.sinks.hdfs1.h
+
+```

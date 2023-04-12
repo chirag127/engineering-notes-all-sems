@@ -74,3 +74,5 @@ while x < x2
     d = d + (dy - dx) // update the decision variable
   end if
   plot(x, y) // plot the next pixel
+
+```

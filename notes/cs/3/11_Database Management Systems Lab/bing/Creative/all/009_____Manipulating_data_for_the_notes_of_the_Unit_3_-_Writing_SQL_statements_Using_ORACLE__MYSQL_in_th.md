@@ -71,3 +71,5 @@ UPDATE table_name SET column1 = value1, column2 = value2, ... WHERE condition;
 
 ```sql
 UPDATE EMPLOYEES SET SALARY = 6500, DEPT_ID
+
+```

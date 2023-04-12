@@ -57,3 +57,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
   - BIT: A value that can be either 1 or 0, such as 1, 0, or null.
 
 - Boolean literals are written as the keyword TRUE, FALSE, or UNKNOWN, such as TRUE,
+
+```

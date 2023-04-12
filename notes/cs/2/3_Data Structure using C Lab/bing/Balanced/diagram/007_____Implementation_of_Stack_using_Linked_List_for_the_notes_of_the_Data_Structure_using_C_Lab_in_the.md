@@ -92,3 +92,5 @@ int pop(struct stack* s) {
   // update the top pointer to point to the next node in the list
   struct node* temp = s->top;
   s->top = s->top->next;
+
+```

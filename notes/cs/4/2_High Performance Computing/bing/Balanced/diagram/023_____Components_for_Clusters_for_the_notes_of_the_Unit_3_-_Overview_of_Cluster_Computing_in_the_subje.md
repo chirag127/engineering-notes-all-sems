@@ -86,3 +86,5 @@ The following diagram illustrates the components of a cluster and their relation
        |                       |                       |
        |                       |                       |
        |                       |
+
+```

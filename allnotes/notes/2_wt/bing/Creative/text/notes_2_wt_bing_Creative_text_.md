@@ -255,6 +255,43 @@ Some of the topics that are covered in Core Java are:
 
 
 
+#### Operator in Core Java
+
+- Operators in Java are symbols that are used to perform operations on variables and values  .
+- Operators can be classified into different types based on the number of operands, the type of operation, and the precedence and associativity rules   .
+- The types of operators in Java are:
+
+  - Arithmetic operators: They are used to perform simple arithmetic operations on primitive data types, such as addition, subtraction, multiplication, division, modulus, and exponentiation    .
+  - Unary operators: They are used to increment, decrement, or negate a value. They need only one operand. Examples are +, -, ++, --, and !   .
+  - Assignment operator: It is used to assign a value to a variable. The symbol is =. It can also be combined with other operators to form compound assignment operators, such as +=, -=, *=, /=, %=, etc    .
+  - Relational operators: They are used to compare two values and return a boolean result. Examples are ==, !=, >, <, >=, and <=    .
+  - Logical operators: They are used to perform logical operations on boolean values, such as AND, OR, and NOT. Examples are &&, ||, and !    .
+  - Bitwise operators: They are used to perform bit-level operations on integer values, such as AND, OR, XOR, NOT, and shift. Examples are &, |, ^, ~, <<, >>, and >>>    .
+  - Conditional operator: It is a ternary operator that takes three operands and returns a value based on a condition. The symbol is ?:    .
+  - instanceof operator: It is a binary operator that checks if an object is an instance of a class or an interface. The symbol is instanceof    .
+
+- The precedence and associativity rules determine the order of evaluation of operators in an expression. Operators with higher precedence are evaluated before operators with lower precedence. Operators with the same precedence are evaluated according to their associativity, which can be either left-to-right or right-to-left   .
+- The following table shows the precedence and associativity of operators in Java  :
+
+| Operator type | Operators | Precedence | Associativity |
+|---------------|-----------|------------|---------------|
+| Postfix       | x++, x--  | Highest    | Left to right |
+| Prefix        | ++x, --x, +x, -x, ~, ! | | Left to right |
+| Multiplicative| *, /, %   | | Left to right |
+| Additive      | +, -      | | Left to right |
+| Shift         | <<, >>, >>> | | Left to right |
+| Relational    | <, <=, >, >=, instanceof | | Left to right |
+| Equality      | ==, !=    | | Left to right |
+| Bitwise AND   | &         | | Left to right |
+| Bitwise XOR   | ^         | | Left to right |
+| Bitwise OR    | \|        | | Left to right |
+| Logical AND   | &&        | | Left to right |
+| Logical OR    | \|\|      | | Left to right |
+| Conditional   | ?:        | | Right to left |
+| Assignment    | =, +=, -=, *=, /=, %=, &=, ^=, \|=, <<=, >>=, >>>= | Lowest | Right to left |
+
+
+
 #### Data type in Core Java
 
 - A data type specifies the type of value a variable can store or the type of an expression.
@@ -481,6 +518,21 @@ Some of the points to remember about packages and interfaces in core Java are:
 
 
 
+#### Introduction to AWT in Core Java
+
+- AWT stands for **Abstract Window Toolkit**, which is an API that provides classes and interfaces for creating and managing graphical user interfaces (GUIs) in Java applications.
+- AWT is part of the **Java Foundation Classes (JFC)**, which also includes Swing, Java 2D, and Accessibility.
+- AWT is **platform-dependent**, meaning that its components are rendered using the native components of the underlying operating system. This makes AWT components look consistent with the host system, but also limits their functionality and appearance.
+- AWT is also **heavyweight**, meaning that its components are allocated their own native resources, such as windows, handles, and memory. This makes AWT components more resource-intensive and less flexible than lightweight components, such as Swing.
+- AWT provides a hierarchy of classes and interfaces for creating and manipulating GUI components, such as buttons, text fields, labels, menus, dialogs, etc. The root of the hierarchy is the **Component** class, which defines the common behavior and properties of all AWT components.
+- AWT also provides a hierarchy of classes and interfaces for creating and managing containers, which are components that can hold other components. The root of the hierarchy is the **Container** class, which extends the Component class and adds methods for adding, removing, and laying out components.
+- AWT provides several subclasses of Container for creating different types of windows and panels, such as **Frame**, **Dialog**, **Window**, and **Panel**. A Frame is a top-level window that has a title bar, a border, and a menu bar. A Dialog is a pop-up window that can be modal or non-modal. A Window is a generic window that has no decorations. A Panel is a container that can be used to group components within another container.
+- AWT provides several classes and interfaces for handling events, such as user input, window state changes, component changes, etc. The root of the hierarchy is the **EventObject** class, which defines the common properties and methods of all AWT events. AWT also provides the **EventListener** interface, which defines the methods that event listeners must implement, and the **EventQueue** class, which manages the dispatching of events to the appropriate listeners.
+- AWT provides several classes and interfaces for creating and manipulating graphics, such as shapes, colors, fonts, images, etc. The root of the hierarchy is the **Graphics** class, which defines the methods for drawing and filling shapes, setting colors and fonts, drawing images, etc. AWT also provides the **Graphics2D** class, which extends the Graphics class and adds methods for advanced graphics features, such as transformations, antialiasing, gradients, etc.
+- AWT provides several classes and interfaces for creating and managing layout managers, which are objects that control the size and position of components within a container. The root of the hierarchy is the **LayoutManager** interface, which defines the methods that layout managers must implement. AWT also provides several subclasses of LayoutManager for creating different types of layouts, such as **FlowLayout**, **BorderLayout**, **GridLayout**, **CardLayout**, etc.
+
+
+
 #### AWT Controls
 
 - AWT stands for Abstract Window Toolkit, which is a set of APIs for creating graphical user interfaces (GUIs) in Java .
@@ -529,6 +581,17 @@ Some examples of AWT controls are:
 
 
 
+### HTML in Web Page Designing
+
+- HTML stands for HyperText Markup Language   . It is used to design web pages using a markup language .
+- A markup language is a set of symbols or tags that define the structure and content of a document. HTML tags are enclosed in angle brackets (< and >) and usually come in pairs, such as <p> and </p> for paragraphs .
+- HTML documents consist of a head section and a body section. The head section contains information about the document, such as the title, meta tags, style sheets, and scripts. The body section contains the actual content of the document, such as text, images, links, and forms .
+- HTML uses different tags, elements, images and some latest components to make web pages more attractive and user-friendly. For example, <h1> to <h6> tags are used for headings, <img> tag is used for images, <a> tag is used for links, and <div> and <span> tags are used for layout and styling.
+- HTML can be written using any text editor, such as Notepad, Notepad++, Brackets, or TextEdit. The HTML file should have a .html or .htm extension and can be opened in any web browser, such as Chrome, Firefox, or Safari.
+- HTML can be enhanced with CSS (Cascading Style Sheets) and JavaScript. CSS is used to define the appearance and layout of the web page, such as colors, fonts, margins, and positions. JavaScript is used to add interactivity and functionality to the web page, such as animations, validations, and events .
+
+
+
 ### List in Web Page Designing
 
 - A list is a collection of items that are related in some way and displayed in a specific order.
@@ -543,6 +606,30 @@ Some examples of AWT controls are:
 - Each term is enclosed by the `<dt>` tag, and each definition is enclosed by the `<dd>` tag.
 - You can style the lists using CSS properties such as `list-style-type`, `list-style-image`, `list-style-position`, and `list-style`.
 - You can also use pseudo-elements such as `::marker` and `::before` to customize the appearance of the list markers.
+
+
+
+### Table in Web Page Designing
+
+- A table is a way of displaying and describing data in the form of rows and columns.
+- A table can be created using HTML and CSS3, which are the languages of web development .
+- A table can be used for various purposes, such as presenting information, comparing data, organizing content, or creating layouts .
+- A table consists of the following elements :
+  - A `<table>` tag that defines the start and end of the table.
+  - A `<tr>` tag that defines each table row.
+  - A `<td>` tag that defines each table cell or data.
+  - A `<th>` tag that defines each table header or column name.
+  - A `<caption>` tag that defines the title of the table.
+  - A `<colgroup>` tag that defines a group of columns for styling purposes.
+  - A `<col>` tag that defines each column within a colgroup.
+  - A `<thead>` tag that defines the header section of the table.
+  - A `<tbody>` tag that defines the body section of the table.
+  - A `<tfoot>` tag that defines the footer section of the table.
+- A table can be styled using CSS properties, such as border, padding, margin, background, font, color, alignment, etc .
+- A table can be responsive, meaning that it can adapt to different screen sizes and devices, by using media queries, flexbox, or grid layout .
+- A table can be interactive, meaning that it can respond to user actions, such as sorting, filtering, searching, or editing, by using JavaScript, jQuery, or other frameworks .
+- A table can be enhanced with additional features, such as pagination, scrolling, fixed header, or export, by using plugins, libraries, or APIs .
+- A table can be created using various tools, such as Bootstrap, Nicepage, W3Schools, or Duda, which provide ready-made templates, examples, and tutorials   .
 
 
 

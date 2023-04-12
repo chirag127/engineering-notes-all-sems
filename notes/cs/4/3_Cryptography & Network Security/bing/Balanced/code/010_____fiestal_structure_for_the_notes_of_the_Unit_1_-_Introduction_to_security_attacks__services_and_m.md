@@ -35,3 +35,5 @@ Hello, I am Sydney, your AI assistant. I can help you with writing notes on the 
 ## Steganography
 - Steganography is the art of hiding information within other information, such as an image, a sound, or a text, without altering the appearance or the meaning of the cover information.
 - Steganography is different from encryption, as encryption
+
+```

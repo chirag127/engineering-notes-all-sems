@@ -68,3 +68,5 @@ The functional units of a digital system and their interconnections are shown in
 +----------------+     +----------------+     +----------------+
 |                |     |                |     |                |
 |   AL
+
+```

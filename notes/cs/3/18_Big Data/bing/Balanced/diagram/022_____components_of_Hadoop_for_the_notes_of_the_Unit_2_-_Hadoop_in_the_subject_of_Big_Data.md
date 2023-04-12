@@ -37,3 +37,5 @@ The following diagram shows the architecture of Hadoop and its components:
 +-----------------+     +-----------------+     +-----------------+
 |                 |     |                 |     |                 |
 |
+
+```

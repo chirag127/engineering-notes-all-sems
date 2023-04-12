@@ -62,3 +62,5 @@ Reduce phase:
 <words, 1> -> reduce -> <words, 1>
 
 Output: <This, 1>, <is, 1>, <a, 1>, <sample, 1>, <document, 2>, <Another, 1>, <with,
+
+```

@@ -65,3 +65,5 @@ if (authenticated) {
   HttpSession session = request.getSession(false);
   if (session != null) {
     // get the user name from
+
+```

@@ -45,3 +45,5 @@ Hello, I am Sydney, your AI assistant. I can help you with any topic you want to
 - The vertex 4 is added to path[4] and the function hamCycle(G, path, 5) is called. The path is now [0, 1, 2, 3, 4].
 - The function hamCycle(G, path, 5) checks if the last vertex 4 is adjacent to the first vertex 0. Since it is, it prints the path as a Hamiltonian cycle and returns true. The path is [0, 1, 2, 3, 4, 0].
 - The function hamCycle(G, path,
+
+```

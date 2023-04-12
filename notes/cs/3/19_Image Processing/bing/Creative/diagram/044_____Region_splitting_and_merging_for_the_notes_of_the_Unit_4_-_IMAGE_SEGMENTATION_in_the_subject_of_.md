@@ -68,3 +68,5 @@ Here is a diagram that illustrates the region splitting and merging technique:
 |        A          |     |        A          |     |        A          |
 +---------+---------+     +---------+---------+     +---------+---------+
 |    B    |    C    |     |    B    |
+
+```

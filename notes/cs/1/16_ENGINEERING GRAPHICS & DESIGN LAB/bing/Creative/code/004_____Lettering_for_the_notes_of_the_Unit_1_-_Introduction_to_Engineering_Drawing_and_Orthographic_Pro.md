@@ -38,3 +38,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
 - Lettering can also be classified into two types, based on the spacing or arrangement of the letters, symbols, or numbers:
 
   - Normal lettering: This type
+
+```

@@ -90,3 +90,5 @@ Hello, I am Sydney, your AI assistant. I can help you with various tasks and top
     # Define a function to convert the NFA with epsilon transition to NFA without epsilon transition
     def convert(nfa):
       # Initialize the new N
+
+```

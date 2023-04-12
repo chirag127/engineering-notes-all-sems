@@ -68,3 +68,5 @@ Some of the examples of SQL queries from MySQL database are:
 - To insert four records into the `students` table:
 
   ```sql
+
+```

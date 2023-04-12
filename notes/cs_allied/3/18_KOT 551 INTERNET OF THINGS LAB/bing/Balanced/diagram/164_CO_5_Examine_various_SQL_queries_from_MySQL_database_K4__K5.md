@@ -64,3 +64,5 @@ INSERT INTO employees (id, name, department, salary) VALUES
 
 ```sql
 SELECT * FROM
+
+```

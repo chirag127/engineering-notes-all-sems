@@ -44,3 +44,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
   - Student: an entity that represents a student in the university. It has attributes such as ID, name, email, major, etc. The ID attribute is the primary key of the entity.
   - Course: an entity that represents a course offered by the university. It has attributes such as code, title, credits, etc. The code attribute is the primary key of the entity.
   - Teacher: an entity that represents a teacher in the university
+
+```

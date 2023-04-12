@@ -53,3 +53,5 @@ INR D ; Increment the contents of D by 1
 ; Example 4: Decrement the contents of register pair BC by 1 and store the result in register pair BC
 DCX B ; Decrement the contents of BC by 1
 ; The
+
+```

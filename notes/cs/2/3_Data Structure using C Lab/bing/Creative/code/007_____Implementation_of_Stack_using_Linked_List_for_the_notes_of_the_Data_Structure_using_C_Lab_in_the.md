@@ -99,3 +99,5 @@ void display() {
     // Traverse the list from head to tail and print the data values
     while (ptr != NULL) {
         printf("%d ",
+
+```

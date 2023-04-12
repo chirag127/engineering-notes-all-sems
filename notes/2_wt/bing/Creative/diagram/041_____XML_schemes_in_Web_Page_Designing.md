@@ -77,3 +77,5 @@ Here is an example of an ASCII diagram that illustrates the structure and conten
 |         </xs:element>     |                   |
 |       </xs:sequence>      |                   |
 |     </xs:complexType>     |                   |
+
+```

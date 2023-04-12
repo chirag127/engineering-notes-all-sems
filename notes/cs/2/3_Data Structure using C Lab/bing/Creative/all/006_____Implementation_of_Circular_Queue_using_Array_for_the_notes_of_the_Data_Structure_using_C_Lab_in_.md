@@ -77,3 +77,5 @@ void insert(int item)
         front = 0; // set front to 0
     if (rear == MAX - 1) // check if rear is at the end of the array
         rear = 0; // wrap around rear to 0
+
+```

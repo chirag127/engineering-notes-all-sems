@@ -58,3 +58,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
     - The uniform distribution, which has a kurtosis of 1.8, and is platykurtic.
     - The binomial distribution, which has a kurtosis that depends on the parameters, and can be platykurtic or leptokurtic.
     - The t-distribution, which has
+
+```

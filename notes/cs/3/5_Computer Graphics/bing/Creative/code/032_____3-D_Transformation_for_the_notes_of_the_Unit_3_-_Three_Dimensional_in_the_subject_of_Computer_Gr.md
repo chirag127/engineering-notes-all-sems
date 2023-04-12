@@ -79,3 +79,5 @@ Rotation around z-axis by angle θ:
 | cosθ -sinθ 0 0 |
 | sinθ  cosθ 0 0 |
 |  0
+
+```

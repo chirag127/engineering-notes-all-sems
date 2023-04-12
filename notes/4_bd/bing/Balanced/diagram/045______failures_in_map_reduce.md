@@ -60,3 +60,5 @@ Task failure: A task fails when it encounters a runtime exception, a bad record,
 Tasktracker failure: A tasktracker fails when it crashes, loses network connectivity, or becomes unresponsive. The jobtracker detects the failure by using a heartbeat mechanism. The jobtracker marks the tasktracker as failed and reassigns its tasks to other tasktrackers. The failed tasktracker is removed from the cluster until it recovers and rejoins.
 
 Jobtracker failure: A jobtracker fails when it crashes, loses network connectivity, or becomes unresponsive. The jobtracker is a single point of failure in map reduce, so its failure affects all the jobs in the cluster. The jobtracker does not have a backup or a recovery mechanism, so the jobs have to be resubmitted by the users or the clients. The jobtracker failure is a rare event, but it can cause significant disruption and data loss.
+
+```

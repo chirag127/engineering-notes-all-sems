@@ -43,3 +43,5 @@
 - The formula to calculate the address of an element of an n-D array A[i1][i2]...[in] in row major order is:
 
   - Address of A[i1][i2]...[in]
+
+```

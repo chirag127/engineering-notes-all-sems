@@ -78,3 +78,5 @@ if (status == OK) {
 SemaphoreHandle_t xSemaphore = NULL; // declare a semaphore handle
 xSemaphore = xSemaphoreCreateBinary(); // create a binary semaphore
 if (
+
+```

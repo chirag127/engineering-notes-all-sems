@@ -83,3 +83,5 @@ The following XSLT file (books.xsl) defines how to transform the XML document in
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:output method="html"/>
   <xsl:
+
+```

@@ -162,3 +162,5 @@ The following diagram shows a simplified example of a computer network with two 
                   |            |
                   |            |
                   |            |
+
+```

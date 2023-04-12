@@ -26,3 +26,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
   - **Rule 1**: An atomic formula P(t1, t2, ..., tn) is true if and only if the interpretation of P holds for the values of t1, t2, ..., tn assigned by the assignment. For example, P(a) is true if and only if a is even, Q(x, y) is true if and only if x is less than y, R(b, x, z) is true if and only if b + x = z.
   - **Rule 2**: A negation ¬A is true if and only if A is false. For example, ¬P(a) is true if and only if P(a) is false, i.e., a is not even.
   - **Rule 3**: A conjunction (A ∧ B) is true if and only if both A and B are true. A disjunction (A ∨ B) is true if and only if either A or B is true. An implication (A → B) is true if and
+
+```

@@ -135,3 +135,5 @@ Frank	13000	Finance	Auditing
 
   ```sql
   SELECT e.name, e.salary FROM employees e JOIN (SELECT dept, AVG(salary) AS avg_salary FROM employees
+
+```

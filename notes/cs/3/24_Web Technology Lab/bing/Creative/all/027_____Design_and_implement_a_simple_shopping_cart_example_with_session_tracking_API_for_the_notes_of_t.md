@@ -51,3 +51,5 @@
         return;
       }
       // Retrieve the cart identifier from the session attribute
+
+```

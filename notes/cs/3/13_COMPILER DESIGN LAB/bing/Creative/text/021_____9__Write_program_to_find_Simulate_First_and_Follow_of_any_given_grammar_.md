@@ -58,3 +58,5 @@ def follow(symbol, grammar, terminals, non_terminals, start_symbol):
     result = set() # Initialize an empty set to store the result
     for head in grammar: # For each head of a production
       for production in grammar[head]: # For each production
+
+```

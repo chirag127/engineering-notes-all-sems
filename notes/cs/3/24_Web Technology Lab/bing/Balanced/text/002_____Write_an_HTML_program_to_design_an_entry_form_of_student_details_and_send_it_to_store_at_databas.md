@@ -67,3 +67,5 @@ $hobbies = implode(",", $hobbies);
 
 // Prepare and execute the SQL query to insert the data
 $sql = "INSERT INTO student (fname, lname, email, phone, address, gender, course, dob, hobbies) VALUES ('$fname', '$lname', '$
+
+```

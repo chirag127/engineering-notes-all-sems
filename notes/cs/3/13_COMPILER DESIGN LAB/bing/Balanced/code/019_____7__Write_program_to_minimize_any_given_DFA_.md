@@ -78,3 +78,5 @@ while changed:
 equivalent = {state: state for state in dfa}
 
 # For each unmarked pair
+
+```

@@ -59,3 +59,5 @@ The task execution in map reduce is controlled by two types of entities: a job t
 +----------------+     +----------------+     +----------------+
 |                |     |                |     |                |
 |    Map task    |
+
+```

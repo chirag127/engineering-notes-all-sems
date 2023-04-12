@@ -49,3 +49,5 @@ Gather + Enrich + Stream + Manage + Acquire + Organize and Analyze = Internet of
 | Layer           |    | Layer           |    | Layer           |
 +-----------------+    +-----------------+    +-----------------+
 |
+
+```

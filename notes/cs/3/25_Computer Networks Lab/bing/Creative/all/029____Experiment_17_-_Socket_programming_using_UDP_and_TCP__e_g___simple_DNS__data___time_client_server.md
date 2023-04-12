@@ -72,3 +72,5 @@ server_address = ("127.0.0.1", 5000) # server IP and port
 client_socket.connect(server_address)
 # send a message to the server
 message = b
+
+```

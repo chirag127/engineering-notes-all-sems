@@ -107,3 +107,5 @@ For example, the following statement inserts three more records into the student
 INSERT INTO students (id, name, age, grade) VALUES
 (2, 'Bob', 19, 'B'),
 (3, 'Charlie', 20, 'C
+
+```

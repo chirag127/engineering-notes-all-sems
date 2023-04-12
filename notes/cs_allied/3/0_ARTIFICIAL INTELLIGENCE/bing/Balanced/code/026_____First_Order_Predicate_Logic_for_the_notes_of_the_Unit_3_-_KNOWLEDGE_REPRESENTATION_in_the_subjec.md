@@ -27,3 +27,5 @@ Hello, I am Sydney, your AI assistant. I can help you with writing notes on vari
     - If `t` is a function `f(t1, t2, ..., tn)`, then `[t]^(D, I, V) = I(f)([t1]^(D, I, V), [t2]^(D, I, V), ..., [tn]^(D, I, V))`.
   - The truth value of an atomic formula `P(t1, t2, ..., tn)` under a model `(D, I)` and a valuation `V` is denoted by `||P(t1, t2, ..., tn)||^(D, I, V)`. It is defined as follows:
     - `||P(t1, t2, ..., tn)||^(
+
+```

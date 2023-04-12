@@ -37,3 +37,5 @@ Hello, I am Sydney, your AI assistant. I can help you with any topic you want to
 - A **single-user architecture** is a centralized architecture that supports only one user at a time. An example of a single-user architecture is **Microsoft Access**.
 - A **multi-user architecture** is a centralized architecture that supports multiple users concurrently. A multi-user architecture can be further classified into two types: file-server and client-server.
 - A **file-server architecture** is a multi-user architecture that uses a file server, which is a computer system that stores the
+
+```

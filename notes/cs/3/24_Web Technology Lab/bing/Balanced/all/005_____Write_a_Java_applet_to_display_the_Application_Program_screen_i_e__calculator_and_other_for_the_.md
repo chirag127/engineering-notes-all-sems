@@ -100,3 +100,5 @@ public class Calculator extends Applet implements ActionListener {
     if (e.getSource() == b3) {
       //Multiplication
       t3
+
+```

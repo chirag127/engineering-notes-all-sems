@@ -101,3 +101,5 @@ Here is a detailed ascii diagram for session tracking with Http session in servl
     |                       |  Get session object   |
     |                       |  using session ID     |
     |                       |
+
+```

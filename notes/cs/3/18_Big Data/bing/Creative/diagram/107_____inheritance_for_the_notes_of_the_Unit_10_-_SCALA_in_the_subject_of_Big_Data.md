@@ -113,3 +113,5 @@ trait Runnable {
 // A class that inherits from multiple traits
 class Duck extends Bird with Swimmable with Runnable {
   override def swim(): Unit = println("
+
+```

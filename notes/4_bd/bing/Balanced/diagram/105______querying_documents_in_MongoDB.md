@@ -66,3 +66,5 @@ db.stores.find({location: {$near: {$geometry: {type: "Point", coordinates: [40.7
 ```javascript
 db.books.aggregate([
   {$group: {_id: "$genre", avg_rating: {$avg: "$rating"}, count:
+
+```

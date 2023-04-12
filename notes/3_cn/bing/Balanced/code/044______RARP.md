@@ -75,3 +75,5 @@ void recv_rarp_reply(int sockfd, struct rarp_packet *packet) {
     memset(&reply, 0, sizeof(reply)); // Initialize RARP reply packet
     memset(&addr, 0, sizeof(addr)); // Initialize socket address structure
     if (recvfrom(sockfd, &reply, sizeof(struct rarp_packet), 0, (struct sockaddr *)&addr, &add
+
+```

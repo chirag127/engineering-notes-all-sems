@@ -87,3 +87,5 @@ Some important types of matrices are:
 ```
 | 1  0  0 |    | 1  2  3 |
 | 2
+
+```

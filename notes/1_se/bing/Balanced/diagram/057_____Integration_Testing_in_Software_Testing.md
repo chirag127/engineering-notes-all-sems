@@ -363,3 +363,5 @@ A diagram for integration testing in software testing can be drawn as follows:
                                   |
                                   |
                                   |
+
+```

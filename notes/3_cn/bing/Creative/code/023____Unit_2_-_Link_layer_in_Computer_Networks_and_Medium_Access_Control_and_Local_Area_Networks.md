@@ -54,3 +54,5 @@ for t in range(T):
       if nodes[i] == 2: # Collided node
         backoff[i] = random.randint(1, 4) # Node chooses a random backoff time
         nodes[i] = 3 # Node becomes backoff
+
+```

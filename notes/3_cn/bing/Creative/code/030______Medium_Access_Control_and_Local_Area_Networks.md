@@ -74,3 +74,5 @@ class Node:
 # Define a class for an event in the simulation
 class Event:
     def __init__(self, node_id, action, time, packet):
+
+```

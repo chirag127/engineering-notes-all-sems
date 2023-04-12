@@ -116,3 +116,5 @@ Here is an example of a DFD for a student registration system:
        |                               |                    |
        |                               |                    |
        |                               |
+
+```

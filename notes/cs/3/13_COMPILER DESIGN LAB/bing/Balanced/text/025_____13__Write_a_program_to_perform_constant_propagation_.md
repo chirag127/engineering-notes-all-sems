@@ -102,3 +102,5 @@ print(constant_propagation(statements))
 
 ```python
 ['a = 10',
+
+```

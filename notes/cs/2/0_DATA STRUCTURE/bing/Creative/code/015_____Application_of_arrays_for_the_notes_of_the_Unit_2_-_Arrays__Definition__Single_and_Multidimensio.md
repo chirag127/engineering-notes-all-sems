@@ -20,3 +20,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material f
 - Singly linked lists are also called linear linked lists. They have only one pointer in each node, which points to the next node in the list. The first node of the list is called the head, and the last node is called the tail. The tail node points to null, indicating the end of the list.
 - Doubly linked lists are also called bidirectional linked lists. They have two pointers in each node, one pointing to the next node and one pointing to the previous node in the list. The first and last nodes of the list are called the head and tail, respectively. The head node has its previous pointer pointing to null, and the tail node has its next pointer pointing to null, indicating the boundaries of the list.
 - Circularly linked lists are also called circular linked lists. They have one or two pointers in each node, depending on whether they are singly or doubly
+
+```

@@ -82,3 +82,5 @@ optimizer = optim.SGD(model.parameters(), lr=0.01, momentum=0.9)
 # Train the model for one epoch
 for epoch in range(epochs):
     running_loss = 0.
+
+```

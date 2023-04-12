@@ -348,3 +348,5 @@ The following diagram shows the basic architecture of HDFS:
                            |
                            |
                            |
+
+```

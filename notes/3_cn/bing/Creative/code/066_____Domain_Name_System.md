@@ -77,3 +77,5 @@ RA = (response[3] & 0b10000000) >> 7 # A 1-bit flag indicating recursion availab
 Z = (response[3] & 0b01110000) >> 4 # A 3-bit reserved field
 RCODE = response[3] & 0b00001111 # A 4-bit field indicating the response code
 Q
+
+```

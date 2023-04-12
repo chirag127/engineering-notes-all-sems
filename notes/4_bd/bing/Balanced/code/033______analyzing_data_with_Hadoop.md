@@ -95,3 +95,5 @@ hadoop fs -put input.txt /user/hadoop/input.txt
 
 # Run the program using the jar file and the input and output paths
 hadoop jar wc.jar WordCount /user/hadoop
+
+```

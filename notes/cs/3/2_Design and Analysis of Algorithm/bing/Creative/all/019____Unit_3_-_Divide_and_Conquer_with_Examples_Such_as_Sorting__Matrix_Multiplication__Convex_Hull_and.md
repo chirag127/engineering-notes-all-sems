@@ -86,3 +86,5 @@
       # Sort the left and right halves recursively
       merge_sort(array, low, mid)
       merge_sort(array, mid + 1
+
+```

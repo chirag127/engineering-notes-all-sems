@@ -50,3 +50,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
 - Some examples of social-semantic applications and their features are:
   - DBpedia: a social-semantic application that extracts structured data from Wikipedia and provides a query interface and a linked data service for the data
     - Data sources: Wikipedia articles
+
+```

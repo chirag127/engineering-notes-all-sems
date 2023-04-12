@@ -59,3 +59,5 @@ A possible diagram for Big Data applications is:
 | - Supply chains |     | - Time series   |     | - Waste reduction|
 |                 |     |   analysis      |     | - Energy saving |
 |                 |     | - Forecast
+
+```

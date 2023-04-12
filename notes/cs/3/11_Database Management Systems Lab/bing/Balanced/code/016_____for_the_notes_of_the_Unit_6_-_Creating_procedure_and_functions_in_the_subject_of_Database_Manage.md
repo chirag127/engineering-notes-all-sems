@@ -82,3 +82,5 @@
     ```sql
     -- Create a function that returns the total sales for a given product
     CREATE
+
+```

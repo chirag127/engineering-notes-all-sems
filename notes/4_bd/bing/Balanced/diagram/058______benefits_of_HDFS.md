@@ -150,3 +150,5 @@ Here is a diagram that illustrates the benefits of HDFS:
                            |
                            |
                            |
+
+```

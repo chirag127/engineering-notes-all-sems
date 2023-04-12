@@ -85,3 +85,5 @@ https://indianrailapi.com/api/v2/TrainBetweenStation/apikey/xxxxxxxxxx/From/NDLS
         {
           "code": "WED",
           "runs": "Y"
+
+```

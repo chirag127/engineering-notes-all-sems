@@ -92,3 +92,5 @@ The following diagram illustrates the execution modes and mechanisms of Pig:
 |  Embedded Mode  |     |  Embedded Mode  |
 |  (Java)         |     |  (Java)         |
 |
+
+```

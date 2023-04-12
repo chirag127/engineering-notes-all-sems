@@ -92,3 +92,5 @@ Some examples of curve tracing are:
   |                                                                     \
   |                                                                      \
   |
+
+```

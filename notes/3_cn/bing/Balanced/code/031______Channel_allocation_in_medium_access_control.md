@@ -74,3 +74,5 @@ def backoff():
   NB += 1 # Increment the number of backoff attempts
   if NB > BACKOFF_LIMIT: # Check if the backoff limit is reached
     print(f"Node {NODE_ID} has
+
+```

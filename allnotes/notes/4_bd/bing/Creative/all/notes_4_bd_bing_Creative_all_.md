@@ -4014,7 +4014,17 @@ Some of the challenges of using HBase are:
 
 
 
+#### HBase concepts
 
+HBase is a type of NoSQL database that runs on top of the Hadoop Distributed File System (HDFS). It is a column-oriented database that provides fast and scalable access to large amounts of structured and semi-structured data. Some of the core concepts of HBase are:
+
+- **Table**: A table is a collection of rows that are organized into column families. A table has a name and a schema that defines the column families. A table can have one or more column families, but each column family must have a unique name within the table.
+- **Row**: A row is a unit of data that has a unique identifier called a row key. A row key is a byte array that can be any length up to 64 KB. A row can have one or more columns, but each column must belong to a column family. A row is stored in a region server based on its row key.
+- **Column**: A column is a pair of a column qualifier and a value. A column qualifier is a byte array that can be any length up to 64 KB. A value is also a byte array that can be any length up to 10 MB. A column can have one or more versions, but each version must have a unique timestamp. A column is identified by its column family, column qualifier, and timestamp.
+- **Column family**: A column family is a group of columns that share some common characteristics, such as compression, encoding, and versioning. A column family has a name and a configuration that defines these characteristics. A column family can have unlimited columns, but each column must have a unique column qualifier within the column family.
+- **Region**: A region is a contiguous range of rows that are stored together on a region server. A region is the basic unit of load balancing and horizontal scalability in HBase. A region can have one or more column families, but each column family must be the same as the table schema. A region is identified by its start and end row keys.
+- **Region server**: A region server is a process that runs on a node in the Hadoop cluster and serves one or more regions. A region server is responsible for storing, retrieving, and updating data in the regions. A region server also communicates with the HBase master and other region servers for coordination and replication.
+- **HBase master**: The HBase master is a process that runs on a node in the Hadoop cluster and manages the cluster metadata and operations. The HBase master is responsible for assigning regions to region servers, monitoring region server status, splitting and merging regions, and handling failover and recovery. The HBase master also communicates with the ZooKeeper ensemble and the HDFS NameNode for coordination and persistence.
 
 
 
@@ -4094,11 +4104,30 @@ Some of the advanced usage of HBase are:
 
 
 
+#### Schema design in HBase
+
+- HBase is a NoSQL database that stores data in a tabular format, where each row has a unique key and each column belongs to a column family.
+- HBase does not support joins, normalization, or secondary indexes, but it provides fast and scalable access to large amounts of data by using the row key as the primary index.
+- HBase schema design requires careful consideration of the data model, access patterns, and performance requirements. Some general principles are  :
+  - Choose a row key that is unique, descriptive, and sortable. The row key determines the physical order of the data on disk and in memory, and affects the query performance and data locality. Avoid using sequential or random row keys, as they can cause hotspots and skew the data distribution. Use composite or hashed row keys to achieve better load balancing and range scans.
+  - Denormalize the data and use nested entities to store related information in the same row. This reduces the number of queries and network round trips, and improves data consistency and availability. Nested entities are columns whose name is a unique identifier for the nested entity and whose value is the entire record mashed together. HBase allows dynamic column definition, so there is no problem with having variable number of columns per row.
+  - Use column families to group related columns together. Column families are the unit of storage and I/O in HBase, and they affect the compression, caching, and compaction of the data. Each column family is stored in a separate file, so avoid having too many or too few column families per table. As a rule of thumb, use two or three column families per table, and put frequently accessed or co-accessed columns in the same column family.
+  - Use filters to optimize read performance and reduce data transfer. Filters are predicates that are applied on the server side to filter out unwanted rows or columns based on various criteria, such as value, prefix, range, or regular expression. Filters can improve the query efficiency and latency by reducing the amount of data that needs to be scanned and returned to the client.
+  - Use compression, bloom filters, and block cache to improve storage efficiency and query performance. Compression reduces the disk space and network bandwidth required to store and transfer the data, and can also improve the scan speed by reducing the number of disk seeks. Bloom filters are probabilistic data structures that can quickly determine whether a row or column exists in a file, and can reduce the number of disk reads by avoiding unnecessary file accesses. Block cache is an in-memory cache that stores frequently accessed data blocks, and can improve the read performance by avoiding disk I/O.
 
 
 
+#### Advanced Indexing in HBase
 
-
+- HBase is a column-oriented NoSQL database that runs on top of Hadoop Distributed File System (HDFS).
+- HBase supports rowkey (primary key) indexing, which allows sorting rows based on the binary order of rowkeys. 
+- Rowkey indexing enables efficient access to records by the primary row key, but not by other attributes or columns. 
+- Secondary indexing is a technique to create additional indexes on other columns or attributes, which can improve the performance of queries that filter or join by those columns. 
+- Secondary indexing in HBase is not built-in, but can be implemented using different approaches, such as:
+  - Creating and maintaining a separate table as the index, which maps the secondary column values to the primary row keys. This requires manual or periodic updates to keep the index consistent with the main table. 
+  - Using coprocessors, which are user-defined code that run on the HBase server side, to intercept and handle the data manipulation operations on the main table and update the index table accordingly. This can achieve near-real-time indexing, but requires custom coding and deployment. 
+  - Using external tools or frameworks, such as Apache Phoenix, Lily HBase Indexer, or Pinterest HBase Indexer, which provide scalable and automated solutions for secondary indexing on HBase. These tools leverage different technologies, such as SQL, Solr, or Kafka, to create and query the secondary indexes.   
+- Secondary indexing in HBase can improve the query performance, but also introduces additional complexity and overhead. Therefore, it should be used with careful design and evaluation.
 
 
 

@@ -92,3 +92,5 @@ public class WordCountReducer extends Reducer<Text, IntWritable, Text, IntWritab
   public void reduce(Text key, Iterable<IntWritable> values, Context context) throws IOException, InterruptedException {
     // Sum up the counts for each word
     int sum = 0;
+
+```

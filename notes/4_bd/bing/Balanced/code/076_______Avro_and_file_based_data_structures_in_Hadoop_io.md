@@ -69,3 +69,5 @@ public static class AvroMapper extends Mapper<AvroKey<Schema>, NullWritable, Avr
 // The reducer takes an AvroKey and an Iterable of AvroValues as input and emits an AvroKey and a NullWritable as output
 // The input and output schemas are specified as type parameters
 public static class
+
+```

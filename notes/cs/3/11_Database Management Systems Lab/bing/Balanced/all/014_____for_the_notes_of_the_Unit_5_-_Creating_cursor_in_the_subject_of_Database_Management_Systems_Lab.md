@@ -150,3 +150,5 @@ CLOSE cursor_name;
 
   -- Open the cursor
   OPEN
+
+```

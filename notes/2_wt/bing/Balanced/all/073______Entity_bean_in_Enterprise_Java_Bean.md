@@ -61,3 +61,5 @@ A possible ascii diagram for the entity bean is:
           |                       |
           |                       |
           |
+
+```

@@ -104,3 +104,5 @@ DROP TABLE departments;
 
 ```sql
 SELECT e.first
+
+```

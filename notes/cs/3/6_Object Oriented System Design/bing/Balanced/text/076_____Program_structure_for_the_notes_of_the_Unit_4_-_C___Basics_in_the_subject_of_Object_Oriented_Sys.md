@@ -98,3 +98,5 @@ int factorial(int n)
   // recursive case
   else
     return n
+
+```

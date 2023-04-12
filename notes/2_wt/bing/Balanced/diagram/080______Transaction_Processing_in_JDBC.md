@@ -76,3 +76,5 @@ The following diagram shows an example of transaction processing in JDBC using l
        |  OK                 |                      |
        |<------------------- |                      |
        |
+
+```

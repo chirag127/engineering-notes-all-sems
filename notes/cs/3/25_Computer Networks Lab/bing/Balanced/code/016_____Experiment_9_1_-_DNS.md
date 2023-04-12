@@ -73,3 +73,5 @@ The following diagram illustrates the DNS resolution process:
       |                        |                        |
 +----------------+        +----------------+        +----------------+
 | User's browser |        | Recursive      |
+
+```

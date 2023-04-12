@@ -226,3 +226,5 @@ The following diagram shows a possible design of an 8-bit input/output system wi
                                                                            |
                                                                            |
                                                                            |
+
+```

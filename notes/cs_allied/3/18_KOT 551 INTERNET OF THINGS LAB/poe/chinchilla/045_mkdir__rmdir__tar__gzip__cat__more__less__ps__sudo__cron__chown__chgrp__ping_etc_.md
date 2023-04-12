@@ -130,3 +130,5 @@ Here, the `-R` option is used to change the group ownership of a directory and i
 
 ```
 ping IP_address
+
+```

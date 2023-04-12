@@ -101,3 +101,5 @@ public class CalculatorApplet extends Applet implements ActionListener {
   }
 
   // Override the actionPerformed() method to handle the button clicks and
+
+```

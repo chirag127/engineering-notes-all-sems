@@ -71,3 +71,5 @@ The following diagram illustrates the TCP/IP server sockets in networking:
        |<------------------------------|
        |                               |
        | ACK (6000 -> 80)
+
+```

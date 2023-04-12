@@ -65,3 +65,5 @@
         ```
         p = -(30 - 20) = -10 for the left edge
         q =
+
+```

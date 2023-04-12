@@ -117,3 +117,5 @@ switch (grade) {
     break;
   case 'C':
     System.out.println("Average");
+
+```

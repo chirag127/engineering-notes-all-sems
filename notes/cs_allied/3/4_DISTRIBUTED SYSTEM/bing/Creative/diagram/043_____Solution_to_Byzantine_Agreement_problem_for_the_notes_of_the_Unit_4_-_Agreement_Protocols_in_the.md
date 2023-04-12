@@ -49,3 +49,5 @@ sequenceDiagram
     Note right of S: Round 2: S = 1, A = 1, B = 1, C = 0
     Note right of S: Final decision: S = 1, A = 1, B = 1, C = 0
 ``
+
+```

@@ -49,3 +49,5 @@ The following diagram shows a simplified example of a URL connection in networki
 | | object      | |       | | object      | |       | | data       | |
 | +-------------+ |       | +-------------+ |       | +-------------+ |
 |       |         |
+
+```

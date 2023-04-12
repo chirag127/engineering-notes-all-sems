@@ -71,3 +71,5 @@ Here are some examples of isometric projections of simple and combination of sol
 - Isometric projection of a cone:
 
 ```markdown
+
+```

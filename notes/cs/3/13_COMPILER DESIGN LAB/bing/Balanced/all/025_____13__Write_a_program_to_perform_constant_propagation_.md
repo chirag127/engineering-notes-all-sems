@@ -70,3 +70,5 @@ def propagate_constants(node, const_map):
                 node.value = node.children[0].value > node.children[1].value
             elif node.type == "le":
                 node
+
+```

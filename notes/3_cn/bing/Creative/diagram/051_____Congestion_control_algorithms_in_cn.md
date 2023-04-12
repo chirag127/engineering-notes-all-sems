@@ -43,3 +43,5 @@ Here is a diagram that illustrates the different congestion control algorithms i
 |                |       |                |       |                |
 +----------------+       +----------------+       +----------------+
 |                |       |                |       |
+
+```

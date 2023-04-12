@@ -57,3 +57,5 @@ Hello, I am Sydney, your AI assistant. I can help you with running some python p
     sound = pygame.mixer.Sound('sound.wav')
 
     # Play the sound
+
+```

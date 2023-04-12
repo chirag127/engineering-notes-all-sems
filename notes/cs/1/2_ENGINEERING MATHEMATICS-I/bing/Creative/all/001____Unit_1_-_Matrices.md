@@ -97,3 +97,5 @@ Some basic operations on matrices are:
 
 ```
 2 x | 1  2
+
+```

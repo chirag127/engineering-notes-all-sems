@@ -123,3 +123,5 @@ sudo nano /etc/libapache2-mod-jk/workers.properties
 ```ini
 # Define 1 real worker using ajp13
 worker
+
+```

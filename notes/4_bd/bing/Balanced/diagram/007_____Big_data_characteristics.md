@@ -53,3 +53,5 @@ Veracity: the quality and reliability of big data in terms of accuracy, consiste
 |                 |                 |                 |                 |                 |
 |     Text,       |   Fast and      |   Decision      |   Validation,   |
 |     images,     |   efficient     |   making,       |   cleaning,
+
+```

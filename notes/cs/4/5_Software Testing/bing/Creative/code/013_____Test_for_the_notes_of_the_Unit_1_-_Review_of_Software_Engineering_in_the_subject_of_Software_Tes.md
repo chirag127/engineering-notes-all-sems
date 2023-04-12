@@ -30,3 +30,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material f
   - Agile model: This model follows a collaborative and adaptive approach, where the software system is developed and delivered in short and frequent iterations, and each iteration involves close communication and feedback among the stakeholders, and the use of agile principles and practices such as user stories, test-driven development, pair programming, refactoring, and continuous integration and delivery. This model is agile, dynamic, and customer-oriented, and it delivers high-quality and valuable software system, but it requires high-level of collaboration, trust, and discipline, and it may not be suitable for large, complex, or regulated projects.
 - The key principles of software engineering are:
   - Abstraction: This principle involves hiding the unnecessary details and complexity of a software system, and focusing on
+
+```

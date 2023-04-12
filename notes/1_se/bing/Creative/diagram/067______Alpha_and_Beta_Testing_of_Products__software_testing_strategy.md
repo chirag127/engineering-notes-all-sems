@@ -43,3 +43,5 @@ A possible diagram for Alpha and Beta Testing of Products software testing strat
 |  1-2 weeks      |        |  1-2 weeks      |        |  2-4 weeks      |
 |  per cycle      |        |  per cycle      |        |  per cycle      |
 |                 |        |                 |
+
+```

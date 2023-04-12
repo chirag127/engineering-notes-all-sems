@@ -66,3 +66,5 @@ public class DatabaseConnection {
       // Close the result set, statement and connection objects
       try {
         if (rs != null)
+
+```

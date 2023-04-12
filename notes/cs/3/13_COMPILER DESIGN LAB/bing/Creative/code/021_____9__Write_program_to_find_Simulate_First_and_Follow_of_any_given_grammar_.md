@@ -87,3 +87,5 @@ class Grammar:
       changed = False
       # For each production X -> Y1 Y2 ... Yn
       for lhs, rhs
+
+```

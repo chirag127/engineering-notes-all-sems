@@ -235,3 +235,5 @@ Here is an example of a design structure chart for a software system that calcul
 |                   |
 |                   |
 +----------------
+
+```

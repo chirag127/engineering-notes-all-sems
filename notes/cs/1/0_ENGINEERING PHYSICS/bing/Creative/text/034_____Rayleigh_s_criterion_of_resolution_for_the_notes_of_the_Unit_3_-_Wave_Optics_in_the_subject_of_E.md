@@ -176,3 +176,5 @@ Figure 1: Rayleigh's criterion for two point sources with a rectangular aperture
   |<-- 14 -->|
 
   |<--
+
+```

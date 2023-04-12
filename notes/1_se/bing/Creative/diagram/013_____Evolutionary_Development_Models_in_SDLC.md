@@ -45,3 +45,5 @@ The following diagram shows a simplified representation of the evolutionary deve
 +-----------------+    +-----------------+    +-----------------+    +-----------------+
 |                 |    |                 |    |                 |    |                 |
 |  Final product +<----+ Final product  +<----+ Final product  +<----+
+
+```

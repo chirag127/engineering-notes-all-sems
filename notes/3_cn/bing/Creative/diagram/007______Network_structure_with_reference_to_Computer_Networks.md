@@ -267,3 +267,5 @@ A possible ASCII diagram for the network structure with reference to computer ne
                             |
                             |
                             |
+
+```

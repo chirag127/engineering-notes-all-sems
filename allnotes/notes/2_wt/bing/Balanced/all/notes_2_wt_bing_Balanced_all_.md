@@ -895,6 +895,23 @@ class EventDemo {
 
 
 
+#### Introduction to AWT in Core Java
+
+- AWT stands for Abstract Window Toolkit, which is an API that provides classes and interfaces for creating graphical user interfaces (GUIs) and drawing graphics and images in Java .
+- AWT is part of the Java Foundation Classes (JFC), which also includes Swing, Java 2D, and Accessibility.
+- AWT components are platform-dependent, meaning that they are displayed according to the native look and feel of the operating system .
+- AWT components are also heavyweight, meaning that they use the resources of the operating system, such as windows, fonts, and colors .
+- AWT provides a hierarchy of classes and interfaces for creating and managing GUI components, such as buttons, text fields, labels, menus, dialogs, frames, etc .
+- The root class of the AWT hierarchy is the Component class, which represents any GUI element that can be displayed on the screen and that can interact with the user .
+- The Component class has two subclasses: Container and MenuComponent. A Container is a component that can contain other components, such as a Panel, a Window, or a Frame. A MenuComponent is a component that is part of a menu, such as a MenuItem, a Menu, or a MenuBar .
+- A Window is a container that has no borders and no title bar. It is not visible until it is packed or resized. A Frame is a window that has a title bar, a border, and an optional menu bar. It is the most commonly used top-level container for an AWT application .
+- A Panel is a container that can be used to group other components. It has no title bar, border, or menu bar. It can be added to another container, such as a Frame or a Window .
+- AWT also provides classes and interfaces for handling events, such as mouse clicks, keyboard inputs, window closing, etc. The main interface for handling events is the EventListener interface, which has several subinterfaces for different types of events, such as ActionListener, MouseListener, WindowListener, etc .
+- AWT also provides classes and interfaces for drawing graphics and images, such as shapes, colors, fonts, etc. The main class for drawing graphics is the Graphics class, which provides methods for drawing lines, rectangles, ovals, polygons, text, etc. The Graphics class also has a subclass called Graphics2D, which provides more advanced features, such as transformations, gradients, strokes, etc .
+- AWT also provides classes and interfaces for managing images, such as loading, displaying, and manipulating images. The main class for representing images is the Image class, which has several subclasses, such as BufferedImage, VolatileImage, etc. The Image class also has an interface called ImageObserver, which is used to monitor the status of an image .
+
+
+
 #### AWT controls
 
 - AWT stands for Abstract Window Toolkit, which is a package in Java that provides graphical user interface (GUI) components such as buttons, labels, text fields, menus, etc.
@@ -949,6 +966,22 @@ class EventDemo {
 - Web development is the functional and interactive aspect of a web page, such as navigation, user input, data processing, etc. Web development is usually done using tools like PHP, Python, Ruby, etc.
 - Web page designing follows some principles and guidelines, such as usability, accessibility, responsiveness, consistency, etc.
 - Web page designing also requires some skills and knowledge, such as creativity, communication, problem-solving, etc.
+
+
+
+# HTML in Web Page Designing
+
+- HTML stands for HyperText Markup Language. It is used to design web pages using a markup language.
+- A markup language is a set of symbols or tags that define the structure and content of a document. HTML tags are enclosed in angle brackets (< and >) and usually come in pairs, such as <p> and </p> for paragraphs.
+- HTML tags can contain text, images, links, forms, tables, lists, and other elements that make up a web page. HTML tags can also have attributes that provide additional information or modify the appearance or behavior of the elements.
+- HTML documents have a basic structure that consists of a declaration, a head, and a body. The declaration specifies the version of HTML used, the head contains metadata such as the title and style sheets, and the body contains the actual content of the web page.
+- HTML documents are saved with a .html or .htm extension and can be viewed in a web browser. A web browser is a software application that interprets HTML code and renders it as a web page on the screen.
+- HTML is often used in conjunction with CSS (Cascading Style Sheets) and JavaScript to create dynamic and interactive web pages. CSS is a language that defines the presentation or layout of HTML elements, such as colors, fonts, margins, and positioning. JavaScript is a scripting language that adds functionality or interactivity to HTML elements, such as animations, validations, and events.
+- HTML is one of the most popular languages to design web pages and their content. HTML uses different tags, elements, images and some latest components to make web pages more attractive and user-friendly.
+- Designing web pages by using HTML is one of the simplest concepts. There are some scenarios that define how to design a web page in HTML. They are as follows:
+  - Editor: In this scenario, we are going to write some HTML code by using the editor. There are various editors available nowadays like notepad++, brackets, TextEdit, etc. We can write HTML code in any text editor and save it with a .html or .htm extension. Then we can open the file in a web browser and see the output.
+  - Online: In this scenario, we are going to use some online tools or platforms that allow us to write and run HTML code in the browser. For example, we can use W3Schools, CodePen, JSFiddle, etc. These tools provide us with an editor, a preview, and some options to modify the code and see the changes instantly.
+  - Template: In this scenario, we are going to use some pre-designed templates or themes that are available online or offline. These templates or themes provide us with a ready-made web page that we can customize according to our needs. We can download or import the template or theme and edit the HTML code in an editor or online tool. Then we can save the file and view it in a web browser.
 
 
 

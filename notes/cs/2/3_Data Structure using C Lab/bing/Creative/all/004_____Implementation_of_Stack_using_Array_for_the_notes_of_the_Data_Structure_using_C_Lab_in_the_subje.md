@@ -106,3 +106,5 @@ void display()
 }
 
 // Main function to test the stack implementation
+
+```

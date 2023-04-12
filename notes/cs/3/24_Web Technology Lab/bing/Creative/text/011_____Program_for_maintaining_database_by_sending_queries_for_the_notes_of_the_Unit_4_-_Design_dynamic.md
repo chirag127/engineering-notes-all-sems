@@ -86,3 +86,5 @@ if ($conn->connect_error) {
 $sql = "SELECT * FROM table_name";
 //Execute the query and store the results in the resultset object
 $result = $conn
+
+```

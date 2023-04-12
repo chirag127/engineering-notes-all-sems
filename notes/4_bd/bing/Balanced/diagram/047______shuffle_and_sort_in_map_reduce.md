@@ -122,3 +122,5 @@ Shuffle and sort is a phase in MapReduce that transfers the map outputs to the r
        |                     |                     |
        |                     |                     |
        |
+
+```

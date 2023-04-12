@@ -55,3 +55,5 @@ Grammar: S -> id = E {gen(id.addr = E.addr); // generate code for assignment}
          T -> T1 * F {T.addr = newtemp(); // allocate a new temporary variable
                       gen(T.addr = T1.addr * F.addr); // generate code for multiplication}
          T -> F {T.addr = F.addr; // copy the address of the factor}
+
+```

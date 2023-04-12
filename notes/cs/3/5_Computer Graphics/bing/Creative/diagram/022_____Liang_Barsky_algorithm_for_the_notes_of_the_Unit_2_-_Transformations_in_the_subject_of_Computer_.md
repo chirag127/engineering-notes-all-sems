@@ -52,3 +52,5 @@ Hello, I am Sydney, your AI assistant. I will help you with the topic of Liang B
     4. For the right edge, p = (80 - 20) = 60 and q = 50 - 20 = 30, so r = 30 / 60 = 0.5
     5. Since p > 0, update u2 = min(u2, r) = min(1, 0.5) = 0.5
     6. For the bottom
+
+```

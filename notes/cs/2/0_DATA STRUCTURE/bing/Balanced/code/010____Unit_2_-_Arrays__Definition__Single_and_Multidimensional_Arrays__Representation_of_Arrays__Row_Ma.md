@@ -45,3 +45,5 @@
 - For an n-D array D[d1][d2]...[dn], the index formula is:
 
   - Address(D[i1][i2]...[in]) = Base(D) + Size * (i1 * d2 * d3 * ... * dn + i2 * d3 * d4 * ... * dn + ... + in
+
+```

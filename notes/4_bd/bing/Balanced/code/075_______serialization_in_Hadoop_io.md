@@ -155,3 +155,5 @@ public class AvroSerialization<T> implements Serialization<T> {
     private DatumReader<T> createDatumReader() {
       Schema schema = getSchema(type);
       if
+
+```

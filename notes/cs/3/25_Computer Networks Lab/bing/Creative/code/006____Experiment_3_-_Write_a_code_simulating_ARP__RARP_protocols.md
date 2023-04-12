@@ -57,3 +57,5 @@ rarp_reply = bytes.fromhex(rarp_reply.replace(":", ""))
 
 # Sending and receiving the packets
 s
+
+```

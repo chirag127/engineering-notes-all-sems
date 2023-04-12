@@ -334,3 +334,5 @@ A possible ASCII diagram for a cluster specification in Hadoop environment is:
                              |
                              |
                              |
+
+```

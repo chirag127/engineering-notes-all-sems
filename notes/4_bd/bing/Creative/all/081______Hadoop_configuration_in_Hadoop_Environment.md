@@ -46,3 +46,5 @@
 - Hadoop configuration can be customized for different Hadoop clusters by using the HADOOP_CONF_DIR environment variable, which can point to a different directory that contains the configuration files for a specific cluster. For example, the following command can run a Hadoop job using the configuration files in the /etc/hadoop/cluster1 directory:
 
   ```bash
+
+```

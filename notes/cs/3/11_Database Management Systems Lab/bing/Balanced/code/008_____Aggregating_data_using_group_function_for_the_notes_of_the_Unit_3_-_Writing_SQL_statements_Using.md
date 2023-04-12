@@ -69,3 +69,5 @@ ORDER BY column;
 
   ```sql
   SELECT JSON_ARRAYAGG(JSON_OBJECT('name', product_name, 'price', product_price
+
+```

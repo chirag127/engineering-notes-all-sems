@@ -173,3 +173,5 @@ The following diagram illustrates a simple cloud computing architecture:
                              |
                              |
                              |
+
+```

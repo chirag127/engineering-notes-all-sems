@@ -59,3 +59,5 @@ while (flag[0]) { // while P0 also wants to enter the critical section
   if (turn != 1) { // if the turn is not in P1's favor
     flag[1] = false; // P1 sets its flag to false and waits
     while (turn !=
+
+```

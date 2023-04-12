@@ -74,3 +74,5 @@ void enqueue(struct queue *q, int x) {
 int dequeue(struct queue *q) {
   if (isEmpty(q)) { // If the queue is empty
     printf("Queue is empty.\n
+
+```

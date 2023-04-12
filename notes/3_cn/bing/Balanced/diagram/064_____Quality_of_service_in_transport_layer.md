@@ -102,3 +102,5 @@ A possible diagram for quality of service in transport layer is:
 +-----------------+     +-----------------+
 | Network         |     | Network         |
 | Layer           |
+
+```

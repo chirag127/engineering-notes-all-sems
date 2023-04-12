@@ -61,3 +61,5 @@ public class CalculatorApplet extends Applet implements ActionListener {
     b1.addActionListener(this); // Register the action listener for the addition button
     b2.addActionListener(this); // Register the action listener for the subtraction button
     b3.addActionListener(this); //
+
+```

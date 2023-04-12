@@ -45,3 +45,5 @@
 - Sampling can be done in different ways, such as uniform sampling, nonuniform sampling, impulse sampling, natural sampling, etc.
 - Sampling can be characterized by the sampling frequency or the sampling rate, which is the inverse of the sampling period or the number of samples per second.
 - Sampling can be analyzed by using the sampling
+
+```

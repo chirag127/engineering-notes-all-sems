@@ -36,3 +36,5 @@ backtrack(n, s, t, x, sum) {
     x[n-1] = i
     // if the feasibility function is true, recursively explore further
     if (sum + i *
+
+```

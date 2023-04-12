@@ -64,3 +64,5 @@ function bresenham_line(x1, y1, x2, y2)
   if y1 < y2 then
     y = y1
     y_inc = 1
+
+```

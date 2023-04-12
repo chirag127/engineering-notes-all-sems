@@ -134,3 +134,5 @@ GPIO.output(LED_PIN, GPIO.LOW)
 
 # Clean up the GPIO pins
 GPIO.cleanup()
+
+```

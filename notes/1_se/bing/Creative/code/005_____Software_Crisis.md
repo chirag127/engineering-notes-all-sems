@@ -112,3 +112,5 @@ project2 = SoftwareProject("Project 2", 500, 50, 500)
 cost1, time1, quality1 = project1.develop()
 cost2, time2, quality2 = project2.develop()
 print(f"Project 1: Cost = {cost1}, Time = {
+
+```

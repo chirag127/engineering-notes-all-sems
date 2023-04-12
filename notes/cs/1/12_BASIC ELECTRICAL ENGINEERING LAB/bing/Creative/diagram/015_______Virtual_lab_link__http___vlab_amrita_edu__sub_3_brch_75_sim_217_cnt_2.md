@@ -140,3 +140,5 @@ Here is a diagram that illustrates the structure and components of Virtual Lab:
        |                      |
        |                      |
        |                      |
+
+```

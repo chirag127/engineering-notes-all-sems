@@ -62,3 +62,5 @@ graph LR
   component -->|use| component2
   component -->|use| component3
   component
+
+```

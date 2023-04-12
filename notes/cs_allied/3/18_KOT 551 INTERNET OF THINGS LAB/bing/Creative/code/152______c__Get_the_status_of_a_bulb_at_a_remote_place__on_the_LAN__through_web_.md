@@ -17,3 +17,5 @@ Here is a diagram that illustrates the process of getting the status of a bulb a
 ```
 +------------+             +-----------------+             +------------+
 | Web Client |
+
+```

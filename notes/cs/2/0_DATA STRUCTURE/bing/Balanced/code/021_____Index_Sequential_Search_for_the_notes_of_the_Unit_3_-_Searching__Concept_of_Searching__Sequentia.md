@@ -80,3 +80,5 @@ int index_sequential_search(char *name) {
       // Found the index position
       index_pos = mid;
       break;
+
+```

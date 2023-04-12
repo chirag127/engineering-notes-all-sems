@@ -22,3 +22,5 @@ Here is a diagram of the Arduino Uno board anatomy:
 |                |  |                |
 |                |  |                |
 |
+
+```

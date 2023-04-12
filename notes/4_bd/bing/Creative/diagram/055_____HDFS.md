@@ -366,3 +366,5 @@ Here is a detailed ASCII diagram for HDFS:
                               |
                               |
                               |
+
+```

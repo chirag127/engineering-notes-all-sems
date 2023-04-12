@@ -73,3 +73,5 @@ DAA ;decimal adjust accumulator after addition
 ADD ;add register, memory, or immediate data to register or memory
 ADC ;add register, memory, or immediate data to register or memory with carry
 SUB ;subtract register, memory
+
+```

@@ -117,3 +117,5 @@ A simple diagram of HDFS architecture is shown below:
     +-----------------+                  |
     |    DataNode     |<-----------------+
     +-----------------+<-----------------
+
+```

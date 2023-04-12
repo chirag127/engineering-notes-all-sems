@@ -86,3 +86,5 @@
           |  W  |  Weight force
           |     |
           V     V
+
+```

@@ -66,3 +66,5 @@ print(now.strftime("%Y-%m-%d %H:%M:%S")) # format and print the datetime object 
 
 ```python
 from datetime import datetime # import
+
+```

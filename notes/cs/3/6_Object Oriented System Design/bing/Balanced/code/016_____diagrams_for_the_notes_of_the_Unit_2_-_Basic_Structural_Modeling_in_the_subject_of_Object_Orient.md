@@ -73,3 +73,5 @@ Account1 "1" -- "0..*" Alice : owns
 Account2 "1" -- "0..*" Bob : owns
 Account3 "1" -- "0..*" Alice : owns
 Account3 "1" -- "0..*"
+
+```

@@ -42,3 +42,5 @@
         Serial.print("CO2: ");
         Serial.print(scd30.CO2, 2);
         Serial
+
+```

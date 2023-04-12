@@ -132,3 +132,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
   J = Jockey
   S = Standard cell
   P = Potenti
+
+```

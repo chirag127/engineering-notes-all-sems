@@ -70,3 +70,5 @@ ipv4_address ipv4_address_or(ipv4_address addr1, ipv4_address addr2) {
 // A function to perform a bitwise NOT operation on an IPv4 address
 ipv4_address ipv4_address_not(ipv4_address addr) {
   ipv
+
+```

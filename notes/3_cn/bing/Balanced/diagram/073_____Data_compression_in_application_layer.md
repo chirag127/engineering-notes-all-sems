@@ -222,3 +222,5 @@ A possible ASCII diagram for data compression in application layer is:
                             |
                             |
                             |
+
+```

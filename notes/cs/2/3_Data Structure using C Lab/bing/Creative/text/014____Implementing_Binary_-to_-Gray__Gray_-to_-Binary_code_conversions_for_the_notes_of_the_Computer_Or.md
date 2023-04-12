@@ -56,3 +56,5 @@ endmodule
 ```verilog
 module g2b_converter # (parameter WIDTH =4) (input [ WIDTH -1:0] gray, output [ WIDTH -1:0] binary);
   genvar i;
+
+```

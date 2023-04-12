@@ -34,3 +34,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
     - Cost = Effort * R
 
     - Where Cost is the maintenance cost in dollars, Effort is the maintenance effort in person-months, and R is
+
+```

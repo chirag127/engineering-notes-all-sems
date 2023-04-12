@@ -39,3 +39,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
   - `hdfs dfs -df`: displays the available and used space in HDFS.
   - `hdfs dfs -setrep`: changes the replication factor of a file or directory in HDFS.
   - `hdfs dfs -chmod`: changes the permissions of a file or directory
+
+```

@@ -110,3 +110,5 @@ switch (variable or expression1) {
     break;
   case value4:
     // code block to be executed if variable or expression1 equals value4
+
+```

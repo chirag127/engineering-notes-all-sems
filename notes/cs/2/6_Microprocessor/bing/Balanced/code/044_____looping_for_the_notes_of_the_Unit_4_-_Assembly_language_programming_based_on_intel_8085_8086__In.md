@@ -71,3 +71,5 @@ loop_start: ; loop label
     cmp al, [si] ; compare the character with the string element
     je found ; jump to found label if equal
     inc si ; increment the string pointer
+
+```

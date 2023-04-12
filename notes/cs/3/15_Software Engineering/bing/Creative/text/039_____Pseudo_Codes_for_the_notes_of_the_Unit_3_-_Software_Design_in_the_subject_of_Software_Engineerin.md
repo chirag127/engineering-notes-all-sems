@@ -58,3 +58,5 @@
     // Convert the binary value to a seven-segment display value
     S = SegConvert(B)
     // Display the seven-segment display
+
+```

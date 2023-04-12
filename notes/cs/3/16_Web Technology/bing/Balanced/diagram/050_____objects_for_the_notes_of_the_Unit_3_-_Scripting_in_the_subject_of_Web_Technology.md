@@ -130,3 +130,5 @@ var z = {...x}; // spread operator
 
 console.log(y); // {name: "Alice", age: 25}
 console.log(z);
+
+```

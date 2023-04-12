@@ -24,3 +24,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
 - A **degree** of a vertex in a graph is the number of edges that are incident to it, i.e., that connect it to other vertices. In a directed graph, the degree of a vertex can be divided into **in-degree**, the number of edges that enter the vertex, and **out-degree**, the number of edges that leave the vertex.
 - A **walk** in a graph is a sequence of vertices and edges that starts and ends at a vertex, and such that each edge connects two consecutive vertices in the sequence. A walk can repeat vertices and edges.
 - A **trail** in a graph is a
+
+```

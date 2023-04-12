@@ -30,3 +30,5 @@ The following diagram illustrates the basic cloud computing architecture:
 +-----------------+       +-----------------+       +-----------------+
 |                 |       |                 |       |                 |
 |
+
+```

@@ -64,3 +64,5 @@ public class LoginServlet extends HttpServlet {
 
     // flag to indicate if the user is authenticated or not
     boolean authenticated =
+
+```

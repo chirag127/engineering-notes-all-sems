@@ -112,3 +112,5 @@ The following is a detailed ASCII diagram for the OSI reference model in Compute
 |                        |                        |                        |
 |                        |                        |                        |
 |                        |                        |
+
+```

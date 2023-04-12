@@ -49,3 +49,5 @@ d sin(θ) = (n + 1/2)λ, n = 0, ±1, ±2, ... (double slit minima)
 ```
 a sin(θ) = (2n + 1)λ/2, n = 0, ±1, ±2, ... (single slit maxima)
 d sin(θ) = nλ, n = 0, ±1, ±2, ... (double slit
+
+```

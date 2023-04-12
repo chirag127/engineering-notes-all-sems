@@ -57,3 +57,5 @@ A possible ASCII diagram for Hadoop I/O is:
 | T | T | T | T |                               | c | c | c | c |
 | a | a | a | a |                               | e | e | e | e |
 | s | s | s | s |                               |   |   |   |
+
+```

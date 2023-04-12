@@ -103,3 +103,5 @@ public int add(int a, int b) {
 To call a method in Java, write the method name followed by a set of parentheses, followed by a semicolon. If the method has parameters, pass the values of the arguments inside the parentheses. If the method returns a value, assign it to a variable of the same type as the return type. For example:
 
 ```java
+
+```

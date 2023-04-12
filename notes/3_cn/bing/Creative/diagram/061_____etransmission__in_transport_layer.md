@@ -69,3 +69,5 @@ Sender                          Receiver
 +------------------+            +------------------+
 | Frame Header     |            | Frame Header     |
 | IP Header        |            | IP Header
+
+```

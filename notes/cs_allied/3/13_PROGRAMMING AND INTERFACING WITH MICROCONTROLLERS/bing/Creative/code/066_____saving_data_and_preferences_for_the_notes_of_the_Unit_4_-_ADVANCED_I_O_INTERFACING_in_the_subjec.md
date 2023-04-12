@@ -62,3 +62,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
   - They can provide huge storage space and flexibility for data and preferences.
   - They can be easily inserted and removed, and can be used with different microcontrollers or devices.
   - They can support different file systems and formats, such as FAT, NTFS, or exFAT.
+
+```

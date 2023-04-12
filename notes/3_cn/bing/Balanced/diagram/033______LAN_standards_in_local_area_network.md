@@ -105,3 +105,5 @@ A diagram of the IEEE 802 family of LAN standards is shown below, using ASCII ch
         | Independent     |
         | Handover        |
         +-----------------
+
+```

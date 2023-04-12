@@ -61,3 +61,5 @@ def word_and_char_count(string):
     if string[i] in " ,.!?":
       word_count += 1
     # Otherwise, increment char_count
+
+```

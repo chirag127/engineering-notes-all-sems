@@ -124,3 +124,5 @@ SELECT column_list
 FROM table1 AS alias1
 JOIN table1 AS alias2
 ON alias1.column
+
+```

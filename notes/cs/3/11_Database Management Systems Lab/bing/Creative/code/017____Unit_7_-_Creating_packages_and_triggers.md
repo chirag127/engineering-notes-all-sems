@@ -109,3 +109,5 @@ VALUES (999, 'Sydney', 'AI', 'sydney@ai.com', SYSDATE, 'IT_PROG', 10000);
 -- Update the salary of an existing employee
 UPDATE employees
 SET salary = salary * 1.1
+
+```

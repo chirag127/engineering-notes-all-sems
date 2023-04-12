@@ -30,3 +30,5 @@
 | Power source   | 120V AC        | 240V AC        | High-voltage DC|
 +----------------+----------------+----------------+----------------+
 | Charging speed | 4 miles/h
+
+```

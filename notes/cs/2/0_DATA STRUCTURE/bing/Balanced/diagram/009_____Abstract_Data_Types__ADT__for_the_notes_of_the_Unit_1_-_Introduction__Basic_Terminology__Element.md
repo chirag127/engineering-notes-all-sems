@@ -57,3 +57,5 @@ ADT Graph
 Test case 1: create an empty stack and check if isEmpty() = true and size() = 0
 Test case 2: push 1, 2, 3 to the stack and check if peek() = 3, size() = 3 and isEmpty() = false
 Test case 3: pop the stack three
+
+```

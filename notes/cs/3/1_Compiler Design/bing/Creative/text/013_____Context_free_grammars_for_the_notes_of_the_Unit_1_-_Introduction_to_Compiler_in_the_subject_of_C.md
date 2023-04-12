@@ -43,3 +43,5 @@
  |       |     |     |     |     |
  x       <factor> <factor> x     y     z
          |
+
+```

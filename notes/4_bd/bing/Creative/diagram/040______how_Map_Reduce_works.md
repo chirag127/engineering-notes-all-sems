@@ -112,3 +112,5 @@ The following diagram illustrates the basic workflow of MapReduce using ASCII ar
 +-----------------+    +-----------------+    +-----------------+
 |                 |    |                 |    |                 |
 |   Final Output  |    |   Final Output  |    |   Final Output
+
+```

@@ -51,3 +51,5 @@
         // Print the CO2 data in ppm
         Serial.print("CO2: ");
         Serial.print(scd30.CO2
+
+```

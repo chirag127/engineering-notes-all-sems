@@ -46,3 +46,5 @@ K(n, W) = 0, if n == 0 or W == 0 // base case
 K(n, W) = K[n][W], if K[n][W] != -1 // subproblem already solved
 K(n, W) = K(n - 1, W), if w[n] > W // item n cannot be included
 K(n, W) = max(K(n - 1, W), v[n] + K(n - 1, W - w[n])), if w[n] <= W //
+
+```

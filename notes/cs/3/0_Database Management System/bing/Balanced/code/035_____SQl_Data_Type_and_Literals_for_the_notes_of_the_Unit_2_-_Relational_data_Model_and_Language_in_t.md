@@ -46,3 +46,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
 - Null data types are used to store unknown or missing values, such as no answer or not applicable.
 - Null data types can be assigned to any other data type, such as numeric, character, date and time, or boolean.
 - Null literals are the constant values that can be assigned to a null data type. Null literals are written as NULL
+
+```

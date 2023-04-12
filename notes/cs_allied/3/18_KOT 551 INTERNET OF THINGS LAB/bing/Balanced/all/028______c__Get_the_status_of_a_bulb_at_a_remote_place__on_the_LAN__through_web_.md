@@ -81,3 +81,5 @@
 
   // Send a HTTP request to get the bulb status
   $request = "
+
+```

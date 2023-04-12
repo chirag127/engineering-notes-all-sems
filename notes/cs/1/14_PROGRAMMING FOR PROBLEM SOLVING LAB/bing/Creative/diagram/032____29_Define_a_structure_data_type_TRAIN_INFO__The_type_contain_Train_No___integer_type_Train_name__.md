@@ -87,3 +87,5 @@ struct TRAIN_INFO timetable[5] = {
       for (j = i; j < n - 1; j++)
       {
         timetable[j]
+
+```

@@ -94,3 +94,5 @@ hive> SELECT AVG(salary) FROM employees;
 OK
 6500.0
 Time taken
+
+```

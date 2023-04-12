@@ -77,3 +77,5 @@ int main()
 
     // insert some data
     sql = "INSERT INTO students (name, age) VALUES ('Alice', 20
+
+```

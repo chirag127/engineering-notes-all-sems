@@ -78,3 +78,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
 #### Assignment Operators
 
 - Assignment operators are used to assign a value to a variable or to
+
+```

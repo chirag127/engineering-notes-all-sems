@@ -69,3 +69,5 @@ data_scaled = scaler.fit_transform(data)
 
 pca = PCA(n_components=2)
 data_pca = pca.fit_transform(data_scaled)
+
+```

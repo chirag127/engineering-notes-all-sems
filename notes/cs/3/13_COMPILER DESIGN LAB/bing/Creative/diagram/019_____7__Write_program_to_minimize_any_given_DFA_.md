@@ -72,3 +72,5 @@ class DFA:
 
         # For each unmarked pair, create a new state and update the mapping
         for (s1, s2) in table:
+
+```

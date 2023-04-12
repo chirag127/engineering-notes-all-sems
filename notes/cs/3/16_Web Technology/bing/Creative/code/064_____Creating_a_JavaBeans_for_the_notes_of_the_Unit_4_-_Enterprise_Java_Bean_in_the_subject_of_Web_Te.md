@@ -82,3 +82,5 @@ public class MyBean implements Serializable {
         java.util.List<ActionListener> listeners;
         synchronized (this) {
             if (action
+
+```

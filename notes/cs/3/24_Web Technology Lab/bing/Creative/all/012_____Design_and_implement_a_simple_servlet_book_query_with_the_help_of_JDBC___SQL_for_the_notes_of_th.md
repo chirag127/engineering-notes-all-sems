@@ -107,3 +107,5 @@
           out.println("<tr><th>ID</th><th>Title</th><th>Author</th><th>Price</th></tr>");
 
           // Loop through the result
+
+```

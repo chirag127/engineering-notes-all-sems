@@ -162,3 +162,5 @@ A possible ASCII diagram for a link layer switch or a bridge in a local area net
                                                                                                                                                                                                +----------------------+-----------------+
                                                                                                                                                                                                                       |                      |
                                                                                                                                                                                                                       |                      |
+
+```

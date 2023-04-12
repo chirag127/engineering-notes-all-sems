@@ -94,3 +94,5 @@ LIMIT 5;
 
 ```sql
 SELECT first
+
+```

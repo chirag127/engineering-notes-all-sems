@@ -54,3 +54,5 @@ Client: GET /index.html HTTP/1.1
 Host: www.example.com
 
 Server: HTTP/1.1 200 OK
+
+```

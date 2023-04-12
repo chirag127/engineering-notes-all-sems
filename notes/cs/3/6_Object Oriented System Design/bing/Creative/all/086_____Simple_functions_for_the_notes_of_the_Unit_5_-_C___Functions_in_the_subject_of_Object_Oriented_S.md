@@ -128,3 +128,5 @@ int main()
 {
     int (*ptr)(int); // function pointer declaration
     ptr = square
+
+```

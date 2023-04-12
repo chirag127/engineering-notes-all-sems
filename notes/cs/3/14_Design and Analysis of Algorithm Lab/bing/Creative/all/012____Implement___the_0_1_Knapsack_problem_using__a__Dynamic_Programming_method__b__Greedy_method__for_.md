@@ -63,3 +63,5 @@ The pseudocode for the greedy algorithm is:
 ```
 # Input: n = number of items, W = capacity of knapsack, w = array of weights, v = array of values
 # Output: value = approximate value that can be obtained, and the subset of items that
+
+```

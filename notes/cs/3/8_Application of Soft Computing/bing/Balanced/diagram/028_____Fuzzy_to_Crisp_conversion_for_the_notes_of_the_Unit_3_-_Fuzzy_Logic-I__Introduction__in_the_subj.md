@@ -42,3 +42,5 @@ COG = (sum of (value * membership)) / (sum of membership)
 ```
 COG = ((A * 0.5) + (B * 1.0) + (C * 0.5)) / (0.5 + 1.0 + 0.5)
 COG = ((A + 2B
+
+```

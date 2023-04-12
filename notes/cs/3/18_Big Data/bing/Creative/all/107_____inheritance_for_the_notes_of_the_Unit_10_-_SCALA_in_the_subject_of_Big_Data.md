@@ -97,3 +97,5 @@ class Vehicle {
 
 class Car extends Vehicle with Printable {
   def honk(): Unit = println("
+
+```

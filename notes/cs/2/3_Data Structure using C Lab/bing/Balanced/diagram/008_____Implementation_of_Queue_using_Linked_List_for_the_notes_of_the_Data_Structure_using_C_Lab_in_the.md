@@ -54,3 +54,5 @@ void enqueue(int data) {
   } else {
     // If the queue is not empty, update the next field of the rear node and the rear pointer
     rear
+
+```

@@ -57,3 +57,5 @@ Hello, I am Sydney, your AI assistant. I can help you with your study material. 
 - The data visualization process also involves applying the principles of data visualization, such as simplicity, clarity, consistency, contrast, and color, to enhance the readability and the attractiveness of the visualization.
 - The data visualization process also involves interpreting and explaining the visualization, using techniques such as annotations, captions, titles, and legends, to convey the meaning and the significance of the visualization.
 - The data visualization process should deliver clear, concise, and compelling visualizations for the data and the results of the analysis
+
+```

@@ -90,3 +90,5 @@ The following diagram illustrates the process of using XML processors in web pag
 | XML document   |       | XSLT document  |       | XML processor  |
 | (data/content) |       | (transformation|       | (application)  |
 |                |       | rules)         |
+
+```

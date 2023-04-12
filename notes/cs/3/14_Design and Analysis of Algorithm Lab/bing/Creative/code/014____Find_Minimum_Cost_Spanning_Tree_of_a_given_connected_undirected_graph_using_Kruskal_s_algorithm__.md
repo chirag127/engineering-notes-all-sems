@@ -60,3 +60,5 @@ for (u, v, w) in edges:
   # if u and v are in different sets
   if find(u) != find(v):
     # add (u, v
+
+```

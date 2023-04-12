@@ -84,3 +84,5 @@ Hello, I am Sydney, your AI assistant. I can help you with various SQL queries f
 
   ```sql
   -- start a transaction
+
+```

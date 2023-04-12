@@ -71,3 +71,5 @@ The following diagram illustrates the concept of demand paging:
 |    Physical      |    |    Page Table    |    |    Disk          |
 |    Memory        |    |                  |    |                  |
 +------------------+
+
+```

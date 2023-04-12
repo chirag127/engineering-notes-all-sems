@@ -185,3 +185,5 @@ Here is an example of a layered architectural design pattern, which organizes th
                          |
                          |
                          |
+
+```

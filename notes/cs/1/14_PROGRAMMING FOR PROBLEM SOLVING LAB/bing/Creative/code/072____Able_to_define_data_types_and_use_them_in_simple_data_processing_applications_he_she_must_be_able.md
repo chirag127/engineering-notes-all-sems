@@ -112,3 +112,5 @@ int main() {
   printf("Name\tPrice\tQuantity\n");
   for (i = 0; i < n; i++) {
     printf("%s\t%.2f\t
+
+```

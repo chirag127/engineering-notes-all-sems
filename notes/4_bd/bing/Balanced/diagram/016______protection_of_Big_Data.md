@@ -31,3 +31,5 @@ The following diagram illustrates the protection of Big Data in a simplified way
 |    limitation  |       |  - Durability  |       |  - Confidentiality|    |  - Rights      |
 |  - Data        |       |  - Security    |       |  - Data        |       |  - Security    |
 |    quality     |       |                |
+
+```

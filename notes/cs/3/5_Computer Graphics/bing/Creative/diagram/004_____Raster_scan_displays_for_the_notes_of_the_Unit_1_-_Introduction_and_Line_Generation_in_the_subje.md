@@ -201,3 +201,5 @@ Here is a diagram of a raster scan display:
                         |
                         |
                         |
+
+```

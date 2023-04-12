@@ -1254,5 +1254,216 @@ The above points cover the key aspects of window management in transport layer w
 
 
 
+ Here is the formal content on the topic "TCP Congestion control in transport layer" in markdown format without any emojis or external links:
 
+### TCP Congestion control in transport layer
+
+1. TCP employs a congestion avoidance algorithm that aims to reduce congestion in the network and prevent packet loss.
+2. TCP monitors the rate of returning acknowledgements (ACKs) from the receiver. If ACKs return at a slower rate than expected, it is a sign of congestion in the network. TCP will then slow down its transmission rate.
+3. TCP uses an "Additive Increase Multiplicative Decrease" (AIMD) algorithm. The transmission rate is increased additively on each round trip time (RTT) if there is no congestion. However, upon detection of congestion via loss of ACKs, TCP reduces its transmission rate multiplicatively. This leads to a sawtooth pattern of slow increase followed by a sharp decrease in transmission rate. This probes for available bandwidth in the network while avoiding persistent high congestion.
+4. Modern TCP implementations use mechanisms like slow start and congestion avoidance to more efficiently probe for bandwidth and recover from losses. TCP optimizes throughput while avoiding congestion collapse.
+5. TCP's congestion control makes it a "responsive" and "fair" transport protocol that adapts to the available bandwidth and shares it fairly with other TCP flows in the network. This makes the Internet's packet-switched network more efficient and robust.
+
+
+
+ Here is the content in markdown format with points, without emojis or external links, in a formal tone:
+
+### Quality of service in transport layer
+
+1. Throughput - Amount of data transferred per unit time. Higher throughput leads to faster data transfer. Transport layer protocols like TCP provide congestion control to maximize throughput.
+2. Transit delay - Time taken for data to be transferred from source to destination. Lower transit delay leads to faster delivery of data. Transport layer protocols minimize delay by managing packet loss and packet reordering.
+3. Jitter - Variation in delay of packet delivery. Excessive jitter leads to issues like buffer overflows and packet loss. Transport layer protocols provide jitter control to minimize delay variance and ensure timely delivery of packets.
+4. Packet loss - Loss of packets due to issues like congestion, buffer overflow, etc. leading to retransmission of packets and reduced throughput. Transport layer protocols provide reliable data transfer with low packet loss.
+5. Bandwidth - Amount of data that can be transferred at a given point of time. Higher bandwidth leads to faster data transfer. Bandwidth requirements are specified by applications and the transport layer works towards meeting the bandwidth needs.
+
+The transport layer provides quality of service features like congestion control, flow control, error control, etc. to meet key performance metrics like throughput, delay, jitter, packet loss, and bandwidth requirements specified by applications. This ensures timely and reliable transfer of data over the network.
+
+
+
+ Here is the content in markdown format without emojis or external links, written in a formal tone with points:
+
+## Unit 5 - Application Layer in Computer Networks
+
+1. Application Layer - The application layer is the topmost layer of the OSI model. It interacts with the software application to provide interfaces and protocols for accessing the network. Some examples are - HTTP, FTP, SMTP, DNS, etc.
+2. HTTP - Hypertext Transfer Protocol is used for accessing web pages over the Internet. It defines how messages should be formatted and transmitted between clients and servers.
+3. FTP - File Transfer Protocol is used for transferring files between computers over a network. It allows a user to upload, download, delete and rename files on another machine.
+4. SMTP - Simple Mail Transfer Protocol is used for sending and receiving email. It is responsible for routing and delivering electronic mail messages between servers.
+5. DNS - Domain Name System is used for mapping domain names to IP addresses. It translates the domain names that are easy to remember by humans to machine readable IP addresses.
+
+The content covers the key points about the application layer in computer networks in a formal tone with points and without emojis or external links as specified. Please let me know if you would like me to elaborate on any of the points or modify the content in any way.
+
+
+
+ Here is the formal content on Domain Name System in markdown format with points:
+
+### Domain Name System
+
+1. DNS is a distributed database that maintains the mapping between domain names and IP addresses. It translates the domain names to IP addresses so that the browsers can load the requested websites.
+2. The DNS database is distributed across multiple servers for fault tolerance and better performance. These servers are located in a hierarchical structure with the root servers at the top, followed by top-level domain servers, second-level domain servers and so on.
+3. When a user enters a domain name in the browser, the request is first sent to the local DNS server. If the local DNS server does not have the mapping for the domain name in its database, it sends a query to the next upper level server and so on until the root server is reached. The mapping is then sent back to the local DNS server which sends the IP address to the user's system.
+4. The distributed and hierarchical nature of DNS ensures that the system is fault tolerant and the domain name to IP address mapping is efficiently obtained even for large networks and a huge number of domain names. The DNS system is a critical Internet infrastructure service.
+5. The most commonly used protocols for DNS are DNS Query and DNS Zone Transfer (AXFR/IXFR) protocols. BIND is a very popular open source implementation of DNS servers.
+
+The content is written formally as a study material without any feelings or friendliness. No emojis are included and all the content is written myself without any external links. The points are structured in a way to learn and read about Domain Name System for exams. Please let me know if you would like me to modify or expand the content.
+
+
+
+ Here is the formal content on World Wide Web in markdown format without any emojis or external links:
+
+### World Wide Web
+
+1. The World Wide Web (WWW or Web) is a system of interlinked hypertext documents that are accessed via the Internet.
+2. With a web browser, one can view web pages that may contain text, images, videos, and other multimedia and navigate between them via hyperlinks.
+3. The web was created by Tim Berners-Lee, a British scientist at CERN, in 1989. He wrote the first web browser computer program in 1990 while employed at CERN in Switzerland.
+4. Web pages are primarily text documents formatted in Hypertext Markup Language (HTML) that are transmitted from web servers using the Hypertext Transfer Protocol (HTTP).
+5. The web has become a huge platform for delivering and accessing information and services. Billions of web pages are hosted worldwide and these can be accessed by anyone with internet access.
+6. The web has transformed the way information is created and shared globally allowing widespread access to information for personal, educational, and business use. It has also enabled entirely new forms of social interaction and business models.
+
+I have written the content in a formal tone with points and without any emojis or external links as directed. Please let me know if you would like me to modify or expand the content in any way.
+
+
+
+ Here is the formal markdown content on Hyper Text Transfer Protocol:
+
+### Hyper Text Transfer Protocol
+
+1. HTTP is the underlying protocol used by the World Wide Web. It defines how messages should be formatted and transmitted, and what actions web servers and browsers should take in response to various commands.
+
+2. For example, when you enter a URL into your browser, an HTTP command is sent to the web server directing it to fetch and transmit the requested webpage.
+
+3. HTTP is a stateless protocol. This means that every command is executed independently, without reference to previous commands. There is no ongoing relationship between successive requests.
+
+4. The default port for HTTP traffic is port 80, though other ports can be used. HTTP communication is unencrypted and not secure, which makes it vulnerable to eavesdropping and interference. HTTPS aims to overcome this limitation by using TLS encryption.
+
+5. Requests in HTTP consist of a method, uniform resource identifier (URI), and protocol version, followed by a message body containing the resource's representation. Responses also include a status line, including the message's protocol version and a success or error code, followed by a message body containing a response to the request.
+
+6. Methods used include GET, POST, PUT, DELETE. GET requests retrieve data, POST requests typically submit data to be processed to a specified resource, PUT requests upload a representation of the target resource, and DELETE requests delete a target resource.
+
+
+
+ Here is the formal content on the topic "Electronic mail in application layer" in Markdown format without any emojis or external links:
+
+### Electronic mail in application layer
+
+1. Electronic mail or email is an important application layer protocol which enables exchange of messages over the Internet.
+2. Email messages are composed, stored and forwarded as digital documents and they provide a convenient way of communication from any device connected to the Internet.
+3. The email system includes several components:
+- User agents: Software applications used to compose, read and send email messages. Examples: Thunderbird, Outlook, Gmail app etc.
+- Mail servers: Receives email messages from user agents and routes them to the recipient's mail server. Examples: Gmail SMTP server, Yahoo mail server etc.
+- Protocols: Sets of rules and procedures for transmission of email messages. Primary protocols are SMTP, POP3 and IMAP.
+4. SMTP or Simple Mail Transfer Protocol is used for transferring email messages between mail servers. It uses TCP and ports 25 or 587.
+5. POP3 or Post Office Protocol 3 is used to retrieve emails from the mail server and download them to the user's computer. It uses TCP and port 110.
+6. IMAP or Internet Message Access Protocol is also used to retrieve emails from the mail server but it allows accessing emails from multiple devices and maintaining folder structure on the server. It uses TCP and port 143.
+
+The above content summarizes the key points about electronic mail in application layer in a formal tone with points and without any emojis or external links as requested. Please let me know if you would like me to elaborate on any of the points or modify the content in any way.
+
+
+
+ Here is the content in markdown format with formal tone and without external links or emojis:
+
+### File Transfer Protocol in application layer
+
+1. FTP or File Transfer Protocol is a standard network protocol used to transfer computer files between a client and server on a computer network.
+2. FTP is built on a client-server model architecture and uses separate control and data connections between the client and the server.
+3. The FTP client initiates both the control and data connections. The control commands are sent over the control connection, and the data is transferred over the data connection.
+4. FTP provides authentication, uses TCP for its transport layer, and allows data to be transferred in two modes:
+- ASCII mode: Used for text files. Converts the end-of-line characters as needed for the receiving system.
+- Binary mode: Used for image, audio, and video files etc. Preserves the exact bit-sequence of transmitted data and avoids conversion of newlines.
+5. FTP servers often provide an anonymous login mechanism, allowing users to access files without providing authentication. Some FTP servers let the administrator limit anonymous users to certain directories.
+6. FTP has been largely replaced by more secure, firewall-friendly file transfer alternatives such as Secure File Transfer Protocol (SFTP) and SSH File Transfer Protocol (SFTP). However, FTP is still commonly used to transfer large media files given its simplicity and low overhead.
+
+
+
+ Here is the content in formal tone with points and without emojis or external links:
+
+### Remote login in application layer
+
+1. Remote login allows a user to login to a remote system from a local system. It establishes a remote connection between the two systems over a network.
+2. The application layer protocols used for remote login are:
+- SSH (Secure Shell): Uses port 22. Provides encrypted communication and secure remote login.
+- Telnet: Uses port 23. Does not provide encryption and the data is sent in plaintext format. Hence not secure.
+3. The steps involved in remote login:
+- User logs in to the local system and enters the remote login command along with the remote system's IP/hostname and port.
+- The local system establishes a TCP connection with the remote system on the specified port.
+- The user enters login credentials for the remote system.
+- The remote system verifies the credentials and allows access. The user can now access the remote system.
+4. Advantages:
+- Access resources on a remote system.
+- Troubleshoot or manage a remote system.
+- Backup or transfer files to/from a remote system.
+
+The content summarizes the key points about remote login in application layer without any feelings, emojis or external links as instructed. Let me know if you would like me to modify or expand the content.
+
+
+
+ Here is the formal content on the given topic:
+
+### Network management in application layer
+
+1. Application layer protocols and software are used for network management. Some of the application layer protocols used for network management are:
+- SNMP (Simple Network Management Protocol): It is used to monitor and manage network devices and servers. SNMP agents are installed on the managed devices which provide data to the SNMP managers regarding the device status and performance.
+- SSH (Secure Shell): It is used to remotely access and manage network devices and servers. It provides a secure channel over insecure networks for device management.
+- Telnet: It is used to remotely access network devices for management and configuration. However, the data exchanged is in plain text, making it insecure.
+- HTTP: Web-based network management tools use HTTP/HTTPS to access the managed devices and servers. The data can be accessed using a web browser.
+- FTP (File Transfer Protocol): It is used to transfer configuration files and software updates to network devices and servers.
+
+2. Network management software provides a graphical user interface to effectively manage the network. Some of the popular network management software are:
+- OpenNMS: It is an open-source network management system. It uses SNMP, SSH and other protocols to monitor servers, network devices, services, and applications.
+- Nagios: It is an open-source computer system and network monitoring software. It monitors servers, switches, applications and services and alerts users when there are problems or issues.
+- PRTG: It is a network monitoring software that uses SNMP, WMI, SSH and other protocols to monitor bandwidth, uptime, CPU load etc. It provides a user-friendly interface to view reports and set up alerts.
+- Zabbix: It is an open-source network monitoring software. It monitors metrics, alerts on issues and generates reports. It supports monitoring via SNMP, IPMI, SSH etc.
+
+
+
+ Here is the content in markdown format as per your instructions:
+
+### Data compression in application layer
+
+1. Data compression reduces the number of bits needed to represent data. This saves bandwidth and storage space.
+2. Application layer compression uses algorithms to compress data before it is sent over the network. This is different from link layer compression which compresses raw data packets.
+3. Some popular application layer compression algorithms are:
+- Gzip: Uses a combination of the LZ77 algorithm and Huffman coding. It can compress data by up to 80%.
+- Bzip2: Uses the Burrows–Wheeler transform algorithm and Huffman coding. It provides higher compression ratios than Gzip but at the cost of lower speed.
+- Lempel–Ziv–Markov chain algorithm (LZMA): Provides high compression ratios but is very CPU intensive. Used in 7-Zip archiver.
+4. Advantages of application layer compression:
+- Higher compression ratios resulting in more bandwidth and storage savings.
+- Can compress specific types of data effectively (e.g. gzip for text, JPEG for images).
+- Compressed data is portable and can be understood by any system that implements the compression algorithm.
+5. Disadvantages of application layer compression:
+- Compression and decompression require additional processing resulting in higher latency.
+- The compression algorithm must be supported by both the sender and receiver for the data to be understood.
+
+The above points cover the key aspects of data compression in the application layer. Let me know if you would like me to elaborate on any of the points or add more details to the answer.
+
+
+
+ Here is the content in markdown format with formal tone and without emojis:
+
+### Cryptography in application layer
+
+1. Encryption of data - Data such as passwords, credit card numbers, personal information etc. are encrypted before storing or transmitting over the network. This ensures data confidentiality. Some commonly used encryption algorithms are AES, RSA, ECC etc.
+
+2. Digital signatures - Digital signatures are used to provide authentication, data integrity and non-repudiation. The sender's private key is used to sign the data which can be verified using the sender's public key. This proves that the data was indeed signed by the sender and was not modified in transit. Digital signatures are used in software distribution, financial transactions etc.
+
+3. Key exchange - Two parties communicating over the network need to establish a shared secret key to encrypt their data. Key exchange protocols are used to negotiate and establish a shared key. Some popular key exchange protocols are Diffie-Hellman key exchange and Elliptic curve Diffie-Hellman key exchange.
+
+4. Hashing - Hashing functions are used to generate a short digest of a larger data such as files and messages. Even a small change in the data results in a different hash value. This is useful to verify data integrity. Some commonly used hashing algorithms are SHA-1, SHA-256, MD5 etc. Hashing is used to store passwords in databases in a secured way.
+
+The above are some of the core ways in which cryptography is used in the application layer to provide security services such as confidentiality, authentication, integrity and non-repudiation. Cryptography, when implemented correctly, serves as a strong defense against potential attacks and threats to applications.
+
+
+
+ Here is the content in markdown format without any emojis or external links:
+
+### Basic concepts of Cryptography in application layer
+
+1. Encryption - Converting plain text into ciphertext using a encryption algorithm and key. It ensures confidentiality.
+2. Decryption - Converting ciphertext back to plain text using a decryption algorithm and key. The decryption key is same as encryption key.
+3. Symmetric key cryptography - Uses a single key for both encryption and decryption. Eg: AES, DES, Blowfish.
+4. Asymmetric key cryptography - Uses a pair of public and private keys. Eg: RSA, ECC. Public key is used for encryption and private key is used for decryption.
+5. Hash functions - Produces a fixed-size hash value from a variable size input. Eg: MD5, SHA-1, SHA-256. It is a one-way function and used to verify data integrity.
+6. Digital signatures - Encrypts hash of a message using private key. Used to achieve authentication and non-repudiation. The message can be verified using public key.
+7. Certificates - Used in public key infrastructure to bind public keys with identities. It contains public key and other identity details digitally signed by a CA.
+
+The content is written in points and in a formal tone without any emotions or friendliness as instructed. Markdown formatting is used and no emojis or external links are included.
 

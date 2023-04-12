@@ -82,3 +82,5 @@
     ```sql
     DELETE FROM employees
     WHERE salary < (SELECT MIN(salary) FROM employees WHERE department = '
+
+```

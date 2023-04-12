@@ -52,3 +52,5 @@
 | Network layer  |      | Network layer  |
 | IP address     |      | IP address     |
 | 192.168.1.1    |      | 192.168.1
+
+```

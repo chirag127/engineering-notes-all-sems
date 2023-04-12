@@ -63,3 +63,5 @@ The diagram below shows the construction and working of a domestic refrigerator.
 |                 |     |                 |     |                 |
 |                 |     |                 |     |                 |
 |                 |     |
+
+```

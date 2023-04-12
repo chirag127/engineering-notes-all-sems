@@ -328,3 +328,5 @@ A possible diagram for a stateless session bean in enterprise java bean is:
                                |
                                |
                                |
+
+```

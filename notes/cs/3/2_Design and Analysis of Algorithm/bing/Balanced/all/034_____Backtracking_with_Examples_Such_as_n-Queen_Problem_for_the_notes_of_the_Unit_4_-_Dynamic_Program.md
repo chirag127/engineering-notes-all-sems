@@ -36,3 +36,5 @@ procedure backtrack(P, c) is
 ```
 . Q . .
 . . . Q
+
+```

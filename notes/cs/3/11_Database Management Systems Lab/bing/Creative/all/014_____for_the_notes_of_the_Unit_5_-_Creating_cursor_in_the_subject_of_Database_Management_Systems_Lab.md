@@ -127,3 +127,5 @@
 
     -- Declare a handler to set the done variable to true when no more rows are available
     DECLARE CONTINUE HANDLER
+
+```
