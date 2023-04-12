@@ -29,7 +29,9 @@ def main(file):
             [
                 "pandoc",
                 file,
-                "--pdf-engine=xelatex","-o",
+                "--pdf-engine=xelatex",
+
+                "-o",
 
                 pdf_file_path,
             ]

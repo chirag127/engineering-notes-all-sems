@@ -271,12 +271,12 @@ def main():
         )
 
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
 
-    k = 10
-    while k > 0:
-        try:
-            main()
-        except Exception as error:
-            print(error)
-    k -= 1
+#     k = 10
+#     while k > 0:
+#         try:
+#             main()
+#         except Exception as error:
+#             print(error)
+#     k -= 1

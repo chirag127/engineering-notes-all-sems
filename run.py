@@ -19,16 +19,31 @@ files.sort()
 
 # # run all the files concurrently
 
-files = ["01_bi.py", "02_po.py"]
+# files = ["01_bi.py", "02_po.py"]
 
-with ThreadPoolExecutor() as executor:
-    for f in files:
-        executor.submit(os.system, f"python {f}")
+# with ThreadPoolExecutor() as executor:
+#     for f in files:
+#         executor.submit(os.system, f"python {f}")
 
 # for f in files:
-#     os.system(f"python {f}")
+# #     os.system(f"python {f}")
+# 01_bi.py
+# 02_po.py
+# 03_remove all links from all files.py
+# 05_addodd.py
+# 06_merge_markdowns.py
+# 07_convert_all_markdown_to_pdf.py
+# 16_pdf_ocr.py
+
+# os.system("python 01_bi.py")
+# os.system("python 02_po.py")
+
+def os_system(command):
+    os.system(command)
 
 
-os.system("python 06_merge_markdowns.py")
-
-os.system("python 07_convert_all_markdown_to_pdf.py")
+os_system("python 03_remove all links from all files.py")
+os_system("python 05_addodd.py")
+os_system("python 06_merge_markdowns.py")
+os_system("python 07_convert_all_markdown_to_pdf.py")
+os_system("python 16_pdf_ocr.py")
