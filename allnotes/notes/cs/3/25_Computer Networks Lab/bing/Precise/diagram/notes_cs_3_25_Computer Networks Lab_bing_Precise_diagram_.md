@@ -440,3 +440,134 @@ Link State routing is a type of routing protocol used in computer networks. It i
 
 Link State routing protocols are commonly used in large networks because they can quickly adapt to changes in the network topology. Some examples of Link State routing protocols include OSPF (Open Shortest Path First) and IS-IS (Intermediate System to Intermediate System).
 
+
+
+### Experiment 11.2 - Flooding
+
+Flooding is a networking technique used to disseminate information throughout a network. It involves sending packets or messages to all connected devices, regardless of whether they are the intended recipient or not. This technique is commonly used in situations where the destination of the message is unknown or when the network topology is constantly changing.
+
+Some key points to consider when studying flooding are:
+- Flooding can be an effective way to quickly disseminate information throughout a network.
+- However, it can also lead to high levels of network congestion and can be resource-intensive.
+- There are several variations of flooding, including selective flooding and controlled flooding, which aim to mitigate some of the drawbacks of the technique.
+- Flooding is commonly used in routing protocols, such as OSPF and RIP, to quickly update routing tables and maintain network connectivity.
+
+In summary, flooding is a powerful technique for disseminating information throughout a network, but it must be used judiciously to avoid overwhelming the network with traffic. It is important to understand the trade-offs involved when using flooding and to be aware of the various techniques available to control its impact on the network.
+
+
+
+### Experiment 11.3 - Distance Vector
+
+Distance vector routing is a type of routing protocol used in computer networks to determine the best path for data packets to travel from one node to another. It is based on the Bellman-Ford algorithm and is used in routing protocols such as RIP (Routing Information Protocol) and IGRP (Interior Gateway Routing Protocol).
+
+In distance vector routing, each router maintains a routing table that contains the distance (or cost) to reach each destination network and the next hop router to reach that destination. The distance is measured in terms of a metric, such as hop count or delay.
+
+Routers exchange their routing tables with their directly connected neighbors at regular intervals. When a router receives a routing table from a neighbor, it updates its own routing table by comparing the distances to each destination in the received table with the distances in its own table. If the received distance to a destination is shorter than the distance in its own table, the router updates its routing table with the new distance and next hop information.
+
+Distance vector routing has some limitations, such as the count-to-infinity problem, where the convergence time can be slow in the case of a network failure. This can be mitigated by using techniques such as split horizon and poison reverse.
+
+In summary, distance vector routing is a simple and widely used routing protocol that determines the best path for data packets based on the distance to the destination. It has some limitations, but these can be mitigated by using additional techniques.
+
+
+
+## Experiment 12 - To learn handling and configuration of networking hardware like RJ-45 connector, CAT-6 cable, crimping tool, etc
+
+1. **RJ-45 connector**: RJ-45 is a type of connector commonly used for Ethernet networking. It looks similar to a telephone jack, but is slightly wider. It is used to connect computers and other devices to a wired network.
+
+2. **CAT-6 cable**: CAT-6 is a type of Ethernet cable that is used to connect devices to a network. It is capable of transmitting data at speeds of up to 10 Gbps and is backward compatible with CAT-5 and CAT-5e cables.
+
+3. **Crimping tool**: A crimping tool is used to attach RJ-45 connectors to the ends of Ethernet cables. It is important to use the correct crimping tool for the type of connector being used, as using the wrong tool can damage the connector and affect the performance of the cable.
+
+4. **Configuration**: To configure a network using these hardware components, the first step is to attach RJ-45 connectors to the ends of the CAT-6 cable using the crimping tool. The cable can then be connected to the devices that need to be networked. The devices will need to be configured with the appropriate network settings, such as IP addresses and subnet masks, in order to communicate with each other.
+
+5. **Handling**: It is important to handle networking hardware carefully to avoid damaging the components. When attaching connectors to cables, make sure to use the correct crimping tool and follow the manufacturer's instructions. When connecting cables to devices, make sure to insert the connectors firmly but gently to avoid damaging the ports. Avoid bending or twisting the cables excessively, as this can affect their performance.
+
+
+
+## Experiment 13 - Configuration of router, hub, switch etc. (using real devices or simulators)
+
+1. **Objective:** The objective of this experiment is to learn how to configure a router, hub, switch, and other networking devices using real devices or simulators.
+
+2. **Equipment Required:** To perform this experiment, you will need the following equipment:
+    - A router
+    - A hub
+    - A switch
+    - Ethernet cables
+    - A computer with a terminal emulator or a simulator software installed
+
+3. **Procedure:**
+    1. Connect the router, hub, and switch to the computer using Ethernet cables.
+    2. Open the terminal emulator or simulator software on the computer.
+    3. Configure the router by entering the appropriate commands in the terminal emulator or simulator software.
+    4. Repeat the above step for the hub and switch.
+    5. Verify the configuration by checking the connectivity between the devices.
+
+4. **Conclusion:** By performing this experiment, you will have learned how to configure a router, hub, switch, and other networking devices using real devices or simulators.
+
+
+
+## Experiment 14 - Running and using services/commands like ping, traceroute, nslookup, arp, telnet, ftp, etc
+
+1. **ping**: ping is a command used to test the reachability of a host on an IP network. It measures the round-trip time for messages sent from the originating host to a destination computer that are echoed back to the source.
+2. **traceroute**: traceroute is a command used to diagnose the route packets take to reach a network host. It displays the path and transit times of packets across an IP network.
+3. **nslookup**: nslookup is a command used to query the Domain Name System (DNS) to obtain domain name or IP address mapping or for any other specific DNS record.
+4. **arp**: arp is a command used to view and manipulate the Address Resolution Protocol (ARP) cache. The ARP cache is used to store mappings between IP addresses and MAC addresses.
+5. **telnet**: telnet is a command used to connect to remote computers using the Telnet protocol. It is used for remote command line login and remote command execution.
+6. **ftp**: ftp is a command used to transfer files between computers on a network using the File Transfer Protocol (FTP). It can be used to upload or download files to/from a remote computer.
+
+These commands are useful for network troubleshooting and management. They can be used to diagnose connectivity issues, view network information, and transfer files between computers. It is important to understand how to use these commands to effectively manage and troubleshoot network issues.
+
+
+
+## Experiment 15 - Network packet analysis using tools like Wireshark, tcpdump, etc
+
+Network packet analysis is the process of capturing, recording, and analyzing network traffic to identify performance issues, troubleshoot network problems, and detect security threats. Tools like Wireshark and tcpdump are commonly used for this purpose.
+
+1. **Wireshark** is a free and open-source network protocol analyzer that allows users to see what's happening on their network at a microscopic level. It can capture and display packets in real-time or from a previously saved capture file. Wireshark supports a wide range of protocols and can decode and dissect many different types of packets.
+
+2. **tcpdump** is a command-line packet analyzer that allows users to capture and display packets on a network interface. It is available on many operating systems, including Linux, macOS, and Windows. tcpdump can capture packets in real-time or save them to a file for later analysis.
+
+Both Wireshark and tcpdump can be used to analyze network traffic and identify issues such as slow network performance, dropped packets, and security threats. They can also be used to troubleshoot network problems and verify that network protocols are working correctly.
+
+To use these tools, a user must have a basic understanding of network protocols and how they work. It is also important to have permission to capture and analyze network traffic, as this may be restricted by network policies or local laws.
+
+
+
+## Experiment 16 - Network simulation using tools like Cisco Packet Tracer, NetSim, OMNeT++, NS2, NS3, etc
+
+Network simulation is the technique of modeling the behavior of a network by calculating the interaction between the different network entities using mathematical formulas. Network simulation tools are software applications that allow network administrators and researchers to study the behavior of networks under different conditions.
+
+Some popular network simulation tools are:
+
+1. **Cisco Packet Tracer:** A network simulation tool developed by Cisco Systems that allows users to create network topologies, configure devices, and simulate network traffic.
+2. **NetSim:** A network simulation tool developed by Tetcos that supports a wide range of protocols and technologies, including routing, switching, and wireless.
+3. **OMNeT++:** An open-source, modular, component-based C++ simulation library and framework primarily used for building network simulators.
+4. **NS2:** An open-source, discrete-event network simulator primarily used for research and education.
+5. **NS3:** An open-source, discrete-event network simulator that is a successor to NS2 and is primarily used for research and education.
+
+These tools allow users to design and test network topologies, protocols, and configurations in a virtual environment before deploying them in a real network. This can help network administrators and researchers to identify and fix potential issues, optimize network performance, and evaluate new technologies.
+
+
+
+## Experiment 17 - Socket programming using UDP and TCP (e.g., simple DNS, data & time client/server, echo client/server, iterative & concurrent servers)
+
+Socket programming is a way of connecting two nodes on a network to communicate with each other. One socket (node) listens on a particular port at an IP, while the other socket reaches out to the other to form a connection. The server forms the listener socket while the client reaches out to the server.
+
+There are two widely used socket types, stream sockets, and datagram sockets. Stream sockets use TCP (Transmission Control Protocol), which is a reliable, stream-oriented protocol, and datagram sockets use UDP (User Datagram Protocol), which is unreliable and message-oriented.
+
+- **TCP** is a connection-oriented protocol, which means that a connection is established and maintained until the application programs at each end have finished exchanging messages. It determines how to break application data into packets that networks can deliver, sends packets to and accepts packets from the network layer, manages flow control, and handles retransmission of dropped or garbled packets as well as acknowledgment of all packets that arrive.
+
+- **UDP** is a simpler message-based connectionless protocol. Connectionless protocols do not set up a dedicated end-to-end connection. Communication is achieved by transmitting information in one direction from source to destination without verifying the readiness or state of the receiver.
+
+Some examples of applications that use socket programming are:
+
+- **Simple DNS**: DNS (Domain Name System) is used to translate human-readable domain names into IP addresses. A simple DNS application can be created using socket programming to send a domain name to a DNS server and receive the corresponding IP address.
+
+- **Data & Time Client/Server**: A data and time client/server application can be created using socket programming, where the client sends a request to the server for the current date and time, and the server responds with the requested information.
+
+- **Echo Client/Server**: An echo client/server application can be created using socket programming, where the client sends a message to the server, and the server responds by sending the same message back to the client.
+
+- **Iterative & Concurrent Servers**: An iterative server handles one client at a time, while a concurrent server can handle multiple clients simultaneously. Both types of servers can be created using socket programming.
+
+In summary, socket programming is a powerful tool for creating network-based applications using TCP and UDP protocols. It allows for the creation of a wide range of applications, from simple DNS and data & time client/server applications to more complex iterative and concurrent servers.
+
