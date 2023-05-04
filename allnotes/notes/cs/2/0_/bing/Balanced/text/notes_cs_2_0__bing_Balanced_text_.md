@@ -757,3 +757,170 @@ Real time systems are key pieces of technology, and as such, they are used in a 
 - A time-series database provides features such as high ingestion rate, compression, aggregation, and visualization.
 - A time-series database can also be distinguished from a real-time analytics system, which is a system that processes and analyzes data in real-time, such as streaming data, dashboards, and alerts.
 
+
+
+### Features of RTOS
+
+- A real-time operating system (RTOS) is an operating system with two key features: **predictability** and **determinism**. This means that it will execute tasks quickly and efficiently, responding as expected every time, within a tight time boundary .
+- An RTOS is **small**, **fast**, **responsive**, and **deterministic**. It occupies very less memory and consumes fewer resources.
+- An RTOS is distinct from a time-sharing operating system, such as Unix, which manages the sharing of system resources with a scheduler, data buffers, or fixed task prioritization in a multitasking or multiprogramming environment. An RTOS needs to have a clear understanding and bound of the processing time requirements rather than just keeping them as a minimum.
+- An RTOS can use different scheduling algorithms, such as **co-operative scheduling** or **pre-emptive scheduling**. In co-operative scheduling, the task will run until the execution is completed, and the kernel can only be set up in one way. In pre-emptive scheduling, each task has a unique priority value, and the faster the task, the higher the priority. The main advantage of pre-emptive scheduling is that it can handle multiple tasks with different deadlines and importance.
+- An RTOS can also provide other features, such as **inter-task communication**, **synchronization**, **memory management**, **device drivers**, **networking**, **security**, and **user interface**. These features can help the RTOS to support various applications and devices that require real-time performance and reliability.
+
+
+
+### Time Services for Real Time Systems
+
+- Time services are the functions and mechanisms that provide the ability to measure, represent, and manipulate time in real time systems.
+- Time services are essential for real time systems because they enable the following features :
+  - Timeliness: the ability to produce the expected result within a defined deadline.
+  - Time synchronization: the ability to coordinate independent clocks and operate together in unison.
+  - Time management: the ability to schedule, prioritize, and execute tasks according to their deadlines and resource requirements.
+  - Time analysis: the ability to monitor, verify, and optimize the temporal behavior and performance of the system.
+- Time services can be classified into two categories:
+  - Hardware time services: the physical devices and components that generate, distribute, and measure time signals, such as oscillators, timers, counters, and clocks.
+  - Software time services: the software modules and algorithms that implement time-related functions, such as time representation, time conversion, time synchronization, time stamping, and time-based scheduling.
+- Time services can be implemented using different approaches and techniques, depending on the requirements and characteristics of the real time system. Some examples are:
+  - Clock synchronization protocols: the methods that ensure that the clocks of different nodes in a distributed system are aligned and consistent, such as Network Time Protocol (NTP), Precision Time Protocol (PTP), and IEEE 1588.
+  - Time-based scheduling algorithms: the methods that determine the order and timing of task execution, such as rate-monotonic scheduling (RMS), earliest deadline first (EDF), and least laxity first (LLF).
+  - Time and attendance systems: the systems that track and record the working hours and activities of employees, such as Rippling, OnTheClock, and Time Doctor.
+
+
+
+### UNIX as RTOS
+
+- A real-time operating system (RTOS) is an operating system (OS) for real-time computing applications that processes data and events that have critically defined time constraints.
+- An RTOS is distinct from a time-sharing operating system, such as UNIX, which manages the sharing of system resources with a scheduler, data buffers, or fixed task prioritization in a multitasking or multiprogramming environment.
+- While a time-sharing OS like UNIX strives to provide good average performance, for an RTOS, correct timing is the key feature.
+- UNIX is not designed as an RTOS, but it can be modified or extended to support some real-time features, such as:
+  - Preemptive scheduling: the ability of the OS to interrupt a running process and switch to another one based on priority or deadline.
+  - Real-time signals: the ability of the OS to deliver signals to processes without delay or buffering.
+  - POSIX real-time extensions: a set of standards that define interfaces and behavior for real-time applications on UNIX-like systems.
+  - Real-time patches: a set of modifications to the Linux kernel that improve its responsiveness and determinism for real-time applications .
+- However, UNIX still faces some challenges when used as an RTOS, such as:
+  - Non-deterministic memory management: the OS may perform memory allocation or deallocation at unpredictable times, causing delays or fragmentation .
+  - Non-deterministic I/O operations: the OS may block or delay processes that perform I/O operations, such as disk or network access, depending on the availability of resources or the state of the device drivers .
+  - Non-deterministic interrupts: the OS may handle hardware or software interrupts at different times or with different priorities, depending on the load or configuration of the system .
+  - Non-deterministic system calls: the OS may execute system calls with varying latency or overhead, depending on the implementation or the parameters of the call .
+- Therefore, UNIX is not a suitable choice for hard real-time applications, which require strict and predictable timing guarantees, but it may be acceptable for soft real-time applications, which can tolerate some degree of variability or uncertainty in timing  .
+
+
+
+### POSIX Issues
+
+- POSIX stands for Portable Operating System Interface, and it is a set of standards that define how an application can interact with an operating system.
+- POSIX was originally designed for UNIX systems, but it has been extended to cover other operating systems, including real-time operating systems (RTOS).
+- RTOS are operating systems that provide predictable and timely responses to events, such as sensor inputs, user commands, or network messages.
+- RTOS are often used in embedded systems, such as automotive, aerospace, industrial, or medical applications, where reliability, safety, and performance are critical.
+- POSIX issues for RTOS include:
+  - How to extend the POSIX standard to include the OS services that are needed by real-time applications, such as scheduling, synchronization, memory management, inter-process communication, timers, and signals.
+  - How to ensure that the POSIX interfaces are consistent, portable, and interoperable across different RTOS implementations and platforms.
+  - How to balance the trade-offs between functionality, complexity, and efficiency of the POSIX interfaces for RTOS.
+  - How to test and verify the conformance and correctness of the POSIX interfaces for RTOS.
+- Some of the POSIX standards that address these issues are:
+  - POSIX.1b: Real-time extensions, which define the basic features for RTOS, such as priority-based scheduling, priority inheritance, real-time signals, timers, and clocks.
+  - POSIX.1c: Threads extensions, which define the support for multi-threading, such as thread creation, termination, synchronization, and scheduling.
+  - POSIX.4: Timers and IPC extensions, which define the additional features for RTOS, such as asynchronous I/O, message queues, semaphores, and shared memory.
+  - POSIX.13: Application environment profile, which define the minimum set of POSIX features that an RTOS should support for real-time applications.
+
+
+
+### Characteristics of Temporal Data
+
+- Temporal data is the data that is valid only for a prescribed time and becomes invalid or obsolete after a certain period of time.
+- Temporal data can represent time in different forms, such as dates, intervals, durations, events, cycles, or sequences.
+- Temporal data can be used to analyze weather patterns, traffic conditions, demographic trends, and other phenomena that change over time.
+- Temporal data can have different aspects, such as valid time, transaction time, or decision time.
+  - Valid time is the time period during or event time at which a fact is true in the real world.
+  - Transaction time is the time at which a fact was recorded in the database.
+  - Decision time is the time at which a fact was decided or acted upon.
+- Temporal data can be stored in different ways, such as using timestamps, temporal attributes, temporal tables, or temporal databases.
+  - Timestamps are values that indicate the time of occurrence or validity of a data item.
+  - Temporal attributes are attributes that store temporal information, such as start date, end date, or duration.
+  - Temporal tables are tables that store temporal data, such as history tables, snapshot tables, or audit tables.
+  - Temporal databases are databases that support temporal data and operations, such as temporal queries, temporal constraints, or temporal consistency.
+
+
+
+### Temporal Consistency
+
+- Temporal consistency is a property of real-time systems that ensures that the data stored in the database reflects the current state of the physical environment.
+- Temporal consistency is different from logical consistency, which is a property of non-real-time systems that ensures that the data stored in the database satisfies the integrity constraints and the application logic.
+- Temporal consistency is important for real-time systems because they need to make decisions and take actions based on the most up-to-date information about the physical environment.
+- Temporal consistency can be violated by two factors: data staleness and data inconsistency.
+  - Data staleness occurs when the data stored in the database is outdated and does not reflect the current state of the physical environment. This can happen due to delays in data acquisition, transmission, processing, or storage.
+  - Data inconsistency occurs when the data stored in the database is contradictory and does not agree with the data from other sources. This can happen due to errors in data acquisition, transmission, processing, or storage, or due to concurrent updates by multiple transactions.
+- Temporal consistency can be measured by two metrics: absolute validity and relative validity.
+  - Absolute validity is a metric that defines a maximum allowable difference between the data stored in the database and the data from the physical environment. If the difference exceeds this limit, the data is considered invalid and temporally inconsistent.
+  - Relative validity is a metric that defines a maximum allowable difference between the data stored in the database and the data from other sources. If the difference exceeds this limit, the data is considered invalid and temporally inconsistent.
+- Temporal consistency can be maintained by various techniques, such as triggered updates, temporal caching, temporal replication, temporal partitioning, and temporal locking  .
+  - Triggered updates are a technique that updates the data stored in the database whenever there is a significant change in the data from the physical environment or other sources. This technique reduces data staleness and inconsistency, but may increase the overhead of data acquisition, transmission, processing, and storage.
+  - Temporal caching is a technique that stores the most frequently accessed or recently updated data in a fast memory, such as cache or main memory. This technique reduces data staleness and inconsistency, but may increase the memory consumption and the risk of data loss.
+  - Temporal replication is a technique that stores multiple copies of the same data in different locations, such as different nodes or disks. This technique reduces data staleness and inconsistency, but may increase the storage consumption and the complexity of data synchronization.
+  - Temporal partitioning is a technique that divides the data stored in the database into different partitions based on their temporal characteristics, such as validity period, update frequency, or access pattern. This technique reduces data staleness and inconsistency, but may increase the complexity of data management and query processing.
+  - Temporal locking is a technique that controls the concurrent access and update of the data stored in the database by different transactions. This technique reduces data inconsistency, but may increase the overhead of concurrency control and the risk of deadlock or starvation.
+
+
+
+### Concurrency Control
+
+- Concurrency control is a procedure of managing simultaneous operations on a database without conflicting with each other.
+- Concurrency control ensures that database transactions are performed concurrently and accurately to produce correct results without violating data integrity of the database.
+- Concurrency control is especially important for real-time database systems, where transactions have timing constraints and must be completed before their deadlines.
+- Concurrency control in real-time database systems should consider both data consistency and timing constraints, and also adapt to changes in the operating environment and guarantee the completion of critical transactions.
+
+### Concurrency Control Methods
+
+- There are two main methods of concurrency control: locking-based and timestamp-based.
+- Locking-based methods use locks to prevent concurrent transactions from accessing the same data item in conflicting modes (read or write).
+- Timestamp-based methods use timestamps to order the transactions and ensure that older transactions are not affected by newer ones.
+- Both methods have advantages and disadvantages, and different variants and extensions have been proposed to improve their performance and suitability for real-time database systems  .
+
+### Locking-Based Methods
+
+- Locking-based methods use two types of locks: shared locks and exclusive locks.
+- Shared locks allow multiple transactions to read the same data item, but prevent any transaction from writing it.
+- Exclusive locks allow only one transaction to access the data item, either in read or write mode.
+- A transaction must acquire the appropriate lock before accessing a data item, and release it after finishing the operation.
+- A transaction can be blocked if it requests a lock that is already held by another transaction in a conflicting mode.
+- A deadlock can occur if two or more transactions are waiting for each other to release their locks.
+- Locking-based methods can use different protocols to grant and release locks, such as two-phase locking, strict two-phase locking, rigorous two-phase locking, etc.
+- Locking-based methods can also use different techniques to prevent or resolve deadlocks, such as deadlock prevention, deadlock detection, deadlock avoidance, etc.
+- Locking-based methods can be integrated with real-time scheduling protocols, such as priority ceiling protocol, to improve the performance and predictability of real-time transactions.
+
+### Timestamp-Based Methods
+
+- Timestamp-based methods use timestamps to order the transactions and ensure that older transactions are not affected by newer ones.
+- A timestamp is a unique identifier that reflects the start time or the priority of a transaction.
+- A transaction must have a timestamp before accessing any data item, and the timestamp is fixed throughout the execution of the transaction.
+- A data item has two timestamps: read timestamp and write timestamp, which record the latest timestamps of the transactions that have read or written the data item.
+- A transaction can access a data item only if its timestamp is compatible with the timestamps of the data item, according to some rules.
+- A transaction can be aborted if it violates the timestamp ordering rules, and restarted with a new timestamp.
+- Timestamp-based methods can avoid deadlocks, but may cause more aborts and restarts than locking-based methods.
+- Timestamp-based methods can use different variants and extensions, such as optimistic concurrency control, multiversion concurrency control, etc .
+
+
+
+### Overview of Commercial Real Time databases
+
+- A real-time database is a database system that uses real-time processing to handle workloads whose state is constantly changing.
+- Real-time databases are useful for accounting, banking, law, medical records, multi-media, process control, reservation systems, and scientific data analysis.
+- Real-time databases can be classified into two types: hard real-time and soft real-time.
+  - Hard real-time databases have strict timing constraints and must guarantee that transactions are completed within their deadlines, otherwise the system may fail.
+  - Soft real-time databases have more relaxed timing constraints and can tolerate some degree of deadline misses, but still aim to optimize the performance and quality of service.
+- Some of the attributes of live real-time databases are:
+  - Concurrency control: the ability to handle multiple transactions accessing the same data without compromising data integrity or consistency.
+  - Data freshness: the degree to which the data reflects the current state of the real world.
+  - Data distribution: the ability to store and access data across multiple nodes or locations for scalability and availability.
+  - Data replication: the ability to create and maintain copies of data for fault tolerance and load balancing.
+  - Data recovery: the ability to restore data in case of failures or errors.
+  - Data security: the ability to protect data from unauthorized access or modification.
+  - Data analysis: the ability to perform queries and computations on the data to derive insights and intelligence.
+  - Data visualization: the ability to present the data in a graphical or interactive form to facilitate understanding and decision making.
+- Some of the examples of commercial real-time databases are :
+  - Dealpath: a cloud-based platform that provides data and analytics for commercial real estate transactions and portfolios.
+  - Altus Group: a data provider that offers historical and current information on commercial real estate markets and deals.
+  - CoStar: a leading provider of commercial real estate data and analytics, covering properties, tenants, leases, sales, and trends.
+  - Google Cloud Firestore: a highly scalable and performant NoSQL database service that supports real-time data synchronization and offline access.
+  - Google Cloud Bigtable: a fully managed NoSQL database service that handles large analytical and operational workloads with high availability and low latency.
+
