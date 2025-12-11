@@ -1,41 +1,78 @@
-# Python Bytecode and Cache
-*.pyc
+# Byte-compiled / optimized / DLL files
 __pycache__/
+*.pyc
+*.pyd
+*.pyo
 
-# IDEs and Editors
+# Distribution / packaging
+.Python
+build/
+dist/
+wheels/
+*.egg-info/
+*.pak
+
+# Linting and testing caches
+.pytest_cache/
+.ruff_cache/
+.biome/
+
+# Virtual environment
+virtualenv/
+venv/
+venv_*
+env/
+env_*
+.venv/
+.uv/
+
+# Editors
 .vscode/
 .idea/
 *.sublime-project
 *.sublime-workspace
+*.iml
 
-# Virtual Environments
-virtualenv/
-env/
-venv/
-.venv/
-
-# Build Artifacts
-dist/
-build/
-*.egg-info/
-
-# Testing Artifacts
-.pytest_cache/
-.coverage
-htmlcov/
-
-# OS Specific
+# OS-specific files
 .DS_Store
 Thumbs.db
 
-# Secrets and Credentials (Never commit these!)
-*.env
-.env*
-secrets.yaml
-credentials.json
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
 
-# Jupyter Notebook Checkpoints
-.ipynb_checkpoints/
+# Jupyter Notebook files
+.ipynb_checkpoints
 
-# Ruff Cache
-.ruff_cache/
+# Specific to academic/coursework often found in Python projects
+# Remove or comment out if not applicable to specific project files
+*.data
+*.pickle
+*.csv
+*.json
+*.sqlite3
+*.db
+*.h5
+*.hdf5
+
+# Configuration files, if not meant for version control
+# .env
+# *.env
+# config.ini
+
+# Output directories for reports or generated content
+reports/
+output/
+results/
+
+# pytest cache files
+.coverage
+.coverage.*
+htmlcov/
+
+# Any specific large data files often generated or included in coursework
+# that should not be committed
+# large_data_file.npy
+# model_weights.pt
+# dataset/
