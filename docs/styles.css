@@ -1,0 +1,222 @@
+Here is the content for the `styles.css` file:
+
+```css
+/* Global Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #f0f0f0;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Header Styles */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+/* Main Content Styles */
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em;
+}
+
+/* Glassmorphism Styles */
+.glassmorphism {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 20px;
+}
+
+/* Footer Styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+  clear: both;
+}
+
+footer p {
+  margin-bottom: 10px;
+}
+
+/* About Page Styles */
+.about-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em;
+}
+
+.resume-layout {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 20px;
+  padding: 20px;
+}
+
+.resume-section {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 20px;
+}
+
+/* Contact Page Styles */
+.contact-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+/* Responsive Design */
+@media only screen and (max-width: 768px) {
+  main {
+    padding: 1em;
+  }
+  .about-page {
+    padding: 1em;
+  }
+  .contact-page {
+    padding: 1em;
+  }
+}
+
+/* Footer Copyright */
+.copyright {
+  font-size: 12px;
+  color: #666;
+}
+
+.copyright a {
+  text-decoration: none;
+  color: #666;
+}
+
+.copyright a:hover {
+  color: #333;
+}
+```
+
+And here's an example of how you can use the above CSS styles in your HTML files:
+
+**index.html**
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EnginuityPortfolio-Python-Engineering-Coursework-Archive</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>EnginuityPortfolio-Python-Engineering-Coursework-Archive</h1>
+  </header>
+  <main>
+    <div class="glassmorphism">
+      <!-- Main content here -->
+    </div>
+  </main>
+  <footer>
+    <p>&copy; 2026 Chirag Singhal | Designed by Chirag Singhal</p>
+  </footer>
+</body>
+</html>
+```
+
+**about.html**
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About | EnginuityPortfolio-Python-Engineering-Coursework-Archive</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>About</h1>
+  </header>
+  <main>
+    <div class="about-page">
+      <div class="resume-layout">
+        <div class="resume-section">
+          <!-- Resume section content here -->
+        </div>
+        <div class="resume-section">
+          <!-- Resume section content here -->
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <p>&copy; 2026 Chirag Singhal | Designed by Chirag Singhal</p>
+  </footer>
+</body>
+</html>
+```
+
+**contact.html**
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | EnginuityPortfolio-Python-Engineering-Coursework-Archive</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Contact</h1>
+  </header>
+  <main>
+    <div class="contact-page">
+      <div class="contact-form">
+        <form>
+          <!-- Contact form fields here -->
+        </form>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <p>&copy; 2026 Chirag Singhal | Designed by Chirag Singhal</p>
+  </footer>
+</body>
+</html>
+```
+Note that you'll need to modify the HTML files to include the actual content and structure of your website. The above examples are just a starting point.
