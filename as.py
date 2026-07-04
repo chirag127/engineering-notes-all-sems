@@ -47,7 +47,7 @@ def main(file_name):
     syllables = unduplicate_syllables
 
     print(titles)
-    openai.api_key = "***REMOVED***"
+    openai.api_key = "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"
     try:
         for syllable in syllables:
             file_of_syllable = f"{folder_name}/{syllables.index(syllable)}_{titles[syllables.index(syllable)]}.txt"

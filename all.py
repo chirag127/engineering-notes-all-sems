@@ -16,11 +16,11 @@ from revChatGPT.Official import Chatbot
 
 
 api_keys = [
-    "***REMOVED***",
-    "***REMOVED***",
-    "***REMOVED***",
-    "***REMOVED***",
-    "***REMOVED***",
+    "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",
+    "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",
+    "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",
+    "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",
+    "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",
 ]
 chatbot1 = Chatbot(api_key=api_keys[0])
 chatbot2 = Chatbot(api_key=api_keys[1])
