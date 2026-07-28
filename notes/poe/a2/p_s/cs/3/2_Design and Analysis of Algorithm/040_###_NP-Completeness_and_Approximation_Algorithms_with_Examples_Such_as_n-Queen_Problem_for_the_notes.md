@@ -1,3 +1,0 @@
- Here is the content in markdown format for the topic ### NP-Completeness and Approximation Algorithms with Examples Such as n-Queen Problem for the notes of the Unit 5 - NP-Completeness and Approximation Algorithms with Examples Such as Travelling Salesman Problem, Graph Coloring, n-Queen Problem, Hamiltonian Cycles and Sum of Subsets. NP-Completeness and Approximation Algorithms with Examples Such as Travelling Salesman Problem, Graph Coloring, n-Queen Problem, Hamiltonian Cycles and Sum of Subsets. in the subject of Design and Analysis of Algorithm:
-
-NP-Completeness and Approximation Algorithms with Examples Such as n-Queen Problem

@@ -1,9 +1,0 @@
-
-### Task Execution for the Notes of Unit 3 - Map Reduce in the Subject of Big Data
-
-* Map Reduce is a programming model used for processing large data sets in a distributed computing environment. It is based on the divide-and-conquer principle, which splits a problem into smaller chunks and distributes them to multiple computers for processing in parallel.
-* The Map Reduce programming model consists of two main phases: the **Map** phase and the **Reduce** phase. In the Map phase, the data is divided into smaller chunks and each chunk is processed by a separate computer. The results of the Map phase are then passed to the Reduce phase, where the results from the Map phase are aggregated and combined into a single result.
-* Map Reduce can be used for a variety of tasks, including sorting, counting, filtering, and joining data sets. It is also used for data mining, machine learning, and natural language processing.
-* Map Reduce is a powerful tool for processing large data sets, but it is important to understand its advantages and disadvantages. One advantage is that it can process large data sets in parallel, which makes it faster than traditional processing methods. However, it can be difficult to debug and maintain, and its scalability can be limited.
-* Examples of applications of Map Reduce include web search engines, recommendation systems, and data analysis. It can also be used to analyze large amounts of data in real-time, such as in fraud detection and network monitoring.
-* To summarize, Map Reduce is a powerful programming model used for processing large data sets in a distributed computing environment. It is based on the divide-and-conquer principle and consists of two main phases: the Map phase and the Reduce phase. It can be used for a variety of tasks and has many applications, but it is important to understand its advantages and disadvantages.

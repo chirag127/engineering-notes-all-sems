@@ -1,9 +1,0 @@
-
-### Argumentation among Agents 
-Argumentation among agents is a type of Artificial Intelligence (AI) technology that enables autonomous agents to engage in argumentation with one another. Argumentation is the process of presenting and defending a claim or position with reasoning. Argumentation among agents is important for AI systems that need to interact with humans and other AI agents in order to complete tasks. 
-
-Argumentation among agents is based on the principles of argumentation theory, which was developed in the late 1970s. Argumentation theory is based on the idea that agents should be able to present and defend their positions in a logical and rational manner. Argumentation among agents involves the use of argumentation schemes, which are structures of argumentation that can be used to present a claim or position.
-
-Argumentation among agents can be used in a variety of applications, such as decision-making, problem-solving, and negotiation. In decision-making, argumentation among agents can be used to evaluate different options and come to a conclusion. In problem-solving, argumentation among agents can be used to identify solutions to a given problem. In negotiation, argumentation among agents can be used to come to an agreement between two or more parties.
-
-Argumentation among agents is a complex process that requires agents to have a high level of intelligence and the ability to reason. In order for argumentation among agents to be successful, agents must be able to identify relevant arguments, evaluate the arguments of others, and present their own arguments in a convincing manner. Argumentation among agents is an active area of research in AI, and there are many different approaches to argumentation that are being developed.

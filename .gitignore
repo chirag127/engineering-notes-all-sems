@@ -45,8 +45,15 @@ Thumbs.db
 # Jupyter Notebook files
 .ipynb_checkpoints
 
+# Secrets
+*.key
+.env
+
+# Note generation pipeline data (large, not needed for study)
+notes/
+p_s/
+
 # Specific to academic/coursework often found in Python projects
-# Remove or comment out if not applicable to specific project files
 *.data
 *.pickle
 *.csv
@@ -55,11 +62,6 @@ Thumbs.db
 *.db
 *.h5
 *.hdf5
-
-# Configuration files, if not meant for version control
-# .env
-# *.env
-# config.ini
 
 # Output directories for reports or generated content
 reports/
@@ -70,9 +72,3 @@ results/
 .coverage
 .coverage.*
 htmlcov/
-
-# Any specific large data files often generated or included in coursework
-# that should not be committed
-# large_data_file.npy
-# model_weights.pt
-# dataset/
