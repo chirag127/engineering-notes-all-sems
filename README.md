@@ -2,13 +2,11 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/chirag127/engineering-notes-all-sems?style=flat-square)](https://github.com/chirag127/engineering-notes-all-sems)
 [![License](https://img.shields.io/github/license/chirag127/engineering-notes-all-sems?style=flat-square)](LICENSE)
-[![GH Pages](https://img.shields.io/badge/site-live-brightgreen?style=flat-square)](https://chirag127.github.io/engineering-notes-all-sems/)
+[![Live site](https://img.shields.io/badge/site-live-brightgreen?style=flat-square)](https://engineering-notes-all-sems.oriz.in)
 
 AI-generated study notes for Computer Science engineering (AKTU). Generated using ChatGPT from official AKTU syllabus topics.
 
-## Live Site
-
-**https://chirag127.github.io/engineering-notes-all-sems/**
+**Live site: https://engineering-notes-all-sems.oriz.in**
 
 ## Contents
 
@@ -47,4 +45,4 @@ python scripts/generate_notes_threaded.py
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).
