@@ -2,14 +2,14 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/chirag127/ai-notes-toolkit?style=flat-square)](https://github.com/chirag127/ai-notes-toolkit)
 [![License](https://img.shields.io/github/license/chirag127/ai-notes-toolkit?style=flat-square)](LICENSE)
-[![Live Site](https://img.shields.io/badge/site-live-brightgreen?style=flat-square)](https://chirag127.github.io/ai-notes-toolkit/)
+[![Live Site](https://img.shields.io/badge/site-live-brightgreen?style=flat-square)](https://ai-notes-toolkit.oriz.in)
 [![Python](https://img.shields.io/badge/python-3.10+-blue?style=flat-square)](https://python.org)
 
 Python scripts for generating AI-powered study notes using Bing and POE APIs. Includes generated CS engineering notes in markdown format.
 
 ## Live Site
 
-**https://chirag127.github.io/ai-notes-toolkit/**
+**https://ai-notes-toolkit.oriz.in**
 
 ## Scripts
 
