@@ -1,0 +1,22 @@
+
+Introduction : Basic principles involved in developing a web site, Planning process , Domains and
+Hosting, Responsive Web Designing , Types of Websites (Static and Dynamic Websites), Web
+Standards and W3C recommendations,
+Introduction to HTML: What is HTML , HTML Documents, Basic structure of an HTML
+document , Creating an HTML document , Mark up Tags , Heading-Paragraphs , Line Breaks
+Elements of HTML: HTML Tags., Working with Text , Working with Lists, Tables and Frames,
+Working with Hyperlinks, Images and Multimedia, Working with Forms and controls ,l
+Concept of CSS: Creating Style Sheet, CSS Properties , CSS Styling(Background, Text Format,
+Controlling Fonts) , Working with block elements and objects , Working with Lists and Tables ,
+CSS Id and Class, Box Model(Introduction, Border properties, Padding Properties, Margin
+properties) CSS Advanced(Grouping, Dimension, Display, Positioning, Floating, Align, Pseudo
+class, Navigation Bar, Image Sprites, Attribute sector) , CSS Color , Creating page Layout and Site
+Designs.
+Introduction to Client Side Scripting , Introduction to Java Script , Javascript Types , Variables in
+JS, Operators in JS , Conditions Statements , Java Script Loops, JS Popup Boxes , JS Events , JS
+Arrays, Working with Arrays, JS Objects ,JS Functions , Using Java Script in Real time ,
+Validation of Forms, Related Examples
+Web Hosting: Web Hosting Basics , Types of Hosting Packages, Registering domains , Defining
+Name Servers , Using Control Panel, Creating Emails in Cpanel , Using FTP Client, Maintaining a
+Website
+Concepts of SEO : Basics of SEO, Importance of SEO, Onpage Optimization Basics

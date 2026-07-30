@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Engineering Notes — All Semesters</title>
+  <title>AKTU CS Notes</title>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -48,24 +48,25 @@
 </head>
 <body>
   <div class="card">
-    <h1>Engineering Notes</h1>
-    <p class="subtitle">AI-generated study notes for all semesters of CS engineering (AKTU). ChatGPT-generated markdown notes from official syllabus topics.</p>
+    <h1>AKTU CS Notes</h1>
+    <p class="subtitle">AI-generated study notes for all 8 semesters of CS engineering (AKTU syllabus). ChatGPT-generated markdown notes from official syllabus topics.</p>
 
     <h2>Semesters</h2>
     <table>
       <thead><tr><th>Semester</th><th>Folder</th><th>Subjects</th></tr></thead>
       <tbody>
         <tr><td>1st</td><td><code>allnotes/cs/1/</code></td><td>Engineering Physics, Chemistry, Mathematics, Electrical, Electronics, Programming + labs</td></tr>
-        <tr><td>2nd</td><td><code>allnotes/cs/2/</code></td><td>Data Structures, Computer Organization, Python, AI</td></tr>
-        <tr><td>3rd</td><td><code>allnotes/cs/3/</code></td><td>DBMS, Compiler Design, Human Computer Interface</td></tr>
-        <tr><td>4th</td><td><code>allnotes/cs/4/</code></td><td>AI, Mobile Computing, IoT, Cloud Computing, Blockchain</td></tr>
+        <tr><td>2nd</td><td><code>allnotes/cs/2/</code></td><td>Data Structures, Computer Organization, Discrete Structures, OS, Python, AI</td></tr>
+        <tr><td>3rd</td><td><code>allnotes/cs/3/</code></td><td>DBMS, Compiler Design, DAA, Machine Learning, Software Engineering, Computer Networks</td></tr>
+        <tr><td>4th</td><td><code>allnotes/cs/4/</code></td><td>AI, NLP, Cryptography, Mobile Computing, IoT, Cloud Computing, Blockchain, Deep Learning</td></tr>
+        <tr><td>5th</td><td><code>allnotes/cs/5/</code></td><td>Compiler Design, DBMS, DAA, Machine Learning, COI, Web Design</td></tr>
       </tbody>
     </table>
 
     <h2>How Notes Were Generated</h2>
     <p>Python scripts in <code>scripts/</code> used the OpenAI API to generate detailed markdown notes for every topic in the official AKTU syllabus. Keys are read from environment variables — see <code>.env.example</code>.</p>
 
-    <a class="btn" href="https://github.com/chirag127/engineering-notes-all-sems">View on GitHub</a>
+    <a class="btn" href="https://github.com/chirag127/aktu-cs-notes">View on GitHub</a>
   </div>
   <footer>MIT License &mdash; chirag127</footer>
 </body>

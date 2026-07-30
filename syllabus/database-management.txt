@@ -1,0 +1,28 @@
+
+Introduction: Overview, Database System vs File System, Database System Concept and
+Architecture, Data Model Schema and Instances, Data Independence and Database Language and
+Interfaces, Data Definitions Language, DML, Overall Database Structure. Data Modeling Using the
+Entity Relationship Model: ER Model Concepts, Notation for ER Diagram, Mapping Constraints,
+Keys, Concepts of Super Key, Candidate Key, Primary Key, Generalization, Aggregation,
+Reduction of an ER Diagrams to Tables, Extended ER Model, Relationship of Higher Degree.
+
+Relational data Model and Language: Relational Data Model Concepts, Integrity Constraints,
+Entity Integrity, Referential Integrity, Keys Constraints, Domain Constraints, Relational Algebra,
+Relational Calculus, Tuple and Domain Calculus. Introduction on SQL: Characteristics of SQL,
+Advantage of SQL. SQl Data Type and Literals. Types of SQL Commands. SQL Operators and
+Their Procedure. Tables, Views and Indexes. Queries and Sub Queries. Aggregate Functions.
+Insert, Update and Delete Operations, Joins, Unions, Intersection, Minus, Cursors, Triggers,
+Procedures in SQL/PL SQL
+
+Data Base Design & Normalization: Functional dependencies, normal forms, first, second, 8 third
+normal forms, BCNF, inclusion dependence, loss less join decompositions, normalization using
+FD, MVD, and JDs, alternative approaches to database design
+
+Transaction Processing Concept: Transaction System, Testing of Serializability, Serializability of
+Schedules, Conflict & View Serializable Schedule, Recoverability, Recovery from Transaction
+Failures, Log Based Recovery, Checkpoints, Deadlock Handling. Distributed Database: Distributed
+Data Storage, Concurrency Control, Directory System.
+
+Concurrency Control Techniques: Concurrency Control, Locking Techniques for Concurrency
+Control, Time Stamping Protocols for Concurrency Control, Validation Based Protocol, Multiple
+Granularity, Multi Version Schemes, Recovery with Concurrent Transaction, Case Study of Oracle.

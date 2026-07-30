@@ -1,0 +1,29 @@
+INTRODUCTION – Learning, Types of Learning, Well defined learning problems, Designing a
+Learning System, History of ML, Introduction of Machine Learning Approaches – (Artificial
+Neural Network, Clustering, Reinforcement Learning, Decision Tree Learning, Bayesian
+networks, Support Vector Machine, Genetic Algorithm), Issues in Machine Learning and Data
+Science Vs Machine Learning;
+REGRESSION: Linear Regression and Logistic Regression
+BAYESIAN LEARNING - Bayes theorem, Concept learning, Bayes Optimal Classifier, Naïve
+Bayes classifier, Bayesian belief networks, EM algorithm.
+SUPPORT VECTOR MACHINE: Introduction, Types of support vector kernel – (Linear
+kernel, polynomial kernel,and Gaussiankernel), Hyperplane – (Decision surface), Properties of
+SVM, and Issues in SVM.
+DECISION TREE LEARNING - Decision tree learning algorithm, Inductive bias, Inductive
+inference with decision trees, Entropy and information theory, Information gain, ID-3 Algorithm,
+Issues in Decision tree learning.
+INSTANCE-BASED LEARNING – k-Nearest Neighbour Learning, Locally Weighted
+Regression, Radial basis function networks, Case-based learning.
+ARTIFICIAL NEURAL NETWORKS – Perceptron’s, Multilayer perceptron, Gradient
+descent and the Delta rule, Multilayer networks, Derivation of Backpropagation Algorithm,
+Generalization, Unsupervised Learning – SOM Algorithm and its variant;
+DEEP LEARNING - Introduction,concept of convolutional neural network , Types of layers –
+(Convolutional Layers , Activation function , pooling , fully connected) , Concept of Convolution
+(1D and 2D) layers, Training of network, Case study of CNN for eg on Diabetic Retinopathy,
+Building a smart speaker, Self-deriving car etc.
+REINFORCEMENT LEARNING–Introduction to Reinforcement Learning , Learning
+Task,Example of Reinforcement Learning in Practice, Learning Models for Reinforcement –
+(Markov Decision process , Q Learning - Q Learning function, Q Learning Algorithm ),
+Application of Reinforcement Learning,Introduction to Deep Q Learning.
+GENETIC ALGORITHMS: Introduction, Components, GA cycle of reproduction, Crossover,
+Mutation, Genetic Programming, Models of Evolution and Learning, Applications.

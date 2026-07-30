@@ -1,0 +1,813 @@
+
+
+
+Introduction: Overview
+
+A database management system (DBMS) is a collection of programs that helps you store, retrieve, and manage data. A DBMS makes it possible to organize data into tables, fields, and records. In a way, a DBMS is like a filing system for a paper-based office: It stores information so that it can be found again later.
+
+A DBMS is a complex set of software programs that controls the organization, storage, and retrieval of data in a database. A DBMS accepts requests for data from the application program and instructs the operating system to transfer the appropriate data. When a DBMS is used, information systems can be changed much more easily as the data is stored in a central location. In addition, a DBMS can enforce rules to protect the data, help manage the database, and provide access to multiple users.
+
+The three main types of DBMS are relational, object-oriented, and network. A relational DBMS stores data in tables. An object-oriented DBMS stores data as objects. A network DBMS stores data in a network.
+
+
+Database System vs File System
+
+A database system is a collection of data that is organized in a specific way, typically in tables and fields in a relational database, or as documents in a document-oriented database. A file system is a collection of files that are organized in a specific way, typically in a hierarchical directory structure.
+
+
+Database System Concept and
+Architecture
+
+A database system is a collection of data that is organized in a specific way. A database system
+has a structure that is used to store data in a way that is easy to retrieve, update, and delete.
+A database system also has a set of rules that govern how the data is organized and how the data
+is accessed.
+
+A database system is made up of three components:
+
+1. The data: This is the information that is stored in the database.
+
+2. The database management system (DBMS): This is the software that is used to manage the database.
+
+3. The database server: This is the computer that stores the database.
+
+The data in a database is organized into tables. Tables are similar to folders in a file system.
+Each table contains a collection of data that is related to a specific topic. For example, a table
+might contain a list of customers, a list of products, or a list of orders.
+
+Tables are made up of columns and rows. Columns are the fields in the table, and rows are the records
+in the table. For example, a customer table might have columns for the customer’s name, address,
+and phone number. Each row in the table would contain the data for one customer.
+
+The database management system (DBMS) is the software that is used to manage the database. The
+DBMS is responsible for creating, updating, and deleting the data in the database. The DBMS is
+also responsible for providing access to the data in the database.
+
+The database server is the computer that stores the database. The database server can be a
+dedicated computer that is used only for storing the database, or it can be a general-purpose
+computer that also runs other applications.
+
+When you access a database, you use the DBMS to connect to the database server. The DBMS then
+sends the data from the database to your computer.
+
+
+Data Model Schema and Instances
+
+A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized, and manipulated. Most commonly, the term "database model" refers to a logical model, which is often used as a design blueprint from which physical databases can be built. A database model is a collection of concepts that can be used to describe the structure of a database. These concepts are represented by graphical symbols that contain all the necessary information to generate a database. The most popular database models are the relational model, the network model, and the hierarchical model.
+
+A database schema is the skeleton structure that represents the logical view of the entire database. It defines how data is related to each other in the database. The schema also defines the structure of the database tables, the data types of the columns, and the relationships between the tables.
+
+A database instance is a copy of the data from a database that is running on a computer. The term can also refer to the software that is used to access the data, or the computer on which the software is running.
+
+
+Data Independence and Database Language and
+Interfaces
+
+Data independence means that the database can be changed without affecting the application that accesses the database. There are two types of data independence: physical data independence and logical data independence.
+
+Physical data independence means that the physical structure of the database can be changed without affecting the application that accesses the database. For example, the database can be moved to a different server without affecting the application.
+
+Logical data independence means that the logical structure of the database can be changed without affecting the application that accesses the database. For example, the database can be redesigned to use a different data model without affecting the application.
+
+Database languages and interfaces are the ways that users and applications interact with the database. There are two types of database languages: data definition languages and data manipulation languages.
+
+Data definition languages are used to define the structure of the database. For example, a data definition language can be used to create a new table in the database.
+
+Data manipulation languages are used to manipulate the data in the database. For example, a data manipulation language can be used to insert new records into a database table.
+
+
+Data Definitions Language
+
+A data definition language (DDL) is a computer language used to create and modify the structure of database objects such as tables, indexes, and users. A DDL is used to specify the organization of data in a database. It is also used to specify the operations that can be performed on the data.
+
+
+DML
+
+Data manipulation language (DML) is a family of syntax elements used in databases for inserting, deleting and updating data. In a relational database, data is organized into tables. A table is a collection of rows, and each row has a unique identifier called a primary key.
+
+DML provides a way to manipulate data in the database. The most common DML statements are INSERT, UPDATE and DELETE. These statements are used to add, change or remove data from a database table.
+
+DML is a powerful tool for managing data in a database. However, it is important to use DML responsibly. DML can be used to make changes to the data in a database that can be difficult or impossible to undo. For this reason, it is important to have a good understanding of the data before using DML to manipulate it.
+
+
+Overall Database Structure. Data Modeling Using the
+Entity Relationship Model: ER Model Concepts
+
+In a database, the data model is the structure of the data, which is used to represent the data for the purposes of storage, querying, and manipulation. There are a number of different data models, but the most popular is the entity-relationship (ER) model.
+
+The ER model is based on the concept of an entity, which is any object that can be uniquely identified. An entity has a set of attributes, which are the properties that describe the entity. In addition, an entity can be related to other entities. These relationships can be one-to-one, one-to-many, or many-to-many.
+
+The ER model is a graphical representation of the data model. It is typically used to design databases. The ER model is not limited to databases, however. It can also be used to design other types of data models, such as those for XML documents.
+
+
+Notation for ER Diagram
+
+The notation for an ER diagram is quite simple. It is made up of three basic components: entities, attributes, and relationships.
+
+Entities are the things that we want to track in our database. For example, we might want to track information about employees, customers, or products. Each entity has a set of attributes that describe it. For example, an employee entity might have attributes such as name, employee ID, and date of birth.
+
+Relationships are the ways in which entities are connected to one another. For example, an employee might be related to a customer through an order.
+
+
+Mapping Constraints
+
+Mapping constraints are the restrictions that are placed on the mapping of data from one format to another. These constraints ensure that the data is mapped correctly and accurately from one format to another. There are a variety of mapping constraints that can be used, and they are typically dependent on the specific needs of the organization.
+
+
+Keys
+
+A key is a set of one or more attributes that uniquely identifies an entity in an entity set. In other words, a key is a way to uniquely identify a specific row in a table. The purpose of a key is to allow the database to quickly identify and retrieve specific data from a table. There are two types of keys in a database: primary keys and foreign keys. A primary key is a unique identifier for a specific row in a table. A foreign key is a way to identify a specific row in another table that is related to the first table.
+
+
+Concepts of Super Key
+
+A superkey is a set of attributes within a relation (table) that uniquely identify a tuple (row). A superkey can be minimal, meaning that it contains the smallest set of attributes that can uniquely identify a tuple, or it can be non-minimal. In a relational database, a superkey is a set of one or more attributes that can uniquely identify a tuple. A superkey can be minimal, meaning that it contains the smallest set of attributes that can uniquely identify a tuple, or it can be non-minimal. In a relational database, a superkey is a set of one or more attributes that can uniquely identify a tuple.
+
+
+Candidate Key
+
+A candidate key is a set of one or more attributes that uniquely identify a tuple in a relation in a database. In other words, a candidate key is a minimal set of attributes that uniquely identify an entity in an entity set. A candidate key can be thought of as a unique identifier for a tuple.
+
+
+Primary Key
+
+A primary key is a column or set of columns in a database table that uniquely identify each row in the table. A primary key cannot contain NULL values. A table can have only one primary key, which may consist of single or multiple columns.
+
+
+Generalization
+
+In computer science, generalization is the process of representing information in a form that is more abstract and therefore less specific. For example, the concept of a "vehicle" can be generalized to the more abstract concept of a "transportation device." The process of generalization can be applied to data in a database to make it more abstract and easier to work with.
+
+Generalization is often used in data mining and machine learning to make data more manageable and easier to understand. It can also be used to make databases more compact and efficient. Generalization can be applied to data at different levels, such as attributes, tuples, or even whole tables.
+
+
+Aggregation
+
+In database management, aggregation refers to the gathering of data records into a single summary record. An aggregation function takes a set of records as input and outputs a single record. The input records can be from the same or from different data sources. The output record contains summary information that is based on the input records.
+
+There are two types of aggregation:
+
+1. Static aggregation: The input records are aggregated and the output record is generated at the time when the aggregation function is invoked.
+2. Dynamic aggregation: The input records are aggregated and the output record is generated every time the input records are updated.
+
+The most common aggregation functions are:
+
+1. SUM: This function adds up the values of the input records.
+2. COUNT: This function counts the number of input records.
+3. MIN: This function finds the minimum value of the input records.
+4. MAX: This function finds the maximum value of the input records.
+
+
+Reduction of an ER Diagrams to Tables
+
+The process of reducing an ER diagram to tables is known as normalization. Normalization is the process of decomposing a table into smaller tables while preserving the information in the original table. The process of normalization is often used to reduce the complexity of a database and to improve its performance.
+
+
+Extended ER Model
+
+An extended ER model is an enhanced version of the basic ER model that includes additional constructs to represent more complex business rules. The extended ER model includes several enhancements, such as:
+
+1. subclass and superclass relationships
+2. aggregation
+3. generalization
+4. association
+5. specialization
+6. inheritance
+
+
+Relationship of Higher Degree.
+
+A higher-degree relationship is a relationship in which the degree is greater than two. In a higher-degree relationship, there are three or more entities that are related to each other. Higher-degree relationships are usually represented using a graph.
+
+
+Relational data Model and Language: Relational Data Model Concepts
+
+A relational data model is a data model based on the relational model of data for representing data in the form of tables. The relational model is a mathematical model for representing data in the form of relations, which are a type of mathematical table. The relational model is widely used in database management systems (DBMSs).
+
+The basic idea of the relational model is that data is represented in the form of relations, which are mathematical tables. A relation is a set of tuples, which are rows in the table. Each tuple has a value for each attribute, which is a column in the table. The tuples in a relation are ordered by the values of their attributes.
+
+The relational model has a number of important features:
+
+• The data is represented in the form of mathematical relations, which makes it easy to reason about and manipulate.
+
+• The data is stored in the form of tables, which makes it easy to access and update.
+
+• The data is organized in a consistent and well-defined manner.
+
+• The relational model is simple and easy to understand.
+
+• The relational model is powerful and can represent a wide variety of data.
+
+The relational model is not without its drawbacks, however. The most significant drawback is that it is not well suited for representing certain types of data, such as images and video.
+
+
+Integrity Constraints
+
+Integrity constraints are the rules that must be followed in order to maintain the correctness and consistency of data in a database. There are four types of integrity constraints: domain integrity, referential integrity, entity integrity, and business rules.
+
+Domain integrity constraints are rules that ensure the values in a column are of the correct data type and within the range of allowable values. For example, a column that stores dates must only contain values that are actually dates, and a column that stores a person's age must only contain values that are greater than or equal to zero.
+
+Referential integrity constraints are rules that ensure the values in a column are valid references to values in another column. For example, a column that stores a customer's ID must only contain values that are actually IDs of customers in the database.
+
+Entity integrity constraints are rules that ensure that the values in a column are unique and not null. For example, a column that stores a customer's ID must only contain unique values, and a column that stores a person's name must not contain null values.
+
+Business rules are rules that are specific to an organization and are not enforced by the database system. For example, a business rule may state that all customers must have a valid credit card on file. Business rules are typically enforced by application code, not by the database system.
+
+
+Entity Integrity
+
+Entity integrity is the integrity rule that requires all primary key values to be unique and not null.
+
+This rule ensures that each row in a table is uniquely identified by its primary key value. This is important because primary key values are often used to reference other data in the database, and if they are not unique, data can be incorrectly linked.
+
+Entity integrity is usually enforced by database management systems through the use of primary key constraints.
+
+
+Referential Integrity
+
+In database management, referential integrity is the concept of maintaining the relationship between two pieces of data in a database. For example, when a customer places an order with a company, the company must have a record of that customer in their database in order to process the order. If the customer's information is not in the database, then the order cannot be processed.
+
+The term "referential integrity" is used to describe the relationship between two pieces of data in a database. In the example above, the customer's information is related to the order that was placed. The customer's information is the "parent" data, and the order is the "child" data. The relationship between the parent and child data is known as a "foreign key relationship."
+
+In order for referential integrity to be maintained, the data in the child table must match the data in the parent table. In the example above, if the customer's information is not in the database, then the order cannot be processed.
+
+There are two ways to enforce referential integrity:
+
+1) Use a foreign key constraint.
+
+2) Use a trigger.
+
+A foreign key constraint is a rule that is enforced by the database management system. When data is inserted into the child table, the database management system will check to see if the data exists in the parent table. If the data does not exist, the insert will fail.
+
+A trigger is a piece of code that is executed when a certain event occurs. In the context of referential integrity, a trigger can be used to check the data in the child table before it is inserted. If the data does not exist in the parent table, the trigger can prevent the insert from happening.
+
+
+Keys Constraints
+
+A key is a set of one or more attributes that uniquely identify a row in a relation. Keys are also used to establish relationships among relations. In addition, keys can be used to enforce certain constraints on the data in a relation. For example, a primary key is a key that uniquely identifies a row in a relation. A foreign key is a key that is used to establish a relationship between two relations.
+
+
+Domain Constraints
+
+Domain constraints are the set of rules that restrict the values that can be stored in a database. These rules can be used to enforce data integrity and to ensure that data is consistent across a database. Domain constraints can be used to restrict the values that can be stored in a particular column, or to enforce relationships between columns.
+
+
+Relational Algebra
+
+Relational algebra is a procedural query language for databases, based on the algebra of relations. It is used to perform various operations on relations, like: selection, projection, union, set difference, cross product, etc. The output of one operation can be used as the input to another operation.
+
+Relational algebra is a powerful tool for reasoning about the semantics of database operations. By using algebraic laws, like commutativity, associativity, and distributivity, one can derive new expressions for queries that are equivalent to the original ones. For example, the following two expressions are equivalent:
+
+σ_age>30(Person)
+
+Person ∧ age>30
+
+The first expression is in relational algebra, while the second is in first-order logic. The algebraic laws that are used to derive the second expression from the first are as follows:
+
+σ_age>30(Person)
+
+= σ_age>30(Person ∧ True)
+
+= σ_age>30(Person) ∧ σ_age>30(True)
+
+= σ_age>30(Person) ∧ True
+
+= Person ∧ age>30
+
+
+Relational Calculus
+
+In relational calculus, a query is expressed as a formula with free variables that are existentially quantified (there exists ...) or universally quantified (for all ...). The formula can be thought of as a formula in first-order logic. In contrast, in relational algebra, all variables are bound (implicitly quantified universally).
+
+The most common form of relational calculus is tuple relational calculus, in which formulas are built up from relations using the logical connectives AND, OR, and NOT, and the quantifiers ∃ (there exists) and ∀ (for all). The following formula is an example of tuple relational calculus:
+
+∀x∃y (R(x, y))
+
+This formula can be read as "for all x, there exists a y such that x is related to y in R". In other words, the formula returns all pairs (x, y) such that x is related to y in R.
+
+Another form of relational calculus is domain relational calculus, in which formulas are built up from relations using the logical connectives AND, OR, and NOT, and the quantifiers ∃ (there exists) and ∀ (for all). The following formula is an example of domain relational calculus:
+
+∀x∃y (R(x, y))
+
+This formula can be read as "for all x, there exists a y such that x is related to y in R". In other words, the formula returns all pairs (x, y) such that x is related to y in R.
+
+
+Tuple and Domain Calculus. Introduction on SQL: Characteristics of SQL
+
+A tuple is an ordered set of elements, typically used to store related data. In database terms, a tuple is a row of data in a table. A domain is a set of values that a column in a database table can hold. In SQL, a domain is typically defined by a data type, such as INTEGER or VARCHAR.
+
+
+Advantage of SQL. SQl Data Type and Literals. Types of SQL Commands. SQL Operators and
+Their Procedure. Tables
+
+Advantage of SQL:
+
+1. SQL is easy to learn and use.
+2. SQL is easy to read and understand.
+3. SQL is easy to maintain and update.
+4. SQL is easy to scale.
+5. SQL is easy to port.
+6. SQL is easy to connect to other data sources.
+7. SQL is easy to extend.
+8. SQL is easy to embed in other programming languages.
+9. SQL is easy to use with programming languages.
+10. SQL is easy to use with web technologies.
+
+
+Views and Indexes. Queries and Sub Queries. Aggregate Functions.
+Insert
+
+Views:
+
+A view is a virtual table that is based on the result set of an SQL statement. A view consists of a set of named columns and rows of data. Views can be created from one or more tables, or other views. Views are typically used to provide security, simplify data management, and improve query performance.
+
+Indexes:
+
+An index is a data structure that improves the performance of SQL queries. Indexes can be created on one or more columns of a table, and they can be used to quickly locate rows that match a given value or range of values. Indexes are typically used to improve the performance of queries that retrieve data from large tables.
+
+Queries and Subqueries:
+
+A query is an SQL statement that is used to retrieve data from a database. A query can be a simple query that retrieves data from a single table, or a complex query that retrieves data from multiple tables. A subquery is a query that is nested inside another query. A subquery typically retrieves data from a single table, but it can also retrieve data from multiple tables.
+
+Aggregate Functions:
+
+Aggregate functions are SQL functions that perform calculations on a set of values. Aggregate functions return a single value, which is typically a summary of the data in a column or set of columns. Common aggregate functions include COUNT, SUM, MIN, and MAX.
+
+
+Update and Delete Operations
+
+Update: The process of changing data in a database is called updating data. The data in a database can be changed in many ways. The most common way to change data is to use the SQL UPDATE statement. The UPDATE statement changes data in existing table rows.
+
+Delete: The process of deleting data from a database is called deleting data. The data in a database can be deleted in many ways. The most common way to delete data is to use the SQL DELETE statement. The DELETE statement deletes data from existing table rows.
+
+
+Joins
+
+In a database, a join is used to combine data from two or more tables into a single result set. The columns in the result set will be the columns from the first table, followed by the columns from the second table.
+
+There are four different types of joins: inner, outer, left, and right.
+
+An inner join will only return rows where there is a match in both tables. An outer join will return all rows from one table, and any matching rows from the other table.
+
+A left join will return all rows from the first table, and any matching rows from the second table. A right join will return all rows from the second table, and any matching rows from the first table.
+
+
+Unions
+
+A union is a database object that combines the data from two or more tables into a single table. The tables that are combined are called member tables. A union is similar to a join in that it combines data from multiple tables. However, a union does not require that the member tables have any common columns.
+
+
+Intersection
+
+In database theory, an intersection is the result of two or more tables that have been joined together. The result of an intersection is a table that contains only those rows that appear in all of the tables that were used to create the intersection. In other words, an intersection is a way to combine two or more tables into one table.
+
+
+Minus
+
+A minus operator in SQL is used to return all rows from the first table listed that are not present in the second table listed. This operator is typically used to find rows in one table that are not present in another table.
+
+
+Cursors
+
+A cursor is a temporary work area created in system memory when a SQL statement is executed. It contains information on a selected set of rows and can be used to retrieve and manipulate this data. Cursors are created by the database server and are not visible to users.
+
+
+Triggers
+
+A database trigger is a stored procedure that is automatically executed when a database event occurs. Triggers are commonly used to maintain the integrity of data in a database, or to perform logging or auditing. A trigger can be executed when a row is inserted into a table, updated, or deleted.
+
+
+Procedures in SQL/PL SQL
+
+SQL/PL SQL procedures are stored programs that accept input, perform actions, and return output. They can be written in either SQL or PL/SQL and can be called from a variety of programming languages. Procedures can be used to encapsulate business logic, perform complex calculations, or return multiple values.
+
+SQL/PL SQL procedures can be written in either SQL or PL/SQL. SQL procedures are written in SQL and use SQL syntax. PL/SQL procedures are written in PL/SQL and use PL/SQL syntax. SQL procedures can be called from PL/SQL and vice versa.
+
+SQL/PL SQL procedures can be called from a variety of programming languages. In order to call a procedure from a programming language, the procedure must be wrapped in a language-specific wrapper. The wrapper is a shell that calls the procedure and handles any input/output.
+
+SQL/PL SQL procedures can be used to encapsulate business logic. Business logic is the code that implements the business rules of an application. By encapsulating business logic in procedures, it can be reused in multiple places without having to be rewritten each time.
+
+SQL/PL SQL procedures can be used to perform complex calculations. Procedures can take input values and perform calculations on them. The results of the calculations can be stored in variables or returned to the caller.
+
+SQL/PL SQL procedures can be used to return multiple values. Procedures can return multiple values by using OUT parameters. OUT parameters are variables that are passed in by the caller and populated by the procedure.
+
+
+Data Base Design & Normalization: Functional dependencies
+
+A functional dependency is a constraint between two sets of attributes in a relation. In other words, it defines a relationship between two columns in a table. This relationship indicates that the value of one attribute is determined by the value of another attribute.
+
+For example, consider a table that stores information about employees. The table has three columns: employee ID, last name, and first name. In this table, the employee ID is the determinant and the last name and first name are the dependent attributes. This means that the value of the last name and first name attributes is determined by the value of the employee ID attribute.
+
+Functional dependencies are important in database design because they can be used to determine the minimum set of attributes that must be included in a relation. They can also be used to ensure that the data in a relation is consistent.
+
+Normalization is the process of designing a database so that it is free of redundant data and is easy to maintain. Normalization involves decomposing a relation into smaller relations, each of which has a minimal number of attributes.
+
+The process of normalization typically involves the following steps:
+
+1. Identify the functional dependencies in the relation.
+
+2. Decompose the relation into smaller relations, each of which has a minimal number of attributes.
+
+3. Enforce the functional dependencies by creating appropriate constraints.
+
+4. Verify that the decomposition is lossless.
+
+5. Verify that the decomposition is dependency preserving.
+
+Functional dependencies are a critical part of database design. They are used to determine the minimum set of attributes that must be included in a relation. They can also be used to ensure that the data in a relation is consistent. Normalization is the process of designing a database so that it is free of redundant data and is easy to maintain. Normalization involves decomposing a relation into smaller relations, each of which has a minimal number of attributes.
+
+
+normal forms
+
+There are three normal forms in DBMS: first normal form (1NF), second normal form (2NF), and third normal form (3NF).
+
+1NF: A table is in first normal form if the values in each column are atomic. That is, each column contains a single value, and there are no repeating groups of columns.
+
+2NF: A table is in second normal form if it is in first normal form and all of the columns in the table are dependent on the primary key.
+
+3NF: A table is in third normal form if it is in second normal form and all of the columns in the table are dependent on the primary key.
+
+
+first
+
+The first in DBMS is a system that stores and manages databases. It provides users with a way to access and manipulate data in a database. A DBMS can be used to store data in a variety of formats, including text, images, and SQL.
+
+
+second
+
+Second, in DBMS terms, is a unit of time equal to 1/60th of a minute.
+
+
+8 third
+normal forms
+
+There are three general types of normalization: first, second and third normal form (1NF, 2NF, 3NF). Each successive normal form requires that the previous normal form has been met.
+
+1NF: A relation is in first normal form if it contains no repeating groups. In other words, if there are no two rows in the relation that have the same values for all of the columns.
+2NF: A relation is in second normal form if it is in first normal form and every non-key column is dependent on the key. In other words, if the values in each column are determined by the values in the key columns.
+3NF: A relation is in third normal form if it is in second normal form and every column that is not part of the key is non-transitively dependent on the key. In other words, if the values in each column are determined by the values in the key columns and there are no transitive dependencies.
+
+4NF: A relation is in fourth normal form if it is in third normal form and there are no multi-valued dependencies. In other words, if the values in each column are determined by the values in the key columns and there are no transitive dependencies.
+
+5NF: A relation is in fifth normal form if it is in fourth normal form and there are no join dependencies. In other words, if the values in each column are determined by the values in the key columns and there are no transitive dependencies.
+
+6NF: A relation is in sixth normal form if it is in fifth normal form and there are no partial dependencies. In other words, if the values in each column are determined by the values in the key columns and there are no transitive dependencies.
+
+7NF: A relation is in seventh normal form if it is in sixth normal form and there are no redundant dependencies. In other words, if the values in each column are determined by the values in the key columns and there are no transitive dependencies.
+
+8NF: A relation is in eighth normal form if it is in seventh normal form and there are no extraneous dependencies. In other words, if the values in each column are determined by the values in the key columns and there are no transitive dependencies.
+
+
+BCNF
+
+The Boyce–Codd normal form (BCNF) is a normal form used in relational database design. It is a slightly stronger version of the third normal form (3NF). BCNF was developed by Raymond F. Boyce and Edgar F. Codd while working at IBM in the 1970s.
+
+BCNF is designed to deal with certain types of anomalies that can occur in databases that are not in 3NF. These anomalies can lead to inconsistencies in the data, and can make it difficult to update the database in a consistent manner.
+
+BCNF deals with these problems by ensuring that every determinant in a table is a candidate key. A determinant is a column (or set of columns) that determines the value of another column. A candidate key is a column (or set of columns) that can uniquely identify a row in a table.
+
+Enforcing this condition ensures that every column in a table is functionally dependent on the candidate key, and is therefore fully determined by the key. This eliminates the possibility of any anomalies occurring.
+
+BCNF is a stronger form of normalization than 3NF, and as such, it is more difficult to achieve. In some cases, it may not be possible to achieve BCNF without compromising the functional dependencies in the database. In these cases, 3NF is a more suitable normal form.
+
+
+inclusion dependence
+
+Inclusion dependency (IND) is a database constraint that exists between two relations when the values in a column of one relation are a subset of the values in a column of the other relation. IND constraints can be used to enforce data integrity and to optimize query performance.
+
+
+loss less join decompositions
+
+A lossless join decomposition is a type of database normalization in which the original relation is split into two or more relations such that the join operation can be performed without losing any data. In other words, the decomposition preserves all the information in the original relation.
+
+There are two main types of lossless join decompositions: 1) 1NF decompositions and 2) BCNF decompositions. 1NF decompositions are lossless if and only if all the functional dependencies in the original relation are preserved in the decomposed relations. BCNF decompositions are always lossless.
+
+Lossless join decompositions are important because they allow the database to be normalized without losing any information. Normalization is a process of reducing data redundancy and improving data integrity. In many cases, normalization involves splitting a relation into multiple relations. However, if the decomposition is not lossless, some information may be lost in the process.
+
+Lossless join decompositions are not always possible. For example, consider the following relation:
+
+R(A,B,C,D)
+
+The functional dependencies in this relation are:
+
+A -> B
+
+C -> D
+
+There is no lossless join decomposition of this relation because there is no way to split it into two relations such that all the functional dependencies are preserved.
+
+
+normalization using
+FD
+
+In a relational database, normalization is the process of organizing the columns (attributes) and tables (relations) in a database to reduce data redundancy and improve data integrity. Normalization typically involves decomposing a table into smaller (and less redundant) tables and then linking them together using relationships.
+
+There are four main normal forms that are typically used in relational databases:
+
+First Normal Form (1NF)
+Second Normal Form (2NF)
+Third Normal Form (3NF)
+Boyce-Codd Normal Form (BCNF)
+
+First Normal Form (1NF)
+
+The first normal form is the most basic level of normalization. To be in first normal form, a table must meet the following criteria:
+
+Each column must contain a single value (no lists or arrays).
+Each row must be unique.
+There must be a primary key.
+
+Second Normal Form (2NF)
+
+A table is in second normal form if it meets the following criteria:
+
+It must be in first normal form.
+There must be no partial dependencies.
+
+Third Normal Form (3NF)
+
+A table is in third normal form if it meets the following criteria:
+
+It must be in second normal form.
+There must be no transitive dependencies.
+
+Boyce-Codd Normal Form (BCNF)
+
+A table is in Boyce-Codd normal form if it meets the following criteria:
+
+It must be in third normal form.
+There must be no functional dependencies on a proper subset of a candidate key.
+
+
+MVD
+
+MVD is a database management system (DBMS) that enables users to store, retrieve, and manipulate data in a database. MVD is a relational DBMS, which means that it stores data in tables and allows users to access and manipulate data in those tables using a set of well-defined rules. MVD is also a client-server DBMS, which means that it can be used in a distributed environment, with multiple users accessing the same database from different computers.
+
+
+and JDs
+
+A database management system (DBMS) is a computer program (or more typically, a suite of them) designed to manage a database, i.e. to maintain all of the data in it and provide ways for it to be changed while keeping track of who changed what and when. A DBMS generally manipulates the data itself, the data format, field names, record structure and file structure. It also defines rules to validate and process the data. Some DBMSs also offer additional features, such as the ability to define the data structure and the relationships between fields in the database (the database schema) and to manipulate that data structure.
+
+
+alternative approaches to database design
+
+There is no one definitive answer to this question. However, some common alternative approaches to database design in DBMSs include object-oriented design, data warehousing, and NoSQL.
+
+
+Transaction Processing Concept: Transaction System
+
+A transaction processing system (TPS) is a computer system, or software package, used to support transaction-oriented applications, typically for data entry and retrieval transaction systems. In a transaction processing system, data and programs are stored in a centralized location and processed as a single unit. A transaction is a unit of work that is processed by a transaction processing system. A transaction processing system typically consists of a database, a transaction manager, and a user interface.
+
+A database is a collection of data that is organized in a specific way. A transaction manager is a software program that manages the database and the transactions that are processed by the system. The user interface is the part of the system that allows users to interact with the system.
+
+A transaction processing system is used to process transactions. Transactions are units of work that are processed by a transaction processing system. A transaction processing system typically processes transactions in a batch mode. In a batch mode, a group of transactions is collected and processed together.
+
+A transaction processing system can also be used to process transactions in a real-time mode. In a real-time mode, transactions are processed as they occur.
+
+A transaction processing system can be used to support a variety of applications. Examples of applications that can be supported by a transaction processing system include:
+
+• Financial applications
+
+• Inventory control applications
+
+• Manufacturing applications
+
+• Retail applications
+
+• Transportation applications
+
+
+Testing of Serializability
+
+Testing of serializability in DBMS is a process of testing whether the execution of a set of concurrent transactions in a database system is equivalent to the execution of those same transactions in some serial order. The testing process involves creating a schedule of the transactions and then testing whether the schedule is equivalent to a serial schedule. If the schedule is not equivalent to a serial schedule, then the transactions are not said to be serializable.
+
+
+Serializability of
+Schedules
+
+In computer science, serializability is a property of a schedule of operations on a database.
+A schedule is serializable if its result is the same as if the operations of the schedule were executed
+ atomically, i.e. either all of them or none are executed. In contrast, a schedule that is not serializable
+ may produce a result that depends on the order of execution of the operations.
+
+For example, consider a database with two tables, A and B, each with a single column of integers.
+Suppose a schedule contains two operations, first a read of all the values in table A,
+ followed by a write of the value 42 into table B. If the schedule is executed atomically,
+ then all users will see the value 42 in table B. However, if the schedule is not atomic,
+ then some users may see the old values from table B, while others may see the value 42.
+
+In general, a schedule is serializable if it is equivalent to a serial schedule,
+ i.e. a schedule in which the operations are executed one at a time in some order.
+ For example, the schedule above is equivalent to the serial schedule consisting of
+  first the read operation on table A, followed by the write operation on table B.
+
+There are several different algorithms that can be used to check whether a schedule is serializable.
+ One of the simplest is the conflict serializability algorithm, which checks for
+  conflicts between operations in the schedule. An operation is in conflict with another operation
+   if they operate on the same data item and at least one of the operations is a write operation.
+
+If there are no conflicts between operations in the schedule, then the schedule is serializable.
+ However, if there are conflicts, then the schedule may or may not be serializable.
+  To determine whether a schedule with conflicts is serializable,
+   the conflict serializability algorithm checks for cycles in the conflict graph.
+    A conflict graph is a graph in which there is a vertex for each operation in the schedule
+     and an edge between two operations if they are in conflict.
+
+If the conflict graph contains a cycle, then the schedule is not serializable.
+ However, if the conflict graph is acyclic, then the schedule is serializable.
+
+The conflict serializability algorithm can be extended to check for other types of conflicts,
+ such as read-write conflicts and write-write conflicts. However, these extensions are beyond the scope of this article.
+
+
+Conflict & View Serializable Schedule
+
+Conflict Serializable:
+
+A schedule is conflict serializable if its conflict graph is acyclic.
+
+View Serializable:
+
+A schedule is view serializable if it is equivalent to a serial schedule in which all reads precede all writes.
+
+
+Recoverability
+
+Recoverability is the ability of a database management system (DBMS) to restore data to a consistent state following a transaction failure. A transaction is a set of one or more SQL statements that are executed as a single unit. A transaction failure can occur due to a system crash or a power outage.
+
+The DBMS must be able to recover from transaction failures in order to maintain the consistency of the data. To do this, the DBMS must keep track of all changes made to the data during a transaction. If a transaction fails, the DBMS can use the log to undo all of the changes made by the transaction.
+
+In order to ensure recoverability, the DBMS must log all changes made to the data. The log is a record of all changes made to the data. The DBMS uses the log to undo changes made by a failed transaction.
+
+The log is stored in a file, called the log file. The log file is located in the same directory as the data file. The log file is used to recovery the data in the event of a failure.
+
+The DBMS must have a way to recover from a failure. The recovery process is responsible for restoring the data to a consistent state. The recovery process uses the log file to undo all changes made by a failed transaction.
+
+The recovery process is automatic. The DBMS will automatically recover from a failure. The user does not need to do anything.
+
+The DBMS must be able to handle concurrent transactions. Concurrent transactions are transactions that are running at the same time. The DBMS must be able to handle multiple transactions that are running at the same time.
+
+The DBMS must be able to handle failures. The DBMS must be able to recover from a failure. The DBMS must be able to handle concurrent transactions.
+
+
+Recovery from Transaction
+Failures
+
+There are many different ways that a transaction can fail, but the most common way is for the transaction to be aborted due to an error. When this happens, the database must be able to recover the changes that were made by the transaction so that the database is in a consistent state.
+
+The first step in recovery is to undo any changes that were made by the transaction. This is done by restoring the database to the state it was in before the transaction started. The changes that were made by the transaction are then removed from the database.
+
+The second step in recovery is to redo any changes that were made by the transaction. This is done by applying the changes that were made by the transaction to the database. The changes are applied in the same order that they were made.
+
+The third step in recovery is to check the database for any inconsistencies. This is done by running a series of tests on the database. If any inconsistencies are found, they are corrected.
+
+The fourth step in recovery is to take the database offline. This is done so that the database can be backed up. Once the backup is complete, the database can be brought back online.
+
+The fifth step in recovery is to bring the database back online. This is done by starting the database server and making the database available to users.
+
+
+Log Based Recovery
+
+In log based recovery, the database uses a log to track changes made to the data. The log is a sequential record of all changes made to the database. When a transaction is committed, the log is updated with the changes. If a transaction is rolled back, the log is updated with the changes that were undone. The log is used to restore the database to a consistent state in the event of a failure.
+
+
+Checkpoints
+
+A checkpoint is a point in time at which the DBMS has recorded all changes to the database that were made up to that point. Checkpoints are used to improve the performance of the DBMS by reducing the amount of work that has to be done to recover the database in the event of a failure.
+
+
+Deadlock Handling. Distributed Database: Distributed
+Data Storage
+
+A distributed database is a database in which the data is stored on multiple computers. The data is spread across
+the computers in such a way that it can be accessed by multiple users simultaneously.
+
+A distributed database management system (DDBMS) is a software system that manages a distributed database.
+
+A DDBMS must have the following features:
+
+1. It must be able to store data on multiple computers.
+
+2. It must be able to replicate data across the computers in the system.
+
+3. It must be able to distribute data across the computers in the system.
+
+4. It must be able to manage concurrency control and recovery.
+
+5. It must be able to provide security.
+
+6. It must be able to support distributed query processing.
+
+7. It must be able to support distributed transaction processing.
+
+
+Concurrency Control
+
+Concurrency control is a database management technique that is used to manage simultaneous operations on a database. It ensures that data is consistent and correct by allowing only one transaction to modify the data at a time.
+
+Concurrency control is necessary because it allows multiple users to access and modify data concurrently without causing data inconsistencies. It also prevents data corruption by making sure that one transaction does not overwrite the changes made by another transaction.
+
+There are two main methods of concurrency control: locking and timestamping. Locking is the most common method and it works by giving each transaction a lock on the data it is accessing. This lock is released when the transaction is completed.
+
+Timestamping is another concurrency control method that works by giving each transaction a timestamp. Transactions are then processed in the order of their timestamps.
+
+
+Directory System.
+
+A directory is a file system cataloging structure that enables the identification, organization, and retrieval of files and other computer resources. A directory system is a set of rules and conventions that define how the files and other resources are named, organized, and accessed.
+
+
+Concurrency Control Techniques: Concurrency Control
+
+There are various methods of concurrency control in databases, which can be broadly classified into two categories:
+
+1) Locking-based methods
+2) Time-stamp based methods
+
+Locking-based methods use locks on data objects (i.e., tuples or pages) to control concurrent access. There are two types of locks:
+1) Shared locks (S-locks): allow concurrent transactions to read an object, but not to write it.
+2) Exclusive locks (X-locks): allow a transaction to read and write an object, but not allow any other transaction to read or write it.
+
+The main disadvantage of locking is that it may lead to deadlocks. A deadlock occurs when two or more transactions are waiting for each other to release a lock. Since each transaction is waiting for a lock to be released, none of the transactions can ever complete.
+
+Time-stamping based methods use timestamps to order transactions. Transactions are assigned timestamps when they start. A transaction can read an object only if the transaction started before the object was written (i.e., the transaction has a smaller timestamp). A transaction can write an object only if the transaction started after the object was last read or written (i.e., the transaction has a larger timestamp).
+
+The main disadvantage of time-stamping is that it requires all transactions to be known in advance. This is not always possible in practice.
+
+
+Locking Techniques for Concurrency
+Control
+
+Locking is a mechanism that allows DBMS to control concurrent access to data. Locking prevents two transactions from reading and writing the same data at the same time. It also prevents one transaction from reading data that another transaction is in the process of modifying.
+
+There are two types of locks: shared locks and exclusive locks. Shared locks allow multiple transactions to read data, but not write it. Exclusive locks allow only one transaction to read or write data.
+
+Locking is a necessary evil in any system that allows concurrent access to data. Without locks, it would be possible for two transactions to read the same data and get different results. For example, one transaction might read data that has been updated by another transaction but not yet committed. This would lead to inconsistency and data corruption.
+
+Locks also help to ensure the integrity of data. If two transactions are trying to update the same data, the DBMS can use locks to ensure that only one transaction can update the data at a time. This prevents data from being overwritten or lost.
+
+Locks can be placed on entire tables or on individual rows. The granularity of locks is an important consideration in designing a concurrent system. If locks are too coarse-grained (i.e. placed on entire tables), concurrency will be low. If locks are too fine-grained (i.e. placed on individual rows), performance will suffer.
+
+There are two general strategies for managing locks: lock-based concurrency control and timestamp-based concurrency control.
+
+Lock-based concurrency control uses locks to control access to data. Locks are acquired when data is read or written, and released when the transaction is finished.
+
+Timestamp-based concurrency control uses timestamps to control access to data. Each transaction is assigned a timestamp. A transaction can only read data that has a timestamp earlier than its own. A transaction can only write data that has a timestamp equal to or later than its own.
+
+Both lock-based and timestamp-based concurrency control have their pros and cons. Lock-based concurrency control is simple to implement but can lead to deadlocks. Timestamp-based concurrency control is more complex to implement but avoids the problem of deadlocks.
+
+The choice of concurrency control strategy depends on the needs of the application. In general, lock-based concurrency control is used for OLTP applications and timestamp-based concurrency control is used for OLAP applications.
+
+
+Time Stamping Protocols for Concurrency Control
+
+A time stamp is a sequence of characters or encoded information identifying when a certain event occurred, usually giving date and time of day, sometimes accurate to a small fraction of a second. They are typically associated with events such as a document's creation, modification, or printing. A time stamp may be associated with any digital document for purposes of identifying when the document was created, modified, or printed.
+
+
+Validation Based Protocol
+
+Validation Based Protocol is a database protocol that uses a set of rules to validate data before it is stored in the database. The protocol ensures that the data is valid and consistent with the rest of the data in the database.
+
+
+Multiple
+Granularity
+
+Multiple granularity is the ability of a database management system (DBMS) to support more than one level of granularity. Granularity is the level of detail in data. The three levels of granularity in data are:
+
+1. Coarse-grained data: This data contains high-level information and is not very detailed.
+
+2. Medium-grained data: This data contains more detailed information than coarse-grained data, but is not as detailed as fine-grained data.
+
+3. Fine-grained data: This data contains the most detailed information and is the most specific.
+
+A DBMS that supports multiple granularity can store data at any of these levels. This allows for more flexibility in how data is accessed and used.
+
+
+Multi Version Schemes
+
+Multi version schemes are used to provide concurrent access to the database by multiple users. In this scheme, each user is provided with a private copy of the database. The users can access and modify their own copy of the database. The changes made by one user are not visible to other users until the changes are committed. This scheme allows multiple users to access the database concurrently without affecting the performance of the system.
+
+
+Recovery with Concurrent Transaction
+
+Recovery with concurrent transactions is a database recovery technique that allows transactions to be processed concurrently, while still providing a consistent view of the database. This technique is used in systems where it is not possible or desirable to have a single, serialized view of the database.
+
+In a system with concurrent transactions, each transaction is processed independently of the others. However, the order in which the transactions are processed is not guaranteed. This can lead to inconsistencies in the database if two transactions attempt to update the same data.
+
+To overcome this problem, recovery with concurrent transactions uses a two-phase commit protocol. In the first phase, all of the transactions are prepared for commit. This phase ensures that all of the data is consistent and that no two transactions are attempting to update the same data.
+
+In the second phase, the transactions are committed in an order that is guaranteed to be safe. This ensures that the database is left in a consistent state.
+
+Recovery with concurrent transactions is a complex technique that requires careful planning and design. It is not appropriate for all systems. However, it can provide significant benefits in systems where it is necessary to provide a consistent view of the database while still allowing concurrent processing of transactions.
+
+
+Case Study of Oracle.
+
+A case study is an in-depth analysis of a real-life situation or incident, typically undertaken in order to learn about something or to help solve a problem. In business research, a case study is often used to provide a more detailed, in-depth analysis of a company or organisation.
+
+For example, a case study might be used to examine a company’s marketing strategy, or to explore the reasons behind a particular decisions. Case studies are also often used in teaching, as they can provide a real-life example of a business issue or problem.
+
+Oracle is a relational database management system (RDBMS) from the Oracle Corporation. It is a powerful, yet complex, system that is used by organisations all over the world.
+
+In a case study of Oracle, we might examine how the company’s database products are used by businesses, or how Oracle’s technology has evolved over time. We might also look at how Oracle has been affected by changes in the market, such as the rise of cloud computing.
+
