@@ -50,15 +50,17 @@ python scripts/generate_notes_threaded.py
 
 ## Question Papers
 
-Past AKTU exam question papers in `question-papers/`, organized by source:
+Past AKTU exam question papers (162 PDFs) are distributed as a downloadable archive in [**Releases**](https://github.com/chirag127/aktu-cs-notes/releases) to keep this repo lightweight.
 
-| Source | Path | Contents |
-|--------|------|----------|
-| ABES | `question-papers/abes/` | Papers scraped from ABES Engineering College — MP, TAFL, Mathematics |
-| AKTU Online | `question-papers/aktuonline/` | Papers from aktuonline.com — OS, TAFL, UH subjects |
-| Archive | `question-papers/archive/` | Archived 3rd-semester papers (COA, DS, DSTL, CSS, TC, SI) from both ABES and aktuonline |
+Download `aktu-question-papers.zip` from the [latest release](https://github.com/chirag127/aktu-cs-notes/releases/latest) and extract into `question-papers/`.
 
-Scrapers that collected these papers are in `scripts/qp_abes.py`, `scripts/qp_aktuonline.py`, `scripts/qp_function.py`.
+| Source | Subfolder | Contents |
+|--------|-----------|----------|
+| ABES | `abes/` | Papers from ABES Engineering College — MP, TAFL, Mathematics |
+| AKTU Online | `aktuonline/` | Papers from aktuonline.com — OS, TAFL, UH subjects |
+| Archive | `archive/` | Archived 3rd-semester papers (COA, DS, DSTL, CSS, TC, SI) |
+
+Scrapers: `scripts/qp_abes.py`, `scripts/qp_aktuonline.py`, `scripts/qp_function.py`.
 
 ## Contributing
 
