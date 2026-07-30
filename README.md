@@ -48,6 +48,18 @@ python scripts/generate_notes_threaded.py
 | `sem5_download_helper.py` | PDF download helper |
 | `sem5_search_helper.py` | Syllabus search helper |
 
+## Question Papers
+
+Past AKTU exam question papers in `question-papers/`, organized by source:
+
+| Source | Path | Contents |
+|--------|------|----------|
+| ABES | `question-papers/abes/` | Papers scraped from ABES Engineering College — MP, TAFL, Mathematics |
+| AKTU Online | `question-papers/aktuonline/` | Papers from aktuonline.com — OS, TAFL, UH subjects |
+| Archive | `question-papers/archive/` | Archived 3rd-semester papers (COA, DS, DSTL, CSS, TC, SI) from both ABES and aktuonline |
+
+Scrapers that collected these papers are in `scripts/qp_abes.py`, `scripts/qp_aktuonline.py`, `scripts/qp_function.py`.
+
 ## Contributing
 
 See [CONTRIBUTING.md](.github/../contributing) or open an issue using the bug-report template.

@@ -42,6 +42,9 @@ Thumbs.db
 *.tmp
 *.bak
 
+# Google Drive upload artifacts
+.tmp.driveupload/
+
 # Jupyter Notebook files
 .ipynb_checkpoints
 
