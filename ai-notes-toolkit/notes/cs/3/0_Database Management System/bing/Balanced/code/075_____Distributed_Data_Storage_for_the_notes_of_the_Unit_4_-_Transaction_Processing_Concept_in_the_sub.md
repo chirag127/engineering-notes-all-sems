@@ -1,0 +1,32 @@
+### Distributed Data Storage for the notes of the Unit 4 - Transaction Processing Concept in the subject of Database Management System
+
+- A distributed data store is a system that stores and processes data on multiple machines.
+- A distributed transaction is a set of operations on data that is performed across two or more data repositories (especially databases) .
+- The advantages of distributed data storage include:
+  - Higher availability and reliability of data
+  - Improved performance and scalability of the system
+  - Reduced communication and network costs
+  - Increased autonomy and security of the data
+- The challenges of distributed data storage include:
+  - Data consistency and concurrency control
+  - Distributed query processing and optimization
+  - Distributed transaction management and recovery
+  - Distributed schema design and data allocation
+- The concepts of distributed transaction processing include:
+  - Atomicity: A distributed transaction either commits or aborts as a whole
+  - Consistency: A distributed transaction preserves the integrity constraints of the data
+  - Isolation: A distributed transaction executes as if it is the only one in the system
+  - Durability: The effects of a committed distributed transaction are permanent
+- The techniques of distributed transaction management include:
+  - Two-phase commit protocol: A protocol that ensures atomicity of a distributed transaction by using a coordinator and participants
+  - Distributed concurrency control: A mechanism that ensures isolation of a distributed transaction by using locking, timestamping, or optimistic methods
+  - Distributed deadlock detection: A method that detects and resolves deadlocks among distributed transactions by using wait-for graphs, timeouts, or probes
+  - Distributed recovery: A process that ensures durability of a distributed transaction by using logging, checkpointing, and compensation
+- The examples of distributed data storage systems include:
+  - Distributed relational databases: Systems that store and manipulate data in tables distributed across multiple sites
+  - Distributed object databases: Systems that store and manipulate data in objects distributed across multiple sites
+  - Distributed file systems: Systems that store and manipulate data in files distributed across multiple sites
+  - Distributed key-value stores: Systems that store and manipulate data in key-value pairs distributed across multiple sites
+  - Distributed document stores: Systems that store and manipulate data in documents distributed across multiple sites
+  - Distributed graph databases: Systems that store and manipulate data in graphs distributed across multiple sites
+  - Distributed ledger systems: Systems that store and manipulate data in blocks distributed across multiple sites

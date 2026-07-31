@@ -1,0 +1,10 @@
+### Participatory Sensing Technology
+
+- Participatory sensing is an approach to data collection and interpretation in which individuals, acting alone or in groups, use their personal mobile devices and web services to systematically explore interesting aspects of their worlds ranging from health to culture  .
+- Participatory sensing differs from traditional sensor networks in that the sensors are owned and controlled by the users, who can decide when, where, and what to sense, and how to share and use the data.
+- Participatory sensing can enable various applications such as environmental monitoring, urban planning, traffic management, public health, social networking, and citizen science.
+- Participatory sensing involves four main components: sensors, devices, networks, and services.
+  - Sensors are the hardware components that measure physical phenomena such as sound, light, temperature, humidity, air quality, etc. Sensors can be embedded in mobile devices, attached as external accessories, or deployed as standalone devices.
+  - Devices are the mobile phones, tablets, laptops, or other computing platforms that host the sensors and provide user interfaces, data processing, storage, and communication capabilities. Devices can run various software applications that enable users to configure, control, and interact with the sensors and the data.
+  - Networks are the wireless or wired communication infrastructures that connect the devices and the sensors to each other and to the Internet. Networks can support data transmission, synchronization, aggregation, and dissemination among the participants and the services.
+  - Services are the web-based platforms that provide data management, analysis, visualization, and sharing functionalities for the participants and the applications. Services can also offer incentives, feedback, and guidance to the participants to improve the quality and usability of the data.

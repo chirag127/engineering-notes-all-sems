@@ -1,0 +1,12 @@
+### Transformation of Projections
+
+- A projection is a method of representing a three-dimensional (3D) object on a two-dimensional (2D) plane, such as a sheet of paper or a computer screen.
+- A projection is obtained by drawing lines of sight from an observer's eye to the points on the object and marking where these lines intersect a plane of projection.
+- A plane of projection is an imaginary flat surface that acts as a screen for the projected image of the object.
+- A projection can be classified into two types: parallel and perspective.
+- A parallel projection is a projection where the lines of sight are parallel to each other and perpendicular to the plane of projection. This type of projection preserves the relative proportions and angles of the object, but not the true distances or sizes.
+- A perspective projection is a projection where the lines of sight converge at a single point, called the center of projection or the eye point. This type of projection mimics the way humans see objects, but distorts the relative proportions and angles of the object.
+- A projection can also be classified by the orientation of the plane of projection relative to the object. The most common orientations are: top, front, right, left, bottom, and back. These are also called orthographic projections, because they are obtained by projecting the object along the orthogonal axes of a coordinate system.
+- A projection can also be classified by the angle between the plane of projection and the lines of sight. The most common angles are: 0°, 30°, 45°, and 90°. These are also called axonometric projections, because they show the object along three axes. The special cases of axonometric projections are: isometric, dimetric, and trimetric projections.
+- A transformation of projections is a process of changing the type, orientation, or angle of a projection, while preserving the essential features of the object. This can be done by applying mathematical operations, such as translation, rotation, scaling, or shearing, to the coordinates of the projected points.
+- A transformation of projections can be useful for various purposes, such as: showing different views of the object, simplifying the drawing, enhancing the visibility, or creating artistic effects.

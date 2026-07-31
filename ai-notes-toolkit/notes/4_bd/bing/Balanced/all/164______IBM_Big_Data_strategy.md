@@ -1,0 +1,10 @@
+#### IBM Big Data strategy
+
+- IBM Big Data strategy is a corporate initiative that aims to provide solutions for storing, managing, and analyzing the large volumes of data generated daily by various sources, such as social media, sensors, mobile devices, etc. 
+- IBM Big Data strategy is part of its Smarter Planet vision, which seeks to leverage smarter systems and technologies to achieve economic and social progress and sustainability.
+- IBM Big Data strategy consists of four key components: Big Data platform, Big Data services, Big Data solutions, and Big Data ecosystem.
+  - Big Data platform: IBM offers a comprehensive and integrated platform that supports various types of data, such as structured, unstructured, semi-structured, streaming, etc. The platform includes products such as IBM InfoSphere BigInsights, IBM InfoSphere Streams, IBM PureData System for Analytics, IBM PureData System for Operational Analytics, etc.
+  - Big Data services: IBM provides consulting, implementation, and support services to help clients design, deploy, and optimize their Big Data initiatives. The services include IBM Big Data Quick Start, IBM Big Data Proof of Technology, IBM Big Data Assessment, IBM Big Data Implementation, etc.
+  - Big Data solutions: IBM delivers industry-specific and cross-industry solutions that address various business challenges and opportunities using Big Data analytics. The solutions include IBM Customer Insight, IBM Fraud Detection, IBM Social Media Analytics, IBM Watson, etc.
+  - Big Data ecosystem: IBM collaborates with a network of partners, such as Cloudera, Hortonworks, Splunk, etc., to provide complementary technologies and capabilities that enhance its Big Data offerings. The ecosystem also includes academic institutions, research organizations, and open source communities that contribute to the innovation and advancement of Big Data.
+- IBM Big Data strategy aims to help clients achieve various benefits, such as improved decision making, enhanced customer experience, increased operational efficiency, reduced risk, and new revenue streams.

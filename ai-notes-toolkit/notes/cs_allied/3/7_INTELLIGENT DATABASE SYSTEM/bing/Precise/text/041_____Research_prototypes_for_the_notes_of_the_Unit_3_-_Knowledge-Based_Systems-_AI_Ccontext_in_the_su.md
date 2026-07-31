@@ -1,0 +1,7 @@
+### Research prototypes for the notes of the Unit 3 - Knowledge-Based Systems- AI Context in the subject of INTELLIGENT DATABASE SYSTEM
+
+1. **Cyc**: Cyc is an artificial intelligence project that aims to assemble a comprehensive ontology and knowledge base of everyday common sense knowledge, with the goal of enabling AI applications to perform human-like reasoning.
+2. **Dendral**: Dendral is a knowledge-based expert system developed at Stanford University in the 1960s and 1970s. It was designed to apply artificial intelligence techniques to solve complex chemical problems, such as determining the molecular structure of chemical compounds from mass spectrometry data.
+3. **MYCIN**: MYCIN is an early expert system developed at Stanford University in the 1970s. It was designed to diagnose and recommend treatment for bacterial infections, using a rule-based system to reason about the patient's symptoms and medical history.
+4. **PROLOG**: PROLOG is a programming language designed for symbolic, non-numeric computation. It is particularly well-suited for tasks involving symbolic reasoning and manipulation, such as natural language processing, knowledge representation, and expert systems.
+5. **Soar**: Soar is a cognitive architecture developed at Carnegie Mellon University and the University of Michigan. It is designed to model human cognition and support the development of intelligent agents capable of performing a wide range of tasks.

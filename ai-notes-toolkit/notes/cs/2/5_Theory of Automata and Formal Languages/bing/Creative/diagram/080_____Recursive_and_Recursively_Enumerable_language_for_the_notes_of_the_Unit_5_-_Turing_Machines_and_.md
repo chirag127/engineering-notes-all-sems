@@ -1,0 +1,16 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on the topic of recursive and recursively enumerable language for the unit 5 of the subject of theory of automata and formal languages.
+
+### Recursive and Recursively Enumerable Language
+
+- A **recursive language** is a formal language that can be **decided** by a Turing machine, which means that there is a Turing machine that will **halt and accept** when given any string in the language as input, and will **halt and reject** when given any string not in the language as input .
+- A **recursively enumerable language** is a formal language that can be **recognized** by a Turing machine, which means that there is a Turing machine that will **halt and accept** when given any string in the language as input, but may either **halt and reject** or **loop forever** when given any string not in the language as input  .
+- A recursively enumerable language is also a **recursively enumerable subset** in the set of all possible words over the alphabet of the language, which means that there is a Turing machine (or other computable function) that can **enumerate** all valid strings of the language, one by one, in some order.
+- Some recursive languages are also recursively enumerable, but not all recursively enumerable languages are recursive. A recursively enumerable language is recursive if and only if it is also **co-recursively enumerable**, which means that its complement (the set of all strings not in the language) is also recursively enumerable.
+- Some examples of recursive languages are:
+  - The language of all palindromes over a finite alphabet, which can be decided by a Turing machine that compares the first and last symbols of the input and moves inward until it reaches the middle or finds a mismatch.
+  - The language of all strings over a finite alphabet that represent valid arithmetic expressions, which can be decided by a Turing machine that parses the input and checks for syntactic correctness.
+  - The language of all strings over a finite alphabet that represent the binary encoding of a prime number, which can be decided by a Turing machine that performs a primality test on the input.
+- Some examples of recursively enumerable languages that are not recursive are:
+  - The language of all strings over a finite alphabet that represent the binary encoding of a Turing machine that halts on the empty input, which can be recognized by a Turing machine that simulates the input on the empty input and accepts if it halts, but cannot be decided because of the halting problem.
+  - The language of all strings over a finite alphabet that represent the binary encoding of a valid C program that prints "Hello, world!" to the standard output, which can be recognized by a Turing machine that compiles and runs the input and accepts if it prints "Hello, world!", but cannot be decided because of the undecidability of program behavior.
+  - The language of all strings over a finite alphabet that represent the binary encoding of a pair of natural numbers (x, y) such that x is the y-th digit of the decimal expansion of pi, which can be recognized by a Turing machine that computes the y-th digit of pi and compares it with x, but cannot be decided because of the uncomputability of pi.

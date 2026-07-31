@@ -1,0 +1,17 @@
+### Capital markets for the notes of the Unit 6 - Use case 1 in the subject of Block chain Architecture Design
+
+Capital markets are financial markets where long-term securities such as stocks, bonds, derivatives and other assets are issued and traded. Capital markets facilitate the flow of capital from savers to borrowers, and enable efficient allocation of resources and risk management.
+
+Blockchain is a distributed ledger technology (DLT) that enables peer-to-peer transactions without intermediaries, and provides transparency, security, immutability and scalability. Blockchain has the potential to transform various aspects of capital markets, such as issuance, trading, clearing, settlement, custody and asset servicing.
+
+Some of the use cases of blockchain in capital markets are:
+
+- **Issuance**: Blockchain can enable the digitization of securities, such as tokenization of assets, and facilitate the issuance of digital securities on a blockchain platform. This can reduce the cost and complexity of issuing securities, and increase the access and liquidity of the market. Blockchain can also enable smart contracts, which are self-executing agreements that can automate the execution of contractual terms and conditions, such as dividend payments, voting rights, and redemption options.  
+
+- **Trading**: Blockchain can enable peer-to-peer trading of securities, without the need for intermediaries such as brokers, dealers, or exchanges. This can reduce the friction, latency, and fees involved in trading, and increase the efficiency and transparency of the market. Blockchain can also enable atomic swaps, which are cross-chain transactions that can exchange different types of assets or currencies without the need for a third party.  
+
+- **Clearing and settlement**: Blockchain can enable real-time or near-real-time clearing and settlement of securities, without the need for central counterparties (CCPs) or clearing houses. This can reduce the counterparty risk, operational risk, and settlement risk involved in the process, and free up the capital and collateral that are locked up in the system. Blockchain can also enable delivery versus payment (DvP), which is a mechanism that ensures the simultaneous transfer of securities and funds, and eliminates the settlement risk.    
+
+- **Custody and asset servicing**: Blockchain can enable the decentralized custody of securities, without the need for custodians or depositories. This can reduce the cost and risk of storing and managing securities, and increase the control and ownership of the investors. Blockchain can also enable the automation of asset servicing, such as corporate actions, dividends, interest payments, and tax reporting, using smart contracts. This can reduce the manual errors, delays, and inefficiencies involved in the process, and increase the accuracy and compliance of the service.   
+
+These are some of the possible use cases of blockchain in capital markets. However, there are also some challenges and limitations that need to be addressed, such as regulatory uncertainty, interoperability, scalability, privacy, and governance. Therefore, blockchain is not a one-size-fits-all solution, and each use case needs to be evaluated based on its specific requirements, benefits, and trade-offs.

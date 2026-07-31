@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on the topic of complex variable differentiation in engineering mathematics.
+
+### Complex Variable–Differentiation
+
+- A complex variable is a variable that can take values in the complex plane, which is the set of all numbers of the form $z = x + iy$, where $x$ and $y$ are real numbers and $i$ is the imaginary unit such that $i^2 = -1$.
+- A complex function is a function that maps complex variables to complex values, such as $f(z) = z^2 + 2z + 1$ or $g(z) = e^z + \sin z$.
+- A complex function is said to be differentiable at a point $z_0$ if the limit $$f'(z_0) = \lim_{\Delta z \to 0} \frac{f(z_0 + \Delta z) - f(z_0)}{\Delta z}$$ exists and is independent of the direction of $\Delta z$.
+- A complex function that is differentiable at every point in a domain is called analytic or holomorphic in that domain. Analytic functions have many remarkable properties, such as being infinitely differentiable, having a Taylor series expansion, satisfying the Cauchy-Riemann equations, and obeying the Cauchy integral formula.
+- The Cauchy-Riemann equations are a pair of partial differential equations that relate the real and imaginary parts of an analytic function. If $f(z) = u(x,y) + iv(x,y)$, where $u$ and $v$ are real functions of $x$ and $y$, then the Cauchy-Riemann equations are $$\frac{\partial u}{\partial x} = \frac{\partial v}{\partial y} \quad \text{and} \quad \frac{\partial u}{\partial y} = -\frac{\partial v}{\partial x}$$
+- The Cauchy integral formula is a powerful result that relates the value of an analytic function at a point to the values of the function on a closed contour around that point. If $f$ is analytic in a simply connected domain $D$ and $C$ is a positively oriented simple closed curve in $D$ that encloses a point $z_0$, then $$f(z_0) = \frac{1}{2\pi i} \int_C \frac{f(z)}{z - z_0} dz$$
+- Complex differentiation has many applications in engineering mathematics, such as solving Laplace's equation, finding harmonic functions, evaluating real integrals, and solving differential equations.

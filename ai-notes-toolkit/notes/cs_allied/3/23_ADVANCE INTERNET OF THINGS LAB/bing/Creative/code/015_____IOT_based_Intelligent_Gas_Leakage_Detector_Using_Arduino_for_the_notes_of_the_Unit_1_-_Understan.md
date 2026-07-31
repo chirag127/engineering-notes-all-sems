@@ -1,0 +1,22 @@
+# IOT based Intelligent Gas Leakage Detector Using Arduino
+
+- This is a project that uses Internet of Things (IoT) technology to detect gas leakage in the surroundings and send data to an IOT module.
+- IoT is the networking of physical things that can communicate with the help of sensors, electronics, software, and connectivity.
+- The main components of this project are:
+  - Arduino Uno: A microcontroller board that controls the logic and communication of the system.
+  - MQ5 gas sensor: A sensor that detects the presence of LPG gas in the air and outputs a voltage proportional to the gas concentration.
+  - ESP8266: A Wi-Fi module that connects the Arduino to the internet and sends data to a cloud platform or a web server.
+  - Buzzer: A device that produces a loud sound when gas leakage is detected.
+  - LED: A light-emitting diode that indicates the status of the system.
+- The working principle of this project is as follows:
+  - The MQ5 gas sensor is connected to the analog input of the Arduino and constantly monitors the level of LPG gas in the air.
+  - The Arduino reads the voltage from the sensor and converts it to a gas concentration value using a calibration formula.
+  - The Arduino compares the gas concentration value with a predefined threshold and determines if there is a gas leakage or not.
+  - If the gas concentration value exceeds the threshold, the Arduino activates the buzzer and the LED to alert the user and sends a message to the ESP8266 module.
+  - The ESP8266 module connects to the internet and transmits the gas leakage data to a cloud platform or a web server, where the user can access it from anywhere using a smartphone or a computer.
+  - The user can also set the minimum and maximum parameters for the gas concentration value and receive notifications when the value is out of range.
+- The advantages of this project are:
+  - It is a low-cost and easy-to-implement solution for gas leakage detection and prevention.
+  - It is a smart and intelligent system that can send real-time data and alerts to the user via the internet.
+  - It can be installed in homes, hotels, LPG gas storage areas, and other places where gas leakage can pose a risk of fire or explosion.
+  - It can improve the safety and security of the user and the environment.

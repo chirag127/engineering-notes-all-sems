@@ -1,0 +1,18 @@
+# Concepts of alleles and genes
+
+- Genes are chunks of DNA that contribute to particular traits or functions by coding for proteins that influence physiology .
+- Alleles are different versions of a gene, which vary according to the nucleotide base present at a particular genome location .
+- An individual's combination of alleles is known as their genotype .
+- Bacteria, because they have a single ring of DNA, have one allele per gene per organism. In sexually reproducing organisms, each parent gives an allele for each gene, giving the offspring two alleles per gene.
+- Alleles can be dominant or recessive, meaning that they can mask or be masked by another allele. The expression of alleles in the phenotype (the observable traits of an organism) depends on the mode of inheritance (such as autosomal, sex-linked, or co-dominant).
+- Mendel's experiments with pea plants showed how alleles segregate and assort independently during gamete formation and fertilization, following the laws of segregation and independent assortment.
+- Cell cycle is the series of events that lead to cell division and replication. It consists of four phases: G1 (growth and preparation), S (DNA synthesis), G2 (growth and preparation for mitosis), and M (mitosis and cytokinesis).
+- Mitosis is the process of nuclear division that results in two genetically identical daughter cells, each with the same number of chromosomes as the parent cell. Mitosis is used for growth, repair, and asexual reproduction.
+- Meiosis is the process of nuclear division that results in four genetically different daughter cells, each with half the number of chromosomes as the parent cell. Meiosis is used for sexual reproduction and genetic variation.
+- Techniques to study mitosis and meiosis include staining and observing chromosomes under a microscope, using fluorescent markers to track specific genes or proteins, and analyzing DNA sequences to compare genetic variation.
+- Origin of life is the scientific question of how life emerged from non-living matter on Earth. There are various hypotheses and experiments that attempt to explain the origin of life, such as the primordial soup, the RNA world, and the panspermia theory.
+- Evidences for biological evolution include fossil records, comparative anatomy, molecular biology, biogeography, and embryology. These evidences show how life forms have changed over time and share common ancestry.
+- Mechanism of evolution is the process by which populations of organisms change over time in response to environmental pressures and genetic variation. The main mechanism of evolution is natural selection, which is the differential survival and reproduction of individuals with certain traits that make them more adapted to their environment.
+- Variation is the presence of differences among individuals or populations of the same species. Variation can be caused by mutation (changes in DNA sequence) or recombination (shuffling of alleles during meiosis).
+- Natural selection is the process by which individuals with certain traits that make them more adapted to their environment tend to survive and reproduce more than others, leading to changes in the frequency of alleles in a population over time.
+- Types of natural selection include directional selection (favoring one extreme of a trait), stabilizing selection (favoring the intermediate of a trait), and disruptive selection (favoring both extremes of a trait).

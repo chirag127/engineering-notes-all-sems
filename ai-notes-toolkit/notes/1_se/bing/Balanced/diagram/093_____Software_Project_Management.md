@@ -1,0 +1,23 @@
+### Software Project Management
+
+- Software project management is a proper way of planning and leading software projects.
+- Software projects are non-physical products that are planned, implemented, monitored, and controlled within variables such as time, quality, and cost.
+- Software project management involves the use of software tools to assist project managers and other stakeholders in managing the project activities and deliverables.
+- Software project management may include the following phases:
+  - Initiation: defining the project scope, objectives, and stakeholders
+  - Planning: creating a detailed plan for the project tasks, resources, schedule, budget, and risks
+  - Execution: executing the project plan and producing the software products
+  - Monitoring and control: tracking the project progress, performance, and quality and making necessary adjustments
+  - Closure: completing the project deliverables, documentation, and evaluation
+- Software project management may also involve the following roles:
+  - Software project manager: the person who leads and coordinates the project activities and communicates with the stakeholders
+  - Software developer: the person who designs, codes, tests, and debugs the software products
+  - Software tester: the person who verifies and validates the software products and reports any defects or issues
+  - Software analyst: the person who gathers and analyzes the client requirements and specifications for the software products
+  - Software architect: the person who defines the overall structure, design, and standards of the software products
+- Software project management may face some challenges such as:
+  - Changing requirements: the client may request changes or modifications to the software products during the project lifecycle
+  - Scope creep: the project scope may expand or deviate from the original plan due to uncontrolled or unplanned changes
+  - Technical complexity: the software products may involve complex or novel technologies or functionalities that require more time or expertise to develop
+  - Team collaboration: the project team may have different skills, backgrounds, or opinions that may affect the communication and coordination of the project tasks
+  - Risk management: the project may encounter unexpected or unforeseen risks that may affect the project outcomes or quality

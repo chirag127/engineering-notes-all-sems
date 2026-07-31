@@ -1,0 +1,7 @@
+### Uniform Quantizer
+
+- A uniform quantizer is a type of scalar quantizer that maps a continuous range of input values to a finite set of output values with equal spacing between them.
+- A uniform quantizer can be characterized by its step size $\Delta$, which is the distance between two adjacent output levels, and its number of output levels $L$, which is related to the bit rate $R$ by $L = 2^R$.
+- A uniform quantizer can be either mid-tread or mid-rise, depending on whether the output levels include zero or not. A mid-tread quantizer has a zero output level and an odd number of levels, while a mid-rise quantizer has a non-zero output level and an even number of levels.
+- A uniform quantizer can be used for data compression by encoding the output levels with a fixed number of bits. However, a uniform quantizer may not be optimal for some input distributions, as it may introduce more distortion than a non-uniform quantizer that adapts to the input statistics.
+- A uniform quantizer can be combined with a companding function that transforms the input values before quantization and the output values after quantization. A companding function can reduce the dynamic range of the input and increase the perceptual quality of the output. Two common companding functions are the $\mu$-law and the A-law, which are used for PCM telephone systems.

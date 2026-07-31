@@ -1,0 +1,24 @@
+# Distributed Deadlock Detection
+
+- A deadlock is a condition where a set of processes request resources that are held by other processes in the set.
+- A distributed deadlock is a deadlock that involves processes and resources located on different machines in a distributed system.
+- Distributed deadlock detection is the process of identifying and resolving deadlocks in a distributed system.
+- Distributed deadlock detection involves two basic issues:
+  - Detection of existing deadlocks
+  - Resolution of detected deadlocks
+- There are three main approaches to distributed deadlock detection:
+  - Global wait-for graph (WFG) approach
+  - Local wait-for graph (LWFG) approach
+  - Path-pushing (edge-chasing) approach
+- The global WFG approach constructs a global graph of processes and resources from local graphs at each site, and detects cycles in the global graph.
+  - Advantages: simple and efficient cycle detection algorithm.
+  - Disadvantages: high communication and storage overhead, single point of failure, inconsistency due to concurrency.
+- The local WFG approach maintains a local graph of processes and resources at each site, and initiates a distributed cycle detection algorithm when a process is blocked.
+  - Advantages: lower communication and storage overhead, no single point of failure, consistency due to synchronization.
+  - Disadvantages: complex and costly cycle detection algorithm, multiple initiators, false cycles due to outdated information.
+- The path-pushing approach propagates deadlock information along the wait-for edges, and detects cycles when a process receives its own information.
+  - Advantages: no global or local graph construction, no cycle detection algorithm, low storage overhead, no false cycles.
+  - Disadvantages: high communication overhead, multiple initiators, deadlock information may be lost or duplicated.
+- The resolution of detected deadlocks can be done by aborting one or more deadlocked processes, or by preempting one or more resources from deadlocked processes.
+  - The selection of processes or resources to abort or preempt can be based on criteria such as priority, age, cost, number, etc.
+  - The resolution of deadlocks should be done in a coordinated and consistent manner to avoid partial or cascading aborts or preempts.

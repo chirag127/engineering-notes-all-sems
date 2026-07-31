@@ -1,0 +1,25 @@
+### IEEE 802.15
+
+- IEEE 802.15 is a working group of the Institute of Electrical and Electronics Engineers (IEEE) IEEE 802 standards committee which specifies Wireless Specialty Networks (WSN) standards .
+- The working group was formerly known as Working Group for Wireless Personal Area Networks (WPANs) .
+- The working group develops standards for low-data-rate, low-power, and low-cost wireless communications among devices.
+- The working group has several task groups (TGs) that focus on different aspects of WSNs, such as physical layer (PHY), medium access control (MAC), security, mesh networking, coexistence, and applications.
+- Some of the standards developed by the working group are:
+  - IEEE 802.15.1: Bluetooth, a short-range wireless technology for personal area networks (PANs).
+  - IEEE 802.15.4: Low-Rate Wireless Networks (LR-WPANs), a standard for low-data-rate, low-power, and low-cost wireless connectivity with fixed, portable, and moving devices .
+  - IEEE 802.15.4a: an amendment to IEEE 802.15.4 specifying additional physical layers (PHYs) to the original standard, such as ultra-wideband (UWB) and chirp spread spectrum (CSS) .
+  - IEEE 802.15.4e: an amendment to IEEE 802.15.4 specifying enhancements to the MAC sublayer, such as time-slotted channel hopping (TSCH), low-latency deterministic network (LLDN), and deterministic and synchronous multi-channel extension (DSME).
+  - IEEE 802.15.4f: an amendment to IEEE 802.15.4 specifying physical layer (PHY) specifications for active radio frequency identification (RFID) systems.
+  - IEEE 802.15.4g: an amendment to IEEE 802.15.4 specifying physical layer (PHY) specifications for smart utility networks (SUNs).
+  - IEEE 802.15.4k: an amendment to IEEE 802.15.4 specifying physical layer (PHY) specifications for low-energy critical infrastructure monitoring (LECIM) networks.
+  - IEEE 802.15.4n: an amendment to IEEE 802.15.4 specifying physical layer (PHY) specifications for medical body area networks (MBANs).
+  - IEEE 802.15.4p: an amendment to IEEE 802.15.4 specifying physical layer (PHY) specifications for rail communication and control (RCC) networks.
+  - IEEE 802.15.4q: an amendment to IEEE 802.15.4 specifying physical layer (PHY) specifications for wireless access in vehicular environments (WAVE) networks.
+  - IEEE 802.15.4r: an amendment to IEEE 802.15.4 specifying physical layer (PHY) specifications for point-to-point wireless bridging (P2PWB) networks.
+  - IEEE 802.15.4s: an amendment to IEEE 802.15.4 specifying physical layer (PHY) specifications for high-density impulse radio (HD-IR) networks.
+  - IEEE 802.15.4t: an amendment to IEEE 802.15.4 specifying physical layer (PHY) specifications for enhanced ultra-low-power (EULP) networks.
+  - IEEE 802.15.4u: an amendment to IEEE 802.15.4 specifying physical layer (PHY) specifications for long-range low-data-rate (LRLD) networks.
+  - IEEE 802.15.4v: an amendment to IEEE 802.15.4 specifying physical layer (PHY) specifications for low-latency low-complexity (LLLC) networks.
+  - IEEE 802.15.4w: an amendment to IEEE 802.15.4 specifying physical layer (PHY) specifications for low-power wide-area (LPWA) networks.
+  - IEEE 802.15.4x: an amendment to IEEE 802.15.4 specifying physical layer (PHY) specifications for ultra-narrow-band (UNB) networks.
+  - IEEE 802.15.4y: an amendment

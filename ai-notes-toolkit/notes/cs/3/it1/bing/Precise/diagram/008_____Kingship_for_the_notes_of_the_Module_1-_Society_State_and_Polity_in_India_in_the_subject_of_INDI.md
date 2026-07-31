@@ -1,0 +1,6 @@
+### Kingship for the notes of the Module 1- Society State and Polity in India in the subject of INDIAN TRADITIONS, CULTURAL AND SOCIETY
+
+- Kingship in India can be seen in families and outside families. Primary relatives focus on kinship within the family including initial intrafamily relationships containing husbands and wife, mother and daughter, brother and sister, father and son, etc. These all are part of the same nuclear family which is also known as “family of procreation”.
+- Every individual has relationships with other people around them. This is the basic system that takes place in all human societies. It organizes people and groups and therefore it is known as the system of kinship.
+- Monarchy in ancient India was a sovereignty over a territory by a King who functioned as its protector, a role which involved both secular and religious power. The meaning and significance of kingship changed dramatically between the Vedic and Later Vedic period, and underwent further development under the times of the Jain and Buddhist rulers.
+- Kinship system is essentially a ‘cultural system.’. There is no universal kinship pattern in the world. It varies according to varying cultural systems. By way of illustration, we may refer to differences in kinship patterns obtaining in European and Indian societies.

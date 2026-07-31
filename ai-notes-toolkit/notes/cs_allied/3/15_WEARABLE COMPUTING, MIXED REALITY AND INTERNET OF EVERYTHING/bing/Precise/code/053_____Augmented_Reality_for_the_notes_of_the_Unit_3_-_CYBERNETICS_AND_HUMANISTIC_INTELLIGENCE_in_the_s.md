@@ -1,0 +1,7 @@
+### Augmented Reality
+
+Augmented Reality (AR) is an interactive experience that combines the real world and computer-generated content. The content can span multiple sensory modalities, including visual, auditory, haptic, somatosensory, and olfactory. AR is any experience that is artificial and adds to the already existing reality or real, e.g. seeing other real sensed or measured information such as electromagnetic radio waves overlaid in exact alignment with where they actually are in space .
+
+AR is an enhanced version of the real physical world that is achieved through the use of digital visual elements, sound, or other sensory stimuli and delivered via technology. It is a growing trend among companies involved in mobile computing and business applications in particular. AR involves overlaying visual, auditory, or other sensory information onto the real world to enhance one’s experience. Retailers and other companies can use augmented reality to promote products or services, launch novel marketing campaigns, and collect unique user data .
+
+With augmented reality, not only is that possible, it’s here. AR transforms how you work, learn, play, shop, and connect with the world around you. It’s the perfect way to visualize things that would be impossible or impractical to see otherwise . AR opens up new ways for your devices to be helpful throughout your day by letting you experience digital content in the same way you experience the world .

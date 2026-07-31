@@ -1,0 +1,6 @@
+### Bus
+- A bus is a set of wires or lines that carry data, address, and control signals between different components of a computer system.
+- A bus can be classified into three types: data bus, address bus, and control bus.
+- Data bus: It carries the data to be processed or the results of the computation between the processor and the memory or I/O devices. The width of the data bus determines the amount of data that can be transferred in one cycle. For example, a 32-bit data bus can transfer 32 bits or 4 bytes of data at a time.
+- Address bus: It carries the address of the memory location or I/O device that the processor wants to access. The width of the address bus determines the maximum amount of memory or I/O devices that can be addressed by the processor. For example, a 16-bit address bus can address up to 2^16 or 65,536 memory locations or I/O devices.
+- Control bus: It carries the control signals that synchronize the operations of the processor, memory, and I/O devices. The control signals include read, write, enable, reset, interrupt, etc. The control bus also carries the status signals that indicate the state of the processor, memory, and I/O devices. The status signals include busy, ready, error, etc.

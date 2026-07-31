@@ -1,0 +1,25 @@
+### Analytics for Unstructured Data
+
+- Unstructured data is information that is not organized in a pre-defined manner, such as text, video, audio, web server logs, social media, etc.
+- Unstructured data analysis is the process of using data analytics tools to automatically organize, structure and get value from unstructured data
+- Unstructured data analysis techniques can be classified into three categories: exploratory data analysis, qualitative data analysis, and AI and ML
+- Exploratory data analysis (EDA) is a set of initial investigations done to identify the main characteristics, patterns, outliers, and relationships in the data
+- Qualitative data analysis mainly applies for unstructured text data, such as documents, emails, tweets, etc. This can include techniques such as sentiment analysis, topic modeling, keyword extraction, etc.
+- AI and ML unstructured data analysis techniques include decision trees, principal component analysis (PCA), natural language processing (NLP), artificial neural networks, image analysis, temporal modeling techniques, market segmentation analysis, and more. These techniques help with predictive analytics and uncovering the data insights
+- Some tips for unstructured data analytics are:
+  - Keep the business objectives in mind
+  - Define metadata for faster data access
+  - Choose the right analytics techniques
+  - Identify the right data sources
+  - Evaluate the technologies you’d want to use
+  - Get real-time data access
+  - Store and integrate data using data lakes
+  - Wrangle the unstructured data
+- Some examples of unstructured data analytics applications are:
+  - Customer feedback analysis
+  - Fraud detection
+  - Social media monitoring
+  - Content recommendation
+  - Image recognition
+  - Speech recognition
+  - Natural language generation

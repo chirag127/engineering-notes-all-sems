@@ -1,0 +1,11 @@
+### Protocols Governing Web
+
+- Protocols are a set of rules or standards that enable communication between different devices or applications on a network.
+- The web is a collection of interconnected documents and resources that are accessed through the internet using web browsers and web servers.
+- The web relies on various protocols to function properly and efficiently. Some of the common protocols governing the web are:
+
+  - **TCP/IP (Transmission Control Protocol/Internet Protocol)**: This is the fundamental protocol suite that enables data transmission across the internet and other networks. It consists of four layers: application, transport, internet, and network interface. TCP/IP provides reliable, ordered, and error-checked delivery of data packets between hosts .
+  - **HTTP (HyperText Transfer Protocol)**: This is the protocol that defines how web browsers and web servers communicate and exchange information. HTTP uses a request-response model, where a client (browser) sends a request to a server and the server responds with the requested resource or an error message. HTTP also supports methods such as GET, POST, PUT, and DELETE to perform different operations on the web.
+  - **DNS (Domain Name System)**: This is the protocol that maps domain names (such as www.example.com) to IP addresses (such as 192.168.1.1). DNS allows users to access web resources using human-readable names instead of numerical addresses. DNS also provides other services such as email routing, load balancing, and security.
+  - **SMTP (Simple Mail Transfer Protocol)**: This is the protocol that enables sending and receiving email messages over the internet. SMTP uses a client-server model, where a client (email sender) connects to a server (email provider) and transfers the message to the server. The server then delivers the message to the recipient's server or forwards it to another server if necessary. SMTP also supports authentication, encryption, and attachments.
+  - **FTP (File Transfer Protocol)**: This is the protocol that allows transferring files between hosts on a network. FTP uses a client-server model, where a client (file sender or receiver) connects to a server (file provider or storage) and requests or uploads files. FTP also supports commands such as LIST, RETR, STOR, and DELE to manipulate files and directories on the server.

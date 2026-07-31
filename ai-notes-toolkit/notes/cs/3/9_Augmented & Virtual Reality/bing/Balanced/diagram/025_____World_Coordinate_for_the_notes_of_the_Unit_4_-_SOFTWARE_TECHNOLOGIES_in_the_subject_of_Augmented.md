@@ -1,0 +1,17 @@
+### World Coordinate System
+
+- A world coordinate system is a reference frame that defines the position and orientation of objects in a 3D space.
+- In augmented reality, a world coordinate system is used to align virtual content with the real world, creating a seamless and immersive experience for the user.
+- A world coordinate system can be defined by three axes: X, Y, and Z, which are usually orthogonal to each other and follow a right-handed convention.
+- The origin of the world coordinate system is an arbitrary point that serves as the reference for all other points in the space.
+- The orientation of the world coordinate system is determined by the direction of the axes, which can be expressed by rotation angles or unit vectors.
+- A world coordinate system can be static or dynamic, depending on whether it changes over time or not.
+- A static world coordinate system is fixed and does not depend on the movement of the user or the device. For example, a geographic coordinate system that uses latitude, longitude, and altitude to define locations on Earth is a static world coordinate system.
+- A dynamic world coordinate system is updated and adjusted according to the motion of the user or the device. For example, a device coordinate system that uses the accelerometer, gyroscope, and magnetometer to measure the orientation and position of the device is a dynamic world coordinate system.
+- A world coordinate system can be global or local, depending on whether it covers the entire space or a limited region.
+- A global world coordinate system is universal and consistent for all users and devices. For example, a spatial coordinate system that uses spatial anchors to anchor virtual content to real-world locations is a global world coordinate system.
+- A local world coordinate system is specific and relative to a particular user or device. For example, a camera coordinate system that uses the camera's position and direction as the origin and the z-axis is a local world coordinate system.
+- A world coordinate system can be transformed to another world coordinate system by applying translation, rotation, and scaling operations. These operations can be represented by matrices, quaternions, or Euler angles.
+- A world coordinate system can be used to define the pose of an object, which is the combination of its position and orientation in the space. The pose of an object can be expressed by a 4x4 transformation matrix, a position vector and a rotation quaternion, or a position vector and three Euler angles.
+- A world coordinate system can be used to calculate the distance, angle, and direction between two objects or points in the space. These calculations can be done by using vector operations, such as dot product, cross product, and norm.
+- A world coordinate system can be used to render virtual content on a display device, such as a smartphone or a head-mounted display. This process involves projecting the 3D coordinates of the virtual content to the 2D coordinates of the display device, using a projection matrix, a view matrix, and a model matrix. The projection matrix defines the field of view and the aspect ratio of the display device. The view matrix defines the position and orientation of the camera or the user's eye. The model matrix defines the position and orientation of the virtual content in the world coordinate system.

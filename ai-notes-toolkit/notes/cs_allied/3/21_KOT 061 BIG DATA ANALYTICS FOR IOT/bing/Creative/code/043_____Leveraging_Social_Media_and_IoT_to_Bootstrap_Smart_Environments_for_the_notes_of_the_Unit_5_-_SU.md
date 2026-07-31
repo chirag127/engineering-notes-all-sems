@@ -1,0 +1,17 @@
+### Leveraging Social Media and IoT to Bootstrap Smart Environments
+
+- Smart environments are physical spaces that are embedded with sensors, actuators, and computing devices that can monitor, interact, and adapt to the needs and preferences of the users and the context.
+- Bootstrapping smart environments is the process of creating and enhancing smart environments with minimal resources and effort, by leveraging existing technologies and social solutions.
+- Social media and IoT are two key technologies that can be leveraged to bootstrap smart environments, as they provide the following benefits:
+  - Social media platforms, such as Twitter, Facebook, and Instagram, can be used to collect user-generated data, such as preferences, opinions, feedback, and behavior, that can be analyzed and used to improve the smart environment services and functionalities .
+  - Social media platforms can also be used to create and maintain a community of users and stakeholders, who can share information, collaborate, and co-create value for the smart environment .
+  - IoT devices, such as sensors, actuators, and smart objects, can be used to collect real-time data, such as environmental conditions, user location, and activity, that can be used to monitor, control, and optimize the smart environment performance and efficiency .
+  - IoT devices can also be used to enable communication and interaction between the users and the smart environment, as well as between different smart environments, creating a network of connected and intelligent spaces .
+- Some examples of leveraging social media and IoT to bootstrap smart environments are:
+  - Smart Campus: A smart campus is a university campus that uses IoT and social media to enhance the learning, teaching, and research experience of the students, faculty, and staff. For example, IoT devices can be used to monitor and control the campus energy consumption, security, and safety, while social media platforms can be used to facilitate collaboration, feedback, and engagement among the campus community.
+  - Smart City: A smart city is a urban area that uses IoT and social media to improve the quality of life, sustainability, and resilience of the citizens, businesses, and government. For example, IoT devices can be used to collect and analyze data on traffic, pollution, waste, and health, while social media platforms can be used to enable citizen participation, innovation, and co-creation of smart city solutions.
+  - Smart Home: A smart home is a residential space that uses IoT and social media to provide comfort, convenience, and security to the occupants. For example, IoT devices can be used to automate and personalize the home appliances, lighting, and temperature, while social media platforms can be used to share and learn from other smart home users, as well as to control the home remotely.
+
+: Crowley, D. N., Curry, E., & Breslin, J. G. (2014). Leveraging social media and IoT to bootstrap smart environments. In Big Data and Internet of Things: A Roadmap for Smart Environments (pp. 379-399). Springer, Cham.
+: Al Nuaimi, E., Al Neyadi, H., Mohamed, N., & Al-Jaroodi, J. (2015). Applications of big data to smart cities. Journal of Internet Services and Applications, 6(1), 1-15.
+: Zanella, A., Bui, N., Castellani, A., Vangelista, L., & Zorzi, M. (2014). Internet of things for smart cities. IEEE Internet of Things journal, 1(1), 22-32.

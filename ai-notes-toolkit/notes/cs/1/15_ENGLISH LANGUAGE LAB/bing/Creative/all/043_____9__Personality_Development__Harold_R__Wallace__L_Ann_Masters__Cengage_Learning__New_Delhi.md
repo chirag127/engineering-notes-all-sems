@@ -1,0 +1,10 @@
+# 9. Personality Development, Harold R. Wallace &L.Ann Masters, Cengage Learning, New Delhi
+
+This is a summary of the book "Personal Development for Life and Work" by Harold R. Wallace and L.Ann Masters, published by Cengage Learning in 2010. The book is designed to help students recognize the importance of soft skills, critical thinking skills, and a strong work ethic in today's workplace. The book covers the following topics:
+
+- Self-awareness: This chapter helps students identify their personality traits, learning styles, values, interests, and goals, and how they affect their personal and professional development.
+- Self-management: This chapter teaches students how to manage their time, stress, and emotions, and how to develop positive habits and attitudes.
+- Communication: This chapter explains the principles and skills of effective communication, including listening, speaking, writing, and nonverbal communication. It also covers how to communicate in different situations, such as in teams, in conflict, and in cross-cultural contexts.
+- Critical thinking: This chapter introduces the concept and process of critical thinking, and how to apply it to problem-solving and decision-making. It also covers how to avoid common thinking errors and biases, and how to evaluate information and arguments.
+- Work ethics: This chapter discusses the importance of work ethics, such as honesty, integrity, responsibility, and professionalism. It also covers how to deal with ethical dilemmas and challenges in the workplace.
+- Career planning: This chapter helps students explore their career options, assess their skills and qualifications, and prepare for the job search process. It also covers how to write resumes and cover letters, how to prepare for interviews, and how to succeed in the workplace.

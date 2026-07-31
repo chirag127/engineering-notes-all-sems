@@ -1,0 +1,22 @@
+#### Functional Testing (Black Box Testing) software testing strategy
+
+- Functional testing is a type of software testing that verifies that the software performs as expected according to the requirements or specifications.
+- Functional testing is also known as black box testing, because it does not require knowledge of the internal structure or code of the software.
+- Functional testing can be performed at different levels of testing, such as unit testing, integration testing, system testing, and acceptance testing.
+- Functional testing can be done manually or with the help of automated tools.
+- Functional testing involves the following steps:
+  - Identify the functions or features of the software that need to be tested.
+  - Define the input and output data for each function or feature.
+  - Design the test cases based on the input and output data.
+  - Execute the test cases and compare the actual results with the expected results.
+  - Report and track the defects if any.
+- Functional testing can be classified into different types, such as:
+  - Smoke testing: A basic check of the software to ensure that the major functions are working and the software is ready for further testing.
+  - Sanity testing: A quick check of the software to ensure that the minor changes or fixes have not introduced any new defects or errors.
+  - Regression testing: A repeated testing of the software to ensure that the existing functions are not affected by the new changes or updates.
+  - Usability testing: A testing of the software to ensure that it is user-friendly, easy to use, and meets the user expectations.
+  - Compatibility testing: A testing of the software to ensure that it works well with different hardware, software, operating systems, browsers, etc.
+  - Performance testing: A testing of the software to ensure that it meets the desired speed, reliability, scalability, and resource consumption.
+  - Security testing: A testing of the software to ensure that it is secure from unauthorized access, data theft, hacking, etc.
+  - Localization testing: A testing of the software to ensure that it is adapted to the local language, culture, and preferences of the target market.
+  - Internationalization testing: A testing of the software to ensure that it can support multiple languages, currencies, formats, etc.

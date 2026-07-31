@@ -1,0 +1,16 @@
+### Controlling Concurrent Accesses to Data Objects
+
+- Data objects are a special type of shared resources that can be accessed by multiple jobs in a real time system.
+- When jobs are scheduled preemptively, their accesses to data objects may be interleaved, resulting in data inconsistency or deadlock.
+- To prevent these problems, concurrency control algorithms are needed to coordinate the concurrent accesses to data objects and ensure data consistency and timing constraints.
+- Concurrency control algorithms can be classified into two categories: pessimistic and optimistic.
+  - Pessimistic algorithms prevent conflicts from occurring by locking data objects before accessing them. They require a priori knowledge of the data access patterns of the jobs and may cause blocking or priority inversion.
+  - Optimistic algorithms allow conflicts to occur and detect them after the fact. They do not require a priori knowledge of the data access patterns of the jobs and do not cause blocking or priority inversion, but they may incur high overhead or abort transactions.
+- Some examples of pessimistic algorithms are:
+  - Priority inheritance protocol: When a job is blocked by a lower priority job that holds a lock on a data object, the lower priority job inherits the priority of the blocked job until it releases the lock.
+  - Priority ceiling protocol: Each data object is assigned a priority ceiling, which is the highest priority of any job that may access it. A job can lock a data object only if its priority is higher than the current priority ceiling of the system, which is the maximum of the priority ceilings of all locked data objects. This prevents deadlock and reduces blocking.
+  - Convex ceiling protocol: Each data object is assigned a convex ceiling, which is a function of the priority of the job that locks it. A job can lock a data object only if its priority is higher than the current convex ceiling of the system, which is the maximum of the convex ceilings of all locked data objects. This allows more concurrency than the priority ceiling protocol and reduces blocking.
+- Some examples of optimistic algorithms are:
+  - Timestamp ordering: Each transaction is assigned a timestamp based on its deadline or arrival time. A transaction can access a data object only if its timestamp is smaller than the timestamp of the last transaction that accessed the same data object. Otherwise, the transaction is aborted and restarted with a new timestamp.
+  - Multiversion concurrency control: Each data object has multiple versions, each with a timestamp and a validity interval. A transaction can access a data object only if its timestamp falls within the validity interval of one of the versions of the data object. Otherwise, the transaction is aborted and restarted with a new timestamp.
+  - Validation-based concurrency control: Each transaction executes without locking any data object and records its read and write sets. At the end of its execution, the transaction is validated by checking if its read and write sets are consistent with the current state of the database. If not, the transaction is aborted and restarted.

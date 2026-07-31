@@ -1,0 +1,24 @@
+# Stylometric Techniques for the notes of the Unit 3 - Cyber Investigation in the subject of CYBER FORENSIC ANALYTICS
+
+- Stylometry is the statistical analysis of the linguistic features of a text, such as word choice, sentence structure, punctuation, spelling, etc. 
+- Stylometry can be used to identify the unique writing style of an author, and to attribute the authorship of a text to a known or unknown writer.  
+- Stylometry can also be used to detect plagiarism, deception, or disguise in a text, by comparing the stylistic features of different sections or sources of a text.  
+- Stylometry can be applied to various types of texts, such as e-mails, blogs, social media posts, online reviews, essays, novels, etc.    
+- Stylometry can be useful for cyber forensics, which is the investigation of cyber crimes and digital evidence.   
+- Stylometry can help cyber investigators to:
+  - Identify the author of a malicious or threatening e-mail, message, or post.  
+  - Verify the authenticity or credibility of a digital document or communication.  
+  - Track the online activities or profiles of a suspect or a victim.  
+  - Analyze the social networks or communities of online users.  
+- Stylometric techniques can be divided into two categories: feature-based and machine learning-based.  
+  - Feature-based techniques extract and compare specific linguistic features from the texts, such as word frequency, vocabulary richness, sentence length, punctuation marks, etc.  
+  - Machine learning-based techniques use algorithms to learn the patterns and characteristics of different authors or texts, and to classify or cluster them accordingly.  
+- Stylometric techniques can also be classified into intrinsic and extrinsic methods.  
+  - Intrinsic methods compare the stylistic features within a single text, and detect any inconsistencies or anomalies that indicate plagiarism or disguise.  
+  - Extrinsic methods compare the stylistic features between different texts, and measure the similarity or difference that indicate authorship or genre.  
+- Stylometric techniques can be implemented using various tools and software, such as Writeprints, JGAAP, Stylo, Anonymouth, etc.  
+- Stylometric techniques have some limitations and challenges, such as:
+  - The availability and quality of the texts and the authors.  
+  - The influence of external factors, such as topic, genre, audience, mood, etc. on the writing style.  
+  - The possibility of evasion or deception by the authors, such as using synonyms, paraphrasing, translation, etc.  
+  - The ethical and legal issues of privacy, consent, and anonymity of the authors and the texts.

@@ -1,0 +1,22 @@
+### SDLC for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- SDLC stands for Software Development Life Cycle    .
+- It is a process used in software engineering to design, develop, test, and deploy software applications    .
+- It is a structured approach to software development that helps organizations to improve the quality of their software products, reduce costs, and minimize risks  .
+- It consists of several phases that cover the entire life cycle of a software project, from the initial idea to the final delivery and maintenance   .
+- The phases of SDLC are   :
+  - Requirement analysis: This phase involves gathering and analyzing the needs and expectations of the stakeholders and users of the software   .
+  - Planning: This phase involves defining the scope, objectives, budget, schedule, and resources of the software project   .
+  - Software design: This phase involves creating the architectural and detailed design of the software, such as the data structures, algorithms, interfaces, and modules   .
+  - Software development: This phase involves writing and testing the code of the software, following the design specifications and coding standards   .
+  - Software testing: This phase involves verifying and validating the functionality, performance, usability, security, and quality of the software, using various testing techniques and tools   .
+  - Software deployment: This phase involves delivering and installing the software to the target environment, such as a server, a cloud, or a device   .
+  - Software maintenance: This phase involves providing support and updates to the software, such as fixing bugs, adding features, and enhancing performance   .
+- There are different models of SDLC, such as waterfall, agile, iterative, spiral, and V-shaped, that vary in the order, frequency, and flexibility of the phases   .
+- The choice of the SDLC model depends on the nature, size, complexity, and requirements of the software project, as well as the preferences and capabilities of the software team   .
+- The benefits of using SDLC are  :
+  - It provides a clear and consistent framework for software development, ensuring that all the aspects and stages of the project are covered and documented  .
+  - It improves the communication and collaboration among the stakeholders and the software team, facilitating the alignment of the expectations and the feedback  .
+  - It enhances the efficiency and effectiveness of the software development process, reducing the errors, delays, and rework  .
+  - It increases the quality and reliability of the software product, meeting the standards and specifications of the software engineering discipline  .
+  - It lowers the costs and risks of the software project, optimizing the use of the resources and minimizing the impact of the changes and issues  .

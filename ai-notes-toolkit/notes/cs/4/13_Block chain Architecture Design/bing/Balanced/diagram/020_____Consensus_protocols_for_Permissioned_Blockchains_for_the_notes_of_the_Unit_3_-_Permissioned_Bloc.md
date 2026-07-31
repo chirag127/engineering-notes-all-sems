@@ -1,0 +1,11 @@
+### Consensus protocols for Permissioned Blockchains
+
+- A consensus protocol enables all the parties of the blockchain network to come to a common agreement (consensus) on the present data state of the ledger .
+- In a permissioned blockchain, all the participating nodes are known and chosen. However, consensus is still required because we can’t assume that every node is trustworthy .
+- In a permissioned blockchain, choosing the right consensus protocol depends on factors like the extent of decentralization required, the level of trust among the participants, the performance and scalability of the network, and the security and fault tolerance of the system .
+- Some of the common consensus protocols for permissioned blockchains are:
+
+  - **Delegated Proof of Stake (DPoS)**: This protocol allows the network participants to vote for a set of delegates, who are responsible for validating transactions and producing blocks. The delegates are rewarded for their service and can be replaced by the voters if they misbehave or underperform .
+  - **Delegated Byzantine Fault Tolerance (dBFT)**: This protocol uses a leader-follower model, where a leader node is randomly selected to propose a block, and a group of follower nodes (called validators) are chosen to endorse the block. The block is accepted if it receives a two-thirds majority of endorsements. The leader and the validators can be changed dynamically based on the network conditions .
+  - **Proof of Elapsed Time (PoET)**: This protocol relies on a trusted execution environment (TEE) to ensure that each node has a fair chance of producing a block. The protocol works by assigning each node a random waiting time, and the node with the shortest waiting time gets to propose the next block. The waiting time is verified by the TEE, which prevents cheating or manipulation .
+  - **Proof of Authority (PoA)**: This protocol assigns the role of block producers to a predefined set of nodes, who are trusted and authorized by the network. The block producers do not compete with each other, but rather cooperate to maintain the ledger. The block producers are accountable for their actions and can be removed by the network if they violate the rules .

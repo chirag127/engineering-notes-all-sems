@@ -1,0 +1,28 @@
+## Unit 6 - SOA Governance and Implementation
+
+- SOA governance is a type of IT governance used to control the development, deployment, operations and management of a successful service-oriented architecture (SOA).
+- SOA governance involves creating, enforcing, adapting and communicating policies around how services are created and implemented, across their lifecycle.
+- SOA governance is the specialization of IT governance that puts key IT governance decisions within the context of the SOA lifecycle.
+- SOA governance is the effective management and refinement of this lifecycle that is the key goal of SOA governance.
+- SOA governance can be divided into two aspects: strategic governance and tactical governance.
+  - Strategic governance is the alignment of SOA initiatives with the business vision, goals and objectives.
+  - Tactical governance is the execution of SOA initiatives in a consistent and effective manner, following the best practices and standards.
+- SOA governance requires the use of sophisticated tools to align services with business objectives, ensure that users can connect to and re-use services as needed, and monitor and report on decisions and results.
+- SOA governance is not a product that you buy, but a process that you follow.
+- SOA governance is based on a set of principles, such as:
+  - Service ownership: Each service should have a clear and accountable owner who is responsible for its design, development, testing, deployment, maintenance and improvement.
+  - Service contract: Each service should have a well-defined and documented interface that specifies its functionality, quality of service, security and dependencies.
+  - Service registry: Each service should be registered and discoverable in a central repository that provides information about its availability, location, version and metadata.
+  - Service monitoring: Each service should be monitored and measured for its performance, availability, reliability, scalability and usage.
+  - Service lifecycle: Each service should follow a standard and consistent lifecycle that covers its inception, development, testing, deployment, operation, maintenance and retirement.
+  - Service reuse: Each service should be designed and implemented for maximum reuse and minimum redundancy.
+  - Service composition: Each service should be able to be composed with other services to create higher-level business processes and applications.
+  - Service security: Each service should be secured and protected from unauthorized access, modification and disclosure.
+- SOA governance can be implemented using a SOA governance framework, which is a set of roles, processes, standards, tools and artifacts that support the governance activities.
+- A SOA governance framework typically consists of the following components:
+  - Governance model: Defines the roles and responsibilities of the stakeholders involved in the governance process, such as service owners, service consumers, service developers, service testers, service managers, service architects, service analysts and service auditors.
+  - Governance policies: Defines the rules and guidelines that govern the creation and implementation of services, such as service design principles, service naming conventions, service versioning strategies, service quality criteria, service testing methods, service deployment procedures, service operation practices and service improvement plans.
+  - Governance processes: Defines the workflows and tasks that need to be performed to ensure compliance with the governance policies, such as service identification, service specification, service development, service testing, service deployment, service operation, service monitoring, service evaluation and service improvement.
+  - Governance standards: Defines the technical and business standards that need to be followed to ensure interoperability and compatibility of services, such as service interface standards, service protocol standards, service data standards, service security standards and service business standards.
+  - Governance tools: Provides the software and hardware tools that support the governance processes, such as service registry, service repository, service development tools, service testing tools, service deployment tools, service operation tools, service monitoring tools, service evaluation tools and service improvement tools.
+  - Governance artifacts: Provides the documentation and information that capture the governance policies, processes, standards and tools, such as service catalog, service contract, service specification, service design document, service test plan, service test report, service deployment plan, service deployment report, service operation manual, service operation report, service performance report, service evaluation report and service improvement report.

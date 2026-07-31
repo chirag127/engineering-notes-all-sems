@@ -1,0 +1,23 @@
+#### Transaction Processing in JDBC
+
+- Transaction processing is a mandatory requirement of all applications that must guarantee consistency of their persistent data .
+- A transaction is a set of one or more statements that is executed as a unit, so either all of the statements are executed, or none of the statements is executed.
+- Transactions are atomic, consistent, isolated, and durable (ACID) modules of execution .
+- Atomicity means either all successful or none.
+- Consistency ensures bringing the database from one consistent state to another consistent state.
+- Isolation ensures that transaction is isolated from other transaction.
+- Durability ensures that the changes made by the transaction are permanent.
+- In JDBC, every SQL query will be considered as a transaction.
+- When we create a Database connection in JDBC, it will run in auto-commit mode (auto-commit value is TRUE) .
+- After the execution of the SQL statement, it will be committed automatically.
+- To disable auto-commit mode, we can use the `setAutoCommit(false)` method of the `Connection` object.
+- To commit a transaction, we can use the `commit()` method of the `Connection` object.
+- To rollback a transaction, we can use the `rollback()` method of the `Connection` object.
+- JDBC also supports savepoints, which are points within a transaction that can be rolled back to without affecting the preceding statements.
+- To create a savepoint, we can use the `setSavepoint()` method of the `Connection` object.
+- To rollback to a savepoint, we can use the `rollback(Savepoint savepoint)` method of the `Connection` object.
+- To release a savepoint, we can use the `releaseSavepoint(Savepoint savepoint)` method of the `Connection` object.
+- JDBC supports local transactions and distributed transactions .
+- Local transactions are typically managed explicitly by the application or automatically by the Java Platform, Enterprise Edition (Java EE) application server.
+- Distributed transactions are transactions that span multiple data sources and require coordination by a transaction manager.
+- JDBC uses the Java Transaction API (JTA) to support distributed transactions.

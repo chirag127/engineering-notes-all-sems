@@ -1,0 +1,9 @@
+### Estimating Moments
+
+- Estimating moments is a generalization of the problem of counting distinct elements in a stream. The problem, called computing "moments," involves the distribution of frequencies of different elements in the stream.
+- Suppose a stream consists of elements chosen from a universal set. Let $m_i$ be the number of occurrences of the $i$-th element for any $i$. The $p$-th frequency moment of the stream is defined as $F_p = \sum_i m_i^p$ for any $p > 0$.
+- Estimating frequency moments is useful for various applications, such as estimating all-pairs distances in a large data matrix, machine learning, and data stream computation .
+- The main challenge of estimating frequency moments is to design space-efficient algorithms that can handle large and dynamic streams of data. There are two main approaches for this problem: sketching and sampling.
+- Sketching is a technique that compresses the stream into a small summary data structure, called a sketch, that preserves some information about the frequency moments. The sketch can then be used to estimate the frequency moments with some error guarantee. Examples of sketching algorithms are the AMS sketch, the Count sketch, and the Count-Min sketch .
+- Sampling is a technique that selects a random subset of the stream elements, called a sample, that reflects the frequency distribution of the stream. The sample can then be used to estimate the frequency moments with some confidence interval. Examples of sampling algorithms are the Flajolet-Martin algorithm, the Alon-Matias-Szegedy algorithm, and the Morris algorithm .
+- Both sketching and sampling have their advantages and disadvantages. Sketching can handle any order of stream updates, but requires more space and computation than sampling. Sampling can be very space-efficient and simple, but requires random order of stream updates and may have high variance.

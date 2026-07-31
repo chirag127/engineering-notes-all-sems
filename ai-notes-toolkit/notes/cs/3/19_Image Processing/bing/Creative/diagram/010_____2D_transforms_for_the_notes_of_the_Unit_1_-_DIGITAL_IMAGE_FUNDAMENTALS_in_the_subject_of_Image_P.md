@@ -1,0 +1,10 @@
+### 2D transforms for the notes of the Unit 1 - DIGITAL IMAGE FUNDAMENTALS in the subject of Image Processing
+
+- 2D transforms are mathematical operations that map an image from one domain to another, such as from spatial domain to frequency domain or vice versa.
+- 2D transforms can be used for various purposes in image processing, such as filtering, compression, enhancement, restoration, segmentation, feature extraction, etc.
+- Some common 2D transforms are:
+  - Fourier transform: decomposes an image into a sum of sinusoids of different frequencies, amplitudes and phases. It can be used to analyze the frequency content of an image, such as detecting edges, noise, periodic patterns, etc. It can also be used to perform filtering in the frequency domain, such as low-pass, high-pass, band-pass, etc.
+  - Wavelet transform: decomposes an image into a sum of wavelets of different scales, orientations and positions. It can be used to analyze the multi-resolution and multi-directional features of an image, such as edges, textures, shapes, etc. It can also be used to perform compression, denoising, enhancement, etc.
+  - Affine transform: preserves the parallelism, collinearity and ratios of distances between points in an image. It can be used to perform geometric transformations, such as translation, rotation, scaling, shearing, etc.
+  - Perspective transform: preserves the straightness of lines in an image, but not the parallelism or ratios of distances. It can be used to perform perspective correction, such as rectifying distorted images taken from an oblique angle.
+- 2D transforms can be represented by matrices, functions, kernels, etc. depending on the type and complexity of the transform. They can be implemented by various algorithms, such as discrete, fast, inverse, etc. depending on the computational efficiency and accuracy required.

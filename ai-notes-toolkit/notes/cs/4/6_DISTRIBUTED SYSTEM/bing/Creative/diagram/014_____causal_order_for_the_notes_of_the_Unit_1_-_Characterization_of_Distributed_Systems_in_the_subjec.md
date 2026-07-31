@@ -1,0 +1,10 @@
+### Causal Order for the Notes of the Unit 1 - Characterization of Distributed Systems
+
+- Causal order is a way of ordering events in a distributed system based on their causal relationships, rather than their physical timestamps or locations.
+- Causal order captures the intuitive notion of "happened before" or "influenced by" among events, regardless of when or where they occurred.
+- Causal order is important for ensuring consistency, correctness, and coordination in distributed systems, especially when dealing with concurrent or asynchronous events.
+- Causal order can be defined formally using Lamport's logical clocks, which assign logical timestamps to events based on their causal dependencies, rather than their physical clocks.
+- Causal order can be implemented using various algorithms, such as vector clocks, causal broadcast, or causal delivery, which ensure that messages are delivered or processed in a way that respects their causal order.
+- Causal order is a weaker form of ordering than total order, which imposes a single linearization of all events in the system, even those that are concurrent or independent. Total order is more strict, but also more costly and less scalable than causal order.
+- Causal order is also weaker than sequential order, which requires that all events appear in the same order to all observers, regardless of their causal relationships. Sequential order is more intuitive, but also more restrictive and less realistic than causal order.
+- Causal order is a trade-off between performance and consistency in distributed systems, allowing more concurrency and flexibility, but also more potential for anomalies or conflicts. Causal order is often used as a minimal guarantee for distributed applications that need some form of consistency, but not necessarily strong consistency.

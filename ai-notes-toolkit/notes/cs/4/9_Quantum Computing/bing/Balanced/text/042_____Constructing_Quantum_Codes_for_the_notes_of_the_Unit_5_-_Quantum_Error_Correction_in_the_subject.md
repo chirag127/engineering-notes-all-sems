@@ -1,0 +1,10 @@
+### Constructing Quantum Codes
+
+- Quantum codes are methods of encoding quantum information (qubits) in such a way that errors due to decoherence or noise can be detected and corrected without disturbing the encoded state.
+- Quantum codes are based on the principles of quantum error correction, which use entanglement and superposition to protect qubits from errors.
+- Quantum codes can be classified into two main types: quantum block codes and quantum convolutional codes.
+- Quantum block codes encode a fixed number of qubits into a larger number of qubits using a unitary transformation. The encoded qubits form a subspace of the Hilbert space that is invariant under certain error operators. Examples of quantum block codes are the Shor code, the Steane code, the Calderbank-Shor-Steane (CSS) code, and the surface code.
+- Quantum convolutional codes encode a stream of qubits into another stream of qubits using a repeated unitary transformation that has a memory structure. The encoded qubits form a subspace of the Fock space that is invariant under certain error operators. Examples of quantum convolutional codes are the quantum turbo code, the quantum convolutional code with memory, and the quantum convolutional code with feedback.
+- Quantum codes can be characterized by their parameters, such as the code length, the code dimension, the code distance, the code rate, and the code threshold. These parameters measure the performance and the efficiency of the quantum codes in terms of error correction and resource consumption.
+- Quantum codes can be constructed using various techniques, such as algebraic methods, graph-based methods, product constructions, and random constructions. Some of these techniques are inspired by classical coding theory, while others are specific to quantum information theory.
+- Quantum codes have applications in quantum computing and quantum communication, where they can enhance the reliability and the security of quantum information processing and transmission. Quantum codes can also reveal new insights into the properties of quantum entanglement and quantum complexity.

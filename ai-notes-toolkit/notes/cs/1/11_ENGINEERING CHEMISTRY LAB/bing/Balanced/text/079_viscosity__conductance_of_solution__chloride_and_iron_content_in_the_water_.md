@@ -1,0 +1,13 @@
+# Viscosity, Conductance of Solution, Chloride and Iron Content in Water
+
+- Viscosity is a measure of the resistance of a fluid to deformation under shear stress. It is also known as the internal friction of a fluid.
+- Viscosity depends on the intermolecular forces, temperature, and pressure of the fluid. Generally, viscosity decreases with increasing temperature and increases with increasing pressure.
+- Viscosity is expressed in units of pascal-seconds (Pa·s) or poise (P), where 1 P = 0.1 Pa·s. The viscosity of water at 20°C is about 0.001 Pa·s or 0.01 P.
+- Conductance of solution is a measure of the ability of a solution to conduct electric current. It is also known as the reciprocal of resistance or the inverse of resistivity.
+- Conductance of solution depends on the concentration, type, and mobility of the ions in the solution, as well as the temperature and pressure of the solution. Generally, conductance increases with increasing concentration, temperature, and pressure, and decreases with increasing viscosity.
+- Conductance of solution is expressed in units of siemens (S) or mho (℧), where 1 S = 1 ℧ = 1 A/V. The conductance of pure water at 25°C is about 0.000055 S or 0.000055 ℧.
+- Chloride and iron content in water are indicators of the quality and purity of water. They are also related to the hardness, salinity, and corrosion potential of water.
+- Chloride content in water is a measure of the amount of chloride ions (Cl-) in water. Chloride ions are derived from natural sources such as seawater, rocks, and soils, or from human activities such as agriculture, industry, and sewage. Chloride ions can affect the taste, odor, and color of water, as well as the corrosion of metals and concrete.
+- Chloride content in water is expressed in units of milligrams per liter (mg/L) or parts per million (ppm), where 1 mg/L = 1 ppm. The recommended limit for chloride content in drinking water is 250 mg/L or 250 ppm, according to the World Health Organization (WHO).
+- Iron content in water is a measure of the amount of iron ions (Fe2+ or Fe3+) in water. Iron ions are derived from natural sources such as rocks, soils, and groundwater, or from human activities such as mining, industry, and plumbing. Iron ions can affect the taste, odor, and color of water, as well as the staining of clothes and fixtures.
+- Iron content in water is expressed in units of milligrams per liter (mg/L) or parts per million (ppm), where 1 mg/L = 1 ppm. The recommended limit for iron content in drinking water is 0.3 mg/L or 0.3 ppm, according to the WHO.

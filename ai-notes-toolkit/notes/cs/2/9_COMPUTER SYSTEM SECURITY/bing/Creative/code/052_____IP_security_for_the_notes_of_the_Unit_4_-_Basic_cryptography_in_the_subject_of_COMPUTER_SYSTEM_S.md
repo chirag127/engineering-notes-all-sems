@@ -1,0 +1,10 @@
+### IP security
+
+IP security (IPsec) is a suite of protocols and algorithms for securing data transmitted over the internet or any public network. It provides data authentication, integrity, and confidentiality by encrypting and authenticating IP network packets. IP security allows individual users or organizations to secure traffic for all applications, without having to make any modifications to the applications .
+
+Some of the features of IP security are :
+
+- Security associations: The building block on which secure communications is built is a security association (SA). An SA is a one-way relationship between a sender and a receiver that defines the security parameters for the communication. An SA is identified by a security parameter index (SPI), a destination IP address, and a security protocol (either AH or ESP).
+- Authentication header: The authentication header (AH) protocol provides data authentication and integrity for IP packets. It does not provide data confidentiality. AH adds a header to the IP packet that contains a message authentication code (MAC) that is computed from the packet and a shared secret key. The receiver can verify the MAC and ensure that the packet has not been modified or spoofed.
+- Encapsulating security payload: The encapsulating security payload (ESP) protocol provides data confidentiality, authentication, and integrity for IP packets. It encrypts the payload of the IP packet and adds a header and a trailer that contain the MAC and other information. The receiver can decrypt the payload and verify the MAC and other information.
+- Internet key exchange: The internet key exchange (IKE) protocol is used to establish and manage security associations and to negotiate the keys and algorithms for IPsec. IKE consists of two phases: phase 1 and phase 2. In phase 1, the peers authenticate each other and establish a secure channel for phase 2. In phase 2, the peers negotiate the parameters for the SAs and exchange the keys. IKE can use different modes and methods for authentication and key exchange, such as pre-shared keys, certificates, or Diffie-Hellman.

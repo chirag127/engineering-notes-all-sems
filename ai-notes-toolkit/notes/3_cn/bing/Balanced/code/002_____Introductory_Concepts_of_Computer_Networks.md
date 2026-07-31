@@ -1,0 +1,9 @@
+### Introductory Concepts of Computer Networks
+
+A computer network is a system of interconnected devices that can communicate and share data and resources. Computer networks can be classified by their size, topology, architecture, and protocols. Some of the basic concepts and fundamentals of computer networks are:
+
+- **End devices**: These are the devices that send or receive data in the network, such as computers, printers, servers, smartphones, etc. End devices are also called hosts or nodes.
+- **Media**: This is the physical or logical means of connecting the end devices, such as cables, fiber optics, wireless signals, etc. Media can be guided or unguided, depending on whether the signals follow a predefined path or not.
+- **Protocols**: These are the rules and standards that define how the end devices communicate and exchange information. Protocols specify the format, timing, sequence, and error control of the data transmission. Some common protocols are TCP/IP, HTTP, FTP, SMTP, etc.
+- **Networking devices**: These are the devices that facilitate the data transmission and routing between the end devices, such as switches, routers, hubs, bridges, firewalls, etc. Networking devices can operate at different layers of the network model, such as the physical layer, the data link layer, the network layer, etc.
+- **Classification of the computer network**: Computer networks can be classified by their size, such as local area network (LAN), metropolitan area network (MAN), wide area network (WAN), etc. They can also be classified by their topology, which is the physical or logical arrangement of the end devices and media, such as bus, ring, star, mesh, etc. Additionally, they can be classified by their architecture, which is the design and structure of the network, such as peer-to-peer, client-server, etc.

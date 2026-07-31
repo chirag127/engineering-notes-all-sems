@@ -1,0 +1,21 @@
+# Basic definition of engine and components
+
+- An engine is a device that converts one or more forms of energy into mechanical energy that performs work.
+- There are different types of engines, such as steam engines, internal combustion engines, electric motors, etc.
+- The most common type of engine used in automobiles is the internal combustion engine, which burns fuel and air inside a cylinder to produce power.
+- The essential parts of an internal combustion engine include the block, cylinder head, valves, pistons, and piston rings.
+  - The block is the main structure of the engine that contains the cylinders and the crankcase.
+  - The cylinder head is the part that covers the top of the cylinders and houses the valves and the spark plugs (in gasoline engines) or the injectors (in diesel engines).
+  - The valves are the devices that control the flow of air and fuel mixture into the cylinders and the exhaust gases out of the cylinders.
+  - The pistons are the cylindrical parts that move up and down inside the cylinders and compress the air and fuel mixture or the air (in diesel engines) before ignition.
+  - The piston rings are the metal rings that seal the gap between the pistons and the cylinder walls and prevent the leakage of gas and oil.
+- Other important parts of an internal combustion engine include the crankshaft, connecting rods, camshaft, timing belt or chain, oil pump, water pump, fuel pump, intake and exhaust manifolds, turbocharger or supercharger, etc .
+  - The crankshaft is the part that converts the linear motion of the pistons into rotational motion and delivers the power to the transmission and the wheels.
+  - The connecting rods are the parts that connect the pistons to the crankshaft and transfer the force from the pistons to the crankshaft.
+  - The camshaft is the part that operates the valves and controls the timing and duration of their opening and closing.
+  - The timing belt or chain is the part that synchronizes the rotation of the crankshaft and the camshaft and ensures the proper timing of the valve and piston movements.
+  - The oil pump is the part that circulates the oil throughout the engine and lubricates the moving parts and reduces friction and wear.
+  - The water pump is the part that circulates the coolant throughout the engine and the radiator and regulates the engine temperature and prevents overheating.
+  - The fuel pump is the part that delivers the fuel from the tank to the injectors or the carburetor and maintains the fuel pressure and flow.
+  - The intake and exhaust manifolds are the parts that collect and distribute the air and fuel mixture or the air (in diesel engines) to the cylinders and the exhaust gases from the cylinders to the exhaust system.
+  - The turbocharger or supercharger is the part that increases the power output of the engine by forcing more air and fuel mixture or air (in diesel engines) into the cylinders and increasing the compression ratio and the combustion efficiency.

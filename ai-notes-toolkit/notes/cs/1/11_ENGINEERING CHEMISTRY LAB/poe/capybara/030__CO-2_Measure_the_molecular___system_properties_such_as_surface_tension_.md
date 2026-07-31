@@ -1,0 +1,12 @@
+### CO-2 Measure the molecular / system properties such as surface tension
+
+In the study of CO-2, it is important to measure the molecular and system properties such as surface tension to gain a better understanding of its behavior and potential applications. Below are some key points to consider when measuring these properties:
+
+- Surface tension is the force that holds the molecules of a liquid together at its surface. It is measured in units of force per unit length, such as N/m or dyn/cm.
+- To measure surface tension of CO-2, one can use the pendant drop method or the Wilhelmy plate method. In the pendant drop method, a droplet of CO-2 is suspended from a needle and the shape of the droplet is analyzed to determine surface tension. In the Wilhelmy plate method, a thin plate is immersed in CO-2 and the force required to remove it from the liquid is measured to determine surface tension.
+- Another important molecular property to measure in CO-2 is its critical temperature and pressure. The critical temperature is the temperature above which CO-2 cannot exist in a liquid state, and the critical pressure is the pressure required to keep CO-2 in a liquid state at its critical temperature. These properties are important to consider for various industrial applications such as refrigeration and supercritical fluid extraction.
+- To measure the critical temperature and pressure of CO-2, one can use a variety of methods such as the isochoric method, isobaric method, or the thermogravimetric method.
+- In addition to molecular properties, it is also important to measure system properties of CO-2 such as its solubility in various solvents and its ability to act as a solvent for other compounds. This information is important for applications such as carbon capture and storage, where CO-2 is used to capture and store carbon emissions from industrial processes.
+- To measure the solubility of CO-2 in solvents, one can use methods such as the gravimetric method or the manometric method. The ability of CO-2 to act as a solvent for other compounds can be measured using techniques such as chromatography or spectroscopy.
+
+Overall, measuring the molecular and system properties of CO-2 is essential for understanding its behavior and potential applications in various industries. By using various measurement techniques, researchers can gain a better understanding of CO-2 and its properties, which can lead to the development of new and innovative applications.

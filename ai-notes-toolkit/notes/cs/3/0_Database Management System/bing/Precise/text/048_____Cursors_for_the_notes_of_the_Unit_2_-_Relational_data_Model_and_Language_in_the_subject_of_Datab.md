@@ -1,0 +1,31 @@
+### Cursors
+
+- A cursor is a control structure that enables traversal over the records in a database.
+- Cursors allow you to iterate over a set of rows returned by a query and process each row individually.
+- Cursors are used to retrieve data from a result set one row at a time, instead of the T-SQL commands that operate on all the rows in the result set at one time.
+- Cursors can be viewed as a pointer to one row in a set of rows.
+- The cursor can only reference one row at a time, but can move to other rows of the result set as needed.
+- Cursors are used for operations that require row-by-row processing, such as data modifications that depend on the data in other rows.
+- Cursors can be used to perform complex data manipulations, such as updating one table with data from another table.
+- Cursors can be either forward-only or scrollable. Forward-only cursors can only move forward through the result set, while scrollable cursors can move both forward and backward.
+- Cursors can be either read-only or updatable. Read-only cursors can only retrieve data from the result set, while updatable cursors can also modify data in the result set.
+- Cursors can be either static or dynamic. Static cursors operate on a snapshot of the data, while dynamic cursors reflect changes made to the data while the cursor is open.
+- Cursors can be either local or global. Local cursors are only visible within the scope of the current batch, stored procedure, or trigger, while global cursors are visible to all sessions.
+- Cursors can be either sensitive or insensitive. Sensitive cursors reflect changes made to the data while the cursor is open, while insensitive cursors do not.
+- Cursors can be either optimistic or pessimistic. Optimistic cursors assume that data conflicts are unlikely and do not lock data while the cursor is open, while pessimistic cursors lock data while the cursor is open to prevent conflicts.
+- Cursors can be either explicit or implicit. Explicit cursors are declared and managed by the user, while implicit cursors are automatically created and managed by the database management system.
+- Cursors can be either server-side or client-side. Server-side cursors are managed by the database server, while client-side cursors are managed by the client application.
+- Cursors can be either static or keyset-driven. Static cursors operate on a snapshot of the data, while keyset-driven cursors use a set of keys to identify rows in the result set.
+- Cursors can be either firehose or non-firehose. Firehose cursors retrieve all rows in the result set at once, while non-firehose cursors retrieve rows in batches.
+- Cursors can be either asynchronous or synchronous. Asynchronous cursors retrieve data in the background while the application continues to execute, while synchronous cursors retrieve data synchronously, blocking the application until the data is retrieved.
+- Cursors can be either forward-only or scrollable. Forward-only cursors can only move forward through the result set, while scrollable cursors can move both forward and backward.
+- Cursors can be either read-only or updatable. Read-only cursors can only retrieve data from the result set, while updatable cursors can also modify data in the result set.
+- Cursors can be either static or dynamic. Static cursors operate on a snapshot of the data, while dynamic cursors reflect changes made to the data while the cursor is open.
+- Cursors can be either local or global. Local cursors are only visible within the scope of the current batch, stored procedure, or trigger, while global cursors are visible to all sessions.
+- Cursors can be either sensitive or insensitive. Sensitive cursors reflect changes made to the data while the cursor is open, while insensitive cursors do not.
+- Cursors can be either optimistic or pessimistic. Optimistic cursors assume that data conflicts are unlikely and do not lock data while the cursor is open, while pessimistic cursors lock data while the cursor is open to prevent conflicts.
+- Cursors can be either explicit or implicit. Explicit cursors are declared and managed by the user, while implicit cursors are automatically created and managed by the database management system.
+- Cursors can be either server-side or client-side. Server-side cursors are managed by the database server, while client-side cursors are managed by the client application.
+- Cursors can be either static or keyset-driven. Static cursors operate on a snapshot of the data, while keyset-driven cursors use a set of keys to identify rows in the result set.
+- Cursors can be either firehose or non-firehose. Firehose cursors retrieve all rows in the result set at once, while non-firehose cursors retrieve rows in batches.
+- Cursors can be either asynchronous

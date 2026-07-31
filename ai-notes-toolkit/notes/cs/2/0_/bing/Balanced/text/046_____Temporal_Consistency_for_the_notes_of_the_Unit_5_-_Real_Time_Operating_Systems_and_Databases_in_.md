@@ -1,0 +1,17 @@
+### Temporal Consistency
+
+- Temporal consistency is a property of real-time systems that ensures that the data stored in the database reflects the current state of the physical environment.
+- Temporal consistency is different from logical consistency, which is a property of non-real-time systems that ensures that the data stored in the database satisfies the integrity constraints and the application logic.
+- Temporal consistency is important for real-time systems because they need to make decisions and take actions based on the most up-to-date information about the physical environment.
+- Temporal consistency can be violated by two factors: data staleness and data inconsistency.
+  - Data staleness occurs when the data stored in the database is outdated and does not reflect the current state of the physical environment. This can happen due to delays in data acquisition, transmission, processing, or storage.
+  - Data inconsistency occurs when the data stored in the database is contradictory and does not agree with the data from other sources. This can happen due to errors in data acquisition, transmission, processing, or storage, or due to concurrent updates by multiple transactions.
+- Temporal consistency can be measured by two metrics: absolute validity and relative validity.
+  - Absolute validity is a metric that defines a maximum allowable difference between the data stored in the database and the data from the physical environment. If the difference exceeds this limit, the data is considered invalid and temporally inconsistent.
+  - Relative validity is a metric that defines a maximum allowable difference between the data stored in the database and the data from other sources. If the difference exceeds this limit, the data is considered invalid and temporally inconsistent.
+- Temporal consistency can be maintained by various techniques, such as triggered updates, temporal caching, temporal replication, temporal partitioning, and temporal locking  .
+  - Triggered updates are a technique that updates the data stored in the database whenever there is a significant change in the data from the physical environment or other sources. This technique reduces data staleness and inconsistency, but may increase the overhead of data acquisition, transmission, processing, and storage.
+  - Temporal caching is a technique that stores the most frequently accessed or recently updated data in a fast memory, such as cache or main memory. This technique reduces data staleness and inconsistency, but may increase the memory consumption and the risk of data loss.
+  - Temporal replication is a technique that stores multiple copies of the same data in different locations, such as different nodes or disks. This technique reduces data staleness and inconsistency, but may increase the storage consumption and the complexity of data synchronization.
+  - Temporal partitioning is a technique that divides the data stored in the database into different partitions based on their temporal characteristics, such as validity period, update frequency, or access pattern. This technique reduces data staleness and inconsistency, but may increase the complexity of data management and query processing.
+  - Temporal locking is a technique that controls the concurrent access and update of the data stored in the database by different transactions. This technique reduces data inconsistency, but may increase the overhead of concurrency control and the risk of deadlock or starvation.

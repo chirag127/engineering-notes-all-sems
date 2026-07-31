@@ -1,0 +1,9 @@
+### Drivers for Big Data
+
+- Big data refers to the large and complex datasets that are generated from various sources and require advanced techniques and technologies to store, process, and analyze.
+- Some of the drivers for big data are:
+
+  - **The growth of data sources and types**: Data is being generated from various sources such as social media, sensors, mobile devices, web logs, etc. and in various formats such as text, audio, video, images, etc. This creates a diversity and volume of data that traditional systems cannot handle efficiently.
+  - **The need for faster and better decision making**: Data can provide valuable insights and opportunities for businesses, governments, and individuals if it is analyzed and utilized effectively. Big data analytics can help in discovering patterns, trends, correlations, and anomalies that can improve decision making and performance in various domains such as marketing, healthcare, education, security, etc.
+  - **The emergence of new technologies and paradigms**: Technologies such as cloud computing, distributed computing, machine learning, artificial intelligence, etc. have enabled the development of new paradigms and platforms for big data processing and analysis. These technologies can offer scalability, flexibility, reliability, and cost-effectiveness for big data applications.
+  - **The demand for innovation and competitiveness**: Big data can provide a competitive edge and a source of innovation for organizations and individuals who can leverage it to create new products, services, processes, and business models. Big data can also enable new forms of collaboration, communication, and social interaction among various stakeholders.

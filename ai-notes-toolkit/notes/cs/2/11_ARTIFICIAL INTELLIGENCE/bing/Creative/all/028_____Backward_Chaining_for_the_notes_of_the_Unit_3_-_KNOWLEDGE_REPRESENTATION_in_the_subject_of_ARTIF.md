@@ -1,0 +1,30 @@
+# Backward Chaining
+
+- Backward chaining is an inference method of reasoning in the field of artificial intelligence  .
+- It refers to the process of backtracking from the goal or endpoint to previous steps which led to the goal itself .
+- It is a goal-driven inference algorithm to find solutions where the end goal is defined.
+- It is used in automated theorem provers, inference engines, proof assistants, and other artificial intelligence applications .
+- It is based on the modus ponens inference rule, which states that if P implies Q and P is true, then Q is true.
+- It is one of the two most commonly used methods of reasoning with inference rules and logical implications – the other is forward chaining.
+- The main steps of backward chaining are :
+  - Start with the goal or query and match it with the consequent (right-hand side) of an implication rule.
+  - If there is a match, then add the antecedent (left-hand side) of the rule to the list of subgoals to be proved.
+  - If there is no match, then try another rule or fail.
+  - For each subgoal, repeat the process until either all subgoals are proved by facts or axioms, or no more rules can be applied.
+  - If all subgoals are proved, then the original goal is proved. If not, then the goal is not provable.
+- An example of backward chaining is:
+  - Goal: John is a criminal
+  - Rules: 
+    - If X is an American, then X is a patriot
+    - If X is a patriot and X sells weapons to enemies, then X is a criminal
+  - Facts: 
+    - John is an American
+    - John sells weapons to enemies
+  - Backward chaining process:
+    - Match the goal with the consequent of the second rule: John is a criminal -> X is a criminal
+    - Add the antecedent of the second rule to the subgoals: X is a patriot and X sells weapons to enemies
+    - Match the first subgoal with the consequent of the first rule: X is a patriot -> X is an American
+    - Add the antecedent of the first rule to the subgoals: X is an American
+    - Match the second subgoal with a fact: X sells weapons to enemies -> John sells weapons to enemies
+    - Match the third subgoal with a fact: X is an American -> John is an American
+    - All subgoals are proved by facts, so the original goal is proved: John is a criminal

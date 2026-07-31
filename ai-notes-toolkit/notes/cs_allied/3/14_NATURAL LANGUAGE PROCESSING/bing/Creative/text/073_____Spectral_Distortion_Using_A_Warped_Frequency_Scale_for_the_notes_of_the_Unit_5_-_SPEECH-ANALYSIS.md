@@ -1,0 +1,10 @@
+### Spectral Distortion Using A Warped Frequency Scale
+
+- Spectral distortion is the difference between the original and the reconstructed speech spectrum, which affects the quality and intelligibility of speech.
+- A warped frequency scale is a nonlinear transformation of the frequency axis that aims to match the human perception of sound, such as the mel scale or the bark scale.
+- Warping the frequency scale can reduce the spectral distortion by emphasizing the important spectral features, such as formants, and de-emphasizing the less important ones, such as high-frequency noise.
+- A common method to warp the frequency scale is to use an all-pass filter, which preserves the magnitude spectrum but changes the phase spectrum. The phase response of the all-pass filter defines the warped frequency scale.
+- A popular technique to analyze and synthesize speech on a warped frequency scale is the cepstral analysis, which converts the speech spectrum into a set of cepstral coefficients that represent the spectral envelope and the excitation source.
+- Cepstral analysis on a warped frequency scale can be performed by applying the inverse Fourier transform to the log-magnitude spectrum of the speech signal after warping the frequency axis by the all-pass filter.
+- Cepstral synthesis on a warped frequency scale can be performed by applying the Fourier transform to the cepstral coefficients after unwarping the frequency axis by the inverse all-pass filter, and then exponentiating the result to obtain the magnitude spectrum of the speech signal.
+- Cepstral analysis synthesis on a warped frequency scale can reduce the spectral distortion and the data rate compared to the conventional cepstral or linear predictive coding (LPC) vocoders, as well as improve the perceived quality of speech.

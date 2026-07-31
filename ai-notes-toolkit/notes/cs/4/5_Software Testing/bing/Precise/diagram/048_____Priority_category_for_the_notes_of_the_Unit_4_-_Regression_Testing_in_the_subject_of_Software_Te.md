@@ -1,0 +1,10 @@
+### Priority category for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+
+1. Definition of Regression Testing: Regression testing is the process of retesting a software system after changes have been made to ensure that the changes have not introduced new defects or caused existing defects to reappear.
+2. Purpose of Regression Testing: The purpose of regression testing is to ensure that changes to the software, such as bug fixes, enhancements, or new features, do not negatively impact the existing functionality of the system.
+3. Types of Regression Testing: There are several types of regression testing, including unit regression testing, partial regression testing, and complete regression testing.
+4. Regression Testing Techniques: There are several techniques that can be used to perform regression testing, including retest all, selective retest, and test case prioritization.
+5. Regression Test Selection: Regression test selection is the process of selecting a subset of test cases from the test suite to be executed as part of the regression testing process.
+6. Regression Test Automation: Automation can be used to reduce the time and effort required to perform regression testing. Automated regression testing tools can be used to execute test cases and compare the results to expected outcomes.
+7. Challenges in Regression Testing: There are several challenges associated with regression testing, including the time and effort required to perform regression testing, the difficulty of selecting the appropriate test cases to execute, and the potential for false positives and false negatives.
+8. Best Practices for Regression Testing: Some best practices for regression testing include planning for regression testing, selecting the appropriate test cases to execute, using automation where possible, and regularly reviewing and updating the regression test suite.

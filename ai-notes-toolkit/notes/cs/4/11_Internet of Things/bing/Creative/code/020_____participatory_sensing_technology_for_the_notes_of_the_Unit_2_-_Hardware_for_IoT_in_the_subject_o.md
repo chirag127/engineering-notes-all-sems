@@ -1,0 +1,7 @@
+### Participatory Sensing Technology
+
+- Participatory sensing is an approach to data collection and interpretation in which individuals, acting alone or in groups, use their personal mobile devices and web services to systematically explore interesting aspects of their worlds ranging from health to culture  .
+- Participatory sensing can be seen as a form of crowdsourcing, where the crowd provides data from their own devices, such as smartphones, tablets, wearables, etc., that are equipped with various sensors, such as microphones, cameras, GPS, accelerometers, etc.
+- Participatory sensing can enable public and professional users to gather, analyze and share local knowledge, such as environmental conditions, traffic patterns, social events, personal habits, etc., that can be useful for various purposes, such as citizen science, urban planning, public health, education, entertainment, etc.
+- Participatory sensing can also empower individuals and communities to monitor and improve their own well-being, such as by tracking their physical activity, diet, mood, air quality, noise level, etc., and by providing feedback, incentives, and social support.
+- Participatory sensing can pose some challenges, such as ensuring data quality, credibility, privacy, and security, as well as motivating and engaging users to participate and contribute data. Some possible solutions include using data fusion, verification, and filtering techniques, applying encryption, anonymization, and access control mechanisms, and designing gamification, reward, and reputation systems.

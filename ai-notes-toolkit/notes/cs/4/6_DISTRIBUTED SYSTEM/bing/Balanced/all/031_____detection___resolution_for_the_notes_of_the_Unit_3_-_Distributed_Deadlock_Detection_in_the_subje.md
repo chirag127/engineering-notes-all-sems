@@ -1,0 +1,12 @@
+# Detection and Resolution of Distributed Deadlocks
+
+- A distributed deadlock is a situation where a set of processes in a distributed system are waiting for each other to release resources, and none of them can proceed.
+- A distributed deadlock can be detected by constructing a wait-for graph (WFG) that represents the dependencies among the processes and the resources in the system.
+- A WFG is a directed graph where the nodes are processes or resources, and the edges are requests or assignments. An edge from a process to a resource means the process is requesting the resource, and an edge from a resource to a process means the resource is assigned to the process.
+- A cycle in the WFG indicates the presence of a deadlock. A knot is a strongly connected component of the WFG that contains at least one resource node. A knot is a necessary and sufficient condition for a deadlock.
+- There are three main approaches to construct and search the WFG in a distributed system: centralized, hierarchical, and distributed.
+- In the centralized approach, there is a designated coordinator process that collects the information about the requests and assignments from all the other processes, and constructs and searches the global WFG periodically or on demand.
+- In the hierarchical approach, the processes are organized into a tree structure, and each process maintains a local WFG for its subtree. The local WFGs are merged and searched at different levels of the hierarchy, starting from the leaves and moving up to the root.
+- In the distributed approach, there is no coordinator or hierarchy, and each process maintains a local WFG for its own requests and assignments. The processes exchange messages to construct and search the global WFG in a distributed manner, using algorithms such as edge chasing, path pushing, or diffusing computation.
+- Once a deadlock is detected, it can be resolved by breaking the cycle or the knot in the WFG. There are various strategies to select which processes or resources to abort or preempt, such as random, victim, youngest, oldest, minimum cost, maximum cost, etc.
+- The goal of deadlock resolution is to minimize the cost of breaking the deadlock, which can include factors such as the amount of work lost, the number of processes affected, the priority of the processes, the availability of the resources, etc.

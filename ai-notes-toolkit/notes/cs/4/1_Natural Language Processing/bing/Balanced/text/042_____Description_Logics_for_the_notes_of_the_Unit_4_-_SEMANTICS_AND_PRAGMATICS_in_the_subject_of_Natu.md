@@ -1,0 +1,28 @@
+### Description Logics for Natural Language Processing
+
+- Description logics (DLs) are a family of logic-based knowledge representation languages that allow for the formalization of concepts, roles, and individuals in a domain of interest .
+- DLs can be used for various applications, such as ontology engineering, semantic web, and natural language processing (NLP) .
+- In NLP, DLs can be used to represent the meaning of natural language expressions, such as sentences, phrases, or words, in a precise and unambiguous way .
+- DLs can also be used to perform reasoning tasks on natural language expressions, such as entailment, consistency, subsumption, and satisfiability .
+- DLs are based on the notions of concepts, roles, and individuals, which correspond to the linguistic notions of nouns, verbs, and proper names, respectively .
+- Concepts are unary predicates that denote sets of individuals, such as `Human`, `Dog`, or `Red` .
+- Roles are binary predicates that denote relations between individuals, such as `hasPet`, `loves`, or `isColorOf` .
+- Individuals are constants that denote specific objects in the domain, such as `Alice`, `Fido`, or `the sky` .
+- DLs allow for the construction of complex concepts and roles from atomic ones, using logical operators, such as conjunction, disjunction, negation, quantification, and modalities .
+- For example, the concept `Dog and (hasPet some Cat)` denotes the set of dogs that have at least one cat as a pet .
+- The role `loves o loves^-` denotes the relation of mutual love between individuals, where `o` is the composition operator and `^-` is the inverse operator .
+- DLs also allow for the definition of axioms, which are statements that constrain the interpretation of concepts and roles .
+- For example, the axiom `Human subClassOf Animal` states that every human is an animal .
+- The axiom `hasPet domain Human` states that only humans can have pets .
+- DLs have different expressive power and computational complexity, depending on the operators and axioms that they allow .
+- For example, the DL `ALC` allows for conjunction, disjunction, negation, universal and existential quantification, and subsumption axioms, and has a decidable and polynomial-time satisfiability problem .
+- The DL `S5` extends `ALC` with modal operators, and has a decidable and exponential-time satisfiability problem .
+- The DL `SHOIN` extends `ALC` with transitive roles, inverse roles, role hierarchies, nominals, and number restrictions, and is the basis of the web ontology language `OWL-DL` .
+- DLs can be used to model natural language semantics in various ways, such as:
+  - Using concepts and roles to represent the meaning of words and phrases, and using axioms to capture their lexical and ontological relations .
+  - Using individuals and roles to represent the meaning of sentences and discourse, and using axioms to capture their syntactic and pragmatic relations .
+  - Using modal operators to represent the meaning of modal verbs and adverbs, and using axioms to capture their logical and epistemic relations .
+  - Using number restrictions to represent the meaning of quantifiers and numerals, and using axioms to capture their semantic and pragmatic relations .
+- DLs can also be used to perform various reasoning tasks on natural language expressions, such as:
+  - Checking the consistency of a set of sentences or a discourse, by checking the satisfiability of the corresponding DL concepts or individuals .
+  - Checking the entailment of a sentence or a discourse by another, by checking the subsumption of the corresponding DL

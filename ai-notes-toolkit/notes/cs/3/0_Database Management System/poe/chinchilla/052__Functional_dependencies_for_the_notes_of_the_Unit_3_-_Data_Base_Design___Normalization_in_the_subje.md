@@ -1,0 +1,16 @@
+### Functional Dependencies
+
+Functional dependencies are a critical concept in database management systems. They are a way of describing the relationships between attributes in a table. Understanding functional dependencies is an essential part of designing a database, and it is crucial for ensuring data integrity and consistency.
+
+Here are some important points to remember about functional dependencies:
+
+- A functional dependency is a relationship between two or more attributes in a table.
+- If attribute A determines attribute B, then we say that B is functionally dependent on A.
+- A functional dependency can be represented by an arrow, with the determining attribute(s) on the left and the dependent attribute(s) on the right.
+- For example, if we have a table with attributes "employee_id", "employee_name", and "department_id", we might say that "employee_name" is functionally dependent on "employee_id" because each employee has a unique name that is associated with their ID.
+- Functional dependencies can be used to identify redundancy and anomalies in a database. For example, if we have a table with attributes "student_id", "course_name", and "instructor_name", we might identify a functional dependency between "course_name" and "instructor_name" because each course is taught by a unique instructor. This can help us identify and eliminate redundant data.
+- Functional dependencies can be used to determine the normal form of a table. A table is said to be in first normal form (1NF) if it contains no repeating groups or arrays. A table is said to be in second normal form (2NF) if it is in 1NF and every non-key attribute is functionally dependent on the entire primary key. A table is said to be in third normal form (3NF) if it is in 2NF and every non-key attribute is functionally dependent on only the primary key.
+- Functional dependencies can be transitive. For example, if we have a table with attributes "employee_id", "employee_name", "manager_id", and "manager_name", we might say that "manager_name" is functionally dependent on "manager_id" because each manager has a unique name. We might also say that "employee_name" is functionally dependent on "manager_id" because each employee is supervised by a unique manager. However, we can also say that "employee_name" is transitively dependent on "manager_id" through the "employee_id" attribute. In other words, if we know the "manager_id" for a given employee, we can determine their manager's name and therefore their own name.
+- It is important to identify and eliminate transitive dependencies in a database to ensure data consistency and to prevent update anomalies.
+
+In summary, functional dependencies are a critical concept in database management systems. They help us identify redundancy and anomalies in a database, determine the normal form of a table, and ensure data consistency. It is essential to understand functional dependencies when designing a database and to identify and eliminate any transitive dependencies that may exist.

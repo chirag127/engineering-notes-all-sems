@@ -1,0 +1,21 @@
+### Semantic models for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+
+- A semantic data model is a method of structuring data in order to represent it in a specific logical way. It is a conceptual data model that includes semantic information that adds a basic meaning to the data and the relationships that lie between them.
+- A semantic data model works basically by creating relationships between data when the data is organized. This allows the data to have meaning without human intervention or additional processing. The data is organized into three essential parts—the first data element or object, the relationship, and then the second data element or object.
+- A semantic data model provides users with significantly more useful abstractions than the SQL data model and queries. These abstractions are more composable and reusable than queries. A semantic data model also helps data management manage and oversee the company's overall data, thus increasing decision-making capabilities .
+- There are four primary goals of semantic data models:
+  - Data resource planning: The semantic data model can be used in the initial stages of project planning to provide the necessary data resources.
+  - Data integration: The semantic data model can be used to integrate data from different sources and formats, and to resolve semantic conflicts and inconsistencies.
+  - Data analysis: The semantic data model can be used to support various types of data analysis, such as querying, reporting, visualization, and mining.
+  - Data governance: The semantic data model can be used to enforce data quality, security, privacy, and compliance policies and standards.
+- Semantic data models can be developed using various techniques, such as:
+  - Upper ontologies: These are general and abstract models that capture the common concepts and relationships across domains.
+  - Design patterns: These are reusable and modular models that capture the best practices and solutions for specific problems or scenarios.
+  - Standard and reference models: These are authoritative and normative models that define the terms and structures for specific domains or applications.
+  - Public models and datasets: These are openly available and widely used models and datasets that provide rich and diverse sources of semantic information.
+  - Semantic model mining: This is the process of extracting semantic information from existing data sources, such as databases, documents, web pages, and social media.
+- Semantic data models can be represented using various languages and formats, such as:
+  - Resource Description Framework (RDF): This is a standard model for data interchange on the web. It uses triples of subject, predicate, and object to represent data and relationships.
+  - Web Ontology Language (OWL): This is a standard language for expressing and reasoning about ontologies on the web. It extends RDF with more expressive features, such as classes, properties, restrictions, and rules.
+  - Schema.org: This is a collaborative initiative that provides a common vocabulary for structuring and annotating data on the web. It uses RDFa, Microdata, and JSON-LD to embed semantic information in web pages.
+  - Knowledge Graph: This is a large-scale collection of facts and entities that are interlinked by semantic relationships. It can be used to enhance search, recommendation, and personalization systems.

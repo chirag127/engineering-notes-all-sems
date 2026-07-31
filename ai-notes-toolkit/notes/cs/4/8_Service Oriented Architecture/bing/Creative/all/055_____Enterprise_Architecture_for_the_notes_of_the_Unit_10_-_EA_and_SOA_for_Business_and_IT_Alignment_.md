@@ -1,0 +1,23 @@
+# Enterprise Architecture for the notes of the Unit 10 - EA and SOA for Business and IT Alignment in the subject of Service Oriented Architecture
+
+- Enterprise Architecture (EA) is the organizing logic for business processes and IT infrastructure reflecting the integration and standardization requirements of the company’s operating model .
+- EA covers all the dimensions of IT architecture for the enterprise, such as business, data, application, and technology .
+- EA aims to align the business strategy and vision with the IT capabilities and resources .
+- Service Oriented Architecture (SOA) is a powerful and flexible solution architecture for systems integration, resource sharing, and enabling agility in the modern enterprise.
+- SOA promotes an alignment between business and IT by using the concept of “Services” as the underlying business-IT alignment entity .
+- Services are self-contained, reusable, and loosely coupled components that provide business functionality and can be orchestrated to achieve business goals  .
+- SOA is not a subset or a superset of EA, but rather a complementary approach that can be used to implement EA .
+- SOA and EA share a similar goal of bridging the gap between business and IT, but they differ in scope, perspective, and methodology .
+- EA provides a holistic and strategic view of the enterprise, while SOA provides a tactical and operational view of the systems .
+- EA defines the principles, standards, and guidelines for the enterprise, while SOA defines the service contracts, interfaces, and policies for the systems .
+- EA follows a top-down and design-driven approach, while SOA follows a bottom-up and implementation-driven approach .
+- EA and SOA can be integrated and aligned by using a capability-based business model that expresses the business in terms of business services.
+- A capability is a stable and measurable business function that delivers a specific outcome.
+- A business service is a service that supports a business capability and provides a business value.
+- A capability-based business model can help to identify the business services that are required, the dependencies and relationships among them, and the IT services that support them.
+- A capability-based business model can also help to measure the performance, maturity, and value of the business services and the IT services.
+- A capability-based business model can enable a service-oriented enterprise (SOE) that is agile, adaptable, and aligned with the business strategy and vision.
+- EA and SOA can benefit from each other by leveraging the strengths and addressing the weaknesses of each approach  .
+- EA can benefit from SOA by using services as a means to implement the EA vision, by increasing the reusability and interoperability of the IT systems, and by enabling the flexibility and agility of the business processes  .
+- SOA can benefit from EA by using EA as a framework to guide the SOA implementation, by ensuring the consistency and compliance of the IT systems, and by aligning the IT services with the business goals and values  .
+- EA and SOA can work together to achieve a better business-IT alignment and a higher business value  .

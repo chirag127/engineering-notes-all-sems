@@ -1,0 +1,23 @@
+### Modifications of Turing Machine
+
+A Turing machine is a mathematical model of computation that can perform any algorithmic task by reading and writing symbols on an infinite tape. A Turing machine consists of a finite set of states, a finite set of tape symbols, a transition function that maps a state and a tape symbol to a new state, a new tape symbol and a direction of movement, and a start state and a set of final states.
+
+There are several variations or modifications of Turing machines that are equivalent in computational power, meaning that they can recognize the same class of languages or compute the same functions. Some of these modifications are:
+
+- **Multiple track Turing machine**: A k-track Turing machine (for some k>0) has k-tracks and one R/W head that reads and writes all of them one by one. Each track can store one symbol from the tape alphabet. A multiple track Turing machine can simulate a single track Turing machine by using different symbols to represent the combinations of symbols on different tracks.
+
+- **Two-way infinite tape Turing machine**: A two-way infinite tape Turing machine has an infinite tape that extends in both directions. The tape is initially filled with blanks except for the input string. A two-way infinite tape Turing machine can simulate a standard Turing machine by using one half of the tape to store the input and the other half to store the computation.
+
+- **Multi-tape Turing machine**: A multi-tape Turing machine has k tapes (for some k>0) and k R/W heads, one for each tape. The tapes are initially filled with blanks except for the first tape, which contains the input string. The transition function takes as input the current state and the symbols read by all the heads, and produces as output the new state, the symbols to be written by all the heads, and the directions of movement for all the heads. A multi-tape Turing machine can simulate a single tape Turing machine by using one tape to store the state and the symbols read by the head, and the other tapes to store the rest of the tape.
+
+- **Multi-head Turing machine**: A multi-head Turing machine has one tape and k R/W heads (for some k>0) that can move independently on the tape. The tape is initially filled with blanks except for the input string. The transition function takes as input the current state and the symbols read by all the heads, and produces as output the new state, the symbols to be written by all the heads, and the directions of movement for all the heads. A multi-head Turing machine can simulate a single head Turing machine by using one head to perform the computation and the other heads to follow it.
+
+- **Non-deterministic Turing machine**: A non-deterministic Turing machine has a transition function that can map a state and a tape symbol to more than one possible output. This means that the machine can choose among different options at each step of the computation. A non-deterministic Turing machine can simulate a deterministic Turing machine by following one of the possible outputs at each step. A deterministic Turing machine can simulate a non-deterministic Turing machine by using a tree-like structure to explore all the possible branches of the computation.
+
+- **Non-erasing Turing machine**: A non-erasing Turing machine is a Turing machine that cannot change the input symbols to blanks. It can only replace the input symbols with other symbols from the tape alphabet. A non-erasing Turing machine can simulate a standard Turing machine by using a separate symbol to mark the input symbols and another symbol to mark the blanks.
+
+- **Read-only Turing machine**: A read-only Turing machine is a Turing machine that cannot write anything on the tape. It can only read the symbols on the tape and change its state. A read-only Turing machine can simulate a standard Turing machine by using a separate tape to store the computation and a separate head to read the input tape.
+
+- **Write-only Turing machine**: A write-only Turing machine is a Turing machine that cannot read anything from the tape. It can only write symbols on the tape and change its state. A write-only Turing machine can simulate a standard Turing machine by using a separate tape to store the input and a separate head to write the output tape.
+
+- **One-symbol Turing machine**: A one-symbol Turing machine is a Turing machine that has only one symbol in its tape alphabet, besides the blank symbol. It can only write and erase the symbol on the tape. A one-symbol Turing machine can simulate a standard Turing machine by using different patterns of the symbol to represent different symbols from the original tape alphabet[^

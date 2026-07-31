@@ -1,0 +1,12 @@
+#### Hadoop benchmarks in Hadoop Environment
+
+- Hadoop benchmarks are tools or programs that measure the performance of Hadoop clusters and applications in various aspects, such as throughput, latency, scalability, reliability, etc.
+- Hadoop benchmarks can be used for testing, tuning, debugging, and comparing different Hadoop configurations, versions, and implementations.
+- Hadoop benchmarks can be classified into two categories: micro-benchmarks and macro-benchmarks.
+  - Micro-benchmarks focus on specific components or features of Hadoop, such as HDFS, MapReduce, YARN, etc. They usually have simple and synthetic workloads that stress a particular aspect of the system. Examples of micro-benchmarks are TestDFSIO, TeraSort, PiEstimator, etc.
+  - Macro-benchmarks simulate real-world applications or scenarios that run on Hadoop, such as data analytics, machine learning, graph processing, etc. They usually have complex and realistic workloads that involve multiple stages and data sources. Examples of macro-benchmarks are HiBench, BigBench, BigDataBench, etc.
+- Hadoop benchmarks can be run in different modes, such as local mode, pseudo-distributed mode, and fully-distributed mode, depending on the number and type of nodes in the cluster.
+  - Local mode runs the benchmark on a single node, without using HDFS or MapReduce. It is mainly used for development and debugging purposes.
+  - Pseudo-distributed mode runs the benchmark on a single node, but with HDFS and MapReduce enabled. It simulates a multi-node cluster with different processes running on the same machine. It is useful for testing and prototyping purposes.
+  - Fully-distributed mode runs the benchmark on a multi-node cluster, with HDFS and MapReduce distributed across different machines. It is the most realistic and reliable mode for measuring the performance of Hadoop in a production environment.
+- Hadoop benchmarks can be executed using different tools or frameworks, such as Hadoop command-line interface, Hadoop Streaming, Hadoop Pipes, Apache Spark, Apache Flink, Apache Hive, Apache Pig, etc. Each tool or framework has its own advantages and disadvantages in terms of ease of use, expressiveness, efficiency, scalability, etc.

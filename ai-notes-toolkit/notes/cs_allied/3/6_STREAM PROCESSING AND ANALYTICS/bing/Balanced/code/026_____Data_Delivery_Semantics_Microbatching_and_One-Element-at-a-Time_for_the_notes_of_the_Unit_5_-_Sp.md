@@ -1,0 +1,15 @@
+### Data Delivery Semantics: Microbatching and One-Element-at-a-Time
+
+- Data delivery semantics refer to how data is processed and delivered by a system, and what guarantees are provided about the completeness, correctness, and timeliness of the data.
+- There are two main types of data delivery semantics: microbatching and one-element-at-a-time.
+- Microbatching is a technique where incoming data is grouped into small batches and processed at regular intervals, such as every few seconds or minutes. This allows for efficient processing of large datasets with reduced latency and improved scalability .
+- One-element-at-a-time is a technique where incoming data is processed as soon as it arrives, without waiting for a batch to form. This allows for real-time processing of data with minimal latency and high responsiveness.
+- Spark is a distributed processing framework that supports both microbatching and one-element-at-a-time semantics. Spark's core abstraction is the resilient distributed dataset (RDD), which is a collection of data elements that can be processed in parallel across a cluster of nodes. Spark also provides two higher-level APIs for stream processing: Spark Streaming and Structured Streaming.
+- Spark Streaming is based on microbatching semantics. It divides the input data stream into small batches called DStreams, which are internally represented as RDDs. Spark Streaming then applies transformations and actions on these DStreams, such as map, filter, reduce, join, etc. Spark Streaming also provides stateful operations, such as updateStateByKey and mapWithState, which allow keeping track of the state of the data across batches.
+- Structured Streaming is based on one-element-at-a-time semantics. It treats the input data stream as an unbounded table, which is continuously updated with new data. Structured Streaming then applies SQL queries on this table, which are incrementally evaluated as new data arrives. Structured Streaming also provides support for event-time processing, watermarking, and windowing, which allow handling late and out-of-order data.
+- Both Spark Streaming and Structured Streaming provide fault-tolerance, scalability, and consistency guarantees. They also allow integrating with various sources and sinks of data, such as Kafka, Flume, HDFS, S3, etc.
+- The choice of data delivery semantics depends on the use case and the trade-offs between latency, throughput, and complexity. Microbatching is useful when the data needs to be processed in near real-time, but not necessarily in real-time. One-element-at-a-time is useful when the data needs to be processed in real-time, with minimal delay and high accuracy .
+
+: https://dzone.com/articles/understanding-batch-microbatch-and-stream-processi
+: https://www.upsolver.com/blog/batch-stream-a-cheat-sheet
+: https://spark.apache.org/docs/latest/streaming-programming-guide.html

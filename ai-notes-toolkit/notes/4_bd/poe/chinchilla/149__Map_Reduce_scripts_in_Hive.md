@@ -1,0 +1,16 @@
+#### Map Reduce scripts in Hive
+
+MapReduce is a popular programming model used for processing large datasets in a distributed computing environment. It is widely used in big data processing and analytics applications. Apache Hive is a data warehousing tool built on top of Hadoop that provides an SQL-like interface for querying data stored in Hadoop Distributed File System (HDFS). With the help of Hive, MapReduce scripts can be written in a more user-friendly way, making it easier for developers to understand and work with big data. Here are some important points to keep in mind when working with MapReduce scripts in Hive:
+
+- Hive provides a SQL-like interface to interact with data stored in HDFS. This makes it easier to write MapReduce scripts in Hive as developers can use SQL-like syntax to write queries.
+- MapReduce scripts in Hive are written in the form of HiveQL statements. HiveQL is a SQL-like language that is used to write queries in Hive. It can be used to create tables, load data, and perform various data manipulation operations.
+- Hive supports various data formats such as CSV, JSON, ORC, and Parquet. Developers can use these formats to store and process data in Hive.
+- Hive provides a rich set of built-in functions that can be used to perform various data manipulation operations. These functions can be used to perform tasks like filtering, aggregating, and transforming data.
+- Hive can be integrated with other tools such as Pig and Spark to perform advanced data processing tasks. This makes it easier for developers to work with big data by providing a unified platform for data processing and analytics.
+- Hive provides a feature called "Dynamic Partitioning" which allows developers to partition data on the fly based on the values in the data. This feature makes it easier to work with large datasets by storing data in smaller partitions.
+- Developers can use Hive to optimize MapReduce jobs by configuring various parameters such as the number of mappers and reducers, the size of the input and output data, and the type of compression used.
+- Hive provides a CLI (Command Line Interface) for interacting with Hive. Developers can use this interface to write and execute HiveQL statements.
+- Hive provides an ODBC (Open Database Connectivity) driver which allows developers to connect to Hive from various programming languages such as Java, Python, and C++.
+- Hive supports both batch and interactive modes of data processing. In batch mode, developers can write MapReduce scripts in Hive and execute them in a batch process. In interactive mode, developers can interactively query data using the Hive CLI or other tools such as Hue.
+
+In conclusion, MapReduce scripts in Hive provide a powerful tool for working with big data. With the help of Hive, developers can write MapReduce scripts in a more user-friendly way, making it easier to work with large datasets. Hive provides a unified platform for data processing and analytics and supports various data formats and built-in functions. Developers can optimize MapReduce jobs in Hive by configuring various parameters, and can interact with Hive using the CLI or ODBC driver.

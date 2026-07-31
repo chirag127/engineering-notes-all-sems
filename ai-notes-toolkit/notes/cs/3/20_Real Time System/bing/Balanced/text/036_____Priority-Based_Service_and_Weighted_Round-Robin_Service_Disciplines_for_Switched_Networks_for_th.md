@@ -1,0 +1,8 @@
+### Priority-Based Service and Weighted Round-Robin Service Disciplines for Switched Networks
+
+- Priority-based service disciplines are used to schedule the transmission of packets in a network according to their priority levels, delay bounds, jitter bounds and bandwidth requirements.
+- Weighted round-robin (WRR) is a simple and fair priority-based service discipline that assigns a weight to each queue and serves them in a circular order, giving each queue a number of service slots proportional to its weight.
+- WRR does not require a sorted priority queue, only a round-robin queue. It can guarantee the minimum bandwidth for each queue, but it cannot guarantee the delay jitter bound or satisfy diverse delay requirements.
+- Weighted fair queuing (WFQ) is a more sophisticated priority-based service discipline that assigns a weight and a virtual finish time to each packet and serves them in the order of their virtual finish times. It can approximate the ideal generalized processor sharing (GPS) discipline, which allocates the server bandwidth to each queue according to its weight.
+- WFQ can guarantee the delay bound, the delay jitter bound and the minimum bandwidth for each queue, but it requires a sorted priority queue and more computation than WRR.
+- There are also other variants of priority-based service disciplines, such as strict priority (SP), probabilistic priority (PP), class-based weighted fair queuing (CBWFQ) and weighted fair priority queuing (WFPQ), that have different trade-offs between performance, fairness and complexity .

@@ -1,0 +1,24 @@
+### Prototype Model in SDLC
+
+- The prototype model is a software development life cycle (SDLC) model in which a prototype is built, tested, and then reworked as necessary until an acceptable prototype is finally achieved from which the complete system or product can be developed.
+- A prototype is a working model of the software that exhibits some of the features and functionality of the final product.
+- The prototype model is used when the customers do not know the exact project requirements beforehand or when the requirements are complex and unclear.
+- The prototype model involves the following steps :
+  - **Requirement gathering and analysis**: The basic requirements of the system are gathered from the customers and analyzed.
+  - **Quick design**: A quick and rough design of the prototype is created based on the requirements.
+  - **Build prototype**: The prototype is developed using the tools and techniques that are suitable for rapid prototyping. The prototype may not have all the features or quality of the final product, but it should be functional enough to demonstrate the idea to the customers.
+  - **User evaluation**: The prototype is presented to the customers for their feedback and suggestions. The customers can test the prototype and identify any gaps or errors in the requirements or design.
+  - **Refining prototype**: Based on the customer feedback, the prototype is refined and improved until it meets the customer expectations and requirements. This process is repeated until the customer is satisfied with the prototype.
+  - **Develop product**: Once the prototype is approved by the customer, the final product is developed using the standard SDLC model. The prototype serves as a basis for the design and development of the product.
+- The advantages of the prototype model are :
+  - It reduces the risk of failure by validating the requirements and design with the customers early in the development process.
+  - It improves the communication and collaboration between the developers and the customers, as they can interact with the prototype and provide feedback.
+  - It enhances the user satisfaction and involvement, as they can see and test the prototype before the final product is delivered.
+  - It facilitates the detection and correction of errors and defects at an early stage, which reduces the cost and time of rework.
+  - It allows the incorporation of changes and enhancements in the requirements and design easily and quickly, as the prototype is flexible and adaptable.
+- The disadvantages of the prototype model are :
+  - It may increase the complexity and scope of the project, as the prototype may require additional features or modifications that were not planned initially.
+  - It may lead to unrealistic expectations and demands from the customers, as they may assume that the prototype is the final product and request for more changes or features.
+  - It may compromise the quality and performance of the product, as the prototype may not follow the standards and best practices of software engineering.
+  - It may require more resources and effort from the developers, as they have to create and maintain the prototype as well as the final product.
+  - It may cause confusion and inconsistency in the documentation and testing of the product, as the prototype may not match the final product specifications.

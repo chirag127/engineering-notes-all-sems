@@ -1,0 +1,9 @@
+#### CO 3 Design and analyze top down and bottom up parsers. K4, K5
+
+- A parser is a program that takes a string of symbols as input and determines whether it belongs to a given grammar, and if so, how it can be derived from the grammar's rules.
+- A top down parser is a parser that starts from the start symbol of the grammar and tries to match the input string by applying the production rules in a top down manner, i.e., from left to right and from the highest level to the lowest level of the parse tree.
+- A bottom up parser is a parser that starts from the input string and tries to construct the parse tree by applying the production rules in a bottom up manner, i.e., from right to left and from the lowest level to the highest level of the parse tree.
+- The main advantages of top down parsers are that they are easy to implement and understand, and that they can handle left recursive grammars. The main disadvantages are that they may generate unnecessary backtracking and that they cannot handle left factored grammars.
+- The main advantages of bottom up parsers are that they can handle a larger class of grammars, including left factored and ambiguous grammars, and that they are more efficient than top down parsers. The main disadvantages are that they are more complex to implement and understand, and that they may generate spurious errors.
+- The main types of top down parsers are recursive descent parsers and predictive parsers. Recursive descent parsers use recursive functions to implement each non-terminal of the grammar, while predictive parsers use a lookahead symbol to decide which production rule to apply.
+- The main types of bottom up parsers are shift reduce parsers and operator precedence parsers. Shift reduce parsers use a stack and an input buffer to perform shifting and reducing actions based on a parsing table, while operator precedence parsers use a precedence table to resolve conflicts between operators and operands.

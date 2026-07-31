@@ -1,0 +1,17 @@
+### Spark Components
+
+Spark is an open source framework for big data processing with a faster approach. It does not have its own storage system, but runs analytics on other storage systems like HDFS, Amazon S3, Cassandra, etc. Spark applications run as independent sets of processes on a cluster, coordinated by the SparkContext object in the driver program. The SparkContext can connect to several types of cluster managers, such as Spark’s own standalone cluster manager, Mesos, YARN or Kubernetes.
+
+There are six main components associated with the Spark ecosystem   :
+
+- **Spark Core**: It is the base engine that provides the basic functionality of Spark, such as task scheduling, memory management, fault recovery, interacting with storage systems, etc. It also contains the API that defines resilient distributed datasets (RDDs), which are the main programming abstraction of Spark. RDDs represent a collection of items that can be processed in parallel across a cluster. Spark Core is also home to several libraries that provide additional features, such as Spark Streaming, Spark SQL, Spark MLlib, Spark GraphX, and SparkR.
+
+- **Spark Streaming**: It is a component that enables scalable, high-throughput, and fault-tolerant stream processing of live data streams. It can ingest data from sources such as Kafka, Flume, Twitter, ZeroMQ, Kinesis, etc. It can also process data using complex algorithms expressed with high-level functions such as map, reduce, join, and window. The processed data can be pushed to databases, dashboards, or downstream systems.
+
+- **Spark SQL**: It is a component that provides a distributed framework for structured and semi-structured data processing. It supports querying data using either SQL or a familiar DataFrame API. It can also read and write data from various sources, such as Hive, Parquet, JSON, JDBC, etc. Spark SQL also leverages the information about the structure of data and the computation to perform extra optimizations, such as query planning, code generation, and adaptive execution.
+
+- **Spark MLlib**: It is a component that provides a scalable machine learning library that consists of common learning algorithms and utilities, such as classification, regression, clustering, collaborative filtering, dimensionality reduction, feature extraction, and optimization. It also supports model evaluation, tuning, and persistence. It is designed to work with RDDs, DataFrames, and Datasets, and can interoperate with NumPy, SciPy, and R libraries.
+
+- **Spark GraphX**: It is a component that provides a graph processing framework that enables users to easily create and transform graph-structured data using a flexible and expressive API. It also provides a collection of graph algorithms, such as PageRank, connected components, triangle counting, etc. It is built on top of Spark Core and can leverage its features, such as in-memory caching, fault tolerance, and parallelism.
+
+- **SparkR**: It is a component that provides an R package that allows data scientists to analyze large datasets and interactively run jobs on them from the R shell. It supports a subset of the Spark SQL API and MLlib functions, and allows users to manipulate distributed data using R's familiar data.frame interface. It also enables users to use R's rich package ecosystem and visualization tools with Spark.

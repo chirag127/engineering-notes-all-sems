@@ -1,0 +1,22 @@
+# IOT based Intelligent Gas Leakage Detector Using Arduino
+
+- This is a project that uses Internet of Things (IoT) and Arduino to detect gas leakage in the surroundings and send data to an IOT module.
+- IoT is the networking of physical things that can communicate with the help of sensors, electronics, software, and connectivity.
+- Arduino is an open-source platform that consists of a microcontroller and a software environment that can be used to program and control the microcontroller.
+- The main components of this project are:
+  - MQ5 gas sensor: This is a sensor that can detect various gases, such as LPG, methane, alcohol, etc. It has a high sensitivity and fast response time. It outputs an analog voltage that varies according to the concentration of the gas in the air.
+  - ESP8266: This is a low-cost Wi-Fi module that can connect to the internet and send or receive data. It can be programmed using Arduino IDE or other software tools.
+  - Buzzer: This is a device that can produce a loud sound when activated by an electric signal. It can be used to alert the user or the authorities in case of a gas leakage.
+  - LED: This is a light-emitting diode that can emit light of different colors when powered by an electric current. It can be used to indicate the status of the system or the level of gas leakage.
+  - LCD: This is a liquid crystal display that can show alphanumeric characters or graphics on a screen. It can be used to display the gas concentration or other information to the user.
+- The working principle of this project is as follows:
+  - The MQ5 gas sensor is connected to the analog input pin of the Arduino. The sensor continuously monitors the level of gas in the air and outputs a voltage that corresponds to the gas concentration.
+  - The Arduino reads the analog voltage from the sensor and converts it to a digital value using an analog-to-digital converter (ADC). The Arduino then compares the digital value with a predefined threshold value and determines if there is a gas leakage or not.
+  - If there is no gas leakage, the Arduino sends a normal message to the ESP8266 module, which then transmits it to the IOT module via Wi-Fi. The IOT module can be a cloud service, a web server, or a mobile app that can store and display the data from the ESP8266 module.
+  - If there is a gas leakage, the Arduino sends an alert message to the ESP8266 module, which then transmits it to the IOT module via Wi-Fi. The IOT module can then notify the user or the authorities about the gas leakage and its location. The Arduino also activates the buzzer and the LED to warn the user or the nearby people about the gas leakage. The Arduino also displays the gas concentration on the LCD screen.
+- The advantages of this project are:
+  - It can detect gas leakage in real-time and send data to the IOT module for further analysis and action.
+  - It can alert the user or the authorities about the gas leakage and its location using Wi-Fi connectivity and IOT module.
+  - It can prevent fire accidents, explosions, or health hazards caused by gas leakage.
+  - It can be installed in homes, hotels, industries, or other places where gas is used or stored.
+  - It is low-cost, easy to build, and user-friendly.

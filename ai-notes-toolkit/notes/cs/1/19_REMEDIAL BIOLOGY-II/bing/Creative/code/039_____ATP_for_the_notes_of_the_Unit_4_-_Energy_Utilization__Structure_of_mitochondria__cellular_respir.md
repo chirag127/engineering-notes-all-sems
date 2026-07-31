@@ -1,0 +1,11 @@
+### ATP
+
+- ATP stands for adenosine triphosphate, an organic compound that consists of a nitrogenous base (adenine), a sugar (ribose), and three phosphate groups.
+- ATP is the main energy currency of the cell, as it can store and release energy quickly by breaking and forming the bonds between the phosphate groups.
+- ATP is produced by cellular respiration, a process that oxidizes glucose and other organic molecules to generate ATP and release carbon dioxide and water as waste products.
+- Cellular respiration can be divided into three main stages: glycolysis, the citric acid cycle (or Krebs cycle), and oxidative phosphorylation .
+  - Glycolysis is the first stage of cellular respiration, where glucose is split into two molecules of pyruvate, producing a net of 2 ATP and 2 NADH (a coenzyme that carries electrons) per glucose molecule .
+  - The citric acid cycle is the second stage of cellular respiration, where pyruvate is converted into acetyl-CoA, which then enters a cycle of reactions that produces 2 ATP, 6 NADH, and 2 FADH2 (another coenzyme that carries electrons) per glucose molecule .
+  - Oxidative phosphorylation is the third and final stage of cellular respiration, where the electrons from NADH and FADH2 are transferred to a series of proteins called the electron transport chain, which pumps protons across the inner membrane of the mitochondria, creating a gradient that drives the synthesis of ATP by a protein complex called ATP synthase. This stage produces about 26-28 ATP per glucose molecule .
+- The structure of the mitochondria, the organelles where most of cellular respiration takes place, is adapted to facilitate the process. The mitochondria have a double membrane, with the inner membrane folded into cristae that increase the surface area for the electron transport chain and ATP synthase. The space between the two membranes is called the intermembrane space, and the space inside the inner membrane is called the matrix, where the citric acid cycle occurs.
+- The rate of cellular respiration is affected by various factors, such as the availability of glucose and oxygen, the temperature, the pH, and the presence of inhibitors or activators of the enzymes involved in the process.

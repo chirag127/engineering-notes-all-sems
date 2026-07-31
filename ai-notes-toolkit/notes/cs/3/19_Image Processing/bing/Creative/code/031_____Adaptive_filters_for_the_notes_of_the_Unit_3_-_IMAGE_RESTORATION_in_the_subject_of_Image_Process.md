@@ -1,0 +1,9 @@
+### Adaptive filters for image restoration
+
+- Adaptive filters are commonly used in image processing to enhance or restore data by removing noise without significantly blurring the structures in the image .
+- Adaptive filters adjust their parameters or coefficients according to the characteristics of the input image, such as the local statistics, the spatial frequency, or the edge information .
+- Adaptive filters can be classified into two categories: spatial domain adaptive filters and frequency domain adaptive filters.
+- Spatial domain adaptive filters operate directly on the pixel values of the image, and can be further divided into local adaptive filters and global adaptive filters.
+- Local adaptive filters use a small neighborhood around each pixel to estimate the noise level and the local image features, and then apply a suitable filter to the pixel based on the estimation. Examples of local adaptive filters are adaptive median filter, adaptive Wiener filter, and adaptive bilateral filter.
+- Global adaptive filters use the whole image or a large region to estimate the noise level and the global image features, and then apply a suitable filter to the whole image or the region based on the estimation. Examples of global adaptive filters are adaptive histogram equalization, adaptive homomorphic filter, and adaptive anisotropic diffusion.
+- Frequency domain adaptive filters transform the image from the spatial domain to the frequency domain, and then apply a filter that adapts to the frequency spectrum of the image. Examples of frequency domain adaptive filters are adaptive notch filter, adaptive bandpass filter, and adaptive Wiener filter.

@@ -1,0 +1,14 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here is some information on the performance metric for distributed mutual exclusion algorithms for the notes of the Unit 2 - Distributed Mutual Exclusion in the subject of DISTRIBUTED SYSTEM.
+
+### Performance metric for distributed mutual exclusion algorithms
+
+Distributed mutual exclusion algorithms are algorithms that ensure that only one process at a time can access a shared resource in a distributed system. There are different types of distributed mutual exclusion algorithms, such as token-based, non-token-based, and quorum-based algorithms. Each algorithm has its own advantages and disadvantages, and can be evaluated based on the following four performance metrics :
+
+- **Message complexity**: It is the number of messages that are required per critical section (CS) execution by a process. Message complexity affects the communication overhead and the network bandwidth consumption of the algorithm. The lower the message complexity, the better the performance of the algorithm.
+- **Synchronization delay**: It is the time interval between the departure of a process from the CS and the entry of the next process into the CS. Synchronization delay affects the responsiveness and the fairness of the algorithm. The lower the synchronization delay, the better the performance of the algorithm.
+- **Response time**: It is the time interval between the request of a process to enter the CS and the actual entry of the process into the CS. Response time affects the waiting time and the throughput of the algorithm. The lower the response time, the better the performance of the algorithm.
+- **Fault tolerance**: It is the ability of the algorithm to handle failures of processes or messages in the system. Fault tolerance affects the reliability and the availability of the algorithm. The higher the fault tolerance, the better the performance of the algorithm.
+
+Different algorithms may have different trade-offs among these performance metrics, depending on the assumptions and the design choices they make. For example, a token-based algorithm may have low message complexity and synchronization delay, but high response time and low fault tolerance. A non-token-based algorithm may have high message complexity and synchronization delay, but low response time and high fault tolerance. A quorum-based algorithm may have moderate message complexity and synchronization delay, but variable response time and fault tolerance, depending on the quorum size and selection. Therefore, the choice of the best algorithm for a given system depends on the system requirements and the characteristics of the distributed environment.  
+
+I hope this information is helpful for your study. If you have any further questions, please feel free to ask me.😊

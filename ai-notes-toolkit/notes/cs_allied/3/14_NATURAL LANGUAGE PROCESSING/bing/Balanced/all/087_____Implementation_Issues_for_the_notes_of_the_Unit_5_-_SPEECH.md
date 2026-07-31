@@ -1,0 +1,12 @@
+# Implementation Issues for the notes of the Unit 5 - SPEECH
+
+- Speech recognition is the process of converting spoken words into text or commands that can be understood by a computer or a device.
+- Speech recognition has many applications, such as voice assistants, dictation, transcription, authentication, and accessibility.
+- However, speech recognition also faces many challenges and issues that affect its performance, accuracy, and usability.
+- Some of the common implementation issues for speech recognition are:
+
+  - **Lack of lingual knowledge**: Speech recognition systems need to be trained on different languages, dialects, accents, and speech styles to be able to recognize them correctly. However, many languages and speech varieties are underrepresented or not available in the training data, leading to poor recognition results.
+  - **Peripheral background sounds**: Speech recognition systems need to be able to filter out the noise and interference from the environment and focus on the speech signal. However, this can be difficult in noisy or crowded settings, such as outdoors, in public transport, or in meetings, where multiple speakers, music, or other sounds can affect the speech quality and clarity.
+  - **Low data reliability of ASR**: Speech recognition systems rely on automatic speech recognition (ASR) technology, which uses machine learning algorithms to analyze the speech signal and generate text or commands. However, ASR technology is not perfect and can make errors or mistakes, such as misrecognizing words, omitting words, inserting words, or transcribing words incorrectly.
+  - **Racial bias**: Speech recognition systems can also exhibit racial bias, which means that they perform better for some racial groups than others. This can be due to the lack of diversity and representation in the training data, the design of the algorithms, or the evaluation metrics. For example, a recent study found that speech recognition systems are more likely to make errors for Black speakers than for white speakers.
+  - **Security and privacy**: Speech recognition systems can also pose security and privacy risks for the users and the providers. For example, speech recordings can be used as biometric data, which can be stolen, hacked, or misused by malicious actors. Moreover, speech recognition systems can also collect and store personal or sensitive information from the users, such as their location, preferences, habits, or health conditions, which can be exposed, leaked, or exploited by third parties.

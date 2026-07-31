@@ -1,0 +1,22 @@
+#### Network topology design in Computer Networks
+
+- Network topology is the arrangement of the elements (nodes, links, etc.) of a communication network.
+- Network topology can be used to define or describe the arrangement, logical or physical, of the different elements of a network.
+- Network topology design is the process of selecting a network topology that meets the requirements and constraints of a given network scenario, such as performance, reliability, scalability, security, cost, etc.
+- Network topology design can be influenced by various factors, such as:
+  - The size and scope of the network (e.g., local area network, wide area network, etc.)
+  - The type and number of devices and users in the network (e.g., computers, routers, switches, servers, etc.)
+  - The bandwidth and latency requirements of the network applications and services (e.g., voice, video, data, etc.)
+  - The availability and reliability of the network links and nodes (e.g., wired, wireless, optical, etc.)
+  - The budget and resources available for the network deployment and maintenance (e.g., hardware, software, personnel, etc.)
+  - The security and privacy policies and regulations of the network (e.g., encryption, authentication, access control, etc.)
+- Network topology design can be classified into two main categories: physical topology and logical topology.
+  - Physical topology refers to the actual layout of the network devices and cables, and how they are physically connected to each other.
+  - Logical topology refers to the way the network devices communicate with each other, and how the data flows through the network, regardless of the physical layout.
+- Network topology design can involve various types of topologies, such as:
+  - Bus topology: A network topology in which all devices are connected to a single cable or backbone, and share the same communication channel.
+  - Star topology: A network topology in which all devices are connected to a central device, such as a hub or a switch, and communicate through it.
+  - Ring topology: A network topology in which all devices are connected in a closed loop, and data travels in one direction around the ring.
+  - Mesh topology: A network topology in which every device is connected to every other device, and there are multiple paths for data transmission.
+  - Tree topology: A network topology in which devices are connected in a hierarchical structure, and there is a root node that connects to other nodes, which in turn connect to other nodes, and so on.
+  - Hybrid topology: A network topology that combines two or more of the above topologies, and can have different levels of complexity and flexibility.

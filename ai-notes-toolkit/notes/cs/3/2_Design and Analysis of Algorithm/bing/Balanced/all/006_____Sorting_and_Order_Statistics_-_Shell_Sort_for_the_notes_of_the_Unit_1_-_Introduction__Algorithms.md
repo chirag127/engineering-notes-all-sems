@@ -1,0 +1,10 @@
+# Sorting and Order Statistics - Shell Sort
+
+- Shell sort is a sorting algorithm that is based on the idea of insertion sort, but improves its efficiency by reducing the number of comparisons and swaps.
+- Shell sort works by dividing the input array into several subarrays, each of which is sorted by insertion sort. The subarrays are created by using a gap sequence, which determines how far apart the elements in each subarray are.
+- The gap sequence can be chosen in different ways, but a common one is to start with a large gap and reduce it by half in each iteration, until the gap is one. For example, if the input array has 16 elements, the gap sequence can be 8, 4, 2, 1.
+- In each iteration, shell sort performs insertion sort on each subarray, starting from the first element with the given gap and moving forward. For example, if the gap is 4, shell sort will sort the elements at indices 0, 4, 8, 12, then the elements at indices 1, 5, 9, 13, and so on.
+- As the gap decreases, the subarrays become larger and more sorted, until the final iteration, when the gap is one and the whole array is sorted by insertion sort.
+- Shell sort has a better performance than insertion sort, because it moves elements closer to their final positions in fewer steps, reducing the number of comparisons and swaps. However, the exact running time of shell sort depends on the choice of the gap sequence, and it is not easy to analyze theoretically.
+- The best known upper bound for the worst-case running time of shell sort is O(n^(3/2)), where n is the number of elements in the input array. However, some gap sequences can achieve a better performance, such as O(n^(4/3)) or O(n*log^2(n)).
+- Shell sort is an in-place and unstable sorting algorithm, meaning that it does not require extra space and it does not preserve the relative order of equal elements.

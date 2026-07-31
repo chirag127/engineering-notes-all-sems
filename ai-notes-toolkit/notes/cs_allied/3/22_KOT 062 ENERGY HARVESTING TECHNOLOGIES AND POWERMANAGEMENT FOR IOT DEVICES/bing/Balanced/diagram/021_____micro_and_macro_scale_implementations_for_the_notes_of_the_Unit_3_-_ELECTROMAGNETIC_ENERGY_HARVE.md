@@ -1,0 +1,18 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is some content on the topic of electromagnetic energy harvesting and non-linear techniques.
+
+### Micro and macro scale implementations for the notes of the Unit 3 - ELECTROMAGNETIC ENERGY HARVESTING AND NON-LINEAR TECHNIQUES
+
+- Electromagnetic energy harvesting is a technique that converts ambient mechanical vibrations into electrical energy using electromagnetic induction. It is suitable for applications that require high power density and low output impedance, such as remote sensors, wireless devices, and wearable electronics.
+- Electromagnetic energy harvesters can be classified into two types based on the scale of implementation: micro-scale and macro-scale. Micro-scale harvesters are typically in the range of micrometers to millimeters, while macro-scale harvesters are in the range of centimeters to meters.
+- Micro-scale electromagnetic energy harvesters are usually based on micro-electromechanical systems (MEMS) technology, which enables the fabrication of miniaturized devices with high precision and low cost. Some examples of micro-scale harvesters are:
+  - Cantilever-based harvesters, which consist of a magnetic tip attached to a flexible beam that vibrates in the presence of an external magnetic field, generating an induced voltage across a coil.
+  - Spring-mass-damper harvesters, which consist of a mass attached to a spring and a damper, and a coil wrapped around the mass. The mass oscillates due to the external vibration, inducing a voltage in the coil.
+  - Resonant tunneling diode (RTD) harvesters, which consist of a nanoscale device that exploits the quantum tunneling effect to generate electrical power from mechanical vibrations.
+- Macro-scale electromagnetic energy harvesters are usually based on conventional electromechanical devices, such as generators, motors, and transformers. Some examples of macro-scale harvesters are:
+  - Linear generators, which consist of a permanent magnet that moves linearly inside a coil, inducing a voltage in the coil. The magnet can be driven by various sources of vibration, such as wind, water, or human motion.
+  - Rotary generators, which consist of a permanent magnet that rotates inside a coil, inducing a voltage in the coil. The magnet can be driven by various sources of rotation, such as turbines, wheels, or gears.
+  - Piezo-electromagnetic harvesters, which consist of a piezoelectric element that converts mechanical strain into electrical charge, and a magnetic circuit that converts the charge into electrical power. The piezoelectric element can be subjected to various types of mechanical deformation, such as bending, twisting, or stretching.
+- Non-linear techniques are used to optimize the harvested energy from electromagnetic energy harvesters, especially when the ambient vibration frequency is variable or unpredictable. Non-linear techniques can enhance the performance of the harvesters by increasing the frequency bandwidth, the amplitude response, or the output power. Some examples of non-linear techniques are:
+  - Bistable harvesters, which exploit the snap-through phenomenon of a bistable structure to achieve large amplitude oscillations and high output power over a wide frequency range.
+  - Magnetic levitation harvesters, which use magnetic forces to suspend a magnet in a non-linear potential well, creating a self-tuning resonance that adapts to the ambient vibration frequency.
+  - Dual-mass harvesters, which couple two masses with different natural frequencies, creating a non-linear dynamic system that exhibits multiple resonances and chaotic behavior, enhancing the frequency bandwidth and the output power.

@@ -1,0 +1,27 @@
+### Construction and working of window air conditioner
+
+- A window air conditioner is a small unit that can be mounted in a window or through a wall to cool a single room or space.
+- It consists of the following main components :
+  - A **compressor** that compresses the refrigerant (usually R-22 or R-410A) and raises its pressure and temperature.
+  - A **condenser** that transfers heat from the refrigerant to the outside air and condenses it into a liquid.
+  - A **drier** that removes moisture and impurities from the refrigerant.
+  - A **filter** that prevents dust and dirt from entering the system.
+  - A **capillary tube** that acts as a metering device and reduces the pressure and temperature of the refrigerant before entering the evaporator.
+  - An **evaporator** that absorbs heat from the room air and evaporates the refrigerant into a low-pressure vapour.
+  - A **fan** that circulates the room air over the evaporator and cools and dehumidifies it.
+  - A **blower** that delivers the cooled air to the room or sucks the warm air from the room before forcing it through the evaporator.
+- The working principle of a window air conditioner is based on the vapour compression cycle  :
+  - The refrigerant vapour at high pressure and temperature is supplied by the compressor to the condenser.
+  - A propeller type fan is used to draw air from the atmosphere and to circulate it through the condenser coil.
+  - The heat from the refrigerant is transferred to the air and the refrigerant is condensed into a liquid.
+  - The liquid refrigerant passes through the drier and the filter and reaches the capillary tube.
+  - The capillary tube reduces the pressure and temperature of the refrigerant and feeds it to the evaporator.
+  - An axial or centrifugal type blower is used to draw the room air over the evaporator coil and to deliver the cooled air to the room or to suck the warm air from the room before forcing it through the evaporator coil.
+  - The heat from the room air is absorbed by the refrigerant and the refrigerant is evaporated into a low-pressure vapour.
+  - The vapour refrigerant returns to the compressor and the cycle is repeated.
+- The advantages of a window air conditioner are:
+  - It is easy to install and remove.
+  - It is relatively cheaper than other types of air conditioners.
+  - It does not occupy floor space and does not require ductwork.
+  - It can be controlled by a thermostat and a timer.
+  - It can provide both cooling and heating functions by reversing the cycle.

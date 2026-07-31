@@ -1,0 +1,27 @@
+### Mental Events and Mental Objects
+
+- Mental events are occurrences or phenomena that happen in the mind, such as thoughts, feelings, decisions, dreams, and realizations.
+- Mental objects are entities or concepts that exist in the mind, such as beliefs, goals, plans, intentions, and knowledge.
+- In artificial intelligence, mental events and mental objects are important for representing the internal state and reasoning process of an agent.
+- An agent is a system that can perceive its environment and act upon it to achieve some goals.
+- Knowledge representation is the process of encoding the information and knowledge that an agent has about itself, its environment, and other agents.
+- Knowledge representation in AI can be categorized into four types: categories and objects, events, mental events and mental objects, and meta-knowledge.
+- Categories and objects are the basic units of knowledge that classify the entities in the world according to their properties and relations.
+- Events are occurrences or changes that happen in the world or in the agent's mind, such as actions, processes, and situations.
+- Mental events and mental objects are the knowledge that an agent has about its own and other agents' mental states, such as beliefs, goals, plans, intentions, and knowledge.
+- Meta-knowledge is the knowledge that an agent has about its own and other agents' knowledge and reasoning processes, such as inference, learning, and communication.
+- Mental events and mental objects are useful for modeling the agent's rationality, autonomy, and sociality.
+- Rationality is the ability of an agent to act in a way that maximizes its expected utility, given its beliefs and goals.
+- Autonomy is the ability of an agent to act independently and flexibly, without being controlled by external factors.
+- Sociality is the ability of an agent to interact and cooperate with other agents, by understanding and influencing their mental states.
+- Some examples of mental events and mental objects in AI are:
+  - Belief: a mental object that represents the agent's subjective degree of certainty about a proposition or a state of affairs.
+  - Goal: a mental object that represents the agent's desired state of affairs or outcome.
+  - Plan: a mental object that represents the agent's sequence of actions or steps to achieve a goal.
+  - Intention: a mental object that represents the agent's commitment to execute a plan or an action.
+  - Knowledge: a mental object that represents the agent's information and understanding about the world and itself.
+  - Thought: a mental event that represents the agent's cognitive process of generating, manipulating, and evaluating mental objects.
+  - Feeling: a mental event that represents the agent's affective or emotional state, such as happiness, sadness, anger, or fear.
+  - Decision: a mental event that represents the agent's choice of an action or a plan, based on its beliefs, goals, and preferences.
+  - Dream: a mental event that represents the agent's subconscious or imaginative process of generating and experiencing mental objects.
+  - Realization: a mental event that represents the agent's awareness or discovery of a new or important mental object.

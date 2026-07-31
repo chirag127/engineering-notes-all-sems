@@ -1,0 +1,10 @@
+### Difference between AR and VR
+
+- AR and VR are both technologies that use computer graphics to visually alter the user's perception of reality, but they have different goals and methods  .
+- AR stands for **augmented reality**, which means adding digital elements to the real-world environment, such as images, sounds, or text, that enhance the user's experience of the physical surroundings   .
+- VR stands for **virtual reality**, which means creating a fully immersive digital environment that replaces the user's current setting, such as a simulated world, game, or movie, that isolates the user from the physical reality   .
+- AR and VR differ in the following aspects    :
+  - **Devices**: VR requires a headset device that covers the user's eyes and ears, and sometimes other accessories such as gloves or controllers, to provide a realistic sensory feedback. AR does not require a headset device, but can be accessed through various platforms such as smartphones, tablets, glasses, or projectors, that overlay digital information on the real-world view.
+  - **Interaction**: VR users move and interact in a completely fictional world that is controlled by the system, and have no contact with the real world. AR users can control their presence and interaction in the real world, and have access to both the physical and digital information.
+  - **Degree of immersion**: VR provides a high degree of immersion, as the user is fully immersed in a virtual environment that blocks out any external stimuli. AR provides a low degree of immersion, as the user is still aware of and connected to the real environment that is augmented by digital elements.
+  - **Degree of realism**: VR aims to create a realistic simulation of a virtual environment that mimics the physical laws and properties of the real world, such as gravity, lighting, and sound. AR aims to create a seamless integration of digital elements with the real environment that enhances the user's perception and understanding of the physical world, such as annotations, animations, or instructions.

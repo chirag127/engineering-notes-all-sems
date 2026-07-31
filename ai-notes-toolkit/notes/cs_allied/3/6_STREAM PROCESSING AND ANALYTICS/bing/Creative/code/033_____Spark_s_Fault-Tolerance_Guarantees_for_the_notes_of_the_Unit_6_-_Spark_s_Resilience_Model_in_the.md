@@ -1,0 +1,9 @@
+### Spark’s Fault-Tolerance Guarantees
+
+Spark Streaming is a framework for processing data streams in real time using Spark’s distributed computing engine. Spark Streaming provides fault-tolerance guarantees for both the input data and the processing logic, ensuring that the results are consistent and reliable even in the presence of failures.
+
+Some of the key features of Spark Streaming’s fault-tolerance guarantees are:
+
+- **Exactly-once semantics for transformations**: Spark Streaming ensures that each input record is processed exactly once by the application logic, regardless of worker failures or data reprocessing. This is achieved by tracking the dependencies and lineage of each RDD (Resilient Distributed Dataset) that represents a batch of input data, and recomputing the lost RDDs from the original data sources when necessary .
+- **End-to-end exactly-once semantics for output operations**: Spark Streaming also supports end-to-end exactly-once semantics for output operations that write the processed data to external systems, such as Kafka, HDFS, or databases. This is achieved by using checkpointing and write-ahead logs to atomically record the offsets of the input data and the output data for each batch, and ensuring that the same batch is not written twice to the output system .
+- **Automatic recovery from failures**: Spark Streaming can automatically recover from any failure in the cluster, such as worker crashes, network partitions, or master failures. Spark Streaming uses Spark’s fault-tolerance mechanisms, such as driver recovery and standby masters, to resume the streaming application from the last checkpointed state, without losing any data or processing results.

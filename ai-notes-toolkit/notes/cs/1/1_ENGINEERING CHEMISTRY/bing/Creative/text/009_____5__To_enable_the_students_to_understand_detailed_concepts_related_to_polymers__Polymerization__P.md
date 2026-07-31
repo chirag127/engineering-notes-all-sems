@@ -1,0 +1,9 @@
+### 5. To enable the students to understand detailed concepts related to polymers, Polymerization, Polymer Blends
+
+- Polymers are large molecules composed of repeating units called monomers, which are linked together by covalent bonds.
+- Polymerization is the process of forming polymers from monomers, either by addition or condensation reactions.
+- Addition polymerization involves the joining of monomers without the elimination of any atoms or molecules, such as water. The monomers have double or triple bonds that are broken and reformed to link with other monomers. For example, ethene can undergo addition polymerization to form polyethylene.
+- Condensation polymerization involves the joining of monomers with the elimination of a small molecule, such as water, ammonia, or hydrogen chloride. The monomers have functional groups that react with each other to form covalent bonds and release the by-product. For example, ethylene glycol and terephthalic acid can undergo condensation polymerization to form polyethylene terephthalate (PET).
+- Polymer blends are mixtures of two or more polymers that are physically combined but not chemically bonded. They can be classified into two types: miscible and immiscible blends.
+- Miscible blends are blends of polymers that are compatible and form a single phase. They have similar intermolecular forces and solubility parameters. For example, polystyrene and poly(methyl methacrylate) are miscible blends.
+- Immiscible blends are blends of polymers that are incompatible and form two or more phases. They have different intermolecular forces and solubility parameters. For example, polyethylene and poly(vinyl chloride) are immiscible blends.

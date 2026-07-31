@@ -1,0 +1,8 @@
+### Measures of Central Tendency
+
+- Measures of central tendency are summary statistics that attempt to describe a whole set of data with a single value that represents the middle or centre of its distribution.
+- The most common measures of central tendency are the arithmetic mean, the median, and the mode.
+- The mean is the sum of all values in a dataset divided by the total number of the values. It is also known as the average. For example, the mean of the dataset {2, 4, 6, 8, 10} is (2 + 4 + 6 + 8 + 10) / 5 = 6.
+- The median is the middle value in a dataset that is arranged in ascending order (from the smallest value to the largest value). If the dataset has an odd number of values, the median is the value that splits the dataset in half. If the dataset has an even number of values, the median is the average of the two middle values. For example, the median of the dataset {2, 4, 6, 8, 10} is 6, and the median of the dataset {2, 4, 6, 8} is (4 + 6) / 2 = 5.
+- The mode is the most frequently occurring value in a dataset. A dataset can have more than one mode if there are multiple values with the same frequency. For example, the mode of the dataset {2, 4, 6, 6, 8, 10} is 6, and the mode of the dataset {2, 4, 4, 6, 6, 8, 10} is 4 and 6.
+- The choice of the measure of central tendency depends on the type and shape of the data, and the purpose of the analysis. For example, the mean is sensitive to outliers (extreme values) and is suitable for symmetric and continuous data, while the median is robust to outliers and is suitable for skewed and ordinal data, and the mode is useful for categorical and discrete data.

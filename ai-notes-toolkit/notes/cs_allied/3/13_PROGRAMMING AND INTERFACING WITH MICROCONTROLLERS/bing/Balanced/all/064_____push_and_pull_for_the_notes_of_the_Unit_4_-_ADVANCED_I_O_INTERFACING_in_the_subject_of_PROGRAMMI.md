@@ -1,0 +1,9 @@
+# Push and Pull
+
+- Push and pull are two modes of data transfer between a microcontroller and an external device, such as a memory, a display, a keyboard, or a sensor.
+- In push mode, the microcontroller initiates the data transfer by sending a signal to the external device, indicating that it is ready to receive or send data. The external device responds by sending or receiving data to or from the microcontroller.
+- In pull mode, the external device initiates the data transfer by sending a signal to the microcontroller, indicating that it has data to send or receive. The microcontroller responds by sending or receiving data to or from the external device.
+- Push and pull modes have different advantages and disadvantages, depending on the characteristics of the external device and the application requirements.
+- Push mode is suitable for devices that have a fixed or predictable data rate, such as a serial communication port, a timer, or a counter. Push mode allows the microcontroller to control the timing and synchronization of the data transfer, and to avoid data loss or overflow.
+- Pull mode is suitable for devices that have a variable or unpredictable data rate, such as a keyboard, a mouse, or a sensor. Pull mode allows the external device to signal the microcontroller when it has data to send or receive, and to avoid data underflow or latency.
+- Push and pull modes can be implemented using different techniques, such as polling, interrupt, direct memory access (DMA), or handshaking. These techniques differ in the amount of CPU involvement, the complexity of the hardware and software, and the performance and efficiency of the data transfer.

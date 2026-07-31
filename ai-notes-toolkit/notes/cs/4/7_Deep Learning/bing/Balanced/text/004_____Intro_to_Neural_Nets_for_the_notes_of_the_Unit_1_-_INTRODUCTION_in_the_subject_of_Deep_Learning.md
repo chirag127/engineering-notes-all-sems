@@ -1,0 +1,7 @@
+### Intro to Neural Nets
+
+- Neural networks are **computational models** that are inspired by the structure and function of the **biological neurons** in the human brain .
+- Neural networks are composed of **artificial neurons** that receive and process **input data**. Each neuron has a **weight** and a **bias** that determine how it responds to the input data. The output of each neuron is a **nonlinear function** of the weighted sum of the inputs plus the bias  .
+- Neural networks are organized into **layers**. The first layer is the **input layer**, which receives the raw data. The last layer is the **output layer**, which produces the final predictions or decisions. Between the input and output layers, there may be one or more **hidden layers**, which perform intermediate computations and transformations  .
+- Neural networks learn by **detecting patterns** in huge amounts of information. They adjust their weights and biases based on the **feedback** they receive from the **training data**. The feedback is usually given by a **loss function**, which measures how well the network's output matches the desired output .
+- Neural networks are **powerful, flexible, and easy** to use tools for many **predictive data mining** applications, such as **classification**, **regression**, **clustering**, **dimensionality reduction**, **anomaly detection**, and **reinforcement learning**  .

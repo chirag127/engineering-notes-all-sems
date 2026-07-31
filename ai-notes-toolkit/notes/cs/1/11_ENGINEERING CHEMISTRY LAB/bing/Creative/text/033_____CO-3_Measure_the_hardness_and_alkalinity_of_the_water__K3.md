@@ -1,0 +1,11 @@
+### CO-3 Measure the hardness and alkalinity of the water. K3
+
+- Hardness and alkalinity are two parameters that indicate the water quality and the suitability of water for various purposes.
+- Hardness measures the total amount of divalent salts, mainly calcium and magnesium, that can form insoluble deposits or scale in pipes, boilers, and appliances.
+- Alkalinity measures the total amount of bases, mainly bicarbonate and carbonate, that can neutralize acids and buffer the pH of water.
+- Hardness and alkalinity are related through common ions formed in aquatic systems. The counter-ions associated with the bicarbonate and carbonate fraction of alkalinity are the principal cations responsible for hardness.
+- Hardness and alkalinity are influenced by the geology of the area where the water is located and the dissolution of carbon dioxide from the atmosphere. The ions responsible for hardness and alkalinity originate from the dissolution of geological minerals into rain and groundwater.
+- Hardness and alkalinity can be measured by titration methods using standard solutions of acids and indicators. The end point of the titration is determined by a color change of the indicator or a pH meter.
+- Hardness can be classified into two types: temporary and permanent. Temporary hardness is caused by the presence of bicarbonate ions and can be removed by boiling the water. Permanent hardness is caused by the presence of other ions such as sulfate, chloride, and nitrate and can be removed by ion exchange or other methods.
+- Alkalinity can be classified into three types: carbonate, bicarbonate, and hydroxide. Carbonate alkalinity is present when the pH of the water is above 8.3 and can be neutralized by adding a strong acid. Bicarbonate alkalinity is present when the pH of the water is between 4.5 and 8.3 and can be neutralized by adding a weak acid. Hydroxide alkalinity is present when the pH of the water is above 10.3 and can be neutralized by adding a strong acid.
+- Hardness and alkalinity are important for various applications of water such as drinking, irrigation, industrial, and aquatic life. Hardness and alkalinity affect the taste, corrosiveness, scaling potential, and buffering capacity of water  .

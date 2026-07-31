@@ -1,0 +1,24 @@
+### Architectural Modeling
+
+- Architectural modeling is the process of creating a high-level design of a software system that describes its structure, behavior, and interactions.
+- Architectural modeling helps to identify the main components of the system, their responsibilities, their relationships, and their interfaces.
+- Architectural modeling also helps to evaluate the quality attributes of the system, such as performance, reliability, security, and maintainability.
+- Architectural modeling can be done using different approaches, such as object-oriented, data-oriented, functional, or service-oriented.
+- Object-oriented architecture is one of the popular approaches of architectural modeling that views a software system as a collection of entities known as objects  .
+- Object-oriented architecture has the following advantages :
+  - It maps the application to real-world objects for making it more understandable and intuitive.
+  - It supports encapsulation, inheritance, polymorphism, and abstraction, which are the key principles of object-oriented design.
+  - It facilitates reuse, modularity, and extensibility of the software components.
+  - It enhances the cohesion and reduces the coupling of the system.
+- Object-oriented architecture has the following characteristics:
+  - The components of the system encapsulate data and the operations that must be applied to manipulate the data.
+  - The coordination and communication between the components are established via message passing.
+  - The components are organized into classes that define the common properties and behaviors of the objects belonging to them.
+  - The classes are arranged into a hierarchy that represents the generalization and specialization relationships among them.
+- Object-oriented architecture can be represented using different models, such as class diagrams, object diagrams, sequence diagrams, collaboration diagrams, state diagrams, and activity diagrams.
+- Class diagrams show the static structure of the system, including the classes, their attributes, their methods, and their associations.
+- Object diagrams show the dynamic instances of the classes and their links at a particular point in time.
+- Sequence diagrams show the interactions among the objects in terms of the messages exchanged along a time axis.
+- Collaboration diagrams show the interactions among the objects in terms of the links and the messages exchanged among them.
+- State diagrams show the states and transitions of an object in response to events.
+- Activity diagrams show the activities and actions performed by the objects in a workflow or a process.

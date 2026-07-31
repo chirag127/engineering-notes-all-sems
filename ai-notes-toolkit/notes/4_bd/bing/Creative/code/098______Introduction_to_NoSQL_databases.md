@@ -1,0 +1,11 @@
+#### Introduction to NoSQL databases
+
+- NoSQL databases are databases that do not use the SQL language or the relational model for data storage and retrieval.
+- NoSQL stands for "not only SQL" or "non-relational" to emphasize the differences from traditional relational databases.
+- NoSQL databases are designed to handle large volumes of unstructured, semi-structured, or structured data that may change rapidly and frequently.
+- NoSQL databases offer flexible schemas, horizontal scalability, high availability, and high performance for various types of data and applications.
+- NoSQL databases can be classified into four main types based on their data model: document, key-value, wide-column, and graph.
+- Document databases store data as JSON-like documents, where each document has a unique identifier and can contain nested fields and arrays. Document databases are suitable for applications that need to store and query complex and dynamic data, such as e-commerce, content management, or social media. Examples of document databases are MongoDB, CouchDB, and Elasticsearch.
+- Key-value databases store data as pairs of keys and values, where each key is unique and can be used to retrieve the associated value. Key-value databases are suitable for applications that need to store and access simple and fast data, such as caching, session management, or user preferences. Examples of key-value databases are Redis, Memcached, and Couchbase.
+- Wide-column databases store data as tables of rows and columns, where each row has a unique identifier and each column can have different attributes and values. Wide-column databases are suitable for applications that need to store and analyze large and sparse data, such as web analytics, IoT, or recommendation systems. Examples of wide-column databases are Cassandra, HBase, and Bigtable.
+- Graph databases store data as nodes and edges, where each node represents an entity and each edge represents a relationship between entities. Graph databases are suitable for applications that need to store and query complex and interconnected data, such as social networks, fraud detection, or knowledge graphs. Examples of graph databases are Neo4j, OrientDB, and Amazon Neptune.

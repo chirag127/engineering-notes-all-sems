@@ -1,0 +1,34 @@
+### POSIX Issues
+
+- POSIX stands for Portable Operating System Interface, which is a set of standards that define how an application should interact with an operating system.
+- POSIX aims to achieve portability, interoperability, and compatibility among different operating systems, especially for applications that require long-term maintenance and support.
+- POSIX covers various aspects of operating system services, such as file operations, process management, signals, devices, threads, and real-time extensions.
+- POSIX real-time extensions are defined in the POSIX.1b and POSIX.1j standards, which specify the requirements and interfaces for real-time operating systems and applications.
+- POSIX real-time extensions include features such as:
+  - Priority-based scheduling and preemption
+  - Timers and clocks
+  - Synchronization primitives (mutexes, condition variables, semaphores, etc.)
+  - Asynchronous and synchronous I/O
+  - Memory locking and mapping
+  - Message queues and shared memory
+  - Signals and signal handlers
+- POSIX real-time extensions aim to provide deterministic and predictable behavior for real-time applications, which have strict timing constraints and deadlines.
+- POSIX real-time extensions also support the notion of process and thread attributes, which allow the application to specify the scheduling policy, priority, stack size, and other parameters for each process or thread.
+- POSIX real-time extensions are not mandatory for all operating systems, and some operating systems may not support all the features or may have different implementations or performance characteristics.
+- POSIX real-time extensions may also have some limitations or trade-offs, such as:
+  - Increased complexity and overhead
+  - Reduced portability and compatibility with non-POSIX systems
+  - Potential conflicts or inconsistencies with other POSIX standards or features
+  - Lack of support for some real-time requirements, such as deadline scheduling, resource reservation, or fault tolerance
+- POSIX real-time extensions are not sufficient for all real-time applications, and some applications may require additional or alternative mechanisms or services, such as:
+  - Real-time communication protocols and networks
+  - Real-time databases and file systems
+  - Real-time middleware and frameworks
+  - Real-time analysis and verification tools
+- POSIX real-time extensions are still evolving and improving, and new standards and revisions are being developed and proposed, such as:
+  - POSIX.1d, which defines additional real-time features, such as sporadic servers, timers, and clocks
+  - POSIX.1e, which defines security extensions, such as access control and auditing
+  - POSIX.1g, which defines networking extensions, such as sockets and protocols
+  - POSIX.1h, which defines system administration extensions, such as user and group management and logging
+  - POSIX.1i, which defines additional real-time features, such as trace and event logging and notification
+  - POSIX.1m, which defines additional real-time features, such as resource limits and reservations

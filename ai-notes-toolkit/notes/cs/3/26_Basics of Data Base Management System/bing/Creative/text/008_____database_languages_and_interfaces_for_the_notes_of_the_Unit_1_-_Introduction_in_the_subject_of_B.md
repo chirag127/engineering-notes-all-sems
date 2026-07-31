@@ -1,0 +1,15 @@
+### Database Languages and Interfaces
+
+- Database languages are the means of communication between the users and the database management system (DBMS).
+- Database interfaces are the tools or applications that allow the users to access and manipulate the data stored in the database.
+- The DBMS must provide appropriate languages and interfaces for each category of users, such as database administrators, programmers, application developers, end-users, etc.
+- The types of languages and interfaces provided by a DBMS may include the following:
+
+  - Data definition language (DDL): This is the language used to define the structure and schema of the database, such as the tables, columns, constraints, indexes, etc. DDL statements are usually executed by the database administrator or the programmer. Examples of DDL statements are CREATE, ALTER, DROP, etc.
+  - Data manipulation language (DML): This is the language used to insert, update, delete, and query the data stored in the database. DML statements are usually executed by the application developer or the end-user. Examples of DML statements are SELECT, INSERT, UPDATE, DELETE, etc.
+  - Data control language (DCL): This is the language used to control the access and security of the database, such as granting or revoking permissions, roles, privileges, etc. DCL statements are usually executed by the database administrator or the programmer. Examples of DCL statements are GRANT, REVOKE, etc.
+  - Transaction control language (TCL): This is the language used to manage the transactions in the database, such as committing or rolling back the changes, setting the isolation level, etc. TCL statements are usually executed by the application developer or the programmer. Examples of TCL statements are COMMIT, ROLLBACK, SET, etc.
+  - Menu-based interfaces: These are the interfaces that present the user with lists of options (called menus) that lead the user through the database operations. These interfaces are suitable for web clients or browsers, as they are easy to use and navigate. Examples of menu-based interfaces are web pages, hyperlinks, buttons, etc.
+  - Forms-based interfaces: These are the interfaces that display the data or allow the user to enter the data in predefined formats (called forms). These interfaces are suitable for data entry or data display applications, as they are convenient and efficient. Examples of forms-based interfaces are text boxes, drop-down lists, radio buttons, etc.
+  - Graphical user interfaces (GUI): These are the interfaces that use graphical elements (such as icons, images, windows, etc.) to interact with the user and the database. These interfaces are suitable for complex or interactive applications, as they are user-friendly and intuitive. Examples of GUI elements are menus, toolbars, dialog boxes, etc.
+  - Natural language interfaces: These are the interfaces that allow the user to communicate with the database using natural language (such as English, Hindi, etc.). These interfaces are suitable for casual or novice users, as they are natural and flexible. Examples of natural language interfaces are chatbots, voice assistants, etc.

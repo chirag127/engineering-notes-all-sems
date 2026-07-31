@@ -1,0 +1,18 @@
+# Analysis of chloride content, hardness, alkalinity
+
+- Chloride content is the amount of chloride ions (Cl-) present in a water sample. Chloride ions are derived from sources such as seawater intrusion, industrial effluents, agricultural runoff, and road salt. Chloride content is an important parameter for assessing the quality of drinking water, irrigation water, and wastewater.
+- Hardness is the measure of the concentration of calcium (Ca2+) and magnesium (Mg2+) ions in water. These ions are responsible for forming scale deposits in pipes, boilers, and appliances, and interfering with the action of soap and detergents. Hardness is expressed in terms of milligrams per liter (mg/L) of calcium carbonate (CaCO3) equivalent.
+- Alkalinity is the measure of the capacity of water to neutralize acids. It is mainly due to the presence of bicarbonate (HCO3-), carbonate (CO32-), and hydroxide (OH-) ions in water. Alkalinity is important for maintaining the pH and buffering capacity of water, and preventing corrosion of pipes and equipment. Alkalinity is expressed in terms of mg/L of CaCO3 equivalent.
+
+- The analysis of chloride content, hardness, and alkalinity involves the following steps:
+
+  - Sampling: Collecting representative samples of water from the source or distribution system, and preserving them in clean containers with appropriate labels and records.
+  - Preparation: Filtering, diluting, or adjusting the pH of the samples as required for the specific methods of analysis.
+  - Titration: Adding a known amount of a standard solution (titrant) to the sample until a color change (endpoint) occurs, indicating the completion of the reaction. The amount of titrant used is proportional to the concentration of the analyte (the substance being measured) in the sample.
+  - Calculation: Applying the appropriate formula or factor to convert the titration results into the desired units of measurement.
+
+- The methods of analysis for chloride content, hardness, and alkalinity are as follows:
+
+  - Chloride content: The most common method is the Mohr method, which involves titrating the sample with a standard solution of silver nitrate (AgNO3) in the presence of potassium chromate (K2CrO4) as an indicator. The endpoint is marked by the formation of a reddish-brown precipitate of silver chromate (Ag2CrO4). The chloride content is calculated by multiplying the volume of AgNO3 used by a factor of 35.45.
+  - Hardness: The most common method is the EDTA method, which involves titrating the sample with a standard solution of ethylenediaminetetraacetic acid (EDTA) in the presence of a metal indicator such as Eriochrome Black T (EBT). The endpoint is marked by a color change from wine red to blue. The hardness is calculated by multiplying the volume of EDTA used by a factor of 50.
+  - Alkalinity: The most common method is the phenolphthalein and methyl orange method, which involves titrating the sample with a standard solution of sulfuric acid (H2SO4) in the presence of two indicators: phenolphthalein and methyl orange. The endpoint for phenolphthalein is marked by a color change from pink to colorless, indicating the neutralization of OH- and CO32- ions. The endpoint for methyl orange is marked by a color change from yellow to orange, indicating the neutralization of HCO3- ions. The alkalinity is calculated by adding the volumes of H2SO4 used for both endpoints and multiplying by a factor of 50.

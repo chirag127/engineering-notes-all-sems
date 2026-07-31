@@ -1,0 +1,33 @@
+# Unit-1 Applied Grammar and Usage: 8
+
+- This unit covers the following topics:
+  - Subject-verb agreement
+  - Pronoun-antecedent agreement
+  - Parallelism
+  - Modifiers
+  - Sentence types and punctuation
+- Subject-verb agreement is the rule that the verb must agree in number and person with the subject of a sentence. For example:
+  - He **runs** every morning. (singular subject, singular verb)
+  - They **run** every morning. (plural subject, plural verb)
+- Pronoun-antecedent agreement is the rule that the pronoun must agree in number, gender and person with its antecedent, which is the word or phrase that the pronoun refers to. For example:
+  - John likes his bike. (singular antecedent, singular pronoun)
+  - The students like their bikes. (plural antecedent, plural pronoun)
+- Parallelism is the rule that the words or phrases in a list or a series must have the same grammatical form and structure. For example:
+  - She likes to read, write and paint. (parallel verbs)
+  - He is smart, handsome and funny. (parallel adjectives)
+- Modifiers are words or phrases that add detail or description to another word or phrase. Modifiers should be placed as close as possible to the word or phrase they modify to avoid confusion or ambiguity. For example:
+  - The girl with the red hat is my sister. (clear modifier)
+  - The girl is my sister with the red hat. (unclear modifier)
+- Sentence types and punctuation are the rules that govern how sentences are formed and punctuated. There are four main types of sentences: declarative, interrogative, imperative and exclamatory. Each type of sentence has a different purpose and a different punctuation mark at the end. For example:
+  - Declarative sentences state a fact or an opinion. They end with a period. For example:
+    - The sky is blue.
+    - I like chocolate.
+  - Interrogative sentences ask a question. They end with a question mark. For example:
+    - What is your name?
+    - Do you like chocolate?
+  - Imperative sentences give a command or a request. They end with a period or an exclamation mark. For example:
+    - Close the door.
+    - Help me!
+  - Exclamatory sentences express a strong emotion or a surprise. They end with an exclamation mark. For example:
+    - Wow, that's amazing!
+    - I can't believe it!

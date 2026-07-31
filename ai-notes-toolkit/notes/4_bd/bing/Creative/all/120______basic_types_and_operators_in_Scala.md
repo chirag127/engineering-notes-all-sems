@@ -1,0 +1,32 @@
+#### Basic Types and Operators in Scala
+
+- Scala has a rich set of built-in types, such as `String`, `Int`, `Long`, `Short`, `Byte`, `Float`, `Double`, `Char`, and `Boolean`.
+- These types are all subclasses of `AnyVal`, which is the root of the value type hierarchy.
+- Value types are stored as primitives for efficiency, and they are automatically converted to objects when needed.
+- Scala also supports user-defined value types, which are classes that extend `AnyVal` and have a single parameterless constructor.
+- Scala has a unified syntax for operators, which are methods that can be invoked with infix notation  .
+- For example, `a + b` is equivalent to `a.+(b)`, where `+` is a method defined on the type of `a`  .
+- Scala allows any identifier to be used as an operator, as long as it is a valid method name .
+- For example, `a ++ b` is equivalent to `a.++(b)`, where `++` is a method defined on the type of `a` .
+- Scala also supports prefix and postfix operators, which are methods that can be invoked with unary notation  .
+- For example, `-a` is equivalent to `a.unary_-`, where `unary_-` is a method defined on the type of `a`  .
+- Similarly, `a!` is equivalent to `a.!`, where `!` is a method defined on the type of `a`  .
+- Scala has a set of predefined operators for arithmetic, relational, logical, and bitwise operations .
+- For example, `+`, `-`, `*`, `/`, and `%` are arithmetic operators, `<`, `>`, `<=`, `>=`, `==`, and `!=` are relational operators, `&&`, `||`, and `!` are logical operators, and `&`, `|`, `^`, and `~` are bitwise operators .
+- These operators are defined as methods on the corresponding types, such as `Int`, `Double`, `Boolean`, and `Long` .
+- Scala also supports compound assignment operators, which are shortcuts for assigning the result of an operation to a variable .
+- For example, `a += b` is equivalent to `a = a + b`, where `+=` is a compound assignment operator .
+- Scala evaluates operators based on the priority of the first character, from highest to lowest:
+  - `*`, `/`, and `%`
+  - `+` and `-`
+  - `:`
+  - `<`, `>`, `=`, and `!`
+  - `&`
+  - `^`
+  - `|`
+  - all letters, `$`, and `_`
+- This applies to both predefined and user-defined operators.
+- If an expression uses multiple operators with the same priority, they are evaluated from left to right.
+- For example, `a + b * c` is equivalent to `a + (b * c)`, and `a * b / c` is equivalent to `(a * b) / c`.
+- Scala also supports parentheses to change the order of evaluation.
+- For example, `(a + b) * c` is different from `a + (b * c)`.

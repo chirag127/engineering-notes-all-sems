@@ -1,0 +1,8 @@
+# Security in Hadoop
+
+- Security in Hadoop refers to the process of protecting the data and services in a Hadoop cluster from unauthorized access, modification, or disclosure.
+- Security in Hadoop consists of four main aspects: authentication, authorization, encryption, and auditing   .
+- Authentication is the process of verifying the identity of a user or a service before allowing access to the Hadoop cluster. Authentication can be done using Kerberos, a network protocol that uses tickets and encryption to authenticate users and services   .
+- Authorization is the process of granting or denying access to specific resources or operations in the Hadoop cluster based on the authenticated identity of a user or a service. Authorization can be done using HDFS file permissions, ACLs, and Ranger, a framework that provides centralized and fine-grained access control policies for Hadoop components   .
+- Encryption is the process of transforming data into an unreadable form using a secret key, so that only authorized parties can decrypt and access the data. Encryption can be done using SSL/TLS, a protocol that secures the communication between Hadoop services, and HDFS encryption zones, a feature that encrypts data at rest in HDFS using keys managed by KMS, a key management server   .
+- Auditing is the process of recording and monitoring the activities and events that occur in the Hadoop cluster, such as who accessed what data, when, and how. Auditing can be done using audit logs, a feature that records the actions performed by users and services in HDFS and other Hadoop components, and Apache Atlas, a framework that provides metadata management and governance for Hadoop data   .

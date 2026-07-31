@@ -1,0 +1,9 @@
+### Applications of PN Junction diode: Half & Full wave rectifier- Measurement of Vrms,Vdc, and ripple factor.
+
+- A PN junction diode is a semiconductor device that allows current to flow in one direction only. It has two terminals, anode and cathode, and a junction between p-type and n-type materials.
+- A rectifier is a circuit that converts alternating current (AC) to direct current (DC). Rectifiers are used in power supplies, radio receivers, and other electronic devices that require DC voltage.
+- A half-wave rectifier is a rectifier that uses only one diode to convert one half of the AC input voltage to DC output voltage. The other half of the AC input is blocked by the diode. The output voltage is pulsating and has a large ripple factor, which is the ratio of the AC component to the DC component of the output voltage.
+- A full-wave rectifier is a rectifier that uses two or four diodes to convert both halves of the AC input voltage to DC output voltage. The output voltage is more continuous and has a smaller ripple factor than the half-wave rectifier.
+- The root mean square (RMS) voltage of an AC signal is the equivalent DC voltage that would produce the same power dissipation in a resistive load. The RMS voltage of a sinusoidal AC signal is equal to its peak voltage divided by the square root of two.
+- The average or DC voltage of a rectified output is the average value of the output voltage over one cycle. The average voltage of a half-wave rectified output is equal to 0.318 times the peak input voltage. The average voltage of a full-wave rectified output is equal to 0.636 times the peak input voltage.
+- The ripple factor of a rectified output is a measure of the amount of AC ripple present in the DC output. The ripple factor of a half-wave rectified output is equal to 1.21. The ripple factor of a full-wave rectified output is equal to 0.482. The lower the ripple factor, the smoother the output voltage.

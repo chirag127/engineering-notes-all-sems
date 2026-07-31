@@ -1,0 +1,12 @@
+# Release Times for the notes of the Unit 1 - Introduction of Real Time System in the subject of Real Time System
+
+- A real time system is a system that must respond to events within a specified time interval, otherwise it may cause undesirable consequences or failure.
+- A real time system consists of a set of tasks that have deadlines and priorities, and a scheduler that assigns the processor to the tasks according to some algorithm.
+- A task is a unit of work that can be executed by the processor. A task can be periodic, aperiodic, or sporadic, depending on its arrival pattern.
+- A periodic task is a task that arrives at regular intervals, and has a fixed execution time and deadline. For example, a task that samples a sensor every 10 milliseconds is a periodic task.
+- An aperiodic task is a task that arrives at irregular intervals, and has a variable execution time and deadline. For example, a task that handles user input is an aperiodic task.
+- A sporadic task is a task that arrives at unpredictable intervals, and has a minimum inter-arrival time, a variable execution time and deadline. For example, a task that responds to an alarm is a sporadic task.
+- The release time of a task is the time when the task becomes available for execution. For a periodic task, the release time is equal to the arrival time. For an aperiodic or sporadic task, the release time is the time when the task is accepted by the system, which may be different from the arrival time.
+- The release time of a task is an important parameter for the scheduler, as it determines the eligibility of the task for execution. The scheduler must ensure that all the tasks meet their deadlines, while maximizing the system performance and minimizing the overhead.
+- The release time of a task can be affected by several factors, such as the system load, the task priority, the scheduling algorithm, the preemption policy, the resource contention, and the external events.
+- The release time of a task can be determined by different methods, such as the earliest deadline first (EDF) method, the rate monotonic (RM) method, the least laxity first (LLF) method, the earliest release time (ERT) method, and the slack stealing (SS) method. Each method has its own advantages and disadvantages, and may be suitable for different types of tasks and systems.

@@ -1,0 +1,45 @@
+# Length for the notes of the Unit 4 - Vector Spaces in the subject of MATHEMATICAL FOUNDATION AI, ML AND DATA SCIENCE
+
+- Vector spaces are a fundamental concept in linear algebra.
+- A vector space is a set of vectors that can be added together and multiplied by scalars to produce another vector in the set.
+- The set of all n-tuples of real numbers is an example of a vector space.
+- A subspace of a vector space is a subset that is also a vector space.
+- The intersection of two subspaces is also a subspace.
+- The sum of two subspaces is the smallest subspace containing both subspaces.
+- A linear combination of vectors is a sum of scalar multiples of the vectors.
+- A set of vectors is linearly independent if no vector in the set can be written as a linear combination of the other vectors in the set.
+- A basis for a vector space is a set of linearly independent vectors that spans the space.
+- The dimension of a vector space is the number of vectors in a basis for the space.
+- Every vector space has a basis, and all bases for a vector space have the same number of elements.
+- The rank of a matrix is the dimension of the column space of the matrix.
+- The null space of a matrix is the set of all solutions to the homogeneous equation Ax = 0.
+- The nullity of a matrix is the dimension of the null space of the matrix.
+- The rank-nullity theorem states that the rank of a matrix plus the nullity of the matrix is equal to the number of columns of the matrix.
+- The row space of a matrix is the subspace spanned by the rows of the matrix.
+- The column space of a matrix is the subspace spanned by the columns of the matrix.
+- The row rank of a matrix is equal to the column rank of the matrix.
+- The row reduction algorithm can be used to find a basis for the row space, column space, and null space of a matrix.
+- The four fundamental subspaces of a matrix are the row space, column space, null space, and left null space.
+- The left null space of a matrix is the null space of the transpose of the matrix.
+- The orthogonal complement of a subspace is the set of all vectors that are orthogonal to every vector in the subspace.
+- The projection of a vector onto a subspace is the closest vector in the subspace to the given vector.
+- The Gram-Schmidt process can be used to find an orthonormal basis for a subspace.
+- An orthonormal basis for a subspace is a basis for the subspace consisting of unit vectors that are orthogonal to each other.
+- The QR decomposition of a matrix is a decomposition of the matrix into the product of an orthogonal matrix and an upper triangular matrix.
+- The singular value decomposition of a matrix is a decomposition of the matrix into the product of an orthogonal matrix, a diagonal matrix, and the transpose of an orthogonal matrix.
+- The pseudoinverse of a matrix is a matrix that can be used to solve least squares problems.
+- The Moore-Penrose pseudoinverse is a specific type of pseudoinverse that can be computed using the singular value decomposition of a matrix.
+- The determinant of a square matrix is a scalar that encodes certain properties of the matrix.
+- The determinant of a matrix can be computed using cofactor expansion or by row reduction.
+- The determinant of a matrix is nonzero if and only if the matrix is invertible.
+- The adjugate of a matrix is the transpose of the cofactor matrix of the matrix.
+- The inverse of a matrix can be computed using the adjugate and the determinant of the matrix.
+- Cramer's rule can be used to solve a system of linear equations using the determinant and the adjugate of the coefficient matrix.
+- The eigenvalues of a square matrix are the scalars λ such that the matrix A - λI has a nonzero null space.
+- The eigenvectors of a square matrix corresponding to an eigenvalue λ are the nonzero vectors in the null space of the matrix A - λI.
+- The characteristic polynomial of a square matrix is the polynomial whose roots are the eigenvalues of the matrix.
+- The trace of a square matrix is the sum of the diagonal entries of the matrix.
+- The trace of a matrix is equal to the sum of the eigenvalues of the matrix.
+- The determinant of a matrix is equal to the product of the eigenvalues of the matrix.
+- The eigendecomposition of a matrix is a decomposition of the matrix into the product of a matrix containing its eigenvectors and a diagonal matrix containing its eigenvalues.
+- The power of a diagonalizable matrix can be computed using its eigend

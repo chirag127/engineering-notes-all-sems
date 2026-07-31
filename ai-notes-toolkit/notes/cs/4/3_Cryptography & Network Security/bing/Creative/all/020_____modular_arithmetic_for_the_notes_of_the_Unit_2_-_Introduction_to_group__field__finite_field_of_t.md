@@ -1,0 +1,23 @@
+# Modular arithmetic
+
+- Modular arithmetic is a system of arithmetic for integers, where numbers "wrap around" when reaching a certain value, called the modulus  .
+- For example, if the modulus is 12, then 13 is equivalent to 1, 14 is equivalent to 2, and so on. We write this as 13 ≡ 1 (mod 12), 14 ≡ 2 (mod 12), etc.
+- The modulus can be any positive integer greater than one. The set of all possible remainders when dividing by the modulus is called the residue class or the congruence class. For example, the residue class for modulus 12 is {0, 1, 2, ..., 11}.
+- Modular arithmetic is useful for many applications, such as cryptography, coding theory, computer science, and music theory. It can also be used to simplify calculations involving large numbers or fractions.
+- The basic operations of modular arithmetic are addition, subtraction, multiplication, and division. They follow the same rules as ordinary arithmetic, except that the result is always reduced to the smallest positive remainder. For example, 7 + 8 = 15, but 7 + 8 ≡ 3 (mod 12), because 15 divided by 12 gives a remainder of 3.
+- To perform modular arithmetic, we can use the following steps:
+  - Find the remainder of each operand when divided by the modulus.
+  - Perform the operation on the remainders as usual.
+  - Find the remainder of the result when divided by the modulus.
+  - This is the final answer.
+- For example, to compute 17 * 19 (mod 12), we can do the following:
+  - 17 ≡ 5 (mod 12) and 19 ≡ 7 (mod 12), so we can replace 17 and 19 with 5 and 7 respectively.
+  - 5 * 7 = 35, so we multiply the remainders as usual.
+  - 35 ≡ 11 (mod 12), so we find the remainder of 35 when divided by 12, which is 11.
+  - Therefore, 17 * 19 ≡ 11 (mod 12).
+- Some properties of modular arithmetic are:
+  - If a ≡ b (mod m) and c ≡ d (mod m), then a + c ≡ b + d (mod m) and a * c ≡ b * d (mod m). This means that we can add or multiply congruent numbers and get the same result.
+  - If a ≡ b (mod m), then a + k ≡ b + k (mod m) and a * k ≡ b * k (mod m) for any integer k. This means that we can add or multiply the same number to both sides of a congruence and get another congruence.
+  - If a ≡ b (mod m) and b ≡ c (mod m), then a ≡ c (mod m). This means that congruence is transitive, or that if two numbers are congruent to a third number, they are also congruent to each other.
+  - If a ≡ b (mod m), then -a ≡ -b (mod m). This means that we can negate both sides of a congruence and get another congruence.
+  - If a ≡ b (mod m), then a^n ≡ b^n (mod m) for any positive integer n. This means that we can raise both sides of a congruence to the same power and get another congruence.

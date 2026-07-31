@@ -1,0 +1,9 @@
+## Module 5- Cultural Heritage and Performing Arts
+
+- Cultural heritage is an expression of the ways of living developed by a community and passed on from generation to generation, including customs, practices, places, objects, artistic expressions and values.
+- Cultural heritage can be either tangible or intangible. Tangible cultural heritage includes artefacts, monuments, a group of buildings and sites, museums that have a diversity of values including symbolic, historic, artistic, aesthetic, ethnological or anthropological, scientific and social significance. Intangible cultural heritage includes oral traditions, languages, performing arts, social practices, rituals, festive events, knowledge and practices concerning nature and the universe, and traditional craftsmanship.
+- Performing arts are one of the domains of intangible cultural heritage that reflect human creativity and cultural diversity. They include vocal and instrumental music, dance and theatre, pantomime, sung verse and beyond.
+- Performing arts are often associated with tangible elements, such as musical instruments, masks, costumes, props, scenery and spaces, that are essential for their transmission and enactment.
+- Performing arts can also convey cultural values, beliefs, identities, histories and emotions, and can foster social cohesion, dialogue and mutual understanding among different groups and communities.
+- Performing arts are vulnerable to various threats, such as globalization, modernization, urbanization, migration, conflicts, natural disasters and climate change, that can affect their viability and sustainability.
+- Performing arts need to be safeguarded and promoted, as they are important sources of cultural heritage and human creativity, and contribute to the social, economic and environmental well-being of individuals and societies.

@@ -1,0 +1,24 @@
+### Basic indexing methods for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+
+- Indexing is a way to optimize the performance of a database by minimizing the number of disk accesses required when a query is processed.
+- Indexing is a data structure technique which is used to quickly locate and access the data in a database.
+- Indexes are created using a few database columns.
+- Indexing in Database is defined based on its indexing attributes.
+- Two main types of indexing methods are: Primary Indexing and Secondary Indexing .
+- Primary Indexing is defined on an ordered data file, where the data file is ordered on a key field .
+- The key field is usually the primary key of the relation.
+- The primary index is an ordered file of fixed-length records, each with two fields: the key field and a pointer to the data block that contains the record with that key value.
+- Primary Indexing is further divided into two types: Dense Index and Sparse Index .
+- In a dense index, a record is created for every search key value in the database .
+- In a sparse index, a record is created for only some of the search key values .
+- A sparse index requires less space and less maintenance than a dense index.
+- A sparse index can be used only if the data file is sorted on the search key field.
+- Secondary Indexing is defined on an attribute that is not the primary key of the relation .
+- The secondary index may be generated from a field which is a candidate key and has a unique value in every record, or a non-key with duplicate values.
+- The secondary index is an ordered file of variable-length records, each with two fields: the search key value and a list of pointers to the data blocks that contain records with that key value.
+- Secondary indexes have to be dense, regardless of whether the search key has unique or non-unique values.
+- Secondary indexes require more space and more maintenance than primary indexes.
+- Secondary indexes can be used to speed up the retrieval of records that satisfy some condition on a non-key attribute.
+- Indexing techniques for advanced database systems include B-tree, B+-tree, R-tree, Bitmap index, Hash index, etc .
+- These techniques are designed to support new applications such as spatial, temporal, multimedia, text, and web databases.
+- These techniques are also designed to handle high-dimensional, complex, and dynamic data.

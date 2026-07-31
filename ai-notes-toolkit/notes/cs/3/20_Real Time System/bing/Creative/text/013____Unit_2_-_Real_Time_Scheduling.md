@@ -1,0 +1,13 @@
+## Unit 2 - Real Time Scheduling
+
+- Real time scheduling is the process of assigning and executing tasks in a system that has strict timing constraints and deadlines .
+- Real time scheduling involves breaking a program into multiple threads or processes that can run concurrently and independently on a processor or a multiprocessor system .
+- Real time scheduling aims to reduce the response time and the waiting time of the tasks, and to meet the deadlines and the quality of service requirements of the system.
+- Real time scheduling can be classified into two categories: static and dynamic .
+  - Static scheduling is done at compile time or before the execution of the system. It is based on the prior knowledge of the task parameters, such as arrival time, execution time, deadline, priority, etc. Static scheduling is deterministic, predictable, and easy to implement, but it is not flexible or adaptable to changes in the system or the environment .
+  - Dynamic scheduling is done at run time or during the execution of the system. It is based on the current state of the system and the tasks, such as ready queue, processor availability, resource contention, etc. Dynamic scheduling is adaptive, responsive, and robust, but it is more complex, overhead, and uncertain .
+- Real time scheduling can also be classified into two types: preemptive and non-preemptive .
+  - Preemptive scheduling allows a higher priority task to interrupt and suspend a lower priority task that is currently running on the processor. The suspended task is resumed later when the higher priority task is completed or blocked. Preemptive scheduling is more responsive and fair, but it may cause more context switches, overhead, and fragmentation .
+  - Non-preemptive scheduling does not allow a higher priority task to interrupt a lower priority task that is currently running on the processor. The higher priority task has to wait until the lower priority task is completed or blocked. Non-preemptive scheduling is more efficient and simple, but it may cause more waiting time, blocking time, and deadline misses .
+- Real time scheduling algorithms are the rules or methods that determine how to select and execute the tasks in a real time system. There are many real time scheduling algorithms, such as rate monotonic, earliest deadline first, least laxity first, etc. Each algorithm has its own advantages, disadvantages, and applicability .
+- Real time scheduling analysis is the process of evaluating and verifying the performance and correctness of a real time system and its scheduling algorithm. It involves checking the feasibility, schedulability, utilization, response time, waiting time, blocking time, deadline misses, etc. of the system and the tasks .

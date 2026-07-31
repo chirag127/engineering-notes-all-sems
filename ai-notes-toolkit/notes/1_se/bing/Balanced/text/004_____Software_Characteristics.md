@@ -1,0 +1,10 @@
+### Software Characteristics
+
+Software characteristics are the attributes or qualities that describe a software product. They are also known as software quality factors or software quality attributes. Software characteristics affect how the software performs, how easy it is to use, maintain, and modify, and how reliable and secure it is. Some of the common software characteristics are:
+
+- **Functionality**: The degree to which the software meets the specified requirements and provides the desired functions. Functionality can be measured by criteria such as correctness, completeness, interoperability, compliance, and security.
+- **Reliability**: The degree to which the software performs consistently and accurately under normal and abnormal conditions. Reliability can be measured by criteria such as availability, fault tolerance, recoverability, and maturity.
+- **Usability**: The degree to which the software is easy to learn, operate, and understand by the intended users. Usability can be measured by criteria such as learnability, efficiency, effectiveness, satisfaction, and accessibility.
+- **Efficiency**: The degree to which the software uses the available resources optimally and minimizes the waste of time, space, and energy. Efficiency can be measured by criteria such as time behavior, resource utilization, and capacity.
+- **Maintainability**: The degree to which the software can be modified, corrected, enhanced, or adapted to changing needs and environments. Maintainability can be measured by criteria such as modularity, readability, testability, analyzability, changeability, and stability.
+- **Portability**: The degree to which the software can be transferred, installed, and executed on different platforms, systems, and environments. Portability can be measured by criteria such as adaptability, installability, coexistence, and replaceability.

@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic. Here is some information that I found from the web:
+
+### CO-2 Apply the fundamental concepts of determination of structure with various spectral techniques
+
+- Spectroscopy is the study of how electromagnetic radiation, across a spectrum of different wavelengths, interacts with molecules - and how these interactions can be quantified, analyzed, and ultimately interpreted to gain information about molecular structure.
+- The most important spectroscopic techniques for structure determination are ultraviolet and visible spectroscopy, infrared spectroscopy, and nuclear magnetic resonance spectroscopy.
+- Ultraviolet and visible spectroscopy (UV-Vis) measures the wavelengths of light that are absorbed by molecules in the region of 200-800 nm. The absorption of light depends on the electronic structure of the molecule, and can be used to identify functional groups, conjugated systems, and chromophores.
+- Infrared spectroscopy (IR) measures the wavelengths of light that are absorbed by molecules in the region of 2500-25,000 nm. The absorption of light depends on the vibrational modes of the molecular bonds, and can be used to identify functional groups, bond types, and molecular geometry.
+- Nuclear magnetic resonance spectroscopy (NMR) measures the interaction of radiofrequency waves with the nuclei of certain atoms (such as hydrogen and carbon) in a magnetic field. The interaction depends on the chemical environment of the nuclei, and can be used to determine the connectivity, stereochemistry, and dynamics of the molecule.
+- Spectroscopy can also be combined with other methods, such as mass spectrometry (MS) and X-ray crystallography, to obtain more information about the molecular weight, fragmentation pattern, and three-dimensional structure of the molecule .
+- Spectroscopy is mainly used for studying the structure of molecules and atoms, especially organic compounds. Spectroscopy can also be used for finding the unknown chemical composition of materials.

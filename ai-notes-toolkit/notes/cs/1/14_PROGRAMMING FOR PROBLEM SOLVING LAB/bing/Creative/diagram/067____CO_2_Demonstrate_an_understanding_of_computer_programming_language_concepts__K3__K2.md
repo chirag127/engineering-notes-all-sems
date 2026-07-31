@@ -1,0 +1,21 @@
+## CO 2 Demonstrate an understanding of computer programming language concepts. K3, K2
+
+- Computer programming language concepts are the fundamental ideas and principles that underlie the design and implementation of programming languages.
+- Some of the common concepts include:
+  - Syntax: The rules and structure of a programming language that define how to write valid programs.
+  - Semantics: The meaning and behavior of a programming language that define how to interpret and execute programs.
+  - Data types: The categories of values and expressions that a programming language can manipulate, such as integers, strings, booleans, arrays, etc.
+  - Variables: The names or identifiers that refer to data values or memory locations in a program.
+  - Operators: The symbols or keywords that perform operations on data values or expressions, such as arithmetic, logical, relational, assignment, etc.
+  - Control structures: The statements or constructs that control the flow of execution in a program, such as conditional, loop, function, etc.
+  - Functions: The reusable blocks of code that perform a specific task and can be invoked by other parts of the program.
+  - Parameters: The variables or values that are passed to a function when it is invoked, and can be used inside the function body.
+  - Return values: The values or expressions that are returned by a function when it finishes its execution, and can be used by the caller of the function.
+  - Scope: The region or context of a program where a variable or a function is visible or accessible.
+  - Recursion: The technique of defining a function in terms of itself, or calling a function from within itself, to solve a problem by breaking it down into smaller subproblems.
+  - Abstraction: The technique of hiding the details or complexity of a problem or a solution, and focusing on the essential features or functionality.
+  - Modularity: The technique of dividing a large and complex program into smaller and simpler units or modules, that can be developed, tested, and maintained independently.
+  - Data structures: The ways of organizing and storing data in a program, such as arrays, lists, stacks, queues, trees, graphs, etc.
+  - Algorithms: The step-by-step procedures or instructions that describe how to solve a problem or perform a task using a programming language.
+  - Efficiency: The measure of how well a program or an algorithm uses the available resources, such as time, space, memory, etc.
+  - Debugging: The process of finding and fixing errors or bugs in a program or an algorithm.

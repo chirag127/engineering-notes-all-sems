@@ -1,0 +1,11 @@
+### Beta Pruning
+
+Beta pruning is a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree. It is an adversarial search algorithm used commonly for machine playing of two-player games (Tic-tac-toe, Chess, Go, etc.). It stops evaluating a move when at least one possibility has been found that proves the move to be worse than a previously examined move.
+
+Beta pruning is based on the concept of the minimax algorithm, which is a decision rule used for minimizing the possible loss for a worst-case scenario. The minimax algorithm assumes that the opponent is playing optimally and will choose the move that minimizes the maximum possible gain for the player. Beta pruning is an optimization of the minimax algorithm that reduces the number of nodes that need to be evaluated.
+
+The algorithm maintains two values, alpha and beta, which represent the minimum score that the maximizing player is assured of and the maximum score that the minimizing player is assured of respectively. Initially, alpha is negative infinity and beta is positive infinity, i.e. both players start with their worst possible score. Whenever the maximum score that the minimizing player (i.e. the "beta" player) is assured of becomes less than the minimum score that the maximizing player (i.e. the "alpha" player) is assured of (i.e. beta <= alpha), the remaining moves do not need to be evaluated as they will not affect the final result.
+
+Beta pruning can be applied to any game tree and can significantly reduce the number of nodes that need to be evaluated, thus speeding up the search. However, the effectiveness of beta pruning depends on the order in which the moves are evaluated. If the moves are evaluated in the best possible order, beta pruning can reduce the effective depth of the search tree to the square root of the total number of nodes. In the worst case, beta pruning does not reduce the number of nodes that need to be evaluated at all.
+
+In summary, beta pruning is an optimization technique for the minimax algorithm that can significantly reduce the number of nodes that need to be evaluated in a game tree. It is based on the concept of alpha-beta pruning and is commonly used in machine playing of two-player games. Its effectiveness depends on the order in which the moves are evaluated.

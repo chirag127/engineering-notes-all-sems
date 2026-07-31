@@ -1,0 +1,27 @@
+### History
+
+- Wearable computing is the field of technology that involves devices that can be worn on the body, such as smartwatches, glasses, headsets, rings, etc.
+- The concept of wearable computing has a long and diverse history, dating back to ancient times when people used beads, abacuses, and rings to perform calculations and store information.
+- Some of the earliest examples of wearable computing include:
+  - A 16th-century abacus ring that was used by Chinese merchants to perform arithmetic operations.
+  - A wristwatch and a finger-watch that were owned by Queen Elizabeth I of England in the late 16th century. The finger-watch was a miniature clock that was hidden in a ring and could be opened by pressing a button.
+  - A covert timing device that was hidden in a shoe and used by Edward Thorp and Claude Shannon to cheat at roulette in the 1960s and 1970s. The device measured the speed of the ball and the wheel and sent signals to the wearer through vibrations.
+- The modern era of wearable computing began in the late 1970s and early 1980s, when researchers and hobbyists started to experiment with wearable computers that could augment human perception, memory, and communication.
+- Some of the pioneers of wearable computing include:
+  - Steve Mann, who is considered the father of wearable computing and has been wearing various devices on his body since the late 1970s. He developed wearable computers that could record and manipulate video, audio, and other sensory data, and also coined the term "mediated reality" to describe the altered perception of reality through wearable devices .
+  - Thad Starner, who is one of the founders of the MIT Media Lab's Wearable Computing Project and has been wearing a head-mounted display and a keyboard since 1993. He developed wearable computers that could provide context-aware information, such as face recognition, language translation, and note-taking.
+  - Alex Pentland, who is another founder of the MIT Media Lab's Wearable Computing Project and has been studying the social and behavioral aspects of wearable computing. He developed wearable computers that could measure and analyze human interactions, such as gestures, expressions, and emotions.
+- The development of wearable computing has been influenced by various factors, such as technological advances, user needs, market trends, and cultural influences.
+- Some of the major milestones and trends in wearable computing include:
+  - The emergence of wearable fitness trackers, such as Fitbit and Nike+, that can monitor and motivate physical activity and health.
+  - The popularity of smartwatches, such as Apple Watch and Samsung Gear, that can provide notifications, apps, and other functions on the wrist.
+  - The innovation of smart glasses, such as Google Glass and Microsoft HoloLens, that can project information and images on the user's field of vision.
+  - The exploration of wearable brain-computer interfaces, such as Muse and NeuroSky, that can measure and manipulate brain activity and mental states.
+  - The emergence of wearable fashion, such as smart clothing and accessories, that can change color, shape, or function according to the user's preferences or environment.
+- The future of wearable computing is expected to be more ubiquitous, immersive, and personalized, as wearable devices become more integrated with the human body and the environment.
+- Some of the potential applications and challenges of wearable computing include:
+  - Enhancing human capabilities, such as memory, learning, creativity, and communication.
+  - Improving human well-being, such as health, safety, and happiness.
+  - Enabling new forms of entertainment, education, and art.
+  - Respecting human privacy, ethics, and dignity.
+  - Balancing human autonomy, control, and dependence.

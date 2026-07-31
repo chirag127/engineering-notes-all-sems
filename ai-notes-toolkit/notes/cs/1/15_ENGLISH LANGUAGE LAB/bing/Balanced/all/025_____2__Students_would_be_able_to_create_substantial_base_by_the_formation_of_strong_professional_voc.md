@@ -1,0 +1,12 @@
+# 2. Students would be able to create substantial base by the formation of strong professional vocabulary for its application at different platforms and through numerous modes as Comprehension, reading, writing and speaking etc.
+
+- Professional vocabulary refers to the specialized terms and expressions that are used in a specific field or domain, such as medicine, law, engineering, business, etc.
+- Professional vocabulary is important for students who want to pursue a career in a particular area, as it helps them to communicate effectively and accurately with other experts, clients, customers, and stakeholders.
+- Professional vocabulary also enhances the students' comprehension, reading, writing, and speaking skills, as it enables them to understand and produce texts that are relevant, coherent, and persuasive in their chosen field.
+- To create a substantial base of professional vocabulary, students need to:
+  - Identify the sources of professional vocabulary, such as textbooks, journals, articles, reports, websites, podcasts, videos, etc. that are related to their field of interest or study.
+  - Engage in extensive and intensive reading and listening activities that expose them to authentic and varied examples of professional vocabulary in context.
+  - Use dictionaries, glossaries, thesauri, and other reference tools to look up the meanings, pronunciations, synonyms, antonyms, collocations, and usage of professional vocabulary.
+  - Record and review the professional vocabulary that they encounter, using notebooks, flashcards, apps, or online platforms. They should also organize the vocabulary into categories, such as topics, functions, parts of speech, etc.
+  - Practice and apply the professional vocabulary that they learn, using different modes and platforms, such as comprehension exercises, summaries, essays, presentations, debates, discussions, etc. They should also seek feedback and correction from their teachers, peers, or mentors.
+  - Monitor and evaluate their progress and performance in using professional vocabulary, using self-assessment tools, tests, quizzes, portfolios, or rubrics. They should also set realistic and achievable goals and strategies for improving their professional vocabulary.

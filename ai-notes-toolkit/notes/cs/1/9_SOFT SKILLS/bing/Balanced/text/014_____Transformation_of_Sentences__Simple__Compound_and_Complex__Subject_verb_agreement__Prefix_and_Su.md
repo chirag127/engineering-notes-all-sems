@@ -1,0 +1,13 @@
+### Transformation of Sentences: Simple, Compound and Complex, Subject-verb agreement, Prefix and Suffix, Antonyms, Synonyms, Homophones
+
+- A sentence is a group of words that expresses a complete thought. There are different types of sentences based on their structure and meaning.
+- A simple sentence is a sentence that has only one independent clause. An independent clause is a group of words that has a subject and a verb and can stand alone as a complete sentence. For example, "She sings well." is a simple sentence.
+- A compound sentence is a sentence that has two or more independent clauses joined by a coordinating conjunction (such as and, but, or, nor, for, so, yet) or a semicolon (;). For example, "She sings well and plays the guitar." is a compound sentence.
+- A complex sentence is a sentence that has one independent clause and one or more dependent clauses. A dependent clause is a group of words that has a subject and a verb but cannot stand alone as a complete sentence. It depends on the independent clause for its meaning. A dependent clause can be introduced by a subordinating conjunction (such as because, although, when, if, etc.) or a relative pronoun (such as who, which, that, etc.). For example, "She sings well because she practices every day." is a complex sentence.
+- Transformation of sentences is the process of changing the form or structure of a sentence without changing its meaning or sense. There are different ways to transform sentences, such as changing the voice (active or passive), changing the mood (indicative, imperative, interrogative, etc.), changing the degree (positive, comparative, superlative), changing the number (singular or plural), etc.
+- Subject-verb agreement is the rule that the verb in a sentence must agree with the subject in number (singular or plural) and person (first, second, or third). For example, "He sings well." is correct, but "He sing well." is incorrect.
+- A prefix is a word part that is added to the beginning of a word to change its meaning. For example, the prefix un- means not, so adding un- to the word happy makes unhappy, which means not happy.
+- A suffix is a word part that is added to the end of a word to change its meaning or part of speech. For example, the suffix -ly means in a certain way, so adding -ly to the word happy makes happily, which means in a happy way.
+- Antonyms are words that have opposite meanings. For example, hot and cold are antonyms.
+- Synonyms are words that have similar or same meanings. For example, happy and glad are synonyms.
+- Homophones are words that sound the same but have different meanings and spellings. For example, see and sea are homophones.

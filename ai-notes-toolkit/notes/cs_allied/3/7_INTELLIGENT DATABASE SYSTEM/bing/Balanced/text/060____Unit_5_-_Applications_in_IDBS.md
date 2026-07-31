@@ -1,0 +1,10 @@
+## Unit 5 - Applications in IDBS
+
+- IDBS stands for **Integrated Database Systems**, which are systems that combine database management and application development capabilities in a single environment.
+- IDBS can be used to create various types of applications, such as **data-intensive applications**, **decision support systems**, **expert systems**, **knowledge-based systems**, **multimedia applications**, and **web applications**.
+- Data-intensive applications are applications that require large amounts of data to perform complex operations, such as **data analysis**, **data mining**, **data warehousing**, **data visualization**, and **data integration**.
+- Decision support systems are applications that help users make decisions based on data and models, such as **business intelligence**, **online analytical processing**, **data dashboards**, and **reporting tools**.
+- Expert systems are applications that use artificial intelligence techniques to emulate human expertise in a specific domain, such as **diagnosis**, **planning**, **scheduling**, **recommendation**, and **classification**.
+- Knowledge-based systems are applications that use knowledge representation and reasoning techniques to manipulate and infer knowledge from data, such as **semantic web**, **ontology engineering**, **knowledge graphs**, and **natural language processing**.
+- Multimedia applications are applications that involve multiple types of media, such as **text**, **images**, **audio**, **video**, and **animation**, and require special techniques for **storage**, **retrieval**, **processing**, and **presentation** of multimedia data.
+- Web applications are applications that run on the internet and use web technologies, such as **HTML**, **CSS**, **JavaScript**, **PHP**, **ASP.NET**, and **Java Servlets**, to create dynamic and interactive web pages and web services.

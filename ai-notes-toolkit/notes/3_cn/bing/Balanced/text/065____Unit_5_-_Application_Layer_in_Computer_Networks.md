@@ -1,0 +1,16 @@
+## Unit 5 - Application Layer in Computer Networks
+
+- The application layer is the topmost layer of the TCP/IP model or the OSI model that provides the interface between the applications and the network.
+- The application layer defines the protocols and services that enable communication and data exchange between different applications running on different hosts or devices.
+- The application layer protocols are specific to the type of application and data being transmitted, such as HTTP for web browsing, SMTP for email, FTP for file transfer, DNS for name resolution, etc.
+- The application layer protocols use the services of the transport layer protocols, such as TCP or UDP, to establish reliable or unreliable connections and to segment, reassemble, and order the data packets.
+- The application layer protocols also use the services of the lower layers, such as the network layer, the data link layer, and the physical layer, to route, encode, and transmit the data packets across the network.
+- The application layer is responsible for some of the following functions:
+  - Application identification: The application layer identifies the type and format of the data being transmitted and the appropriate protocol to use for communication.
+  - Data encoding and compression: The application layer encodes the data into a standard format, such as ASCII or Unicode, and compresses the data to reduce the bandwidth and storage requirements.
+  - Data encryption and decryption: The application layer encrypts the data to ensure confidentiality and integrity, and decrypts the data at the destination using the appropriate keys and algorithms.
+  - Data segmentation and reassembly: The application layer segments the data into smaller units, such as messages or datagrams, and adds headers and trailers to each unit. The application layer also reassembles the data units at the destination and removes the headers and trailers.
+  - Data presentation and interpretation: The application layer presents the data to the user in a meaningful and understandable way, such as text, images, audio, or video. The application layer also interprets the data and performs the appropriate actions, such as displaying a web page, sending an email, or playing a song.
+  - Error detection and correction: The application layer detects and corrects any errors that may occur during the data transmission, such as lost, duplicated, or corrupted packets. The application layer may use techniques such as checksums, acknowledgments, or retransmissions to ensure the accuracy and completeness of the data.
+  - Session management: The application layer manages the sessions between the applications and the network, such as establishing, maintaining, and terminating the connections. The application layer may use techniques such as cookies, tokens, or timestamps to identify and authenticate the users and the applications.
+  - Service discovery and advertisement: The application layer discovers and advertises the available services and resources on the network, such as printers, servers, or files. The application layer may use techniques such as multicast, broadcast, or directory services to locate and access the services and resources.

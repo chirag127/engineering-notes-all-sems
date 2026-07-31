@@ -1,0 +1,21 @@
+## Unit 5 - Genetic Algorithm(GA)
+
+- A genetic algorithm (GA) is a bio-inspired optimization technique that mimics the natural process of evolution.
+- A GA operates on a population of potential solutions, called individuals or chromosomes, that encode the values of the decision variables.
+- A GA applies three main operators to the population: selection, crossover, and mutation.
+- Selection chooses the fittest individuals to reproduce and pass their genes to the next generation.
+- Crossover combines the genes of two parent individuals to produce one or more offspring individuals with new characteristics.
+- Mutation randomly alters some genes of an individual to introduce diversity and prevent premature convergence.
+- A GA evaluates the fitness of each individual using an objective function that measures how well the individual satisfies the optimization criteria.
+- A GA iterates until a termination condition is met, such as reaching a maximum number of generations, a desired fitness level, or a convergence threshold.
+- A GA can be used to solve various types of optimization problems, such as numerical, combinatorial, multi-objective, constrained, or dynamic problems.
+- A GA has some advantages over other optimization methods, such as:
+  - It can handle complex, nonlinear, and multimodal problems.
+  - It can explore a large and diverse search space.
+  - It can adapt to changing environments and constraints.
+  - It can avoid getting stuck in local optima by maintaining a population of diverse solutions.
+- A GA also has some limitations and challenges, such as:
+  - It requires a proper encoding scheme and objective function for the problem domain.
+  - It may need a large number of evaluations to converge to a good solution.
+  - It may suffer from premature convergence or loss of diversity due to selection pressure or genetic drift.
+  - It may have difficulties in handling constraints, noise, or uncertainty in the problem.

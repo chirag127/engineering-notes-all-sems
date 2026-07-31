@@ -1,0 +1,41 @@
+### Conceptual model of the UML
+
+- A conceptual model is a model that is made of concepts and their relationships .
+- A concept is an idea or a generalization of something in the real world.
+- A relationship is a connection or an association between two or more concepts.
+- A conceptual model is the first step before drawing a UML diagram .
+- A UML diagram is a graphical representation of a system or a process using the UML notation.
+- The UML notation consists of basic building blocks, rules and common mechanisms.
+- The basic building blocks are the things, relationships, diagrams and stereotypes.
+- The things are the abstractions or entities that are relevant to the system or the process.
+- The things can be classified into four categories: structural, behavioral, grouping and annotational.
+- The structural things are the static parts of the system or the process, such as classes, objects, interfaces, components and nodes.
+- The behavioral things are the dynamic parts of the system or the process, such as interactions, use cases, state machines and activities.
+- The grouping things are the organizational parts of the system or the process, such as packages and collaborations.
+- The annotational things are the explanatory parts of the system or the process, such as notes and constraints.
+- The relationships are the links that connect the things and show how they are related or interact with each other.
+- The relationships can be classified into four types: dependency, association, generalization and realization.
+- The dependency is a relationship that shows that one thing depends on another thing for its specification or implementation.
+- The association is a relationship that shows that two things are connected or associated with each other.
+- The generalization is a relationship that shows that one thing is a kind of another thing or a specialization of another thing.
+- The realization is a relationship that shows that one thing realizes or implements another thing or a specification of another thing.
+- The diagrams are the graphical views of the system or the process that show a set of things and relationships.
+- The diagrams can be classified into two categories: structural and behavioral.
+- The structural diagrams show the static structure of the system or the process, such as class diagrams, object diagrams, component diagrams and deployment diagrams.
+- The behavioral diagrams show the dynamic behavior of the system or the process, such as use case diagrams, sequence diagrams, collaboration diagrams, state machine diagrams and activity diagrams.
+- The stereotypes are the extensions or modifications of the existing building blocks to create new ones or to adapt them to specific domains or platforms.
+- The stereotypes are shown using guillemets (« ») around the name of the stereotype.
+- The rules are the constraints or guidelines that define how the building blocks can be combined or connected to form a valid UML model.
+- The rules can be classified into two types: well-formedness rules and semantics rules.
+- The well-formedness rules are the syntactic rules that define the correct structure and notation of a UML model.
+- The semantics rules are the semantic rules that define the correct meaning and interpretation of a UML model.
+- The common mechanisms are the techniques or features that apply throughout the UML and support its use and reuse.
+- The common mechanisms include abstraction, encapsulation, modularity, hierarchy, typing, concurrency, persistence, distribution and extensibility.
+- The abstraction is the mechanism that allows focusing on the essential features of a thing and ignoring the irrelevant details.
+- The encapsulation is the mechanism that allows hiding the internal structure and behavior of a thing and exposing only its interface.
+- The modularity is the mechanism that allows dividing a system or a process into smaller and manageable parts or modules.
+- The hierarchy is the mechanism that allows organizing a system or a process into levels of abstraction or detail.
+- The typing is the mechanism that allows defining the types of things and their properties and operations.
+- The concurrency is the mechanism that allows modeling the simultaneous execution or interaction of things.
+- The persistence is the mechanism that allows modeling the storage or retrieval of things across time or sessions.
+- The distribution

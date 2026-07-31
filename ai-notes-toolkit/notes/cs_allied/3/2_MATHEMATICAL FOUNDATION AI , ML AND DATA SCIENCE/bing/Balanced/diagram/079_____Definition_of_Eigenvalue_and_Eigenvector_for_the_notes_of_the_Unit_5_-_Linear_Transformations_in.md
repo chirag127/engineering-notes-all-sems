@@ -1,0 +1,8 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the Unit 5 - Linear Transformations in the subject of Mathematical Foundation AI, ML and Data Science. Here is the content for the topic of Definition of Eigenvalue and Eigenvector:
+
+### Definition of Eigenvalue and Eigenvector
+
+- An eigenvalue is a scalar value that satisfies the equation **Av = λv**, where **A** is a square matrix, **v** is a nonzero vector, and **λ** is a scalar. The vector **v** is called an eigenvector of **A** corresponding to the eigenvalue **λ**.
+- Geometrically, an eigenvector of a matrix **A** is a vector that does not change its direction when multiplied by **A**. The eigenvalue **λ** is the factor by which the eigenvector is stretched or shrunk by **A**.
+- For example, if **A** is a 2x2 matrix that represents a linear transformation on the plane, then an eigenvector of **A** is a vector that lies on a line that is invariant under the transformation. The eigenvalue **λ** is the ratio of the length of the transformed vector to the original vector.
+- To find the eigenvalues and eigenvectors of a matrix **A**, we need to solve the equation **det(A - λI) = 0**, where **I** is the identity matrix of the same size as **A**. This equation is called the characteristic equation of **A**. The roots of this equation are the eigenvalues of **A**, and the corresponding eigenvectors can be found by plugging the eigenvalues into the equation **(A - λI)v = 0** and solving for **v**.

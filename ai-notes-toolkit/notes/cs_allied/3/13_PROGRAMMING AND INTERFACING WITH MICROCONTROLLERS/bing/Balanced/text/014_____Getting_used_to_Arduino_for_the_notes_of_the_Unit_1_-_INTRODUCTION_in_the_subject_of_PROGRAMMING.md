@@ -1,0 +1,11 @@
+### Getting used to Arduino
+
+Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs from sensors, buttons, or online sources, and turn them into outputs such as activating motors, turning on LEDs, or publishing data online .
+
+Some basic concepts to get started with Arduino are:
+
+- **The basic operation of an Arduino**: An Arduino board consists of a microcontroller, which is the brain of the board, and can be programmed using the Arduino Software (IDE). The board also has a USB port, which is used to connect it to a computer, and a USB to Serial chip, which helps translating data between the computer and the board. The board also has pins, which are used to connect other components to the board, such as sensors, LEDs, or motors.
+- **Circuit basics**: A circuit is a path for electric current to flow through. Circuits consist of at least one active electronic component, such as an Arduino board, and a conductive material, such as wires, so that current can pass through. When working with an Arduino, you will in most cases build a circuit for your project, using components such as resistors, capacitors, transistors, or diodes .
+- **Arduino Software (IDE)**: The Arduino Software (IDE) is the program that you use to write code for your Arduino board. The code is written in a language called Arduino, which is based on C/C++. The IDE also allows you to upload your code to the board, and to monitor the serial communication between the board and the computer.
+- **Arduino libraries**: Arduino libraries are collections of code that provide extra functionality to your sketches. For example, there are libraries that allow you to control LCD displays, communicate with other devices using Bluetooth or WiFi, or use sensors and actuators. You can use the libraries that come installed with the IDE, or download and install new ones from the internet.
+- **Arduino projects**: Arduino projects are the applications that you can create using an Arduino board and other components. You can follow the examples that come with the IDE, or the tutorials that are available online, or you can create your own projects based on your ideas and needs. Arduino projects can range from simple blinking LEDs, to complex robots, musical instruments, or smart home devices.

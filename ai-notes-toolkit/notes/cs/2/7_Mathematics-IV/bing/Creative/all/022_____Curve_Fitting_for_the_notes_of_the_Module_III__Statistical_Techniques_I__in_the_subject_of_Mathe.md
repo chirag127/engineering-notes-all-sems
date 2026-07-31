@@ -1,0 +1,23 @@
+# Curve Fitting
+
+- Curve fitting is the process of constructing a curve, or mathematical function, that has the best fit to a series of data points, possibly subject to constraints .
+- Curve fitting can involve either interpolation, where an exact fit to the data is required, or smoothing, where a smooth function is constructed that approximates the data.
+- Curve fitting can be used for various purposes, such as:
+  - To describe the underlying relationship between variables in a data set.
+  - To test hypotheses about the form or parameters of a model.
+  - To estimate the values of unknown parameters or coefficients in a model.
+  - To predict future values of a dependent variable based on a given set of independent variables.
+  - To visualize the trend or pattern of a data set.
+- Curve fitting can be performed using various methods, such as:
+  - Algebraic methods, which use analytical expressions or equations to define the curve.
+  - Numerical methods, which use iterative algorithms or optimization techniques to find the best fit.
+  - Graphical methods, which use visual inspection or trial and error to adjust the curve.
+  - Statistical methods, which use measures of goodness of fit or confidence intervals to evaluate the quality of the curve.
+- Curve fitting can be applied to different types of curves or functions, such as:
+  - Linear functions, which have the form y = ax + b, where a and b are constants.
+  - Polynomial functions, which have the form y = a0 + a1x + a2x^2 + ... + anxn, where a0, a1, ..., an are constants and n is the degree of the polynomial.
+  - Exponential functions, which have the form y = ab^x, where a and b are constants and b > 0.
+  - Logarithmic functions, which have the form y = a + b ln x, where a and b are constants and x > 0.
+  - Trigonometric functions, which have the form y = a + b sin (cx + d), where a, b, c and d are constants and c > 0.
+  - Power functions, which have the form y = ax^b, where a and b are constants and x > 0.
+  - Rational functions, which have the form y = (a0 + a1x + a2x^2 + ... + anxn) / (b0 + b1x + b2x^2 + ... + bmxm), where a0, a1, ..., an and b0, b1, ..., bm are constants and m < n.

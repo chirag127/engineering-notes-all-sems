@@ -1,0 +1,8 @@
+#### At the end of this course, the students should be able to:
+
+- Explain the basic concepts and principles of artificial intelligence, such as agents, search, knowledge representation, reasoning, planning, learning, natural language processing, computer vision, and robotics.
+- Apply various AI techniques and algorithms to solve different types of problems, such as search problems, constraint satisfaction problems, logic problems, planning problems, classification problems, and clustering problems.
+- Evaluate the strengths and limitations of different AI approaches and methods, such as heuristic search, informed search, adversarial search, propositional logic, first-order logic, resolution, forward chaining, backward chaining, decision trees, neural networks, genetic algorithms, and reinforcement learning.
+- Design and implement simple AI systems and applications using Python and relevant libraries and frameworks, such as NumPy, SciPy, scikit-learn, TensorFlow, Keras, PyTorch, NLTK, OpenCV, and ROS.
+- Analyze and compare the performance and behavior of different AI systems and applications using appropriate metrics and methods, such as time complexity, space complexity, accuracy, precision, recall, F1-score, confusion matrix, ROC curve, and A/B testing.
+- Communicate and present the results and findings of AI projects and experiments using clear and concise language, diagrams, charts, and graphs.

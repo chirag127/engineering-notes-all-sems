@@ -1,0 +1,8 @@
+### Clusters Classifications for the notes of the Unit 3 - Overview of Cluster Computing in the subject of High Performance Computing
+
+- Cluster computing is a form of parallel computing that uses a group of interconnected computers (called nodes) to perform tasks that require high performance, availability, or scalability .
+- Cluster computing can be classified into three main types based on the purpose and design of the clusters :
+  - High performance (HP) clusters: These clusters use computer clusters and supercomputers to solve advanced computational problems that require high speed and accuracy. They are used for scientific and engineering applications that need nodes to communicate frequently as they perform their jobs   .
+  - Load-balancing clusters: These clusters distribute incoming requests for resources among several nodes running similar programs or having similar content. They are used to improve the performance and availability of web servers, databases, and other services that need to handle a large number of concurrent requests .
+  - High availability (HA) clusters: These clusters provide redundancy and fault tolerance for critical applications that need to run continuously without interruption. They are used to ensure that a service or a system remains operational even if one or more nodes fail or are taken offline for maintenance .
+- Cluster computing can also be classified based on the architecture and topology of the clusters, such as symmetric or asymmetric, homogeneous or heterogeneous, centralized or decentralized, and so on. These classifications affect the performance, scalability, and cost of the clusters.

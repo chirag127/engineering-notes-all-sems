@@ -1,0 +1,7 @@
+### PCAP Analysis for the Notes of the Unit 2 - Cyber Forensics
+
+- PCAP stands for Packet Capture, which is a file format that stores network traffic data, including both metadata and content of each packet.
+- PCAP analysis is the process of examining the captured network traffic data to identify, extract, and preserve digital evidence for cyber forensics investigations, incident response, threat hunting, and network security monitoring.
+- PCAP analysis can help to solve crimes committed using internet connected infrastructure, such as malware infections, data exfiltration, network misuse, intrusion attempts, man-in-the-middle attacks, and ransomware attacks .
+- PCAP analysis can be performed using various tools, such as Wireshark, tcpdump, Zeek, and ExtraHop. These tools can help to filter, decode, visualize, and export the network traffic data in different formats and levels of detail .
+- PCAP analysis can be challenging in cloud environments, where network traffic is distributed across multiple regions, zones, and instances, and where encryption and compression can obscure the content of the packets. Therefore, PCAP analysis in the cloud requires specialized tools and techniques that can capture and analyze packets in a scalable, secure, and efficient way.

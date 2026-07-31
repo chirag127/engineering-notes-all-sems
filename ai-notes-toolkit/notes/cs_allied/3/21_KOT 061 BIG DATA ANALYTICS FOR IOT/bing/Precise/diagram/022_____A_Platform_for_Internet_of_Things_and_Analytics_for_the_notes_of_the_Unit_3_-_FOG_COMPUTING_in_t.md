@@ -1,0 +1,7 @@
+### A Platform for Internet of Things and Analytics
+
+- IoT provides a platform for sensor devices enabling information sharing across the platforms. IoT allows these devices to communicate without any interruption within a smart environment in a convenient manner. In this digital era, the correlation of data and Internet of Things (IoT) is a red-hot area for data analysts.
+- Internet of Things (IoT) analytics is the use of data science techniques to derive actionable insights from the vast volumes of information collected by IoT devices. Common applications of IoT analytics include predictive maintenance, supply chain management, and prescriptive analytics.
+- An emerging wave of Internet deployments, most notably the Internet of Things (IoTs), requires mobility support and geo-distribution in addition to location awareness and low latency. A new platform is needed to meet these requirements; a platform called Fog Computing.
+- Fog Computing enables a new breed of applications and services, and there is a fruitful interplay between the Cloud and the Fog, particularly when it comes to data management and analytics. Fog Computing extends the Cloud Computing paradigm to the edge of the network.
+- Internet of Things or IoT refers to a collection of managed and platform services across edge and cloud that connect, monitor, and control billions of IoT assets. It also includes security and operating systems for devices and equipment, along with data and analytics that help businesses to build, deploy, and manage IoT applications.

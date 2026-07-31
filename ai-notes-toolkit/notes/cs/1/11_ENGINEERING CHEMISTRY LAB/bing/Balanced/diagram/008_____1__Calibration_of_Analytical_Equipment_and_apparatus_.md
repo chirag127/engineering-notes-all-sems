@@ -1,0 +1,13 @@
+### 1. Calibration of Analytical Equipment and apparatus
+
+Calibration is the process of evaluating and adjusting the precision and accuracy of measurement equipment. It is essential for ensuring the quality and reliability of analytical results, as well as the safety of the laboratory personnel and the environment. Calibration also helps to maintain the performance and lifespan of the equipment and apparatus.
+
+Some of the steps involved in calibration of analytical equipment and apparatus are:
+
+- Make an annual schedule for calibration of each instrument or equipment, indicating the dates when they are to be calibrated. The frequency of calibration may depend on the usage, manufacturer's recommendations, and standard operating procedures of the laboratory.  
+- Select appropriate standards and reference materials for calibration, based on the specifications and requirements of the instrument or equipment. The standards and reference materials should be traceable to national or international standards, and should have a known uncertainty and expiry date.  
+- Follow the manufacturer's instructions or the laboratory's protocols for calibration, and record the calibration data and results in a logbook or a database. The calibration data and results should include the date, time, operator, instrument or equipment identification, standard or reference material identification, calibration method, calibration parameters, calibration curve or equation, and uncertainty.  
+- Compare the calibration results with the acceptance criteria, and determine if the instrument or equipment is within the tolerance limits. If the instrument or equipment is out of tolerance, perform corrective actions, such as adjustment, repair, or replacement, and repeat the calibration until the instrument or equipment passes the acceptance criteria.  
+- Label the instrument or equipment with the calibration status, date, and due date, and store the instrument or equipment in a suitable condition and location. The instrument or equipment should not be used for analytical purposes until it is calibrated and verified.  
+
+Calibration of analytical equipment and apparatus is a vital part of good laboratory practice and quality assurance. It ensures the accuracy, precision, and validity of the analytical measurements, and reduces the risk of errors and uncertainties. Calibration also helps to optimize the performance and efficiency of the equipment and apparatus, and to comply with the regulatory and accreditation standards.

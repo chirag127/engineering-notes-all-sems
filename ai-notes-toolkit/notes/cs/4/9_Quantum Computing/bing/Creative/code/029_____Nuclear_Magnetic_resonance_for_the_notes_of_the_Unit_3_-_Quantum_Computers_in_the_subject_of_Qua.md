@@ -1,0 +1,12 @@
+### Nuclear Magnetic Resonance for the notes of the Unit 3 - Quantum Computers in the subject of Quantum Computing
+
+- Nuclear magnetic resonance (NMR) is a physical phenomenon that occurs when nuclei in a magnetic field absorb and re-emit electromagnetic radiation.
+- NMR can be used to study the structure, dynamics, and interactions of molecules, as well as to measure the magnetic properties of nuclei.
+- NMR quantum computing (NMRQC) is one of the several proposed approaches for constructing a quantum computer, that uses the spin states of nuclei within molecules as qubits .
+- A qubit is the basic unit of quantum information, that can exist in a superposition of two classical states, usually denoted as |0> and |1>.
+- NMRQC uses an ensemble of identical molecules, each containing one or more qubits, as the quantum register. The molecules are placed in a strong and uniform magnetic field, which causes the qubits to align with or against the field, creating a net magnetization along the field direction.
+- The qubits can be manipulated by applying radiofrequency pulses, which induce transitions between the spin states. The pulses can be designed to implement quantum logic gates, such as the Hadamard, CNOT, and Toffoli gates, which are the building blocks of quantum algorithms.
+- The quantum state of the qubits can be measured by detecting the NMR signal, which is the electromagnetic radiation emitted by the qubits as they relax back to the equilibrium state. The NMR signal is proportional to the expectation value of the magnetization along the field direction, which can be used to infer the probabilities of the qubits being in |0> or |1>.
+- NMRQC has several advantages, such as the availability of natural and synthetic molecules with suitable qubits, the scalability of the molecular synthesis, the robustness of the qubits against decoherence, and the compatibility with existing NMR technology.
+- NMRQC also has several challenges, such as the difficulty of initializing the qubits to a pure state, the requirement of a large number of molecules to overcome the low signal-to-noise ratio, the limitation of the number of qubits that can be individually addressed and controlled, and the lack of entanglement between different molecules.
+- NMRQC has been used to demonstrate several quantum algorithms, such as the Deutsch-Jozsa, Grover's, and Shor's algorithms, as well as to simulate quantum systems, such as the hydrogen molecule and the Ising model  .

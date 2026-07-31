@@ -1,0 +1,10 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on the topic of resolution for the unit 3 - knowledge representation in the subject of artificial intelligence KCS. Here is the content I have generated for you:
+
+### Resolution
+
+- Resolution is a method of **inference** that can be used to **prove** or **disprove** a logical statement by using a set of **clauses** (disjunctions of literals) that represent the **knowledge base** and the **negation of the query**.
+- Resolution is based on the **resolution principle**, which states that if two clauses share a **complementary literal** (a literal and its negation), then they can be **resolved** by eliminating the complementary literal and forming a new clause with the remaining literals. For example, if we have the clauses `P ∨ Q` and `¬P ∨ R`, we can resolve them by eliminating `P` and `¬P` and forming the new clause `Q ∨ R`.
+- Resolution can be applied **repeatedly** until either a **contradiction** (the empty clause) is derived, which means that the query is **provable** from the knowledge base, or no more clauses can be resolved, which means that the query is **not provable** from the knowledge base.
+- Resolution is **sound** and **complete**, meaning that it can derive all and only the logical consequences of the knowledge base.
+- Resolution can be performed in different **strategies** or **orders**, such as **linear resolution**, **input resolution**, **set-of-support resolution**, **unit resolution**, **ordered resolution**, **Sos resolution**, etc. Each strategy has its own **advantages** and **disadvantages** in terms of **efficiency**, **completeness**, and **redundancy**.
+- Resolution can be used to reason with different **types** of knowledge representation, such as **propositional logic**, **first-order logic**, **modal logic**, **description logic**, etc. Each type of logic has its own **syntax**, **semantics**, and **translation rules** to convert the statements into clauses.

@@ -1,0 +1,12 @@
+### Evaluating smushing for the notes of the Unit 3 - Modelling and Aggregating Social Network Data in the subject of SOCIAL NETWORK ANALYTICS
+
+- Smushing is a technique for reducing the size and complexity of a social network graph by merging nodes that have similar attributes or connections.
+- Smushing can help to simplify the analysis and visualization of social network data, as well as to reveal patterns and clusters that might otherwise be obscured by noise or outliers.
+- Smushing can be done in different ways, depending on the criteria for merging nodes. Some common methods are:
+  - Attribute-based smushing: Nodes that share the same value for a certain attribute (such as gender, location, or interest) are merged into one node. This can help to identify groups or segments of users based on their characteristics.
+  - Connection-based smushing: Nodes that have the same set of neighbors (or a high degree of overlap) are merged into one node. This can help to identify communities or cliques of users based on their interactions.
+  - Hybrid smushing: Nodes that satisfy both attribute-based and connection-based criteria are merged into one node. This can help to identify users that are both similar and connected to each other.
+- Smushing can have advantages and disadvantages for social network analytics, depending on the context and the goal of the analysis. Some of the pros and cons are:
+  - Pros: Smushing can reduce the computational cost and complexity of analyzing large and dense networks, as well as to improve the readability and interpretability of the network graph. Smushing can also help to discover patterns, trends, and insights that might not be visible at the individual node level.
+  - Cons: Smushing can also introduce errors and biases in the analysis, as it can lose information and distort the structure and dynamics of the original network. Smushing can also affect the validity and reliability of the network metrics and measures, such as centrality, density, and modularity.
+- Therefore, smushing should be used with caution and justification, and the results should be compared and validated with the original network data. Smushing should also be tailored to the specific research question and the type of network data, as different methods and criteria might be more or less appropriate for different scenarios.

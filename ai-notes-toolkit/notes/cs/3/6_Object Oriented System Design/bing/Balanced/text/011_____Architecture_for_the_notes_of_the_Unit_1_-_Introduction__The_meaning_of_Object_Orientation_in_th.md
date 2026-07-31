@@ -1,0 +1,25 @@
+### Architecture for the notes of the Unit 1 - Introduction: The meaning of Object Orientation in the subject of Object Oriented System Design
+
+- Object Oriented System Design is a software development methodology that focuses on modeling the system as a collection of interacting objects that encapsulate data and behavior.
+- Object Oriented Architecture is the design paradigm that defines the structure and organization of the system based on the principles of object orientation, such as abstraction, encapsulation, inheritance, polymorphism, and modularity.
+- The benefits of Object Oriented Architecture are:
+  - It facilitates reuse of existing code and components, reducing development time and cost.
+  - It enhances the maintainability and extensibility of the system, as changes in one part of the system do not affect other parts.
+  - It improves the reliability and quality of the system, as objects are tested and verified independently.
+  - It supports the development of complex and dynamic systems, as objects can communicate and collaborate with each other.
+- The main elements of Object Oriented Architecture are:
+  - Classes: The blueprint or template for creating objects that define the attributes and methods of the objects.
+  - Objects: The instances of classes that represent the entities and concepts of the system.
+  - Methods: The actions or functions that objects can perform.
+  - Attributes: The data or properties that objects can store and manipulate.
+  - Messages: The communication mechanism between objects that invoke methods and pass data.
+  - Inheritance: The mechanism that allows a class to inherit the attributes and methods of another class, forming a hierarchy of classes.
+  - Polymorphism: The ability of objects to behave differently depending on their type or context, allowing a single message to have different effects on different objects.
+  - Modularity: The principle of dividing the system into smaller and independent units or modules that can be developed and tested separately.
+- The steps of Object Oriented Design are:
+  - Define the context and scope of the system, identifying the goals, requirements, constraints, and assumptions of the system.
+  - Design the architecture of the system, using a block diagram or a hierarchy of subsystems to show the high-level structure and components of the system.
+  - Identify the classes and objects of the system, using techniques such as use cases, scenarios, CRC cards, or class diagrams to capture the responsibilities and collaborations of the objects.
+  - Define the attributes and methods of the classes and objects, using techniques such as data dictionaries, state diagrams, or sequence diagrams to specify the data and behavior of the objects.
+  - Apply the principles of object orientation, such as abstraction, encapsulation, inheritance, polymorphism, and modularity, to refine and optimize the design of the system.
+  - Validate and verify the design of the system, using techniques such as reviews, inspections, testing, or prototyping to ensure the design meets the requirements and expectations of the system.

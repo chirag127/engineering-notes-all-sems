@@ -1,0 +1,30 @@
+### Addressing modes for the notes of the Unit 2 - Pin diagram and internal architecture of 8085 microprocessor, registers, ALU, Control & status, interrupt and machine cycle. Instruction sets. Addressing modes. Instruction formats Instruction Classification: data transfer, arithmetic operations, logical operations, branching operations, machine control and assembler directives. in the subject of Microprocessor KCS
+
+- Addressing modes are the ways of specifying data to be operated by an instruction.
+- The 8085 microprocessor has five addressing modes: 
+  - Immediate addressing mode
+  - Register addressing mode
+  - Register indirect addressing mode
+  - Direct addressing mode
+  - Implicit addressing mode
+- Immediate addressing mode:
+  - The instruction includes the operand along with the operation.
+  - The operand is an 8-bit or 16-bit data.
+  - Example: MVI A, 07H (move 07H to the accumulator)
+- Register addressing mode:
+  - The instruction mentions a register which stores the data.
+  - The operand is one of the registers A, B, C, D, E, H, or L.
+  - Example: MOV A, B (move the contents of B to A)
+- Register indirect addressing mode:
+  - The instruction mentions a register pair which holds the address of the data.
+  - The operand is the data stored in the memory location pointed by the register pair.
+  - The register pair can be BC, DE, or HL.
+  - Example: MOV A, M (move the contents of the memory location pointed by HL to A)
+- Direct addressing mode:
+  - The instruction includes the address of the data as an operand.
+  - The operand is the data stored in the memory location specified by the 16-bit address.
+  - Example: LDA 2000H (load the contents of the memory location 2000H to A)
+- Implicit addressing mode:
+  - The instruction does not specify any operand.
+  - The operand is implied by the operation.
+  - Example: CMA (complement the accumulator)

@@ -1,0 +1,9 @@
+### Data representation for the notes of the Unit 6 - Introduction to Visualization in the subject of INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION
+
+- Data representation is the process of transforming data into a form that can be easily understood and communicated by using visual elements such as charts, graphs, maps, etc.  
+- Data representation is an essential skill for data analysts and data scientists, as it helps them to explore, analyze, and communicate data insights effectively and efficiently. 
+- Data representation can also help to identify patterns, trends, outliers, correlations, and causations in data, as well as to compare and contrast different data sets or variables.  
+- Data representation can be done using various techniques, such as pie charts, bar charts, histograms, line charts, scatter plots, box plots, heat maps, etc. Each technique has its own advantages and disadvantages, and should be chosen based on the type and purpose of the data.
+- Data representation can also be enhanced by using interactive features, such as filters, sliders, tooltips, animations, etc. These features can help to make the data more engaging, dynamic, and responsive to user inputs. 
+- Data representation should follow some best practices, such as choosing appropriate colors, scales, labels, legends, titles, etc. These practices can help to improve the clarity, accuracy, and aesthetics of the data visualization.  
+- Data representation should also consider the audience, context, and message of the data visualization. The data visualization should be tailored to suit the needs and expectations of the intended viewers, as well as to convey the main findings and implications of the data analysis.

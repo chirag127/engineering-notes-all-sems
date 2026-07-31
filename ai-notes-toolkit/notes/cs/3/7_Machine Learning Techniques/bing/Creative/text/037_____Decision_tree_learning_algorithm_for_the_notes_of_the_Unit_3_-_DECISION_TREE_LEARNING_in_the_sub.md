@@ -1,0 +1,30 @@
+### Decision tree learning algorithm
+
+- A decision tree is a **supervised learning algorithm** that is used for both **classification and regression** tasks .
+- It has a **hierarchical, tree structure**, which consists of a **root node**, **branches**, **internal nodes** and **leaf nodes** .
+- The root node is the **topmost node** that represents the **entire dataset** .
+- The branches are the **edges** that connect the nodes and represent the **conditions** or **tests** on the features of the dataset .
+- The internal nodes are the **non-terminal nodes** that perform the **decisions** or the **tests** on the features of the dataset .
+- The leaf nodes are the **terminal nodes** that represent the **final outcomes** or the **classes** of the dataset .
+- The goal of the decision tree learning algorithm is to **find the optimal split** of the dataset at each node, such that the **information gain** or the **reduction in impurity** is maximized .
+- The information gain or the reduction in impurity is measured by different **attribute selection measures** (ASM), such as **entropy**, **gini index**, or **chi-square** .
+- The basic algorithm used in decision trees is known as the **ID3** (by Quinlan) algorithm. The ID3 algorithm builds decision trees using a **top-down, greedy approach**.
+- The steps of the ID3 algorithm are :
+  - Begin the tree with the root node, which contains the complete dataset.
+  - Find the best attribute in the dataset using ASM.
+  - Divide the dataset into subsets that contain possible values for the best attribute.
+  - Make a branch for each subset and label it with the attribute value.
+  - For each branch, repeat the above steps recursively until one of the following conditions is met:
+    - All the instances in the subset belong to the same class (pure node).
+    - There are no more attributes to split on (no information gain).
+    - There are no more instances in the subset (empty node).
+- The advantages of decision trees are :
+  - They are easy to understand and interpret.
+  - They can handle both numerical and categorical data.
+  - They can deal with missing values and outliers.
+  - They are robust to noise and overfitting.
+- The disadvantages of decision trees are :
+  - They can be unstable and sensitive to small changes in the data.
+  - They can be prone to overfitting and underfitting if not pruned properly.
+  - They can be biased towards features with more levels or values.
+  - They can have a high computational cost for large and complex datasets.

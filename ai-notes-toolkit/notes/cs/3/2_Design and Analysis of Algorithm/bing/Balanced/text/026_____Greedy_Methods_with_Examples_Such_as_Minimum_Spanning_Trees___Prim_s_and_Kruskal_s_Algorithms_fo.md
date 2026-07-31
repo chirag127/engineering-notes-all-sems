@@ -1,0 +1,26 @@
+### Greedy Methods with Examples Such as Minimum Spanning Trees – Prim’s and Kruskal’s Algorithms
+
+- Greedy methods are a class of algorithms that make locally optimal choices at each step, hoping to find a global optimum.
+- Greedy methods are often simple, fast and easy to implement, but they may not always yield the best solution.
+- Greedy methods are suitable for problems that have the following properties:
+  - Optimal substructure: An optimal solution to the problem contains optimal solutions to the subproblems.
+  - Greedy choice property: A locally optimal choice is also globally optimal, and can be made without considering the subproblems.
+- Some examples of problems that can be solved by greedy methods are:
+  - Minimum spanning tree: A spanning tree of a connected, undirected and weighted graph is a subgraph that connects all the vertices and has the minimum total weight. A minimum spanning tree can be found by two greedy algorithms: Prim's and Kruskal's.
+    - Prim's algorithm: Start with an arbitrary vertex and add the edge with the minimum weight that connects it to another vertex in the graph. Repeat this process until all the vertices are included in the tree.
+    - Kruskal's algorithm: Sort all the edges in the graph by their weights in ascending order. Pick the edge with the lowest weight and add it to the tree if it does not create a cycle. Repeat this process until the tree has n-1 edges, where n is the number of vertices in the graph.
+  - Optimal reliability allocation: Given a system with n components, each with a reliability ri and a cost ci, find the optimal allocation of a budget B to improve the reliability of the components, such that the overall reliability of the system is maximized. A possible greedy algorithm is:
+    - Initialize the allocation vector x = [0, 0, ..., 0].
+    - Calculate the marginal reliability gain per unit cost for each component i as gi = (1 - ri) / ci.
+    - Sort the components by their gi values in descending order.
+    - For each component i in the sorted order, allocate as much budget as possible to it, such that xi <= B and ri + xi <= 1. Update B = B - xi and ri = ri + xi.
+    - Return the allocation vector x and the overall reliability R = prod(ri) for i = 1 to n.
+  - Knapsack problem: Given a set of n items, each with a weight wi and a value vi, and a knapsack with a capacity W, find the maximum value that can be obtained by putting some or all of the items in the knapsack, without exceeding the capacity. A possible greedy algorithm is:
+    - Calculate the value per unit weight for each item i as pi = vi / wi.
+    - Sort the items by their pi values in descending order.
+    - Initialize the value V = 0 and the weight W = 0.
+    - For each item i in the sorted order, if W + wi <= W, then add the item to the knapsack, update V = V + vi and W = W + wi.
+    - Return the value V and the subset of items in the knapsack.
+  - Single source shortest paths: Given a weighted, directed graph G = (V, E) and a source vertex s, find the shortest path from s to every other vertex in the graph. Two greedy algorithms that can solve this problem are:
+    - Dijkstra's algorithm: Maintain a set S of vertices whose shortest distance from s is known, and a priority queue Q of vertices whose distance is to be determined, ordered by their distance estimates. Initially, S is empty and Q contains all the vertices, with d(s) = 0 and d(v) = infinity for all v != s. At each step, extract the vertex u with the minimum distance estimate from Q, add it to S, and relax all the edges (u, v) in E, i.e., update d(v) = min(d(v), d(u) + w(u, v)) and Q accordingly. Repeat this process until Q is empty or the destination vertex is reached.
+    - Bellman-Ford algorithm: Initialize the distance vector d = [0, infinity, ..., infinity], where d(v) is the distance estimate from s to v. Repeat the following for n-1 times, where n is the number of vertices in the graph: for each edge (u, v) in E, relax the edge, i.e., update d(v) = min(d(v), d(u) + w(u, v)). Optionally, check for negative cycles by relaxing the edges one more time and reporting if any distance estimate decreases.

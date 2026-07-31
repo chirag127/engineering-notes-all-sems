@@ -1,0 +1,61 @@
+# Unit 2 - Elements of HTML
+
+### HTML Tags
+
+- HTML stands for HyperText Markup Language.
+- HTML is used to create the structure and content of a webpage.
+- HTML tags are used to mark up the content of a webpage and define its structure.
+- HTML tags are enclosed in angle brackets, for example `<tagname>`.
+- HTML tags usually come in pairs, with an opening tag and a closing tag, for example `<p>` and `</p>`.
+- The opening tag marks the start of an element, while the closing tag marks the end of the element.
+- The content of the element is placed between the opening and closing tags.
+- Some common HTML tags include:
+  - `<html>`: Defines the root of an HTML document.
+  - `<head>`: Contains metadata and information about the document.
+  - `<body>`: Contains the main content of the document.
+  - `<h1>` to `<h6>`: Defines headings of different levels.
+  - `<p>`: Defines a paragraph.
+  - `<a>`: Defines a hyperlink.
+  - `<img>`: Defines an image.
+  - `<ul>` and `<ol>`: Define unordered and ordered lists, respectively.
+  - `<li>`: Defines a list item.
+  - `<table>`: Defines a table.
+  - `<tr>`: Defines a table row.
+  - `<th>`: Defines a table header cell.
+  - `<td>`: Defines a table data cell.
+  - `<form>`: Defines a form for user input.
+  - `<input>`: Defines an input field where the user can enter data.
+  - `<label>`: Defines a label for an input element.
+  - `<select>`: Defines a drop-down list.
+  - `<option>`: Defines an option in a drop-down list.
+  - `<textarea>`: Defines a multi-line input field.
+  - `<button>`: Defines a clickable button.
+- HTML tags are not case-sensitive, but it is a good practice to write them in lowercase.
+- HTML tags can have attributes, which provide additional information about the element.
+- Attributes are written inside the opening tag, after the tag name.
+- Attributes consist of a name and a value, separated by an equals sign, for example `attribute="value"`.
+- Some common attributes include:
+  - `class`: Specifies one or more class names for an element.
+  - `id`: Specifies a unique id for an element.
+  - `style`: Specifies inline CSS styles for an element.
+  - `src`: Specifies the source URL of an embedded content, such as an image or a video.
+  - `href`: Specifies the URL of the page the link goes to.
+  - `alt`: Specifies alternative text for an image, to be displayed if the image cannot be loaded.
+  - `width` and `height`: Specifies the width and height of an element, such as an image or a table cell.
+  - `colspan` and `rowspan`: Specifies the number of columns or rows a cell should span in a table.
+  - `disabled`: Specifies that an input element should be disabled.
+  - `placeholder`: Specifies a short hint that describes the expected value of an input element.
+  - `value`: Specifies the initial value of an input element.
+  - `name`: Specifies the name of an input element, used to identify the element when submitting a form.
+  - `method`: Specifies the HTTP method to use when submitting a form.
+  - `action`: Specifies the URL of the page that will process the form data when the form is submitted.
+- HTML also supports self-closing tags, which do not require a closing tag. Self-closing tags are written with a forward slash before the closing angle bracket, for example `<tagname />`.
+- Some common self-closing tags include:
+  - `<br />`: Inserts a line break.
+  - `<hr />`: Inserts a horizontal rule.
+  - `<img />`: Defines an image.
+  - `<input />`: Defines an input field.
+  - `<link />`: Defines a link to an external resource, such as a stylesheet.
+  - `<meta />`: Defines metadata about the document.
+  - `<param />`: Defines a parameter for an object element.
+- HTML also supports comments, which are used to add notes to the code that are not displayed in the browser. Comments are written inside angle brackets, with an exclamation mark and two hyphens at the start and two hyphens at the end, for example `<!-- comment -->`.

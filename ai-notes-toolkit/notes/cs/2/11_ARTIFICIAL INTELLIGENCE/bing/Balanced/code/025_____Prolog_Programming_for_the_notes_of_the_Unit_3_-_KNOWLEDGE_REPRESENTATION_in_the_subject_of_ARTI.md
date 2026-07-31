@@ -1,0 +1,10 @@
+# Prolog Programming for the notes of the Unit 3 - KNOWLEDGE REPRESENTATION in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Knowledge representation (KR) is the process of encoding and manipulating knowledge in a form that can be used by an artificial intelligence system.
+- KR is one of the core topics in artificial intelligence, as it determines how the system can reason, learn, and interact with the world.
+- There are different paradigms and techniques of KR, such as propositional logic, first-order logic, semantic networks, frames, scripts, production rules, and nonmonotonic logic.
+- Prolog is a logic programming language that is widely used for KR and reasoning in artificial intelligence. Prolog is based on the idea of declarative programming, where the programmer specifies what the system should do, rather than how to do it.
+- Prolog programs consist of facts and rules that express the relations between entities in the domain of interest. Facts are simple statements that are true in the domain, such as `parent(alice, bob).` Rules are conditional statements that derive new facts from existing ones, such as `ancestor(X, Y) :- parent(X, Y).`
+- Prolog programs can be queried by asking questions about the domain, such as `?- ancestor(alice, charlie).` Prolog will try to find a way to prove the query by matching it with the facts and rules in the program, and will return either `true`, `false`, or a list of possible solutions.
+- Prolog supports various features that make it suitable for KR and reasoning, such as recursion, backtracking, unification, variables, lists, and built-in predicates. Prolog also allows the definition of new operators, predicates, and data types, as well as the integration of external libraries and modules.
+- Prolog is not limited to classical logic, but can also handle nonmonotonic logic, such as answer set programming (ASP). ASP is a form of logic programming that allows for multiple possible models of a program, each representing a different answer set. ASP can be used to model and solve problems that involve default reasoning, negation as failure, and preferences.

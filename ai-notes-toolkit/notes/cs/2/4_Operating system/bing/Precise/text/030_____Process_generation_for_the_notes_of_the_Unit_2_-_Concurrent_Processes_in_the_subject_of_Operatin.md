@@ -1,0 +1,13 @@
+### Process Generation
+- In an operating system, a process is an instance of a program in execution.
+- A process can create another process, which is called a child process.
+- The process that creates another process is called the parent process.
+- The creation of a new process is called process generation.
+- Process generation can be done in several ways, depending on the operating system.
+- In UNIX, the `fork()` system call is used to create a new process.
+- The `fork()` system call creates an exact copy of the calling process, with the exception of the process ID.
+- After the `fork()` system call, the parent and child processes run concurrently and independently.
+- In Windows, the `CreateProcess()` function is used to create a new process.
+- The `CreateProcess()` function takes several parameters, including the name of the executable file to run in the new process.
+- After the `CreateProcess()` function is called, the new process starts executing at its main function.
+- Process generation is an important concept in concurrent processing, as it allows multiple processes to run simultaneously and independently.

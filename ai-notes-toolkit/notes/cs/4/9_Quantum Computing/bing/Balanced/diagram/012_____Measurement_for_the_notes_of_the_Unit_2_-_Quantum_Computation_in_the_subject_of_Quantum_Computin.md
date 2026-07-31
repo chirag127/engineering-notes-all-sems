@@ -1,0 +1,22 @@
+### Measurement for the notes of the Unit 2 - Quantum Computation in the subject of Quantum Computing
+
+- Measurement is a fundamental concept in quantum mechanics, where observing a quantum system can change its state and reveal information about it.
+- Measurement-based quantum computation (MBQC) is a framework of quantum computation, where entanglement is used as a resource and local measurements on qubits are used to drive the computation .
+- MBQC can be seen as a generalization of the one-way quantum computer model, where a large entangled state, called a cluster state, is prepared and then measured in a specific order and basis to perform a desired quantum algorithm .
+- MBQC has several advantages over the standard circuit model of quantum computation, such as being more robust to noise, requiring less control and communication, and allowing for parallelism and adaptivity .
+- MBQC can also be used to implement quantum error correction, quantum cryptography, and quantum metrology .
+- The standard process of MBQC consists of three steps: entangle the qubits, measure the ancillae (auxiliary qubits) and correct the outputs .
+- The entanglement step prepares the source state of qubits, which can be a cluster state or a more general graph state, where qubits are connected by edges representing entanglement .
+- The measurement step performs local measurements on the qubits in a specific order and basis, which can be chosen adaptively depending on the previous outcomes .
+- The correction step applies classical post-processing to the measurement outcomes to obtain the final result of the computation .
+- The measurement basis can be either the computational basis (Z basis) or the Hadamard basis (X basis), or a combination of both .
+- The measurement outcomes can be either deterministic or probabilistic, depending on the choice of the measurement basis and the state of the qubits .
+- The measurement outcomes can also be either classical or quantum, depending on whether they are used for information or control purposes .
+- The measurement outcomes can be used to implement various quantum gates, such as the Pauli gates, the CNOT gate, the Toffoli gate, and the Hadamard gate .
+- The measurement outcomes can also be used to implement universal quantum computation, which means that any quantum algorithm can be performed using MBQC .
+- The measurement outcomes can also be used to implement quantum teleportation, which means that an unknown quantum state can be transferred from one qubit to another using entanglement and classical communication .
+- The measurement outcomes can also be used to implement quantum logic, which means that logical operations can be performed on quantum bits using entanglement and classical communication .
+- The measurement outcomes can also be used to implement quantum error correction, which means that errors in the quantum state can be detected and corrected using entanglement and classical communication .
+- The measurement outcomes can also be used to implement quantum cryptography, which means that secure communication can be achieved using entanglement and classical communication .
+- The measurement outcomes can also be used to implement quantum metrology, which means that physical quantities can be measured with high precision using entanglement and classical communication .
+- The measurement outcomes can also be used to implement quantum machine learning, which means that learning algorithms can be enhanced using entanglement and classical communication .

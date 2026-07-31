@@ -1,0 +1,11 @@
+#### Schedulers in Hadoop Ecosystem
+
+- Schedulers are algorithms that are used to schedule tasks in a Hadoop cluster when multiple clients submit requests for data processing.
+- Schedulers help in ensuring optimal utilization of resources and access to unused capacity in the cluster.
+- Schedulers also help in managing the priority, fairness, and resource allocation of different jobs and queues.
+- There are mainly four types of schedulers in Hadoop ecosystem:
+
+  - **FIFO (First In First Out) Scheduler**: This is the default scheduler in Hadoop. It schedules jobs in the order of their submission. It does not consider the size, complexity, or priority of the jobs. It is simple and easy to use, but it can cause starvation and low resource utilization for large or complex jobs that are submitted later.
+  - **Capacity Scheduler**: This scheduler divides the cluster resources into multiple queues, each with a predefined capacity and a maximum limit. It allocates resources to jobs based on the queue capacity and the job priority. It also supports hierarchical queues, preemption, and resource sharing. It is suitable for multi-tenant environments where different users or groups have different resource requirements and priorities.
+  - **Fair Scheduler**: This scheduler assigns resources to jobs such that each job gets a fair share of the cluster resources over time. It also supports multiple queues, each with a minimum and a maximum share of resources. It dynamically adjusts the resource allocation based on the demand and the availability of resources. It also supports preemption, weight, and pool-based scheduling. It is suitable for environments where fairness and flexibility are important.
+  - **YARN Scheduler**: This scheduler is part of the YARN framework, which is the resource management layer of Hadoop 2. It consists of two components: the Resource Manager and the Node Manager. The Resource Manager is responsible for allocating resources to applications across the cluster. The Node Manager is responsible for managing the resources and executing the tasks on each node. The YARN scheduler supports pluggable policies, such as FIFO, Capacity, and Fair schedulers. It also supports dynamic resource allocation, node labels, and reservation systems. It is suitable for environments where scalability and compatibility are important.

@@ -1,0 +1,26 @@
+# Trojans and Backdoors
+
+- A **Trojan** is a type of malware that masquerades as a legitimate program to trick the recipient into running it. Once activated, a Trojan can spy on your activities, steal sensitive data, or set up a backdoor for remote access.
+- A **Backdoor** is a malicious software program that provides unauthorized access to a computer in order to launch a remote attack. Remote attackers can use a hacked machine to send commands or gain complete control of it using a backdoor.
+- Trojans and backdoors are often used together by cyber criminals to compromise a target system and perform malicious actions. Some of the common types of Trojans and backdoors are :
+  - **Backdoor Trojan**: A backdoor Trojan enables an attacker to gain remote access to a computer and take control of it using a backdoor.
+  - **Rootkit Trojan**: A rootkit Trojan hides itself and other malware from detection by modifying the system's core processes and files.
+  - **Exploit Trojan**: An exploit Trojan exploits a known vulnerability in a software or system to deliver malware or execute arbitrary code.
+  - **Downloader Trojan**: A downloader Trojan downloads and installs additional malware on the infected system.
+  - **Dropper Trojan**: A dropper Trojan drops or installs other malware on the system, often without the user's knowledge or consent.
+  - **Ransomware Trojan**: A ransomware Trojan encrypts the user's files or locks the system and demands a ransom for decryption or unlocking.
+  - **Banking Trojan**: A banking Trojan steals the user's online banking credentials or intercepts the user's online banking transactions.
+  - **Spyware Trojan**: A spyware Trojan monitors the user's online activities, such as browsing history, keystrokes, or webcam feeds, and sends the collected data to a remote server.
+  - **Keylogger Trojan**: A keylogger Trojan records the user's keystrokes and sends them to a remote server, often to steal passwords or other sensitive information.
+  - **Zombie Trojan**: A zombie Trojan turns the infected system into a zombie or a bot that can be remotely controlled by the attacker to perform malicious tasks, such as sending spam or launching distributed denial-of-service (DDoS) attacks.
+- Trojans and backdoors pose a serious threat to the security and privacy of the users and organizations. They can cause data loss, identity theft, financial fraud, system damage, or network disruption.
+- Cyber forensics is the process of collecting, analyzing, and presenting digital evidence related to cyber crimes or incidents. Cyber forensics can help identify, investigate, and prosecute the perpetrators of Trojans and backdoors attacks.
+- Cyber forensics involves the following steps:
+  - **Preservation**: The preservation step involves securing the crime scene and preserving the digital evidence in a way that maintains its integrity and authenticity.
+  - **Acquisition**: The acquisition step involves extracting the digital evidence from the source device or media, such as hard disk, memory, or network.
+  - **Analysis**: The analysis step involves examining the digital evidence using various tools and techniques to identify the relevant information and reconstruct the events of the attack.
+  - **Presentation**: The presentation step involves preparing and presenting the digital evidence and the analysis results in a clear and concise manner to the relevant audience, such as law enforcement, court, or management.
+- Some of the challenges and issues in cyber forensics of Trojans and backdoors are:
+  - **Detection**: Detecting Trojans and backdoors can be difficult, as they often use stealth techniques to evade antivirus or firewall software.
+  - **Attribution**: Attributing Trojans and backdoors to a specific source or attacker can be challenging, as they often use proxy servers, encryption, or obfuscation to hide their identity and location.
+  - **Legal**: Legal issues can arise in cyber forensics of Trojans and backdoors, such as jurisdiction, privacy, or admissibility of digital evidence.

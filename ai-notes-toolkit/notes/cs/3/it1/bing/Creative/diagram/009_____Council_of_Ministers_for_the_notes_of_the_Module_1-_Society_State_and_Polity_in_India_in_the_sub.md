@@ -1,0 +1,41 @@
+### Council of Ministers
+
+- The Council of Ministers is the principal executive organ of the Government of India, which functions as the senior decision making body of the executive branch.
+- It is chaired by the Prime Minister and consists of the heads of each of the executive government ministries.
+- The Council of Ministers exercises executive authority in India and is responsible for implementing the policies and laws enacted by the Parliament.
+- The Council of Ministers is appointed by the President of India on the advice of the Prime Minister.
+- The Council of Ministers is collectively responsible to the Lok Sabha, the lower house of the Parliament, and can be removed by a vote of no-confidence.
+- The Council of Ministers is made up of five categories of ministers, in descending order of rank:
+  - Prime Minister: Leader of the executive of the Government of India and the chief spokesperson of the government.
+  - Deputy Prime Minister (if any): Presides as Prime Minister in his absence or as the senior most cabinet minister.
+  - Cabinet Ministers: Heads of the major ministries and members of the Cabinet, the core decision making body of the government.
+  - Ministers of State (with independent charge): Heads of the minor ministries or departments and not members of the Cabinet.
+  - Ministers of State: Junior ministers who assist the Cabinet Ministers or the Ministers of State (with independent charge) in their respective ministries or departments.
+- The current Council of Ministers was sworn in on 7 July 2021, following the reshuffle and expansion of the second Modi ministry .
+- The current Council of Ministers has 77 members, including the Prime Minister, 30 Cabinet Ministers, 45 Ministers of State, and 2 Ministers of State (with independent charge) .
+- Some of the key Cabinet Ministers and their portfolios are :
+  - Shri Narendra Modi: Prime Minister and also in-charge of Ministry of Personnel, Public Grievances and Pensions; Department of Atomic Energy; Department of Space; and All important policy issues; and All other portfolios not allocated to any Minister.
+  - Shri Raj Nath Singh: Minister of Defence.
+  - Shri Amit Shah: Minister of Home Affairs; and Minister of Cooperation.
+  - Shri Nitin Jairam Gadkari: Minister of Road Transport and Highways.
+  - Smt. Nirmala Sitharaman: Minister of Finance; and Minister of Corporate Affairs.
+  - Shri Narendra Singh Tomar: Minister of Agriculture and Farmers Welfare; Minister of Food Processing Industries; and Minister of Rural Development.
+  - Dr. Subrahmanyam Jaishankar: Minister of External Affairs.
+  - Shri Arjun Munda: Minister of Tribal Affairs.
+  - Shri Smriti Zubin Irani: Minister of Women and Child Development.
+  - Shri Piyush Goyal: Minister of Commerce and Industry; Minister of Consumer Affairs, Food and Public Distribution; and Minister of Textiles.
+  - Shri Dharmendra Pradhan: Minister of Education; and Minister of Skill Development and Entrepreneurship.
+  - Shri Pralhad Joshi: Minister of Parliamentary Affairs; Minister of Coal; and Minister of Mines.
+  - Shri Narayan Tatu Rane: Minister of Micro, Small and Medium Enterprises.
+  - Shri Sarbananda Sonowal: Minister of Ports, Shipping and Waterways; and Minister of AYUSH.
+  - Shri Mukhtar Abbas Naqvi: Minister of Minority Affairs.
+  - Shri Virendra Kumar: Minister of Social Justice and Empowerment.
+  - Shri Giriraj Singh: Minister of Rural Development; and Minister of Panchayati Raj.
+  - Shri Jyotiraditya M. Scindia: Minister of Civil Aviation.
+  - Shri Ramchandra Prasad Singh: Minister of Steel.
+  - Shri Ashwini Vaishnaw: Minister of Railways; Minister of Communications; and Minister of Electronics and Information Technology.
+  - Shri Pashu Pati Kumar Paras: Minister of Food Processing Industries.
+  - Shri Gajendra Singh Shekhawat: Minister of Jal Shakti.
+  - Shri Kiren Rijiju: Minister of Law and Justice.
+  - Shri Raj Kumar Singh: Minister of Power; and Minister of New and Renewable Energy.
+  - Shri Hardeep Singh Puri: Minister of Petroleum and Natural Gas; and Minister of Housing

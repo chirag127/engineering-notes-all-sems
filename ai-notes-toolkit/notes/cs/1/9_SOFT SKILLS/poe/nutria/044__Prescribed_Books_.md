@@ -1,0 +1,7 @@
+
+## Prescribed Books:
+- **Introduction to Algorithms** by Thomas Cormen, Charles Leiserson, Ronald Rivest, and Clifford Stein: This book provides an in-depth overview of algorithms and their applications. It covers topics such as sorting, searching, graph algorithms, and string algorithms.
+- **The Art of Computer Programming** by Donald Knuth: This book is a comprehensive guide to the fundamentals of computer programming. It covers topics such as algorithm design, data structures, sorting, and complexity analysis.
+- **Compilers: Principles, Techniques, and Tools** by Alfred Aho, Monica Lam, Ravi Sethi, and Jeffrey Ullman: This book is a comprehensive guide to the principles, techniques, and tools of compiler construction. It covers topics such as lexical analysis, syntax analysis, code generation, and optimization.
+- **Computer Networks** by Andrew Tanenbaum: This book provides an introduction to the fundamentals of computer networks. It covers topics such as network topologies, protocols, routing algorithms, and network security.
+- **Computer Organization and Architecture** by William Stallings: This book provides an introduction to the fundamentals of computer organization and architecture. It covers topics such as memory organization, instruction sets, and processor design.

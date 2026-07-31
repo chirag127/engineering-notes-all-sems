@@ -1,0 +1,17 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for programming and interfacing with microcontrollers. Here are some notes on variables and flow control for unit 1 - introduction.
+
+### Variables and flow control
+
+- A variable is a named location in memory that can store a value of a certain type, such as an integer, a character, a string, or a boolean.
+- A variable has a name (also called an identifier), a type, and a value. For example, `int x = 10;` declares a variable named `x` of type `int` and assigns it the value `10`.
+- A variable can be used in expressions, assignments, and other statements. For example, `x = x + 1;` increments the value of `x` by one and assigns it back to `x`.
+- A variable can be declared at the beginning of a function, a block, or a file. The scope of a variable is the part of the program where it can be accessed. The lifetime of a variable is the duration of the program execution where it exists in memory.
+- A flow control statement is a statement that alters the order of execution of a program based on some condition or choice. For example, `if`, `else`, `switch`, `for`, `while`, `do-while`, `break`, `continue`, and `return` are flow control statements in C.
+- An `if` statement executes a block of code if a condition is true, and optionally executes another block of code if the condition is false. For example, `if (x > 0) { printf("x is positive\n"); } else { printf("x is negative or zero\n"); }` prints a message depending on the value of `x`.
+- A `switch` statement executes a block of code that matches a value of an expression. For example, `switch (x) { case 1: printf("x is one\n"); break; case 2: printf("x is two\n"); break; default: printf("x is something else\n"); }` prints a message depending on the value of `x`.
+- A `for` statement executes a block of code repeatedly with a loop variable that changes in each iteration. For example, `for (int i = 0; i < 10; i++) { printf("%d\n", i); }` prints the numbers from 0 to 9.
+- A `while` statement executes a block of code repeatedly as long as a condition is true. For example, `while (x > 0) { printf("%d\n", x); x--; }` prints the value of `x` and decrements it until it becomes zero or negative.
+- A `do-while` statement executes a block of code repeatedly and checks a condition at the end of each iteration. For example, `do { printf("Enter a positive number: "); scanf("%d", &x); } while (x <= 0);` prompts the user to enter a positive number and repeats until the user does so.
+- A `break` statement exits a loop or a switch statement immediately. For example, `for (int i = 0; i < 10; i++) { if (i == 5) { break; } printf("%d\n", i); }` prints the numbers from 0 to 4 and stops the loop when i becomes 5.
+- A `continue` statement skips the rest of the current iteration of a loop and continues with the next one. For example, `for (int i = 0; i < 10; i++) { if (i % 2 == 0) { continue; } printf("%d\n", i); }` prints the odd numbers from 0 to 9 and skips the even ones.
+- A `return` statement exits a function and returns a value to the caller. For example, `int add(int a, int b) { return a + b; }` defines a function that returns the sum of two integers.

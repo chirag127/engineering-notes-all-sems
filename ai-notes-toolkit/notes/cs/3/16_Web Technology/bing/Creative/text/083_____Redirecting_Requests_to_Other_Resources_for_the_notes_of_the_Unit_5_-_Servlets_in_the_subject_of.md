@@ -1,0 +1,24 @@
+### Redirecting Requests to Other Resources
+
+- Redirecting requests to other resources is a technique where the client is sent to a new location other than the requested one.
+- This can be useful when a document moves to a new location, when load balancing is needed, or when access control is required.
+- There are two main ways to redirect requests to other resources in servlets: **sendRedirect()** and **forward()** methods.
+- **sendRedirect()** method:
+  - It is defined in the **HttpServletResponse** interface.
+  - It takes a **String** parameter that specifies the new URL to redirect to.
+  - It sends a **302** status code and a **Location** header to the client, instructing it to make a new request to the new URL.
+  - It can redirect to any resource, inside or outside the server.
+  - It can accept a relative or an absolute URL.
+  - It does not preserve the original request and response objects, and creates new ones for the new request.
+  - It is visible to the client, as the browser address bar changes to the new URL.
+  - It is slower than forward(), as it involves two round trips between the client and the server.
+  - Syntax: `response.sendRedirect("newURL");`
+- **forward()** method:
+  - It is defined in the **RequestDispatcher** interface.
+  - It takes a **ServletRequest** and a **ServletResponse** as parameters, and passes them to the new resource.
+  - It does not send any status code or header to the client, and keeps the original request and response objects intact.
+  - It can only redirect to a resource within the same web application.
+  - It can accept a relative URL only, and it must start with a slash (/).
+  - It is invisible to the client, as the browser address bar does not change.
+  - It is faster than sendRedirect(), as it involves only one round trip between the client and the server.
+  - Syntax: `RequestDispatcher rd = request.getRequestDispatcher("newURL"); rd.forward(request, response);`

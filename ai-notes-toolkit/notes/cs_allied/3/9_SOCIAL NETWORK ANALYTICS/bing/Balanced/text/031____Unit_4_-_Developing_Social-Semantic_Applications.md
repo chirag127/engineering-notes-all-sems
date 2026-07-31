@@ -1,0 +1,22 @@
+## Unit 4 - Developing Social-Semantic Applications
+
+- Social-semantic applications are applications that combine social media and semantic web technologies to provide users with rich and personalized experiences.
+- Social media refers to the platforms and services that enable users to create, share, and consume user-generated content, such as blogs, wikis, social networks, microblogs, etc.
+- Semantic web refers to the vision and technologies that aim to make the web more understandable and interoperable for machines, such as RDF, OWL, SPARQL, etc.
+- Social-semantic applications can benefit from both the social and the semantic aspects of the web, such as:
+  - Leveraging the collective intelligence and wisdom of the crowds to create and enrich semantic data.
+  - Enhancing the social interactions and recommendations with semantic annotations and reasoning.
+  - Providing users with more control and ownership over their data and preferences.
+  - Enabling cross-platform and cross-domain integration and interoperability of data and services.
+- Developing social-semantic applications requires a combination of skills and tools, such as:
+  - Understanding the user needs and scenarios for the application domain.
+  - Designing the data model and ontology for the application domain.
+  - Implementing the data acquisition and integration methods for the application domain.
+  - Developing the user interface and interaction methods for the application domain.
+  - Evaluating the usability and effectiveness of the application.
+- Some examples of social-semantic applications are:
+  - DBpedia, a community effort to extract structured data from Wikipedia and make it available as Linked Data.
+  - FOAF, a project to create a web of machine-readable personal profiles and social networks.
+  - SIOC, a project to interlink online communities and user-generated content using semantic web standards.
+  - Revyu, a service that allows users to rate and review anything using RDF and SPARQL.
+  - Twine, a service that helps users organize, share, and discover information using semantic web technologies.

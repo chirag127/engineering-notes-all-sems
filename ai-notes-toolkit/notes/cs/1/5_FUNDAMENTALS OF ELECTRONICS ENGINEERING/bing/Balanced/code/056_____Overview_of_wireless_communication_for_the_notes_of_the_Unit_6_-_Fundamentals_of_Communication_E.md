@@ -1,0 +1,11 @@
+### Overview of wireless communication
+
+- Wireless communication is the transfer of information (telecommunication) between two or more points without the use of an electrical conductor, optical fiber or other continuous guided medium for the transfer .
+- Wireless communication generally works through electromagnetic signals that are broadcast by an enabled device within the air, physical environment or atmosphere . The sending device can be a sender or an intermediate device with the ability to propagate wireless signals.
+- Wireless communication can be classified into different types based on the frequency, range, modulation, multiplexing, and access methods of the signals. Some of the common types are:
+  - Radio frequency (RF) communication: This uses radio waves to transmit information over a distance. The frequency range of RF communication is from 3 kHz to 300 GHz. Examples of RF communication are AM/FM radio, TV, cellular phones, Wi-Fi, Bluetooth, etc.
+  - Infrared (IR) communication: This uses infrared light to transmit information over a short distance. The frequency range of IR communication is from 300 GHz to 400 THz. Examples of IR communication are remote controls, IR headphones, IR data transfer, etc.
+  - Optical communication: This uses visible light or near-visible light to transmit information over a distance. The frequency range of optical communication is from 400 THz to 800 THz. Examples of optical communication are fiber optics, laser communication, visible light communication, etc.
+  - Microwave communication: This uses microwaves to transmit information over a distance. The frequency range of microwave communication is from 300 MHz to 300 GHz. Examples of microwave communication are satellite communication, radar, microwave ovens, etc.
+  - Ultrasonic communication: This uses ultrasonic waves to transmit information over a short distance. The frequency range of ultrasonic communication is from 20 kHz to 20 MHz. Examples of ultrasonic communication are sonar, medical imaging, wireless charging, etc.
+- Wireless communication has many advantages over wired communication, such as mobility, flexibility, scalability, cost-effectiveness, and reliability. However, wireless communication also faces some challenges, such as interference, security, power consumption, and bandwidth limitations.

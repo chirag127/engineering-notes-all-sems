@@ -1,0 +1,25 @@
+### Parallel Virtual Machine (PVM) for the notes of the Unit 4 - Beowulf Cluster in the subject of High Performance Computing
+
+- PVM (Parallel Virtual Machine) is a software package that enables the computer user to define a networked heterogeneous collection of serial, parallel, and vector computers to function as one large computer.
+- PVM can be used as stand-alone software or as a foundation for other heterogeneous network software.
+- PVM provides a set of library functions that allow the user to write parallel programs in C, C++, or Fortran.
+- PVM library functions include:
+  - pvm_mytid: returns the task identifier of the calling process
+  - pvm_spawn: creates new PVM tasks on specified hosts
+  - pvm_send: sends a message to a specified destination
+  - pvm_recv: receives a message from a specified source
+  - pvm_psend: sends a message with a specified packing style
+  - pvm_precv: receives a message with a specified packing style
+  - pvm_barrier: synchronizes a group of tasks at a specified point
+  - pvm_reduce: performs a global reduction operation on a group of tasks
+  - pvm_bcast: broadcasts a message to a group of tasks
+  - pvm_exit: terminates the PVM session of the calling process
+- PVM can be used on a Beowulf cluster, which is a computer cluster of what are normally identical, commodity-grade computers networked into a small local area network with libraries and programs installed which allow processing to be shared among them  .
+- A Beowulf cluster can function like a single massively parallel computer, with a parallel programming API like MPI or PVM.
+- A Beowulf cluster can provide high-performance parallel computing from inexpensive personal computer hardware  .
+- A Beowulf cluster typically consists of:
+  - A master node, which acts as the head of the cluster and controls the communication and scheduling of the other nodes
+  - A number of compute nodes, which perform the actual computation and communicate with the master node and each other
+  - A network switch or hub, which connects the nodes and allows data transfer
+  - A network file system, which provides a common file space for the nodes
+  - A parallel programming environment, such as PVM or MPI, which provides the interface for writing and running parallel programs on the cluster

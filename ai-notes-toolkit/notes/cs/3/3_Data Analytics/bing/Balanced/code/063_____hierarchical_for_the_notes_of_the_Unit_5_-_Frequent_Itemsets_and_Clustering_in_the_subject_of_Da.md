@@ -1,0 +1,22 @@
+### Hierarchical Clustering
+
+- Hierarchical clustering is a method of cluster analysis in data mining that creates a hierarchical representation of the clusters in a dataset .
+- Cluster analysis is the process of finding groups of similar or related objects in a dataset, such that the objects within a group are more similar to each other than to those in other groups.
+- Hierarchical clustering can be divided into two types: agglomerative and divisive.
+  - Agglomerative hierarchical clustering starts with each data point as a separate cluster and then iteratively merges the closest clusters until a stopping criterion is reached .
+  - Divisive hierarchical clustering starts with the whole dataset as a single cluster and then iteratively splits the cluster into smaller clusters until a stopping criterion is reached.
+- The stopping criterion can be based on the number of clusters, the distance between clusters, or the quality of the clusters.
+- The distance between clusters can be measured by different methods, such as single linkage, complete linkage, average linkage, centroid linkage, or Ward's method.
+- The quality of the clusters can be evaluated by different criteria, such as compactness, separation, silhouette coefficient, or Dunn index.
+- The result of hierarchical clustering can be visualized by a dendrogram, which is a tree-like diagram that shows the nested structure of the clusters and the order of the merges or splits .
+- Hierarchical clustering has some advantages and disadvantages over other clustering methods .
+  - Advantages:
+    - It does not require specifying the number of clusters in advance.
+    - It can capture the hierarchical structure of the data.
+    - It can handle different types and shapes of clusters.
+    - It is easy to interpret and visualize.
+  - Disadvantages:
+    - It can be sensitive to noise and outliers.
+    - It can be computationally expensive and memory intensive.
+    - It can produce different results depending on the choice of distance measure and linkage method.
+    - It cannot undo the previous merges or splits.

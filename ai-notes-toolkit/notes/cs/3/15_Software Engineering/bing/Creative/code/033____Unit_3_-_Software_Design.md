@@ -1,0 +1,29 @@
+## Unit 3 - Software Design
+
+- Software design is the process of defining the architecture, components, interfaces, and other characteristics of a software system.
+- Software design is based on the requirements specification, which describes what the system should do, not how it should do it.
+- Software design aims to achieve the following goals:
+  - Functionality: the system should provide the required functions and features for the users and stakeholders.
+  - Quality: the system should meet the quality attributes, such as reliability, performance, security, usability, etc.
+  - Maintainability: the system should be easy to modify, extend, test, and debug.
+  - Reusability: the system should reuse existing components or libraries, or allow its components to be reused by other systems.
+  - Feasibility: the system should be feasible to implement, deploy, and operate within the given constraints, such as budget, time, resources, etc.
+- Software design can be performed at different levels of abstraction, such as:
+  - Architectural design: the high-level structure and organization of the system, including the main components, their interactions, and their distribution.
+  - Component design: the internal structure and behavior of each component, including the data structures, algorithms, and interfaces.
+  - Interface design: the specification of the inputs and outputs of each component, including the data types, formats, protocols, and error handling.
+  - Database design: the logical and physical structure of the data stored and manipulated by the system, including the schema, tables, indexes, queries, etc.
+  - User interface design: the layout and appearance of the user interface, including the screens, menus, buttons, dialogs, etc.
+- Software design can follow different approaches, such as:
+  - Top-down design: the system is designed from the general to the specific, starting from the overall architecture and decomposing it into smaller components.
+  - Bottom-up design: the system is designed from the specific to the general, starting from the individual components and integrating them into larger components and the overall architecture.
+  - Iterative design: the system is designed incrementally, by adding or modifying features and components in each iteration, based on feedback and evaluation.
+  - Object-oriented design: the system is designed using the concepts of object-oriented programming, such as classes, objects, inheritance, polymorphism, etc.
+  - Functional design: the system is designed using the concepts of functional programming, such as functions, data immutability, recursion, etc.
+  - Modular design: the system is designed using the principles of modularity, such as cohesion, coupling, encapsulation, abstraction, etc.
+- Software design can use different tools and techniques, such as:
+  - Design patterns: reusable solutions to common design problems, such as creational, structural, behavioral, and concurrency patterns.
+  - Design principles: general guidelines and best practices for good design, such as SOLID, GRASP, DRY, etc.
+  - Design methods: systematic and formal ways of designing software, such as structured design, object-oriented analysis and design, agile methods, etc.
+  - Design models: graphical or textual representations of the design, such as UML diagrams, ER diagrams, flowcharts, pseudocode, etc.
+  - Design tools: software applications that support the design process, such as IDEs, editors, compilers, debuggers, etc.

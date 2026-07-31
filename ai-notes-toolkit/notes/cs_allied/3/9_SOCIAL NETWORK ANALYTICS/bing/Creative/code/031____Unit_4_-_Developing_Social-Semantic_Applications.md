@@ -1,0 +1,29 @@
+## Unit 4 - Developing Social-Semantic Applications
+
+- Social-semantic applications are applications that combine social media and semantic web technologies to provide users with rich and personalized experiences.
+- Social media refers to the platforms and tools that enable users to create, share, and consume user-generated content, such as blogs, wikis, social networks, microblogs, etc.
+- Semantic web refers to the vision and technologies that aim to make the web more understandable and interoperable for machines, such as RDF, OWL, SPARQL, etc.
+- Social-semantic applications can leverage the benefits of both social media and semantic web, such as:
+  - Harnessing the collective intelligence and wisdom of the crowds
+  - Enriching the content with metadata and ontologies
+  - Providing semantic search and recommendation services
+  - Enhancing the user experience with personalization and adaptation
+  - Supporting interoperability and integration across different platforms and domains
+- Some examples of social-semantic applications are:
+  - DBpedia, which extracts structured data from Wikipedia and makes it available as Linked Data
+  - SIOC, which provides a common vocabulary and framework for describing social media data
+  - FOAF, which defines a standard way of describing people and their social networks
+  - Twine, which is a social bookmarking and knowledge management service that uses semantic web technologies
+  - Magpie, which is a browser extension that automatically annotates web pages with relevant concepts and links
+- Developing social-semantic applications involves the following steps:
+  - Identifying the user needs and requirements
+  - Choosing the appropriate social media and semantic web technologies
+  - Designing the data model and the user interface
+  - Implementing the application logic and the semantic services
+  - Evaluating the application performance and usability
+- Developing social-semantic applications also poses some challenges, such as:
+  - Dealing with the heterogeneity and complexity of the data sources
+  - Ensuring the quality and trustworthiness of the data and the annotations
+  - Balancing the trade-offs between expressivity and scalability
+  - Respecting the privacy and security of the users and the data
+  - Encouraging the user participation and engagement

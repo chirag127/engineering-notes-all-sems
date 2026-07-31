@@ -1,0 +1,23 @@
+### Powering Wireless SHM Sensor Nodes through Energy Harvesting
+
+- Wireless sensor nodes (WSNs) are devices that can sense, process, and communicate data wirelessly.
+- Structural health monitoring (SHM) is an application of WSNs that aims to detect and assess the damage or degradation of structures such as bridges, buildings, pipelines, etc.
+- One of the main challenges of WSNs for SHM is the power supply, as batteries have limited lifetime and may be difficult or costly to replace.
+- Energy harvesting is a technique that can provide power to WSNs by converting ambient energy sources such as solar, thermal, vibration, wind, etc. into electrical energy.
+- Energy harvesting can enable WSNs for SHM to operate autonomously and indefinitely, without the need for batteries or external power sources.
+- Some of the advantages of energy harvesting for WSNs for SHM are:
+  - Reduced maintenance cost and environmental impact of batteries.
+  - Increased reliability and availability of the sensor network.
+  - Enhanced scalability and flexibility of the sensor network.
+  - Improved performance and functionality of the sensor network.
+- Some of the challenges of energy harvesting for WSNs for SHM are:
+  - The variability and unpredictability of the ambient energy sources.
+  - The mismatch between the energy supply and demand of the sensor node.
+  - The trade-off between the size, weight, and efficiency of the energy harvesting device.
+  - The integration and compatibility of the energy harvesting device with the sensor node and the structure.
+- Some of the examples of energy harvesting techniques for WSNs for SHM are:
+  - Solar energy harvesting, which uses photovoltaic cells to convert sunlight into electricity.
+  - Thermal energy harvesting, which uses thermoelectric generators to convert temperature gradients into electricity.
+  - Vibration energy harvesting, which uses piezoelectric, electromagnetic, or electrostatic transducers to convert mechanical vibrations into electricity.
+  - Wind energy harvesting, which uses micro-turbines or flapping wings to convert air flow into electricity.
+  - Microwave energy harvesting, which uses rectennas to convert microwave signals into electricity    .

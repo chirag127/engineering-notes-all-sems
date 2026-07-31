@@ -1,0 +1,9 @@
+### Random number generation
+
+- Random number generation is a process by which, a sequence of numbers or symbols that cannot be reasonably predicted better than by a random chance, is generated.
+- Random numbers are essential for cryptography, as they are used for various purposes such as generating keys, challenges, nonces, padding bits, and initialization vectors.
+- There are two main types of random number generators: true random number generators (TRNGs) and pseudo-random number generators (PRNGs).
+- TRNGs are based on physical phenomena that are inherently unpredictable, such as quantum events, thermal noise, or radioactive decay. TRNGs produce sequences of numbers that are statistically random and independent of each other.
+- PRNGs are deterministic algorithms that produce sequences of numbers that appear random, but are actually computed from an initial seed value. PRNGs are faster and easier to implement than TRNGs, but they have some drawbacks, such as periodicity, predictability, and correlation.
+- A cryptographically secure random number generator (CSPRNG) is a PRNG that satisfies two properties: unpredictability and indistinguishability. Unpredictability means that an attacker cannot guess the next output of the generator, even if they know the algorithm and the previous outputs. Indistinguishability means that the output of the generator cannot be distinguished from a truly random sequence, even by a computationally unbounded adversary.
+- Some examples of CSPRNGs are the Blum-Blum-Shub algorithm, the Yarrow algorithm, and the Fortuna algorithm. These algorithms use various techniques, such as modular arithmetic, hash functions, and entropy sources, to generate random numbers that are secure for cryptographic applications.

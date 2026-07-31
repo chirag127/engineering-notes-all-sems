@@ -1,0 +1,17 @@
+### Grammar rules for English for the notes of the Unit 2 - SYNTACTIC ANALYSIS in the subject of NATURAL LANGUAGE PROCESSING
+
+- Grammar rules are the conventions that govern how words and phrases are arranged to form sentences in a language.
+- Syntactic analysis is the process of identifying the structure and meaning of sentences based on grammar rules.
+- There are different types of grammar rules for English, such as:
+  - **Morphological rules**: These rules determine how words are formed from smaller units called morphemes, such as prefixes, suffixes, and roots. For example, the word "unhappy" is formed by adding the prefix "un-" to the root "happy".
+  - **Phonological rules**: These rules determine how sounds are pronounced and combined in a language. For example, the sound /t/ is pronounced differently in "top" and "stop".
+  - **Lexical rules**: These rules determine the meaning and category of words in a language. For example, the word "book" can be a noun or a verb depending on the context.
+  - **Syntactic rules**: These rules determine how words are grouped and ordered to form phrases and clauses in a language. For example, the word order in English is usually subject-verb-object (SVO), such as "She reads a book".
+  - **Semantic rules**: These rules determine the meaning and relation of phrases and clauses in a language. For example, the phrase "a red apple" means an apple that is red, not a red that is apple.
+  - **Pragmatic rules**: These rules determine the use and interpretation of language in different situations and contexts. For example, the sentence "Can you pass the salt?" can be a request or a question depending on the tone and intention of the speaker.
+- Syntactic analysis can be performed at different levels of granularity, such as:
+  - **Word level**: This level focuses on the morphological and lexical properties of words, such as their spelling, pronunciation, meaning, and part of speech. For example, the word "running" can be a verb, a noun, or an adjective depending on the context.
+  - **Phrase level**: This level focuses on the syntactic and semantic properties of phrases, such as their structure, function, and meaning. For example, the phrase "the old man" is a noun phrase that consists of a determiner, an adjective, and a noun, and it acts as the subject of a sentence.
+  - **Clause level**: This level focuses on the syntactic and semantic properties of clauses, such as their structure, type, and meaning. For example, the clause "He saw her" is a declarative clause that consists of a subject, a verb, and an object, and it expresses a fact.
+  - **Sentence level**: This level focuses on the syntactic and semantic properties of sentences, such as their structure, coherence, and meaning. For example, the sentence "He saw her and she smiled" is a compound sentence that consists of two independent clauses joined by a conjunction, and it expresses a sequence of events.
+  - **Discourse level**: This level focuses on the pragmatic and rhetorical properties of sentences, such as their use, purpose, and effect. For example, the sentence "He saw her and she smiled" can be used to convey different messages depending on the context, such as happiness, surprise, or sarcasm.

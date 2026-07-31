@@ -1,0 +1,14 @@
+# System models for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+System models are abstract representations of the properties and behaviors of distributed systems. They help to understand, design, and analyze distributed systems by simplifying the complexity and highlighting the essential aspects. System models can be classified into three types:
+
+- **Architectural models**: describe the structure and organization of the components of a distributed system and their interactions. Architectural models can be further divided into subtypes based on the roles and responsibilities of the components, such as client-server, peer-to-peer, broker, publish-subscribe, etc.
+- **Interaction models**: describe the communication and coordination mechanisms among the components of a distributed system. Interaction models can be further divided into subtypes based on the timing, ordering, and reliability of the messages, such as synchronous, asynchronous, causal, total, FIFO, etc.
+- **Fault models**: describe the types and effects of failures that can occur in a distributed system and the assumptions and guarantees that can be made about them. Fault models can be further divided into subtypes based on the nature and severity of the failures, such as crash, omission, timing, response, Byzantine, etc.
+
+Agreement protocols are algorithms that allow the components of a distributed system to reach a common decision or consensus on some value or action, despite the presence of faults and uncertainties. Agreement protocols are essential for ensuring the consistency, availability, and fault-tolerance of distributed systems. Some examples of agreement protocols are:
+
+- **Leader election**: a protocol that allows the components of a distributed system to elect a single component as the leader or coordinator for some task or function. Leader election protocols can be based on different criteria, such as identifiers, priorities, randomization, etc.
+- **Atomic commit**: a protocol that allows the components of a distributed system to agree on whether to commit or abort a transaction that involves multiple resources or databases. Atomic commit protocols can be based on different techniques, such as two-phase commit, three-phase commit, Paxos commit, etc.
+- **Consensus**: a protocol that allows the components of a distributed system to agree on a single value that is proposed by one or more components. Consensus protocols can be based on different assumptions, such as synchrony, asynchrony, partial synchrony, failure detectors, etc.
+- **Byzantine agreement**: a protocol that allows the components of a distributed system to agree on a single value that is proposed by one or more components, even if some of the components are faulty or malicious. Byzantine agreement protocols can be based on different techniques, such as digital signatures, cryptography, quorums, etc.

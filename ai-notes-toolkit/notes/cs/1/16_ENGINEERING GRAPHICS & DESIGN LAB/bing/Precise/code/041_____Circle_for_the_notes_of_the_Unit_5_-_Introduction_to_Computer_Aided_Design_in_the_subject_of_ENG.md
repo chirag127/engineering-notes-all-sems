@@ -1,0 +1,21 @@
+### Circle
+- A circle is a simple closed shape in Euclidean geometry.
+- It is the set of all points in a plane that are at a given distance from a given point, the center.
+- The distance between any of the points and the center is called the radius.
+- A circle is a simple curve that divides the plane into two regions: an interior and an exterior.
+- In everyday use, the term "circle" may be used interchangeably to refer to either the boundary of the figure or to the whole figure including its interior.
+- A circle can be defined as the curve traced out by a point that moves in a plane so that its distance from a given point is constant.
+- The equation of a circle with center (a, b) and radius r is (x-a)^2 + (y-b)^2 = r^2.
+- A circle can also be defined as the locus of all points that satisfy the equation x^2 + y^2 = r^2, where r is the radius of the circle and the center is at the origin.
+- A circle is a special case of an ellipse, with both foci coinciding with the center of the circle.
+- A circle is also a special case of a cycloid, with the radius of the rolling circle equal to the radius of the circle being traced.
+- The circumference of a circle is the length of the boundary of the circle, and is given by the formula C = 2πr, where r is the radius of the circle.
+- The area of a circle is the measure of the region enclosed by the circle, and is given by the formula A = πr^2, where r is the radius of the circle.
+- A chord of a circle is a straight line segment whose endpoints both lie on the circle.
+- A diameter of a circle is a chord that passes through the center of the circle. It is the longest chord of the circle and is twice the length of the radius.
+- A tangent to a circle is a straight line that touches the circle at exactly one point, called the point of tangency.
+- A secant of a circle is a straight line that intersects the circle at two points.
+- An arc of a circle is a continuous section of the circle.
+- A sector of a circle is the region bounded by two radii of the circle and their intercepted arc.
+- A segment of a circle is the region bounded by a chord of the circle and the arc it intercepts.
+- A circle can be inscribed in a polygon if all the sides of the polygon are tangent to the circle. A circle can be circumscribed about a polygon if all the vertices of the polygon lie on the circle.

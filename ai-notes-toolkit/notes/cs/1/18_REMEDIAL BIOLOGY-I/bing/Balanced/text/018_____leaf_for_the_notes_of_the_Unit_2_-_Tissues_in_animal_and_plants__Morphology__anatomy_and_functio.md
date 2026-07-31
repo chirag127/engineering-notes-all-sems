@@ -1,0 +1,35 @@
+### Leaf
+
+- A leaf is a thin, flat organ of the plant that is mainly responsible for photosynthesis and transpiration.
+- A leaf develops laterally at the node of the stem and originates from the shoot apical meristem.
+- A leaf has three main parts: the blade, the petiole, and the stipules.
+- The blade is the broad, flat part of the leaf that contains the veins and the mesophyll tissue.
+- The petiole is the stalk that connects the blade to the stem.
+- The stipules are small, leaf-like structures that are present at the base of the petiole in some plants.
+- The morphology of the leaf can vary depending on the plant species, the environment, and the function.
+- Some common types of leaf morphology are simple, compound, pinnate, palmate, lobed, serrated, and needle-like.
+- Some leaf morphologies, such as folded leaves, the presence of pubescence, trichomes, and wax layers, play an explicit role in the removal of pollutants and favor the accumulation of particulate matter.
+- The main function of a leaf is to produce food for the plant by photosynthesis.
+- Photosynthesis is the process of converting light energy into chemical energy that can be used by the plant.
+- Chlorophyll, the substance that gives plants their characteristic green color, absorbs light energy and transfers it to the reaction centers in the chloroplasts.
+- The chloroplasts are the organelles that contain the thylakoid membranes, where the light-dependent reactions of photosynthesis take place.
+- The light-dependent reactions produce ATP and NADPH, which are used in the light-independent reactions (also known as the Calvin cycle) in the stroma of the chloroplasts.
+- The light-independent reactions use CO2 and water to synthesize glucose and other organic molecules that can be stored or used by the plant.
+- The internal structure of the leaf is protected by the leaf epidermis, which is continuous with the stem epidermis.
+- The leaf epidermis consists of a single layer of cells that are covered by a cuticle, a waxy layer that prevents water loss and protects the leaf from pathogens and herbivores.
+- The leaf epidermis also contains stomata, which are pores that allow gas exchange and transpiration.
+- Transpiration is the process of water loss from the leaf surface due to evaporation.
+- Transpiration helps to cool the leaf, maintain the water potential gradient, and transport minerals and nutrients from the roots to the shoots.
+- The stomata are surrounded by guard cells, which regulate the opening and closing of the stomata in response to environmental cues, such as light, temperature, humidity, and CO2 concentration.
+- The mesophyll tissue is the inner tissue of the leaf that contains the chloroplasts and is the site of photosynthesis.
+- The mesophyll tissue is divided into two layers: the palisade layer and the spongy layer.
+- The palisade layer is the upper layer of the mesophyll that consists of elongated cells that are tightly packed and contain many chloroplasts.
+- The palisade layer is the main site of light absorption and photosynthesis.
+- The spongy layer is the lower layer of the mesophyll that consists of irregularly shaped cells that are loosely packed and contain fewer chloroplasts.
+- The spongy layer is the main site of gas exchange and transpiration.
+- The spongy layer also contains air spaces that allow the diffusion of gases between the stomata and the mesophyll cells.
+- The veins are the vascular bundles that transport water, minerals, and organic molecules between the roots and the leaves.
+- The veins consist of two types of vessels: xylem and phloem.
+- The xylem is the vessel that transports water and minerals from the roots to the leaves.
+- The xylem is composed of dead, lignified cells that form hollow tubes that are reinforced by pits and rings.
+- The phloem is the vessel that transports organic molecules, such as sugars and amino acids, from the leaves

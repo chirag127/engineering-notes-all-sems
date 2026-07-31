@@ -1,0 +1,17 @@
+### Locking Techniques for Concurrency Control
+
+Concurrency control is the process of managing simultaneous access to shared data in a database system. Concurrency control ensures that transactions are executed in a consistent and correct manner, and that the integrity of the database is maintained. One of the main challenges of concurrency control is to prevent conflicts that may arise when multiple transactions try to read or write the same data item at the same time.
+
+Locking is one of the most common techniques for concurrency control. Locking is the mechanism of granting or denying access to a data item based on the state of a lock variable associated with it. A lock can be either shared or exclusive, depending on the type of access required by a transaction. A shared lock allows multiple transactions to read the same data item, but prevents any transaction from writing it. An exclusive lock allows only one transaction to read or write the data item, and blocks any other transaction from accessing it.
+
+There are different types of locking techniques that can be used for concurrency control, such as:
+
+- Two-phase locking protocol: This is a protocol that ensures that a transaction acquires all the locks it needs before releasing any of them. The protocol consists of two phases: a growing phase, where the transaction can only obtain new locks, and a shrinking phase, where the transaction can only release locks. The protocol guarantees serializability, which means that the concurrent execution of transactions is equivalent to some serial execution of the same transactions.
+
+- Timestamp ordering protocol: This is a protocol that assigns a unique timestamp to each transaction, and uses the timestamps to order the access to data items. The protocol ensures that a transaction can only read or write a data item if its timestamp is greater than the timestamp of any previous transaction that accessed the same data item. The protocol also guarantees serializability, but avoids the overhead of locking and unlocking data items.
+
+- Multi-version concurrency control: This is a technique that maintains multiple versions of each data item, and allows transactions to access the version that is appropriate for their timestamp. The technique avoids locking and ensures that transactions do not block each other, but requires more storage space and complexity to manage the versions.
+
+- Validation concurrency control: This is a technique that allows transactions to execute without any locking or ordering, but validates them at the end to check if they are serializable. The technique divides the execution of a transaction into three phases: a read phase, where the transaction reads data items, a validation phase, where the transaction checks if it is serializable, and a write phase, where the transaction writes data items. The technique reduces the blocking and waiting of transactions, but may incur more aborts and restarts if the validation fails.
+
+- Multiple granularity: This is a technique that allows transactions to lock data items at different levels of granularity, such as a record, a page, a file, or a table. The technique reduces the number of locks required by a transaction, and allows more concurrency among transactions that access different parts of the data. The technique requires a hierarchical locking scheme, where a transaction must lock a higher-level data item before locking a lower-level data item within it.

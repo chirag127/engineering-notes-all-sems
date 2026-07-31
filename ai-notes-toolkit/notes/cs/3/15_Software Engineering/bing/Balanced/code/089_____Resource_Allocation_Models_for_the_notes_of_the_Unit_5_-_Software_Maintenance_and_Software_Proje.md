@@ -1,0 +1,16 @@
+### Resource Allocation Models
+
+Resource allocation models are methods or tools that help in planning, managing, and optimizing the use of resources in software engineering projects. Resources can include human resources (such as developers, testers, managers, etc.), physical resources (such as hardware, software, network, etc.), and financial resources (such as budget, revenue, cost, etc.). Resource allocation models aim to achieve the following objectives:
+
+- To align the resources with the project goals and constraints, such as scope, quality, time, and cost.
+- To balance the supply and demand of resources, such as avoiding overallocation or underallocation of resources, and resolving resource conflicts or shortages.
+- To maximize the efficiency and effectiveness of resources, such as improving resource utilization, productivity, performance, and quality.
+- To support decision making and trade-off analysis, such as evaluating different resource allocation scenarios, alternatives, and outcomes.
+
+Some examples of resource allocation models in software engineering are:
+
+- **Putnam Resource Allocation Model**: This model is based on the software equation, which relates the software size, development time, and development effort. The model assumes that the software size is fixed and known, and the development effort is proportional to the software size. The model also assumes that the development time is a function of the development effort and the software technology level, which reflects the productivity of the software team. The model can be used to estimate the optimal development time and effort for a given software size and technology level, or to estimate the software size and technology level for a given development time and effort.
+
+- **Resource-Sharing Model**: This model is applicable to multitenant cloud environments, where multiple tenants share the same physical resources, such as virtual machines (VMs), servers, storage, etc. The model considers the multiresource demands of the tenants, such as CPU, memory, disk, network, etc., and the resource capacities of the physical resources. The model can be used to allocate the physical resources to the tenants in a way that satisfies their resource demands, maximizes the resource utilization, and minimizes the resource wastage.
+
+- **Resource Allocation Model for Software Testing**: This model is based on the queueing theory, which models the arrival and service processes of software defects during the software testing phases, such as system test, alpha test, and beta test. The model considers the resource requirements of the software defects, such as the number of testers, the testing time, the testing cost, etc., and the resource availability of the software testing team, such as the testing budget, the testing schedule, the testing skills, etc. The model can be used to allocate the testing resources to the software defects in a way that minimizes the testing time, maximizes the testing quality, and meets the testing constraints.

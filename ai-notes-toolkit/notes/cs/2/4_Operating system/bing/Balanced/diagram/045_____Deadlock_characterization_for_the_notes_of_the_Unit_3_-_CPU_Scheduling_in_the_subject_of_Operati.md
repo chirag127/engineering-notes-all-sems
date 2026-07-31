@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the content for the topic of deadlock characterization for the notes of the unit 3 - CPU scheduling in the subject of operating system.
+
+### Deadlock characterization
+
+- A deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process.
+- A deadlock can be characterized by four necessary conditions that must hold simultaneously in a system:
+  - Mutual exclusion: At least one resource must be held in a non-sharable mode, that is, only one process can use the resource at a time. If another process requests that resource, it must wait until the resource is released.
+  - Hold and wait: A process must be holding at least one resource and waiting for one or more additional resources that are currently being held by other processes.
+  - No preemption: A resource cannot be forcibly removed from a process that is holding it. Resources can be released only voluntarily by the process after it has completed its task.
+  - Circular wait: A set of processes must exist such that each process is waiting for a resource that is held by another process in the set, which in turn is waiting for another resource, and so on, forming a circular chain of waiting processes.
+- These four conditions are necessary for a deadlock to occur, but they are not sufficient. That is, if these conditions are met, there is a possibility of deadlock, but not a certainty. A system may be in a state where these conditions hold, but no deadlock has occurred yet. Such a state is called a **safe state**. A system is in a safe state if there exists a sequence of processes that can finish their execution without causing a deadlock. A system is in an **unsafe state** if there is no such sequence. An unsafe state may lead to a deadlock if some process requests a resource that is currently held by another process. A system is in a **deadlock state** if there is no way for any process to proceed, that is, all processes are blocked indefinitely. A deadlock state is a special case of an unsafe state.

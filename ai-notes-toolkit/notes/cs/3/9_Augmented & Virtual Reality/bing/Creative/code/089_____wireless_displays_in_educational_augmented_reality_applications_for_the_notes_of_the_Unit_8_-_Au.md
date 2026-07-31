@@ -1,0 +1,21 @@
+### Wireless Displays in Educational Augmented Reality Applications
+
+- Wireless displays are output devices that can receive and display wirelessly streamed content, such as stereoscopic video signals, in real time .
+- Wireless displays can be used for educational augmented reality (AR) applications, which are applications that combine real and virtual elements to enhance learning and teaching .
+- Wireless displays can offer several advantages for educational AR applications, such as:
+  - Enabling personalization and privacy of content for each user, by delivering user-specific views or context-sensitive information .
+  - Reducing the clutter and complexity of cables, which can pose a safety hazard and limit the movement and interaction of users .
+  - Increasing the scalability and flexibility of the system, by allowing more users and displays to be connected to a single source of content .
+  - Supporting collaboration and communication among users, by allowing them to share and compare their views and information .
+- Examples of educational AR applications that use wireless displays are:
+  - Construct3D, a collaborative 3D geometry construction and visualization tool that uses a wireless stereoscopic head mounted display (HMD) and a wireless TFT display module .
+  - AR Physics, a physics simulation and experimentation tool that uses a wireless HMD and a wireless tablet PC .
+- Teaching scenarios that can benefit from wireless displays in educational AR applications are:
+  - Individual learning, where a student can explore and manipulate the virtual content at their own pace and preference, without being distracted or influenced by others .
+  - Group learning, where a group of students can work together on a common task, such as solving a problem or creating a model, and exchange their views and information using wireless displays .
+  - Teacher-student interaction, where a teacher can monitor and guide the students' progress and understanding, and provide feedback and hints using wireless displays .
+  - Classroom demonstration, where a teacher can present and explain the virtual content to the whole class, using a wireless display that can be projected on a large screen or wall .
+- Results of observations and evaluations of wireless displays in educational AR applications show that:
+  - Wireless displays can improve the usability and user experience of the system, by reducing the physical and mental workload of the users, and increasing their comfort and satisfaction .
+  - Wireless displays can enhance the learning and teaching outcomes of the system, by facilitating the comprehension and retention of the content, and stimulating the motivation and interest of the users .
+  - Wireless displays can also pose some challenges and limitations for the system, such as the trade-off between the quality and latency of the wireless transmission, and the battery life and weight of the wireless devices .

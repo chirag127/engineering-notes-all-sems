@@ -1,0 +1,28 @@
+#### Various Size Oriented Measures in Software Design
+
+- Size oriented measures are based on the assumption that the size of the software product is a primary indicator of its complexity, cost, quality, and effort.
+- Size oriented measures can be classified into two categories: direct measures and indirect measures.
+- Direct measures are based on the physical attributes of the software product, such as lines of code (LOC), number of statements, number of modules, etc.
+- Indirect measures are based on the logical attributes of the software product, such as function points, feature points, object points, etc.
+- Direct measures are easy to collect and automate, but they are dependent on the programming language, coding style, and level of abstraction. They also do not capture the functionality, quality, or usability of the software product.
+- Indirect measures are independent of the programming language, coding style, and level of abstraction. They capture the functionality, quality, and usability of the software product, but they are difficult to collect and automate. They also require more subjective judgment and interpretation.
+- Some examples of direct measures are:
+  - Source lines of code (SLOC): the number of lines of code in the source program, excluding comments, blank lines, and data declarations.
+  - Effective lines of code (ELOC): the number of lines of code that contribute to the functionality of the software product, excluding comments, blank lines, data declarations, and redundant or dead code.
+  - Logical lines of code (LLOC): the number of statements or instructions in the source program, regardless of the physical layout of the code.
+  - Number of modules: the number of independent or cohesive units of code in the software product, such as functions, procedures, classes, etc.
+- Some examples of indirect measures are:
+  - Function points (FP): a measure of the functionality of the software product, based on the number and complexity of inputs, outputs, inquiries, files, and interfaces.
+  - Feature points (FEP): a measure of the functionality and complexity of the software product, based on the number and complexity of inputs, outputs, inquiries, files, interfaces, and algorithms.
+  - Object points (OP): a measure of the functionality and complexity of the software product, based on the number and complexity of screens, reports, and components.
+  - Use case points (UCP): a measure of the functionality and complexity of the software product, based on the number and complexity of use cases and actors.
+- A mnemonic to remember the indirect measures is: FFOU (Function, Feature, Object, Use case).
+- Some advantages of size oriented measures are:
+  - They can be used to estimate the effort, cost, and schedule of software development projects, based on historical data and productivity rates.
+  - They can be used to compare the productivity and quality of different software products, teams, or processes, based on normalized metrics such as LOC per person-month, defects per LOC, etc.
+  - They can be used to monitor and control the progress and performance of software development projects, based on planned and actual values of size and effort.
+- Some disadvantages of size oriented measures are:
+  - They do not reflect the non-functional requirements, such as reliability, security, usability, etc., of the software product, which may have a significant impact on the complexity, cost, quality, and effort of software development.
+  - They do not account for the reuse, adaptation, or integration of existing software components, which may reduce the size and effort of software development.
+  - They do not consider the impact of the software architecture, design, and implementation choices, which may affect the size and complexity of the software product.
+  - They may be influenced by external factors, such as changes in requirements, scope, or technology, which may alter the size and effort of software development.

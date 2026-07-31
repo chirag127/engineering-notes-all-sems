@@ -1,0 +1,12 @@
+# Features of RTOS
+
+A real-time operating system (RTOS) is an operating system that guarantees to meet the deadlines of time-critical tasks, such as controlling a robot arm, a pacemaker, or a missile guidance system. An RTOS has two key features: predictability and determinism.
+
+Some of the features of an RTOS are:
+
+- **Small size**: An RTOS is designed to occupy very less memory and consume fewer resources than a general-purpose operating system. This is because an RTOS is often used in embedded systems with limited hardware capabilities.
+- **Fast response**: An RTOS is able to execute tasks quickly and efficiently, without unnecessary delays or overheads. An RTOS can switch between tasks in microseconds, while a general-purpose operating system may take milliseconds or more.
+- **Reliability**: An RTOS is expected to respond as expected every time, without missing any deadlines or causing any errors. An RTOS is tested and verified to ensure that it can handle all possible scenarios and exceptions.
+- **Scheduling algorithm**: An RTOS uses a scheduling algorithm that prioritizes the tasks based on their deadlines, importance, or other criteria. An RTOS can use either a co-operative scheduling or a pre-emptive scheduling algorithm. In co-operative scheduling, the tasks voluntarily yield the CPU to other tasks when they are done or when they need to wait for some event. In pre-emptive scheduling, the RTOS can interrupt a running task and switch to a higher-priority task at any time .
+- **Concurrency control**: An RTOS supports concurrency control mechanisms that allow multiple tasks to access shared resources, such as memory, files, or devices, without causing conflicts or inconsistencies. An RTOS can use semaphores, mutexes, message queues, or other techniques to synchronize and communicate between tasks .
+- **Real-time features**: An RTOS provides real-time features that enable the tasks to interact with the external environment, such as sensors, actuators, or networks, in a timely and accurate manner. An RTOS can support features such as timers, interrupts, signals, events, or real-time clocks, that allow the tasks to perform time-sensitive operations or react to external stimuli .

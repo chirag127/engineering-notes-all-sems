@@ -1,0 +1,26 @@
+# Reverse Engineering (RE) of Software
+
+- Reverse engineering (RE) of software is the process of analyzing a software system or its components to extract design and implementation information.
+- RE can be used for various purposes, such as:
+  - Understanding how a software system works or what it does.
+  - Modifying or enhancing a software system or its functionality.
+  - Finding and fixing errors or vulnerabilities in a software system.
+  - Reusing or porting a software system or its components to different platforms or environments.
+  - Recovering lost or unavailable source code or documentation of a software system.
+- RE can be performed at different levels of abstraction, such as:
+  - Binary level: analyzing the executable code or data of a software system.
+  - Assembly level: analyzing the low-level instructions or operations of a software system.
+  - Source code level: analyzing the high-level programming language or syntax of a software system.
+  - Design level: analyzing the architecture, modules, interfaces, or patterns of a software system.
+  - Specification level: analyzing the requirements, functionality, or behavior of a software system.
+- RE can be performed using different techniques, such as:
+  - Static analysis: examining the software system or its components without executing them.
+  - Dynamic analysis: observing the software system or its components while they are running or interacting with other systems.
+  - Interactive analysis: manipulating the software system or its components during execution or analysis.
+  - Hybrid analysis: combining static, dynamic, and interactive analysis techniques.
+- RE can be performed using different tools, such as:
+  - Disassemblers: converting binary code or data into assembly code or data.
+  - Decompilers: converting binary code or data into source code or data.
+  - Debuggers: controlling and inspecting the execution or state of a software system or its components.
+  - Analyzers: extracting or visualizing information or features from a software system or its components.
+  - Editors: modifying or enhancing a software system or its components.

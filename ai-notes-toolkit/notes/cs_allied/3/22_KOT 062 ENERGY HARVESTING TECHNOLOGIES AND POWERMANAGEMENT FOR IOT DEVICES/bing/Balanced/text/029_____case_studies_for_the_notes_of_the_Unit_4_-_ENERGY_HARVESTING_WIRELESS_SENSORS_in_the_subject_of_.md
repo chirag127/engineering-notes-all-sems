@@ -1,0 +1,10 @@
+### Case studies for the notes of the Unit 4 - ENERGY HARVESTING WIRELESS SENSORS in the subject of KOT 062 ENERGY HARVESTING TECHNOLOGIES AND POWERMANAGEMENT FOR IOT DEVICES KCS
+
+- Energy harvesting wireless sensors are devices that can collect and convert ambient energy sources, such as light, heat, vibration, or radio frequency, into electrical energy to power themselves and transmit data wirelessly .
+- Energy harvesting can address the energy-scarcity problem of wireless sensor networks (WSNs), which are widely used in various applications of the Internet of Things (IoT), such as smart buildings, industrial monitoring, healthcare, and environmental sensing.
+- Energy harvesting can also reduce the maintenance cost and environmental impact of replacing batteries for wireless sensors, and enable new applications that require long-term or remote sensing.
+- Some case studies of energy harvesting wireless sensors are:
+
+  - **EnOcean**: EnOcean is a company that provides energy harvesting wireless solutions for building automation, smart homes, and industrial applications. EnOcean's products use solar, thermal, motion, and vibration energy harvesters to power wireless switches, sensors, and actuators that communicate using EnOcean's radio protocol or other standards such as Bluetooth or ZigBee.
+  - **Everactive**: Everactive is a company that develops batteryless wireless sensors for industrial IoT applications, such as steam trap monitoring, machine health monitoring, and flare gas monitoring. Everactive's sensors use thermoelectric and electromagnetic energy harvesters to power ultra-low-power integrated circuits and wireless transceivers that can operate continuously and autonomously.
+  - **Solar harvesting system for WSNs**: A research paper by Khan et al. (2021) presents a comprehensive study of solar harvesting systems and their applications in WSNs. The paper reviews the components, architectures, and challenges of solar harvesting systems, and discusses some recent applications in agriculture, healthcare, smart cities, and disaster management.

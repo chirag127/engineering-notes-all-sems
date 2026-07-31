@@ -1,0 +1,25 @@
+### Dynamic Source Routing (DSR)
+
+- Dynamic Source Routing (DSR) is a routing protocol for wireless mesh networks .
+- It is an on-demand protocol that forms a route when a source node requests one .
+- It uses source routing, which means the source node specifies the complete sequence of intermediate nodes to reach the destination node .
+- It consists of two main phases: route discovery and route maintenance.
+- Route discovery is initiated by the source node when it has data to send to the destination node and does not have a valid route.
+- The source node broadcasts a route request packet that contains the source and destination addresses, a unique identification number, and a list of nodes that have forwarded the packet.
+- Each intermediate node that receives the route request packet checks if it is the destination node or if it has a route to the destination node in its cache.
+- If yes, it sends a route reply packet back to the source node along the reverse path of the route request packet.
+- If no, it appends its own address to the list of nodes and forwards the route request packet to its neighbors.
+- The source node collects multiple route reply packets and selects the best route based on some criteria, such as the shortest hop count or the lowest delay.
+- Route maintenance is performed by the source node and the intermediate nodes to detect and repair any link failures along the route.
+- The source node monitors the acknowledgments from the next hop node to ensure the successful delivery of the data packets.
+- If the source node does not receive an acknowledgment within a certain time, it assumes that the link to the next hop node is broken and initiates a new route discovery.
+- The intermediate nodes also monitor the link status to their next hop nodes and send a route error packet to the source node if they detect a link failure.
+- The source node then removes the broken link from its cache and tries to find an alternative route to the destination node.
+- DSR has some advantages, such as:
+  - It reduces the overhead of periodic routing updates and table maintenance .
+  - It allows multiple routes to the same destination and enables route caching and route reuse .
+  - It adapts quickly to the topology changes and supports asymmetric and unidirectional links .
+- DSR also has some disadvantages, such as:
+  - It may incur high overhead and latency for long routes due to the source routing mechanism .
+  - It may suffer from stale routes and route loops due to the lack of feedback from the destination node .
+  - It may not scale well for large networks with high mobility and traffic load .

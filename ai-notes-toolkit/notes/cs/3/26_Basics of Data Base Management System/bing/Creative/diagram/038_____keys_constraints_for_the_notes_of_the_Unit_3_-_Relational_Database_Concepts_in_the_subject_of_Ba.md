@@ -1,0 +1,13 @@
+### Key Constraints in Relational Database
+
+Key constraints are rules that are applied to the columns or attributes that are used as primary keys or foreign keys in a relational database. They ensure the uniqueness, integrity and consistency of the data in the tables.
+
+Some of the key constraints in relational database are:
+
+- **Primary key constraint**: This constraint requires every entry in the column or set of columns that are designated as the primary key to be unique and not NULL. The primary key is used to identify each row in the table and to establish relationships with other tables. A table can have only one primary key constraint, which can consist of up to 16 columns and a total key length of 900 bytes .
+- **Foreign key constraint**: This constraint requires every entry in the column or set of columns that are designated as the foreign key to either match an existing value in the referenced primary key column or be NULL. The foreign key is used to link the data in two tables and to enforce referential integrity. A table can have multiple foreign key constraints, each referencing a different primary key table .
+- **Unique constraint**: This constraint requires every entry in the column or set of columns to be unique, but allows NULL values. The unique constraint is used to ensure that the data in the column or set of columns is distinct and does not have duplicates. A table can have multiple unique constraints, each applied to a different column or set of columns .
+- **Check constraint**: This constraint requires every entry in the column or set of columns to satisfy a specified condition or expression. The check constraint is used to limit the range or format of the data in the column or set of columns. A table can have multiple check constraints, each applied to a different column or set of columns .
+- **Not NULL constraint**: This constraint requires every entry in the column or set of columns to have a value and not be NULL. The not NULL constraint is used to ensure that the data in the column or set of columns is not missing or unknown. A table can have multiple not NULL constraints, each applied to a different column or set of columns .
+
+These are some of the key constraints in relational database that are defined by the SQL standard and supported by most relational database management systems (RDBMSs). Some RDBMSs may also support other types of constraints, such as default values, identity columns, or triggers.

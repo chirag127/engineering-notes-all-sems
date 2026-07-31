@@ -1,0 +1,11 @@
+### Eukaryotic Cells
+
+- Eukaryotic cells are one of the two types of cells that make up all living organisms, the other being prokaryotic cells.
+- Eukaryotic cells have a **nucleus** that contains the genetic material (DNA) and is surrounded by a **nuclear membrane**  .
+- Eukaryotic cells also have various **membrane-bound organelles** that perform specific functions, such as **mitochondria** (energy production), **endoplasmic reticulum** (protein synthesis and transport), **Golgi apparatus** (modification and sorting of proteins), **lysosomes** (digestion and recycling of cellular components), **peroxisomes** (detoxification and metabolism of fatty acids), **chloroplasts** (photosynthesis in plants and algae), and **vacuoles** (storage and regulation of water and solutes) .
+- Eukaryotic cells are supported by a **cytoskeleton** that consists of **microtubules**, **microfilaments**, and **intermediate filaments**, which provide shape, structure, movement, and transport within the cell.
+- Eukaryotic cells are enclosed by a **plasma membrane** that regulates the passage of molecules and ions into and out of the cell .
+- Eukaryotic cells can communicate with each other and their environment through **cell signaling**, which involves the use of chemical messengers (such as hormones, neurotransmitters, and cytokines) and receptors (such as membrane-bound or intracellular proteins) that trigger specific responses within the cell.
+- Eukaryotic cells can be observed and studied using a **compound microscope**, which uses a series of lenses to magnify the image of the specimen and a light source to illuminate it.
+- Eukaryotic cells are composed of four main types of **biomolecules**: **nucleic acids** (DNA and RNA), **proteins** (amino acids), **lipids** (fatty acids and glycerol), and **carbohydrates** (sugars and polysaccharides).
+- Eukaryotic cells can be classified into four major groups based on their characteristics: **protists** (single-celled or simple multicellular organisms that are not plants, animals, or fungi), **fungi** (organisms that decompose organic matter and absorb nutrients), **plants** (organisms that produce their own food through photosynthesis and have cell walls made of cellulose), and **animals** (organisms that ingest food and have no cell walls) .

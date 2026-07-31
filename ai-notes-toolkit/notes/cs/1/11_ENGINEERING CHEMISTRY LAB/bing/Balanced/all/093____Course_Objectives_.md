@@ -1,0 +1,9 @@
+## Course Objectives:
+
+- The course objectives are the specific learning outcomes that the students are expected to achieve by the end of the course.
+- The course objectives should be aligned with the course description, the course content, the teaching methods, and the assessment methods.
+- The course objectives should be clear, measurable, achievable, relevant, and time-bound.
+- The course objectives should be written using action verbs that indicate the level of cognitive skills required, such as recall, understand, apply, analyze, evaluate, or create.
+- The course objectives should be communicated to the students at the beginning of the course and reviewed periodically throughout the course.
+- The course objectives should be used to guide the instruction, the learning activities, and the feedback.
+- The course objectives should be evaluated at the end of the course to measure the students' achievement and the effectiveness of the course.

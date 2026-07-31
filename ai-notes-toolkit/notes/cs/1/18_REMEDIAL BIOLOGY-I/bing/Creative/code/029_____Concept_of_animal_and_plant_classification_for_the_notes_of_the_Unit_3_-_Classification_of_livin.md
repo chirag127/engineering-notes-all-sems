@@ -1,0 +1,15 @@
+### Concept of animal and plant classification
+
+- Biological classification is the scientific process of grouping living organisms into categories based on their similarities and differences.
+- Classification helps to organize the diversity of life and to understand the evolutionary relationships among different groups of organisms.
+- The most widely used system of classification is the Linnaean taxonomy, which was developed by the Swedish naturalist Carl Linnaeus in the 18th century.
+- Linnaeus classified all living organisms into two kingdoms – Plantae (plants) and Animalia (animals) – based on their morphology and anatomy.
+- He also introduced the binomial system of nomenclature, which assigns a two-part scientific name to each species, consisting of the genus name and the specific epithet (e.g. Homo sapiens, Panthera leo).
+- The Linnaean taxonomy has seven hierarchical levels of classification: kingdom, phylum, class, order, family, genus, and species. Each level is called a taxon (plural taxa) and represents a group of organisms that share common characteristics.
+- The Linnaean taxonomy has been modified and expanded over time to accommodate new discoveries and advances in biological knowledge. For example, some organisms that were initially classified as plants or animals were later found to belong to different kingdoms, such as fungi, protists, bacteria, and archaea.
+- In 1969, the American ecologist Robert Whittaker proposed an elaborate five kingdom classification, which divided the living world into Monera (prokaryotes), Protista (unicellular eukaryotes), Fungi (multicellular decomposers), Plantae (multicellular photosynthesizers), and Animalia (multicellular consumers).
+- The five kingdom classification is still widely used in textbooks and curricula, but it has some limitations and drawbacks, such as the polyphyletic nature of some groups (e.g. protists) and the exclusion of some important groups (e.g. viruses).
+- In recent years, molecular phylogenetics and genomics have provided new insights into the evolutionary history and relationships of living organisms, leading to the development of more refined and accurate systems of classification, such as the three domain system and the six kingdom system.
+- The three domain system, proposed by Carl Woese in 1990, recognizes three major domains of life: Bacteria, Archaea, and Eukarya. The domains are based on the differences in the structure and function of the ribosomal RNA (rRNA) molecules, which are essential for protein synthesis in all cells.
+- The six kingdom system, proposed by Thomas Cavalier-Smith in 1998, divides the domain Eukarya into six kingdoms: Animalia, Plantae, Fungi, Protista, Chromista, and Rhizaria. The kingdoms are based on the differences in the structure and function of the cell membrane, the cell wall, the cytoskeleton, and the mode of nutrition.
+- The concept of animal and plant classification is important for understanding the diversity, structure, function, and evolution of life on Earth. It also helps to identify, name, and classify new species, as well as to conserve and protect the existing ones.

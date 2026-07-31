@@ -1,0 +1,15 @@
+### Channel allocation for the notes of the Unit 4 - Medium Access Control and Local Area Networks in the subject of Computer Networks
+
+Channel allocation is a process in which a single channel is divided and allotted to multiple users in order to carry user specific tasks. There are user’s quantity may vary every time the process takes place. If there are N number of users and channel is divided into N equal-sized sub channels, Each user is assigned one portion.
+
+There are different techniques or strategies for channel allocation in computer networks, such as:
+
+- Static Channel Allocation (SCA): It is the classical or traditional approach of allocating a single channel between multiple users. In this technique, a fixed portion of the frequency channel is allotted to each user or station, regardless of whether the user has data to transmit or not. This technique is suitable for LANs and MANs, where the number of users is fixed and known in advance .
+- Dynamic Channel Allocation (DCA): It is the modern approach of allocating a single channel between multiple users. In this technique, frequency bands are not permanently assigned to any user or station. Instead, they are allocated on demand, based on the current traffic conditions and requirements. This technique is suitable for wireless networks, where the number of users is variable and unpredictable .
+- Hybrid Channel Allocation (HCA): It is the combination of both static and dynamic channel allocation techniques. In this technique, a portion of the frequency channel is statically allocated to some users or stations, while the remaining portion is dynamically allocated to the others. This technique is suitable for cellular networks, where some users have high priority and need guaranteed access, while others have low priority and can tolerate delays.
+
+Some of the advantages and disadvantages of these techniques are:
+
+- SCA: It is simple and easy to implement. It avoids collisions and interference. It provides guaranteed access and performance. However, it wastes bandwidth and resources when some users are idle. It cannot adapt to changing traffic conditions and user demands. It cannot accommodate new users or stations .
+- DCA: It is flexible and efficient. It utilizes bandwidth and resources optimally. It adapts to changing traffic conditions and user demands. It can accommodate new users or stations. However, it is complex and difficult to implement. It may cause collisions and interference. It may not provide guaranteed access and performance. It requires coordination and synchronization among users or stations .
+- HCA: It is a compromise between SCA and DCA. It provides guaranteed access and performance to some users or stations, while allowing flexibility and efficiency to others. It balances the trade-off between bandwidth utilization and collision avoidance. However, it is still complex and difficult to implement. It may still cause collisions and interference among the dynamically allocated users or stations. It requires coordination and synchronization among both statically and dynamically allocated users or stations.

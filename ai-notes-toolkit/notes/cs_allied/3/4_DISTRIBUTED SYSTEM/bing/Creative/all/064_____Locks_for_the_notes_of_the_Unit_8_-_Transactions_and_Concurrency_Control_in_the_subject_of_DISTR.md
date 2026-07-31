@@ -1,0 +1,23 @@
+# Locks for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+- A lock is a mechanism that allows only one of the innumerable nodes or processes to access and modify a resource or data that is being shared commonly to prevent execution of the same task twice and also maintain data integrity.
+- In distributed systems, locks are used to coordinate access to a shared resource among multiple nodes or processes that may be geographically dispersed or communicate asynchronously.
+- Locks can be classified into different types based on the security of lock resources, the granularity of lock resources, the duration of lock holding, and the lock acquisition protocol.
+- Some of the common types of locks are:
+  - Exclusive lock: A lock that allows only one node or process to access and modify a resource or data, and prevents any other node or process from accessing or modifying it until the lock is released.
+  - Shared lock: A lock that allows multiple nodes or processes to access but not modify a resource or data, and prevents any other node or process from modifying it until all the shared locks are released.
+  - Read lock: A lock that allows a node or process to read a resource or data, and prevents any other node or process from modifying it until the lock is released. It is equivalent to a shared lock.
+  - Write lock: A lock that allows a node or process to modify a resource or data, and prevents any other node or process from accessing or modifying it until the lock is released. It is equivalent to an exclusive lock.
+  - Optimistic lock: A lock that does not block a node or process from accessing or modifying a resource or data, but checks for conflicts at the end of the operation and rolls back the changes if a conflict is detected.
+  - Pessimistic lock: A lock that blocks a node or process from accessing or modifying a resource or data until the lock is acquired, and holds the lock until the end of the operation or until the lock is explicitly released.
+  - Fine-grained lock: A lock that applies to a small unit of a resource or data, such as a record, a field, or a byte, and allows for higher concurrency and lower contention.
+  - Coarse-grained lock: A lock that applies to a large unit of a resource or data, such as a file, a table, or a database, and allows for lower concurrency and higher contention.
+  - Short-term lock: A lock that is held for a short duration, such as a single operation or a transaction, and is released as soon as possible.
+  - Long-term lock: A lock that is held for a long duration, such as a session or a batch job, and is released only when the session or the job is completed.
+  - Centralized lock: A lock that is managed by a single node or process that acts as a lock manager or a coordinator, and grants or denies lock requests from other nodes or processes.
+  - Distributed lock: A lock that is managed by multiple nodes or processes that cooperate to reach a consensus or an agreement on the lock status, and use a distributed lock protocol to communicate and coordinate.
+- Locks can be implemented using various techniques, such as:
+  - Database locks: Locks that are provided by a database system to ensure the consistency and isolation of transactions that access and modify the data stored in the database.
+  - Redis locks: Locks that are implemented using Redis, an in-memory data structure store, to provide fast and scalable locking for distributed systems.
+  - ZooKeeper locks: Locks that are implemented using ZooKeeper, a distributed coordination service, to provide reliable and fault-tolerant locking for distributed systems.
+  - Paxos locks: Locks that are implemented using Paxos, a distributed consensus algorithm, to provide strong and consistent locking for distributed systems.

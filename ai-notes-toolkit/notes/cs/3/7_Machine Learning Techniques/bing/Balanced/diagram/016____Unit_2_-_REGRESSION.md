@@ -1,0 +1,22 @@
+## Unit 2 - REGRESSION
+
+- Regression is a statistical method that aims to model the relationship between a dependent variable (also called the response or outcome variable) and one or more independent variables (also called the predictors or explanatory variables).
+- Regression can be used for various purposes, such as:
+  - Exploring the nature and strength of the relationship between variables
+  - Testing hypotheses about the effects of variables on the outcome
+  - Estimating the value of the outcome variable for a given set of predictor values
+  - Predicting the outcome variable for new or unseen predictor values
+- There are different types of regression models, depending on the nature and number of the predictor variables, the shape of the relationship, and the distribution of the outcome variable. Some common types of regression models are:
+  - Linear regression: Assumes a linear relationship between a single or multiple predictor variables and a continuous outcome variable. The model can be written as: `y = b0 + b1x1 + b2x2 + ... + bnxn + e`, where `y` is the outcome variable, `x1, x2, ..., xn` are the predictor variables, `b0, b1, b2, ..., bn` are the regression coefficients, and `e` is the error term.
+  - Logistic regression: Assumes a logistic (S-shaped) relationship between a single or multiple predictor variables and a binary outcome variable. The model can be written as: `logit(p) = b0 + b1x1 + b2x2 + ... + bnxn`, where `p` is the probability of the outcome variable being 1, `logit(p) = ln(p/(1-p))` is the log-odds of the outcome variable being 1, and the other terms are the same as in linear regression.
+  - Poisson regression: Assumes a Poisson (exponential) relationship between a single or multiple predictor variables and a count outcome variable. The model can be written as: `log(y) = b0 + b1x1 + b2x2 + ... + bnxn`, where `y` is the outcome variable, `log(y)` is the natural logarithm of the outcome variable, and the other terms are the same as in linear regression.
+- To fit a regression model to a given data set, various methods can be used, such as:
+  - Ordinary least squares (OLS): Minimizes the sum of squared errors (SSE) between the observed and predicted values of the outcome variable. This method is commonly used for linear regression models.
+  - Maximum likelihood estimation (MLE): Maximizes the likelihood function, which measures the probability of observing the data given the model parameters. This method is commonly used for logistic and Poisson regression models.
+  - Gradient descent: Iteratively updates the model parameters by moving in the direction of the steepest descent of the cost function, which measures the discrepancy between the observed and predicted values of the outcome variable. This method can be used for various types of regression models, especially when the number of predictor variables is large or the relationship is nonlinear.
+- To evaluate the performance of a regression model, various metrics can be used, such as:
+  - Coefficient of determination (R-squared): Measures the proportion of the variance in the outcome variable that is explained by the predictor variables. It ranges from 0 to 1, with higher values indicating better fit. It can be calculated as: `R^2 = 1 - SSE/SST`, where `SSE` is the sum of squared errors and `SST` is the total sum of squares.
+  - Mean squared error (MSE): Measures the average of the squared errors between the observed and predicted values of the outcome variable. It ranges from 0 to infinity, with lower values indicating better fit. It can be calculated as: `MSE = SSE/n`, where `SSE` is the sum of squared errors and `n` is the number of observations.
+  - Root mean squared error (RMSE): Measures the standard deviation of the errors between the observed and predicted values of the outcome variable. It ranges from 0 to infinity, with lower values indicating better fit. It can be calculated as: `RMSE = sqrt(MSE)`, where `MSE` is the mean squared error.
+  - Mean absolute error (MAE): Measures the average of the absolute errors between the observed and predicted values of the outcome variable. It ranges from 0 to infinity, with lower values indicating better fit. It can be calculated as: `MAE = SAE/n`, where `SAE` is the sum of absolute errors and `n` is the number of observations.
+  - Accuracy: Measures the proportion of

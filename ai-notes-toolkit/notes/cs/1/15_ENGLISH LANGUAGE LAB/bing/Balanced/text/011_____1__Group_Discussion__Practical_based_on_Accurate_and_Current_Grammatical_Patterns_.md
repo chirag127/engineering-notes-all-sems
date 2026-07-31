@@ -1,0 +1,17 @@
+### 1. Group Discussion: Practical based on Accurate and Current Grammatical Patterns.
+
+- A group discussion is a type of oral communication activity where a small number of participants exchange their views on a given topic or issue.
+- The purpose of a group discussion is to enhance the participants' critical thinking, listening, speaking, and interpersonal skills, as well as to explore different perspectives and opinions on the topic or issue.
+- A group discussion can be formal or informal, depending on the context, the participants, and the objective of the discussion.
+- A formal group discussion is usually organized by a moderator or a leader, who introduces the topic, sets the rules and the time limit, and guides the discussion. A formal group discussion can be part of an academic course, a professional meeting, a job interview, or a public debate.
+- An informal group discussion is more spontaneous and flexible, and can occur among friends, colleagues, or peers, who share a common interest or concern. An informal group discussion can be part of a social gathering, a hobby club, a community event, or a casual conversation.
+- In both types of group discussions, the participants are expected to use accurate and current grammatical patterns, which are the rules and conventions of a language that govern how words and sentences are formed and used.
+- Accurate grammatical patterns are those that follow the standard norms and expectations of a language, and avoid errors or mistakes that can affect the clarity and correctness of the message.
+- Current grammatical patterns are those that reflect the changes and developments of a language over time, and adapt to the needs and preferences of the speakers and the situations.
+- Using accurate and current grammatical patterns in a group discussion can help the participants to express their ideas clearly and effectively, to communicate with respect and politeness, to demonstrate their knowledge and competence, and to create a positive impression on the audience and the other participants.
+- Some examples of accurate and current grammatical patterns that can be used in a group discussion are:
+
+  - Using appropriate verb tenses and aspects to indicate the time and the duration of the actions or events. For example, using the present perfect tense to describe an action that started in the past and has a connection to the present, or using the present continuous tense to describe an action that is happening at the moment of speaking.
+  - Using appropriate modal verbs and adverbs to express the degree of certainty, possibility, necessity, or obligation of the statements or opinions. For example, using modal verbs like can, could, may, might, must, should, or would, or adverbs like certainly, possibly, probably, or definitely.
+  - Using appropriate pronouns and determiners to refer to the people, things, or ideas that have been mentioned or implied in the discussion. For example, using personal pronouns like I, you, he, she, it, we, or they, or demonstrative pronouns like this, that, these, or those, or determiners like the, a, an, some, or any.
+  - Using appropriate conjunctions and transition words to connect the sentences and paragraphs, and to show the logical relationships between the ideas. For example, using conjunctions like and, but, or, so, because, although, or while, or transition words like however, therefore, moreover, or in addition.

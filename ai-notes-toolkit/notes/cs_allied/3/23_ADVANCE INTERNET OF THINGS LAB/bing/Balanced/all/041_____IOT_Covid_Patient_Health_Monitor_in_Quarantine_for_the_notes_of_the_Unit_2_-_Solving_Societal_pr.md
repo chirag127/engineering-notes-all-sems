@@ -1,0 +1,15 @@
+# IOT Covid Patient Health Monitor in Quarantine
+
+- IOT stands for Internet of Things, which is a network of physical devices, sensors, actuators, and software that can collect and exchange data over the internet.
+- Covid-19 is a highly contagious respiratory disease caused by a novel coronavirus that emerged in late 2019 and has spread worldwide, causing a global pandemic.
+- Quarantine is a public health measure that restricts the movement and contact of people who have been exposed to a contagious disease, such as Covid-19, to prevent further transmission.
+- IOT Covid Patient Health Monitor in Quarantine is a system that uses IOT devices and sensors to measure and monitor the vital signs of Covid-19 patients who are isolated at home or in designated facilities, and to transmit the data to a remote server or cloud platform where medical professionals can access and analyze it.
+- The main objectives of the system are:
+  - To reduce the risk of infection and exposure for medical staff and other patients by minimizing physical contact and visits.
+  - To provide real-time and continuous health monitoring and alerting for Covid-19 patients who may develop complications or deteriorate rapidly.
+  - To optimize the use of limited health resources and facilities by prioritizing the patients who need urgent care and intervention.
+  - To improve the quality of care and outcomes for Covid-19 patients by enabling timely diagnosis, treatment, and follow-up.
+- The main components of the system are:
+  - IOT devices and sensors: These are wearable or non-wearable devices that can measure various health parameters of Covid-19 patients, such as body temperature, pulse rate, blood pressure, oxygen saturation, respiratory rate, etc. Some examples are smart watches, smart bands, thermometers, pulse oximeters, blood pressure monitors, etc. These devices and sensors are connected to the internet via Wi-Fi, Bluetooth, cellular, or other wireless technologies.
+  - Remote server or cloud platform: This is the central hub that receives, stores, processes, and displays the data collected from the IOT devices and sensors. It also provides various functions and features, such as data analysis, visualization, dashboard, alerting, notification, reporting, etc. The server or cloud platform can be accessed by authorized medical professionals or caregivers via web or mobile applications.
+  - Web or mobile applications: These are the interfaces that allow the medical professionals or caregivers to view and interact with the data and functions provided by the server or cloud platform. They can also communicate with the patients via text, voice, or video calls, and provide feedback, guidance, or instructions. The applications can be accessed via web browsers or mobile devices, such as smartphones or tablets.

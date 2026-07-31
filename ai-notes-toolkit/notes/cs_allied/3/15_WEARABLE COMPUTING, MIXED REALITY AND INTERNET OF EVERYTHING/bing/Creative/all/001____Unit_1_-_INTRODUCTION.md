@@ -1,0 +1,24 @@
+## Unit 1 - INTRODUCTION
+
+- This unit introduces the basic concepts and principles of artificial intelligence (AI).
+- AI is the study of how to create machines and systems that can perform tasks that normally require human intelligence, such as reasoning, learning, perception, decision making, and natural language processing.
+- AI can be divided into two main branches: symbolic AI and sub-symbolic AI.
+  - Symbolic AI uses symbols and rules to represent and manipulate knowledge, such as logic, search, planning, and expert systems.
+  - Sub-symbolic AI uses numerical and statistical methods to model and learn from data, such as neural networks, evolutionary algorithms, and reinforcement learning.
+- AI can also be classified into different types based on the level of intelligence and the domain of application, such as weak AI, strong AI, narrow AI, general AI, and super AI.
+  - Weak AI is the type of AI that can only perform specific tasks within a limited domain, such as chess, face recognition, or speech recognition.
+  - Strong AI is the type of AI that can exhibit human-like intelligence and understanding across any domain, such as common sense, creativity, and emotions.
+  - Narrow AI is the type of AI that can only perform tasks within a narrow domain, such as image processing, natural language processing, or self-driving cars.
+  - General AI is the type of AI that can perform tasks across any domain, such as reasoning, learning, and problem solving.
+  - Super AI is the type of AI that can surpass human intelligence and capabilities in any domain, such as inventing new technologies, solving global problems, and creating new forms of life.
+- AI has many applications and benefits for various fields and industries, such as education, health care, entertainment, business, and security.
+  - Education: AI can enhance the quality and accessibility of education by providing personalized learning, adaptive assessment, intelligent tutoring, and collaborative learning.
+  - Health care: AI can improve the diagnosis and treatment of diseases, assist in surgery and rehabilitation, monitor and analyze health data, and support elderly and disabled people.
+  - Entertainment: AI can create and enhance various forms of entertainment, such as games, music, movies, and art.
+  - Business: AI can optimize and automate various business processes, such as marketing, sales, customer service, and management.
+  - Security: AI can protect and defend against various threats, such as cyberattacks, fraud, terrorism, and crime.
+- AI also poses some challenges and risks for society and humanity, such as ethical, social, legal, and existential issues.
+  - Ethical: AI can raise ethical questions and dilemmas, such as fairness, accountability, transparency, privacy, and human dignity.
+  - Social: AI can have social impacts and implications, such as unemployment, inequality, discrimination, and cultural diversity.
+  - Legal: AI can create legal challenges and uncertainties, such as liability, regulation, ownership, and rights.
+  - Existential: AI can pose existential threats and scenarios, such as superintelligence, singularity, and human extinction.

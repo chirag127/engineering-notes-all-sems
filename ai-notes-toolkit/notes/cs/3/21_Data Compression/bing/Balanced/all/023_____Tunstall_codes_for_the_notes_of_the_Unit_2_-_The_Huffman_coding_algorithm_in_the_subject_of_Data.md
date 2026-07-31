@@ -1,0 +1,23 @@
+# Tunstall codes
+
+- Tunstall codes are a form of entropy coding used for lossless data compression .
+- Tunstall codes are based on the idea of parsing a stochastic source with codewords of variable length and encoding them with fixed-length codes.
+- Tunstall codes are a precursor to Lempel-Ziv codes, which are widely used in practice.
+- Tunstall codes have the following properties :
+  - They are prefix codes, meaning that no codeword is a prefix of another codeword.
+  - They are optimal for sources with geometrically distributed symbols, such as run-length encoding.
+  - They are adaptive, meaning that they can adjust to the changing statistics of the source.
+  - They are simple to implement and decode, requiring only a lookup table and a buffer.
+- Tunstall codes can be constructed using the following algorithm :
+  - Start with a set of source symbols and their probabilities, and a desired codeword length n.
+  - Initialize a codebook with one entry for each source symbol, and assign each entry a probability equal to the symbol's probability.
+  - Repeat until the codebook has 2^n entries:
+    - Find the entry with the highest probability in the codebook, and remove it.
+    - For each source symbol, create a new entry by appending the symbol to the removed entry, and assign it a probability equal to the product of the removed entry's probability and the symbol's probability.
+    - Add the new entries to the codebook.
+  - Assign each entry in the codebook a unique n-bit codeword.
+- Tunstall codes can be decoded using the following algorithm :
+  - Start with an empty buffer and a codebook that maps n-bit codewords to variable-length source symbols.
+  - Read n bits from the input and append them to the buffer.
+  - If the buffer matches a codeword in the codebook, output the corresponding source symbol and clear the buffer.
+  - Otherwise, repeat from step 2.

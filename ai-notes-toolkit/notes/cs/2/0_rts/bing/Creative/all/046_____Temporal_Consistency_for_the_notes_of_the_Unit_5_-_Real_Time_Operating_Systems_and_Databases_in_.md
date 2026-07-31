@@ -1,0 +1,14 @@
+# Temporal Consistency
+
+- Temporal consistency is a property of real-time systems that ensures that the data stored in the database reflects the current state of the physical environment.
+- Temporal consistency is different from logical consistency, which is a property of non-real-time systems that ensures that the data stored in the database satisfies the integrity constraints and the consistency rules.
+- Temporal consistency is important for real-time systems because they need to make decisions and take actions based on the most up-to-date information about the physical environment.
+- Temporal consistency can be violated by two factors: data staleness and data inconsistency.
+  - Data staleness occurs when the data stored in the database is outdated and does not reflect the current state of the physical environment. This can happen due to the delay in sensing, processing, and updating the data.
+  - Data inconsistency occurs when the data stored in the database is contradictory and does not agree with each other. This can happen due to the concurrency and interference of multiple transactions that access and update the data.
+- Temporal consistency can be maintained by using various techniques, such as:
+  - Triggered updates, which are updates that are initiated by the occurrence of some events or conditions in the physical environment or the database. Triggered updates can reduce data staleness by updating the data as soon as possible.
+  - Absolute validity, which is a temporal constraint that specifies the maximum allowable age of the data that can be read by a transaction. Absolute validity can prevent transactions from reading stale data by checking the timestamp of the data.
+  - Relative validity, which is a temporal constraint that specifies the maximum allowable difference between the values of two data items that are related to each other. Relative validity can prevent transactions from reading inconsistent data by comparing the values of the data items.
+  - Serialization, which is a concurrency control technique that ensures that the execution of multiple transactions is equivalent to some sequential order. Serialization can prevent data inconsistency by avoiding conflicts and interference among transactions.
+  - Priority assignment, which is a scheduling technique that assigns different priorities to different transactions based on their importance and urgency. Priority assignment can ensure that the most critical transactions are executed before the less critical ones and meet their deadlines.

@@ -1,0 +1,22 @@
+# Characteristics of Embedded Operating Systems
+
+- An embedded operating system is a computer operating system designed for use in embedded computer systems.
+- Embedded operating systems are designed to be small, resource-efficient, dependable, and reduce many features that aren't required by specialized applications .
+- Some of the main characteristics of embedded operating systems are:
+  - Direct use of interrupts: Embedded operating systems use interrupts to handle events from hardware devices or software applications in a timely and efficient manner.
+  - Reactive operation: Embedded operating systems respond to external stimuli and perform the required actions without delay.
+  - Real-time operation: Embedded operating systems meet the deadlines and timing constraints of the applications and guarantee predictable behavior.
+  - Streamlined protection mechanisms: Embedded operating systems provide minimal or no protection features such as memory management, user authentication, or access control, as they are not needed or can be implemented by the applications.
+  - I/O device flexibility: Embedded operating systems support a variety of input/output devices such as sensors, actuators, displays, keyboards, etc. and provide device drivers or interfaces for them.
+- Some of the skills and knowledge required to work with embedded operating systems are:
+  - Introduction to embedded systems software and development environments: Embedded operating systems require specialized tools and methods for development, testing, debugging, and deployment.
+  - Unified Modeling Language: UML is a graphical language for modeling and documenting the structure and behavior of embedded systems and their components.
+  - Multiprocessor design skills: Embedded operating systems may run on multiple processors or cores to achieve higher performance, parallelism, or fault tolerance.
+  - Understanding of embedded systems design patterns: Design patterns are reusable solutions to common problems in embedded systems design, such as concurrency, synchronization, communication, etc.
+  - Ability to work with modeling programs and languages like MATLAB: MATLAB is a software environment for numerical computation, visualization, and programming that can be used for modeling, simulating, and testing embedded systems and their algorithms.
+  - Knowledge of user experience (UX) and user interface (UI) design: Embedded operating systems may have graphical or textual user interfaces that require design principles and techniques to ensure usability, accessibility, and aesthetics.
+- Some of the common uses of embedded operating systems are:
+  - ATMs: ATMs have basic operating systems that enable the machine to read a user's debit card and personal identification number input and perform bank account transactions.
+  - Cellphones: Cellphones require operating systems like Android or iOS to boot the phone and enable applications to communicate with the hardware and the network.
+  - Smart TVs: Smart TVs have operating systems that allow the user to access various online and offline media content and services, such as streaming, gaming, browsing, etc.
+  - Medical devices: Medical devices such as pacemakers, insulin pumps, or ventilators have operating systems that monitor and control the vital functions of the patients and communicate with other devices or systems.

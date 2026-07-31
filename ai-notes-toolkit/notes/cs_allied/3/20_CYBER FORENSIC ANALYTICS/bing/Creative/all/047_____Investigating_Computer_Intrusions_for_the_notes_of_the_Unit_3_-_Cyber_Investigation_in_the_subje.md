@@ -1,0 +1,29 @@
+# Investigating Computer Intrusions
+
+- A computer intrusion is an unauthorized or illegal access or use of a computer system or network by an attacker.
+- A computer intrusion investigation is the process of identifying, analyzing, and responding to a computer intrusion incident.
+- The main objectives of a computer intrusion investigation are to:
+  - Determine the scope and impact of the intrusion
+  - Identify the source and motive of the intrusion
+  - Collect and preserve evidence of the intrusion
+  - Restore the normal operation of the system or network
+  - Prevent or mitigate future intrusions
+- The main steps of a computer intrusion investigation are:
+  - Preparation: Establishing the legal authority, policies, procedures, and tools for conducting the investigation
+  - Detection: Monitoring and analyzing the system or network activity to identify signs of an intrusion
+  - Containment: Isolating the affected system or network from further compromise or damage
+  - Eradication: Removing any malicious software or data from the system or network
+  - Recovery: Restoring the system or network to its pre-intrusion state and functionality
+  - Reporting: Documenting the findings, actions, and recommendations of the investigation
+  - Follow-up: Implementing the recommendations, lessons learned, and best practices from the investigation
+- The main challenges of a computer intrusion investigation are:
+  - The complexity and diversity of computer systems and networks
+  - The sophistication and persistence of attackers
+  - The volatility and fragility of digital evidence
+  - The legal and ethical issues of privacy, jurisdiction, and cooperation
+- The main skills and tools of a computer intrusion investigator are:
+  - Knowledge of computer systems, networks, security, and forensics
+  - Ability to use various software and hardware tools for data collection, analysis, and preservation
+  - Ability to follow the scientific method and the chain of custody
+  - Ability to communicate effectively and write clear and concise reports
+  - Ability to work under pressure and handle stress

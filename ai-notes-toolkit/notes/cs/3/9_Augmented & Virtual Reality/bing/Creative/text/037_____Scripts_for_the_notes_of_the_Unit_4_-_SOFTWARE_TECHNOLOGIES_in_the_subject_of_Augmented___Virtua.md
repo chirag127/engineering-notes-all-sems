@@ -1,0 +1,16 @@
+### Scripts for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+
+- Software technologies are the tools and platforms that enable the creation, development, and deployment of augmented and virtual reality applications and experiences.
+- Augmented reality (AR) is the technology that overlays digital information or objects onto the real world, enhancing the user's perception of the environment.
+- Virtual reality (VR) is the technology that immerses the user in a simulated or artificial environment, creating a sense of presence and realism.
+- There are different types of software technologies for AR and VR, depending on the purpose, complexity, and platform of the application or experience.
+- Some of the common software technologies for AR and VR are:
+
+  - **Adobe Aero**: The best AR design software overall, according to JUST™ Creative. It allows users to create interactive and immersive AR experiences without coding, using assets from Adobe Photoshop, Illustrator, and Dimension. It also supports exporting to USDZ and GLB formats, which are compatible with Apple ARKit and Google ARCore frameworks.
+  - **Tvori**: The best budget AR design software, according to JUST™ Creative. It is a VR-based platform that enables users to create and animate 3D scenes and characters in real time, using intuitive and natural interactions. It also supports exporting to FBX and OBJ formats, which can be used for AR applications.
+  - **Masterpiece Studio Pro**: The best value VR design software, according to JUST™ Creative. It is a suite of tools that allows users to create, rig, and animate 3D models in VR, using advanced features such as sculpting, retopology, and skinning. It also supports exporting to FBX, OBJ, and GLB formats, which can be used for AR and VR applications.
+  - **Vuforia Engine**: The best AR design software for advanced users, according to JUST™ Creative. It is a powerful and versatile platform that enables users to develop and deploy AR applications for various devices and platforms, using features such as image recognition, object tracking, spatial mapping, and occlusion. It also supports integrating with Unity 3D and Unreal Engine, which are popular game engines for AR and VR development.
+  - **Unity 3D**: The best free software for AR and VR design, according to JUST™ Creative. It is a game engine that allows users to create and run interactive and immersive 3D and 2D applications and experiences, using features such as scripting, physics, animation, and audio. It also supports integrating with various AR and VR frameworks and SDKs, such as Vuforia, ARKit, ARCore, Oculus, and SteamVR.
+  - **Oculus Medium**: The best 3D design platform for Oculus headsets, according to JUST™ Creative. It is a VR-based application that allows users to sculpt, model, and paint 3D objects and scenes, using natural and intuitive interactions. It also supports exporting to FBX and OBJ formats, which can be used for AR and VR applications.
+
+- These are some of the software technologies that can be used for AR and VR design in 2023. However, there are many more options available, depending on the specific needs and preferences of the users and developers.

@@ -1,0 +1,14 @@
+### Analysis & Findings for the notes of the Unit 2 - Forms of Technical Communication in the subject of Technical Communication
+
+- Technical communication is the process of conveying information and instructions to a specific audience for a specific purpose.
+- Technical communication can take various forms, such as reports, manuals, proposals, memos, letters, emails, presentations, websites, blogs, podcasts, etc.
+- Technical communication has some common characteristics, such as accuracy, clarity, conciseness, coherence, completeness, correctness, courtesy, ethics, and usability.
+- Technical communication requires some skills, such as research, analysis, organization, design, writing, editing, and presentation.
+- Technical communication follows some principles, such as knowing the purpose, audience, context, and constraints of the communication; using appropriate language, tone, and style; providing relevant and sufficient information; using effective visual aids; and following the conventions and standards of the genre and the field.
+- Technical communication can be classified into two broad categories: informative and persuasive.
+- Informative technical communication aims to inform, explain, describe, or instruct the audience about a topic or a process. Examples of informative technical communication are user manuals, technical reports, data sheets, FAQs, etc.
+- Persuasive technical communication aims to persuade, convince, or motivate the audience to take a certain action or adopt a certain attitude. Examples of persuasive technical communication are proposals, sales letters, advertisements, brochures, etc.
+- Technical communication can also be classified into two types based on the mode of delivery: oral and written.
+- Oral technical communication involves speaking and listening, and it can be synchronous or asynchronous. Examples of oral technical communication are presentations, lectures, podcasts, interviews, etc.
+- Written technical communication involves reading and writing, and it can be printed or digital. Examples of written technical communication are reports, manuals, emails, websites, blogs, etc.
+- Oral and written technical communication have some similarities and differences in terms of advantages, disadvantages, challenges, and strategies. For example, oral technical communication can be more interactive, engaging, and persuasive, but it can also be more prone to errors, misunderstandings, and distractions. Written technical communication can be more accurate, detailed, and permanent, but it can also be more time-consuming, complex, and impersonal.

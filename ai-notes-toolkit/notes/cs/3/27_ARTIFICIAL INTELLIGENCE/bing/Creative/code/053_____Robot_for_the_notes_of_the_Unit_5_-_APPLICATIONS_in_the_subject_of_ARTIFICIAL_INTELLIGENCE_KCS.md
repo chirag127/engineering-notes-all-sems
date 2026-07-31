@@ -1,0 +1,12 @@
+# Robot Applications in Artificial Intelligence
+
+- Artificial intelligence (AI) is the branch of computer science that deals with creating machines or software that can perform tasks that normally require human intelligence, such as reasoning, learning, planning, decision making, etc.
+- Robotics is the branch of engineering that deals with designing, constructing, operating, and controlling machines that can perform physical tasks, such as moving, manipulating, sensing, etc.
+- AI and robotics are closely related and often combined to create intelligent machines that can interact with their environment and perform complex tasks autonomously or semi-autonomously.
+- Some of the applications of AI and robotics are:
+
+  - **Self-driving cars**: These are vehicles that can navigate roads and traffic without human intervention, using sensors, cameras, GPS, maps, and AI algorithms. They can improve safety, efficiency, and convenience for passengers and drivers. Some examples of self-driving car companies are Tesla, Waymo, Uber, and Cruise .
+  - **Autonomous drones**: These are aerial vehicles that can fly and perform tasks without human control, using sensors, cameras, GPS, and AI algorithms. They can be used for various purposes, such as delivery, surveillance, inspection, entertainment, etc. Some examples of autonomous drone companies are Amazon, DJI, Skydio, and Zipline.
+  - **Humanoid robots**: These are robots that resemble humans in appearance, movement, and behavior, using sensors, cameras, actuators, and AI algorithms. They can be used for social interaction, entertainment, education, research, etc. Some examples of humanoid robot companies are Hanson Robotics, SoftBank Robotics, Boston Dynamics, and Ubtech.
+  - **Autonomous farming equipment**: These are machines that can perform agricultural tasks without human supervision, using sensors, cameras, GPS, and AI algorithms. They can improve productivity, efficiency, and sustainability for farmers and consumers. Some examples of autonomous farming equipment companies are John Deere, Blue River Technology, Harvest Automation, and FarmWise.
+  - **Robotics in entertainment**: These are robots that can create or enhance entertainment experiences for humans, using sensors, cameras, actuators, and AI algorithms. They can be used for films, video games, animation, cartoons, etc. Some examples of robotics in entertainment companies are Disney, Pixar, Anki, and Sphero.

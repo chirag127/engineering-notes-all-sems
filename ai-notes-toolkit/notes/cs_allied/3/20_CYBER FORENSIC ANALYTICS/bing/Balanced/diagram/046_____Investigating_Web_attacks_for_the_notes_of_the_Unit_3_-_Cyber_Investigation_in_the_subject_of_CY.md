@@ -1,0 +1,27 @@
+### Investigating Web Attacks
+
+- Web attacks are cyberattacks that target web applications, such as websites, web servers, web browsers, or web services.
+- Web attacks can have various goals, such as stealing sensitive data, defacing web pages, disrupting web services, or spreading malware.
+- Web attacks can exploit various vulnerabilities, such as SQL injection, cross-site scripting, cross-site request forgery, or broken authentication.
+- Web application forensics is the process of examining web applications and their contents to trace back the attack, identify the origin of the attack, and determine how the attack was propagated along with the devices and persons involved.
+- Web application forensics involves collecting and analyzing various types of evidence, such as:
+  - Web server logs, which record the requests and responses between the web server and the clients.
+  - Web application logs, which record the events and errors that occur within the web application.
+  - Web application files, such as HTML, CSS, JavaScript, PHP, or ASP, which may contain malicious code or modifications by the attacker.
+  - Web application configuration files, such as .htaccess, web.config, or php.ini, which may contain settings or directives that affect the web application's behavior or security.
+  - Web browser cache, cookies, history, or bookmarks, which may contain information about the web pages visited by the user or the attacker.
+  - Web browser extensions or plugins, which may enhance the web browser's functionality or security, or may be malicious or compromised by the attacker.
+  - Network traffic, which may capture the packets or data exchanged between the web server and the clients, or between the clients and other web services or servers.
+  - Malware analysis, which may identify and examine the malicious software or code that was used or delivered by the web attack.
+- Web application forensics can use various tools and techniques, such as:
+  - Web server analysis tools, such as Webalizer, AWStats, or Log Parser, which can parse and visualize the web server logs.
+  - Web application analysis tools, such as Burp Suite, OWASP ZAP, or Nmap, which can scan and test the web application for vulnerabilities or attacks.
+  - Web browser analysis tools, such as FTK Imager, NirSoft, or Browser History Viewer, which can extract and view the web browser data.
+  - Network analysis tools, such as Wireshark, TCPDump, or Netcat, which can capture and analyze the network traffic.
+  - Malware analysis tools, such as VirusTotal, Cuckoo Sandbox, or IDA Pro, which can detect and examine the malware or code.
+- Web application forensics can follow various steps, such as:
+  - Identify the web attack, by observing the symptoms, indicators, or alerts of the web attack, such as error messages, defaced web pages, unauthorized access, or data breach.
+  - Preserve the evidence, by securing the web server, web application, web browser, and network devices, and making copies or images of the relevant data or files.
+  - Analyze the evidence, by using the tools and techniques mentioned above, and correlating the findings to reconstruct the timeline, source, method, and impact of the web attack.
+  - Report the findings, by documenting the evidence, analysis, and conclusions, and presenting them to the relevant stakeholders, such as law enforcement, management, or customers.
+  - Remediate the web attack, by fixing the vulnerabilities, removing the malicious code or files, restoring the web application, and improving the web security.

@@ -1,0 +1,20 @@
+# EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- An embedded system is a computer system that is designed to perform a specific function within a larger system or device. It typically has limited hardware resources, such as memory, processing power, and input/output devices. It often runs on a microcontroller or a microprocessor that is integrated with the hardware components of the system. 
+- A real-time operating system (RTOS) is a type of operating system that is specialized for embedded systems that operate in real-time environments. A real-time environment is one where the system must respond to events or inputs within a predictable and bounded time limit, otherwise it may cause failure or damage.  
+- Some examples of real-time embedded systems are:
+  - Medical devices, such as pacemakers, ventilators, and infusion pumps.
+  - Industrial control systems, such as robots, CNC machines, and PLCs.
+  - Automotive systems, such as engine control, anti-lock braking, and airbag deployment.
+  - Aerospace systems, such as flight control, navigation, and communication.
+  - Consumer electronics, such as digital cameras, video games, and smart watches.  
+- Some features of a real-time operating system are:
+  - Task scheduling: An RTOS must be able to manage multiple tasks or processes that run concurrently on the system, and assign them priorities and deadlines based on their importance and urgency. An RTOS must also be able to switch between tasks efficiently and without causing delays or errors.  
+  - Interrupt handling: An RTOS must be able to handle external or internal interrupts that occur during the execution of a task, and resume the task after servicing the interrupt. An interrupt is a signal that indicates an event or a change of state that requires immediate attention. An RTOS must also be able to prioritize interrupts and avoid interrupt latency or starvation.  
+  - Memory management: An RTOS must be able to allocate and deallocate memory for tasks and data, and ensure that the memory is used efficiently and securely. An RTOS must also be able to handle memory fragmentation and garbage collection.  
+  - Inter-task communication and synchronization: An RTOS must be able to facilitate the exchange of data and signals between tasks, and coordinate their execution and access to shared resources. An RTOS must also be able to prevent or resolve conflicts and deadlocks that may arise due to concurrency and resource contention.  
+  - Device drivers and hardware abstraction: An RTOS must be able to interface with the hardware components of the embedded system, such as sensors, actuators, and communication modules, and provide a uniform and consistent way of accessing them. An RTOS must also be able to abstract the hardware details and provide a higher-level view of the system functionality.  
+- Some examples of real-time operating systems are:
+  - FreeRTOS: An open-source RTOS that is widely used for embedded systems. It supports various architectures, such as ARM, AVR, PIC, and x86. It provides basic features, such as task scheduling, interrupt handling, memory management, and inter-task communication. It also supports advanced features, such as event groups, queues, semaphores, mutexes, and software timers. 
+  - VxWorks: A commercial RTOS that is widely used for embedded systems. It supports various architectures, such as ARM, MIPS, PowerPC, and x86. It provides basic features, such as task scheduling, interrupt handling, memory management, and inter-task communication. It also supports advanced features, such as file systems, networking, security, graphics, and multimedia. 
+  - Linux: A general-purpose operating system that can be configured and customized for embedded systems. It supports various architectures, such as ARM, MIPS, PowerPC, and x86. It provides basic features, such as task scheduling, interrupt handling, memory management, and inter-task communication. It also supports advanced features, such as file systems, networking, security, graphics, and multimedia. It also supports various real-time extensions, such as PREEMPT_RT and Xenomai.

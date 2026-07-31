@@ -1,0 +1,28 @@
+### Dynamic Programming Parsing
+
+- Dynamic programming parsing is a technique for efficient syntactic analysis of natural language sentences using context-free grammars (CFGs) .
+- It is based on the idea of storing and reusing partial results of the parsing process in a table or chart, rather than recomputing them .
+- It can reduce the time complexity of parsing from exponential to polynomial, depending on the grammar and the input sentence .
+- There are different variants of dynamic programming parsing, such as the Cocke-Kasami-Younger (CKY) algorithm, the Earley algorithm, and the Chart parsing algorithm .
+- The CKY algorithm is a bottom-up parser that assumes the grammar is in Chomsky Normal Form (CNF), where each rule has at most two non-terminal symbols on the right-hand side .
+- The CKY algorithm works as follows :
+  - Initialize a n-by-n chart, where n is the length of the input sentence, and each cell (i,j) corresponds to a substring from word i to word j.
+  - For each word in the sentence, fill the diagonal cells (i,i) with the non-terminal symbols that can generate that word according to the grammar rules.
+  - For each span length from 2 to n, fill the cells (i,j) with the non-terminal symbols that can generate the substring from word i to word j by combining two smaller substrings according to the grammar rules.
+  - If the cell (1,n) contains the start symbol of the grammar, then the sentence is accepted and a parse tree can be constructed by backtracking the chart. Otherwise, the sentence is rejected.
+- The Earley algorithm is a top-down parser that can handle any CFG, including those with epsilon rules, unary rules, and left recursion .
+- The Earley algorithm works as follows :
+  - Initialize a list of n+1 statesets, where n is the length of the input sentence, and each stateset corresponds to a position in the sentence.
+  - For each stateset, perform three operations: predictor, scanner, and completer.
+  - The predictor adds new states to the current stateset by expanding the next non-terminal symbol in the existing states using the grammar rules.
+  - The scanner moves the dot in the existing states to the right by one symbol if the next symbol matches the current word in the input sentence.
+  - The completer moves the dot in the existing states to the right by one symbol if the next symbol is a completed non-terminal symbol in a previous stateset, and adds the completed states to the previous stateset as well.
+  - If the final stateset contains a state with the start symbol of the grammar and the dot at the end, then the sentence is accepted and a parse tree can be constructed by backtracking the states. Otherwise, the sentence is rejected.
+- The Chart parsing algorithm is a general framework for dynamic programming parsing that can handle different parsing strategies, such as top-down, bottom-up, or hybrid .
+- The Chart parsing algorithm works as follows :
+  - Initialize an empty chart, which is a data structure that stores edges, where each edge represents a partial or complete constituent with a start and end position, a left-hand side symbol, and a list of right-hand side symbols with a dot indicating the progress.
+  - Initialize an agenda, which is a queue of edges that are waiting to be processed.
+  - Add the initial edges to the agenda, depending on the parsing strategy. For example, for top-down parsing, add the edge with the start symbol of the grammar and the dot at the beginning.
+  - While the agenda is not empty, pop an edge from the agenda and add it to the chart if it is not already there.
+  - For each edge in the chart, apply the inference rules, depending on the parsing strategy, to generate new edges and add them to the agenda. For example, for top-down parsing, apply the predict and complete rules.
+  - If the chart contains an edge with the start symbol of the grammar, the dot at the end, and the span covering the whole input sentence, then the sentence is accepted and a parse tree can be constructed by backtracking the chart. Otherwise, the sentence is rejected.

@@ -1,0 +1,8 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic of Technical Presentation in Technical Communication. Here are some techniques for the notes of the Unit 3:
+
+### Techniques for the notes of the Unit 3 - Technical Presentation in the subject of Technical Communication
+
+- Use the notes to outline the main points and subpoints of your presentation. The notes should be concise and clear, and should not include the full text of your speech. You can use bullet points, keywords, phrases, or abbreviations to summarize your ideas.
+- Use the notes to remind yourself of the purpose, audience, and objectives of your presentation. The notes should also include the introduction, body, and conclusion of your presentation, as well as the transitions between them. You can use signposts, questions, summaries, or previews to guide your audience through your presentation.
+- Use the notes to support your presentation with evidence, examples, statistics, quotations, or visuals. The notes should indicate the sources of your information, and how you will cite them in your presentation. You can use parentheses, brackets, or footnotes to reference your sources.
+- Use the notes to enhance your delivery and confidence. The notes should be easy to read and access, and should not distract you or your audience from your presentation. You can use cards, paper, or electronic devices to store your notes, and use a font size, color, and style that is comfortable for you. You can also use cues, symbols, or highlights to emphasize important points or to indicate when to change slides, gestures, or tone.

@@ -1,0 +1,11 @@
+### Change Control Process in Software Project Management
+
+Change control is the process of managing and assessing changes to a software project and its procedures. Change control can help a project manager to regulate the project and alter it based on changing environments, conditions or requirements.
+
+The change control process typically consists of the following steps  :
+
+1. **Change request initiation**: In this step, a change request is submitted by anyone on the project team, a stakeholder, a client, or a user. The change request should document the nature, scope, and reason for the change, as well as the expected impact and benefits of the change.
+2. **Change request assessment**: In this step, the project manager reviews the change request and determines whether it is valid, feasible, and aligned with the project objectives and scope. The project manager may consult with the project team, the client, or other stakeholders to gather more information or feedback on the change request.
+3. **Change request analysis**: In this step, the project manager evaluates the potential effects of the change request on the project schedule, budget, quality, and risks. The project manager may use various tools and techniques, such as impact analysis, cost-benefit analysis, risk analysis, or change control board, to analyze the change request and its implications.
+4. **Change request implementation**: In this step, the project manager decides whether to approve, reject, or defer the change request based on the analysis results. If the change request is approved, the project manager updates the project plan, scope, schedule, budget, quality, and risk management documents accordingly. The project manager also communicates the change and its impact to the project team, the client, and other stakeholders, and assigns the tasks and responsibilities for implementing the change.
+5. **Change request evaluation**: In this step, the project manager monitors and controls the implementation of the change and verifies that the change has been completed successfully and meets the expected outcomes. The project manager also measures the performance and benefits of the change and documents the lessons learned and best practices for future reference.

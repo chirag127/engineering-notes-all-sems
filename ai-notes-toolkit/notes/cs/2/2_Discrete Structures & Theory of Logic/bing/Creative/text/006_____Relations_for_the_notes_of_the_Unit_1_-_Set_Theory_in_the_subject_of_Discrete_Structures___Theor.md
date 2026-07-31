@@ -1,0 +1,12 @@
+### Relations for the notes of the Unit 1 - Set Theory in the subject of Discrete Structures & Theory of Logic
+
+- A relation R on a set A is a subset of A x A, where A x A is the Cartesian product of A with itself.
+- A relation R on a set A can be represented by a matrix M, where M[i][j] = 1 if (a_i, a_j) is in R and M[i][j] = 0 otherwise, where a_i and a_j are the i-th and j-th elements of A.
+- A relation R on a set A can also be represented by a directed graph G, where the vertices are the elements of A and there is an edge from a to b if and only if (a, b) is in R.
+- A relation R on a set A is called reflexive if (a, a) is in R for every a in A. A relation R is called irreflexive if (a, a) is not in R for any a in A.
+- A relation R on a set A is called symmetric if (a, b) is in R implies (b, a) is in R for every a and b in A. A relation R is called antisymmetric if (a, b) and (b, a) are in R implies a = b for every a and b in A.
+- A relation R on a set A is called transitive if (a, b) and (b, c) are in R implies (a, c) is in R for every a, b and c in A.
+- A relation R on a set A is called an equivalence relation if it is reflexive, symmetric and transitive. An equivalence relation partitions A into disjoint subsets called equivalence classes, where two elements are in the same equivalence class if and only if they are related by R.
+- A relation R on a set A is called a partial order if it is reflexive, antisymmetric and transitive. A partial order induces a hierarchy among the elements of A, where a is said to be less than or equal to b (denoted by a ≤ b) if (a, b) is in R.
+- A relation R on a set A is called a total order if it is a partial order and for every a and b in A, either (a, b) or (b, a) is in R. A total order is also called a linear order, as it arranges the elements of A in a line.
+- A relation R on a set A is called a function if for every a in A, there is exactly one b in A such that (a, b) is in R. A function is also denoted by f: A -> A, where f(a) = b means (a, b) is in R. A function is called one-to-one (or injective) if f(a) = f(b) implies a = b for every a and b in A. A function is called onto (or surjective) if for every b in A, there is some a in A such that f(a) = b. A function is called bijective if it is both one-to-one and onto. A bijective function is also called a permutation of A, as it rearranges the elements of A.

@@ -1,0 +1,24 @@
+### Negotiation and Bargaining
+
+- Negotiation is a process in which a joint decision is made by two or more parties who have conflicting interests or preferences.
+- Bargaining is a discussion about what the other side wants, while negotiation is a discussion about why they want it.
+- Negotiation and bargaining can be applied to various domains, such as business, politics, law, diplomacy, and personal relationships.
+- Negotiation and bargaining can involve human-human, human-agent, or agent-agent interactions, where agents are artificial intelligence (AI) programs that can negotiate and help resolve disputes.
+- AI agents can have different roles and capabilities in negotiation and bargaining, such as:
+  - Mediators: AI agents that facilitate the communication and understanding between human negotiators, and help them reach a mutually acceptable agreement.
+  - Representatives: AI agents that act on behalf of a human negotiator, and try to achieve the best possible outcome for their principal.
+  - Opponents: AI agents that negotiate with human or other AI agents, and try to maximize their own utility or achieve their own goals.
+  - Coordinators: AI agents that negotiate with other AI agents to coordinate their actions or share resources.
+- AI agents can use different techniques and strategies to negotiate and bargain, such as:
+  - Game theory: A mathematical framework that models the rational behavior and outcomes of strategic interactions among agents.
+  - Heuristics: Simple rules or guidelines that agents use to make decisions or concessions in negotiation and bargaining.
+  - Machine learning: A branch of AI that enables agents to learn from data and experience, and improve their performance over time.
+  - Natural language processing: A branch of AI that enables agents to understand and generate natural language, and communicate with human or other AI agents.
+  - Argumentation: A process of exchanging reasons and evidence to persuade or convince others in negotiation and bargaining.
+- Negotiation and bargaining can have different outcomes and measures, such as:
+  - Pareto efficiency: A situation where no party can improve their outcome without making another party worse off.
+  - Nash equilibrium: A situation where no party can improve their outcome by unilaterally changing their strategy.
+  - Social welfare: A measure of the overall utility or satisfaction of all parties involved in negotiation and bargaining.
+  - Individual utility: A measure of the preference or satisfaction of a single party in negotiation and bargaining.
+  - Agreement rate: A measure of the frequency or probability of reaching an agreement in negotiation and bargaining.
+  - Negotiation time: A measure of the duration or complexity of negotiation and bargaining.

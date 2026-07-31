@@ -1,0 +1,32 @@
+#### Various Size Oriented Measures in Software Design
+
+- Size oriented measures are based on the assumption that the size of the software product is a good indicator of its complexity, effort, and quality.
+- Size oriented measures can be classified into two categories: direct measures and indirect measures.
+- Direct measures are based on the physical attributes of the software product, such as lines of code, number of statements, number of modules, etc.
+- Indirect measures are based on the logical attributes of the software product, such as functionality, features, requirements, etc.
+- Some examples of direct measures are:
+  - Lines of Code (LOC): It is the most common and simple measure of software size. It counts the number of executable lines of code in the source code. It can be measured in different ways, such as physical LOC, logical LOC, effective LOC, etc. LOC can be used to estimate the effort, cost, and quality of software development. However, LOC has some limitations, such as:
+    - It is dependent on the programming language, coding style, and level of abstraction.
+    - It does not reflect the functionality, complexity, or quality of the software product.
+    - It can be easily manipulated by adding or deleting lines of code.
+  - Number of Statements: It is another measure of software size that counts the number of executable statements in the source code. It is similar to LOC, but it does not include comments, blank lines, or non-executable statements. It can also be used to estimate the effort, cost, and quality of software development. However, it has some limitations, such as:
+    - It is dependent on the programming language, coding style, and level of abstraction.
+    - It does not reflect the functionality, complexity, or quality of the software product.
+    - It can be easily manipulated by adding or deleting statements.
+  - Number of Modules: It is a measure of software size that counts the number of independent and cohesive units of code in the software product. It can be measured at different levels of granularity, such as functions, classes, packages, components, etc. It can be used to estimate the effort, cost, and quality of software development. However, it has some limitations, such as:
+    - It is dependent on the programming language, coding style, and level of abstraction.
+    - It does not reflect the functionality, complexity, or quality of the software product.
+    - It can be affected by the choice of modularization criteria and techniques.
+- Some examples of indirect measures are:
+  - Function Points (FP): It is a measure of software size that is based on the functionality and features of the software product. It counts the number of inputs, outputs, inquiries, files, and interfaces that the software product provides to the user. It can be measured by using a standard formula that assigns weights to each type of function. It can be used to estimate the effort, cost, and quality of software development. However, it has some limitations, such as:
+    - It is subjective and requires expert judgment to identify and classify the functions.
+    - It is dependent on the user's perspective and requirements, which may change over time.
+    - It does not reflect the complexity or quality of the software product.
+  - Feature Points (FP): It is a measure of software size that is based on the features and characteristics of the software product. It counts the number of algorithms, data structures, user interfaces, and system interfaces that the software product provides. It can be measured by using a standard formula that assigns weights to each type of feature. It can be used to estimate the effort, cost, and quality of software development. However, it has some limitations, such as:
+    - It is subjective and requires expert judgment to identify and classify the features.
+    - It is dependent on the developer's perspective and design, which may change over time.
+    - It does not reflect the functionality or quality of the software product.
+  - Use Case Points (UCP): It is a measure of software size that is based on the use cases and scenarios of the software product. It counts the number of actors, use cases, and transactions that the software product supports. It can be measured by using a standard formula that assigns weights to each type of use case. It can be used to estimate the effort, cost, and quality of software development. However, it has some limitations, such as:
+    - It is subjective and requires expert judgment to identify and classify the use cases.
+    - It is dependent on the user's perspective and requirements, which may change over time.
+    - It does not reflect the complexity or quality of the software product.

@@ -1,0 +1,8 @@
+# On-demand Provisioning
+
+- On-demand provisioning is a feature of cloud computing that allows users to obtain and release cloud resources as needed, without human intervention .
+- On-demand provisioning enables cloud users to scale up or down their computing capacity according to their changing requirements, and pay only for what they use.
+- On-demand provisioning also reduces the cost and complexity of managing IT infrastructure, as cloud providers take care of the maintenance, security, and availability of the cloud resources.
+- On-demand provisioning can be implemented in different ways, depending on the type and level of cloud service. For example, in Infrastructure as a Service (IaaS), users can provision virtual machines, storage, and network resources on demand through a web-based portal or an application programming interface (API). In Software as a Service (SaaS), users can access cloud applications on demand through a web browser or a mobile app.
+- On-demand provisioning can also be integrated with other cloud features, such as load balancing, auto-scaling, and backup, to optimize the performance and reliability of the cloud resources.
+- On-demand provisioning requires cloud providers to have sufficient and flexible resources to meet the varying demands of the cloud users, as well as efficient and accurate billing and monitoring systems to track the usage and cost of the cloud resources.

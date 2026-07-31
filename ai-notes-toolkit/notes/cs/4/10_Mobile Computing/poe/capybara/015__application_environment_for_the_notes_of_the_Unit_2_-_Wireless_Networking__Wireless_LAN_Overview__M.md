@@ -1,0 +1,11 @@
+### Application Environment for the Notes of the Unit 2 - Wireless Networking, Wireless LAN Overview: MAC Issues, IEEE 802.11, Bluetooth, Wireless in the Subject of Mobile Computing
+
+In this unit, we will discuss the application environment of wireless networking in mobile computing. Here are the main points to consider:
+
+- Wireless networking has revolutionized the way we connect our devices to the internet. It has made it possible to access the internet from anywhere, at any time, without the need for a wired connection.
+- One of the main issues with wireless networking is the allocation of MAC addresses. The MAC address is a unique identifier assigned to each device. In wireless networking, the MAC address is used to identify the device and maintain the connection. However, there can be conflicts if two devices have the same MAC address. To avoid this, the MAC address is assigned by the manufacturer and cannot be changed.
+- IEEE 802.11 is the standard for wireless networking. It defines the protocols and procedures for wireless communication. This standard is used in most wireless networks, including Wi-Fi networks. It specifies the frequencies, data rates, and security protocols for wireless communication.
+- Bluetooth is a wireless technology that allows devices to communicate with each other over short distances. It is commonly used for connecting wireless headphones, speakers, and other peripherals to a device. Bluetooth uses a low-power radio frequency to transmit data between devices.
+- Wireless LAN, or Wi-Fi, is a type of wireless networking that uses radio waves to transmit data over a local area network (LAN). It is commonly used in homes, offices, and public spaces to provide wireless internet access. Wi-Fi networks use IEEE 802.11 standards to ensure compatibility between devices.
+
+In conclusion, wireless networking has become an essential part of mobile computing. Understanding the application environment of wireless networking is crucial for building and maintaining wireless networks. The MAC issues, IEEE 802.11 standards, Bluetooth technology, and Wireless LAN overview are important concepts to know in the subject of mobile computing.

@@ -1,0 +1,11 @@
+### Background for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+
+- Feature extraction is the process of transforming raw data (such as images) into a set of features that are informative, non-redundant, and suitable for further analysis, such as machine learning, pattern recognition, or image processing .
+- Features are derived values that capture some characteristics or properties of the data, such as shape, color, texture, edges, corners, keypoints, etc.
+- Feature extraction aims to reduce the dimensionality and complexity of the data, while preserving the relevant information and improving the performance and interpretability of the subsequent tasks .
+- Feature extraction can be performed by different methods, depending on the type and domain of the data, the purpose and goal of the analysis, and the available computational resources.
+- Some common methods of feature extraction are:
+  - Calculation-based: These methods use mathematical or statistical operations to compute features from the data, such as histograms, moments, Fourier transform, wavelet transform, etc. These methods are fast and simple, but may not capture the semantic or contextual information of the data.
+  - Recognition-based: These methods use machine learning models to learn features from the data, such as convolutional neural networks, autoencoders, deep belief networks, etc. These methods are able to extract high-level and abstract features that are relevant for the specific task, but may require a large amount of labeled data and computational power.
+  - Simulation-based: These methods use physical or biological models to simulate features from the data, such as saliency maps, visual attention, biologically inspired features, etc. These methods are inspired by the human or animal vision system and try to mimic the way they perceive and process visual information, but may not be generalizable or scalable to different domains or tasks.
+- Feature extraction is an essential and challenging step in image analytics, as it determines the quality and effectiveness of the subsequent analysis. Therefore, choosing the appropriate method and parameters for feature extraction is crucial for achieving the desired results.

@@ -1,0 +1,21 @@
+# Basic concepts for the notes of the Unit 5 - Genetic Algorithm(GA) in the subject of Application of Soft Computing
+
+- Genetic Algorithm (GA) is a search-based optimization technique based on the principles of natural selection and genetics.
+- GA is a subset of evolutionary algorithms, which generate solutions to optimization problems using techniques inspired by natural evolution, such as inheritance, mutation, selection, and crossover.
+- GA can be used to find optimal or near-optimal solutions to difficult problems that are otherwise hard to solve using conventional methods.
+- GA works with a population of candidate solutions (called chromosomes) that are encoded as strings of binary digits, real numbers, or symbols.
+- GA starts with an initial population of randomly generated chromosomes and then applies genetic operators to produce new generations of chromosomes.
+- GA evaluates the fitness of each chromosome according to a predefined objective function that measures the quality of the solution.
+- GA selects the fittest chromosomes to form a mating pool and then applies crossover and mutation operators to create offspring chromosomes.
+- GA repeats this process until a termination criterion is met, such as reaching a maximum number of generations, finding a satisfactory solution, or reaching a convergence state.
+- GA has the following advantages:
+  - It can handle complex, nonlinear, and multimodal problems.
+  - It can deal with noisy, incomplete, and imprecise data.
+  - It can explore a large and diverse search space.
+  - It can avoid getting trapped in local optima.
+  - It can adapt to changing environments and requirements.
+- GA has the following disadvantages:
+  - It can be computationally expensive and time-consuming.
+  - It can require a lot of parameter tuning and problem-specific knowledge.
+  - It can suffer from premature convergence and loss of diversity.
+  - It can have difficulties in handling constraints and dynamic problems.

@@ -1,0 +1,29 @@
+### Flow Charts for the notes of the Unit 3 - Software Design in the subject of Software Engineering
+
+- A flow chart is a graphical representation of an algorithm or a process that uses different shapes and symbols to show the flow of information and processing .
+- Flow charts are useful for programmers to plan and design software solutions, as well as for non-developers to understand the logic and functionality of a system.
+- Flow charts can be classified into different types, such as:
+  - Program flow chart: shows the sequence of instructions and decisions in a computer program.
+  - System flow chart: shows the interactions and data flows between different components of a system.
+  - Data flow diagram: shows the sources, destinations, and transformations of data in a system.
+- Flow charts follow some common rules and conventions, such as:
+  - Start and end points are represented by circles or ovals.
+  - Processes or actions are represented by rectangles.
+  - Decisions or conditions are represented by diamonds.
+  - Data or information are represented by parallelograms.
+  - Flow lines are represented by arrows that connect the symbols and indicate the direction of flow.
+  - Flow lines should not cross each other, and symbols should not overlap.
+  - Flow charts should have a clear and logical structure, and avoid unnecessary complexity.
+- Flow charts can be created using various software tools, such as:
+  - Lucidchart: a web-based diagramming tool that supports flow charts, data flow diagrams, and other types of diagrams .
+  - Microsoft Visio: a desktop application that is part of the Microsoft Office suite and allows creating and editing flow charts, data flow diagrams, and other types of diagrams.
+  - Textografo: a text-based diagramming tool that generates flow charts and other types of diagrams from plain text.
+  - diagrams.net: a free and open-source web-based diagramming tool that supports flow charts, data flow diagrams, and other types of diagrams.
+  - SmartDraw: a desktop and web-based diagramming tool that offers a large collection of templates and symbols for flow charts, data flow diagrams, and other types of diagrams.
+  - EdrawMax: a desktop and web-based diagramming tool that supports data flow diagrams, flow charts, and other types of diagrams .
+- Flow charts can be used for various purposes and applications, such as:
+  - Software development: to design, document, and communicate algorithms and processes .
+  - Software engineering: to model and analyze the structure, behavior, and data flow of software systems.
+  - Business process management: to map, improve, and automate business processes and workflows.
+  - Education: to teach and learn programming concepts and logic.
+  - Problem solving: to break down complex problems into simpler steps and solutions.

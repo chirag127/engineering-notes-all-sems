@@ -1,0 +1,11 @@
+### Basic Design using RTOS
+
+- An RTOS is an operating system designed to manage hardware resources of an embedded system; it creates multiple threads of software execution and a scheduler for managing these threads.
+- An RTOS provides a multi-tasking and deterministic run-time environment, which means that tasks can be executed in a predictable and timely manner.
+- An RTOS can be used to design embedded systems that have real-time constraints, such as deadlines, response times, throughput, etc.
+- Some basic design principles using RTOS are :
+  - Write short interrupt routines, but not too short. Interrupt routines should perform the minimum necessary work and then return to the main program or signal a task to handle the rest of the work. This reduces the interrupt latency and the blocking time of other tasks.
+  - Use a suitable task priority scheme. Tasks should be assigned priorities based on their importance and urgency. A common technique is to use rate monotonic scheduling (RMS), which assigns higher priorities to tasks with shorter periods. RMS can be used to verify if the tasks in the system can be scheduled successfully.
+  - Avoid creating and destroying tasks while the system is running. This can be time consuming and may cause memory leaks or fragmentation. It may be better to create all the tasks at system startup and leave them suspended or dormant until they are needed.
+  - Use semaphores and message queues for inter-task communication and synchronization. Semaphores can be used to protect shared resources or signal events between tasks. Message queues can be used to pass data between tasks. These mechanisms should be used carefully to avoid deadlocks, priority inversions, or unnecessary overhead.
+  - Use a modular and layered design approach. Tasks should be designed to perform specific and well-defined functions, and to communicate with other tasks through well-defined interfaces. This improves the readability, maintainability, and reusability of the code. A layered design can also help to separate the application logic from the hardware abstraction and the RTOS services.

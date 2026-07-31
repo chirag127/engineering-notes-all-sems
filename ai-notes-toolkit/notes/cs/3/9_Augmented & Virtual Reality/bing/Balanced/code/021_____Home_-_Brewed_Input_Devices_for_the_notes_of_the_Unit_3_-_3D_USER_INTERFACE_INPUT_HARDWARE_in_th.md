@@ -1,0 +1,21 @@
+### Home-Brewed Input Devices for 3D User Interfaces
+
+- Home-brewed input devices are custom-made devices that are designed and built by the user or the developer for a specific 3D user interface application or task.
+- Home-brewed input devices can offer several advantages over commercial or standard input devices, such as:
+  - Lower cost
+  - Higher flexibility and adaptability
+  - Better suitability for the application or task requirements
+  - More creativity and innovation
+- Home-brewed input devices can also have some disadvantages, such as:
+  - Lower reliability and robustness
+  - Higher maintenance and calibration needs
+  - Lower compatibility and interoperability with other systems or devices
+  - Higher learning curve and user training
+- Home-brewed input devices can be classified into two main categories, based on the type of input they provide:
+  - Positional input devices: These devices measure the position and orientation of the user or a part of the user's body in 3D space, such as the head, hand, or finger. Examples of positional input devices are head trackers, hand trackers, or glove-based devices.
+  - Gestural input devices: These devices recognize the gestures or movements of the user or a part of the user's body, such as the hand, finger, or arm. Examples of gestural input devices are gesture recognition systems, motion capture systems, or camera-based devices.
+- Home-brewed input devices can be created using various methods and materials, such as:
+  - Using off-the-shelf components, such as sensors, microcontrollers, or wireless modules, and assembling them into a device. For example, a positional input device can be made by attaching an accelerometer and a gyroscope to a glove and connecting them to a microcontroller that sends the data to a computer via Bluetooth.
+  - Using 3D printing or rapid prototyping techniques, such as laser cutting, CNC milling, or injection molding, to create the shape and structure of the device. For example, a gestural input device can be made by 3D printing a ring that fits on the user's finger and embeds a camera that captures the finger movements.
+  - Using DIY electronics or hacking tools, such as Arduino, Raspberry Pi, or Makey Makey, to create the circuitry and logic of the device. For example, a positional input device can be made by hacking a Wii remote and using its infrared camera and accelerometer to track the position and orientation of the user's hand.
+  - Using software libraries or frameworks, such as Processing, OpenCV, or Kinect SDK, to create the software that processes and interprets the input data from the device. For example, a gestural input device can be made by using a webcam and OpenCV to detect and recognize the hand gestures of the user.

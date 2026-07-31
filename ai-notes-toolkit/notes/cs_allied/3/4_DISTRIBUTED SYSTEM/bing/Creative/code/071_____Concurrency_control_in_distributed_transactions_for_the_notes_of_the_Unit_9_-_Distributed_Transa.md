@@ -1,0 +1,27 @@
+# Concurrency control in distributed transactions
+
+- Concurrency control is the process of managing the concurrent execution of transactions in a distributed database system, such that the ACID properties are preserved .
+- ACID stands for Atomicity, Consistency, Isolation, and Durability, which are the desirable properties of a transaction .
+- Atomicity means that a transaction either executes completely or not at all .
+- Consistency means that a transaction preserves the integrity constraints of the database .
+- Isolation means that a transaction does not interfere with other concurrent transactions .
+- Durability means that the effects of a committed transaction are permanent and survive failures .
+- Concurrency control is needed because concurrent transactions may cause anomalies or inconsistencies in the database, such as lost updates, dirty reads, unrepeatable reads, or phantom reads  .
+- Lost updates occur when two transactions update the same data item and one of them overwrites the other's update  .
+- Dirty reads occur when a transaction reads a data item that has been updated by another transaction but not yet committed  .
+- Unrepeatable reads occur when a transaction reads the same data item twice and gets different values due to another transaction's update  .
+- Phantom reads occur when a transaction reads a set of data items that satisfy some condition and gets different results due to another transaction's insertion or deletion of data items that satisfy the same condition  .
+- Concurrency control can be achieved by using various techniques, such as locking, timestamping, or optimistic methods  .
+- Locking-based concurrency control protocols use the concept of locking data items to prevent concurrent transactions from accessing or modifying them  .
+- Locking can be exclusive or shared, depending on whether the transaction intends to read or write the data item  .
+- Locking can also be centralized or distributed, depending on whether there is a single or multiple lock managers in the system  .
+- Locking can also be static or dynamic, depending on whether the locks are acquired at the beginning or during the execution of the transaction  .
+- Locking can also be hierarchical or flat, depending on whether the locks are applied to different levels of granularity, such as database, table, page, or record  .
+- Locking can also be strict or relaxed, depending on whether the locks are released after the transaction commits or before  .
+- Locking can also be two-phase or not, depending on whether the transaction follows the two-phase locking protocol, which requires that all locks are acquired before any lock is released  .
+- Locking-based concurrency control protocols can ensure serializability, which is the property that the concurrent execution of transactions is equivalent to some serial execution of the same transactions  .
+- Locking-based concurrency control protocols can also ensure deadlock-freedom, which is the property that no transaction is blocked indefinitely by another transaction's lock  .
+- Locking-based concurrency control protocols can also ensure livelock-freedom, which is the property that no transaction is repeatedly aborted and restarted due to conflicts with other transactions  .
+- Locking-based concurrency control protocols can also ensure starvation-freedom, which is the property that every transaction eventually gets the locks it needs  .
+- Locking-based concurrency control protocols can also ensure fairness, which is the property that every transaction gets the locks it needs in a reasonable order  .
+- Timestamp-based concurrency control algorithms use a transaction's timestamp to determine the order of conflicting operations

@@ -1,0 +1,9 @@
+### Software Quality Frameworks
+
+- Software quality frameworks are models that connect and integrate the different views of software quality, such as the customer view, the developer view, and the product view.
+- Software quality frameworks help to define, measure, and improve the quality of software products and processes, by providing a common language and a set of criteria for software quality.
+- Some examples of software quality frameworks are:
+  - The ISO/IEC 25000 series of standards, also known as SQuaRE (System and Software Quality Requirements and Evaluation), which contains a framework to evaluate software product quality based on eight quality characteristics, such as functionality, reliability, usability, security, maintainability, portability, compatibility, and performance efficiency.
+  - The Capability Maturity Model Integration (CMMI), which is a process improvement framework that defines five levels of maturity for software development and maintenance processes, from initial to optimized, based on the presence and effectiveness of key process areas, such as requirements management, project planning, configuration management, quality assurance, and risk management.
+  - The Software Engineering Institute (SEI) Software Quality Attribute Workshop (QAW), which is a method to elicit, prioritize, and refine the quality attributes of a software system, such as availability, modifiability, performance, security, testability, and usability, by involving the stakeholders and analyzing the scenarios and risks related to the quality attributes.
+  - The Software Product Quality Requirements and Evaluation (SQuaRE) Method, which is a method to specify and evaluate the quality requirements and characteristics of a software product, by using a quality model, a quality measure, and a quality evaluation procedure, based on the ISO/IEC 25000 series of standards.

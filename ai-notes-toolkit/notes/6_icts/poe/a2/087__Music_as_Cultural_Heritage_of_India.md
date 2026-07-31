@@ -1,0 +1,10 @@
+ Here is the content in markdown format with formal tone and without emojis or external links:
+
+### Music as Cultural Heritage of India
+
+1. Indian classical music has a long history and tradition and is one of the oldest unbroken musical traditions in the world. It includes both Carnatic music from South India and Hindustani music from North India.
+2. Carnatic music is based on musical scales and melodic patterns, and compositions are typically dedicated to Hindu deities. Hindustani music is based on melodic modes used for vocal or instrumental performances, and the compositions are primarily based on lyrics from the Indian epic poetry.
+3. Folk music is widely varied across India's regions and is deeply rooted in local culture with songs associated with birth, marriage, festivals, and other community rituals. Popular music developed from a synthesis of folk traditions, Hindustani and Carnatic classical music, and Western styles.
+4. Some of the most popular Indian musical instruments are the sitar, sarod, veena, flute, and tabla. The sitar and sarod are stringed instruments, the veena is a plucked string instrument, the flute is a woodwind instrument, and the tabla is a percussion instrument.
+5. Indian classical dance is an ancient art form that combines expressive hand gestures and body movements with footwork set to rhythmic cycles and sculpted to the melodic patterns of the raga. Bharatanatyam, Kathak, Kuchipudi, Odissi, Manipuri, and Kathakali are some of the major classical dance styles in India.
+6. Music and dance are an integral part of Indian culture and worship. They are deeply rooted in mythology and demonstrate the rich cultural heritage of the country which has evolved through centuries while retaining its traditional flavor. The tradition continues to be passed on through gurukul system of learning where the student lives with and learns from the guru.

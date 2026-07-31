@@ -1,0 +1,11 @@
+### Object-oriented Analysis and Design (OOAD) Process
+
+- Object-oriented analysis and design (OOAD) is a technical approach for analyzing and designing an application, system, or business by applying object-oriented programming, as well as using visual modeling throughout the software development process to guide stakeholder communication and product quality.
+- OOAD consists of two main activities: object-oriented analysis (OOA) and object-oriented design (OOD).
+- OOA is the process of identifying and modeling the functional requirements of the software, while remaining independent of any implementation details. OOA uses object-oriented concepts and techniques, such as classes, objects, attributes, methods, associations, inheritance, and polymorphism, to model the problem domain .
+- OOD is the process of designing the software architecture and components that will satisfy the functional requirements, while adhering to the object-oriented principles and best practices, such as modularity, reusability, encapsulation, abstraction, and cohesion. OOD uses object-oriented models, such as class diagrams, sequence diagrams, state diagrams, and collaboration diagrams, to describe the structure and behavior of the software .
+- OOAD follows an iterative and incremental approach, where the analysis and design activities are performed in cycles, each producing a partial or complete version of the software. OOAD also supports agile methodologies, such as Scrum and XP, that emphasize collaboration, feedback, and adaptation .
+- The main benefits of OOAD are:
+  - It facilitates communication and understanding among stakeholders, developers, and users, by using a common and intuitive language and notation.
+  - It improves the quality and maintainability of the software, by promoting modularity, reusability, and extensibility of the code.
+  - It reduces the complexity and risk of the software development, by allowing early detection and correction of errors and inconsistencies, and by enabling incremental and evolutionary delivery of the software  .

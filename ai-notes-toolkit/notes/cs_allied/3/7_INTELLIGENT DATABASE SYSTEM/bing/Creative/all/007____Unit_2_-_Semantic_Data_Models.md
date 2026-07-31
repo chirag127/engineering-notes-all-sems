@@ -1,0 +1,10 @@
+## Unit 2 - Semantic Data Models
+
+- Semantic data models are conceptual data models that capture the meaning and relationships of data in a domain of interest.
+- Semantic data models use high-level abstractions such as entities, attributes, and relationships to represent data and their semantics.
+- Semantic data models can be used to design databases, ontologies, knowledge bases, and other information systems that require a rich and expressive representation of data.
+- Semantic data models can also be used to facilitate data integration, interoperability, and reasoning across heterogeneous data sources and applications.
+- Some examples of semantic data models are:
+  - Entity-relationship model: A semantic data model that represents data as entities (things or objects) and relationships (associations or connections) between them. Entities have attributes (properties or characteristics) that describe them. Relationships have cardinalities (constraints or rules) that specify how many entities can participate in them.
+  - Semantic network: A semantic data model that represents data as nodes (concepts or instances) and links (relations or predicates) between them. Nodes have types (categories or classes) that define their properties and behavior. Links have roles (arguments or parameters) that indicate the function or meaning of the nodes they connect.
+  - Ontology: A semantic data model that represents data as classes (sets or collections) and properties (features or aspects) of those classes. Classes have subclasses (subsets or specializations) that inherit their properties. Properties have domains (sources or subjects) and ranges (targets or objects) that specify the classes they apply to. Ontologies also define axioms (rules or constraints) that govern the logical consistency and inference of the data.

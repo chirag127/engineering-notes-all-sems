@@ -1,0 +1,25 @@
+### 1. Calibration of Analytical Equipment and Apparatus
+
+- Calibration is the process of evaluating and adjusting the precision and accuracy of measurement equipment.
+- Calibration ensures that the equipment and apparatus are functioning properly and producing valid data for future reference.
+- Calibration also helps to maintain a safe working environment and comply with quality standards and regulations.
+- Calibration of analytical equipment and apparatus involves the following steps:
+  - Selecting a suitable reference standard that has a known and traceable value of the parameter to be measured.
+  - Comparing the output of the equipment or apparatus with the reference standard under specified conditions.
+  - Determining the error or deviation of the equipment or apparatus from the reference standard.
+  - Applying a correction factor or adjustment to the equipment or apparatus to minimize the error or deviation.
+  - Documenting the calibration results and procedures in a calibration certificate or report.
+- Calibration of analytical equipment and apparatus should be performed at regular intervals based on the following factors:
+  - The frequency and duration of use of the equipment or apparatus.
+  - The environmental conditions and stability of the equipment or apparatus.
+  - The manufacturer's recommendations and specifications.
+  - The quality requirements and specifications of the analytical method.
+  - The historical performance and reliability of the equipment or apparatus.
+- Calibration of analytical equipment and apparatus should follow a standard operating procedure (SOP) that specifies the following aspects:
+  - The identification and description of the equipment or apparatus.
+  - The calibration frequency and schedule.
+  - The reference standards and calibration methods.
+  - The acceptance criteria and tolerance limits.
+  - The calibration records and reports.
+  - The responsibilities and authorities of the personnel involved.
+  - The corrective actions and preventive measures in case of non-conformance.

@@ -1,0 +1,15 @@
+# Random number generation
+
+- Random number generation is a process by which a sequence of numbers or symbols that cannot be reasonably predicted better than by random chance is generated.
+- Random numbers are useful for many applications, such as cryptography, simulation, gaming, statistical sampling, and scientific experiments.
+- A random number generator (RNG) is a device or algorithm that produces random numbers. There are two main types of RNGs: hardware-based and pseudo-random.
+- Hardware-based RNGs use physical sources of randomness, such as dice, coins, radioactive decay, thermal noise, or quantum phenomena, to generate random numbers. Hardware-based RNGs are typically more unpredictable and secure, but they may be slower, more expensive, or less available than pseudo-random RNGs .
+- Pseudo-random RNGs use mathematical formulas or programs to generate random numbers from an initial value called a seed. Pseudo-random RNGs are faster, cheaper, and more convenient than hardware-based RNGs, but they are not truly random, as they produce deterministic and periodic sequences that can be reproduced or predicted with enough information about the seed and the algorithm .
+- Pseudo-random numbers are often sufficient for many purposes, as long as they have good statistical properties and pass various tests of randomness. However, they may not be suitable for applications that require high levels of security or unpredictability, such as cryptography .
+- There are many methods and algorithms for generating pseudo-random numbers, such as linear congruential generators, linear feedback shift registers, Mersenne Twister, Blum Blum Shub, and cryptographic hash functions. Each method has its own advantages and disadvantages, such as speed, memory, period, quality, and security .
+- Some examples of pseudo-random number generators are:
+
+  - The RANDU algorithm, which uses the formula `x(n+1) = 65539 * x(n) mod 2^31`, where `x(n)` is the nth random number and `x(0)` is the seed. This algorithm is fast and simple, but it has poor statistical properties and produces correlated numbers.
+  - The Mersenne Twister algorithm, which uses a twisted generalized feedback shift register to generate random numbers with a very long period of 2^19937 − 1. This algorithm is widely used and has good statistical properties, but it is not cryptographically secure and may have a slow initialization.
+  - The Blum Blum Shub algorithm, which uses the formula `x(n+1) = x(n)^2 mod M`, where `x(n)` is the nth random number, `x(0)` is the seed, and `M` is the product of two large prime numbers. This algorithm is cryptographically secure and has good statistical properties, but it is very slow and requires large storage.
+  - The SHA-256 algorithm, which is a cryptographic hash function that takes any input and produces a 256-bit output that is unpredictable and irreversible. This algorithm can be used to generate random numbers by hashing the seed and the counter, and then taking a portion of the output. This algorithm is very secure and has good statistical properties, but it is relatively slow and may have a limited output range.

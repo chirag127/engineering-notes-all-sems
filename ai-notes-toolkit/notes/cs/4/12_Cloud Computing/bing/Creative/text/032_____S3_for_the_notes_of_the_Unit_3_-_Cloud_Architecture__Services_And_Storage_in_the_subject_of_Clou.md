@@ -1,0 +1,21 @@
+### S3
+
+- S3 stands for Simple Storage Service, and it is a cloud object storage solution provided by Amazon Web Services (AWS).
+- S3 allows users to store and retrieve any amount of data from anywhere over the internet, using a web services interface.
+- S3 is designed for durability, availability, scalability, and performance, and it is ideal for data lakes, mobile applications, backup and restore, archival, IoT devices, ML, AI, and analytics.
+- S3 has the following key concepts  :
+  - Buckets: A bucket is a container for objects stored in S3. Users can create buckets in different AWS regions, and assign access policies and permissions to them. Buckets have unique names across AWS.
+  - Objects: Objects are the fundamental entities stored in S3. Objects consist of object data and metadata. Object data is the actual content of the object, such as a file or an image. Metadata is a set of name-value pairs that describe the object, such as its size, type, or date modified.
+  - Keys: A key is the unique identifier of an object in a bucket. A key is composed of a prefix and a suffix. The prefix is the path to the object, and the suffix is the object name. For example, in the key `images/cat.jpg`, the prefix is `images/` and the suffix is `cat.jpg`.
+- S3 offers different storage classes  to meet different use cases and cost requirements. The storage classes are:
+  - S3 Standard: This is the default storage class for S3, and it provides high durability, availability, and performance. It is suitable for frequently accessed data, such as web applications or content delivery.
+  - S3 Intelligent-Tiering: This storage class automatically moves data between two access tiers, one for frequent access and one for infrequent access, based on the usage patterns. It is suitable for data with unknown or changing access patterns, such as machine learning or analytics data.
+  - S3 Standard-Infrequent Access (S3 Standard-IA): This storage class provides the same durability, availability, and performance as S3 Standard, but at a lower cost. It is suitable for data that is accessed less frequently, but requires rapid access when needed, such as backup or disaster recovery data.
+  - S3 One Zone-Infrequent Access (S3 One Zone-IA): This storage class provides the same durability, availability, and performance as S3 Standard-IA, but at a lower cost. It is suitable for data that is accessed less frequently, but does not require the resilience of multiple availability zones, such as secondary backup or archival data.
+  - S3 Glacier: This storage class provides low-cost storage for data that is rarely accessed, and can tolerate retrieval times of several minutes to hours. It is suitable for long-term archival or compliance data, such as financial or medical records.
+  - S3 Glacier Deep Archive: This storage class provides the lowest-cost storage for data that is rarely accessed, and can tolerate retrieval times of 12 hours or more. It is suitable for long-term archival or compliance data that is accessed once or twice a year, such as historical or scientific data.
+- S3 cost is calculated based on the following factors :
+  - Storage: This is the amount of data stored in S3, measured in gigabytes (GB) per month. The cost varies depending on the storage class and the region of the bucket.
+  - Requests: This is the number of requests made to S3, such as PUT, GET, LIST, or DELETE. The cost varies depending on the type and size of the request, and the region of the bucket.
+  - Data transfer: This is the amount of data transferred out of S3 to the internet or to other AWS services, measured in gigabytes (GB) per month. The cost varies depending on the destination and the region of the bucket. Data transfer into S3 is free.
+  - Management and replication: This is the cost of using additional features or services that enhance the management and replication of S3 data, such as S3 Lifecycle, S3 Inventory, S3 Replication, or S3 Object Lock. The cost varies depending on the feature or service, and the region of the bucket.

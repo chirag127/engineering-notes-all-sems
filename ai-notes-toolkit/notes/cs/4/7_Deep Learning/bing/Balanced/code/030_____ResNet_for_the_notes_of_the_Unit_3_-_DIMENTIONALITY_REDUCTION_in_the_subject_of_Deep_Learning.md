@@ -1,0 +1,8 @@
+### ResNet
+
+- ResNet stands for Residual Network, a type of deep neural network that can learn from very deep architectures without suffering from the vanishing or exploding gradient problem.
+- ResNet introduces the concept of skip connections or shortcut connections, which are connections that bypass one or more layers in the network and add the output of an earlier layer to a later layer.
+- Skip connections allow the network to learn residual functions, which are the difference between the desired output and the input, rather than the output itself. This makes the learning process easier and more stable, as the network can focus on the most relevant features and ignore the redundant ones.
+- ResNet also uses batch normalization, which is a technique that normalizes the inputs of each layer to have zero mean and unit variance, and reduces the internal covariate shift, which is the change in the distribution of layer inputs during training.
+- ResNet has achieved state-of-the-art results on various computer vision tasks, such as image classification, object detection, and semantic segmentation. It has also been applied to other domains, such as natural language processing and speech recognition.
+- ResNet can be seen as a generalization of the idea of dimensionality reduction, as it reduces the complexity of the network by learning only the residual functions, and preserves the essential information in the input. ResNet can also be combined with other dimensionality reduction techniques, such as principal component analysis (PCA) or autoencoders, to further improve the performance and efficiency of the network.

@@ -1,0 +1,10 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes for the Unit 7 - Human Vision in the subject of INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION. Here are some points to remember:
+
+### Space Limitation
+- Human vision has a limited field of view and resolution, which affects how we perceive and process visual information.
+- The field of view is the angular extent of the visible world that is seen at any given moment. It is about 200 degrees horizontally and 135 degrees vertically for humans.
+- The resolution is the smallest detail that can be distinguished in an image. It depends on the distance from the object, the size of the object, the lighting conditions, and the visual acuity of the observer.
+- The visual acuity is the ability to resolve fine details in an image. It is measured by the smallest angle of separation between two points that can be detected. It is highest at the center of the field of view, called the fovea, and decreases rapidly towards the periphery.
+- The fovea is a small area of the retina, about 1.5 mm in diameter, that contains the highest density of cone cells, which are responsible for color vision and high-resolution vision. It covers about 2 degrees of the visual angle at the center of the field of view.
+- The periphery is the rest of the retina, which contains mostly rod cells, which are sensitive to low light and motion, but have low resolution and no color vision. It covers about 198 degrees of the visual angle at the edges of the field of view.
+- The implication of space limitation for data visualization is that we need to design visual displays that fit within the field of view and the resolution of the human vision, and that emphasize the most important information at the center of the display, where the visual acuity is highest. We also need to consider the trade-off between the amount of information and the level of detail that can be shown in a visual display.

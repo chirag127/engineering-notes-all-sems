@@ -1,0 +1,21 @@
+### Relational Algebra
+
+Relational algebra is a theory that uses algebraic structures for modeling data, and defining queries on it with a well founded semantics. It is a procedural query language where the user tells the system to carry out a set of operations to obtain the desired results. It provides a theoretical foundation for relational databases, particularly query languages for such databases, chief among which is SQL.
+
+Some of the basic relational algebra operations are:
+
+- **SELECT** (σ): The SELECT operation is used for selecting a subset of the tuples according to a given selection condition . For example, σ<sub>age > 20</sub>(Student) selects all the tuples from the Student relation where the age attribute is greater than 20.
+- **PROJECT** (π): The PROJECT operation is used for eliminating all attributes of the input relation but those mentioned in the projection list . For example, π<sub>name, course</sub>(Student) returns a relation with only the name and course attributes of the Student relation.
+- **UNION** (∪): The UNION operation is used for combining two relations that have the same set of attributes . For example, Student ∪ Teacher returns a relation that contains all the tuples from both Student and Teacher relations.
+- **INTERSECTION** (∩): The INTERSECTION operation is used for finding the common tuples between two relations that have the same set of attributes . For example, Student ∩ Teacher returns a relation that contains only the tuples that are present in both Student and Teacher relations.
+- **DIFFERENCE** (-): The DIFFERENCE operation is used for finding the tuples that are present in one relation but not in another relation that have the same set of attributes . For example, Student - Teacher returns a relation that contains only the tuples that are present in Student relation but not in Teacher relation.
+- **PRODUCT** (×): The PRODUCT operation is used for finding the Cartesian product of two relations . For example, Student × Course returns a relation that contains all possible combinations of tuples from Student and Course relations.
+- **JOIN** (⋈): The JOIN operation is used for combining two relations based on a common attribute or a join condition . For example, Student ⋈<sub>Student.course = Course.id</sub> Course returns a relation that contains the tuples from Student and Course relations that have the same value for the course attribute.
+- **DIVIDE** (÷): The DIVIDE operation is used for finding the tuples from one relation that are associated with all the tuples from another relation . For example, Student ÷ Course returns a relation that contains the tuples from Student relation that have taken all the courses from Course relation.
+
+There are also some additional relational algebra operations that are derived from the basic ones, such as:
+
+- **RENAME** (ρ): The RENAME operation is used for changing the name of a relation or an attribute . For example, ρ<sub>Student(name, age, course)</sub>(S) changes the name of the relation S to Student and the names of its attributes to name, age and course.
+- **SEMIJOIN** (⋉): The SEMIJOIN operation is used for finding the tuples from one relation that have a matching tuple in another relation based on a join condition . For example, Student ⋉<sub>Student.course = Course.id</sub> Course returns a relation that contains the tuples from Student relation that have a matching tuple in Course relation based on the course attribute.
+- **ANTISEMIJOIN** (⋊): The ANTISEMIJOIN operation is used for finding the tuples from one relation that do not have a matching tuple in another relation based on a join condition . For example, Student ⋊<sub>Student.course = Course.id</sub> Course returns a relation that contains the tuples from Student relation that do not have a matching tuple in Course relation based on the course attribute.
+- **OUTERJOIN** (⋈<sub>o</sub>): The OUTERJOIN operation is used for finding the tuples from two relations that have a matching tuple in either relation based on a join condition . For example

@@ -1,0 +1,11 @@
+# The Mahabharata
+
+The Mahabharata is one of the two major Sanskrit epics of ancient India, along with the Ramayana. It is a long and complex narrative that covers the history, culture, religion, and philosophy of the Indian subcontinent. It is also a story of a dynastic war between two groups of cousins, the Kauravas and the Pandavas, for the throne of Hastinapura, a kingdom in northern India.
+
+Some of the main points to note about the Mahabharata are:
+
+- The Mahabharata is attributed to the sage Vyasa, who is also a major character in the epic. He is said to have dictated the verses to his disciple Ganesha, the elephant-headed god, who wrote them down.
+- The Mahabharata consists of 18 books or parvas, each containing several chapters or adhyayas. The total number of verses is about 74,000, making it one of the longest poems in the world. The core story of the war is contained in the sixth book, the Bhishma Parva, which has 117 chapters.
+- The Mahabharata is not only a historical or mythical account of the war, but also a source of moral and spiritual guidance for Hindus. It contains many stories, legends, fables, parables, and dialogues that illustrate the principles of dharma, or righteous conduct, and the four goals of human life: dharma (duty), artha (wealth), kama (pleasure), and moksha (liberation).
+- The Mahabharata also contains the Bhagavad Gita, one of the most revered scriptures of Hinduism. The Bhagavad Gita is a dialogue between the Pandava prince Arjuna and his charioteer and guide, Lord Krishna, who is an incarnation of the supreme god Vishnu. The Bhagavad Gita teaches the philosophy of karma yoga, or the path of action, and the importance of detachment, devotion, and duty in the face of the inevitable suffering and death in the world.
+- The Mahabharata is a rich and diverse literary work that has inspired many adaptations, interpretations, and translations in various languages and media. It has influenced the art, culture, and literature of India and beyond for centuries. It is also a living tradition that is performed and recited in various forms, such as the wayang kulit (shadow puppetry) in Indonesia, the kathakali (dance drama) in Kerala, and the ramlila (dramatic enactment) in northern India.

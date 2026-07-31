@@ -1,0 +1,7 @@
+### Dispersive power
+
+- Dispersive power is a measure of the ability of a transparent medium to separate different colors of light by refraction  .
+- Dispersive power is denoted by the symbol \omega and is defined as the ratio of the difference in refractive indices of the medium for two specified widely differing wavelengths divided by the refractive index at some specified intermediate wavelength minus one  .
+- Mathematically, \omega = \frac{n_1 - n_2}{n - 1}, where n_1 and n_2 are the refractive indices of the medium for two extreme wavelengths (such as violet and red), and n is the refractive index for an intermediate wavelength (such as yellow)  .
+- Dispersive power indicates how much a medium disperses light of different wavelengths. The larger the value of \omega, the larger the range of dispersion that light experiences through the medium. The smaller the value of \omega, the smaller the range of dispersion that light experiences through the medium.
+- Dispersive power is an important property of optical devices such as prisms and lenses, as it affects the quality and resolution of the images formed by them. Dispersive power can also be used to identify different substances based on their characteristic spectra.

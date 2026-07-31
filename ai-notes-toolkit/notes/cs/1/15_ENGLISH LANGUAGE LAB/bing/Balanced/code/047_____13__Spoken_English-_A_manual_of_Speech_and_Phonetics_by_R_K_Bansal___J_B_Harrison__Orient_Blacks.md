@@ -1,0 +1,23 @@
+### 13. Spoken English- A manual of Speech and Phonetics by R.K.Bansal & J.B.Harrison, Orient Blackswan, 2013, New Delhi.
+
+- This is a book for students who wish to improve their pronunciation of English and acquire the correct patterns of stress, rhythm and intonation  .
+- The book consists of 16 chapters that cover the following topics:
+  - The organs of speech and their functions
+  - The sounds of English and their symbols
+  - The phonetic transcription of words
+  - The syllable and the word stress
+  - The sentence stress and the weak forms
+  - The intonation and the tone groups
+  - The rising and the falling tones
+  - The compound tones and the tone unit
+  - The assimilation and the elision
+  - The juncture and the pause
+  - The rhythm and the tempo
+  - The pitch and the loudness
+  - The voice quality and the voice setting
+  - The regional and the social accents
+  - The foreign accents and the pronunciation problems
+  - The pronunciation drills and the exercises
+- The book also includes a CD that contains the recordings of the sounds, words, sentences and passages used in the book .
+- The book is based on the principles of phonetics and phonology, and uses the International Phonetic Alphabet (IPA) to represent the sounds of English .
+- The book is suitable for students of various levels and backgrounds, and can be used for self-study or classroom instruction  .

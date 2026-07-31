@@ -1,0 +1,22 @@
+## Unit 1 - Introduction to Software Engineering
+
+- Software engineering is the application of engineering principles and practices to the development, maintenance, and evolution of software systems.
+- Software engineering aims to deliver software products that meet the needs and expectations of the stakeholders, such as customers, users, developers, managers, etc.
+- Software engineering involves various activities, such as:
+  - Requirements engineering: eliciting, analyzing, specifying, and validating the software requirements.
+  - Design: creating a high-level and low-level structure of the software system, such as architecture, modules, interfaces, data structures, algorithms, etc.
+  - Implementation: writing, testing, debugging, and documenting the source code of the software system.
+  - Verification and validation: ensuring that the software system meets the specified requirements and quality standards, such as functionality, reliability, usability, efficiency, etc.
+  - Maintenance: modifying and updating the software system to cope with changing requirements, fix errors, improve performance, etc.
+  - Evolution: adapting and enhancing the software system to meet new or changing needs, opportunities, or challenges.
+- Software engineering also involves various processes, methods, tools, and standards that support and guide the software development activities, such as:
+  - Software development models: frameworks that define the phases, tasks, roles, and deliverables of a software project, such as waterfall, agile, iterative, etc.
+  - Software development methodologies: approaches that prescribe the principles, practices, techniques, and tools for applying a software development model, such as Scrum, XP, RUP, etc.
+  - Software engineering standards: norms and guidelines that define the quality criteria, best practices, and ethical principles for software engineering, such as IEEE, ISO, ACM, etc.
+  - Software engineering tools: software applications that assist and automate the software development activities, such as editors, compilers, debuggers, testing tools, configuration management tools, etc.
+- Software engineering is a complex, dynamic, and multidisciplinary field that requires various skills and knowledge, such as:
+  - Technical skills: the ability to apply the engineering principles and practices to the software development activities, such as programming, design, testing, etc.
+  - Analytical skills: the ability to understand, model, and solve the problems and challenges of the software system and its stakeholders, such as requirements, design, quality, etc.
+  - Communication skills: the ability to interact and collaborate with the various stakeholders of the software system, such as customers, users, developers, managers, etc.
+  - Management skills: the ability to plan, organize, coordinate, monitor, and control the software development activities, such as resources, schedule, budget, risk, etc.
+  - Creativity skills: the ability to generate and evaluate new and innovative ideas and solutions for the software system and its stakeholders, such as features, design, improvement, etc.

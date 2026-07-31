@@ -1,0 +1,44 @@
+## Unit 2 - Data Modeling using the Entity Relationship Model
+
+- Data modeling is the process of designing and documenting the structure and semantics of data for a specific application domain.
+- The Entity Relationship (ER) model is a widely used conceptual data model that represents data as entities, attributes, and relationships.
+- An entity is a real-world object or concept that can be identified uniquely and has some properties of interest.
+- An attribute is a property or characteristic of an entity that describes some aspect of it.
+- A relationship is an association or link between two or more entities that expresses some meaningful connection or dependency among them.
+- The ER model can be represented graphically using an ER diagram, which consists of the following symbols:
+  - Rectangles for entities
+  - Ellipses for attributes
+  - Diamonds for relationships
+  - Lines for connecting entities and relationships
+  - Cardinality ratios and participation constraints for specifying the degree and optionality of relationships
+- The ER model can be used to design a database schema, which is a formal description of the data and its constraints in a database management system.
+- The ER model can also be used to perform data analysis, which is the process of understanding the data requirements and characteristics of a problem domain.
+- The ER model can be extended with additional features, such as:
+  - Subclasses and superclasses for representing specialization and generalization of entities
+  - Aggregation and composition for representing part-of relationships among entities
+  - Weak entities and identifying relationships for representing entities that depend on other entities for their existence and identification
+  - Multi-valued and derived attributes for representing attributes that can have more than one value or are computed from other attributes
+  - Complex and composite attributes for representing attributes that are structured or composed of other attributes
+- The ER model can be mapped to a relational model, which is another widely used data model that represents data as tables, columns, and rows.
+- The mapping rules depend on the features and constraints of the ER model and the relational model, and may involve the following steps:
+  - Mapping entities to tables
+  - Mapping attributes to columns
+  - Mapping relationships to tables or columns
+  - Mapping cardinality ratios and participation constraints to primary keys and foreign keys
+  - Mapping subclasses and superclasses to tables or columns
+  - Mapping aggregation and composition to tables or columns
+  - Mapping weak entities and identifying relationships to tables or columns
+  - Mapping multi-valued and derived attributes to tables or columns
+  - Mapping complex and composite attributes to tables or columns
+- The mapping process may result in some redundancy or inconsistency in the data, which can be reduced or eliminated by applying normalization techniques, such as:
+  - First normal form (1NF) for eliminating multi-valued and composite attributes
+  - Second normal form (2NF) for eliminating partial functional dependencies
+  - Third normal form (3NF) for eliminating transitive functional dependencies
+  - Boyce-Codd normal form (BCNF) for eliminating non-trivial functional dependencies that are not determined by candidate keys
+  - Fourth normal form (4NF) for eliminating multi-valued dependencies
+  - Fifth normal form (5NF) for eliminating join dependencies
+- The ER model and the relational model are not the only data models available, and there are other alternatives, such as:
+  - Object-oriented data model for representing data as objects, classes, and methods
+  - XML data model for representing data as hierarchical and semi-structured documents
+  - NoSQL data model for representing data as key-value pairs, documents, graphs, or columns
+- The choice of data model depends on the characteristics and requirements of the data and the application domain, and may involve trade-offs between performance, scalability, flexibility, and consistency.

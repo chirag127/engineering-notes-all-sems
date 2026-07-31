@@ -1,0 +1,9 @@
+### IoT IAM infrastructure
+
+- IoT IAM infrastructure refers to the systems and processes that enable the identification, authentication, authorization, and management of IoT devices and users.
+- IoT IAM infrastructure is essential for ensuring the security, privacy, and integrity of IoT data and communications, as well as enabling the scalability, interoperability, and functionality of IoT applications and services.
+- IoT IAM infrastructure typically consists of the following components:
+  - IoT devices: The physical or virtual entities that generate, process, or consume IoT data, such as sensors, actuators, gateways, or cloud servers. IoT devices have unique identifiers and credentials that allow them to be recognized and authenticated by the IoT IAM infrastructure.
+  - IoT identity providers: The services or systems that issue, store, and manage the identities and credentials of IoT devices and users, such as certificates, tokens, or keys. IoT identity providers can be centralized or decentralized, and can use different protocols and standards, such as Public Key Infrastructure (PKI), OAuth, or JSON Web Tokens (JWT).
+  - IoT access policies: The rules or conditions that define the permissions and restrictions of IoT devices and users to access or perform certain actions on IoT data or resources, such as read, write, publish, or subscribe. IoT access policies can be based on various factors, such as device attributes, user roles, data types, or context.
+  - IoT access management: The processes or mechanisms that enforce the IoT access policies and monitor the IoT access activities, such as authentication, authorization, auditing, or logging. IoT access management can use different methods or technologies, such as encryption, digital signatures, or blockchain.

@@ -1,0 +1,23 @@
+### Evidence Management for the notes of the Unit 4 - Evidence Management in the subject of CYBER FORENSIC ANALYTICS
+
+- Evidence management is the process of protecting, preserving, analyzing and presenting digital evidence in a cyber forensic investigation .
+- Digital evidence is any information stored or transmitted in digital form that can be used to support or refute a hypothesis in a criminal or civil case .
+- Cyber forensic analytics is the application of data analysis techniques and tools to identify, recover, interpret and present digital evidence in a cybercrime .
+- The main steps of evidence management in cyber forensic analytics are:
+  - Identification: finding and selecting potential sources of digital evidence relevant to the case.
+  - Collection: acquiring and documenting the digital evidence using appropriate methods and tools .
+  - Preservation: protecting the digital evidence from alteration, damage, loss or unauthorized access .
+  - Analysis: examining and interpreting the digital evidence to extract relevant information and insights .
+  - Presentation: reporting and communicating the findings and conclusions of the analysis in a clear and convincing manner .
+- The main challenges of evidence management in cyber forensic analytics are:
+  - Volume: the amount and complexity of digital data that needs to be processed and analyzed .
+  - Volatility: the susceptibility of digital data to change or disappear over time or due to external factors .
+  - Variety: the diversity and heterogeneity of digital data formats, sources and types .
+  - Validation: the verification and authentication of the digital data and its origin, integrity and reliability .
+  - Value: the relevance and usefulness of the digital data for the case and its legal admissibility .
+- The main principles of evidence management in cyber forensic analytics are:
+  - Minimization: collecting and analyzing only the necessary and sufficient digital data for the case .
+  - Documentation: recording and tracking the details and actions related to the digital evidence throughout the investigation .
+  - Chain of custody: maintaining and demonstrating the continuity and security of the digital evidence from its source to its destination .
+  - Standardization: following and applying the best practices and guidelines for digital evidence management .
+  - Quality assurance: ensuring and improving the accuracy, validity and reliability of the digital evidence and its analysis .

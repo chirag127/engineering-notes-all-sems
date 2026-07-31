@@ -1,0 +1,10 @@
+## Unit 2 - Algebraic Structures
+
+An algebraic structure is a set of elements with one or more operations defined on it that satisfy certain properties or axioms. Algebraic structures are used to study the properties and patterns of abstract objects such as numbers, functions, matrices, polynomials, etc.
+
+Some examples of algebraic structures are:
+
+- Groups: A group is a set with a binary operation (called the group operation) that satisfies four properties: closure, associativity, identity, and inverse. For example, the set of integers with the operation of addition is a group, denoted by (Z, +).
+- Rings: A ring is a set with two binary operations (called the ring operations) that satisfy the properties of a group under the first operation, and the properties of commutativity, associativity, and distributivity under both operations. For example, the set of integers with the operations of addition and multiplication is a ring, denoted by (Z, +, *).
+- Fields: A field is a set with two binary operations that satisfy the properties of a ring, and also the property of having a multiplicative inverse for every nonzero element. For example, the set of rational numbers with the operations of addition and multiplication is a field, denoted by (Q, +, *).
+- Vector spaces: A vector space is a set with two operations: one is a binary operation between the elements of the set (called the vector addition), and the other is a binary operation between the elements of the set and the elements of another set (called the scalar multiplication). The set of elements of the vector space is called the vector set, and the other set is called the scalar set. The vector set and the scalar set must satisfy the properties of a group under the vector addition, and the properties of commutativity, associativity, and distributivity under both operations. For example, the set of real numbers with the operations of addition and multiplication is a scalar set, and the set of n-tuples of real numbers with the operations of component-wise addition and scalar multiplication is a vector set. Together, they form a vector space, denoted by (R^n, +, *).

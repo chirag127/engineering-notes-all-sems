@@ -1,0 +1,28 @@
+# Task scheduling for the notes of the Unit 3 - REAL TIME KERNEL BASICS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Task scheduling is the process of determining how the various tasks are executed by the operating system in a real time system .
+- A real time system is a system that has to respond to events within a specified time constraint.
+- A real time operating system (RTOS) is an operating system that can guarantee the timely execution of tasks in a real time system.
+- A task is a unit of work that can be executed by the RTOS. A task can be periodic, aperiodic, or sporadic, depending on its arrival pattern .
+- A periodic task is a task that arrives at regular intervals and has a fixed deadline .
+- An aperiodic task is a task that arrives at irregular intervals and has a variable deadline .
+- A sporadic task is a task that arrives at unpredictable intervals and has a hard deadline .
+- A hard deadline is a deadline that must be met, otherwise the system may fail .
+- A soft deadline is a deadline that can be missed, but the system performance may degrade .
+- A task scheduler is a component of the RTOS that decides which task to run at any given time  .
+- A task scheduler can be classified into two types: preemptive and non-preemptive .
+- A preemptive task scheduler is a task scheduler that can interrupt a running task and switch to another task with higher priority .
+- A non-preemptive task scheduler is a task scheduler that can only switch to another task when the current task is completed or blocked .
+- A priority is a numerical value assigned to a task that indicates its importance or urgency .
+- A task scheduler can use different algorithms to assign priorities and select tasks, such as:
+  - Run to completion (RTC): A simple algorithm that runs each task until it is finished or blocked, without preemption.
+  - Round robin (RR): An algorithm that runs each task for a fixed time slice, and then switches to the next task in a circular order, without considering priorities.
+  - Time slice (TS): An algorithm that runs each task for a fixed time slice, and then switches to the next task with the same or higher priority, with preemption.
+  - Time slice with background task (TSBG): An algorithm that runs each task for a fixed time slice, and then switches to the next task with the same or higher priority, with preemption, and also runs a low priority background task when no other tasks are ready.
+  - Priority (PRI): An algorithm that runs the task with the highest priority at any time, with preemption.
+  - Earliest deadline first (EDF): An algorithm that runs the task with the earliest deadline at any time, with preemption .
+  - Rate monotonic (RM): An algorithm that assigns priorities to periodic tasks based on their periods, such that the shorter the period, the higher the priority, and runs the task with the highest priority at any time, with preemption .
+- A task scheduler should ensure that the system is schedulable, meaning that all the tasks can meet their deadlines under the given algorithm and workload .
+- A task scheduler should also consider the overhead of context switching, which is the time and resources required to save and restore the state of a task when switching between tasks .
+- A task scheduler should also consider the synchronization and communication between tasks, which may involve shared resources, message passing, semaphores, mutexes, or other mechanisms .
+- A task scheduler should also consider the power consumption and energy efficiency of the system, which may involve dynamic voltage and frequency scaling, sleep modes, or other techniques .

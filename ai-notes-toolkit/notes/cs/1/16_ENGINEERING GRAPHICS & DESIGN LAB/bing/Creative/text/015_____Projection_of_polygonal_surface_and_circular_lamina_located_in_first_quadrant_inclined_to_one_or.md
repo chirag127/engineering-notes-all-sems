@@ -1,0 +1,15 @@
+### Projection of polygonal surface and circular lamina located in first quadrant inclined to one or both reference planes
+
+- A polygonal surface is a plane surface bounded by straight lines, such as a triangle, a square, a pentagon, etc.
+- A circular lamina is a plane surface bounded by a circle, such as a disc, a coin, a wheel, etc.
+- Projection of a plane surface is the shape obtained by projecting the surface on a reference plane, such as the horizontal plane (HP) or the vertical plane (VP).
+- A plane surface can be located in any of the four quadrants, but for simplicity, we will consider only the first quadrant, which is the space above HP and in front of VP.
+- A plane surface can be inclined to one or both reference planes, which means that the surface is not parallel to either of the reference planes.
+- To draw the projection of a plane surface, we need to follow some steps:
+
+  1. Assume a suitable initial position of the plane surface, such that it is parallel to one of the reference planes and perpendicular to the other. For example, a polygonal surface can be assumed to be parallel to HP and perpendicular to VP, or vice versa. A circular lamina can be assumed to be parallel to HP or VP.
+  2. Draw the front view (FV) and the top view (TV) of the plane surface in the initial position, using the dimensions given in the problem. For example, a polygonal surface can be drawn as a polygon in FV and as a line in TV, or vice versa. A circular lamina can be drawn as a circle in FV or TV, and as a line in the other view.
+  3. Now, consider the given inclination of the plane surface to one or both reference planes, and rotate the plane surface accordingly. For example, if a polygonal surface is inclined to HP at an angle θ, then rotate the surface about its edge on HP by an angle θ in the clockwise direction. If a circular lamina is inclined to VP at an angle φ, then rotate the surface about its center by an angle φ in the anticlockwise direction.
+  4. Draw the FV and TV of the plane surface after rotation, using the method of change of position. For example, if a polygonal surface is rotated about its edge on HP, then the FV will remain unchanged, but the TV will change to a polygon. If a circular lamina is rotated about its center, then the FV and TV will both change to ellipses.
+  5. Mark the dimensions, angles, and traces of the plane surface on the FV and TV. For example, mark the length, breadth, and diagonal of the polygonal surface, the diameter and major axis of the circular lamina, the inclination angles, and the points where the plane surface intersects the reference planes. These points are called the traces of the plane surface.
+  6. Label the FV and TV of the plane surface, and indicate the direction of viewing. For example, label the FV as ABCD and the TV as A'B'C'D', and show the direction of viewing by arrows.

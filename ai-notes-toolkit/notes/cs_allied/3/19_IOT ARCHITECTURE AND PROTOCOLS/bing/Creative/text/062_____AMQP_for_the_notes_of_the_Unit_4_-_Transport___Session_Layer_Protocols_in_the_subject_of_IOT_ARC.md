@@ -1,0 +1,23 @@
+### AMQP
+
+- AMQP stands for **Advanced Message Queuing Protocol**.
+- It is an **open standard**, **binary** application layer protocol designed for **message-oriented middleware**.
+- It enables **encrypted** and **interoperable** messaging between organizations and applications.
+- It is used in **client/server messaging** and in **IoT device management**.
+- It has **reliable**, **secure**, **open**, and **standard** properties, along with **low overhead** characteristics, making it a good solution for IoT applications.
+- It supports **publish/subscribe**, **point-to-point**, and **request/reply** messaging patterns.
+- It standardizes messaging using **Producers**, **Brokers** and **Consumers**.
+- Producers send messages to a **broker** (or **exchange**) that routes them to **queues**.
+- Consumers receive messages from queues.
+- AMQP defines a **wire-level protocol**, which means that the messages are **binary** and can be efficiently parsed.
+- AMQP also defines a **semantic model**, which means that the messages have a **structure** and a **meaning** that can be understood by different platforms and languages.
+- AMQP messages have a **header** and a **body**.
+- The header contains **properties** and **annotations** that describe the message and its delivery.
+- The body contains the **application data** or the **payload**.
+- AMQP supports **quality of service** (QoS) levels of **at-most-once**, **at-least-once**, and **exactly-once** delivery.
+- AMQP supports **security** features such as **authentication**, **authorization**, **encryption**, and **integrity**.
+- AMQP supports **claims-based security (CBS)** or **Simple Authentication and Security Layer (SASL)** authentication.
+- AMQP supports **multiplexing** multiple **channels** over a single **connection**.
+- AMQP supports **asynchronous** and **synchronous** communication modes.
+- AMQP is compatible with **Azure IoT Hub**, which is a cloud platform for managing and connecting IoT devices .
+- AMQP can be used over **WebSockets**, which is a protocol that enables bidirectional communication over a single TCP connection.

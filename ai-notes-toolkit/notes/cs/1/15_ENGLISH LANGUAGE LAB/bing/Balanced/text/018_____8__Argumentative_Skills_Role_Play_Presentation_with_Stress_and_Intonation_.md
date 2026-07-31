@@ -1,0 +1,13 @@
+### 8. Argumentative Skills/Role Play Presentation with Stress and Intonation
+
+- Argumentative skills are the ability to present and defend a position or opinion using logical and persuasive reasoning.
+- Role play presentation is a type of oral communication where the speaker assumes a specific role or character and interacts with other speakers or an audience in a simulated situation.
+- Stress and intonation are the features of speech that convey emphasis, emotion, and attitude through variations in loudness, pitch, and duration.
+- To improve your argumentative skills and role play presentation with stress and intonation, you can follow these steps:
+
+  - Identify the purpose and audience of your argument or role play. What are you trying to achieve and who are you trying to convince or impress?
+  - Research and gather relevant information and evidence to support your position or role. Use credible and reliable sources and cite them properly.
+  - Organize your argument or role play in a clear and logical structure. Use an introduction, a body, and a conclusion. In the introduction, state your main claim or thesis and preview your main points. In the body, develop your main points with supporting details, examples, and counterarguments. In the conclusion, summarize your main points and restate your main claim or thesis.
+  - Use appropriate language and tone for your argument or role play. Choose words and expressions that are suitable for your purpose, audience, and context. Avoid informal, vague, or offensive language. Use transitions and connectors to link your ideas and create coherence. Use rhetorical devices such as repetition, parallelism, and rhetorical questions to enhance your persuasion and impact.
+  - Use stress and intonation to emphasize your key points and express your emotions and attitudes. Stress the words or syllables that carry the most meaning or importance in your sentences. Use a higher pitch, a louder volume, and a longer duration to stress a word or syllable. Use intonation to show the type and mood of your sentences. Use a falling intonation to show a statement, a command, or a finality. Use a rising intonation to show a question, a doubt, or a continuation. Use a fall-rise intonation to show a contrast, a surprise, or a reservation.
+  - Practice your argument or role play before presenting it. Record yourself and listen to your speech. Check your content, language, and delivery. Revise and improve your argument or role play based on your feedback. Repeat the process until you are satisfied and confident with your performance.

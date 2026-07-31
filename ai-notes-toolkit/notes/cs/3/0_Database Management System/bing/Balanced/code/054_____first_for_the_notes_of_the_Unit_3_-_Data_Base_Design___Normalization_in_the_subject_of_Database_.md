@@ -1,0 +1,24 @@
+### Unit 3 - Data Base Design & Normalization
+
+- Database design is the process of creating a logical and physical structure for storing and manipulating data in a database management system (DBMS) .
+- Normalization is a technique for reviewing and improving the database design by applying a set of rules that reduce data redundancy and inconsistency   .
+- The benefits of normalization are:
+  - It avoids insertion, deletion and update anomalies that can cause data loss or inconsistency  .
+  - It reduces the storage space and memory requirements by eliminating duplicate data  .
+  - It simplifies the queries and operations on the data by reducing the number of tables and columns  .
+  - It enhances the security and integrity of the data by enforcing constraints and relationships  .
+- The drawbacks of normalization are:
+  - It may increase the complexity and cost of the database design by creating more tables and relationships  .
+  - It may degrade the performance and efficiency of the database system by requiring more joins and accesses to the data  .
+- The levels of normalization are:
+  - First normal form (1NF): A table is in 1NF if it has no repeating groups or multivalued attributes, and each column has a single value of the same domain  .
+  - Second normal form (2NF): A table is in 2NF if it is in 1NF and every non-key column is fully dependent on the primary key  .
+  - Third normal form (3NF): A table is in 3NF if it is in 2NF and every non-key column is non-transitively dependent on the primary key  .
+  - Boyce-Codd normal form (BCNF): A table is in BCNF if it is in 3NF and every determinant is a candidate key  .
+  - Fourth normal form (4NF): A table is in 4NF if it is in BCNF and has no multivalued dependencies  .
+  - Fifth normal form (5NF): A table is in 5NF if it is in 4NF and has no join dependencies  .
+- The process of normalization involves the following steps  :
+  - Identify the functional dependencies and candidate keys of the table.
+  - Decompose the table into smaller tables that satisfy the normal form conditions.
+  - Preserve the original information and relationships by creating foreign keys and referential integrity constraints.
+  - Evaluate the trade-offs between normalization and performance, and adjust the design if needed.

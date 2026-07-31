@@ -1,0 +1,30 @@
+### Intelligent data analysis in Big Data
+
+- Intelligent data analysis (IDA) is one of the most important approaches in the field of data mining, which attracts great concerns from the researchers.
+- IDA aims to discover useful knowledge and patterns from large and complex datasets, using various techniques such as data preprocessing, data visualization, data modeling, and data evaluation.
+- IDA faces many challenges in big data environment, such as data heterogeneity, data quality, data scalability, data security, and data privacy.
+- Artificial intelligence (AI) is a key enabler for IDA in big data environment, as it can automate and enhance many data analysis tasks that would otherwise be labor-intensive and time-consuming.
+- AI can help users work with, manipulate, and surface actionable insights faster from large, complex datasets, using methods such as data mining, predictive analytics, deep learning, natural language processing, and computer vision  .
+- AI can also help users to understand and interpret the results of data analysis, using methods such as data visualization, explainable AI, and natural language generation .
+- Some of the benefits of using AI for IDA in big data environment are:
+  - Improved accuracy and efficiency of data analysis
+  - Enhanced decision making and problem solving
+  - Increased customer satisfaction and loyalty
+  - Reduced costs and risks
+  - Innovation and competitive advantage
+- Some of the challenges of using AI for IDA in big data environment are:
+  - Data quality and reliability
+  - Data security and privacy
+  - Data governance and ethics
+  - Data integration and interoperability
+  - Data literacy and skills
+  - Data bias and fairness
+  - Data explainability and trust
+- Some of the applications of using AI for IDA in big data environment are:
+  - Healthcare: AI can help to analyze medical records, images, and genomic data, to diagnose diseases, predict outcomes, and recommend treatments.
+  - Finance: AI can help to analyze transactional data, market data, and customer data, to detect fraud, optimize portfolios, and personalize services.
+  - Retail: AI can help to analyze sales data, inventory data, and customer data, to forecast demand, optimize pricing, and recommend products.
+  - Manufacturing: AI can help to analyze sensor data, production data, and quality data, to monitor performance, optimize processes, and prevent failures.
+  - Education: AI can help to analyze student data, learning data, and feedback data, to assess performance, personalize learning, and provide feedback.
+- A possible mnemonic to remember the main steps of IDA is: **P**repare, **V**isualize, **M**odel, and **E**valuate (PVME).
+- A possible mnemonic to remember some of the benefits of using AI for IDA is: **I**mproved, **E**nhanced, **I**ncreased, **R**educed, and **I**nnovative (IEIRI).

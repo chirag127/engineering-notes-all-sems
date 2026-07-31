@@ -1,0 +1,12 @@
+### Access Control in Multiple-Unit Resources
+
+- Multiple-unit resources are resources that can be used by more than one job at a time, such as memory, disk, or network bandwidth.
+- Each unit of a multiple-unit resource is used in a non-preemptive and mutually exclusive manner; resources are serially reusable  .
+- Access to multiple-unit resources is controlled using locks. Jobs attempt to lock a resource before starting to use it, and unlock the resource afterwards; the time the resource is locked is the critical section  .
+- The challenge of access control in multiple-unit resources is to avoid deadlock and priority inversion, while ensuring schedulability and resource utilization.
+- Some of the protocols for access control in multiple-unit resources are:
+  - Highest Locker Protocol (HLP): A job can lock a resource only if its priority is higher than or equal to the highest priority of any job that currently holds any unit of the resource  .
+  - Priority Ceiling Protocol for Multiple-Unit Resources (MPCP): Each resource has a ceiling equal to the highest priority of any job that may request it. A job can lock a resource only if its priority is higher than the ceilings of all resources currently locked by other jobs  .
+  - Preemption Ceiling Protocol for Multiple-Unit Resources (MPCP): Each resource has a ceiling equal to the highest priority of any job that may request it. A job can lock a resource only if its priority is higher than the ceilings of all resources currently locked by other jobs, and its preemption level is lower than or equal to the ceiling of the resource. The preemption level of a job is the highest ceiling of any resource it currently holds or has requested  .
+  - Stack Resource Policy (SRP): Each job has a preemption level equal to its base priority when it is released, and a current priority that may change during execution. A job can lock a resource only if its current priority is higher than the preemption levels of all other jobs. The current priority of a job is increased to the highest priority of any job that may be blocked by it when it locks a resource, and restored to its preemption level when it unlocks the resource .
+- The properties and performance of these protocols depend on the characteristics of the system, such as the number of resources, the number of units per resource, the number of jobs, the priority assignment, the critical section length, and the resource request pattern.

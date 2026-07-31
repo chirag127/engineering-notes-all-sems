@@ -1,0 +1,14 @@
+# Electronic signature certificates for the notes of the Unit 5 - Cyber Laws and Authorities in the subject of CYBER FORENSIC ANALYTICS
+
+- An electronic signature is a way of representing one's identity and consent in an electronic form, such as a typed name, a scanned image of a handwritten signature, a biometric identifier, or a digital code .
+- An electronic signature certificate is a digital document that contains information about the identity and public key of the signer, and is issued by a trusted authority called a certification authority (CA)  .
+- A digital signature is a type of electronic signature that uses a mathematical scheme to verify the authenticity and integrity of a digital document or message, and to prevent repudiation by the signer  .
+- A digital signature is created by applying a private key, which is known only to the signer, to a hash or digest of the document or message, and is verified by using the corresponding public key, which is known to the recipient and the CA  .
+- A digital signature certificate is required for creating and verifying digital signatures, and must comply with the standards and regulations of the relevant jurisdiction   .
+- In the United States, the legal framework for the use of electronic signatures and digital signature certificates is provided by the Electronic Signatures in Global and National Commerce Act (ESIGN Act) of 2000, and the Uniform Electronic Transactions Act (UETA) of 1999  .
+- The ESIGN Act and the UETA establish that electronic signatures and digital signature certificates have the same legal effect and validity as traditional signatures and paper documents, and that they cannot be denied legal recognition or enforceability solely because they are in electronic form  .
+- The ESIGN Act and the UETA also set forth the requirements and conditions for the use of electronic signatures and digital signature certificates, such as the consent of the parties, the attribution of the signatures, the retention of the records, and the security and reliability of the systems and methods  .
+- In California, the legal framework for the use of electronic signatures and digital signature certificates is provided by the California Uniform Electronic Transactions Act (CUETA) of 1999, and the California Government Code Section 16.5 .
+- The CUETA is based on the UETA and adopts its provisions and definitions, with some modifications and additions .
+- The California Government Code Section 16.5 specifies the criteria and standards for the use of digital signatures by state and local agencies, and the role and responsibilities of the CA .
+- The California Government Code Section 16.5 requires that a digital signature be unique to the person using it, and that the private key used to create the signature be known only to the signer, among other conditions .

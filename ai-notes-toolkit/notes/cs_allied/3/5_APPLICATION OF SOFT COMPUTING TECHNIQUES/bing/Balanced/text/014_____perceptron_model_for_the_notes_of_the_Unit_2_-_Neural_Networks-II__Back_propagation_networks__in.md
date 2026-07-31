@@ -1,0 +1,22 @@
+### Perceptron Model
+
+- A perceptron is a **simplified model of a biological neuron** that can perform **binary classification** tasks  .
+- A perceptron has four key components:
+  - **Inputs**: A set of numerical values that represent the features of the data, such as x1, x2, ..., xn.
+  - **Weights**: A set of numerical values that represent the importance or influence of each input, such as w1, w2, ..., wn.
+  - **Bias**: A constant term that shifts the decision boundary, such as b.
+  - **Activation function**: A function that maps the weighted sum of the inputs and the bias to an output value, such as ϕ.
+- The output of a perceptron is given by the following formula :
+  - y = ϕ(w1x1 + w2x2 + ... + wnxn + b)
+- The activation function ϕ is usually a **threshold function** that returns either 0 or 1 depending on whether the input is above or below a certain threshold .
+- The perceptron can be trained using a **learning algorithm** that updates the weights and the bias based on the errors between the predicted and the actual outputs   .
+- The perceptron learning algorithm can be summarized as follows  :
+  - Initialize the weights and the bias to small random values.
+  - For each training example (x, y):
+    - Compute the predicted output y' = ϕ(w1x1 + w2x2 + ... + wnxn + b).
+    - Compute the error e = y - y'.
+    - Update the weights and the bias by adding the product of the error and the learning rate to them: wi = wi + αe xi and b = b + αe, where α is the learning rate.
+  - Repeat the above steps until the error is minimized or a maximum number of iterations is reached.
+- The perceptron learning algorithm is **guaranteed to converge** to a solution if the data is **linearly separable**, meaning that there exists a straight line that can separate the two classes .
+- The perceptron can be **generalized** to handle **multiple classes** by using **one-versus-all** or **one-versus-one** strategies, or by using a **softmax** activation function.
+- The perceptron can also be **extended** to handle **non-linearly separable** data by using **kernel methods** or by combining multiple perceptrons into a **multi-layer perceptron** or a **neural network**  .

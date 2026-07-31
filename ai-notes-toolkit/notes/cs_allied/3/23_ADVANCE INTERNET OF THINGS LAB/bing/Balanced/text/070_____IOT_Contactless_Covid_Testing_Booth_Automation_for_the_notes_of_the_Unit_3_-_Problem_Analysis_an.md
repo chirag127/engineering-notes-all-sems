@@ -1,0 +1,21 @@
+### IOT Contactless Covid Testing Booth Automation
+
+- The main aim of this project is to design a completely automated instant contactless covid testing booth system by which person details is monitored using RFID technology .
+- This system helps to make Covid center automated and contactless which helps to reduce spreading of virus in the Covid testing centers.
+- This system utilizes microcontroller, MATLAB, GSM modem, RFID reader and tags, LCD display, buzzer, and swab collection mechanism .
+- The system works as follows:
+  - The person who wants to get tested has to register online and get an RFID tag with a unique ID.
+  - The person has to scan the RFID tag at the entrance of the booth and the system will display the person's name, contact number, and address on the LCD screen.
+  - The system will also send a confirmation message to the person's mobile number using GSM modem.
+  - The person has to enter the booth and follow the instructions on the LCD screen.
+  - The system will activate the swab collection mechanism which will collect the nasal or oral swab from the person and store it in a container.
+  - The system will also generate a barcode for the swab sample and print it on a sticker.
+  - The person has to stick the barcode on the container and exit the booth.
+  - The system will send another message to the person's mobile number with the barcode and the test result date and time.
+  - The system will also update the database with the person's details, swab sample ID, and test status.
+  - The system will alert the staff with a buzzer if the swab collection mechanism needs to be refilled or cleaned.
+- The advantages of this system are:
+  - It reduces the human contact and the risk of infection for the staff and the person getting tested.
+  - It saves time and resources by automating the registration and swab collection process.
+  - It improves the accuracy and traceability of the test results by using RFID and barcode technology.
+  - It provides real-time feedback and notification to the person and the staff using GSM modem and LCD display .

@@ -1,0 +1,7 @@
+#### Contract Theory of Origin of State
+
+- The contract theory of origin of state is one of the theories that explains how the state or the society came into being by a voluntary agreement or contract among the individuals or groups of people.
+- The contract theory assumes that there was a state of nature before the state, where people lived in natural conditions without any law or authority, and faced problems of insecurity, violence, and conflict.
+- To overcome these problems, people decided to enter into a contract or a pact, either with each other or with a sovereign power, to establish a state or a society that would protect their rights and interests, and maintain peace and order.
+- The contract theory has been developed by various thinkers, such as Thomas Hobbes, John Locke, Jean-Jacques Rousseau, and Immanuel Kant, who have different views on the nature and terms of the contract, the role and functions of the state, and the rights and duties of the citizens.
+- The contract theory has been criticized by some scholars, such as David Hume, Edmund Burke, and Karl Marx, who have challenged its historical validity, logical consistency, and moral justification. They have argued that the contract theory is based on a hypothetical and unrealistic scenario, that it ignores the historical and social factors that shape the state, and that it serves the interests of the dominant classes and groups.

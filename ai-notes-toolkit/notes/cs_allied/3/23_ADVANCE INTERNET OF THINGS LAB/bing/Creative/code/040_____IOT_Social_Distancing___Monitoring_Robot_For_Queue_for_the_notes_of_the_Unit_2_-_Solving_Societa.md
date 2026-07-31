@@ -1,0 +1,8 @@
+### IOT Social Distancing & Monitoring Robot For Queue
+
+- IOT Social Distancing & Monitoring Robot For Queue is a system that aims to prevent the spread of COVID-19 by measuring the distance between individuals in queues and alerting them if they violate the social distancing norms  .
+- The system consists of a four-wheel robot that follows a line on the ground to move along with the queue. The robot is equipped with an ultrasonic sensor to measure the distance between the robot and the person in front of it, and a buzzer to sound an alarm if the distance is less than the recommended value .
+- The system also has a camera and a Wi-Fi module to stream the video of the queue to a cloud server, where a web application can display the live feed and the number of social distancing violations detected by the robot .
+- The system can be used in various places where long queues are common, such as banks, government offices, shopping malls, schools, and theatres, to ensure the safety and health of the people .
+- The system is based on the Internet of Things (IoT) technology, which enables the communication and interaction between the robot, the cloud server, and the web application. The system can also be controlled and monitored remotely through the web application  .
+- The system is an example of how IoT can be used to solve societal problems with the help of sensors, actuators, networks, and cloud computing. The system demonstrates the benefits of IoT, such as real-time data collection and analysis, automation, remote control, and scalability .

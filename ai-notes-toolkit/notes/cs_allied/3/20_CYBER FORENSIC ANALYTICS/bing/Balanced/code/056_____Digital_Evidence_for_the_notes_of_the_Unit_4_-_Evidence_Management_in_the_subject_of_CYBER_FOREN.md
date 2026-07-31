@@ -1,0 +1,21 @@
+### Digital Evidence
+
+- Digital evidence is any information stored or transmitted in binary form that may be relied on in court .
+- Digital evidence can be found on various devices, such as computers, hard drives, mobile phones, cameras, etc .
+- Digital evidence is often associated with electronic crimes, such as child pornography, credit card fraud, cyberstalking, hacking, etc .
+- Digital evidence can be classified into four types: stored data, transient data, network data and metadata.
+  - Stored data is any data that is permanently saved on a device, such as files, folders, emails, etc.
+  - Transient data is any data that is temporarily stored in the memory of a device, such as cache, cookies, RAM, etc.
+  - Network data is any data that is transmitted or received over a network, such as packets, logs, protocols, etc.
+  - Metadata is any data that describes the characteristics or context of other data, such as timestamps, file names, geolocation, etc.
+- Digital evidence must be collected, preserved, analyzed and presented in a manner that maintains its integrity, reliability and admissibility  .
+  - Collection involves identifying, locating and acquiring digital evidence from various sources.
+  - Preservation involves protecting digital evidence from alteration, loss or damage.
+  - Analysis involves examining digital evidence to extract relevant information and draw conclusions.
+  - Presentation involves reporting and communicating the findings and opinions of digital evidence to the intended audience.
+- Digital evidence faces several challenges, such as volume, volatility, variety, validity and verifiability.
+  - Volume refers to the large amount of digital evidence that can be generated and stored on various devices and networks.
+  - Volatility refers to the dynamic and ephemeral nature of digital evidence that can be easily modified or deleted.
+  - Variety refers to the diverse types and formats of digital evidence that can be encountered and require different tools and techniques to handle.
+  - Validity refers to the accuracy and completeness of digital evidence that can be affected by human or technical errors.
+  - Verifiability refers to the ability to prove the authenticity and origin of digital evidence that can be challenged by adversaries or courts.

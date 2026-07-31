@@ -1,0 +1,9 @@
+### Voting protocols for the notes of the Unit 7 - Fault Tolerance in the subject of DISTRIBUTED SYSTEM
+
+- Voting protocols are a type of consensus protocols that allow a set of distributed nodes to agree on a common value or decision.
+- Voting protocols are useful for achieving fault tolerance in distributed systems, as they can tolerate the failure or malicious behavior of some nodes, as long as a majority of nodes are correct and reachable.
+- Voting protocols can be classified into two categories: exact voting and inexact voting.
+  - Exact voting requires that all nodes agree on the same value or decision, and that the value or decision is correct according to some predefined criteria. Examples of exact voting are the two-phase commit protocol and the Paxos algorithm.
+  - Inexact voting allows some nodes to have different or incorrect values or decisions, as long as the majority of nodes have the same or correct value or decision. Examples of inexact voting are the majority voting protocol and the Byzantine agreement protocol.
+- Voting protocols can also be distinguished by the level of security they provide against malicious nodes or external attacks. Some voting protocols assume that all nodes are honest and cooperative, while others assume that some nodes may be faulty or compromised, and try to prevent or detect their influence on the voting outcome.
+- Voting protocols can also be affected by the fairness of the voting process, which refers to the degree to which each node's vote is equally considered and respected. Some voting protocols may give more weight or priority to some nodes based on their reputation, performance, or other criteria, while others may treat all nodes equally. Fairness can have an impact on the efficiency, reliability, and robustness of the voting protocols.

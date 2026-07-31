@@ -1,0 +1,8 @@
+## Unit 1 - Ordinary Differential Equation of Higher Order
+
+- An ordinary differential equation (ODE) is an equation that involves one or more derivatives of an unknown function with respect to a single independent variable.
+- The order of an ODE is the highest order of the derivative that occurs in the equation. For example, the ODE `y'' + y = 0` is of second order, while the ODE `y' + y = x` is of first order.
+- A linear ODE is an ODE that can be written in the form `a_n(x)y^(n) + a_(n-1)(x)y^(n-1) + ... + a_1(x)y' + a_0(x)y = b(x)`, where `a_i(x)` and `b(x)` are given functions of `x`, and `y^(n)` denotes the `n`-th derivative of `y` with respect to `x`.
+- A linear ODE of `n`-th order is called a higher order linear ODE if `n > 2`. For example, the ODE `y''' + x^2 y'' + xy' + 3 = 0` is a higher order linear ODE of third order.
+- The general solution of a higher order linear ODE is a linear combination of `n` linearly independent solutions, where `n` is the order of the ODE. For example, the general solution of the ODE `y'' + y = 0` is `y = c_1 cos(x) + c_2 sin(x)`, where `c_1` and `c_2` are arbitrary constants.
+- To find the general solution of a higher order linear ODE, one can use various methods, such as the method of undetermined coefficients, the method of variation of parameters, or the method of power series. The choice of method depends on the form and complexity of the ODE and its coefficients.

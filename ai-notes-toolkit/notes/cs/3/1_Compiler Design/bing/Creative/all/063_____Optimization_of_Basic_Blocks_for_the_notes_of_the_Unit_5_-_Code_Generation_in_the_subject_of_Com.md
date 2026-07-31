@@ -1,0 +1,22 @@
+# Optimization of Basic Blocks
+
+- Optimization is the process of transforming a program that improves the code by consuming fewer resources and delivering high speed.
+- Optimization can be applied to the basic blocks after the intermediate code generation phase of the compiler.
+- A basic block is a sequence of consecutive statements in which the flow of control enters at the beginning and leaves at the end without halt or possibility of branching.
+- There are two types of basic block optimizations:
+  - Structure preserving transformations: These are the transformations that do not change the structure of the basic block, but only replace some expressions by equivalent ones. For example, constant folding, constant propagation, strength reduction, etc.
+  - Algebraic transformations: These are the transformations that change the structure of the basic block by eliminating some expressions or statements. For example, common subexpression elimination, dead code elimination, copy propagation, etc.
+- To apply an optimization technique to a basic block, a directed acyclic graph (DAG) can be used as a representation of the three-address code that is generated as the result of an intermediate code generation.
+- A DAG is a data structure that consists of nodes and edges, where each node represents an operation or a variable, and each edge represents a dependency or a flow of data.
+- A DAG facilitates the transformation of basic blocks by identifying the common subexpressions, eliminating the redundant computations, and generating an optimal order of evaluation.
+- The steps to construct a DAG for a basic block are:
+  - Create a node for each statement in the basic block.
+  - For each node, check if its operands are already present in the DAG. If yes, use the existing nodes as the children of the node. If no, create new nodes for the operands and make them the children of the node.
+  - For each node, check if its operation and children are identical to any existing node in the DAG. If yes, delete the node and replace all its occurrences by the existing node. If no, add the node to the DAG.
+  - For each node that has no parent, mark it as a root of the DAG.
+- The steps to generate an optimal code from a DAG are:
+  - Traverse the DAG in a postorder fashion, starting from the roots and visiting the children before the parent.
+  - For each node, generate a three-address code by assigning a temporary variable to the node and using its operation and children as the operands.
+  - If the node is a leaf and represents a variable, copy its value to the temporary variable.
+  - If the node is a root and represents a variable, copy the temporary variable to the variable.
+  - Eliminate any redundant assignments or copies.

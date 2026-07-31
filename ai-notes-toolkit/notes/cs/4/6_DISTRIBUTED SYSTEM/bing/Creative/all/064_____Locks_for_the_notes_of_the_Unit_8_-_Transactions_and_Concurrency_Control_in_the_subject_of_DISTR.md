@@ -1,0 +1,27 @@
+# Locks for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+- A **lock** is a variable associated with a data item that determines whether read/write operations can be performed on that data item .
+- A lock can have different modes, such as **shared** (S), **exclusive** (X), **update** (U), **intention shared** (IS), **intention exclusive** (IX), etc.
+- A lock **compatibility matrix** is used to state whether a data item can be locked by two transactions at the same time.
+- A lock **manager** is a component of the distributed system that grants or denies lock requests from transactions.
+- A lock **protocol** is a set of rules that governs how transactions acquire and release locks on data items.
+- Lock protocols can be classified into **binary** (two-phase) or **generalized** (multi-phase) locking.
+- Binary locking protocols require transactions to follow two phases: a **growing** phase, where locks can be acquired but not released, and a **shrinking** phase, where locks can be released but not acquired.
+- Generalized locking protocols allow transactions to acquire and release locks in any order, as long as they do not violate the **conflict serializability** property.
+- Lock protocols can also be classified into **centralized**, **primary copy**, **majority consensus**, or **distributed** locking, depending on how the lock manager is implemented.
+- Centralized locking protocols use a single lock manager for the entire distributed system, which can be a bottleneck or a single point of failure.
+- Primary copy locking protocols use a designated lock manager for each data item, which can be the primary copy holder or a separate node.
+- Majority consensus locking protocols use a quorum of lock managers for each data item, which can improve availability and fault tolerance.
+- Distributed locking protocols use a network of lock managers for each data item, which can reduce communication overhead and increase concurrency.
+- Lock protocols can also be classified into **pessimistic** or **optimistic** concurrency control, depending on how they handle conflicts among transactions.
+- Pessimistic concurrency control protocols use locks to prevent conflicts from occurring, which can reduce aborts but also reduce concurrency.
+- Optimistic concurrency control protocols use timestamps or validation to detect and resolve conflicts after they occur, which can increase concurrency but also increase aborts.
+- Lock protocols can also be classified into **static** or **dynamic**, depending on how they handle changes in the data items or the transactions.
+- Static lock protocols use a fixed set of locks for each data item or transaction, which can simplify the lock management but also limit the flexibility.
+- Dynamic lock protocols use a variable set of locks for each data item or transaction, which can adapt to the changing needs but also increase the complexity.
+- Lock protocols can also be classified into **conservative** or **aggressive**, depending on how they handle deadlock situations.
+- Conservative lock protocols use a **pre-claiming** strategy, where transactions request all the locks they need before starting, which can avoid deadlocks but also waste resources.
+- Aggressive lock protocols use a **wait-die** or **wound-wait** strategy, where transactions wait for or abort other transactions based on their timestamps, which can resolve deadlocks but also increase overhead.
+- Lock protocols can also be classified into **flat** or **hierarchical**, depending on how they handle nested or sub-transactions.
+- Flat lock protocols treat nested or sub-transactions as independent transactions, which can simplify the lock management but also increase the conflicts.
+- Hierarchical lock protocols use a **tree** or **graph** structure to represent the nesting or subordination of transactions, which can reduce the conflicts but also increase the complexity.

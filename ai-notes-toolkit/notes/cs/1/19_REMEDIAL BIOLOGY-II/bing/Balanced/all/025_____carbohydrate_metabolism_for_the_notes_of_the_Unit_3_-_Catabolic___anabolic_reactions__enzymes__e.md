@@ -1,0 +1,15 @@
+# Carbohydrate Metabolism
+
+- Carbohydrate metabolism is the whole of the biochemical processes responsible for the metabolic formation, breakdown, and interconversion of carbohydrates in living organisms.
+- Carbohydrates are organic molecules composed of carbon, hydrogen, and oxygen atoms. They are the main source of energy for most living cells and can be classified into simple sugars (monosaccharides) and complex sugars (polysaccharides).
+- Carbohydrate metabolism begins with digestion in the small intestine where monosaccharides are absorbed into the blood stream. Blood sugar concentrations are controlled by three hormones: insulin, glucagon, and epinephrine.
+- The major pathways of carbohydrate metabolism are:
+  - Glycolysis: the breakdown of glucose into pyruvate, which can be further oxidized in the citric acid cycle or converted into lactate or ethanol under anaerobic conditions. Glycolysis produces a net gain of 2 ATP and 2 NADH molecules per glucose molecule.
+  - Citric acid cycle: the oxidation of acetyl-CoA (derived from pyruvate or fatty acids) into carbon dioxide and water, generating 3 NADH, 1 FADH2, and 1 GTP per cycle. The citric acid cycle is the central hub of cellular metabolism and connects with other pathways such as amino acid and lipid metabolism.
+  - Oxidative phosphorylation: the transfer of electrons from NADH and FADH2 to oxygen, mediated by a series of protein complexes in the inner mitochondrial membrane. The electron transport chain creates a proton gradient that drives the synthesis of ATP by ATP synthase. Oxidative phosphorylation produces about 28 ATP molecules per glucose molecule.
+  - Pentose phosphate pathway: the generation of pentose sugars (such as ribose) and NADPH from glucose. The pentose phosphate pathway is important for nucleotide synthesis and antioxidant defense.
+  - Glycogenesis: the synthesis of glycogen from glucose. Glycogen is a branched polymer of glucose that serves as a storage form of glucose in the liver and muscle cells.
+  - Glycogenolysis: the breakdown of glycogen into glucose. Glycogenolysis is stimulated by glucagon and epinephrine when blood glucose levels are low.
+  - Gluconeogenesis: the synthesis of glucose from non-carbohydrate precursors, such as lactate, pyruvate, glycerol, and amino acids. Gluconeogenesis occurs mainly in the liver and is essential for maintaining blood glucose levels during fasting or starvation.
+- Carbohydrate metabolism is regulated by various factors, such as hormonal signals, enzyme activity, substrate availability, and feedback inhibition. Carbohydrate metabolism is also influenced by the metabolic diversity and pathways of energy use of different cell types and tissues.
+- Carbohydrate metabolism is integrated with lipid and protein metabolism, as they share common intermediates and cofactors. For example, glycerol from triglycerides can be converted into glucose by gluconeogenesis, and amino acids from proteins can be converted into acetyl-CoA by deamination and decarboxylation.

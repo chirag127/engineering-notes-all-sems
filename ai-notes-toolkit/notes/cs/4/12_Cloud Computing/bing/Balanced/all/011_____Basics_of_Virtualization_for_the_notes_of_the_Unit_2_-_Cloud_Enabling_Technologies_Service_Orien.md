@@ -1,0 +1,21 @@
+# Basics of Virtualization
+
+- Virtualization is a process that allows for more efficient utilization of physical computer hardware and is the foundation of cloud computing .
+- Virtualization uses software to create an abstraction layer over computer hardware that allows the hardware elements of a single computer—processors, memory, storage and more—to be divided into multiple virtual computers, commonly called virtual machines (VMs) .
+- A virtual machine is a software computer that, like a physical computer, runs an operating system and applications.
+- The software that enables virtualization is called a hypervisor or a virtual machine monitor (VMM)  .
+- The hypervisor serves as a platform for running virtual machines and allows for the consolidation of computing resources.
+- There are different types of virtualization, such as:
+  - Server virtualization: The partitioning of a physical server into smaller virtual servers that can run different operating systems and applications .
+  - Desktop virtualization: The creation of virtual desktops that can be accessed from any device and location, providing a consistent user experience and improved security .
+  - Application virtualization: The delivery of applications to end users without installing them on their devices, reducing compatibility issues and maintenance costs .
+  - Network virtualization: The creation of virtual networks that can span across physical networks, providing flexibility, scalability and security .
+  - Storage virtualization: The pooling of physical storage devices into a single virtual storage device that can be managed centrally and accessed by multiple servers or applications .
+- There are two major kinds of virtualization: virtual machines and containers.
+  - Virtual machines provide a complete isolation of the guest operating system and applications from the host operating system and hardware, but also require more resources and overhead.
+  - Containers provide a partial isolation of the application and its dependencies from the host operating system and hardware, but also share some resources and components with the host, resulting in less overhead and faster performance.
+- Virtualization has many benefits, such as:
+  - Improved resource utilization and efficiency, reducing costs and energy consumption   .
+  - Increased flexibility and scalability, enabling faster deployment and migration of applications and services   .
+  - Enhanced security and reliability, providing backup, recovery and isolation of applications and data   .
+  - Simplified management and maintenance, reducing complexity and human errors   .

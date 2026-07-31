@@ -1,0 +1,12 @@
+# PCA for the notes of the Unit 3 - BI – DATA PREPARTTION in the subject of BUSINESS INTELLIGENCE AND ANALYTICS KCS
+
+- PCA stands for Principal Component Analysis, which is a dimensionality reduction technique that transforms a large set of variables into a smaller one that still contains most of the information in the large set.
+- PCA is useful for BI and analytics because it can help to reduce the complexity and noise in the data, and reveal the underlying patterns and relationships among the variables.
+- PCA works by finding the linear combinations of the original variables that have the largest variance, and are orthogonal (uncorrelated) to each other. These linear combinations are called principal components (PCs), and they form a new coordinate system for the data .
+- The first PC is the one that explains the most variance in the data, the second PC is the one that explains the most variance among the remaining variables, and so on. The number of PCs is equal to or less than the number of original variables.
+- PCA can be performed using different methods, such as eigenvalue decomposition or singular value decomposition. The output of PCA is a matrix of scores (the transformed data in the new coordinate system) and a matrix of loadings (the coefficients of the linear combinations) .
+- The loadings can be used to interpret the PCs and their contribution to the variance in the data. The loadings can also be used to select the most informative features or variables for further analysis.
+- A biplot is a graphical display that combines the information from the scores and the loadings in a single plot. It can help to visualize the variation in the data, the correlation among the variables, and the outliers in the data .
+- Data preparation is the process of transforming raw data into a ready-to-use format for BI and analytics. It involves tasks such as cleaning, filtering, aggregating, integrating, and transforming the data .
+- Data preparation can also include data curation, which is the process of creating and maintaining data sets and their associated metadata for easy access and use by the users.
+- Data preparation is an essential step for BI and analytics, as it can improve the quality, accuracy, and reliability of the data, and enable faster and more effective analysis and decision making .

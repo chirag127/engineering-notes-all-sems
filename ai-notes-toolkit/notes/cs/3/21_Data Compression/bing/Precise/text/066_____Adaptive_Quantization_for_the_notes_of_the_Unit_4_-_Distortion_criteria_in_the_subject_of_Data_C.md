@@ -1,0 +1,8 @@
+### Adaptive Quantization for the notes of the Unit 4 - Distortion criteria in the subject of Data Compression
+
+- Adaptive Quantization is a technique used in data compression to improve coding efficiency.
+- In forward adaptive quantization, the input is divided into blocks and the quantizer parameters are estimated for each block. These parameters are transmitted to the receiver as side information.
+- The backward adaptive quantization used in DPCM systems is basically a variation of the backward adaptive Jayant quantizer described in Chapter 9. In Chapter 9, the Jayant algorithm was used to adapt the quantizer to a stationary input. In DPCM, the algorithm is used to adapt the quantizer to the local behavior of nonstationary inputs.
+- In a forward adaptive quantization scheme, we would obtain the minimum and maximum values for each block of data, which would be transmitted as side information.
+- Concerning adaptive compression, two types of dynamic bit allocation are often applied. First, many approaches allow spatially, content-aware bit allocation, e.g., with a region of interest (ROI) or importance map. Second, rate adaptation is performed to adjust the bitrate during inference with a single trained model and move the operating point along the rate-distortion (RD) curve.
+- One of the most powerful solutions is the Moving Picture Experts Group geometry-based point cloud compression (G-PCC) emerging standard. In the G-PCC lifting transform coding technique, an adaptive quantization method is used to improve the coding efficiency.

@@ -1,0 +1,11 @@
+### Harmonic Oscillator Quantum Computer
+
+- A harmonic oscillator quantum computer is a proposed model of quantum computation that uses the energy eigenstates of a simple harmonic oscillator as quantum bits.
+- A simple harmonic oscillator is a system that exhibits periodic motion under a restoring force that is proportional to the displacement from the equilibrium position.
+- The energy eigenstates of a simple harmonic oscillator are discrete and equally spaced, and can be labeled by a non-negative integer n, such that E_n = (n + 1/2) hbar omega, where hbar is the reduced Planck constant and omega is the angular frequency of the oscillator.
+- A finite subset of these energy eigenstates can be used to represent quantum bits, or qubits, by assigning the ground state (n = 0) to |0> and the first excited state (n = 1) to |1>. Higher energy states can be used to encode more qubits, such as |00>, |01>, |10>, and |11> for n = 0, 1, 2, and 3, respectively.
+- The advantage of using harmonic oscillator qubits is that they have long lifetimes, which are determined by physical parameters such as the cavity quality factor, which can be made very large by increasing the reflectivity of the cavity walls.
+- The challenge of using harmonic oscillator qubits is that they are not naturally isolated from the environment, and they require precise control and manipulation of the oscillator frequency and amplitude to perform quantum gates.
+- One possible way to implement harmonic oscillator quantum computation is to use superconducting circuits, such as Josephson junctions, which can behave as nonlinear oscillators and allow for coupling and switching between different modes of oscillation.
+- Another possible way to implement harmonic oscillator quantum computation is to use trapped ions, which can be confined in a harmonic potential and manipulated by laser beams to create entanglement and perform quantum gates.
+- A generalization of the harmonic oscillator quantum computer is the anharmonic oscillator quantum computer, which uses a system that is not described by a linear differential equation, such as a quartic potential H = p^2 / 2m + lambda x^4, where lambda is a constant. Anharmonic oscillators have more complex energy spectra and can exhibit chaos and tunneling effects, which may offer advantages or disadvantages for quantum computation.

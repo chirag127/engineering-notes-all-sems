@@ -1,0 +1,11 @@
+# 3. To enable the students to understand about the measure of pH, surface tension and viscosity of
+
+- pH is a measure of how acidic or basic a solution is. It is defined as the negative logarithm of the hydrogen ion concentration in moles per liter. pH = -log[H+]
+- The pH scale ranges from 0 to 14, with 7 being neutral, lower than 7 being acidic, and higher than 7 being basic. The pH of pure water is 7 at 25°C.
+- pH can be measured using indicators, such as litmus paper or phenolphthalein, that change color depending on the acidity or basicity of the solution. Alternatively, pH can be measured using a pH meter, which is an electronic device that measures the voltage difference between a reference electrode and a pH-sensitive electrode immersed in the solution.
+- Surface tension is a measure of how strongly the molecules of a liquid are attracted to each other at the surface. It is defined as the force per unit length required to stretch or break the surface of a liquid. Surface tension = F/L
+- Surface tension causes liquids to form spherical droplets, to minimize their surface area. It also allows some insects, such as water striders, to walk on the surface of water without sinking.
+- Surface tension can be measured using methods such as the drop weight method, the ring method, or the pendant drop method, which involve measuring the force or shape of a liquid drop under different conditions.
+- Viscosity is a measure of how resistant a fluid is to flow. It is defined as the ratio of the shear stress to the shear rate in a fluid. Viscosity = τ/γ
+- The viscosity of a fluid depends on its temperature, pressure, and composition. Generally, liquids have higher viscosity than gases, and viscosity decreases with increasing temperature and pressure.
+- Viscosity can be measured using methods such as the capillary tube method, the rotating cylinder method, or the falling ball method, which involve measuring the flow rate or the drag force of a fluid under different conditions.

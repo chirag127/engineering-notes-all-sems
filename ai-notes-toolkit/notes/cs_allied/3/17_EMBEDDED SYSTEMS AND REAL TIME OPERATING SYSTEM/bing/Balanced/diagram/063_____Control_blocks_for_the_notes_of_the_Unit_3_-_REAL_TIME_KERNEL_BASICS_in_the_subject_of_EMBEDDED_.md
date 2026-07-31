@@ -1,0 +1,24 @@
+### Control blocks for the notes of the Unit 3 - REAL TIME KERNEL BASICS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Control blocks are data structures used by the real time kernel to manage the tasks and resources of the system.
+- Control blocks store information such as task id, priority, state, stack pointer, registers, timers, messages, etc.
+- Control blocks are usually protected from the normal user access and are manipulated by the kernel functions.
+- The most common type of control block is the task control block (TCB), which represents a single task in the system.
+- The TCB contains information such as:
+  - Task id: a unique identifier for the task
+  - Priority: a value that determines the order of execution of the tasks
+  - State: the current status of the task, such as idle, running, ready, blocked, or terminated
+  - Stack pointer: a pointer to the top of the task's stack, which stores the local variables and return addresses of the task
+  - Registers: the values of the CPU registers for the task, such as program counter, status register, etc.
+  - Timers: the values of the timers associated with the task, such as deadline, period, etc.
+  - Messages: the messages sent or received by the task, such as network packets, signals, etc.
+- The TCB is created by the kernel when a task is created and is deleted when a task is terminated.
+- The TCB is updated by the kernel when a task changes its state, priority, or other attributes.
+- The TCB is used by the kernel to perform task scheduling, context switching, synchronization, communication, etc.
+- The TCB is usually stored in a linked list or a priority queue, depending on the scheduling algorithm used by the kernel.
+- The TCB is sometimes placed at the beginning of the kernel stack for the task, as it is a safe location.
+- Other types of control blocks include:
+  - Resource control block (RCB): a data structure that represents a shared resource in the system, such as a semaphore, a mutex, a file, etc.
+  - Event control block (ECB): a data structure that represents an event in the system, such as a timer expiration, a signal, an interrupt, etc.
+  - Message control block (MCB): a data structure that represents a message in the system, such as a network packet, a data buffer, a command, etc.
+- Control blocks are essential for the proper functioning of the real time kernel and the system.

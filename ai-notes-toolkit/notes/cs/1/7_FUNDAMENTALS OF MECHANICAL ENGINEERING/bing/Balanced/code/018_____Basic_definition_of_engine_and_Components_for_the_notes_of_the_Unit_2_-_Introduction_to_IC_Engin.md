@@ -1,0 +1,29 @@
+### Basic definition of engine and components
+
+- An engine is a device that converts one or more forms of energy into mechanical energy that performs useful work.
+- There are different types of engines, such as steam engines, internal combustion engines, electric motors, etc.
+- The most common type of engine used in automobiles is the internal combustion engine, which burns fuel (such as gasoline or diesel) inside a cylinder to produce power.
+- The essential parts of an internal combustion engine include the block, cylinder head, valves, pistons, and piston rings.
+  - The block is the main structure of the engine that contains the cylinders and the crankcase.
+  - The cylinder head is the part that covers the top of the cylinders and houses the valves and the spark plugs (in gasoline engines).
+  - The valves are the devices that control the flow of air and fuel mixture into the cylinders and the exhaust gases out of the cylinders.
+  - The pistons are the cylindrical parts that move up and down inside the cylinders and transmit the force of the combustion to the crankshaft.
+  - The piston rings are the metal rings that seal the gap between the pistons and the cylinder walls and prevent the leakage of gas and oil.
+- Other important parts of an internal combustion engine include the crankshaft, connecting rods, camshaft, timing belt or chain, oil pump, water pump, fuel pump, fuel injectors, spark plugs, distributor, alternator, starter, etc .
+  - The crankshaft is the part that converts the reciprocating motion of the pistons into rotary motion and delivers the power to the transmission.
+  - The connecting rods are the rods that connect the pistons to the crankshaft and transfer the force from the pistons to the crankshaft.
+  - The camshaft is the part that operates the valves by means of lobes or cams that push or pull the valve stems.
+  - The timing belt or chain is the part that synchronizes the movement of the camshaft and the crankshaft and ensures the proper timing of the valve opening and closing and the ignition of the fuel.
+  - The oil pump is the part that circulates the oil throughout the engine and lubricates the moving parts.
+  - The water pump is the part that circulates the coolant (water and antifreeze) throughout the engine and the radiator and cools the engine.
+  - The fuel pump is the part that delivers the fuel from the fuel tank to the fuel injectors or the carburetor.
+  - The fuel injectors are the parts that spray the fuel into the intake manifold or the cylinders in a precise amount and timing.
+  - The spark plugs are the parts that ignite the fuel-air mixture in the cylinders by creating a spark at the right moment.
+  - The distributor is the part that distributes the high-voltage current from the ignition coil to the spark plugs in the correct order.
+  - The alternator is the part that generates electricity from the engine's rotation and charges the battery and powers the electrical system.
+  - The starter is the part that rotates the engine's crankshaft by means of an electric motor and a gear when the ignition key is turned.
+- The internal combustion engine works by following four basic steps: intake, compression, power, and exhaust. These steps are also known as the four-stroke cycle .
+  - Intake: The intake valve opens and the piston moves down, creating a vacuum that draws the air and fuel mixture into the cylinder.
+  - Compression: The intake valve closes and the piston moves up, compressing the air and fuel mixture in the cylinder.
+  - Power: The spark plug fires and ignites the compressed air and fuel mixture, creating a high-pressure gas that pushes the piston down and rotates the crankshaft.
+  - Exhaust: The exhaust valve opens and the piston moves up, expelling the burned gas out of the cylinder.

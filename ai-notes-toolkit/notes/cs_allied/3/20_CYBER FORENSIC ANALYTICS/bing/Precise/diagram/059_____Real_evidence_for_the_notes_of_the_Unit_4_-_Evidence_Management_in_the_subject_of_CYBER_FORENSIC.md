@@ -1,0 +1,7 @@
+### Real evidence for the notes of the Unit 4 - Evidence Management in the subject of CYBER FORENSIC ANALYTICS
+
+1. Evidence management is the administration and control of evidence related to an event so that it can be used to prove the circumstances of the event, and so that this proof can be tested by independent parties with confidence that the evidence provided is the evidence collected related to the event.
+2. Evidence management requires the techniques used in warehousing and inventory control, of many items of evidence related to many events curation and keeping of delicate and sensitive items, of a broad range in type of material and size.
+3. At every stage, handlers of evidence must ensure that it has not been compromised, contaminated, or degraded and that its chain of custody is tracked.
+4. The criminal justice system’s growing reliance on forensic evidence in casework adds complexity to the already difficult task of evidence management.
+5. The forensic intelligence approach combines disparate silos of evidence into an integrative dataset that can link series of crimes and organized crime activities through associations based on forensic evidence and other data, such as situational information, in a timely manner.

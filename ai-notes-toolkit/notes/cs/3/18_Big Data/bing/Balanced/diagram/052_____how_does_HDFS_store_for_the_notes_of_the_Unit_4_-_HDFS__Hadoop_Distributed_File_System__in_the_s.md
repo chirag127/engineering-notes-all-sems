@@ -1,0 +1,8 @@
+### How does HDFS store data?
+
+- HDFS (Hadoop Distributed File System) is a distributed file system that stores large amounts of data across multiple nodes in a cluster.
+- HDFS divides a file into fixed-size blocks (default 128 MB) and distributes them among the DataNodes in the cluster. Each block is replicated on multiple DataNodes for fault tolerance and high availability.
+- HDFS maintains a file system namespace that maps file names to blocks and their locations. The NameNode is the master node that manages the namespace and the metadata of the file system.
+- HDFS provides a client interface that allows users and applications to access the data stored in HDFS. The client communicates with the NameNode to perform operations such as creating, deleting, and renaming files and directories. The client also interacts with the DataNodes to read and write data blocks.
+- HDFS follows a write-once-read-many model, which means that a file can be written only once and then read multiple times. HDFS does not support random writes or updates to a file. However, it supports appending data to an existing file.
+- HDFS is designed to handle large files and high throughput of data. It can scale up to thousands of nodes and store petabytes of data. It also supports data locality, which means that the computation is moved to the nodes where the data resides, reducing network traffic and improving performance.

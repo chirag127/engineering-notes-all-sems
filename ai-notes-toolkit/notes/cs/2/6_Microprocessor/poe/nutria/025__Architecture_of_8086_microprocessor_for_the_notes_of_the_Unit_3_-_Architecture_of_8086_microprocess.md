@@ -1,0 +1,13 @@
+
+### Architecture of 8086 microprocessor
+
+* Register Organization: The 8086 microprocessor contains 16-bit registers which can be used to store data, address and other information. These registers are divided into four groups: General Purpose Registers, Segment Registers, Index Registers and Pointer Registers. 
+* Bus Interface Unit: The Bus Interface Unit (BIU) is responsible for the communication between the microprocessor and external devices. It is responsible for the data transfer between the microprocessor and the memory or I/O devices.
+* Execution Unit: The Execution Unit (EU) is responsible for the execution of instructions. It contains the Arithmetic Logic Unit (ALU) which is responsible for performing arithmetic and logic operations.
+* Memory Addressing: The 8086 microprocessor supports two types of memory addressing: physical memory addressing and segmented memory addressing. Physical memory addressing allows access to memory locations up to 1 MB. Segmented memory addressing allows access to memory locations up to 16 MB.
+* Memory Segmentation: The 8086 microprocessor supports memory segmentation. This allows the memory to be divided into different segments. Each segment can be up to 64 KB in size.
+* Operating Modes: The 8086 microprocessor supports two operating modes: real address mode (RAM) and protected mode (PM). In RAM, the 8086 microprocessor can access up to 1 MB of memory. In PM, the 8086 microprocessor can access up to 16 MB of memory.
+* Instruction Sets: The 8086 microprocessor supports two instruction sets: the 8086 instruction set and the 80286 instruction set. The 8086 instruction set is a 16-bit instruction set and the 80286 instruction set is a 32-bit instruction set.
+* Instruction Format: The 8086 microprocessor supports two instruction formats: one-byte and two-byte instructions. One-byte instructions are used for simple operations such as moving data from one register to another. Two-byte instructions are used for more complex operations such as performing arithmetic operations.
+* Types of Instructions: The 8086 microprocessor supports three types of instructions: data transfer instructions, arithmetic instructions and control instructions. Data transfer instructions are used to move data between registers or memory locations. Arithmetic instructions are used to perform arithmetic operations such as addition and subtraction. Control instructions are used to control the flow of the program.
+* Interrupts: The 8086 microprocessor supports two types of interrupts: hardware interrupts and software interrupts. Hardware interrupts are triggered by external devices such as a keyboard or mouse. Software interrupts are triggered by instructions in the program.

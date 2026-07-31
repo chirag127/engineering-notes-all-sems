@@ -1,0 +1,24 @@
+# Definition for the notes of the Unit 1 - Internet of Things (IoT): Vision, Definition, Conceptual Framework, Architectural view, technology behind IoT, Sources of the IoT, M2M Communication, IoT Examples. Design Principles for Connected Devices: IoT/M2M systems layers and design standardization, communication technologies, data enrichment and consolidation, ease of designing and affordability in the subject of INTRODUCTION TO INTERNET OF THINGS
+
+- **Internet of Things (IoT)** is a system of interrelated, internet-connected objects which are able to collect and transfer data over a wireless network without human intervention.
+- **Vision** of IoT is to enable ubiquitous connectivity and intelligence among physical and virtual entities, and to provide services that are context-aware, personalized, and adaptive.
+- **Definition** of IoT can vary depending on the perspective and application domain, but a general one is: "a paradigm where everyday objects can be equipped with identifying, sensing, networking and processing capabilities that will allow them to communicate with one another and with other devices and services over the Internet to achieve some objective" .
+- **Conceptual Framework** of IoT consists of three main layers: perception, network, and application.
+  - The **perception layer** is responsible for sensing the physical world and collecting data from various sources, such as sensors, RFID tags, cameras, etc.
+  - The **network layer** is responsible for transmitting and processing the data from the perception layer, using various technologies, such as wireless networks, cloud computing, edge computing, etc.
+  - The **application layer** is responsible for providing services and solutions to the end-users, based on the data from the network layer, using various platforms, such as web, mobile, etc.
+- **Architectural view** of IoT can be described using an architecture framework, which defines a set of viewpoints and concerns that are relevant for the design and analysis of IoT systems. An example of an architecture framework is the IEEE P2413 standard, which defines the following viewpoints: business, usage, functional, implementation, information, operational, and trustworthiness.
+- **Technology behind IoT** involves a combination of hardware, software, and communication protocols that enable the interconnection and interoperability of IoT devices and services. Some of the key technologies are:
+  - **Sensors and actuators**: devices that can measure and control physical parameters, such as temperature, humidity, motion, etc.
+  - **RFID and NFC**: technologies that can identify and communicate with objects using radio waves or near-field communication.
+  - **Wireless networks**: technologies that can provide wireless connectivity and data transmission, such as Wi-Fi, Bluetooth, ZigBee, cellular, etc.
+  - **Cloud computing and edge computing**: technologies that can provide scalable and distributed computing and storage resources, either in centralized servers (cloud) or in local devices (edge).
+  - **Big data and analytics**: technologies that can process and analyze large and complex data sets, using techniques such as machine learning, data mining, etc.
+  - **Web and mobile platforms**: technologies that can provide user interfaces and applications for accessing and interacting with IoT services, using web browsers, smartphones, tablets, etc.
+- **Sources of the IoT** are the entities that generate and provide data for the IoT system, such as sensors, devices, humans, etc. The sources can be classified into three types: physical, virtual, and social.
+  - **Physical sources** are the objects that have a physical existence and can sense and act on the environment, such as smart meters, wearable devices, etc.
+  - **Virtual sources** are the objects that have a digital existence and can provide information and services, such as web servers, databases, etc.
+  - **Social sources** are the humans that can interact with the IoT system and provide feedback and preferences, such as users, customers, etc.
+- **M2M Communication** is the communication between machines or devices without human intervention, using various protocols and standards, such as MQTT, CoAP, HTTP, etc. M2M communication enables the automation and coordination of IoT processes and functions, such as data collection, control, management, etc.
+- **IoT Examples** are the applications and use cases that demonstrate the benefits and challenges of the IoT paradigm, such as smart home, smart city, smart health, smart agriculture, smart industry, etc. Each example involves a specific domain, scenario, and objective, and requires a combination of IoT technologies and solutions.
+- **Design Principles for Connected Devices** are the guidelines

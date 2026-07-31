@@ -1,0 +1,11 @@
+# Basic idea of domain bacteria
+
+- Domain bacteria is one of the three domains of life, along with domain archaea and domain eukarya.
+- Domain bacteria includes the prokaryotes people encounter on an everyday basis. Prokaryotes are organisms that lack a membrane-bound nucleus and other organelles.
+- Most bacterial species are heterotrophic; that is, they acquire their food from organic matter. The largest number of bacteria are saprobic, meaning that they feed on dead or decaying organic matter. A few bacterial species are parasitic; these bacteria live within host organisms and cause disease.
+- Domain bacteria can be classified into five main phyla: proteobacteria, cyanobacteria, firmicutes, actinobacteria, and spirochaetes.
+- Proteobacteria are the largest and most diverse group of bacteria. They include many common pathogens, such as E. coli, Salmonella, and H. pylori, as well as some beneficial bacteria, such as Rhizobium, which fix nitrogen in the soil.
+- Cyanobacteria are also known as blue-green algae. They are capable of photosynthesis and produce oxygen. They are important for the evolution of life on Earth, as they are believed to be the first organisms to perform oxygenic photosynthesis.
+- Firmicutes are mostly gram-positive bacteria, meaning that they have a thick cell wall that retains a purple stain in a laboratory test. They include some of the most common bacteria in the human body, such as Lactobacillus, which helps digest food, and Staphylococcus, which can cause infections.
+- Actinobacteria are also mostly gram-positive bacteria, but they have a high G+C content in their DNA, meaning that they have more guanine and cytosine nucleotides than adenine and thymine. They include some of the most important soil bacteria, such as Streptomyces, which produce antibiotics, and Mycobacterium, which cause tuberculosis and leprosy.
+- Spirochaetes are bacteria that have a spiral shape and a flexible cell wall. They can move by rotating their flagella, which are located inside the cell wall. They include some of the most notorious pathogens, such as Treponema, which causes syphilis, and Borrelia, which causes Lyme disease.

@@ -1,0 +1,22 @@
+# Description Logics for Natural Language Processing
+
+- Description logics (DLs) are a family of logic-based knowledge representation languages that allow for the formalization of concepts, roles, and individuals in a domain of interest .
+- DLs can be used for various applications, such as ontology engineering, semantic web, information integration, and natural language processing (NLP)  .
+- In NLP, DLs can be used to represent the meaning of natural language expressions, such as sentences, phrases, or words, in a precise and unambiguous way  .
+- DLs can also be used to perform reasoning tasks on natural language expressions, such as entailment, consistency, subsumption, equivalence, and satisfiability  .
+- DLs are based on the notions of concepts, roles, and individuals, which correspond to the linguistic notions of nouns, verbs, and proper names, respectively  .
+- Concepts are unary predicates that denote sets of individuals, such as `Person`, `Dog`, or `Red`  .
+- Roles are binary predicates that denote relations between individuals, such as `hasPet`, `loves`, or `isColorOf`  .
+- Individuals are constants that denote specific objects in the domain, such as `Alice`, `Fido`, or `the apple`  .
+- DLs allow for the construction of complex concepts and roles from atomic ones using various constructors, such as conjunction, disjunction, negation, quantification, and restriction  .
+- For example, the concept `Person and (hasPet some Dog)` denotes the set of persons who have at least one dog as a pet  .
+- The role `loves o hasPet` denotes the relation between individuals who love someone who has a pet  .
+- DLs also allow for the definition of axioms that state facts or constraints about the domain, such as `Alice loves Fido`, `Dog subClassOf Animal`, or `allValuesFrom(hasPet, Animal)`  .
+- A DL knowledge base consists of a set of axioms that can be divided into two parts: a TBox and an ABox  .
+- A TBox contains terminological axioms that define concepts and roles, such as `Dog subClassOf Animal` or `hasPet domain Person`  .
+- An ABox contains assertional axioms that state facts about individuals, such as `Alice loves Fido` or `Fido instanceOf Dog`  .
+- A DL reasoner is a software tool that can perform various inference services on a DL knowledge base, such as checking its consistency, answering queries, or finding explanations  .
+- In NLP, a DL reasoner can be used to verify the validity of natural language expressions, to retrieve relevant information from a knowledge base, or to generate natural language paraphrases or summaries  .
+- For example, given the knowledge base above, a DL reasoner can answer the query `Who loves an animal?` by returning `Alice` as an answer  .
+- A DL reasoner can also explain why `Alice loves an animal` is true by providing a proof that involves the axioms `Alice loves Fido`, `Fido instanceOf Dog`, and `Dog subClassOf Animal`  .
+- A DL reasoner can also generate a natural language paraphrase of `Person and (hasPet some Dog)` by using synonyms, hypernyms, or examples, such as `a human who owns a canine` or `someone like Bob who has a dog named Spot`  [^

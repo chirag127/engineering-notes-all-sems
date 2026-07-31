@@ -1,0 +1,14 @@
+### Models of Evolution and Learning for Reinforcement Learning
+
+Reinforcement learning (RL) is a branch of machine learning that deals with learning from trial and error, based on rewards and penalties. RL agents interact with an environment and learn optimal policies to achieve their goals.
+
+Evolution and learning are two fundamental mechanisms of adaptation in nature. Evolution operates on the level of populations, where genetic variation and natural selection drive the emergence of new traits and behaviors. Learning operates on the level of individuals, where experience and feedback shape the acquisition and refinement of skills and knowledge.
+
+Evolution and learning can be combined in different ways to enhance the performance and adaptability of RL agents. Some of the models of evolution and learning for RL are:
+
+- **Evolutionary Reinforcement Learning (ERL)**: This model integrates an evolutionary algorithm (EA) with an RL algorithm, where the EA provides a population of diverse agents that generate data for the RL algorithm, and the RL algorithm provides gradient information for the EA. ERL can exploit the advantages of both methods, such as exploration, exploitation, diversity, and generalization.
+- **Evolutionary-Driven Reinforcement Learning (evo-RL)**: This model embeds the RL algorithm in an evolutionary cycle, where the RL agent evolves its instinctive behavior (such as initial policy or value function) and learns its adaptive behavior (such as policy improvement or value iteration) in different phases. evo-RL can balance between evolvability and learnability, and achieve fast and robust learning.
+- **Deep Evolutionary Reinforcement Learning (DERL)**: This model applies evolutionary algorithms to optimize both the morphology and the controller of RL agents, where the controller is a deep neural network that can learn from experience. DERL can generate diverse and complex agent designs that can perform challenging locomotion and manipulation tasks.
+- **Evolving Reinforcement Learning Algorithms (ERLA)**: This model uses a graph representation and a genetic algorithm to discover new RL algorithms from scratch, without human intervention. ERLA can produce novel, interpretable, and generalizable RL algorithms that can outperform existing ones on some benchmarks.
+
+These models illustrate some of the ways that evolution and learning can be synergistically combined for RL. They also pose new challenges and opportunities for future research, such as understanding the trade-offs, dynamics, and mechanisms of evolution and learning, and developing more efficient, scalable, and robust methods for evolving and learning RL agents.

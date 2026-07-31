@@ -1,0 +1,22 @@
+### Nuclear Magnetic Resonance for the notes of the Unit 3 - Quantum Computers in the subject of Quantum Computing
+
+- Nuclear magnetic resonance (NMR) is a physical phenomenon that occurs when nuclei in a magnetic field absorb and re-emit electromagnetic radiation.
+- NMR can be used to study the structure, dynamics, and interactions of molecules, as well as to manipulate and measure quantum states of nuclei.
+- NMR quantum computing (NMRQC) is one of the proposed approaches for constructing a quantum computer, that uses the spin states of nuclei within molecules as qubits.
+- A qubit is the basic unit of quantum information, that can exist in a superposition of two classical states, usually denoted as |0> and |1>.
+- NMRQC relies on the fact that nuclei have a property called spin, which makes them behave like tiny magnets with a north and south pole.
+- When placed in a strong external magnetic field, the nuclei align themselves either parallel or anti-parallel to the field, corresponding to the |0> or |1> state of a qubit.
+- However, due to quantum mechanics, the nuclei can also exist in a superposition of both states, with a certain probability amplitude for each state.
+- The superposition state of a nucleus can be manipulated by applying radiofrequency pulses, which can change the phase and amplitude of the probability amplitudes.
+- The state of a nucleus can be measured by detecting the electromagnetic radiation it emits when it returns to equilibrium with the external field, which is called the NMR signal.
+- The NMR signal depends on the frequency and intensity of the radiofrequency pulses, as well as the interactions between the nuclei in the molecule.
+- NMRQC uses molecules that have several nuclei with different spin values, such as carbon-13, nitrogen-15, or hydrogen-1, as quantum registers, which can store and process multiple qubits.
+- The interactions between the nuclei, such as the J-coupling or the dipolar coupling, can be used to implement quantum gates, which are the basic operations of quantum computing.
+- Quantum gates can perform logical operations on one or more qubits, such as the NOT, CNOT, or SWAP gates, or apply unitary transformations, such as the Hadamard, Pauli, or Phase gates.
+- By applying a sequence of quantum gates, NMRQC can implement quantum algorithms, such as the Deutsch-Jozsa, Grover, or Shor algorithms, which can solve certain problems faster than classical computers.
+- NMRQC has some advantages over other quantum computing approaches, such as the availability of natural molecules, the scalability of the NMR technology, and the robustness of the quantum states against decoherence.
+- Decoherence is the loss of quantum coherence due to the interaction of the quantum system with the environment, which can cause errors and limit the performance of quantum computing.
+- NMRQC also has some challenges and limitations, such as the difficulty of initializing and measuring the quantum states, the low signal-to-noise ratio of the NMR signal, and the requirement of exponentially large molecules to increase the number of qubits.
+- NMRQC is considered a proof-of-principle demonstration of quantum computing, rather than a practical implementation, as it can only simulate small quantum systems with a few qubits.
+- NMRQC has been used to implement several quantum algorithms and protocols, such as the quantum Fourier transform, the quantum error correction, and the quantum teleportation.
+- NMRQC is an active area of research, with ongoing efforts to improve the techniques and methods of quantum state manipulation, measurement, and control, as well as to explore new applications and possibilities of quantum computing.

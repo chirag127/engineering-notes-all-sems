@@ -1,0 +1,9 @@
+# Bhakti Movement in India
+
+- The Bhakti movement was a significant religious movement in medieval Hinduism that sought to bring religious reforms to all strata of society by adopting the method of devotion to achieve salvation.
+- The movement preached against the caste system, ritualism, idolatry, and social inequalities, and emphasized the equality of all human beings, the importance of moral values, and the personal experience of God .
+- The movement originated in South India in the 7th-8th centuries CE with the devotional hymns of the Alvars (Vaishnavite saints) and the Nayanars (Shaivite saints), who sang in praise of Vishnu and Shiva respectively .
+- The movement spread to North India in the 12th-13th centuries CE with the influence of the Bhakti saints such as Ramananda, Kabir, Nanak, Surdas, Mirabai, Tulsidas, and others, who propagated their teachings in the regional languages such as Hindi, Punjabi, Bengali, Marathi, etc .
+- The movement also had an impact on the development of Sikhism, a monotheistic religion founded by Guru Nanak, who was influenced by both Hindu and Islamic mysticism .
+- The movement contributed to the enrichment of the Indian literature, music, art, and culture, as the Bhakti poets and singers composed various forms of devotional songs, poems, stories, and dramas that expressed their love and devotion to God .
+- The movement also fostered a spirit of tolerance, harmony, and social reform among the people, as the Bhakti saints advocated the unity of all religions, the dignity of women, the abolition of untouchability, and the service of humanity .

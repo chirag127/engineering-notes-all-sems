@@ -1,0 +1,13 @@
+## Unit 5 - Internet Infrastructure
+
+- The Internet is a global network of interconnected computers that communicate using standardized protocols.
+- The Internet consists of various components, such as routers, switches, servers, cables, satellites, wireless devices, and end-user devices.
+- The Internet is organized into a hierarchical structure of networks, such as local area networks (LANs), metropolitan area networks (MANs), wide area networks (WANs), and the Internet backbone.
+- The Internet backbone is a network of high-speed and high-capacity routers and links that connect major Internet service providers (ISPs) and network access points (NAPs) around the world.
+- The Internet Protocol (IP) is the main protocol used for addressing and routing packets across the Internet. IP uses a 32-bit or 128-bit address to identify each device on the network.
+- The Domain Name System (DNS) is a distributed database that maps domain names to IP addresses. DNS allows users to access websites and services using human-readable names instead of numerical addresses.
+- The Transmission Control Protocol (TCP) is a reliable and connection-oriented protocol that ensures the correct delivery of data over the Internet. TCP uses a three-way handshake to establish a connection, and a sliding window mechanism to control the flow and congestion of data.
+- The User Datagram Protocol (UDP) is an unreliable and connectionless protocol that provides fast and efficient data transfer over the Internet. UDP does not guarantee the delivery, order, or integrity of data, and is suitable for real-time applications such as voice and video streaming.
+- The Hypertext Transfer Protocol (HTTP) is an application-layer protocol that defines how web browsers and web servers communicate over the Internet. HTTP uses a request-response model, where the browser sends a request for a web resource, and the server responds with the resource or an error message.
+- The Simple Mail Transfer Protocol (SMTP) is an application-layer protocol that defines how email messages are sent and received over the Internet. SMTP uses a client-server model, where the client connects to the server and sends commands and data, and the server responds with status codes and messages.
+- The File Transfer Protocol (FTP) is an application-layer protocol that defines how files are transferred between hosts over the Internet. FTP uses a control connection and a data connection, where the control connection is used to send commands and responses, and the data connection is used to transfer files.

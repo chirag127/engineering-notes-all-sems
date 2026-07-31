@@ -1,0 +1,10 @@
+### Finite state machines and regular expressions and their applications to lexical analysis
+
+- Finite state machines (FSMs) are abstract models of computation that can process a finite amount of input and produce a finite amount of output.
+- FSMs consist of a set of states, a set of input symbols, a set of output symbols, a transition function that maps a state and an input symbol to a new state, and a start state and a set of final states.
+- FSMs can be deterministic (DFA) or nondeterministic (NFA). A DFA has exactly one transition for each state and input symbol, while an NFA can have zero, one, or more transitions for each state and input symbol.
+- Regular expressions (REs) are a concise and expressive way of specifying a set of strings, called a regular language. REs use symbols, operators, and parentheses to construct complex patterns from simpler ones.
+- REs and FSMs are equivalent in expressive power, meaning that for any RE, there exists an FSM that recognizes the same language, and vice versa. Algorithms exist to convert from one to the other.
+- Lexical analysis is the process of breaking down a source code into a sequence of tokens, which are the smallest meaningful units of a language. Tokens can be identifiers, keywords, literals, operators, punctuation, etc.
+- Lexical analysis is an application of FSMs, as each token can be recognized by a DFA or an NFA. A lexical analyzer can be implemented as a table-driven or a code-driven FSM, which reads the input character by character and changes its state accordingly.
+- REs are useful for specifying the patterns of tokens in a language. A lexical analyzer can be generated automatically from a set of REs, using tools such as Lex or Flex. These tools convert the REs into NFAs, then into DFAs, and then into executable code.

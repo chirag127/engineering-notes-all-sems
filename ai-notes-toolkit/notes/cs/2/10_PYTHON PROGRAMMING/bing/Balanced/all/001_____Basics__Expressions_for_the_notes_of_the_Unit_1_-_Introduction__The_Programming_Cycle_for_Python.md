@@ -1,0 +1,30 @@
+# Basics: Expressions for the notes of the Unit 1 - Introduction: The Programming Cycle for Python , Python IDE, Interacting with Python Programs , Elements of Python, Type Conversion.
+
+- An expression is a combination of values, variables, operators, and functions that produces a result.
+- Expressions can be simple, such as `2 + 3`, or complex, such as `math.sqrt(x**2 + y**2)`.
+- Expressions can be evaluated by Python to obtain a value, which can be assigned to a variable, printed, or used in another expression.
+- The type of the value produced by an expression depends on the types of the operands and the operator used.
+- Python supports several types of values, such as numbers, strings, booleans, lists, tuples, dictionaries, and sets.
+- Python also supports several types of operators, such as arithmetic, comparison, logical, bitwise, assignment, and membership operators.
+- Python follows a set of rules to determine the order of evaluation of expressions, which can be modified by using parentheses.
+- A Python IDE (Integrated Development Environment) is a software tool that provides a convenient and user-friendly environment for writing, running, debugging, and testing Python programs.
+- A Python IDE typically consists of a code editor, a console, a debugger, a documentation viewer, and other features that facilitate the development process.
+- Some examples of Python IDEs are PyCharm, Visual Studio Code, Spyder, Thonny, and IDLE.
+- Interacting with Python programs means providing input to the programs and receiving output from them.
+- Input can be provided by using keyboard, mouse, files, databases, web services, or other sources.
+- Output can be displayed by using print statements, graphical user interfaces, files, databases, web services, or other destinations.
+- Elements of Python are the basic components that make up the syntax and semantics of the Python language.
+- Elements of Python include keywords, identifiers, literals, operators, punctuations, comments, statements, blocks, and modules.
+- Keywords are reserved words that have a special meaning and function in Python, such as `def`, `if`, `for`, `return`, etc.
+- Identifiers are names that are used to refer to variables, functions, classes, modules, or other objects in Python, such as `x`, `sum`, `math`, etc.
+- Literals are values that are written directly in the code, such as `42`, `"Hello"`, `True`, etc.
+- Operators are symbols that perform operations on operands, such as `+`, `==`, `and`, etc.
+- Punctuations are symbols that separate or group elements of Python, such as `:`, `;`, `()`, `[]`, etc.
+- Comments are lines of text that are ignored by Python and are used to explain or document the code, such as `# This is a comment`.
+- Statements are instructions that tell Python what to do, such as `x = 5`, `print(x)`, `if x > 0:`, etc.
+- Blocks are groups of statements that are executed together, such as the body of a function, a loop, or a conditional branch.
+- Modules are files that contain Python code and can be imported and used by other programs, such as `import math`, `from random import randint`, etc.
+- Type conversion is the process of changing the type of a value or an expression to another type, such as converting a string to a number, or a list to a tuple.
+- Type conversion can be implicit or explicit.
+- Implicit type conversion is done automatically by Python when an expression requires a different type than the operands have, such as adding a float and an integer, or concatenating a string and a number.
+- Explicit type conversion is done by using built-in functions that take a value or an expression as an argument and return a new value of the specified type, such as `int()`, `float()`, `str()`, `list()`, `tuple()`, etc.

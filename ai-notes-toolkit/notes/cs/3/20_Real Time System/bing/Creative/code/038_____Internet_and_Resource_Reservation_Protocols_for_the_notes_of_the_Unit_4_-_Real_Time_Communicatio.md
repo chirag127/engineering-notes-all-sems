@@ -1,0 +1,22 @@
+# Internet and Resource Reservation Protocols
+
+- Internet is a global network of interconnected devices that communicate using standard protocols such as TCP/IP, UDP, HTTP, etc.
+- Internet applications have different network performance requirements, such as reliability, timeliness, bandwidth, jitter, etc.
+- Quality of Service (QoS) is the ability of a network to provide different levels of service to different applications or data flows, according to their needs and preferences.
+- Resource Reservation Protocol (RSVP) is a network control protocol that enables Internet applications to obtain specific QoS for their data flows.
+- RSVP operates over IPv4 or IPv6 and supports both multicast and unicast data flows.
+- RSVP is receiver-initiated, meaning that the receiver of a data flow initiates the resource reservation process by sending RSVP messages to the sender and the intermediate routers along the path.
+- RSVP messages include PATH, RESV, PATHERR, RESVERR, PATHTEAR, and RESVTEAR, which are used to establish, maintain, and tear down resource reservations.
+- RSVP uses soft state, meaning that the reservations are periodically refreshed by RSVP messages and are automatically removed if no refresh is received within a certain time interval.
+- RSVP is not a routing protocol, but it works with existing routing protocols such as OSPF, IS-IS, RIP, etc. to obtain the best path for a data flow.
+- RSVP is not a transport protocol, but it works with existing transport protocols such as TCP, UDP, RTP, etc. to provide end-to-end QoS for a data flow.
+- RSVP is part of the Integrated Services (IntServ) model, which is a QoS architecture that defines two service classes: Guaranteed Service and Controlled Load Service.
+- Guaranteed Service provides a firm bound on end-to-end delay and packet loss for a data flow, while Controlled Load Service provides a service that is equivalent to an unloaded network for a data flow.
+- IntServ uses admission control mechanisms to ensure that the network has enough resources to meet the QoS requirements of the admitted data flows.
+- IntServ requires per-flow state and processing at every router along the path, which limits its scalability and flexibility for large and dynamic networks.
+- RSVP can also be used with the Differentiated Services (DiffServ) model, which is a QoS architecture that defines multiple service classes based on the marking of packets in the IP header.
+- DiffServ uses aggregate state and processing at the routers, which improves its scalability and flexibility for large and dynamic networks.
+- DiffServ uses edge routers to mark packets according to their service class and core routers to forward packets according to their marking.
+- DiffServ uses per-hop behaviors (PHBs) to define how packets are treated at each router, such as Expedited Forwarding (EF), Assured Forwarding (AF), and Default Forwarding (DF).
+- DiffServ does not provide end-to-end QoS guarantees, but it provides relative QoS differentiation among different classes of traffic.
+- RSVP can be used to signal the QoS requirements of a data flow at the edge routers, which then mark the packets accordingly and forward them to the core routers using DiffServ. This is called RSVP/DiffServ integration.

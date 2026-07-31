@@ -1,0 +1,12 @@
+### Perspective Projection
+
+- Perspective projection is a type of projection that shows a three-dimensional object on a two-dimensional plane as it appears to the human eye from a certain point of view.
+- Perspective projection is used to create realistic and artistic drawings of objects and scenes, but it is not suitable for engineering drawings that require accurate dimensions and shapes.
+- Perspective projection is based on the principle that the lines of projection from the object to the center of projection (or station point) are not parallel, but converge at a single point.
+- The center of projection is the position of the observer's eye, and the distance from the center of projection to the plane of projection (or picture plane) is called the perspective distance.
+- The perspective distance affects the degree of distortion and foreshortening of the object. The smaller the perspective distance, the more distorted and foreshortened the object appears.
+- The plane of projection is the plane on which the image of the object is projected. It can be perpendicular or oblique to the lines of projection, and it can be placed between the object and the center of projection or beyond the object.
+- The plane of projection determines the type and shape of the perspective projection. There are three main types of perspective projection: one-point, two-point, and three-point perspective.
+- One-point perspective is when the plane of projection is perpendicular to one of the principal axes of the object, and the other two axes are parallel to the plane of projection. The image of the object has one vanishing point on the plane of projection, where the lines of projection converge.
+- Two-point perspective is when the plane of projection is perpendicular to one of the principal axes of the object, and the other two axes are oblique to the plane of projection. The image of the object has two vanishing points on the plane of projection, where the lines of projection converge.
+- Three-point perspective is when the plane of projection is oblique to all three principal axes of the object. The image of the object has three vanishing points on the plane of projection, where the lines of projection converge.

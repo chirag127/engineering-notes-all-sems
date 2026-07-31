@@ -1,0 +1,14 @@
+### 14. Determination of Cell Conductance of a solution
+
+- Cell conductance of a solution is the measure of how well the solution can conduct electric current.
+- It is the reciprocal of the resistance of the solution, which depends on the concentration, charge and mobility of the ions in the solution.
+- To measure the cell conductance of a solution, a special device called a conductance cell is used. It consists of two electrodes of known area and distance, immersed in the solution.
+- The resistance of the solution between the electrodes is measured by using a Wheatstone bridge or a conductivity meter.
+- The cell constant, K, is the ratio of the distance between the electrodes, l, to the area of cross-section of the electrodes, a. It has the units of cm<sup>-1</sup>.
+- The cell constant is determined by using a solution of known specific conductance, such as KCl. The specific conductance, κ, is the conductance of a solution of unit length and unit cross-sectional area. It has the units of S cm<sup>-1</sup>.
+- The cell conductance, G, is related to the specific conductance, κ, by the equation G = κK. Therefore, by measuring the cell conductance and knowing the cell constant, the specific conductance of any solution can be calculated.
+- The specific conductance of a solution varies with the concentration of the solution. The molar conductance, Λ<sub>m</sub>, is the conductance of a solution containing one mole of the solute in a given volume of the solution. It has the units of S cm<sup>2</sup> mol<sup>-1</sup>.
+- The molar conductance, Λ<sub>m</sub>, is related to the specific conductance, κ, by the equation Λ<sub>m</sub> = κ/M, where M is the molarity of the solution.
+- The molar conductance of a solution increases with the decrease in concentration, as the ions become more free to move in the solution. The limiting molar conductance, Λ<sub>m</sub><sup>0</sup>, is the molar conductance of a solution at infinite dilution, when the ions are completely dissociated and do not interact with each other.
+- The limiting molar conductance of a solution can be calculated by using the Kohlrausch's law, which states that the limiting molar conductance of an electrolyte is equal to the sum of the limiting molar conductances of the cation and the anion of the electrolyte. For example, Λ<sub>m</sub><sup>0</sup>(NaCl) = Λ<sub>m</sub><sup>0</sup>(Na<sup>+</sup>) + Λ<sub>m</sub><sup>0</sup>(Cl<sup>-</sup>).
+- The limiting molar conductances of the ions can be determined experimentally by using the conductance measurements of different electrolytes and applying the Kohlrausch's law.

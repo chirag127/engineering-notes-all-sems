@@ -1,0 +1,8 @@
+## Unit 2 - Cyber Forensics
+
+- Cyber forensics is the application of scientific methods and techniques to collect, analyze, and present digital evidence in a court of law.
+- Cyber forensics involves four main phases: acquisition, examination, analysis, and reporting.
+- Acquisition is the process of obtaining digital evidence from various sources, such as computers, mobile devices, networks, cloud services, etc. The evidence must be acquired in a forensically sound manner, which means preserving its integrity and authenticity, and following proper chain of custody procedures.
+- Examination is the process of identifying and extracting relevant data from the acquired evidence, using various tools and techniques, such as hashing, encryption, file carving, metadata analysis, etc. The examiner must document the steps and methods used in the examination process.
+- Analysis is the process of interpreting and evaluating the extracted data, using various methods, such as timeline analysis, link analysis, anomaly detection, etc. The analyst must draw logical conclusions and hypotheses based on the evidence and the case context.
+- Reporting is the process of presenting the findings and opinions of the analysis, using various formats, such as written reports, oral testimony, visual aids, etc. The report must be clear, concise, accurate, and unbiased, and must address the questions and objectives of the investigation.

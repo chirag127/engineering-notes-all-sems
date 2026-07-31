@@ -1,0 +1,14 @@
+### Basic principles involved in developing a web site
+
+- Web design is the process of creating and presenting the content of a website in a way that is aesthetically pleasing, functional, and user-friendly.
+- Web design involves both the principles of design and the constraints of the web, such as screen size, browser compatibility, and accessibility.
+- Some of the basic principles of web design are:
+
+  - **Simplicity**: A good web design should be simple and clear, avoiding unnecessary clutter and distractions. Simplicity helps users to focus on the main message and purpose of the website, and makes it easier to navigate and understand.
+  - **Consistency**: A good web design should be consistent in every aspect, such as layout, typography, color, imagery, and navigation. Consistency helps users to recognize and remember the website, and creates a sense of trust and professionalism.
+  - **Typography and readability**: A good web design should use readable and web-friendly fonts, that are appropriate for the tone and style of the website. Typography and readability affect how users perceive and comprehend the content of the website, and influence their engagement and satisfaction.
+  - **Responsive and mobile friendly**: A good web design should be responsive and mobile friendly, meaning that it adapts to different screen sizes and devices, and provides an optimal user experience across all platforms. Responsive and mobile friendly web design helps users to access and interact with the website anytime and anywhere, and increases the reach and visibility of the website.
+  - **Color palette and imagery**: A good web design should use a color palette and imagery that are suitable for the theme and mood of the website, and that complement and enhance the content. Color palette and imagery affect how users feel and react to the website, and create a visual appeal and identity for the website.
+  - **Fast loading**: A good web design should be fast loading, meaning that it minimizes the time and resources required to load and display the website. Fast loading web design helps users to access and enjoy the website without delays or frustrations, and improves the performance and ranking of the website.
+  - **Easy navigation**: A good web design should be easy to navigate, meaning that it provides a clear and intuitive way for users to find and access the information and features they need. Easy navigation web design helps users to achieve their goals and tasks on the website, and increases their satisfaction and loyalty.
+  - **Communication**: A good web design should communicate effectively with the users, meaning that it provides relevant, useful, and engaging content that meets their needs and expectations. Communication web design helps users to understand and appreciate the website, and encourages them to take action and interact with the website.

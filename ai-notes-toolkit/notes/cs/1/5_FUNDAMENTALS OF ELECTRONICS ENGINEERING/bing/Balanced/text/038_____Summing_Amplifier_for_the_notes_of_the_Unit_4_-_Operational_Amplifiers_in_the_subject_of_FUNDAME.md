@@ -1,0 +1,22 @@
+### Summing Amplifier
+
+- A summing amplifier is an op amp circuit that can combine numbers of input signals to a single output that is the weighted sum of the applied inputs    .
+- The summing amplifier is one variation of inverting amplifier. In inverting amplifier there is only one voltage signal applied to the inverting input as shown below :
+
+![Inverting amplifier](https://www.electrical4u.com/wp-content/uploads/2012/02/inverting-amplifier.png)
+
+- The output voltage of the inverting amplifier is given by:
+
+![Output voltage of inverting amplifier](https://www.electrical4u.com/wp-content/uploads/2012/02/output-voltage-of-inverting-amplifier.png)
+
+- In summing amplifier, there are two or more voltage signals applied to the inverting input as shown below    :
+
+![Summing amplifier](https://www.electrical4u.com/wp-content/uploads/2012/02/summing-amplifier.png)
+
+- The output voltage of the summing amplifier is given by:
+
+![Output voltage of summing amplifier](https://www.electrical4u.com/wp-content/uploads/2012/02/output-voltage-of-summing-amplifier.png)
+
+- The summing amplifier can be used to perform arithmetic operations such as addition, subtraction, scaling, and averaging of the input signals    .
+- The summing amplifier can also be used to mix audio signals, convert digital signals to analog signals, and implement feedback control systems    .
+- The summing amplifier is a very flexible circuit indeed, enabling us to effectively “Add” or “Sum” (hence its name) together several individual input signals.

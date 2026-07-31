@@ -1,0 +1,9 @@
+### Representation for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+
+- Feature extraction is the process of transforming an initial set of measured data (such as pixel values of an image) into a set of derived values (features) that are informative, non-redundant, and suitable for subsequent learning and generalization tasks .
+- Feature extraction can be performed by different methods, depending on the type and purpose of the features. Some common methods are  :
+  - Calculation-based: These methods use mathematical operations and transformations to compute features from the raw data. Examples are edge detection, corner detection, histogram of oriented gradients, scale-invariant feature transform, etc.
+  - Recognition-based: These methods use machine learning models to learn features from the data that are relevant for a specific task, such as classification, detection, or segmentation. Examples are convolutional neural networks, autoencoders, deep belief networks, etc.
+  - Simulation-based: These methods use physical or biological models to simulate the features that are perceived by humans or animals. Examples are saliency maps, gist descriptors, biologically inspired features, etc.
+- Feature extraction can be applied to various domains of image analytics, such as medical image analysis, remote sensing, face recognition, object detection, etc. Different domains may require different types of features and methods to extract them .
+- Feature extraction can improve the performance and efficiency of image analytics by reducing the dimensionality, noise, and redundancy of the data, and by enhancing the discriminative and descriptive power of the features  .

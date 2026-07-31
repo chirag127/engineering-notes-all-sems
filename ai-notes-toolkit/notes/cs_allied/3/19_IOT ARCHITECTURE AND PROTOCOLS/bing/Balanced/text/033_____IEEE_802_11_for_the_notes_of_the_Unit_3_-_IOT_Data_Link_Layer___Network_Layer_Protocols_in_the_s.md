@@ -1,0 +1,21 @@
+### IEEE 802.11
+
+- IEEE 802.11 is a set of standards for wireless local area networks (WLANs) developed by the IEEE 802.11 Working Group  .
+- IEEE 802.11 is used in most home and office networks to allow laptops, printers, smartphones, and other devices to communicate with each other and access the Internet without connecting wires.
+- IEEE 802.11 is also a basis for vehicle-based communication networks with IEEE 802.11p.
+- IEEE 802.11 defines the physical layer (PHY) and the medium access control (MAC) layer specifications for WLANs.
+- The PHY layer specifies the modulation, coding, and frequency bands used for wireless transmission.
+- The MAC layer specifies the rules for accessing the shared wireless medium, such as carrier sense multiple access with collision avoidance (CSMA/CA), and the frame formats and control messages used for data exchange.
+- IEEE 802.11 has several amendments that extend or modify the original standard, such as 802.11a, 802.11b, 802.11g, 802.11n, 802.11ac, and 802.11ax .
+- These amendments differ in the data rates, frequency bands, modulation schemes, and channel widths they support .
+- For example, IEEE 802.11a supports up to 54 Mbps data rate in the 5 GHz band and uses orthogonal frequency-division multiplexing (OFDM) modulation.
+- IEEE 802.11b supports up to 11 Mbps data rate in the 2.4 GHz band and uses direct-sequence spread spectrum (DSSS) modulation.
+- IEEE 802.11g supports up to 54 Mbps data rate in the 2.4 GHz band and uses OFDM modulation.
+- IEEE 802.11n supports up to 600 Mbps data rate in the 2.4 GHz or 5 GHz band and uses multiple-input multiple-output (MIMO) technology and channel bonding.
+- IEEE 802.11ac supports up to 6.9 Gbps data rate in the 5 GHz band and uses MIMO technology, channel bonding, and higher-order modulation.
+- IEEE 802.11ax supports up to 9.6 Gbps data rate in the 2.4 GHz or 5 GHz band and uses MIMO technology, channel bonding, higher-order modulation, and orthogonal frequency-division multiple access (OFDMA) technique.
+- IEEE 802.11ad is an amendment that defines a new physical layer for 802.11 networks to operate in the 60 GHz millimeter wave spectrum. This frequency band has significantly different propagation characteristics than the 2.4 GHz and 5 GHz bands where Wi-Fi networks operate.
+- IEEE 802.11ad supports up to 7 Gbps data rate and uses directional antennas and beamforming technology.
+- IEEE 802.11p is an amendment that defines a new physical layer and MAC layer for 802.11 networks to support wireless access in vehicular environments (WAVE). This amendment enables vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication using the 5.9 GHz band.
+- IEEE 802.11p supports up to 27 Mbps data rate and uses OFDM modulation and enhanced distributed channel access (EDCA) mechanism.
+- IEEE 802.11-2020 is the latest revision of the IEEE 802.11 standard that incorporates all the previous amendments and some new features, such as enhanced security, improved power saving, and support for mesh networks.

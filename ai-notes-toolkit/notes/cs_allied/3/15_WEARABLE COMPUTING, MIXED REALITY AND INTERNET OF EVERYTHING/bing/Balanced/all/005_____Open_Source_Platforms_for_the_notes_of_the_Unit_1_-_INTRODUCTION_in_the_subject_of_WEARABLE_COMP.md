@@ -1,0 +1,13 @@
+# Open Source Platforms for Wearable Computing, Mixed Reality and Internet of Everything
+
+- Wearable computing is the field of technology that integrates computing devices and sensors into clothing and accessories, enabling users to interact with digital information in natural and seamless ways.
+- Mixed reality is the blending of physical and digital worlds, creating new environments and visualizations where physical and digital objects coexist and interact in real time.
+- Internet of Everything is the concept of connecting people, data, processes and things through the internet, enabling new levels of intelligence, efficiency and innovation.
+- Open source platforms are software or hardware projects that are developed and distributed under licenses that allow anyone to access, modify and share the source code or design files freely.
+- Some examples of open source platforms for wearable computing, mixed reality and internet of everything are:
+
+  - **Open Source Virtual Reality (OSVR)**: An open-source software project that aims to enable headsets and game controllers from all vendors to be used with any games developed by Razer and Sensics. It is also a virtual reality headset that claims to be open-source hardware using the OSVR software.
+  - **ARToolKit**: An open-source software library that allows developers to create augmented reality applications for various platforms, such as Android, iOS, Windows, Linux and Mac OS X. It supports marker-based and markerless tracking, as well as camera calibration and pose estimation.
+  - **Azure IoT**: A cloud-based platform that provides a range of services and tools for building and managing internet of things solutions, such as device provisioning, data ingestion, analytics, machine learning, digital twins and edge computing. It supports open standards and protocols, such as MQTT, AMQP and HTTP.
+  - **Snap Kit**: A collection of open-source tools and SDKs that allow developers to integrate Snapchat features and content into their own apps, such as Bitmoji, Snap Map, Stories, Camera and Login. It also enables users to share their app experiences with their friends on Snapchat.
+  - **WebXR**: A web standard that defines a set of APIs and interfaces for creating immersive web experiences, such as virtual reality, augmented reality and mixed reality. It allows web developers to use HTML, CSS and JavaScript to create and deliver cross-platform and cross-device XR content.

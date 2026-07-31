@@ -1,0 +1,21 @@
+### Likelihood Distortions for Speech Analysis
+
+- Likelihood distortions are measures of the similarity or dissimilarity between two short-time spectra of speech signals .
+- They are used to compare the observed speech signal with the reference speech signal in speech recognition systems .
+- They are based on the assumption that the speech signal can be modeled by a probability distribution, such as a Gaussian distribution .
+- Some common likelihood distortions are:
+  - Log likelihood ratio (LLR): the negative logarithm of the ratio of the probability densities of the observed and reference spectra .
+  - Likelihood ratio (LR): the ratio of the probability densities of the observed and reference spectra .
+  - Itakura-Saito (IS): the difference between the logarithms of the probability densities of the observed and reference spectra, minus the logarithm of their ratio .
+  - Cepstral (CEP): the squared Euclidean distance between the cepstral coefficients of the observed and reference spectra .
+  - Weighted likelihood ratio (WLR): the LLR weighted by a perceptual weighting function that emphasizes the spectral regions that are more important for speech perception .
+  - Weighted slope metric (WSM): the squared Euclidean distance between the slopes of the log spectra of the observed and reference spectra, weighted by a perceptual weighting function .
+- The choice of the likelihood distortion affects the performance of the speech recognition system .
+- Some factors that influence the performance are:
+  - The spectral resolution and frequency warping of the spectra .
+  - The inclusion or exclusion of suprasegmental information, such as energy, gain, and loudness .
+  - The perceptual relevance and robustness of the distortion measure .
+- According to a comparative study by Lee and Rabiner, the LLR and WSM distortion measures gave the highest recognition accuracy, while the IS distortion measure gave the lowest score .
+- The WLR distortion measure did not perform as well as its unweighted counterpart .
+- The addition of suprasegmental energy information helped the recognition performance, while the use of gain and loudness degraded the performance .
+- The bark-scale frequency warping did not perform as well as its unwarped counterpart for the bandlimited telephone data set .

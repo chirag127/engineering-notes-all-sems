@@ -1,0 +1,32 @@
+### Recovery in Distributed Database Systems
+
+- Recovery in distributed database systems aims to maintain the **atomicity** and **durability** of distributed transactions.
+- A distributed transaction is a transaction that accesses data from multiple sites in a distributed database system.
+- Recovery in distributed database systems is more complicated than in centralized database systems because failures can occur at the communication links or a remote site.
+- A failure in a distributed database system can affect one or more sites, one or more transactions, or one or more communication links.
+- A recovery system should be simple, incur tolerable overhead, maintain system consistency, provide partial operability and avoid global rollback.
+- There are two main approaches for recovery in distributed database systems: **centralized recovery** and **decentralized recovery**.
+- Centralized recovery relies on a single site to coordinate the commit or abort of distributed transactions. This site is called the **coordinator**.
+- Decentralized recovery relies on multiple sites to cooperate in the commit or abort of distributed transactions. Each site is called a **participant**.
+- Both approaches use a **two-phase commit protocol** (2PC) to ensure the atomicity of distributed transactions.
+- The two-phase commit protocol consists of two phases: the **prepare phase** and the **commit phase**.
+- In the prepare phase, the coordinator (or a participant) sends a prepare message to all the participants (or the coordinator) involved in the transaction, asking them to vote on whether to commit or abort the transaction.
+- In the commit phase, the coordinator (or a participant) collects the votes from all the participants (or the coordinator) and decides whether to commit or abort the transaction based on the majority rule.
+- If the coordinator (or a participant) decides to commit the transaction, it sends a commit message to all the participants (or the coordinator) and writes a commit record in its log.
+- If the coordinator (or a participant) decides to abort the transaction, it sends an abort message to all the participants (or the coordinator) and writes an abort record in its log.
+- The participants (or the coordinator) follow the decision of the coordinator (or a participant) and write a commit or abort record in their logs accordingly.
+- The two-phase commit protocol ensures that all the sites involved in a distributed transaction agree on the same outcome.
+- However, the two-phase commit protocol has some drawbacks, such as blocking, deadlock, and vulnerability to failures.
+- Blocking occurs when a site waits for a message from another site that has failed or is unreachable.
+- Deadlock occurs when two or more sites wait for each other to send a message, forming a cycle.
+- Vulnerability to failures occurs when a site fails before or after sending a message, causing inconsistency or loss of information.
+- To overcome these drawbacks, some variations of the two-phase commit protocol have been proposed, such as the **three-phase commit protocol** (3PC), the **presumed abort protocol** (PA), and the **presumed commit protocol** (PC).
+- The three-phase commit protocol adds a third phase, called the **pre-commit phase**, between the prepare phase and the commit phase.
+- In the pre-commit phase, the coordinator (or a participant) sends a pre-commit message to all the participants (or the coordinator) after receiving all the votes, indicating that the transaction will be committed.
+- The participants (or the coordinator) acknowledge the pre-commit message and wait for the final commit message.
+- The pre-commit phase reduces the blocking problem by allowing the participants (or the coordinator) to decide the outcome of the transaction independently if the coordinator (or a participant) fails after sending the pre-commit message.
+- However, the three-phase commit protocol introduces more messages and delays, and does not eliminate the deadlock and vulnerability to failures problems completely.
+- The presumed abort protocol and the presumed commit protocol are based on the idea of **presumptions**.
+- A presumption is a default outcome of a transaction that is assumed by a site in case of a failure or a timeout.
+- The presumed abort protocol assumes that a transaction is aborted unless it receives a commit message from the coordinator (or a participant).
+- The presumed commit protocol assumes that a transaction is committed unless it

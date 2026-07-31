@@ -1,0 +1,14 @@
+#### I/O in Core Java
+- I/O stands for Input/Output and is used to read and write data from and to external sources such as files, network sockets, and console.
+- In Java, I/O operations are performed using the `java.io` package.
+- The `java.io` package contains classes for reading and writing data in different formats such as text, binary, and serialized objects.
+- The two main classes for reading and writing data are `InputStream` and `OutputStream`.
+- `InputStream` is an abstract class that represents an input stream of bytes. It has several subclasses such as `FileInputStream`, `ByteArrayInputStream`, and `ObjectInputStream`.
+- `OutputStream` is an abstract class that represents an output stream of bytes. It has several subclasses such as `FileOutputStream`, `ByteArrayOutputStream`, and `ObjectOutputStream`.
+- There are also character-based classes for reading and writing text data such as `Reader` and `Writer`.
+- `Reader` is an abstract class that represents a stream of characters. It has several subclasses such as `FileReader`, `StringReader`, and `InputStreamReader`.
+- `Writer` is an abstract class that represents a stream of characters. It has several subclasses such as `FileWriter`, `StringWriter`, and `OutputStreamWriter`.
+- Java also provides classes for reading and writing data in a more structured way such as `DataInputStream`, `DataOutputStream`, `BufferedReader`, and `PrintWriter`.
+- `DataInputStream` and `DataOutputStream` allow you to read and write primitive data types such as `int`, `float`, and `double` in a portable way.
+- `BufferedReader` and `PrintWriter` provide convenient methods for reading and writing text data such as `readLine()` and `println()`.
+- In addition to the `java.io` package, Java also provides the `java.nio` package for more advanced I/O operations such as memory-mapped files and non-blocking I/O.

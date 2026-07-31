@@ -1,0 +1,9 @@
+### Tautology for the notes of the Unit 4 - Propositional Logic in the subject of Discrete Structures & Theory of Logic
+
+- A tautology is a formula that is always true, regardless of the truth values of the individual propositions it contains.
+- In propositional logic, a tautology is a well-formed formula that is true under any possible truth assignment to its propositional variables.
+- A tautology can be recognized by constructing a truth table for the formula and observing that the final column (representing the truth value of the entire formula) contains only the value true.
+- Tautologies are important in propositional logic because they allow us to prove the validity of arguments. An argument is valid if and only if the conclusion is a logical consequence of the premises, which means that it is impossible for the premises to be true and the conclusion to be false.
+- One way to prove the validity of an argument is to show that the formula representing the argument is a tautology. This can be done by constructing a truth table for the formula and observing that the final column contains only the value true.
+- Some common examples of tautologies include the law of identity (P → P), the law of non-contradiction (¬(P ∧ ¬P)), and the law of excluded middle (P ∨ ¬P).
+- Tautologies can also be used to prove the equivalence of two formulas. Two formulas are equivalent if and only if their truth values are the same for all possible truth assignments to their propositional variables. This can be shown by constructing a truth table for the formula representing the equivalence of the two formulas and observing that the final column contains only the value true. This means that the two formulas have the same truth value for all possible truth assignments to their propositional variables, and are therefore equivalent.

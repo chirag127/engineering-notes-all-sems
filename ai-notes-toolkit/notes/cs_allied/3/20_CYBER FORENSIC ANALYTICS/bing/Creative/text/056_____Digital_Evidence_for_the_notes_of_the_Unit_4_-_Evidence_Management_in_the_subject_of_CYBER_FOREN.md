@@ -1,0 +1,25 @@
+### Digital Evidence
+
+- Digital evidence is any information stored or transmitted in binary form that may be relied on in court .
+- Digital evidence can be found on various devices, such as computers, hard drives, mobile phones, cameras, etc.
+- Digital evidence is often associated with electronic crimes, such as child pornography, credit card fraud, cyberstalking, hacking, etc.
+- Digital evidence can also be used to support or refute other types of crimes, such as murder, robbery, assault, etc.
+- Digital evidence must be collected, preserved, analyzed and presented in a manner that is admissible, reliable and consistent with the rules of evidence .
+- Digital evidence can be volatile, fragile, easily altered or destroyed, and subject to legal and ethical issues .
+- Digital evidence requires special tools, techniques and expertise to handle properly and effectively .
+- Digital evidence can be classified into four categories: stored data, transient data, network data and metadata.
+- Stored data is any data that is saved on a device or a storage medium, such as files, folders, documents, images, etc.
+- Transient data is any data that is temporarily stored in the memory of a device or a network, such as cache, RAM, cookies, etc.
+- Network data is any data that is transmitted or received over a network, such as packets, protocols, IP addresses, etc.
+- Metadata is any data that describes or provides information about other data, such as file names, dates, sizes, locations, etc.
+- Digital evidence can be analyzed using various methods, such as static analysis, dynamic analysis, live analysis, offline analysis, etc.
+- Static analysis is the examination of digital evidence without altering or executing it, such as viewing, copying, hashing, etc.
+- Dynamic analysis is the examination of digital evidence by running or interacting with it, such as debugging, monitoring, logging, etc.
+- Live analysis is the examination of digital evidence on a running system or network, such as capturing, scanning, sniffing, etc.
+- Offline analysis is the examination of digital evidence on a separate system or network, such as imaging, cloning, restoring, etc.
+- Digital evidence can be presented in various forms, such as reports, charts, graphs, tables, timelines, etc.
+- Digital evidence must be accompanied by documentation, such as chain of custody, logs, notes, affidavits, etc.
+- Digital evidence must be verified, validated and authenticated before being used as evidence .
+- Verification is the process of ensuring that digital evidence is accurate and complete, such as by comparing hashes, checksums, etc.
+- Validation is the process of ensuring that digital evidence is relevant and reliable, such as by testing tools, methods, etc.
+- Authentication is the process of ensuring that digital evidence is original and authentic, such as by examining signatures, timestamps, etc.

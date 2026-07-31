@@ -1,0 +1,21 @@
+### Introduction for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- A distributed system is a collection of independent computers that appear to the users as a single coherent system.
+- A distributed system has the following characteristics:
+  - Concurrency: The components of the system can execute simultaneously and independently.
+  - No global clock: The components of the system do not share a common notion of time or a global clock.
+  - Independent failures: The components of the system can fail independently and recover from failures without affecting the rest of the system.
+  - Heterogeneity: The components of the system can have different hardware, software, network, and data formats.
+  - Transparency: The system hides the details of its distribution from the users and provides a uniform interface and behavior.
+- A distributed system has the following advantages:
+  - Scalability: The system can grow in size and performance by adding more components without affecting the existing ones.
+  - Availability: The system can tolerate failures and provide continuous service by replicating or replacing faulty components.
+  - Resource sharing: The system can share and access resources across different locations and domains.
+  - Fault tolerance: The system can detect and recover from errors and maintain consistency and correctness.
+  - Performance: The system can distribute the workload and balance the load among the components to improve efficiency and speed.
+- A distributed system has the following challenges:
+  - Coordination: The system needs to coordinate the actions and states of the components to achieve a common goal or a consistent view.
+  - Communication: The system needs to exchange messages and data among the components over a network that may be unreliable, insecure, or congested.
+  - Consistency: The system needs to ensure that the components have a consistent view of the data and the system state despite concurrent updates and failures.
+  - Security: The system needs to protect the data and the components from unauthorized access, modification, or disclosure.
+  - Quality of service: The system needs to provide a satisfactory level of service to the users in terms of reliability, availability, latency, throughput, etc.

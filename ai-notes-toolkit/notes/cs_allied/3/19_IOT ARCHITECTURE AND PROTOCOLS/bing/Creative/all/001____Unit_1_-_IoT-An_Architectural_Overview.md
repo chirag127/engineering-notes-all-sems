@@ -1,0 +1,15 @@
+## Unit 1 - IoT-An Architectural Overview
+
+- IoT stands for Internet of Things, which is a network of physical devices, sensors, actuators, and software that can communicate and exchange data over the internet.
+- IoT enables various applications and services that can improve the quality of life, efficiency, productivity, and sustainability of different domains, such as smart cities, smart homes, smart health, smart agriculture, smart industry, etc.
+- IoT architecture is the design and organization of the components and layers that constitute an IoT system, such as devices, gateways, networks, platforms, applications, and users.
+- IoT architecture can be classified into three main types: centralized, decentralized, and distributed.
+  - Centralized IoT architecture relies on a central server or cloud that collects, processes, and stores data from the devices, and provides services and applications to the users. This architecture has the advantages of high scalability, reliability, and security, but also the disadvantages of high latency, bandwidth consumption, and single point of failure.
+  - Decentralized IoT architecture distributes the data processing and storage among multiple nodes or servers, such as fog or edge computing, that are closer to the devices and users. This architecture has the advantages of low latency, bandwidth saving, and fault tolerance, but also the disadvantages of low scalability, reliability, and security.
+  - Distributed IoT architecture enables the devices to communicate and collaborate directly with each other, without relying on any central or intermediate nodes. This architecture has the advantages of high autonomy, resilience, and privacy, but also the disadvantages of high complexity, overhead, and heterogeneity.
+- IoT architecture can also be described by the following five layers: perception, network, middleware, application, and business.
+  - Perception layer consists of the devices, sensors, and actuators that collect and generate data from the physical world, and perform actions on it. This layer is responsible for data acquisition, sensing, and actuation.
+  - Network layer consists of the communication protocols and technologies that enable the data transmission and exchange among the devices and other layers. This layer is responsible for data transmission, routing, and networking.
+  - Middleware layer consists of the platforms and software that provide data processing, storage, management, and analysis services to the devices and applications. This layer is responsible for data processing, storage, management, and analysis.
+  - Application layer consists of the applications and services that provide specific functionalities and value to the users and domains. This layer is responsible for data presentation, visualization, and utilization.
+  - Business layer consists of the stakeholders, policies, and strategies that govern the IoT system and its operation. This layer is responsible for data governance, security, and monetization.

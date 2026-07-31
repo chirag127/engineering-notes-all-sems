@@ -1,0 +1,22 @@
+# Unit 2 - Tissues in animal and plants, Morphology, anatomy and functions of different parts of plants: Root, stem, leaf, inflorescence, flower, fruit and seed.
+
+- Tissues are groups of similar cells that work together to perform a specific function.
+- There are four main types of animal tissues: connective, nervous, muscle, and epithelial tissues.
+  - Connective tissue: supports and binds other tissues, such as blood, cartilage, bone, and fat .
+  - Nervous tissue: allows rapid communication between different parts of the body, such as the brain, spinal cord, and nerves .
+  - Muscle tissue: can contract to allow movement of body parts, such as the heart, skeletal muscles, and smooth muscles .
+  - Epithelial tissue: covers and protects the body surfaces, such as the skin, lining of the digestive tract, and glands .
+- There are three main tissue systems in plants: the epidermis, ground tissue, and vascular tissue.
+  - Epidermis: the outermost layer of cells that protects the plant from water loss, infection, and damage.
+  - Ground tissue: the bulk of the plant body that performs various functions, such as photosynthesis, storage, and support.
+  - Vascular tissue: the tissue that transports water and minerals from the roots to the leaves (xylem) and food from the leaves to the rest of the plant (phloem).
+- Morphology is the study of the external form and structure of plants, such as the shape, size, color, and arrangement of plant parts.
+- Anatomy is the study of the internal structure and organization of plants, such as the tissues, cells, and organelles.
+- The different parts of plants have different functions and adaptations to suit their environment and mode of life.
+  - Root: the part of the plant that anchors it to the soil, absorbs water and minerals, and stores food. Roots can be classified into tap roots (one main root with lateral branches) and fibrous roots (many thin roots of equal size).
+  - Stem: the part of the plant that supports the leaves, flowers, and fruits, and transports water and food between them. Stems can be classified into herbaceous (soft and green) and woody (hard and brown) stems.
+  - Leaf: the part of the plant that is the main site of photosynthesis, where light energy is converted into chemical energy. Leaves can be classified into simple (one blade) and compound (many leaflets) leaves.
+  - Inflorescence: the part of the plant that is a group or cluster of flowers arranged on a stem. Inflorescences can be classified into racemose (flowers open from the base to the apex) and cymose (flowers open from the apex to the base) inflorescences.
+  - Flower: the part of the plant that is the reproductive organ, where male and female gametes are produced and fused. Flowers can be classified into complete (having all four whorls: sepals, petals, stamens, and carpels) and incomplete (lacking one or more whorls) flowers.
+  - Fruit: the part of the plant that is the mature ovary, which contains the seeds and protects them from predators and harsh conditions. Fruits can be classified into simple (derived from one ovary), aggregate (derived from many ovaries of one flower), and multiple (derived from many ovaries of many flowers) fruits.
+  - Seed: the part of the plant that is the mature ovule, which contains the embryo and the endosperm (food storage tissue). Seeds can be classified into monocotyledonous (having one cotyledon or seed leaf) and dicotyledonous (having two cotyledons or seed leaves) seeds.

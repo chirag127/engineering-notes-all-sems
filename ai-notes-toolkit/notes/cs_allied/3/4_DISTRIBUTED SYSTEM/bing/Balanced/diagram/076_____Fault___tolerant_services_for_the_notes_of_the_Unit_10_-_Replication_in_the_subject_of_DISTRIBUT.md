@@ -1,0 +1,9 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic of fault-tolerant services for the notes of the unit 10 - replication in the subject of distributed system. Here is a summary of the main points:
+
+- Fault-tolerant services are services that can continue to function correctly even in the presence of failures, such as server crashes, network partitions, or malicious attacks.
+- Replication is a technique for implementing fault-tolerant services by creating multiple copies of the same service (or state machine) and coordinating the interactions of clients with these copies.
+- Replication can improve the availability, performance, and reliability of the service, but also introduces challenges such as consistency, concurrency, and communication overhead.
+- There are two main classes of replication techniques: primary-backup replication and active replication.
+- Primary-backup replication assigns one copy of the service as the primary and the others as backups. The primary receives all the client requests and executes them, while sending updates to the backups. The backups apply the updates in the same order as the primary and are ready to take over if the primary fails.
+- Active replication assigns equal roles to all the copies of the service. All the copies receive the same client requests and execute them independently, using a consensus protocol to ensure agreement on the order of execution. Active replication can tolerate more failures than primary-backup replication, but also requires more communication and computation.
+- Replication can be combined with coding theory to reduce the number of copies needed to achieve fault-tolerance, while maintaining low overhead during normal operations. Coding theory can also help recover from failures more efficiently by using erasure codes or network coding.

@@ -1,0 +1,38 @@
+# Signed operand multiplication
+
+- Signed operand multiplication is the process of multiplying two binary numbers that have a sign bit, usually in two's complement representation.
+- The sign bit is the most significant bit of the number, and it indicates whether the number is positive (0) or negative (1).
+- There are different algorithms for performing signed operand multiplication, such as the paper-and-pencil method, the Booth's algorithm, and the modified Booth's algorithm.
+- The paper-and-pencil method is similar to the decimal multiplication, but it uses binary arithmetic and shifting operations. It consists of the following steps:
+  - Convert the multiplier and the multiplicand to positive numbers and remember their original signs.
+  - Align the multiplier and the multiplicand according to their least significant bits.
+  - For each bit of the multiplier, starting from the least significant bit, perform the following:
+    - If the bit is 1, add the multiplicand to the partial product and write the result below the previous partial product.
+    - If the bit is 0, write the previous partial product without any change.
+    - Shift the partial product and the multiplier one bit to the right, discarding the rightmost bit of the partial product and inserting a 0 at the leftmost bit of the multiplier.
+  - Repeat the above steps until the multiplier becomes 0.
+  - The final partial product is the result of the multiplication. If the signs of the multiplier and the multiplicand were different, complement the result to get the negative value.
+- The Booth's algorithm is a more efficient algorithm that reduces the number of additions by encoding the multiplier bits in pairs. It consists of the following steps:
+  - Initialize a register A to 0, a register Q to the multiplier, and a register Qn+1 to 0. Also, initialize a counter to the number of bits in the multiplier.
+  - For each iteration, perform the following:
+    - Examine the pair of bits Q0 and Qn+1, and perform the following actions based on their values:
+      - If Q0Qn+1 = 00 or 11, do nothing.
+      - If Q0Qn+1 = 01, subtract the multiplicand from A and write the result in A.
+      - If Q0Qn+1 = 10, add the multiplicand to A and write the result in A.
+    - Shift the registers A, Q, and Qn+1 one bit to the right, preserving the sign bit of A. This is an arithmetic shift right operation.
+    - Decrement the counter by 1.
+  - Repeat the above steps until the counter becomes 0.
+  - The final value of AQ is the result of the multiplication.
+- The modified Booth's algorithm is a further improvement that encodes the multiplier bits in groups of three, reducing the number of additions by half. It consists of the following steps:
+  - Initialize a register A to 0, a register Q to the multiplier, and a register Qn+1 to 0. Also, initialize a counter to half the number of bits in the multiplier.
+  - For each iteration, perform the following:
+    - Examine the group of bits Q1Q0Qn+1, and perform the following actions based on their values:
+      - If Q1Q0Qn+1 = 000 or 111, do nothing.
+      - If Q1Q0Qn+1 = 001, add 2 times the multiplicand to A and write the result in A.
+      - If Q1Q0Qn+1 = 010 or 110, add the multiplicand to A and write the result in A.
+      - If Q1Q0Qn+1 = 011, subtract the multiplicand from A and write the result in A.
+      - If Q1Q0Qn+1 = 100 or 101, subtract 2 times the multiplicand from A and write the result in A.
+    - Shift the registers A, Q, and Qn+1 two bits to the right, preserving the sign bit of A. This is an arithmetic shift right operation.
+    - Decrement the counter by 1.
+  - Repeat the above steps until the counter becomes 0.
+  - The final value of AQ is the result of the multiplication.

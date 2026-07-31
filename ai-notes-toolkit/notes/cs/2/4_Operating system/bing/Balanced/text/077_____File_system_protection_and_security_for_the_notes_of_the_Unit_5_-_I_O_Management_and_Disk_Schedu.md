@@ -1,0 +1,11 @@
+### File system protection and security
+
+- File system protection and security are the mechanisms that ensure the integrity, confidentiality, and availability of files and directories on a computer system.
+- File system protection involves controlling the access of users and programs to the files and directories, preventing unauthorized or malicious modifications, deletions, or copies of the data.
+- File system security involves protecting the files and directories from external threats, such as viruses, worms, trojan horses, or hackers, that may compromise the system or the data.
+- Some of the common techniques for file system protection and security are:
+
+  - **Access control lists (ACLs)**: These are lists that specify the users and the types of access (read, write, execute, etc.) they have for each file or directory. The operating system checks the ACLs before granting or denying access to the files or directories. For example, Windows File Protection (WFP) uses ACLs to prevent programs from replacing critical system files .
+  - **Encryption**: This is the process of transforming the data into an unreadable form using a secret key, so that only authorized parties can decrypt and access the data. Encryption can be applied to individual files, directories, or entire disks. For example, BitLocker is a feature in Windows that encrypts the entire disk to protect the data from theft or loss.
+  - **Authentication**: This is the process of verifying the identity of a user or a program before granting access to the files or directories. Authentication can be based on passwords, biometrics, tokens, certificates, or other methods. For example, Windows Hello is a feature in Windows that allows users to sign in using their face, fingerprint, or PIN.
+  - **Auditing**: This is the process of recording and monitoring the activities of users and programs on the files and directories, such as who accessed, modified, deleted, or copied the data, when, and from where. Auditing can help detect and prevent unauthorized or malicious actions, and provide evidence for investigations or accountability. For example, Windows Event Viewer is a tool that displays the audit logs of the system and the applications.

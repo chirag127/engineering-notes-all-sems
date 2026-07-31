@@ -1,0 +1,26 @@
+### IOT Contactless Covid Testing Booth Automation
+
+- IOT Contactless Covid Testing Booth Automation is a project that aims to design a completely automated instant contactless covid testing booth system by which person details is monitored using RFID technology .
+- The system utilizes microcontroller, MATLAB, GSM modem, RFID reader, RFID tags, LCD display, buzzer, and swab collection mechanism .
+- The system works as follows:
+  - The person who wants to get tested has to register online and get an RFID tag with a unique ID.
+  - The person has to scan the RFID tag at the entrance of the booth and the system will display the person's name, contact number, and address on the LCD screen .
+  - The system will also send a confirmation message to the person's mobile number using GSM modem .
+  - The person has to enter the booth and follow the instructions on the LCD screen to collect the swab sample using the swab collection mechanism .
+  - The system will automatically seal the swab sample in a container and label it with the RFID tag ID .
+  - The system will also send the swab sample details to the central database using GSM modem .
+  - The person has to exit the booth and the system will display a thank you message on the LCD screen and sound a buzzer .
+- The advantages of this system are:
+  - It reduces the human contact and the risk of spreading the virus in the covid testing centers .
+  - It saves time and resources by automating the registration and swab collection process .
+  - It improves the accuracy and traceability of the swab samples by using RFID technology .
+  - It enables real-time data transmission and analysis using GSM modem and MATLAB .
+- The challenges of this system are:
+  - It requires a reliable power supply and internet connectivity for the system to work properly .
+  - It requires a proper maintenance and calibration of the swab collection mechanism and the RFID reader .
+  - It requires a proper disposal and sterilization of the swab samples and the RFID tags .
+  - It requires a proper security and privacy of the person's data and the swab sample data .
+- The future scope of this system are:
+  - It can be integrated with other IOT devices and sensors to monitor the temperature, humidity, air quality, and occupancy of the booth .
+  - It can be enhanced with artificial intelligence and machine learning to analyze the swab samples and provide instant results .
+  - It can be deployed in other public places such as airports, malls, schools, and offices to conduct mass testing and screening .

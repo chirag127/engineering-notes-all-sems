@@ -1,0 +1,23 @@
+### Stored Procedures in PL/SQL
+
+- A stored procedure in PL/SQL is a named block of code that performs one or more specific tasks and can be stored in the database for reuse .
+- A stored procedure can be invoked by other procedures, triggers, or applications written in Java, PHP, etc .
+- A stored procedure has a header and a body .
+- The header contains the name of the procedure and the parameters passed to it .
+- The body contains the declarative, executable, and exception-handling parts of the procedure .
+- The declarative part declares the variables, constants, cursors, and types used in the procedure .
+- The executable part contains the SQL and PL/SQL statements that implement the logic of the procedure .
+- The exception-handling part handles the errors that may occur during the execution of the procedure .
+- A stored procedure can be created using the CREATE PROCEDURE statement .
+- A stored procedure can be executed using the EXECUTE or EXEC command, or by using a CALL statement .
+- A stored procedure can be modified using the ALTER PROCEDURE statement .
+- A stored procedure can be dropped using the DROP PROCEDURE statement or by using the SQL Developer tool .
+- A stored procedure can have IN, OUT, or IN OUT parameters .
+- IN parameters are used to pass values to the procedure .
+- OUT parameters are used to return values from the procedure .
+- IN OUT parameters are used to pass and return values from the procedure .
+- A stored procedure can also have a RETURN clause to specify the data type of the value returned by the procedure.
+- A stored procedure can use the RETURN statement to return a value from the procedure.
+- A stored procedure can use the RAISE statement to raise an exception in the procedure.
+- A stored procedure can use the PRAGMA EXCEPTION_INIT statement to associate a user-defined exception with an error code.
+- A stored procedure can use the PRAGMA AUTONOMOUS_TRANSACTION statement to mark the procedure as an independent transaction that can commit or rollback without affecting the main transaction.

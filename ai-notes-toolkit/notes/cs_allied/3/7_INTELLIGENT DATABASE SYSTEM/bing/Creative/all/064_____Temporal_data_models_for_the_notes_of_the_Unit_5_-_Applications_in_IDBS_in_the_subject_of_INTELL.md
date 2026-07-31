@@ -1,0 +1,23 @@
+# Temporal Data Models
+
+- Temporal data models are data models that capture the changes of data over time, and allow querying and manipulating data based on temporal aspects.
+- Temporal data models exist at three abstraction levels:
+  - The conceptual level, in which the data models are generally extensions of the Entity-Relationship Model (ERM).
+  - The logical level, in which the data models are generally extensions of the relational data model (RDM) or of an object-oriented data model (OODM).
+  - The physical level, in which the data model details how the data are to be stored.
+- Temporal data models can be classified based on the type of time they capture :
+  - Valid time, which is the time when the data is valid with respect to the real world (also called business time).
+  - Transaction time, which is the time when the data is recorded in the database (also called system time).
+  - Decision time, which is the time when a decision is made based on the data (also called application time).
+- Temporal data models can also be classified based on the number of time dimensions they capture :
+  - Uni-temporal, which capture only one type of time (either valid time or transaction time).
+  - Bi-temporal, which capture both valid time and transaction time.
+  - Tri-temporal, which capture valid time, transaction time and decision time.
+- Temporal data models have several advantages over conventional data models:
+  - They can represent the history and evolution of data, and support temporal queries and analysis.
+  - They can handle data inconsistencies and uncertainties, and support data correction and auditing.
+  - They can support temporal integrity constraints and temporal normalization.
+- Temporal data models also have some challenges and limitations:
+  - They require more storage space and processing time than conventional data models.
+  - They need to deal with complex temporal semantics and operations, and temporal granularity and formats.
+  - They need to cope with temporal data quality and validity issues, and temporal data integration and interoperability problems.

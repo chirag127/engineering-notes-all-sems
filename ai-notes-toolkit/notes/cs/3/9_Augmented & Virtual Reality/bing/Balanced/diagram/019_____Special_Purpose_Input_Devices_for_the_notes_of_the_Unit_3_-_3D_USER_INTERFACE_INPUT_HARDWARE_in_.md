@@ -1,0 +1,11 @@
+### Special Purpose Input Devices for 3D User Interface
+
+- Special purpose input devices are designed to capture specific types of input or gestures in 3D space, such as head orientation, hand position, finger movements, body posture, eye gaze, etc.
+- These devices are often used in immersive or semi-immersive 3D environments, such as virtual reality (VR) or augmented reality (AR), where the user needs to interact with 3D objects or scenes in a natural and intuitive way.
+- Some examples of special purpose input devices are:
+
+  - Head-mounted displays (HMDs): These are wearable devices that provide a stereoscopic view of a 3D scene to the user, and track the user's head orientation and position. HMDs can be used to create a sense of presence and immersion in VR or AR applications.
+  - Motion trackers: These are devices that measure the position and/or orientation of a physical object or body part in 3D space, using various technologies such as optical, magnetic, inertial, ultrasonic, etc. Motion trackers can be used to capture the user's hand, arm, leg, or body movements for 3D interaction or animation.
+  - Data gloves: These are gloves that have sensors or actuators embedded in them, to measure the user's finger movements, hand orientation, or force feedback. Data gloves can be used to enable natural and expressive hand gestures for 3D manipulation or communication.
+  - Eye trackers: These are devices that measure the user's eye movements, such as pupil dilation, gaze direction, or blink rate. Eye trackers can be used to infer the user's attention, interest, or emotion, or to provide gaze-based input or feedback for 3D interfaces.
+  - Brain-computer interfaces (BCIs): These are devices that measure the user's brain activity, such as electroencephalography (EEG), functional magnetic resonance imaging (fMRI), or near-infrared spectroscopy (NIRS). BCIs can be used to decode the user's mental states, intentions, or commands, or to provide brain-based input or feedback for 3D interfaces.

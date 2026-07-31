@@ -1,0 +1,13 @@
+# 1D and 2D Artificial Neural Networks
+
+- Artificial neural networks (ANNs) are computational models inspired by the biological neural networks of the brain. They consist of interconnected units called neurons that can process and learn from data.
+- ANNs can be classified into different types based on the dimensionality of their input and output data, such as 1D, 2D, or 3D ANNs.
+- 1D ANNs take one-dimensional data as input, such as time series, audio signals, or text. They usually use 1D convolutional neural networks (CNNs) as the main building block, which apply a sliding window (kernel) over the input data to extract features.
+- 1D CNNs are often used for tasks such as speech recognition, natural language processing, sentiment analysis, or anomaly detection. They have lower computational complexity and memory requirements than 2D CNNs, and can capture temporal dependencies in the data.
+- 2D ANNs take two-dimensional data as input, such as images, videos, or matrices. They usually use 2D convolutional neural networks (CNNs) as the main building block, which apply a sliding window (kernel) over the input data in both horizontal and vertical directions to extract features.
+- 2D CNNs are often used for tasks such as image classification, object detection, face recognition, or semantic segmentation. They have higher computational complexity and memory requirements than 1D CNNs, but can capture spatial dependencies and patterns in the data.
+- Some examples of 1D and 2D ANNs are:
+
+  - 1D CNN for ECG classification: This paper compares the performance of 1D and 2D CNNs for classifying electrocardiogram (ECG) signals into normal or abnormal categories. The results show that 1D CNNs can achieve comparable or better accuracy than 2D CNNs with less training time and parameters.
+  - 2D CNN for image labelling: This tutorial explains how to use 2D CNNs to label images with different categories, such as cats, dogs, or cars. The tutorial shows how to use the Keras library to build and train a 2D CNN model on the CIFAR-10 dataset, which contains 60,000 images of 10 classes.
+  - 2D neural network made of 2D materials: This paper reports the development of the first 2D neural network for artificial intelligence made using two-dimensional materials, such as graphene and molybdenum disulfide. The 2D neural network can perform logic operations and image recognition with low power consumption and high speed.

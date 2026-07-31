@@ -1,0 +1,12 @@
+### Various phases of data analytics lifecycle
+
+The data analytics lifecycle is a cyclic process that explains how data is created, collected, processed, implemented, and analyzed for different objectives. It is based on the CRISP-DM methodology, which is an open-standard analytics model developed by IBM . The data analytics lifecycle consists of six key phases:
+
+- **Business understanding**: This is the initial phase to set the project's objectives and find ways to achieve them. It involves identifying the business problem, defining the scope, and determining the success criteria of the project .
+- **Data understanding**: This phase involves collecting and exploring the data from various sources, such as databases, files, or web. It also involves assessing the quality, quantity, and relevance of the data for the project .
+- **Data preparation**: This phase involves transforming and cleaning the data to make it suitable for analysis. It may include tasks such as filtering, merging, aggregating, imputing, encoding, or scaling the data .
+- **Modeling**: This phase involves applying various analytical techniques and algorithms to the data to discover patterns, relationships, or insights. It may include tasks such as clustering, classification, regression, association, or anomaly detection .
+- **Evaluation**: This phase involves validating and evaluating the results of the modeling phase. It may include tasks such as testing the accuracy, robustness, and generalizability of the models, comparing different models, or assessing the business impact of the results .
+- **Deployment**: This phase involves implementing and deploying the results of the analysis to the intended users or stakeholders. It may include tasks such as creating reports, dashboards, or visualizations, integrating the results with existing systems or processes, or monitoring and updating the models .
+
+The data analytics lifecycle is an iterative and flexible process that can be adapted to different types of data, problems, and domains. It helps to ensure that the data analysis project is aligned with the business goals, follows a systematic and rigorous approach, and delivers actionable and valuable insights  .

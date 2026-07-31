@@ -1,0 +1,13 @@
+### Network Layer
+
+The network layer is the third layer of the OSI model and the second layer of the TCP/IP model. It is responsible for addressing and routing of data packets across different networks. The network layer also performs fragmentation and reassembly of data packets, error detection and correction, and congestion control.
+
+Some of the main functions of the network layer are:
+
+- **Addressing**: The network layer assigns a logical address to each device in the network, such as an IP address. This address is used to identify the source and destination of data packets and to route them accordingly.
+- **Routing**: The network layer determines the best path for data packets to reach their destination, based on factors such as distance, cost, traffic, and availability. The network layer uses routing protocols, such as RIP, OSPF, EIGRP, and BGP, to exchange routing information and update routing tables.
+- **Fragmentation and reassembly**: The network layer divides large data packets into smaller fragments to fit the maximum transmission unit (MTU) of the underlying network. The network layer also reassembles the fragments at the destination and checks for errors and missing fragments.
+- **Error detection and correction**: The network layer adds a checksum or a cyclic redundancy check (CRC) to each data packet to detect and correct any errors that may occur during transmission. The network layer also uses mechanisms such as acknowledgments, timeouts, and retransmissions to ensure reliable delivery of data packets.
+- **Congestion control**: The network layer monitors the network traffic and adjusts the transmission rate and window size of data packets to avoid congestion and ensure optimal performance. The network layer also uses techniques such as flow control, load balancing, and quality of service (QoS) to manage network resources and prioritize traffic.
+
+In the context of IoT, the network layer is part of the infrastructure layer in the IoT reference architecture . The network layer in IoT is mainly divided into two parts: the routing layer and the encapsulation layer. The routing layer sends packets from origin to destination and the encapsulation layer is largely responsible for creating packets. The network layer in IoT also supports various protocols and technologies that enable devices to connect and communicate with each other and with the wider internet, such as IPv4, IPv6, 6LoWPAN, RPL, CoAP, MQTT, and XMPP  . The network layer in IoT also faces some challenges, such as scalability, interoperability, security, and privacy .

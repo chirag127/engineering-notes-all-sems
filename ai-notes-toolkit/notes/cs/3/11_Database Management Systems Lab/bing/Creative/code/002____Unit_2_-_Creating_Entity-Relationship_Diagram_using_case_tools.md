@@ -1,0 +1,22 @@
+## Unit 2 - Creating Entity-Relationship Diagram using case tools
+
+- Entity-Relationship Diagram (ERD) is a graphical representation of the data and relationships in a database system.
+- ERD can be used to design, document, and communicate the logical structure of a database.
+- ERD consists of entities, attributes, and relationships.
+  - Entities are the objects or concepts that are stored in the database, such as customers, products, or orders.
+  - Attributes are the properties or characteristics of the entities, such as name, price, or quantity.
+  - Relationships are the associations or connections between the entities, such as one-to-many, many-to-many, or one-to-one.
+- Case tools are software applications that support the development and maintenance of software systems, such as databases.
+- Case tools can help create ERD by providing graphical user interfaces, templates, symbols, and validation features.
+- Some examples of case tools for creating ERD are:
+  - Microsoft Visio: a diagramming and vector graphics software that can create various types of diagrams, including ERD.
+  - MySQL Workbench: a visual database design and administration tool that can create and edit ERD for MySQL databases.
+  - Lucidchart: a web-based diagramming and collaboration tool that can create and share ERD online.
+- The steps for creating ERD using case tools are:
+  - Identify the entities, attributes, and relationships in the database system based on the requirements or specifications.
+  - Select a case tool and open a new document or project.
+  - Drag and drop the entity, attribute, and relationship symbols from the toolbox or menu to the drawing area.
+  - Name the entities and attributes and specify their data types and constraints.
+  - Connect the entities with the appropriate relationship symbols and indicate the cardinality and optionality of the relationships.
+  - Adjust the layout and appearance of the diagram as needed.
+  - Save and export the diagram in the desired format.

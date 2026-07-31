@@ -1,0 +1,10 @@
+### Six System Indian Philosophy
+
+The six systems of Indian philosophy are:
+
+- **Nyaya**: A school that deals with logic and epistemology. It was founded by Akshapada Gautama in the 2nd century BCE. It proposes four sources of valid knowledge: perception, inference, comparison and testimony. It also analyzes the nature of arguments, fallacies, syllogisms and proofs .
+- **Vaisheshika**: A school that deals with metaphysics and ontology. It was founded by Kanada Kashyapa in the 6th century BCE. It proposes that reality is composed of six categories: substance, quality, action, generality, particularity and inherence. It also postulates that atoms are the ultimate constituents of matter .
+- **Samkhya**: A school that deals with cosmology and psychology. It was founded by Kapila in the 6th century BCE. It proposes that reality is composed of two principles: purusha (consciousness) and prakriti (matter). It also explains the evolution of the universe and the human mind from prakriti and the liberation of purusha from prakriti .
+- **Yoga**: A school that deals with ethics and spirituality. It was founded by Patanjali in the 2nd century BCE. It proposes that the goal of human life is to attain kaivalya (isolation) of purusha from prakriti. It also prescribes an eightfold path of discipline and meditation to achieve this goal .
+- **Purva Mimamsa**: A school that deals with hermeneutics and ritual. It was founded by Jaimini in the 3rd century BCE. It proposes that the Vedas are the source of valid knowledge and that the performance of Vedic sacrifices is the duty of human beings. It also analyzes the rules of interpretation and the methods of exegesis of the Vedas .
+- **Uttara Mimamsa or Vedanta**: A school that deals with theology and philosophy. It was founded by Badarayana in the 4th century BCE. It proposes that the Upanishads are the essence of the Vedas and that the ultimate reality is Brahman, the absolute and impersonal principle of existence. It also explores the relation between Brahman, the individual self (atman) and the world .

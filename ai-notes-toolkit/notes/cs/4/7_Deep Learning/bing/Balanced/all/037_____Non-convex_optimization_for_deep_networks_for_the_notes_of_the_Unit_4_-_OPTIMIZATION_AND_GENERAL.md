@@ -1,0 +1,15 @@
+# Non-convex optimization for deep networks
+
+- Non-convex optimization (NCO) is the study of finding the global minimum of a function that is not convex, meaning it may have multiple local minima and maxima.
+- NCO is relevant for deep learning because many problems of interest, such as training deep neural networks and learning latent variable models, are non-convex and cannot be solved exactly by convex optimization techniques.
+- NCO is challenging because it is often NP-hard to find the global minimum of a non-convex function, and gradient-based methods may get stuck in local minima or saddle points.
+- NCO is also interesting because it exhibits some surprising phenomena, such as the existence of benign local minima, the effectiveness of random initialization, and the role of over-parameterization and regularization in improving generalization.
+- Some of the main topics and techniques in NCO for deep learning are:
+
+  - Sparse recovery: a technique to find sparse solutions to under-determined linear systems by minimizing a non-convex objective function, such as the L0-norm or the L1-norm. Sparse recovery can help discard irrelevant parameters and promote compact and accurate models.
+  - Stochastic gradient descent (SGD): a simple and widely used algorithm to optimize non-convex functions by taking small steps in the direction of a noisy estimate of the gradient, obtained from a random subset of the data. SGD can escape from saddle points and converge to a local minimum with high probability, under some mild assumptions on the function and the step size.
+  - Variance reduction: a technique to reduce the variance of the stochastic gradient estimate by using a reference point, such as the full gradient or a previous iterate. Variance reduction can speed up the convergence of SGD and other gradient-based methods, especially for strongly convex or smooth functions.
+  - Momentum: a technique to accelerate the convergence of gradient-based methods by adding a fraction of the previous update to the current update. Momentum can help overcome the oscillations and slow convergence caused by high curvature or ill-conditioning of the function.
+  - Initialization: a technique to choose a good starting point for gradient-based methods by using some prior knowledge or randomness. Initialization can affect the convergence and generalization of NCO, especially for deep neural networks, where different initializations may lead to different local minima with different performance.
+  - Over-parameterization: a technique to increase the number of parameters of a model beyond the number of data points, such as using more hidden units or layers in a neural network. Over-parameterization can help NCO by making the function smoother, easier to optimize, and more likely to have benign local minima that generalize well.
+  - Regularization: a technique to modify the objective function by adding a penalty term that depends on the complexity or norm of the parameters. Regularization can help NCO by preventing overfitting, improving generalization, and inducing sparsity or low-rank solutions.

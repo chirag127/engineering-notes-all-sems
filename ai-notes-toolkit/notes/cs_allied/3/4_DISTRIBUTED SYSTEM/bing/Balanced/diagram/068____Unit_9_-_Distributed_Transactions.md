@@ -1,0 +1,7 @@
+## Unit 9 - Distributed Transactions
+
+- A distributed transaction is a type of transaction that involves two or more network hosts, usually providing transactional resources, such as databases, message queues, file systems, etc.
+- A distributed transaction is coordinated by a transaction manager, which is responsible for creating and managing a global transaction that encompasses all the operations against the transactional resources.
+- A distributed transaction ensures the ACID properties (atomicity, consistency, isolation, durability) across multiple hosts, meaning that either all the operations succeed or none of them, and the data remains consistent, isolated and durable after the transaction.
+- A distributed transaction can be implemented using different protocols, such as two-phase commit, three-phase commit, Paxos commit, etc. These protocols typically involve communication and coordination among the transaction manager, the resource managers and the participants (the hosts that execute the operations).
+- A distributed transaction faces various challenges, such as network failures, concurrency issues, deadlock detection, recovery mechanisms, etc. These challenges require careful design and implementation of the distributed transaction system.

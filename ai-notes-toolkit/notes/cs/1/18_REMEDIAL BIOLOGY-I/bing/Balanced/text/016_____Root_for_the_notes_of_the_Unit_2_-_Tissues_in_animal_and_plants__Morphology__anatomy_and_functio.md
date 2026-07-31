@@ -1,0 +1,26 @@
+### Root
+
+- The root is the descending portion of the plant axis that is usually underground.
+- The root system consists of the primary root and its branches, which may be modified for different functions.
+- The root has four main functions: absorption of water and minerals from the soil, anchorage of the plant, storage of reserve food, and synthesis of plant growth regulators.
+- The root has a radial or concentric arrangement of tissues that determines the patterns and rates of nutrient transport from the soil to the vascular tissue.
+- The root has three main regions: the root cap, the root meristem, and the root hair zone.
+- The root cap is a protective layer of cells that covers the root tip and secretes mucilage to lubricate the soil.
+- The root meristem is a region of actively dividing cells that produces new root cells and elongates the root.
+- The root hair zone is a region of epidermal cells that have hair-like outgrowths that increase the surface area for absorption.
+- The root has three main types of tissues: the epidermis, the cortex, and the stele.
+- The epidermis is the outermost layer of cells that protects the root and absorbs water and minerals.
+- The cortex is the middle layer of cells that stores food and transports water and minerals to the stele.
+- The stele is the innermost layer of cells that consists of the vascular tissue (xylem and phloem) and the pericycle.
+- The xylem is the tissue that conducts water and minerals from the root to the stem.
+- The phloem is the tissue that conducts food from the stem to the root.
+- The pericycle is the tissue that surrounds the vascular tissue and gives rise to lateral roots and secondary growth.
+- The root has two main types of root systems: the taproot system and the fibrous root system.
+- The taproot system is a type of root system that has a single, thick, main root (the taproot) that grows vertically downward and gives rise to smaller lateral roots.
+- The fibrous root system is a type of root system that has many thin, branching roots that spread horizontally in the soil.
+- The root may have different modifications for different purposes, such as storage, support, respiration, and parasitism.
+- Some examples of modified roots are: tuberous roots, prop roots, pneumatophores, and haustoria.
+- Tuberous roots are swollen roots that store food, such as sweet potato and carrot.
+- Prop roots are adventitious roots that grow from the stem and provide support, such as in maize and banyan.
+- Pneumatophores are aerial roots that grow from the submerged roots and facilitate gas exchange, such as in mangroves.
+- Haustoria are parasitic roots that penetrate the host plant and absorb its nutrients, such as in mistletoe and dodder.

@@ -1,0 +1,38 @@
+# ADVANCED INTERNET OF THINGS LAB
+
+- The Advanced Internet of Things Lab is a course that aims to provide students with the knowledge and skills to design, implement, and evaluate IoT applications and systems.
+- The course covers the following topics:
+  - IoT concepts, architectures, and protocols
+  - IoT devices, sensors, and actuators
+  - IoT communication technologies, such as WiFi, Bluetooth, ZigBee, LoRa, and 5G
+  - IoT cloud platforms and services, such as AWS IoT, Azure IoT, and Google Cloud IoT
+  - IoT data processing and analytics, such as MQTT, Kafka, Spark, and TensorFlow
+  - IoT security and privacy, such as encryption, authentication, and blockchain
+  - IoT applications and use cases, such as smart home, smart city, smart health, and smart agriculture
+- The course consists of lectures, lab sessions, assignments, and a final project.
+  - Lectures introduce the theoretical and conceptual aspects of IoT
+  - Lab sessions provide hands-on experience with IoT devices, platforms, and tools
+  - Assignments require students to implement and test IoT solutions for various scenarios
+  - Final project requires students to design and develop an IoT system of their choice
+- The course objectives are:
+  - To understand the principles and challenges of IoT
+  - To acquire practical skills in IoT development and deployment
+  - To explore the current and future trends and opportunities of IoT
+  - To apply IoT solutions to real-world problems and domains
+- The course prerequisites are:
+  - Basic knowledge of computer networks, such as TCP/IP, HTTP, and DNS
+  - Basic knowledge of programming, such as Python, Java, or C
+  - Basic knowledge of data structures and algorithms, such as arrays, lists, and trees
+  - Basic knowledge of operating systems, such as Linux, Windows, or MacOS
+  - Basic knowledge of web development, such as HTML, CSS, and JavaScript
+- The course evaluation is based on:
+  - Lab sessions (30%)
+  - Assignments (30%)
+  - Final project (30%)
+  - Class participation (10%)
+- The course references are:
+  -  Syllabus for IOT - Amrita Vishwa Vidyapeetham
+  -  IoT Syllabus: NPTEL, B.Tech, IIT, VIT, VTU, O Level: Internet of Things ...
+  -  EE701: Internet of Things: From Technology to Applications
+  -  Syllabus for Internet of Things - Uppsala University, Sweden
+  -  CS 437 Internet of Things Course Description - University of Illinois ...

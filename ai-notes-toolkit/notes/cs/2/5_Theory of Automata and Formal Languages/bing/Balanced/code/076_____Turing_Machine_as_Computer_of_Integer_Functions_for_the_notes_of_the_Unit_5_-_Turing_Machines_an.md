@@ -1,0 +1,10 @@
+### Turing Machine as Computer of Integer Functions
+
+- A Turing machine is a simple abstract computational device that can simulate any algorithm or computation.
+- A Turing machine consists of a finite set of states, a finite alphabet of symbols, a tape divided into cells that can store symbols, a tape head that can read and write symbols and move left or right, and a transition function that determines the next state, symbol, and movement based on the current state and symbol.
+- A Turing machine can compute functions that map integers or pairs of integers to integers, such as f(x) = x + 1 or g(x, y) = x * y.
+- To compute a function, a Turing machine needs to encode the input and output integers as strings of symbols on the tape, using a suitable encoding scheme, such as unary, binary, or decimal.
+- For example, to compute f(x) = x + 1 using unary encoding, where each integer is represented by a string of 1s of the same length, the Turing machine can start with the input x on the tape, such as 111, and then increment it by adding one more 1 at the end, resulting in 1111, which is the output f(x).
+- To compute g(x, y) = x * y using binary encoding, where each integer is represented by a string of 0s and 1s, the Turing machine can start with the inputs x and y on the tape, separated by a special symbol, such as #, such as 101#11, and then multiply them using a standard algorithm, such as the shift-and-add method, resulting in 1111, which is the output g(x, y).
+- A Turing machine can also compute functions that are not defined for all inputs, such as h(x) = 1/x, by using a special symbol, such as ?, to indicate an undefined output, such as h(0) = ?.
+- A Turing machine can also compute functions that are partial, meaning that they may not halt for some inputs, such as the halting function, which returns 1 if a given Turing machine halts on a given input, and 0 otherwise, but is undecidable, meaning that there is no Turing machine that can compute it for all inputs.

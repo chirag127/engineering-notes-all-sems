@@ -1,0 +1,23 @@
+## Unit 2 - Reference Architecture
+
+- A reference architecture is a general and reusable solution to a commonly occurring problem in a given context.
+- It provides a set of principles, guidelines, standards, patterns, and best practices for designing, implementing, and managing a system or a domain.
+- It is not a complete and detailed design, but rather a blueprint or a template that can be adapted and customized to fit specific needs and requirements.
+- A reference architecture can be used to:
+  - Communicate a common vision and understanding among stakeholders.
+  - Establish a consistent and coherent structure and behavior for the system or the domain.
+  - Reduce complexity and increase interoperability and reusability.
+  - Facilitate the evaluation and comparison of alternative solutions.
+  - Promote the alignment of the system or the domain with the business goals and strategies.
+- A reference architecture can be represented by different views and models, such as:
+  - Conceptual view: describes the key concepts, entities, and relationships in the system or the domain, and their properties and constraints.
+  - Logical view: describes the functional and non-functional requirements, the services and capabilities, and the interfaces and contracts of the system or the domain.
+  - Physical view: describes the deployment and distribution of the system or the domain components, and their dependencies and interactions.
+  - Implementation view: describes the technologies, standards, frameworks, and tools used to realize the system or the domain components, and their configuration and customization.
+- A reference architecture can be developed and maintained by following a systematic process, such as:
+  - Define the scope and context of the system or the domain, and identify the stakeholders and their concerns and expectations.
+  - Analyze the requirements and constraints of the system or the domain, and prioritize them based on their importance and urgency.
+  - Design the reference architecture by applying the relevant principles, guidelines, standards, patterns, and best practices, and by using appropriate views and models.
+  - Validate the reference architecture by evaluating its quality attributes, such as performance, scalability, security, reliability, etc., and by soliciting feedback from the stakeholders and the potential users.
+  - Document the reference architecture by describing its rationale, structure, behavior, and usage, and by providing examples and scenarios.
+  - Evolve the reference architecture by updating and refining it based on the changing needs and requirements, and by incorporating the lessons learned and the best practices from the actual implementations.

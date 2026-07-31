@@ -1,0 +1,12 @@
+### Image Compression for the Notes of Unit 3 - Coding a Sequence in the Subject of Data Compression
+
+In data compression, image compression is a crucial aspect. It is the process of reducing the size of the image data without losing the important details. Here are some important points to understand image compression:
+
+- There are two types of image compression techniques: lossless and lossy. Lossless compression techniques preserve the original quality of the image, while lossy compression techniques discard some of the image data to achieve higher compression ratios.
+- The most commonly used lossless compression techniques are Run-Length Encoding (RLE) and Huffman coding. RLE works by encoding consecutive sequences of the same pixel value with a code indicating the length of the run. Huffman coding assigns shorter codes to frequently occurring pixel values and longer codes to less frequent ones.
+- The most commonly used lossy compression techniques are Discrete Cosine Transform (DCT) and Wavelet Transform. DCT works by converting the image data into a frequency domain and discarding high-frequency components that are not perceptible to the human eye. Wavelet Transform works by dividing the image into sub-bands and discarding high-frequency sub-bands that are not perceptible to the human eye.
+- JPEG (Joint Photographic Experts Group) is a widely used image compression standard that uses lossy compression techniques. It can achieve high compression ratios with minimal loss in image quality. JPEG 2000 is an improved version of JPEG that uses wavelet transform for compression.
+- PNG (Portable Network Graphics) is a widely used image compression standard that uses lossless compression techniques. It is particularly useful for images with large areas of uniform color or transparent regions.
+- Image compression is used in various applications such as digital cameras, video conferencing, and web design. It helps to reduce the storage space required for image data and improves the transmission speed over networks.
+
+Understanding image compression is crucial for data compression as images make up a significant portion of data in many applications. It is important to choose the appropriate compression technique based on the requirements of the application.

@@ -1,0 +1,30 @@
+## Unit 3 - Distributed Deadlock Detection
+
+- A deadlock is a condition where a set of processes request resources that are held by other processes in the set.
+- Deadlocks can occur in distributed systems when distributed transactions or concurrency control are utilized.
+- Deadlock detection is the approach of identifying and resolving existing deadlocks in distributed systems.
+- Deadlock detection requires examination of the status of process-resource interactions for presence of cyclic wait.
+- Deadlock detection in distributed systems entails addressing two basic issues:
+  - Detection of existing deadlocks
+  - Resolution of detected deadlocks
+- There are three main approaches to detect deadlocks in distributed systems:
+  - Centralized deadlock detection
+    - A single node is designated as the deadlock detector and maintains a global wait-for graph (WFG) of the system
+    - The other nodes periodically send their local WFGs to the deadlock detector
+    - The deadlock detector checks the global WFG for cycles and initiates recovery actions if needed
+    - Advantages: simple, efficient, low overhead
+    - Disadvantages: single point of failure, bottleneck, scalability issues
+  - Distributed deadlock detection
+    - Each node maintains its own local WFG and participates in a distributed algorithm to detect cycles in the global WFG
+    - The distributed algorithm can be based on edge chasing, diffusing computation, or hierarchical deadlock detection
+    - Advantages: fault tolerance, load balancing, scalability
+    - Disadvantages: complex, high overhead, message delays
+  - Hierarchical deadlock detection
+    - The nodes are organized into a hierarchy of clusters, each with a coordinator node
+    - The coordinator nodes maintain partial WFGs of their clusters and communicate with each other to detect cycles in the global WFG
+    - The coordinator nodes can also delegate the deadlock detection to lower-level nodes if needed
+    - Advantages: hybrid of centralized and distributed approaches, adaptable to system topology, reduced overhead
+    - Disadvantages: complex, hierarchical structure, message delays
+- To resolve the deadlock, one or more deadlocked processes have to be aborted and their resources have to be released.
+- The selection of the processes to be aborted can be based on various criteria, such as priority, age, cost, or number of resources held.
+- The aborted processes can be restarted from the beginning or from a checkpoint.

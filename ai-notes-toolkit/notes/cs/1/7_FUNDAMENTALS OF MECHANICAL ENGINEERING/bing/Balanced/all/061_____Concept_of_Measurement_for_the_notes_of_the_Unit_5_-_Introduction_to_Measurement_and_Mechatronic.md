@@ -1,0 +1,23 @@
+# Concept of Measurement
+
+- Measurement is the process of comparing an unknown quantity with a known standard or unit.
+- Measurement is essential for verifying the dimensions, properties, and performance of a product or a system.
+- Measurement is also important for controlling and improving the quality and efficiency of a process or a system.
+- The science of measurement is called metrology, which deals with the principles, methods, and standards of measurement.
+- Measurement can be classified into two types: direct and indirect measurement.
+  - Direct measurement is the process of obtaining the value of a quantity by comparing it with a standard unit directly, such as measuring the length of a rod with a ruler.
+  - Indirect measurement is the process of obtaining the value of a quantity by using a mathematical relation with another quantity that can be measured directly, such as measuring the speed of a car by measuring the time and distance traveled.
+- Measurement can also be classified into three categories: nominal, ordinal, and interval measurement.
+  - Nominal measurement is the process of assigning names or labels to different categories of a quantity, such as measuring the gender of a person by using male or female labels.
+  - Ordinal measurement is the process of ranking the categories of a quantity in a certain order, such as measuring the hardness of a material by using a scale from soft to hard.
+  - Interval measurement is the process of assigning numerical values to the categories of a quantity based on a fixed unit and a zero point, such as measuring the temperature of a substance by using a thermometer with degrees Celsius or Fahrenheit.
+- Measurement involves four basic elements: the measurand, the instrument, the method, and the result.
+  - The measurand is the quantity that is to be measured, such as the length of a rod, the mass of a ball, or the temperature of a substance.
+  - The instrument is the device that is used to measure the measurand, such as a ruler, a balance, or a thermometer.
+  - The method is the procedure that is followed to measure the measurand using the instrument, such as placing the ruler along the rod, placing the ball on the balance, or inserting the thermometer into the substance.
+  - The result is the value that is obtained from the measurement, such as 10 cm, 50 g, or 25 °C.
+- Measurement is subject to errors and uncertainties, which affect the accuracy and precision of the result.
+  - Accuracy is the degree of closeness of the result to the true value of the measurand, such as measuring the length of a rod as 10.01 cm when the true value is 10.00 cm.
+  - Precision is the degree of consistency or repeatability of the result, such as measuring the length of a rod as 10.01 cm, 10.02 cm, and 10.03 cm in three trials.
+  - Errors are the deviations of the result from the true value of the measurand, which can be caused by various factors, such as the instrument, the method, the environment, or the operator.
+  - Uncertainties are the estimates of the possible errors in the result, which can be expressed by a range or an interval, such as 10.01 ± 0.01 cm.

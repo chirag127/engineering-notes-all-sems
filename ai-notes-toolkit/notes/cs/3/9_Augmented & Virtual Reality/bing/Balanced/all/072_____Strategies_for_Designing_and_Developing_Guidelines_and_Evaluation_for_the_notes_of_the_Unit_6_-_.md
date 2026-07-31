@@ -1,0 +1,16 @@
+# Strategies for Designing and Developing Guidelines and Evaluation for 3D User Interfaces
+
+- 3D user interfaces (3D UIs) are interfaces that allow users to interact with 3D environments and objects using various input and output devices, such as head-mounted displays, controllers, trackers, haptic devices, etc.
+- Designing and developing 3D UIs requires considering the user's needs, goals, preferences, and abilities, as well as the characteristics and constraints of the 3D application domain, the 3D interaction techniques, and the 3D devices.
+- Guidelines and evaluation are two important aspects of 3D UI design and development that can help ensure the quality, usability, usefulness, and user satisfaction of 3D UIs.
+- Guidelines are general principles, rules, or recommendations that can guide the design and development of 3D UIs. They can be derived from theory, research, practice, or experience, and can cover various aspects of 3D UIs, such as layout, navigation, manipulation, selection, system control, feedback, etc.
+- Evaluation is the process of assessing the effectiveness, efficiency, and satisfaction of 3D UIs by collecting and analyzing data from users, experts, or systems. Evaluation can be conducted at different stages of 3D UI design and development, such as conceptual, prototype, or final, and can use various methods, such as cognitive walkthrough, heuristic evaluation, user testing, etc.
+
+Some strategies for designing and developing guidelines and evaluation for 3D UIs are:
+
+- Identify the user's needs, goals, preferences, and abilities, and the 3D application domain, and use them as the basis for defining the requirements and objectives of the 3D UI.
+- Review the existing literature and research on 3D UIs, and learn from the best practices and examples of 3D UI design and development in similar or related domains.
+- Choose or develop appropriate 3D interaction techniques and 3D devices that match the user's needs, goals, preferences, and abilities, and the 3D application domain, and that support the desired tasks and functions of the 3D UI.
+- Apply the relevant and applicable guidelines for 3D UI design and development, and adapt them to the specific context and constraints of the 3D UI. For example, use natural, intuitive, and consistent 3D interaction techniques, provide clear and timely feedback, avoid occlusion and clutter, etc.
+- Evaluate the 3D UI at different stages of design and development, using suitable methods and metrics, and involving representative users and experts. For example, use cognitive walkthrough to evaluate the 3D UI's ability to support each step of a common task, use heuristic evaluation to evaluate the 3D UI's compliance with a set of design guidelines, use user testing to evaluate the 3D UI's usability, usefulness, and user satisfaction, etc.
+- Analyze the results of the evaluation, and identify the strengths and weaknesses of the 3D UI, and the areas for improvement or refinement. Use the feedback and suggestions from the evaluation to iteratively improve the 3D UI design and development.

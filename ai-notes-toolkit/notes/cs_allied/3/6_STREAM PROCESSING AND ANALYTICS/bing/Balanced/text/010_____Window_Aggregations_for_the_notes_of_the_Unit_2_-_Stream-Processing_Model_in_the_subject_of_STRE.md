@@ -1,0 +1,21 @@
+### Window Aggregations
+
+- Window aggregation is a core operation in data stream processing  .
+- Window aggregation computes aggregate values (e.g., counts, sums, averages, medians, etc.) over a window of events in a data stream .
+- A window is a subset of events that are related by some criteria, such as time, key, or session .
+- There are different types of windows, such as:
+  - Tumbling windows: fixed-size, non-overlapping windows that cover the entire stream.
+  - Sliding windows: fixed-size, overlapping windows that slide by a fixed interval.
+  - Session windows: variable-size, non-overlapping windows that capture periods of activity in the stream.
+- Window aggregation can be performed in different ways, such as:
+  - Incremental aggregation: update the aggregate value for each new event in the window .
+  - Slice-based aggregation: divide the window into slices and compute partial aggregates for each slice, then combine them to get the final aggregate .
+  - Trigger-based aggregation: compute the aggregate value only when a trigger condition is met, such as a watermark, a timeout, or a data arrival .
+- Window aggregation can face challenges, such as:
+  - Out-of-order events: events that arrive late or early in the stream, which can affect the correctness and consistency of the aggregate values  .
+  - Redundant computations: overlapping windows can cause repeated calculations of the same events, which can affect the efficiency and scalability of the stream processing system .
+  - Memory usage: storing events and partial aggregates for multiple windows can consume a lot of memory, which can affect the performance and reliability of the stream processing system  .
+- Window aggregation can be optimized by using techniques, such as:
+  - Watermarking: a mechanism to specify the maximum allowed delay for out-of-order events, which can help to discard late events and free memory  .
+  - Pre-aggregation: a technique to reduce the number of events by applying an aggregation function before sending them to the window operator, which can help to reduce network traffic and memory usage .
+  - Sketching: a technique to approximate the aggregate values by using probabilistic data structures, such as count-min sketch, bloom filter, or hyperloglog, which can help to reduce memory usage and computation time .

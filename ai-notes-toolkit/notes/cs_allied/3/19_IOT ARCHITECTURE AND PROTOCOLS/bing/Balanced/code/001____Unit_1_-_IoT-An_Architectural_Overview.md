@@ -1,0 +1,9 @@
+## Unit 1 - IoT-An Architectural Overview
+
+- IoT stands for Internet of Things, which refers to the network of physical devices, sensors, actuators, and software that can collect, process, and exchange data over the internet.
+- IoT enables various applications and services that can improve the quality of life, efficiency, and productivity of individuals, organizations, and society.
+- IoT architecture consists of four main layers: device layer, network layer, service layer, and application layer.
+- Device layer: This layer includes the physical devices, sensors, and actuators that can sense, measure, and control the physical world. Devices can have different capabilities, such as computing, storage, communication, and security. Devices can also be embedded, wearable, or mobile.
+- Network layer: This layer provides the connectivity and communication between devices and other layers. Network layer can use different technologies, such as wired, wireless, cellular, or satellite. Network layer can also support different protocols, such as TCP/IP, MQTT, CoAP, or HTTP.
+- Service layer: This layer provides the data processing, storage, and management functions for the IoT system. Service layer can use different platforms, such as cloud, fog, or edge computing. Service layer can also provide different services, such as data analytics, machine learning, security, or privacy.
+- Application layer: This layer provides the user interface and interaction for the IoT system. Application layer can use different devices, such as smartphones, tablets, or computers. Application layer can also support different applications, such as smart home, smart city, smart health, or smart agriculture.

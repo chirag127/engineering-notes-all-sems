@@ -1,0 +1,18 @@
+# Communication for the notes of the Unit 2 - SOFTWARE HARDWARE FRAMEWORKS in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Communication is the process of exchanging information and data between different devices, systems, or people.
+- Communication in wearable computing, mixed reality and internet of everything involves the use of various technologies and protocols to enable seamless and interactive communication across different domains and platforms.
+- Some of the key aspects of communication in these fields are:
+
+  - Wearable communication: Wearable communication refers to the use of wearable devices, such as smartwatches, glasses, or clothing, to communicate with other devices or people. Wearable communication can enable:
+    - Remote collaboration: Wearable devices can provide constant access to computing and communication resources, allowing remote experts or peers to collaborate with the wearable user through audio, video, or data streams.
+    - Context-awareness: Wearable devices can sense the user's context, such as location, activity, or mood, and provide relevant information or services based on the user's needs and preferences.
+    - Interoperability: Wearable devices can interact with other devices and physical things around them, such as smart home appliances, vehicles, or sensors, using various wireless technologies, such as Bluetooth, Wi-Fi, or NFC.
+  - Mixed reality communication: Mixed reality communication refers to the use of mixed reality technologies, such as augmented reality or virtual reality, to communicate with other users or environments. Mixed reality communication can enable:
+    - Immersive experiences: Mixed reality technologies can create immersive experiences where 3D digital images can be represented alongside physical objects, enhancing the user's perception and interaction with the real world.
+    - Ubiquitous computing: Mixed reality technologies can enable ubiquitous computing, which is the integration of computing into the real world, using any device, in any location, and in any format. Ubiquitous computing can provide natural and intuitive interfaces, such as gestures, voice, or eye tracking, for the user to interact with the digital world.
+    - Social presence: Mixed reality technologies can enhance the social presence of the user, which is the sense of being with others in a virtual environment. Social presence can foster social interaction, collaboration, and engagement among users, regardless of their physical distance or location.
+  - Internet of everything communication: Internet of everything communication refers to the use of internet technologies and protocols to connect and communicate with everything, such as people, devices, data, or processes. Internet of everything communication can enable:
+    - Data exchange: Internet of everything communication can facilitate the exchange of large amounts of data among different entities, such as sensors, cloud servers, or mobile devices, using various standards, such as TCP/IP, HTTP, or MQTT.
+    - Intelligence: Internet of everything communication can enable the analysis and processing of the data collected from different sources, using artificial intelligence, machine learning, or big data techniques, to provide insights, predictions, or recommendations for the user or the system.
+    - Automation: Internet of everything communication can enable the automation of various tasks, processes, or services, using smart algorithms, rules, or workflows, to optimize the performance, efficiency, or quality of the system or the user experience.

@@ -1,0 +1,5 @@
+### Soft Lifting
+
+Soft lifting, also known as "softloading" or "end-user piracy," is a type of software piracy where a single copy of software is purchased and then installed onto multiple computers, despite the licensing agreement stating that the software must only be installed once  . Softlifting is often thought to cause little harm on a small scale per transaction, but because it is so common, it greatly contributes to the total damage brought about by software piracy worldwide.
+
+Soft lifting is not directly related to the field of cyber forensics. However, cyber forensics professionals may encounter cases of soft lifting while investigating computer-related crimes. Cyber forensics is a relatively new discipline to the courts and many of the existing laws used to prosecute computer-related crimes, legal precedents, and practices related to computer forensics are in a state of flux.

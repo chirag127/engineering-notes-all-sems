@@ -1,0 +1,6 @@
+## Experiment 12 - To learn handling and configuration of networking hardware like RJ-45 connector, CAT-6 cable, crimping tool, etc
+
+1. **RJ-45 connector**: This is a type of connector commonly used for Ethernet networking. It is an 8-position, 8-contact (8P8C) modular plug and jack, which is commonly used to connect computers to a local area network (LAN).
+2. **CAT-6 cable**: This is a type of twisted pair cable used for Ethernet and other networking standards. It is designed to support data transfer rates of up to 10 Gbps (gigabits per second) and is backward compatible with CAT-5 and CAT-5e cables.
+3. **Crimping tool**: This is a tool used to attach connectors to cables. It is used to crimp, or compress, the metal contacts of the connector onto the individual wires of the cable, creating a secure connection.
+4. To configure these networking hardware, first, strip the outer insulation of the CAT-6 cable to expose the individual wires. Then, untwist the wires and arrange them in the correct order according to the wiring standard being used (T568A or T568B). Next, insert the wires into the RJ-45 connector, making sure that each wire is fully inserted into its corresponding pin. Finally, use the crimping tool to crimp the connector onto the cable, securing the wires in place.

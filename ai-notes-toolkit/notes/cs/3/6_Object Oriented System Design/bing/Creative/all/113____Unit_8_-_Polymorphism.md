@@ -1,0 +1,11 @@
+## Unit 8 - Polymorphism
+
+Polymorphism is one of the key concepts of object-oriented programming. It means the ability of an object to take on different forms or behaviors depending on the context. Polymorphism can be achieved in different ways, such as:
+
+- **Overloading**: This is when a class or a method has multiple definitions with different parameters or return types. For example, a class can have multiple constructors with different arguments, or a method can have different versions for different data types. Overloading allows us to use the same name for different operations that are related in some way.
+
+- **Overriding**: This is when a subclass or a child class redefines a method inherited from a superclass or a parent class. For example, a class Animal can have a method sound() that returns a generic noise, and a subclass Dog can override this method to return "woof". Overriding allows us to customize the behavior of a method based on the specific type of the object.
+
+- **Abstract classes and interfaces**: These are special types of classes that cannot be instantiated, but can only be inherited or implemented by other classes. They define a set of abstract methods that the subclasses or the implementing classes must provide. For example, an abstract class Shape can have an abstract method area() that returns the area of the shape, and a subclass Circle can implement this method by using the formula pi*r^2. Abstract classes and interfaces allow us to define a common interface or a contract for a group of related classes.
+
+- **Dynamic binding or late binding**: This is when the type of an object is determined at run time, not at compile time. For example, if we have a variable of type Animal that can refer to different subclasses of Animal, such as Dog, Cat, or Bird, the actual type of the object will be known only when the program is executed. Dynamic binding allows us to use the same variable or method call for different types of objects, and the appropriate method will be executed based on the actual type of the object.

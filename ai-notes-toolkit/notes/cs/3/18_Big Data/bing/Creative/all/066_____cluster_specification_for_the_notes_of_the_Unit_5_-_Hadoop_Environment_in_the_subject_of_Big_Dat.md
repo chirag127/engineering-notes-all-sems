@@ -1,0 +1,11 @@
+# Cluster Specification for the Notes of the Unit 5 - Hadoop Environment in the Subject of Big Data
+
+- A Hadoop cluster is a collection of computers, known as nodes, that are networked together to perform parallel computations on big data sets  .
+- A Hadoop cluster is designed specifically for storing and analyzing huge amounts of structured, semi-structured, and unstructured data in a distributed computing environment .
+- A Hadoop cluster is often referred to as a shared-nothing system because the only thing that is shared between the nodes is the network itself.
+- A Hadoop cluster can be divided into four distinctive layers:
+  - Distributed Storage Layer: Each node in a Hadoop cluster has its own disk space, memory, bandwidth, and processing. The incoming data is split into individual data blocks, which are then stored within the Hadoop Distributed File System (HDFS) distributed storage layer.
+  - Distributed Processing Layer: The data blocks are processed by the MapReduce framework, which distributes the computation tasks to the nodes and manages the data flow between them. The MapReduce framework consists of two types of tasks: map tasks and reduce tasks.
+  - Resource Management Layer: The resource management layer is responsible for allocating and managing the resources of the cluster, such as CPU, memory, disk, and network. The resource management layer is implemented by the Yet Another Resource Negotiator (YARN) framework, which consists of two main components: the ResourceManager and the NodeManager.
+  - Application Layer: The application layer is where the user interacts with the Hadoop cluster and runs various applications on top of it. The application layer can use different tools and frameworks to access and analyze the data, such as Hive, Pig, Spark, HBase, etc.
+- To configure the Hadoop cluster, you will need to configure the environment in which the Hadoop daemons execute as well as the configuration parameters for the Hadoop daemons. HDFS daemons are NameNode, SecondaryNameNode, and DataNode. YARN daemons are ResourceManager, NodeManager, and WebAppProxy.

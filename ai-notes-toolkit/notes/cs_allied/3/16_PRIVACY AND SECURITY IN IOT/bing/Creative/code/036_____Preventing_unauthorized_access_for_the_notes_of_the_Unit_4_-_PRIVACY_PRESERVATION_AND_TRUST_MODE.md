@@ -1,0 +1,13 @@
+### Preventing unauthorized access for the notes of the Unit 4 - PRIVACY PRESERVATION AND TRUST MODELS FOR IOT in the subject of PRIVACY AND SECURITY IN IOT
+
+- Unauthorized access is the act of gaining access to an IoT device or a cloud application without proper permission or authorization.
+- Unauthorized access can compromise the privacy and security of IoT devices and the data they generate, transmit, and store.
+- Unauthorized access can also lead to malicious attacks, such as denial-of-service, data theft, data manipulation, ransomware, botnets, etc .
+- To prevent unauthorized access, the following steps can be taken:
+
+  - Change the default password: Many IoT devices have default passwords that are easily guessed or publicly available. Changing the default password to a strong and unique one can prevent unauthorized access by brute-force or dictionary attacks .
+  - Use a firewall: A firewall can be used to block unwanted incoming connections and protect your IoT devices from malicious attacks. A firewall can also limit the exposure of IoT devices to the internet and reduce the attack surface .
+  - Keep your software up-to-date: Regularly update the firmware of your IoT devices to ensure that any security vulnerabilities are patched. Updating the software can also improve the performance and functionality of your IoT devices .
+  - Encrypt the data: Encrypting the data that is generated, transmitted, and stored by your IoT devices can prevent unauthorized access and data leaks. Encryption can also protect the data from tampering and manipulation by unauthorized parties .
+  - Set access policies: Setting access policies for all IoT endpoints is critical for preventing unauthorized access and lateral movement across devices. Access policies specify who can enter a network and what they can do. Access policies can also enforce authentication and authorization mechanisms, such as passwords, tokens, certificates, biometrics, etc .
+  - Detect and respond to incidents: Detecting and responding to unauthorized access incidents can help mitigate the impact and prevent further damage. Detecting unauthorized access can be done by monitoring the network traffic, device behavior, and user activity. Responding to unauthorized access can be done by isolating the affected devices, blocking the malicious connections, notifying the users, and restoring the normal operations .

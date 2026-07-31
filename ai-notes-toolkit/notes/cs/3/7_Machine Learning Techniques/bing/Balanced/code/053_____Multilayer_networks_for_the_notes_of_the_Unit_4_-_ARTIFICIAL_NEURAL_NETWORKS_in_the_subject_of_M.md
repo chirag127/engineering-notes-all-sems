@@ -1,0 +1,12 @@
+### Multilayer networks for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+
+- A multilayer network is a type of artificial neural network that contains more than one layer of artificial neurons or nodes .
+- The layers of a multilayer network are typically classified into three types: input layer, hidden layer, and output layer .
+- The input layer receives the input data and passes it to the hidden layer. The hidden layer performs some computations and transfers the results to the output layer. The output layer produces the final output of the network .
+- The nodes in each layer are connected to the nodes in the next layer by weighted links. The weights represent the strength of the connection between the nodes. The weights are adjusted during the learning process of the network .
+- The nodes in each layer, except the input layer, also have a bias term that acts as a threshold for the activation of the node. The bias term is also adjusted during the learning process .
+- The nodes in each layer, except the output layer, also have an activation function that determines the output of the node based on the input and the bias term. The activation function can be linear or nonlinear, such as sigmoid, tanh, or ReLU .
+- The main advantage of multilayer networks is that they can learn complex nonlinear patterns and functions from the input data. They can also approximate any continuous function with arbitrary accuracy, given enough hidden nodes and appropriate activation functions .
+- The main challenge of multilayer networks is that they are difficult to train and optimize. They require a large amount of data and computational resources, and they are prone to overfitting and local minima. They also suffer from the problem of vanishing or exploding gradients, which affects the learning rate and convergence of the network .
+- Some of the common algorithms for training multilayer networks are gradient descent, backpropagation, stochastic gradient descent, and Adam. These algorithms update the weights and biases of the network based on the error between the actual output and the desired output .
+- Some of the common applications of multilayer networks are image recognition, natural language processing, speech recognition, and recommender systems. These applications require the network to learn high-level features and abstractions from the input data .

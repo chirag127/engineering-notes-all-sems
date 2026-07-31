@@ -1,0 +1,31 @@
+# Tailoring Software Quality Assurance Program by Reviews
+
+- Software Quality Assurance (SQA) is the process of ensuring that a software product meets the quality standards and requirements of the stakeholders, customers and users.
+- SQA involves planning, implementing, monitoring and improving the software development and testing activities, processes and products.
+- SQA can be tailored to suit the specific needs and characteristics of a software project, such as the size, complexity, scope, domain, methodology, budget, schedule and risks.
+- Tailoring SQA involves selecting, adapting and applying the appropriate SQA practices, techniques, tools and metrics for a given software project.
+- Tailoring SQA can help to achieve the following benefits:
+  - Align the SQA activities with the project goals and objectives
+  - Optimize the use of resources and time for SQA
+  - Enhance the communication and collaboration among the SQA stakeholders
+  - Increase the effectiveness and efficiency of SQA
+  - Improve the quality and reliability of the software product
+  - Reduce the cost and risk of software defects and failures
+- One of the key SQA practices that can be tailored is the review process. Reviews are systematic and structured examinations of software artifacts, such as requirements, design, code, test cases and documentation, by a team of qualified reviewers.
+- Reviews can help to identify and correct errors, defects, inconsistencies, ambiguities, gaps, deviations and improvements in the software artifacts, before they propagate to the later stages of the software development life cycle (SDLC).
+- Reviews can also help to verify and validate the compliance of the software artifacts with the standards, specifications, regulations and best practices.
+- Reviews can be tailored according to the following factors:
+  - The type and purpose of the review, such as informal, walkthrough, inspection, audit, peer review, technical review, management review, etc.
+  - The scope and level of detail of the review, such as the software artifact, module, component, system, etc.
+  - The criteria and checklist of the review, such as the quality attributes, metrics, guidelines, rules, etc.
+  - The roles and responsibilities of the reviewers, such as the leader, moderator, recorder, author, reader, etc.
+  - The process and procedure of the review, such as the planning, preparation, execution, reporting, follow-up, etc.
+  - The tools and techniques of the review, such as the manual, automated, static, dynamic, etc.
+  - The outcome and output of the review, such as the findings, issues, defects, recommendations, actions, reports, etc.
+- Tailoring the review process can help to achieve the following benefits:
+  - Ensure the relevance and suitability of the review for the software project
+  - Enhance the quality and consistency of the review
+  - Increase the participation and engagement of the reviewers
+  - Facilitate the feedback and improvement of the software artifacts
+  - Support the decision making and risk management of the software project
+  - Provide the evidence and traceability of the SQA activities

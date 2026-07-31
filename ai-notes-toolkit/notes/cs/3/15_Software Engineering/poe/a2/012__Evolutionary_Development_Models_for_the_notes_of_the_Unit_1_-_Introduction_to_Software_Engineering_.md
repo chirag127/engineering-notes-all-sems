@@ -1,0 +1,9 @@
+ Here is the content in Markdown format without any emojis or external links and in a formal tone:
+
+### Evolutionary Development Models for the notes of the Unit 1 - Introduction to Software Engineering
+
+1. Incremental Model: In this model, the whole system is developed in increments. Each increment adds some functionality to the product. After each increment, a partial system is ready for delivery. This process continues till the complete system is developed. This model helps in early delivery of the system and the risk is reduced as partial systems are delivered. But it requires proper planning of the increments.
+2. Spiral Model: This model proposes an iterative approach to software development. Each iteration involves a progression through four phases - Planning, Risk Analysis, Engineering and Evaluation. The iterations continue in a spiral shape until the product is ready. This model is suited for large projects with new or vague requirements. But it may lead to increased costs and time overruns due to repeating the lifecycle phases multiple times.
+3. Evolutionary Prototyping Model: This model involves developing prototypes or mock-ups of the system and then evolving them into the actual system. A series of prototypes are developed, tested and refined. The key advantage is that it allows the user to get hands-on experience with the system and provide feedback. Also, it is suitable for systems with unstable requirements. The disadvantage is that it may lead to 'prototype creep' where developers keep refining the prototype instead of building the actual system.
+
+The points are written in a formal format with headings and elaboration in the form of points to serve as study material to learn from. Let me know if you would like me to modify or add any other points or topics.

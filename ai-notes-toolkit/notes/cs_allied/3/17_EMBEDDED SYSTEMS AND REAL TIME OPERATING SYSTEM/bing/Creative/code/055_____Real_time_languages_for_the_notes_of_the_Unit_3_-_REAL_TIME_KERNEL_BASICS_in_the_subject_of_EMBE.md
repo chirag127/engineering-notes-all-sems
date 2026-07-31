@@ -1,0 +1,11 @@
+### Real time languages for the notes of the Unit 3 - REAL TIME KERNEL BASICS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- A real time language is a programming language that supports the development of real time systems, which are systems that must respond to events within strict time constraints.
+- Real time languages typically provide features such as concurrency, synchronization, memory management, exception handling, and timing analysis.
+- Some examples of real time languages are:
+
+  - Ada: A general-purpose language that supports object-oriented, concurrent, and distributed programming. Ada has a rich set of predefined packages for real time systems, such as tasking, scheduling, timing, and interrupt handling.
+  - C/C++: The most widely used languages for embedded systems, due to their efficiency, portability, and flexibility. C/C++ can be used to program low-level hardware, as well as high-level applications. C/C++ also have extensions and libraries for real time systems, such as POSIX, RTLinux, and RTAI.
+  - Java: A popular object-oriented language that runs on a virtual machine, which provides portability, security, and garbage collection. Java also has a real time specification (RTSJ), which defines extensions for real time systems, such as real time threads, memory areas, scheduling, and asynchronous events.
+  - Python: A high-level, interpreted, and dynamic language that supports multiple programming paradigms, such as functional, imperative, and object-oriented. Python is easy to learn, write, and read, and has a large number of libraries and frameworks for various domains. Python can be used for real time embedded systems with implementations such as MicroPython, which is a lean and efficient version of Python for microcontrollers.
+  - Rust: A modern, compiled, and memory-safe language that supports functional, imperative, and concurrent programming. Rust is designed to prevent common errors, such as memory leaks, data races, and null pointers, by using a powerful type system and ownership model. Rust also has a growing ecosystem of libraries and tools for embedded and real time systems, such as RTFM, RTIC, and embedded-hal.

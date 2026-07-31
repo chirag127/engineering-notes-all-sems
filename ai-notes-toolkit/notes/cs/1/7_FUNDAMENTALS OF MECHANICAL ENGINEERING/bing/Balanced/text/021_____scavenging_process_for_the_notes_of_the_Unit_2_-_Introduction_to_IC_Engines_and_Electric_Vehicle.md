@@ -1,0 +1,10 @@
+### Scavenging Process
+
+- Scavenging is the process of replacing the exhaust gas in a cylinder of an internal combustion engine with the fresh air/fuel mixture (or fresh air, in the case of direct-injection engines) for the next cycle.
+- Scavenging is necessary for the engine's proper fuel combustion and better power output. If scavenging is incomplete, the remaining exhaust gases can cause improper combustion for the next cycle, leading to reduced power output.
+- Scavenging occurs in IC engines during the overlapping of valves (Opens at the same time) in which burnt gases are released out of the cylinder with the entering of fresh charge inside the engine at the same time.
+- There are three types of scavenging used in two stroke IC engines:
+  - Uniflow scavenging: The fresh charge enters from one end of the cylinder and the exhaust gases leave from the other end. This type of scavenging has the highest efficiency and the least mixing of fresh and exhaust gases.
+  - Cross-flow scavenging: The fresh charge enters from one side of the cylinder and the exhaust gases leave from the opposite side. This type of scavenging has a lower efficiency and a higher mixing of fresh and exhaust gases .
+  - Loop or reverse scavenging: The fresh charge enters from the bottom of the cylinder and the exhaust gases leave from the top. This type of scavenging has a moderate efficiency and a moderate mixing of fresh and exhaust gases.
+- The scavenging efficiency is the ratio of the mass of fresh charge admitted to the cylinder to the mass of charge that would be admitted if the cylinder were filled with fresh charge at the same pressure and temperature. The scavenging efficiency can be improved by increasing the pressure difference between the inlet and the outlet, increasing the duration of the scavenging process, and using a suitable scavenging method.

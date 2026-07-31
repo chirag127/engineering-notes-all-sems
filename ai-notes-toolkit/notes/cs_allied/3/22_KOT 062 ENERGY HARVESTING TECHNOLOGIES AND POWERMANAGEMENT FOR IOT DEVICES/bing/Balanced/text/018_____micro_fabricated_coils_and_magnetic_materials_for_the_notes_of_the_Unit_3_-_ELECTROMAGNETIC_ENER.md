@@ -1,0 +1,8 @@
+### Micro fabricated coils and magnetic materials
+
+- Micro fabricated coils are miniature coils that are made using micro fabrication techniques such as lithography, electroplating, etching, etc.  
+- Micro fabricated coils can be used for various applications such as magnetooptical data storage, electromagnetic energy harvesting, magnetic neurostimulation, etc.   
+- Micro fabricated coils can be classified into two types: planar and three-dimensional. Planar coils are fabricated on a single layer of substrate, while three-dimensional coils are fabricated on multiple layers of substrate or in a vertical direction. 
+- Micro fabricated coils can have different shapes such as spiral, square, circular, rectangular, etc. The shape of the coil affects its inductance, resistance, and magnetic field distribution. 
+- Micro fabricated coils can be integrated with magnetic materials to form magnetic circuits that enhance the performance of the coils. Magnetic materials can be either soft or hard, depending on their coercivity and remanence. Soft magnetic materials have low coercivity and high permeability, while hard magnetic materials have high coercivity and low permeability.  
+- Micro fabricated coils and magnetic materials have some advantages and disadvantages compared to conventional wound coils and bulk magnets. Some of the advantages are: smaller size, lower weight, higher integration, lower cost, and higher reliability. Some of the disadvantages are: lower power density, lower efficiency, higher heat generation, and higher fabrication complexity.

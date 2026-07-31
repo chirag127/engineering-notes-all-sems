@@ -1,0 +1,13 @@
+## Unit 3 - Overview of Cluster Computing
+
+- Cluster computing is a form of distributed computing that involves a set of computers that work together as a single system  .
+- Cluster computing provides solutions to solve difficult problems by providing faster computational speed, enhanced data integrity, and high availability .
+- Cluster computing can range from a simple two-node system of two personal computers to a very fast supercomputer that has a cluster architecture .
+- Cluster computing has each node set to perform the same task, controlled and scheduled by software. This is different from grid computing, which involves multiple heterogeneous systems that can perform different tasks.
+- Cluster computing typically consists of two types of nodes: head node and compute nodes. The head node is responsible for managing the cluster, such as distributing tasks, monitoring performance, and handling communication. The compute nodes are the ones that execute the tasks assigned by the head node.
+- Cluster computing can be classified into different types based on the degree of coupling, the communication pattern, the hardware and software configuration, and the application domain . Some common types of cluster computing are:
+
+  - High-performance computing (HPC) clusters: These clusters are designed to achieve high performance and scalability for computationally intensive applications, such as scientific simulations, data analysis, and machine learning .
+  - High-availability (HA) clusters: These clusters are designed to provide continuous service and fault tolerance for critical applications, such as databases, web servers, and email servers . They usually have redundant components and failover mechanisms to ensure reliability and availability .
+  - Load-balancing clusters: These clusters are designed to distribute the workload among multiple nodes to improve the response time and throughput of applications, such as web services, e-commerce, and online gaming . They usually have a load balancer that directs the incoming requests to the most suitable node based on the current load and performance .
+  - Data-parallel clusters: These clusters are designed to perform parallel processing of large-scale data sets, such as big data, data mining, and data warehousing . They usually have a distributed file system that stores and distributes the data across multiple nodes, and a parallel programming framework that coordinates the execution of the tasks on the nodes .

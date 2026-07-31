@@ -1,0 +1,23 @@
+### Cement; Constituents, manufacturing, hardening and setting, deterioration of cement, Plaster
+
+- Cement is a binding material that sets, hardens, and adheres to other materials to bind them together.
+- The main constituents of cement are calcium, silicon, aluminum, iron and other ingredients that are combined in different proportions depending on the type and grade of cement.
+- The manufacturing of cement involves four main stages: raw material preparation, clinker production, clinker grinding, and cement packing.
+  - Raw material preparation: The raw materials, such as limestone, clay, shale, sand, and iron ore, are crushed and blended to form a homogeneous mixture.
+  - Clinker production: The raw material mixture is heated in a rotary kiln at high temperatures (1400-1500°C) to form clinker, which is a nodular material consisting of calcium silicates and aluminates.
+  - Clinker grinding: The clinker is cooled and ground with gypsum and other additives to produce the final product of cement.
+  - Cement packing: The cement is stored in silos and packed in bags or bulk for distribution.
+- The hardening and setting of cement are due to the chemical reactions between the cement and water, known as hydration and hydrolysis.
+  - Hydration: The cement reacts with water to form hydrates, which are crystalline compounds that interlock and provide strength and durability to the cement paste.
+  - Hydrolysis: The cement reacts with water to form hydroxides, which are gel-like substances that fill the pores and provide cohesion and workability to the cement paste.
+- The setting and hardening of cement are influenced by several factors, such as the water-cement ratio, the temperature, the curing conditions, the type and amount of additives, and the presence of impurities.
+  - Water-cement ratio: The ratio of water to cement by weight affects the consistency, workability, and strength of the cement paste. A lower water-cement ratio results in a faster setting and hardening, but also a lower workability and higher risk of cracking. A higher water-cement ratio results in a slower setting and hardening, but also a higher workability and lower strength.
+  - Temperature: The temperature affects the rate and extent of hydration and hydrolysis. A higher temperature accelerates the setting and hardening, but also reduces the final strength and durability. A lower temperature slows down the setting and hardening, but also increases the final strength and durability.
+  - Curing conditions: The curing conditions refer to the moisture and temperature environment of the cement paste after setting. Proper curing is essential to ensure the hydration and hydrolysis continue and the cement paste reaches its full potential strength and durability. Curing can be done by applying water, steam, or chemicals to the cement paste, or by covering it with plastic or other materials to prevent moisture loss.
+  - Additives: Additives are substances that are added to the cement to modify its properties and performance. There are two main types of additives: admixtures and supplementary cementitious materials (SCMs).
+    - Admixtures: Admixtures are added to the cement during mixing to alter its setting time, workability, strength, durability, or other characteristics. Examples of admixtures are accelerators, retarders, water reducers, air entrainers, plasticizers, and superplasticizers.
+    - SCMs: SCMs are added to the cement during grinding to partially replace some of the cement clinker and improve its properties and performance. Examples of SCMs are fly ash, slag, silica fume, and natural pozzolans.
+  - Impurities: Impurities are substances that are present in the cement or water that can adversely affect the setting and hardening of the cement. Examples of impurities are sulfates, chlorides, alkalis, and organic matter.
+- The deterioration of cement is the loss of strength, durability, or appearance of the cement paste due to various causes, such as chemical attack, physical damage, or environmental factors.
+  - Chemical attack: Chemical attack is the reaction of the cement paste with external agents that can degrade its structure and composition. Examples of chemical agents are acids, sulfates, chlorides, carbon dioxide, and seawater.
+  - Physical damage: Physical damage is the cracking, spalling, or erosion of the cement paste due to external forces or stresses. Examples of physical forces or stresses are freeze-thaw cycles, thermal expansion and contraction, mechanical loading, abras

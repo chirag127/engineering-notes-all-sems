@@ -1,0 +1,9 @@
+### Quantum search algorithms
+
+Quantum search algorithms are quantum algorithms that can find a target element in a large unsorted database faster than classical algorithms. They are based on the principles of quantum superposition, interference and measurement.
+
+Some of the main quantum search algorithms are:
+
+- **Grover's algorithm**: This algorithm can find a unique element that satisfies a given condition in a database of N elements using only O(sqrt(N)) queries to the database, compared to O(N) queries for a classical algorithm. It uses two main operations: an oracle that marks the target element with a negative sign, and a diffusion operator that amplifies the amplitude of the target element. The algorithm iterates these operations until the probability of measuring the target element is high enough.
+- **Quantum walk algorithms**: These algorithms use quantum walks, which are quantum analogues of random walks, to explore the database. Quantum walks can be discrete or continuous, depending on whether the walker moves in discrete steps or in a continuous manner. Quantum walk algorithms can achieve quadratic or even exponential speedups over classical algorithms for some search problems, such as finding a marked vertex in a graph.
+- **Hybrid quantum-classical algorithms**: These algorithms combine quantum and classical components to perform search tasks. For example, one can use a quantum algorithm to generate a candidate solution, and then use a classical algorithm to verify and refine it. This can reduce the quantum resources and the error rate of the algorithm. Hybrid algorithms can also exploit the advantages of different quantum models, such as quantum annealing or quantum machine learning.

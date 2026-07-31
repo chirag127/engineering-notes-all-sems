@@ -1,0 +1,21 @@
+## Unit 5 - Software Maintenance and Software Project Management
+
+- Software maintenance is the process of modifying and updating software after its delivery to correct faults, improve performance, or adapt to changing environments.
+- Software project management is the discipline of planning, organizing, monitoring, and controlling software development projects to achieve specific goals within constraints such as time, budget, scope, and quality.
+- The main phases of software project management are:
+  - Initiation: Define the project objectives, scope, deliverables, stakeholders, and feasibility.
+  - Planning: Establish the project plan, schedule, budget, resources, risks, and quality standards.
+  - Execution: Implement the project activities, tasks, and deliverables according to the plan.
+  - Monitoring and Control: Track the project progress, performance, issues, and changes, and take corrective actions as needed.
+  - Closure: Finalize the project, deliver the product, evaluate the outcomes, and document the lessons learned.
+- The main activities of software maintenance are:
+  - Corrective maintenance: Fix errors or defects in the software that affect its functionality or performance.
+  - Adaptive maintenance: Adapt the software to new or changing requirements, environments, or platforms.
+  - Perfective maintenance: Enhance the software by adding new features, improving usability, or optimizing performance.
+  - Preventive maintenance: Prevent future problems or errors by improving the software design, structure, or documentation.
+- The main challenges of software project management and maintenance are:
+  - Managing the complexity and uncertainty of software development processes and technologies.
+  - Balancing the trade-offs between the competing demands of quality, cost, time, and scope.
+  - Communicating and collaborating effectively with the project team, stakeholders, and customers.
+  - Managing the risks and changes that may arise during the project lifecycle.
+  - Ensuring the alignment of the software product with the business needs and expectations.

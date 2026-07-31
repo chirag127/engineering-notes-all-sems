@@ -1,0 +1,31 @@
+### Interrupt and Machine Cycle
+
+- An interrupt is a signal that causes the microprocessor to temporarily stop its current program execution and switch to a predefined subroutine called an interrupt service routine (ISR).
+- The ISR performs the necessary task related to the interrupt source and then returns to the main program.
+- Interrupts can be classified into two types: hardware interrupts and software interrupts.
+- Hardware interrupts are initiated by external devices that are connected to the microprocessor through the interrupt pins.
+- Software interrupts are instructions that are embedded in the program code and are executed by the microprocessor.
+- The 8085 microprocessor has five hardware interrupt pins: INTR, RST 7.5, RST 6.5, RST 5.5, and TRAP.
+- The 8085 microprocessor has eight software interrupt instructions: RST 0, RST 1, RST 2, RST 3, RST 4, RST 5, RST 6, and RST 7.
+- The RST instructions cause the microprocessor to jump to a fixed memory location, which is 8 times the value of the RST number. For example, RST 5 causes the microprocessor to jump to 40H (8 x 5).
+- The INTR pin is a maskable interrupt, which means it can be enabled or disabled by the software using the EI (enable interrupt) and DI (disable interrupt) instructions.
+- The RST 7.5, RST 6.5, and RST 5.5 pins are also maskable interrupts, but they have a priority order. RST 7.5 has the highest priority, followed by RST 6.5, and then RST 5.5.
+- The TRAP pin is a non-maskable interrupt, which means it cannot be disabled by the software. It has the highest priority among all the interrupts and is used for critical situations such as power failure or emergency stop.
+- When an interrupt is accepted by the microprocessor, it generates an interrupt acknowledge signal (INTA) to inform the interrupt source.
+- The interrupt source then sends an instruction to the microprocessor, which is usually a CALL or a RST instruction, to execute the ISR.
+- The microprocessor then saves the address of the next instruction on the stack and jumps to the ISR.
+- After completing the ISR, the microprocessor returns to the main program by popping the address from the stack and executing a RET (return) instruction.
+
+- A machine cycle is the basic operation performed by the microprocessor to access the memory or the I/O devices.
+- A machine cycle consists of one or more clock cycles, where each clock cycle is the time taken by the microprocessor to complete one full pulse of the clock signal.
+- The 8085 microprocessor has six types of machine cycles: opcode fetch, memory read, memory write, I/O read, I/O write, and interrupt acknowledge.
+- The opcode fetch machine cycle is used to fetch the opcode of an instruction from the memory. It consists of four clock cycles (T1, T2, T3, T4).
+- The memory read machine cycle is used to read data from the memory. It consists of three clock cycles (T1, T2, T3).
+- The memory write machine cycle is used to write data to the memory. It also consists of three clock cycles (T1, T2, T3).
+- The I/O read machine cycle is used to read data from an I/O device. It consists of four clock cycles (T1, T2, T3, T4).
+- The I/O write machine cycle is used to write data to an I/O device. It also consists of four clock cycles (T1, T2, T3, T4).
+- The interrupt acknowledge machine cycle is used to acknowledge an interrupt request from an external device. It consists of three or more clock cycles (T1, T2, T3, ...).
+- The number of clock cycles in an interrupt acknowledge machine cycle depends on the type of interrupt and the instruction sent by the interrupt source.
+- For example, if the interrupt source sends a RST instruction, the interrupt acknowledge machine cycle consists of six clock cycles (T1, T2, T3, T4, T5, T6).
+- If the interrupt source sends a CALL instruction, the interrupt acknowledge machine cycle consists of nine clock cycles (T1, T2, T3, T4, T5, T6, T7, T8, T9).
+- The timing diagram of a

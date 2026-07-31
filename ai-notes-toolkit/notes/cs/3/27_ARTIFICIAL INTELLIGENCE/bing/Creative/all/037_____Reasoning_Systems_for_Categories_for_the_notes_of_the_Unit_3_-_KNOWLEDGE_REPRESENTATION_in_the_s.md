@@ -1,0 +1,15 @@
+# Reasoning Systems for Categories
+
+Reasoning is the process of drawing logical conclusions from given facts and premises. It is an essential component of artificial intelligence, as it enables intelligent agents to perform complex tasks and solve problems in dynamic environments. Reasoning systems are the software tools that implement various types of reasoning methods and algorithms.
+
+In artificial intelligence, reasoning can be divided into the following categories :
+
+- **Deductive reasoning**: It is the process of deriving valid conclusions from given premises using rules of logic. For example, if we know that all humans are mortal and Socrates is a human, we can deduce that Socrates is mortal. Deductive reasoning is sound and certain, but it cannot generate new knowledge or handle uncertainty.
+- **Inductive reasoning**: It is the process of inferring general rules or patterns from specific observations or examples. For example, if we observe that the sun rises every day, we can induce that the sun will rise tomorrow. Inductive reasoning is useful for learning and discovery, but it is not guaranteed to be correct or complete, as it can be affected by noise or bias.
+- **Abductive reasoning**: It is the process of finding the best explanation for a given observation or phenomenon. For example, if we see smoke, we can abduce that there is fire. Abductive reasoning is helpful for diagnosis and hypothesis generation, but it is not conclusive or definitive, as there can be multiple possible explanations or alternative causes.
+- **Common sense reasoning**: It is the process of using everyday knowledge and common sense to reason about the world. For example, if we see a person walking on the street, we can assume that they have legs and a head. Common sense reasoning is necessary for natural language understanding and human-computer interaction, but it is difficult to formalize or represent, as it is often implicit or context-dependent.
+- **Monotonic reasoning**: It is the process of reasoning that preserves the validity of previous conclusions when new facts or premises are added. For example, if we know that A implies B, and we learn that A is true, we can still conclude that B is true. Monotonic reasoning is simple and consistent, but it is not realistic or flexible, as it cannot handle exceptions or contradictions.
+- **Non-monotonic reasoning**: It is the process of reasoning that allows the revision or withdrawal of previous conclusions when new facts or premises are added. For example, if we know that A implies B, and we learn that A is true, we can conclude that B is true. But if we later learn that C is true, and C implies not B, we have to retract our previous conclusion and conclude that B is false. Non-monotonic reasoning is more realistic and flexible, but it is also more complex and inconsistent, as it can lead to conflicts or cycles.
+
+: Reasoning in Artificial Intelligence - Javatpoint
+: Reasoning in Artificial intelligence, Reasoning:,Types of Reasoning ...

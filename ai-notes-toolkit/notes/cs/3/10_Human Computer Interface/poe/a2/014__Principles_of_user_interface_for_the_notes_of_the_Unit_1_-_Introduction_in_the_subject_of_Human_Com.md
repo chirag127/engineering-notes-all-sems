@@ -1,0 +1,12 @@
+ Here is the content in Markdown format without any emojis or external links:
+
+### Principles of user interface for the notes of the Unit 1 - Introduction in the subject of Human Computer Interface.
+
+1. Simplicity: The interface should be simple and easy to understand. It should not be complex or confusing for the user. The lesser the options or choices for the user, the simpler the interface.
+2. Consistency: The interface should be consistent in its design, layout, colour scheme, terminology, etc. This helps the user get familiar with the interface quickly and navigate through it easily. Lack of consistency leads to confusion and errors.
+3. Feedback: The interface should provide appropriate feedback to the user about the actions performed by them. This could be in the form of sounds, visual indicators, messages, etc. Proper feedback helps the user understand the effect of their input and take necessary next steps.
+4. Error Prevention: The interface should be designed in a way to prevent errors as far as possible. This could be by providing defaults, minimizing options, checking input values, etc. If errors do occur, the system should provide a proper error message and help the user recover from the error.
+5. Recognition rather than recall: The interface should be designed such that the user does not have to memorize information to use the system. The options or controls should be visible and recognizable to the user. The use of meaningful labels, icons, and visuals can aid recognition.
+6. Flexibility: The interface should provide flexibility to its users to complete their tasks. This could be in terms of changing settings, customizing the layout or design, providing multiple ways to complete a task, etc. Flexibility enhances the usability and user experience.
+7. User control: The user should be in control of the interface and the tasks being performed. This means providing options to undo, redo, repeat, exit, etc. The user should be able to navigate the interface and complete tasks at their own pace. This enhances satisfaction and comfort level of the user.
+8. Minimalist design: The interface should have a minimalist design with only essential options and controls visible. This avoids clutter and confusion and makes it easy to use. Only the most relevant content and functions should be included. Unwanted graphics and colors should be avoided.

@@ -1,0 +1,34 @@
+### Rapid Application Development in Software Project Management
+
+- Rapid Application Development (RAD) is a concept that products can be developed faster and of higher quality through:
+  - Gathering requirements using workshops or focus groups
+  - Prototyping and early, reiterative user testing of designs
+  - The re-use of software components
+  - A rigidly paced schedule that defers design improvements to the next product version
+  - Less formality in reviews and other team communication
+- RAD is a subset of Agile development that enables your team to develop software quickly and efficiently.
+- RAD typically involves four phases:
+  - Requirements planning: In this phase, the project scope, objectives, and resources are defined and agreed upon by the stakeholders.
+  - User design: In this phase, the users work with developers to create prototypes and mockups of the desired features and functionality of the product.
+  - Construction: In this phase, the developers use the prototypes and feedback from the users to build the actual product, using pre-built, reusable code libraries and frameworks.
+  - Cutover: In this phase, the product is tested, deployed, and integrated with the existing systems, and any issues or bugs are fixed.
+- RAD is suitable for projects that have:
+  - A clear business objective and a well-defined market
+  - A high level of user involvement and collaboration
+  - A flexible and adaptable scope and design
+  - A short development time frame and a fast delivery cycle
+- RAD is not suitable for projects that have:
+  - A complex or uncertain business logic or technical architecture
+  - A low level of user feedback or availability
+  - A rigid or fixed scope and design
+  - A long development time frame and a slow delivery cycle
+- Some of the benefits of RAD are:
+  - Improved customer satisfaction and retention
+  - Reduced development costs and risks
+  - Increased productivity and quality
+  - Enhanced innovation and creativity
+- Some of the challenges of RAD are:
+  - Managing changing requirements and expectations
+  - Maintaining communication and coordination among stakeholders
+  - Ensuring adequate testing and documentation
+  - Balancing speed and quality

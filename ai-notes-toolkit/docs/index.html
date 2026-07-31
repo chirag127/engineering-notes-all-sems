@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Notes Toolkit</title>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --border: #2a2d3a;
+      --accent: #6c8ef7;
+      --accent2: #a78bfa;
+      --text: #e2e4f0;
+      --muted: #8891b0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 3rem 1.5rem;
+    }
+    header {
+      text-align: center;
+      max-width: 700px;
+      margin-bottom: 3rem;
+    }
+    h1 {
+      font-size: 2.4rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 0.75rem;
+    }
+    .tagline {
+      color: var(--muted);
+      font-size: 1.05rem;
+      line-height: 1.6;
+    }
+    .badges {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-top: 1.25rem;
+    }
+    .badges a img { height: 22px; }
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.25rem;
+      max-width: 900px;
+      width: 100%;
+    }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.5rem;
+    }
+    .card h2 {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--accent);
+      margin-bottom: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    .card ul {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.45rem;
+    }
+    .card ul li {
+      font-size: 0.9rem;
+      color: var(--muted);
+      padding-left: 1rem;
+      position: relative;
+    }
+    .card ul li::before {
+      content: '›';
+      position: absolute;
+      left: 0;
+      color: var(--accent2);
+    }
+    code {
+      font-family: 'Fira Code', 'Consolas', monospace;
+      background: rgba(108,142,247,0.1);
+      border-radius: 4px;
+      padding: 0.1em 0.35em;
+      font-size: 0.85em;
+      color: var(--accent2);
+    }
+    .cta {
+      margin-top: 2.5rem;
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .btn {
+      padding: 0.65rem 1.5rem;
+      border-radius: 8px;
+      font-size: 0.95rem;
+      font-weight: 600;
+      text-decoration: none;
+      transition: opacity 0.2s;
+    }
+    .btn:hover { opacity: 0.85; }
+    .btn-primary {
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      color: #fff;
+    }
+    .btn-outline {
+      border: 1px solid var(--border);
+      color: var(--text);
+      background: var(--surface);
+    }
+    footer {
+      margin-top: 4rem;
+      color: var(--muted);
+      font-size: 0.8rem;
+      text-align: center;
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AI Notes Toolkit</h1>
+    <p class="tagline">Python scripts for generating AI-powered study notes using Bing and POE APIs.<br>Includes thousands of CS engineering notes in markdown format.</p>
+    <div class="badges">
+      <a href="https://github.com/chirag127/ai-notes-toolkit"><img src="https://img.shields.io/github/stars/chirag127/ai-notes-toolkit?style=flat-square" alt="stars"></a>
+      <a href="https://github.com/chirag127/ai-notes-toolkit/blob/main/LICENSE"><img src="https://img.shields.io/github/license/chirag127/ai-notes-toolkit?style=flat-square" alt="license"></a>
+      <a href="https://python.org"><img src="https://img.shields.io/badge/python-3.10+-blue?style=flat-square" alt="python"></a>
+    </div>
+  </header>
+
+  <div class="cards">
+    <div class="card">
+      <h2>Note Generators</h2>
+      <ul>
+        <li><code>01_bing_generator.py</code> — Bing AI notes</li>
+        <li><code>02_poe_generator.py</code> — POE AI notes</li>
+        <li><code>poe_client.py</code> — POE API client</li>
+        <li><code>download_question_papers.py</code> — fetch QPs</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h2>Processing Scripts</h2>
+      <ul>
+        <li><code>03_remove_links.py</code> — strip links</li>
+        <li><code>05_add_odd_lines.py</code> — process files</li>
+        <li><code>06_merge_markdowns.py</code> — merge MD</li>
+        <li><code>merge_markdowns_v2.py</code> — alternate merger</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h2>PDF Utilities</h2>
+      <ul>
+        <li><code>07_markdown_to_pdf.py</code> — MD to PDF</li>
+        <li><code>16_pdf_ocr.py</code> — OCR PDFs</li>
+        <li><code>merge_pdfs.py</code> — merge PDFs</li>
+        <li><code>merge_pdf_single.py</code> — single merge</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h2>Generated Notes</h2>
+      <ul>
+        <li>Software Engineering</li>
+        <li>CS allied subjects</li>
+        <li>Bing: Balanced / Creative / Precise</li>
+        <li>POE: capybara / chinchilla / nutria</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="cta">
+    <a class="btn btn-primary" href="https://github.com/chirag127/ai-notes-toolkit">View on GitHub</a>
+    <a class="btn btn-outline" href="https://github.com/chirag127/ai-notes-toolkit/tree/main/notes">Browse Notes</a>
+  </div>
+
+  <footer>
+    MIT License &mdash; <a href="https://github.com/chirag127">chirag127</a>
+  </footer>
+</body>
+</html>

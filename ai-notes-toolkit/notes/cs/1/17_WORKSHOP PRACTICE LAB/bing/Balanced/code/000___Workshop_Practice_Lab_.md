@@ -1,0 +1,31 @@
+# Workshop Practice Lab:
+
+- Workshop practice lab is a common theory/lab course for all engineering students in the first and second semester  .
+- The objective of this lab is to get a hands-on knowledge of several workshop practices like carpentry, fitting, welding, machining, etc. and learn safety regulations to be maintained in a shop floor.
+- Workshop practice is the backbone of the real industrial environment which helps to develop and enhance relevant technical hand skills required by the technician working in the various engineering industries and workshops.
+- The lab syllabus may vary depending on the university or college, but some of the common experiments are  :
+  - Introduction to workshop tools and safety precautions
+  - Carpentry: making various types of joints, patterns, and models
+  - Fitting: making various types of fits, keys, and couplings
+  - Welding: performing various types of welding operations, such as arc welding, gas welding, spot welding, etc.
+  - Machining: operating various types of machines, such as lathe, milling, drilling, grinding, etc.
+  - Sheet metal work: making various types of products, such as trays, funnels, containers, etc.
+  - Plumbing: making various types of pipe joints, valves, taps, etc.
+  - Electrical and electronics: wiring, soldering, testing, and repairing of electrical and electronic circuits and devices
+- The lab work consists of four parts :
+  - A pre-lab homework that the student must complete before coming to the lab
+  - The lab itself, answering all the warm-ups and predictions, and attaching data, results, graphs, and analysis
+  - A post-lab report that the student must submit after the lab
+  - A viva or oral examination that the student must attend to demonstrate their understanding and skills
+- The lab work is evaluated based on the following criteria :
+  - Attendance and participation
+  - Pre-lab homework
+  - Lab performance and results
+  - Post-lab report
+  - Viva or oral examination
+- The lab work is expected to develop the following outcomes in the student:
+  - Ability to use various hand tools and machines in a safe and efficient manner
+  - Ability to perform various workshop operations and processes with accuracy and precision
+  - Ability to apply basic engineering principles and concepts to solve practical problems
+  - Ability to communicate effectively and work in a team
+  - Ability to appreciate the importance and relevance of workshop practice in engineering and technology

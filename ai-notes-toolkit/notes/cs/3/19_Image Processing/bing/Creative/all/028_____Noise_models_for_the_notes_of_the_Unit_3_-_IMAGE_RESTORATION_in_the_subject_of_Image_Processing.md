@@ -1,0 +1,12 @@
+# Noise models for the notes of the Unit 3 - IMAGE RESTORATION in the subject of Image Processing
+
+- Noise is a random signal that is added to the original image during image acquisition, coding, transmission, or processing  .
+- Noise degrades the quality and information content of the image, and makes it difficult to perform tasks such as segmentation, feature extraction, or recognition .
+- Noise models are mathematical descriptions of the characteristics and statistics of the noise signal, such as its probability distribution, mean, variance, or correlation  .
+- Noise models are useful for image restoration, which is the process of recovering the original image from the noisy image by applying filters or other techniques  .
+- Some common types of noise models in image processing are   :
+
+  - Gaussian noise: This is a noise model that follows a normal or Gaussian distribution, with a constant mean and variance. It is caused by random fluctuations in the sensor or electronic components of the imaging system. It affects all pixels in the image equally, and can be reduced by using linear filters such as mean or median filters  .
+  - Impulse noise: This is a noise model that consists of isolated pixels that have very high or low values compared to their neighbors. It is caused by errors in the transmission or storage of the image, such as bit errors or dust particles. It affects only a small fraction of pixels in the image, and can be reduced by using nonlinear filters such as median or rank-order filters  .
+  - Poisson noise: This is a noise model that follows a Poisson distribution, with a mean and variance that depend on the intensity of the image. It is caused by the discrete nature of the photons that are detected by the sensor. It affects the dark regions of the image more than the bright regions, and can be reduced by using nonlinear filters such as adaptive or homomorphic filters   .
+  - Speckle noise: This is a noise model that consists of multiplicative noise that is correlated with the image. It is caused by the interference of coherent waves that are reflected or scattered by the object. It affects the textured or smooth regions of the image more than the edges or details, and can be reduced by using nonlinear filters such as wiener or wavelet filters   .

@@ -1,0 +1,8 @@
+### Dim Style for the Notes of the Unit 5 - Introduction to Computer Aided Design in the Subject of Engineering Graphics & Design Lab
+
+- Dim style, short for dimension style, is a feature in computer-aided design (CAD) software that allows users to create and customize the appearance of dimensions in their drawings.
+- A dimension is a numerical value that represents the size or position of an object in a drawing. Dimensions are typically added to drawings to provide information about the size and location of objects.
+- In CAD software, users can create and customize dimension styles to control the appearance of dimensions in their drawings. This includes settings such as the size and style of dimension text, the placement of dimension lines, and the appearance of dimension arrows.
+- To create a new dimension style in CAD software, users typically access the dimension style manager, which allows them to create and modify dimension styles. Once a dimension style is created, it can be applied to dimensions in the drawing.
+- Using dimension styles can help ensure consistency in the appearance of dimensions across multiple drawings, and can save time by allowing users to quickly apply a pre-defined style to dimensions.
+- In the context of Engineering Graphics & Design Lab, understanding and using dimension styles is an important skill for creating clear and accurate technical drawings.

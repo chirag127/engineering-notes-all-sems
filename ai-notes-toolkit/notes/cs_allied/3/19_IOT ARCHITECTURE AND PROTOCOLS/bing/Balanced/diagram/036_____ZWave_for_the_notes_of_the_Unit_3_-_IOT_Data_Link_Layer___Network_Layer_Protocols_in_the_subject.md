@@ -1,0 +1,14 @@
+### ZWave
+
+ZWave is a wireless communication protocol designed for smart home and IoT devices. It operates on the low-frequency 800 to 900 MHz band, which avoids interference with the 2.4 GHz band where Wi-Fi and Bluetooth operate. ZWave supports encryption, mesh networking, low power consumption, and interoperability among different vendors. Some of the features and characteristics of ZWave are:
+
+- ZWave was developed by Zensys, a Danish company, in 1999.
+- ZWave is a proprietary protocol owned by Sigma Designs, Inc. There is an open source implementation of ZWave protocol stack called open-zwave, but it does not support security layer.
+- ZWave uses frequency shift keying (FSK) modulation and Gaussian frequency shift keying (GFSK) for data transmission. The data rate is 9.6 kbps in the US and 40 kbps in Europe.
+- ZWave supports up to 232 nodes in a network, and each node can act as a repeater to extend the range and reliability of the network. The maximum distance between two nodes is about 100 meters, depending on the environment .
+- ZWave devices are categorized into controllers and slaves. Controllers initiate and manage the communication, while slaves respond to the commands from the controllers. There are different types of controllers, such as primary, secondary, inclusion, portable, and bridge controllers.
+- ZWave devices use a common application layer that defines the commands and parameters for different device classes, such as sensors, switches, thermostats, etc. This enables interoperability and compatibility among different vendors and products .
+- ZWave devices use a network layer that handles routing, addressing, and error correction. ZWave uses source routing, which means that the controller specifies the entire route for each message. ZWave also supports network-wide inclusion, which allows adding new devices to the network without physically accessing the primary controller.
+- ZWave devices use a transport layer that provides security and reliability. ZWave supports AES-128 encryption for secure communication, and uses acknowledgments and retries for error detection and correction .
+- ZWave devices use a physical layer that defines the radio frequency, modulation, and power level. ZWave operates on different frequency bands depending on the region, such as 908.42 MHz in the US, 868.42 MHz in Europe, and 921.42 MHz in Australia .
+- ZWave is suitable for low-power and low-data rate applications, such as home automation, security, lighting, climate control, etc. ZWave devices can operate on batteries for several years, and can be controlled remotely via smartphones or web browsers .

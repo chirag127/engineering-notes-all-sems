@@ -1,0 +1,12 @@
+### Solution to Byzantine Agreement problem for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- The Byzantine agreement problem is a fundamental problem in fault tolerant distributed computing, where a set of parties in a distributed environment need to agree on a value even if some of the parties are corrupted.
+- The problem was first defined by Lamport and inspired by a hypothetical scenario of several divisions of the Byzantine army camped outside an enemy city, each division commanded by its own general. The generals can communicate with one another only by messenger. After observing the enemy, they must decide upon a common plan of action.
+- The problem is that some of the generals may be traitors, who try to prevent the loyal generals from reaching agreement. The traitors may send conflicting messages to different generals, or send no messages at all. The loyal generals need a secure way to come to agreement on a plan (known as consensus) and carry out their chosen plan (known as coordination).
+- A solution to the Byzantine agreement problem is a protocol that guarantees that all loyal generals agree on the same value, and that the value is the initial value of some loyal general. The protocol should work for any number of traitors, as long as they are less than one third of the total number of generals.
+- One possible solution to the Byzantine agreement problem is the following:
+  - The source general broadcasts its initial value to all other generals.
+  - Each general who receives the message from the source general forwards it to all other generals, except the source general.
+  - Each general who receives at least n/3 + 1 identical messages from different generals, including the source general, adopts that value as its decision value. Otherwise, it adopts a default value, such as 0.
+  - The protocol terminates after two rounds of message passing.
+- This solution ensures that all loyal generals agree on the same value, and that the value is the initial value of the source general, if the source general is loyal. The protocol can tolerate up to n/3 - 1 traitors, where n is the total number of generals. The protocol requires O(n^2) messages and O(1) rounds of communication.

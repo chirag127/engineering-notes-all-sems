@@ -1,0 +1,22 @@
+### ICMP
+
+- ICMP stands for Internet Control Message Protocol   .
+- It is a network layer protocol used by network devices to communicate error information or updates to other network devices  .
+- It is part of the Internet protocol suite as defined in RFC 792.
+- ICMP messages are typically used for diagnostic or control purposes or generated in response to errors in IP operations (as specified in RFC 1122).
+- ICMP messages are encapsulated within IP datagrams, so they are routed just like IP packets.
+- ICMP messages have a type and a code field, which specify the reason and the details of the message.
+- Some common ICMP message types are:
+  - Echo request and echo reply: used to test the reachability and round-trip time of a destination . This is the basis of the ping utility.
+  - Destination unreachable: used to inform the source that the destination or the route to the destination is unreachable for some reason . There are different codes for different reasons, such as network unreachable, host unreachable, protocol unreachable, port unreachable, etc.
+  - Time exceeded: used to inform the source that the datagram has expired in transit, either due to the hop limit (TTL) field reaching zero or due to a reassembly timeout .
+  - Parameter problem: used to inform the source that the datagram has a header error, such as a wrong checksum, an invalid option, or a missing required option .
+  - Source quench: used to inform the source that the datagram has been discarded due to congestion at the router or the destination host . This is a way of implementing flow control.
+  - Redirect: used to inform the source that there is a better route to the destination, and to update its routing table accordingly .
+  - Router advertisement and router solicitation: used to discover the presence and the address of routers on a link . This is part of the ICMP Router Discovery Protocol (IRDP).
+  - Timestamp request and timestamp reply: used to measure the time difference between the source and the destination .
+- ICMP is an important aspect of the error reporting and troubleshooting mechanisms of the Internet .
+- ICMP is not reliable, meaning that it does not guarantee the delivery or the order of the messages .
+- ICMP is also not secure, meaning that it does not provide any authentication or encryption of the messages .
+- ICMP can be exploited by attackers to launch denial-of-service (DoS) attacks, such as ping flood, ping of death, or ICMP tunneling.
+- ICMP can be filtered or blocked by firewalls or routers to prevent or mitigate such attacks. However, this may also affect the normal functioning of the network.

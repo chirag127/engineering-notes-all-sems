@@ -1,0 +1,9 @@
+### Electronic signature certificates for the notes of the Unit 5 - Cyber Laws and Authorities in the subject of CYBER FORENSIC ANALYTICS
+
+- An electronic signature is a way of representing one's identity and consent in an electronic form, such as a typed name, a scanned image of a handwritten signature, a biometric identifier, or a digital code .
+- An electronic signature certificate is a digital document that contains information about the identity and public key of the signer, and is issued by a trusted authority called a certification authority (CA)  .
+- A digital signature is a type of electronic signature that uses a mathematical scheme to verify the authenticity and integrity of a digital document or message, and to prevent repudiation by the signer  .
+- A digital signature is created by applying a private key, which is known only to the signer, to a hash or digest of the document or message, and is verified by using the corresponding public key, which is known to anyone  .
+- A digital signature certificate is a type of electronic signature certificate that contains a digital signature of the CA, and is used to validate the identity and public key of the signer  .
+- Electronic signature certificates are governed by various laws and regulations in different countries and regions, such as the Information Technology Act, 2000 in India, the Uniform Electronic Transactions Act (UETA) and the Electronic Signatures in Global and National Commerce Act (ESIGN) in the United States, and the eIDAS Regulation in the European Union   .
+- Electronic signature certificates are used for various purposes, such as signing contracts, invoices, tax returns, legal documents, and online transactions, and are essential for ensuring the security, validity, and enforceability of electronic records     .

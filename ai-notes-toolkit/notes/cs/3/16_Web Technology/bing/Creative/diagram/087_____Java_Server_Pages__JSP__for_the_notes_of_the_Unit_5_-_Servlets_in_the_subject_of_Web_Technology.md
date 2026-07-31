@@ -1,0 +1,31 @@
+### Java Server Pages (JSP)
+
+- Java Server Pages (JSP) is a server-side technology for developing dynamic web pages.
+- JSP allows us to embed Java code and logic into HTML, XML, or other types of documents.
+- JSP is based on Java Servlets, which are Java classes that run on a web server and handle HTTP requests and responses.
+- JSP has access to the entire family of Java APIs, including the JDBC API to access databases.
+- JSP has a life cycle that consists of the following phases:
+  - Translation: The JSP page is translated into a Java servlet class by the web container.
+  - Compilation: The servlet class is compiled into a bytecode file by the Java compiler.
+  - Loading: The bytecode file is loaded into the web server's memory by the class loader.
+  - Initialization: The servlet's init() method is invoked by the web container to perform any initialization tasks.
+  - Request processing: The servlet's service() method is invoked by the web container to handle each HTTP request and generate a response.
+  - Destruction: The servlet's destroy() method is invoked by the web container to perform any cleanup tasks before the servlet is removed from memory.
+- JSP has various elements that can be used to create dynamic content, such as:
+  - Directives: JSP directives are used to control the processing of a JSP page, such as setting the page attributes, importing packages, defining tag libraries, etc.
+  - Scriptlets: JSP scriptlets are used to write Java code in a JSP page, such as declaring variables, performing calculations, calling methods, etc.
+  - Expressions: JSP expressions are used to evaluate Java expressions and insert their values into the output stream, such as displaying the current date, accessing request parameters, etc.
+  - Declarations: JSP declarations are used to declare variables and methods that can be used by the scriptlets and expressions in a JSP page, such as defining a utility method, creating a custom object, etc.
+  - Comments: JSP comments are used to add notes or explanations to a JSP page, such as describing the purpose of a page, documenting the code, etc.
+  - Action tags: JSP action tags are used to perform an action during the request processing phase of the JSP life cycle, such as including another page, forwarding the request, creating a JavaBean, etc.
+  - Custom tags: JSP custom tags are used to create reusable components that can be invoked from a JSP page, such as displaying a table, validating a form, etc.
+- JSP also provides a set of implicit objects that are created by the web container and can be accessed by the JSP elements, such as:
+  - request: The request object represents the HTTP request sent by the client, and provides methods to access the request parameters, headers, attributes, etc.
+  - response: The response object represents the HTTP response sent by the server, and provides methods to set the response status, headers, content type, etc.
+  - out: The out object represents the output stream that is used to write the response content, and provides methods to print, flush, clear, etc.
+  - session: The session object represents the HTTP session that is maintained between the client and the server, and provides methods to store, retrieve, and remove session attributes, etc.
+  - application: The application object represents the web application context that is shared by all the servlets and JSP pages in the web application, and provides methods to store, retrieve, and remove application attributes, etc.
+  - config: The config object represents the servlet configuration that is defined by the web.xml file, and provides methods to access the initialization parameters, servlet context, etc.
+  - page: The page object represents the current JSP page instance, and provides methods to access the page attributes, servlet context, etc.
+  - pageContext: The pageContext object represents the page context that is created for each JSP page request, and provides methods to access the page, request, response, session, application, out, config, and exception objects, etc.
+  - exception: The exception object represents the exception that is thrown during the execution of a JSP page, and provides methods to access the exception message, type, cause, stack trace, etc.

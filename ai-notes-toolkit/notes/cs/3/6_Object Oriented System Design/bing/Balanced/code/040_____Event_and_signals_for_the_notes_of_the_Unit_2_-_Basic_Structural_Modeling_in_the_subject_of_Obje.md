@@ -1,0 +1,25 @@
+### Event and signals
+
+- An event is something that happens during the execution of a system that triggers a change in the state or behavior of an object or a set of objects .
+- Events can be external or internal .
+  - External events are those that pass between the system and its actors (users or other systems).
+  - Internal events are those that pass among the objects that live within the system.
+- There are four kinds of events: signals, calls, the passing of time, and a change in state .
+  - A signal is an event that represents the specification of an asynchronous stimulus communicated between instances  .
+    - A signal is dispatched (thrown) by one object and then received (caught) by another object.
+    - A signal event is the event of sending or receiving a signal.
+    - A signal is represented by a dashed arrow with a filled arrowhead in a sequence diagram.
+    - A signal does not imply a return of control from the sender to the receiver.
+    - A signal can be used to model events that occur outside the system, such as user inputs or sensor readings.
+  - A call is an event that represents the invocation of an operation on an object by another object .
+    - A call is, in general, synchronous. This means that when an object invokes an operation on another object, control passes from the sender to the receiver until the operation is completed, whereupon control returns to the sender.
+    - A call event is the event of invoking or executing an operation.
+    - A call is represented by a solid arrow with a filled arrowhead in a sequence diagram.
+    - A call implies a return of control from the sender to the receiver and back.
+    - A call can be used to model the interactions between objects within the system, such as method calls or message passing.
+  - A time event is an event that occurs after a specified period of time has elapsed .
+    - A time event is represented by a stopwatch icon in a sequence diagram.
+    - A time event can be used to model timeouts, delays, or periodic actions.
+  - A change event is an event that occurs when a Boolean expression becomes true .
+    - A change event is represented by a lightning bolt icon in a sequence diagram.
+    - A change event can be used to model state transitions, guards, or triggers.

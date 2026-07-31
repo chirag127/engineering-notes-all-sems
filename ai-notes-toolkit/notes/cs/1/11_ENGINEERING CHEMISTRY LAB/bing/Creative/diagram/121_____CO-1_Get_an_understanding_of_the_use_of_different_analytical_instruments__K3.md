@@ -1,0 +1,11 @@
+### CO-1 Get an understanding of the use of different analytical instruments. K3
+
+- Analytical instruments are devices that measure, analyze, or monitor physical, chemical, or biological properties of samples, materials, or systems.
+- Different analytical instruments have different applications, principles, and techniques, depending on the type and nature of the analysis required.
+- Some examples of analytical instruments are:
+
+  - Spectrometers: measure the interaction of electromagnetic radiation with matter, such as absorption, emission, fluorescence, or scattering. They can be used to identify the composition, structure, or concentration of substances, or to measure physical parameters like temperature, pressure, or velocity.
+  - Chromatographs: separate the components of a mixture based on their affinity to a stationary phase (such as a column, a plate, or a paper) and a mobile phase (such as a gas, a liquid, or a supercritical fluid). They can be used to purify, quantify, or identify the components of a mixture, or to study their interactions or reactions.
+  - Mass spectrometers: measure the mass-to-charge ratio of ions generated from a sample by ionization methods, such as electron impact, chemical ionization, electrospray, or laser desorption. They can be used to determine the molecular weight, formula, structure, or isotopic abundance of molecules, or to detect trace elements or contaminants.
+  - Microscopes: magnify the image of small or microscopic objects, such as cells, tissues, crystals, or nanomaterials, using visible light, electrons, or other forms of radiation. They can be used to observe the morphology, structure, or function of objects, or to manipulate them at the nanoscale.
+  - Electrochemical instruments: measure the electrical properties of a sample, such as potential, current, resistance, capacitance, or impedance, in relation to a chemical reaction or process. They can be used to study the kinetics, thermodynamics, or mechanisms of electrochemical reactions, or to monitor the concentration or activity of electroactive species.

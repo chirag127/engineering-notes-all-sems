@@ -1,0 +1,32 @@
+### Pipelining
+
+- Pipelining is a technique for breaking down a sequential process into various sub-operations and executing each sub-operation in its own dedicated segment that runs in parallel with all other segments.
+- Pipelining is used to increase the throughput and performance of a processor by overlapping the execution of multiple instructions.
+- Pipelining can be applied to instruction processing or data processing, depending on the type of pipeline.
+- A pipeline has two ends, the input end and the output end. Between these ends, there are several stages that perform different operations on the data or instructions.
+- Interface registers are used to hold the intermediate output between two stages. These interface registers are also called pipeline latches or pipeline buffers.
+- All the stages in the pipeline along with the interface registers are synchronized by a common clock signal.
+- A pipeline can be classified into two types: linear pipeline and nonlinear pipeline. A linear pipeline has a fixed sequence of stages, while a nonlinear pipeline can have branches or loops in the sequence.
+- A pipeline can also be classified into two types: instruction pipeline and data pipeline. An instruction pipeline fetches and executes instructions from memory, while a data pipeline performs arithmetic or logical operations on data operands.
+- A typical instruction pipeline has five stages: instruction fetch (IF), instruction decode (ID), operand fetch (OF), execute (EX), and write back (WB).
+- A typical data pipeline has four stages: load (LD), arithmetic/logic unit (ALU), store (ST), and branch (BR).
+- Pipelining improves the performance of a processor by increasing the instruction throughput, which is the number of instructions executed per unit time.
+- Pipelining also reduces the average instruction execution time, which is the time taken to complete one instruction from start to finish.
+- The performance of a pipeline can be measured by the following parameters: clock cycle time, pipeline latency, pipeline bandwidth, pipeline efficiency, and pipeline speedup.
+- The clock cycle time is the time required to complete one stage of the pipeline.
+- The pipeline latency is the time required to fill the pipeline with instructions or data and to flush the pipeline after the last instruction or data is processed.
+- The pipeline bandwidth is the number of instructions or data processed per clock cycle.
+- The pipeline efficiency is the ratio of the pipeline bandwidth to the number of stages in the pipeline.
+- The pipeline speedup is the ratio of the performance of the pipelined processor to the performance of the non-pipelined processor.
+- Pipelining faces some challenges and limitations, such as pipeline hazards, pipeline stalls, pipeline bubbles, and pipeline flushing.
+- Pipeline hazards are situations that prevent the next instruction or data from being processed in the next clock cycle.
+- Pipeline hazards can be classified into three types: structural hazards, data hazards, and control hazards.
+- Structural hazards occur when two or more instructions or data require the same hardware resource at the same time.
+- Data hazards occur when an instruction or data depends on the result of a previous instruction or data that has not yet been completed.
+- Control hazards occur when the flow of instructions or data is altered by a branch or a jump instruction.
+- Pipeline stalls are situations that cause the pipeline to stop or slow down due to a pipeline hazard.
+- Pipeline stalls can be avoided or minimized by using techniques such as pipeline interlocking, forwarding, bypassing, and speculation.
+- Pipeline bubbles are empty slots in the pipeline that are created due to pipeline stalls.
+- Pipeline bubbles reduce the pipeline efficiency and throughput.
+- Pipeline flushing is the process of discarding the instructions or data in the pipeline that are no longer valid due to a control hazard.
+- Pipeline flushing increases the pipeline latency and reduces the pipeline performance.

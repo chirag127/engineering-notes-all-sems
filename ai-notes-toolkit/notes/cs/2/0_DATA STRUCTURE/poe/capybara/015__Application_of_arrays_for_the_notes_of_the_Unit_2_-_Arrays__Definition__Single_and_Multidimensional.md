@@ -1,0 +1,19 @@
+### Application of Arrays and Linked Lists for the Notes of Unit 2 in Data Structure
+
+Arrays and linked lists are fundamental data structures that are widely used in computer programming. They can be applied in various ways to solve real-world problems. Here are some applications of arrays and linked lists that you need to know for the Unit 2 in Data Structure:
+
+#### Arrays
+1. Definition: An array is a data structure that stores a collection of elements of the same type. It is a sequence of elements that are accessed by their indices.
+2. Single and Multidimensional Arrays: An array can be single-dimensional (one-dimensional) or multidimensional (two-dimensional, three-dimensional, and n-dimensional). A single-dimensional array is a collection of elements in a linear sequence, while a multidimensional array is a collection of elements organized in a matrix-like structure.
+3. Representation of Arrays: Arrays can be represented in two ways: row major order and column major order. In row major order, the elements are stored row by row, while in column major order, the elements are stored column by column.
+4. Derivation of Index Formulae for 1-D,2-D,3-D and n-D Array Application: The index formulae for arrays depend on the type of representation used. For row major order, the formula for a one-dimensional array is A[i] = base_address + i * size_of_element. For a two-dimensional array, the formula is A[i][j] = base_address + (i * number_of_columns + j) * size_of_element. The formulae for three-dimensional and n-dimensional arrays can be derived in a similar way.
+5. Sparse Matrices and their Representations: A sparse matrix is a matrix in which most of the elements are zero. Sparse matrices can be represented in two ways: using a 2D array or using a linked list. In the array representation, the non-zero elements are stored in a 2D array, while in the linked list representation, the non-zero elements are stored in a linked list.
+
+#### Linked Lists
+1. Array Implementation and Pointer Implementation of Singly Linked Lists: A linked list is a data structure that consists of a sequence of nodes, each containing an element and a reference to the next node in the sequence. A singly linked list has only one reference per node, which points to the next node in the sequence. A singly linked list can be implemented using an array or using pointers.
+2. Doubly Linked List: A doubly linked list is a linked list that has two references per node, one pointing to the next node in the sequence and the other pointing to the previous node in the sequence.
+3. Circularly Linked List: A circularly linked list is a linked list in which the last node points to the first node, forming a circle.
+4. Operations on a Linked List: The operations that can be performed on a linked list include insertion, deletion, and traversal. Insertion can be performed at the beginning, end, or middle of the list. Deletion can be performed at the beginning, end, or middle of the list. Traversal involves visiting each node in the list.
+5. Polynomial Representation and Addition Subtraction & Multiplications of Single variable & Two variables Polynomial: Polynomials can be represented using linked lists. Each node in the list contains a term of the polynomial, consisting of a coefficient and an exponent. Addition, subtraction, and multiplication of polynomials can be performed using linked lists.
+
+In conclusion, arrays and linked lists are versatile data structures that can be applied in various ways to solve real-world problems. Understanding their applications is essential for mastering the Unit 2 in Data Structure.

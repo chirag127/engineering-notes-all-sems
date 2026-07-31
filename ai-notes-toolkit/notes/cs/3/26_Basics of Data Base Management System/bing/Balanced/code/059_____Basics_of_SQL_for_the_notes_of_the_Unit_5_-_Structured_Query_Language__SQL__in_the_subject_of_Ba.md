@@ -1,0 +1,16 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on the basics of SQL for the unit 5 of the subject of Basics of Data Base Management System.
+
+### Basics of SQL
+
+- SQL stands for Structured Query Language, which is a standard language for accessing and manipulating data in relational databases.
+- SQL can perform various tasks on data, such as creating, querying, updating, deleting, and modifying tables, views, indexes, and other database objects.
+- SQL is composed of several sublanguages, such as Data Definition Language (DDL), Data Manipulation Language (DML), Data Control Language (DCL), and Data Query Language (DQL).
+- DDL is used to define the structure and schema of the database, such as creating, altering, and dropping tables, views, indexes, and constraints.
+- DML is used to manipulate the data in the database, such as inserting, updating, deleting, and merging records.
+- DCL is used to control the access and privileges of the database, such as granting, revoking, and auditing permissions and roles.
+- DQL is used to query and retrieve data from the database, such as selecting, joining, filtering, sorting, and grouping records.
+- SQL follows a set of syntax rules and keywords that must be followed to write valid and executable statements. SQL is case-insensitive, but some database systems may require certain keywords or identifiers to be written in a specific case.
+- SQL statements are composed of clauses, expressions, operators, functions, and literals. Clauses are the main components of a statement that specify the action and the data involved. Expressions are combinations of operators, functions, and literals that produce a value. Operators are symbols that perform arithmetic, logical, or comparison operations on operands. Functions are predefined or user-defined routines that perform calculations or transformations on arguments. Literals are constants that represent values of different data types, such as strings, numbers, dates, or booleans.
+- SQL supports various data types that define the nature and format of the data stored in the database, such as char, varchar, int, float, date, time, etc. Different database systems may have different names or specifications for the data types, so it is important to check the documentation of the specific database system before using them.
+- SQL also supports various constraints that enforce the rules and integrity of the data in the database, such as primary key, foreign key, unique, not null, check, default, etc. Constraints can be defined at the column level or the table level, and can be added, modified, or dropped using the DDL commands.
+- SQL allows the use of comments to add explanatory or descriptive notes to the statements. Comments can be written in two ways: using two hyphens (--) to start a single-line comment, or using a slash and an asterisk (/* */) to enclose a multi-line comment. Comments are ignored by the database system and do not affect the execution of the statements.

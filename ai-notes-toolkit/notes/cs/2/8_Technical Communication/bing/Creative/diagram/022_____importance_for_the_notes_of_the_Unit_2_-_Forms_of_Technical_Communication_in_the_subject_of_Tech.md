@@ -1,0 +1,8 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some points on the importance of notes for the Unit 2 - Forms of Technical Communication in the subject of Technical Communication:
+
+- Notes are a way of recording and organizing information that you gather from various sources, such as books, articles, lectures, interviews, etc.
+- Notes help you to understand, analyze, and synthesize the information that you need for your technical communication tasks, such as writing reports, proposals, instructions, websites, blogs, etc.
+- Notes help you to avoid plagiarism, which is the unethical and illegal practice of using someone else's words or ideas without proper attribution. Plagiarism can damage your credibility, reputation, and career as a technical communicator.
+- Notes help you to distinguish between facts and opinions, which is essential for presenting accurate, objective, and reliable information to your audience. Facts are verifiable statements that can be proven with evidence, while opinions are personal judgments or beliefs that may vary from person to person.
+- Notes help you to follow the writing process, which is a series of steps that guide you from planning to drafting to revising to editing your technical communication documents. The writing process helps you to produce clear, concise, and professional texts that meet your goals and your audience's needs.
+- Notes help you to adopt a technical communication style, which is a way of writing that emphasizes clarity, precision, and professionalism. Technical communication style avoids unnecessary words, jargon, slang, and errors that can confuse or distract your audience.

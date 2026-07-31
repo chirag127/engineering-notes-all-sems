@@ -1,0 +1,21 @@
+### Interaction Techniques for 3D Manipulation
+
+- 3D manipulation is the process of changing the position, orientation, scale, or shape of an object in a 3D virtual environment.
+- 3D manipulation is essential for many applications of augmented and virtual reality, such as 3D modeling, gaming, education, and training.
+- 3D manipulation can be challenging due to the limitations of input devices, output devices, and human perception and cognition.
+- Interaction techniques are methods or strategies that enable users to perform 3D manipulation tasks effectively and efficiently.
+- Interaction techniques can be classified based on the following criteria:
+  - The type of manipulation task: translation, rotation, scaling, or deformation.
+  - The type of input device: mouse, keyboard, touch screen, gesture, voice, etc.
+  - The type of output device: monitor, head-mounted display, projector, etc.
+  - The type of feedback: visual, auditory, haptic, etc.
+  - The type of mapping: direct, indirect, absolute, relative, etc.
+- Some examples of interaction techniques for 3D manipulation are:
+  - Virtual hand: the user controls a virtual hand that can grab and move objects in the 3D scene.
+  - Ray-casting: the user points a ray from the input device to the object and drags it along the ray.
+  - Go-Go: the user extends the virtual hand beyond the physical reach by scaling the mapping function based on the distance.
+  - HOMER: the user selects an object with a ray and then manipulates it with the other hand in a relative coordinate system.
+  - 6-DOF widget: the user manipulates a 3D widget that provides handles for translation, rotation, and scaling along different axes.
+  - Surface drawing: the user draws a curve on a 2D surface and then extrudes it into a 3D shape.
+  - Sculpting: the user deforms an object by adding or removing material with a virtual tool.
+  - Sketching: the user sketches a 3D shape with a stylus or a finger and then refines it with gestures or commands.

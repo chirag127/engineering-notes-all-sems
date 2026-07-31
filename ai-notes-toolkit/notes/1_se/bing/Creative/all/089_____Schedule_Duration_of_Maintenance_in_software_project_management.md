@@ -1,0 +1,25 @@
+### Schedule/Duration of Maintenance in software project management
+
+- Software maintenance is the process of modifying, updating, or correcting a software system after its delivery to the customer.
+- Software maintenance can be classified into four types: corrective, adaptive, perfective, and preventive.
+- Corrective maintenance is the process of fixing errors or bugs that are discovered during the operation of the software system.
+- Adaptive maintenance is the process of modifying the software system to cope with changes in the environment, such as new hardware, operating systems, or standards.
+- Perfective maintenance is the process of enhancing the software system to improve its performance, usability, or functionality.
+- Preventive maintenance is the process of modifying the software system to prevent potential problems or errors in the future.
+- The schedule or duration of maintenance depends on several factors, such as the type and complexity of the software system, the quality and reliability of the software system, the availability and skills of the maintenance team, the customer's requirements and expectations, and the budget and resources allocated for maintenance.
+- The schedule or duration of maintenance can be estimated using various methods, such as the following:
+  - Historical data: using the data from previous or similar software projects to estimate the maintenance effort and time.
+  - Expert judgment: consulting with experts or experienced personnel to obtain their opinions or estimates on the maintenance effort and time.
+  - Analytical models: using mathematical formulas or equations to calculate the maintenance effort and time based on the characteristics of the software system, such as the size, complexity, or defect density.
+  - Empirical models: using statistical or machine learning techniques to derive the maintenance effort and time from the data collected from the software system, such as the number of changes, errors, or requests.
+- The schedule or duration of maintenance can be represented using various tools, such as the following:
+  - Gantt chart: a graphical tool that shows the start and end dates of the maintenance tasks and their dependencies.
+  - PERT chart: a graphical tool that shows the sequence and duration of the maintenance tasks and their uncertainties.
+  - CPM chart: a graphical tool that shows the critical path and the slack time of the maintenance tasks.
+  - WBS chart: a graphical tool that shows the breakdown of the maintenance project into smaller and manageable tasks or deliverables.
+- The schedule or duration of maintenance can be controlled and monitored using various techniques, such as the following:
+  - Baseline: establishing a reference point or a standard for measuring the progress and performance of the maintenance project.
+  - Variance: measuring the difference or deviation between the actual and the planned values of the maintenance project parameters, such as the effort, time, cost, or quality.
+  - Earned value: measuring the value or the work completed in the maintenance project compared to the planned value or the work expected to be completed.
+  - Change management: managing the changes or modifications that occur during the maintenance project, such as the changes in the scope, schedule, budget, or quality of the software system.
+  - Risk management: identifying, analyzing, and mitigating the risks or uncertainties that may affect the maintenance project, such as the technical, operational, or organizational risks.

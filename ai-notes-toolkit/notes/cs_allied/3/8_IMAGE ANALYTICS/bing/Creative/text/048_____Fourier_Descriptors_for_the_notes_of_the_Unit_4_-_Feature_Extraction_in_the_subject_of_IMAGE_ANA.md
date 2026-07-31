@@ -1,0 +1,9 @@
+### Fourier Descriptors for Shape-Based Image Retrieval
+
+- Fourier descriptors are a method of representing the shape of an object in an image by using the Fourier transform of its boundary points .
+- Fourier descriptors are invariant to translation, scale, rotation and starting point of the boundary, which makes them suitable for shape matching and recognition  .
+- Fourier descriptors are computed by first extracting the boundary points of the object, then converting them to a complex-valued sequence, and then applying the discrete Fourier transform (DFT) to obtain the coefficients .
+- The DFT coefficients are called Fourier descriptors, and they capture the frequency components of the boundary shape. The low-frequency descriptors represent the global shape features, while the high-frequency descriptors represent the local shape details  .
+- Fourier descriptors can be normalized to achieve invariance to translation, scale, rotation and starting point. Translation invariance is achieved by setting the first descriptor to zero, scale invariance is achieved by dividing all descriptors by the absolute value of the second descriptor, rotation invariance is achieved by taking the magnitude of the descriptors, and starting point invariance is achieved by shifting the phase of the descriptors  .
+- Fourier descriptors can be used for shape-based image retrieval by computing the similarity between two shapes based on their descriptors. A common similarity measure is the Euclidean distance between the normalized descriptors .
+- Fourier descriptors have some advantages and disadvantages. Some advantages are that they are easy to compute, they can handle complex shapes, and they can be reduced to a low-dimensional feature vector by selecting a subset of descriptors. Some disadvantages are that they are sensitive to noise, they cannot handle occlusion or deformation, and they may not capture the semantic meaning of the shape  .

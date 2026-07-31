@@ -1,0 +1,21 @@
+### Timestamp Ordering for the Notes of the Unit 8 - Transactions and Concurrency Control in the Subject of Distributed System
+
+- Timestamp ordering is a class of concurrency control protocols that use timestamps to determine the serializability order of transactions  .
+- A timestamp is a monotonically increasing number that is often based on the system clock .
+- In a distributed system, timestamps need to be globally unique and consistent across different sites .
+- There are two types of timestamp ordering protocols: basic timestamp ordering and optimistic timestamp ordering .
+- Basic timestamp ordering assigns a timestamp to each transaction when it starts and uses it to check whether the transaction can read or write a data item without violating serializability .
+- Basic timestamp ordering uses two timestamps for each data item: read timestamp (RTS) and write timestamp (WTS), which record the latest timestamp of a transaction that read or wrote the data item, respectively .
+- Basic timestamp ordering enforces two rules: read-write rule and write-write rule .
+- Read-write rule: a transaction T can read a data item X only if T's timestamp is greater than or equal to X's WTS; otherwise, T is aborted and restarted with a new timestamp .
+- Write-write rule: a transaction T can write a data item X only if T's timestamp is greater than both X's RTS and X's WTS; otherwise, T is aborted and restarted with a new timestamp .
+- Basic timestamp ordering ensures conflict serializability but not recoverability or cascadelessness .
+- Optimistic timestamp ordering assumes that conflicts are rare and allows transactions to execute without checking timestamps until they commit .
+- Optimistic timestamp ordering assigns three timestamps to each transaction: start timestamp (STS), validation timestamp (VTS), and commit timestamp (CTS) .
+- STS is assigned when the transaction starts, VTS is assigned when the transaction enters the validation phase, and CTS is assigned when the transaction commits .
+- Optimistic timestamp ordering uses a validation phase to check whether the transaction can commit without violating serializability .
+- Optimistic timestamp ordering enforces three rules: write-write rule, read-write rule, and write-read rule .
+- Write-write rule: a transaction T can commit only if no other transaction that wrote a data item that T also wrote has a CTS between T's STS and T's VTS; otherwise, T is aborted and restarted with a new timestamp .
+- Read-write rule: a transaction T can commit only if no other transaction that wrote a data item that T read has a CTS between T's STS and T's VTS; otherwise, T is aborted and restarted with a new timestamp .
+- Write-read rule: a transaction T can commit only if no other transaction that read a data item that T wrote has a CTS between T's STS and T's VTS; otherwise, T is aborted and restarted with a new timestamp .
+- Optimistic timestamp ordering ensures conflict serializability, recoverability, and cascadelessness .

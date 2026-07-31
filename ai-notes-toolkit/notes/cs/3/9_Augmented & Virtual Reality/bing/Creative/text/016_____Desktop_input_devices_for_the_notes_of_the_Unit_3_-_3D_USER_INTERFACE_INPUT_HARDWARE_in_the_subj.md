@@ -1,0 +1,7 @@
+### Desktop input devices for 3D user interface
+
+- Desktop input devices are devices that allow the user to interact with a 3D user interface on a desktop system, such as a computer monitor or a projection screen.
+- Desktop input devices can be classified into two categories: 2D input devices and 3D input devices.
+- 2D input devices are devices that capture the user's input in two dimensions, such as the x and y coordinates of a mouse pointer or a pen tip on a tablet. 2D input devices can be used to control a 3D user interface by mapping the 2D input to a 3D virtual location or orientation, such as using a mouse to rotate a 3D object or navigate a 3D scene .
+- 3D input devices are devices that capture the user's input in three dimensions, such as the position and orientation of a handheld device or the gesture of a hand or a body part. 3D input devices can provide more natural and direct interaction with a 3D user interface by allowing the user to manipulate 3D objects or navigate 3D spaces with 6 degrees of freedom (DOF), which are the three translational and three rotational movements .
+- Examples of 2D input devices are keyboards, 2D mice and trackballs, pen- and touch-based tablets, and joysticks. Examples of 3D input devices are desktop 6-DOF input devices, such as the SpaceMouse or the Phantom, and gesture-based devices, such as the Kinect, the Leap Motion, the HoloLens, or the Magic Leap .

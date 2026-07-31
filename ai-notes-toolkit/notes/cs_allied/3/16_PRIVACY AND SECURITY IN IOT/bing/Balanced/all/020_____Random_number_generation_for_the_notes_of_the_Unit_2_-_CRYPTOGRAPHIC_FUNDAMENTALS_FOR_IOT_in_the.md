@@ -1,0 +1,22 @@
+# Random number generation for cryptography
+
+- Random number generation is a very important topic in cryptography. It is the technique that helps us avoid brute force attacks. A brute force attack is when the attacker tries all possible keys to try to decode an encrypted message.
+- Cryptographic algorithms require keys. A random number generator (RNG), also called a random bit generator (RBG), is needed in the key generation process to create a random (strong) key as well as for other cryptographic purposes such as initialization vectors and nonces.
+- The generation of random numbers is essential to cryptography. One of the most difficult aspect of cryptographic algorithms is in depending on or generating, true random information. This is problematic, since there is no known way to produce true random data, and most especially no way to do so on a finite state machine such as a computer.
+- There are two main types of random number generators: true random number generators (TRNGs) and pseudo-random number generators (PRNGs).
+  - TRNGs are based on physical sources of randomness, such as thermal noise, radioactive decay, or quantum phenomena. They produce unpredictable and non-reproducible sequences of bits that pass all statistical tests of randomness.
+  - PRNGs are based on mathematical algorithms that produce deterministic and reproducible sequences of bits that are derived from a seed value. They are not truly random, but they can approximate randomness if the algorithm is good and the seed is secret and unpredictable.
+- Cryptographic applications typically make use of algorithmic techniques for random number generation. These algorithms are deterministic and therefore produce sequences of numbers that are not statistically random. However, if the algorithm is good, the resulting sequences will pass many reasonable tests of randomness.
+- A cryptographically secure random number generator (CSPRNG) is a PRNG that satisfies two additional properties:
+  - It is computationally infeasible to predict the next output bit given the previous output bits, even if the algorithm is known.
+  - It is computationally infeasible to recover the seed value given the output bits, even if the algorithm is known.
+- Some examples of CSPRNGs are:
+  - Blum Blum Shub: based on the hardness of factoring large numbers.
+  - Yarrow: based on the combination of hash functions and block ciphers.
+  - Fortuna: based on the accumulation of entropy from multiple sources and the use of AES as a block cipher.
+  - NIST SP 800-90A: based on the use of hash functions, block ciphers, or elliptic curve cryptography.
+- Random number generation for cryptography is a challenging and active research area. Some of the open problems are:
+  - How to design efficient and secure TRNGs that can resist physical attacks and environmental influences.
+  - How to evaluate the quality and randomness of TRNGs and PRNGs using statistical tests and formal methods.
+  - How to ensure the availability and reliability of entropy sources for seeding PRNGs.
+  - How to integrate random number generators into cryptographic protocols and applications in a secure and robust way.

@@ -1,0 +1,24 @@
+# Object Oriented Design for the notes of the Unit 3 - Software Design in the subject of Software Engineering
+
+- Object Oriented Design (OOD) is the process of planning a system of interacting objects for the purpose of solving a software problem.
+- OOD transforms the analysis model created using Object Oriented Analysis (OOA) into a design model that serves as a blueprint for software construction.
+- OOD is based on the object oriented paradigm, which is a common approach to modeling applications, systems, and business domains by using objects as the basic units of abstraction.
+- OOD follows some principles and guidelines to ensure the quality, maintainability, and extensibility of the software. Some of these principles are:
+  - Encapsulation: It is the mechanism of hiding the internal details of an object and exposing only the essential features and behaviors to the outside world.
+  - Abstraction: It is the process of identifying the common and essential characteristics of a set of objects and ignoring the irrelevant and specific details.
+  - Inheritance: It is the mechanism of reusing the attributes and behaviors of an existing class (called the superclass or parent class) by creating a new class (called the subclass or child class) that inherits from it.
+  - Polymorphism: It is the ability of an object to exhibit different behaviors depending on the context or the type of the object. It is achieved by using method overriding (redefining a method in a subclass) or method overloading (defining multiple methods with the same name but different parameters).
+  - Modularity: It is the property of a system that allows it to be divided into smaller and independent units (called modules) that can be developed, tested, and maintained separately.
+  - Coupling: It is the degree of interdependence or interaction between the modules of a system. Low coupling is desirable as it reduces the complexity and increases the cohesion of the system.
+  - Cohesion: It is the degree of relatedness or similarity of the elements within a module. High cohesion is desirable as it improves the readability, reusability, and reliability of the system.
+- OOD also follows some design patterns, which are reusable solutions to common problems that arise in software design. Some of the common design patterns are:
+  - Creational patterns: They deal with the creation and initialization of objects. Some examples are Singleton, Factory, Builder, Prototype, etc.
+  - Structural patterns: They deal with the arrangement and composition of objects. Some examples are Adapter, Bridge, Composite, Decorator, Facade, etc.
+  - Behavioral patterns: They deal with the communication and interaction of objects. Some examples are Observer, Strategy, Command, Iterator, Mediator, etc.
+- OOD can be applied to various types of software systems, such as desktop applications, web applications, mobile applications, embedded systems, etc. OOD can also be used in conjunction with other software engineering methodologies, such as Agile or Adaptive software development.
+- OOD can provide several benefits to the software development process, such as:
+  - Improving the clarity and understandability of the system by using objects as the natural units of abstraction.
+  - Enhancing the reusability and extensibility of the system by using inheritance and polymorphism.
+  - Reducing the complexity and redundancy of the system by using encapsulation and abstraction.
+  - Increasing the modifiability and maintainability of the system by using modularity and low coupling.
+  - Facilitating the testing and debugging of the system by using high cohesion and design patterns.

@@ -1,0 +1,8 @@
+### Data persistence for the notes of the Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Data persistence is the property of data that survives after the process with which it was created has ended.
+- Data persistence is important for wearable computing devices, which are portable computers that can be worn on the body and are designed for everyday and continuous use.
+- Wearable computing devices can collect, process, and store various types of data, such as biometric, environmental, behavioral, and contextual data, that can be used for various applications, such as health monitoring, fitness tracking, entertainment, education, and social interaction   .
+- Data persistence can be achieved by using different types of data storage technologies, such as flash memory, cloud storage, or distributed databases, depending on the requirements of the application, the amount and type of data, the security and privacy issues, and the availability and cost of the storage medium  .
+- Data persistence can also pose some challenges and risks for wearable computing devices, such as data loss, data corruption, data theft, data leakage, data misuse, and data privacy violation, which can affect the functionality, performance, reliability, and trustworthiness of the devices and the applications .
+- Data persistence can be enhanced and protected by using various techniques and methods, such as data encryption, data compression, data backup, data recovery, data integrity, data authentication, data authorization, data anonymization, and data auditing, which can ensure the security, privacy, and quality of the data and the devices .

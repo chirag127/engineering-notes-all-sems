@@ -1,0 +1,7 @@
+### Add, Sub, Jump etc.
+
+- These are some of the basic instructions in assembly language, which is a low-level programming language that directly controls the hardware of a computer.
+- Add and Sub are arithmetic instructions that perform addition and subtraction of two operands, respectively. The operands can be registers, memory locations, or immediate values. The result is stored in the destination operand, which is usually the first operand.
+- For example, `add eax, 10` adds 10 to the value in the eax register and stores the result in eax. `sub [var], ebx` subtracts the value in the ebx register from the value in the memory location labeled var and stores the result in var.
+- Jump is a control flow instruction that transfers the execution to another part of the program, specified by a label or an address. The jump can be conditional or unconditional, depending on whether it is based on a flag or a register value.
+- For example, `jmp loop` unconditionally jumps to the label loop. `jz exit` conditionally jumps to the label exit if the zero flag is set, which means the previous instruction resulted in zero. `jcxz exit` conditionally jumps to the label exit if the cx register is zero.

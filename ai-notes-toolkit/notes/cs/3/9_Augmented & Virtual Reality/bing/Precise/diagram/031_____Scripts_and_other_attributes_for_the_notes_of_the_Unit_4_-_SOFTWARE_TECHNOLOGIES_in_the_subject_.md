@@ -1,0 +1,9 @@
+### Scripts and other attributes for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+
+1. **Scripts**: Scripts are a key component in the development of augmented and virtual reality applications. They are used to define the behavior of objects and interactions within the virtual environment.
+2. **Programming languages**: Common programming languages used in the development of augmented and virtual reality applications include C++, C#, and Java.
+3. **Game engines**: Game engines such as Unity and Unreal Engine are commonly used to develop augmented and virtual reality applications. They provide a framework for creating interactive 3D environments and include tools for scripting, physics, and animation.
+4. **SDKs**: Software development kits (SDKs) provide developers with the tools and resources needed to create augmented and virtual reality applications. Examples of popular SDKs include the Oculus SDK, the Google VR SDK, and the Microsoft HoloLens SDK.
+5. **APIs**: Application programming interfaces (APIs) allow developers to access the functionality of other software or hardware components. For example, an API might provide access to the sensors on a mobile device, allowing an augmented reality application to track the user's movements.
+6. **3D modeling and animation**: 3D modeling and animation software is used to create the virtual objects and environments used in augmented and virtual reality applications. Commonly used software includes Maya, Blender, and 3ds Max.
+7. **User interface design**: User interface design is an important consideration in the development of augmented and virtual reality applications. Designers must consider how users will interact with the virtual environment and create intuitive and user-friendly interfaces.

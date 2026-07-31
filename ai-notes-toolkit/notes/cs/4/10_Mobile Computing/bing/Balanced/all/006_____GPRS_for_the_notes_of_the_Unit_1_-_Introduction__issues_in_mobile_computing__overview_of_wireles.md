@@ -1,0 +1,31 @@
+# GPRS for the notes of the Unit 1 - Introduction, issues in mobile computing, overview of wireless telephony: cellular concept, GSM: in the subject of Mobile Computing
+
+- GPRS stands for **General Packet Radio Service** .
+- It is a **packet oriented** wireless data communication service for mobile communications on **2G and 3G** cellular communication systems  .
+- It is **non-voice**, high speed packet switching technology intended for GSM networks .
+- It enables **moderately high-speed data transfers** using packet-based technologies .
+- It offers more data transmission options for GSM-based devices, as GSM networks at the time could only use Short Message Service (SMS), for example, to transmit a small amount of data .
+- It establishes a **connected mobile environment** for IoT applications.
+- It supports **multiple users** on a single channel by using **statistical multiplexing** .
+- It uses **logical channels** to transmit data packets between mobile stations and the network .
+- It has two main classes of logical channels: **Packet Data Channels (PDCHs)** and **Packet Control Channels (PCCHs)** .
+- PDCHs are used to carry user data and some signaling messages .
+- PCCHs are used to carry control and signaling messages for GPRS .
+- It has two main modes of operation: **GPRS attach/detach** and **PDP context activation/deactivation** .
+- GPRS attach/detach is the process of registering or deregistering a mobile station with the GPRS network .
+- PDP context activation/deactivation is the process of establishing or releasing a logical connection between a mobile station and a packet data network (such as the internet) .
+- It has four main entities in its network architecture: **Base Station Subsystem (BSS)**, **Serving GPRS Support Node (SGSN)**, **Gateway GPRS Support Node (GGSN)**, and **Packet Data Protocol (PDP)** .
+- BSS consists of **Base Transceiver Stations (BTSs)** and **Base Station Controllers (BSCs)** that provide radio access and control functions for GPRS .
+- SGSN is a network node that handles **mobility management**, **session management**, **authentication**, and **charging** functions for GPRS .
+- GGSN is a network node that acts as an **interface** between the GPRS network and external packet data networks .
+- PDP is a protocol that defines the **format** and **addressing** of data packets exchanged between a mobile station and a packet data network .
+- It has several advantages, such as:
+  - **Increased data rates** compared to circuit-switched services .
+  - **Efficient use of radio resources** by using packet switching and statistical multiplexing .
+  - **Always-on connectivity** for mobile users without occupying a dedicated channel .
+  - **Support for a variety of applications** such as email, web browsing, multimedia, and IoT  .
+- It also has some disadvantages, such as:
+  - **Limited coverage** in some areas due to the availability of GPRS-enabled base stations .
+  - **Variable data rates** depending on the network congestion and radio conditions .
+  - **Security risks** due to the possibility of data interception and modification .
+  - **High power consumption** for mobile devices due to the frequent transmission and reception of data packets .

@@ -1,0 +1,7 @@
+#### CO 4 Show an ability to upload/download sensor data on cloud and server K2
+
+1. **Uploading sensor data to the cloud:** Sensor data can be uploaded to the cloud using various methods such as APIs, MQTT, or FTP. The method used depends on the cloud service provider and the type of sensor data being uploaded.
+2. **Downloading sensor data from the cloud:** Sensor data can be downloaded from the cloud using APIs or other methods provided by the cloud service provider. The data can be accessed and analyzed using various tools and software.
+3. **Uploading sensor data to a server:** Sensor data can be uploaded to a server using various methods such as FTP, SFTP, or SCP. The method used depends on the server and the type of sensor data being uploaded.
+4. **Downloading sensor data from a server:** Sensor data can be downloaded from a server using various methods such as FTP, SFTP, or SCP. The data can be accessed and analyzed using various tools and software.
+5. **Storing and managing sensor data:** Sensor data can be stored and managed on the cloud or a server using various tools and software. The data can be organized, analyzed, and visualized to provide insights and support decision-making.

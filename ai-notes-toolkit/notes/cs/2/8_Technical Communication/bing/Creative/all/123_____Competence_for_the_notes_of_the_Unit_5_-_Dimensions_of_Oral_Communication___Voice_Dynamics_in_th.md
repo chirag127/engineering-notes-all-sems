@@ -1,0 +1,23 @@
+# Competence for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication
+
+- Competence is the ability to perform a task effectively and efficiently.
+- Communication competence is how well a person can communicate their thoughts and ideas to others.
+- Oral communication competence is the ability to use spoken language for professional purposes, such as persuading, informing, or entertaining an audience.
+- Oral communication competence involves the following dimensions:
+  - Knowledge: the understanding of the rules, norms, and expectations of oral communication in different contexts and cultures.
+  - Skills: the ability to apply the knowledge of oral communication in various situations and formats, such as speeches, presentations, interviews, or discussions.
+  - Motivation: the willingness to engage in oral communication and to improve one's performance and feedback.
+  - Attitude: the disposition to communicate positively and respectfully with others, and to value oral communication as a means of learning and sharing.
+- Oral communication competence also requires the following components:
+  - Linguistic proficiency: the mastery of the vocabulary, grammar, pronunciation, and intonation of the spoken language.
+  - Background knowledge: the familiarity with the topic, audience, purpose, and genre of the oral communication.
+  - Critical thinking: the ability to analyze, evaluate, and synthesize information and arguments in oral communication.
+  - Metacognitive skills: the ability to monitor, regulate, and reflect on one's own oral communication process and outcomes.
+  - Cultural competence: the ability to understand and adapt to the cultural differences and similarities in oral communication.
+- Voice dynamics are the aspects of oral communication that affect the quality, clarity, and impact of the spoken message, such as volume, pitch, rate, tone, and pauses.
+- Voice dynamics can be used to enhance oral communication competence by:
+  - Adjusting the volume to suit the size of the audience and the acoustics of the room.
+  - Varying the pitch to convey emotion, emphasis, and interest.
+  - Modulating the rate to match the complexity of the message and the attention span of the audience.
+  - Expressing the tone to reflect the attitude, mood, and intention of the speaker.
+  - Using pauses to create suspense, signal transitions, and allow the audience to process the information.

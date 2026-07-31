@@ -1,0 +1,17 @@
+# Dance as Cultural Heritage of India
+
+- Dance is an ancient and celebrated cultural tradition in India that reflects the diversity and richness of its history, religion, and art.
+- Dance in India can be classified into two broad categories: classical and folk. Classical dances are based on ancient texts and codified rules, while folk dances are spontaneous and regional expressions of the people.
+- Classical dances of India are considered to be a form of worship and a way of conveying spiritual and moral values. They have their roots in Hindu religious musical theatres and are performed with elaborate costumes, makeup, and gestures.
+- The Sangeet Natak Academy, the national academy for performing arts in India, recognizes eight classical dance forms: Bharatanatyam, Kathak, Kuchipudi, Kathakali, Odissi, Mohiniyattam, Manipuri, and Satriya.
+- Bharatanatyam is one of the oldest and most popular classical dances of India, originating from Tamil Nadu. It is characterized by graceful movements, intricate footwork, expressive facial expressions, and hand gestures called mudras.
+- Kathak is a classical dance form that originated in northern India and was influenced by the Mughal culture. It is known for its fast spins, complex rhythms, and storytelling through gestures and facial expressions.
+- Kuchipudi is a classical dance form from Andhra Pradesh that combines dance, drama, and music. It is performed by both male and female dancers who enact various characters from Hindu epics and mythology.
+- Kathakali is a classical dance form from Kerala that is famous for its elaborate costumes, makeup, and masks. It is a highly stylized and dramatic form of dance that depicts stories from Hindu epics and puranas.
+- Odissi is a classical dance form from Odisha that is based on the sculptures and paintings of ancient temples. It is a graceful and lyrical form of dance that emphasizes the curves and bends of the body.
+- Mohiniyattam is a classical dance form from Kerala that is performed by female dancers who portray the enchantress Mohini, a female avatar of the god Vishnu. It is a soft and elegant form of dance that expresses the emotions of love and devotion.
+- Manipuri is a classical dance form from Manipur that is influenced by the Vaishnavite tradition of Hinduism. It is a vibrant and colorful form of dance that involves graceful movements, acrobatics, and drumming.
+- Satriya is a classical dance form from Assam that is associated with the monastic culture of the Vaishnava sect. It is a devotional and theatrical form of dance that incorporates elements of drama, music, and literature.
+- Folk dances of India are diverse and varied, reflecting the regional and cultural differences of the country. They are performed during festivals, weddings, harvests, and other occasions of joy and celebration.
+- Some examples of folk dances of India are: Dumhal and Rouff of Jammu and Kashmir, Bhangra and Giddha of Punjab, Garba and Dandiya of Gujarat, Lavani and Koli of Maharashtra, Bihu and Bagurumba of Assam, Chhau and Santhal of West Bengal, Ghoomar and Kalbelia of Rajasthan, and many more.
+- Dance in India is not only a form of entertainment, but also a way of preserving and promoting the cultural heritage of the country. It is a medium of expressing the values, beliefs, and aspirations of the people, and a source of pride and identity for the nation.

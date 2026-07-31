@@ -1,0 +1,23 @@
+### Basic security problems for the notes of the Unit 5 - Internet Infrastructure in the subject of COMPUTER SYSTEM SECURITY
+
+- Internet infrastructure refers to the hardware, software, protocols, and services that enable the communication and exchange of data over the internet.
+- Internet infrastructure security is the protection of these components from unauthorized access, modification, or destruction by malicious actors.
+- Some of the basic security problems that affect the internet infrastructure are:
+
+  - **Ransomware attack**: A type of malware that encrypts the victim's data and demands a ransom for its decryption. The attacker may also threaten to delete or expose the data if the ransom is not paid .
+  - **Code injection (Remote code execution)**: A type of attack that exploits a vulnerability in a web application or server to execute arbitrary code on the target system. The attacker may use the code to gain access, steal data, install malware, or cause damage .
+  - **Cross-site scripting (XSS) attack**: A type of attack that injects malicious scripts into a web page that is viewed by other users. The scripts may execute in the user's browser and perform actions on behalf of the attacker, such as stealing cookies, session tokens, or personal information .
+  - **Data breach**: A type of attack that exposes confidential or sensitive data to unauthorized parties. The data may be stolen, leaked, or compromised by hackers, insiders, or third parties. The data may include personal, financial, or health information, intellectual property, trade secrets, or customer records .
+  - **Malware and virus infection**: A type of attack that involves the installation of malicious software or code on the target system. The malware or virus may perform various malicious activities, such as spying, stealing, deleting, or encrypting data, hijacking resources, or spreading to other systems .
+  - **DDoS attack**: A type of attack that overwhelms the target system or network with a large amount of traffic or requests, causing it to slow down or crash. The attacker may use compromised devices, such as bots or zombies, to generate the traffic or requests .
+  - **Credential stuffing attack**: A type of attack that uses stolen or leaked usernames and passwords to gain access to multiple accounts or services. The attacker may use automated tools or scripts to try the credentials on different websites or applications .
+  - **Brute force attack**: A type of attack that tries to guess the password or encryption key of the target system or account by trying different combinations of characters or words. The attacker may use dictionaries, common passwords, or algorithms to generate the guesses .
+
+- Some of the solutions or countermeasures to prevent or mitigate these security problems are:
+
+  - **Backup and recovery**: A process of creating and restoring copies of data or systems in case of loss, corruption, or ransomware attack. The backups should be stored in a secure and separate location from the original data or systems.
+  - **Input validation and output encoding**: A process of checking and filtering the user input and output to prevent code injection or XSS attacks. The input should be verified for its type, length, format, and content, and the output should be encoded to prevent the execution of scripts.
+  - **Encryption and authentication**: A process of transforming and verifying the data or communication to prevent data breach or unauthorized access. The data should be encrypted using strong algorithms and keys, and the users or systems should be authenticated using passwords, tokens, certificates, or biometrics .
+  - **Antivirus and firewall**: A software and hardware that detect and block malware, virus, or unwanted traffic or requests. The antivirus should be updated regularly and scan the system or network for any malicious activity, and the firewall should be configured to allow or deny the traffic or requests based on rules or policies.
+  - **Load balancing and redundancy**: A process of distributing and replicating the workload or resources across multiple servers or systems to prevent DDoS attack or system failure. The load balancer should balance the traffic or requests among the servers or systems, and the redundancy should ensure the availability and reliability of the service or data.
+  - **Password management and multi-factor authentication**: A process of creating and using strong and unique passwords for different accounts or services, and adding an extra

@@ -1,0 +1,21 @@
+# Treebanks
+
+- A treebank is a corpus of natural language sentences annotated with syntactic structure, such as phrase structure trees or dependency graphs .
+- Treebanks can be used for various purposes in natural language processing, such as:
+  - Training and evaluating parsers and taggers   .
+  - Developing semantic analyzers and machine translation systems  .
+  - Studying linguistic phenomena and testing linguistic theories .
+- Treebanks can vary in their annotation schemes, granularity, size, domain, and language.
+  - Annotation schemes can be based on different syntactic theories, such as phrase structure grammar, dependency grammar, or lexical-functional grammar.
+  - Granularity can refer to the level of detail and the number of categories used to label the syntactic units.
+  - Size can range from a few hundred to millions of sentences.
+  - Domain can be general or specific, such as news, fiction, or biomedical texts.
+  - Language can be monolingual, bilingual, or multilingual.
+- Treebanks can be created manually, automatically, or semi-automatically.
+  - Manual creation involves human annotators who follow a coding manual and use annotation tools .
+  - Automatic creation involves using parsers or other algorithms to generate syntactic annotations.
+  - Semi-automatic creation involves combining manual and automatic methods, such as using pre-parsers, post-editors, or active learning techniques.
+- Treebanks can be evaluated in terms of their quality, consistency, and coverage.
+  - Quality can be measured by the accuracy and reliability of the annotations.
+  - Consistency can be measured by the agreement among different annotators or different versions of the same treebank.
+  - Coverage can be measured by the diversity and representativeness of the sentences and the syntactic phenomena in the treebank.

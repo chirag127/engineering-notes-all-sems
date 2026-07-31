@@ -1,0 +1,14 @@
+## Unit 8 - Business Case for SOA
+
+- SOA stands for Service-Oriented Architecture, which is a design paradigm for building distributed systems that are composed of loosely coupled, reusable, and interoperable services.
+- A service is a self-contained unit of functionality that provides a specific business capability or value to its consumers, and that can be accessed through a standardized interface.
+- SOA aims to align the business and IT domains by enabling the development of business processes that span multiple services and applications, and that can be easily modified and adapted to changing business needs and requirements.
+- A business case for SOA is a document that describes the rationale, benefits, costs, risks, and alternatives of adopting SOA in an organization, and that provides a clear and compelling justification for the investment and commitment required for SOA implementation.
+- A business case for SOA should address the following aspects:
+
+  - The current state of the organization's IT landscape, including the challenges, pain points, and gaps that hinder the achievement of the business goals and objectives.
+  - The desired future state of the organization's IT landscape, including the vision, scope, and objectives of the SOA initiative, and how it will support the business strategy and enable the realization of the business benefits.
+  - The gap analysis between the current and future states, and the identification of the key drivers and enablers for SOA adoption, such as the business needs, opportunities, and value propositions, as well as the technical feasibility, readiness, and maturity of the organization.
+  - The solution approach and roadmap for SOA adoption, including the high-level architecture, design principles, governance model, and best practices for SOA implementation, as well as the prioritization, sequencing, and phasing of the SOA projects and deliverables.
+  - The financial analysis and evaluation of the SOA initiative, including the estimation of the costs, benefits, return on investment (ROI), net present value (NPV), and payback period of the SOA initiative, as well as the identification and mitigation of the risks and assumptions associated with the SOA initiative.
+  - The stakeholder analysis and communication plan for the SOA initiative, including the identification of the key stakeholders, their roles and responsibilities, their expectations and concerns, and their level of involvement and support for the SOA initiative, as well as the definition of the communication objectives, messages, channels, and frequency for the SOA initiative.

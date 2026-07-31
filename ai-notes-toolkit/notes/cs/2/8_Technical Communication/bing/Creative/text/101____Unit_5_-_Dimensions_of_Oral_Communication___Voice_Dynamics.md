@@ -1,0 +1,22 @@
+## Unit 5 - Dimensions of Oral Communication & Voice Dynamics
+
+- Oral communication is the process of expressing ideas, feelings, and information through spoken words, gestures, and nonverbal cues.
+- Oral communication has three main dimensions: verbal, vocal, and visual.
+  - Verbal dimension refers to the choice and arrangement of words, the clarity and accuracy of language, and the coherence and logic of the message.
+  - Vocal dimension refers to the tone, pitch, volume, rate, and quality of voice, as well as the use of pauses, stress, and intonation to convey meaning and emotion.
+  - Visual dimension refers to the appearance, posture, gestures, facial expressions, eye contact, and use of space and time to support and enhance the message.
+- Oral communication requires the speaker to consider the purpose, audience, context, and channel of the message, and to adapt the message accordingly.
+- Oral communication also involves listening, which is the process of receiving, interpreting, and responding to oral messages.
+- Listening has four main types: appreciative, empathic, comprehensive, and critical.
+  - Appreciative listening is listening for enjoyment or pleasure, such as listening to music, stories, or jokes.
+  - Empathic listening is listening to understand and share the feelings and emotions of the speaker, such as listening to a friend who is sad or angry.
+  - Comprehensive listening is listening to grasp and retain the information and ideas of the speaker, such as listening to a lecture, a podcast, or a news report.
+  - Critical listening is listening to evaluate and analyze the logic, credibility, and validity of the speaker's message, such as listening to a debate, a speech, or an advertisement.
+- Voice dynamics are the variations and modifications of the voice to create interest, emphasis, and mood in oral communication.
+- Voice dynamics include the following elements: volume, pitch, rate, pause, stress, and intonation.
+  - Volume is the loudness or softness of the voice, which can indicate confidence, enthusiasm, or intensity, or lack thereof.
+  - Pitch is the highness or lowness of the voice, which can express surprise, excitement, curiosity, or doubt, or convey a question or a statement.
+  - Rate is the speed or pace of the voice, which can show urgency, eagerness, nervousness, or boredom, or affect the clarity and comprehension of the message.
+  - Pause is the deliberate or accidental silence or break in the voice, which can create suspense, emphasis, or transition, or indicate hesitation, uncertainty, or confusion.
+  - Stress is the force or emphasis placed on certain words or syllables, which can highlight the importance, contrast, or meaning of the message.
+  - Intonation is the rise and fall of the voice, which can convey the attitude, emotion, or intention of the speaker, or signal the end or continuation of the message.

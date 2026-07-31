@@ -1,0 +1,21 @@
+# Optimal Decisions in Games
+
+- In a normal search problem, the optimal solution would be a sequence of actions leading to a goal state-a terminal state that is a win .
+- In a game, the optimal solution would be a strategy-a contingency plan that specifies the move for every possible situation throughout the game.
+- A strategy is optimal if it guarantees the best possible outcome for a player, no matter what the opponent does.
+- Given a game tree, the optimal strategy can be determined from the minimax value of each node, which we write as MINIMAX(n) .
+- The minimax value of a node is the utility (for MAX) of being in the corresponding state, assuming that both players play optimally from there to the end of the game .
+- The minimax value of a terminal node is just the utility of the terminal state .
+- The minimax value of a non-terminal node can be computed recursively from the minimax values of its children .
+- If the node is a MAX node, the minimax value is the maximum of the minimax values of its children .
+- If the node is a MIN node, the minimax value is the minimum of the minimax values of its children .
+- The optimal move for a player is the one that leads to a child node with the same minimax value as the current node .
+- The minimax algorithm is a depth-first, exhaustive search that computes the minimax values of all the nodes in the game tree .
+- The minimax algorithm is optimal, but it is also inefficient, as it explores the entire game tree, which can be very large .
+- To improve the efficiency of the minimax algorithm, some techniques can be used, such as alpha-beta pruning, move ordering, iterative deepening, and heuristic evaluation .
+- Alpha-beta pruning is a technique that allows the minimax algorithm to prune (ignore) branches of the game tree that are provably irrelevant .
+- Move ordering is a technique that allows the minimax algorithm to explore the most promising moves first, increasing the chances of pruning more branches .
+- Iterative deepening is a technique that allows the minimax algorithm to search the game tree incrementally, starting from a shallow depth and increasing it until the time runs out .
+- Heuristic evaluation is a technique that allows the minimax algorithm to estimate the utility of a non-terminal state, using a function that captures some domain knowledge about the game .
+- Heuristic evaluation can be used to terminate the search at a certain depth and return an approximate minimax value .
+- Heuristic evaluation can also be used to guide the search towards more promising states, using a function that captures some domain knowledge about the game .

@@ -1,0 +1,7 @@
+### Macro Vs. Inline functions
+
+- A macro is a preprocessor directive that defines a text substitution for a given identifier. An inline function is a function that is expanded at the point of call, avoiding the overhead of a function call.
+- Macros work through text substitution, whereas inline functions duplicate the logic of a function. Macros are error prone due to substitution while inline functions are safe to use. Macros can't be assigned to function pointers; inline functions can.
+- Macros are processed by the preprocessor before compilation, whereas inline functions are expanded by the compiler during compilation. Macros do not perform type checking or argument evaluation, whereas inline functions do. Macros can be used for any text substitution, whereas inline functions can only be used for functions.
+- In C++, inline may be defined either inside the class or outside the class. Whereas the macro is all the time defined at the beginning of the program. In C++, inside the class, the short length functions are automatically made the inline functions. While the macro is specifically defined.
+- Inline functions are preferred over macros for performance and readability reasons. However, macros may be useful for some situations, such as conditional compilation or debugging.

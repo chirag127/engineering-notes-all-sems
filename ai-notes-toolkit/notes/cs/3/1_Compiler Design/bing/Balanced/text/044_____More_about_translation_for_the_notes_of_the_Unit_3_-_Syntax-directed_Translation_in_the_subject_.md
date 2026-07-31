@@ -1,0 +1,21 @@
+### More about translation for the notes of the Unit 3 - Syntax-directed Translation in the subject of Compiler Design
+
+- Syntax-directed translation is a method of compiler implementation where the source language translation is completely driven by the parser.
+- It allows the compiler designer to define the generation of intermediate code directly in terms of the syntactic structure of the source language.
+- It uses a context-free grammar with attributes and semantic actions associated with the grammar symbols and productions.
+- Attributes are the values computed at the nodes of the parse tree or syntax tree, which represent some information about the source program.
+- Semantic actions are the subroutines that are executed by the parser at the appropriate time for translation.
+- There are two types of attributes: synthesized and inherited.
+  - Synthesized attributes are the attributes that are computed at a node from the attribute values of its children.
+  - Inherited attributes are the attributes that are computed at a node from the attribute values of its parent and siblings.
+- There are two types of syntax-directed translation schemes: postfix and prefix.
+  - Postfix schemes are the schemes where the semantic actions are placed at the end of the productions.
+  - Prefix schemes are the schemes where the semantic actions are placed at the beginning of the productions.
+- Syntax-directed translation can be implemented by either constructing an explicit parse tree or syntax tree and visiting the nodes in some order, or by performing the translation during parsing without building an explicit tree.
+- The order of visiting the nodes of the tree depends on the type of attributes and the dependency graph of the attributes.
+  - The dependency graph of the attributes is a directed graph that shows the dependencies among the attributes at each node.
+  - If the attributes are only synthesized, then the nodes can be visited in a bottom-up order, such as postorder traversal.
+  - If the attributes are both synthesized and inherited, then the nodes can be visited in a top-down order, such as preorder traversal, or a mixed order, such as inorder traversal.
+- The translation during parsing can be done by using a parser stack that stores the attribute values and semantic actions along with the grammar symbols.
+  - The parser stack can be manipulated by the semantic actions to perform the translation.
+  - The translation during parsing can be done by either a top-down parser or a bottom-up parser.

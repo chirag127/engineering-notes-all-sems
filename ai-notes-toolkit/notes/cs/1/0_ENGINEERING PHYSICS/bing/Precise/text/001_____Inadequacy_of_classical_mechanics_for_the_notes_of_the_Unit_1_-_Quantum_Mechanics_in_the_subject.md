@@ -1,0 +1,10 @@
+### Inadequacy of classical mechanics for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS
+
+1. Classical mechanics is based on the principles of determinism, continuity, and locality. However, these principles are not sufficient to explain the behavior of microscopic particles such as atoms and subatomic particles.
+2. Classical mechanics fails to explain the phenomenon of blackbody radiation, where the energy distribution of the radiation emitted by a black body does not match the predictions of classical theory.
+3. The photoelectric effect, where electrons are emitted from a metal surface when light shines on it, cannot be explained by classical mechanics. The classical theory predicts that the energy of the emitted electrons should depend on the intensity of the light, but experiments show that it depends on the frequency of the light.
+4. The stability of atoms cannot be explained by classical mechanics. According to classical theory, the electrons orbiting the nucleus should lose energy and eventually spiral into the nucleus, but this does not happen.
+5. The discrete spectral lines observed in the emission and absorption spectra of atoms cannot be explained by classical mechanics, which predicts a continuous spectrum.
+6. The phenomenon of quantum tunneling, where particles can pass through potential barriers that they do not have enough energy to overcome, cannot be explained by classical mechanics.
+
+These inadequacies of classical mechanics led to the development of quantum mechanics, a new theory that could explain the behavior of microscopic particles. Quantum mechanics introduced new principles such as uncertainty, wave-particle duality, and superposition, which were able to explain the phenomena that classical mechanics could not.

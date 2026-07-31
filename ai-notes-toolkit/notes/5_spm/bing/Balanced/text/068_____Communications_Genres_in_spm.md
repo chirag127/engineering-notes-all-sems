@@ -1,0 +1,28 @@
+### Communications Genres in SPM
+
+- Communication genres are the types and forms of communication that are used in software project management (SPM).
+- Communication genres can be classified into three main categories: verbal, written and visual.
+- Verbal communication is the use of spoken words to convey information, ideas, opinions, feelings and instructions. Verbal communication can be formal or informal, synchronous or asynchronous, and one-way or two-way. Examples of verbal communication genres in SPM are meetings, presentations, phone calls, video conferences and voice messages.
+- Written communication is the use of written words to communicate information, ideas, opinions, feelings and instructions. Written communication can be formal or informal, synchronous or asynchronous, and one-way or two-way. Examples of written communication genres in SPM are emails, reports, memos, proposals, contracts, specifications, documentation and feedback forms.
+- Visual communication is the use of images, symbols, graphs, charts, diagrams, maps, icons and colors to communicate information, ideas, opinions, feelings and instructions. Visual communication can be formal or informal, synchronous or asynchronous, and one-way or two-way. Examples of visual communication genres in SPM are sketches, drawings, mockups, wireframes, prototypes, screenshots, logos, infographics and dashboards.
+- Communication genres in SPM are important for several reasons, such as:
+  - They help to establish the scope, objectives, requirements, risks, budget, schedule and quality of the software project.
+  - They help to coordinate the activities, tasks, roles and responsibilities of the project team and stakeholders.
+  - They help to monitor and control the progress, performance, issues and changes of the software project.
+  - They help to evaluate and improve the outcomes, deliverables, satisfaction and learning of the software project.
+  - They help to build and maintain trust, rapport, collaboration and communication among the project team and stakeholders.
+- Communication genres in SPM should be chosen and used according to the following criteria, such as:
+  - The purpose and goal of the communication.
+  - The audience and context of the communication.
+  - The content and format of the communication.
+  - The medium and channel of the communication.
+  - The frequency and timing of the communication.
+  - The feedback and response of the communication.
+- Communication genres in SPM should be planned and documented in a communication plan, which is a document that describes the communication strategy, methods, tools, standards, roles and responsibilities for the software project. A communication plan should include the following elements, such as:
+  - The communication objectives and scope.
+  - The communication stakeholders and their needs and expectations.
+  - The communication genres and their characteristics and requirements.
+  - The communication resources and their availability and allocation.
+  - The communication risks and their mitigation and contingency plans.
+  - The communication metrics and their measurement and evaluation methods.
+  - The communication review and improvement processes.

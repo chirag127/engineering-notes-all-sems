@@ -1,0 +1,15 @@
+### Built-in functions
+
+- Built-in functions are expressions that perform some operation using SQL keywords or special operators.
+- Built-in functions can be used anywhere expressions are allowed, such as in SELECT, WHERE, GROUP BY, HAVING, ORDER BY clauses.
+- Built-in functions can be categorized into different types based on their functionality and input/output data types.
+- Some of the common types of built-in functions are:
+
+  - **Aggregate functions**: These functions perform a calculation on a set of values and return a single value. They are often used with the GROUP BY clause to summarize data. Examples of aggregate functions are SUM, AVG, MIN, MAX, COUNT, etc.
+  - **Analytic functions**: These functions compute an aggregate value based on a group of rows, but unlike aggregate functions, they do not reduce the number of rows in the result. They are often used with the OVER clause to partition the data and apply ranking, windowing, or statistical operations. Examples of analytic functions are ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD, etc.
+  - **String functions**: These functions manipulate character data and return a string value. They can be used to perform operations such as concatenation, extraction, conversion, comparison, searching, trimming, etc. Examples of string functions are CONCAT, SUBSTRING, UPPER, LOWER, REPLACE, CHARINDEX, etc .
+  - **Numeric functions**: These functions perform mathematical operations on numeric data and return a numeric value. They can be used to perform operations such as rounding, truncating, exponentiation, logarithm, absolute value, etc. Examples of numeric functions are ROUND, FLOOR, CEILING, POWER, LOG, ABS, etc.
+  - **Date and time functions**: These functions manipulate date and time data and return a date or time value. They can be used to perform operations such as extraction, addition, subtraction, conversion, formatting, etc. Examples of date and time functions are GETDATE, DATEADD, DATEDIFF, CONVERT, FORMAT, etc.
+  - **Conversion functions**: These functions convert data from one data type to another data type. They can be used to perform explicit or implicit conversions, depending on the compatibility of the data types. Examples of conversion functions are CAST, CONVERT, PARSE, TRY_CAST, TRY_CONVERT, etc.
+  - **Logical functions**: These functions perform logical operations on boolean data and return a boolean value. They can be used to evaluate conditions and return true or false values. Examples of logical functions are AND, OR, NOT, IF, CASE, IIF, CHOOSE, etc.
+  - **System functions**: These functions return information about the system, such as the current user, database, session, server, etc. They can be used to perform operations such as security, configuration, metadata, etc. Examples of system functions are USER, DB_NAME, SESSION_ID, @@VERSION, @@ROWCOUNT, etc.

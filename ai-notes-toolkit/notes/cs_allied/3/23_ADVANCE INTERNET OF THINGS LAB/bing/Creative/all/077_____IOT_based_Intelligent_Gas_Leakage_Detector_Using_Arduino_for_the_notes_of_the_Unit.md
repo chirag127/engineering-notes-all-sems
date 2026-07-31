@@ -1,0 +1,22 @@
+# IOT based Intelligent Gas Leakage Detector Using Arduino
+
+- This is a project that uses Internet of Things (IoT) technology to detect gas leakage in the surroundings and send data to an IOT module.
+- The main components of this project are:
+  - Arduino Uno: A microcontroller board that controls the sensors and the communication module.
+  - MQ5 gas sensor: A sensor that detects the presence of LPG gas in the air and outputs an analog voltage proportional to the gas concentration.
+  - ESP8266: A Wi-Fi module that connects the Arduino to the internet and sends the gas sensor data to a cloud platform or a web server.
+  - Buzzer: A device that produces an audible alarm when the gas level exceeds a threshold value.
+  - LED: A device that indicates the status of the gas sensor and the Wi-Fi module.
+- The working principle of this project is as follows:
+  - The MQ5 gas sensor is connected to the analog input pin of the Arduino Uno and the buzzer and the LED are connected to the digital output pins.
+  - The ESP8266 is connected to the Arduino Uno through the serial communication pins and is configured to connect to a Wi-Fi network and a cloud platform or a web server.
+  - The Arduino Uno reads the analog voltage from the MQ5 gas sensor and converts it to a gas concentration value using a calibration formula.
+  - The Arduino Uno also compares the gas concentration value with a predefined threshold value and activates the buzzer and the LED if the gas level is too high.
+  - The Arduino Uno sends the gas concentration value and the status of the buzzer and the LED to the ESP8266 module using serial communication.
+  - The ESP8266 module transmits the data to the cloud platform or the web server using HTTP requests or MQTT protocol.
+  - The cloud platform or the web server displays the data on a web page or a mobile app and alerts the user if the gas level is too high.
+- The advantages of this project are:
+  - It can monitor the gas leakage in real-time and remotely using IoT technology.
+  - It can prevent fire accidents and health hazards caused by gas leakage.
+  - It can save energy and reduce environmental pollution by avoiding gas wastage.
+  - It can be easily implemented and customized using Arduino and ESP8266 modules.

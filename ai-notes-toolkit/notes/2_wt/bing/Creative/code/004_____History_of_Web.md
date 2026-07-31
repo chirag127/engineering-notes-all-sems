@@ -1,0 +1,29 @@
+### History of Web
+
+- The Web, or the World Wide Web (WWW), is a system of interconnected documents and resources that can be accessed through the Internet using a web browser.
+- The Web was invented by Tim Berners-Lee, a British scientist working at CERN, the European Organization for Nuclear Research, in 1989  .
+- Berners-Lee proposed a "universal linked information system" that would allow scientists to share and access information across different computers and networks.
+- He developed several concepts and technologies that are essential for the Web, such as:
+  - HyperText Markup Language (HTML), a language for creating and formatting web pages.
+  - HyperText Transfer Protocol (HTTP), a protocol for communicating between web servers and web clients.
+  - Uniform Resource Identifier (URI), a system for identifying and locating web resources.
+  - HyperText, a way of linking and navigating between web pages and resources.
+- By the end of 1990, Berners-Lee had created the first web browser, web server, and web page .
+- In 1991, he made the Web available to the public and invited people outside of CERN to join the web community.
+- The Web grew rapidly in the following years, with the emergence of new web browsers, web servers, web sites, and web applications.
+- Some of the milestones in the history of the Web include:
+  - 1993: The release of Mosaic, the first popular graphical web browser, by the National Center for Supercomputing Applications (NCSA) in the United States.
+  - 1994: The launch of the World Wide Web Consortium (W3C), an international organization that develops and maintains web standards and guidelines, led by Berners-Lee.
+  - 1995: The introduction of JavaScript, a scripting language that enables dynamic and interactive web pages, by Netscape Communications Corporation.
+  - 1995: The launch of Amazon, the first major online shopping site, by Jeff Bezos, and eBay, the first major online auction site, by Pierre Omidyar.
+  - 1998: The launch of Google, the most widely used web search engine, by Larry Page and Sergey Brin.
+  - 2001: The launch of Wikipedia, the largest and most popular online encyclopedia, by Jimmy Wales and Larry Sanger.
+  - 2004: The launch of Facebook, the most popular social networking site, by Mark Zuckerberg and his Harvard classmates.
+  - 2005: The launch of YouTube, the most popular video-sharing site, by Chad Hurley, Steve Chen, and Jawed Karim.
+  - 2006: The launch of Twitter, the most popular microblogging site, by Jack Dorsey, Noah Glass, Biz Stone, and Evan Williams.
+  - 2007: The launch of the iPhone, the first smartphone with a web browser and touch screen, by Apple Inc..
+  - 2010: The launch of Instagram, the most popular photo-sharing site, by Kevin Systrom and Mike Krieger.
+  - 2012: The launch of Pinterest, the most popular image-sharing site, by Ben Silbermann, Paul Sciarra, and Evan Sharp.
+  - 2016: The launch of Pokémon Go, the most popular augmented reality game, by Niantic, Inc..
+  - 2020: The launch of TikTok, the most popular short-video sharing site, by ByteDance Ltd..
+- The Web continues to evolve and expand, with new web technologies, web standards, web services, and web challenges emerging every year.

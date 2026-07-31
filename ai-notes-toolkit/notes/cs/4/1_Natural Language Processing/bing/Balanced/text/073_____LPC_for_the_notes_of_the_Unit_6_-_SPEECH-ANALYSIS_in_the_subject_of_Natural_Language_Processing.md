@@ -1,0 +1,7 @@
+### LPC for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+
+- LPC stands for Linear Predictive Coding, which is a method used mostly in audio signal processing and speech processing for representing the spectral envelope of a digital signal of speech in compressed form, using the information of a linear predictive model .
+- LPC analyzes the speech signal by estimating the formants, which are the resonant frequencies of the vocal tract, and removing their effects from the speech signal, leaving behind the residual signal, which contains the pitch and the noise components.
+- LPC is based on the assumption that the speech signal is produced by a linear system, which can be modeled by an all-pole filter with a finite number of coefficients. The coefficients are determined by minimizing the mean squared error between the original signal and the predicted signal .
+- LPC is the most widely used method in speech coding and speech synthesis, as it can achieve high compression ratios and natural sounding speech quality.
+- LPC can be divided into two steps: analysis and synthesis. In the analysis step, the speech signal is divided into frames of fixed length, and the LPC coefficients and the residual signal are computed for each frame. In the synthesis step, the LPC coefficients and the residual signal are used to reconstruct the speech signal by passing the residual signal through the inverse filter defined by the LPC coefficients.

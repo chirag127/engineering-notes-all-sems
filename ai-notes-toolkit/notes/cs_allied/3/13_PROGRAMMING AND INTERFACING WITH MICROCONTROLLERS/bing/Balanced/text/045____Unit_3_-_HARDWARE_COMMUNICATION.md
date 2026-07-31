@@ -1,0 +1,21 @@
+## Unit 3 - HARDWARE COMMUNICATION
+
+- Hardware communication refers to the electric device and system for transferring data or information from one place to another.
+- Hardware communication can be classified into two types: wired and wireless.
+- Wired communication uses physical cables or wires to connect devices and transmit signals. Examples of wired communication devices are Ethernet cables, coaxial cables, and optical fibers.
+- Wireless communication uses electromagnetic waves or radio frequencies to transmit signals without physical cables or wires. Examples of wireless communication devices are Wi-Fi routers, Bluetooth devices, and cellular phones.
+- Hardware communication devices can also be categorized based on their functions and roles in a network. Some common types of hardware communication devices are:
+  - Modems: devices that convert digital signals to analog signals and vice versa for transmission over telephone lines or other communication wires .
+  - Routers: devices that forward data packets between different networks or subnets based on their destination addresses.
+  - Switches: devices that connect multiple devices on the same network and forward data packets based on their MAC addresses.
+  - Gateways: devices that connect different types of networks and perform protocol conversion, data encryption, or data compression.
+  - Servers: devices that provide services or resources to other devices on the network, such as web servers, email servers, or file servers.
+  - User devices: devices that access the network and request or consume services or resources, such as laptops, PDAs, mobile phones, or desktop computers.
+- Hardware communication devices use different protocols or rules to communicate with each other. Some common protocols are:
+  - UART: a serial communication protocol that uses one or two wires to transmit and receive data bits between devices.
+  - SPI: a serial communication protocol that uses four wires to transmit and receive data bits between a master device and one or more slave devices.
+  - I2C: a serial communication protocol that uses two wires to transmit and receive data bits between multiple devices on a shared bus.
+  - Ethernet: a network communication protocol that uses twisted pair cables or optical fibers to transmit and receive data frames between devices on a LAN.
+  - Wi-Fi: a wireless communication protocol that uses radio waves to transmit and receive data packets between devices on a WLAN.
+  - Bluetooth: a wireless communication protocol that uses radio waves to transmit and receive data packets between devices on a WPAN.
+  - Cellular: a wireless communication protocol that uses radio waves to transmit and receive data packets between devices on a WAN.

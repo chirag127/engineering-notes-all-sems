@@ -1,0 +1,10 @@
+### Quantum Information for the notes of the Unit 1 - Fundamental Concepts in the subject of Quantum Computing
+
+- Quantum Information refers to the study of information processing using quantum systems. It involves the use of quantum mechanics to encode, transmit and manipulate information.
+- Quantum Information is based on the principles of quantum mechanics, which govern the behavior of particles at the quantum level. These principles include superposition, entanglement, and uncertainty.
+- The basic unit of quantum information is the quantum bit or qubit. A qubit can exist in a superposition of two states, which allows for a greater amount of information to be encoded in a single qubit than in a classical bit.
+- Quantum Information can be transmitted using quantum channels, which are typically implemented using photons or other quantum systems. These channels allow for the transmission of information over long distances with high levels of security.
+- Quantum Information can be manipulated using quantum gates, which are analogous to classical logic gates. These gates allow for the manipulation of qubits and the processing of quantum information.
+- Quantum Information has many potential applications, including quantum cryptography, quantum computing, and quantum communication. These applications rely on the unique properties of quantum information, such as its ability to be transmitted securely and processed in parallel.
+- The study of Quantum Information is essential to the development of quantum technologies, which have the potential to revolutionize fields such as computing, telecommunications, and cryptography.
+- In order to fully understand Quantum Computing, it is important to have a strong foundation in the principles of Quantum Information. This includes an understanding of qubits, quantum channels, and quantum gates, as well as the applications of quantum information processing.

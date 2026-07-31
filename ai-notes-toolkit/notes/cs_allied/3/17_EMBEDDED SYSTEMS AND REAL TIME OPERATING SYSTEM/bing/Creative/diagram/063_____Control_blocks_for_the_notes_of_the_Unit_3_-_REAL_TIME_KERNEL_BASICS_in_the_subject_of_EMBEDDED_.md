@@ -1,0 +1,24 @@
+### Control blocks for the notes of the Unit 3 - REAL TIME KERNEL BASICS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Control blocks are data structures used by the real time kernel to store and manage information about the tasks, resources, events, timers, and other components of the real time system  .
+- Control blocks are usually created and initialized by the kernel when a component is created, and updated or deleted by the kernel when a component is modified or terminated  .
+- Control blocks are typically stored in a protected memory area that is inaccessible to the normal user tasks, to prevent accidental or malicious corruption of the kernel data .
+- Control blocks may contain various fields depending on the type and functionality of the component, such as:
+  - Identifier: a unique name or number that identifies the component  .
+  - State: the current status of the component, such as running, ready, waiting, suspended, etc  .
+  - Priority: the relative importance of the component, used by the kernel to schedule the execution of tasks or the allocation of resources  .
+  - Stack: the memory area that stores the local variables and return addresses of the component, used by the kernel to save and restore the context of the component .
+  - Link: a pointer or reference to the next or previous control block in a linked list, used by the kernel to organize and traverse the components .
+  - Data: any additional information that is specific to the component, such as the message queue, the semaphore count, the timer value, etc  .
+- Control blocks can be classified into different types according to the component they represent, such as:
+  - Task Control Block (TCB): a control block that stores the information about a task, such as its identifier, state, priority, stack, etc  .
+  - Resource Control Block (RCB): a control block that stores the information about a resource, such as its identifier, state, priority, data, etc .
+  - Event Control Block (ECB): a control block that stores the information about an event, such as its identifier, state, data, etc .
+  - Timer Control Block (TCB): a control block that stores the information about a timer, such as its identifier, state, data, etc .
+- Control blocks are essential for the kernel to perform its functions, such as:
+  - Task management: the kernel uses the TCBs to create, terminate, suspend, resume, and change the priorities of the tasks  .
+  - Task scheduling: the kernel uses the TCBs to select the next task to run based on the state and priority of the tasks  .
+  - Context switching: the kernel uses the TCBs to save and restore the context of the tasks when switching from one task to another  .
+  - Resource management: the kernel uses the RCBs to allocate and deallocate the resources to the tasks based on the state and priority of the resources and the tasks .
+  - Event management: the kernel uses the ECBs to signal and wait for the events between the tasks based on the state and data of the events and the tasks .
+  - Timer management: the kernel uses the TCBs to create, start, stop, and delete the timers, and to trigger the actions associated with the timers based on the state and data of the timers .

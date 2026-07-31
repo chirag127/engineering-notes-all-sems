@@ -1,0 +1,10 @@
+# Unit 3 - Design dynamic web pages using Javascript and XML
+
+- Dynamic web pages are web pages that can change their content or appearance without reloading the whole page. They can provide a better user experience and more interactivity than static web pages.
+- Javascript is a scripting language that can run in the browser and manipulate the HTML and CSS elements of a web page. It can also communicate with the server and exchange data using AJAX (Asynchronous JavaScript and XML) or JSON (JavaScript Object Notation) techniques.
+- XML (Extensible Markup Language) is a markup language that can store and transport data in a structured and readable format. It can be used to define the content and structure of a web page, or to exchange data between the server and the browser.
+- To design dynamic web pages using Javascript and XML, you need to follow these steps:
+  - Create an HTML document that defines the basic layout and structure of the web page. You can use HTML5 elements and attributes to enhance the semantics and accessibility of the web page.
+  - Create a CSS file that defines the style and appearance of the web page. You can use CSS3 properties and selectors to create responsive and interactive designs.
+  - Create a Javascript file that defines the functionality and behavior of the web page. You can use Javascript functions, variables, objects, events, and DOM (Document Object Model) methods to manipulate the web page elements and respond to user actions. You can also use Javascript to create and parse XML documents, or to send and receive data using AJAX or JSON.
+  - Link the HTML, CSS, and Javascript files together using the `<link>` and `<script>` tags in the HTML document. You can also use external libraries or frameworks to simplify the development process and add more features to your web page. Some examples of popular libraries and frameworks are jQuery, Bootstrap, React, Angular, and Vue.

@@ -1,0 +1,10 @@
+# Serial Communication
+
+Serial communication is the process of sequentially transferring the information/bits on the same channel. Due to this, the cost of wire will be reduced, but it slows the transmission speed. Serial communication is used for all long-haul communication and most computer networks, where the cost of cable and synchronization difficulties make parallel communication impractical.
+
+Some of the main points to note about serial communication are:
+
+- Serial communication can either be asynchronous or synchronous. Asynchronous communication does not require a common clock signal between the sender and the receiver, but it uses start and stop bits to indicate the beginning and the end of a data frame. Synchronous communication requires a common clock signal between the sender and the receiver, and it does not use start and stop bits, but it may use other synchronization methods .
+- Serial communication can use different methods to encode the data in the form of serial digital binary. Some of the well-known interfaces used for the data exchange are RS-232, RS-485, I2C, SPI, etc. These interfaces differ in the number of wires, the voltage levels, the data rates, the error detection and correction mechanisms, and the protocols they follow.
+- Serial communication can also be classified into simplex, half-duplex, and full-duplex modes. Simplex mode allows data transmission in one direction only, such as from a keyboard to a computer. Half-duplex mode allows data transmission in both directions, but not at the same time, such as in a walkie-talkie. Full-duplex mode allows data transmission in both directions simultaneously, such as in a telephone.
+- A data communication processor is an I/O processor that distributes and collects data from numerous remote terminals connected through telephone and other communication lines to the computer. It is a specialized I/O processor designed to communicate with data communication networks.

@@ -1,0 +1,8 @@
+### 3-D Viewing
+
+1. 3-D viewing refers to the process of projecting a three-dimensional object onto a two-dimensional plane, such as a computer screen or a piece of paper.
+2. This process involves several steps, including defining the viewing volume, specifying the projection type, and applying transformations to the object and the viewing coordinate system.
+3. The viewing volume is the region of space that is visible from a particular viewpoint. It is defined by a set of six planes that form a rectangular parallelepiped, also known as a viewing frustum.
+4. There are two main types of projections used in 3-D viewing: parallel and perspective. Parallel projection involves projecting the object onto the view plane along parallel lines, while perspective projection involves projecting the object onto the view plane along lines that converge at a single point, known as the center of projection.
+5. Transformations are used to manipulate the object and the viewing coordinate system in order to achieve the desired view. These transformations include translation, scaling, and rotation.
+6. In computer graphics, 3-D viewing is an essential part of the rendering pipeline, which is the process of generating a two-dimensional image from a three-dimensional scene. The viewing transformation is applied to the object, followed by the projection transformation, which maps the object onto the view plane. The resulting image is then rasterized and displayed on the screen.

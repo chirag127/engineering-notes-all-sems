@@ -1,0 +1,26 @@
+# Hadoop Configuration
+
+- Hadoop configuration is driven by two types of important configuration files  :
+  - Read-only default configuration files that provide the default values for various Hadoop parameters. These files are located in the `src` directory of the Hadoop source code and have the suffix `-default.xml`. Examples are `core-default.xml`, `hdfs-default.xml`, `yarn-default.xml` and `mapred-default.xml`.
+  - Site-specific configuration files that override the default values and specify the settings for the Hadoop cluster. These files are located in the `etc/hadoop` directory of the Hadoop installation and have the suffix `-site.xml`. Examples are `core-site.xml`, `hdfs-site.xml`, `yarn-site.xml` and `mapred-site.xml`.
+- To configure the Hadoop cluster, you will need to configure the environment in which the Hadoop daemons execute as well as the configuration parameters for the Hadoop daemons :
+  - Hadoop daemons are the processes that run on the cluster nodes and perform the core functions of Hadoop. Depending on the Hadoop version and the mode of operation, the Hadoop daemons may include:
+    - NameNode: The master node that manages the metadata of the Hadoop Distributed File System (HDFS).
+    - SecondaryNameNode: The backup node that periodically merges the edits log and the fsimage file of the NameNode.
+    - DataNode: The worker node that stores the data blocks of HDFS and communicates with the NameNode.
+    - JobTracker: The master node that coordinates the execution of MapReduce jobs on the cluster.
+    - TaskTracker: The worker node that runs the map and reduce tasks of MapReduce jobs and communicates with the JobTracker.
+    - ResourceManager: The master node that manages the allocation of resources and the scheduling of applications on the cluster.
+    - NodeManager: The worker node that runs the containers and monitors the resource usage of the applications on the cluster.
+    - WebAppProxy: The proxy node that handles the web interface requests for the applications on the cluster.
+  - Configuring the environment of the Hadoop daemons involves setting up the following aspects :
+    - Java: Java must be installed on all the nodes of the cluster and the `JAVA_HOME` environment variable must be set to point to the Java installation directory.
+    - SSH: SSH must be installed and SSHD must be running on all the nodes of the cluster to enable the Hadoop scripts that manage the remote Hadoop daemons. The Hadoop user must be able to SSH to any node of the cluster without password authentication.
+    - Hosts: The `/etc/hosts` file must be updated on all the nodes of the cluster to include the hostnames and IP addresses of all the nodes. Alternatively, a DNS service can be used to resolve the hostnames.
+    - Hadoop: Hadoop must be installed on all the nodes of the cluster and the `HADOOP_HOME` environment variable must be set to point to the Hadoop installation directory. The `HADOOP_CONF_DIR` environment variable must be set to point to the `etc/hadoop` directory that contains the configuration files. The `HADOOP_PREFIX` environment variable must be set to the same value as `HADOOP_HOME`.
+    - User: The Hadoop user must have the ownership and permissions to access the Hadoop installation directory, the Hadoop configuration directory, and the Hadoop data directories on all the nodes of the cluster.
+  - Configuring the parameters of the Hadoop daemons involves editing the site-specific configuration files in the `etc/hadoop` directory :
+    - `core-site.xml`: This file contains the core configuration settings for Hadoop, such as the default file system URI, the I/O settings, and the security settings.
+    - `hdfs-site.xml`: This file contains the configuration settings for HDFS, such as the replication factor, the block size, the NameNode and DataNode directories, and the checkpoint settings.
+    - `yarn-site.xml`: This file contains the configuration settings for YARN, such as the ResourceManager and NodeManager addresses, the resource allocation settings, and the application submission settings.
+    - `mapred-site.xml`: This file contains the configuration settings for MapReduce, such as the framework name, the JobTracker and TaskTracker addresses, the map and reduce task settings, and the job history settings.

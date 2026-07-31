@@ -1,0 +1,8 @@
+### Trust and Reputation in Multi-agent systems
+
+- Trust and reputation are important concepts for effective interactions in open multi-agent systems (MAS) where agents can enter and leave the system at any time and may have conflicting or cooperative goals.
+- Trust is the degree of belief that an agent has about the reliability, honesty, or competence of another agent. Trust can be based on direct experiences, recommendations, or other sources of information.
+- Reputation is the collective opinion or evaluation of an agent by a group of agents. Reputation can be derived from trust ratings, feedback, or other mechanisms that aggregate the views of multiple agents.
+- Trust and reputation can help agents to select reliable and trustworthy partners, avoid malicious or incompetent agents, and cope with uncertainty and risk in complex and dynamic environments .
+- There are many different models and metrics for trust and reputation in MAS, such as those proposed by Marsh, Sen et al., SPORAS, eBay, and certified reputation. These models differ in how they define, measure, update, and use trust and reputation values, and how they deal with issues such as uncertainty, dynamics, heterogeneity, and malicious behavior .
+- Some of the challenges and open problems in trust and reputation research include: how to integrate multiple sources and types of information, how to cope with incomplete and inconsistent data, how to handle context and situation dependence, how to balance exploration and exploitation, how to incentivize honest and cooperative behavior, and how to evaluate the performance and robustness of trust and reputation systems  .

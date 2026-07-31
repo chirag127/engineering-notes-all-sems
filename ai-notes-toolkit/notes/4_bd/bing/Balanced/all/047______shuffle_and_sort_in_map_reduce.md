@@ -1,0 +1,22 @@
+#### Shuffle and Sort in Map Reduce
+
+- Map Reduce is a programming model for processing large-scale data sets in parallel and distributed manner.
+- Map Reduce consists of two phases: map and reduce. The map phase applies a user-defined function to each input record and produces a set of intermediate key-value pairs. The reduce phase applies another user-defined function to all the values that share the same key and produces a set of output records.
+- Shuffle and Sort is an intermediate phase between map and reduce that ensures that the input to every reducer is sorted by key. The process by which the system performs the sort and transfers the map outputs to the reducers as inputs is called shuffle  .
+- Shuffle and Sort consists of the following steps :
+  - Partitioning: The map outputs are partitioned by a user-defined partitioning function based on the key. The partitioning function determines which reducer will receive which key-value pairs. The default partitioning function is a hash function of the key modulo the number of reducers.
+  - Sorting: The map outputs are sorted by key within each partition. This is done by using a buffer in memory to store the map outputs and periodically spilling them to disk when the buffer is full. The spilled files are also sorted by key. The sorting is done by using a user-defined comparator function that defines the order of the keys. The default comparator function is the natural order of the keys.
+  - Merging: The sorted map outputs are merged into a single sorted file per partition. This is done by using a merge sort algorithm that reads from multiple sources and writes to a single output. The merging is done by using the same comparator function as the sorting.
+  - Copying: The merged files are copied from the local disks of the map nodes to the local disks of the reduce nodes. This is done by using HTTP requests from the reduce nodes to the map nodes. The copying is done in parallel with the map and reduce tasks to overlap the computation and communication.
+  - Grouping: The sorted map outputs are grouped by key on the reduce nodes. This is done by using an iterator that returns the values that share the same key as a single collection. The grouping is done by using the same comparator function as the sorting and merging.
+- Shuffle and Sort is an important phase in Map Reduce as it enables the following features :
+  - Load balancing: The partitioning function distributes the map outputs evenly among the reducers, avoiding skew and hotspots.
+  - Fault tolerance: The map outputs are stored on the local disks of the map nodes and can be re-copied if a reduce node fails or a network partition occurs.
+  - Data locality: The copying of the map outputs is done by the reduce nodes, which can choose the closest map node to fetch the data from, reducing the network traffic and latency.
+  - Combiner: The combiner is an optional mini-reducer that runs on the map nodes and performs a partial aggregation of the map outputs before the shuffle. This can reduce the amount of data that needs to be shuffled and sorted, improving the performance and efficiency of the system.
+- Shuffle and Sort is also a challenging phase in Map Reduce as it involves the following issues   :
+  - Memory management: The map outputs are stored in memory before spilling to disk, which can cause memory pressure and garbage collection overhead. The buffer size and the spill threshold need to be tuned carefully to balance the memory usage and the disk I/O.
+  - Disk I/O: The map outputs are written to and read from disk multiple times during the sorting and merging, which can cause disk contention and performance degradation. The number and size of the spilled files need to be minimized to reduce the disk I/O.
+  - Network I/O: The map outputs are transferred over the network from the map nodes to the reduce nodes, which can cause network congestion and bandwidth limitation. The number and size of the map outputs need to be reduced to optimize the network I/O.
+  - Performance tuning: The shuffle and sort phase can be influenced by various parameters and functions that need to be configured and customized according to the data characteristics and the application requirements. These include the number of reducers, the partitioning function, the comparator function, the combiner function, the buffer size, the spill threshold, the compression codec, etc.
+- A possible mnemonic to remember the steps of shuffle and sort is: **P**artitioning, **S**orting, **M**erging,

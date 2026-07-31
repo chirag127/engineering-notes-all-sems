@@ -1,0 +1,24 @@
+### Pumping Lemma for CFL
+
+- The pumping lemma for context-free languages (CFLs) is a tool to prove that a given language is not context-free.
+- The idea is to assume that the language is context-free and derive a contradiction by showing that there exists a string in the language that cannot be pumped, i.e., repeated in some way, without leaving the language.
+- The pumping lemma for CFLs states that if L is a context-free language, then there exists a constant n (called the pumping length) such that for any string w in L of length at least n, there exist strings u, v, x, y, and z such that:
+  - w = uvxyz
+  - |vxy| ≤ n
+  - |vy| ≥ 1
+  - uv<sup>i</sup>xy<sup>i</sup>z is in L for all i ≥ 0
+- The intuition behind the pumping lemma is that any sufficiently long string in a context-free language must have some repeated structure that corresponds to a variable in a context-free grammar (CFG) for the language. This variable can be replaced by different derivations to generate new strings in the language.
+- To use the pumping lemma to prove that a language is not context-free, we need to follow these steps:
+  - Assume that the language is context-free and let n be the pumping length.
+  - Choose a string w in the language of length at least n.
+  - Show that for any possible way of splitting w into u, v, x, y, and z, there exists an i such that uv<sup>i</sup>xy<sup>i</sup>z is not in the language.
+  - Conclude that the language is not context-free by contradiction.
+- For example, let L = {a<sup>n</sup>b<sup>n</sup> | n ≥ 1} be a language. We want to prove that L is not context-free using the pumping lemma.
+  - Assume that L is context-free and let n be the pumping length.
+  - Choose w = a<sup>n</sup>b<sup>n</sup> in L of length 2n ≥ n.
+  - Consider any possible way of splitting w into u, v, x, y, and z such that |vxy| ≤ n and |vy| ≥ 1. There are three cases:
+    - Case 1: v and y contain only a's. Then, for i = 0, uv<sup>0</sup>xy<sup>0</sup>z = uxz has fewer a's than b's, so it is not in L.
+    - Case 2: v and y contain only b's. Then, for i = 0, uv<sup>0</sup>xy<sup>0</sup>z = uxz has fewer b's than a's, so it is not in L.
+    - Case 3: v and y contain both a's and b's. Then, for any i ≠ 1, uv<sup>i</sup>xy<sup>i</sup>z has some b's before some a's, so it is not in L.
+  - In all cases, we can find an i such that uv<sup>i</sup>xy<sup>i</sup>z is not in L, which contradicts the pumping lemma.
+  - Therefore, L is not context-free.

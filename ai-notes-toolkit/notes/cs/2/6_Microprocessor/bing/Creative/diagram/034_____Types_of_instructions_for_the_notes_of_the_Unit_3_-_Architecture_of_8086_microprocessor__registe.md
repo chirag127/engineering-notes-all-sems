@@ -1,0 +1,21 @@
+### Types of instructions for the notes of the Unit 3 - Architecture of 8086 microprocessor: register organization, bus interface unit, execution unit, memory addressing, and memory segmentation. Operating modes. Instruction sets, instruction format, Types of instructions. Interrupts: hardware and software interrupts.
+
+- The 8086 microprocessor is a 16-bit microprocessor with a 16-bit internal and external data bus. It can access up to 1 MB of memory with 20 address lines .
+- The architecture of the 8086 microprocessor consists of two independent sections or units, the Bus Interface Unit (BIU) and Execution Unit (EU)  .
+  - The Bus Interface Unit (BIU) interfaces the 8086 with the external world. It handles all the data transfer functions. It consists of the following components  :
+    - Segment registers: These are four 16-bit registers that store the starting addresses of four memory segments: code, data, stack, and extra. Each segment can be up to 64 KB in size.
+    - Instruction pointer: This is a 16-bit register that stores the offset address of the next instruction to be executed within the code segment.
+    - Address adder: This is a circuit that combines the segment address and the offset address to form a 20-bit physical address that is sent to the memory or I/O devices.
+    - Instruction queue: This is a 6-byte FIFO buffer that prefetches and stores the instructions from the memory. This increases the speed of instruction execution by reducing the wait states.
+  - The Execution Unit (EU) performs the arithmetic and logical operations on the data. It consists of the following components  :
+    - General purpose registers: These are eight 16-bit registers that can be used for various purposes such as data storage, address calculation, or operand manipulation. They are AX, BX, CX, DX, SI, DI, BP, and SP. They can also be accessed as 8-bit registers by using their high and low bytes, such as AH, AL, BH, BL, etc.
+    - Arithmetic and logic unit (ALU): This is a circuit that performs the arithmetic and logical operations on the operands. It can operate on 8-bit or 16-bit data. It also sets the flags in the flag register according to the result of the operation.
+    - Flag register: This is a 16-bit register that stores the status of the EU. It consists of nine flags that indicate various conditions such as carry, zero, sign, overflow, etc. Some of the flags can be used for conditional branching or looping instructions.
+    - Control and status registers: These are two 16-bit registers that control the operation of the EU. They are the instruction register (IR) and the temporary register (TR). The IR stores the current instruction being executed, while the TR stores the intermediate results of the ALU operations.
+- The 8086 microprocessor has two operating modes: the minimum mode and the maximum mode  .
+  - The minimum mode is used when the 8086 is the only processor in the system. It requires a single clock generator and a few control signals to interface with the memory and I/O devices. The 8086 generates all the control signals internally.
+  - The maximum mode is used when the 8086 is part of a multiprocessor system. It requires an external bus controller (such as the 8288) and a clock generator (such as the 8284) to interface with the memory and I/O devices. The 8086 generates some of the control signals externally and some internally.
+- The 8086 microprocessor has a rich instruction set that can perform various operations on the data. The instruction set can be classified into the following types  :
+  - Data transfer instructions: These are the instructions that move data between registers, memory, and I/O devices. Examples are MOV, PUSH, POP, IN, OUT, etc.
+  - Arithmetic instructions: These are the instructions that perform arithmetic operations on the data, such as addition, subtraction, multiplication, division, etc. Examples are ADD, SUB, MUL, DIV, etc.
+  - Logical instructions: These are the instructions that perform logical operations on the data, such as AND, OR, XOR, NOT, etc.

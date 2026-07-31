@@ -1,0 +1,23 @@
+### Potential stakeholders and their complex relationships to data and analytics applications for sustainability
+
+- Stakeholders are individuals or groups who have an interest or influence in the outcomes of data and analytics projects, especially those related to sustainability goals .
+- Stakeholders can have different roles, perspectives, expectations, and needs regarding data and analytics applications for sustainability, such as:
+  - Data providers: those who collect, generate, or share data for sustainability analysis, such as sensors, devices, machines, or humans .
+  - Data consumers: those who use, interpret, or act on data for sustainability decision-making, such as managers, policymakers, researchers, or citizens  .
+  - Data intermediaries: those who process, transform, or enrich data for sustainability analysis, such as cloud platforms, data warehouses, or analytics frameworks .
+  - Data regulators: those who set, enforce, or monitor data standards, policies, or ethics for sustainability, such as governments, agencies, or watchdogs .
+- Stakeholders can have complex relationships to data and analytics applications for sustainability, such as:
+  - Collaboration: stakeholders can work together to share data, insights, or actions for sustainability, such as through data platforms, dashboards, or reports  .
+  - Competition: stakeholders can compete for data, resources, or influence for sustainability, such as through data ownership, access, or quality .
+  - Conflict: stakeholders can have conflicting interests, values, or goals for sustainability, such as through data privacy, security, or ethics .
+  - Co-evolution: stakeholders can influence and be influenced by the changes in data and analytics applications for sustainability, such as through data feedback, learning, or innovation .
+- Stakeholders can have different levels of engagement and influence in data and analytics applications for sustainability, such as:
+  - Awareness: stakeholders are informed about the existence, purpose, and benefits of data and analytics applications for sustainability  .
+  - Consultation: stakeholders are asked for their opinions, feedback, or suggestions on data and analytics applications for sustainability  .
+  - Participation: stakeholders are involved in the design, development, or implementation of data and analytics applications for sustainability  .
+  - Empowerment: stakeholders are given the authority, responsibility, or ownership of data and analytics applications for sustainability  .
+- Stakeholders can have different impacts and outcomes from data and analytics applications for sustainability, such as:
+  - Efficiency: stakeholders can improve their performance, productivity, or quality of work or life by using data and analytics applications for sustainability  .
+  - Effectiveness: stakeholders can achieve their goals, objectives, or targets by using data and analytics applications for sustainability  .
+  - Equity: stakeholders can benefit from fair, inclusive, or transparent data and analytics applications for sustainability  .
+  - Empathy: stakeholders can understand, appreciate, or respect the perspectives, needs, or values of other stakeholders by using data and analytics applications for sustainability  .

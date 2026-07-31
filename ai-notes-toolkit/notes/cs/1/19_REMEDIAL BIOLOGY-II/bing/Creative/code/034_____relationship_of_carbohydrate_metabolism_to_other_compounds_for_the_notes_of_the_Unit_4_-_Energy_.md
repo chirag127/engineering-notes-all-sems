@@ -1,0 +1,23 @@
+### Relationship of carbohydrate metabolism to other compounds
+
+- Carbohydrate metabolism is the process of breaking down and synthesizing carbohydrates, which are organic molecules composed of carbon, hydrogen, and oxygen atoms.
+- Carbohydrates can be classified into simple sugars (monosaccharides and disaccharides) and complex sugars (polysaccharides), such as starch, glycogen, and cellulose.
+- Carbohydrate metabolism is connected to the metabolism of other compounds, such as proteins and lipids, through common intermediates and pathways  .
+- The main pathway of carbohydrate metabolism is glycolysis, which converts glucose into pyruvate, generating ATP and NADH.
+- Pyruvate can then enter the mitochondria and be converted into acetyl coenzyme A (acetyl CoA), which is the entry point for the citric acid cycle (also known as the Krebs cycle or the tricarboxylic acid cycle).
+- The citric acid cycle is a series of reactions that produces more ATP, NADH, FADH2, and carbon dioxide.
+- The NADH and FADH2 then donate their electrons to the electron transport chain, which is a series of protein complexes embedded in the inner mitochondrial membrane.
+- The electron transport chain transfers the electrons along a gradient of proton pumps, creating a proton motive force that drives the synthesis of ATP by the enzyme ATP synthase.
+- This process is called oxidative phosphorylation, because it involves the oxidation of NADH and FADH2 and the phosphorylation of ADP to ATP.
+- The metabolism of other compounds can also feed into or out of carbohydrate metabolism through various connections  .
+- For example, the simple sugars galactose and fructose can be converted into glucose or intermediates of glycolysis, such as glyceraldehyde-3-phosphate or dihydroxyacetone phosphate .
+- Glycogen, which is a polysaccharide that stores glucose in animals, can be broken down into glucose-1-phosphate and then converted into glucose-6-phosphate, which is the first intermediate of glycolysis .
+- Pentose, which is a five-carbon sugar, can be derived from the pentose phosphate pathway, which is a branch of glycolysis that generates NADPH and ribose-5-phosphate .
+- Ribose-5-phosphate is the precursor for the synthesis of nucleotides, such as ATP, GTP, CTP, and UTP .
+- The amino acids from proteins can also connect with carbohydrate metabolism through pyruvate, acetyl CoA, and components of the citric acid cycle  .
+- Depending on their structure, amino acids can be classified into glucogenic, ketogenic, or both  .
+- Glucogenic amino acids can be converted into pyruvate or intermediates of the citric acid cycle, such as oxaloacetate, fumarate, succinyl CoA, or alpha-ketoglutarate  .
+- These intermediates can then be used to synthesize glucose through a process called gluconeogenesis, which is the reverse of glycolysis  .
+- Ketogenic amino acids can be converted into acetyl CoA or acetoacetyl CoA, which are the precursors for the synthesis of ketone bodies, such as acetoacetate, beta-hydroxybutyrate, and acetone  .
+- Ketone bodies are an alternative fuel source for the brain and other tissues when glucose is scarce, such as during fasting or starvation  .
+- Some amino acids, such as leucine, lysine, isoleucine, phenylalanine, tyrosine, and tryptophan, are both glucogenic and ketogenic, meaning they can be converted into either pyruvate, acetyl CoA, or citric acid cycle intermediates[^1^

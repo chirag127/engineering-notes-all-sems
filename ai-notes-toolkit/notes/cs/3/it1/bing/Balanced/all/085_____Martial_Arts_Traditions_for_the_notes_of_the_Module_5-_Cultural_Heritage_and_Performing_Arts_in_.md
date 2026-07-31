@@ -1,0 +1,19 @@
+# Martial Arts Traditions
+
+Martial arts are systems of codified practices and traditions of training for combat. They are used for self-defense, physical fitness, mental and spiritual development, entertainment, and cultural preservation.
+
+India has a rich and diverse heritage of martial arts that dates back to ancient times. Some of the martial arts in India are influenced by foreign cultures, such as Persian, Greek, Chinese, and Mongol invaders, while others are indigenous and unique to different regions of India.
+
+Here are some of the prominent and ancient martial art forms of India:
+
+- **Kushti**: Kushti is a form of traditional wrestling that originated in the Mughal era, when the local sport of Malla Yuddha was combined with the Persian sport of Varzesh-e-Bastani. Kushti involves grappling, striking, and throwing techniques, as well as the use of a loincloth called langot. Kushti is popular in northern and western India, especially in Punjab, Haryana, Rajasthan, Uttar Pradesh, and Maharashtra. Some famous kushti wrestlers are Dara Singh, Gama Pehalwan, and Sushil Kumar.
+
+- **Silambam**: Silambam is a form of stick fighting that originated in Tamil Nadu and has been mentioned in the Sangam literature. Silambam involves the use of a bamboo staff called silambamboo, as well as other weapons such as swords, daggers, spears, and shields. Silambam is known for its fluid and swift movements, as well as its use of footwork, feints, and spins. Silambam is practiced in southern India, especially in Tamil Nadu, Kerala, Karnataka, and Andhra Pradesh. Some famous silambam practitioners are Bodhidharma, Veerapandiya Kattabomman, and Rajinikanth .
+
+- **Kalaripayattu**: Kalaripayattu is considered to be the mother of all martial arts, as it is one of the oldest and most comprehensive systems of combat in the world. Kalaripayattu originated in Kerala and has been influenced by Ayurveda, Yoga, and Tantra. Kalaripayattu involves the use of various weapons, such as swords, daggers, spears, bows, and axes, as well as unarmed techniques, such as kicks, punches, locks, and throws. Kalaripayattu also emphasizes the development of the vital energy points called marma, which are used for healing and harming. Kalaripayattu is practiced in southern India, especially in Kerala, Tamil Nadu, and Karnataka. Some famous kalaripayattu practitioners are Parashurama, Arjuna, and Bruce Lee.
+
+- **Thang Ta**: Thang Ta, which means sword and spear, is a form of martial art that originated in Manipur and is based on the ancient warfare of the Meitei people. Thang Ta involves the use of various weapons, such as swords, spears, shields, daggers, and axes, as well as unarmed techniques, such as kicks, punches, blocks, and dodges. Thang Ta is known for its acrobatic and agile movements, as well as its use of chants, rituals, and dances. Thang Ta is practiced in northeastern India, especially in Manipur, Assam, and Tripura. Some famous thang ta practitioners are Khongjom Lalit, Paona Brajabashi, and Mary Kom.
+
+- **Gatka**: Gatka is a form of martial art that originated in Punjab and is associated with the Sikh religion. Gatka involves the use of various weapons, such as swords, daggers, sticks, and chakrams, as well as unarmed techniques, such as kicks, punches, and locks. Gatka is known for its rhythmic and synchronized movements, as well as its use of music, poetry, and philosophy. Gatka is practiced in northern India, especially in Punjab, Haryana, Delhi, and Jammu and Kashmir. Some famous gatka practitioners are Guru Gobind Singh, Hari Singh Nalwa, and Akshay Kumar .
+
+- **Mardani Khel**: Mardani Khel is a form of martial art that originated in Maharashtra and is influenced by the Maratha warriors. Mardani Khel involves the use of 14 styles of wielding weapons, such as swords, daggers, spears, shields, and whips, as well as unarmed techniques, such as kicks, punches

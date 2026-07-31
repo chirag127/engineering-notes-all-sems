@@ -1,0 +1,13 @@
+### Testing of Serializability for the Notes of Unit 7 - Transaction Processing Concepts in the Subject of Basics of Database Management System
+
+Serializability is a key concept in transaction processing, which ensures that transactions occur in a manner that is equivalent to a serial execution of the transactions. Testing the serializability of transactions is crucial to ensuring the proper functioning of a database system. Here are some important points to keep in mind when testing for serializability:
+
+- **Schedule:** The first step in testing for serializability is to look at the schedule of transactions. A schedule is a sequence of operations that are performed by a set of transactions. A schedule is said to be serial if each transaction executes its operations in a single, uninterrupted sequence, without any interleaving with other transactions. A schedule is said to be non-serial if transactions are interleaved in some way.
+
+- **Conflict Serializability:** Given a schedule, we can determine whether it is conflict serializable by constructing a precedence graph. A precedence graph is a directed graph in which each transaction is represented by a node, and edges are drawn between pairs of nodes to represent dependencies between transactions. If the graph is acyclic, then the schedule is conflict serializable. If the graph has a cycle, then the schedule is not conflict serializable.
+
+- **View Serializability:** Another way to test for serializability is to use the concept of view equivalence. Two schedules are said to be view equivalent if they produce the same results when executed against the same initial database state. The view serializability problem is to determine whether a given schedule is view equivalent to some serial schedule.
+
+- **Testing for Serializability:** There are algorithms that can be used to test for both conflict and view serializability. One such algorithm is the rigorous two-phase locking algorithm, which ensures that transactions acquire locks on all the data items they need before performing any updates, and release all locks when they commit. This algorithm guarantees conflict serializability.
+
+- **Summary:** Testing for serializability is an important aspect of transaction processing, and ensures that transactions are executed in a manner that is equivalent to a serial execution. Conflict serializability can be determined by constructing a precedence graph, while view serializability can be determined by using the concept of view equivalence. Algorithms such as the rigorous two-phase locking algorithm can be used to ensure serializability.

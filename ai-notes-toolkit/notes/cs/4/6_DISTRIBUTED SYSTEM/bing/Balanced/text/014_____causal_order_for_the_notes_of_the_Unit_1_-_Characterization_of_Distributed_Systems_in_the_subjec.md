@@ -1,0 +1,31 @@
+### Causal Order for the Notes of the Unit 1 - Characterization of Distributed Systems
+
+- Causal order is a way of ordering events in a distributed system based on their causal relationships, rather than their physical timestamps or locations.
+- Causal order ensures that if an event e1 causally precedes another event e2, then e1 is observed before e2 by all processes in the system.
+- Causal order is important for maintaining consistency and correctness in distributed systems, especially for applications that rely on causal dependencies, such as collaborative editing, social media, or online gaming.
+- Causal order can be defined formally using the concept of Lamport's happened-before relation, denoted by ->, which is a partial order on the set of events in a distributed system.
+- The happened-before relation -> satisfies the following properties:
+  - If e1 and e2 are events in the same process, and e1 occurs before e2, then e1 -> e2.
+  - If e1 is the sending of a message by one process and e2 is the receipt of the same message by another process, then e1 -> e2.
+  - If e1 -> e2 and e2 -> e3, then e1 -> e3 (transitivity).
+- Two events e1 and e2 are said to be concurrent, denoted by e1 || e2, if neither e1 -> e2 nor e2 -> e1 holds. Concurrent events have no causal relationship and can be observed in any order by different processes.
+- Causal order can be implemented in distributed systems using various algorithms, such as vector clocks, causal broadcast, or causal memory.
+- Vector clocks are a mechanism for assigning logical timestamps to events in a distributed system, such that the timestamps reflect the causal order of the events.
+- A vector clock is an array of n integers, where n is the number of processes in the system. Each process maintains its own vector clock and updates it as follows:
+  - Initially, all entries are set to zero.
+  - Whenever a process performs an internal event, it increments its own entry in the vector clock by one.
+  - Whenever a process sends a message, it attaches its current vector clock to the message and increments its own entry by one.
+  - Whenever a process receives a message, it updates its vector clock by taking the element-wise maximum of its own vector clock and the vector clock received with the message.
+- The vector clocks of two events e1 and e2 can be compared to determine their causal order as follows:
+  - If e1 -> e2, then the vector clock of e1 is less than the vector clock of e2, denoted by VC(e1) < VC(e2), meaning that for every i, VC(e1)[i] <= VC(e2)[i], and there exists some j such that VC(e1)[j] < VC(e2)[j].
+  - If e1 || e2, then the vector clocks of e1 and e2 are incomparable, denoted by VC(e1) || VC(e2), meaning that there exists some i and some j such that VC(e1)[i] < VC(e2)[i] and VC(e1)[j] > VC(e2)[j].
+- Causal broadcast is a communication primitive that guarantees that messages are delivered to all processes in the system in causal order.
+- Causal broadcast can be implemented using vector clocks as follows:
+  - Whenever a process wants to broadcast a message, it sends the message along with its current vector clock to all other processes.
+  - Whenever a process receives a message, it checks if the message is causally ready, meaning that the vector clock of the message is less than or equal to its own vector clock plus one at the sender's entry. If the message is causally ready, it delivers the message and updates its vector clock. Otherwise, it buffers the message until it becomes causally ready.
+- Causal memory is a shared memory abstraction that guarantees that read and write operations are performed in causal order.
+- Causal memory can be implemented using vector clocks as follows:
+  - Each process maintains a local copy of the shared memory and a vector clock that reflects the causal order of its operations.
+  - Whenever a process wants to read a value from the shared memory, it returns the value from its local copy.
+  - Whenever a process wants to write a value to the shared memory, it updates its local copy and its vector clock, and sends the value and the vector clock to all other processes.
+  - Whenever a process receives a value and a vector clock from another process, it

@@ -1,0 +1,14 @@
+## Unit 1 - Microprocessor evolution and types, microprocessor architecture and operation of its components, addressing modes, interrupts, data transfer schemes, instruction and data flow, timer and timing diagram, Interfacing devices.
+
+- Microprocessor evolution and types
+  - A microprocessor is an integrated circuit that contains the arithmetic logic unit (ALU) and the control unit (CU) of a computer on a single chip.
+  - The microprocessor has become a more essential part of many gadgets such as computers, mobile phones, embedded systems, etc.
+  - The evolution of microprocessor was divided into five generations such as first, second, third, fourth, and fifth-generation.
+    - First generation microprocessors (1971-1972): These were 4-bit microprocessors that could perform simple arithmetic and logic operations. They had low processing speed and memory capacity. Examples are Intel 4004, Intel 4040, etc  .
+    - Second generation microprocessors (1973-1978): These were 8-bit microprocessors that could perform more complex operations and handle larger data. They had higher processing speed and memory capacity. Examples are Intel 8008, Intel 8080, Zilog Z80, etc .
+    - Third generation microprocessors (1979-1985): These were 16-bit microprocessors that could perform multiple operations in parallel and handle larger data. They had higher processing speed and memory capacity. Examples are Intel 8086, Intel 8088, Motorola 68000, etc .
+    - Fourth generation microprocessors (1986-1995): These were 32-bit microprocessors that could perform complex operations in parallel and handle larger data. They had higher processing speed and memory capacity. They also introduced pipelining, cache memory, and floating-point unit. Examples are Intel 80386, Intel 80486, Motorola 68020, etc .
+    - Fifth generation microprocessors (1995-present): These are 64-bit microprocessors that can perform multiple complex operations in parallel and handle larger data. They have higher processing speed and memory capacity. They also introduced multicore, superscalar, and vector processing. Examples are Intel Pentium, Intel Core, AMD Athlon, etc  .
+  - There are two types of microprocessors based on the instruction set: complex instruction set microprocessor (CISC) and reduced instruction set microprocessor (RISC).
+    - CISC microprocessors have a large number of instructions that can perform complex operations in a single instruction. They are designed to minimize the number of instructions per program and ignore the number of cycles per instruction. Examples are Intel 8086, Intel 80386, etc.
+    - RISC microprocessors have a small number of instructions that can perform simple operations in a single instruction. They are designed to reduce the number of cycles per instruction and ignore the number of instructions per program. Examples are ARM, MIPS, etc.

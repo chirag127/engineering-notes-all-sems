@@ -1,0 +1,13 @@
+## Unit 4 - Transport Layer in Computer Networks
+
+- The transport layer is the fourth layer of the OSI model and the third layer of the TCP/IP model. It provides end-to-end communication services between applications running on different hosts in a network.
+- The transport layer is responsible for the following functions:
+  - Multiplexing and demultiplexing: The transport layer can use port numbers to identify different applications or processes on the same host and deliver data to the correct destination.
+  - Segmentation and reassembly: The transport layer can divide a large message into smaller segments that fit into the network layer packets and reassemble them at the destination.
+  - Connection-oriented and connectionless communication: The transport layer can support both reliable and unreliable data transfer modes. Connection-oriented communication involves establishing, maintaining, and terminating a logical connection between the sender and the receiver. Connectionless communication does not require any connection setup or teardown and sends data as independent datagrams.
+  - Flow control: The transport layer can regulate the rate of data transmission between the sender and the receiver to avoid congestion and buffer overflow.
+  - Error control: The transport layer can detect and correct errors in the data transmission using techniques such as checksums, acknowledgments, and retransmissions.
+  - Congestion control: The transport layer can adapt to the varying network conditions and adjust the data transmission rate to avoid or reduce congestion in the network.
+- The transport layer protocols can be classified into two categories: TCP and UDP.
+  - TCP (Transmission Control Protocol) is a connection-oriented, reliable, and full-duplex protocol that provides reliable byte-stream service. It uses a three-way handshake to establish a connection, a sliding window mechanism to provide flow and error control, and a four-way handshake to terminate a connection. TCP also implements congestion control algorithms such as slow start, congestion avoidance, fast retransmit, and fast recovery.
+  - UDP (User Datagram Protocol) is a connectionless, unreliable, and simplex protocol that provides datagram service. It does not guarantee delivery, order, or error-free transmission of data. It adds only a minimal header to the data and sends it as a single datagram. UDP is suitable for applications that require speed, efficiency, or real-time communication, such as voice over IP, video streaming, or online gaming.

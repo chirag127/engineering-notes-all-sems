@@ -1,0 +1,27 @@
+### Conversion for the notes of the Unit 4 - ENERGY HARVESTING WIRELESS SENSORS in the subject of KOT 062 ENERGY HARVESTING TECHNOLOGIES AND POWERMANAGEMENT FOR IOT DEVICES KCS
+
+- Energy harvesting wireless sensors are devices that can collect and convert ambient energy sources (such as solar, thermal, kinetic, etc.) into electrical energy to power themselves and communicate with other nodes  .
+- Energy harvesting wireless sensors have several advantages over battery-powered sensors, such as:
+  - They are maintenance-free, flexible and inexpensive to install .
+  - They can extend the lifetime and reliability of wireless sensor networks (WSNs) by avoiding battery depletion and replacement issues .
+  - They can enable new applications and scenarios where battery-powered sensors are not feasible or desirable, such as in harsh or inaccessible environments, or in large-scale or dense deployments  .
+- Energy harvesting wireless sensors also have some challenges and limitations, such as:
+  - They depend on the availability and intensity of the ambient energy sources, which can be unpredictable and variable  .
+  - They have to balance the trade-off between energy consumption and performance, such as data rate, latency, accuracy, etc.  .
+  - They have to deal with the complexity and heterogeneity of the energy harvesting systems, such as the energy conversion, storage and management components  .
+- Energy harvesting wireless sensors can be classified into different types based on the energy source they use, such as:
+  - Solar energy harvesting sensors, which use photovoltaic cells to convert light into electricity  .
+  - Thermal energy harvesting sensors, which use thermoelectric generators to convert heat gradients into electricity  .
+  - Kinetic energy harvesting sensors, which use piezoelectric, electromagnetic or electrostatic transducers to convert mechanical vibrations or motions into electricity  .
+  - Radio frequency (RF) energy harvesting sensors, which use antennas to capture and rectify RF signals from wireless transmissions or ambient sources into electricity  .
+- Energy harvesting wireless sensors can be integrated with different wireless communication technologies and protocols, such as:
+  - Bluetooth Low Energy (BLE), which is a low-power, short-range wireless technology that supports data rates up to 2 Mbps and operates in the 2.4 GHz band .
+  - ZigBee, which is a low-power, medium-range wireless technology that supports data rates up to 250 kbps and operates in the 2.4 GHz or 868/915 MHz bands .
+  - LoRa, which is a low-power, long-range wireless technology that supports data rates from 0.3 to 50 kbps and operates in the sub-GHz bands .
+  - Wi-Fi, which is a high-power, short-range wireless technology that supports data rates up to several Gbps and operates in the 2.4 or 5 GHz bands .
+- Energy harvesting wireless sensors can be applied to various domains and applications, such as:
+  - Smart buildings, where they can monitor and control parameters such as temperature, humidity, lighting, occupancy, etc. .
+  - Smart cities, where they can collect and transmit data about traffic, pollution, noise, etc. .
+  - Smart agriculture, where they can measure and optimize parameters such as soil moisture, crop growth, irrigation, etc. .
+  - Smart health, where they can monitor and track vital signs, activity, posture, etc. .
+  - Smart industry, where they can detect and prevent faults, anomalies, wear, etc. .

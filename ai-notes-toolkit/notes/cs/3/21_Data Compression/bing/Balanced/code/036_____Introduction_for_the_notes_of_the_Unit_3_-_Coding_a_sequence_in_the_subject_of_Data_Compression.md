@@ -1,0 +1,18 @@
+### Introduction for the notes of the Unit 3 - Coding a sequence in the subject of Data Compression
+
+- Data compression is the process of reducing the size of data without losing essential information or quality.
+- Data compression can be achieved by using various techniques, such as encoding, decoding, entropy, redundancy, and lossless or lossy compression.
+- Encoding is the process of transforming data into a different format that uses fewer bits or symbols.
+- Decoding is the process of recovering the original data from the encoded format.
+- Entropy is a measure of the uncertainty or randomness of data. It indicates the minimum number of bits or symbols needed to represent the data without loss of information.
+- Redundancy is the amount of extra or unnecessary information in data that can be removed or reduced without affecting the meaning or quality of data.
+- Lossless compression is a type of compression that preserves all the information in the original data and allows exact reconstruction of the data after decompression.
+- Lossy compression is a type of compression that discards some information in the original data and allows only approximate reconstruction of the data after decompression. It is usually used for multimedia data, such as images, audio, and video, where some loss of quality is acceptable.
+- Coding a sequence is a technique of lossless compression that assigns codes to symbols or sequences of symbols in data based on their frequency of occurrence or probability of occurrence.
+- Coding a sequence can be done by using various methods, such as fixed-length codes, variable-length codes, prefix codes, Huffman codes, arithmetic codes, and run-length encoding.
+- Fixed-length codes are codes that use the same number of bits or symbols for every symbol or sequence of symbols in data. They are simple and easy to encode and decode, but they are not efficient for compressing data with unequal probabilities of occurrence.
+- Variable-length codes are codes that use different numbers of bits or symbols for different symbols or sequences of symbols in data. They are more efficient for compressing data with unequal probabilities of occurrence, but they are more complex and may require additional information to encode and decode.
+- Prefix codes are variable-length codes that have the property that no code is a prefix of another code. This means that the codes can be uniquely decoded without any ambiguity or confusion.
+- Huffman codes are prefix codes that are optimal for compressing data with known probabilities of occurrence. They are constructed by using a binary tree that assigns shorter codes to more frequent symbols and longer codes to less frequent symbols.
+- Arithmetic codes are variable-length codes that are optimal for compressing data with unknown probabilities of occurrence. They are constructed by using a single code that represents the entire data as a fraction between 0 and 1. The code is obtained by dividing the interval [0, 1) into subintervals based on the probabilities of occurrence of the symbols and narrowing down the subinterval that contains the data.
+- Run-length encoding is a simple technique of compressing data that contains repeated symbols or sequences of symbols. It replaces the repeated symbols or sequences with a symbol or sequence that indicates the number of repetitions. For example, the sequence AAAABBBBCCCC can be compressed as 4A4B4C.

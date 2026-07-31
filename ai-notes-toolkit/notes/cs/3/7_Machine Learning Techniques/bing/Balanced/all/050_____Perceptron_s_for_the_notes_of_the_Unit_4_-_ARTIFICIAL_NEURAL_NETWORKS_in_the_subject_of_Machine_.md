@@ -1,0 +1,22 @@
+# Perceptrons
+
+- A perceptron is an algorithm for supervised learning of binary classifiers .
+- A binary classifier is a function that can decide whether an input, represented by a vector of numbers, belongs to some specific class.
+- A perceptron is also a single-layer neural network, which is the simplest possible neural network.
+- A neural network is a collection of artificial neurons that are interconnected and can process data in parallel.
+- An artificial neuron is a mathematical function that is modeled after a biological neuron .
+- A biological neuron is a cell that can receive and transmit electrical signals.
+- A perceptron consists of three main components  :
+  - An input layer, which receives the input vector and assigns a weight to each input value.
+  - A linear combination function, which computes the weighted sum of the input values.
+  - An activation function, which applies a threshold to the weighted sum and outputs either 0 or 1, representing the class prediction.
+- The perceptron learning algorithm is as follows :
+  - Initialize the weights to zero or to small random values.
+  - For each example in the training set, perform the following steps:
+    - Compute the output of the perceptron using the current weights and the input vector.
+    - Compare the output with the actual class label and compute the error.
+    - Update the weights by adding the product of the error and the input value, multiplied by a learning rate.
+  - Repeat the above steps until the error is minimized or a maximum number of iterations is reached.
+- The perceptron can learn linearly separable patterns, which means that the classes can be separated by a straight line .
+- The perceptron cannot learn non-linearly separable patterns, which means that the classes cannot be separated by a straight line .
+- The perceptron is the building block of more complex neural networks, such as multilayer perceptrons, which can learn non-linearly separable patterns by adding hidden layers between the input and output layers .

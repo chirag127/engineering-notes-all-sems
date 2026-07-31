@@ -1,0 +1,13 @@
+##### 10. Demonstration of cut-out sections of machines: dc machine, three phase induction machine, single-phase induction machine and synchronous machine.
+
+- Cut-out sections of machines are parts of machines that are cut or removed to show the internal structure and components of the machines.
+- Cut-out sections of machines can help in understanding the working principle, construction, and operation of different types of machines.
+- The following are some examples of cut-out sections of machines:
+
+  - DC machine: A DC machine is a machine that converts electrical energy into mechanical energy or vice versa by using direct current. A cut-out section of a DC machine can show the commutator-brush arrangement, which is a device that reverses the direction of current in the armature windings to produce a continuous torque . A cut-out section of a DC machine can also show the field windings, which are coils of wire that produce a magnetic field around the armature.
+
+  - Three phase induction machine: A three phase induction machine is a machine that converts electrical energy into mechanical energy by using alternating current. A cut-out section of a three phase induction machine can show the squirrel cage rotor, which is a type of rotor that consists of bars of conductors short-circuited by end rings . A cut-out section of a three phase induction machine can also show the stator, which is the stationary part of the machine that contains the windings that produce a rotating magnetic field.
+
+  - Single-phase induction machine: A single-phase induction machine is a machine that converts electrical energy into mechanical energy by using single-phase alternating current. A cut-out section of a single-phase induction machine can show the shaded pole rotor, which is a type of rotor that has a part of each pole face covered by a copper ring or a short-circuited coil to create a phase difference between the poles and induce a starting torque. A cut-out section of a single-phase induction machine can also show the capacitor, which is a device that stores electrical charge and improves the power factor and efficiency of the machine.
+
+  - Synchronous machine: A synchronous machine is a machine that converts electrical energy into mechanical energy or vice versa by using alternating current at a constant frequency. A cut-out section of a synchronous machine can show the salient pole rotor, which is a type of rotor that has projecting poles with windings around them to produce a magnetic field. A cut-out section of a synchronous machine can also show the damper windings, which are bars of conductors embedded in the pole faces to prevent hunting and provide starting torque.

@@ -1,0 +1,25 @@
+# Scheme for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+
+- Introduction
+  - Define regression testing and its objectives
+  - Explain the need and benefits of regression testing
+  - Describe the challenges and risks of regression testing
+- Regression Test Selection
+  - Define regression test selection and its criteria
+  - Compare and contrast different regression test selection techniques, such as retest-all, test case prioritization, test suite minimization, and test suite augmentation
+  - Discuss the advantages and disadvantages of each technique
+  - Provide examples of applying each technique in different scenarios
+- Regression Test Execution
+  - Define regression test execution and its challenges
+  - Explain the factors that affect the regression test execution time and cost, such as test environment, test automation, test data, and test oracle
+  - Describe the strategies and tools for improving the regression test execution efficiency and effectiveness, such as parallel testing, distributed testing, and test result analysis
+  - Provide examples of using different strategies and tools in different scenarios
+- Regression Test Maintenance
+  - Define regression test maintenance and its importance
+  - Explain the causes and effects of regression test suite evolution and degradation
+  - Describe the methods and practices for maintaining the regression test suite quality and relevance, such as test case review, test case update, test case removal, and test case addition
+  - Provide examples of applying different methods and practices in different scenarios
+- Summary
+  - Review the main concepts and techniques of regression testing
+  - Highlight the key challenges and best practices of regression testing
+  - Suggest some further readings and resources on regression testing

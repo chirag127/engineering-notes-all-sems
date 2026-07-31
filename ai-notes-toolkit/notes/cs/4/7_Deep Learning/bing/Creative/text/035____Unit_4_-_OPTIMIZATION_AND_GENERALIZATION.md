@@ -1,0 +1,12 @@
+## Unit 4 - OPTIMIZATION AND GENERALIZATION
+
+- Optimization is the process of finding the best parameters for a machine learning model that minimize the loss function on the training data.
+- Generalization is the ability of a machine learning model to perform well on new and unseen data that is not part of the training data.
+- Optimization and generalization are related but not the same. A model that is well-optimized may not necessarily generalize well, and vice versa.
+- Overfitting is a common problem in machine learning, where a model learns the noise and specific patterns of the training data, but fails to generalize to new data. Overfitting usually occurs when the model is too complex or the training data is too small or noisy.
+- Underfitting is the opposite problem, where a model is too simple or has not learned enough from the training data, and performs poorly on both the training and test data. Underfitting usually occurs when the model is not complex enough or the training data is not representative of the problem domain.
+- There are various techniques to prevent overfitting and underfitting, such as regularization, cross-validation, early stopping, data augmentation, etc.
+- Regularization is a technique that adds a penalty term to the loss function, which reduces the complexity of the model and prevents overfitting. There are different types of regularization, such as L1, L2, dropout, etc.
+- Cross-validation is a technique that splits the data into multiple subsets, and uses one subset as the validation set and the rest as the training set. The model is trained and evaluated on each subset, and the average performance is reported. Cross-validation helps to estimate the generalization error and select the best model and hyperparameters.
+- Early stopping is a technique that stops the training process when the validation error stops decreasing or starts increasing, which indicates that the model is overfitting. Early stopping helps to save computational resources and avoid overfitting.
+- Data augmentation is a technique that generates new and diverse data from the existing data, by applying random transformations, such as rotation, scaling, cropping, flipping, etc. Data augmentation helps to increase the size and variety of the training data and reduce overfitting.

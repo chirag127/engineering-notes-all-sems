@@ -1,0 +1,15 @@
+### Quantum algorithms
+
+Quantum algorithms are algorithms that run on quantum computers, which use the principles of quantum mechanics to manipulate information. Quantum algorithms can offer speedups over classical algorithms for certain problems, such as factoring large numbers, searching unsorted databases, and simulating quantum systems.
+
+Some of the main techniques and ideas used in quantum algorithms are:
+
+- **Quantum superposition**: A quantum bit, or qubit, can exist in a linear combination of two basis states, usually denoted as |0> and |1>. This allows a quantum computer to explore multiple possibilities in parallel.
+- **Quantum entanglement**: Two or more qubits can be in a quantum state that cannot be described by the individual states of the qubits. This allows a quantum computer to create correlations and share information between qubits.
+- **Quantum interference**: The amplitude of a quantum state can be positive or negative, and can interfere constructively or destructively with other states. This allows a quantum computer to amplify the probability of finding the correct solution and reduce the probability of finding the wrong solution.
+- **Quantum measurement**: A quantum state collapses to a definite value when measured, revealing some information about the state. This allows a quantum computer to extract the output of the computation, but also introduces uncertainty and randomness.
+- **Quantum gates**: A quantum gate is a basic operation that acts on one or more qubits, changing their state. Quantum gates are reversible and unitary, meaning that they preserve the norm of the quantum state. Quantum gates can be combined to form quantum circuits, which implement quantum algorithms.
+- **Quantum Fourier transform**: The quantum Fourier transform (QFT) is a quantum algorithm that transforms a quantum state from the computational basis to the Fourier basis, or vice versa. The QFT can be implemented efficiently using a quantum circuit, and is a key component of many quantum algorithms, such as Shor's algorithm for factoring and Grover's algorithm for search.
+- **Phase estimation**: Phase estimation is a quantum algorithm that estimates the phase of an eigenvalue of a unitary operator, given an eigenvector of that operator. Phase estimation can be used to solve problems such as finding the order of a periodic function, computing discrete logarithms, and solving linear systems of equations.
+- **Amplitude amplification**: Amplitude amplification is a quantum algorithm that increases the success probability of a quantum algorithm that produces a correct answer with some probability. Amplitude amplification can be used to improve the performance of quantum algorithms such as Grover's algorithm for search and quantum counting.
+- **Quantum walks**: Quantum walks are quantum algorithms that generalize the concept of random walks to the quantum domain. Quantum walks can be used to design quantum algorithms for problems such as graph traversal, element distinctness, and spatial search.

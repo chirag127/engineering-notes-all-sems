@@ -1,0 +1,21 @@
+### Formal grammars and their application to syntax analysis
+
+- A formal grammar is a set of rules that define how to construct valid sentences in a language.
+- A formal grammar consists of four components:
+  - A set of terminal symbols (V), which are the basic units of the language, such as keywords, identifiers, operators, etc.
+  - A set of non-terminal symbols (N), which are the syntactic categories of the language, such as expressions, statements, declarations, etc.
+  - A set of production rules (P), which specify how to replace a non-terminal symbol with a sequence of terminal or non-terminal symbols.
+  - A start symbol (S), which is a special non-terminal symbol that represents the whole language.
+- A formal grammar can be written as G = <V, N, P, S>.
+- A formal grammar can generate a language, which is the set of all sentences that can be derived from the start symbol using the production rules.
+- A formal grammar can also be used to parse a sentence, which is the process of verifying if the sentence belongs to the language and finding its structure.
+- Syntax analysis is the phase of compiler design where the compiler checks if the source code follows the grammatical rules of the programming language.
+- Syntax analysis is also known as parsing.
+- Syntax analysis is typically the second stage of the compilation process, following lexical analysis.
+- Syntax analysis can be performed using different algorithms, such as top-down parsing, bottom-up parsing, recursive descent parsing, etc.
+- Syntax analysis can produce a parse tree, which is a hierarchical representation of the structure and meaning of the sentence.
+- Syntax analysis can also produce an abstract syntax tree, which is a simplified version of the parse tree that omits irrelevant details.
+- Syntax analysis can detect syntactic errors, such as missing parentheses, unmatched brackets, invalid operators, etc.
+- Syntax analysis is concerned with the structure, not the meaning, of the sentence.
+- Syntax analysis is to be contrasted with semantic analysis, which is the phase of compiler design where the compiler checks if the source code follows the logical rules of the programming language.
+- Semantic analysis is concerned with the meaning, not the structure, of the sentence.

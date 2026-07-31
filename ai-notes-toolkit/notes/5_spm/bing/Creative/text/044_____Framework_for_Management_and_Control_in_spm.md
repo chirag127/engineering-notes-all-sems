@@ -1,0 +1,9 @@
+### Framework for Management and Control in SPM
+
+- A framework for management and control in software project management (SPM) is a set of processes, tools, and techniques that help to monitor and control the progress, quality, cost, and scope of a software project  .
+- The framework consists of the following main components :
+  - **Project plan**: A document that defines the objectives, scope, schedule, budget, risks, and deliverables of the project. It also specifies the roles and responsibilities of the project team, the stakeholders, and the communication and reporting mechanisms.
+  - **Project control cycle**: A feedback loop that provides functions for monitoring and management. It involves collecting data, visualizing progress, cost monitoring, earned value analysis, prioritizing monitoring, project tracking, change control, and software configuration management.
+  - **Tools and templates**: A collection of ready-made frameworks that can be applied to project implementations. Popular project management frameworks include Agile, Scrum, PRINCE2, Integrated Project Management (IPM), waterfall, and Lean.
+  - **Contract management**: A process of managing the contractual agreements between the project organization and the external parties, such as customers, suppliers, and subcontractors. It involves stages in contract placement, types of contract, typical terms of a contract, contract monitoring, and contract closure.
+- The framework for management and control in SPM helps to ensure that the project delivers the expected value to the stakeholders, meets the quality standards, stays within the budget and schedule, and adapts to the changing requirements and environment  .

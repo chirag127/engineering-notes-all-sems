@@ -1,0 +1,21 @@
+### Standard Actions
+
+- Standard actions are JSP elements that use XML syntax to control the behavior of the servlet engine.
+- Standard actions can perform tasks such as including a file, reusing a bean component, forwarding a request, setting a response status, etc.
+- Standard actions are re-evaluated each time the page is accessed, unlike directives.
+- Standard actions have a start tag and an end tag with a prefix of `jsp:` and an optional body.
+- Standard actions may have named attributes with values surrounded by quotes.
+- There are 12 types of standard actions in JSP:
+  - `<jsp:include>`: Includes a file or the output of a servlet at the time of request processing.
+  - `<jsp:forward>`: Forwards the current request to another page or servlet.
+  - `<jsp:param>`: Specifies a parameter for the `<jsp:include>` or `<jsp:forward>` action.
+  - `<jsp:plugin>`: Generates the necessary HTML code to run an applet.
+  - `<jsp:useBean>`: Creates or locates a bean component and assigns it to a variable.
+  - `<jsp:setProperty>`: Sets the properties of a bean component.
+  - `<jsp:getProperty>`: Gets the properties of a bean component.
+  - `<jsp:attribute>`: Defines a dynamic attribute for a custom action.
+  - `<jsp:body>`: Defines a dynamic body for a custom action.
+  - `<jsp:element>`: Creates an XML element dynamically.
+  - `<jsp:text>`: Defines a template text that can contain characters that are otherwise illegal in XML.
+  - `<jsp:output>`: Specifies the output settings for the current JSP page.
+- Standard actions are not commonly used in modern JSP development, as they are replaced by custom tags or MVC frameworks.

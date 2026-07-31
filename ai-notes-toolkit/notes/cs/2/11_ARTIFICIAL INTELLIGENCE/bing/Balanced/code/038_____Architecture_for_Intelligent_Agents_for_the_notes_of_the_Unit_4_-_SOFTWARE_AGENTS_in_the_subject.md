@@ -1,0 +1,14 @@
+### Architecture for Intelligent Agents
+
+- An intelligent agent is a system that perceives its environment via sensors and acts rationally upon that environment with its effectors.
+- The architecture of an agent describes its modules and capabilities, and how these operate together.
+- The agent architecture is the combination of agent function, agent program and the device on which the agent executes.
+- Agent function is a mathematical description of the agent's behavior, mapping percepts to actions.
+- Agent program is an implementation of the agent function, written in some programming language.
+- The device on which the agent executes is called the architecture. It is a device with embedded actuators and sensors, such as a robotic car, a camera, or a PC.
+- There are different types of agent architectures, depending on the level of complexity and rationality of the agent. Some of the common types are :
+  - Reactive agents: Reactive agents are the simplest type of AI agent. They act only on the basis of the current percept, ignoring the rest of the percept history. They do not have any internal state or memory. They are fast and robust, but they cannot handle complex situations or goals.
+  - Model-based reflex agents: Model-based reflex agents improve upon reactive agents by maintaining an internal state that represents some aspects of the environment. They use this state to choose actions that are appropriate for the current situation. They can handle partially observable environments, but they still lack the ability to plan ahead or reason about their goals.
+  - Goal-based agents: Goal-based agents have an explicit representation of their goals and can choose actions that achieve their goals. They can plan ahead and reason about the consequences of their actions. They can handle complex and dynamic environments, but they may not always act optimally or efficiently.
+  - Utility-based agents: Utility-based agents have a preference function that assigns a numeric value to each state of the environment. They can choose actions that maximize their expected utility, taking into account the uncertainty and costs of their actions. They can act optimally and efficiently, but they require a lot of knowledge and computation.
+  - Learning agents: Learning agents can improve their performance over time by learning from their experience. They have a learning component that updates their agent program based on feedback from a critic component. They also have a problem generator component that explores new actions and situations. They can adapt to changing environments and goals, but they may not always converge to the best solution.

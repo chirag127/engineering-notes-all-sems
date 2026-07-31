@@ -1,0 +1,14 @@
+# BNF Notation for the Notes of the Unit 1 - Introduction to Compiler in the Subject of Compiler Design
+
+- BNF stands for **Backus Naur Form** notation . It is a form of notation used for specifying the **syntax** of programming languages and command sets. The syntax means the **structure of strings** in a certain language.
+- BNF is a type of **metasyntax** notation for **context-free grammars**. A context-free grammar is a set of **production rules** that generate strings belonging to a language. A production rule has the form **A ::= B**, where A is a **non-terminal symbol** and B is a **sequence of terminal and non-terminal symbols**. A terminal symbol is a **basic symbol** that cannot be further divided, such as a letter or a digit. A non-terminal symbol is a **placeholder** for a group of terminal or non-terminal symbols.
+- BNF uses the following **conventions**:
+  - **< >** are used to enclose non-terminal symbols, such as <expression> or <statement>.
+  - **|** is used to separate **alternatives**, such as <digit> ::= 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.
+  - **::=** is used to indicate **definition**, such as <identifier> ::= <letter> | <identifier> <letter> | <identifier> <digit>.
+  - **+** is used to indicate **one or more repetitions**, such as <digits> ::= <digit> +.
+  - **[ ]** are used to enclose **optional** parts, such as <sign> ::= [ + | - ].
+  - **( )** are used to group **subexpressions**, such as <term> ::= <factor> ( * | / ) <factor>.
+  - **{ }** are used to enclose **comments**, such as {this is a comment}.
+- BNF can be used to describe the **lexical**, **syntactic** and **semantic** aspects of a programming language. The lexical aspect deals with the **tokens** or **words** of the language, such as identifiers, keywords, operators, literals, etc. The syntactic aspect deals with the **grammar** or **rules** of the language, such as how to form expressions, statements, declarations, etc. The semantic aspect deals with the **meaning** or **behavior** of the language, such as how to evaluate expressions, execute statements, allocate memory, etc.
+- BNF can also be used to generate **parsers** or **interpreters** for a programming language. A parser is a program that **analyzes** the input string and **checks** if it conforms to the grammar of the language. An interpreter is a program that **executes** the input string according to the semantics of the language. BNF can be converted into a **data structure** that represents the grammar, such as a **parse tree** or an **abstract syntax tree**. A parse tree shows the **hierarchical structure** of the input string, while an abstract syntax tree shows the **essential structure** of the input string.

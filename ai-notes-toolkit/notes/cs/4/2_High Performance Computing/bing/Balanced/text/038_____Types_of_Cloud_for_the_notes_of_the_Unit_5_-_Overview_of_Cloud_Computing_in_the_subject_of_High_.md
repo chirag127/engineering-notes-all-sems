@@ -1,0 +1,20 @@
+### Types of Cloud
+
+Cloud computing is the delivery of computing services over the internet, such as servers, storage, databases, networking, software, analytics, and intelligence. Cloud computing can be classified into two main categories: deployment models and service models.
+
+#### Deployment Models
+
+Deployment models refer to how the cloud infrastructure is located and who has access to it. There are four common types of deployment models:
+
+- **Public cloud**: The cloud infrastructure is owned and operated by a third-party cloud service provider, such as Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP). The cloud services are available to anyone over the internet, and the users share the same pool of resources. Public cloud is suitable for applications that have unpredictable demand, need scalability, and do not require high security or compliance.
+- **Private cloud**: The cloud infrastructure is dedicated to a single organization, and can be hosted on-premises or off-premises by a cloud service provider. The cloud services are accessible only to the authorized users of the organization, and the users have more control and customization over the resources. Private cloud is suitable for applications that have predictable demand, need high performance, and require strict security or compliance.
+- **Hybrid cloud**: The cloud infrastructure is a combination of public and private clouds, and allows data and applications to move between them. The cloud services are integrated and coordinated through a common platform or interface. Hybrid cloud is suitable for applications that have dynamic or changing workloads, need flexibility, and require a balance between cost and performance.
+- **Community cloud**: The cloud infrastructure is shared by a specific group of organizations that have common goals, interests, or concerns, such as a government agency, a research consortium, or a healthcare network. The cloud services are accessible only to the members of the group, and the users have a shared responsibility and governance over the resources. Community cloud is suitable for applications that have specific requirements, need collaboration, and benefit from economies of scale.
+
+#### Service Models
+
+Service models refer to how the cloud services are delivered and consumed by the users. There are three main types of service models:
+
+- **Software-as-a-Service (SaaS)**: The cloud service provider delivers software applications over the internet, and the users access them through a web browser or a mobile app. The cloud service provider manages the underlying infrastructure, platform, and software, and the users only pay for the usage or subscription of the applications. SaaS is suitable for applications that have standard functionality, need frequent updates, and do not require customization or integration.
+- **Platform-as-a-Service (PaaS)**: The cloud service provider delivers a platform that enables the users to develop, run, and manage their own software applications without worrying about the underlying infrastructure. The cloud service provider manages the servers, storage, network, and operating system, and the users only pay for the resources they consume. PaaS is suitable for applications that have custom functionality, need rapid development, and require scalability or compatibility.
+- **Infrastructure-as-a-Service (IaaS)**: The cloud service provider delivers the basic computing resources, such as servers, storage, network, and virtualization, over the internet, and the users can provision and configure them as they need. The cloud service provider manages the physical infrastructure, and the users are responsible for the operating system, middleware, and software. IaaS is suitable for applications that have complex functionality, need full control, and require high performance or reliability.

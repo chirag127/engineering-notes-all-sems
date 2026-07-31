@@ -1,0 +1,12 @@
+### Conceptual Framework for the notes of the Unit 1 - Internet of Things (IoT) in the subject of Internet of Things
+
+- A conceptual framework is a set of ideas, principles, and assumptions that guide the design, development, and implementation of a system or a solution.
+- A conceptual framework for IoT is a way of describing the main components, functions, and interactions of the IoT system, as well as the benefits, challenges, and opportunities of using IoT in various domains and applications.
+- A conceptual framework for IoT can help to understand the complexity and diversity of the IoT ecosystem, as well as to identify the key requirements, standards, and best practices for IoT deployment and adoption.
+- A conceptual framework for IoT can also help to evaluate the impact and value of IoT on different stakeholders, such as users, providers, regulators, and society.
+- There are different conceptual frameworks for IoT proposed by various researchers, organizations, and initiatives, depending on the perspective, scope, and objective of the framework   .
+- However, some common elements and layers that can be found in most conceptual frameworks for IoT are   :
+  - **Physical layer**: This layer consists of the physical devices and objects that are connected to the IoT network, such as sensors, actuators, RFID tags, smartphones, etc. This layer is responsible for collecting, processing, and transmitting data from the physical world to the digital world.
+  - **Network layer**: This layer consists of the communication and networking technologies and protocols that enable the data transmission and exchange between the physical devices and the other layers of the IoT system, such as Wi-Fi, Bluetooth, ZigBee, 5G, etc. This layer is responsible for ensuring the reliability, security, and scalability of the IoT network.
+  - **Service layer**: This layer consists of the software and applications that provide the functionality and value of the IoT system to the users and other stakeholders, such as data analysis, visualization, decision making, automation, etc. This layer is responsible for delivering the desired outcomes and benefits of the IoT system.
+  - **Application layer**: This layer consists of the specific domains and scenarios where the IoT system is applied and used, such as smart home, smart city, smart health, smart agriculture, etc. This layer is responsible for addressing the needs and challenges of the particular domain and scenario, as well as for creating new opportunities and innovations with the IoT system.

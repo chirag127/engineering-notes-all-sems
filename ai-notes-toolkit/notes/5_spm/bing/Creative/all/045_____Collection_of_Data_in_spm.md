@@ -1,0 +1,15 @@
+# Collection of Data in SPM
+
+- SPM stands for Software Project Management, which is the discipline of planning, organizing, executing, and controlling software projects.
+- Data collection is an essential part of SPM, as it helps to monitor the progress, quality, and performance of the software project.
+- Data collection can be done using various methods, such as:
+
+  - Interviews: Personal interviews are a great way to collect data in SPM. These can be conducted in person, over the phone, or online. Interviews can provide rich and detailed information about the software project, such as the requirements, the risks, the challenges, the feedback, and the satisfaction of the stakeholders.
+  - Surveys: Surveys are a common method used to collect data in SPM. This can include online surveys, paper surveys, or even in-person surveys. Surveys can provide quantitative and qualitative data about the software project, such as the scope, the budget, the schedule, the quality, the issues, and the outcomes of the project.
+  - Focus Groups: Focus groups are an important method of collecting data in SPM. This involves gathering a group of people who are involved or interested in the software project, such as the developers, the testers, the users, the managers, or the customers. Focus groups can provide insights and opinions about the software project, such as the needs, the expectations, the preferences, the problems, and the solutions of the project.
+  - Secondary Data Analysis: Secondary data analysis is a way to collect data in SPM without the need for primary data collection. This type of data collection involves analysing data that has already been collected by other sources, such as the documents, the reports, the logs, the metrics, or the databases of the software project. Secondary data analysis can provide useful and reliable data about the software project, such as the history, the trends, the patterns, the benchmarks, and the best practices of the project .
+  - Attributes: Attributes are specific metrics or logs that are collected for each configuration item (CI) of the software project. A CI is any component or resource that is part of the software project, such as the hardware, the software, the network, the data, or the people. Attributes can provide data about the performance, the availability, the capacity, the utilization, or the health of the CIs of the software project .
+
+- Data collection methods can be chosen based on the purpose, the scope, the cost, the time, and the quality of the data required for the software project.
+- Data collection methods can be combined or integrated to provide more comprehensive and accurate data for the software project.
+- Data collection methods can be applied at different stages of the software project, such as the initiation, the planning, the execution, the monitoring, or the closure of the project.

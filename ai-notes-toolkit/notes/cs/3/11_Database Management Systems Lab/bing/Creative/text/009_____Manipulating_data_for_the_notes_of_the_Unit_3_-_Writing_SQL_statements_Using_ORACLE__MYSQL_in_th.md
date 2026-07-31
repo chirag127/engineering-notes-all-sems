@@ -1,0 +1,40 @@
+### Manipulating data for the notes of the Unit 3 - Writing SQL statements Using ORACLE /MYSQL in the subject of Database Management Systems Lab
+
+- SQL stands for Structured Query Language, which is a language for storing, manipulating, and retrieving data in relational database management systems.
+- ORACLE and MYSQL are two popular relational database management systems that use SQL as their query language.
+- Data manipulation language (DML) is a subset of SQL that allows users to add, change, and delete data in the database tables .
+- A transaction is a sequence of one or more DML statements that are treated as a unit by the database system. Either all of the statements are performed, or none of them are.
+- The main DML statements in SQL are:
+  - INSERT: to add new rows of data to a table .
+  - UPDATE: to modify existing rows of data in a table .
+  - DELETE: to remove existing rows of data from a table .
+  - SELECT: to retrieve data from one or more tables based on certain criteria .
+- SQL also supports various operators that can be used to manipulate data, such as:
+  - Arithmetic operators: to perform mathematical calculations on numeric values, such as +, -, *, /, and %.
+  - Comparison operators: to compare values and return true or false, such as =, <>, >, <, >=, <=, and BETWEEN.
+  - Logical operators: to combine multiple conditions and return true or false, such as AND, OR, NOT, and IN.
+  - String operators: to manipulate text values, such as CONCAT, SUBSTR, LENGTH, and UPPER.
+  - Date and time operators: to manipulate date and time values, such as CURRENT_DATE, CURRENT_TIME, DATE_ADD, and DATE_SUB.
+- SQL also supports various functions that can be used to manipulate data, such as:
+  - Aggregate functions: to perform calculations on a set of values and return a single value, such as SUM, AVG, MIN, MAX, and COUNT.
+  - Scalar functions: to perform calculations on a single value and return a single value, such as ABS, ROUND, SQRT, and SIN.
+  - Conversion functions: to convert values from one data type to another, such as TO_NUMBER, TO_CHAR, TO_DATE, and CAST.
+  - Analytic functions: to perform complex calculations on a set of values and return multiple values, such as RANK, DENSE_RANK, ROW_NUMBER, and LAG.
+- SQL also supports various clauses that can be used to manipulate data, such as:
+  - WHERE: to filter the rows of data based on certain conditions.
+  - GROUP BY: to group the rows of data based on one or more columns and apply aggregate functions.
+  - HAVING: to filter the groups of data based on certain conditions.
+  - ORDER BY: to sort the rows of data based on one or more columns in ascending or descending order.
+  - LIMIT: to limit the number of rows of data returned by a query.
+  - JOIN: to combine data from two or more tables based on a common column or condition.
+- SQL also supports various keywords that can be used to manipulate data, such as:
+  - DISTINCT: to eliminate duplicate values from the result set.
+  - AS: to assign aliases to columns or tables for readability or convenience.
+  - UNION: to combine the result sets of two or more queries into one result set.
+  - INTERSECT: to return the common rows of data from two or more queries.
+  - EXCEPT: to return the rows of data from one query that are not present in another query.
+  - CASE: to perform conditional logic and return different values based on different conditions.
+  - NULL: to represent missing or unknown values in the database.
+  - IS NULL: to check if a value is null or not.
+  - COALESCE: to return the first non-null value from a list of values.
+  - NULLIF: to return null if two values are equal, otherwise return the first value[^4^

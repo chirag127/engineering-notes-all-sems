@@ -1,0 +1,22 @@
+### Hatch for the notes of the Unit 5 - Introduction to Computer Aided Design in the subject of ENGINEERING GRAPHICS & DESIGN LAB
+
+- Hatch is a command in AutoCAD that is used to fill an area of selected objects with a hatch pattern or fill.
+- Hatch patterns or fills represent materials to be used and incorporated within a design, such as concrete, brick, wood, etc.
+- Hatch can also be used to designate areas or room types, such as office, kitchen, bathroom, etc.
+- Hatch command can be accessed from the Draw menu of the Home tab in the ribbon, or by typing HATCH in the command line.
+- Hatch command has various options and settings, such as:
+  - Pattern: allows the user to choose from predefined or custom hatch patterns, or solid or gradient fills.
+  - Angle: allows the user to specify the angle of the hatch pattern relative to the X-axis.
+  - Scale: allows the user to specify the scale factor of the hatch pattern to adjust the size and spacing of the pattern elements.
+  - Origin: allows the user to specify the origin point of the hatch pattern relative to the drawing origin.
+  - Associative: allows the user to link the hatch to the boundary objects, so that the hatch updates automatically when the boundary changes.
+  - Annotative: allows the user to create an annotative hatch that scales according to the annotation scale of the current viewport or layout.
+  - Select objects: allows the user to select the objects that define the boundary of the hatch area.
+  - Add: allows the user to add more objects to the hatch boundary.
+  - Remove: allows the user to remove objects from the hatch boundary.
+  - Inherit properties: allows the user to apply the properties of an existing hatch to a new hatch.
+  - Gap tolerance: allows the user to specify the maximum gap size between boundary objects that can be ignored by the hatch command.
+  - Island detection: allows the user to specify how the hatch command handles islands or enclosed areas within the hatch boundary.
+  - Draw order: allows the user to specify whether the hatch is drawn behind or in front of the boundary objects.
+- Hatch command can be modified by using the Properties palette, the Hatch Edit command, or the Grips mode.
+- Hatch command can be used to create complex and realistic designs in computer aided design, such as structural, mechanical, piping, electrical, architectural, etc  .

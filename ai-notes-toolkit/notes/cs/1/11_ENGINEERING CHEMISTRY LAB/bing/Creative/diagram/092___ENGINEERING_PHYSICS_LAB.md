@@ -1,0 +1,24 @@
+# Engineering Physics Lab
+
+Engineering physics is a branch of science that combines the principles of physics and engineering to solve practical problems in various fields of technology and science. Engineering physics lab is a course that provides hands-on experience in conducting experiments and measurements using modern equipment and techniques. The course also aims to develop skills in data analysis, error estimation, report writing, and scientific communication.
+
+The engineering physics lab syllabus may vary depending on the institution and the curriculum, but some of the common topics that are covered are:
+
+- Mechanics: This topic involves studying the motion and forces of objects, such as kinematics, dynamics, conservation laws, rotational motion, oscillations, and waves.
+- Thermodynamics: This topic involves studying the concepts and laws of heat, temperature, work, energy, and entropy, and their applications to various systems and processes, such as heat engines, heat transfer, and phase transitions.
+- Optics: This topic involves studying the properties and behavior of light, such as reflection, refraction, interference, diffraction, polarization, and spectroscopy, and their applications to various optical devices and instruments, such as lenses, mirrors, prisms, gratings, and lasers.
+- Electricity and Magnetism: This topic involves studying the phenomena and laws of electric and magnetic fields and forces, such as Coulomb's law, Gauss's law, Ohm's law, Kirchhoff's laws, Ampere's law, Faraday's law, and Lenz's law, and their applications to various circuits and devices, such as resistors, capacitors, inductors, transformers, motors, and generators.
+- Modern Physics: This topic involves studying the concepts and phenomena of quantum physics and relativity, such as the photoelectric effect, the Compton effect, the Bohr model, the Schrödinger equation, the uncertainty principle, the wave-particle duality, the mass-energy equivalence, and the time dilation.
+
+Some of the common experiments that are performed in the engineering physics lab are:
+
+- Measurement of physical quantities and errors: This experiment involves using various instruments and methods to measure physical quantities, such as length, mass, time, angle, voltage, current, resistance, etc., and to estimate the errors and uncertainties associated with the measurements.
+- Verification of Hooke's law: This experiment involves using a spring balance to measure the force and the extension of a spring, and to verify the linear relationship between them, as given by Hooke's law.
+- Verification of the laws of pendulum: This experiment involves using a simple pendulum to measure the time period and the length of the pendulum, and to verify the laws of pendulum, such as the independence of time period from mass and amplitude, and the dependence of time period on length and gravity.
+- Verification of Ohm's law: This experiment involves using a voltmeter and an ammeter to measure the voltage and the current in a circuit, and to verify the linear relationship between them, as given by Ohm's law.
+- Verification of Kirchhoff's laws: This experiment involves using a voltmeter and an ammeter to measure the voltage and the current in a circuit, and to verify the laws of conservation of charge and energy, as given by Kirchhoff's laws.
+- Verification of the laws of reflection and refraction: This experiment involves using a plane mirror and a glass slab to measure the angles of incidence and reflection, and the angles of incidence and refraction, and to verify the laws of reflection and refraction, such as the equality of the angles of incidence and reflection, and the Snell's law of refraction.
+- Verification of the lens formula: This experiment involves using a convex lens and a screen to measure the object distance, the image distance, and the focal length of the lens, and to verify the lens formula, which relates these quantities.
+- Verification of the Malus's law: This experiment involves using a polarizer and an analyzer to measure the intensity of light transmitted through them, and to verify the Malus's law, which states that the intensity of light is proportional to the square of the cosine of the angle between the polarizer and the analyzer.
+- Verification of the Stefan-Boltzmann law: This experiment involves using a black body and a radiation meter to measure the temperature and the radiation emitted by the black body, and to verify the Stefan-Boltzmann law, which states that the radiation is proportional to the fourth power of the temperature.
+- Verification of the Planck's law: This experiment involves using a black body and a spectrometer to measure the wavelength and the intensity of the radiation emitted by the black body, and to verify

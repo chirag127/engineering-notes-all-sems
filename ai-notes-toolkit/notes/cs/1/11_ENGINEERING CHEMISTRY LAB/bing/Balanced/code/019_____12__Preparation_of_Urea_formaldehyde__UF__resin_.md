@@ -1,0 +1,11 @@
+### 12. Preparation of Urea formaldehyde (UF) resin
+
+Urea formaldehyde (UF) resin is a thermosetting polymer that is widely used as an adhesive and a coating for wood products, such as plywood, particleboard, and fiberboard. UF resin is formed by the condensation reaction of urea and formaldehyde in the presence of a catalyst, such as ammonia or an acid. The reaction can be carried out in one or more steps, depending on the desired properties and applications of the resin.
+
+One possible method of preparing UF resin is as follows  :
+
+- Step 1: An aqueous solution of formaldehyde (more than 50%) and urea are mixed in a molar ratio of 2-3:1 at pH 6-11. This step produces methylolureas, which are intermediates that have one or more hydroxymethyl groups attached to the urea molecule.
+- Step 2: The mixture is heated to at least 80°C, which causes further condensation of the methylolureas to form low molecular weight prepolymers. The pH of the mixture is adjusted to 0.5-3.5 by adding a mineral or organic acid, such as sulfuric acid or formic acid. This step increases the reactivity and stability of the resin and reduces the free formaldehyde content.
+- Step 3: The resin is cooled and neutralized with ammonia or another base to obtain a clear and viscous liquid. The resin can be stored or used as such, or it can be further modified by adding fillers, extenders, hardeners, or other additives to improve its performance and application.
+
+The UF resin can be cured by applying heat and pressure, which causes cross-linking of the polymer chains and forms a hard and insoluble network. The curing time and temperature depend on the resin formulation, the catalyst type, and the substrate material. The cured UF resin has high strength, water resistance, and chemical resistance, but it also emits formaldehyde, which is a potential health hazard and an environmental pollutant. Therefore, the UF resin production and application should be controlled to minimize the formaldehyde emission and exposure.

@@ -1,0 +1,10 @@
+## At the end of course, the student will be able to:
+
+- Define the basic concepts and terminology of artificial intelligence, such as agents, environments, rationality, search, knowledge representation, inference, planning, learning, natural language processing, computer vision, and robotics.
+- Apply various search algorithms, such as uninformed search, informed search, local search, adversarial search, and constraint satisfaction, to solve problems that can be formulated as state-space search or game trees.
+- Design and implement knowledge-based systems using propositional logic, first-order logic, and other forms of logic, and perform logical reasoning using inference rules and algorithms, such as resolution, forward chaining, and backward chaining.
+- Explain the principles and techniques of planning, such as partial-order planning, hierarchical planning, and graph planning, and apply them to generate plans for achieving goals in dynamic and uncertain domains.
+- Understand the concepts and methods of machine learning, such as supervised learning, unsupervised learning, reinforcement learning, neural networks, and deep learning, and apply them to learn from data and improve performance.
+- Analyze and process natural language texts using linguistic models, such as syntax, semantics, pragmatics, and discourse, and implement natural language processing systems, such as parsers, semantic analyzers, dialogue systems, and machine translation systems.
+- Recognize and manipulate visual information using computer vision techniques, such as image processing, feature extraction, object detection, face recognition, and scene understanding, and implement computer vision systems, such as optical character recognition, face verification, and augmented reality.
+- Model and control physical systems using robotics techniques, such as kinematics, dynamics, localization, mapping, navigation, and coordination, and implement robotics systems, such as mobile robots, manipulators, and autonomous vehicles.

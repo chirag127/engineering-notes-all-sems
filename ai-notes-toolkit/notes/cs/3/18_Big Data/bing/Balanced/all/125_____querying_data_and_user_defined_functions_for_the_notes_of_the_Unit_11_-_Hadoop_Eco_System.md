@@ -1,0 +1,15 @@
+# Querying Data and User Defined Functions for the Notes of the Unit 11 - Hadoop Eco System
+
+- Hadoop is a framework for storing and processing large-scale data sets on clusters of commodity hardware.
+- Hadoop consists of four main components: Hadoop Distributed File System (HDFS), MapReduce, Yet Another Resource Negotiator (YARN), and Hadoop Common.
+- Hadoop also has a rich ecosystem of tools and applications that provide various functionalities for data analysis, such as data ingestion, data transformation, data querying, data mining, data visualization, etc.
+- Some of the most popular tools in the Hadoop ecosystem are:
+
+  - Hive: a data warehouse system that allows users to query data using SQL-like language called HiveQL. Hive can also create and modify tables and views, grant privileges to users, and perform data summarization and analysis.
+  - Pig: a high-level language for writing data transformation programs that run on MapReduce. Pig can handle complex data types and nested data structures, and supports user defined functions (UDFs) in various languages, such as Java, Python, Ruby, etc.
+  - Sqoop: a tool for transferring data between Hadoop and relational databases, such as MySQL, Oracle, PostgreSQL, etc. Sqoop can import and export data in parallel, and supports incremental updates and compression.
+  - Flume: a tool for collecting, aggregating, and moving large amounts of streaming data from various sources, such as web servers, social media, sensors, etc. to HDFS or other destinations. Flume can handle high-throughput and fault-tolerant data ingestion, and supports custom sources, sinks, and channels.
+  - Spark: a fast and general-purpose engine for large-scale data processing that can run on Hadoop, Mesos, standalone, or in the cloud. Spark can perform batch, streaming, interactive, and machine learning tasks, and supports various languages, such as Scala, Python, Java, R, etc. Spark also has several libraries, such as Spark SQL, Spark Streaming, MLlib, GraphX, etc. that provide specialized functionalities for data analysis.
+  - HBase: a distributed and scalable NoSQL database that runs on top of HDFS and provides random access and real-time updates to large amounts of data. HBase can handle structured and semi-structured data, and supports row-level transactions, versioning, compression, and replication.
+  - Oozie: a workflow scheduler that manages and coordinates the execution of Hadoop jobs, such as MapReduce, Pig, Hive, Sqoop, etc. Oozie can trigger jobs based on time, data availability, or external events, and supports branching, looping, and retrying of workflows.
+  - ZooKeeper: a distributed coordination service that provides reliable and consistent configuration, naming, synchronization, and group services for distributed applications. ZooKeeper can handle high availability, scalability, and fault tolerance, and supports a simple hierarchical namespace and a watch mechanism for notifications.

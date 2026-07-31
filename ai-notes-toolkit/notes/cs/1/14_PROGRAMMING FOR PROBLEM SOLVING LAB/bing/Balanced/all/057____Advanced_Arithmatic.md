@@ -1,0 +1,9 @@
+## Advanced Arithmetic
+
+Advanced arithmetic is the branch of mathematics that deals with operations on numbers beyond the basic four: addition, subtraction, multiplication and division. Some of the topics covered in advanced arithmetic are:
+
+- Exponents and logarithms: Exponents are a way of expressing repeated multiplication, such as 2^3 = 2 x 2 x 2. Logarithms are the inverse of exponents, such as log2(8) = 3, meaning 2^3 = 8. Exponents and logarithms have many applications in science, engineering and finance.
+- Fractions and decimals: Fractions are a way of expressing parts of a whole, such as 3/4 = 0.75. Decimals are a way of expressing fractions using a base-10 system, such as 0.75 = 75/100. Fractions and decimals can be converted, compared, added, subtracted, multiplied and divided using various rules and methods.
+- Ratios and proportions: Ratios are a way of comparing two or more quantities, such as 3:4 = 0.75. Proportions are a way of stating that two ratios are equal, such as 3:4 = 6:8. Ratios and proportions can be used to solve problems involving scale, similarity, rates and percentages.
+- Roots and radicals: Roots are a way of expressing the inverse of exponents, such as 3√8 = 2, meaning 2^3 = 8. Radicals are the symbols used to denote roots, such as √. Roots and radicals can be simplified, multiplied, divided, added and subtracted using various rules and methods.
+- Complex numbers: Complex numbers are a way of extending the real number system to include imaginary numbers, such as i = √-1. Complex numbers can be written in the form a + bi, where a and b are real numbers and i is the imaginary unit. Complex numbers can be added, subtracted, multiplied, divided, conjugated and plotted using various rules and methods.

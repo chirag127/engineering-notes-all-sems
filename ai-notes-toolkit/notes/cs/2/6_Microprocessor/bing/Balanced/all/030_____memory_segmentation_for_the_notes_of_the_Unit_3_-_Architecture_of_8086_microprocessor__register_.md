@@ -1,0 +1,10 @@
+# Memory Segmentation for the Notes of the Unit 3 - Architecture of 8086 Microprocessor
+
+- Memory segmentation is the process of dividing the memory into segments of various sizes, each with a starting address and a length.
+- The main advantage of memory segmentation is that it allows programs to address more than 64 KB of memory, which is the limit of the 16-bit registers.
+- The 8086 microprocessor has 20 address lines, which means it can interface 1 MB of memory. However, it segments the memory into 16 64 KB segments, each identified by a 16-bit segment number .
+- The 8086 microprocessor works only with four 64 KB segments within the whole 1 MB memory at any instant of time. These four segments are called code segment, data segment, stack segment, and extra segment .
+- The code segment contains the instructions to be executed by the processor. The data segment contains the data to be used by the program. The stack segment contains the stack data, such as return addresses and parameters. The extra segment is used for additional data or code.
+- The four segment registers, CS, DS, SS, and ES, store the upper 16 bits of the starting addresses of the four segments. The lower 16 bits of the addresses are stored in the offset registers, such as IP, SI, DI, BP, and SP.
+- The physical address of any location in the memory is calculated by adding the segment address and the offset address, and multiplying the result by 16. For example, if CS = 1000H and IP = 2000H, then the physical address of the instruction pointer is (1000H + 2000H) * 16 = 12000H.
+- The memory segmentation allows the 8086 microprocessor to access different segments of memory using different registers, and to switch between segments by changing the segment registers. This increases the flexibility and efficiency of the memory management.

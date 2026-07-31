@@ -1,0 +1,7 @@
+# Information hiding
+
+- Information hiding is a principle of object-oriented system design that aims to reduce the complexity and dependencies of a system by concealing the details of its implementation from other modules or components .
+- Information hiding allows a system to be modularized into smaller and simpler units that can be developed, tested, and maintained independently.
+- Information hiding also enhances the reusability and maintainability of a system by allowing changes in the implementation of a module without affecting the rest of the system, as long as the interface of the module remains unchanged .
+- Information hiding can be achieved by using various techniques, such as encapsulation, abstraction, inheritance, and polymorphism, which are the core features of object-oriented programming .
+- Information hiding is not the same as data hiding, which is a specific form of information hiding that focuses on hiding the internal data structures and representation of a class or an object from other classes or objects . Data hiding is one way of implementing information hiding, but not the only way. Information hiding can also hide the algorithms, design decisions, or other aspects of a module that are not related to data .

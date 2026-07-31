@@ -1,0 +1,12 @@
+### Cyber infrastructure for the notes of the Unit 5 - Overview of Cloud Computing in the subject of High Performance Computing
+
+- Cyber infrastructure (CI) is a term that describes the electronic information and communication systems and services that support advanced data acquisition, storage, management, integration, mining, visualization and other computing and information processing services distributed over the Internet beyond the scope of a single institution.
+- CI is a technological and sociological solution to the problem of efficiently connecting laboratories, data, computers, and people with the goal of enabling derivation of novel scientific theories and knowledge.
+- CI consists of computing systems, data storage systems, advanced instruments and data repositories, visualization environments, and people, all linked together by software and high performance networks to improve research productivity and enable breakthroughs not otherwise possible.
+- CI is now being applied to various domains of science and engineering, such as phenomics, astronomy, biology, climate science, and social science.
+- Cloud computing is a model of CI that provides on-demand access to a shared pool of configurable computing resources (such as servers, storage, networks, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.
+- Cloud computing offers several benefits for CI, such as scalability, elasticity, cost-effectiveness, reliability, and security.
+- Cloud computing can be classified into different service models, such as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), and Function as a Service (FaaS).
+- Cloud computing can also be deployed in different ways, such as public cloud, private cloud, hybrid cloud, and community cloud.
+- Cloud computing faces some challenges and limitations, such as data privacy, interoperability, portability, performance, and availability.
+- Cloud computing is an evolving paradigm of CI that requires continuous research and development to address the emerging needs and challenges of various scientific and engineering domains.

@@ -1,0 +1,21 @@
+### Polygon clipping
+
+- Polygon clipping is the process of removing the portions of a polygon that lie outside a given clipping window or region.
+- Polygon clipping is used for various purposes in computer graphics, such as:
+  - To prevent undesirable effects when displaying polygons on the output device.
+  - To perform hidden surface removal and generate realistic 3D images.
+  - To produce high-quality surface details using techniques such as beam tracing.
+  - To distribute the objects of a scene to appropriate processors in multiprocessor raytracing systems to improve rendering speeds.
+- Polygon clipping can be done against different types of clipping regions, such as:
+  - Rectangular clipping window: The simplest and most common case, where the clipping region is a rectangle aligned with the coordinate axes.
+  - Convex polygon clipping window: A more general case, where the clipping region is a convex polygon with any number of sides.
+  - Arbitrary polygon clipping window: The most general and complex case, where the clipping region is an arbitrary polygon that may be concave, self-intersecting, or have holes.
+- Polygon clipping algorithms are methods that take an input polygon and a clipping region, and produce one or more output polygons that represent the intersection of the input polygon and the clipping region.
+- Polygon clipping algorithms should have the following properties:
+  - Correctness: The output polygons should be geometrically correct and consistent with the input polygon and the clipping region.
+  - Efficiency: The output polygons should be generated with minimal computation and memory requirements.
+  - Robustness: The output polygons should handle degenerate cases, such as when the input polygon or the clipping region is empty, or when they share a common edge or vertex.
+- Some of the well-known polygon clipping algorithms are:
+  - Sutherland-Hodgman algorithm: A simple and efficient algorithm that works for convex polygon clipping windows. It processes the input polygon one vertex at a time and clips it against each edge of the clipping window in turn.
+  - Weiler-Atherton algorithm: A more general and robust algorithm that works for arbitrary polygon clipping windows. It finds the intersection points between the input polygon and the clipping window, and then traces the output polygons by following the boundary edges of both polygons.
+  - Greiner-Hormann algorithm: A recent and fast algorithm that works for arbitrary polygon clipping windows. It uses a doubly-connected edge list data structure to store the input polygon and the clipping window, and then performs a series of local operations to clip the input polygon.

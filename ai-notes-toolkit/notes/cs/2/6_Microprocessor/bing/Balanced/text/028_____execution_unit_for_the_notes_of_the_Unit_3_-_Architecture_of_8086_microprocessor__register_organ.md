@@ -1,0 +1,11 @@
+### Execution Unit (EU) of 8086 Microprocessor
+
+- The execution unit (EU) is responsible for decoding and executing the instructions fetched by the bus interface unit (BIU) from the memory or I/O devices  .
+- The EU consists of the following components :
+  - Arithmetic and Logic Unit (ALU): It performs arithmetic and logical operations on 8-bit or 16-bit data. It also updates the status flags according to the result of the operation.
+  - General Purpose Registers: There are eight 16-bit registers that can be used for storing data, addresses, or operands. They are AX, BX, CX, DX, SI, DI, BP, and SP. Some of them can be accessed as two 8-bit registers, such as AH and AL for AX, BH and BL for BX, etc.
+  - Segment Registers: There are four 16-bit registers that store the segment addresses of the memory. They are CS (code segment), DS (data segment), SS (stack segment), and ES (extra segment).
+  - Instruction Pointer (IP): It holds the offset address of the next instruction to be executed within the current code segment.
+  - Flag Register: It is a 16-bit register that contains nine status flags that indicate the status of the result of the last operation. They are CF (carry flag), PF (parity flag), AF (auxiliary carry flag), ZF (zero flag), SF (sign flag), TF (trap flag), IF (interrupt flag), DF (direction flag), and OF (overflow flag).
+- The EU communicates with the BIU through an internal 16-bit bus called the EU-BIU interface . The EU sends requests to the BIU to fetch instructions or data from the memory or I/O devices, and the BIU transfers them to the EU when they are available. The EU also sends the results of the operations to the BIU to store them in the memory or I/O devices.
+- The EU operates independently of the BIU, which means that it can execute instructions while the BIU is fetching the next instruction or data . This is called pipelining and it increases the speed and efficiency of the microprocessor. However, the EU has to wait for the BIU if the required instruction or data is not available in the queue.

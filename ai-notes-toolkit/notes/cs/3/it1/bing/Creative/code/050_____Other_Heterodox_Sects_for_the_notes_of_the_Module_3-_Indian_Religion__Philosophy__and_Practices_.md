@@ -1,0 +1,13 @@
+### Other Heterodox Sects
+
+- Heterodox sects are those that do not accept the authority of the Vedas and the Brahmanical tradition.
+- They emerged in the 6th century BCE as a reaction to the social, economic and religious changes in India.
+- They challenged the caste system, the ritual sacrifices, the priestly domination and the metaphysical speculations of the orthodox schools.
+- They offered alternative paths of salvation based on ethical conduct, rational inquiry and personal experience.
+- Some of the heterodox sects are:
+
+  - **Ajivika**: A fatalistic sect that believed in the doctrine of niyati (determinism) and the inevitability of karma. They denied the existence of free will, moral responsibility and rebirth. They followed a strict ascetic lifestyle and practiced meditation. They were founded by Makkhali Gosala, a contemporary of Mahavira and Buddha .
+  - **Unchedvadi**: A materialistic sect that rejected the existence of anything beyond the physical world. They denied the existence of soul, God, afterlife, karma and liberation. They advocated the pursuit of sensual pleasures and worldly happiness. They were also known as Lokayata or Charvaka, and were influenced by the teachings of Brihaspati.
+  - **Nityavadi**: An eternalist sect that believed in the permanence of everything. They denied the existence of change, causation, creation and destruction. They held that the world is eternal, self-existent and independent of any creator. They were also known as Sasvata or Aksapada, and were influenced by the teachings of Kanada, the founder of Vaisheshika school.
+  - **Sandehvadi**: An agnostic sect that suspended judgment on all metaphysical questions. They denied the possibility of knowing the truth about the ultimate reality, the origin and the end of the world, the existence of soul, God and afterlife. They were also known as Ajnana or Sanjaya, and were influenced by the teachings of Sanjaya Belatthiputta, a contemporary of Mahavira and Buddha.
+  - **Akriyavadi**: An amoralist sect that rejected the existence of any moral law or duty. They denied the existence of karma, rebirth, liberation and any consequences of one's actions. They advocated the freedom to act as one pleases, without any regard for morality or ethics. They were also known as Antinomian or Purana Kassapa, and were influenced by the teachings of Purana Kassapa, a contemporary of Mahavira and Buddha.

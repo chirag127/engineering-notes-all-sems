@@ -1,0 +1,21 @@
+### Coding for the notes of the Unit 1 - Compression Techniques in the subject of Data Compression
+
+- Data compression is the process of encoding information using fewer bits than the original representation.
+- Data compression can reduce the storage space or transmission bandwidth required for a given piece of information.
+- Data compression can be either lossless or lossy.
+  - Lossless compression preserves the exact information of the original data, and can be reversed by decompression.
+  - Lossy compression discards some information of the original data, and cannot be reversed by decompression.
+  - Lossless compression is suitable for text, audio, and executable files, while lossy compression is suitable for images, video, and speech.
+- Some common data compression techniques are:
+  - Lempel–Ziv: a lossless algorithm that finds repeated characters in a data set and replaces them with tokens or shortened sequences.
+  - Huffman coding: a lossless algorithm that assigns variable-length codes to symbols based on their frequency of occurrence.
+  - Run-length encoding: a lossless algorithm that replaces consecutive identical characters with a single character and a count.
+  - Arithmetic coding: a lossless algorithm that assigns codes to symbols based on their probability of occurrence.
+  - JPEG: a lossy algorithm that reduces the quality of images by discarding high-frequency components.
+  - MPEG: a lossy algorithm that reduces the quality of video and audio by discarding redundant or irrelevant frames or samples.
+- Some best practices for data compression are:
+  - Determine the compression level: depending on the needs, the data can be compressed to a certain level, such as low, medium, or high.
+  - Choose the appropriate compression type: for every file to be compressed, first determine whether it is lossless or lossy, and then select the suitable algorithm.
+  - Use a coprocessor: a dedicated hardware device that can perform compression and decompression faster and more efficiently than a general-purpose processor.
+  - Consider data deduplication: a technique that eliminates duplicate or redundant data blocks and replaces them with pointers to a single copy.
+  - Determine if multi-stage compression is needed: a technique that applies multiple compression algorithms in sequence to achieve higher compression ratios.

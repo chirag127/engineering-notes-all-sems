@@ -1,0 +1,23 @@
+# Need for data compression for the notes of the Unit 5 - IMAGE COMPRESSION AND RECOGNITION in the subject of Image Processing
+
+- Data compression is a technique that reduces the amount of space needed to store or transmit digital data, such as images.
+- Image compression is a type of data compression applied to digital images, to reduce their cost for storage or transmission.
+- Image compression is important for several reasons, such as:
+  - Saving disk space and memory for storing more images or other data.
+  - Reducing bandwidth and time for transmitting images over networks or the internet.
+  - Enhancing the performance and efficiency of image processing applications, such as recognition, analysis, or editing.
+  - Preserving the quality and fidelity of images while reducing their size.
+- Image compression can be classified into two categories: lossless and lossy .
+  - Lossless compression algorithms reduce the size of images without losing any information in the images, which means that the original images can be reconstructed from the compressed images without any distortion or degradation.
+  - Lossy compression algorithms reduce the size of images by discarding some information in the images, which means that the original images cannot be reconstructed from the compressed images without some loss of quality or accuracy.
+  - Lossless compression algorithms are suitable for images that require high precision and detail, such as medical or scientific images.
+  - Lossy compression algorithms are suitable for images that can tolerate some degradation and distortion, such as natural or artistic images.
+- Image compression techniques can be based on different methods, such as:
+  - Image transform: a mathematical function that maps an image from one domain (vector space) to another domain (other vector space), where the image can be represented more compactly or efficiently.
+  - Quantization: a process that reduces the number of levels or values that represent an image, such as the number of colors or shades of gray.
+  - Encoding: a process that assigns codes or symbols to the values or sequences of values that represent an image, such as binary or hexadecimal codes.
+- Image compression techniques can be evaluated based on different criteria, such as:
+  - Compression ratio: the ratio of the size of the original image to the size of the compressed image, which indicates the degree of compression achieved.
+  - Bit rate: the number of bits required to represent one pixel of an image, which indicates the amount of information contained in an image.
+  - Quality: the measure of how well the compressed image preserves the visual appearance and features of the original image, which can be subjective or objective.
+  - Complexity: the measure of how much computation and memory are required to perform the compression and decompression algorithms, which affects the speed and efficiency of the image processing system.

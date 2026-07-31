@@ -1,0 +1,26 @@
+# IOT based Intelligent Gas Leakage Detector Using Arduino
+
+- This is a project that uses an Arduino board, an MQ5 gas sensor, an ESP8266 Wi-Fi module, and a buzzer to detect and alert the presence of LPG gas leakage in the air  .
+- The MQ5 gas sensor is a metal oxide semiconductor sensor that can sense various gases such as methane, butane, LPG, smoke, alcohol, etc. It has a high sensitivity and fast response time. It outputs an analog voltage that varies according to the concentration of the gas .
+- The Arduino board is a microcontroller that can read the analog voltage from the MQ5 sensor, process it, and send the data to the ESP8266 module via serial communication  .
+- The ESP8266 module is a low-cost Wi-Fi chip that can connect to the internet and send or receive data from a cloud server or a web page . It can also act as a web server and host a web page that displays the gas level and status.
+- The buzzer is a device that can produce a loud sound when the Arduino board sends a signal to it. It is used to alert the user when the gas level exceeds a certain threshold .
+- The project works as follows:
+  - The MQ5 sensor continuously monitors the level of LPG gas in the air and outputs a voltage that is proportional to it  .
+  - The Arduino board reads the voltage from the MQ5 sensor and converts it to a gas concentration value using a formula  .
+  - The Arduino board sends the gas concentration value and the status (normal or alert) to the ESP8266 module via serial communication  .
+  - The ESP8266 module connects to the internet and sends the data to a cloud server or a web page, where it can be viewed by the user from anywhere .
+  - The ESP8266 module also hosts a web page that displays the gas level and status on a gauge and a LED.
+  - The Arduino board also activates the buzzer when the gas level exceeds a predefined threshold, indicating a gas leakage .
+  - The user can also set the minimum and maximum parameters for the gas level according to their preference.
+- The advantages of this project are:
+  - It can detect and alert the user about gas leakage in real time and remotely  .
+  - It can prevent fire accidents and health hazards caused by gas leakage  .
+  - It can save energy and money by avoiding wastage of gas  .
+  - It can be installed in homes, hotels, LPG gas storage areas, and other places where gas is used  .
+  - It is low-cost, easy to build, and uses widely available components  .
+- The challenges of this project are:
+  - It requires a stable internet connection and power supply for the ESP8266 module to work properly .
+  - It may not be able to detect other types of gases that are not compatible with the MQ5 sensor .
+  - It may have some errors or inaccuracies in the gas level measurement due to environmental factors or sensor calibration .
+  - It may need regular maintenance and testing to ensure its functionality and reliability .

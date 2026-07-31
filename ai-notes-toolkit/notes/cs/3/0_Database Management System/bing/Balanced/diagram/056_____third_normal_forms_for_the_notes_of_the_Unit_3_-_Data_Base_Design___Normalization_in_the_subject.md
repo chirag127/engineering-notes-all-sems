@@ -1,0 +1,8 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for Database Management System. Here is the content for the topic of third normal form:
+
+### Third Normal Form
+
+- Third normal form (3NF) is a database design principle that aims to reduce data redundancy and improve data integrity by ensuring that every non-key attribute in a table is **dependent on the primary key** and **not on any other non-key attribute**.
+- A table is in 3NF if it is in **second normal form (2NF)** and **has no transitive dependencies**. A transitive dependency occurs when a non-key attribute depends on another non-key attribute, which in turn depends on the primary key. For example, in a table with attributes {Student ID, Name, Course, Instructor, Instructor Email}, Instructor Email is transitively dependent on Student ID through Instructor.
+- To convert a table to 3NF, we need to **identify and eliminate** any transitive dependencies by **moving** the dependent attributes to a **new table** and **linking** them with a **foreign key**. For example, we can split the previous table into two tables: {Student ID, Name, Course, Instructor} and {Instructor, Instructor Email}, where Instructor is the primary key of the second table and a foreign key of the first table.
+- The benefits of 3NF are that it **reduces data duplication** and **avoids update anomalies**. For instance, if we need to change the email of an instructor, we only need to do it in one place, not in every row where the instructor appears. It also **preserves the functional dependencies** that are relevant to the data.

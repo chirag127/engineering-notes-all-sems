@@ -1,0 +1,13 @@
+### Sampling Theory (Small and Large)
+
+Sampling theory is the study of how to select a subset of a population (called a sample) that can represent the characteristics of the whole population. Sampling is useful when the population is too large or difficult to measure directly. Sampling can also reduce the cost and time of data collection and analysis.
+
+There are two types of sampling: probability sampling and non-probability sampling. Probability sampling is based on random selection of elements from the population, where each element has a known and non-zero chance of being selected. Non-probability sampling is based on subjective or convenience criteria, where the chance of selection is unknown or zero for some elements.
+
+The quality of a sample depends on its size and representativeness. The size of a sample is the number of elements it contains. The representativeness of a sample is the degree to which it reflects the characteristics of the population. A sample should be large enough and representative enough to minimize the sampling error, which is the difference between the sample statistic and the population parameter.
+
+Sampling theory can be divided into two branches: large sample theory and small sample theory. Large sample theory deals with the sampling distributions of statistics for large samples, where the sample size is greater than 30. Small sample theory deals with the sampling distributions of statistics for small samples, where the sample size is less than or equal to 30.
+
+Large sample theory is based on the central limit theorem, which states that the sampling distribution of the mean (or any other statistic) of a large sample is approximately normal, regardless of the shape of the population distribution. This means that the mean of a large sample is close to the mean of the population, and the standard deviation of the sampling distribution of the mean is equal to the standard error of the mean, which is the standard deviation of the population divided by the square root of the sample size.
+
+Small sample theory is based on the t, F, and chi-square distributions, which are derived from the normal distribution and account for the variability and uncertainty of small samples. These distributions are used to construct confidence intervals and hypothesis tests for the mean, variance, and proportion of a population, when the population parameters are unknown or the population distribution is not normal.

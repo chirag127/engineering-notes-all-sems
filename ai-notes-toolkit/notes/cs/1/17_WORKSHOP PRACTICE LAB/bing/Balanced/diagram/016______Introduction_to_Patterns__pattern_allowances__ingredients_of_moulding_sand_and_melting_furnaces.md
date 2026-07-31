@@ -1,0 +1,23 @@
+#### Introduction to Patterns, pattern allowances, ingredients of moulding sand and melting furnaces. Foundry tools and their purposes Demo of mould preparation and Aluminum casting Practice – Study and Preparation of mould for Plastic
+
+- A **pattern** is a model or replica of the desired casting product, which is used to make a cavity in the moulding sand. The pattern should be slightly larger than the actual casting to account for the shrinkage of the metal during solidification and cooling. The pattern should also have some **pattern allowances** to facilitate the moulding process and improve the quality of the casting. Some of the common pattern allowances are:
+
+  - **Shrinkage allowance**: The difference in size between the pattern and the casting due to the contraction of the metal during solidification and cooling. The shrinkage allowance depends on the type and composition of the metal, the shape and size of the casting, and the moulding method and material. The shrinkage allowance is usually given as a percentage of the linear dimension of the pattern or the casting.
+
+  - **Draft allowance**: The taper or slope given to the vertical faces of the pattern to facilitate its removal from the mould without damaging the mould cavity. The draft allowance depends on the complexity and depth of the pattern, the type and strength of the moulding sand, and the method of moulding. The draft allowance is usually given as an angle or a ratio of the height and width of the pattern.
+
+  - **Machining allowance**: The extra material provided on the surface of the pattern to allow for the finishing operations such as machining, grinding, polishing, etc. The machining allowance depends on the accuracy and surface finish required for the casting, the type and hardness of the metal, and the machining method and tool. The machining allowance is usually given as a uniform or variable thickness of the pattern.
+
+  - **Distortion allowance**: The modification or distortion of the shape or dimensions of the pattern to compensate for the deformation or warping of the casting due to the uneven cooling, internal stresses, or external forces. The distortion allowance depends on the geometry and symmetry of the casting, the type and distribution of the metal, and the cooling rate and direction. The distortion allowance is usually given as a bending or twisting of the pattern.
+
+  - **Rapping allowance**: The slight enlargement of the size of the pattern due to the hammering or rapping of the pattern before withdrawing it from the mould to loosen the sand and reduce the friction. The rapping allowance depends on the rigidity and weight of the pattern, the type and compactness of the moulding sand, and the method and frequency of rapping. The rapping allowance is usually given as a small percentage of the linear dimension of the pattern.
+
+- The **ingredients of moulding sand** are the materials that make up the moulding sand mixture, which is used to form the mould cavity around the pattern. The main ingredients of moulding sand are:
+
+  - **Silica sand grains**: The base material of the moulding sand, which provides the refractoriness, permeability, and collapsibility of the mould. Silica sand grains are usually angular, sub-angular, or rounded in shape, and have a high melting point, low thermal expansion, and high resistance to abrasion and chemical attack. Silica sand grains should be clean, uniform, and free from impurities such as clay, dust, organic matter, etc.
+
+  - **Clay (bond)**: The binding material of the moulding sand, which provides the strength, plasticity, and cohesiveness of the mould. Clay is a fine-grained natural material composed of hydrated silicates and aluminates of various minerals. Clay can be classified into two types: bentonite (sodium or calcium based) and kaolinite (aluminum silicate). Clay should have a high bonding power, low moisture content, and good flowability.
+
+  - **Moisture**: The water content of the moulding sand, which provides the workability, hardness, and durability of the mould. Moisture is added to the moulding sand to activate the clay and form a thin film around the sand grains. Moisture should be controlled to avoid the defects such as porosity, blowholes, scabs, etc. in the casting. Moisture should be sufficient to form a stable and compact mould, but not excessive to cause steam formation and gas evolution during pouring.
+
+- **Melting furnaces** are the devices or equipment that are used to melt the metal or alloy to be cast into the mould cavity. Melting furnaces can be classified into two types: fuel-fired furnaces and electric furnaces. Fuel

@@ -1,0 +1,10 @@
+# Numerical Representation
+
+Numerical representation is the internal representation of numeric values in digital device hardware and software, such as in programmable computers and calculators. Numerical values are stored as groupings of bits, such as bytes and words. The encoding between numerical values and bit patterns is chosen for convenience of the operation of the computer; the encoding used by the computer's instruction set generally requires conversion for external use, such as for printing and display.
+
+Some of the main topics related to numerical representation are:
+
+- **Number systems**: Different ways of representing numbers using symbols and rules. The most common number systems are decimal (base 10), binary (base 2), octal (base 8) and hexadecimal (base 16) . Each number system has its advantages and disadvantages for different applications and purposes.
+- **Integer representation**: How to store and manipulate whole numbers using bits. There are different methods of representing integers, such as unsigned, signed magnitude, one's complement and two's complement. Each method has its own range, arithmetic operations and overflow detection.
+- **Floating-point representation**: How to store and manipulate real numbers (numbers with fractional parts) using bits. There are different standards of representing floating-point numbers, such as IEEE 754 and IBM 370. Each standard has its own format, precision, range, rounding modes and special values .
+- **Computer algebra**: How to perform symbolic and exact computations with numbers and other mathematical objects, such as polynomials, matrices, functions and equations. Computer algebra systems use different data structures and algorithms to represent and manipulate algebraic expressions, such as lists, trees, graphs and hash tables. Computer algebra can avoid the approximation and loss of significant digits that occur in numerical computation .

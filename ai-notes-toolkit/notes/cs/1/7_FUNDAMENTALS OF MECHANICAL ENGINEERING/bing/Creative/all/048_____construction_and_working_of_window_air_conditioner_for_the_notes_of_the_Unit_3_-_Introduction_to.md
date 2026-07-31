@@ -1,0 +1,21 @@
+# Construction and Working of Window Air Conditioner
+
+- A window air conditioner is a small unit that can be mounted in a window or through a wall to cool a single room or space.
+- It consists of the following main components  :
+  - **Compressor**: A device that compresses the refrigerant (usually R-22 or R-410A) from low pressure and temperature to high pressure and temperature.
+  - **Condenser**: A coil of copper tubing that transfers heat from the hot refrigerant to the outside air. A fan blows air over the condenser coil to help the heat transfer.
+  - **Expansion device**: A device that reduces the pressure and temperature of the refrigerant before it enters the evaporator. It can be a capillary tube, a thermostatic expansion valve, or an electronic expansion valve.
+  - **Evaporator**: A coil of copper tubing that absorbs heat from the room air and cools it. A fan blows air over the evaporator coil to help the heat transfer.
+  - **Filter**: A device that removes dust, dirt, and other impurities from the room air before it passes through the evaporator.
+  - **Drier**: A device that removes moisture from the refrigerant to prevent corrosion and freezing.
+- The working principle of a window air conditioner is based on the vapour compression cycle, which involves four processes  :
+  - **Compression**: The compressor takes the low pressure and temperature refrigerant vapour from the evaporator and compresses it to high pressure and temperature. This increases the enthalpy (heat content) of the refrigerant.
+  - **Condensation**: The high pressure and temperature refrigerant vapour enters the condenser, where it releases heat to the outside air and condenses into a liquid. This decreases the enthalpy of the refrigerant.
+  - **Expansion**: The high pressure and temperature refrigerant liquid passes through the expansion device, where it expands and drops its pressure and temperature. This decreases the enthalpy of the refrigerant.
+  - **Evaporation**: The low pressure and temperature refrigerant liquid enters the evaporator, where it absorbs heat from the room air and evaporates into a vapour. This increases the enthalpy of the refrigerant.
+- The cycle repeats until the desired room temperature is reached. A thermostat controls the operation of the compressor and the fans to maintain the set temperature.
+- The advantages of a window air conditioner are  :
+  - It is easy to install and remove, as it does not require any ductwork or piping.
+  - It is relatively cheap and energy efficient, as it cools only the space where it is installed.
+  - It is compact and portable, as it can be moved from one window to another or stored when not in use.
+  - It is suitable for small rooms or spaces, as it has a limited cooling capacity.

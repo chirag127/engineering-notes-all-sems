@@ -1,0 +1,20 @@
+# Necessity of extended sources for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+
+- Wave optics is a branch of physics that deals with the study of light as a wave phenomenon, including interference, diffraction, polarization, and other effects.
+- The notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS cover the basic concepts and principles of wave optics, such as Huygens' principle, Young's double slit experiment, Fresnel's biprism, Lloyd's mirror, Newton's rings, Michelson's interferometer, diffraction grating, polarizer, analyzer, Brewster's law, and Malus' law.
+- However, the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS may not be sufficient to provide a comprehensive and in-depth understanding of the topic, as well as to prepare for the exams. Therefore, it is necessary to refer to extended sources for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS.
+- Some of the reasons why extended sources are necessary are:
+
+  - The notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS may not cover all the topics or subtopics that are relevant or important for the exams. For example, the notes may not include the derivation of the formulas, the numerical problems, the applications, or the experimental setups of the various phenomena of wave optics. Extended sources can provide more details and examples on these topics or subtopics, and help the students to gain a better understanding and mastery of the subject.
+  - The notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS may not explain the concepts or principles of wave optics in a clear, concise, or logical manner. For example, the notes may not use diagrams, graphs, tables, or equations to illustrate the concepts or principles, or they may not provide the necessary steps or proofs for the derivation of the formulas. Extended sources can offer alternative or supplementary explanations or representations of the concepts or principles, and help the students to grasp the essence and logic of the subject.
+  - The notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS may not provide enough practice or revision questions or exercises for the students to test their knowledge or skills on the subject. For example, the notes may not have enough numerical problems, conceptual questions, multiple choice questions, or short answer questions on the various phenomena of wave optics. Extended sources can provide more practice or revision questions or exercises, along with the solutions or answers, and help the students to assess their level of preparation and performance on the subject.
+
+- Some of the examples of extended sources for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS are:
+
+  - Textbooks or reference books on wave optics or engineering physics, such as Engineering Physics by Gaur and Gupta, Optics by Hecht, or Principles of Optics by Born and Wolf.
+  - Online lectures or videos on wave optics or engineering physics, such as those available on NPTEL, YouTube, or Khan Academy.
+  - Online notes or tutorials on wave optics or engineering physics, such as those available on Physics Galaxy, HyperPhysics, or Physics Classroom.
+  - Online quizzes or tests on wave optics or engineering physics, such as those available on Toppr, Vedantu, or Physics Quiz.
+  - Online forums or communities on wave optics or engineering physics, such as those available on Quora, Reddit, or Stack Exchange.
+
+- Therefore, it is advisable for the students to refer to extended sources for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS, in order to enhance their learning and understanding of the subject, and to improve their chances of scoring well in the exams.

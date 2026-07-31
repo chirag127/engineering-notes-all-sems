@@ -1,0 +1,22 @@
+### Simple functions for the notes of the Unit 5 - C++ Functions in the subject of Object Oriented System Design
+
+- A function is a block of code that performs a specific task, such as calculating the area of a circle, printing a message, or sorting an array.
+- A function can be called by another part of the program, or by itself (recursion).
+- A function can have zero or more parameters, which are variables that hold the values passed to the function by the caller.
+- A function can return a value to the caller, or nothing (void).
+- A function can be defined before or after the main function, or in a separate file (header and source files).
+- A function can be declared before its definition, using a function prototype, which specifies the name, return type, and parameters of the function.
+- A function can be overloaded, which means having multiple functions with the same name but different parameters or return types.
+- A function can be inline, which means the compiler will replace the function call with the function code, to avoid the overhead of a function call.
+- A function can be recursive, which means the function calls itself, either directly or indirectly, until a base case is reached.
+- A function can be a friend of a class, which means the function can access the private and protected members of the class.
+- A function can be a member of a class, which means the function is associated with a specific object of the class, and can access its data and other members.
+- A function can be a static member of a class, which means the function is shared by all objects of the class, and does not need an object to be called.
+- A function can be a virtual member of a class, which means the function can be overridden by a derived class, and the appropriate function will be called based on the type of the object at run time (polymorphism).
+- A function can be a pure virtual member of a class, which means the function has no definition in the base class, and must be overridden by a derived class (abstract class).
+- A function can be a constructor of a class, which means the function is called when an object of the class is created, and is used to initialize the data members of the object.
+- A function can be a destructor of a class, which means the function is called when an object of the class is destroyed, and is used to release any resources allocated by the object.
+- A function can be a copy constructor of a class, which means the function is called when an object of the class is copied, and is used to create a deep copy of the object.
+- A function can be an operator of a class, which means the function can overload an existing operator, such as +, -, *, /, etc., to perform a specific operation on the objects of the class.
+- A function can be a template, which means the function can work with different types of parameters, using a generic type parameter (T).
+- A function can be a lambda, which means the function is an anonymous function that can be defined and used in the same place, using the syntax [capture list](parameter list) {function body}.

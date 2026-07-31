@@ -1,0 +1,27 @@
+### Desktop Grids
+
+- Desktop grids are a type of distributed computing environment that make use of desktop computers connected via the Internet.
+- Desktop grids are not used only for voluntary computing projects, but also for enterprise grids, where the desktop computers belong to a single organization and are connected via a non-dedicated network.
+- Desktop grids can provide a large amount of computing power and storage capacity by harnessing the idle resources of desktop computers, which are often underutilized.
+- Desktop grids can be classified into two categories: public desktop grids and private desktop grids.
+  - Public desktop grids are open to anyone who wants to contribute their desktop resources to a common project, such as scientific research or humanitarian causes. Examples of public desktop grids are BOINC, SETI@home, Folding@home, etc.
+  - Private desktop grids are restricted to a specific group of users or organizations, such as a company, a university, or a government agency. Examples of private desktop grids are Condor, XtremWeb, Entropia, etc.
+- Desktop grids face several challenges, such as security, reliability, heterogeneity, scalability, fault tolerance, and incentive mechanisms.
+  - Security: Desktop grids need to protect the privacy and integrity of the data and the computations, as well as prevent malicious attacks from outsiders or insiders.
+  - Reliability: Desktop grids need to ensure the correctness and completeness of the results, as well as handle the dynamic and unpredictable availability of the desktop resources.
+  - Heterogeneity: Desktop grids need to cope with the diversity of the hardware, software, and network characteristics of the desktop computers.
+  - Scalability: Desktop grids need to support a large number of desktop computers and tasks, as well as handle the load balancing and resource allocation issues.
+  - Fault tolerance: Desktop grids need to recover from failures and errors, such as network disconnections, power outages, hardware malfunctions, software bugs, etc.
+  - Incentive mechanisms: Desktop grids need to motivate the desktop owners to participate and cooperate, as well as reward them for their contributions.
+- Desktop grids can benefit from using grids in interface designs, which are made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.
+  - Grids can improve the readability and scannability of the desktop grid interface, as well as allow the users to quickly get where they need to go.
+  - Grids can also help to create a consistent and uniform look and feel for the desktop grid interface, as well as to establish a clear hierarchy and alignment of the elements.
+  - Grids can be of three common types: column grid, modular grid, and hierarchical grid.
+    - Column grid: A grid that divides the page into vertical columns of equal or variable width, separated by gutters.
+    - Modular grid: A grid that divides the page into both vertical and horizontal modules of equal or variable size, creating a matrix of cells.
+    - Hierarchical grid: A grid that adapts to the content and the context of the page, using a combination of columns, rows, and modules.
+- Desktop grids can also benefit from using UI/UX design principles, such as contrast, repetition, alignment, and proximity, to enhance the visual appeal and usability of the desktop grid interface.
+  - Contrast: The use of different colors, sizes, shapes, fonts, etc., to create emphasis and distinction among the elements.
+  - Repetition: The use of consistent and recurring elements, such as logos, icons, buttons, etc., to create unity and coherence among the elements.
+  - Alignment: The use of a common edge or axis to arrange the elements, such as left, right, center, top, bottom, etc., to create order and harmony among the elements.
+  - Proximity: The use of closeness or distance to group or separate the elements, such as margins, padding, whitespace, etc., to create relationships and connections among the elements.

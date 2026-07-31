@@ -1,0 +1,10 @@
+ Here is the content in markdown format without any emojis or external links and in a formal tone:
+
+### Voltage and Current Sources
+
+- Voltage source: It is a two terminal device which provides a fixed voltage across its terminals and can maintain the voltage constant irrespective of the current drawn from it. For example, battery, cell, etc. The voltage source is represented by a symbol consisting of a triangle pointing upwards or downwards.
+- Current source: It is a two terminal device which provides a fixed current through its terminals and can maintain the current constant irrespective of the voltage across it. For example, constant current diode, etc. The current source is represented by a symbol consisting of a circle with an arrow pointing outwards or inwards.
+- Independent and dependent sources: If the source output does not depend on any other voltage or current in the circuit, it is called an independent source. If the source output depends on some other voltage or current in the circuit, it is called a dependent source. An ideal voltage or current source is always an independent source.
+- Practical sources: In practice, no source can maintain a perfectly constant output voltage or current. All practical sources have some internal resistance or impedance due to which their outputs get affected by the load connected. Hence, they show some deviation from ideal behavior. However, for analysis purposes, practical sources are often represented by their ideal models and the effect of internal resistance is considered separately.
+
+The content covers the key points around voltage sources, current sources, independent and dependent sources and practical sources. The language is formal and no emojis or external links are included. Is this helpful? Let me know if you would like me to modify or add anything.

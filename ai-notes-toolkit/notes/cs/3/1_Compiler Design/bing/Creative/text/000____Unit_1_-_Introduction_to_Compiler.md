@@ -1,0 +1,16 @@
+## Unit 1 - Introduction to Compiler
+
+- A compiler is a program that translates a source program written in a high-level language into a target program written in a low-level language.
+- The source program is also called the source code or the input program, and the target program is also called the object code or the output program.
+- The high-level language is usually a human-readable and expressive language, such as C, Java, Python, etc., and the low-level language is usually a machine-readable and efficient language, such as assembly, binary, etc.
+- The main goal of a compiler is to produce a correct and efficient target program that is equivalent to the source program in terms of functionality and behavior.
+- A compiler typically consists of several phases, each of which performs a specific task on the source program or its intermediate representation. The main phases of a compiler are:
+
+  - Lexical analysis: This phase scans the source program and converts it into a sequence of tokens, which are the basic units of syntax, such as keywords, identifiers, literals, operators, etc.
+  - Syntax analysis: This phase parses the sequence of tokens and checks if it conforms to the grammar rules of the source language. It also builds a parse tree or an abstract syntax tree, which is a hierarchical representation of the syntactic structure of the source program.
+  - Semantic analysis: This phase performs various checks on the parse tree or the abstract syntax tree, such as type checking, scope checking, declaration checking, etc. It also annotates the tree with additional information, such as types, values, attributes, etc., that are needed for later phases.
+  - Intermediate code generation: This phase translates the annotated parse tree or the abstract syntax tree into an intermediate code, which is a low-level but platform-independent representation of the source program. The intermediate code can be in various forms, such as three-address code, quadruples, triples, etc.
+  - Code optimization: This phase applies various techniques to improve the quality of the intermediate code, such as eliminating redundant or dead code, simplifying expressions, rearranging statements, etc. The goal is to reduce the execution time or the memory usage of the target program, without changing its functionality or behavior.
+  - Code generation: This phase translates the optimized intermediate code into the target code, which is a low-level and platform-dependent representation of the source program. The target code can be in various forms, such as assembly, binary, etc. This phase also performs tasks such as register allocation, instruction selection, etc.
+  - Symbol table management: This phase maintains a data structure called the symbol table, which stores information about the symbols (such as variables, functions, constants, etc.) used in the source program. The symbol table is accessed and updated by various phases of the compiler, such as lexical analysis, semantic analysis, code generation, etc.
+  - Error handling: This phase detects and reports any errors or warnings that occur during the compilation process, such as lexical errors, syntax errors, semantic errors, etc. The compiler should provide meaningful and helpful messages to the user, and try to recover from the errors and continue the compilation, if possible.

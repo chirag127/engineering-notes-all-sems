@@ -1,0 +1,15 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic of pronunciation for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication. Here is some content that you can use for your notes:
+
+### Pronunciation
+
+- Pronunciation is the way a word or a language is spoken, or the manner in which someone utters a word.
+- Pronunciation is one of the dimensions of oral communication that affects the clarity, accuracy, and effectiveness of the message.
+- Pronunciation is influenced by various factors, such as the speaker's native language, regional accent, education, and exposure to other languages and cultures.
+- Pronunciation can be improved by practicing the sounds, stress, intonation, and rhythm of the target language, as well as by listening to native speakers and imitating their speech patterns.
+- Pronunciation can be evaluated by using various criteria, such as the following:
+
+  - **Sound production**: This refers to the ability to produce the individual sounds or phonemes of the language, such as vowels, consonants, and diphthongs. Sound production can be affected by the speaker's articulation, which is the movement of the tongue, lips, teeth, and other speech organs to form the sounds. Sound production can also be affected by the speaker's aspiration, which is the amount of air that is released when pronouncing certain sounds, such as /p/, /t/, and /k/.
+  - **Word stress**: This refers to the emphasis or force that is given to one or more syllables in a word. Word stress can change the meaning of a word, such as in 'record' (noun) and 'record' (verb), or the part of speech of a word, such as in 'present' (noun) and 'present' (verb). Word stress can also affect the pronunciation of the vowel sounds in the stressed and unstressed syllables, such as in 'photograph' and 'photographer'.
+  - **Sentence stress**: This refers to the emphasis or force that is given to one or more words in a sentence. Sentence stress can convey the speaker's attitude, intention, or focus, as well as the relationship between the words in the sentence. Sentence stress can also affect the pronunciation of the vowel sounds in the stressed and unstressed words, such as in 'I want to go home' and 'I want to go home?'.
+  - **Intonation**: This refers to the rise and fall of the pitch or tone of the voice in a sentence. Intonation can express the speaker's emotion, mood, or attitude, as well as the type of sentence, such as a statement, a question, a command, or an exclamation. Intonation can also affect the meaning of a sentence, such as in 'He's leaving' and 'He's leaving?'.
+  - **Rhythm**: This refers to the pattern of stressed and unstressed syllables or words in a sentence. Rhythm can create a sense of flow, coherence, and naturalness in the speech, as well as a connection with the listener. Rhythm can also affect the speed, pause, and duration of the speech, as well as the pronunciation of the vowel sounds in the unstressed syllables or words, such as in 'She likes chocolate' and 'She likes chocolate cake'.

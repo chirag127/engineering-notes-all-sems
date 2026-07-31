@@ -1,0 +1,11 @@
+### Word Classes for the notes of the Unit 1 - INTRODUCTION in the subject of NATURAL LANGUAGE PROCESSING
+
+- Natural language processing (NLP) is a subset of artificial intelligence, computer science, and linguistics-focused on making human communication, such as speech and text, comprehensible to computers .
+- NLP is used in a wide variety of everyday products and services, such as search engines, chatbots, voice assistants, machine translation, sentiment analysis, text summarization, and more .
+- Word and text representations are fundamental constructs in NLP, as they enable computers to understand and manipulate natural language data.
+- Word classes, also known as parts of speech, are categories of words that share similar syntactic and semantic properties in a language.
+- Word classes can be divided into two types: open and closed. Open classes are those that can be extended with new words, such as nouns, verbs, adjectives, and adverbs. Closed classes are those that have a fixed set of words, such as pronouns, prepositions, conjunctions, and determiners.
+- Word classes can be further subdivided into more specific categories, such as proper nouns, common nouns, count nouns, mass nouns, transitive verbs, intransitive verbs, modal verbs, comparative adjectives, superlative adjectives, etc.
+- Word classes can be identified by various criteria, such as morphology, syntax, semantics, and distribution. Morphology refers to the form and structure of words, such as prefixes, suffixes, and inflections. Syntax refers to the rules and patterns of combining words into phrases and sentences. Semantics refers to the meaning and usage of words in different contexts. Distribution refers to the position and occurrence of words in relation to other words.
+- Word classes can be assigned to words automatically by using part-of-speech tagging, which is a common NLP task that involves labeling each word in a text with its corresponding word class. Part-of-speech tagging can be done by using rule-based, statistical, or neural methods, depending on the complexity and variability of the language and the data .
+- Word classes are useful for NLP applications, as they provide information about the syntactic and semantic roles and relations of words in a text, which can help with tasks such as parsing, disambiguation, generation, and translation .

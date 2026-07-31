@@ -1,0 +1,11 @@
+# Important materials used as liquid crystals
+
+Liquid crystals are substances that exhibit both liquid and solid properties under certain conditions. They have various applications in displays, sensors, thermometers, and optical devices. Some of the important materials used as liquid crystals are:
+
+- **Amphiphilic molecules**: These are molecules that have both hydrophilic (water-loving) and hydrophobic (water-hating) parts. They can form different types of liquid crystals depending on the concentration, temperature, and solvent. Examples of amphiphilic molecules are long-chain alcohols, deoxyribonucleic acid (DNA), gelatin, surfactants, and membrane phospholipids.
+
+- **Rodlike molecules**: These are molecules that have a long and rigid shape. They can form nematic liquid crystals, which are the simplest and most common type of liquid crystals. In nematic liquid crystals, the molecules are aligned along a common direction, but have no positional order. Examples of rodlike molecules are benzene derivatives, azo dyes, and tobacco mosaic virus.
+
+- **Polymer materials**: These are materials that consist of long chains of repeating units. They can form polymer dispersed liquid crystals (PDLCs), which are mixtures of a liquid crystal and a polymer. The polymer is isotropic (has the same optical properties in all directions), while the liquid crystal is anisotropic (has different optical properties in different directions). By applying an electric field, the orientation of the liquid crystal can be changed, resulting in a change in the transparency of the material. Examples of polymer materials are polyvinyl alcohol, polyamides, and silanes.
+
+- **Metallotropic liquid crystals**: These are liquid crystals that contain metal atoms or ions in their structure. They can form different types of liquid crystals depending on the metal, the ligand, and the solvent. They have potential applications in catalysis, magnetism, and conductivity. Examples of metallotropic liquid crystals are metal-organic frameworks, metal coordination complexes, and metal nanoparticles.

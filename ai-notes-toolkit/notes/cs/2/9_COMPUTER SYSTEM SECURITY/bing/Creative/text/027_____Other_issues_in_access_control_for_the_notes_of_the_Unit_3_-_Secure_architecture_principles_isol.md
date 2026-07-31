@@ -1,0 +1,8 @@
+### Other issues in access control
+
+Access control is an essential element of security that determines who is allowed to access certain data, apps, and resources—and in what circumstances. However, access control systems can have some issues that may compromise their effectiveness and security. Some of the common issues are:
+
+- **Outdated equipment**: Access control systems that rely on outdated hardware or software may not be able to support the latest security features, standards, or protocols. They may also be vulnerable to hacking, malfunctioning, or compatibility issues with other systems .
+- **Keycards falling into the wrong hands**: Access control systems that use keycards as a form of authentication may not be able to verify the identity of the cardholder. Keycards can be lost, stolen, duplicated, or shared with unauthorized persons, which can result in unauthorized access or breaches .
+- **Incorrect setup**: Access control systems that are not configured properly may not enforce the desired policies, rules, or permissions. For example, access rights may be too broad or too narrow, access levels may not match the roles or responsibilities of the users, or access logs may not be recorded or monitored  .
+- **Lack of integration with other building systems**: Access control systems that are not integrated with other building systems, such as fire alarms, CCTV cameras, or HVAC systems, may not be able to respond to emergencies, incidents, or anomalies. For example, access control systems may not be able to lock or unlock doors, alert security personnel, or adjust the temperature or lighting in case of a fire, intrusion, or power outage .

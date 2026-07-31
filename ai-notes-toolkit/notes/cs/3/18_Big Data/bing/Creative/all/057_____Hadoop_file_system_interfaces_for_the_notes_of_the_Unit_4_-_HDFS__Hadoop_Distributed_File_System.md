@@ -1,0 +1,10 @@
+# Hadoop File System Interfaces
+
+- Hadoop provides a Java abstract class `org.apache.hadoop.fs.FileSystem` that represents the client interface to a file system in Hadoop  .
+- Hadoop supports various file systems that can be implemented concretely, such as HDFS, S3, FTP, local, etc. Hadoop uses the URI scheme to select the appropriate file system instance to communicate with .
+- Hadoop also provides a command interface to interact with HDFS, such as `hadoop fs` and `hdfs dfs` commands.
+- HDFS is the default and most common file system in Hadoop. It is a distributed file system designed to run on commodity hardware, and is highly fault-tolerant and scalable.
+- HDFS has a master-slave architecture, where the master node is called the NameNode, and the slave nodes are called the DataNodes. The NameNode manages the file system namespace and the metadata, while the DataNodes store the actual data blocks.
+- HDFS exposes a file system namespace and allows user data to be stored in files. A file is split into one or more blocks and these blocks are stored in a set of DataNodes. The NameNode executes file system namespace operations like opening, closing, and renaming files and directories. It also determines the mapping of blocks to DataNodes. The DataNodes are responsible for serving read and write requests from the file system’s clients. The DataNodes also perform block creation, deletion, and replication upon instruction from the NameNode.
+- HDFS supports streaming access to file system data, meaning that it is suitable for applications that need large data sets, rather than random access to small files. HDFS also supports multiple concurrent readers and writers .
+- HDFS provides APIs for applications to access the file system, such as Java, C, REST, and WebHDFS. HDFS also supports several tools and utilities for file system administration, monitoring, and debugging, such as fsck, dfsadmin, balancer, etc.

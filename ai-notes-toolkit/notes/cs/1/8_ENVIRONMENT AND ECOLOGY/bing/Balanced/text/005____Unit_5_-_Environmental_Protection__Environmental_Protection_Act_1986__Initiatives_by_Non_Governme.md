@@ -1,0 +1,33 @@
+## Unit 5 - Environmental Protection
+
+- Environmental Protection Act 1986
+  - An Act of the Parliament of India that came into force on 19 November 1986   .
+  - It has 26 sections and 4 chapters  .
+  - It is widely considered to have been a response to the Bhopal gas leak  .
+  - It empowers the Central Government to establish authorities, issue rules and directions, and plan and execute a nation-wide programme for the prevention, control and abatement of environmental pollution .
+  - It also provides for penalties and procedures for handling violations of the Act or the rules made thereunder.
+- Initiatives by Non Governmental Organizations (NGO’s)
+  - NGO’s are voluntary organizations that work for various social, environmental, and developmental causes.
+  - Some examples of NGO’s working for environmental protection in India are:
+    - Centre for Science and Environment (CSE): It is a public interest research and advocacy organization that promotes environmentally sound and equitable development policies.
+    - World Wide Fund for Nature (WWF): It is a global conservation organization that works to protect biodiversity, reduce ecological footprint, and promote sustainable development.
+    - Greenpeace India: It is a branch of the international environmental organization that campaigns for clean energy, forest protection, sustainable agriculture, and climate justice.
+    - Wildlife Trust of India (WTI): It is a conservation organization that works to protect wildlife and habitats, mitigate human-wildlife conflicts, and support community-based conservation initiatives.
+    - Bombay Natural History Society (BNHS): It is one of the oldest scientific organizations in India that conducts research, education, and advocacy on natural history, biodiversity, and conservation.
+- Human Population and the Environment
+  - Population growth
+    - Population growth is the increase in the number of people in a given area or region over time.
+    - Population growth can have positive and negative impacts on the environment.
+    - Positive impacts include increased human capital, innovation, and economic development.
+    - Negative impacts include increased consumption of natural resources, waste generation, pollution, deforestation, habitat loss, and climate change.
+  - Environmental Education
+    - Environmental education is the process of learning about the natural and human-made environment and developing skills, attitudes, and values to protect and improve it.
+    - Environmental education can help to raise awareness, foster positive attitudes, and promote responsible actions towards the environment.
+    - Environmental education can be formal, non-formal, or informal.
+    - Formal environmental education is integrated into the curriculum and taught in schools and colleges.
+    - Non-formal environmental education is delivered through various programs and activities by NGOs, media, government agencies, and other institutions.
+    - Informal environmental education is acquired through everyday experiences, interactions, and observations of the environment.
+  - Women Education
+    - Women education is the process of providing equal access and opportunity to education for women and girls.
+    - Women education can have positive impacts on the environment.
+    - Women education can help to reduce population growth, improve maternal and child health, enhance women's empowerment and participation, and foster environmental awareness and stewardship.

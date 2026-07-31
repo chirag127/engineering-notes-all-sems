@@ -1,0 +1,16 @@
+### Congestion control algorithms
+
+Congestion control algorithms are mechanisms that control the entry of data packets into the network, enabling a better use of a shared network infrastructure and avoiding congestive collapse . Congestive collapse is a situation where the network performance degrades drastically due to excessive traffic and congestion.
+
+Some of the congestion control algorithms are:
+
+- **Leaky bucket**: This algorithm uses a fixed-size buffer (bucket) to store the incoming packets. The packets are sent out of the buffer at a constant rate. If the buffer is full, the incoming packets are discarded. This algorithm limits the burstiness of the traffic and smooths out the data rate.
+- **Token bucket**: This algorithm uses a fixed-size buffer (bucket) and a token generator. The token generator produces tokens at a constant rate and adds them to the bucket. The bucket has a maximum capacity of tokens. If there is a ready packet, a token is removed from the bucket, and the packet is sent. If there is no token in the bucket, the packet cannot be sent. This algorithm allows some burstiness of the traffic and provides more flexibility than the leaky bucket algorithm .
+- **Additive increase multiplicative decrease (AIMD)**: This algorithm is used by TCP to adjust the window size of the sender based on the feedback from the receiver. The sender increases the window size by one segment for every acknowledgment received (additive increase) until a packet loss occurs. When a packet loss occurs, the sender reduces the window size by half (multiplicative decrease). This algorithm tries to probe the available bandwidth and avoid congestion .
+- **Slow start**: This algorithm is also used by TCP to adjust the window size of the sender. The sender starts with a small window size and doubles it for every acknowledgment received until it reaches a threshold value. After reaching the threshold, the sender switches to the AIMD algorithm. This algorithm avoids sending too many packets at the beginning of a connection and causing congestion .
+- **Congestion avoidance**: This algorithm is a modification of the slow start algorithm. The sender increases the window size by one segment for every round trip time (RTT) instead of every acknowledgment. This algorithm increases the window size more slowly than the slow start algorithm and avoids congestion .
+- **Fast retransmit and fast recovery**: These algorithms are enhancements of the TCP congestion control. The fast retransmit algorithm detects packet losses by using duplicate acknowledgments. When the sender receives three duplicate acknowledgments for the same segment, it assumes that the segment was lost and retransmits it without waiting for a timeout. The fast recovery algorithm avoids reducing the window size by half when a packet loss occurs. Instead, it sets the window size to the half of the current window size plus three segments. This algorithm maintains a high throughput and avoids slow start .
+
+: Congestion Control in Computer Networks - GeeksforGeeks
+: Understanding Congestion Control - Granulate
+: What is Congestion Control Algorithm - tutorialspoint.com

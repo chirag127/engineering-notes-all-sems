@@ -1,0 +1,15 @@
+#### HBase clients
+
+HBase clients are tools or libraries that allow users to interact with HBase, a distributed, column-oriented database system that runs on top of Hadoop. HBase clients can perform various operations, such as creating, deleting, updating, and querying tables, as well as managing schemas, security, and replication. HBase clients can be classified into two categories: native and non-native.
+
+- Native clients are those that use the HBase API directly, such as the HBase shell, the Java client, and the REST client. These clients are usually faster and more feature-rich than non-native clients, but they require more dependencies and configuration. Native clients can also leverage the HBase coprocessor framework, which allows users to execute custom logic on the server side.
+- Non-native clients are those that use a different programming language or framework to access HBase, such as Python, Ruby, Scala, Spark, and Hive. These clients usually rely on third-party libraries or wrappers that translate the HBase API into the corresponding language or framework. Non-native clients are usually easier to use and integrate with other tools, but they may have less functionality and performance than native clients.
+
+Some examples of HBase clients are:
+
+- The HBase shell is a command-line tool that performs administrative tasks, such as creating and deleting tables. It is a native client that uses the Java client library to connect to HBase.
+- The Java client is a native client that provides a Java API for HBase. It is the most widely used and supported client for HBase, and it offers various features, such as batch operations, filters, scanners, and transactions .
+- The REST client is a native client that exposes a RESTful web service interface for HBase. It allows users to access HBase from any language or platform that supports HTTP requests. The REST client uses a lightweight server called REST gateway that acts as a proxy between the client and HBase .
+- The Thrift client is a non-native client that uses Apache Thrift, a cross-language service framework, to access HBase. It supports multiple languages, such as Python, Ruby, and PHP, and it uses a Thrift server that communicates with HBase via the Java client .
+- The Spark client is a non-native client that uses Apache Spark, a distributed computing framework, to access HBase. It allows users to perform complex data analysis and processing on HBase data using Spark's SQL, streaming, and machine learning libraries. The Spark client uses a library called Spark-HBase Connector that integrates with the Spark data source API .
+- The Hive client is a non-native client that uses Apache Hive, a data warehouse system, to access HBase. It allows users to query and analyze HBase data using Hive's SQL-like language called HiveQL. The Hive client uses a storage handler called HBaseStorageHandler that maps HBase tables to Hive tables .

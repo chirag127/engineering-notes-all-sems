@@ -1,0 +1,21 @@
+# Virtual Box for the notes of the Unit 5 - Cloud Technologies And Advancements Hadoop in the subject of Cloud Computing
+
+- Virtual Box is a software that allows users to run multiple operating systems on a single physical machine.
+- Virtual Box is an example of a hypervisor, which is a layer of software that creates and manages virtual machines (VMs).
+- Virtual Box supports various operating systems, such as Windows, Linux, MacOS, Solaris, and BSD.
+- Virtual Box can be used for various purposes, such as testing, development, education, and personal use.
+- Virtual Box has several features, such as:
+  - Snapshots: Users can save the state of a VM and restore it later.
+  - Shared folders: Users can share files and folders between the host and the guest operating systems.
+  - Seamless mode: Users can integrate the guest operating system's desktop with the host operating system's desktop.
+  - Guest additions: Users can install additional drivers and software to improve the performance and functionality of the guest operating system.
+  - Networking: Users can configure different types of network connections for the VMs, such as NAT, bridged, host-only, and internal.
+- Virtual Box can be used to run Hadoop, which is a framework for distributed processing of large data sets across clusters of computers.
+- Hadoop consists of several components, such as:
+  - Hadoop Distributed File System (HDFS): A file system that stores data across multiple nodes and provides high availability and fault tolerance.
+  - Hadoop MapReduce: A programming model that allows users to write applications that process large amounts of data in parallel.
+  - Hadoop YARN: A resource management system that allocates and schedules resources for the applications running on the cluster.
+  - Hadoop Common: A set of libraries and utilities that support the other components of Hadoop.
+- Virtual Box can be used to create a virtual cluster of VMs that run Hadoop and simulate a real cluster environment.
+- Virtual Box can help users to learn and experiment with Hadoop without requiring a physical cluster or a cloud service.
+- Virtual Box can also help users to test and debug their Hadoop applications before deploying them to a production environment.

@@ -1,0 +1,8 @@
+### Devices for the notes of the Unit 4 - Technical Communication Skills
+
+- Unit 4 of Technical Communication Skills covers the following topics: interview skills, group discussion skills, presentation skills, and report writing skills  .
+- Interview skills are the abilities to communicate effectively and professionally with the interviewer, to demonstrate one's knowledge, skills, and personality, and to answer the questions relevantly and confidently  .
+- Group discussion skills are the abilities to participate actively and constructively in a group discussion, to express one's opinions clearly and logically, to listen and respond to others' views, and to reach a consensus or a solution .
+- Presentation skills are the abilities to prepare and deliver a presentation on a given topic, to use appropriate language, tone, and body language, to use visual aids and technology effectively, and to handle questions and feedback from the audience .
+- Report writing skills are the abilities to write a formal document that provides information, analysis, or recommendations on a specific issue or problem, to follow the standard structure and format of a report, to use clear, concise, and accurate language, and to cite and reference the sources of information .
+- These skills are essential for technical communication, as they help to convey information, ideas, and solutions in various contexts and situations, such as recruitment, admission, promotion, teamwork, project management, research, and documentation    .

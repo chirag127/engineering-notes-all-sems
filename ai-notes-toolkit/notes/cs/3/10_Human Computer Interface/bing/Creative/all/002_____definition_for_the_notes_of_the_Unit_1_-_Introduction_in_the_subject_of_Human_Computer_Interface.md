@@ -1,0 +1,7 @@
+# Definition for the notes of the Unit 1 - Introduction in the subject of Human Computer Interface
+
+- Human Computer Interface (HCI) is the study of how people interact with computers and other technologies, and how to design, evaluate, and improve such interactions.
+- HCI is an interdisciplinary field that draws from computer science, psychology, design, engineering, and other disciplines to understand and enhance the user experience of computing systems.
+- HCI covers a wide range of topics, such as user interface design, usability, accessibility, user modeling, user feedback, user behavior, user emotions, user needs, user goals, user tasks, user preferences, user satisfaction, user engagement, user trust, user learning, user collaboration, user adaptation, user creativity, user diversity, user culture, user ethics, user privacy, user security, user health, user well-being, and user empowerment.
+- HCI also considers the impact of computing systems on individuals, groups, organizations, and society, and how to design systems that are socially and environmentally responsible, ethical, and sustainable.
+- HCI aims to create systems that are effective, efficient, enjoyable, and empowering for users, and that support human values, human dignity, and human potential.

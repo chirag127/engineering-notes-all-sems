@@ -1,0 +1,21 @@
+## Unit 6 - SOA Governance and Implementation
+
+- SOA governance is a type of IT governance used to control the development, deployment, operations and management of a successful service-oriented architecture (SOA).
+- SOA governance involves creating, enforcing, adapting and communicating policies around how services are created and implemented, across their lifecycle.
+- SOA governance is the specialization of IT governance that puts key IT governance decisions within the context of the SOA lifecycle.
+- SOA governance is the effective management and refinement of this lifecycle that is the key goal of SOA governance.
+- SOA governance can be divided into two aspects: strategic governance and tactical governance.
+- Strategic governance is the alignment of business and IT strategies, the definition of service portfolio and roadmap, the establishment of governance roles and responsibilities, and the measurement of business value and ROI.
+- Tactical governance is the enforcement of policies and standards, the monitoring and reporting of service performance and quality, the resolution of issues and conflicts, and the adaptation of services to changing requirements.
+- SOA governance requires the use of sophisticated tools to align services with business objectives, ensure that users can connect to and re-use services as needed, and monitor and report on decisions and results.
+- SOA governance is not a product that you buy, but a process that you implement and improve over time.
+- SOA governance is essential for achieving the benefits of SOA, such as agility, reuse, interoperability, and alignment.
+- SOA governance can be implemented using a SOA governance framework, which is a set of guidelines, best practices, and processes for defining, executing, and managing SOA governance activities.
+- A SOA governance framework typically consists of four components: governance model, governance processes, governance metrics, and governance tools.
+- A governance model defines the roles, responsibilities, and authorities of the stakeholders involved in SOA governance, such as service owners, service consumers, service developers, service managers, and service governors.
+- A governance process defines the steps, tasks, and deliverables for each phase of the SOA lifecycle, such as service identification, service design, service development, service testing, service deployment, service monitoring, and service evolution.
+- A governance metric defines the measures and indicators for assessing the effectiveness and efficiency of SOA governance, such as service quality, service availability, service usage, service compliance, and service value.
+- A governance tool supports the execution and automation of SOA governance activities, such as policy definition, policy enforcement, policy monitoring, policy reporting, and policy adaptation.
+- A SOA governance framework should be customized and tailored to the specific needs and characteristics of the organization, such as business goals, IT capabilities, SOA maturity, and SOA complexity.
+- A SOA governance framework should be implemented incrementally and iteratively, starting with the most critical and urgent governance issues, and evolving as the SOA grows and matures.
+- A SOA governance framework should be aligned and integrated with the existing IT governance and corporate governance frameworks, to ensure consistency and coherence across the organization.

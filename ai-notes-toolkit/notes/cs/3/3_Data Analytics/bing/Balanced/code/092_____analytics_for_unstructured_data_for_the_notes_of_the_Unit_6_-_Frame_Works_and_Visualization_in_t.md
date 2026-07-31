@@ -1,0 +1,17 @@
+### Analytics for Unstructured Data
+
+- Unstructured data is information that is not organized in a pre-defined manner, such as text, video, audio, web server logs, social media, and more .
+- Unstructured data analysis is the process of using data analytics tools to automatically organize, structure and get value from unstructured data.
+- Unstructured data analysis techniques can be classified into three categories: exploratory data analysis, qualitative data analysis, and AI and ML.
+- Exploratory data analysis (EDA) is a set of initial investigations done to identify the main characteristics, patterns, and outliers in unstructured data. EDA can use techniques such as descriptive statistics, data visualization, and clustering.
+- Qualitative data analysis mainly applies for unstructured text data. This can include techniques such as sentiment analysis, topic modeling, keyword extraction, and named entity recognition. Qualitative data analysis can use natural language processing (NLP) to process and understand natural language data.
+- AI and ML unstructured data analysis techniques include decision trees, principal component analysis (PCA), artificial neural networks, image analysis, temporal modeling techniques, market segmentation analysis, and more. These techniques help with predictive analytics and uncovering the data insights.
+- Tips for unstructured data analytics:
+  - Keep the business objective(s) in mind. The analytical techniques you choose should match up to your business objectives.
+  - Define metadata for faster data access. Metadata is data about data, such as the source, format, and content of the data. Metadata can help to index and query unstructured data more efficiently.
+  - Choose the right analytics techniques. Depending on the type and complexity of the unstructured data, different techniques may be more suitable and effective.
+  - Identify the right data sources. Unstructured data can come from various sources, such as social media, customer feedback, web pages, etc. Choosing the relevant and reliable data sources can improve the quality and accuracy of the analysis.
+  - Evaluate the technologies you’d want to use. There are various tools and platforms available for unstructured data analysis, such as MongoDB, Hadoop, Spark, MonkeyLearn, etc. Choosing the appropriate technology can depend on factors such as scalability, performance, cost, and ease of use.
+  - Get real-time data access. Unstructured data is often generated at a high velocity and volume, which can pose challenges for storage and analysis. Getting real-time data access can help to capture and analyze the data as it is generated, and provide timely and actionable insights.
+  - Store and integrate data using data lakes. Data lakes are repositories that can store and integrate large amounts of unstructured data in their native format. Data lakes can provide flexibility and scalability for unstructured data analysis, as well as enable data exploration and discovery.
+  - Wrangle the unstructured data. Data wrangling is the process of cleaning, transforming, and enriching the unstructured data to make it ready for analysis. Data wrangling can involve tasks such as removing noise, handling missing values, standardizing formats, and adding labels or tags.

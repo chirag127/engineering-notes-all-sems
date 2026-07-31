@@ -1,0 +1,21 @@
+# Smoothing and Sharpening Frequency Domain Filters
+
+- Frequency domain filters are used for **smoothing** and **sharpening** of images by removal of high or low frequency components .
+- Frequency domain filters are different from spatial domain filters as they mainly focus on the frequency of the images .
+- Frequency domain filtering involves the following steps:
+  - Convert the image from spatial domain to frequency domain using **Fourier transform**.
+  - Apply a filter function to the frequency domain image, such as **low pass**, **high pass**, **band pass**, or **band reject**.
+  - Convert the filtered image back to spatial domain using **inverse Fourier transform**.
+- Smoothing filters are **low pass** filters that attenuate (suppress) high frequency components without disturbing low frequency components  .
+- Smoothing filters are used to reduce and suppress image noises, such as **salt and pepper noise**, **Gaussian noise**, or **speckle noise** .
+- Smoothing filters can also blur the image and reduce the sharpness and contrast of the edges .
+- Examples of smoothing filters are **ideal low pass filter**, **Butterworth low pass filter**, and **Gaussian low pass filter**  .
+- Sharpening filters are **high pass** filters that attenuate (suppress) low frequency components without disturbing high frequency components  .
+- Sharpening filters are used to enhance the edges and fine details of the image, such as **lines**, **curves**, and **corners** .
+- Sharpening filters can also increase the noise and artifacts in the image .
+- Examples of sharpening filters are **ideal high pass filter**, **Butterworth high pass filter**, and **Gaussian high pass filter**  .
+- Some filters can also combine both smoothing and sharpening effects, such as **band pass** and **band reject** filters  .
+- Band pass filters allow a certain range of frequencies to pass through, while rejecting others  .
+- Band reject filters do the opposite, blocking a certain range of frequencies, while allowing others  .
+- Band pass and band reject filters can be used to remove periodic noises or enhance specific features in the image  .
+- Examples of band pass and band reject filters are **ideal band pass filter**, **ideal band reject filter**, **Butterworth band pass filter**, **Butterworth band reject filter**, **Gaussian band pass filter**, and **Gaussian band reject filter**  .

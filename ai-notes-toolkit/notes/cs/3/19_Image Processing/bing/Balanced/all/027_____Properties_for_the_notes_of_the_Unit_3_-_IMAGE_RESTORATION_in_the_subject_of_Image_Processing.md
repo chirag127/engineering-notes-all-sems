@@ -1,0 +1,11 @@
+# Properties of Image Restoration
+
+Image restoration is the process of recovering an image that has been degraded by a degradation phenomenon, such as blurring, noise, or distortion. Image restoration is a fundamental problem in image processing, and it also provides a testbed for more general inverse problems.
+
+Some of the properties of image restoration are:
+
+- Image restoration is different from image enhancement, which aims to improve the visual quality of an image without considering the degradation process. Image restoration is based on a mathematical model of the degradation and the inverse process, while image enhancement is based on heuristic or empirical methods.
+- Image restoration can be classified into two categories: spatial domain methods and frequency domain methods. Spatial domain methods operate directly on the pixel values of the image, while frequency domain methods transform the image into a frequency representation (such as Fourier transform) and perform operations on the frequency components.
+- Image restoration can be formulated as an optimization problem, where the objective is to find the restored image that minimizes a cost function that measures the discrepancy between the degraded image and the restored image, and possibly incorporates some prior knowledge or regularization terms. The cost function can be based on different criteria, such as least squares, maximum likelihood, or maximum a posteriori.
+- Image restoration can be influenced by several factors, such as the accuracy of the degradation model, the availability of the point-spread function (PSF) that characterizes the blurring effect, the noise level and distribution, and the computational complexity and stability of the restoration algorithm.
+- Image restoration can benefit from exploiting some properties of natural images, such as cross-scale similarity and anisotropic image features. These properties can help to preserve the image structure and details, and to avoid artifacts such as ringing or oversmoothing.

@@ -1,0 +1,11 @@
+### Mining frequent itemsets
+
+- Frequent itemsets are sets of items that appear together frequently in a dataset, such as a transactional database or a relational database .
+- Mining frequent itemsets is the process of finding such sets of items and their frequencies in a dataset .
+- Mining frequent itemsets is a fundamental technique in data mining, as it can be used to discover association rules, which are rules that describe how items are related to each other .
+- Mining frequent itemsets can also be used for other data mining tasks, such as classification, clustering, recommendation, anomaly detection, and pattern analysis.
+- Mining frequent itemsets can be challenging, as the number of possible itemsets grows exponentially with the number of items in the dataset, and the frequency threshold for defining frequent itemsets can vary depending on the application .
+- Mining frequent itemsets can be done using various algorithms, such as Apriori, Eclat, and FP-growth . These algorithms differ in how they generate and prune candidate itemsets, how they count the frequencies of itemsets, and how they store and traverse the data structure that represents the itemsets .
+- Apriori is the most commonly used algorithm for mining frequent itemsets, as it is simple and intuitive. It works by generating candidate itemsets of increasing size, starting from single items, and counting their frequencies in the dataset. It then prunes the itemsets that are not frequent, and repeats the process until no more candidates can be generated .
+- Eclat is an algorithm that improves the efficiency of Apriori by using a vertical data format, where each item is associated with a set of transactions that contain it. It then intersects the sets of transactions for different items to find frequent itemsets, and avoids generating and counting redundant candidates .
+- FP-growth is an algorithm that further improves the efficiency of mining frequent itemsets by using a compact data structure called FP-tree, which stores the frequent items and their frequencies in a prefix tree. It then mines the FP-tree by recursively partitioning it into smaller sub-trees, and avoids generating and counting candidates altogether .

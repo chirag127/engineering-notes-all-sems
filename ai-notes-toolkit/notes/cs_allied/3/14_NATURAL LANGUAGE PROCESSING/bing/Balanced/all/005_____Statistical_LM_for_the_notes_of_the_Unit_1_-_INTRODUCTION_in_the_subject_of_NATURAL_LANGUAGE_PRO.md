@@ -1,0 +1,8 @@
+# Statistical Language Model for Natural Language Processing
+
+- A statistical language model (SLM) is a mathematical tool that assigns probabilities to sequences of words or symbols in a natural language, such as English or Hindi.
+- A SLM can be used to generate text or to evaluate the likelihood of a given text, based on the frequency and co-occurrence of words or symbols in a large corpus of natural language data.
+- A SLM can be applied to various natural language processing (NLP) tasks, such as speech recognition, machine translation, natural language generation, text summarization, information retrieval, and sentiment analysis.
+- A SLM can be categorized into two types: n-gram models and neural network models.
+- An n-gram model is a simple and widely used SLM that estimates the probability of a word or symbol based on the previous n-1 words or symbols in the sequence, where n is a fixed integer. For example, a bigram model (n=2) estimates the probability of a word based on the previous word, and a trigram model (n=3) estimates the probability of a word based on the previous two words.
+- A neural network model is a more complex and powerful SLM that uses a deep learning architecture, such as a recurrent neural network (RNN), a long short-term memory (LSTM), or a transformer, to learn the probability distribution of words or symbols in a natural language. A neural network model can capture long-range dependencies and semantic relationships between words or symbols, and can generate more fluent and coherent text than an n-gram model.

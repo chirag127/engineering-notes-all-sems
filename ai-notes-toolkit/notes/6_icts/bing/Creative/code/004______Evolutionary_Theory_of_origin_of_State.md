@@ -1,0 +1,7 @@
+#### Evolutionary Theory of origin of State
+
+- The Evolutionary Theory of origin of State is the theory that explains the state as the product of historical and social evolution over a long period of time  .
+- According to this theory, the state is not a sudden or artificial creation, but a natural and gradual development of human society from simple to complex forms of organization  .
+- The Evolutionary Theory traces the origin of the state from the primitive stages of human society, such as the family, the clan, the tribe, the village, the city, and the nation, and shows how various factors, such as population growth, economic needs, social differentiation, warfare, religion, and law, influenced the formation and evolution of the state  .
+- The Evolutionary Theory is based on the historical and comparative methods of studying the state, and draws evidence from anthropology, archaeology, sociology, and political science   .
+- The Evolutionary Theory is considered to be the most scientific and convincing theory of origin of the state, as it accounts for the diversity and complexity of the state in different times and places, and avoids the assumptions and speculations of other theories  .

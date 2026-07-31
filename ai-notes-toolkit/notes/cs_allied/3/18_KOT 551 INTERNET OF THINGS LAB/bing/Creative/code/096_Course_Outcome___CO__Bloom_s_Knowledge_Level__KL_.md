@@ -1,0 +1,9 @@
+# Course Outcome (CO) Bloom's Knowledge Level (KL)
+
+- Course Outcome (CO) is a statement that describes what a learner should be able to do at the end of a course or a unit of instruction.
+- Bloom's Knowledge Level (KL) is a classification of cognitive skills that learners can demonstrate in relation to a given topic or domain.
+- Bloom's KL consists of six levels: remember, understand, apply, analyze, evaluate, and create. Each level represents a higher order of thinking and requires more complex cognitive processes than the previous one.
+- COs can be aligned with Bloom's KL to ensure that the learning objectives are clear, measurable, and appropriate for the level of the course or the unit.
+- For example, a CO for a course on computer programming might be: "By the end of this course, the learner will be able to create, test, and debug a simple program using a programming language of their choice." This CO can be mapped to the create level of Bloom's KL, which involves generating new products, solutions, or ideas based on existing knowledge and skills.
+- Similarly, a CO for a unit on data structures might be: "By the end of this unit, the learner will be able to analyze the performance and suitability of different data structures for various applications." This CO can be mapped to the analyze level of Bloom's KL, which involves breaking down information into components and identifying relationships, patterns, and trends.
+- Aligning COs with Bloom's KL can help instructors design effective learning activities, assessments, and feedback that match the intended learning outcomes and the cognitive demands of the learners. It can also help learners monitor their own progress and identify their strengths and weaknesses.

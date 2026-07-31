@@ -1,0 +1,8 @@
+### Opening and Closing
+
+- Opening and closing are two important operations in morphological image processing that can be used to smooth the contours of an object, eliminate small holes or gaps, and join narrow breaks or cracks.
+- Opening is defined as the erosion of an image by a structuring element, followed by the dilation of the eroded image by the same structuring element. Opening can remove small objects or protrusions from an image, while preserving the shape and size of larger objects.
+- Closing is defined as the dilation of an image by a structuring element, followed by the erosion of the dilated image by the same structuring element. Closing can fill small holes or gaps in an image, while preserving the shape and size of larger objects.
+- Opening and closing are dual operations, meaning that opening the complement of an image by a structuring element is equivalent to closing the image by the same structuring element, and vice versa.
+- Opening and closing are idempotent operations, meaning that applying them repeatedly does not change the result. They are also increasing operations, meaning that they do not decrease the gray level values of the pixels in an image.
+- Opening and closing can be combined to create more complex morphological filters, such as opening by reconstruction, closing by reconstruction, morphological gradient, top-hat transform, and bottom-hat transform. These filters can enhance or extract specific features from an image, such as edges, peaks, or valleys.

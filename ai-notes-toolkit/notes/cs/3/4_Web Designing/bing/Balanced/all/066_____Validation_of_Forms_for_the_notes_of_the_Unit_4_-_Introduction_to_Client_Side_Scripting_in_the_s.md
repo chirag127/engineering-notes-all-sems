@@ -1,0 +1,23 @@
+# Validation of Forms
+
+- Validation of forms is the process of checking the user input in a web form before submitting it to the server.
+- Validation of forms can be done on the client side or the server side, or both.
+- Client side validation is done by using JavaScript code in the web browser, which can check the input values for errors, such as missing or invalid data, before sending the form data to the server.
+- Server side validation is done by using a scripting language, such as PHP or ASP, on the web server, which can check the input values after receiving the form data from the browser, and send back an error message if there are any errors.
+- The advantages of client side validation are:
+  - It can provide faster feedback to the user, as the validation is done without reloading the web page or contacting the server.
+  - It can reduce the network traffic and the server load, as the invalid form data is not sent to the server.
+  - It can enhance the user experience and the usability of the web form, as the user can correct the errors before submitting the form.
+- The disadvantages of client side validation are:
+  - It can be bypassed by disabling JavaScript in the browser, or by using a browser that does not support JavaScript, or by using a malicious tool that can manipulate the form data.
+  - It can be inconsistent across different browsers, as different browsers may have different implementations of JavaScript and the Document Object Model (DOM).
+  - It can be less secure, as the validation logic and the error messages are exposed to the user and can be tampered with.
+- The advantages of server side validation are:
+  - It can provide more reliable and secure validation, as the validation is done by the server, which can enforce the business rules and the data integrity.
+  - It can provide more comprehensive and complex validation, as the server can access the database and other resources to validate the input data.
+  - It can provide more consistent validation, as the validation is done by the same scripting language and the same server, regardless of the browser or the client device.
+- The disadvantages of server side validation are:
+  - It can provide slower feedback to the user, as the validation is done after submitting the form data to the server, which requires reloading the web page or contacting the server.
+  - It can increase the network traffic and the server load, as the invalid form data is sent to the server and the error message is sent back to the browser.
+  - It can degrade the user experience and the usability of the web form, as the user may lose the input data or the form state after submitting the form and receiving the error message.
+- The best practice of validation of forms is to use both client side and server side validation, as they can complement each other and provide a better user experience and a more secure and reliable validation.

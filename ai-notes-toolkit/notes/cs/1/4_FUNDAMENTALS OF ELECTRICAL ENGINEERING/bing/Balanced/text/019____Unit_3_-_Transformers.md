@@ -1,0 +1,8 @@
+## Unit 3 - Transformers
+
+- A transformer is a device that converts alternating current (AC) from one voltage level to another voltage level by using the principle of electromagnetic induction    .
+- A transformer consists of two or more coils of wire, called the primary and secondary coils, that are wound around a common core, usually made of iron or steel .
+- The primary coil is connected to the AC source, and the secondary coil is connected to the load. When an AC voltage is applied to the primary coil, it creates a changing magnetic flux in the core, which induces an AC voltage in the secondary coil .
+- The ratio of the number of turns of wire in the primary and secondary coils determines the voltage transformation. If the secondary coil has more turns than the primary coil, the output voltage is higher than the input voltage, and the transformer is called a step-up transformer. If the secondary coil has fewer turns than the primary coil, the output voltage is lower than the input voltage, and the transformer is called a step-down transformer .
+- Transformers are used for various purposes, such as to increase or decrease the voltage of AC power circuits, to isolate different parts of a circuit, to match the impedance of a source and a load, to transmit electrical energy over long distances, and to control the frequency and phase of AC signals .
+- Transformers are passive components, meaning they do not require any external power source to operate. They are also linear components, meaning they obey the principle of superposition. However, they only work with AC signals, not with direct current (DC) signals .

@@ -1,0 +1,5 @@
+### Distributed Deadlocks
+
+Distributed deadlocks can occur in distributed systems when distributed transactions or concurrency control is being used. Deadlocks in distributed systems are similar to deadlocks in centralized systems. In centralized systems, we have one operating system that can oversee resource allocation and know whether deadlocks are (or will be) present. With distributed processes and resources, it becomes harder to detect, avoid, and prevent deadlocks.
+
+Several strategies can be used to handle deadlocks in distributed systems. Distributed deadlocks can be detected either by constructing a global wait-for graph from local wait-for graphs at a deadlock detector or by a distributed algorithm like edge chasing. The techniques of deadlock detection in the distributed system require progress, meaning the method should be able to detect all the deadlocks in the system, and safety, meaning the method should not detect false or phantom deadlocks.

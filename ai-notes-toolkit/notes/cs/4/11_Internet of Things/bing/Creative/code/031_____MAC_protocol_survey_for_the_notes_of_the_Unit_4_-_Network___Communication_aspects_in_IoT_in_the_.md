@@ -1,0 +1,20 @@
+# MAC protocol survey for the notes of the Unit 4 - Network & Communication aspects in IoT in the subject of Internet of Things
+
+- MAC (Medium Access Control) protocol is the first protocol layer above the Physical Layer in ad hoc networks.
+- The primary task of any MAC protocol is to control the access of the nodes to the shared wireless medium.
+- MAC protocols for IoT have attracted a lot of attention in both academic and industrial fields, as they aim to coordinate access among IoT devices with different requirements and constraints.
+- MAC protocols can be classified into two main categories: contention-based and contention-free.
+  - Contention-based protocols allow nodes to compete for the channel access, without reservation or scheduling. They are simple and flexible, but may suffer from collisions and low efficiency. Examples of contention-based protocols are CSMA/CA, ALOHA, and Slotted ALOHA.
+  - Contention-free protocols allocate the channel access to nodes in a deterministic way, with reservation or scheduling. They are more efficient and reliable, but may incur overhead and complexity. Examples of contention-free protocols are TDMA, FDMA, and CDMA.
+- MAC protocols can also be classified based on the coverage range: short-range and long-range.
+  - Short-range MAC protocols are designed for local area networks (LANs) or personal area networks (PANs), where the nodes are within the transmission range of each other or a central coordinator. They are suitable for low-power and low-cost IoT devices, but may have limited scalability and mobility. Examples of short-range MAC protocols are IEEE 802.15.4, Bluetooth, and ZigBee.
+  - Long-range MAC protocols are designed for wide area networks (WANs) or low-power wide area networks (LPWANs), where the nodes are dispersed over a large geographic area and may communicate through gateways or base stations. They are suitable for high-reliability and long-distance IoT applications, but may have high latency and low data rate. Examples of long-range MAC protocols are LoRaWAN, Sigfox, and NB-IoT.
+- MAC protocols for IoT should consider the following challenges and trade-offs :
+  - Energy efficiency: IoT devices are often battery-powered and need to conserve energy by minimizing transmission, reception, and idle time. MAC protocols should provide mechanisms for power saving, such as duty cycling, sleep scheduling, and adaptive transmission power .
+  - Scalability: IoT networks may consist of a large number of devices with diverse traffic patterns and quality of service (QoS) requirements. MAC protocols should be able to handle the network dynamics and heterogeneity, such as node joining and leaving, mobility, and congestion .
+  - Reliability: IoT applications may demand high reliability and low packet loss rate, especially for critical and time-sensitive data. MAC protocols should provide mechanisms for error control, such as retransmission, acknowledgment, and coding .
+  - Security: IoT devices may be vulnerable to malicious attacks, such as jamming, eavesdropping, and spoofing. MAC protocols should provide mechanisms for security, such as encryption, authentication, and key management .
+- One of the recent MAC protocols for IoT is IEEE 802.11ah, also known as WiFi HaLow . It is a scalable solution for medium-range communication in IoT, based on the WiFi technology . It provides the following features :
+  - Sub-1 GHz operation: It operates in the unlicensed frequency bands below 1 GHz, which offer better propagation and penetration than the higher bands. It can achieve a transmission range of up to 1 km, depending on the environment and configuration .
+  - High density: It can support up to 8192 stations per access point, which is much higher than the previous WiFi standards. It can also handle up to 64 access points per channel, which increases the network capacity and reduces the interference .
+  - Low power: It adopts various techniques to reduce the power consumption of the stations, such as target wake time (TWT), restricted access window (RAW), and power save multi-p

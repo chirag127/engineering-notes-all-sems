@@ -1,0 +1,23 @@
+### Dispersed and Virtual Teams in SPM
+
+- Dispersed and virtual teams are groups of people who work together on common projects across different locations, time zones, cultures, and organizational boundaries  .
+- Dispersed and virtual teams use information and communication technologies (ICT) to coordinate their tasks, share information, and collaborate effectively .
+- Dispersed and virtual teams have some advantages over co-located teams, such as:
+  - Access to a larger and more diverse pool of talent, skills, and expertise .
+  - Reduced costs of travel, relocation, and office space .
+  - Increased flexibility and autonomy for team members to manage their work-life balance .
+  - Enhanced creativity and innovation due to exposure to different perspectives and cultures .
+- Dispersed and virtual teams also face some challenges, such as:
+  - Communication difficulties due to language barriers, cultural differences, and lack of non-verbal cues .
+  - Coordination problems due to time differences, task interdependence, and unclear roles and responsibilities .
+  - Trust and relationship issues due to limited social interaction, low visibility, and potential conflicts .
+  - Motivation and performance issues due to isolation, distraction, and lack of feedback and recognition .
+- To manage dispersed and virtual teams effectively, project managers need to:
+  - Select team members based on their skills, experience, and suitability for remote work.
+  - Establish clear and realistic goals, expectations, and norms for the team.
+  - Choose appropriate ICT tools and platforms to facilitate communication and collaboration.
+  - Provide regular and constructive feedback and recognition to team members.
+  - Foster trust and cohesion among team members through social and emotional support.
+  - Monitor and evaluate team progress and performance using relevant metrics and indicators.
+  - Resolve any conflicts or issues that arise in a timely and respectful manner.
+- Dispersed and virtual teams can be more efficient than co-located teams at successfully completing projects, but they also tend to persist with failing projects longer than co-located teams. Therefore, project managers need to be aware of the potential risks and benefits of dispersed and virtual teams, and adapt their management strategies accordingly .

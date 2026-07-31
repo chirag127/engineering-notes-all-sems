@@ -1,0 +1,13 @@
+### Weather Imaging CubeSat with Telemetry Transmission
+
+- A CubeSat is a type of miniaturized satellite that has a standard size of 10x10x10 cm and a mass of up to 1.33 kg. CubeSats can be deployed in low Earth orbit for various applications, such as communication, GPS, remote sensing, and scientific research  .
+- A weather imaging CubeSat is a CubeSat that is equipped with a camera or a radiometer to capture images or measurements of the Earth's atmosphere, clouds, and precipitation. The data collected by the weather imaging CubeSat can be used for weather prediction and forecasting systems  .
+- A telemetry transmission CubeSat is a CubeSat that is capable of transmitting the data collected by the weather imaging CubeSat back to the ground station using a radio or a laser link. The telemetry transmission CubeSat can also receive commands from the ground station to control the operation of the weather imaging CubeSat .
+- A weather imaging CubeSat with telemetry transmission is a combination of the above two types of CubeSats, which can perform both the functions of weather imaging and data transmission. A weather imaging CubeSat with telemetry transmission can be a single CubeSat or a constellation of multiple CubeSats that work together to provide more coverage and resolution of the Earth's weather .
+- The design of a weather imaging CubeSat with telemetry transmission involves the following steps:
+  - Problem analysis: Identify the objectives, requirements, and constraints of the weather imaging CubeSat with telemetry transmission project, such as the orbit, the payload, the power, the communication, the data rate, the reliability, and the cost .
+  - Conceptual design: Generate and evaluate different possible solutions for the weather imaging CubeSat with telemetry transmission project, such as the configuration, the components, the subsystems, and the interfaces .
+  - Detailed design: Select the best solution from the conceptual design and refine the design parameters, such as the dimensions, the mass, the power consumption, the data rate, the performance, and the testing .
+  - Implementation: Fabricate, assemble, integrate, and test the weather imaging CubeSat with telemetry transmission, such as the structure, the electronics, the software, the payload, and the communication .
+  - Deployment: Launch and deploy the weather imaging CubeSat with telemetry transmission in the desired orbit and establish the communication link with the ground station .
+  - Operation: Monitor and control the weather imaging CubeSat with telemetry transmission from the ground station and collect and analyze the data from the payload .

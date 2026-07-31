@@ -1,0 +1,35 @@
+## Unit 6 - Hadoop Eco System and YARN
+
+- Hadoop Eco System is a collection of open source projects and tools that work together to provide a distributed computing platform for big data processing and analysis.
+- Some of the most well-known components of the Hadoop Eco System are:
+  - HDFS: Hadoop Distributed File System, a scalable and fault-tolerant storage layer for large volumes of data.
+  - MapReduce: A programming model and execution framework for parallel processing of data on HDFS.
+  - YARN: Yet Another Resource Negotiator, a resource management and job scheduling layer for Hadoop clusters.
+  - Hive: A data warehouse system that provides a SQL-like interface for querying and analyzing data on HDFS.
+  - Pig: A scripting language and platform for data transformation and analysis on HDFS.
+  - Spark: A fast and general engine for large-scale data processing, supporting batch, streaming, SQL, machine learning and graph analytics.
+  - HBase: A distributed and scalable NoSQL database that stores data in HDFS and provides random access and real-time updates.
+  - Oozie: A workflow scheduler and coordinator for managing Hadoop jobs.
+  - Sqoop: A tool for transferring data between HDFS and relational databases.
+  - Zookeeper: A service for maintaining configuration information, naming, synchronization and group services for distributed applications.
+- YARN is one of the major components of Hadoop that allocates and manages the resources and keeps all things working as they should.
+- YARN was initially named MapReduce 2 since it powered up the MapReduce of Hadoop 1.0 by addressing its downsides and enabling the Hadoop ecosystem to perform well for the modern challenges.
+- YARN is the parallel processing framework for implementing distributed computing clusters that processes huge amounts of data over multiple compute nodes.
+- YARN allows for a compute job to be segmented into hundreds and thousands of tasks.
+- The architecture of YARN consists of two main components:
+  - ResourceManager (RM): A global daemon that manages the resources and the applications running on the cluster.
+  - ApplicationMaster (AM): A per-application daemon that negotiates resources with the RM and coordinates the execution of the tasks for the application.
+- The RM has two sub-components:
+  - Scheduler: A pluggable module that allocates resources to the applications based on various criteria such as capacity, fairness, priority, etc.
+  - ApplicationsManager: A module that accepts and rejects application submissions, launches the AMs for the applications, and monitors and restarts the AMs if they fail.
+- The AM has two responsibilities:
+  - Negotiating appropriate resource containers from the Scheduler.
+  - Tracking and monitoring the status and progress of the containers.
+- A container is a collection of physical resources such as memory, CPU, disk, network, etc. that are allocated to a task by the RM.
+- The RM and the AM communicate with each other through a protocol called Application Submission Context (ASC).
+- The RM and the containers communicate with each other through a protocol called Container Launch Context (CLC).
+- YARN provides several benefits over Hadoop 1.0, such as:
+  - Scalability: YARN can support up to 10,000 nodes and 100,000 tasks per cluster, compared to 4,000 nodes and 40,000 tasks per cluster in Hadoop 1.0.
+  - Efficiency: YARN can utilize the cluster resources more efficiently by dynamically allocating and releasing containers based on the application needs, rather than pre-allocating fixed slots for map and reduce tasks.
+  - Flexibility: YARN can support multiple types of applications and frameworks, not just MapReduce, such as Spark, Hive, Pig, HBase, etc. This allows for a more diverse and rich Hadoop ecosystem.
+  - Compatibility: YARN can run existing MapReduce applications without any changes, as well as new applications that leverage the YARN APIs.

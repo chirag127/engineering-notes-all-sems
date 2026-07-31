@@ -1,0 +1,12 @@
+### Noise models for the notes of the Unit 3 - IMAGE RESTORATION in the subject of Image Processing
+
+- Image restoration is a process of recovering an original image from a degraded image that has been corrupted by noise, blur, or other distortions.
+- Noise is an unwanted variation in the pixel values of an image that degrades its quality and reduces its contrast and sharpness.
+- Noise can be introduced during image acquisition, transmission, or storage due to various factors such as environmental conditions, sensor imperfections, quantization errors, or compression artifacts.
+- Noise models are mathematical representations of the probability distribution of the noise that affects an image.
+- Noise models are useful for designing image restoration algorithms that can estimate the original image from the noisy image by applying appropriate filters or inverse operations.
+- Some of the common noise models used in image restoration are :
+  - Gaussian noise: This noise model assumes that the noise has a normal or Gaussian distribution with a mean of zero and a standard deviation of sigma. Gaussian noise is also called white noise because it has a constant power spectrum. Gaussian noise can be caused by thermal fluctuations, electronic circuitry, or sensor noise.
+  - Salt-and-pepper noise: This noise model assumes that the noise consists of random pixels that have either a very high value (salt) or a very low value (pepper). Salt-and-pepper noise is also called impulse noise because it affects only a small fraction of the pixels. Salt-and-pepper noise can be caused by transmission errors, faulty memory locations, or dead pixels.
+  - Speckle noise: This noise model assumes that the noise is multiplicative, meaning that it is proportional to the pixel value. Speckle noise has a Rayleigh distribution with a mean of zero and a variance of sigma squared. Speckle noise is also called granular noise because it creates a grainy appearance in the image. Speckle noise can be caused by coherent light sources, such as lasers, or by scattering or interference effects.
+  - Poisson noise: This noise model assumes that the noise follows a Poisson distribution, meaning that it depends on the number of photons or electrons that are detected by the sensor. Poisson noise is also called shot noise because it is related to the discrete nature of light. Poisson noise can be caused by low-light conditions, high-gain amplification, or photon counting devices.

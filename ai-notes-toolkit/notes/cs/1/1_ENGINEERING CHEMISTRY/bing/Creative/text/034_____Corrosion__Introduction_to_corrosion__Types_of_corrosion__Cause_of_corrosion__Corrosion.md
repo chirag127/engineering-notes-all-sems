@@ -1,0 +1,27 @@
+### Corrosion: Introduction to corrosion, Types of corrosion, Cause of corrosion, Corrosion
+
+- Corrosion is the deterioration of a material, usually a metal, due to a chemical or electrochemical reaction with its environment.
+- Corrosion can cause loss of material, mechanical strength, functionality, and aesthetic appeal of the affected material.
+- Corrosion can also pose safety, health, and environmental hazards if not prevented or controlled.
+- Corrosion can be classified into different types based on the nature and mechanism of the corrosion process, such as:
+  - Uniform or general corrosion: The metal surface is uniformly attacked by the corrosive medium, resulting in a uniform loss of material.
+  - Galvanic or bimetallic corrosion: Two dissimilar metals are in contact with each other and an electrolyte, creating a galvanic cell that causes one metal to corrode preferentially (the anode) while the other metal is protected (the cathode).
+  - Pitting corrosion: The metal surface is locally attacked by the corrosive medium, resulting in small pits or holes that can penetrate deep into the metal.
+  - Crevice corrosion: The metal surface is attacked by the corrosive medium in narrow spaces or crevices, where the oxygen concentration is low and the acidity is high.
+  - Intergranular corrosion: The metal surface is attacked by the corrosive medium along the grain boundaries of the metal, where the microstructure or composition may differ from the bulk metal.
+  - Stress corrosion cracking: The metal surface is attacked by the corrosive medium in the presence of tensile stress, resulting in cracks that can propagate and cause failure of the metal.
+  - Corrosion fatigue: The metal surface is attacked by the corrosive medium in the presence of cyclic stress, resulting in cracks that can initiate and grow due to the combined effect of corrosion and fatigue.
+  - Erosion corrosion: The metal surface is attacked by the corrosive medium in the presence of fluid flow, resulting in material loss due to the mechanical abrasion and impact of the fluid particles.
+  - Microbiologically influenced corrosion: The metal surface is attacked by the corrosive medium in the presence of microorganisms, such as bacteria, fungi, or algae, that can influence the corrosion process by producing corrosive substances, forming biofilms, or altering the local environment.
+- The cause of corrosion can be attributed to various factors, such as:
+  - The nature and composition of the metal and its environment, which determine the thermodynamic tendency and the kinetic rate of the corrosion reaction.
+  - The physical and chemical properties of the metal and its environment, such as temperature, pressure, pH, salinity, oxygen concentration, etc., which affect the corrosion reaction and its products.
+  - The design and fabrication of the metal and its environment, such as shape, size, surface finish, welding, coating, etc., which influence the corrosion behavior and resistance of the metal.
+  - The operational and environmental conditions of the metal and its environment, such as stress, strain, vibration, wear, erosion, etc., which induce or enhance the corrosion process and its damage.
+- Corrosion can be prevented or controlled by various methods, such as:
+  - Material selection: Choosing a metal that is inherently resistant to corrosion or compatible with the corrosive environment, or using a non-metallic material that is immune to corrosion.
+  - Protective coating: Applying a layer of material, such as paint, plastic, metal, etc., that can isolate the metal from the corrosive environment, or provide sacrificial protection by corroding instead of the metal.
+  - Cathodic protection: Applying an external electric current or a sacrificial anode to the metal, which can reduce or eliminate the corrosion of the metal by making it the cathode of the galvanic cell.
+  - Corrosion inhibitors: Adding a substance, such as an organic compound, a metal ion, or an oxide, to the corrosive environment, which can interfere with the corrosion reaction by forming a protective film, reducing the aggressiveness of the environment, or inhibiting the cathodic or anodic reaction.
+  - Environmental modification: Changing the physical or chemical parameters of the corrosive environment, such as temperature, pressure, pH, salinity, oxygen concentration, etc., which can reduce or eliminate the corrosion of the metal by shifting the thermodynamic equilibrium or the kinetic rate of the corrosion reaction.
+  - Design improvement: Modifying the shape, size, surface finish, welding, coating, etc., of the metal and its environment, which can improve the corrosion behavior and resistance of the metal by avoiding or minimizing the factors that induce or enhance the corrosion process and its damage.

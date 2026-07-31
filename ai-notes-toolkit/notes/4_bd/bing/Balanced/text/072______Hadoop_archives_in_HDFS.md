@@ -1,0 +1,7 @@
+#### Hadoop archives in HDFS
+
+- Hadoop archives (HAR) are a way of compressing large numbers of small files in HDFS to reduce the metadata overhead and improve the performance of the file system.
+- HAR files are similar to ZIP or TAR files, but they are not compressed. They are created by using the `hadoop archive` command, which takes a list of files or directories as input and produces a single HAR file as output.
+- HAR files are stored in HDFS as regular files, but they have a special format that allows them to be accessed as directories. The HAR file system is a layer on top of the HDFS file system that transparently handles the mapping between HAR files and their contents.
+- HAR files can be accessed using the `har://` scheme in the HDFS URI. For example, `har:///user/hadoop/myarchive.har/file1.txt` refers to the file `file1.txt` inside the HAR file `myarchive.har` in the HDFS directory `/user/hadoop`.
+- HAR files can be used to improve the performance of MapReduce jobs that need to process a large number of small files. By archiving the small files into a single HAR file, the number of mappers can be reduced and the input split size can be increased. This reduces the overhead of launching and managing many tasks and improves the data locality.

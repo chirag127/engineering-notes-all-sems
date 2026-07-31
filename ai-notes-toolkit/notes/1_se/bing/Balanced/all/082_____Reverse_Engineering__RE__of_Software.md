@@ -1,0 +1,27 @@
+### Reverse Engineering (RE) of Software
+
+- Reverse engineering (RE) of software is the process of analyzing a software system to identify its components and their interrelationships and to create representations of the system in another form or at a higher level of abstraction.
+- RE can be used for various purposes, such as:
+  - Improving the quality, performance, and maintainability of a software system by redesigning and modifying its structure and functionality.
+  - Recovering the source code of a software system from its executable or binary form, when the original source code is unavailable or lost.
+  - Understanding the behavior and functionality of a software system, especially when it is complex, undocumented, or poorly documented.
+  - Detecting and fixing errors, vulnerabilities, or malicious code in a software system.
+  - Synthesizing higher-level abstractions or models of a software system, such as data flow diagrams, class diagrams, or state machines.
+  - Facilitating the reuse of existing software components or systems by identifying their interfaces, dependencies, and specifications.
+- RE can be performed at different levels of granularity, such as:
+  - Instruction level: analyzing the machine code or assembly code of a software system to understand its low-level operations and logic.
+  - Function level: analyzing the functions or procedures of a software system to understand their inputs, outputs, and effects.
+  - Module level: analyzing the modules or components of a software system to understand their structure, functionality, and interactions.
+  - System level: analyzing the software system as a whole to understand its architecture, design, and behavior.
+- RE can be performed using different techniques, such as:
+  - Static analysis: analyzing the software system without executing it, by examining its code, data, or structure.
+  - Dynamic analysis: analyzing the software system by executing it, by observing its behavior, output, or performance.
+  - Hybrid analysis: combining static and dynamic analysis to obtain more comprehensive and accurate results.
+- RE can be performed using different tools, such as:
+  - Disassemblers: tools that convert machine code or binary code into assembly code or human-readable instructions.
+  - Decompilers: tools that convert machine code or binary code into source code or high-level programming languages.
+  - Debuggers: tools that allow the execution, inspection, and modification of a software system at run time.
+  - Analyzers: tools that perform various types of analysis on a software system, such as control flow analysis, data flow analysis, or dependency analysis.
+  - Visualizers: tools that create graphical representations of a software system, such as graphs, charts, or diagrams.
+- RE can be challenging and time-consuming, depending on the complexity, size, and quality of the software system, as well as the availability and accuracy of the documentation and the tools.
+- RE can be subject to legal and ethical restrictions, depending on the ownership, license, and purpose of the software system, as well as the jurisdiction and regulations of the country or region where the RE is performed.

@@ -1,0 +1,33 @@
+### Symbol for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+
+- The following symbols are used in the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages:
+
+- `Σ` : The alphabet, a finite set of symbols.
+- `ε` : The empty string, a string of length zero.
+- `Σ*` : The set of all strings over the alphabet `Σ`, including the empty string.
+- `|w|` : The length of a string `w`.
+- `w[i]` : The `i`-th symbol of a string `w`, where `i` starts from 1.
+- `w1w2` : The concatenation of two strings `w1` and `w2`.
+- `w^R` : The reverse of a string `w`.
+- `w^n` : The string obtained by repeating `w` `n` times, where `n` is a non-negative integer.
+- `L` : A language, a subset of `Σ*`.
+- `L1 ∪ L2` : The union of two languages `L1` and `L2`.
+- `L1 ∩ L2` : The intersection of two languages `L1` and `L2`.
+- `L1 - L2` : The difference of two languages `L1` and `L2`.
+- `L1L2` : The concatenation of two languages `L1` and `L2`.
+- `L*` : The Kleene closure of a language `L`, the set of all strings that can be formed by concatenating zero or more strings from `L`.
+- `L+` : The positive closure of a language `L`, the set of all strings that can be formed by concatenating one or more strings from `L`.
+- `L^n` : The `n`-th power of a language `L`, the set of all strings that can be formed by concatenating `n` strings from `L`, where `n` is a non-negative integer.
+- `L^R` : The reverse of a language `L`, the set of all strings that are the reverse of some string in `L`.
+- `M` : A machine, a mathematical model of computation.
+- `Q` : The set of states of a machine `M`.
+- `q0` : The initial state of a machine `M`.
+- `F` : The set of final or accepting states of a machine `M`.
+- `δ` : The transition function of a machine `M`, a mapping from `Q x Σ` to `Q` (for deterministic machines) or `Q x Σ` to `2^Q` (for non-deterministic machines).
+- `M(w)` : The output of a machine `M` on an input string `w`.
+- `L(M)` : The language accepted by a machine `M`, the set of all strings that `M` accepts.
+- `DFA` : A deterministic finite automaton, a machine that has a finite number of states and a deterministic transition function.
+- `NFA` : A non-deterministic finite automaton, a machine that has a finite number of states and a non-deterministic transition function.
+- `ε-NFA` : An epsilon non-deterministic finite automaton, a machine that has a finite number of states and a non-deterministic transition function that can also make transitions without consuming any input symbol (called epsilon transitions).
+- `RE` : A regular expression, a notation for describing regular languages using symbols from the alphabet, the empty string, the union operator (`+` or `|`), the concatenation operator (`.` or omitted), the Kleene star operator (`*`), the positive star operator (`+`), and parentheses for grouping.
+- `R` : A regular grammar, a grammar that has rules of the form `A -> aB` or `A -> a` or `A -> ε`, where `A` and `B` are variables and `a` is a terminal symbol.

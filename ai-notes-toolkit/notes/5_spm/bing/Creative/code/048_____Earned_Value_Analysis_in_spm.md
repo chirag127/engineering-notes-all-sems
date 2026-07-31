@@ -1,0 +1,22 @@
+### Earned Value Analysis in SPM
+
+- Earned value analysis (EVA) is a technique for measuring project performance and progress in terms of cost and schedule.
+- EVA involves comparing the actual work completed (earned value) with the planned work (planned value) and the actual cost incurred (actual cost) at any given point in time.
+- EVA can help project managers to identify variances, trends, and forecasts of project cost and schedule performance, and to take corrective actions if needed.
+- EVA requires the following inputs:
+  - A work breakdown structure (WBS) that defines the scope and deliverables of the project.
+  - A baseline plan that specifies the planned value (PV) and the planned duration of each work package or activity in the WBS.
+  - A method for measuring the earned value (EV) of each work package or activity, such as percentage of completion, milestones, or deliverables.
+  - A system for tracking the actual cost (AC) of each work package or activity, such as accounting records, invoices, or timesheets.
+- EVA uses the following formulas to calculate the key performance indicators:
+  - Cost variance (CV) = EV - AC
+  - Schedule variance (SV) = EV - PV
+  - Cost performance index (CPI) = EV / AC
+  - Schedule performance index (SPI) = EV / PV
+  - Estimate at completion (EAC) = BAC / CPI
+  - Estimate to complete (ETC) = EAC - AC
+  - Variance at completion (VAC) = BAC - EAC
+  - To complete performance index (TCPI) = (BAC - EV) / (BAC - AC)
+  - Where BAC is the budget at completion, which is the total planned value of the project.
+- EVA can be represented graphically using an S-curve, which plots the cumulative values of PV, EV, and AC over time.
+- EVA can also be integrated with other project management tools, such as risk analysis, quality control, and change management, to provide a comprehensive view of project performance and health.

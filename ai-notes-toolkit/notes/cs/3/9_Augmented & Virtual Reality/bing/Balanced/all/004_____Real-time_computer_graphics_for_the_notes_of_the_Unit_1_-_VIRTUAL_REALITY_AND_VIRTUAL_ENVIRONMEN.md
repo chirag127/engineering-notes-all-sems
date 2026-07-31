@@ -1,0 +1,9 @@
+# Real-time computer graphics
+
+- Real-time computer graphics is the sub-field of computer graphics focused on producing and analyzing images in real time .
+- The term can refer to anything from rendering an application's graphical user interface (GUI) to real-time image analysis, but is most often used in reference to interactive 3D computer graphics, typically using a graphics processing unit (GPU), with video games the most noticeable users .
+- Real-time rendering is often contrasted with offline rendering, which is the process of generating images from 3D models by using complex algorithms and techniques that are not feasible in real time.
+- Real-time rendering requires a high level of performance and optimization, as well as trade-offs between quality and speed, to achieve interactive frame rates (typically 30 or 60 frames per second).
+- Some of the techniques used in real-time rendering include rasterization, ray tracing, ray casting, ray marching, deferred shading, forward shading, shadow mapping, ambient occlusion, global illumination, anti-aliasing, texture mapping, bump mapping, normal mapping, displacement mapping, tessellation, animation, skeletal animation, inverse kinematics, physics simulation, collision detection, particle systems, and post-processing effects.
+- Real-time computer graphics can be used for various applications, such as video games, virtual reality, augmented reality, simulations, training, education, entertainment, art, and visualization  .
+- Real-time computer graphics can also adapt to autostereoscopy, which is a technique that allows the viewer to perceive 3D images without the need for special glasses or headsets.

@@ -1,0 +1,8 @@
+### Experiment 11.1 - Link State Routing
+
+- Link state routing is a type of routing algorithm that uses the information about the state of each link (such as bandwidth, delay, cost, etc.) to calculate the best path from one node to every other node in the network.
+- Link state routing is also known as Dijkstra's algorithm, which is an iterative algorithm that finds the shortest path from a source node to all other nodes by using a priority queue to store the nodes with the least cost path so far.
+- Link state routing requires each node to construct a map of the network topology, in the form of a graph, by exchanging messages with all other nodes in the network. These messages are called link state advertisements (LSAs) and they contain the information about the node's identity, its neighbors, and the cost of each link.
+- Link state routing has some advantages over distance-vector routing, such as faster convergence, less routing loops, and more accurate routing information. However, it also has some disadvantages, such as higher memory and CPU usage, more bandwidth consumption, and more complexity.
+- Link state routing protocols are widely used in packet switching networks for computer communications, such as Open Shortest Path First (OSPF) and Intermediate System to Intermediate System (IS-IS).
+- Link state routing protocols have some common features, such as hierarchical structure, flooding mechanism, reliable delivery, and authentication.

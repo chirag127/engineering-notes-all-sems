@@ -1,0 +1,12 @@
+### How to approach a programming problem for the notes of the Unit 2 - SOFTWARE FRAMEWORKS in the subject of PROGRAMMING AND INTERFACING WITH MICROCONTROLLERS
+
+- A programming problem is a task that requires writing a computer program or a part of it to achieve a specific goal or functionality.
+- A software framework is a set of tools, libraries, and conventions that provide a common structure and functionality for developing software applications.
+- Programming and interfacing with microcontrollers is a subject that covers the basics of embedded systems, hardware components, software development, and communication protocols for microcontrollers.
+- To approach a programming problem for the notes of the Unit 2, one can follow these steps:
+
+  - Understand the problem: Read the problem statement carefully and identify the input, output, and constraints of the problem. Clarify any doubts or assumptions with the instructor or the source of the problem.
+  - Choose a software framework: Based on the problem domain, the target platform, and the available resources, select a suitable software framework that can help you develop the program. For example, if the problem involves interfacing with sensors and actuators, you can use Arduino or Raspberry Pi as the software framework.
+  - Design the program: Break down the problem into smaller and manageable subproblems and design the program structure and logic using pseudocode, flowcharts, or diagrams. Consider the data structures, algorithms, and functions that you will need to implement the program.
+  - Implement the program: Write the code for the program using the syntax and conventions of the software framework. Follow the coding standards and best practices for readability, modularity, and documentation. Test and debug the code using the tools and methods provided by the software framework.
+  - Evaluate the program: Run the program with different test cases and inputs and check if the output matches the expected results. Measure the performance, efficiency, and reliability of the program using appropriate metrics and criteria. Compare the program with other possible solutions and identify the strengths and weaknesses of your approach.

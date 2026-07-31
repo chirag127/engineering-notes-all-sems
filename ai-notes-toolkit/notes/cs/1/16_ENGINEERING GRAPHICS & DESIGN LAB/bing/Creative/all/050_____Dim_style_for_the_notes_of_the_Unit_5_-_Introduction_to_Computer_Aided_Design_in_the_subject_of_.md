@@ -1,0 +1,23 @@
+# Dim style for the notes of the Unit 5 - Introduction to Computer Aided Design in the subject of ENGINEERING GRAPHICS & DESIGN LAB
+
+- Computer-aided design (CAD) is a manufacturing process that allows us to digitally create 2D drawings or 3D models of future products.
+- CAD helps designers and engineers visualize a product’s construction, before fabricating it.
+- CAD also enables the analysis and optimization of the product’s performance, functionality, and quality.
+- CAD software can be used for various applications, such as architecture, engineering, industrial design, animation, and gaming.
+- CAD software can be classified into two categories: 2D CAD and 3D CAD.
+  - 2D CAD software allows the creation of flat drawings of objects, such as floor plans, schematics, and blueprints.
+  - 3D CAD software allows the creation of realistic and detailed models of objects, such as parts, assemblies, and structures.
+- Some examples of popular CAD software are AutoCAD, SolidWorks, Inventor, SketchUp, and Creo Parametric.
+- Creo Parametric is a CAD software that offers parametric, direct, and freeform modeling capabilities, as well as simulation, analysis, and rendering tools.
+- Creo Parametric is used in this course to teach solid modeling using a specific software package, not teach how to use a software package that does solid modeling.
+- The primary objective of this course is to teach the fundamentals of engineering graphics using solid modeling as opposed to a user course in the specific solid modeling software.
+- The secondary objective of this course is to provide the students with an opportunity to use solid modeling as an engineering tool for conceptual design, detailed design and engineering analysis.
+- This course will cover the following topics:
+  - Introduction to CAD and Creo Parametric
+  - Sketching and constraints
+  - Part modeling and features
+  - Assembly modeling and mates
+  - Drawing creation and annotation
+  - Surface modeling and freeform
+  - Simulation and analysis
+  - Rendering and animation

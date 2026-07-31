@@ -1,0 +1,9 @@
+### Quantum wires and Quantum well
+
+Quantum wells and quantum wires are semiconductor structures that confine the motion of electrons in one or two dimensions, respectively. These structures have applications in nanoelectronics, optoelectronics, information technology, and biotechnology, due to the quantum mechanical confinement provided by the small spatial extent of the structures.
+
+- **Quantum well**: A two-dimensional (2D) structure where quantization of the particle motion occurs in one direction, while the particle is free to move in the other two directions. Quantum well materials are made of thin layers of differing semiconductor materials, and can be grown such that the movement of the free electron is confined to a two-dimensional plane.
+
+- **Quantum wire**: A one-dimensional (1D) structure where quantization occurs in two directions, leading to free movement along only one direction. For metals, quantization corresponding to the lowest energy states is only observed for atomic wires. Their corresponding wavelength being thus extremely small they have a very large energy separation which makes resistance quantization observable even at room temperature.
+
+These structures are a subfield of solid-state physics that is still extensively studied and researched today. The theory used to describe such systems uses important results from the fields of quantum physics, statistical physics, and electrodynamics. Quantum Wells, Wires and Dots provides all the essential information, both theoretical and computational, to develop an understanding of the electronic, optical and transport properties of these semiconductor nanostructures.

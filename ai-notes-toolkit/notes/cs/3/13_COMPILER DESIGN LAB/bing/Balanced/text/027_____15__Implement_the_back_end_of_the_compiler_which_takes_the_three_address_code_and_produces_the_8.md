@@ -1,0 +1,9 @@
+### 15. Implement the back end of the compiler which takes the three address code and produces the 8086 assembly language
+
+- The back end of the compiler is the part that generates the target code from the intermediate code, such as the three address code (TAC).
+- The 8086 assembly language is a low-level programming language for the Intel 8086 microprocessor, which has a 16-bit architecture and supports 256 instructions.
+- To implement the back end of the compiler, the following steps are required:
+
+  - Define the target code format and instruction set. The target code format should specify the syntax and semantics of the 8086 assembly language, such as the registers, memory addressing modes, instruction operands, labels, directives, etc. The instruction set should list all the supported instructions and their opcodes, mnemonics, and operands.
+  - Define the mapping of TAC to 8086 assembly language. The mapping should specify how each TAC statement is translated into one or more 8086 assembly language instructions, taking into account the data types, operators, and control structures of the source language. The mapping should also handle the allocation of registers and memory for the TAC operands and temporaries, and the generation of labels and jumps for the TAC statements.
+  - Implement the code generator. The code generator is the module that performs the actual translation of TAC to 8086 assembly language, using the defined target code format, instruction set, and mapping. The code generator should read the TAC statements from the input file or stream, and output the corresponding 8086 assembly language instructions to the output file or stream. The code generator should also handle any errors or exceptions that may occur during the translation process.

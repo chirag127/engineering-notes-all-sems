@@ -1,0 +1,29 @@
+### Object Oriented Design for the notes of the Unit 3 - Software Design in the subject of Software Engineering
+
+- Object Oriented Design (OOD) is the process of planning a system of interacting objects for the purpose of solving a software problem.
+- OOD transforms the analysis model created using Object Oriented Analysis (OOA) into a design model that serves as a blueprint for software construction.
+- OOD is based on the object oriented paradigm, which is a common approach to modeling applications, systems, and business domains by using objects as the basic units of abstraction.
+- OOD follows some principles and guidelines to ensure the quality, maintainability, and extensibility of the software. Some of these principles are:
+  - Encapsulation: The principle of hiding the internal details and data of an object from the outside world and providing a well-defined interface for communication.
+  - Abstraction: The principle of representing the essential features and behavior of an object without including the unnecessary or low-level details.
+  - Inheritance: The principle of reusing the attributes and methods of an existing class (called the superclass or parent class) by creating a new class (called the subclass or child class) that inherits from it.
+  - Polymorphism: The principle of allowing an object to behave differently depending on the context or the type of the object. For example, a method can have different implementations in different subclasses, or an object can change its behavior at runtime.
+  - Modularity: The principle of dividing a complex system into smaller and independent modules or components that can be developed, tested, and maintained separately.
+  - Cohesion: The principle of keeping the elements of a module or a class related and focused on a single purpose or functionality.
+  - Coupling: The principle of minimizing the dependencies and interactions between different modules or classes to reduce the complexity and increase the reusability of the software.
+- OOD also follows some design patterns and best practices to solve common problems and improve the software design. Some of these patterns and practices are:
+  - SOLID: A set of five principles of object oriented design that establish practices for developing software with considerations for maintaining and extending as the project grows. The principles are:
+    - Single Responsibility Principle: A class should have only one reason to change, meaning that a class should have only one responsibility or functionality.
+    - Open/Closed Principle: A class should be open for extension, meaning that it should allow adding new features or behavior without modifying the existing code, and closed for modification, meaning that it should not require changing the existing code when adding new features or behavior.
+    - Liskov Substitution Principle: A subclass should be substitutable for its superclass, meaning that a subclass should not violate the contract or the expectations of its superclass, and should behave consistently with its superclass.
+    - Interface Segregation Principle: A class should not be forced to depend on methods or interfaces that it does not use, meaning that a class should only implement the interfaces that are relevant to its functionality, and the interfaces should be small and focused.
+    - Dependency Inversion Principle: A class should depend on abstractions, not on concretions, meaning that a class should not depend on the implementation details of other classes, but on their abstract interfaces or behaviors.
+  - GRASP: A set of nine general responsibility assignment software patterns that provide guidelines for assigning responsibilities to classes and objects in object oriented design. The patterns are:
+    - Controller: A class that is responsible for handling user requests and coordinating the actions of other classes or objects.
+    - Creator: A class that is responsible for creating or instantiating other classes or objects.
+    - Expert: A class that is responsible for performing a specific task or holding a specific information, based on its knowledge or expertise.
+    - High Cohesion: A class that has a high degree of cohesion, meaning that its elements are related and focused on a single purpose or functionality.
+    - Indirection: A class that is responsible for mediating or delegating the communication or interaction between two or more classes or objects, to reduce the coupling and complexity of the software.
+    - Information Expert: A class that is responsible for providing the information or data needed by other classes or objects, based on its knowledge or expertise.
+    - Low Coupling: A class that has a low degree of coupling, meaning that it has minimal dependencies and interactions with other classes or objects, to increase the reusability and maintainability of the software.
+    - Polymorphism: A class that uses polymorphism, meaning that it allows an object to behave differently depending

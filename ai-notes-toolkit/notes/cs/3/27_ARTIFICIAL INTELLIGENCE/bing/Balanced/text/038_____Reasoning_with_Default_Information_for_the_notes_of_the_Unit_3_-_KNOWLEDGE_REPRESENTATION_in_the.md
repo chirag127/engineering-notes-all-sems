@@ -1,0 +1,21 @@
+### Reasoning with Default Information
+
+- Reasoning with default information is a form of non-monotonic reasoning that allows for drawing plausible conclusions from incomplete or uncertain premises by using general rules that may have exceptions .
+- Non-monotonic reasoning is a type of reasoning that does not follow the principle of monotonicity, which states that adding new information to a set of premises cannot reduce the set of conclusions that can be derived from them.
+- Reasoning with default information is useful in artificial intelligence because it can model common sense reasoning and deal with situations where the information available is not sufficient or reliable to make definitive conclusions .
+- Some examples of reasoning with default information in artificial intelligence are:
+  - Default assignments to variables: assigning a default value to a variable when its actual value is unknown or irrelevant, such as `color(x) = red` unless specified otherwise.
+  - Closed world assumption: assuming that the facts that are not explicitly stated in a knowledge base are false, such as `bird(x) -> flies(x)` unless `~flies(x)` is stated.
+  - Frame default for causal worlds: assuming that the properties of an object or a situation remain unchanged unless there is a cause for change, such as `location(ball, t) = location(ball, t-1)` unless `move(ball, t)` is stated.
+  - Exceptions as defaults: assuming that a general rule applies unless there is an exception to it, such as `bird(x) -> flies(x)` unless `penguin(x)` or `ostrich(x)` is stated.
+  - Negation in artificial intelligence programming languages: using negation as a form of default reasoning, such as `not p(x)` meaning that `p(x)` is not provable or not known to be true.
+- Reasoning with default information requires two facilities:
+  - A mechanism that forces conclusions to be retracted in light of new refuting evidence, such as when an exception to a default rule is discovered.
+  - A mechanism that protects conclusions from retraction in light of new but irrelevant evidence, such as when a new fact does not affect the validity of a default rule.
+- One of the most influential formalisms for reasoning with default information is default logic, proposed by Reiter in 1980 . Default logic consists of three components :
+  - A set of facts or axioms that represent the background knowledge of the domain.
+  - A set of default rules that have the form `p : q / r`, meaning that if `p` is true and `q` is consistent with the facts, then `r` can be concluded as a default.
+  - A set of consequences or extensions that are the maximal sets of facts and defaults that are consistent with each other and the background knowledge.
+- Default logic is non-monotonic because adding new facts or defaults may change the set of consequences or extensions, or even make them inconsistent. For example, adding the fact `penguin(tweety)` to the default rule `bird(x) : flies(x) / flies(x)` will make the consequence `flies(tweety)` invalid and the extension inconsistent .
+- Default logic is also defeasible, meaning that the conclusions drawn from default rules are not necessarily true, but only plausible or justified by the available information. They can be defeated by new evidence that contradicts them or shows that they are exceptions .
+- Default logic has many applications in artificial intelligence, such as natural language understanding, planning, diagnosis, and commonsense reasoning . However, it also faces some challenges, such as the existence and uniqueness of extensions, the computational complexity of finding extensions, and the representation and reasoning with preferences among defaults .

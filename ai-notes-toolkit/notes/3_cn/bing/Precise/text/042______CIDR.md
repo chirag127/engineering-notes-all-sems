@@ -1,0 +1,11 @@
+#### CIDR
+- **CIDR** stands for **Classless Inter-Domain Routing**.
+- It is a method for allocating IP addresses and for IP routing.
+- CIDR was introduced in 1993 by the Internet Engineering Task Force to replace the previous classful network addressing architecture on the Internet.
+- CIDR is principally a bitwise, prefix-based standard for the representation of IP addresses and their routing properties.
+- It facilitates routing by allowing blocks of addresses to be grouped into single routing table entries.
+- CIDR improves the efficiency of address distribution and replaces the previous system based on Class A, Class B, and Class C networks.
+- CIDR notation is a compact representation of an IP address and its associated network mask.
+- CIDR notation specifies an IP address, a slash ('/') character, and a decimal number.
+- The decimal number is the number of consecutive 1's in the subnet mask.
+- For example, the CIDR notation `192.168.1.0/24` specifies that the IP address `192.168.1.0` is associated with the network mask `255.255.255.0`.

@@ -1,0 +1,12 @@
+## Unit 6 - Failure Recovery in Distributed Systems
+
+In this unit, we will discuss the strategies and techniques used to recover from failures in distributed systems. Here are the key points to keep in mind:
+
+- Failure is inevitable in distributed systems. The complexity of these systems makes it difficult to ensure that all components are working perfectly at all times.
+- The two main types of failures in distributed systems are node failures and network failures. Node failures occur when one or more nodes in the system stop working, while network failures occur when the network connecting the nodes fails.
+- To recover from node failures, the system must detect the failure and redistribute the work that was being done by the failed node to other nodes in the system. This can be achieved through techniques such as replication, where multiple copies of the same data are stored on different nodes, or by using a consensus algorithm, where nodes work together to agree on the state of the system.
+- To recover from network failures, the system must be able to route around the failed network segment or switch to an alternative network path. This can be achieved through techniques such as redundancy, where multiple network paths are available to transmit data, or by using a protocol such as BGP (Border Gateway Protocol) to dynamically route traffic around the failed segment.
+- The recovery process in distributed systems must be fast and efficient to minimize the impact of the failure on the system's overall performance. This requires careful design and implementation of recovery mechanisms, as well as monitoring and testing to ensure that the system can handle failures effectively.
+- In addition to failure recovery, distributed systems must also have mechanisms in place for fault tolerance, which involves designing the system to be resilient to failures in the first place. This includes techniques such as redundancy, load balancing, and error detection and correction.
+
+Overall, failure recovery is a critical component of any distributed system, and requires careful planning and implementation to ensure that the system can continue to operate effectively in the face of failures.

@@ -1,0 +1,36 @@
+## Unit 7 - Creating packages and triggers
+
+- A package is a collection of related procedures, functions, variables, constants, cursors, and exceptions that are stored together in the database.
+- A package has two parts: a specification and a body.
+- The specification declares the public elements of the package, such as the procedures and functions that can be called by other programs.
+- The body defines the implementation of the package, such as the code for the procedures and functions, and the private elements of the package, such as the variables and cursors that are only accessible within the package.
+- A package can be created using the CREATE PACKAGE and CREATE PACKAGE BODY statements, or using a graphical tool such as SQL Developer.
+- A package can be modified using the ALTER PACKAGE and ALTER PACKAGE BODY statements, or using a graphical tool such as SQL Developer.
+- A package can be dropped using the DROP PACKAGE statement, or using a graphical tool such as SQL Developer.
+- A package can be compiled using the COMPILE PACKAGE and COMPILE PACKAGE BODY statements, or using a graphical tool such as SQL Developer.
+- A package can be called by other programs using the dot notation, such as package_name.procedure_name or package_name.function_name.
+- A package can have initialization and finalization sections, which are executed when the package is first loaded and when the package is unloaded from memory, respectively.
+- A package can have overloading, which means that multiple procedures or functions can have the same name but different parameters, and the correct one is chosen based on the number and type of arguments passed.
+- A package can have forward declarations, which means that a procedure or function can be declared before it is defined, and the definition can appear later in the package body.
+- A package can have pragmas, which are directives to the compiler that affect the behavior of the package, such as SERIALLY_REUSABLE, which indicates that the package can be reused across sessions, or RESTRICT_REFERENCES, which indicates that the package does not modify the database state.
+
+- A trigger is a named PL/SQL block that is executed automatically when a certain event occurs on a table or view, such as an insert, update, delete, or truncate operation.
+- A trigger can be created using the CREATE TRIGGER statement, or using a graphical tool such as SQL Developer.
+- A trigger can be modified using the ALTER TRIGGER statement, or using a graphical tool such as SQL Developer.
+- A trigger can be dropped using the DROP TRIGGER statement, or using a graphical tool such as SQL Developer.
+- A trigger can be enabled or disabled using the ENABLE TRIGGER or DISABLE TRIGGER statements, or using a graphical tool such as SQL Developer.
+- A trigger can be compiled using the COMPILE TRIGGER statement, or using a graphical tool such as SQL Developer.
+- A trigger can have three types: row-level, statement-level, or compound.
+- A row-level trigger is executed for each row that is affected by the triggering event, and can access the old and new values of the row using the :OLD and :NEW pseudorecords.
+- A statement-level trigger is executed once for the triggering event, and cannot access the old and new values of the row.
+- A compound trigger is a combination of row-level and statement-level triggers, and can have four sections: before statement, before each row, after each row, and after statement.
+- A trigger can have three timing points: before, after, or instead of.
+- A before trigger is executed before the triggering event, and can be used to validate or modify the data, or to perform some actions before the event.
+- An after trigger is executed after the triggering event, and can be used to perform some actions after the event, such as logging, auditing, or cascading changes.
+- An instead of trigger is executed instead of the triggering event, and can be used to manipulate the data of a view, which is otherwise not updatable.
+- A trigger can have one or more triggering events, such as insert, update, delete, or truncate, and can specify a condition or a column list to further restrict the trigger execution.
+- A trigger can have a name, which must be unique within the schema, and can have an optional description using the COMMENT ON TRIGGER statement.
+- A trigger can have local or global variables, which are declared and initialized in the declarative section of the trigger, and can be used within the trigger body.
+- A trigger can have exceptions, which are handled in the exception section of the trigger, and can use the RAISE_APPLICATION_ERROR procedure to raise a user-defined error.
+- A trigger can call other procedures or functions, or other triggers, as long as there is no circular dependency or recursion.
+- A trigger can use the DBMS_OUTPUT package

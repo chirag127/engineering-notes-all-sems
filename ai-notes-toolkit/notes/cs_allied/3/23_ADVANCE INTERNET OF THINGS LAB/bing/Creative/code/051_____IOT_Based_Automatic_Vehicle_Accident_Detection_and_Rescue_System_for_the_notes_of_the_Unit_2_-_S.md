@@ -1,0 +1,21 @@
+### IOT Based Automatic Vehicle Accident Detection and Rescue System
+
+- This system is a solution for the problem of delayed rescue operations for victims of road accidents.
+- It uses Internet of Things (IoT) technology to detect accidents and communicate information to rescue teams via SMS, web applications, or Android mobile applications  .
+- The system consists of the following components:
+  - A vibration sensor that is attached to the vehicle and produces a digital pulse output when an accident or collision occurs .
+  - A microcontroller that processes the sensor output and triggers the communication module .
+  - A communication module that can be a GSM, WiFi, or Bluetooth module that sends the accident location and other details to the rescue team or emergency contacts   .
+  - A GPS module that obtains the latitude and longitude coordinates of the accident location  .
+  - A web or mobile application that displays the accident information and allows the rescue team or emergency contacts to respond and track the vehicle .
+- The system works as follows:
+  - When an accident occurs, the vibration sensor detects the impact and sends a signal to the microcontroller .
+  - The microcontroller activates the communication module and the GPS module .
+  - The communication module sends an SMS or a web request to the rescue team or emergency contacts with the accident location and other details   .
+  - The rescue team or emergency contacts can access the web or mobile application to view the accident information and respond accordingly .
+  - The web or mobile application also provides a map view and a tracking feature to help the rescue team or emergency contacts reach the accident location .
+- The system has the following advantages:
+  - It reduces the response time and saves lives of accident victims   .
+  - It provides accurate and reliable information about the accident location and severity   .
+  - It enables the rescue team or emergency contacts to monitor and track the vehicle status and location .
+  - It is cost-effective and easy to implement using IoT devices and platforms   .

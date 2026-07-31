@@ -1,0 +1,21 @@
+### Survey routing protocols for the notes of the Unit 4 - Network & Communication aspects in IoT in the subject of Internet of Things
+
+- Routing protocols are algorithms that determine the best path for data packets to reach their destination in a network.
+- Routing protocols for Internet of Things (IoT) are designed to meet the specific requirements and challenges of IoT networks, such as resource constraints, heterogeneity, scalability, mobility, and security.
+- Routing protocols for IoT can be classified into different categories based on various criteria, such as network topology, routing strategy, data flow direction, and security level.
+- Some of the common categories of routing protocols for IoT are:
+
+  - Flat routing protocols: These protocols treat all the nodes in the network as equal and do not form any hierarchy or cluster. They are suitable for small and static networks. Examples of flat routing protocols for IoT are Ad hoc On-Demand Distance Vector (AODV), Dynamic Source Routing (DSR), and Optimized Link State Routing (OLSR).
+  - Hierarchical routing protocols: These protocols divide the network into clusters and assign different roles and responsibilities to the nodes based on their capabilities and positions. They are suitable for large and dynamic networks. Examples of hierarchical routing protocols for IoT are Low-Energy Adaptive Clustering Hierarchy (LEACH), Threshold-sensitive Energy Efficient sensor Network (TEEN), and Hybrid Energy-Efficient Distributed clustering (HEED).
+  - Location-based routing protocols: These protocols use the geographic information of the nodes to make routing decisions. They are suitable for mobile and sparse networks. Examples of location-based routing protocols for IoT are Geographic Routing Protocol (GRP), Greedy Perimeter Stateless Routing (GPSR), and Distance Routing Effect Algorithm for Mobility (DREAM).
+  - Data-centric routing protocols: These protocols use the attributes or content of the data packets to make routing decisions. They are suitable for query-based and event-driven networks. Examples of data-centric routing protocols for IoT are Directed Diffusion, Rumor Routing, and SPIN.
+  - Multipath routing protocols: These protocols use multiple paths to route the data packets to the destination. They are suitable for fault-tolerant and load-balanced networks. Examples of multipath routing protocols for IoT are Split Multipath Routing (SMR), Ad hoc On-demand Multipath Distance Vector (AOMDV), and Multipath Optimized Link State Routing (MP-OLSR).
+  - Security-based routing protocols: These protocols use cryptographic techniques or trust mechanisms to ensure the security and privacy of the data packets and the nodes. They are suitable for sensitive and critical networks. Examples of security-based routing protocols for IoT are Secure Routing Protocol (SRP), Secure Efficient Ad hoc Distance vector routing protocol (SEAD), and Trust-based Routing Protocol (TBRP).
+
+- Routing protocols for IoT are still an active area of research and development, as new challenges and opportunities arise with the advancement of IoT technologies and applications. Some of the future research directions are:
+
+  - Developing adaptive and cross-layer routing protocols that can adjust to the dynamic and heterogeneous nature of IoT networks and optimize the performance of different layers of the network stack.
+  - Developing energy-efficient and green routing protocols that can reduce the power consumption and environmental impact of IoT networks and devices.
+  - Developing context-aware and semantic routing protocols that can leverage the rich information and intelligence of IoT networks and devices to provide more relevant and personalized services to the users.
+  - Developing cooperative and collaborative routing protocols that can enhance the reliability and resilience of IoT networks and devices by exploiting the diversity and redundancy of the network resources.
+  - Developing scalable and interoperable routing protocols that can support the massive and diverse growth of IoT networks and devices and enable seamless communication and integration among different IoT platforms and domains.

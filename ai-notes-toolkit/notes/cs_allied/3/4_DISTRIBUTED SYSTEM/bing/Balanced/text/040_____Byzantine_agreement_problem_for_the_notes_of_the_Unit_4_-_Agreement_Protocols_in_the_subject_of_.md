@@ -1,0 +1,7 @@
+### Byzantine agreement problem
+
+- The Byzantine agreement problem is a fundamental problem in fault tolerant distributed computing that requires a set of parties in a distributed environment to agree on a value even if some of the parties are corrupted.
+- The problem was first defined by Lamport and inspired by the scenario of several divisions of the Byzantine army camped outside an enemy city, each division commanded by its own general. The generals can communicate with one another only by messenger. After observing the enemy, they must decide upon a common plan of action.
+- The problem is challenging because some of the generals may be traitors who try to prevent the loyal generals from reaching agreement. The traitors may send conflicting messages to different generals, or lie about their own observations or preferences.
+- A solution to the Byzantine agreement problem is a protocol that ensures that all loyal generals agree on the same value, and that the value is the initial value of some loyal general. The protocol must be resilient to arbitrary failures and malicious behaviors of the corrupted parties.
+- The Byzantine agreement problem is also known as the interactive consistency problem, the source congruency problem, the error avalanche problem, or the Byzantine failure problem. It has applications in distributed systems, cryptography, consensus algorithms, and blockchain technology .

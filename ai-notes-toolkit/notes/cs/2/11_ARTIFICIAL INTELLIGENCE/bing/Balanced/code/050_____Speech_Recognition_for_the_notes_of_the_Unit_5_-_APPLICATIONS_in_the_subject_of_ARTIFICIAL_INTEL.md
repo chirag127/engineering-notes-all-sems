@@ -1,0 +1,21 @@
+### Speech Recognition for the notes of the Unit 5 - APPLICATIONS in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Speech recognition is the process of converting spoken words into machine-readable input.
+- Speech recognition relies on artificial intelligence (AI) to analyze and interpret speech signals and transform them into meaningful information.
+- Speech recognition can be used for various applications, such as voice assistants, dictation, transcription, authentication, translation, and accessibility.
+- Speech recognition involves several components, such as:
+  - Speech input: the source of the speech signal, such as a microphone, a phone, or a file.
+  - Feature extraction: the process of extracting relevant features from the speech signal, such as pitch, energy, duration, and spectral characteristics.
+  - Feature vectors: the representation of the speech signal in a numerical form, such as a sequence of vectors or matrices.
+  - Decoder: the component that uses acoustic models, pronunciation dictionaries, and language models to find the most likely sequence of words that matches the feature vectors.
+  - Word output: the final output of the speech recognition system, such as a text, a command, or an action.
+- Speech recognition faces several challenges, such as:
+  - Noise: the presence of unwanted sounds that interfere with the speech signal, such as background noise, music, or other speakers.
+  - Variability: the differences in speech characteristics among speakers, such as accent, dialect, gender, age, and emotion.
+  - Ambiguity: the uncertainty or multiple meanings of speech utterances, such as homophones, synonyms, or context-dependent words.
+  - Complexity: the difficulty of modeling the structure and rules of natural languages, such as grammar, syntax, semantics, and pragmatics.
+- Speech recognition can be improved by using various techniques, such as:
+  - Signal processing: the manipulation of the speech signal to enhance its quality, such as filtering, denoising, or normalization.
+  - Feature selection: the selection of the most relevant and discriminative features from the speech signal, such as mel-frequency cepstral coefficients (MFCCs), linear predictive coding (LPC), or perceptual linear prediction (PLP).
+  - Machine learning: the application of algorithms that learn from data and optimize the performance of the speech recognition system, such as hidden Markov models (HMMs), neural networks, or deep learning.
+  - Adaptation: the adjustment of the speech recognition system to the specific characteristics of the speaker, the environment, or the task, such as speaker adaptation, noise adaptation, or domain adaptation.

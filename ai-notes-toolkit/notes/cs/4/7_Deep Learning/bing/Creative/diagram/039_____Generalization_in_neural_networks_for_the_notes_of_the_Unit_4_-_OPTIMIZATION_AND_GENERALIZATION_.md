@@ -1,0 +1,21 @@
+### Generalization in neural networks
+
+- Generalization is the ability of a neural network to correctly recognize patterns of input data that were not present in the training data .
+- Generalization is a critical property of neural networks, as it allows them to be used for tasks such as classification, prediction, and optimization .
+- Generalization performance is measured by the difference between the training error and the test error, or the gap between the training accuracy and the test accuracy .
+- A neural network that generalizes well has a small gap between the training and test metrics, and can perform well on new and unseen data .
+- A neural network that overfits has a large gap between the training and test metrics, and performs poorly on new and unseen data .
+- Overfitting occurs when the neural network learns the noise or the specific details of the training data, rather than the underlying patterns or features .
+- Overfitting can be caused by several factors, such as insufficient data, too complex model, too many parameters, too many epochs, or lack of regularization .
+- Regularization is a technique to prevent or reduce overfitting by adding some constraints or penalties to the neural network during training .
+- Some common regularization methods are weight decay, dropout, batch normalization, data augmentation, early stopping, and ensembling   .
+- Weight decay reduces the magnitude of the weights by adding a term to the loss function that penalizes large weights .
+- Dropout randomly drops out some units or connections in the neural network during training, creating a thinner network that is less prone to overfitting .
+- Batch normalization normalizes the inputs of each layer by subtracting the mean and dividing by the standard deviation, reducing the internal covariate shift and improving the stability of the training process .
+- Data augmentation applies some transformations to the input data, such as rotation, scaling, cropping, flipping, or adding noise, creating more diverse and robust data that can improve the generalization of the neural network .
+- Early stopping stops the training process when the validation error stops decreasing or starts increasing, preventing the neural network from overfitting to the training data .
+- Ensembling combines the predictions of multiple neural networks, either by averaging or by voting, to obtain a more accurate and robust prediction than any single network  .
+- DART is a novel training strategy that improves the generalization of neural networks by diversifying, aggregating, and repeating the training process .
+- DART diversifies the training data by applying different data augmentations to each network in the ensemble .
+- DART aggregates the predictions of the ensemble by averaging them and using them as soft targets for the next round of training .
+- DART repeats the diversify-aggregate cycle until convergence, creating a more diverse and robust ensemble that can generalize better than conventional methods .

@@ -1,0 +1,13 @@
+# String handling for the notes of the Unit 1 - Introduction in the subject of Web Technology
+
+- A string is a sequence of characters that can be used to represent text, symbols, or numbers in web applications.
+- Strings can be manipulated by various operations, such as concatenation, slicing, indexing, searching, replacing, formatting, encoding, and decoding.
+- Concatenation is the operation of joining two or more strings together to form a new string. For example, `"Hello" + " " + "World"` results in `"Hello World"`.
+- Slicing is the operation of extracting a substring from a string by specifying the start and end positions. For example, `"Hello World"[1:5]` results in `"ello"`.
+- Indexing is the operation of accessing a single character from a string by specifying its position. For example, `"Hello World"[0]` results in `"H"`.
+- Searching is the operation of finding the position or occurrence of a substring or a pattern in a string. For example, `"Hello World".find("o")` results in `4`.
+- Replacing is the operation of substituting a substring or a pattern with another string in a string. For example, `"Hello World".replace("o", "a")` results in `"Hella Warld"`.
+- Formatting is the operation of inserting values or variables into a string according to a specified format. For example, `"Hello {name}".format(name="Alice")` results in `"Hello Alice"`.
+- Encoding is the operation of converting a string from one character set to another, such as from ASCII to UTF-8. For example, `"Hello World".encode("utf-8")` results in `b'Hello World'`.
+- Decoding is the operation of converting a string from one character set to another, such as from UTF-8 to ASCII. For example, `b'Hello World'.decode("utf-8")` results in `"Hello World"`.
+- Different programming languages and web technologies have different ways of implementing string handling, such as using built-in functions, methods, classes, or libraries. For example, in JavaScript, strings are objects that have methods such as `concat()`, `slice()`, `indexOf()`, `replace()`, `toString()`, and `fromCharCode()`. In HTML, strings can be embedded in tags, attributes, or text nodes, and can be escaped or encoded using entities or character references. In CSS, strings can be used as values for properties, selectors, or pseudo-classes, and can be quoted or unquoted depending on the syntax. In PHP, strings can be created using single or double quotes, and can be manipulated using functions such as `strlen()`, `substr()`, `strpos()`, `str_replace()`, `sprintf()`, and `mb_convert_encoding()`.

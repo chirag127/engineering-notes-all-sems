@@ -1,0 +1,11 @@
+## a) The Instructor may add/delete/modify/tune experiments, wherever he/she feels in a justified manner.
+
+In a laboratory setting, it is important for the instructor to have the flexibility to modify experiments as needed to ensure that students receive the best possible learning experience. Here are some things to keep in mind when it comes to the instructor's ability to make changes to experiments:
+
+- The instructor has the authority to add, delete, modify or tune experiments when he/she deems it appropriate to do so. This means that the instructor can make changes to experiments based on factors such as the class size, the level of understanding of the students, and the availability of equipment.
+- The instructor must have a justifiable reason for making changes to an experiment. This means that any changes made by the instructor should be in the best interest of the students and should contribute to their learning experience.
+- It is important for the instructor to communicate any changes made to an experiment to the students in a timely and clear manner. This will help to ensure that students are aware of any modifications made to the experiment and are able to adjust their approach accordingly.
+- The instructor should ensure that any modifications made to an experiment do not compromise the safety of the students or the integrity of the experiment. This means that the instructor should take into account any potential risks associated with the changes and should take steps to mitigate these risks.
+- It is important for the instructor to encourage feedback from students regarding any modifications made to an experiment. This will help to ensure that students feel comfortable providing feedback and that the instructor is able to make changes as needed to improve the learning experience.
+
+In conclusion, the ability of the instructor to add, delete, modify or tune experiments is an important aspect of the laboratory setting. However, this authority should be exercised with care and any changes made should be justifiable and in the best interest of the students. Communication, safety, and feedback are all important considerations when it comes to modifying experiments in the laboratory.

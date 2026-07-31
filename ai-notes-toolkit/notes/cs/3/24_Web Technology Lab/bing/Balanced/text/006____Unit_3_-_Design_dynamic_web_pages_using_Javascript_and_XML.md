@@ -1,0 +1,12 @@
+## Unit 3 - Design dynamic web pages using Javascript and XML
+
+- Dynamic web pages are web pages that can change their content or appearance without reloading the whole page. They can provide a better user experience and more interactivity than static web pages.
+- Javascript is a scripting language that can run in the browser and manipulate the HTML elements and CSS styles of a web page. It can also communicate with the server and exchange data using AJAX (Asynchronous JavaScript and XML) or JSON (JavaScript Object Notation).
+- XML (Extensible Markup Language) is a markup language that can store and transport data in a structured and readable format. It can be used to define the content and structure of a web page, or to exchange data between the client and the server.
+- To design dynamic web pages using Javascript and XML, you need to:
+  - Learn the basics of HTML, CSS and Javascript syntax and features. You can use online tutorials and references such as [W3Schools](https://www.w3schools.com/).
+  - Learn how to use the Document Object Model (DOM) to access and modify the HTML elements and CSS styles of a web page using Javascript. You can use the [DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) or libraries such as [jQuery](https://jquery.com/).
+  - Learn how to use AJAX to send and receive data from the server using Javascript and XML. You can use the [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) object or libraries such as [axios](https://axios-http.com/).
+  - Learn how to use XML to define the content and structure of a web page, or to exchange data with the server. You can use the [XML API](https://developer.mozilla.org/en-US/docs/Web/API/XML) or libraries such as [xml2js](https://www.npmjs.com/package/xml2js).
+  - Learn how to use JSON as an alternative to XML for data exchange. You can use the [JSON API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON) or libraries such as [json2xml](https://www.npmjs.com/package/json2xml).
+  - Learn how to use frameworks and tools that can simplify the development of dynamic web pages using Javascript and XML, such as [React](https://reactjs.org/), [Angular](https://angular.io/), [Vue](https://vuejs.org/), [Bootstrap](https://getbootstrap.com/), [Webpack](https://webpack.js.org/), etc.

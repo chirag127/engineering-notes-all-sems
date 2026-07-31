@@ -1,0 +1,23 @@
+### Basics of SQL
+
+- SQL stands for **Structured Query Language**   , which is a computer language for storing, manipulating and retrieving data stored in a **relational database**   .
+- SQL is a **standard language** for accessing and manipulating databases, and it became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987.
+- SQL can be used in different database systems, such as MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, and others.
+- SQL can perform four basic operations in any database, which are known as **CRUD** operations. CRUD stands for **Create, Read, Update and Delete**.
+  - **Create** new data with **INSERT** statements.
+  - **Read** data with **SELECT** statements.
+  - **Update** data with **UPDATE** statements.
+  - **Delete** data with **DELETE** statements.
+- SQL can also perform other tasks, such as creating, modifying and deleting tables, views, indexes, constraints, triggers, functions, procedures, etc.
+- SQL has a simple and easy to learn syntax, which consists of **keywords**, **clauses**, **expressions**, **operators**, **functions**, **comments**, etc.
+- SQL follows some basic rules, such as:
+  - SQL keywords are not case sensitive, but it is a good practice to write them in uppercase.
+  - SQL statements end with a semicolon (;).
+  - SQL comments start with -- or /* and end with */.
+  - SQL identifiers, such as table names, column names, etc., can be written in any case, but they must be enclosed in double quotes (") if they contain spaces or special characters.
+  - SQL values, such as strings, dates, numbers, etc., must be enclosed in single quotes (') if they are not numeric.
+  - SQL expressions can be used to calculate values, compare values, combine values, etc.
+  - SQL operators can be used to perform arithmetic, logical, comparison, bitwise, etc., operations on values.
+  - SQL functions can be used to perform various tasks, such as formatting, converting, aggregating, etc., on values.
+  - SQL clauses can be used to specify different parts of a SQL statement, such as SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY, etc.
+- SQL is a powerful and versatile language that can handle complex and large amounts of data in a relational database. SQL is widely used by data professionals and users for various purposes, such as data analysis, data reporting, data mining, data warehousing, etc .

@@ -1,0 +1,22 @@
+### Privacy for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+- Privacy is the ability to control the access and use of one's personal information.
+- Privacy in blockchains is rather complicated as it contradicts with some highly praised properties of blockchain such as immutability.
+- Immutability is considered a cornerstone of blockchains’ security and, therefore, an indisputable property according to which transactional blockchain data cannot be edited nor deleted.
+- However, immutability may pose challenges for privacy compliance, such as the right to be forgotten or the right to rectification under the General Data Protection Regulation (GDPR).
+- A key aspect of privacy in blockchains is the use of private and public keys .
+- Blockchain systems use asymmetric cryptography to secure transactions between users .
+- In these systems, each user has a public and private key .
+- These keys are random strings of numbers and are cryptographically related .
+- The public key is used to identify the user on the blockchain and to verify the authenticity of the transactions .
+- The private key is used to sign the transactions and to prove the ownership of the funds .
+- The private key should be kept secret and never shared with anyone .
+- If the private key is lost or compromised, the user may lose access to their funds or have their funds stolen by malicious actors .
+- Another aspect of privacy in blockchains is the distinction between public and private blockchains.
+- Public blockchains (or permissionless blockchains) are open to anyone who wishes to join the network and participate in the consensus process.
+- Public blockchains are transparent and decentralized, but they may also expose the transaction history and balances of the users to anyone who can access the blockchain.
+- Private blockchains (or permissioned blockchains) are restricted to a predefined set of participants who are authorized to access the network and validate the transactions.
+- Private blockchains are more scalable and efficient, but they may also sacrifice some degree of transparency and decentralization.
+- Private blockchains may offer more privacy protection to the users, as they can implement access control mechanisms and encryption techniques to limit the visibility of the data .
+- However, private blockchains may also introduce more risks of data breaches, corruption, or collusion, as they rely on trusted intermediaries to manage the network and the data .
+- Therefore, privacy in blockchains is a trade-off between different design choices and objectives, and it requires careful consideration of the legal, technical, and ethical implications of each option  .

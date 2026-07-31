@@ -1,0 +1,29 @@
+## Unit 1 - Introduction of Software Engineering Lab
+
+- Software engineering is the discipline of designing, developing, testing, and maintaining high-quality software systems that meet the needs and expectations of users and stakeholders.
+- Software engineering lab is a practical course that aims to provide students with hands-on experience in applying software engineering principles, methods, tools, and techniques to realistic software projects.
+- The objectives of software engineering lab are:
+  - To familiarize students with the software development life cycle (SDLC) and its various models, such as waterfall, iterative, agile, etc.
+  - To enable students to perform software requirements analysis, design, implementation, testing, and deployment using appropriate tools and standards.
+  - To enhance students' skills in software documentation, communication, collaboration, and project management.
+  - To expose students to the ethical, professional, and social issues related to software engineering.
+- The expected outcomes of software engineering lab are:
+  - Students will be able to apply software engineering concepts and practices to real-world problems and scenarios.
+  - Students will be able to use various software engineering tools and platforms, such as UML, IDEs, testing frameworks, version control systems, etc.
+  - Students will be able to work effectively in teams and follow software engineering processes and standards.
+  - Students will be able to demonstrate their software engineering competencies through project reports, presentations, and demonstrations.
+- The syllabus of software engineering lab covers the following topics:
+  - Introduction to software engineering and software processes
+  - Software requirements engineering and specification
+  - Software design and modeling using UML
+  - Software implementation and coding
+  - Software testing and debugging
+  - Software maintenance and evolution
+  - Software quality assurance and metrics
+  - Software project management and planning
+  - Software engineering case studies and best practices
+- The evaluation scheme of software engineering lab is based on the following components:
+  - Lab assignments and exercises
+  - Project work and documentation
+  - Viva and oral presentation
+  - Quiz and written test

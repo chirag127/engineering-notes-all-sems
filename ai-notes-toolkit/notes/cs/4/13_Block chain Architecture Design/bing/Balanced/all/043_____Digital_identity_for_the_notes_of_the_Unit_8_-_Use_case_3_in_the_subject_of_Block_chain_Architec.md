@@ -1,0 +1,13 @@
+# Digital identity for the notes of the Unit 8 - Use case 3 in the subject of Block chain Architecture Design
+
+- Digital identity (D-ID) is the representation of a person, organization, or device in the digital world.
+- D-ID is essential for accessing online services, verifying transactions, and protecting data privacy.
+- The traditional D-ID systems of today are fragmented, insecure, and exclusive. They rely on centralized authorities, such as governments, banks, or social media platforms, to issue and manage D-ID credentials.
+- Blockchain enables more secure management and storage of D-ID by providing unified, interoperable, and tamper-proof infrastructure with key benefits to enterprises, users, and IoT management systems .
+- Blockchain D-ID can be applied to a growing number of use cases across a variety of industries and sectors, such as healthcare, financial services, supply chain, Web3, and retail.
+- Some of the top use cases that ConsenSys has identified are:
+  - Self-sovereign identity: Users can create and control their own D-ID credentials, without relying on third parties. They can choose what information to share, with whom, and for how long. This empowers users to protect their privacy and identity rights.
+  - Data monetization: Users can leverage their D-ID credentials to access and monetize their own data, such as personal preferences, browsing history, or health records. They can also benefit from data marketplaces, where they can sell or exchange their data with other parties.
+  - Data portability: Users can easily transfer their D-ID credentials across different platforms and services, without losing their data or identity. This enables users to access a wider range of opportunities and benefits, such as better offers, discounts, or rewards.
+- One of the challenges of implementing blockchain D-ID is to ensure interoperability and compatibility among different D-ID standards and protocols. One possible solution is to use Chainlink, a decentralized oracle network that can connect any blockchain to any external data source, such as D-ID registries, verifiers, or issuers.
+- Another challenge is to ensure that no personal identifiable information (PII) is stored on the blockchain, as this would expose users to privacy and security risks. One possible solution is to use IBM's blockchain-based platform, which handles the infrastructure and security without exposing any of the data used to generate credentials. Only permissioned network participants have access, and all actions and business processes are tamper-proof and permanently captured as blockchain transactions.

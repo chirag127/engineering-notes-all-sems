@@ -1,0 +1,10 @@
+### Administration in Ancient India
+
+- Administration in ancient India refers to the structures, procedures and behaviors that the ruling dynasties or emperors used to govern their respective territories and people.
+- Administration in ancient India can be traced back to the Indus Valley civilization, which had a systematic and well-organized government in the cities of Mohenjodaro and Harappa.
+- Administration in ancient India varied according to the different periods, regions and cultures, but some common features can be identified, such as:
+  - The king was the head of administration and the supreme authority in matters of law, justice, religion, defense and taxation. The king was assisted by ministers, councillors, generals and officials who advised him and carried out his orders .
+  - The state was divided into provinces and districts for administrative convenience and local governance. The provinces were governed by governors or viceroys appointed by the king, while the districts were headed by local chiefs or officers who collected revenue and maintained law and order.
+  - The administration was based on the principles of dharma (duty, righteousness, morality) and artha (wealth, power, policy). The king and his officials were expected to uphold dharma and protect the interests of the people, while also pursuing artha and expanding the territory and resources of the state.
+  - The administration was influenced by the religious and philosophical traditions of ancient India, such as Hinduism, Buddhism, Jainism and others. The king was often regarded as a representative of God or a divine incarnation, and was expected to perform rituals and sacrifices to please the deities and ensure the welfare of the state.
+  - The administration was also influenced by the social and economic conditions of ancient India, such as the caste system, the varna system, the guild system, the village system and others. The administration had to balance the rights and duties of the different classes and groups of society, and also promote trade, agriculture, industry and education.

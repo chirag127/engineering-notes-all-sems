@@ -1,0 +1,25 @@
+### Presentation information simply and meaningfully for the notes of the Unit 3 - Screen Designing in the subject of Human Computer Interface
+
+- Screen design is the process of creating graphical user interfaces (GUIs) that are easy to use, attractive, and effective for human-computer interaction (HCI) .
+- Screen design includes the following aspects:
+  - Layout: the arrangement of interface elements on the screen, such as windows, menus, icons, controls, etc. 
+  - Color: the choice of colors for the interface elements, such as background, foreground, text, highlights, etc. 
+  - Typography: the selection of fonts, sizes, styles, and alignments for the text on the screen 
+  - Graphics: the use of images, icons, logos, charts, diagrams, etc. to convey information or enhance the visual appeal of the interface 
+  - Animation: the use of motion, transitions, effects, etc. to create dynamic and interactive interfaces 
+  - Sound: the use of audio cues, feedback, music, etc. to complement the visual information or create a mood for the interface 
+- Screen design should follow some general principles of HCI, such as  :
+  - User-centered design: the design should be based on the needs, preferences, and goals of the users, not the developers or the system 
+  - Usability: the design should be easy to learn, use, remember, and recover from errors 
+  - Affordance: the design should provide clear and intuitive clues about how to interact with the interface elements 
+  - Feedback: the design should provide timely and appropriate responses to the user's actions and inputs 
+  - Consistency: the design should follow common conventions and standards, and maintain the same look and feel across the interface 
+  - Simplicity: the design should avoid unnecessary complexity and clutter, and present only the essential information and functionality 
+  - Aesthetics: the design should be visually pleasing and appealing, and create a positive impression and experience for the users 
+- Screen design should also consider some specific factors, such as  :
+  - Screen resolution: the number of pixels on the screen, which affects the clarity and size of the interface elements 
+  - Screen size: the physical dimensions of the screen, which affects the amount and layout of the information that can be displayed 
+  - Screen orientation: the direction of the screen, which can be horizontal (landscape) or vertical (portrait), and affects the aspect ratio and shape of the interface elements 
+  - Screen contrast: the difference between the brightness and darkness of the interface elements, which affects the visibility and readability of the information 
+  - Screen adaptation: the ability of the interface to adjust to different screen conditions, such as resolution, size, orientation, contrast, etc. 
+  - Screen accessibility: the degree to which the interface can be used by people with different abilities and disabilities, such as vision, hearing, motor, cognitive, etc.

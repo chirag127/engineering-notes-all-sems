@@ -1,0 +1,11 @@
+# Features of PL/SQL
+
+PL/SQL is a procedural extension of SQL that allows developers to write efficient and compact code for manipulating data in a database. Some of the features of PL/SQL are:
+
+- **Tight integration with SQL**: PL/SQL can execute SQL statements directly, without any need for translation or interface. PL/SQL can also use SQL data types, operators, and functions .
+- **Extensive error checking**: PL/SQL can detect and handle errors at compile time and run time, using predefined and user-defined exceptions. PL/SQL also provides debugging tools and facilities .
+- **Numerous data types**: PL/SQL supports scalar, composite, reference, and large object (LOB) data types, as well as user-defined types and subtypes. PL/SQL also supports collections, such as arrays, nested tables, and varrays .
+- **Variety of programming structures**: PL/SQL provides control structures, such as loops, conditional statements, and exception handlers, as well as modular structures, such as subprograms, packages, triggers, and object types. PL/SQL also supports cursors, which are pointers to the result sets of SQL queries .
+- **Structured programming**: PL/SQL supports the development of reusable and maintainable code, using functions and procedures. Functions return a single value, while procedures perform a specific task. Both functions and procedures can accept parameters and can be nested, overloaded, and invoked from other subprograms .
+- **Object-oriented programming**: PL/SQL supports the creation and manipulation of user-defined types, which are abstract data types that encapsulate attributes and methods. PL/SQL also supports inheritance, polymorphism, and encapsulation, which are the key features of object-oriented programming .
+- **Web application development**: PL/SQL can be used to create dynamic web pages and server pages, using PL/SQL Server Pages (PSP) and PL/SQL Web Toolkit. PL/SQL can also interact with web servers, browsers, and other web technologies, such as XML, HTML, and Java  .

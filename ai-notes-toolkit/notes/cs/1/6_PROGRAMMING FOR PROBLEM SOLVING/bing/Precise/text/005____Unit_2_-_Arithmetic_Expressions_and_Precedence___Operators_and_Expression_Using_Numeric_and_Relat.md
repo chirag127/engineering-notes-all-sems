@@ -1,0 +1,9 @@
+## Unit 2 - Arithmetic Expressions and Precedence
+
+1. **Operators and Expression Using Numeric and Relational Operators**: Numeric operators include addition (+), subtraction (-), multiplication (*), division (/), and modulus (%). Relational operators include less than (<), greater than (>), less than or equal to (<=), greater than or equal to (>=), equal to (==), and not equal to (!=).
+2. **Mixed Operands**: When an expression contains operands of different data types, the operands are converted to a common data type before the operation is performed. This is known as type conversion or type casting.
+3. **Type Conversion**: Type conversion can be either implicit or explicit. Implicit type conversion is performed automatically by the compiler, while explicit type conversion is performed by the programmer using a cast operator.
+4. **Logical Operators**: Logical operators include AND (&&), OR (||), and NOT (!). These operators are used to combine or negate the results of relational expressions.
+5. **Bit Operations**: Bitwise operators include AND (&), OR (|), XOR (^), NOT (~), left shift (<<), and right shift (>>). These operators perform operations on the individual bits of an integer.
+6. **Assignment Operator**: The assignment operator (=) is used to assign a value to a variable. It can also be combined with other operators to perform an operation and assignment in a single statement, such as +=, -=, *=, /=, and %=.
+7. **Operator Precedence and Associativity**: Operator precedence determines the order in which operators are evaluated in an expression. Operators with higher precedence are evaluated before operators with lower precedence. Associativity determines the order in which operators of the same precedence are evaluated. Operators can be either left-associative or right-associative.

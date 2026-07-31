@@ -1,0 +1,13 @@
+# Defense against Control Hijacking - Run-time Defenses
+
+- A control hijacking attack exploits a program error, particularly a memory corruption vulnerability, at application runtime to subvert the intended control flow of a program.
+- A variety of defensive mechanisms have been proposed to mitigate control-flow hijacking attacks. As previously mentioned, complete memory safety, code pointer integrity, and control flow integrity are promising defenses in theory .
+- However, these defenses are often impractical or incomplete in practice, due to performance overhead, compatibility issues, or insufficient coverage .
+- Therefore, some run-time defenses aim to provide partial protection against control hijacking attacks, by detecting or preventing some common attack techniques or scenarios .
+- Some examples of run-time defenses are:
+
+  - Stack canaries: A random value is placed on the stack before the return address, and checked before returning from a function. This can detect some buffer overflow attacks that overwrite the return address, but not all .
+  - Non-executable memory: A hardware or software mechanism that prevents the execution of code in memory regions that are marked as non-executable, such as the stack or the heap. This can prevent some code injection attacks, but not code reuse attacks that execute existing code .
+  - Address space layout randomization (ASLR): A technique that randomizes the base addresses of code and data segments, making it harder for attackers to guess the locations of code or data they want to hijack or manipulate. This can increase the difficulty of some attacks, but not prevent them entirely, especially if there are information leaks or brute-force attempts .
+  - Shadow stacks: A separate stack that stores only return addresses, and is checked against the original stack before returning from a function. This can protect return addresses from being overwritten, but not other code pointers, such as function pointers or virtual table pointers .
+  - Control flow integrity (CFI): A technique that enforces that the control flow of a program follows a precomputed control flow graph (CFG), by inserting checks before indirect branches or returns. This can prevent arbitrary control flow hijacking, but requires a precise and sound CFG, which is hard to obtain in practice. Moreover, some attacks can still bypass CFI by following a valid but unintended control flow path   .

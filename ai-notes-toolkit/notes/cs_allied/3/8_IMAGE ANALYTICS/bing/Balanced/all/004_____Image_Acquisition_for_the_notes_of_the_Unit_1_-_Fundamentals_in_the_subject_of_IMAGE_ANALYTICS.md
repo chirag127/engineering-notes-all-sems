@@ -1,0 +1,8 @@
+### Image Acquisition
+
+- Image acquisition is the process of capturing an image from a physical scene and converting it into a digital form that can be stored, processed, and displayed by a computer.
+- Image acquisition involves three main steps: sensing, sampling, and quantization.
+- Sensing is the process of capturing the light or other electromagnetic radiation that reflects or emits from the scene using a device called a sensor. A sensor can be a camera, a scanner, a microscope, a radar, or any other device that can detect and measure the intensity and wavelength of the radiation.
+- Sampling is the process of dividing the continuous image into discrete elements called pixels. A pixel is the smallest unit of an image that can be represented by a numerical value. Sampling is done by a device called a sampler, which can be a grid of photodetectors, a charge-coupled device (CCD), or a complementary metal-oxide-semiconductor (CMOS) sensor.
+- Quantization is the process of assigning a numerical value to each pixel based on its intensity and wavelength. Quantization is done by a device called a quantizer, which can be an analog-to-digital converter (ADC) or a digital signal processor (DSP). The numerical value of a pixel is called its gray level or color value, depending on whether the image is grayscale or color.
+- The result of image acquisition is a digital image, which is a two-dimensional array of pixel values that can be stored in a computer memory or a file. A digital image can be represented by a function f(x,y), where x and y are the spatial coordinates of a pixel, and f(x,y) is its gray level or color value. A digital image can also be represented by a matrix F, where F(i,j) is the pixel value at the i-th row and j-th column of the image.

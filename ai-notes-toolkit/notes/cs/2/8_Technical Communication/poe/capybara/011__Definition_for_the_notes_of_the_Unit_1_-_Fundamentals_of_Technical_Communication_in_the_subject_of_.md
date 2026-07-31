@@ -1,0 +1,10 @@
+### Definition for the notes of the Unit 1 - Fundamentals of Technical Communication in the subject of Technical Communication:
+
+- Technical communication refers to the exchange of information among technical professionals, co-workers, and users for the purpose of developing and conveying technical information.
+- The Unit 1 - Fundamentals of Technical Communication helps students understand the basics of technical communication, including the principles and practices of technical writing, audience analysis, and the use of appropriate communication tools.
+- Notes for this unit should include an understanding of the importance of clear and concise communication, the role of technical communication in various industries, and the ethical considerations that come with communicating technical information.
+- Students should also take note of the common formats used in technical communication, such as manuals, reports, presentations, and proposals, and the importance of adapting communication style to suit the intended audience.
+- Other important concepts to note include the use of visuals and graphics, the importance of collaboration and teamwork in technical communication, and the role of feedback in improving communication effectiveness.
+- It is important to note that technical communication is not limited to written communication only, but also includes oral communication, such as presentations, meetings, and interviews.
+- Students should also take note of the various challenges that arise in technical communication, such as language barriers, cultural differences, and the need to translate technical jargon into layman's terms.
+- Finally, it is important to note that technical communication is a constantly evolving field, and it is essential to stay updated on the latest trends and technologies in order to communicate effectively in the modern workplace.

@@ -1,0 +1,31 @@
+# Task scheduling for the notes of the Unit 3 - REAL TIME KERNEL BASICS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Task scheduling is the process of determining how the various tasks are executed by the operating system in a real time system .
+- A real time system is a system that has to respond to events within a specified time constraint.
+- A real time operating system (RTOS) is an operating system that can guarantee the timely execution of tasks in a real time system.
+- A task is a unit of work that can be executed by the RTOS. A task can be periodic, aperiodic, or sporadic .
+  - A periodic task is a task that has to be executed at regular intervals of time .
+  - An aperiodic task is a task that has no fixed arrival time or deadline .
+  - A sporadic task is a task that has a minimum inter-arrival time between successive instances .
+- A task can also be classified as hard, soft, or firm .
+  - A hard task is a task that has to meet its deadline, otherwise the system may fail .
+  - A soft task is a task that can tolerate some degree of deadline miss, but the quality of service may degrade .
+  - A firm task is a task that has no value if it misses its deadline, but does not affect the system's correctness .
+- A task can have different attributes, such as arrival time, execution time, deadline, priority, resource requirements, and precedence constraints .
+  - The arrival time of a task is the time when the task becomes ready for execution .
+  - The execution time of a task is the time required by the task to complete its work .
+  - The deadline of a task is the time by which the task has to finish its execution .
+  - The priority of a task is a measure of its importance or urgency .
+  - The resource requirements of a task are the resources that the task needs to access during its execution, such as CPU, memory, I/O devices, etc .
+  - The precedence constraints of a task are the dependencies that the task has on other tasks, such as data or control flow .
+- A task scheduler is a component of the RTOS that decides which task to run at any given time  .
+- A task scheduler can use different algorithms or policies to make the scheduling decision, such as run to completion, round robin, time slice, priority, etc  .
+  - A run to completion scheduler is a very simple scheduler that runs each task until it finishes or blocks.
+  - A round robin scheduler is a scheduler that runs each task in sequence for a fixed amount of time, and then switches to the next task in a circular order .
+  - A time slice scheduler is a scheduler that runs each task in sequence for a variable amount of time, depending on the task's priority or deadline .
+  - A priority scheduler is a scheduler that runs the task with the highest priority at any given time .
+- A task scheduler can also be classified as preemptive or non-preemptive .
+  - A preemptive scheduler is a scheduler that can interrupt a running task and switch to another task if a higher priority or more urgent task arrives .
+  - A non-preemptive scheduler is a scheduler that cannot interrupt a running task and has to wait until the task finishes or blocks before switching to another task .
+- A task scheduler has to ensure that the tasks meet their deadlines and resource requirements, while maximizing the system's performance and efficiency .
+- A task scheduler has to deal with various challenges and trade-offs, such as overhead

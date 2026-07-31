@@ -1,0 +1,16 @@
+# 1. Start Raspberry Pi and try various Linux commands in command terminal window: ls, cd, touch, mv, rm, man
+
+- Raspberry Pi is a small, low-cost computer that can run Linux and other operating systems. It can be used for various projects, such as robotics, gaming, web development, etc.
+- To start Raspberry Pi, you need to connect it to a power source, a monitor, a keyboard, and a mouse. You also need to insert a microSD card with a Linux operating system installed on it. The Raspberry Pi will boot up and display a desktop environment or a command line interface, depending on the operating system you chose.
+- To access the command terminal window, you can either press Ctrl+Alt+T on the keyboard, or click on the terminal icon on the desktop or the menu bar. The command terminal window is where you can type and execute Linux commands to perform various tasks on the Raspberry Pi.
+- Linux commands are case-sensitive, meaning that uppercase and lowercase letters are treated differently. For example, `ls` and `LS` are not the same command. Linux commands also have options or flags that modify their behavior, such as `-a` or `-l`. Options are usually preceded by a dash (-) or two dashes (--). For example, `ls -a` or `ls --all` will list all files and directories, including hidden ones, in the current directory.
+- Some of the most common and useful Linux commands are:
+
+  - `ls`: lists the files and directories in the current directory. You can use options such as `-a`, `-l`, `-h`, etc. to change the output format. You can also specify a different directory to list, such as `ls /home/pi` or `ls ..`.
+  - `cd`: changes the current directory to the one specified. For example, `cd /home/pi` will change the current directory to `/home/pi`. You can also use `cd ..` to go up one level, or `cd ~` to go to your home directory.
+  - `touch`: creates a new, empty file with the name specified. For example, `touch hello.txt` will create a file named `hello.txt` in the current directory. You can also use `touch` to update the timestamp of an existing file, without changing its content.
+  - `mv`: moves or renames a file or directory. For example, `mv hello.txt goodbye.txt` will rename the file `hello.txt` to `goodbye.txt`. You can also use `mv` to move a file or directory to a different location, such as `mv goodbye.txt /home/pi/Documents`.
+  - `rm`: removes or deletes a file or directory. For example, `rm goodbye.txt` will delete the file `goodbye.txt`. You can use options such as `-i`, `-f`, `-r`, etc. to change the behavior of `rm`. For example, `rm -i goodbye.txt` will prompt you for confirmation before deleting the file, `rm -f goodbye.txt` will force the deletion without prompting, and `rm -r Documents` will delete the directory `Documents` and all its contents recursively.
+  - `man`: displays the manual page for a command or a topic. For example, `man ls` will show you the usage, options, and examples of the `ls` command. You can use the arrow keys, Page Up, Page Down, Home, End, etc. to scroll through the manual page. You can also use `/` to search for a keyword, such as `/hidden`. To exit the manual page, press `q`.
+
+- To practice using these commands, you can create, move, rename, delete, and list files and directories on your Raspberry Pi. You can also use `man` to learn more about other commands and topics.

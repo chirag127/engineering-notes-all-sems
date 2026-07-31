@@ -1,0 +1,22 @@
+### Generalization for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+
+- Generalization is the ability of a machine learning model to perform well on new and unseen data that is not part of the training set.
+- Generalization is important because it indicates how well the model can adapt to different situations and solve new problems.
+- Generalization can be measured by the difference between the training error and the test error, also known as the generalization gap or generalization error.
+- The training error is the average loss or error of the model on the training data, while the test error is the average loss or error of the model on the test data.
+- A good machine learning model should have a low training error and a low test error, which means it can fit the training data well and generalize to the test data well.
+- A machine learning model can suffer from two types of problems that affect its generalization performance: underfitting and overfitting.
+- Underfitting occurs when the model is too simple or has insufficient capacity to learn the complexity and patterns of the training data. This leads to a high training error and a high test error.
+- Overfitting occurs when the model is too complex or has excessive capacity to learn the noise and irrelevant details of the training data. This leads to a low training error and a high test error.
+- To prevent underfitting and overfitting, machine learning models need to balance the trade-off between bias and variance.
+- Bias is the tendency of the model to make systematic errors or assumptions that deviate from the true relationship between the input and output variables. A high bias model is prone to underfitting.
+- Variance is the sensitivity of the model to small changes or fluctuations in the training data. A high variance model is prone to overfitting.
+- A machine learning model should have a low bias and a low variance, which means it can capture the essential features of the data and generalize well to new data.
+- Artificial neural networks (ANNs) are a type of machine learning model that are inspired by the structure and function of biological neural networks in the brain.
+- ANNs consist of layers of artificial neurons or units that are connected by weighted links or synapses. Each neuron receives inputs from other neurons or external sources, performs a weighted sum of the inputs, and applies a non-linear activation function to produce an output.
+- ANNs can learn from data by adjusting the weights of the links through a process called backpropagation, which is a form of gradient descent optimization.
+- ANNs can have different architectures or configurations depending on the number and type of layers, the number and type of neurons, and the connectivity pattern of the links.
+- Some common types of ANNs are feedforward neural networks, recurrent neural networks, convolutional neural networks, and deep neural networks.
+- ANNs are capable of learning complex and non-linear relationships between the input and output variables, and can approximate any continuous function given enough data and hidden units.
+- ANNs can also suffer from underfitting and overfitting, and need to balance the trade-off between bias and variance.
+- Some factors that affect the generalization performance of ANNs are the size and quality of the data, the choice of the activation function, the initialization of the weights, the learning rate, the number of epochs, the regularization techniques, and the architecture of the network.

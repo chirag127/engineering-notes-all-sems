@@ -1,0 +1,12 @@
+### AI applications
+
+Artificial intelligence (AI) is a general purpose technology that has a multitude of applications in various domains. AI can be used to perform tasks that are difficult, dangerous, or tedious for humans, or to enhance human capabilities and decision making. Some of the common AI applications are:
+
+- **Transportation**: AI can assist drivers with features like self-parking, advanced cruise control, lane keeping, and collision avoidance. AI can also enable autonomous vehicles that can navigate complex environments without human intervention.
+- **Manufacturing**: AI can help automate and optimize various aspects of the manufacturing process, such as quality control, inventory management, predictive maintenance, and supply chain optimization. AI can also enable collaborative robots that can work alongside humans in non-ergonomic conditions.
+- **Healthcare**: AI can help diagnose diseases, recommend treatments, monitor patients, and discover new drugs using patient's health data and other related data. AI can also assist surgeons with robotic surgery, and provide personalized healthcare and wellness advice to users.
+- **Finance and Banking**: AI can help detect fraud, manage risk, optimize portfolios, and provide financial advice using data analysis, natural language processing, and machine learning. AI can also enable chatbots and virtual assistants that can interact with customers and provide services.
+- **Human Resources**: AI can help recruit, screen, and hire candidates, as well as provide training, feedback, and performance evaluation. AI can also help improve employee engagement, retention, and satisfaction using sentiment analysis, natural language generation, and recommender systems.
+- **Agriculture**: AI can help improve crop yield, reduce water and fertilizer usage, and detect pests and diseases using data from sensors, drones, satellites, and weather stations. AI can also help automate tasks such as irrigation, harvesting, and sorting.
+- **Education**: AI can help personalize learning, assess students, and provide feedback using adaptive learning systems, natural language processing, and computer vision. AI can also help create and curate educational content, and provide tutoring and mentoring to students.
+- **E-Commerce**: AI can help enhance the online shopping experience, increase sales, and reduce costs using natural language processing, computer vision, and recommender systems. AI can also help with customer service, inventory management, and delivery optimization.

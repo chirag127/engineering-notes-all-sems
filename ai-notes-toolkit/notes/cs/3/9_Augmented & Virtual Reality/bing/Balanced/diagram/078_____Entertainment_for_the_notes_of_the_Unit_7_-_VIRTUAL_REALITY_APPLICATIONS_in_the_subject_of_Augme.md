@@ -1,0 +1,14 @@
+### Entertainment
+
+- Entertainment is one of the most popular and diverse applications of virtual reality (VR).
+- VR entertainment is the creation of a virtual environment presented to our senses in such a way that we experience it as if we were really there.
+- VR entertainment uses a host of technologies to achieve this goal, such as pose tracking, 3D near-eye displays, spatial audio, haptic feedback, and motion controllers .
+- VR entertainment can provide immersive and interactive experiences that are not possible or accessible in the real world, such as exploring exotic locations, playing realistic games, or experiencing different cultures .
+- Some examples of VR entertainment applications are:
+
+  - Video games: VR gaming is where a person can experience being in a three-dimensional virtual reality entertainment environment and interact with it during a game. This is an essential part of a game. VR games can range from casual to hardcore, from single-player to multiplayer, and from genres such as action, adventure, simulation, sports, and horror .
+  - Virtual museums: VR can be used to create virtual replicas of real museums or historical settings, such as visitor centers, interactive exhibitions, or archaeological sites. VR can enhance the learning and engagement of visitors by allowing them to explore the exhibits in 360°, interact with virtual guides, or access additional information .
+  - Galleries: VR can also be used to create virtual art galleries or exhibitions, where users can view and appreciate various forms of art, such as paintings, sculptures, or installations. VR can also enable artists to create and showcase their own VR artworks, using tools such as Tilt Brush or Quill .
+  - Theatre: VR can offer a new way of experiencing theatrical performances, by allowing users to watch live or recorded shows from different perspectives, such as the stage, the audience, or the backstage. VR can also enable users to participate in interactive or immersive theatre, where they can influence the outcome of the story or interact with the actors .
+  - Virtual theme parks: VR can create virtual versions of real or fictional theme parks, where users can enjoy various attractions, such as roller coasters, rides, or shows. VR can also enhance the thrill and realism of the attractions by adding effects such as wind, motion, or vibration .
+  - Music VR experience: VR can provide a new way of listening to and enjoying music, by allowing users to watch live or recorded concerts from different angles, such as the stage, the crowd, or the backstage. VR can also enable users to create and share their own music, using tools such as SoundStage or Electronauts .

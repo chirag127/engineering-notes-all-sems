@@ -1,0 +1,31 @@
+### Structure for the notes of the Unit 2 - Forms of Technical Communication in the subject of Technical Communication
+
+- Unit 2 - Forms of Technical Communication
+  - Introduction
+    - Define technical communication and its purpose
+    - Explain the characteristics and principles of effective technical communication
+    - Identify the types and categories of technical communication
+  - Technical Reports
+    - Define technical report and its features
+    - Explain the steps and process of writing a technical report
+    - Describe the structure and components of a technical report
+    - Discuss the types and formats of technical reports
+  - Technical Proposals
+    - Define technical proposal and its purpose
+    - Explain the steps and process of writing a technical proposal
+    - Describe the structure and components of a technical proposal
+    - Discuss the types and formats of technical proposals
+  - Technical Manuals
+    - Define technical manual and its function
+    - Explain the steps and process of writing a technical manual
+    - Describe the structure and components of a technical manual
+    - Discuss the types and formats of technical manuals
+  - Technical Presentations
+    - Define technical presentation and its objectives
+    - Explain the steps and process of preparing a technical presentation
+    - Describe the structure and components of a technical presentation
+    - Discuss the types and formats of technical presentations
+  - Summary
+    - Review the main points and concepts of the unit
+    - Provide some examples and exercises for practice
+    - Give some tips and guidelines for effective technical communication

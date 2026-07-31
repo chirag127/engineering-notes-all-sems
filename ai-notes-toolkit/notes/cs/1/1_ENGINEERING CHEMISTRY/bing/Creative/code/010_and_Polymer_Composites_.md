@@ -1,0 +1,9 @@
+# Polymer Composites
+
+- A polymer composite is a multi-phase material in which reinforcing fillers are integrated with a polymer matrix, resulting in synergistic mechanical properties that cannot be achieved from either component alone.
+- A polymer is a natural or synthetic substance composed of very large molecules, called macromolecules, that are multiples of simpler chemical units called monomers.
+- A polymer composite can be classified according to the type of polymer matrix, the type of reinforcement, the shape and size of reinforcement, and the processing method.
+- The most common types of polymer matrices are thermosets and thermoplastics. Thermosets are polymers that undergo irreversible chemical cross-linking when cured, while thermoplastics are polymers that can be melted and reshaped repeatedly.
+- The most common types of reinforcements are fibers, particles, and flakes. Fibers are long and thin materials that can provide high strength and stiffness to the composite. Particles are small and irregular materials that can improve the wear resistance and thermal conductivity of the composite. Flakes are flat and thin materials that can enhance the electrical and magnetic properties of the composite.
+- The shape and size of reinforcement can affect the distribution, orientation, and interaction of the reinforcement with the polymer matrix, which in turn can influence the mechanical, thermal, electrical, and optical properties of the composite.
+- The processing method of polymer composites can vary depending on the type of polymer matrix, the type of reinforcement, and the desired properties of the composite. Some common processing methods are molding, extrusion, injection, pultrusion, filament winding, and laminating.

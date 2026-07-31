@@ -1,0 +1,18 @@
+### Famous Sanskrit Authors
+
+Sanskrit is one of the oldest and most influential languages of India. It has a rich and diverse literature that spans various genres, periods and regions. Here are some of the famous Sanskrit authors and their works:
+
+- **Valmiki**: He is regarded as the first poet (Adi Kavi) and the author of the epic Ramayana, which narrates the life and adventures of Rama, the ideal king and hero.
+- **Vedavyasa**: He is the legendary sage and compiler of the Vedas, the sacred scriptures of Hinduism. He is also credited with composing the Mahabharata, another epic that depicts the Kurukshetra war and the moral dilemmas of the Pandavas and the Kauravas.
+- **Bharata Muni**: He is the author of the Natyashastra, a treatise on dramaturgy, aesthetics and performance arts. It is considered as the foundational text of the Indian classical dance, music and theatre.
+- **Bhasa**: He is one of the earliest Sanskrit dramatists, who wrote several plays based on the epics and the Puranas. Some of his famous works are Svapnavasavadatta, Pratijnayaugandharayana and Urubhanga .
+- **Kalidasa**: He is the most celebrated poet and playwright of classical Sanskrit literature. He is known for his exquisite style, imagery and metaphors. Some of his masterpieces are Abhijnanasakuntalam, Meghaduta and Kumarasambhava.
+- **Bharavi**: He is the author of Kiratarjuniya, an epic poem that describes the encounter between Arjuna and Lord Shiva in the guise of a hunter. It is praised for its vivid descriptions, rhetorical devices and poetic excellence.
+- **Magha**: He is the author of Shishupalavadha, an epic poem that narrates the killing of Shishupala, a wicked king and a cousin of Krishna, by the latter at the Rajasuya sacrifice. It is known for its intricate wordplay, alliteration and puns.
+- **Harsha**: He is the author of Naishadhiyacharita, an epic poem that depicts the love story of Nala and Damayanti, a royal couple who face various trials and tribulations. It is admired for its elegance, emotion and erudition.
+- **Asvaghosa**: He is a Buddhist poet and philosopher, who composed the Buddhacarita, a biographical poem of the Buddha, and the Saundarananda, a poem that describes the conversion of Nanda, the Buddha's half-brother, to Buddhism.
+- **Banabhatta**: He is the court poet of King Harshavardhana and the author of Harshacharita, a historical biography of the king, and Kadambari, a romantic novel that narrates the love story of Kadambari and Chandrapida.
+- **Bhaskara II**: He is a mathematician and astronomer, who wrote the Siddhanta Shiromani, a treatise on arithmetic, algebra, geometry, trigonometry and astronomy. He is famous for his contributions to the concept of zero, the decimal system and the solution of indeterminate equations.
+- **Bhoja**: He is a king and a scholar, who wrote several works on grammar, poetics, rhetoric, yoga, medicine and architecture. He is also known for his patronage of arts and literature.
+- **Vidyadhar Shastri**: He is a modern Sanskrit poet and scholar, who wrote two epic poems, Sribodhisattvacharitam and Srigangalaharistotram, seven shorter poems, three plays and three songs of praise. He received the Vidyavachaspati award in 1962.
+- **Satyavrat Shastri**: He is a contemporary Sanskrit poet and scholar, who wrote three epic poems, Ramakirtimahakavyam, Brahattaram Bharatam and Sribhargavaraghaviyam, and several other works on various subjects. He received the Jnanpith Award, India's highest literary award, in 2009.

@@ -1,0 +1,10 @@
+# Definition of Sequence and Series with Examples
+
+- A **sequence** is an ordered list of numbers or objects that follow a certain rule or pattern. For example, 1, 3, 5, 7, 9 is a sequence of odd numbers. A sequence can be finite or infinite, depending on how many terms it has.
+- A **series** is the sum of the terms of a sequence. For example, 1 + 3 + 5 + 7 + 9 is a series that adds up to 25. A series can be convergent or divergent, depending on whether the sum approaches a finite value or not.
+- A sequence can be represented by a general term or a formula that gives the nth term of the sequence. For example, the general term of the sequence 1, 3, 5, 7, 9 is a_n = 2n - 1, where n is the term number.
+- A series can be represented by a partial sum or a formula that gives the sum of the first n terms of the series. For example, the partial sum of the series 1 + 3 + 5 + 7 + 9 is S_n = n^2, where n is the number of terms.
+- Some common types of sequences and series are:
+  - **Arithmetic sequence and series**: A sequence and series where the difference between consecutive terms is constant. For example, 2, 5, 8, 11, 14 is an arithmetic sequence with a common difference of 3, and 2 + 5 + 8 + 11 + 14 is an arithmetic series with a sum of 40.
+  - **Geometric sequence and series**: A sequence and series where the ratio between consecutive terms is constant. For example, 2, 6, 18, 54, 162 is a geometric sequence with a common ratio of 3, and 2 + 6 + 18 + 54 + 162 is a geometric series with a sum of 242.
+  - **Harmonic sequence and series**: A sequence and series where the reciprocal of each term is an arithmetic sequence and series. For example, 1, 1/2, 1/3, 1/4, 1/5 is a harmonic sequence with a common difference of -1/2, and 1 + 1/2 + 1/3 + 1/4 + 1/5 is a harmonic series with a sum of 2.28.

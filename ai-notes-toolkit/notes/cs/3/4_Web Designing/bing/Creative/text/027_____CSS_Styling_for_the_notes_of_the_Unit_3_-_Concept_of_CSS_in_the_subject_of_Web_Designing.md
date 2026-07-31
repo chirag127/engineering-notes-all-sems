@@ -1,0 +1,24 @@
+### CSS Styling
+
+- CSS stands for Cascading Style Sheets and is used to control the style and layout of HTML elements.
+- CSS can change the appearance of elements such as color, font, size, position, margin, padding, border, background, etc.
+- CSS can also make websites responsive and mobile-friendly by using media queries, flexbox, grid, etc.
+- CSS has a syntax that consists of three parts: a selector, a property, and a value.
+  - A selector is the HTML element or group of elements that you want to style.
+  - A property is the aspect of the element that you want to change, such as color, width, etc.
+  - A value is the specific setting for the property, such as red, 50px, etc.
+  - For example, `p {color: red;}` means that all paragraphs (`p`) will have a red (`red`) text color (`color`).
+- CSS can be applied to HTML documents in three ways: inline, internal, and external.
+  - Inline CSS is when you use the `style` attribute inside an HTML element to apply CSS rules directly to that element. For example, `<p style="color: red;">This is a paragraph.</p>`.
+  - Internal CSS is when you use the `<style>` tag inside the `<head>` section of an HTML document to apply CSS rules to the whole document or a specific part of it. For example, `<style>p {color: red;}</style>`.
+  - External CSS is when you use the `<link>` tag inside the `<head>` section of an HTML document to link to an external CSS file that contains the CSS rules. For example, `<link rel="stylesheet" href="style.css">`.
+- CSS has a concept of specificity, which determines which CSS rule takes precedence when there are conflicting rules for the same element.
+  - Specificity is calculated based on the type and number of selectors used in a CSS rule. The more specific the selector, the higher the specificity.
+  - The order of specificity from highest to lowest is: inline styles, IDs, classes, attributes, elements, and universal selector.
+  - For example, `#para {color: red;}` has a higher specificity than `p {color: blue;}` because it uses an ID selector, which is more specific than an element selector. Therefore, the paragraph with the ID `para` will have a red color, while the other paragraphs will have a blue color.
+- CSS has a concept of inheritance, which means that some CSS properties are passed down from parent elements to child elements.
+  - Inheritance allows you to avoid repeating the same CSS rules for similar elements and maintain consistency in your design.
+  - For example, if you set the `font-family` property for the `<body>` element, all the text elements inside the `<body>` will inherit the same font family, unless you override it with a more specific rule.
+- CSS has a concept of cascade, which means that the order of CSS rules matters when there are multiple rules for the same element.
+  - Cascade allows you to combine and override CSS rules from different sources and levels of specificity.
+  - For example, if you have an external CSS file that sets the `color` property for the `<p>` element to blue, and an internal CSS style that sets the same property to red, the internal style will take precedence because it is closer to the element and has the same specificity as the external style. However, if you have an inline style that sets the `color` property to green, the inline style will take precedence because it has the highest specificity.

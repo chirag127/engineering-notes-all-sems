@@ -1,0 +1,10 @@
+### Reducing the number of test cases for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+
+- Regression testing is the process of retesting a software system after changes have been made to ensure that the changes have not introduced new defects or affected the existing functionality.
+- Regression testing can be costly and time-consuming, especially for large and complex systems that undergo frequent changes.
+- Therefore, it is desirable to reduce the number of test cases that need to be executed for regression testing, without compromising the quality and effectiveness of the testing process.
+- Some of the techniques that can be used to reduce the number of test cases for regression testing are:
+
+  - Test case prioritization: This technique involves ranking the test cases according to some criteria, such as the likelihood of detecting faults, the severity of the faults, the coverage of the requirements, the execution time, etc. The test cases with higher priority are executed first, and the test cases with lower priority are executed later or skipped if the time or resources are limited.
+  - Test case selection: This technique involves selecting a subset of test cases from the original test suite that are relevant and adequate for the current version of the system. The test cases that are selected should cover the modified or affected parts of the system, as well as the critical or risky parts of the system. The test cases that are not selected can be discarded or archived for future use.
+  - Test case minimization: This technique involves removing or combining the test cases that are redundant or unnecessary for the current version of the system. The test cases that are removed or combined should not affect the coverage or fault detection capability of the test suite. The test case minimization can reduce the size and complexity of the test suite, as well as the execution time and cost.

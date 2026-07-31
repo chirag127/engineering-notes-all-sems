@@ -1,0 +1,12 @@
+### Application of differential equations in solving engineering problems
+
+- Differential equations are mathematical equations that relate the rate of change of a physical quantity to its value or other physical quantities.
+- Differential equations have wide applications in various engineering and science disciplines, such as mechanical, electrical, civil, chemical, biomedical, and environmental engineering.
+- Some examples of engineering problems that can be modeled and solved using differential equations are:
+
+  - Mechanical vibration or structural dynamics: The motion of a mass-spring system, a pendulum, a bridge, a beam, or a building can be described by second-order linear differential equations with constant or variable coefficients. The solutions of these equations can help engineers to analyze the natural frequency, damping ratio, amplitude, phase, and resonance of the system.
+  - Heat transfer: The temperature distribution in a solid, a liquid, or a gas can be modeled by partial differential equations, such as the heat equation, the wave equation, or the Laplace equation. The solutions of these equations can help engineers to design heat exchangers, furnaces, refrigerators, or insulation materials.
+  - Theory of electric circuits: The voltage and current in a circuit containing resistors, capacitors, inductors, or sources can be modeled by first-order or second-order linear differential equations with constant coefficients. The solutions of these equations can help engineers to design filters, amplifiers, oscillators, or converters.
+  - Concentration of a pollutant: The concentration of a pollutant in a river, a lake, or the atmosphere can be modeled by first-order or second-order nonlinear differential equations. The solutions of these equations can help engineers to evaluate the environmental impact, the decay rate, or the diffusion rate of the pollutant.
+
+- To solve differential equations, engineers can use analytical methods, such as separation of variables, integrating factors, characteristic equations, or Laplace transforms, or numerical methods, such as Euler's method, Runge-Kutta method, or finite difference method. The choice of the method depends on the type, order, and complexity of the differential equation, and the accuracy and efficiency required for the solution.

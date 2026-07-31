@@ -1,0 +1,9 @@
+# MVD for the notes of the Unit 3 - Data Base Design & Normalization in the subject of Database Management System
+
+- MVD stands for **Multivalued Dependency**, which is a type of constraint between two sets of attributes in a relation.
+- MVD means that for a single value of attribute A, multiple values of attribute B exist. For example, if a person has multiple hobbies and works on multiple projects, then there is a MVD between the person and the hobbies, and between the person and the projects.
+- MVD is written as A --> --> B, which means A is multivalued dependent on B. This implies that the values of B are independent of each other for a given value of A.
+- MVD plays a role in the **4NF** (Fourth Normal Form) database normalization, which is a process of reducing redundancy and anomalies in a database.
+- 4NF requires that a relation should be in **BCNF** (Boyce-Codd Normal Form) and should not contain any MVD. BCNF is a stricter form of **3NF** (Third Normal Form), which requires that every determinant should be a candidate key.
+- To check if a relation is in 4NF, we need to identify all the MVDs in the relation and verify that they are trivial or implied by the candidate keys. A MVD is trivial if B is a subset of A, or A and B together form the whole relation. A MVD is implied by the candidate keys if A is a superkey.
+- To convert a relation into 4NF, we need to decompose it into smaller relations that do not contain any MVD. This can be done by applying the BCNF algorithm and replacing the MVDs as FDs (Functional Dependencies). The decomposition should preserve the dependencies and the data.

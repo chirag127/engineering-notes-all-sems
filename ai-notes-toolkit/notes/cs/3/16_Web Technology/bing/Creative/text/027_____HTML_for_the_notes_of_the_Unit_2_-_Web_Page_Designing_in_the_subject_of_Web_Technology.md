@@ -1,0 +1,17 @@
+### HTML
+
+HTML stands for Hyper Text Markup Language. It is the code that is used to structure a web page and its content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way.
+
+Some of the basic concepts of HTML are:
+
+- HTML elements are the building blocks of HTML pages. They are represented by tags, which are written in angle brackets, such as `<p>` for paragraph, `<h1>` for heading, `<img>` for image, etc. Some elements have opening and closing tags, such as `<p>...</p>`, while some are self-closing, such as `<img />`.
+- HTML attributes are additional information that can be added to an element to modify its behavior or appearance. They are written inside the opening tag, after the element name, and consist of a name and a value, separated by an equal sign, such as `<p class="intro">...</p>`. The class attribute is one of the most common attributes, which can be used to assign a style to an element.
+- HTML documents have a basic structure that consists of a `<!DOCTYPE>` declaration, a `<html>` element, a `<head>` element, and a `<body>` element. The `<!DOCTYPE>` declaration tells the browser what version of HTML the document is using. The `<html>` element contains the whole document. The `<head>` element contains information about the document, such as its title, metadata, links to stylesheets, etc. The `<body>` element contains the actual content of the document, such as headings, paragraphs, images, links, etc.
+- HTML comments are used to add notes or explanations to the HTML code, which are ignored by the browser. They are written inside `<!--` and `-->`, such as `<!-- This is a comment -->`.
+- HTML images are embedded into the web page using the `<img>` element, which has a `src` attribute that specifies the URL of the image file, and an `alt` attribute that provides a text alternative for the image, such as `<img src="logo.png" alt="Logo">`.
+- HTML links are created using the `<a>` element, which has an `href` attribute that specifies the URL of the destination page, and a text content that serves as the link text, such as `<a href="https://www.w3schools.com">W3Schools</a>`.
+- HTML headings are used to create a hierarchy of sections in the web page, and to provide a title or a summary for each section. They are written using the `<h1>` to `<h6>` elements, where `<h1>` is the most important and `<h6>` is the least important, such as `<h1>Introduction</h1>`, `<h2>HTML Basics</h2>`, etc.
+- HTML paragraphs are used to group sentences or phrases that form a coherent block of text. They are written using the `<p>` element, such as `<p>This is a paragraph.</p>`.
+- HTML lists are used to display a series of items in a certain order or without any order. They are written using the `<ul>` element for unordered lists, the `<ol>` element for ordered lists, and the `<li>` element for each list item, such as `<ul><li>Apple</li><li>Banana</li><li>Orange</li></ul>` for an unordered list of fruits, or `<ol><li>First</li><li>Second</li><li>Third</li></ol>` for an ordered list of numbers.
+
+These are some of the basic HTML elements and concepts that you need to know for web page designing. For more details and examples, you can refer to the web search results   .

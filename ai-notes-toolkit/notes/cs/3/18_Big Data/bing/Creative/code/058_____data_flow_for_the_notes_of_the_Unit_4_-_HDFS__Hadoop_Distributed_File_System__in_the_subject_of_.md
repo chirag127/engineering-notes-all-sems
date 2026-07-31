@@ -1,0 +1,24 @@
+### Data flow for the notes of the Unit 4 - HDFS (Hadoop Distributed File System) in the subject of Big Data
+
+- HDFS is a distributed file system that stores large data sets across multiple nodes in a cluster.
+- HDFS provides high fault tolerance, scalability, and throughput by splitting the data into fixed-size blocks (typically 128 MB) and replicating them across different DataNodes .
+- HDFS follows a master-slave architecture, where a single NameNode manages the metadata of the file system, such as the location, size, and replication factor of each block, and multiple DataNodes store the actual blocks of data.
+- HDFS supports two types of operations: read and write. In both cases, the client interacts with the NameNode to get the metadata information and then directly communicates with the DataNodes to perform the data transfer.
+- HDFS read operation: 
+  - The client requests the NameNode for the list of DataNodes that have the replicas of the blocks of the file to be read.
+  - The NameNode returns the list of DataNodes in the order of their proximity to the client.
+  - The client contacts the closest DataNode and establishes a data stream to read the first block of the file.
+  - The client reads the data from the DataNode until the end of the block or an error occurs.
+  - If the end of the block is reached, the client contacts the next DataNode in the list and repeats the process until the entire file is read.
+  - If an error occurs, the client reports the faulty DataNode to the NameNode and tries to read the block from another DataNode in the list.
+- HDFS write operation:
+  - The client requests the NameNode for a list of DataNodes that can store the replicas of the blocks of the file to be written.
+  - The NameNode allocates a new file in the namespace and returns the list of DataNodes in the order of their proximity to the client.
+  - The client contacts the first DataNode in the list and establishes a data stream to write the first block of the file.
+  - The client writes the data to the DataNode, which in turn replicates the data to the next DataNode in the list.
+  - The DataNodes form a pipeline and acknowledge the receipt of the data to the previous DataNode in the pipeline.
+  - The client receives the acknowledgment from the first DataNode and writes the next packet of data.
+  - The client writes the data until the end of the block or an error occurs.
+  - If the end of the block is reached, the client contacts the NameNode for the next list of DataNodes and repeats the process until the entire file is written.
+  - If an error occurs, the client reports the faulty DataNode to the NameNode and tries to write the block to another DataNode in the list.
+  - The client finalizes the file creation by sending a close request to the NameNode.

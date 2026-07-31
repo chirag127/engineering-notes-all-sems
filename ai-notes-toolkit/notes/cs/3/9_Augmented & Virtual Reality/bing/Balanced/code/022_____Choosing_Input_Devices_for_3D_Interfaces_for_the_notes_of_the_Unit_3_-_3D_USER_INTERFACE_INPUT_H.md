@@ -1,0 +1,21 @@
+# Choosing Input Devices for 3D Interfaces
+
+- Input devices are hardware devices that capture and interpret the actions performed by the user in a 3D environment.
+- The degrees of freedom (DOF) are one of the main features of these systems. They refer to the number of independent parameters that define the position and orientation of an object in 3D space.
+- Input devices can be classified into two categories: 3D input devices and 2D input devices.
+  - 3D input devices allow the user to provide input by making movements or gestures in physical 3D space, such as hand gesture, physical walking, or manipulating tools, sensors, or devices .
+  - 2D input devices map the user's input from a 2D surface, such as a mouse, keyboard, or touch screen, into a 3D virtual location.
+- Some examples of 3D input devices are:
+  - Kinect: a motion sensing device that uses a camera and infrared sensors to track the user's body movements and gestures.
+  - Leap Motion: a device that uses infrared cameras to track the user's hand and finger movements in 3D space.
+  - Holo Lens: a head-mounted device that projects holograms onto the user's field of view and allows the user to interact with them using hand gestures and voice commands.
+  - Magic Leap: a device that uses a combination of cameras, sensors, and a light-field display to create realistic 3D images that blend with the real world and can be manipulated by the user using hand gestures and eye movements.
+- Some examples of 2D input devices are:
+  - Mouse: a device that uses a ball or an optical sensor to detect the user's movement on a flat surface and translates it into cursor movement on the screen.
+  - Keyboard: a device that uses a set of keys to input text or commands to the system.
+  - Touch screen: a device that uses a touch-sensitive surface to detect the user's finger or stylus contact and translates it into input for the system.
+- When choosing input devices for 3D interfaces, some factors to consider are:
+  - The type and complexity of the task: different tasks may require different levels of DOF, accuracy, precision, feedback, and naturalness.
+  - The user's preferences and skills: different users may have different levels of comfort, familiarity, and proficiency with different input devices.
+  - The cost and availability of the device: some devices may be more expensive, rare, or difficult to obtain than others.
+  - The compatibility and integration of the device: some devices may be more compatible and easy to integrate with the system and the 3D interface than others.

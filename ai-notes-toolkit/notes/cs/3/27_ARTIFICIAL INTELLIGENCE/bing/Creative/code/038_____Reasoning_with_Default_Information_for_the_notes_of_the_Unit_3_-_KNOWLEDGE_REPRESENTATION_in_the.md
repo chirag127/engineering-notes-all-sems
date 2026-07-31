@@ -1,0 +1,14 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on the topic of Reasoning with Default Information for the Unit 3 - Knowledge Representation in the subject of Artificial Intelligence KCS. Here is the content in markdown format:
+
+### Reasoning with Default Information
+
+- Reasoning with default information is a type of non-monotonic reasoning that allows an agent to draw conclusions based on incomplete or uncertain information, using default rules or assumptions that can be overridden by more specific or reliable information.
+- For example, a default rule can be: "Birds can fly, unless they are penguins or ostriches." This rule allows an agent to infer that a bird can fly, unless it has more information that contradicts this assumption, such as the bird's name or species.
+- Default rules have the form: p : q / r, where p is the prerequisite, q is the justification, and r is the consequent. This means that if p is true and q is consistent with the current knowledge base, then r can be inferred as a default conclusion, unless there is evidence to the contrary.
+- For example, the default rule: "Bird(X) : Fly(X) / Fly(X)" means that if X is a bird and Fly(X) is consistent with the current knowledge base, then Fly(X) can be inferred as a default conclusion, unless there is evidence that X cannot fly.
+- Default logic is a formalism for representing and reasoning with default rules, using a syntax of default theories. A default theory consists of a pair (D, W), where D is a set of default rules and W is a set of facts or axioms.
+- For example, a default theory for reasoning about birds can be: ({Bird(X) : Fly(X) / Fly(X), Bird(Tweety)}, {Bird(Tweety), Penguin(Tweety)}), where the first element is a set of default rules and the second element is a set of facts.
+- A default theory can have multiple extensions, which are sets of conclusions that can be derived from the default theory using a fixed-point semantics. An extension is a maximal consistent set of formulas that contains W and is closed under the application of default rules.
+- For example, the default theory for reasoning about birds has two extensions: ({Bird(Tweety), Penguin(Tweety)}, {Bird(Tweety), Penguin(Tweety), ¬Fly(Tweety)}), where the first extension is the skeptical extension and the second extension is the credulous extension.
+- The skeptical extension is the intersection of all extensions, which represents the conclusions that are common to all extensions. The credulous extension is the union of all extensions, which represents the conclusions that are possible in some extensions.
+- The skeptical extension is more conservative and cautious, while the credulous extension is more optimistic and adventurous. Depending on the context and the goal, an agent can choose to adopt either the skeptical or the credulous extension as its default reasoning.

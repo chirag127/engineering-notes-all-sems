@@ -1,0 +1,7 @@
+# Acid and Paracetamol
+
+- Mefenamic Acid + Paracetamol is a combination of two medicines: Mefenamic Acid and Paracetamol. It works by blocking the release of certain chemical messengers that cause fever, pain and inflammation (redness and swelling).
+- Mefenamic Acid+Paracetamol is used for pain relief and fever. It relieves pain and inflammation in conditions like rheumatoid arthritis, osteoarthritis and menstrual pain. It is also used to treat mild to moderate pain.
+- Paracetamol may be made by acetylation of para-aminophenol (obtained by reduction of para-nitrophenol) with acetic acid or acetic anhydride.
+- Paracetamol is used as an analgesic and antipyretic drug. It is the preferred alternative analgesic-antipyretic to aspirin (acetylsalicylic acid), particularly in patients with coagulation disorders, individuals with a history of peptic ulcer or who cannot tolerate aspirin, as well as in children.
+- Paracetamol (Panadol, Calpol, Alvedon) is an analgesic and antipyretic drug that is used to temporarily relieve mild-to-moderate pain and fever. It is commonly included as an ingredient in cold and flu medications and is also used on its own. Paracetamol is exactly the same drug as acetaminophen (Tylenol).

@@ -1,0 +1,22 @@
+### Database Triggers
+
+- A database trigger is a stored procedure that is automatically executed in response to certain events on a particular table or view in a database.
+- Triggers can be used to enforce business rules, validate input data, and maintain referential integrity.
+- Triggers can be defined to execute before or after an INSERT, UPDATE, or DELETE operation, either once per modified row, or once per SQL statement.
+- Triggers can be written in PL/SQL or other languages, depending on the database management system.
+- Triggers can be useful for auditing changes to data, enforcing complex security authorizations, and cascading changes to related tables.
+- Triggers can also be used to implement complex constraints that cannot be enforced using standard SQL constraints.
+- Triggers can be useful for maintaining derived data, such as summary tables or materialized views.
+- Triggers can be used to implement event-driven architectures, where changes to data in one table can automatically trigger actions in other tables or external systems.
+- Triggers can be useful for implementing business logic that cannot be easily expressed in SQL, or for encapsulating complex logic in a modular and reusable way.
+- Triggers can be useful for implementing custom error handling or for implementing custom logging or auditing of changes to data.
+- Triggers can be useful for implementing custom replication or synchronization logic between multiple databases or systems.
+- Triggers can be useful for implementing custom data validation or transformation logic, or for implementing custom data cleansing or data enrichment logic.
+- Triggers can be useful for implementing custom data archiving or data retention logic, or for implementing custom data partitioning or data sharding logic.
+- Triggers can be useful for implementing custom data migration or data integration logic, or for implementing custom data loading or data extraction logic.
+- Triggers can be useful for implementing custom data backup or data recovery logic, or for implementing custom data compression or data encryption logic.
+- Triggers can be useful for implementing custom data indexing or data searching logic, or for implementing custom data analysis or data mining logic.
+- Triggers can be useful for implementing custom data visualization or data reporting logic, or for implementing custom data publishing or data sharing logic.
+- Triggers can be useful for implementing custom data monitoring or data alerting logic, or for implementing custom data profiling or data quality logic.
+- Triggers can be useful for implementing custom data modeling or data design logic, or for implementing custom data governance or data stewardship logic.
+- Triggers can be useful for implementing custom data security or data privacy logic, or for implementing custom data access or data control logic.

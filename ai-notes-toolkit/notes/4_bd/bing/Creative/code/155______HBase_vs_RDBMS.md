@@ -1,0 +1,13 @@
+#### HBase vs RDBMS
+
+HBase and RDBMS are both types of database management systems, but they differ in several ways. Here are some of the main differences between them:
+
+- Data Model: RDBMS uses a relational data model, where data is stored in tables with predefined columns and rows. HBase, on the other hand, uses a column-family data model, where data is stored in column families, which contain columns and rows. HBase is often referred to as a NoSQL database because of its non-relational data model .
+- Scaling: RDBMS is designed to scale vertically, which means adding more resources to a single server. HBase is designed to scale horizontally, which means adding more servers to a cluster. HBase can handle large amounts of data by distributing it across multiple nodes in a Hadoop Distributed File System (HDFS)  .
+- Consistency: RDBMS follows the ACID (Atomicity, Consistency, Isolation, Durability) properties, which ensure that transactions are reliable and consistent. HBase follows the BASE (Basically Available, Soft state, Eventual consistency) properties, which trade off strong consistency for high availability and performance  .
+- Speed: RDBMS is optimized for fast and complex queries that involve joins, aggregations, and calculations. HBase is optimized for fast and simple queries that involve key-value lookups, scans, and filters. HBase can perform real-time analysis on large-scale data  .
+- ACID Compliance: RDBMS is fully ACID compliant, which means it guarantees that transactions are atomic, consistent, isolated, and durable. HBase is partially ACID compliant, which means it guarantees that transactions are atomic and durable at the row level, but not at the table or multi-table level  .
+- JOINs: RDBMS supports JOINs, which are operations that combine data from two or more tables based on a common attribute. HBase does not support JOINs, which means that data has to be denormalized or joined at the application level  .
+- Referential Integrity: RDBMS enforces referential integrity, which means that it ensures that the relationships between tables are valid and consistent. HBase does not enforce referential integrity, which means that it does not check or maintain the validity of the relationships between column families .
+
+HBase and RDBMS have different strengths and weaknesses, and they are suited for different types of applications. RDBMS is more suitable for traditional, transactional applications that require strong consistency, whereas HBase is better suited for big data applications that require horizontal scaling and high-speed processing  .

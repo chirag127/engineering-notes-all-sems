@@ -1,0 +1,23 @@
+# Performance Measurements
+
+Performance measurements are used to evaluate the efficiency and effectiveness of an algorithm in solving a problem. They help to compare different algorithms and choose the best one for a given situation. Performance measurements can be based on various factors, such as:
+
+- **Space complexity**: The amount of memory or space required by an algorithm to perform its task. It consists of both program and data space. Space complexity can affect the performance of an algorithm in terms of speed, cost, and reliability.
+- **Time complexity**: The amount of time or number of steps required by an algorithm to perform its task. It depends on the size and nature of the input, the speed of the processor, and the implementation of the algorithm. Time complexity can affect the performance of an algorithm in terms of responsiveness, throughput, and scalability.
+- **Network complexity**: The amount of communication or data transfer required by an algorithm to perform its task. It depends on the distribution and connectivity of the data, the bandwidth and latency of the network, and the protocol of the communication. Network complexity can affect the performance of an algorithm in terms of availability, security, and consistency.
+
+Performance measurements can be expressed using different notations, such as:
+
+- **Big O notation**: The upper bound or worst-case scenario of the performance of an algorithm. It indicates the maximum amount of space, time, or network required by an algorithm as the input size grows indefinitely. For example, O(n) means that the performance of an algorithm is proportional to the input size n, and O(n^2) means that the performance of an algorithm is proportional to the square of the input size n.
+- **Big Omega notation**: The lower bound or best-case scenario of the performance of an algorithm. It indicates the minimum amount of space, time, or network required by an algorithm as the input size grows indefinitely. For example, Ω(n) means that the performance of an algorithm is at least proportional to the input size n, and Ω(n^2) means that the performance of an algorithm is at least proportional to the square of the input size n.
+- **Big Theta notation**: The average or expected scenario of the performance of an algorithm. It indicates the range of space, time, or network required by an algorithm as the input size grows indefinitely. For example, Θ(n) means that the performance of an algorithm is both O(n) and Ω(n), and Θ(n^2) means that the performance of an algorithm is both O(n^2) and Ω(n^2).
+
+Performance measurements can be used to analyze and compare different algorithms for solving the same problem. For example, sorting and order statistics are common problems that can be solved by different algorithms, such as:
+
+- **Shell sort**: A sorting algorithm that divides the input into sublists and sorts them using insertion sort. It has a time complexity of O(n^2) in the worst case and O(n log n) in the best case, and a space complexity of O(1).
+- **Quick sort**: A sorting algorithm that partitions the input into two sublists based on a pivot element and recursively sorts them. It has a time complexity of O(n^2) in the worst case and O(n log n) in the average case, and a space complexity of O(log n).
+- **Merge sort**: A sorting algorithm that divides the input into two sublists and recursively sorts them, then merges them. It has a time complexity of O(n log n) in all cases, and a space complexity of O(n).
+- **Heap sort**: A sorting algorithm that builds a heap data structure from the input and repeatedly extracts the maximum element. It has a time complexity of O(n log n) in all cases, and a space complexity of O(1).
+- **Comparison of sorting algorithms**: The performance of different sorting algorithms can vary depending on the input size, distribution, and order. Generally, merge sort and heap sort are more stable and efficient than shell sort and quick sort, but they require more space. Quick sort is faster than merge sort and heap sort on average, but it can be slow on sorted or nearly sorted inputs. Shell sort is simple and easy to implement, but it can be slow on large or random inputs.
+
+- **Sorting in linear time**: Some sorting algorithms can achieve a time complexity of O(n) or linear time, but they have some limitations or assumptions. For example, counting sort and radix sort are sorting algorithms that can sort integers in linear time, but they require a fixed range of values and a constant number of digits. Bucket sort is a sorting algorithm that can sort floating-point numbers in linear time, but it

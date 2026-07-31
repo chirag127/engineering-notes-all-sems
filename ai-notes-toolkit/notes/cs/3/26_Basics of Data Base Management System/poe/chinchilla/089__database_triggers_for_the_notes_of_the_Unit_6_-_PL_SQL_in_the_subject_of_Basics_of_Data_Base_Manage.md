@@ -1,0 +1,13 @@
+### Database Triggers for the Notes of Unit 6 - PL/SQL in the Subject of Basics of Database Management System
+
+Database triggers are a powerful feature of PL/SQL that can automate various tasks and ensure data consistency in a database. Here are some important points to keep in mind when working with database triggers:
+
+- A database trigger is a piece of PL/SQL code that is automatically executed in response to a specific event in the database. These events can include data changes, logon/logoff events, and system errors.
+- Triggers can be defined at the database level or at the table level. Database-level triggers are executed for all tables in the database, while table-level triggers are executed only for the table they are defined on.
+- Triggers can be classified as either "before" or "after" triggers. Before triggers are executed before the triggering event (such as an INSERT, UPDATE, or DELETE statement), while after triggers are executed after the triggering event has completed.
+- Triggers can also be defined to execute either once per row or once per statement. Row-level triggers are executed once for each row affected by the triggering event, while statement-level triggers are executed once for the entire triggering statement.
+- Triggers can be used for a variety of purposes, such as enforcing business rules, auditing data changes, and performing complex calculations or updates. However, it is important to be aware of the potential performance impact of triggers, as they can slow down database operations if not designed and tested carefully.
+- When creating triggers, it is important to consider the potential for recursive triggers, which can occur when a trigger on one table causes an update to another table that in turn triggers another trigger on the first table. To avoid this, it may be necessary to disable triggers temporarily or to use conditional logic in the trigger code.
+- Finally, it is important to test triggers thoroughly to ensure that they are functioning correctly and not causing unintended consequences. This can involve creating test cases that cover a range of scenarios and edge cases, as well as monitoring database performance to ensure that triggers are not causing significant slowdowns or other issues.
+
+In summary, database triggers are a powerful tool for automating tasks and enforcing data consistency in a database, but they must be used carefully and with an understanding of their potential impact on database performance and functionality. By following best practices and testing rigorously, you can ensure that your triggers are a valuable asset to your database management system.

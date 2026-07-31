@@ -1,0 +1,25 @@
+### Locks for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+- Locks are mechanisms that prevent concurrent transactions from accessing or modifying the same data item in an inconsistent way .
+- Locks can be applied on different levels of granularity, such as records, pages, tables, or databases .
+- Locks can be of different types, such as shared locks, exclusive locks, or update locks .
+- Shared locks allow multiple transactions to read the same data item, but not to modify it .
+- Exclusive locks allow only one transaction to read or modify the same data item, and block other transactions from accessing it .
+- Update locks are a combination of shared and exclusive locks, that allow a transaction to read a data item and later upgrade to an exclusive lock if it wants to modify it .
+- Locks are usually acquired and released by following some locking protocol, such as two-phase locking, timestamp ordering, or optimistic concurrency control  .
+- Two-phase locking requires that a transaction acquires all the locks it needs before releasing any lock, and releases all the locks after it has acquired all the locks .
+- Timestamp ordering assigns a unique timestamp to each transaction, and uses the timestamp to determine the order of conflicting operations on the same data item .
+- Optimistic concurrency control assumes that conflicts are rare, and allows transactions to execute without locking, but validates them before committing to ensure serializability .
+- Locks can be managed by a centralized or a distributed lock manager, depending on the architecture of the distributed system  .
+- A centralized lock manager maintains a global lock table and handles all the lock requests from the transactions .
+- A distributed lock manager partitions the lock table and distributes it among the nodes of the system, and uses a communication protocol to coordinate the lock requests from the transactions  .
+- Locks can improve the consistency and isolation of transactions, but they can also cause problems such as deadlocks, livelocks, starvation, or reduced concurrency  .
+- Deadlocks occur when two or more transactions are waiting for each other to release the locks they hold  .
+- Livelocks occur when two or more transactions repeatedly yield to each other and make no progress  .
+- Starvation occurs when a transaction is repeatedly denied access to a data item due to the presence of other transactions with higher priority or longer duration  .
+- Reduced concurrency occurs when locks are held too long or too frequently, and limit the parallelism of transactions  .
+- Locks can be optimized by using techniques such as lock escalation, lock conversion, lock caching, or lock timeout  .
+- Lock escalation is the process of replacing multiple fine-grained locks with a single coarse-grained lock, to reduce the overhead of lock management  .
+- Lock conversion is the process of changing the type of a lock, such as from shared to exclusive, or vice versa, to adapt to the needs of a transaction  .
+- Lock caching is the process of keeping the locks in memory, rather than in disk, to improve the performance of lock operations  .
+- Lock timeout is the process of setting a limit on how long a transaction can wait for a lock, to avoid blocking or starvation  .

@@ -1,0 +1,27 @@
+### 360° Aerial Surveillance UAV With IOT Camera
+
+- Aerial surveillance is the key to security and military based operations. It provides real time information on enemy movements which plays a key role in precision strikes  .
+- Aerial surveillance can also be used for crowd monitoring, disaster management, wildlife conservation, and other applications.
+- Aerial surveillance can be performed by unmanned aerial vehicles (UAVs) or drones, which are remotely controlled or autonomous aircrafts that can carry cameras and sensors   .
+- A 360° aerial surveillance UAV is a drone that can capture a full spherical view of the surroundings using a 360-degree camera mounted on it   .
+- A 360-degree camera is a camera that can record images or videos in all directions simultaneously, creating a seamless and immersive view of the environment.
+- A 360° aerial surveillance UAV with IOT camera is a drone that can transmit the captured 360-degree images or videos to a cloud server or a mobile device using internet of things (IOT) technology  .
+- Internet of things (IOT) is a network of physical objects that can communicate and exchange data with each other and with other devices or systems over the internet.
+- A 360° aerial surveillance UAV with IOT camera can provide several advantages, such as:
+  - Enhanced situational awareness and visibility for the operators or users  .
+  - Reduced risk of detection or damage to the drone, as it can fly at higher altitudes and avoid obstacles  .
+  - Increased flexibility and scalability, as the drone can be deployed and controlled from anywhere with internet access  .
+  - Improved data analysis and decision making, as the 360-degree images or videos can be processed and stored in the cloud or on the mobile device, and can be accessed by multiple users or applications   .
+- A 360° aerial surveillance UAV with IOT camera can be implemented using various components, such as:
+  - A drone frame, which is the structure that supports the drone and its components  .
+  - A flight controller, which is the brain of the drone that controls its movements and functions  .
+  - A battery, which is the power source of the drone  .
+  - A motor, which is the device that converts electrical energy into mechanical energy and rotates the propellers  .
+  - A propeller, which is the device that generates thrust and lift for the drone  .
+  - An electronic speed controller (ESC), which is the device that regulates the speed and direction of the motor  .
+  - A 360-degree camera, which is the device that captures the 360-degree images or videos   .
+  - A wireless transmitter, which is the device that sends the 360-degree images or videos to the cloud server or the mobile device using IOT technology  .
+  - A wireless receiver, which is the device that receives the 360-degree images or videos from the wireless transmitter and displays them on the cloud server or the mobile device  .
+  - A remote controller, which is the device that allows the user to control the drone manually  .
+  - A mobile device, which is the device that can be used to view the 360-degree images or videos, and to control the drone remotely using an app  .
+  - A cloud server, which is the device that can be used to store and process the 360-degree images or videos, and to provide access to multiple

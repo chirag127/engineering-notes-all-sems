@@ -1,0 +1,21 @@
+### CIDR
+
+- CIDR stands for **Classless Inter-Domain Routing** .
+- It is a method for **allocating IP addresses** and for **IP routing**.
+- It replaces the previous classful network addressing architecture on the Internet .
+- It allows for a more efficient and flexible allocation of IP addresses than the older method of assigning a class of IPs to each organization .
+- It is based on **variable-length subnet masking (VLSM)**, which enables network engineers to divide an IP address space into a hierarchy of subnets of different sizes .
+- It makes it possible to create subnetworks with different host counts without wasting large numbers of addresses.
+- CIDR addresses are made up of two sets of numbers: **Prefix** and **Prefix Length** .
+- The prefix is the network address, which is the same for all hosts in the same subnetwork.
+- The prefix length is the number of significant bits that make up the routing or networking portion of the address.
+- The prefix length is written as a slash (/) followed by a decimal number, such as /24.
+- The prefix length indicates how many bits of the 32-bit IP address are used for the network address and how many are used for the host address.
+- The prefix length can range from 0 to 32, where 0 means the entire address is the host address and 32 means the entire address is the network address.
+- The prefix length determines the size of the subnetwork and the number of hosts that can be assigned to it.
+- The formula for calculating the number of hosts in a subnetwork is 2^(32 - prefix length) - 2, where the -2 accounts for the network address and the broadcast address.
+- For example, a CIDR address of 192.168.1.0/24 means that the network address is 192.168.1.0, the prefix length is 24, and the number of hosts is 2^(32 - 24) - 2 = 254.
+- CIDR notation can also be used to aggregate multiple contiguous subnetworks into a larger block, which reduces the size of routing tables and improves routing efficiency .
+- This is also known as **supernetting** or **route aggregation** .
+- For example, four subnetworks with CIDR addresses of 192.168.1.0/24, 192.168.2.0/24, 192.168.3.0/24, and 192.168.4.0/24 can be aggregated into a single block of 192.168.0.0/22, which has a prefix length of 22 and a number of hosts of 2^(32 - 22) - 2 = 1022 .
+- CIDR is widely used on the Internet and other IP networks to allocate and route IP addresses efficiently and flexibly.

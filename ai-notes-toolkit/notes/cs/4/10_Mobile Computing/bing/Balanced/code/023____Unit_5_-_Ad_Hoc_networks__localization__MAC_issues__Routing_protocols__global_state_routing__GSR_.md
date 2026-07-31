@@ -1,0 +1,7 @@
+## Unit 5 - Ad Hoc networks, localization, MAC issues, Routing protocols, global state routing (GSR)
+
+- Ad hoc networks are wireless networks that do not rely on any fixed infrastructure or centralized control. They consist of mobile nodes that communicate with each other over a shared wireless channel.
+- Localization is the process of determining the position of a node in an ad hoc network, either relative to other nodes or to a global coordinate system. Localization can be achieved by using GPS, signal strength, angle of arrival, time of arrival, or other techniques.
+- MAC issues refer to the challenges of designing a medium access control (MAC) protocol for ad hoc networks, such as channel access, collision avoidance, fairness, power control, and scalability. MAC protocols can be classified into contention-based, reservation-based, or hybrid schemes.
+- Routing protocols are the rules that govern how packets are forwarded from a source node to a destination node in an ad hoc network. Routing protocols can be categorized into proactive, reactive, or hybrid approaches, depending on whether they maintain routing tables, discover routes on demand, or combine both strategies.
+- Global state routing (GSR) is a proactive routing protocol for ad hoc networks that uses link state information to compute shortest paths. Each node periodically broadcasts its link state to the entire network, and maintains a complete topology map. GSR reduces the overhead of link state flooding by using a hierarchical structure and a location-aided scheme.

@@ -1,0 +1,13 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the subject of Cyber Forensic Analytics. Here are some techniques for the notes of the Unit 2 - Cyber Forensics:
+
+# Techniques for the notes of the Unit 2 - Cyber Forensics
+
+- Cyber forensics is the process of collecting, preserving, analyzing and presenting digital evidence from computers, networks, mobile devices and other digital sources.
+- Cyber forensics can be used for various purposes, such as investigating cyber crimes, resolving disputes, recovering data, auditing systems, ensuring compliance and enhancing security.
+- Cyber forensics follows a standard methodology that consists of four phases: identification, preservation, analysis and presentation.
+- Identification is the phase where the scope, objectives and sources of the investigation are defined and the relevant digital evidence is located and documented.
+- Preservation is the phase where the digital evidence is secured and protected from any alteration, loss or damage. This involves creating a forensic image or a copy of the original data, using write blockers, hashing and encryption techniques.
+- Analysis is the phase where the digital evidence is examined and interpreted using various tools, techniques and methods, such as file system analysis, network analysis, malware analysis, timeline analysis, keyword search, data carving, steganalysis and cryptography.
+- Presentation is the phase where the findings and conclusions of the analysis are reported and communicated to the intended audience, such as law enforcement, courts, clients or management. This involves preparing a forensic report, using charts, graphs, tables and other visual aids, and testifying as an expert witness if required.
+- Cyber forensics requires a combination of technical skills, analytical skills, legal knowledge and ethical principles. Cyber forensic analysts should follow the best practices and standards of the field, such as the Association of Digital Forensics, Security and Law (ADFSL), the International Organization on Computer Evidence (IOCE) and the Scientific Working Group on Digital Evidence (SWGDE).
+- Cyber forensics faces various challenges and limitations, such as the increasing volume and complexity of digital data, the dynamic and volatile nature of digital evidence, the diversity and compatibility of digital devices and systems, the encryption and obfuscation of data, the privacy and confidentiality of data, the legal and jurisdictional issues and the ethical and social implications.

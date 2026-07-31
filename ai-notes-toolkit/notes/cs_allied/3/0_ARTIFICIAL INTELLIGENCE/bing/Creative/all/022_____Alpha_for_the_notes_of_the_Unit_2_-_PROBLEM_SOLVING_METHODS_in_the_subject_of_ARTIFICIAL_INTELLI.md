@@ -1,0 +1,23 @@
+# Alpha for the notes of the Unit 2 - PROBLEM SOLVING METHODS in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Alpha is a general term for a class of artificial intelligence systems that can learn from data and perform complex tasks that require critical thinking and problem-solving skills .
+- Alpha systems are based on deep learning, a branch of machine learning that uses neural networks to learn from large amounts of data and generalize to new situations .
+- Alpha systems can be applied to various domains, such as natural language processing, computer vision, game playing, protein folding, and competitive programming  .
+- Alpha systems use search algorithms to explore the possible solutions to a given problem and select the best one according to some criteria.
+- Search algorithms can be classified into two types: uninformed search and informed search.
+- Uninformed search algorithms do not use any domain-specific knowledge or heuristics to guide the search. They rely on brute-force methods, such as breadth-first search, depth-first search, and uniform-cost search.
+- Informed search algorithms use some domain-specific knowledge or heuristics to guide the search. They try to find the most promising solutions first, such as best-first search, greedy search, and A* search.
+- Alpha systems can also use reinforcement learning, a type of machine learning that learns from its own actions and rewards, to improve its performance over time .
+- Reinforcement learning can be used to learn optimal policies for sequential decision making problems, such as playing games, controlling robots, or optimizing business processes .
+- Alpha systems can also use generative models, a type of machine learning that can generate new data or content, such as images, text, or music, based on some input or latent variables .
+- Generative models can be used to create novel and realistic data or content, such as synthesizing faces, writing captions, or composing melodies .
+- Alpha systems can also use adversarial learning, a type of machine learning that involves two or more competing agents, such as a generator and a discriminator, or a teacher and a student, that learn from each other's feedback .
+- Adversarial learning can be used to improve the quality and diversity of generative models, such as generating realistic images, text, or audio, or to enhance the robustness and security of machine learning models, such as detecting fake news, spam, or malware .
+- Alpha systems can also use meta-learning, a type of machine learning that learns how to learn, or learns from its own learning process .
+- Meta-learning can be used to enable fast and efficient learning from few or new data, such as learning new tasks, languages, or concepts, or to optimize the hyperparameters or architectures of machine learning models, such as finding the best learning rate, activation function, or network structure .
+- Alpha systems can also use transfer learning, a type of machine learning that leverages the knowledge learned from one domain or task to another domain or task .
+- Transfer learning can be used to improve the performance and generalization of machine learning models, such as adapting a model trained on one language or dataset to another language or dataset, or fine-tuning a model trained on a large and generic dataset to a small and specific dataset .
+- Alpha systems can also use multi-task learning, a type of machine learning that learns multiple tasks simultaneously or sequentially .
+- Multi-task learning can be used to enhance the learning efficiency and effectiveness of machine learning models, such as sharing the knowledge or features among related tasks, or learning a common representation or objective for different tasks .
+- Alpha systems can also use self-supervised learning, a type of machine learning that learns from the data itself, without requiring any external labels or supervision .
+- Self-supervised learning can be used to exploit the large and unlabeled data available, such as text, images, or audio, and to learn useful and meaningful representations or embeddings for downstream tasks, such as classification, clustering, or retrieval [^2^

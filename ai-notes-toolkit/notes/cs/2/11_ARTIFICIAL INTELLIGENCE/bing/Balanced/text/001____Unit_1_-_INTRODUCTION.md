@@ -1,0 +1,19 @@
+## Unit 1 - INTRODUCTION
+
+- This unit provides an overview of the basic concepts and principles of artificial intelligence (AI).
+- AI is the study of how to create machines and software that can perform tasks that normally require human intelligence, such as reasoning, learning, planning, decision making, perception, and natural language processing.
+- AI can be classified into different types based on the goals, methods, and applications of the systems.
+  - Weak AI or narrow AI: systems that are designed to perform a specific task or domain, such as face recognition, chess playing, or speech recognition. They do not have general intelligence or understanding of other domains.
+  - Strong AI or general AI: systems that can perform any intellectual task that a human can, such as common sense reasoning, creativity, and self-awareness. They have not been achieved yet and are a subject of ongoing research and debate.
+  - Artificial superintelligence: systems that can surpass human intelligence and capabilities in all domains. They are a hypothetical and controversial possibility that may have profound implications for humanity.
+- AI can also be classified into different types based on the methods or techniques used to achieve the goals.
+  - Symbolic AI or classical AI: systems that use symbols and rules to represent and manipulate knowledge, such as logic, search, and expert systems. They are based on the assumption that intelligence can be reduced to symbol manipulation.
+  - Subsymbolic AI or connectionist AI: systems that use numerical values and networks to model and learn from data, such as neural networks, evolutionary algorithms, and fuzzy logic. They are based on the assumption that intelligence can be derived from the interactions of simple units.
+  - Hybrid AI: systems that combine symbolic and subsymbolic methods to leverage the strengths and overcome the limitations of both approaches, such as neural-symbolic systems, neuro-fuzzy systems, and cognitive architectures.
+- AI can also be classified into different types based on the applications or domains of the systems.
+  - Artificial neural networks: systems that are inspired by the structure and function of biological neurons and can learn from data, such as deep learning, convolutional neural networks, and recurrent neural networks. They are widely used for tasks such as image recognition, natural language processing, and reinforcement learning.
+  - Expert systems: systems that use rules and facts to emulate the reasoning and decision making of human experts, such as medical diagnosis, legal advice, and financial planning. They are based on the knowledge engineering approach, which involves acquiring, representing, and applying domain-specific knowledge.
+  - Natural language processing: systems that can understand and generate natural language, such as speech recognition, machine translation, text summarization, and chatbots. They use techniques such as parsing, semantic analysis, and natural language generation.
+  - Computer vision: systems that can perceive and interpret visual information, such as face detection, object recognition, scene understanding, and optical character recognition. They use techniques such as feature extraction, segmentation, classification, and tracking.
+  - Robotics: systems that can sense and manipulate the physical world, such as autonomous vehicles, industrial robots, humanoid robots, and drones. They use techniques such as localization, mapping, navigation, planning, and control.
+  - Artificial life: systems that simulate and study the emergence and evolution of life, such as cellular automata, genetic algorithms, and artificial neural networks. They use techniques such as self-organization, adaptation, and reproduction.

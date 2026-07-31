@@ -1,0 +1,11 @@
+# Serial for the notes of the Unit 1 - EMBEDDED OS INTERNALS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- An embedded operating system (OS) is a specialized OS for an embedded device or system. The operating system aims to perform with certainty specific task(s) regularly that help the device operate .
+- An embedded OS often has limited features and functions. The OS may perform only a single action that allows the device to work, but it must execute that action consistently and on time every time. Embedded OSs are built into Internet of Things (IoT) devices. They are also part of many other devices and systems.
+- An embedded OS is a combination of software and hardware. It produces an easily understandable result by humans in many formats such as images, text, and voice. Embedded OSs are developed with programming code, which helps convert hardware languages into software languages like C and C++.
+- An embedded OS achieves its functions via a kernel that includes, at a minimum: process management, memory management, and I/O system management components.
+- Process management is the component that handles the creation, execution, and termination of processes or tasks. It also manages the scheduling, synchronization, and communication of processes.
+- Memory management is the component that allocates and deallocates memory for processes and data. It also manages the virtual and physical memory spaces, the memory protection, and the memory mapping.
+- I/O system management is the component that handles the input and output operations of the device. It also manages the device drivers, the file system, and the network protocols.
+- An embedded OS differs from other types of OSs by its optimized design. It is usually tailored for a specific hardware platform, application domain, and performance requirement. It also has a smaller footprint, lower power consumption, and higher reliability than general-purpose OSs.
+- Some examples of embedded OSs are: Linux, Android, Windows Embedded, FreeRTOS, QNX, VxWorks, and RTOS.

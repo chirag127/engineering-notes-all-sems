@@ -1,0 +1,8 @@
+### de-Broglie concept of matter waves
+
+- According to the de Broglie concept of matter waves, the matter has dual nature. It means when the matter is moving it shows the wave properties (like interference, diffraction etc.) are associated with it and when it is in the state of rest then it shows particle properties. Thus the matter has dual nature .
+- de Broglie applied the concept of matter waves to the structure of the atom. He postulated that electrons orbit the nucleus as standing waves (stationary waves). Standing waves are formed as a result of interference between two waves of equal frequency and amplitude travelling in opposite directions .
+- Using the concept of the electron matter wave, de Broglie provided a rationale for the quantization of the electron’s angular momentum in the hydrogen atom, which was postulated in Bohr’s quantum theory .
+- Compton’s formula established that an electromagnetic wave can behave like a particle of light when interacting with matter. In 1924, Louis de Broglie proposed a new speculative hypothesis that electrons and other particles of matter can behave like waves. Today, this idea is known as de Broglie’s hypothesis of matter waves .
+- The De Broglie hypothesis proposes that all matter exhibits wave-like properties and relates the observed wavelength of matter to its momentum. After Albert Einstein's photon theory became accepted, the question became whether this was true only for light or whether material objects also exhibited wave-like behavior .
+- De Broglie, in his 1924 PhD thesis, proposed that just as light has both wave-like and particle-like properties, electrons also have wave-like properties .

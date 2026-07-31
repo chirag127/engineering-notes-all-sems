@@ -1,0 +1,32 @@
+## Experiment 17 - Socket programming using UDP and TCP (e.g., simple DNS, data & time client/server, echo client/server, iterative & concurrent servers)
+
+- Socket programming is a way of connecting two nodes on a network to communicate with each other.
+- A socket is an endpoint of a communication channel that can send and receive data using a specific protocol.
+- There are three types of sockets: stream sockets, datagram sockets and raw sockets.
+- Stream sockets use TCP (Transmission Control Protocol) as the transport layer protocol, which provides a reliable, connection-oriented and byte-stream service .
+- Datagram sockets use UDP (User Datagram Protocol) as the transport layer protocol, which provides an unreliable, connectionless and message-oriented service .
+- Raw sockets can use any protocol, but they require the programmer to handle the headers and checksums of the packets.
+- TCP and UDP have different characteristics and trade-offs, and they are suited for different applications .
+- TCP ensures that the data is delivered in order and without errors, but it also adds overhead and latency to the communication.
+- UDP is faster and simpler than TCP, but it does not guarantee the delivery, order or integrity of the data .
+- Some examples of applications that use TCP are web browsing, email, file transfer and remote login.
+- Some examples of applications that use UDP are video streaming, online gaming, voice over IP and DNS (Domain Name System)  .
+- To program sockets using TCP or UDP in Python, the socket module provides the necessary functions and constants .
+- To create a socket object, the socket function takes two arguments: the address family and the socket type .
+- The address family can be AF_INET (for IPv4) or AF_INET6 (for IPv6)  .
+- The socket type can be SOCK_STREAM (for TCP) or SOCK_DGRAM (for UDP)  .
+- To establish a connection between a client and a server using TCP, the server socket needs to bind to a port, listen for incoming requests and accept a connection from a client socket  .
+- The client socket needs to connect to the server socket using its IP address and port number  .
+- To send and receive data using TCP, the send and recv methods can be used on the socket objects  .
+- To close the connection, the close method can be used on the socket objects  .
+- To communicate between a client and a server using UDP, there is no need to establish a connection or listen for requests .
+- The server socket only needs to bind to a port, and the client socket can send data to the server socket using its IP address and port number .
+- To send and receive data using UDP, the sendto and recvfrom methods can be used on the socket objects .
+- These methods also return the address of the sender or receiver, which can be used for further communication .
+- To close the socket, the close method can be used on the socket objects .
+- Some examples of socket programming using UDP and TCP are:
+  - Simple DNS: A client socket sends a domain name to a server socket using UDP, and the server socket returns the corresponding IP address using UDP.
+  - Data and time client/server: A client socket requests the current date and time from a server socket using TCP, and the server socket sends the date and time using TCP.
+  - Echo client/server: A client socket sends a message to a server socket using TCP or UDP, and the server socket echoes back the same message using TCP or UDP .
+  - Iterative server: A server socket handles one client request at a time using TCP or UDP, and then waits for the next request .
+  - Concurrent server: A server socket spawns a new process or

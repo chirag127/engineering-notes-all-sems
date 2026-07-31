@@ -1,0 +1,22 @@
+### Unit 4 - C++ Basics: Variables
+
+- A variable is a named location in memory that stores a value.
+- In C++, a variable must be declared before it can be used.
+- The declaration specifies the type of the variable and its name.
+- The type determines the size and layout of the variable's memory, the range of values that can be stored within that memory, and the set of operations that can be applied to the variable.
+- The name of the variable is used to refer to its stored value.
+- The value of a variable can be changed during the execution of the program.
+- C++ has several built-in data types, including `int`, `char`, `float`, and `double`.
+- C++ also allows the creation of user-defined data types using structures, classes, and unions.
+- Variables can be initialized when they are declared, or their value can be assigned later in the program.
+- The scope of a variable determines its visibility and lifetime within the program.
+- Variables can have local or global scope.
+- Local variables are declared within a function or block and are only visible within that function or block.
+- Global variables are declared outside of any function or block and are visible throughout the program.
+- The lifetime of a variable is the duration for which it exists in memory.
+- Local variables are created when the function or block in which they are declared is entered, and are destroyed when the function or block is exited.
+- Global variables are created when the program starts and are destroyed when the program ends.
+- The value of a variable can be accessed and modified using its name.
+- The value of a variable can also be accessed and modified using a pointer to its memory location.
+- C++ provides several operators for working with variables, including assignment, arithmetic, comparison, and logical operators.
+- C++ also provides several control structures for working with variables, including `if`, `while`, `for`, and `switch` statements.

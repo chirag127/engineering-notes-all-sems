@@ -1,0 +1,21 @@
+### SOM Algorithm and its variant
+
+- SOM stands for Self-Organizing Map, which is a type of artificial neural network that can perform unsupervised learning and dimensionality reduction.
+- SOM consists of two layers: an input layer and an output layer. The output layer is usually a one or two-dimensional grid of nodes, each of which has a weight vector of the same dimension as the input data.
+- The SOM algorithm works as follows:
+  - Initialize the weight vectors of the output nodes randomly or using some heuristic.
+  - Select an input data point randomly and present it to the input layer.
+  - Find the output node that has the most similar weight vector to the input data point. This node is called the best matching unit (BMU) or the winner node.
+  - Update the weight vectors of the BMU and its neighboring nodes to make them more similar to the input data point. The amount of update depends on a learning rate and a neighborhood function that decreases with time and distance from the BMU.
+  - Repeat steps 2 to 4 until a stopping criterion is met, such as a fixed number of iterations or a convergence threshold.
+- The SOM algorithm can create a low-dimensional representation of the input data that preserves the topological and statistical properties of the original data. The output nodes can be seen as clusters or prototypes of the input data.
+- A variant of the SOM algorithm is the SOM-based optimization (SOMO) algorithm, which was proposed by Su and Zhao  . The SOMO algorithm can be used to solve continuous optimization problems by exploring and exploiting good solutions through the self-organizing process.
+- The SOMO algorithm works as follows:
+  - Initialize the weight vectors of the output nodes randomly within the feasible region of the optimization problem.
+  - Select an input data point randomly from the feasible region and present it to the input layer.
+  - Find the output node that has the most similar weight vector to the input data point. This node is called the BMU or the winner node.
+  - Evaluate the objective function value of the BMU and compare it with the best solution found so far. If the BMU is better, update the best solution and its objective function value.
+  - Update the weight vectors of the BMU and its neighboring nodes to make them more similar to the input data point. The amount of update depends on a learning rate and a neighborhood function that decreases with time and distance from the BMU.
+  - Repeat steps 2 to 5 until a stopping criterion is met, such as a fixed number of iterations or a convergence threshold.
+- The SOMO algorithm can find good solutions to an optimization problem by simultaneously exploring and exploiting the feasible region. The output nodes can be seen as potential solutions or candidates of the optimization problem.
+- The SOMO algorithm can also be interpreted as a model of social influence and learning, where the output nodes represent individuals or agents, the input data points represent external stimuli or information, and the weight vectors represent the beliefs or opinions of the agents. The self-organizing process can be seen as a social learning process, where the agents update their beliefs or opinions based on the external stimuli or information and the influence of their neighbors.

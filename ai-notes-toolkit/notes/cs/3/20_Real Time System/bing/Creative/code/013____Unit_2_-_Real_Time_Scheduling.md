@@ -1,0 +1,11 @@
+# Unit 2 - Real Time Scheduling
+
+Real time scheduling is the process of assigning and executing tasks in a system that has strict timing constraints and deadlines. Real time scheduling aims to ensure that the system can meet its performance, reliability, and safety requirements.
+
+Some of the topics covered in this unit are:
+
+- **Real time system**: A system that has to respond to events or inputs within a specified time interval, or risk failure or unacceptable consequences. Examples of real time systems are air traffic control, industrial automation, and multimedia applications.
+- **Real time task**: A task that has a deadline, which is the latest time by which the task has to be completed. A task can also have a period, which is the time interval between successive instances of the task, and a priority, which is a measure of the importance or urgency of the task.
+- **Real time scheduler**: A component of a real time system that decides which task to execute at any given time, based on the characteristics and requirements of the tasks and the system. A real time scheduler can be preemptive, which means that it can interrupt a running task to execute a higher priority task, or non-preemptive, which means that it can only execute a task when the previous task is finished or voluntarily releases the processor.
+- **Real time scheduling algorithm**: A set of rules or criteria that a real time scheduler uses to select the next task to execute. Some of the common real time scheduling algorithms are rate-monotonic scheduling (RMS), earliest deadline first (EDF), least laxity first (LLF), and fixed priority scheduling (FPS).
+- **Real time scheduling analysis**: A method of evaluating and verifying the feasibility and correctness of a real time scheduling algorithm and a real time system. Real time scheduling analysis can be done using mathematical models, simulation, or testing. Some of the metrics used in real time scheduling analysis are utilization, response time, deadline miss ratio, and schedulability.

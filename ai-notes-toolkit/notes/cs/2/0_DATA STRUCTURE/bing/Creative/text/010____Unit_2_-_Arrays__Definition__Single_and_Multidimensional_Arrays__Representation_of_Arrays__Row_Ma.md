@@ -1,0 +1,19 @@
+## Unit 2 - Arrays: Definition, Single and Multidimensional Arrays, Representation of Arrays: Row Major Order, and Column Major Order, Derivation of Index Formulae for 1-D,2-D,3-D and n-D Array Application of arrays, Sparse Matrices and their representations. Linked lists: Array Implementation and Pointer Implementation of Singly Linked Lists, Doubly Linked List, Circularly Linked List, Operations on a Linked List. Insertion, Deletion, Traversal, Polynomial Representation and Addition Subtraction & Multiplications of Single variable & Two variables Polynomial.
+
+- Arrays: Definition, Single and Multidimensional Arrays
+  - An array is a collection of data elements of the same type, stored in contiguous memory locations and accessed by using an index.
+  - A single-dimensional array is an array with one dimension, or one row of elements. For example, `int a[5]` is a single-dimensional array of 5 integers.
+  - A multidimensional array is an array with more than one dimension, or more than one row of elements. For example, `int b[3][4]` is a two-dimensional array of 3 rows and 4 columns of integers.
+  - A multidimensional array can be visualized as a table or a matrix, where each element is identified by a pair of indices, one for the row and one for the column. For example, `b[1][2]` refers to the element in the second row and the third column of the array `b`.
+  - A multidimensional array can also be seen as an array of arrays, where each element of the outer array is another array. For example, `b[1]` is an array of 4 integers, which is the second element of the array `b`.
+- Representation of Arrays: Row Major Order, and Column Major Order
+  - Row major order and column major order are two ways of storing multidimensional arrays in linear memory, such as RAM or disk.
+  - In row major order, the elements of a multidimensional array are stored row by row, or in the order of increasing row indices. For example, the elements of the array `b` are stored as `b[0][0], b[0][1], b[0][2], b[0][3], b[1][0], b[1][1], b[1][2], b[1][3], b[2][0], b[2][1], b[2][2], b[2][3]`.
+  - In column major order, the elements of a multidimensional array are stored column by column, or in the order of increasing column indices. For example, the elements of the array `b` are stored as `b[0][0], b[1][0], b[2][0], b[0][1], b[1][1], b[2][1], b[0][2], b[1][2], b[2][2], b[0][3], b[1][3], b[2][3]`.
+  - The choice of row major order or column major order depends on the programming language, the compiler, and the hardware. Some languages, such as C and C++, use row major order by default, while others, such as Fortran and MATLAB, use column major order by default.
+- Derivation of Index Formulae for 1-D,2-D,3-D and n-D Array
+  - The index formula is a mathematical expression that maps the indices of a multidimensional array to the linear address of the corresponding element in memory.
+  - For a one-dimensional array `a` of size `n`, the index formula is `address(a[i]) = base(a) + i * size(a)`, where `base(a)` is the starting address of the array, `i` is the index of the element, and `size(a)` is the size of each element in bytes.
+  - For a two-dimensional array `b` of size `m x n`, the index formula in row major order is `address(b[i][j]) = base(b) + (i * n + j) * size(b)`, where `base(b)` is the starting address of the array, `i` and `j` are the row and column indices of the element, `n` is the number of columns, and `size(b)` is the size of each element in bytes.
+  - The index formula in column major order is `address(b[i][j]) = base(b) + (j * m + i) * size(b)`, where `m` is the number of rows.
+  - For a three-dimensional array `

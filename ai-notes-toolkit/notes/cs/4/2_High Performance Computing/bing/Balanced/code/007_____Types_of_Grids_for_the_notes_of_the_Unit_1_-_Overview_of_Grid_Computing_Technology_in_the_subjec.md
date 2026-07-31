@@ -1,0 +1,14 @@
+### Types of Grids for the notes of the Unit 1 - Overview of Grid Computing Technology in the subject of High Performance Computing
+
+- Grid computing is a form of distributed computing that involves coordinating and sharing computing resources across multiple locations, organizations, and domains.
+- Grid computing can be classified into different types based on the purpose, architecture, and functionality of the grid. Some of the common types are:
+
+  - Computational grid: This is a type of grid that acts as a mediator of many computers in a given network to solve one single problem at a time. Computational grids are useful for applications that require a large amount of processing power, such as scientific simulations, weather forecasting, and cryptography.
+  - Data grid: The grid that deals with the sharing and managing the distributed data in a controlled manner is term as a data grid. Data grids are useful for applications that require access to large and heterogeneous data sets, such as data mining, data analysis, and data-intensive computing .
+  - Collaborative grid: Such types of grids help in solving collective problems that involve human interaction and collaboration, such as e-learning, e-health, and e-business. Collaborative grids provide services and tools for communication, coordination, and knowledge sharing among the grid users.
+  - Service grid: This is a type of grid that provides access to various services and resources on demand, such as software, hardware, storage, and network. Service grids are based on the service-oriented architecture (SOA) paradigm, which enables the interoperability and integration of heterogeneous and distributed services. Service grids are useful for applications that require dynamic and flexible service provisioning, such as cloud computing, web services, and grid portals.
+
+- Grid computing can also be classified based on the structure and layout of the grid nodes, such as:
+
+  - Hierarchical grid: This is a type of grid that has a tree-like structure, where the nodes are organized into different levels of hierarchy. The higher-level nodes have more authority and control over the lower-level nodes. Hierarchical grids are useful for applications that require centralized management and coordination, such as military and government systems.
+  - Peer-to-peer grid: This is a type of grid that has a flat structure, where the nodes are equal and autonomous. The nodes communicate and cooperate with each other directly, without any central authority or server. Peer-to-peer grids are useful for applications that require decentralized and self-organizing systems, such as file sharing, social networking, and distributed storage.

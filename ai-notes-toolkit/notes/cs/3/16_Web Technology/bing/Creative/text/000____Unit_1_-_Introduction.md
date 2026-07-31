@@ -1,0 +1,13 @@
+## Unit 1 - Introduction
+
+- In this unit, you will learn about the basic concepts and principles of artificial intelligence (AI).
+- AI is the study of how to create machines and systems that can perform tasks that normally require human intelligence, such as reasoning, learning, perception, decision making, and natural language processing.
+- AI is a broad and interdisciplinary field that draws from computer science, mathematics, logic, psychology, philosophy, linguistics, neuroscience, and other disciplines.
+- AI can be classified into different types based on the goals, methods, and applications of the systems. Some of the common types are:
+  - Weak AI or narrow AI: systems that are designed to perform a specific task or domain, such as face recognition, speech recognition, or chess playing. They do not have general intelligence or understanding of other domains.
+  - Strong AI or general AI: systems that can perform any intellectual task that a human can, such as common sense reasoning, creativity, and self-awareness. They have general intelligence and can adapt to new situations and domains. This type of AI is still a hypothetical and long-term goal of AI research.
+  - Artificial neural networks or deep learning: systems that are inspired by the structure and function of biological neurons and learn from data using multiple layers of processing units. They can perform complex tasks such as image classification, natural language generation, and reinforcement learning.
+  - Expert systems or knowledge-based systems: systems that use a set of rules and facts to represent and reason about a specific domain of knowledge, such as medical diagnosis, legal reasoning, or financial planning. They can provide explanations and recommendations based on the given input and knowledge base.
+  - Natural language processing or NLP: systems that can understand, generate, and manipulate natural language, such as text or speech. They can perform tasks such as machine translation, sentiment analysis, text summarization, and question answering.
+  - Computer vision or CV: systems that can process and analyze visual information, such as images or videos. They can perform tasks such as face detection, object recognition, scene understanding, and optical character recognition.
+  - Robotics or autonomous systems: systems that can interact with the physical world through sensors and actuators. They can perform tasks such as navigation, manipulation, exploration, and coordination.

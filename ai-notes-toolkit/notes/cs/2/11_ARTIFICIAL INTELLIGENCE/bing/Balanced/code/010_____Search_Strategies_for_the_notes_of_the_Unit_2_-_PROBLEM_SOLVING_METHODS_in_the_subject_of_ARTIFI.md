@@ -1,0 +1,21 @@
+### Search Strategies for the notes of the Unit 2 - PROBLEM SOLVING METHODS in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Search strategies are universal problem-solving methods that are used by rational agents or problem-solving agents in AI to solve a specific problem and provide the best result .
+- A search problem consists of a search space, a start state, and a goal state. Search algorithms help the AI agents to attain the goal state through the assessment of scenarios and alternatives.
+- Many AI tasks can be programmed in terms of search, which enhances the formulation of the solution to a given problem.
+- Search algorithms can be classified into two categories: uninformed search and informed search.
+- Uninformed search algorithms do not have any additional information about the problem domain other than the problem definition. They use only the information available in the problem definition to generate and test possible solutions.
+- Uninformed search algorithms include:
+  - Breadth-first search: It explores the search space level by level, starting from the root node and expanding all its successors, then all the successors of the successors, and so on until the goal state is found or the search space is exhausted.
+  - Depth-first search: It explores the search space by going deeper into the branches of the search tree, starting from the root node and expanding the first child node, then the first child of the child, and so on until the goal state is found or a dead end is reached. Then it backtracks and explores the next branch.
+  - Depth-limited search: It is a variation of depth-first search that imposes a limit on the depth of the search tree to avoid infinite loops and irrelevant paths.
+  - Iterative deepening depth-first search: It is a combination of breadth-first search and depth-first search that performs depth-limited search with increasing depth limits until the goal state is found or the search space is exhausted.
+  - Bidirectional search: It is a search strategy that simultaneously searches forward from the start state and backward from the goal state, and stops when the two searches meet in the middle.
+  - Uniform cost search: It is a search strategy that expands the node with the lowest path cost from the start state to the node, and stops when the goal state is found or the search space is exhausted.
+- Informed search algorithms have some additional information or heuristic function that guides the search process towards the goal state. They use the heuristic function to estimate the cost or distance from the current state to the goal state, and choose the best option among the available alternatives.
+- Informed search algorithms include:
+  - Greedy best-first search: It is a search strategy that expands the node that is closest to the goal state according to the heuristic function, and stops when the goal state is found or the search space is exhausted.
+  - A* search: It is a search strategy that expands the node that has the lowest value of the sum of the path cost from the start state to the node and the heuristic function from the node to the goal state, and stops when the goal state is found or the search space is exhausted.
+  - Hill climbing search: It is a search strategy that moves from the current state to a better state according to the heuristic function, and stops when the goal state is found or no better state is available.
+  - Simulated annealing search: It is a search strategy that moves from the current state to a better state or a worse state with some probability, and stops when the goal state is found or the temperature parameter reaches zero.
+  - Genetic algorithm: It is a search strategy that mimics the natural process of evolution and uses a population of candidate solutions that are encoded as chromosomes, and applies genetic operators such as selection, crossover, and mutation to generate new solutions, and stops when the goal state is found or a termination criterion is met.

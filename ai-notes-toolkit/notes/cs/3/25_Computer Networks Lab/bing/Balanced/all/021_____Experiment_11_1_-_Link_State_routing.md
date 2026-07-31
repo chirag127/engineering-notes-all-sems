@@ -1,0 +1,7 @@
+# Experiment 11.1 - Link State Routing
+
+- Link state routing is a type of routing algorithm that uses the information about the state of each link (such as bandwidth, delay, cost, etc.) to calculate the shortest path from one node to every other node in the network.
+- Link state routing is also known as Dijkstra's algorithm, which is an iterative algorithm that finds the least cost path for a given destination node after each iteration.
+- Link state routing requires each node to construct a map of the network topology, in the form of a graph, by exchanging messages with other nodes. Each node then independently computes the best next hop for each destination using the graph.
+- Link state routing protocols are one of the two main classes of routing protocols used in packet switching networks, the other being distance-vector routing protocols. Examples of link state routing protocols include Open Shortest Path First (OSPF) and Intermediate System to Intermediate System (IS-IS).
+- Link state routing has some advantages over distance-vector routing, such as faster convergence, lower bandwidth consumption, and more accurate routing decisions. However, link state routing also has some disadvantages, such as higher memory and CPU requirements, more complex configuration, and vulnerability to flooding attacks.

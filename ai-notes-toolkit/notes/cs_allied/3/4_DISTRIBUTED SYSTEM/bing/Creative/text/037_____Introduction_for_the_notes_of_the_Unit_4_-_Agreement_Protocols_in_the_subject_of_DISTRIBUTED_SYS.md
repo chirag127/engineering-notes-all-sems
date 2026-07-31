@@ -1,0 +1,22 @@
+### Introduction for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- A distributed system is a collection of independent and geographically dispersed processes that communicate and coordinate their actions by passing messages.
+- Agreement protocols are algorithms that enable the processes in a distributed system to reach a common decision or a consistent state, despite the presence of failures or uncertainties.
+- Agreement protocols are essential for ensuring the correctness, consistency, reliability, and availability of distributed systems.
+- Some examples of agreement problems are:
+  - Consensus: All processes agree on a single value from a set of proposed values.
+  - Atomic commit: All processes agree on whether to commit or abort a distributed transaction.
+  - Byzantine agreement: All processes agree on a single value from a set of proposed values, even if some processes are faulty and may behave arbitrarily.
+  - Leader election: All processes agree on a unique process that acts as the leader or coordinator of the system.
+  - Mutual exclusion: All processes agree on which process has the exclusive access to a shared resource at any given time.
+- Agreement protocols are challenging to design and implement in distributed systems, because of the following issues:
+  - Asynchrony: The processes and the communication channels may have unpredictable delays, making it hard to synchronize and order events.
+  - Partial failure: Some processes or communication channels may fail or become unreachable, while others continue to operate normally.
+  - Non-determinism: The processes and the communication channels may behave in unexpected or random ways, such as losing, duplicating, or reordering messages.
+  - Adversarial behavior: Some processes may be malicious or corrupted, and may try to disrupt the agreement or mislead other processes.
+- Agreement protocols must satisfy some desirable properties, such as:
+  - Validity: The agreed value must be one of the proposed values.
+  - Agreement: All correct processes must agree on the same value.
+  - Termination: All correct processes must eventually decide on a value.
+  - Fault-tolerance: The protocol must work correctly even if some processes or communication channels fail or behave maliciously.
+  - Efficiency: The protocol must use a reasonable amount of time, space, and communication resources.

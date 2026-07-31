@@ -1,0 +1,25 @@
+# IOT based Manhole Detection and Monitoring System
+
+- A drainage monitoring system plays a significant role in keeping towns and cities healthy and clean. Most of the manholes are open without any observations that cause accidents. In India, many cities adopted emptying underground system because it is vital.
+- IOT based manhole detection and monitoring system is a project that aims to prevent such accidents and improve the management and maintenance of the manholes. It uses sensors to detect and send alerts to authorities via GSM and GPS module when any manhole crosses its threshold values .
+- The system consists of the following components:
+  - Arduino Uno: It is the microcontroller that controls the sensors and the communication modules.
+  - Ultrasonic sensor: It is used to measure the water level in the manhole and detect any blockage or overflow.
+  - Gas sensor: It is used to detect any toxic gases in the manhole and alert the workers or the public.
+  - Temperature sensor: It is used to measure the temperature in the manhole and prevent any fire hazards.
+  - GSM module: It is used to send SMS alerts to the authorities or the workers with the location and the status of the manhole.
+  - GPS module: It is used to get the coordinates of the manhole and send them along with the SMS alerts.
+  - LCD display: It is used to show the readings of the sensors and the status of the manhole.
+  - Buzzer: It is used to produce an audible alarm when any threshold value is crossed.
+- The system works as follows:
+  - The sensors are installed in the manhole and connected to the Arduino Uno.
+  - The Arduino Uno reads the data from the sensors and compares them with the predefined threshold values.
+  - If any threshold value is crossed, the Arduino Uno activates the buzzer and the GSM module.
+  - The GSM module sends an SMS alert to the predefined number with the location and the status of the manhole.
+  - The GPS module provides the location of the manhole by sending the coordinates to the GSM module.
+  - The LCD display shows the readings of the sensors and the status of the manhole.
+- The advantages of the system are:
+  - It reduces the death risk of manual scavengers who clean the underground drainage and also benefits the public.
+  - It prevents urban floods caused by poor management and monitoring of the manholes.
+  - It saves time and resources by providing real-time information and alerts to the authorities.
+  - It is low cost, low maintenance, and easy to install .

@@ -1,0 +1,25 @@
+### Inflorescence
+
+- An inflorescence is the arrangement of a cluster of flowers on a floral axis or peduncle.
+- The inflorescence can be classified into four types based on the mode of development and arrangement of flowers  :
+  - Racemose inflorescence (Indeterminate inflorescence): The main axis or peduncle continues to grow and produces flowers laterally in an acropetal succession (from base to apex). The flowers do not have pedicels (stalks) or have very short ones  .
+    - Examples of racemose inflorescence are:
+      - Raceme: The peduncle is unbranched and bears flowers with pedicels of equal length. Example: Mustard, Radish .
+      - Spike: The peduncle is unbranched and bears sessile flowers (without pedicels). Example: Achyranthes, Amaranthus .
+      - Spikelet: The peduncle is branched and bears small spikes called spikelets. Example: Members of Poaceae (Gramineae or grass family) .
+      - Catkin: The peduncle is unbranched and bears unisexual, apetalous and often deciduous flowers. Example: Mulberry, Birch.
+      - Corymb: The peduncle is branched and bears flowers with pedicels of different lengths, such that the flowers are at the same level. Example: Candytuft, Hawthorn.
+      - Umbel: The peduncle is branched and bears flowers with pedicels of equal length, arising from a common point. Example: Onion, Coriander.
+      - Head or capitulum: The peduncle is flattened and bears sessile flowers, surrounded by a ring of bracts called involucre. Example: Sunflower, Marigold.
+      - Spadix: The peduncle is fleshy and bears sessile flowers, enclosed by a large, often coloured bract called spathe. Example: Banana, Anthurium.
+      - Hypanthodium: The peduncle is hollow and bears sessile flowers on the inner wall, with an apical opening guarded by bracts. Example: Fig, Ficus.
+      - Cyathium: The peduncle bears a cup-shaped involucre, enclosing a single female flower and several male flowers. Example: Euphorbia, Poinsettia.
+      - Verticillaster: The peduncle bears two opposite cymes in the axils of opposite leaves, forming a false whorl. Example: Salvia, Ocimum.
+  - Cymose inflorescence (Determinate inflorescence): The main axis or peduncle terminates in a flower and produces lateral branches that also end in flowers. The flowers are produced in a basipetal succession (from apex to base)  .
+    - Examples of cymose inflorescence are:
+      - Monochasial cyme: The main axis produces a single lateral branch that ends in a flower. The lateral branch may produce another branch of the same type, forming a helicoid cyme (scorpioid cyme) or a drepanium. Example: Heliotropium, Begonia.
+      - Dichasial cyme: The main axis produces two lateral branches that end in flowers. The lateral branches may produce two more branches of the same type, forming a dichotomous cyme. Example: Jasmine, Calotropis.
+      - Polychasial cyme: The main axis produces more than two lateral branches that end in flowers. The lateral branches may produce more branches of the same type, forming a multiparous cyme. Example: Nerium, Vinca.
+  - Special types of inflorescence: These are modified forms of racemose or cymose inflorescence that do not fit into the above categories .
+    - Examples of special types of inflorescence are:
+      - Compound umbel: The peduncle

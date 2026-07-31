@@ -1,0 +1,25 @@
+## Unit 8 - Use case 3
+
+- Use case 3 is about designing and implementing a chatbot that can answer questions about a company's products and services.
+- The chatbot should be able to:
+  - Greet the user and introduce itself.
+  - Understand the user's intent and extract relevant information from the user's message.
+  - Provide accurate and relevant answers to the user's questions based on the company's data and knowledge base.
+  - Handle common scenarios such as clarifying, confirming, correcting, and redirecting the user's queries.
+  - Provide suggestions and recommendations to the user based on the user's preferences and needs.
+  - Handle errors and exceptions gracefully and politely.
+  - End the conversation with a thank you message and a feedback request.
+- The chatbot should follow the best practices of conversational design, such as:
+  - Using natural language and a consistent tone and style.
+  - Providing clear and concise responses that avoid jargon and ambiguity.
+  - Using appropriate feedback and confirmation mechanisms to ensure mutual understanding.
+  - Using contextual and personalized information to enhance the user experience.
+  - Providing multiple options and alternatives to the user when possible.
+  - Using rich media such as images, videos, links, and buttons to make the conversation more engaging and interactive.
+  - Using fallback strategies and graceful degradation to handle unexpected or unsupported user inputs.
+- The chatbot should be evaluated based on the following criteria:
+  - Accuracy: The chatbot should provide correct and relevant answers to the user's questions.
+  - Completeness: The chatbot should cover all the possible user intents and scenarios related to the company's products and services.
+  - Usability: The chatbot should be easy to use and understand by the user.
+  - Satisfaction: The chatbot should meet or exceed the user's expectations and needs.
+  - Engagement: The chatbot should keep the user interested and motivated to continue the conversation.

@@ -1,0 +1,8 @@
+# Chemicals, Synthesis of typical organic compounds by conventional and Green route (Adipic acid)
+
+- Adipic acid is a dicarboxylic acid with the formula HOOC(CH2)4COOH. It is mainly used as a precursor for the production of nylon 6,6.
+- The conventional route of synthesis of adipic acid involves the oxidation of benzene with nitric acid to produce nitrobenzene, followed by hydrogenation to give cyclohexane, and then air oxidation to form cyclohexanone and cyclohexanol (KA oil), which are then oxidized with nitric acid to yield adipic acid .
+- The conventional route has several drawbacks, such as the use of hazardous nitric acid, the generation of large amounts of nitrous oxide (a greenhouse gas), and the low atom economy and selectivity of the reactions .
+- The green route of synthesis of adipic acid aims to use renewable biomass as the starting material, such as glucose, and to employ more environmentally benign catalysts and oxidants .
+- One example of the green route is the two-step transformation of glucose into adipic acid via glucaric acid, as reported by Wang et al. In the first step, glucose is oxidized to glucaric acid by carbon nanotube-supported platinum nanoparticles in water under mild conditions. In the second step, glucaric acid is dehydrated to adipic acid by a solid acid catalyst, such as Amberlyst-15, in a solvent-free system.
+- The green route has several advantages, such as the use of renewable and abundant glucose, the avoidance of nitric acid and nitrous oxide emissions, and the high yield and selectivity of the reactions .

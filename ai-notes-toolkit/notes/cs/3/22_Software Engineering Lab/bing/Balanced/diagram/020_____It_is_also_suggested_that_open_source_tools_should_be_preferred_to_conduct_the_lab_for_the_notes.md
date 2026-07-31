@@ -1,0 +1,21 @@
+### It is also suggested that open source tools should be preferred to conduct the lab for the notes of the Unit 1 - Introduction of Software Engineering Lab in the subject of Software Engineering Lab
+
+- Open source tools are software tools that have their source code available for free for use and modification over the original design.
+- Open source tools have many advantages for software engineering lab, such as:
+  - Lowering equipment costs by making your own hardware.
+  - Enhancing the reproducibility and transparency of your experiments.
+  - Customizing the tools to fit your specific needs and preferences.
+  - Collaborating and sharing your work with other researchers and developers.
+  - Learning from the best practices and feedback of the open source community.
+- Some examples of open source tools that can be used for software engineering lab are:
+  - Tekton: an open source framework for creating CI/CD systems, allowing developers to build, test, and deploy.
+  - Jenkins: a free and open source automation server that can be used for continuous integration and delivery of software projects.
+  - CMake: an open source system-agnostic software used for building automation of programs written in C and Cxx languages.
+  - SciLab: a free and open source software for numerical computation providing a powerful computing environment for engineering and scientific applications.
+  - GNU Radio: a free and open source software development toolkit that provides signal processing blocks to implement software radios.
+- To use open source tools for software engineering lab, you need to:
+  - Install the required software and hardware components on your device or system.
+  - Follow the documentation and tutorials provided by the tool developers or the open source community.
+  - Experiment with the tool features and functionalities to achieve your desired outcomes.
+  - Report any bugs, issues, or suggestions to the tool developers or the open source community.
+  - Contribute to the improvement and development of the tool by sharing your code, feedback, or ideas.

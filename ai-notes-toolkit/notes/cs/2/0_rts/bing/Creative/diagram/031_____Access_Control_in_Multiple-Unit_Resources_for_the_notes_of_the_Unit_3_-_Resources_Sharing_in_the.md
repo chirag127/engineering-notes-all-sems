@@ -1,0 +1,13 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on the topic of access control in multiple-unit resources for real time systems:
+
+### Access Control in Multiple-Unit Resources
+
+- A multiple-unit resource is a resource that can be used by more than one job at a time, such as a disk, a printer, or a network interface.
+- A multiple-unit resource can be modeled as having many units, each used in a non-preemptive and mutually exclusive manner. Resources are serially reusable, meaning that they can be used by different jobs in sequence.
+- Access to multiple-unit resources is controlled using locks. Jobs attempt to lock a resource before starting to use it, and unlock the resource afterwards. The time the resource is locked is the critical section.
+- The challenge of access control in multiple-unit resources is to prevent deadlock and priority inversion, while ensuring schedulability and optimality of the system.
+- Deadlock occurs when a set of jobs are waiting for each other to release resources, and none of them can proceed. Priority inversion occurs when a high-priority job is blocked by a low-priority job that holds a resource.
+- There are different protocols for access control in multiple-unit resources, such as:
+  - The Highest Locker Protocol (HLP): A job can lock a resource only if its priority is higher than or equal to the highest priority of any job that currently holds a lock on the resource. This protocol prevents deadlock and priority inversion, but may cause blocking and reduced schedulability.
+  - The Priority Ceiling Protocol (PCP): Each resource is assigned a priority ceiling, which is the highest priority of any job that may lock the resource. A job can lock a resource only if its priority is higher than the priority ceilings of all the resources currently locked by other jobs. This protocol prevents deadlock and priority inversion, and bounds the blocking time of each job by the maximum length of a critical section.
+  - The Preemption Ceiling Protocol (PRCP): Each resource is assigned a preemption ceiling, which is the highest priority of any job that may lock the resource. A job that locks a resource inherits the preemption ceiling of the resource, and cannot be preempted by any job with a lower priority. This protocol prevents deadlock and priority inversion, and reduces the number of preemptions and context switches.

@@ -1,0 +1,13 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is some content on the topic of fault-tolerant services for replication in distributed systems:
+
+### Fault-tolerant services for replication in distributed systems
+
+- Fault-tolerance is the ability of a system to continue functioning correctly even in the presence of failures, such as server crashes, network partitions, or malicious attacks.
+- Replication is a technique to enhance fault-tolerance by creating and maintaining multiple copies of the same service or data across different nodes in a distributed system.
+- Replication can improve availability, performance, and reliability of a service, but also introduces challenges such as consistency, concurrency, and coordination among replicas.
+- There are two main classes of replication techniques: primary-backup replication and active replication.
+  - Primary-backup replication: One replica is designated as the primary, which receives and executes all requests from clients, and updates the other replicas, called backups, asynchronously or synchronously. The backups only take over the role of the primary when the primary fails or is suspected to have failed.
+  - Active replication: All replicas receive and execute the same requests from clients in the same order, and produce the same results. There is no distinction between primary and backups, and any replica can respond to clients. Active replication requires more communication and computation than primary-backup replication, but can tolerate more failures and provide faster recovery.
+- The correctness criterion for replicated services is linearizability, which means that the service behaves as if there is a single copy that processes requests atomically and in the order they are received by the system. Linearizability ensures that clients see a consistent and up-to-date view of the service state, regardless of which replica they interact with.
+- To achieve linearizability, replicas need to agree on the order of requests and the state of the service. This can be done by using consensus protocols, such as Paxos or Raft, or by using logical clocks, such as vector clocks or Lamport timestamps, to assign a unique and monotonically increasing identifier to each request.
+- There are trade-offs between different replication techniques and consistency models, depending on the system requirements, such as latency, throughput, fault-tolerance, and scalability. For example, synchronous replication can ensure strong consistency, but may incur higher latency and lower availability than asynchronous replication, which can allow weaker consistency, such as eventual or causal consistency.

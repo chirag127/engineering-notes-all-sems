@@ -1,0 +1,7 @@
+### Applications for the notes of the Unit 3 - Coding a sequence in the subject of Data Compression
+
+- Coding a sequence is the process of assigning a unique code to each symbol in a sequence, such that the code can be used to reconstruct the original sequence without any loss of information.
+- Coding a sequence can be used for various applications, such as:
+  - **Data compression**: Coding a sequence can reduce the number of bits required to store or transmit a sequence, by using shorter codes for more frequent symbols and longer codes for less frequent symbols. This can save storage space, bandwidth, and energy. Examples of data compression algorithms that use coding a sequence are Huffman coding, arithmetic coding, and Lempel-Ziv coding.
+  - **Error detection and correction**: Coding a sequence can add redundancy to a sequence, by using codes that have certain properties, such as parity, checksum, or Hamming distance. This can help detect and correct errors that may occur during transmission or storage of a sequence. Examples of error detection and correction codes are cyclic redundancy check (CRC), Hamming code, and Reed-Solomon code.
+  - **Encryption**: Coding a sequence can transform a sequence into a different sequence, by using codes that are based on a secret key or a mathematical function. This can protect the confidentiality, integrity, and authenticity of a sequence. Examples of encryption algorithms that use coding a sequence are substitution cipher, transposition cipher, and stream cipher.

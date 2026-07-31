@@ -1,0 +1,13 @@
+### Atomic and Molecular Structure: Molecular orbital’s of diatomic molecules, Bond Order
+
+Molecular orbital theory provides a better understanding of the structure and properties of diatomic molecules. In this theory, the electrons in the molecule are not assigned to individual atoms, but instead they are distributed over the entire molecule in a way that minimizes the energy of the system. 
+
+Here are the key concepts related to molecular orbital's of diatomic molecules and bond order:
+
+- **Molecular orbitals**: Molecular orbitals are formed by the combination of atomic orbitals. In diatomic molecules, two atomic orbitals combine to form two molecular orbitals - the bonding molecular orbital (𝜈<sub>1s</sub>) and the anti-bonding molecular orbital (𝜈<sub>1s*</sub>).
+- **Bonding molecular orbital**: The bonding molecular orbital is formed by the in-phase combination of atomic orbitals. Electrons in this orbital are attracted to both nuclei, and the molecule is held together by the electrostatic attraction between the nuclei and the electrons.
+- **Anti-bonding molecular orbital**: The anti-bonding molecular orbital is formed by the out-of-phase combination of atomic orbitals. Electrons in this orbital are repelled by both nuclei, and the molecule is destabilized by the electrostatic repulsion between the nuclei and the electrons.
+- **Bond order**: The bond order is the number of electron pairs shared between two atoms in a molecule. It is calculated by subtracting the number of anti-bonding electrons from the number of bonding electrons and dividing by two. Bond order is a measure of the strength of the bond between two atoms.
+- **Bond length**: The bond length is the distance between the two nuclei in a diatomic molecule. It is directly proportional to the bond strength - stronger bonds have shorter bond lengths.
+
+In summary, molecular orbital theory provides a more complete understanding of the bonding in diatomic molecules. The bonding molecular orbital is formed by the in-phase combination of atomic orbitals, while the anti-bonding molecular orbital is formed by the out-of-phase combination of atomic orbitals. The bond order is a measure of the strength of the bond between two atoms, and it is calculated by subtracting the number of anti-bonding electrons from the number of bonding electrons and dividing by two. Bond length is directly proportional to bond strength.

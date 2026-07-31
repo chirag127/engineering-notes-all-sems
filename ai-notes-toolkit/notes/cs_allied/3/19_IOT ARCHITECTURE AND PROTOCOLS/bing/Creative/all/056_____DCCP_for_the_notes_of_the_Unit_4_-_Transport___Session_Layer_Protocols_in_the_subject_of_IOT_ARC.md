@@ -1,0 +1,29 @@
+# DCCP
+
+- DCCP stands for **Datagram Congestion Control Protocol** .
+- It is a **message-oriented** transport layer protocol that provides **bidirectional unicast** connections of **congestion-controlled unreliable datagrams** .
+- It is suitable for applications that transfer fairly large amounts of data, but can benefit from control over the tradeoff between **timeliness and reliability**.
+- It implements reliable connection setup, teardown, Explicit Congestion Notification (ECN), congestion control, and feature negotiation .
+- It supports different types of congestion control algorithms, such as TCP-like, TCP-friendly, and TFRC .
+- It uses a packet header format that is similar to TCP, but with some differences, such as a 48-bit sequence number, a 24-bit acknowledgment number, and a 16-bit service code .
+- It uses two types of packets: **DCCP-Request** and **DCCP-Response** for connection initiation, and **DCCP-Data** and **DCCP-Ack** for data transfer and acknowledgment .
+- It uses a four-way handshake to establish a connection, and a three-way handshake to close a connection .
+- It uses a feature negotiation mechanism to allow the endpoints to agree on the parameters and options of the connection, such as the congestion control algorithm, the ECN capability, and the checksum coverage .
+- It uses a state machine to manage the connection states, such as **CLOSED**, **LISTEN**, **REQUEST**, **RESPOND**, **PARTOPEN**, **OPEN**, **CLOSEREQ**, and **TIMEWAIT** .
+- It uses a congestion control identifier (CCID) to specify the congestion control algorithm for each direction of the connection .
+- It uses a window counter (W) to indicate the number of packets sent or received in each congestion window .
+- It uses a reset code (R) to indicate the reason for resetting the connection, such as **Aborted**, **No Connection**, **Packet Error**, **Option Error**, **Mandatory Error**, **Connection Refused**, **Bad Service Code**, **Too Busy**, **Bad Init Cookie**, **Aggression Penalty**, and **Feature Negotiation Failed** .
+- It uses a generic header option format that consists of a type field, a length field, and a data field .
+- It uses a checksum to detect errors in the packet header and payload .
+- It uses a partial checksum coverage option to allow the endpoints to specify the parts of the packet that are covered by the checksum .
+- It uses a change option and a confirm option to negotiate the features of the connection .
+- It uses a data dropped option to inform the receiver about the packets that are dropped by the sender due to congestion .
+- It uses a timestamp option and a timestamp echo option to measure the round-trip time of the connection .
+- It uses a sequence window option and an acknowledgment number window option to specify the size of the sequence number space and the acknowledgment number space .
+- It uses a padding option to fill the unused space in the packet header .
+- It uses a mandatory option to indicate that the option must be understood and processed by the receiver .
+- It uses a slow receiver option to indicate that the receiver is experiencing a high packet loss rate or a low processing rate .
+- It uses a service code option to specify the service class of the connection, such as **Best Effort**, **Priority**, **Expedited Forwarding**, or **Assured Forwarding** .
+- It uses a init cookie option and a cookie option to prevent connection flooding attacks .
+- It uses a send acknowledgment option and a acknowledgment vector option to acknowledge the received packets .
+- It

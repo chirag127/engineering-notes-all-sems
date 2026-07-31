@@ -1,0 +1,22 @@
+# Likelihood Distortions for Speech Analysis
+
+- Likelihood distortions are measures of the similarity or dissimilarity between two short-time spectra of speech signals.
+- They are used to compare the spectral features of speech signals for speech recognition, enhancement, coding, and synthesis applications.
+- There are different types of likelihood distortions, such as:
+  - Log likelihood ratio (LLR): the negative logarithm of the ratio of the probability densities of the two spectra.
+  - Likelihood ratio (LR): the ratio of the probability densities of the two spectra.
+  - Itakura-Saito (IS): the Kullback-Leibler divergence between the two spectra, which is equivalent to the LLR minus the log of the ratio of the spectral variances.
+  - Cepstral (CEP): the Euclidean distance between the cepstral coefficients of the two spectra.
+  - Weighted likelihood ratio (WLR): the LLR weighted by a perceptual weighting function that emphasizes the spectral regions that are more important for speech perception.
+  - Weighted slope metric (WSM): the Euclidean distance between the slopes of the two spectra weighted by a perceptual weighting function.
+- The choice of the likelihood distortion measure depends on the application and the characteristics of the speech signals.
+- Some factors that affect the performance of the likelihood distortion measures are:
+  - The spectral resolution and the window size of the short-time analysis.
+  - The presence of noise and channel distortions in the speech signals.
+  - The use of frequency warping and spectral normalization techniques to reduce the effects of vocal tract length and speaker variability.
+  - The use of suprasegmental information, such as energy, gain, and loudness, to complement the spectral information.
+- According to a comparative study of several distortion measures for speech recognition , some of the findings are:
+  - The LLR and WSM distortion measures gave the highest recognition accuracy, while the IS distortion measure gave the lowest score.
+  - The addition of suprasegmental energy information helped the recognition performance, while the use of gain and absolute loudness degraded the performance.
+  - Bark-scale frequency warping did not perform as well as its unwarped counterpart for the highly bandlimited telephone data base tested.
+  - The WLR distortion measure did not perform as well as its unweighted counterpart.

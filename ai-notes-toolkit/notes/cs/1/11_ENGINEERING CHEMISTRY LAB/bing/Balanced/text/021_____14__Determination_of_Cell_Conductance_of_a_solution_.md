@@ -1,0 +1,12 @@
+### 14. Determination of Cell Conductance of a solution.
+
+- Cell conductance is the measure of the ability of a solution to conduct electric current through it.
+- Cell conductance depends on the concentration, type and mobility of the ions present in the solution, as well as the temperature and the geometry of the cell.
+- Cell conductance is measured by applying an alternating current (AC) of known frequency and amplitude to the cell and measuring the resulting voltage drop across the cell.
+- Cell conductance is related to the cell resistance by the equation: `G = 1/R`, where `G` is the cell conductance, `R` is the cell resistance, and `1` is the unit of conductance (siemens or S).
+- Cell conductance can be expressed as the product of the cell constant and the specific conductance of the solution: `G = k x C`, where `k` is the cell constant, `C` is the specific conductance of the solution, and `x` is the multiplication sign.
+- The cell constant is a characteristic of the cell geometry and is defined as the ratio of the distance between the electrodes to the cross-sectional area of the electrodes: `k = l/A`, where `l` is the distance between the electrodes, `A` is the cross-sectional area of the electrodes, and `/` is the division sign.
+- The specific conductance of the solution is a characteristic of the solution and is defined as the conductance of a unit volume of the solution: `C = G/V`, where `V` is the volume of the solution, and `G` is the cell conductance.
+- The specific conductance of the solution can be calculated from the equivalent conductance of the solution and the concentration of the solution: `C = L x M`, where `L` is the equivalent conductance of the solution, `M` is the concentration of the solution in equivalents per liter, and `x` is the multiplication sign.
+- The equivalent conductance of the solution is the conductance of a solution containing one equivalent of the solute: `L = G x V/E`, where `E` is the number of equivalents of the solute in the solution, and `x` is the multiplication sign.
+- The equivalent conductance of the solution can be determined experimentally by measuring the cell conductance of a series of solutions of known concentration and plotting the equivalent conductance versus the square root of the concentration. The equivalent conductance at zero concentration (or infinite dilution) can be obtained by extrapolating the plot to the y-axis.

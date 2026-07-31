@@ -1,0 +1,29 @@
+### Disk Storage and Disk Scheduling
+
+- Disk storage is a type of secondary storage that uses magnetic or optical disks to store data permanently or semi-permanently.
+- Disk storage devices include hard disk drives (HDDs), floppy disk drives (FDDs), optical disk drives (ODDs), solid state drives (SSDs), etc.
+- Disk storage devices have two main characteristics: capacity and performance.
+- Capacity is the amount of data that can be stored on a disk, measured in bytes or multiples of bytes (KB, MB, GB, TB, etc.).
+- Performance is the speed at which data can be read from or written to a disk, measured in terms of transfer rate, access time, latency, and throughput.
+- Transfer rate is the rate at which data can be transferred between the disk and the main memory, measured in bits per second (bps) or multiples of bps (Kbps, Mbps, Gbps, etc.).
+- Access time is the time required to locate and retrieve a block of data from the disk, measured in milliseconds (ms) or microseconds (µs).
+- Access time consists of two components: seek time and rotational latency.
+- Seek time is the time required to move the read/write head to the desired track on the disk, measured in ms or µs.
+- Rotational latency is the time required to rotate the disk until the desired sector is under the read/write head, measured in ms or µs.
+- Throughput is the amount of data that can be transferred in a given time interval, measured in bytes per second (Bps) or multiples of Bps (KBps, MBps, GBps, etc.).
+- Throughput depends on the transfer rate, the access time, and the size of the data blocks.
+- Disk scheduling is a technique used by the operating system to schedule multiple requests for accessing the disk.
+- Disk scheduling is also known as I/O scheduling or disk request scheduling.
+- Disk scheduling is important because:
+  - Multiple I/O requests may arrive by different processes and only one I/O request can be served at a time by the disk controller.
+  - Thus other I/O requests need to wait in the waiting queue and need to be scheduled.
+  - Disk scheduling aims to reduce the total seek time, which is the sum of the seek times for all the I/O requests in the queue.
+  - Reducing the total seek time can improve the disk performance and the system performance.
+- Disk scheduling algorithms are the algorithms used for disk scheduling.
+- The purpose of disk scheduling algorithms is to reduce the total seek time by selecting an optimal order of servicing the I/O requests in the queue.
+- Some of the common disk scheduling algorithms are:
+  - First In First Out (FIFO) or First Come First Served (FCFS): This algorithm services the I/O requests in the order of their arrival in the queue. It is simple and fair, but it does not minimize the total seek time.
+  - Shortest Seek Time First (SSTF): This algorithm services the I/O request that is closest to the current position of the read/write head. It minimizes the average seek time, but it may cause starvation for some requests that are far away from the head.
+  - SCAN or Elevator: This algorithm services the I/O requests in one direction until it reaches the end of the disk, then it reverses the direction and services the requests in the other direction. It avoids starvation and provides a more uniform service time, but it may cause a long waiting time for some requests at the ends of the disk.
+  - C-SCAN or Circular SCAN: This algorithm is similar to SCAN, but instead of reversing the direction at the ends of the disk, it jumps to the other end and continues in the same direction. It provides a more fair service time for the requests at the ends of the disk, but it may cause a longer average seek time than SCAN.
+  - LOOK and C-LOOK: These algorithms are variations of SCAN and C-SCAN, but they do not go to the ends of the disk, instead they change the direction or jump to the other end when there are no more requests in the current direction. They reduce the unnecessary head movements and improve the performance of SCAN and C-SCAN.

@@ -1,0 +1,14 @@
+### Types of layers in artificial neural networks
+
+- Artificial neural networks (ANNs) are computational models that mimic the structure and function of biological neurons and their connections.
+- ANNs consist of layers of nodes, also called artificial neurons, that can process and transmit information.
+- Based on the position in a neural network, there are three types of layers :
+  - Input layer: This is the first layer in a neural network that receives input data and passes it on to the next layer. The input layer does not perform any computation, but only acts as a placeholder for the input features.
+  - Hidden layer: This is any layer between the input and output layers that can perform some computation on the input data. Hidden layers can be found in almost every type of neural network except some single-layer types like perceptron. Hidden layers can have different architectures and functions, such as fully connected, convolutional, recurrent, etc.
+  - Output layer: This is the last layer in a neural network that produces the final output or prediction. The output layer can have different activation functions depending on the type of task, such as linear, sigmoid, softmax, etc.
+- Based on the function and architecture, there are several types of layers that can be used in hidden or output layers :
+  - Fully connected layer: This is the most common type of layer that connects every neuron in one layer to every neuron in the next layer. Fully connected layers can perform linear or nonlinear transformations on the input data and learn complex patterns and features.
+  - Convolutional layer: This is a type of layer that applies a set of filters or kernels to the input data, usually in the form of images or tensors. Convolutional layers can extract local features and spatial information from the input data and reduce the number of parameters and computations.
+  - Pooling layer: This is a type of layer that reduces the size and dimensionality of the input data by applying a pooling operation, such as max, average, or sum, to a region of the input. Pooling layers can improve the efficiency and robustness of the neural network and prevent overfitting.
+  - Recurrent layer: This is a type of layer that has a feedback loop that allows the neurons to store and reuse information from previous time steps. Recurrent layers can process sequential data, such as text, speech, or video, and capture temporal dependencies and long-term dependencies.
+  - Normalization layer: This is a type of layer that normalizes the input data by adjusting its mean and variance or by scaling it to a certain range. Normalization layers can improve the stability and performance of the neural network and prevent gradient vanishing or exploding.

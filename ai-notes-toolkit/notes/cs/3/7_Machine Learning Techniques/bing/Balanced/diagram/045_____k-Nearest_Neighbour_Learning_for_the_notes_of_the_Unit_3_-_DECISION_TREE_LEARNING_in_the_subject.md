@@ -1,0 +1,25 @@
+### k-Nearest Neighbour Learning
+
+- k-Nearest Neighbour (k-NN) is a supervised learning algorithm that can be used for both classification and regression tasks   .
+- k-NN is based on the idea of proximity, which means that the label of a new data point is predicted by looking at the labels of its k closest neighbours in the training data set   .
+- k-NN is a non-parametric algorithm, which means that it does not make any assumptions about the underlying distribution of the data .
+- k-NN is also a lazy algorithm, which means that it does not learn any model from the training data, but rather stores the entire data set and performs the prediction only when a new data point is given .
+- The steps of k-NN algorithm are as follows :
+  - Choose a value for k, which is the number of neighbours to consider.
+  - Calculate the distance between the new data point and all the training data points using a suitable distance metric, such as Euclidean, Manhattan, or Minkowski distance.
+  - Sort the distances in ascending order and select the k nearest data points.
+  - For classification, assign the label of the new data point to the majority class among the k neighbours. For regression, assign the label of the new data point to the mean or median value of the k neighbours.
+  - Return the predicted label of the new data point.
+- The advantages of k-NN algorithm are   :
+  - It is simple and easy to implement.
+  - It can handle multi-class problems and non-linear boundaries.
+  - It is robust to noisy data and outliers.
+- The disadvantages of k-NN algorithm are   :
+  - It is computationally expensive and slow, as it requires calculating the distance to all the training data points for each prediction.
+  - It is sensitive to the choice of k and the distance metric, which can affect the accuracy and performance of the algorithm.
+  - It is not suitable for high-dimensional data, as the distance measure becomes less meaningful and the curse of dimensionality occurs.
+- Some applications of k-NN algorithm are   :
+  - Pattern recognition and image classification
+  - Data mining and anomaly detection
+  - Recommender systems and text classification
+  - Medical diagnosis and gene expression analysis

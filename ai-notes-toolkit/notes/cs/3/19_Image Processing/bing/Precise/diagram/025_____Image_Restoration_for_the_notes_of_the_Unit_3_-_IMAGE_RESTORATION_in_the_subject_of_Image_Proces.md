@@ -1,0 +1,5 @@
+### Image Restoration
+
+Image restoration is the process of taking a corrupt or noisy image and estimating the clean, original image. Corruption may come in many forms such as motion blur, noise, and camera mis-focus. Image restoration is an appreciable service to recover digital photos and digital assets. Numerous and varied functions can redefine experiences and make them free from any sort of deterioration. Many factors such as age, water, and dust can make images dull and drab over the years.
+
+There are several tools and techniques available for image restoration, including AI-powered solutions and software such as Adobe Photoshop. These tools can automatically remove scratches, sharpen colors, and enhance faces, transforming damaged photos into cherished memories. Image restoration is a helpful discipline originated from photo manipulation to bring back the lost vibe of photos.

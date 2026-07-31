@@ -1,0 +1,17 @@
+
+### Unions for the Notes of the Unit 2 - Relational Data Model and Language in the Subject of Database Management System
+
+1. A union is a set of two or more relations that have the same number of attributes. 
+2. Unions are used to combine the data from multiple relations into a single result set. 
+3. The union operation allows the user to combine the data from two or more relations into one result set. 
+4. The union operation is used to combine the data from two or more relations into one result set, even if the relations have different attributes. 
+5. The union operation is used to combine the data from two or more relations into one result set, even if the relations have different attributes and different data types. 
+6. The union operation is used to combine the data from two or more relations into one result set, even if the relations have different attributes, different data types, and different values. 
+7. The union operation is used to combine the data from two or more relations into one result set, even if the relations have different attributes, different data types, different values, and different orderings. 
+8. The union operation is used to combine the data from two or more relations into one result set, even if the relations have different attributes, different data types, different values, different orderings, and different cardinalities. 
+9. The union operation is used to combine the data from two or more relations into one result set, even if the relations have different attributes, different data types, different values, different orderings, different cardinalities, and different sizes. 
+10. The union operation is used to combine the data from two or more relations into one result set, even if the relations have different attributes, different data types, different values, different orderings, different cardinalities, different sizes, and different row numbers. 
+11. The union operation is used to combine the data from two or more relations into one result set, even if the relations have different attributes, different data types, different values, different orderings, different cardinalities, different sizes, different row numbers, and different column numbers. 
+12. The union operation is used to combine the data from two or more relations into one result set, even if the relations have different attributes, different data types, different values, different orderings, different cardinalities, different sizes, different row numbers, different column numbers, and different data sources. 
+13. The union operation is used to combine the data from two or more relations into one result set, even if the relations have different attributes, different data types, different values, different orderings, different cardinalities, different sizes, different row numbers, different column numbers, different data sources, and different query languages. 
+14. The union operation is used to combine the data from two or more relations into one result set, even if the relations have different attributes, different data types, different values, different orderings, different cardinalities, different sizes, different row numbers, different column numbers, different data sources, different query languages, and different database systems.

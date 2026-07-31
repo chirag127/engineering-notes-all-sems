@@ -1,0 +1,9 @@
+## Advanced Arithmatic
+
+Advanced arithmatic is the branch of mathematics that deals with operations on numbers beyond the basic operations of addition, subtraction, multiplication and division. Some of the topics covered in advanced arithmatic are:
+
+- Exponents and logarithms: Exponents are a way of expressing repeated multiplication of the same number, such as 2^3 = 2 x 2 x 2. Logarithms are the inverse of exponents, such as log2(8) = 3, meaning 2 raised to the power of 3 is 8.
+- Radicals and rational exponents: Radicals are a way of expressing the roots of numbers, such as √(9) = 3, meaning 3 is the square root of 9. Rational exponents are a way of expressing radicals using fractions, such as 9^(1/2) = √(9) = 3.
+- Complex numbers: Complex numbers are numbers that have both a real and an imaginary part, such as 2 + 3i, where i is the imaginary unit, defined as i^2 = -1. Complex numbers can be added, subtracted, multiplied and divided using the rules of arithmatic and the property of i.
+- Modular arithmatic: Modular arithmatic is a way of performing operations on numbers using a fixed modulus, which is a positive integer that determines the range of possible values. For example, in modulo 5 arithmatic, the numbers 0, 1, 2, 3 and 4 are the only possible values, and any operation that results in a number outside this range is reduced by subtracting or adding multiples of 5. For example, 7 mod 5 = 2, meaning 7 is equivalent to 2 in modulo 5 arithmatic.
+- Number theory: Number theory is the study of the properties and relationships of integers, such as divisibility, prime numbers, congruences, Diophantine equations, cryptography and more. Number theory uses advanced arithmatic techniques to prove theorems and solve problems involving integers.

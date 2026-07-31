@@ -1,0 +1,9 @@
+### Kannada Literature
+
+Kannada literature is the body of written works in the Kannada language, a member of the Dravidian family spoken mainly in the Indian state of Karnataka. The Kannada script is the writing system used in Kannada literature. Kannada literature has a rich and long history, dating back to the 6th century AD. Some of the main features of Kannada literature are:
+
+- Kannada literature can be divided into four main periods: ancient (6th to 13th century), medieval (14th to 18th century), modern (19th to 20th century) and contemporary (21st century).
+- Kannada literature covers a wide range of topics, including grammar, philosophy, prosody, rhetoric, chronicles, biography, history, drama, cuisine, dictionaries and encyclopedias. It also has works on scientific subjects such as medicine, mathematics and astrology.
+- Kannada literature has produced many eminent poets, writers and scholars, such as Pampa, Ranna, Harihara, Basavanna, Akka Mahadevi, Kumara Vyasa, Sarvajna, Purandara Dasa, Kanaka Dasa, Raghavanka, Kuvempu, Bendre, Shivaram Karanth, U.R. Ananthamurthy, Girish Karnad, Chandrashekhara Kambara and many others.
+- Kannada literature has been influenced by various literary traditions, such as Jainism, Shaivism, Vaishnavism, Bhakti, Veerashaivism, Haridasa, Vachana, Navya, Dalit, Bandaya, Navodaya and others. It has also been influenced by other languages and cultures, such as Sanskrit, Prakrit, Tamil, Telugu, Malayalam, Persian, Arabic, English and others.
+- Kannada literature has been recognized and awarded by various national and international institutions, such as the Sahitya Akademi, the Jnanpith Award, the Padma Shri, the Padma Vibhushan, the Bharatiya Gnanpith and the Nobel Prize. Kannada is also one of the 22 official languages of India and one of the classical languages of India.

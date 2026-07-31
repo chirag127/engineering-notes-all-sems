@@ -1,0 +1,9 @@
+# Virtualization Support and Disaster Recovery
+
+- Virtualization is the process of creating virtual versions of physical resources, such as servers, storage, networks, and applications, that can run on a single or multiple physical machines.
+- Virtualization can support and bolster disaster recovery strategy in the following ways   :
+  - Simplify backup storage: Virtualization enables the creation of snapshots and clones of virtual machines (VMs) that can be stored on different media and locations, following the 3-2-1 rule of backup (three copies of data, on two different media, with one copy offsite).
+  - Reduce recovery time: Virtualization allows for faster and easier restoration of VMs from backups, as they are independent of the underlying hardware and can run on any compatible hypervisor. This eliminates the need to reinstall operating systems, applications, and data on physical servers.
+  - Enhance testing and verification: Virtualization enables the creation of isolated and sandboxed environments where backups can be tested and verified for integrity and functionality, without affecting the production systems or consuming additional resources.
+  - Improve scalability and flexibility: Virtualization allows for the creation of multiple VMs with different configurations and capacities, depending on the recovery needs and objectives. This enables the organization to scale up or down the resources at the disaster recovery site, as well as to migrate VMs across different locations and platforms, as needed.
+  - Lower costs and risks: Virtualization reduces the capital and operational expenses of maintaining a disaster recovery site, as it requires less physical hardware, power, cooling, and space. It also reduces the risks of data loss, corruption, or theft, as the backups are encrypted and stored securely in the cloud or offsite locations.

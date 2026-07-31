@@ -1,0 +1,22 @@
+# Humour for the notes of the Unit 3 - Technical Presentation in the subject of Technical Communication
+
+- Humour is the use of language, gestures, images, or sounds to evoke amusement, laughter, or enjoyment in the audience.
+- Humour can be an effective tool to enhance a technical presentation, as it can:
+  - Capture and maintain the audience's attention
+  - Create a rapport and connection with the audience
+  - Make the presentation more memorable and persuasive
+  - Reduce the boredom and complexity of the technical topic
+  - Relieve the tension and stress of the speaker and the audience
+- However, humour can also backfire if it is inappropriate, offensive, irrelevant, or overdone. Therefore, the speaker should follow some guidelines to use humour effectively in a technical presentation, such as:
+  - Know the audience and the context: The speaker should tailor the humour to suit the audience's background, expectations, and preferences, and avoid any jokes that may be insensitive, disrespectful, or controversial. The speaker should also consider the purpose, tone, and setting of the presentation, and avoid humour that may be too informal, casual, or distracting.
+  - Use humour sparingly and strategically: The speaker should not overuse humour or force it into the presentation. The speaker should use humour only when it supports the main message, reinforces a key point, or transitions between topics. The speaker should also avoid humour that may confuse, contradict, or undermine the credibility of the presentation.
+  - Use humour that is relevant and original: The speaker should use humour that is related to the topic, the audience, or the speaker's own experience. The speaker should avoid humour that is clichéd, outdated, or borrowed from other sources. The speaker should also use humour that is creative, surprising, or witty, and avoid humour that is predictable, obvious, or dull.
+  - Use humour that is appropriate and respectful: The speaker should use humour that is polite, positive, and self-deprecating. The speaker should avoid humour that is rude, negative, or aggressive. The speaker should also avoid humour that targets or insults any individual, group, or organization, or that violates any ethical or professional standards.
+  - Use humour that is clear and effective: The speaker should use humour that is easy to understand, deliver, and appreciate. The speaker should avoid humour that is ambiguous, obscure, or complicated. The speaker should also use humour that is well-timed, well-paced, and well-expressed, and avoid humour that is poorly-timed, poorly-paced, or poorly-expressed.
+- Some examples of humour techniques that can be used in a technical presentation are:
+  - Verbal humour: The speaker can use words, phrases, or sentences that have a humorous effect, such as puns, wordplay, irony, sarcasm, exaggeration, understatement, or rhetorical questions.
+  - Multimedia humour: The speaker can use images, sounds, videos, or animations that have a humorous effect, such as cartoons, memes, gifs, clips, or effects.
+  - Physical humour: The speaker can use gestures, facial expressions, or movements that have a humorous effect, such as mimicking, acting, or demonstrating.
+  - Situational humour: The speaker can use the circumstances, events, or scenarios that have a humorous effect, such as anecdotes, stories, or examples.
+  - Interactive humour: The speaker can use the interaction with the audience or other speakers that have a humorous effect, such as questions, polls, quizzes, or games.
+  - Spontaneous humour: The speaker can use the unexpected or unplanned occurrences that have a humorous effect, such as mistakes, accidents, or coincidences.

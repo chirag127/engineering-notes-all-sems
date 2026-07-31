@@ -1,0 +1,11 @@
+### Interactive Consistency Problem for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- Interactive consistency is the problem in which n distinct nodes, each having its own private value, where up to t may be Byzantine, run an algorithm that allows all non-faulty nodes to infer the values of each other node  .
+- Byzantine nodes are those that can behave arbitrarily, such as sending incorrect or conflicting messages, or remaining silent .
+- Interactive consistency is also known as Byzantine Generals Problem, which is a metaphor for a situation where a group of generals must agree on a common plan of action, while some of them may be traitors .
+- Interactive consistency is a fundamental problem in distributed systems, as it is a prerequisite for achieving consensus, which is the agreement on a single value among all nodes .
+- Interactive consistency is also relevant to critical applications that rely on the combination of the opinions of multiple peers to provide a service, such as voting systems, fault-tolerant control systems, or blockchain systems  .
+- Interactive consistency is a challenging problem, as it requires both communication and computation among nodes, and it must tolerate the presence of faults and adversarial behavior   .
+- Interactive consistency has been studied extensively in the literature, and various algorithms have been proposed to solve it under different assumptions and models, such as synchronous, asynchronous, or partially synchronous systems, or with different types of communication channels, such as reliable, authenticated, or broadcast   .
+- Interactive consistency has some limitations and impossibility results, such as the lower bound on the number of messages required to achieve it, or the impossibility of achieving it in asynchronous systems with only one faulty node   .
+- Interactive consistency has some variants and extensions, such as probabilistic interactive consistency, which allows some probability of error, or generalized interactive consistency, which allows different levels of agreement among nodes   .

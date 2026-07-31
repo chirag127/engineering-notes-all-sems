@@ -1,0 +1,7 @@
+### Unit 8 - MongoDB in the subject of Big Data
+
+1. MongoDB is a relatively new contender in the data storage circle compared to giant like Oracle and IBM DB2, but it has drawn huge attention with its distributed key value store, MapReduce calculation capability and document oriented NoSQL features. Because of its features, MongoDB is The database for Big Data processing.
+2. MongoDB is a document database that provides high performance, high availability, and easy scalability. It is a cross-platform document-oriented database system classified as a NoSQL database, that bridges the gap between key-value and traditional RDBMS systems.
+3. MongoDB is preferred over RDBMS in the following scenarios: Big Data: If you have huge amount of data to be stored in tables, think of MongoDB before RDBMS databases. MongoDB has built-in solution for partitioning and sharding your database.
+4. Big data is the key to building a competitive, highly performant environment which can benefit businesses and customers alike. MongoDB can help at each stage of big data analytics with its host of tools like MongoDB Atlas, MongoDB Atlas Data Lake, and MongoDB Charts.
+5. Big data analytics encompasses modern tools and techniques used to collect, process, and analyze data that is huge in size, fast-changing, diverse, and can generate value for enterprises. Big data is too complex to manage with traditional tools and techniques.

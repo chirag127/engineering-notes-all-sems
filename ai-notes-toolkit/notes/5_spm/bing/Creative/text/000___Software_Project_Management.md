@@ -1,0 +1,8 @@
+# Software Project Management
+
+Software project management is the process of planning, organizing, leading, and controlling software projects. It involves the following activities:
+
+- **Project initiation**: This is the first phase of software project management, where the project scope, objectives, deliverables, stakeholders, and constraints are defined. The project charter, which is a document that summarizes the project vision, goals, and scope, is also created in this phase.
+- **Project planning**: This is the second phase of software project management, where the project activities, resources, schedule, budget, quality, risk, and communication plans are developed. The project plan, which is a document that describes how the project will be executed, monitored, and controlled, is also created in this phase.
+- **Project execution**: This is the third phase of software project management, where the project team performs the tasks and produces the deliverables according to the project plan. The project manager monitors and controls the project performance, quality, scope, schedule, budget, risk, and communication, and reports the project status to the stakeholders.
+- **Project closure**: This is the fourth and final phase of software project management, where the project is formally completed and closed. The project manager verifies that all the project deliverables have been accepted by the stakeholders, and that all the project requirements have been met. The project manager also conducts a project review, where the project outcomes, lessons learned, best practices, and recommendations for future projects are documented and communicated. The project manager also releases the project resources and closes the project contracts.

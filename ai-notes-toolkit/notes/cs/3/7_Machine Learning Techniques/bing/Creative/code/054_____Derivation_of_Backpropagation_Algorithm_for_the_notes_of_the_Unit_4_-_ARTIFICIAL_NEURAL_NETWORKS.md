@@ -1,0 +1,17 @@
+### Derivation of Backpropagation Algorithm
+
+Backpropagation, short for "backward propagation of errors," is an algorithm for supervised learning of artificial neural networks using gradient descent. Given an artificial neural network and an error function, the method calculates the gradient of the error function with respect to the neural network's weights.
+
+The derivation of the backpropagation algorithm is based on the application of the chain rule and product rule in differential calculus. The main idea is to compute the partial derivatives of the error function with respect to each weight in the network, starting from the output layer and moving backwards to the input layer .
+
+The following steps outline the derivation of the backpropagation algorithm for a feedforward neural network with one hidden layer and one output layer :
+
+- Let $x$ be the input vector, $y$ be the target output vector, and $\hat{y}$ be the actual output vector of the network.
+- Let $W^{(1)}$ and $W^{(2)}$ be the weight matrices of the hidden layer and the output layer, respectively. Let $b^{(1)}$ and $b^{(2)}$ be the bias vectors of the hidden layer and the output layer, respectively.
+- Let $z^{(1)} = W^{(1)}x + b^{(1)}$ and $z^{(2)} = W^{(2)}a^{(1)} + b^{(2)}$ be the weighted inputs of the hidden layer and the output layer, respectively. Let $a^{(1)} = f(z^{(1)})$ and $a^{(2)} = f(z^{(2)})$ be the activations of the hidden layer and the output layer, respectively, where $f$ is the activation function.
+- Let $E(y, \hat{y})$ be the error function, which measures the discrepancy between the target output and the actual output. For example, $E(y, \hat{y}) = \frac{1}{2} \|y - \hat{y}\|^2$ is the mean squared error function.
+- The goal of the backpropagation algorithm is to find the gradient of the error function with respect to each weight in the network, i.e., $\frac{\partial E}{\partial W^{(1)}}$, $\frac{\partial E}{\partial W^{(2)}}$, $\frac{\partial E}{\partial b^{(1)}}$, and $\frac{\partial E}{\partial b^{(2)}}$.
+- To do this, we first compute the error terms for each layer, which are the partial derivatives of the error function with respect to the weighted inputs of each layer, i.e., $\delta^{(1)} = \frac{\partial E}{\partial z^{(1)}}$ and $\delta^{(2)} = \frac{\partial E}{\partial z^{(2)}}$.
+- The error term for the output layer can be computed directly by applying the chain rule, i.e., $\delta^{(2)} = \frac{\partial E}{\partial z^{(2)}} = \frac{\partial E}{\partial \hat{y}} \frac{\partial \hat{y}}{\partial z^{(2)}} = \frac{\partial E}{\partial \hat{y}} f'(z^{(2)})$, where $f'$ is the derivative of the activation function.
+- The error term for the hidden layer can be computed by propagating the error term of the output layer backwards, i.e., $\delta^{(1)} = \frac{\partial E}{\partial z^{(1)}} = \frac{\partial E}{\partial z^{(2)}} \frac{\partial z^{(2)}}{\partial z^{(1)}} = \delta^{(2)} W^{(2)T} f'(z^{(1)})$, where $W^{(2)T}$ is the transpose of $W^{(2)}$.
+- Once we have the error terms for each layer, we can compute the gradient of the error function with respect to each weight by applying the product rule, i.e., $\frac{\partial E}{\partial W^{(1)}} = \frac{\partial E}{\partial z^{(1)}} \frac{\partial z^{(1)}}{\partial W^{(1)}} = \delta^{(1)} x^T$, $\frac{\partial E}{\partial W^{(2)}} = \frac{\partial

@@ -1,0 +1,11 @@
+#### d) Area of a given shape (rectangle, triangle and circle) reading shape and appropriate values from standard
+
+The area of a given shape can be calculated using the appropriate formula for that shape. Here are the formulas for calculating the area of a rectangle, triangle, and circle:
+
+1. **Rectangle**: The area of a rectangle can be calculated by multiplying its length by its width. The formula for the area of a rectangle is `A = l * w`, where `A` is the area, `l` is the length, and `w` is the width.
+
+2. **Triangle**: The area of a triangle can be calculated using the formula `A = (b * h) / 2`, where `A` is the area, `b` is the length of the base, and `h` is the height of the triangle.
+
+3. **Circle**: The area of a circle can be calculated using the formula `A = π * r^2`, where `A` is the area, `π` is approximately equal to 3.14, and `r` is the radius of the circle.
+
+To calculate the area of a given shape, one must first identify the shape and then use the appropriate formula to calculate its area. The values for the variables in the formula can be read from standard input. For example, if the shape is a rectangle, the user can input the length and width of the rectangle, and the program can use these values to calculate the area of the rectangle using the formula `A = l * w`. Similarly, for a triangle, the user can input the base and height, and for a circle, the user can input the radius. The program can then use these values to calculate the area of the given shape using the appropriate formula.

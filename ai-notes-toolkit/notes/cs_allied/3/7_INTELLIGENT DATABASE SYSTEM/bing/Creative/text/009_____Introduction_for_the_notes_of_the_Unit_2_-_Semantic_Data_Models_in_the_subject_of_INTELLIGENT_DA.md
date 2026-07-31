@@ -1,0 +1,8 @@
+### Introduction for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+
+- Semantic data models are high-level conceptual models that capture the meaning and structure of data in a domain of interest.
+- Semantic data models aim to provide a more natural and intuitive way of representing data than traditional data models, such as the relational model or the entity-relationship model.
+- Semantic data models use concepts such as entities, attributes, relationships, constraints, and rules to describe the data and the relationships among them.
+- Semantic data models can be classified into two main categories: object-oriented data models and logic-based data models.
+- Object-oriented data models are based on the notion of objects, which are encapsulations of data and behavior. Objects have identity, state, and methods. Objects are organized into classes, which define the common properties and behavior of a set of objects. Classes can be arranged into hierarchies, which support inheritance and polymorphism. Examples of object-oriented data models are the Object Data Model (ODM), the Object Definition Language (ODL), and the Object Query Language (OQL).
+- Logic-based data models are based on the notion of predicates, which are statements that express facts or rules about the data. Predicates have arguments, which can be constants, variables, or functions. Predicates can be combined using logical connectives, such as and, or, not, and implies. Logic-based data models support declarative querying, reasoning, and inference over the data. Examples of logic-based data models are the Semantic Data Model (SDM), the Functional Data Model (FDM), and the Deductive Data Model (DDM).

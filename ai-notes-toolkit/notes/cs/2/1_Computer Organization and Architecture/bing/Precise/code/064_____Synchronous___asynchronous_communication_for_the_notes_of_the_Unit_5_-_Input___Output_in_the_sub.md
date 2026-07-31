@@ -1,0 +1,11 @@
+### Synchronous & asynchronous communication
+
+Synchronous and asynchronous communication are two different methods of transmitting data between devices in the field of computer organization and architecture.
+
+- **Synchronous communication** refers to a mode of communication where the sender and receiver are synchronized in time. This means that the sender and receiver must be ready to transmit and receive data at the same time. In synchronous communication, the sender sends a signal to the receiver to indicate that it is ready to transmit data. The receiver then sends a signal back to the sender to indicate that it is ready to receive data. Once both devices are ready, data transmission can begin.
+
+- **Asynchronous communication**, on the other hand, refers to a mode of communication where the sender and receiver are not synchronized in time. This means that the sender can transmit data at any time, and the receiver can receive data at any time. In asynchronous communication, the sender sends data to the receiver without waiting for the receiver to be ready. The receiver then processes the data at its own pace.
+
+These two methods of communication have their own advantages and disadvantages. Synchronous communication is faster because there is no need to wait for the receiver to be ready. However, it requires more coordination between the sender and receiver. Asynchronous communication, on the other hand, is more flexible because the sender and receiver do not need to be synchronized in time. However, it can be slower because the receiver may not be ready to receive data when the sender is ready to transmit.
+
+In the context of computer organization and architecture, synchronous and asynchronous communication can be used for different types of input/output operations. For example, synchronous communication can be used for high-speed data transfer between devices, while asynchronous communication can be used for slower, more flexible data transfer. The choice of communication method depends on the specific requirements of the input/output operation.

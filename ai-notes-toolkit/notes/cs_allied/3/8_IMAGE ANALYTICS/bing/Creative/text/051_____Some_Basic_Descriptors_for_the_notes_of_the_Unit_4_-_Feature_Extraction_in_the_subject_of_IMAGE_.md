@@ -1,0 +1,11 @@
+### Some Basic Descriptors for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+
+- Feature extraction is the process of transforming an image into a set of numerical or symbolic features that can be used for further analysis, classification, or recognition.
+- Features can be extracted from different levels of the image, such as pixels, edges, regions, or objects.
+- Some basic descriptors for features are:
+
+  - **Color**: Color is one of the most intuitive and widely used features in image analysis. Color can be represented by different color spaces, such as RGB, HSV, or CIELAB. Color features can be computed by using color histograms, color moments, color correlograms, or color descriptors.
+  - **Texture**: Texture is the property of the image that describes the spatial arrangement and variation of pixel intensities. Texture can be characterized by using statistical, structural, or spectral methods. Texture features can be computed by using gray-level co-occurrence matrices, local binary patterns, Gabor filters, or wavelet transforms.
+  - **Shape**: Shape is the property of the image that describes the contour or boundary of an object or a region. Shape can be represented by using parametric, polygonal, or free-form models. Shape features can be computed by using shape descriptors, such as Fourier descriptors, moment invariants, Hu moments, or Zernike moments.
+  - **Size**: Size is the property of the image that describes the area or volume of an object or a region. Size can be measured by using simple metrics, such as pixel count, perimeter, or diameter. Size features can be normalized by using scale-invariant methods, such as scale-invariant feature transform (SIFT) or speeded up robust features (SURF).
+  - **Orientation**: Orientation is the property of the image that describes the angle or direction of an object or a region. Orientation can be estimated by using gradient, edge, or line detectors. Orientation features can be computed by using orientation histograms, orientation tensors, or orientation descriptors.

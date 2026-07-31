@@ -1,0 +1,12 @@
+# Evolution of languages in India
+
+- India is a multilingual country with over 780 languages spoken by its people, belonging to different language families and groups.
+- The linguistic history of India can be traced back to the prehistoric times, when various proto-languages gave rise to the modern Indian languages through processes of migration, contact, and change .
+- The major language families in India are the Indo-Aryan, the Dravidian, the Austroasiatic, and the Sino-Tibetan, each with their own subgroups and branches.
+- The Indo-Aryan languages are derived from the Indo-Iranian branch of the Indo-European family, and are spoken by about 75% of the population, mainly in northern, central, and western India. Some of the prominent Indo-Aryan languages are Hindi, Bengali, Marathi, Urdu, Punjabi, Gujarati, and Sindhi.
+- The Dravidian languages are a distinct family of languages that are spoken by about 20% of the population, mainly in southern India and some parts of central and eastern India. Some of the prominent Dravidian languages are Tamil, Telugu, Kannada, Malayalam, and Odia.
+- The Austroasiatic languages are a family of languages that are spoken by about 3% of the population, mainly in eastern and central India, and some parts of northeastern India. Some of the prominent Austroasiatic languages are Santali, Mundari, Khasi, and Munda.
+- The Sino-Tibetan languages are a family of languages that are spoken by about 1% of the population, mainly in northeastern India and some parts of northern India. Some of the prominent Sino-Tibetan languages are Tibetan, Manipuri, Bodo, and Nepali.
+- Apart from these native languages, India has also been influenced by foreign languages, such as Persian, Arabic, Turkish, Portuguese, French, and English, through various historical contacts and invasions .
+- English, in particular, has played a significant role in the linguistic evolution of India, as it was introduced by the British colonization and became the official language of the Indian nation in association with Hindi. English is spoken as a second language by a minority of the educated population, and has borrowed and contributed many words from and to the Indian languages .
+- The evolution of Indian languages is a complex and dynamic phenomenon that reflects the rich and diverse cultural and historical heritage of the country .

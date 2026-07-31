@@ -1,0 +1,8 @@
+### 14. Business English by Ken Taylor, Orient Blackswan, 2011, New Delhi
+
+- "Business English" is a book written by Ken Taylor and published by Orient Blackswan in 2011 in New Delhi.
+- The book is designed to help learners improve their English language skills in a business context.
+- It covers a range of topics, including business communication, presentations, negotiations, and meetings.
+- The book includes practical exercises and activities to help learners apply the concepts and skills they have learned.
+- It is suitable for learners at an intermediate to advanced level of English proficiency.
+- The book is widely used in business English courses and is a valuable resource for anyone looking to improve their business English skills.

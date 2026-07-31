@@ -1,0 +1,12 @@
+### Transport Layer
+
+The Transport Layer is the fourth layer in the OSI model of networking. Its primary function is to provide end-to-end communication between applications on different hosts. It ensures that data is transferred reliably, efficiently, and without errors. Here are some key points to understanding the Transport Layer:
+
+- The Transport Layer is responsible for creating and managing connections between applications on different hosts. It uses port numbers to identify which application is sending or receiving data.
+- The two most common Transport Layer protocols are Transmission Control Protocol (TCP) and User Datagram Protocol (UDP). TCP provides reliable, ordered, and error-checked delivery of data, while UDP provides a connectionless service that is faster but less reliable.
+- TCP uses a three-way handshake to establish a connection between two hosts. The handshake involves sending SYN, SYN-ACK, and ACK packets to ensure that both hosts are ready to communicate.
+- Once a connection is established, TCP breaks data into segments and sends them in order. It also includes sequence and acknowledgement numbers to ensure that data is received correctly and any missing segments can be retransmitted.
+- UDP, on the other hand, does not establish a connection before sending data. Instead, it simply sends packets to the destination host without any acknowledgement or error checking. This makes UDP faster, but less reliable than TCP.
+- The Transport Layer also includes flow control mechanisms to ensure that data is not transmitted too quickly for the receiving host to handle. It uses a sliding window protocol to keep track of how much data can be sent at any given time.
+- Another important feature of the Transport Layer is congestion control. This helps prevent network congestion by slowing down the rate at which data is sent when the network becomes congested.
+- Overall, the Transport Layer is an essential component of the networking stack. It ensures that data is transmitted reliably and efficiently between applications on different hosts. Understanding its protocols and mechanisms is crucial for designing and implementing effective network communication in IoT architectures.

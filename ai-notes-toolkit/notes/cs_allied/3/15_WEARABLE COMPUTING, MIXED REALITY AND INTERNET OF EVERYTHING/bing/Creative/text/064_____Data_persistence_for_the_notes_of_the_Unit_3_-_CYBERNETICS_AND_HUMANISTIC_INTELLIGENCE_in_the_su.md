@@ -1,0 +1,26 @@
+### Data persistence for the notes of the Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Data persistence is the longevity of data after the application that created it has been closed  .
+- In order for data persistence to happen, the data must be written to non-volatile storage, which is a type of memory that can retain that information long-term, even if the application is no longer running  .
+- Data persistence is important for various reasons, such as:
+  - Preserving the state and history of the application and its users.
+  - Enabling data analysis and reporting.
+  - Providing backup and recovery options.
+  - Enhancing performance and scalability.
+  - Supporting offline and online modes.
+- There are different methods and approaches to achieve data persistence, such as    :
+  - Saving data in a file, such as a text, CSV, JSON, or XML file.
+  - Saving data to a local device database, such as MongoDB Realm, SQLite, or Realm.
+  - Sending data to a server, such as a web server, an API, or a cloud service.
+  - Saving data to external storage, such as a USB stick, a hard drive, or a CD-ROM.
+  - Saving data to a remote database, such as MongoDB Atlas, MySQL, or PostgreSQL.
+  - Printing out data, such as a paper document, a barcode, or a QR code.
+- There are also different design patterns and architectures for data persistence, such as   :
+  - Active Record, which puts persistence methods directly onto the entity object, such as Save, Update, Delete, and Load.
+  - Data Mapper, which separates the entity object from the persistence logic, using a mapper object that handles the interaction with the data store.
+  - Repository, which abstracts the data store behind a collection-like interface, such as Add, Remove, Find, and GetAll.
+  - Unit of Work, which tracks the changes made to the entity objects and commits them as a single transaction to the data store.
+  - In-memory, which stores data in the memory of the application, without writing to any external storage.
+  - In-memory with periodic snapshots, which stores data in the memory of the application, but takes periodic snapshots to the disk or another storage medium.
+  - Disk-based, which writes data to the disk or another storage medium, using update-in-place or append-only strategies.
+  - Distributed, which distributes data across multiple nodes or clusters, using replication, partitioning, or sharding techniques.

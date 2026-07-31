@@ -1,0 +1,26 @@
+# Service-oriented Analysis and Design (SOAD) Process
+
+- Service-oriented analysis and design (SOAD) is a methodology that refers to the modeling and design for service-oriented architecture (SOA) applications.
+- SOA is an architectural style that aims to achieve loose coupling among interacting software agents by using services as the fundamental unit of composition.
+- SOAD involves the following key elements:
+  - Identification of business processes and services that support them
+  - Specification of service contracts and interfaces
+  - Implementation of service logic and orchestration
+  - Deployment and management of service components
+- SOAD can be performed using different methods and frameworks, such as:
+  - The SOAD Methodology Steps:
+    - Stage 1: Process Modeling - identify and model the business processes that need to be supported by SOA
+    - Stage 2: Service Identification - identify and categorize the services that can support the business processes, based on functional and non-functional requirements
+    - Stage 3: Service Design and Implementation - design and implement the service contracts, interfaces, logic, and orchestration, using appropriate technologies and standards
+    - Stage 4: Process Implementation - implement the business processes using the services, and test and deploy the SOA solution
+  - The Rational Unified Process (RUP) for SOA:
+    - Inception Phase - define the vision, scope, and business case for the SOA project
+    - Elaboration Phase - analyze the requirements, risks, and architecture for the SOA solution
+    - Construction Phase - design, implement, test, and integrate the service components and processes
+    - Transition Phase - deploy, monitor, and maintain the SOA solution
+- SOAD aims to achieve the following benefits :
+  - Reusability and composability of services across different contexts and domains
+  - Adaptability and flexibility of services to changing requirements and environments
+  - Interoperability and compatibility of services based on common standards and protocols
+  - Scalability and performance of services based on distributed and parallel processing
+  - Quality and reliability of services based on contract-based interactions and governance mechanisms

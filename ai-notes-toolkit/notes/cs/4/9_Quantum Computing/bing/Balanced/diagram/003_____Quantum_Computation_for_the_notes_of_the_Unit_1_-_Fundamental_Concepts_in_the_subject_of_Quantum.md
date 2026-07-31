@@ -1,0 +1,8 @@
+### Quantum Computation for the notes of the Unit 1 - Fundamental Concepts
+
+- Quantum computation is a computation model that uses quantum physical properties to solve problems that are hard or impossible for classical computers.
+- Quantum computation relies on quantum bits or qubits, which are the basic units of quantum information. Unlike classical bits, which can only be in one of two states (0 or 1), qubits can be in a superposition of both states, meaning they can be 0, 1, or a combination of both at the same time  .
+- Quantum computation also exploits quantum entanglement, which is a phenomenon where two or more qubits can share a quantum state and influence each other, even when they are physically separated. This allows quantum computation to perform parallel operations on multiple qubits simultaneously  .
+- Quantum computation also uses quantum interference, which is the constructive or destructive combination of quantum states. Quantum interference can be used to manipulate qubits and perform quantum logic gates, which are the building blocks of quantum algorithms  .
+- Quantum computation has the potential to offer significant speed-ups and advantages over classical computation for certain problems, such as factoring large numbers, searching large databases, simulating quantum systems, and optimizing complex functions .
+- Quantum computation is still at the early stage of development and faces many challenges, such as scalability, error correction, noise, and decoherence. However, quantum computation is also an active area of research and innovation, with many applications and opportunities in various domains, such as cryptography, artificial intelligence, machine learning, and quantum chemistry .

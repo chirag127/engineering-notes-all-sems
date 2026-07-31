@@ -1,0 +1,7 @@
+### Concepts of accuracy for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+
+- Accuracy is the degree of closeness between a measurement and its true value . It defines the limits of the errors made when the instrument is used in normal operating conditions.
+- Accuracy is influenced by various factors, such as the quality of the instrument, the calibration of the instrument, the environmental conditions, the operator skill, and the measurement procedure .
+- Accuracy can be expressed in different ways, such as absolute error, relative error, percentage error, or uncertainty . Absolute error is the difference between the measured value and the true value. Relative error is the ratio of the absolute error to the true value. Percentage error is the relative error multiplied by 100. Uncertainty is the range of possible values within which the true value lies with a certain level of confidence .
+- Accuracy can be improved by using more precise instruments, calibrating the instruments regularly, controlling the environmental conditions, following the standard measurement procedures, and minimizing the human errors .
+- Accuracy is different from precision, resolution, and sensitivity. Precision is the degree to which repeated measurements under the same conditions show the same results. Resolution is the smallest change in the input that can be detected by the instrument . Sensitivity is the ratio of the change in the output to the change in the input of the instrument.

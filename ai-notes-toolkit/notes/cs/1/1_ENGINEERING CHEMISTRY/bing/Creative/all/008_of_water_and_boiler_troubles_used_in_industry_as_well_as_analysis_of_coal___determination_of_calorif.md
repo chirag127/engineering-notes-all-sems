@@ -1,0 +1,24 @@
+# Water and Boiler Troubles Used in Industry
+
+Water is a vital medium for many industrial and commercial processes, such as boilers, cooling towers, cooling systems and other closed circuit systems. However, water can also cause various problems in these systems, such as corrosion, scaling, foaming, priming, carryover, and contamination. These problems can affect the efficiency, safety, and performance of the systems, and may require costly repairs or replacements. Therefore, it is important to understand the causes and solutions of these common water and boiler troubles.
+
+## Corrosion
+
+Corrosion is the deterioration of metal surfaces due to chemical or electrochemical reactions with water or other substances. Corrosion can cause leaks, loss of heat transfer, reduced strength, and increased maintenance costs. Some of the factors that influence corrosion are:
+
+- pH: The acidity or alkalinity of water affects the corrosion rate of metals. Generally, low pH (acidic) water is more corrosive than high pH (alkaline) water. However, some metals, such as copper and aluminum, are more prone to corrosion in high pH water.
+- Dissolved oxygen: Oxygen is a strong oxidizing agent that can react with metals and form oxides or rust. Dissolved oxygen can enter the water from the air or from the feed water. The presence of dissolved oxygen can accelerate the corrosion process, especially in high temperature and pressure conditions.
+- Dissolved solids: Dissolved solids, such as salts, minerals, and organic matter, can form deposits or scales on the metal surfaces, which can act as sites for localized corrosion. Dissolved solids can also increase the conductivity of water, which can enhance the electrochemical corrosion process.
+- Microorganisms: Microorganisms, such as bacteria, fungi, and algae, can grow in water and produce acidic or corrosive substances, such as carbon dioxide, hydrogen sulfide, and organic acids. These substances can lower the pH of water and cause corrosion. Microorganisms can also form biofilms or slime on the metal surfaces, which can trap dissolved oxygen and solids, and create anaerobic conditions that favor corrosion.
+
+Some of the common types of corrosion that occur in water and boiler systems are:
+
+- Uniform corrosion: This is the most common type of corrosion, where the metal surface is uniformly attacked by the corrosive agent. This type of corrosion can cause gradual thinning and weakening of the metal, and can be detected by visual inspection or weight loss measurements.
+- Pitting corrosion: This is a localized type of corrosion, where the metal surface is attacked by the corrosive agent at small areas or pits. This type of corrosion can cause perforation and leakage of the metal, and can be difficult to detect by visual inspection or weight loss measurements.
+- Galvanic corrosion: This is a type of corrosion that occurs when two different metals are in contact with each other and with an electrolyte, such as water. The more active metal (anode) will corrode faster than the less active metal (cathode), due to the flow of electrons between them. This type of corrosion can cause rapid deterioration and failure of the anode metal, and can be prevented by using similar metals or by isolating the metals with insulating materials.
+- Stress corrosion cracking: This is a type of corrosion that occurs when a metal is subjected to tensile stress and a corrosive agent, such as water. The stress can be caused by thermal expansion, pressure, or mechanical loading. The corrosive agent can cause cracks or fractures in the metal, which can propagate and lead to catastrophic failure. This type of corrosion can be prevented by reducing the stress or the corrosivity of the water.
+
+The solutions for corrosion problems in water and boiler systems include:
+
+- Water treatment: Water treatment is the process of removing or reducing the corrosive agents in water, such as dissolved oxygen, dissolved solids, and microorganisms. Water treatment can involve physical, chemical, or biological methods, such as filtration, softening, deaeration, chemical addition, and disinfection. Water treatment can improve the quality and stability of water, and prevent or minimize corrosion.
+- Corrosion inhibitors: Corrosion inhibitors are substances that are added to water to form a protective layer or film on the metal surfaces, which can prevent or reduce the corrosion rate. Corrosion inhibitors can be classified into anodic, cathodic, or mixed inhibitors, depending on their mode of action. Anodic inhibitors form a passive oxide layer on the anode metal, which blocks the oxidation reaction. Cathodic inhibitors reduce the availability of oxygen or other cathodic reactants, which limits the reduction reaction. Mixed inhibitors affect both the anodic and cath

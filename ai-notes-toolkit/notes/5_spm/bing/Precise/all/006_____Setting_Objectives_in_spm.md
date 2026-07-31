@@ -1,0 +1,13 @@
+### Setting Objectives in SPM
+
+1. **Defining the scope of the project**: The first step in setting objectives for a project is to define its scope. This includes identifying the project's goals, deliverables, and constraints.
+
+2. **Identifying key stakeholders**: The next step is to identify the key stakeholders for the project. These are the individuals or groups who have an interest in the project's outcome and whose needs and expectations must be considered when setting objectives.
+
+3. **Establishing SMART objectives**: Objectives should be Specific, Measurable, Achievable, Relevant, and Time-bound (SMART). This means that they should be clearly defined, quantifiable, realistic, aligned with the project's goals, and have a defined timeframe for completion.
+
+4. **Prioritizing objectives**: Once the objectives have been established, they should be prioritized based on their importance and urgency. This helps to ensure that the most critical objectives are addressed first.
+
+5. **Communicating objectives**: The final step in setting objectives is to communicate them to the project team and other stakeholders. This helps to ensure that everyone is working towards the same goals and understands what is expected of them.
+
+In summary, setting objectives is a critical step in the project management process. It involves defining the scope of the project, identifying key stakeholders, establishing SMART objectives, prioritizing them, and communicating them to the project team and other stakeholders. This helps to ensure that the project is focused and on track to achieve its goals.

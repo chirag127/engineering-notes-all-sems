@@ -1,0 +1,22 @@
+# Unit 3 - Cyber Investigation
+
+- Cyber investigation is the process of collecting, analyzing, and preserving digital evidence from various sources, such as computers, networks, mobile devices, cloud services, and social media platforms, to investigate cybercrimes or incidents.
+- Cyber investigation involves various steps, such as:
+  - Identifying the scope and objectives of the investigation
+  - Securing and documenting the crime scene or incident location
+  - Acquiring and preserving the digital evidence using proper tools and techniques
+  - Analyzing the digital evidence using forensic software and methods
+  - Reporting and presenting the findings and conclusions of the investigation
+- Cyber investigation requires various skills and knowledge, such as:
+  - Understanding the legal and ethical aspects of cyber investigation
+  - Applying the scientific method and critical thinking to cyber investigation
+  - Using various digital forensic tools and techniques, such as imaging, hashing, carving, recovery, analysis, etc.
+  - Recognizing and handling various types of digital evidence, such as files, metadata, logs, network traffic, etc.
+  - Identifying and tracing various sources and actors of cybercrimes or incidents, such as IP addresses, domains, email headers, malware, etc.
+  - Communicating and collaborating effectively with other investigators, stakeholders, and authorities
+- Cyber investigation can be applied to various domains and scenarios, such as:
+  - Cybersecurity: investigating cyberattacks, breaches, intrusions, malware, etc.
+  - Cybercrime: investigating fraud, identity theft, phishing, cyberstalking, etc.
+  - Cyberlaw: investigating intellectual property, privacy, defamation, cyberbullying, etc.
+  - Cyberwarfare: investigating espionage, sabotage, cyberterrorism, etc.
+  - Cyberethics: investigating cyberbullying, cyberhate, cyberharassment, etc.

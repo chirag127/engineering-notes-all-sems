@@ -1,0 +1,31 @@
+## Unit 3 - Relational Database Concepts
+
+- A relational database is a collection of data organized into tables, where each table consists of rows (records) and columns (attributes).
+- A primary key is a column or a combination of columns that uniquely identifies each row in a table.
+- A foreign key is a column or a combination of columns that references a primary key in another table, to establish a relationship between the tables.
+- A relationship is a logical association between two or more tables, based on a common attribute or a foreign key.
+- There are three types of relationships: one-to-one, one-to-many, and many-to-many.
+- A one-to-one relationship occurs when each row in one table is related to exactly one row in another table.
+- A one-to-many relationship occurs when each row in one table is related to zero or more rows in another table.
+- A many-to-many relationship occurs when each row in one table is related to zero or more rows in another table, and vice versa.
+- A many-to-many relationship cannot be directly represented in a relational database, and requires an intermediate table (also called a junction table or a linking table) to store the associations between the tables.
+- A relational schema is a graphical representation of the tables, attributes, keys, and relationships in a relational database.
+- A relational model is a set of rules and constraints that define how data is stored and manipulated in a relational database.
+- The relational model is based on the following principles:
+  - Each table represents an entity or a concept in the real world.
+  - Each row represents an instance or an occurrence of an entity or a concept.
+  - Each column represents an attribute or a property of an entity or a concept.
+  - Each cell contains a single value of a specific data type.
+  - Each table has a unique name and a primary key.
+  - Each column has a unique name within a table and a domain (a set of valid values).
+  - The order of rows and columns in a table is irrelevant.
+  - The values in a table are atomic, meaning they cannot be further divided into smaller parts.
+  - There are no duplicate rows in a table.
+  - There are no null values in a primary key or a foreign key column.
+  - The values in a foreign key column must match the values in the referenced primary key column, or be null.
+  - The integrity and consistency of data in a relational database is maintained by enforcing the following types of constraints:
+    - Domain constraints: ensure that the values in a column are within a specified range or set of values.
+    - Key constraints: ensure that the values in a primary key or a foreign key column are unique and not null.
+    - Entity integrity constraints: ensure that the values in a primary key column are unique and not null.
+    - Referential integrity constraints: ensure that the values in a foreign key column match the values in the referenced primary key column, or are null.
+    - General constraints: ensure that the values in a column or a row satisfy a specified condition or expression.

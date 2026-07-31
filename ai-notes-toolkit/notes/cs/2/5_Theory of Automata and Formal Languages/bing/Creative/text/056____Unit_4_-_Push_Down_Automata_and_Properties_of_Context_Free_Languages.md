@@ -1,0 +1,21 @@
+## Unit 4 - Push Down Automata and Properties of Context Free Languages
+
+- A push down automaton (PDA) is a finite state machine with an additional stack memory.
+- A PDA can perform three actions in each step: read an input symbol, pop a symbol from the stack, and push a symbol to the stack.
+- A PDA can have either deterministic or nondeterministic transitions.
+- A PDA can accept an input string by either reaching a final state or emptying the stack.
+- A context free grammar (CFG) is a set of production rules that generate a context free language (CFL).
+- A CFL is a language that can be recognized by a PDA.
+- A CFG consists of four components: a set of terminals, a set of nonterminals, a start symbol, and a set of production rules.
+- A production rule has the form A -> α, where A is a nonterminal and α is a string of terminals and nonterminals.
+- A derivation is a sequence of applying production rules to generate a string from the start symbol.
+- A parse tree is a graphical representation of a derivation, where the nodes are labeled by symbols and the edges are labeled by production rules.
+- A CFG is said to be in Chomsky normal form (CNF) if every production rule has the form A -> BC or A -> a, where A, B, and C are nonterminals and a is a terminal.
+- Every CFG can be converted to an equivalent CNF by applying a series of transformations.
+- A CFG is said to be in Greibach normal form (GNF) if every production rule has the form A -> aα, where A is a nonterminal, a is a terminal, and α is a string of nonterminals.
+- Every CFG can be converted to an equivalent GNF by applying a series of transformations.
+- The pumping lemma for CFLs is a property that states that if L is a CFL, then there exists a constant n such that for any string w in L with |w| >= n, w can be written as w = uvxyz, where |vxy| <= n, |vy| >= 1, and for any i >= 0, u(v^i)x(y^i)z is also in L.
+- The pumping lemma for CFLs can be used to prove that a language is not context free by showing a contradiction.
+- A closure property is a property that states that if L1 and L2 are languages that belong to a certain class, then some operation on L1 and L2 also produces a language that belongs to the same class.
+- Some closure properties of CFLs are union, concatenation, Kleene star, reversal, and homomorphism.
+- Some non-closure properties of CFLs are intersection, complement, and difference.

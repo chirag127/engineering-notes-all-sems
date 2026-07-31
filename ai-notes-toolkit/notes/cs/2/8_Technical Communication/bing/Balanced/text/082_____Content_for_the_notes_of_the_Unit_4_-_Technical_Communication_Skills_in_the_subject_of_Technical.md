@@ -1,0 +1,23 @@
+### Content for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication
+
+- Technical communication is a type of communication that is aimed at providing readers with clear and accurate information on how to use and maintain products, complete tasks, operate equipment, etc.
+- Technical communication skills are the abilities and knowledge that enable a technical communicator to perform their tasks effectively and efficiently.
+- Some of the most important technical communication skills are:
+  - Writing skills: the ability to write clearly, concisely, and correctly, using appropriate grammar, style, and tone for the intended audience and purpose.
+  - Technical skills: the ability to understand and explain technical or specialized topics, such as computer applications, medical procedures, or environmental regulations.
+  - Oral communication skills: the ability to speak confidently, persuasively, and respectfully, using appropriate language, voice, and body language for the intended audience and situation.
+  - Software tools skills: the ability to use various software applications and platforms, such as word processors, graphic editors, presentation software, content management systems, etc., to create, edit, and publish technical documents and materials.
+  - Computer languages skills: the ability to use and understand various computer languages, such as HTML, CSS, JavaScript, Python, etc., to create, modify, and troubleshoot web pages, applications, and scripts.
+  - Scientific knowledge skills: the ability to apply and demonstrate scientific principles, methods, and concepts, such as research, analysis, testing, and evaluation, to support and validate technical information and claims.
+  - Problem-solving skills: the ability to identify, analyze, and solve problems, using logical and creative thinking, as well as relevant tools and resources.
+  - Self-learning skills: the ability to learn new skills and update existing ones, using various sources and methods, such as online courses, books, articles, tutorials, etc., to keep up with the changing needs and demands of the technical field.
+- To improve technical communication skills, one can :
+  - Identify one's career goals and the technical skills required for them.
+  - Review one's current skills and look for opportunities to practice and enhance them, such as taking on new projects, joining online communities, or volunteering for technical tasks.
+  - Seek feedback and guidance from experts, mentors, peers, or instructors, and use it to improve one's performance and quality of work.
+  - Enroll in online or offline courses, workshops, or programs that offer training and certification in technical communication skills, such as Coursera, Udemy, edX, etc.
+  - Read and study technical documents and materials from various sources and domains, and analyze their structure, content, style, and effectiveness.
+  - Use various software tools and platforms to create, edit, and publish technical documents and materials, and explore their features and functions.
+  - Learn and apply various computer languages to create, modify, and troubleshoot web pages, applications, and scripts, and understand their syntax and logic.
+  - Apply and demonstrate scientific principles, methods, and concepts to support and validate technical information and claims, and use data and evidence to support one's arguments and recommendations.
+  - Identify, analyze, and solve problems, using logical and creative thinking, as well as relevant tools and resources, and document and communicate the problem-solving process and outcome.

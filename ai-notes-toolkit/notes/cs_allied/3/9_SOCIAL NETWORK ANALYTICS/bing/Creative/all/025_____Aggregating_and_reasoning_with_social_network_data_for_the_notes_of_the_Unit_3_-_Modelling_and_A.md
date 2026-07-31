@@ -1,0 +1,25 @@
+# Aggregating and reasoning with social network data
+
+- Social network data refers to the content and the profiles that are generated and shared on social network services, such as Facebook, Twitter, Instagram, etc.
+- Social network aggregation is the process of collecting content from multiple social network services into a unified presentation.
+- Social network aggregation can be useful for various purposes, such as:
+  - Analyzing the popularity, reach, sentiment, and impact of a topic, a brand, a product, or a person on social media.
+  - Discovering trends, patterns, and insights from social media data.
+  - Enhancing the user experience and engagement by providing personalized and relevant content from different sources.
+  - Integrating and managing social media data from different platforms and devices.
+- Social network aggregation can be challenging due to the heterogeneity, complexity, and dynamism of social network data, such as:
+  - Different formats, schemas, and vocabularies of data across different social network services.
+  - Different types, levels, and quality of data, such as text, images, videos, audio, metadata, etc.
+  - Different privacy and security policies and preferences of users and social network services.
+  - Different update frequencies and volumes of data.
+- Social network aggregation can be performed by using various techniques, such as:
+  - Data extraction and transformation: This involves retrieving and converting data from different sources into a common format and structure that can be stored and processed.
+  - Data integration and fusion: This involves combining and reconciling data from different sources into a consistent and coherent representation that can be queried and analyzed.
+  - Data analysis and visualization: This involves applying statistical, machine learning, or semantic methods to analyze and visualize data from different sources and derive meaningful insights and patterns.
+  - Data presentation and delivery: This involves providing user-friendly and interactive interfaces and applications that can display and deliver data from different sources to the end-users.
+- One of the approaches to social network aggregation is to use ontology-based knowledge representation techniques, which can provide a semantic and formal representation of social network data  .
+- Ontology-based knowledge representation techniques can offer several advantages for social network aggregation, such as:
+  - Enabling interoperability and integration of data from different sources by using a common vocabulary and schema.
+  - Enabling reasoning and inference of data from different sources by using logical rules and axioms.
+  - Enabling querying and analysis of data from different sources by using standard languages and tools.
+  - Enabling annotation and enrichment of data from different sources by using external knowledge bases and ontologies.

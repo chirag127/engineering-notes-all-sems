@@ -1,0 +1,7 @@
+### Sensors and Actuators
+
+- Sensors and actuators are devices that interact with the physical world and enable communication between hardware and software.
+- Sensors are devices that detect events or changes in the environment and convert them into electrical signals that can be processed by a microcontroller or a computer. Sensors are placed at the input port of a system. Examples of sensors are temperature sensors, light sensors, motion sensors, etc.
+- Actuators are devices that receive electrical signals from a microcontroller or a computer and perform physical actions or movements. Actuators are placed at the output port of a system. Examples of actuators are motors, solenoids, relays, LEDs, etc.
+- Sensors and actuators are often used together to automate and control industrial processes, such as manufacturing, facility management, robotics, etc. Sensors monitor the physical conditions and provide feedback to the control system, while actuators execute the commands from the control system and manipulate the physical environment.
+- Sensors and actuators can be classified into different types based on their working principle, function, application, etc. Some common types of sensors are analog sensors, digital sensors, passive sensors, active sensors, etc. Some common types of actuators are electric actuators, hydraulic actuators, pneumatic actuators, etc.

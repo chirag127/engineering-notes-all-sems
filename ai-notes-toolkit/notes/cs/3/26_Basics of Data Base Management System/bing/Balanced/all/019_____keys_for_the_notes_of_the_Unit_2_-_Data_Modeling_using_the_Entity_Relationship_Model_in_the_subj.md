@@ -1,0 +1,9 @@
+# Keys for the notes of the Unit 2 - Data Modeling using the Entity Relationship Model
+
+- Data modeling is a process of designing and representing the structure and relationships of data in a database.
+- Entity Relationship Model (ER Model) is a graphical and conceptual tool for data modeling using entities, attributes, and relationships.
+- Entities are the basic objects or things that exist in the database, such as people, places, events, or concepts. They are represented by rectangles in an ER diagram.
+- Attributes are the properties or characteristics of entities that describe them. They are represented by ovals in an ER diagram. Attributes can be classified into different types, such as simple, composite, single-valued, multi-valued, derived, or key attributes.
+- Relationships are the associations or connections between entities that indicate how they are related to each other. They are represented by diamonds in an ER diagram. Relationships can have different types, such as one-to-one, one-to-many, many-to-one, or many-to-many. Relationships can also have attributes, such as name, role, or cardinality.
+- An ER diagram is a graphical representation of the ER model that shows the entities, attributes, and relationships in a database. An ER diagram can be used to communicate the database design to the developers, users, and stakeholders. An ER diagram can also be used to check the consistency and completeness of the database design.
+- An ER diagram can be converted into a relational schema, which is a set of tables and columns that store the data in a relational database. The conversion process involves mapping the entities, attributes, and relationships in the ER diagram to the tables, columns, and constraints in the relational schema. The conversion rules may vary depending on the type and level of the ER model.

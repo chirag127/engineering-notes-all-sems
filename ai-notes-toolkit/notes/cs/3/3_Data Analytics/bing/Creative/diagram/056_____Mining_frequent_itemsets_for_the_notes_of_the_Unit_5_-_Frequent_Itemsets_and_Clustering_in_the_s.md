@@ -1,0 +1,9 @@
+### Mining frequent itemsets
+
+- Frequent itemsets are sets of items that appear together frequently in a dataset, such as a transactional database or a relational database.
+- Mining frequent itemsets is a technique used to discover associations and correlations between items in a dataset, such as customers' shopping behavior or product recommendations.
+- Mining frequent itemsets can help to identify patterns, trends, and preferences in the data, which can be used for various data mining tasks, such as classification, clustering, anomaly detection, or recommendation systems.
+- Mining frequent itemsets can be done using different algorithms, such as Apriori, Eclat, or FP-growth. These algorithms have different advantages and disadvantages in terms of efficiency, scalability, and memory usage.
+- Apriori algorithm is the most commonly used algorithm for mining frequent itemsets. It works by generating candidate itemsets of increasing size and pruning those that are not frequent. It uses a bottom-up approach and relies on the property that a subset of a frequent itemset must also be frequent.
+- Eclat algorithm is a variation of Apriori that uses a vertical data format instead of a horizontal one. It works by finding frequent itemsets of size one and then extending them with other items that share common transactions. It uses a depth-first search strategy and avoids generating candidate itemsets.
+- FP-growth algorithm is a more efficient and scalable algorithm for mining frequent itemsets. It works by compressing the dataset into a compact data structure called FP-tree, which preserves the itemset association information. It then mines the FP-tree by recursively dividing it into smaller sub-trees and extracting frequent itemsets from them. It uses a divide-and-conquer approach and does not need to scan the dataset multiple times.

@@ -1,0 +1,28 @@
+### Combining three models for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Object Oriented Analysis (OOA) is the first technical activity performed as part of object-oriented software engineering .
+- OOA introduces new concepts to investigate a problem, such as objects, classes, inheritance, polymorphism, and encapsulation.
+- OOA is based on a set of basic principles, which are as follows:
+  - The information domain is modeled.
+  - Behavior is represented.
+  - The function is described.
+- The three analysis techniques that are used in conjunction with each other for object-oriented analysis are:
+  - Object Modeling: It develops the static structure of the software system in terms of objects, classes, attributes, associations, and generalizations.
+  - Dynamic Modeling: It describes the interactions and collaborations among objects, and the changes in the object states over time.
+  - Functional Modeling: It captures the functional requirements of the system, and the data transformations that occur within the system.
+- Object Oriented Design (OOD) is the next technical activity performed after OOA .
+- OOD transforms the analysis model created by OOA into a design model that works as a plan for software creation.
+- OOD results in a design having several different levels of modularity, such as subsystems, packages, classes, and methods.
+- OOD applies some design principles, such as abstraction, cohesion, coupling, inheritance, and polymorphism, to achieve a high-quality design.
+- The main design techniques that are used for object-oriented design are:
+  - Class Design: It defines the classes, their attributes, methods, and relationships with other classes.
+  - System Design: It identifies the subsystems and components of the system, and their interfaces and collaborations.
+  - Interface Design: It specifies the external interfaces of the system, such as user interfaces, hardware interfaces, and software interfaces.
+  - Architecture Design: It describes the overall structure and organization of the system, and the patterns and frameworks that are used to achieve it.
+- Object Oriented Data Model (OODM) is a common approach to modeling applications, systems, and business domains by using the object-oriented paradigm throughout the entire development life cycles .
+- OODM is a main technique heavily used by both OOD and OOA activities in modern software engineering.
+- OODM represents the real world problems as objects with different attributes and relationships.
+- OODM supports some features, such as complex objects, object identity, encapsulation, inheritance, polymorphism, and association, to model the data in a natural and intuitive way .
+- OODM can be classified into two types:
+  - Object Based Data Model: It is a data model that supports the features of complex objects, object identity, and encapsulation, but not inheritance and polymorphism. Examples are Entity-Relationship Model and Semantic Data Model.
+  - Object Oriented Data Model: It is a data model that supports all the features of object based data model, as well as inheritance and polymorphism. Examples are Object Definition Language and Unified Modeling Language.

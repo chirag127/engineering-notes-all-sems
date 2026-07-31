@@ -1,0 +1,7 @@
+### Introduction for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+
+- Regression is a supervised learning technique that aims to model the relationship between a dependent variable (also called the target or the output) and one or more independent variables (also called the features or the inputs).
+- Regression can be used for various purposes, such as prediction, inference, hypothesis testing, and data analysis.
+- Regression models can be classified into two main types: linear and nonlinear. Linear regression models assume that the relationship between the dependent and independent variables is linear, or can be approximated by a linear function. Nonlinear regression models allow for more complex and flexible relationships that may not be linear or even continuous.
+- Some examples of linear regression models are simple linear regression, multiple linear regression, polynomial regression, and ridge regression. Some examples of nonlinear regression models are logistic regression, support vector regression, decision tree regression, and neural network regression.
+- Regression models can also be evaluated and compared based on various criteria, such as accuracy, goodness-of-fit, complexity, interpretability, and robustness. Some common metrics for measuring the performance of regression models are mean squared error (MSE), root mean squared error (RMSE), mean absolute error (MAE), coefficient of determination (R-squared), and adjusted R-squared.

@@ -1,0 +1,23 @@
+# Obtaining consistent Checkpoints for the notes of the Unit 6 - Failure Recovery in Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Failure recovery in distributed systems is the process of restoring the system to a consistent and correct state after a failure occurs.
+- Failure recovery is essential for fault tolerance, which is the ability of the system to continue functioning despite the presence of errors.
+- Failure recovery can be achieved by using checkpoints, which are snapshots of the system state at certain points in time.
+- Checkpoints can be used to roll back the system to a previous state and resume the execution from there, avoiding the need to restart the system from scratch.
+- Checkpoints can be classified into two types: local and global.
+  - Local checkpoints are taken by each process independently, without any coordination with other processes.
+  - Global checkpoints are taken by all processes in a coordinated manner, such that they form a consistent view of the system state.
+- A global checkpoint is consistent if it satisfies the following property: for any pair of processes P and Q, if P's checkpoint contains a message sent by P to Q, then Q's checkpoint contains the corresponding message received by Q from P.
+- A consistent global checkpoint can be used to recover the system from any failure, without introducing any inconsistency or causality violation.
+- Obtaining a consistent global checkpoint can be challenging in distributed systems, due to the following issues:
+  - The lack of a global clock or a common notion of time among the processes.
+  - The possibility of partial failures, such as node crashes or communication link failures.
+  - The overhead of coordinating the checkpointing process among the processes.
+- There are different algorithms and techniques for obtaining consistent global checkpoints in distributed systems, such as:
+  - Synchronous checkpointing, which requires all processes to take checkpoints simultaneously, using a global synchronization signal.
+  - Asynchronous checkpointing, which allows each process to take checkpoints independently, without any synchronization.
+  - Coordinated checkpointing, which requires some form of communication and agreement among the processes to take checkpoints in a coordinated manner.
+  - Communication-induced checkpointing, which piggybacks checkpointing information on the application messages exchanged by the processes.
+  - Log-based checkpointing, which records the causal dependencies among the processes in a log file, and uses it to construct a consistent global checkpoint.
+- Each of these techniques has its own advantages and disadvantages, depending on the characteristics of the system, such as the failure rate, the communication pattern, the checkpoint frequency, the checkpoint size, the recovery time, and the performance overhead.
+- The choice of the best technique for obtaining consistent global checkpoints depends on the trade-off between the checkpointing cost and the recovery cost.

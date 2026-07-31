@@ -1,0 +1,13 @@
+## Unit 2 - Basic Structural Modeling
+
+- In this unit, you will learn about the basic concepts and techniques of structural modeling using UML (Unified Modeling Language).
+- Structural modeling is the process of describing the static structure of a system in terms of its classes, attributes, operations, associations, and constraints.
+- Structural modeling helps to define the data and behavior of a system, as well as the relationships and dependencies among its components.
+- The main elements of structural modeling are:
+
+  - **Class**: A class is a blueprint or template for creating objects of the same type. A class defines the common properties and behaviors of a set of objects. For example, a class named Student can represent all the students in a school.
+  - **Object**: An object is an instance or occurrence of a class. An object has a unique identity, state, and behavior. For example, an object named Alice is an instance of the class Student, and has a specific name, age, grade, etc.
+  - **Attribute**: An attribute is a named property of a class or an object that describes some aspect of its state. An attribute has a name, a type, and a value. For example, the attribute name of the class Student has the type String and the value Alice for the object Alice.
+  - **Operation**: An operation is a named behavior of a class or an object that defines some action or function that can be performed by or on it. An operation has a name, a list of parameters, and a return type. For example, the operation getGrade of the class Student has the parameter course and the return type int, and returns the grade of a student for a given course.
+  - **Association**: An association is a relationship between two or more classes or objects that indicates some kind of connection or link between them. An association has a name, a direction, and a multiplicity. For example, the association enrolled in between the classes Student and Course has the name enrolled in, the direction from Student to Course, and the multiplicity one-to-many, meaning that one student can be enrolled in many courses, but one course can have only one student enrolled in it.
+  - **Constraint**: A constraint is a rule or condition that restricts or limits the values or states of one or more elements of a structural model. A constraint can be expressed in natural language, mathematical notation, or a formal specification language. For example, a constraint on the attribute age of the class Student can be expressed as age >= 18, meaning that the age of a student must be greater than or equal to 18.

@@ -1,0 +1,12 @@
+# Ontological Engineering
+
+- Ontological Engineering is a field of study that deals with the creation and management of ontologies, which are formal and explicit specifications of the concepts, properties and relations in a domain of interest .
+- Ontologies are used to provide a common vocabulary and a shared understanding of a domain, to enable interoperability and integration of heterogeneous data and systems, and to support reasoning and inference over the domain knowledge .
+- Ontological Engineering involves the following activities:
+  - Ontology development: the process of defining the ontology components, such as classes, properties, instances, axioms and annotations, using a suitable ontology language and tool.
+  - Ontology evaluation: the process of assessing the quality, correctness, completeness, consistency and usability of the ontology, using various criteria and methods, such as logical analysis, empirical testing, peer review and user feedback.
+  - Ontology alignment: the process of finding correspondences and mappings between different ontologies that cover the same or related domains, to enable data exchange and integration across ontologies.
+  - Ontology evolution: the process of updating and maintaining the ontology over time, to reflect changes in the domain or the requirements of the ontology users, using methods such as versioning, change management and provenance tracking.
+  - Ontology reuse: the process of reusing existing ontologies or parts of them, to avoid duplication of effort and to benefit from the existing knowledge and best practices, using methods such as ontology libraries, modules and patterns.
+- Ontological Engineering requires the use of appropriate methods and methodologies, which provide guidelines and best practices for the ontology engineering activities, such as the ontology development process, the ontology design principles, the ontology evaluation methods and the ontology documentation standards.
+- Ontological Engineering also requires the use of suitable tools and languages, which support the ontology engineering activities, such as the ontology editors, the ontology reasoners, the ontology validators, the ontology aligners, the ontology repositories and the ontology query languages.

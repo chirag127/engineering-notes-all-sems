@@ -1,0 +1,14 @@
+### Image and Video Displays for the Notes of the Unit 5 - Software Tools in the Subject of Human Computer Interface
+
+- Image and video displays are types of screenless displays that use different methods to project images or videos onto surfaces or into the air without using a physical screen.
+- Image and video displays can be used for various human-computer interaction (HCI) applications, such as augmented reality, virtual reality, gaming, entertainment, education, communication, etc.
+- Image and video displays can be classified into three categories based on the type of projection: visual image, retinal display, and synaptic interface.
+- Visual image displays use light sources to create images or videos that can be seen by the human eye. Examples of visual image displays are holographic displays, virtual reality goggles, heads up displays, etc .
+- Retinal displays use lasers or LEDs to scan images or videos directly onto the retina of the eye. Examples of retinal displays are retinal scanning displays, laser eye wear, etc.
+- Synaptic interface displays use electrical signals to stimulate the visual cortex of the brain and create images or videos in the mind. Examples of synaptic interface displays are brain-computer interfaces, neural implants, etc.
+- Image and video processing tools are software tools that enable the capture, analysis, manipulation, and synthesis of images or videos for HCI purposes.
+- Image and video processing tools can be used for various tasks, such as face detection, gesture recognition, object tracking, scene understanding, image enhancement, video compression, etc.
+- Image and video processing tools can be divided into two categories based on the distance between the user and the camera: close view and distant view.
+- Close view image and video processing tools are used for applications that require the user to be close to the camera, such as desktop computer applications or mobile phone interfaces. Examples of close view image and video processing tools are face recognition, eye tracking, facial expression analysis, etc.
+- Distant view image and video processing tools are used for applications that require the user to be far from the camera, such as smart-room scenarios or augmented reality games. Examples of distant view image and video processing tools are body pose estimation, gesture recognition, human activity recognition, etc.
+- Image and video displays and processing tools are important aspects of graphics, visualization, and HCI, as they enable the creation and interaction of graphical, visual, informational, and interactive representations for human use .

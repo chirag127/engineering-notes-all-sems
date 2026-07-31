@@ -1,0 +1,25 @@
+# Evidence Analysis for the notes of the Unit 4 - Evidence Management in the subject of CYBER FORENSIC ANALYTICS
+
+- Evidence analysis is the process of examining and interpreting the digital evidence collected from a computer or a device involved in a crime or an incident .
+- Evidence analysis aims to reconstruct the events and activities that occurred on the system, identify the sources and origins of the evidence, and establish the links and relationships between the evidence and the suspects.
+- Evidence analysis involves various techniques and tools, depending on the type and nature of the evidence. Some common techniques include:
+  - Deleted file recovery: This technique involves recovering and restoring files or fragments deleted by a person—either accidentally or deliberately—or by a virus or malware.
+  - Reverse steganography: This technique involves detecting and extracting hidden data or messages embedded in other files, such as images, audio, or video.
+  - File carving: This technique involves extracting files from unallocated or damaged disk space, without relying on the file system structure or metadata.
+  - Memory analysis: This technique involves examining the contents of the volatile memory (RAM) of a system, which may contain valuable information such as passwords, encryption keys, running processes, network connections, etc.
+  - Network analysis: This technique involves capturing and analyzing the network traffic and packets exchanged between a system and other devices or servers, which may reveal the communication patterns, protocols, sources, destinations, and contents of the network activity.
+  - Database forensics: This technique involves retrieving and analyzing data or metadata found in databases, such as tables, queries, transactions, logs, etc.
+  - Email forensics: This technique involves retrieving and analyzing messages, contacts, calendars, and other information on an email platform, such as Gmail, Outlook, etc.
+- Evidence analysis follows a systematic and rigorous process, which includes the following steps :
+  - Preparation: This step involves planning and preparing the analysis objectives, scope, methods, tools, and resources, as well as obtaining the necessary authorization and documentation.
+  - Examination: This step involves applying the appropriate techniques and tools to extract and examine the evidence from the digital media, and documenting the findings and observations.
+  - Analysis: This step involves interpreting and evaluating the evidence, and drawing conclusions and inferences based on the examination results and the case context.
+  - Reporting: This step involves presenting and communicating the analysis results, findings, and opinions in a clear, concise, and accurate manner, using charts, graphs, tables, or other visual aids, and supporting the report with the relevant evidence and documentation.
+  - Review: This step involves reviewing and verifying the analysis process, results, and report, and ensuring the quality, accuracy, and reliability of the analysis.
+- Evidence analysis follows the principles and standards of cyber forensics, which include :
+  - Admissibility: The evidence must be legally and formally acceptable by the court, and must comply with the rules of evidence and the relevant laws and regulations.
+  - Authenticity: The evidence must be original and genuine, and must not be altered, modified, or tampered with during the collection, preservation, or analysis process.
+  - Completeness: The evidence must be complete and sufficient to support the analysis objectives and conclusions, and must not be partial, selective, or misleading.
+  - Reliability: The evidence must be reliable and trustworthy, and must be derived from credible and valid sources, methods, and tools.
+  - Relevance: The evidence must be relevant and pertinent to the case and the analysis objectives, and must not be irrelevant, immaterial, or unnecessary.
+  - Reproducibility: The evidence must be reproducible and verifiable, and must be able to produce the same results and outcomes when analyzed by different analysts, methods, or tools.

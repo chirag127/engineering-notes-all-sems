@@ -1,0 +1,9 @@
+#### How to build applications with Zookeeper
+
+Zookeeper is a distributed system coordinator that provides services such as configuration management, synchronization, naming, and leader election for distributed applications. Zookeeper can help developers to simplify the complexity of distributed programming and achieve high availability and scalability.
+
+To build applications with Zookeeper, the following steps are required:
+
+- Install Zookeeper on one or more servers. Zookeeper can run in standalone mode or in a cluster mode. In standalone mode, only one server is used and there is no fault tolerance. In cluster mode, multiple servers form a quorum and can tolerate some failures. Zookeeper can be downloaded from the Apache website and installed by creating a configuration file and running a JAR file .
+- Start Zookeeper and connect to it from the application. Zookeeper can be started as a service or as a command. The application can use a Zookeeper client library to connect to the Zookeeper server and perform operations on the Zookeeper data model. The Zookeeper data model is a hierarchical namespace of znodes, which are similar to files and directories. Each znode can store data and have children znodes .
+- Use Zookeeper to implement distributed features in the application. Zookeeper provides a set of recipes for common distributed patterns, such as locks, barriers, queues, leader election, and group membership. The application can use these recipes or create custom ones to achieve the desired functionality. For example, the application can use Zookeeper to store configuration data, synchronize state across nodes, elect a leader, or discover other nodes in the cluster.

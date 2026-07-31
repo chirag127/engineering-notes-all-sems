@@ -1,0 +1,23 @@
+### Event and signals for the notes of the Unit 2 - Basic Structural Modeling in the subject of Object Oriented System Design
+
+- An event is a significant occurrence that affects the state of the system or its objects .
+- Events can be external or internal .
+  - External events are those that pass between the system and its actors (users or other systems).
+  - Internal events are those that pass among the objects that live within the system.
+- There are four kinds of events: signals, calls, the passing of time, and a change in state  .
+  - Signals are asynchronous events that represent the one-way transmission of information from one object to another  .
+    - A signal event is the event of sending or receiving a signal.
+    - A signal can be represented by a dashed arrow with a filled arrowhead in a sequence diagram or a communication diagram.
+    - A signal does not imply a response or an acknowledgement from the receiver, unless it is explicitly modeled as another signal.
+  - Calls are synchronous events that represent the invocation of an operation on another object .
+    - A call event is the event of calling or returning from an operation.
+    - A call can be represented by a solid arrow with a filled arrowhead in a sequence diagram or a communication diagram.
+    - A call implies that the sender waits for the completion of the operation and the return of control from the receiver.
+  - The passing of time is an event that represents the elapse of a certain duration or the occurrence of a specific point in time .
+    - A time event can be represented by a stopwatch icon in a sequence diagram or a communication diagram.
+    - A time event can trigger a change in the state of an object or a transition in a state machine diagram.
+  - A change in state is an event that represents the occurrence of a condition that affects the state of an object or the system .
+    - A change event can be represented by a lightning bolt icon in a sequence diagram or a communication diagram.
+    - A change event can trigger a transition in a state machine diagram or an action in an activity diagram.
+- Events and signals are important for modeling the dynamic behavior of a system and its objects, as they capture the interactions and communications among them .
+- Events and signals can also help to align the system's capabilities with the business processes and expectations, as they reflect the changes in the states of activities, objects, or goals.

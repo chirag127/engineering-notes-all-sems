@@ -1,0 +1,9 @@
+### Commit Protocols
+
+Commit protocols are used in distributed systems to ensure that all the nodes in the system agree on the final outcome of a transaction. This is important for maintaining the consistency and integrity of the data in the system. There are several types of commit protocols, including two-phase commit (2PC) and three-phase commit (3PC).
+
+1. **Two-Phase Commit (2PC)**: In the first phase of 2PC, the coordinator node sends a prepare message to all the participant nodes, asking them to prepare to commit the transaction. The participant nodes then respond with a yes or no vote, indicating whether they are ready to commit the transaction. In the second phase, the coordinator node sends a commit or abort message to all the participant nodes, based on the votes received in the first phase. All the participant nodes then commit or abort the transaction accordingly.
+
+2. **Three-Phase Commit (3PC)**: 3PC is an extension of 2PC, with an additional phase added to make the protocol more resilient to failures. In the first phase of 3PC, the coordinator node sends a canCommit message to all the participant nodes, asking them if they can commit the transaction. The participant nodes then respond with a yes or no vote. In the second phase, the coordinator node sends a preCommit message to all the participant nodes that voted yes, asking them to prepare to commit the transaction. The participant nodes then respond with an ack message, indicating that they are ready to commit the transaction. In the third phase, the coordinator node sends a doCommit message to all the participant nodes that sent an ack message, instructing them to commit the transaction.
+
+These are some of the commit protocols used in distributed systems to ensure fault tolerance and consistency of data. They play a crucial role in maintaining the integrity of the system and preventing data loss or corruption.

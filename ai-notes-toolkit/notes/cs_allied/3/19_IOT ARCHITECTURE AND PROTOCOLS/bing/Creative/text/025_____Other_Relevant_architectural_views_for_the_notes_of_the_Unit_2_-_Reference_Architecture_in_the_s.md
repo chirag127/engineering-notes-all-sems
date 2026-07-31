@@ -1,0 +1,10 @@
+### Other Relevant Architectural Views for IoT
+
+- Apart from the reference architecture, there are other ways to design and describe IoT systems based on different perspectives and goals.
+- Some of the common architectural views for IoT are:
+
+  - **Application-specific view**: This view focuses on the specific requirements and functionalities of a particular IoT application domain, such as smart home, smart city, smart health, etc. This view may use different standards, protocols, and platforms depending on the application context and the stakeholders involved.
+  - **Open platform view**: This view emphasizes the scalability and interoperability of IoT systems across different domains and devices. This view may use common frameworks, architectures, and platforms that enable the integration and communication of heterogeneous IoT devices and services.
+  - **Network as a Service (NaaS) view**: This view abstracts the underlying network infrastructure and provides IoT connectivity as a service to the end users. This view may use cloud-based or edge-based solutions that offer network management, security, and analytics for IoT applications.
+  - **Perception-Network-Application (PNA) view**: This view divides the IoT system into three layers: perception, network, and application. The perception layer consists of the sensors, gadgets, and other devices that collect and process data from the physical world. The network layer consists of the connectivity technologies and protocols that transmit and receive data between devices and the cloud. The application layer consists of the user interfaces and services that provide value and functionality to the end users.
+  - **Functional view**: This view describes the IoT system in terms of the functional components and their interactions. The functional components are the logical entities that perform specific tasks or roles in the IoT system, such as data acquisition, data processing, data storage, data analysis, data presentation, etc. The interactions are the flows of data and control between the functional components .

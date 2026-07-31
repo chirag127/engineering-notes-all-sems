@@ -1,0 +1,9 @@
+#### Inheritance in Scala
+- Inheritance is a mechanism that allows a class to inherit the features and behavior of another class.
+- The class that inherits is called the **subclass** or **derived class**. The class that is inherited is called the **superclass** or **base class**.
+- In Scala, inheritance is achieved by using the `extends` keyword. For example, `class Dog extends Animal` means that the class `Dog` inherits from the class `Animal`.
+- A subclass can access the members (fields and methods) of its superclass, unless they are declared as `private` or `protected`.
+- A subclass can also override the members of its superclass by using the `override` keyword. For example, `override def speak(): Unit = println("Woof")` means that the subclass `Dog` overrides the `speak` method of its superclass `Animal`.
+- A subclass can also define its own members that are not present in its superclass. For example, `def wagTail(): Unit = println("Wagging tail")` means that the subclass `Dog` defines a new method `wagTail` that is not in its superclass `Animal`.
+- Scala supports **single inheritance**, which means that a class can only inherit from one superclass. However, Scala also supports **multiple inheritance** through a feature called **traits**. Traits are like abstract classes that can contain both abstract and concrete members. A class can inherit from multiple traits by using the `with` keyword. For example, `class Dog extends Animal with Friendly with Furry` means that the class `Dog` inherits from the class `Animal` and the traits `Friendly` and `Furry`.
+- Scala also supports **constructor inheritance**, which means that a subclass can call the constructor of its superclass by passing the required parameters. For example, `class Dog(name: String, age: Int) extends Animal(name, age)` means that the subclass `Dog` calls the constructor of its superclass `Animal` by passing the `name` and `age` parameters.

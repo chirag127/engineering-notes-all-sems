@@ -1,0 +1,14 @@
+# Types of support vector kernel for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+
+- Support vector machines (SVMs) are a type of supervised learning algorithm that can be used for classification and regression problems.
+- SVMs work by finding a hyperplane that separates the data points into different classes or predicts the output value for a given input.
+- However, not all data sets are linearly separable or have a simple relationship between the input and output variables. In such cases, SVMs use a technique called kernel trick to transform the data into a higher-dimensional space where a linear hyperplane can be found or a more complex function can be fitted.
+- A kernel function is a mathematical function that computes the similarity or distance between two data points in the original or transformed space. It can be seen as a measure of how much one data point influences another.
+- There are different types of kernel functions that can be used in SVMs, depending on the nature and complexity of the data. Some of the popular kernel functions are:
+
+  - Linear kernel: This is the simplest kernel function, which computes the dot product between two data points. It is equivalent to using a linear function to separate or fit the data. It is suitable for data sets that are linearly separable or have low noise and dimensionality.
+  - Polynomial kernel: This kernel function computes the dot product between two data points raised to a specified degree. It can capture nonlinear relationships between the input and output variables, but it also introduces more parameters and complexity. It is suitable for data sets that have moderate noise and dimensionality, and have a polynomial relationship between the input and output variables.
+  - Radial basis function (RBF) kernel: This kernel function computes the exponential of the negative squared distance between two data points. It can capture complex and nonlinear relationships between the input and output variables, but it also requires more computational resources and tuning. It is suitable for data sets that have high noise and dimensionality, and have a non-parametric relationship between the input and output variables.
+  - Sigmoid kernel: This kernel function computes the hyperbolic tangent of the dot product between two data points. It can capture nonlinear and sigmoidal relationships between the input and output variables, but it also suffers from numerical instability and overfitting. It is suitable for data sets that have binary or categorical output variables, and have a sigmoidal relationship between the input and output variables.
+
+- The choice of kernel function depends on the data set and the problem at hand. It is important to compare the performance and complexity of different kernel functions and select the one that best fits the data and the desired outcome.

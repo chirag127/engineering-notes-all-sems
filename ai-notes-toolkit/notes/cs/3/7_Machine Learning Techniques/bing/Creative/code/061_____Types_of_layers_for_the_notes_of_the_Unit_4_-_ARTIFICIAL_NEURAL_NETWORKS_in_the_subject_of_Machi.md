@@ -1,0 +1,14 @@
+### Types of layers in artificial neural networks
+
+- Artificial neural networks (ANNs) are computational models that mimic the structure and function of biological neurons and their connections.
+- ANNs are composed of layers of artificial neurons, also called nodes or units, that process and transmit information between each other.
+- Based on the position in a neural network, there are three types of layers:
+  - Input layer – responsible for receiving input data and passing it on to the next layer. This is the first layer in a neural network.
+  - Hidden layers – can be found in almost every type of neural network except some single-layer types like perceptron. They perform intermediate computations and transformations on the input data before passing it to the output layer. They are called hidden because they are not directly observable from the input or output.
+  - Output layer – the last layer in a neural network which produces the final output or prediction. It usually has the same number of units as the number of classes or categories to be predicted.
+- Based on the function and structure of the artificial neurons, there are several types of layers that can be used in different types of neural networks. Some examples include:
+  - Dense (or fully connected) layers – connect every neuron in one layer to every neuron in the next layer. They are the most common and basic type of layer in ANNs. They can learn complex patterns and relationships from the input data, but they also have a large number of parameters and can be prone to overfitting.
+  - Convolutional layers – apply a set of filters or kernels to the input data, which can be images, audio, or text. They can extract local features and patterns from the input data, and reduce the number of parameters and computations compared to dense layers. They are widely used in computer vision and natural language processing tasks.
+  - Pooling layers – reduce the size and dimensionality of the input data by applying a pooling operation, such as max, average, or sum, to a region of the input. They can improve the efficiency and generalization of the neural network by removing noise and redundant information.
+  - Recurrent layers – have a feedback loop that allows them to store and reuse information from previous time steps. They can process sequential data, such as text, speech, or video, and capture temporal dependencies and long-term dependencies. They are commonly used in natural language processing and speech recognition tasks.
+  - Normalization layers – normalize the input data by adjusting its mean and variance, or by applying other scaling techniques. They can improve the stability and performance of the neural network by preventing the input data from having large or varying ranges of values.

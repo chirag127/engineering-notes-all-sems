@@ -1,0 +1,10 @@
+# Web Standards and W3C Recommendations
+
+- Web standards are the rules and guidelines that define how web technologies should work and how they should be used by web developers and browsers.
+- Web standards ensure that web pages are interoperable, accessible, secure, and user-friendly across different devices and platforms.
+- Web standards are developed and maintained by various organizations, such as the World Wide Web Consortium (W3C), the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO), and the Web Hypertext Application Technology Working Group (WHATWG).
+- W3C is the main international standards organization for the web. It was founded in 1994 by Tim Berners-Lee, the inventor of the web, and is composed of member organizations, staff, and the public.
+- W3C publishes documents that define web technologies, such as HTML, CSS, XML, SVG, and WCAG. These documents follow a process designed to promote consensus, fairness, public accountability, and quality. At the end of this process, W3C publishes Recommendations, which are considered web standards .
+- W3C also publishes other types of documents, such as Working Drafts, Candidate Recommendations, Proposed Recommendations, and Notes, which represent different stages of development and maturity of web technologies.
+- W3C web standards are optimized for interoperability, security, privacy, web accessibility, and internationalization. W3C's proven web standards process is based on fairness, openness, royalty-free, and making the web work for everyone .
+- W3C is focusing on technologies to enable web access anywhere, anytime, using any device. This includes web access from mobile phones and other mobile devices as well as use of web technology in consumer electronics, printers, interactive television, and even automobiles.

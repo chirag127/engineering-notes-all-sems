@@ -1,0 +1,9 @@
+### File sizes for the notes of the Unit 4 - HDFS (Hadoop Distributed File System) in the subject of Big Data
+
+- HDFS is a distributed file system that can store large amounts of data across multiple nodes in a cluster.
+- HDFS is designed to handle files that are typically in the range of gigabytes to terabytes in size, and not suitable for small files that are in the range of kilobytes to megabytes.
+- The reasons why HDFS is not efficient for small files are:
+  - Each file in HDFS is stored as a sequence of blocks, and each block has a fixed size (default 128 MB). If a file is smaller than the block size, it will occupy the whole block and waste the remaining space. This reduces the storage utilization and increases the overhead of managing the blocks.
+  - Each file in HDFS has a metadata entry in the NameNode, which is the master node that keeps track of the file system namespace and the locations of the blocks. If there are too many small files, the NameNode will have to store a large amount of metadata, which can consume a lot of memory and affect its performance and scalability.
+  - Each file in HDFS has a replication factor, which is the number of copies of each block that are stored on different nodes for fault tolerance (default 3). If there are too many small files, the replication factor will increase the network bandwidth and disk space consumption, and also increase the complexity of the block management and recovery.
+- Therefore, it is recommended to use HDFS for large files that are suitable for parallel processing and analysis, and avoid storing small files that are better handled by other file systems or databases.

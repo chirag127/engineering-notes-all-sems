@@ -1,0 +1,15 @@
+#### Software based self-guided learning to provide the required English language proficiency to students from an employability and career readiness standpoint. The software should align to Common European Framework of Reference for Languages (CEFR) and deliver a CEFR level – B2 upon completion.
+
+- Software based self-guided learning is a type of learning that uses computer programs or applications to deliver content, feedback, and assessment to learners who can control their own pace, path, and goals.
+- The required English language proficiency for students from an employability and career readiness standpoint is the ability to communicate effectively in English in various professional contexts, such as writing reports, giving presentations, participating in meetings, and negotiating with clients or colleagues.
+- The Common European Framework of Reference for Languages (CEFR) is a set of standards that describe the levels of language competence for learners of foreign languages. It consists of six levels: A1, A2, B1, B2, C1, and C2, with A1 being the lowest and C2 being the highest.
+- A CEFR level – B2 is defined as the ability to understand the main ideas of complex texts on both concrete and abstract topics, including technical discussions in one's field of specialization; to interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party; and to produce clear, detailed text on a wide range of subjects and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options.
+- A software based self-guided learning program that aims to provide the required English language proficiency to students from an employability and career readiness standpoint and deliver a CEFR level – B2 upon completion should have the following features:
+
+  - It should cover the four skills of listening, reading, speaking, and writing, as well as the subskills of grammar, vocabulary, pronunciation, and discourse.
+  - It should provide authentic and relevant content that reflects the real-world situations and tasks that students may encounter in their professional careers.
+  - It should offer adaptive and personalized learning paths that cater to the different needs, levels, and preferences of individual learners.
+  - It should provide immediate and constructive feedback and guidance to help learners monitor their progress and improve their performance.
+  - It should include various types of assessment, such as self-assessment, peer-assessment, and formal assessment, to measure the learners' achievement and proficiency.
+  - It should align to the CEFR standards and criteria and provide clear and transparent learning outcomes and objectives for each level and skill.
+  - It should be user-friendly, engaging, and interactive, and use multimedia and gamification elements to enhance the learning experience and motivation.

@@ -1,0 +1,26 @@
+### Forward Pass & Backward Pass Techniques in SPM
+
+- SPM stands for Software Project Management, which is the process of planning, organizing, executing, monitoring, and controlling software projects.
+- One of the tools used in SPM is the network diagram, which is a graphical representation of the project activities and their dependencies.
+- A network diagram consists of nodes (representing activities) and arrows (representing dependencies or precedence relationships).
+- A network diagram can help to determine the project duration, the critical path, and the float or slack of each activity.
+- The critical path is the longest path in the network diagram, which determines the minimum time required to complete the project.
+- The float or slack of an activity is the amount of time that the activity can be delayed without affecting the project duration or the start of the next activity.
+- Forward pass and backward pass are two techniques used to calculate the early and late start and finish dates of each activity in the network diagram.
+- Early start (ES) and early finish (EF) are the earliest possible dates that an activity can start and finish, respectively.
+- Late start (LS) and late finish (LF) are the latest possible dates that an activity can start and finish, respectively, without delaying the project completion.
+- Forward pass is a technique to move forward through the network diagram, starting from the first activity, and calculate the ES and EF of each activity.
+- Backward pass is a technique to move backward through the network diagram, starting from the last activity, and calculate the LS and LF of each activity.
+- The steps for forward pass are:
+  - Assign ES = 0 and EF = duration to the first activity in the network diagram.
+  - For each subsequent activity, calculate ES as the maximum EF of its predecessors, and EF as ES + duration.
+  - Repeat until all activities have ES and EF values.
+- The steps for backward pass are:
+  - Assign LF = EF and LS = LF - duration to the last activity in the network diagram.
+  - For each preceding activity, calculate LF as the minimum LS of its successors, and LS as LF - duration.
+  - Repeat until all activities have LS and LF values.
+- The float or slack of an activity can be calculated as:
+  - Total float = LF - EF or LS - ES
+  - Free float = minimum LS of successors - EF
+  - Independent float = minimum LS of successors - maximum EF of predecessors - duration
+- The critical path can be identified as the path with zero total float in the network diagram.

@@ -1,0 +1,18 @@
+# Investigating audit logs for the notes of the Unit 3 - Cyber Investigation in the subject of CYBER FORENSIC ANALYTICS
+
+- Audit logs are records of events that occur on a system or network, such as user actions, system changes, network connections, security breaches, etc. 
+- Audit logs are essential for cyber investigation, as they can provide evidence of malicious or unauthorized activities, identify the source and scope of an incident, and help with remediation and recovery.  
+- Audit logs can be classified into two types: system logs and user-level logs. System logs capture the basic information about the system's operation, such as boot and shutdown events, service status, hardware errors, etc. User-level logs capture the detailed information about the user's actions, such as logins, file access, configuration changes, etc. User-level logs require more configuration and storage than system logs, but they are more useful for cyber investigation. 
+- Audit log management is the process of collecting, storing, analyzing, and protecting audit logs from various sources. Audit log management involves the following steps:   
+  - Define the audit log policy, which specifies what events to log, how to format and store the logs, how long to retain the logs, who can access the logs, etc.
+  - Configure the audit log sources, such as operating systems, applications, network devices, etc., to generate and send the logs according to the policy.
+  - Collect and centralize the audit logs from different sources using a log collector or aggregator tool, such as syslog, Splunk, etc.
+  - Store and archive the audit logs securely in a database or a file system, ensuring the integrity, availability, and confidentiality of the logs.
+  - Analyze and monitor the audit logs using a log analysis or a security information and event management (SIEM) tool, such as Datadog, LogRhythm, etc., to detect anomalies, trends, patterns, and alerts.
+  - Protect the audit logs from unauthorized access, modification, deletion, or tampering, using encryption, authentication, authorization, backup, etc.
+- Audit log investigation is the process of examining and interpreting the audit logs to identify and respond to a cyber incident. Audit log investigation involves the following steps:   
+  - Define the scope and objectives of the investigation, such as the type, severity, and impact of the incident, the timeline and duration of the investigation, the roles and responsibilities of the investigators, etc.
+  - Collect and preserve the audit logs relevant to the investigation, such as the logs from the affected systems, applications, network devices, etc., ensuring the chain of custody and the admissibility of the logs as evidence.
+  - Analyze and correlate the audit logs using a log analysis or a SIEM tool, such as Datadog, LogRhythm, etc., to identify the root cause, the source, the target, the method, and the extent of the incident, as well as the indicators of compromise (IoCs) and the tactics, techniques, and procedures (TTPs) of the attacker.
+  - Report and document the findings and recommendations of the investigation, such as the summary and details of the incident, the evidence and analysis of the logs, the impact and risk assessment, the remediation and recovery actions, the lessons learned and best practices, etc.
+  - Review and improve the audit log management and investigation processes, such as the audit log policy, the audit log sources, the audit log tools, the audit log investigation procedures, etc., based on the feedback and evaluation of the investigation.

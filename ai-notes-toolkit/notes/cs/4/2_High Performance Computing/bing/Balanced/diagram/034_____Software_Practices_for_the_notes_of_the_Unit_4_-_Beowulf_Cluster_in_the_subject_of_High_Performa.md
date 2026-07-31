@@ -1,0 +1,11 @@
+### Software Practices for Beowulf Cluster
+
+- A Beowulf cluster is a type of parallel computing system that consists of a collection of interconnected computers that work together as a single unit.
+- A Beowulf cluster does not have any specific software that defines it, but typically uses free and open source software, such as Unix-like operating systems (e.g. Linux, BSD, Solaris) and parallel programming libraries (e.g. MPI, PVM, OpenMP).
+- A Beowulf cluster usually has a master node that acts as the central controller and coordinator of the cluster, and several worker nodes that perform the computational tasks assigned by the master node.
+- A Beowulf cluster requires some software practices to ensure its efficient and reliable operation, such as:
+  - Provisioning: This is the process of installing and configuring the operating system and other software on the cluster nodes. This can be done manually or automatically using tools such as Open Source Cluster Application Resources (OSCAR), which installs on top of a standard Linux distribution on the master node and then distributes it to the worker nodes.
+  - Monitoring: This is the process of checking the status and performance of the cluster nodes and the network. This can be done using tools such as Ganglia, which collects and displays metrics such as CPU load, memory usage, network traffic, etc.
+  - Scheduling: This is the process of allocating and managing the computational resources of the cluster to the parallel applications. This can be done using tools such as PBS, which allows users to submit, monitor, and control their jobs on the cluster.
+  - Debugging: This is the process of finding and fixing errors and bugs in the parallel applications. This can be done using tools such as TotalView, which allows users to inspect and modify the state of the parallel processes and threads on the cluster.
+  - Optimization: This is the process of improving the performance and scalability of the parallel applications. This can be done using tools such as TAU, which measures and analyzes the execution time, communication, synchronization, and memory usage of the parallel applications on the cluster.

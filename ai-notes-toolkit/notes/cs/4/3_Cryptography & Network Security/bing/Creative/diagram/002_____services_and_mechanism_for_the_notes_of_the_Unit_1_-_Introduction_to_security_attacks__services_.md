@@ -1,0 +1,41 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on the topic you requested:
+
+### Services and Mechanism for the Notes of the Unit 1 - Introduction to Security Attacks, Services and Mechanism, Classical Encryption TechniquesSubstitution Ciphers and Transposition Ciphers, Cryptanalysis, Steganography, Stream and Block Ciphers. Modern Block Ciphers: Block Ciphers Principles, Shannon’s Theory of Confusion and Diffusion, Fiestal Structure, Data Encryption Standard(DES), Strength of DES, Idea of Differential Cryptanalysis, Block Cipher Modes of Operations, Triple DES
+
+- Security Attacks, Services and Mechanism
+  - Security attack: any action that compromises the security of information owned by an organization
+  - Security service: a processing or communication service that is provided by a system to give a specific kind of protection to system resources; security services implement security policies and are implemented by security mechanisms
+  - Security mechanism: a mechanism that is designed to detect, prevent or recover from a security attack
+  - X.800 divides security services into five categories and fourteen specific services:
+    - Authentication: the assurance that the communicating entity is the one that it claims to be
+    - Access control: the prevention of unauthorized use of a resource
+    - Data confidentiality: the protection of data from unauthorized disclosure
+    - Data integrity: the assurance that data has not been altered or destroyed in an unauthorized manner
+    - Non-repudiation: the prevention of denial by one of the parties in a communication
+    - Availability: the assurance that the systems and data are accessible to authorized users when needed
+    - Audit and monitoring: the ability to record and examine security-related events
+    - Security management: the administration and control of security policies and mechanisms
+    - Security recovery: the ability to restore the system and data to a secure state after a security breach
+- Classical Encryption Techniques
+  - Substitution cipher: a method of encryption that replaces each plaintext symbol with a different ciphertext symbol according to a fixed rule
+    - Examples: Caesar cipher, monoalphabetic cipher, polyalphabetic cipher, one-time pad
+  - Transposition cipher: a method of encryption that rearranges the order of the plaintext symbols according to a fixed rule
+    - Examples: rail fence cipher, columnar transposition cipher, permutation cipher
+  - Cryptanalysis: the art and science of breaking ciphertext without knowing the key or the encryption algorithm
+    - Methods: ciphertext-only attack, known-plaintext attack, chosen-plaintext attack, chosen-ciphertext attack, frequency analysis, brute-force attack, etc.
+  - Steganography: the art and science of hiding information within other information, such as images, audio, video, etc.
+    - Techniques: least significant bit (LSB) insertion, masking and filtering, transformations, spread spectrum, etc.
+- Stream and Block Ciphers
+  - Stream cipher: a method of encryption that encrypts one bit or byte of plaintext at a time using a keystream generated from a secret key
+    - Examples: RC4, A5/1, A5/2, E0, etc.
+  - Block cipher: a method of encryption that encrypts a fixed-length block of plaintext using a secret key and a mathematical function
+    - Examples: DES, AES, IDEA, Blowfish, etc.
+- Modern Block Ciphers
+  - Block cipher principles: the basic design principles of block ciphers, such as confusion, diffusion, round function, key schedule, etc.
+  - Shannon’s theory of confusion and diffusion: a theory proposed by Claude Shannon that states that a good cipher should have two properties:
+    - Confusion: the relationship between the key and the ciphertext should be complex and obscure
+    - Diffusion: the influence of one plaintext bit on the ciphertext should be spread over many ciphertext bits
+  - Fiestal structure: a common structure for block ciphers that consists of multiple rounds of substitution and permutation operations, using different subkeys derived from the main key
+    - Examples: DES, AES, IDEA, etc.
+  - Data Encryption Standard (DES): a widely used block cipher that encrypts 64-bit blocks of plaintext using a 56-bit key and 16 rounds of fiestal structure
+  - Strength of DES: the security of DES depends on the key size, the block size, the number of rounds

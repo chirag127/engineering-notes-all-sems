@@ -1,0 +1,26 @@
+### GraphUtil for the notes of the Unit 4 - Developing Social-Semantic Applications in the subject of SOCIAL NETWORK ANALYTICS
+
+- GraphUtil is a Python module that provides various functions and classes for working with graphs and social networks.
+- GraphUtil can be used to create, manipulate, analyze, and visualize graphs and networks from different sources of data, such as text, images, audio, video, etc.
+- GraphUtil supports both directed and undirected graphs, as well as weighted and unweighted edges.
+- GraphUtil can perform various operations on graphs and networks, such as:
+  - Adding, removing, and updating nodes and edges
+  - Computing basic properties, such as degree, centrality, clustering, diameter, etc
+  - Finding paths, cycles, shortest paths, etc
+  - Detecting communities, cliques, motifs, etc
+  - Generating random graphs and networks
+  - Applying graph algorithms, such as breadth-first search, depth-first search, Dijkstra's algorithm, etc
+  - Measuring similarity and distance between nodes and graphs
+  - Comparing and aligning graphs and networks
+  - Extracting subgraphs and induced graphs
+  - Partitioning and clustering graphs and networks
+  - Visualizing graphs and networks using different layouts and styles
+- GraphUtil can also integrate with other Python modules and libraries, such as NumPy, SciPy, NetworkX, Matplotlib, etc.
+- GraphUtil can be used for various applications of social network analysis, such as:
+  - Exploring and understanding the structure and dynamics of social groups and communities 
+  - Identifying influential actors, leaders, and opinion makers 
+  - Discovering patterns, trends, and anomalies in social behavior and interactions 
+  - Predicting and modeling social phenomena, such as information diffusion, contagion, opinion formation, etc 
+  - Recommending and personalizing content, products, and services based on social preferences and interests 
+  - Enhancing and optimizing social media marketing and analytics
+  - Improving and securing social media platforms and networks

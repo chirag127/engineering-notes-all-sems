@@ -1,0 +1,8 @@
+# Experiment 8.1 - Echo client and echo server
+
+- An echo client and echo server are applications that allow a client and a server to communicate over a network using sockets     .
+- An echo client sends a message to the echo server and waits for a response. The echo server receives the message and sends back an identical copy of the message to the echo client. The echo client displays the received message on the standard output     .
+- The purpose of an echo client and echo server is to test the connectivity and functionality of the network and the sockets. They can also be used to measure the latency and throughput of the network     .
+- An echo client and echo server can be implemented using different protocols, such as TCP or UDP. TCP is a reliable and connection-oriented protocol that ensures the delivery and order of the messages. UDP is an unreliable and connectionless protocol that does not guarantee the delivery and order of the messages     .
+- An echo client and echo server can be implemented using different programming languages, such as Java, Python, or C. The programming language should provide a socket API that allows the creation and manipulation of sockets. The socket API should also support the protocol of choice, such as TCP or UDP     .
+- An echo client and echo server can be implemented using different architectures, such as single-threaded or multi-threaded. A single-threaded server can handle only one client connection at a time. A multi-threaded server can handle multiple client connections concurrently by creating a new thread for each client     .

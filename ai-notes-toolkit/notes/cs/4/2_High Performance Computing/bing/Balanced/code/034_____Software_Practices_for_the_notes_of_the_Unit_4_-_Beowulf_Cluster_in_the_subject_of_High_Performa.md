@@ -1,0 +1,22 @@
+### Software Practices for Beowulf Cluster
+
+- A Beowulf cluster is a type of high-performance computing system that consists of a collection of commodity hardware nodes connected by a private network and running a Unix-like operating system, such as Linux or BSD.
+- A Beowulf cluster does not have any specific software that defines it, but typically uses free and open source software to save cost and allow customization .
+- Some of the common software components used in a Beowulf cluster are:
+  - A parallel programming environment, such as MPI (Message Passing Interface) or PVM (Parallel Virtual Machine), that enables the communication and synchronization among the nodes.
+  - A distributed file system, such as NFS (Network File System) or PVFS (Parallel Virtual File System), that allows the nodes to share data and files.
+  - A batch system, such as PBS (Portable Batch System) or SLURM (Simple Linux Utility for Resource Management), that manages the allocation and execution of jobs on the cluster.
+  - A monitoring and management tool, such as Ganglia or Nagios, that collects and displays the status and performance of the cluster.
+  - A provisioning tool, such as OSCAR (Open Source Cluster Application Resources) or Rocks, that automates the installation and configuration of the operating system and other software on the cluster .
+- Some of the best practices for designing and setting up a Beowulf cluster are:
+  - Choose the hardware components that match the requirements and budget of the application, such as CPU speed, memory size, network bandwidth, disk capacity, etc.
+  - Use a dedicated head node that acts as the gateway, file server, and job scheduler for the cluster, and separate compute nodes that perform the actual computation.
+  - Use a private network, such as Ethernet or InfiniBand, that connects the nodes and provides high-speed and low-latency communication.
+  - Use a standard and stable operating system, such as Debian or CentOS, that supports the software components and has a large user community.
+  - Use a consistent and uniform configuration across the nodes, such as hostname, IP address, user account, software version, etc.
+  - Test and benchmark the cluster before using it for production, such as using HPL (High Performance Linpack) or NAS (NASA Advanced Supercomputing) benchmarks, and identify and resolve any performance issues or bottlenecks .
+- Some of the applications and benefits of using a Beowulf cluster are:
+  - It provides a cost-effective and scalable solution for high-performance computing, as it uses commodity hardware and open source software, and can be easily expanded by adding more nodes.
+  - It supports a wide range of scientific and engineering problems that require parallel processing, such as computational fluid dynamics, molecular dynamics, climate modeling, image processing, etc.
+  - It enables the development and testing of new algorithms and methods for parallel computing, as it provides a flexible and customizable platform.
+  - It fosters the collaboration and innovation among researchers and developers, as it is based on open standards and community-driven software .

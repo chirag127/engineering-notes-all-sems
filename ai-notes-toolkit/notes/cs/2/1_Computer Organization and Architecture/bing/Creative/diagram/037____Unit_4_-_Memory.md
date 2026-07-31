@@ -1,0 +1,13 @@
+## Unit 4 - Memory
+
+Memory is the mental process of encoding, storing and retrieving information. Memory can be divided into three main types: sensory memory, short-term memory and long-term memory.
+
+- Sensory memory is the brief and transient storage of sensory information, such as visual, auditory or tactile stimuli. Sensory memory lasts for a fraction of a second and has a large capacity, but is prone to decay and interference.
+- Short-term memory is the active and conscious manipulation of information, such as rehearsing, chunking or organizing. Short-term memory lasts for about 15 to 30 seconds and has a limited capacity, usually 7 plus or minus 2 items. Short-term memory can be improved by strategies such as mnemonics, elaboration and maintenance rehearsal.
+- Long-term memory is the relatively permanent and stable storage of information, such as facts, skills, events or emotions. Long-term memory has a potentially unlimited capacity and duration, but is subject to forgetting and distortion. Long-term memory can be classified into declarative memory and procedural memory.
+  - Declarative memory is the memory of factual knowledge, such as names, dates, facts or concepts. Declarative memory can be further divided into semantic memory and episodic memory.
+    - Semantic memory is the memory of general knowledge, such as words, meanings, rules or categories. Semantic memory is organized by schemas, which are mental frameworks that help us understand and organize information.
+    - Episodic memory is the memory of personal experiences, such as events, places, people or emotions. Episodic memory is organized by scripts, which are mental representations of typical sequences of actions or events.
+  - Procedural memory is the memory of skills and habits, such as riding a bike, playing an instrument or typing. Procedural memory is often implicit, meaning that we can perform the actions without conscious awareness or effort.
+
+Memory can be influenced by various factors, such as attention, encoding, retrieval, interference, forgetting, consolidation, reconstruction and emotion. Memory can also be affected by disorders, such as amnesia, Alzheimer's disease, dementia or false memories. Memory can be measured by various methods, such as recall, recognition, relearning or priming. Memory can be improved by various techniques, such as spaced practice, testing, feedback, elaboration, imagery or mnemonics. Memory is a complex and dynamic process that involves multiple brain regions and cognitive functions. Memory is essential for learning, thinking and behaving. Memory is one of the most fascinating and important topics in psychology.

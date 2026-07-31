@@ -1,0 +1,71 @@
+# IMAGE ANALYTICS
+## Unit 1 - Fundamentals
+### Introduction for the notes of the Unit 1 - Fundamentals in the subject of IMAGE ANALYTICS
+### Fundamental steps in Image Processing Systems for the notes of the Unit 1 - Fundamentals in the subject of IMAGE ANALYTICS
+### Image Acquisition for the notes of the Unit 1 - Fundamentals in the subject of IMAGE ANALYTICS
+### Sampling and Quantization for the notes of the Unit 1 - Fundamentals in the subject of IMAGE ANALYTICS
+### Pixel Relationships for the notes of the Unit 1 - Fundamentals in the subject of IMAGE ANALYTICS
+### Mathematical Tools Used in Digital Image Processing for the notes of the Unit 1 - Fundamentals in the subject of IMAGE ANALYTICS
+### Some Basic Intensity Transformation Functions for the notes of the Unit 1 - Fundamentals in the subject of IMAGE ANALYTICS
+### Image Negatives for the notes of the Unit 1 - Fundamentals in the subject of IMAGE ANALYTICS
+### Log Transformations for the notes of the Unit 1 - Fundamentals in the subject of IMAGE ANALYTICS
+### Power-Law Transformations for the notes of the Unit 1 - Fundamentals in the subject of IMAGE ANALYTICS
+### Histogram Processing for the notes of the Unit 1 - Fundamentals in the subject of IMAGE ANALYTICS
+### Color Fundamentals for the notes of the Unit 1 - Fundamentals in the subject of IMAGE ANALYTICS
+### Fundamentals of Spatial Filtering for the notes of the Unit 1 - Fundamentals in the subject of IMAGE ANALYTICS
+### Smoothing Spatial Filters for the notes of the Unit 1 - Fundamentals in the subject of IMAGE ANALYTICS
+### Sharpening Spatial Filters for the notes of the Unit 1 - Fundamentals in the subject of IMAGE ANALYTICS
+## Unit 2 - Morphological Image Processing
+### Morphological Image Processing for the notes of the Unit 2 - Morphological Image Processing in the subject of IMAGE ANALYTICS
+### Fundamentals for the notes of the Unit 2 - Morphological Image Processing in the subject of IMAGE ANALYTICS
+### Erosion and Dilation for the notes of the Unit 2 - Morphological Image Processing in the subject of IMAGE ANALYTICS
+### Opening and Closing for the notes of the Unit 2 - Morphological Image Processing in the subject of IMAGE ANALYTICS
+### Hit or Miss Transform for the notes of the Unit 2 - Morphological Image Processing in the subject of IMAGE ANALYTICS
+### Some Basic Morphological Algorithms for the notes of the Unit 2 - Morphological Image Processing in the subject of IMAGE ANALYTICS
+### Morphological Reconstruction for the notes of the Unit 2 - Morphological Image Processing in the subject of IMAGE ANALYTICS
+### Grayscale Morphology for the notes of the Unit 2 - Morphological Image Processing in the subject of IMAGE ANALYTICS
+## Unit 3 - Image Segmentation
+### Introduction for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+### Point for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+### Line for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+### Edge Detection for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+### Thresholding for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+### Foundation for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+### Basic Global thresholding for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+### Optimum Global Thresholding using Otsu’s Method for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+### Multiple Thresholds for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+### Variable Thresholding for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+### Segmentation by Region Growing and by Region Splitting and Merging for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+### Image Segmentation for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+### Active Contours for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+### Snakes and Level Sets for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+## Unit 4 - Feature Extraction
+### Background for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+### Representation for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+### Boundary Preprocessing for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+### Boundary Feature Descriptors for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+### Some Basic Boundary Descriptors for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+### Shape Numbers for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+### Fourier Descriptors for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+### Statistical Moments for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+### Regional Feature Descriptors for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+### Some Basic Descriptors for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+### Topological and Texture Descriptors for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+### Moment Invariants for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+### Principal Components as Feature Descriptors for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+### Whole-image Features Object for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+### Scale-Invariant Feature Transform (SIFT) for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+## Unit 5 - Image Pattern Classification
+### Background for the notes of the Unit 5 - Image Pattern Classification in the subject of IMAGE ANALYTICS
+### Patterns and Pattern Classes for the notes of the Unit 5 - Image Pattern Classification in the subject of IMAGE ANALYTICS
+### Pattern Classification by Prototype Matching for the notes of the Unit 5 - Image Pattern Classification in the subject of IMAGE ANALYTICS
+### Minimum-Distance Classifier for the notes of the Unit 5 - Image Pattern Classification in the subject of IMAGE ANALYTICS
+### Using Correlation for 2-D prototype matching for the notes of the Unit 5 - Image Pattern Classification in the subject of IMAGE ANALYTICS
+### Matching SIFT Features for the notes of the Unit 5 - Image Pattern Classification in the subject of IMAGE ANALYTICS
+### Matching Structural Prototypes for the notes of the Unit 5 - Image Pattern Classification in the subject of IMAGE ANALYTICS
+### Optimum (Bayes) Statistical Classifiers for the notes of the Unit 5 - Image Pattern Classification in the subject of IMAGE ANALYTICS
+### Neural Networks and Deep Learning for the notes of the Unit 5 - Image Pattern Classification in the subject of IMAGE ANALYTICS
+### Background for the notes of the Unit 5 - Image Pattern Classification in the subject of IMAGE ANALYTICS
+### The Perceptron for the notes of the Unit 5 - Image Pattern Classification in the subject of IMAGE ANALYTICS
+### Multilayer Feedforward Neural Networks for the notes of the Unit 5 - Image Pattern Classification in the subject of IMAGE ANALYTICS
+### Deep Convolutional Neural Networks for the notes of the Unit 5 - Image Pattern Classification in the subject of IMAGE ANALYTICS

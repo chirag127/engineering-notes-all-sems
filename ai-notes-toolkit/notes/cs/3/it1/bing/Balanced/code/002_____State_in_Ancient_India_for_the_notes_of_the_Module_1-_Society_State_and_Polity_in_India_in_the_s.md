@@ -1,0 +1,11 @@
+### State in Ancient India
+
+- The state in ancient India was a social organization with political power that ensured peace, order and happiness.
+- The origin of the state in ancient India is not clear, but there are three main theories: social contract theory, divine origin theory and organic theory.
+- Social contract theory: This theory holds that the state was formed by a voluntary agreement among the people who gave up some of their rights and freedoms to a ruler or a group of rulers in exchange for protection and welfare.
+- Divine origin theory: This theory holds that the state was created by God or gods who appointed a king or a dynasty to rule over the people as their representative or agent.
+- Organic theory: This theory holds that the state was a natural and inevitable outcome of the growth and development of human society, and that it evolved from the family, clan, tribe and village communities.
+- The types of states in ancient India were loosely categorized into monarchy, republic and oligarchy.
+- Monarchy: This was the most prevalent type of state in ancient India, where the king was the supreme authority and the source of power for the ministers, governors, officials and other functionaries . The king was assisted by a council of ministers, a general assembly of the people, and a judicial system. The king was expected to follow the dharma (righteousness) and protect the varnas (social classes) and ashramas (stages of life).
+- Republic: This was a type of state where the people elected their own rulers or representatives from among themselves, and where the power was shared by a number of clans, tribes or guilds. The republics were also known as sanghas, ganas, janapadas or rashtras. The republics had their own assemblies, laws, coins and armies. Some examples of republics in ancient India are the Licchavis, the Mallas, the Shakas and the Yaudheyas.
+- Oligarchy: This was a type of state where the power was concentrated in the hands of a few wealthy or influential people, such as nobles, merchants or priests. The oligarchies were also known as shrenis, pugas or nigamas. The oligarchies had their own rules, regulations and customs, and often controlled trade and commerce. Some examples of oligarchies in ancient India are the Nandas, the Mauryas and the Guptas.

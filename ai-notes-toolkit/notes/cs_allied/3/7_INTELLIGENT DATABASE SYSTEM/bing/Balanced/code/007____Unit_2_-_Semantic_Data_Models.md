@@ -1,0 +1,10 @@
+## Unit 2 - Semantic Data Models
+
+Semantic data models are conceptual data models that capture the meaning and relationships of data in a domain. They are often used to design databases, ontologies, and knowledge graphs. Semantic data models can also support data integration, interoperability, and reasoning.
+
+Some of the topics covered in this unit are:
+
+- **Entity-relationship model**: A semantic data model that represents data as entities, attributes, and relationships. Entities are objects or concepts that can be identified uniquely. Attributes are properties or characteristics of entities. Relationships are associations or connections between entities. An entity-relationship diagram (ERD) is a graphical notation for depicting an entity-relationship model.
+- **Object-oriented model**: A semantic data model that represents data as objects, classes, and inheritance. Objects are instances of classes that have attributes and methods. Classes are categories or types of objects that share common characteristics and behaviors. Inheritance is a mechanism that allows classes to inherit attributes and methods from other classes. An object-oriented diagram (OOD) is a graphical notation for depicting an object-oriented model.
+- **Semantic network model**: A semantic data model that represents data as nodes, links, and labels. Nodes are entities or concepts that can be identified uniquely. Links are relationships or connections between nodes. Labels are names or descriptions of nodes and links. A semantic network diagram (SND) is a graphical notation for depicting a semantic network model.
+- **Ontology model**: A semantic data model that represents data as classes, instances, properties, and axioms. Classes are categories or types of entities or concepts that share common characteristics. Instances are specific examples or members of classes. Properties are attributes or relationships of classes or instances. Axioms are rules or constraints that define the semantics and logic of the model. An ontology language (such as OWL) is a formal notation for expressing an ontology model.

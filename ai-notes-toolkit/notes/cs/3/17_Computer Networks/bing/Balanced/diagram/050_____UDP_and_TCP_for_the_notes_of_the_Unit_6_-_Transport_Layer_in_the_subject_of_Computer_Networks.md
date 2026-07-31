@@ -1,0 +1,9 @@
+### UDP and TCP for the notes of the Unit 6 - Transport Layer in the subject of Computer Networks
+
+- The transport layer is responsible for providing end-to-end communication between applications running on different hosts in a network.
+- The transport layer uses two main protocols: UDP (User Datagram Protocol) and TCP (Transmission Control Protocol).
+- UDP is a connectionless, unreliable protocol that does not guarantee delivery, ordering, or error checking of data segments. UDP is suitable for applications that require low latency, high throughput, or multicast/broadcast communication, such as streaming media, online gaming, or DNS queries.
+- TCP is a connection-oriented, reliable protocol that ensures delivery, ordering, and error checking of data segments. TCP is suitable for applications that require reliable, in-order, and error-free communication, such as web browsing, email, or file transfer.
+- Both UDP and TCP use port numbers to identify the source and destination applications of a data segment. Port numbers are 16-bit integers that range from 0 to 65535. Some port numbers are reserved for well-known services, such as 80 for HTTP, 25 for SMTP, or 53 for DNS.
+- Both UDP and TCP use checksums to detect errors in the data segments. Checksums are calculated by adding the binary values of the data segment and taking the one's complement of the result. The receiver verifies the checksum by adding the data segment and the checksum and checking if the result is all ones.
+- UDP and TCP have different header formats and fields. UDP header has only four fields: source port, destination port, length, and checksum. TCP header has more fields, such as sequence number, acknowledgment number, flags, window size, urgent pointer, and options. These fields are used to implement the features of TCP, such as connection establishment and termination, reliable data transfer, flow control, and congestion control.

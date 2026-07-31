@@ -1,0 +1,25 @@
+### IOT Based Automatic Vehicle Accident Detection and Rescue System
+
+- This system is a solution for solving the societal problem of delayed rescue operations for vehicle accidents.
+- It uses Internet of Things (IoT) technology to detect accidents and communicate information to rescue teams via SMS, web applications, or Android mobile applications.
+- The system consists of the following components:
+  - A vibration sensor that is attached to the vehicle and produces a digital pulse output when an accident or collision occurs .
+  - A microcontroller (such as Arduino Nano) that receives the output from the vibration sensor and compares it with a predefined threshold to determine if an accident has occurred.
+  - A GPS module that obtains the location coordinates of the vehicle from the satellite .
+  - A WiFi module (such as ESP8266) that connects to the internet and sends the location information to a cloud server or a web application .
+  - A GSM module that sends an SMS to a predefined emergency contact number with the location information .
+  - A web application or an Android mobile application that displays the location information on a map and allows the rescue team to access it .
+- The system works as follows:
+  - When an accident occurs, the vibration sensor detects the impact and sends a signal to the microcontroller .
+  - The microcontroller checks if the signal exceeds the threshold and if yes, it activates the GPS and WiFi modules.
+  - The GPS module obtains the location coordinates of the vehicle and sends them to the microcontroller .
+  - The microcontroller sends the location information to the cloud server or the web application via the WiFi module .
+  - The cloud server or the web application stores the location information and displays it on a map .
+  - The microcontroller also sends an SMS to the emergency contact number with the location information via the GSM module .
+  - The rescue team receives the SMS or accesses the web application or the Android mobile application and locates the vehicle on the map .
+  - The rescue team reaches the accident site and provides the necessary assistance.
+- The advantages of this system are:
+  - It reduces the response time and saves lives by alerting the rescue team as soon as possible .
+  - It provides accurate and reliable location information by using GPS and WiFi technologies  .
+  - It is cost-effective and easy to implement by using readily available components and platforms .
+  - It is scalable and adaptable to different vehicles and scenarios by using cloud computing and IoT technologies .

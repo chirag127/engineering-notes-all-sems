@@ -1,0 +1,22 @@
+### Contactless IOT Doorbell
+
+- A contactless IOT doorbell is a device that uses internet of things (IOT) technology to alert the house owner about the arrival of a visitor without requiring physical contact.
+- A contactless IOT doorbell can also perform additional functions such as scanning the temperature of the visitor, recognizing the face of the visitor, capturing the image of the visitor, and sending alerts to the house owner's mobile or desktop device.
+- A contactless IOT doorbell can help in solving societal problems such as preventing the spread of Covid-19, enhancing the security of the house, and improving the convenience of the house owner.
+- A contactless IOT doorbell typically consists of the following components:
+  - A microcontroller such as NodeMCU or Raspberry Pi that acts as the brain of the device and controls the communication and processing of data.
+  - A non-contact infrared temperature sensor such as MLX90614 that measures the body temperature of the visitor and sends the data to the microcontroller.
+  - A camera module such as Pi Camera or ESP32-CAM that captures the image of the visitor and sends the data to the microcontroller.
+  - A speaker or buzzer that produces a sound or voice to notify the house owner and the visitor.
+  - A wireless module such as Wi-Fi or Bluetooth that enables the connection of the device to the internet and the house owner's device.
+  - A power supply such as a battery or an adapter that provides the required voltage and current to the device.
+  - A casing or enclosure that protects the device from environmental factors and provides a suitable mounting option.
+- A contactless IOT doorbell works as follows:
+  - When a visitor approaches the door, the temperature sensor detects the presence of the visitor and measures the body temperature.
+  - The camera module captures the image of the visitor and performs face recognition using a pre-trained model or an online service.
+  - The microcontroller receives the data from the sensor and the camera and compares the temperature and the face with a predefined threshold and a database respectively.
+  - If the temperature is above the threshold or the face is not recognized, the microcontroller sends an alert to the house owner's device with the image and the temperature of the visitor.
+  - The house owner can then decide whether to allow or deny the entry of the visitor or to sound an alarm remotely.
+  - If the temperature is below the threshold and the face is recognized, the microcontroller sends a confirmation to the house owner's device with the image and the name of the visitor.
+  - The house owner can then welcome the visitor or instruct the speaker to do so.
+  - The microcontroller also logs all the data and events to an online database such as Firebase for future reference and analysis.

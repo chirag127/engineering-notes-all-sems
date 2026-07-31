@@ -1,0 +1,21 @@
+### Microcontrollers for the notes of the Unit 2 - SOFTWARE HARDWARE FRAMEWORKS in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- A microcontroller is a small and low-cost computer that can execute a program and control devices such as sensors, LEDs, motors, etc.
+- A microcontroller consists of a processor, memory, input/output ports, timers, and other peripherals integrated on a single chip.
+- Microcontrollers are widely used in wearable computing, which is the field of designing and developing devices that can be worn on the body or embedded in clothing or accessories.
+- Some of the advantages of using microcontrollers for wearable computing are:
+  - They can provide programmability and interactivity to the wearable devices.
+  - They can operate with low power consumption and run on batteries or harvested energy sources.
+  - They can communicate with other devices or networks using wireless protocols such as Bluetooth, Wi-Fi, NFC, etc.
+  - They can support various sensors and actuators to monitor and control physical parameters such as temperature, heart rate, motion, etc.
+  - They can offer a user interface through LEDs, buttons, displays, speakers, etc.
+- Some of the challenges of using microcontrollers for wearable computing are:
+  - They have limited processing power and memory capacity compared to general-purpose computers.
+  - They have to deal with environmental factors such as noise, interference, moisture, etc.
+  - They have to ensure security and privacy of the data collected and transmitted by the wearable devices.
+  - They have to balance the trade-off between performance and power consumption.
+- Some of the examples of microcontrollers for wearable computing are:
+  - Arduino and other compatible microcontrollers that are easy to use and program with a variety of sensors and modules.
+  - FLORA and GEMMA, which are circular and sewable microcontrollers designed by Adafruit for wearable projects.
+  - SAMA5D2, which is a low-power and small-footprint microcontroller by Microchip that supports a consumer-grade user interface.
+  - Wearable activity monitors, which are microcontroller-based devices that track physical activities and health parameters of the user.

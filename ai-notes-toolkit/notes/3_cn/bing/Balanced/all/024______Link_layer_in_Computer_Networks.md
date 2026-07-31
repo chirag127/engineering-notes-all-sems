@@ -1,0 +1,14 @@
+#### Link layer in Computer Networks
+
+- The link layer is the lowest layer in the Internet protocol suite, the networking architecture of the Internet.
+- The link layer is the group of methods and communications protocols confined to the link that a host is physically connected to.
+- The link layer is responsible for transferring data between nodes on a network segment across the physical layer.
+- The link layer performs the following functions:
+  - Framing: The packet received from the network layer is known as a frame in the link layer. The link layer encapsulates the frame with a header and a trailer that contain control information such as source and destination addresses, error detection codes, and frame sequence numbers.
+  - Addressing: The link layer encapsulates the source and destination's MAC address / physical address in the frame header. The MAC address is a unique identifier for each node on the network and is used to deliver the frame to the correct destination.
+  - Error Control: The link layer detects and possibly corrects errors that can occur in the physical layer. The link layer uses error detection codes such as parity bits, checksums, or cyclic redundancy checks (CRC) to check the integrity of the frame. The link layer may also use error correction codes such as Hamming codes or Reed-Solomon codes to correct the errors without retransmission. The link layer may also use retransmission schemes such as stop-and-wait, go-back-N, or selective repeat to recover from lost or corrupted frames.
+  - Flow Control: The link layer regulates the flow of data between the sender and the receiver to avoid congestion or overflow. The link layer may use feedback-based schemes such as sliding window or rate-based schemes such as leaky bucket or token bucket to control the flow of data.
+  - Media Access Control: The link layer coordinates the access of multiple nodes to the shared medium or channel. The link layer may use multiple access protocols such as ALOHA, CSMA, CSMA/CA, CSMA/CD, or TDMA to avoid or resolve collisions and ensure fair and efficient use of the channel.
+- The link layer may be implemented in hardware, software, or a combination of both. The link layer may also be divided into sublayers such as logical link control (LLC) and media access control (MAC) to provide different services and interfaces to the upper and lower layers.
+- The link layer is also known as the data link layer or layer 2 in the OSI model of computer networking.
+- A mnemonic to remember the functions of the link layer is **FAME** (Framing, Addressing, Media Access Control, Error Control). A mnemonic to remember the multiple access protocols is **ACT** (ALOHA, CSMA, TDMA).

@@ -1,0 +1,11 @@
+### Scheduling Aperiodic and Sporadic jobs in Priority Driven and Clock Driven Systems
+
+- Aperiodic jobs are jobs that have random arrival times and no deadlines. Sporadic jobs are jobs that have random arrival times and hard deadlines.
+- Priority driven systems are systems that assign priorities to jobs and schedule them according to their priorities. Clock driven systems are systems that schedule jobs according to a predefined table that is based on the system clock.
+- Scheduling aperiodic and sporadic jobs in priority driven systems can be done by using one of the following methods:
+  - Polling servers: A periodic task with a fixed priority and execution time that polls the aperiodic job queue and executes the aperiodic jobs if any. The polling server can be periodic, deferrable, or sporadic, depending on how it handles the unused execution time and the sporadic jobs.
+  - Slack stealing: An algorithm that uses the available slack times of periodic and sporadic jobs to complete aperiodic jobs early. The slack time of a job is the difference between its deadline and its remaining execution time. The algorithm can be global, local, or hybrid, depending on how it computes and distributes the slack times.
+  - Priority exchange: An algorithm that allows aperiodic jobs to exchange their priorities with periodic or sporadic jobs, so that they can execute sooner without affecting the schedulability of the system. The algorithm can be based on the laxity, the deadline, or the criticality of the jobs.
+- Scheduling aperiodic and sporadic jobs in clock driven systems can be done by using one of the following methods:
+  - Spare capacity: A portion of the schedule table that is reserved for aperiodic or sporadic jobs. The spare capacity can be static, dynamic, or adaptive, depending on how it is allocated and updated.
+  - Overload handling: A mechanism that handles the situation when the system is overloaded, i.e., when the demand of the jobs exceeds the supply of the processor. The overload handling can be based on the criticality, the urgency, or the value of the jobs.

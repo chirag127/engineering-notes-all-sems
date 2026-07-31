@@ -1,0 +1,7 @@
+### Contextual Information for the notes of the Unit 4 - Evidence Management in the subject of CYBER FORENSIC ANALYTICS
+
+- Evidence management is the process of collecting, preserving, analyzing and presenting digital evidence in a way that is admissible, reliable and unbiased in a court of law or other legal proceedings .
+- Evidence management involves following certain principles and standards, such as the chain of custody, the best evidence rule, the Daubert standard, the Federal Rules of Evidence, the ISO/IEC 27037 and 27041 standards, and the NIST guidelines  .
+- Evidence management also requires using appropriate tools and techniques, such as forensic analysis tools, security information and event management (SIEM) systems, linear sequential unmasking (LSU) frameworks, and forensic report writing skills  .
+- Evidence management is a crucial skill for cyber defense forensics analysts, who are responsible for detecting, investigating and responding to cyberattacks, malware infections, data breaches, fraud, identity theft, and other cybercrimes.
+- Evidence management is a multidisciplinary field that draws from computer science, information security, law, criminology, psychology, and data analytics  .

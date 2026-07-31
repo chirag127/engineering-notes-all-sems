@@ -1,0 +1,22 @@
+## Unit 5 - IMAGE COMPRESSION AND RECOGNITION
+
+- Image compression is the process of reducing the file size of an image while still trying to preserve the quality of the image.
+- Image compression is useful for saving storage space, reducing bandwidth requirements, and improving the efficiency of image processing algorithms.
+- Image compression can be classified into two types: lossless and lossy.
+  - Lossless compression means that the original image can be perfectly reconstructed from the compressed image, without any loss of information.
+  - Lossy compression means that some information is discarded during the compression process, and the reconstructed image is only an approximation of the original image.
+  - Lossless compression is suitable for images that require high fidelity, such as medical images, while lossy compression is suitable for images that can tolerate some degradation, such as natural images.
+- Image compression can be achieved by applying various techniques, such as image transform, quantization, and encoding.
+  - Image transform is a function that maps an image from one domain (vector space) to another domain (other vector space), where the image can be represented more compactly or efficiently.
+  - Quantization is the process of reducing the number of levels or values that represent an image, by rounding or grouping them into a smaller set.
+  - Encoding is the process of assigning codes or symbols to the quantized values, such that the codes are shorter for more frequent values and longer for less frequent values.
+- Image recognition is the process of identifying and classifying objects, faces, scenes, or actions in an image, using various techniques, such as feature extraction, machine learning, and deep learning.
+- Image recognition is useful for various applications, such as face recognition, object detection, scene understanding, and image captioning.
+- Image recognition can be performed by using various techniques, such as feature extraction, machine learning, and deep learning.
+  - Feature extraction is the process of extracting meaningful or distinctive information from an image, such as edges, corners, shapes, colors, textures, or keypoints.
+  - Machine learning is the process of learning a function or a model that can map the features to the labels or categories of the image, using various algorithms, such as k-nearest neighbors, support vector machines, or decision trees.
+  - Deep learning is the process of learning a complex function or a model that can directly map the raw pixels to the labels or categories of the image, using various architectures, such as convolutional neural networks, recurrent neural networks, or generative adversarial networks.
+- Image compression and recognition can be combined or integrated in various ways, such as recognition-aware compression, compression-based recognition, or compression-aided recognition.
+  - Recognition-aware compression is a method that optimizes the compression process according to the recognition task, such that the compressed image preserves the information that is relevant for the recognition task.
+  - Compression-based recognition is a method that performs the recognition task directly on the compressed image, without decompressing it, such that the recognition task benefits from the reduced dimensionality and noise of the compressed image.
+  - Compression-aided recognition is a method that uses the compression process as a feature extractor or a preprocessor for the recognition task, such that the recognition task benefits from the learned representation or the enhanced quality of the compressed image.

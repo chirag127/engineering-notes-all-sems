@@ -1,0 +1,13 @@
+## LIST OF EXPERIMENTS
+
+- An experiment is a scientific procedure that aims to test a hypothesis, answer a question, or discover something new.
+- Experiments usually involve manipulating one or more variables, measuring their effects, and comparing them with a control group.
+- Experiments can be classified into different types based on their purpose, design, and method of data analysis.
+- Some common types of experiments are:
+
+  - **Randomized controlled trial (RCT)**: An experiment that randomly assigns participants to either an experimental group that receives a treatment or intervention, or a control group that does not. The outcome of interest is then measured and compared between the two groups. RCTs are often used to test the effectiveness and safety of medical treatments, drugs, or policies.
+  - **Factorial design**: An experiment that involves two or more independent variables, each with two or more levels, and examines their combined effects on a dependent variable. For example, a factorial design can test how different doses of a drug and different types of exercise affect blood pressure.
+  - **Quasi-experiment**: An experiment that lacks random assignment of participants to groups, but still compares the effects of a treatment or intervention on a dependent variable. For example, a quasi-experiment can compare the academic performance of students who attend a new curriculum versus those who attend the old one, without randomly assigning them to the groups.
+  - **Natural experiment**: An experiment that exploits a naturally occurring event or situation that creates a difference in the exposure or treatment of participants, and compares the outcomes between the groups. For example, a natural experiment can compare the health effects of living near a nuclear plant versus living far away, using the plant's location as the source of variation.
+  - **Observational study**: A study that does not involve any manipulation of variables, but only observes and measures the characteristics and outcomes of participants. For example, an observational study can examine the relationship between smoking and lung cancer, without intervening or controlling any factors.
+  - **Survey**: A study that collects data from a sample of individuals using questionnaires, interviews, or other methods of measurement. Surveys can be used to describe the characteristics, opinions, behaviors, or attitudes of a population, or to test hypotheses about them.

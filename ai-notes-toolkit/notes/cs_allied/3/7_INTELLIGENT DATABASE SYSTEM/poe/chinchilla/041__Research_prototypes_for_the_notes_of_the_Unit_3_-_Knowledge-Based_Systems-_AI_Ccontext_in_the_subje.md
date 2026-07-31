@@ -1,0 +1,15 @@
+### Research Prototypes for the Notes of the Unit 3 - Knowledge-Based Systems- AI Context in the Subject of Intelligent Database System
+
+In the field of artificial intelligence, knowledge-based systems are developed to represent knowledge explicitly and to provide reasoning mechanisms to draw conclusions from that knowledge. These systems are used to solve complex problems that cannot be easily solved by traditional programming techniques. In this unit, we will study the various prototypes developed for knowledge-based systems, specifically in the context of intelligent database systems. The following are the research prototypes that are significant in this field:
+
+1. MYCIN Prototype: MYCIN is one of the earliest expert systems developed for medical diagnosis. It uses a rule-based system to diagnose bacterial infections and suggest appropriate treatments. The MYCIN system is designed to mimic the reasoning process of a human expert, and it has been successful in diagnosing infections with a high degree of accuracy.
+
+2. PROSPECTOR Prototype: PROSPECTOR is a knowledge-based system used for mineral exploration. It uses a combination of rule-based and case-based reasoning to identify mineral deposits. PROSPECTOR has been successful in identifying previously unknown mineral deposits and has been used in several real-world mineral exploration projects.
+
+3. XCON Prototype: XCON is a rule-based expert system developed by Digital Equipment Corporation to configure computer systems. XCON is designed to automate the process of configuring computer systems, which can be a time-consuming and error-prone task. XCON has been successful in reducing the time and effort required to configure computer systems and has been widely used in the computer industry.
+
+4. R1 Prototype: R1 is a rule-based expert system developed by the General Electric Company to diagnose problems with their jet engines. R1 uses a combination of forward and backward reasoning to diagnose engine problems and suggest appropriate repairs. R1 has been successful in reducing the time and cost required for engine maintenance and has been widely used in the aviation industry.
+
+5. CYC Prototype: CYC is a knowledge-based system that attempts to represent common-sense knowledge about the world. CYC is designed to mimic the reasoning process of a human being and is intended to be used as a tool for natural language understanding and other AI applications. CYC is still under development, and its potential applications in various fields are being explored.
+
+In conclusion, research prototypes such as MYCIN, PROSPECTOR, XCON, R1, and CYC have played a significant role in the development of knowledge-based systems and have been successful in solving complex problems in various domains. Understanding these prototypes and their underlying principles is essential for developing intelligent database systems that can reason and learn from data.

@@ -1,0 +1,30 @@
+### DAC
+
+- DAC stands for Digital-to-Analog Converter, which is a device that converts digital signals into analog signals.
+- DACs are often used in microcontroller applications to generate custom analog signals, such as voltages, waveforms, or voice synthesis.
+- DACs are characterized by their bit resolution, which indicates how many discrete voltage levels are possible between the positive and negative voltage sources.
+- Some microcontrollers have DACs integrated on-chip, while others require external DACs to extend their functionality.
+- The advantages of using on-chip DACs are:
+  - Reduced board space and component count
+  - Simplified interfacing and programming
+  - Improved noise immunity and power efficiency
+- The disadvantages of using on-chip DACs are:
+  - Limited number and performance of DAC channels
+  - Fixed reference voltage and output range
+  - Potential interference from digital logic
+- The advantages of using external DACs are:
+  - Higher resolution and speed
+  - Adjustable reference voltage and output range
+  - Greater flexibility and customization
+- The disadvantages of using external DACs are:
+  - Increased board space and component count
+  - More complex interfacing and programming
+  - Higher noise susceptibility and power consumption
+- Some examples of microcontrollers with on-chip DACs are:
+  - STM32F4 series
+  - PIC16F1885x series
+  - MSP430F5xx series
+- Some examples of external DACs are:
+  - MCP4725
+  - DAC0808
+  - AD9833

@@ -1,0 +1,13 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the subject of Deep Learning. Here is the content for the topic of Training a network for the notes of the Unit 1 - INTRODUCTION:
+
+### Training a network
+
+- Training a network is the process of adjusting the parameters of a network to minimize a loss function that measures the discrepancy between the network's predictions and the actual labels of the data.
+- The loss function is also called the objective function or the cost function, and it quantifies the performance of the network on a given task.
+- The most common loss function for classification tasks is the cross-entropy loss, which measures the difference between the probability distributions of the network's predictions and the true labels.
+- The most common loss function for regression tasks is the mean squared error (MSE) loss, which measures the average of the squared differences between the network's predictions and the true values.
+- To train a network, we need to use an optimization algorithm that iteratively updates the parameters of the network to reduce the loss function. The most common optimization algorithm is gradient descent, which computes the gradient of the loss function with respect to the parameters and updates the parameters in the opposite direction of the gradient by a small step size called the learning rate.
+- Gradient descent can be performed in different ways, such as batch gradient descent, stochastic gradient descent (SGD), or mini-batch gradient descent, depending on how many data points are used to compute the gradient at each iteration.
+- Gradient descent can also be enhanced with various techniques, such as momentum, adaptive learning rates, or regularization, to improve the convergence and generalization of the network.
+- To evaluate the performance of the network, we need to use a metric that reflects the goal of the task, such as accuracy, precision, recall, or F1-score for classification tasks, or mean absolute error (MAE), root mean squared error (RMSE), or coefficient of determination (R^2) for regression tasks.
+- We also need to split the data into training, validation, and test sets, and use the validation set to tune the hyperparameters of the network, such as the number of layers, the number of units, the activation functions, the learning rate, or the regularization strength, and use the test set to measure the final performance of the network on unseen data.

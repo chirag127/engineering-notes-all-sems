@@ -1,0 +1,13 @@
+### History of Internet
+
+- The internet is a system of interconnected computer networks that allows communication and data exchange across the world.
+- The origins of the internet can be traced back to the 1950s, when the United States was engaged in the Cold War with the Soviet Union and wanted to create a reliable and decentralized communication system that could survive a nuclear attack .
+- The first precursor of the internet was the ARPANET, which stands for Advanced Research Projects Agency Network. It was a project funded by the US Department of Defense that connected four universities in 1969 .
+- The ARPANET used a protocol called NCP (Network Control Protocol) to transfer data between the computers. However, this protocol was not compatible with other networks that emerged later, such as the packet radio network (PRNET) and the satellite network (SATNET).
+- To solve this problem, two researchers, Bob Kahn and Vint Cerf, developed a new protocol called TCP/IP (Transmission Control Protocol/Internet Protocol) in the 1970s. This protocol allowed different networks to communicate with each other using a common language and address system  .
+- The TCP/IP protocol was adopted by the ARPANET in 1983, and this marked the birth of the internet as we know it today. The term "internet" was first used in a document published by Kahn and Cerf in 1974.
+- The internet grew rapidly in the 1980s and 1990s, as more networks joined the system and more applications were developed, such as email, file transfer, news, chat, and the World Wide Web  .
+- The World Wide Web, or simply the web, was invented by Tim Berners-Lee in 1989. It is a system of interlinked documents and resources that can be accessed through a web browser using a protocol called HTTP (Hypertext Transfer Protocol) .
+- The web is not the same as the internet, but it is the most popular and widely used service on the internet. The web made the internet more accessible and user-friendly, as it allowed people to create and share information using text, images, audio, video, and hyperlinks .
+- The internet has revolutionized many aspects of human society, such as communication, education, commerce, entertainment, politics, and culture. It has also raised many challenges and issues, such as security, privacy, censorship, digital divide, and cybercrime .
+- The internet continues to evolve and expand, as new technologies and innovations emerge, such as cloud computing, social media, artificial intelligence, internet of things, and 5G .

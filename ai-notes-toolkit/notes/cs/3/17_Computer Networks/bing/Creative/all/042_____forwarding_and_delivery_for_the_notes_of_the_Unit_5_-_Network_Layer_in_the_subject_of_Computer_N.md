@@ -1,0 +1,11 @@
+# Forwarding and Delivery in Network Layer
+
+The network layer is responsible for the delivery of packets from the source host to the destination host across one or more networks. The network layer also supervises the handling of packets by the underlying physical networks and determines the best path for each packet to reach its destination. The network layer provides two main functions: forwarding and routing.
+
+## Forwarding
+
+Forwarding is the process of moving a packet from an input link interface to the appropriate output link interface of a router. Forwarding is based on the destination address of the packet and the routing table of the router. The routing table contains information about the next hop for each possible destination or a range of destinations. The router uses a matching algorithm to find the best entry in the routing table for the packet's destination address and forwards the packet to the corresponding output link. Forwarding is a local action that happens at each router along the path of the packet.
+
+## Routing
+
+Routing is the process of finding the best path for each packet from the source to the destination across the network. Routing is based on the topology of the network and the current traffic conditions. Routing is a global process that involves communication and cooperation among all the routers in the network. Routing algorithms can be classified into two categories: static and dynamic. Static routing algorithms use fixed routing tables that do not change unless the network topology changes. Dynamic routing algorithms use periodic or event-driven updates to adjust the routing tables according to the network conditions. Routing algorithms can also be classified into two types: centralized and distributed. Centralized routing algorithms use a single entity, such as a server, to compute and distribute the routing tables to all the routers. Distributed routing algorithms use local information and exchange messages among the routers to compute and update the routing tables.

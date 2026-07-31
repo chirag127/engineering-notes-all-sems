@@ -1,0 +1,21 @@
+# Unit 4 - ENERGY HARVESTING WIRELESS SENSORS
+
+- Energy harvesting wireless sensors are devices that can collect and convert ambient energy from their environment into electrical energy for powering themselves and transmitting data  .
+- Energy harvesting wireless sensors have several advantages over conventional battery-powered sensors, such as:
+  - They eliminate the need for battery replacement and maintenance, which reduces the cost and environmental impact of sensor networks  .
+  - They enable the deployment of sensors in hard-to-reach or hazardous locations, where battery replacement is impractical or dangerous .
+  - They increase the reliability and lifetime of sensor networks, as they do not depend on the availability and capacity of batteries  .
+  - They allow the integration of sensors with various energy sources, such as solar, thermal, vibration, radio frequency, etc., which can enhance the functionality and adaptability of sensor networks  .
+- Energy harvesting wireless sensors typically consist of four main components :
+  - An energy harvester, which captures and converts ambient energy into electrical energy.
+  - An energy storage unit, which stores the harvested energy for later use or provides a stable power supply for the sensor.
+  - A sensor, which measures a physical or environmental parameter, such as temperature, humidity, motion, etc.
+  - A wireless transceiver, which communicates the sensor data to a base station or other nodes in the network.
+- Energy harvesting wireless sensors can be classified into two types based on their energy management strategy:
+  - Energy-neutral sensors, which operate continuously by balancing the energy consumption and generation. They require a sufficient and stable energy source to meet the power demand of the sensor and the transceiver.
+  - Intermittently-powered sensors, which operate periodically by switching between active and sleep modes. They can tolerate a variable and intermittent energy source, but they may suffer from data loss or inconsistency due to power interruptions.
+- Energy harvesting wireless sensors can be applied to various domains, such as smart buildings, industrial automation, environmental monitoring, healthcare, etc. Some examples of energy harvesting wireless sensors are  :
+  - Solar-powered temperature and humidity sensors for indoor climate control.
+  - Thermoelectric-powered vibration sensors for machine condition monitoring.
+  - Piezoelectric-powered pressure sensors for tire pressure monitoring.
+  - Radio frequency-powered RFID tags for asset tracking and identification.

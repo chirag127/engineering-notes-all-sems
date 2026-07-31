@@ -1,0 +1,11 @@
+#### Grunt in Pig
+
+Grunt is the interactive shell for Pig Latin. It is a command-line interface that allows you to interact with the Pig Latin interpreter. Here are some important points to keep in mind when working with Grunt in Pig:
+
+- Grunt is a powerful tool for debugging and testing Pig Latin scripts. You can use it to test individual statements, functions, and scripts before running them in a production environment.
+- Grunt provides a number of built-in commands that you can use to manage your Pig Latin scripts. These commands include `ls`, `cd`, `pwd`, `rm`, `cp`, `mv`, and `mkdir`. You can also define your own custom commands using the `DEFINE` statement.
+- Grunt supports both batch mode and interactive mode. In batch mode, you can execute a Pig Latin script by passing it as an argument to the `pig` command. In interactive mode, you can enter statements one at a time and see the results immediately.
+- Grunt supports tab completion, which can save you a lot of time when typing long commands or file paths. To use tab completion, simply press the `Tab` key after typing the first few characters of a command or file name.
+- Grunt provides a number of options that you can use to customize its behavior. For example, you can use the `-x` option to specify the execution mode (e.g., local or MapReduce), or the `-param` option to pass parameters to your Pig Latin script.
+- Grunt also provides a number of useful utilities for working with Hadoop and Pig. These utilities include the `HDFS`, `PigStorage`, and `PigDump` functions, which allow you to read and write data to and from HDFS, as well as the `DESCRIBE` and `EXPLAIN` commands, which provide information about your data and your Pig Latin scripts.
+- Finally, it's worth noting that Grunt is just one component of the Pig ecosystem. To really take advantage of Pig's power and flexibility, you'll need to learn about other components like the Pig Latin language itself, the Pig Latin compiler, and the Pig Latin runtime environment. But with a solid understanding of Grunt, you'll be well on your way to becoming a Pig expert.

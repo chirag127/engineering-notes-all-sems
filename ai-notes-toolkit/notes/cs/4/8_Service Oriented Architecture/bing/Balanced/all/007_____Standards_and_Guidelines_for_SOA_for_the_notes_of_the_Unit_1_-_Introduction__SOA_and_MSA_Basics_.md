@@ -1,0 +1,30 @@
+# Standards and Guidelines for SOA
+
+- Service-Oriented Architecture (SOA) is a design paradigm that aims to provide reusable, interoperable, and loosely coupled services that can be composed to create business processes and applications.
+- SOA is based on some guiding principles that define the characteristics and behaviors of services and their interactions. These principles are:
+  - Standardized service contract: Services are specified through one or more service description documents that define their interfaces, operations, inputs, outputs, and policies.
+  - Loose coupling: Services are designed as self-contained components that maintain relationships that minimize dependencies on other services.
+  - Abstraction: Services hide their logic and implementation details from the consumers and are completely defined by their service contracts.
+  - Reusability: Services are designed to be generic and modular so that they can be used by different consumers for different purposes.
+  - Autonomy: Services have control over their own logic and resources and are not affected by the changes or failures of other services.
+  - Statelessness: Services do not retain any information about previous requests or transactions and can handle each request independently.
+  - Discoverability: Services are documented and published in a service registry or repository that can be accessed by potential consumers.
+  - Composability: Services can be combined and orchestrated to create higher-level business processes and applications.
+- SOA also relies on some standards and technologies that enable the communication and integration of services across different platforms and domains. Some of these standards and technologies are:
+  - Web Services: A set of protocols and standards that allow services to exchange messages using XML-based formats over the internet. Some of the common web service standards are SOAP, WSDL, UDDI, and WS-*.
+  - REST: A style of web service that uses HTTP methods and URIs to access and manipulate resources on a server. REST services are based on the principles of statelessness, uniform interface, cacheability, and layered system.
+  - JSON: A lightweight and human-readable data format that is commonly used to exchange data between web services and clients. JSON is based on the syntax of JavaScript objects and arrays.
+  - XML: A markup language that defines a set of rules for encoding data in a readable and structured way. XML is widely used to represent and validate the structure and content of web service messages.
+  - SOAP: A protocol that defines a standard envelope for sending and receiving web service messages over different transport protocols. SOAP messages are composed of an envelope, a header, and a body that contain XML data.
+  - WSDL: A language that describes the interface, operations, and bindings of a web service using XML syntax. WSDL documents can be used to generate client stubs and service proxies that facilitate the invocation of web services.
+  - UDDI: A standard that defines a registry or directory for publishing and discovering web services. UDDI allows service providers to register their services and service consumers to search and locate the services they need.
+  - WS-*: A family of specifications that extend the functionality and interoperability of web services. Some of the WS-* standards are WS-Security, WS-ReliableMessaging, WS-Addressing, WS-Policy, and WS-Coordination.
+- SOA also follows some guidelines and best practices that help to ensure the quality and effectiveness of service design and development. Some of these guidelines and best practices are:
+  - Identify and analyze the business requirements and goals that drive the need for services.
+  - Define the scope and boundaries of the service domain and the service inventory.
+  - Model the service contracts and interfaces using standard and consistent formats and conventions.
+  - Design the service logic and implementation using appropriate patterns and principles.
+  - Test and validate the service functionality and performance using suitable tools and methods.
+  - Deploy and manage the service lifecycle using reliable and secure mechanisms.
+  - Monitor and measure the service usage and performance using relevant metrics and indicators.
+  - Evaluate and improve the service quality and value using feedback and reviews.

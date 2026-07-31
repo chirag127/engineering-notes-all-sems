@@ -1,0 +1,15 @@
+### Forwarding and Delivery in Network Layer
+
+The Network Layer, also known as the Internet Layer, is responsible for providing logical addressing and routing services to enable end-to-end communication between hosts on different networks. Forwarding and delivery are two important functions of the Network Layer, which ensure that data is transmitted reliably and efficiently between hosts.
+
+Here are some important points to understand forwarding and delivery in the Network Layer:
+
+- Forwarding refers to the process of transmitting a packet from one router to the next towards its destination. The router examines the destination address in the packet header and determines the next hop along the path to the destination using a routing table.
+- Delivery refers to the process of delivering a packet to its final destination. Once the packet reaches the destination network, the router uses the destination address to forward the packet to the appropriate host. The delivery process is typically handled by the transport layer of the receiving host.
+- The Network Layer uses a protocol called Internet Protocol (IP) to provide logical addressing and routing services. IP addresses are used to identify hosts and networks, and routers use IP addresses to forward packets between networks. IPv4 and IPv6 are the most commonly used versions of IP.
+- Routing protocols are used to exchange routing information between routers and build routing tables. Examples of routing protocols include Routing Information Protocol (RIP), Open Shortest Path First (OSPF), and Border Gateway Protocol (BGP).
+- The Network Layer also provides fragmentation and reassembly services to enable transmission of large packets over networks with smaller Maximum Transmission Unit (MTU) sizes. When a packet is too large to be transmitted over a network, it is fragmented into smaller packets at the sending host and reassembled at the receiving host.
+- Quality of Service (QoS) is an important consideration in the Network Layer, as it determines how packets are prioritized and handled during transmission. QoS mechanisms include traffic shaping, packet scheduling, and congestion control.
+- Network Layer protocols such as IPsec and Virtual Private Network (VPN) provide security services to protect data transmitted over public networks. IPsec provides encryption and authentication services, while VPNs create secure tunnels between hosts over the Internet.
+
+In summary, forwarding and delivery are essential functions of the Network Layer, which ensure that data is transmitted reliably and efficiently between hosts on different networks. The Network Layer uses Internet Protocol (IP) to provide logical addressing and routing services, and routing protocols are used to exchange routing information between routers and build routing tables. The Network Layer also provides fragmentation and reassembly services, QoS mechanisms, and security services to protect data transmitted over public networks.

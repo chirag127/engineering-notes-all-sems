@@ -1,0 +1,7 @@
+### Protocols Governing Web
+
+- The **TCP/IP** suite of protocols is the set of protocols used to communicate across the internet. It is also widely used on many organizational networks due to its flexibility and wide array of functionality provided. TCP/IP is a set of protocols which is used to govern the web.
+- The **Defence Advance Research Projects Agency (DARPA)** originally developed **Transmission Control Protocol/Internet Protocol (TCP/IP)** to interconnect various defence department computer networks. The Internet, an international Wide Area Network, uses TCP/IP to connect government and educational institutions across the world.
+- A protocol is a set of rules that is used to communicate applications to each other.
+- Some common Internet protocols include **TCP/IP (Transmission Control Protocol/Internet Protocol)**, **UDP/IP (User Datagram Protocol/Internet Protocol)**, **HTTP (HyperText Transfer Protocol)** and **FTP (File Transfer Protocol)**.
+- A web browser loads a webpage using various protocols: It uses the **Domain Name System (DNS)** protocol to convert a domain name into an IP address. It uses the **HyperText Transfer Protocol (HTTP)** to request the webpage contents from that IP address.

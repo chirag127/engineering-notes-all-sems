@@ -1,0 +1,26 @@
+### Embedded computing basics for IoT
+
+- Embedded systems are electronic devices that have a specific function and are integrated within a larger system. They usually have limited resources, such as memory, processing power, and battery life. They support real-time computing and sensing in the IoT.
+- Embedded systems are composed of several components, such as:
+  - Power source: The device needs a source of energy to operate, such as utility power, batteries, or solar panels.
+  - Time base: The device needs a way to measure time and synchronize its operations, such as a clock or a timer.
+  - Digital processing: The device needs a processor or a microcontroller to execute instructions and perform computations.
+  - Memory: The device needs a storage space to store data and programs, such as ROM, RAM, or flash memory.
+  - Software and firmware: The device needs a set of instructions and rules to control its behavior, such as an operating system, a device driver, or an application.
+  - Specialized circuitry: The device may need additional hardware components to perform specific functions, such as sensors, actuators, communication modules, or display units.
+  - Input from the environment: The device may need to sense and collect data from its surroundings, such as temperature, humidity, light, sound, or motion.
+  - Output to the environment: The device may need to act and affect its surroundings, such as turning on a light, playing a sound, or sending a message.
+- Embedded systems can communicate with other devices or systems using various protocols and technologies, such as wired or wireless networks, serial or parallel ports, or radio frequency identification (RFID) tags.
+- Embedded systems can be classified into different types based on their characteristics, such as:
+  - Standalone: The device can operate independently without any external connection or interaction.
+  - Networked: The device can connect and exchange data with other devices or systems over a network.
+  - Mobile: The device can move and change its location while operating.
+  - Distributed: The device is part of a larger system that consists of multiple devices that cooperate and coordinate with each other.
+  - Reactive: The device responds to events and stimuli from its environment in a timely manner.
+  - Adaptive: The device can adjust its behavior and parameters according to the changes in its environment or requirements.
+- Embedded systems can be designed and developed using various tools and platforms, such as  :
+  - Arduino: A popular open-source platform that consists of a hardware board and a software IDE. It can be used to create simple and interactive devices using various sensors, actuators, and modules.
+  - Raspberry Pi: A low-cost and compact computer that can run various operating systems and applications. It can be used to create complex and powerful devices using various peripherals and interfaces.
+  - BeagleBone: A Linux-based computer that can run various applications and programs. It can be used to create high-performance and scalable devices using various expansion boards and connectors.
+  - Intel Galileo: A microcontroller board that can run Linux and Arduino software. It can be used to create compatible and versatile devices using various shields and modules.
+  - ARM Cortex: A family of processors that can run various operating systems and applications. It can be used to create efficient and reliable devices using various development boards and kits.

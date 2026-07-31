@@ -1,0 +1,38 @@
+### Return on Investment (ROI) for the notes of the Unit 8 - Business Case for SOA in the subject of Service Oriented Architecture
+
+- Return on investment (ROI) is a measure of the profitability of an investment, calculated by dividing the net gain from the investment by the initial cost of the investment and multiplying by 100  .
+- ROI can be used to compare different investment options and to evaluate the performance of a project or a business.
+- Service-oriented architecture (SOA) is an approach to designing and developing software applications that are composed of loosely coupled, reusable, and interoperable services that communicate through standardized protocols .
+- SOA can provide several benefits for an organization, such as:
+  - Increased agility and flexibility to respond to changing business needs and customer demands
+  - Reduced development and maintenance costs by reusing existing services and avoiding duplication of efforts
+  - Improved quality and reliability by enforcing service contracts and policies
+  - Enhanced scalability and performance by distributing the workload among multiple services
+  - Facilitated integration and collaboration with external partners and systems by using common standards and interfaces
+- The business case for SOA is based on estimating the costs and benefits of adopting SOA and comparing them with the current state or alternative solutions.
+- The costs of SOA may include:
+  - Initial investment in SOA infrastructure, such as middleware, service registry, governance tools, etc.
+  - Training and education of staff on SOA principles and practices
+  - Design and development of new services or refactoring of existing applications to expose them as services
+  - Testing and deployment of services and composite applications
+  - Monitoring and management of services and service level agreements (SLAs)
+  - Change management and governance of the SOA lifecycle
+- The benefits of SOA may include:
+  - Reduced time to market and increased customer satisfaction by delivering new or improved functionality faster and more efficiently
+  - Increased revenue and market share by expanding the reach and scope of the business offerings and creating new opportunities for innovation and differentiation
+  - Reduced operational and capital expenses by optimizing the use of existing resources and avoiding unnecessary purchases or upgrades
+  - Increased productivity and collaboration by enabling cross-functional teams and processes to work together more effectively and seamlessly
+  - Improved risk management and compliance by ensuring the security, privacy, and quality of the services and data
+- The ROI of SOA can be calculated by subtracting the total costs of SOA from the total benefits of SOA and dividing the result by the total costs of SOA, then multiplying by 100 .
+- The ROI of SOA can vary depending on the scope, scale, and complexity of the SOA initiative, as well as the maturity and readiness of the organization to adopt SOA.
+- The ROI of SOA can also be influenced by external factors, such as market conditions, customer expectations, regulatory requirements, competitive pressures, etc.
+- The ROI of SOA can be measured at different levels, such as project, program, portfolio, or enterprise level, and over different time horizons, such as short-term, medium-term, or long-term.
+- The ROI of SOA can be enhanced by following best practices, such as:
+  - Aligning the SOA strategy with the business strategy and objectives
+  - Establishing a clear vision and roadmap for SOA adoption and evolution
+  - Defining and prioritizing the business requirements and value propositions for SOA
+  - Identifying and selecting the most suitable SOA architecture and technologies for the organization
+  - Developing and implementing a comprehensive SOA governance framework and processes
+  - Engaging and communicating with all the stakeholders and users of SOA
+  - Monitoring and evaluating the performance and outcomes of SOA
+  - Continuously improving and optimizing the SOA environment and services

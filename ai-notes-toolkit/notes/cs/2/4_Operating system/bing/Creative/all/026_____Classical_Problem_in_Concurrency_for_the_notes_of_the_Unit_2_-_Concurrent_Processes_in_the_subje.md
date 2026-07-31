@@ -1,0 +1,15 @@
+# Classical Problems in Concurrency
+
+Concurrency is the execution of multiple instruction sequences at the same time. It happens in the operating system when there are several process threads running in parallel. The running process threads always communicate with each other through shared memory or message passing.
+
+Concurrency introduces some challenges for the operating system, such as:
+
+- How to coordinate the access to shared resources among concurrent processes?
+- How to avoid deadlock, starvation, and race conditions among concurrent processes?
+- How to ensure correctness, consistency, and fairness among concurrent processes?
+
+To illustrate these challenges and their possible solutions, some classical problems of concurrency have been proposed and studied. These problems are:
+
+- The producer-consumer problem: This problem is generalized in terms of the producer-consumer problem, where a finite buffer pool is used to exchange messages between producer and consumer processes. The producer processes generate data and put them into the buffer, while the consumer processes take data from the buffer and consume them. The challenge is to synchronize the access to the buffer such that the producer does not overflow the buffer and the consumer does not underflow the buffer. The solution involves using semaphores or monitors to control the mutual exclusion and the synchronization of the producer and consumer processes.
+- The readers-writers problem: This problem is concerned with the access to a shared data structure or file by multiple processes. The processes can be either readers or writers. The readers only read the data, while the writers can read and modify the data. The challenge is to allow multiple readers to access the data simultaneously, but to restrict the access to only one writer at a time. The solution involves using semaphores or monitors to coordinate the access of the readers and writers, and to ensure that no reader is kept waiting unless a writer has already obtained permission to use the shared object.
+- The dining-philosophers problem: This problem is a classic example of a large class of concurrency-control problems. It involves five philosophers who spend their lives thinking and eating. The philosophers share a circular table surrounded by five chairs, each belonging to one philosopher. In the center of the table is a bowl of rice, and the table is laid with five single chopsticks. The challenge is to design a regimen (a concurrent algorithm) such that no philosopher will starve; i.e., each can forever continue to alternate between eating and thinking, assuming that no philosopher can know when others may want to eat or think. The solution involves using semaphores or monitors to regulate the access to the chopsticks, and to prevent deadlock and starvation among the philosophers.

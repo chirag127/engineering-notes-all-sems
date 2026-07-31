@@ -1,0 +1,25 @@
+#### Function Oriented Design in Software Design
+
+- Function Oriented Design (FOD) is a method to software design where the model is decomposed into a set of interacting units or modules where each unit or module has a clearly defined function .
+- FOD is based on the idea of top-down design, where the system is first described at a high level of abstraction, and then refined into lower levels of details .
+- FOD follows a generic procedure:
+  - Start with a high level description of what the software/program does.
+  - Identify the main functions or processes that the software/program performs.
+  - Draw a data flow diagram (DFD) to show the flow of information between the functions or processes.
+  - Define the data items used in the DFD using a data dictionary.
+  - Refine the DFD into more detailed levels until the functions or processes are simple enough to be implemented as modules or subroutines.
+  - Assign a structure chart to show the hierarchical relationship and control flow between the modules or subroutines.
+- FOD uses some design notations :
+  - Data Flow Diagram (DFD): A graphical representation of the flow of data through a system. It shows the sources and destinations of data, the processes that transform data, and the data stores that hold data. A DFD can have multiple levels of details, where each level shows more specific information about the system.
+  - Data Dictionary: A repository of information about the data items used in the DFD. It defines the name, type, format, range, and description of each data item. It also shows the relationships and constraints among the data items.
+  - Structure Chart: A graphical representation of the modular structure of a system. It shows the modules or subroutines that make up the system, and the control flow and data flow between them. A structure chart can have multiple levels of details, where each level shows more specific information about the modules or subroutines.
+- FOD has some advantages :
+  - It is easy to understand and communicate, as it uses graphical notations and natural language descriptions.
+  - It supports top-down design and modularization, which can improve the clarity, maintainability, and reusability of the software.
+  - It focuses on the functionality and behavior of the system, rather than the implementation details or data structures.
+- FOD has some disadvantages :
+  - It does not capture the dynamic aspects of the system, such as concurrency, synchronization, or exception handling.
+  - It does not address the non-functional requirements of the system, such as performance, security, or reliability.
+  - It may not be suitable for complex or object-oriented systems, where the data and the functions are tightly coupled and encapsulated.
+- FOD is an example of a structured design method, which was popular in the 1970s and 1980s. It is still used for some types of software, such as batch processing, data processing, or scientific computing .
+- FOD can be contrasted with other design methods, such as Object Oriented Design (OOD), which is based on the idea of bottom-up design, where the system is composed of a set of interacting objects that have both data and behavior .

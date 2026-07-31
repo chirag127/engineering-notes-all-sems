@@ -1,0 +1,15 @@
+### RPL for the notes of the Unit 5 - Service Layer Protocols & Security in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+Resource Reservation Protocol (RPL) is a routing protocol designed for low-power and lossy networks (LLNs). It is used in the Internet of Things (IoT) to enable communication among devices with limited power and memory resources. In this unit, we will learn about RPL and its applications in IoT networks.
+
+Here are some key points to keep in mind while studying RPL for the Unit 5 - Service Layer Protocols & Security in the subject of IOT ARCHITECTURE AND PROTOCOLS:
+
+- RPL is a protocol for routing data packets in low-power and lossy networks. It is designed to work in environments where there are limited resources available, such as battery-powered devices, low-bandwidth connections, and high error rates.
+- RPL uses a tree-based topology to route packets in the network. The nodes in the network are organized in a hierarchical manner, with a root node at the top and leaf nodes at the bottom. Each node in the network maintains a routing table that contains information about its parent and children nodes.
+- RPL supports different types of routing metrics that can be used to select the best path for data packets. These metrics include hop count, link quality, energy consumption, and latency. The selection of the routing metric depends on the specific requirements of the application and the network topology.
+- RPL supports both proactive and reactive routing. In proactive routing, the routing tables are updated periodically based on the network topology. In reactive routing, the routing tables are updated only when there is a change in the network topology or when a data packet needs to be routed.
+- RPL provides support for multicast and anycast communication. Multicast communication enables a data packet to be sent to multiple nodes in the network, while anycast communication enables a data packet to be sent to the nearest node that can handle the packet.
+- RPL provides security features to protect the network from attacks such as spoofing, eavesdropping, and denial-of-service. These security features include authentication, encryption, and key management.
+- RPL can be used in a variety of applications, including smart homes, industrial automation, healthcare, and environmental monitoring. It is especially useful in applications where there are a large number of devices that need to communicate with each other over a low-power and lossy network.
+
+In conclusion, RPL is a routing protocol designed for low-power and lossy networks in IoT applications. It uses a tree-based topology to route data packets and supports different routing metrics, proactive and reactive routing, multicast and anycast communication, and security features. By studying RPL, you will gain a better understanding of how to design and implement IoT networks that are efficient, reliable, and secure.

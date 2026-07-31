@@ -1,0 +1,21 @@
+### 4. To cultivate relevant technical style of communication and presentation at their work place and also for academic uses.
+
+- Technical style of communication and presentation refers to the use of clear, concise, accurate and objective language to convey information or persuade an audience about a specific topic.
+- Technical style of communication and presentation is important for both work place and academic purposes, as it helps to:
+  - Establish credibility and authority as a professional or a scholar.
+  - Communicate effectively with different audiences, such as peers, clients, supervisors, instructors, etc.
+  - Avoid ambiguity, confusion, misunderstanding or misinterpretation of the message.
+  - Demonstrate critical thinking, analytical skills and logical reasoning.
+  - Support the message with relevant evidence, data, facts and examples.
+  - Follow the conventions and standards of the specific field or discipline.
+- To cultivate relevant technical style of communication and presentation, one should:
+  - Identify the purpose, audience, context and format of the communication or presentation.
+  - Conduct thorough research and analysis of the topic, using reliable and credible sources.
+  - Organize the information in a logical and coherent manner, using appropriate headings, subheadings, transitions, etc.
+  - Use clear and precise language, avoiding jargon, slang, colloquialisms, etc.
+  - Use appropriate tone, voice and register, depending on the formality and relationship with the audience.
+  - Use correct grammar, spelling, punctuation and syntax, following the rules of standard English or the preferred language of the audience.
+  - Use appropriate visual aids, such as graphs, charts, tables, diagrams, images, etc. to enhance the message and appeal to the audience.
+  - Use citations, references and acknowledgements to give credit to the sources and avoid plagiarism.
+  - Revise, edit and proofread the communication or presentation, seeking feedback from others if possible.
+  - Practice and rehearse the communication or presentation, if applicable, to improve the delivery and confidence.

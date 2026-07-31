@@ -1,0 +1,13 @@
+# Dictionary & Thesaurus for the notes of the Unit 3 - SEMANTICS AND PRAGMATICS in the subject of NATURAL LANGUAGE PROCESSING
+
+- A **dictionary** is a collection of words and their meanings, pronunciations, usage examples, and other information. A dictionary can be used to define words, check spelling, find synonyms or antonyms, or translate words between languages.
+- A **thesaurus** is a specialized dictionary that stores synonyms and antonyms of selected words in a language. A thesaurus can be used to find alternative words with similar or opposite meanings, or to enrich the vocabulary of a text.
+- In natural language processing (NLP), a dictionary and a thesaurus can be useful resources for various tasks, such as:
+  - **Word sense disambiguation**: the process of identifying the correct meaning of a word in a given context, among multiple possible meanings. A dictionary can provide definitions and examples of word senses, while a thesaurus can provide related words that can help narrow down the possible senses.
+  - **Text summarization**: the process of creating a concise and informative summary of a longer text. A thesaurus can help find synonyms or paraphrases that can reduce the redundancy and increase the diversity of the summary.
+  - **Text generation**: the process of creating natural language text from a given input, such as a prompt, a query, or a data source. A dictionary can help check the spelling and grammar of the generated text, while a thesaurus can help find words that match the style and tone of the text.
+  - **Text analysis**: the process of extracting information and insights from natural language text, such as topics, sentiments, entities, relations, etc. A dictionary can help normalize and standardize the text, while a thesaurus can help expand and enrich the text with synonyms and antonyms.
+- However, using a dictionary and a thesaurus for NLP also poses some challenges, such as:
+  - **Ambiguity**: words can have multiple meanings, senses, or usages, depending on the context, domain, or register. A dictionary or a thesaurus may not cover all the possible variations of a word, or may not provide enough information to disambiguate a word.
+  - **Granularity**: words can have different levels of specificity, generality, or abstraction. A dictionary or a thesaurus may not capture the nuances or subtleties of a word, or may not provide enough information to distinguish between similar or related words.
+  - **Coverage**: words can change over time, or vary across regions, cultures, or communities. A dictionary or a thesaurus may not include new or emerging words, or may not reflect the diversity or variation of a language.

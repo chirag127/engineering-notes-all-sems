@@ -1,0 +1,21 @@
+### Differential and Common-Mode Operation
+
+- A differential amplifier is a circuit that can accept two input signals and amplify the difference between these two input signals.
+- An op-amp is a type of differential amplifier that has a very high voltage gain and a very high input impedance.
+- The differential input voltage of an op-amp is the voltage difference between the two input terminals, denoted by Vd = V+ - V-.
+- The common-mode input voltage of an op-amp is the average of the two input voltages, denoted by Vcm = (V+ + V-)/2.
+- The differential output voltage of an op-amp is the voltage difference between the two output terminals, denoted by Vo = Vo+ - Vo-.
+- The common-mode output voltage of an op-amp is the average of the two output voltages, denoted by Vocom = (Vo+ + Vo-)/2.
+- The differential mode of operation of an op-amp is when the input signals are opposite in polarity and the output voltage is proportional to the differential input voltage.
+- The common-mode mode of operation of an op-amp is when the input signals are the same in polarity and the output voltage is proportional to the common-mode input voltage.
+- The common-mode rejection ratio (CMRR) of an op-amp is a measure of how well the op-amp amplifies the differential input voltage and rejects the common-mode input voltage.
+- The CMRR is defined as the ratio of the differential voltage gain to the common-mode voltage gain, denoted by CMRR = Ad/Acm.
+- The ideal op-amp has an infinite CMRR, meaning that it amplifies only the differential input voltage and ignores the common-mode input voltage.
+- The practical op-amp has a finite CMRR, meaning that it amplifies both the differential and the common-mode input voltages, but the common-mode voltage gain is much smaller than the differential voltage gain.
+- The common-mode and differential mode signals are associated with both op-amps and interference noise in circuits.
+- Common-mode interference, or noise, is the unwanted voltage that is the same for signals applied to both inputs of an op-amp.
+- Differential-mode interference, or noise, is the unwanted voltage that is opposite for signals applied to both inputs of an op-amp.
+- Common-mode interference can be caused by external sources, such as power supply fluctuations, electromagnetic interference, or ground loops.
+- Differential-mode interference can be caused by internal sources, such as mismatched resistors, capacitors, or inductors in the circuit.
+- Common-mode interference can be reduced by using shielding, filtering, or grounding techniques.
+- Differential-mode interference can be reduced by using balanced or twisted-pair wires, or by using differential amplifiers or op-amps.

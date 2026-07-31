@@ -1,0 +1,21 @@
+### Waterfall Model in SDLC
+
+- The waterfall model is a linear, sequential approach to the software development lifecycle (SDLC) that is popular in software engineering and product development.
+- The waterfall model uses a logical progression of SDLC steps for a project, similar to the direction water flows over the edge of a cliff.
+- The waterfall model is the earliest SDLC approach that was used for software development.
+- The waterfall model divides the software development process into separate phases, such as requirements analysis, design, implementation, testing, deployment, and maintenance.
+- The waterfall model assumes that each phase is complete and correct before moving to the next phase.
+- The waterfall model has some advantages, such as:
+  - It is simple and easy to understand and use.
+  - It provides a clear structure and documentation of the project.
+  - It facilitates planning and scheduling of the project.
+  - It allows for early detection and correction of errors.
+- The waterfall model also has some disadvantages, such as:
+  - It is rigid and inflexible, and does not accommodate changes in requirements or feedback from users.
+  - It is not suitable for complex, dynamic, or uncertain projects.
+  - It can cause delays and cost overruns if any phase is not completed on time or has errors.
+  - It can result in a low-quality product if the requirements are not well-defined or understood.
+- A possible mnemonic to remember the phases of the waterfall model is: **R**equirements, **D**esign, **I**mplementation, **T**esting, **D**eployment, **M**aintenance, or **RDITDM**.
+- A possible learning trick to understand the waterfall model is to compare it with a real waterfall, where water flows from one level to another without going back. Similarly, the waterfall model follows a one-way direction of the SDLC steps without revisiting the previous ones.
+- An example of a project that can use the waterfall model is a simple calculator application, where the requirements are clear and fixed, the design is straightforward, the implementation is easy, the testing is minimal, the deployment is simple, and the maintenance is low.
+- An example of a project that should not use the waterfall model is a social media platform, where the requirements are complex and changing, the design is dynamic, the implementation is challenging, the testing is extensive, the deployment is complicated, and the maintenance is high.

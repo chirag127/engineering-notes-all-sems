@@ -1,0 +1,23 @@
+### IOT Temperature & Mask Scan Entry System
+
+- An IoT temperature and mask scan entry system is a device that uses sensors and cameras to measure the body temperature and mask status of a person who wants to enter a building or a restricted area.
+- The system is designed to prevent the spread of COVID-19 and other infectious diseases by screening people for fever and mask compliance, which are indicators of possible infection.
+- The system is connected to a gate or a barrier that allows or denies entry based on the temperature and mask scan results. The system can also send alerts or notifications to the authorities or the management in case of abnormal or suspicious situations.
+- The system consists of the following components:
+  - A contactless temperature sensor that uses infrared radiation to measure the forehead temperature of a person. The sensor has a high accuracy and precision of ± 0.3 °C.
+  - A camera that captures the face image of a person and uses computer vision and machine learning algorithms to detect the presence or absence of a mask. The camera can also recognize the type and quality of the mask.
+  - A 7-inch touch screen that displays the temperature and mask scan results, as well as instructions and feedback for the user.
+  - A Raspberry Pi system that acts as the central processing unit and the communication module of the device. The Raspberry Pi system runs the software that controls the sensor and the camera, performs the data analysis and the decision making, and sends the signals to the gate or the barrier.
+  - A gate or a barrier that opens or closes based on the signals from the Raspberry Pi system. The gate or the barrier can be a flap, a turnstile, a door, or any other mechanism that regulates the entry of people .
+- The system works as follows:
+  - A person approaches the device and stands in front of the sensor and the camera.
+  - The sensor measures the forehead temperature of the person and displays it on the screen.
+  - The camera captures the face image of the person and detects the mask status and displays it on the screen.
+  - The Raspberry Pi system compares the temperature and mask scan results with the predefined thresholds and rules, and decides whether to allow or deny entry to the person.
+  - The Raspberry Pi system sends the corresponding signal to the gate or the barrier, which opens or closes accordingly.
+  - The Raspberry Pi system also records the data and the images of the person, and sends them to a cloud server or a database for further analysis and monitoring.
+- The system has the following advantages:
+  - It is a fully automated and contactless system that reduces the risk of cross-contamination and human error.
+  - It is a mobile and flexible system that can be placed in or in front of any building or area that requires temperature and mask screening.
+  - It is a cost-effective and scalable system that can be easily deployed and maintained.
+  - It is a smart and adaptable system that can be customized and updated according to the changing needs and regulations .

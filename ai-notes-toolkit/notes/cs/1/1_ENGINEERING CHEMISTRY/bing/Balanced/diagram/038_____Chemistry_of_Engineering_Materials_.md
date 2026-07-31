@@ -1,0 +1,11 @@
+### Chemistry of Engineering Materials:
+
+- Engineering materials are materials that are used as raw materials for any sort of construction or manufacturing in an organized way of engineering application.
+- Engineering materials can be classified into four main categories: metals, ceramics, polymers, and composites.
+- The chemical properties of engineering materials affect their performance, durability, and suitability for various applications.
+- Some of the important chemical properties of engineering materials are:
+  - Chemical composition: The elements that are combined together to form a material. The chemical composition determines the strength, hardness, ductility, brittleness, corrosion resistance, weldability, etc. of a material.
+  - Acidity or alkalinity: The pH value of a material, which ranges from 0 to 14. A material is acidic if its pH is less than 7, alkaline if its pH is more than 7, and neutral if its pH is equal to 7. The acidity or alkalinity of a material affects its reactivity, solubility, and corrosion resistance.
+  - Oxidation and reduction: The processes of losing or gaining electrons, respectively, by a material. Oxidation and reduction can change the physical and chemical properties of a material, such as its color, conductivity, and magnetism. Oxidation and reduction can also cause corrosion or degradation of a material.
+  - Reactivity: The tendency of a material to undergo chemical reactions with other substances. Reactivity depends on the chemical composition, structure, and environment of a material. Reactivity can be useful or harmful for engineering applications, depending on the desired outcome.
+  - Energy conversion: The ability of a material to transform one form of energy into another. Energy conversion can be achieved by active materials, which are materials that take part directly in energy conversion, such as solar cells, batteries, catalysts, and superconducting magnets. Energy conversion can also be achieved by passive materials, which are materials that store or transfer energy, such as thermal insulators, capacitors, and piezoelectric materials.

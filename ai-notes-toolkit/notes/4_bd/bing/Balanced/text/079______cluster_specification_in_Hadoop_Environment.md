@@ -1,0 +1,21 @@
+#### Cluster Specification in Hadoop Environment
+
+- A Hadoop cluster is a special type of computational cluster designed specifically for storing and analyzing huge amounts of unstructured data in a distributed computing environment  .
+- A Hadoop cluster consists of a collection of computers, known as nodes, that are networked together to perform parallel computations on big data sets.
+- A Hadoop cluster is often referred to as a shared-nothing system because the only thing that is shared between the nodes is the network itself.
+- A Hadoop cluster typically has two types of nodes: master nodes and worker nodes.
+- Master nodes are responsible for coordinating the activities of the cluster, such as scheduling jobs, managing resources, and monitoring the health of the cluster.
+- Worker nodes are responsible for executing the tasks assigned by the master nodes, such as storing and processing data.
+- A Hadoop cluster can have one or more master nodes and any number of worker nodes, depending on the size and complexity of the data and the computational requirements.
+- A Hadoop cluster runs Hadoop's open source distributed processing software, which consists of four main components: Hadoop Distributed File System (HDFS), MapReduce, YARN, and Hadoop Common .
+- HDFS is a distributed file system that provides high-throughput access to large data sets across the cluster.
+- MapReduce is a programming model and framework that allows parallel processing of data using key-value pairs.
+- YARN is a resource management platform that allocates and manages resources for the cluster.
+- Hadoop Common is a set of utilities and libraries that support the other components of Hadoop.
+- To configure a Hadoop cluster, you will need to configure the environment in which the Hadoop daemons execute as well as the configuration parameters for the Hadoop daemons .
+- The Hadoop daemons are NameNode, DataNode, ResourceManager, NodeManager, and ApplicationMaster.
+- NameNode and DataNode are the master and worker daemons for HDFS, respectively.
+- ResourceManager and NodeManager are the master and worker daemons for YARN, respectively.
+- ApplicationMaster is the daemon that runs on a worker node and manages the execution of a single application on the cluster.
+- The environment configuration includes setting up the Java environment, creating a dedicated Hadoop user, setting up SSH access, and creating directories for Hadoop.
+- The configuration parameters include setting up the core-site.xml, hdfs-site.xml, mapred-site.xml, and yarn-site.xml files, which specify the properties of the Hadoop components.

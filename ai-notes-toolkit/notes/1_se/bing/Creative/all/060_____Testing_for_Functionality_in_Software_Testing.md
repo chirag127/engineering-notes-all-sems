@@ -1,0 +1,28 @@
+# Testing for Functionality in Software Testing
+
+- Functional testing is a type of software testing that verifies whether the system or component meets the functional requirements and specifications .
+- Functional testing ensures that the system behaves as expected and delivers the desired results .
+- Functional testing can be performed at different levels of testing, such as unit testing, integration testing, system testing and acceptance testing .
+- Functional testing can be done manually or with the help of automated tools .
+- To perform functional testing, the following steps are usually followed :
+  - Identify the testing goals, which are the features or functionalities that the system should have based on the business requirements.
+  - Create test scenarios, which are the possible situations or cases that the system should handle correctly.
+  - Create test data, which are the input values or parameters that are used to execute the test scenarios.
+  - Execute test cases, which are the detailed steps or instructions that describe how to perform the test scenarios and observe the system's behavior.
+  - Evaluate the results, which are the actual outcomes or outputs of the system that are compared with the expected outcomes or outputs.
+  - Report the defects, which are the errors or bugs that are found during the testing process and need to be fixed.
+- Functional testing can be classified into different types, such as :
+  - Smoke testing, which is a preliminary testing that checks whether the basic functionalities of the system are working or not.
+  - Sanity testing, which is a quick testing that checks whether the system is stable or not after minor changes or fixes.
+  - Regression testing, which is a repeated testing that checks whether the system is still functioning properly after major changes or fixes.
+  - Usability testing, which is a testing that checks whether the system is user-friendly or not in terms of design, navigation, layout, etc.
+  - Compatibility testing, which is a testing that checks whether the system is compatible or not with different browsers, devices, operating systems, etc.
+  - Performance testing, which is a testing that checks whether the system is fast or not in terms of response time, throughput, load, etc.
+  - Security testing, which is a testing that checks whether the system is secure or not in terms of authentication, authorization, encryption, etc.
+  - Localization testing, which is a testing that checks whether the system is adapted or not to different languages, cultures, regions, etc.
+  - User acceptance testing, which is a testing that checks whether the system meets the user's expectations or not in terms of functionality, quality, reliability, etc.
+- Functional testing is important because it :
+  - Validates the functionality of the system and ensures that it meets the user's needs and requirements.
+  - Detects the defects or errors in the system and helps to improve its quality and reliability.
+  - Enhances the user satisfaction and confidence in the system and its performance.
+  - Reduces the risks and costs of failure or malfunction of the system in the real world.

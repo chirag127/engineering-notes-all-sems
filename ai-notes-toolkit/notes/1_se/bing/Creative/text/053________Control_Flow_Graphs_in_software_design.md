@@ -1,0 +1,10 @@
+###### Control Flow Graphs in software design
+
+- A control flow graph (CFG) is a graphical representation of the possible paths of execution of a program or a function.
+- A CFG consists of nodes and edges, where each node represents a basic block of code (a sequence of statements that are always executed together) and each edge represents a possible transfer of control between basic blocks.
+- A CFG has a unique entry node, where the execution starts, and one or more exit nodes, where the execution ends. The entry node has no incoming edges and the exit nodes have no outgoing edges.
+- A CFG can be used to analyze various properties of a program or a function, such as its complexity, its correctness, its test coverage, its optimization potential, etc.
+- A CFG can be constructed from the source code or the intermediate code of a program or a function, by identifying the basic blocks and the control flow statements (such as if, while, for, switch, break, continue, return, etc.) that affect the execution path.
+- A CFG can be represented in different ways, such as using boxes and arrows, using circles and lines, using graphs and matrices, etc. The choice of representation depends on the purpose and the preference of the user.
+- A CFG can be modified or transformed to simplify or optimize the program or the function, by applying various techniques, such as dead code elimination, constant propagation, loop invariant code motion, etc. The modified CFG should preserve the semantics and the behavior of the original program or the function.
+- A CFG can be compared or matched with another CFG to check the equivalence or the similarity of two programs or functions, by using various algorithms, such as graph isomorphism, subgraph isomorphism, graph edit distance, etc. The comparison or the matching can be used to detect plagiarism, code reuse, code clones, etc.

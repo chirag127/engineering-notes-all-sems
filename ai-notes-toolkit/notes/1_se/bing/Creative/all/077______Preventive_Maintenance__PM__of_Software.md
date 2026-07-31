@@ -1,0 +1,26 @@
+#### Preventive Maintenance (PM) of Software
+
+- Preventive maintenance (PM) of software is the process of modifying or updating software systems to prevent or reduce the occurrence of faults, errors, or failures in the future.
+- PM of software can be performed at different stages of the software life cycle, such as design, development, testing, deployment, or operation.
+- PM of software can involve various activities, such as:
+  - Code refactoring: improving the internal structure and quality of the source code without changing its external functionality or behavior.
+  - Documentation updating: revising or adding comments, diagrams, manuals, or other forms of documentation to make the software more understandable, maintainable, or usable.
+  - Configuration management: controlling and tracking the changes made to the software components, versions, dependencies, or environments.
+  - Testing and debugging: detecting and correcting the defects or bugs in the software system or its components.
+  - Performance tuning: optimizing the speed, efficiency, or resource consumption of the software system or its components.
+  - Security patching: applying fixes or updates to the software system or its components to address the vulnerabilities or threats that may compromise its confidentiality, integrity, or availability.
+  - Standards compliance: ensuring that the software system or its components adhere to the relevant specifications, guidelines, or regulations.
+- PM of software can have various benefits, such as:
+  - Improving the reliability, availability, or functionality of the software system or its components.
+  - Reducing the risk, cost, or effort of corrective or adaptive maintenance in the future.
+  - Enhancing the user satisfaction, trust, or loyalty to the software system or its products or services.
+  - Increasing the competitiveness, marketability, or profitability of the software system or its products or services.
+- PM of software can also have some challenges, such as:
+  - Identifying the need, scope, or priority of the preventive maintenance activities.
+  - Estimating the time, budget, or resources required for the preventive maintenance activities.
+  - Balancing the trade-offs between the benefits and costs of the preventive maintenance activities.
+  - Managing the dependencies, conflicts, or risks involved in the preventive maintenance activities.
+  - Evaluating the effectiveness, efficiency, or quality of the preventive maintenance activities.
+- A possible mnemonic to remember the main activities of PM of software is: **CUT DPS** (Code refactoring, Updating documentation, Testing and debugging, Performance tuning, Security patching).
+- A possible mnemonic to remember the main benefits of PM of software is: **RISE** (Reliability, user satisfaction, and marketability Improvement, cost and effort Saving, risk and failure Elimination).
+- A possible mnemonic to remember the main challenges of PM of software is: **BIME** (Balancing trade-offs, Identifying need and scope, Managing dependencies and risks, Evaluating effectiveness and quality).

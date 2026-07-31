@@ -1,0 +1,23 @@
+# MVD for the notes of the Unit 3 - Data Base Design & Normalization in the subject of Database Management System
+
+- MVD stands for **Multivalued Dependency**, which is a type of constraint between two sets of attributes in a relation.
+- MVD means that for a single value of one attribute, multiple values of another attribute exist. For example, if a person has multiple hobbies and works on multiple projects, then there is a MVD between the person and the hobbies, and between the person and the projects.
+- MVD is written as `A --> --> B`, which means that `A` is multivalued dependent on `B`. It is also read as "for each value of `B`, there is a set of values for `A`".
+- MVD is a special case of **Join Dependency**, which is a constraint that requires a relation to be equal to the join of its projections. A Join Dependency is written as `R = (R1, R2, ..., Rn)`, which means that `R` is equal to the natural join of `R1, R2, ..., Rn`.
+- MVD plays a role in the **4NF** database normalization, which is a process of reducing redundancy and anomalies in a relation. A relation is in 4NF if it is in **BCNF** (Boyce-Codd Normal Form) and has no MVD.
+- To check for MVD, we can use the following rules:
+  - If `A --> B`, then `A --> --> B`
+  - If `A --> --> B` and `A --> --> C`, then `A --> --> B U C`
+  - If `A --> --> B` and `B --> --> C`, then `A --> --> C`
+  - If `A --> --> B` and `B --> C`, then `A --> C`
+- To remove MVD, we can use the following algorithm:
+  - Start with a relation `R` and a set of functional dependencies `F`
+  - Decompose `R` into BCNF using `F`
+  - For each relation `Ri` in the BCNF decomposition, check if there is a MVD `X --> --> Y` in `Ri`
+  - If there is a MVD `X --> --> Y` in `Ri`, then decompose `Ri` into two relations: `Ri1 = (X, Y)` and `Ri2 = (Ri - Y)`
+  - Repeat until there is no MVD in any relation
+- The benefits of removing MVD are:
+  - Reducing redundancy and duplication of data
+  - Avoiding update, insert and delete anomalies
+  - Improving data integrity and consistency
+  - Simplifying queries and programming logic

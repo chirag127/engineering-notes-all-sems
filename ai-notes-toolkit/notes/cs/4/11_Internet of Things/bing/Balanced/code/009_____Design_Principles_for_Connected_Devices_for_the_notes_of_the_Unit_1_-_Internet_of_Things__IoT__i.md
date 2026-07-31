@@ -1,0 +1,10 @@
+### Design Principles for Connected Devices
+
+- Design principles are fundamental pieces of advice for you to make easy-to-use, pleasurable designs.
+- Design principles for connected devices are specific to the Internet of Things (IoT) domain, which involves the interaction of physical devices with digital systems and networks.
+- Some of the design principles for connected devices are:
+
+  - Define the purpose and user base of the device. The first step in the design process is to research the device's purpose and its user base. To define its main features, designers should think like the device's eventual users to identify how the device will solve pain points and help overcome obstacles.
+  - Consider the operating settings of the device. During IoT device design, consider everything the device could connect to, control or communicate with in the network, and design accordingly. If designers understand the bigger picture, it helps create a device that is interoperable and can integrate into more use cases.
+  - Adopt calm technology principles. A system that does not compete for attention but has a high utility when given attention, this type of technology is referred to as calm technology. In a connected devices environment, multiple challenges come up, such as information overload, distraction, privacy and security. Calm technology principles aim to reduce these challenges by designing devices that are informative but not intrusive, respectful but not submissive, and adaptable but not unpredictable.
+  - Choose the appropriate communication protocol. A communication protocol is a set of rules and standards that enable data exchange between devices and systems. There are different types of communication protocols for IoT, such as Representational State Transfer (REST), JSON-RPC, Simple Object Access Protocol (SOAP) and XML-RPC. Each protocol has its own advantages and disadvantages, depending on the context and requirements of the device. Designers should choose the protocol that best suits the device's functionality, performance, security and scalability.

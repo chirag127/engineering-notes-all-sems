@@ -1,0 +1,21 @@
+### Digital to Analog Conversion
+
+- Digital to analog conversion (DAC) is the process by which digital signals (which have a binary state) are converted to analog signals (which theoretically have an infinite number of states).
+- DAC is necessary when we want to communicate digital information (such as from a computer or a sensor) to an analog device (such as a speaker or a display).
+- There are different techniques for DAC, depending on how the amplitude, frequency, or phase of the analog signal is modulated by the digital data.
+- Some of the common DAC techniques are:
+  - Amplitude shift keying (ASK): The amplitude of the analog signal is varied according to the digital data.
+  - Frequency shift keying (FSK): The frequency of the analog signal is varied according to the digital data.
+  - Phase shift keying (PSK): The phase of the analog signal is varied according to the digital data.
+  - Pulse code modulation (PCM): The analog signal is sampled at regular intervals and each sample is quantized and encoded as a digital value.
+  - Pulse width modulation (PWM): The analog signal is approximated by a series of pulses with varying widths according to the digital data.
+- DAC can be implemented using different architectures, such as:
+  - Binary weighted resistor DAC: A network of resistors with binary weights is used to generate the analog output voltage from the digital input bits.
+  - R-2R ladder DAC: A network of resistors with ratios of 2:1 is used to generate the analog output voltage from the digital input bits.
+  - String DAC: A series of switches and resistors with equal values is used to generate the analog output voltage from the digital input bits.
+  - Flash DAC: A parallel array of comparators is used to compare the digital input with a reference voltage and generate the analog output voltage.
+- DAC is an important component in many applications, such as:
+  - Audio and video playback: DAC converts the digital audio and video signals to analog signals that can be reproduced by speakers and displays.
+  - Data transmission: DAC converts the digital data to analog signals that can be modulated and transmitted over analog channels, such as telephone lines or radio waves.
+  - Signal processing: DAC converts the digital signals to analog signals that can be filtered, amplified, or mixed with other analog signals.
+  - Control systems: DAC converts the digital signals to analog signals that can be used to control the speed, position, or temperature of a device.

@@ -1,0 +1,8 @@
+### Experiment 9.2 - SNMP
+
+- SNMP stands for Simple Network Management Protocol. It is a standard protocol for managing devices on a network, such as routers, switches, servers, printers, etc.
+- SNMP uses a client-server model, where the client is called a manager and the server is called an agent. The manager sends requests to the agent and the agent responds with information or performs actions.
+- SNMP operates on the application layer of the OSI model and uses UDP as the transport protocol. The default port for SNMP is 161 for agents and 162 for managers.
+- SNMP has three versions: SNMPv1, SNMPv2c, and SNMPv3. SNMPv1 and SNMPv2c are based on a community string, which is a shared password between the manager and the agent. SNMPv3 provides security features such as authentication, encryption, and access control.
+- SNMP uses a data structure called Management Information Base (MIB), which defines the variables that can be accessed by the manager and the agent. The MIB is organized in a hierarchical tree, where each node is identified by an Object Identifier (OID).
+- SNMP uses four basic operations: GET, SET, GETNEXT, and TRAP. GET is used to retrieve the value of a variable from the agent. SET is used to modify the value of a variable on the agent. GETNEXT is used to retrieve the next variable in the MIB tree. TRAP is used by the agent to notify the manager of an event or an error.

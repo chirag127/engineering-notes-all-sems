@@ -1,0 +1,25 @@
+### Clustering in Non-Euclidean Space
+
+- Clustering is the process of grouping data points into meaningful and coherent subsets based on some similarity or distance measure.
+- Non-Euclidean space is a space that does not follow the rules of Euclidean geometry, such as the Pythagorean theorem or the parallel postulate. Examples of non-Euclidean spaces are spherical, hyperbolic, or graph spaces.
+- Clustering in non-Euclidean space poses some challenges, such as defining a suitable distance measure, finding a representative center for each cluster, and choosing an appropriate clustering algorithm.
+- Some possible distance measures for non-Euclidean spaces are:
+  - Weighted norms, which are generalizations of the Euclidean norm that assign different weights to different dimensions or features of the data points.
+  - Geodesic distance, which is the shortest path between two points on a curved surface or a graph.
+  - Cosine similarity, which is the cosine of the angle between two vectors, often used for text or image data.
+- Some possible ways to define a center for a cluster in non-Euclidean space are:
+  - Medoid, which is the data point that minimizes the sum of distances to all other points in the cluster.
+  - Centroid, which is the average of all data points in the cluster, if the space allows for vector operations.
+  - Mode, which is the most frequent or common value in the cluster, often used for categorical data.
+- Some possible clustering algorithms for non-Euclidean spaces are:
+  - K-means, which partitions the data into k clusters by assigning each point to the nearest centroid and updating the centroids iteratively .
+  - PAM (Partitioning Around Medoids), which partitions the data into k clusters by choosing k medoids and swapping them with other points until the clustering quality is maximized.
+  - Hierarchical clustering, which builds a tree of clusters by either merging smaller clusters (agglomerative) or splitting larger clusters (divisive) based on some linkage criterion  .
+- Some advantages of clustering in non-Euclidean space are:
+  - It can capture the intrinsic structure and geometry of the data, such as curvature, connectivity, or density .
+  - It can handle data with different types, scales, or dimensions, such as mixed, sparse, or high-dimensional data .
+  - It can be more robust to noise, outliers, or missing values, depending on the distance measure and the clustering algorithm .
+- Some disadvantages of clustering in non-Euclidean space are:
+  - It can be more computationally expensive and complex, especially for large or dynamic data sets  .
+  - It can be more sensitive to the choice of parameters, such as the number of clusters, the distance measure, or the linkage criterion  .
+  - It can be more difficult to interpret and visualize the results, especially for high-dimensional or non-linear spaces .

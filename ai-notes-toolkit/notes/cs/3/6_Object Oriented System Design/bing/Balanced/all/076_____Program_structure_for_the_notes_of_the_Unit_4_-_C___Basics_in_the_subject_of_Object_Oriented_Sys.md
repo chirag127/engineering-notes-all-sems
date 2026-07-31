@@ -1,0 +1,14 @@
+# Program structure
+
+- A C++ program consists of one or more source files, which are also called translation units.
+- A source file contains a sequence of declarations and definitions, which are the basic units of the C++ language.
+- A declaration introduces a name into the program and specifies its type and properties, such as its scope and linkage.
+- A definition provides the complete information about a name, such as its value, size, and location in memory.
+- A declaration can also be a definition, but not all declarations are definitions. For example, a function declaration specifies the name, return type, and parameters of a function, but not its body. A function definition includes the body, which is the sequence of statements that implement the function's logic.
+- A source file can also contain preprocessor directives, which are instructions to the compiler that modify the source code before the actual compilation. For example, a preprocessor directive can include another file, define a macro, or conditionally compile some code.
+- A source file can also contain comments, which are ignored by the compiler and are used to document the program or explain some code.
+- A C++ program must have a function named main, which is the entry point of the program. The main function can take arguments from the command line and return an exit status to the operating system.
+- A C++ program can also have global variables, which are declared and defined outside any function and have static storage duration and external linkage by default. Global variables are initialized before the main function is executed and are destroyed after the main function returns.
+- A C++ program can also have user-defined types, such as classes, structs, unions, and enumerations, which are declared and defined using the class, struct, union, and enum keywords respectively. User-defined types can have data members, which are variables that belong to the type, and member functions, which are functions that operate on the type's objects.
+- A C++ program can also have namespaces, which are named scopes that group related names and avoid name conflicts. Namespaces are declared using the namespace keyword and can be nested, extended, and aliased. Namespaces can also have unnamed or anonymous variants, which are used to hide implementation details.
+- A C++ program can also have templates, which are parameterized declarations or definitions that can be instantiated for different types or values. Templates are declared using the template keyword and can be applied to functions, classes, variables, or aliases. Templates can also have specializations, which are customized versions of templates for specific types or values.

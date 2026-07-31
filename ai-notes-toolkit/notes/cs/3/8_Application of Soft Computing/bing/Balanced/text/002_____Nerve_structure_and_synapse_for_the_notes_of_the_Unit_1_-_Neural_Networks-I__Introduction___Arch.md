@@ -1,0 +1,23 @@
+### Nerve structure and synapse
+
+- A nerve is a bundle of nerve fibres (axons) that transmit electrical impulses from one part of the body to another.
+- A nerve fibre is a long extension of a neuron (nerve cell) that carries an action potential (electrical signal) along its length.
+- A neuron consists of a cell body (soma) that contains the nucleus and other organelles, and one or more processes (extensions) that connect to other cells.
+- The processes of a neuron are either dendrites, which receive signals from other neurons, or axons, which send signals to other neurons or target cells (such as muscles or glands).
+- The point of contact between an axon and another cell is called a synapse. A synapse is a structure that allows a neuron to communicate with another cell by releasing chemical or electrical signals.
+- A chemical synapse is the most common type of synapse in the nervous system. It consists of a presynaptic terminal, a synaptic cleft, and a postsynaptic membrane.
+- The presynaptic terminal is the swollen end of an axon that contains synaptic vesicles filled with neurotransmitters (chemical messengers).
+- The synaptic cleft is the narrow gap between the presynaptic and postsynaptic membranes that separates the two cells.
+- The postsynaptic membrane is the part of the cell membrane of the receiving cell that contains receptors for the neurotransmitters.
+- The transmission of information at a chemical synapse involves the following steps:
+  - An action potential arrives at the presynaptic terminal and triggers the opening of voltage-gated calcium channels.
+  - Calcium ions enter the presynaptic terminal and cause the synaptic vesicles to fuse with the presynaptic membrane and release the neurotransmitters into the synaptic cleft.
+  - The neurotransmitters diffuse across the synaptic cleft and bind to the receptors on the postsynaptic membrane, causing a change in the membrane potential of the postsynaptic cell.
+  - The change in the membrane potential of the postsynaptic cell can either be excitatory (depolarizing) or inhibitory (hyperpolarizing), depending on the type of neurotransmitter and receptor involved.
+  - The neurotransmitters are removed from the synaptic cleft by either reuptake, enzymatic degradation, or diffusion.
+- An electrical synapse is a less common type of synapse in the nervous system. It consists of gap junctions that directly connect the cytoplasm of two adjacent cells.
+- The transmission of information at an electrical synapse involves the following steps:
+  - An action potential arrives at the presynaptic cell and causes the opening of voltage-gated channels in the gap junctions.
+  - Ions flow through the gap junctions from the presynaptic cell to the postsynaptic cell, causing a change in the membrane potential of the postsynaptic cell.
+  - The change in the membrane potential of the postsynaptic cell can either be excitatory or inhibitory, depending on the direction and magnitude of the ion flow.
+  - The ion flow is bidirectional, meaning that the postsynaptic cell can also influence the presynaptic cell.

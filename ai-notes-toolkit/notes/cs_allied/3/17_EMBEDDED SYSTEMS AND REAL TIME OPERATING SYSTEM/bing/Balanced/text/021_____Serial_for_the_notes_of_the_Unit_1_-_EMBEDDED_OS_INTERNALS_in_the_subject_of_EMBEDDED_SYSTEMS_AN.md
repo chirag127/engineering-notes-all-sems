@@ -1,0 +1,11 @@
+### Serial for the notes of the Unit 1 - EMBEDDED OS INTERNALS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- An embedded operating system is a combination of software and hardware that is designed to increase functionality and reliability for achieving a specific task .
+- Embedded operating systems are mostly used as real-time operating systems, which means they have to respond to events or inputs within a predefined time limit.
+- Embedded operating systems are developed with programming code, which helps convert hardware languages into software languages like C and C++.
+- Embedded operating systems are composed of a kernel and optional components. The kernel is the core of the operating system that provides the basic services, such as process management, memory management, and I/O system management .
+- Process management is the function of the kernel that creates, schedules, and terminates processes or tasks. Processes are the basic units of execution in an operating system.
+- Memory management is the function of the kernel that allocates, deallocates, and protects the memory space for processes and data. Memory management ensures that each process has enough memory to run and that different processes do not interfere with each other's memory.
+- I/O system management is the function of the kernel that handles the communication between the processes and the external devices, such as sensors, actuators, keyboards, displays, etc. I/O system management provides the interfaces and drivers for the devices and the protocols for the data transfer.
+- Optional components of an embedded operating system are the additional features or services that are not essential for the basic functionality, but may enhance the performance, security, or usability of the system. Examples of optional components are file systems, network stacks, graphical user interfaces, etc .
+- Embedded operating systems differ from other types of operating systems by their optimized design, which aims to reduce the size, cost, power consumption, and complexity of the system. Embedded operating systems also have to meet the specific requirements and constraints of the embedded devices or systems, such as limited resources, real-time responsiveness, reliability, safety, etc .

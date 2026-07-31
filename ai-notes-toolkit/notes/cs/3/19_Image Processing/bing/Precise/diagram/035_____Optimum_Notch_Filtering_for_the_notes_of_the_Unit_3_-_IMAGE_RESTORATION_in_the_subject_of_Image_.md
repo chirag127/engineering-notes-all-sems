@@ -1,0 +1,9 @@
+### Optimum Notch Filtering
+
+Optimum Notch Filtering is a technique used in image restoration to reduce the effects of periodic noise in digital images. Periodic noises are unwanted and spurious signals that create repetitive patterns on images and decrease their visual quality.
+
+The Optimum Notch Filter tries to minimize the local variance of the restored image. At the first stage, the principal contribution of the inference repetitive pattern is extracted from the noisy image, and then the output image is restored by subtracting a variable weighted portion of the repetitive pattern from the contaminated image. The extraction of the repetitive pattern is implemented in the frequency domain by applying a proper notch-pass filter on every periodic noise frequency, and then by applying an inverse 2-D Fourier transform to restore the repetitive pattern in the spatial domain.
+
+An adaptive optimum notch filter can be used to determine the regions of noise frequencies by analyzing the spectral of the noisy image. Then, the repetitive pattern of the periodic noise is produced by applying the corresponding notch-pass filter. Finally, an output image with reduced periodic noise is restored by an optimum notch filter method.
+
+The results of the proposed adaptive optimum notch filter can be compared with mean and median filtering techniques in the frequency domain. The results show that the proposed filter has higher performance, visually and statistically, and has lower computational cost. In contrast to other compared methods, the proposed filter does not need to tune any parameters.

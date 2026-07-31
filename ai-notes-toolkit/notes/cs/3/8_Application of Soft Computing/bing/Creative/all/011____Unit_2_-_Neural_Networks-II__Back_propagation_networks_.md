@@ -1,0 +1,9 @@
+# Unit 2 - Neural Networks-II (Back propagation networks)
+
+- Back propagation networks are a type of artificial neural networks that use a supervised learning algorithm to train the network weights based on the error rate obtained in the previous iteration .
+- Back propagation networks consist of an input layer, one or more hidden layers, and an output layer. Each layer has a number of nodes that are connected by weighted links to the nodes in the next layer.
+- The training process of back propagation networks involves two phases: forward propagation and backward propagation  .
+  - In forward propagation, the input data is fed to the input layer and passed through the hidden layers to the output layer, where the network prediction is obtained. The network prediction is compared with the desired output (target) to calculate the error rate or loss function  .
+  - In backward propagation, the error rate or loss function is propagated back through the network layers, starting from the output layer to the input layer, to adjust the weights of the links according to the gradient descent rule. The gradient descent rule is a mathematical method that minimizes the loss function by updating the weights in the opposite direction of the gradient (the slope of the loss function) with a learning rate (a small positive constant)   .
+- The forward and backward propagation phases are repeated for a number of epochs (iterations) until the network converges to a minimum error rate or a maximum accuracy  .
+- Back propagation networks are widely used for various machine learning tasks, such as classification, regression, image recognition, natural language processing, etc   .

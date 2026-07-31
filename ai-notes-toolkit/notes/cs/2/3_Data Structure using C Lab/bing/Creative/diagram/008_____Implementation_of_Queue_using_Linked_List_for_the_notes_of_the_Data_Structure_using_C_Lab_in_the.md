@@ -1,0 +1,25 @@
+### Implementation of Queue using Linked List
+
+- A queue is a linear data structure that follows the FIFO (First In First Out) principle, meaning that the element that is inserted first is removed first.
+- A linked list is a dynamic data structure that consists of a sequence of nodes, each node having a data field and a pointer field that points to the next node in the list.
+- A queue can be implemented using a linked list by maintaining two pointers: front and rear. The front pointer points to the first node of the list, which is the head of the queue. The rear pointer points to the last node of the list, which is the tail of the queue.
+- To perform the enqueue operation, which inserts an element at the rear of the queue, we need to do the following steps:
+  - Create a new node and store the data in it.
+  - If the queue is empty, set both front and rear pointers to the new node.
+  - Otherwise, set the next pointer of the rear node to the new node, and update the rear pointer to the new node.
+- To perform the dequeue operation, which removes an element from the front of the queue, we need to do the following steps:
+  - If the queue is empty, return an error message or a null value.
+  - Otherwise, store the data of the front node in a temporary variable, and update the front pointer to the next node of the list.
+  - Delete the front node and free the memory allocated to it.
+  - Return the data stored in the temporary variable.
+- To perform the peek operation, which returns the data of the front element without removing it, we need to do the following steps:
+  - If the queue is empty, return an error message or a null value.
+  - Otherwise, return the data of the front node.
+- To perform the is_empty operation, which checks if the queue is empty or not, we need to do the following steps:
+  - If the front pointer is null, return true.
+  - Otherwise, return false.
+- To perform the display operation, which prints the data of all the elements in the queue, we need to do the following steps:
+  - If the queue is empty, print a message indicating that the queue is empty.
+  - Otherwise, create a temporary pointer and set it to the front node.
+  - Traverse the list using the temporary pointer, and print the data of each node until the temporary pointer reaches the rear node.
+  - Print a newline character at the end.

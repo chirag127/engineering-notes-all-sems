@@ -1,0 +1,22 @@
+### Resilience and Fault Tolerance in a Distributed System
+
+- A distributed system is a collection of independent nodes that communicate and coordinate to achieve a common goal.
+- A distributed system can be subject to various types of faults, such as node failures, network failures, software bugs, malicious attacks, etc.
+- Fault tolerance is the ability of a distributed system to continue providing correct service despite the presence of faults.
+- Fault resilience is the ability of a distributed system to recover from faults and restore normal service as soon as possible.
+- Fault tolerance and fault resilience are related but not equivalent concepts. A fault-tolerant system may not be fault-resilient, and vice versa.
+- For example, a fault-tolerant system may mask faults by using redundancy, replication, or backup, but it may not be able to repair the faults or prevent them from happening again. A fault-resilient system may detect and correct faults by using checkpointing, rollback, or recovery, but it may not be able to hide the faults from the users or applications.
+- A distributed system can achieve fault tolerance and fault resilience by using various techniques, such as:
+  - Process resilience: techniques by which one or more processes can fail without seriously disturbing the rest of the system.
+  - Reliable multicasting: techniques by which message transmission to a collection of processes is guaranteed to succeed.
+  - Consensus: techniques by which a group of processes can agree on a common value or decision in the presence of faults.
+  - Byzantine fault tolerance: techniques by which a distributed system can tolerate arbitrary faults, including malicious or erroneous behavior, by using cryptographic methods and voting schemes.
+  - Self-stabilization: techniques by which a distributed system can recover from any arbitrary state and converge to a correct state without external intervention.
+  - Self-healing: techniques by which a distributed system can detect, diagnose, and repair faults autonomously.
+- Spark is a distributed processing framework that supports fault tolerance and fault resilience by using the following features:
+  - Resilient Distributed Datasets (RDDs): immutable and partitioned data structures that can be recomputed from lineage information in case of failures.
+  - Directed Acyclic Graph (DAG) scheduler: a component that optimizes and executes the logical plan of a Spark application as a series of stages, each consisting of a set of tasks that can be executed in parallel.
+  - Spark Streaming: a module that enables scalable and fault-tolerant processing of real-time data streams by using micro-batches and stateful transformations.
+  - Spark SQL: a module that enables structured and semi-structured data processing by using a relational query engine and a DataFrame API.
+  - Spark MLlib: a module that enables scalable and fault-tolerant machine learning algorithms by using RDDs and linear algebra operations.
+  - Spark GraphX: a module that enables scalable and fault-tolerant graph processing by using RDDs and graph-parallel computations.

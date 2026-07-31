@@ -1,0 +1,10 @@
+### I/O Systems
+
+- I/O systems are the components that enable an embedded system or a real-time operating system (RTOS) to communicate with the external world, such as sensors, actuators, displays, keyboards, etc.
+- I/O systems can be classified into two types: parallel and serial.
+  - Parallel I/O systems transfer multiple bits of data simultaneously using multiple wires or pins. They are faster but require more hardware resources and wiring complexity. Examples of parallel I/O systems are parallel ports, GPIO (General Purpose Input/Output), and memory-mapped I/O.
+  - Serial I/O systems transfer one bit of data at a time using one or few wires or pins. They are slower but require less hardware resources and wiring complexity. Examples of serial I/O systems are serial ports, UART (Universal Asynchronous Receiver/Transmitter), SPI (Serial Peripheral Interface), I2C (Inter-Integrated Circuit), and USB (Universal Serial Bus).
+- I/O systems can also be classified into two modes: polling and interrupt-driven.
+  - Polling mode is when the processor continuously checks the status of an I/O device to determine if it is ready to send or receive data. Polling mode is simple but consumes a lot of processor time and may cause delays or missed events.
+  - Interrupt-driven mode is when the processor is notified by an I/O device when it is ready to send or receive data using a signal called an interrupt. Interrupt-driven mode is more efficient but requires more programming complexity and may cause conflicts or priority issues.
+- I/O systems are essential for embedded systems and RTOS to perform their specific functions in a larger system, such as industrial machines, medical devices, automotive systems, etc. I/O systems must be designed and configured to meet the performance, reliability, and safety requirements of the application.

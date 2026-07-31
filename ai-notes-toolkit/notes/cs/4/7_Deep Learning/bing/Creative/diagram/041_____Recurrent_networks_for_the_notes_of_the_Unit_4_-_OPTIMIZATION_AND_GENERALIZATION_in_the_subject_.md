@@ -1,0 +1,24 @@
+### Recurrent networks
+
+- Recurrent networks are a type of artificial neural networks that can process sequential data or time series data  .
+- Recurrent networks have a **memory** that allows them to store information from previous inputs and use it to influence the current input and output .
+- Recurrent networks are commonly used for ordinal or temporal problems, such as natural language processing, speech recognition, image captioning, and machine translation  .
+- Recurrent networks can be classified into different types based on their architecture, such as:
+  - Fully recurrent networks: every node is connected to every other node in both directions.
+  - Elman networks and Jordan networks: two types of simple recurrent networks that have a hidden layer with feedback connections.
+  - Hopfield networks: a type of recurrent network that can store and retrieve patterns as fixed points of the network dynamics.
+  - Echo state networks: a type of recurrent network that has a large and randomly initialized hidden layer that is not trained, but only provides a rich dynamic reservoir for the output layer.
+  - Independently recurrent networks: a type of recurrent network that has independent recurrent connections for each neuron in the hidden layer, which avoids the vanishing or exploding gradient problem.
+  - Recursive networks: a type of recurrent network that can process hierarchical or tree-structured data, such as natural language syntax or scene graphs.
+  - Neural history compressor: a type of recurrent network that can compress sequential data into a fixed-length representation by using a stack-like memory.
+  - Second order recurrent networks: a type of recurrent network that can model higher-order temporal dependencies by using multiplicative interactions between the hidden units.
+  - Long short-term memory networks: a type of recurrent network that can learn long-term dependencies by using special units called memory cells that have gates to control the information flow .
+  - Gated recurrent unit networks: a type of recurrent network that is a simplified version of LSTM networks, with fewer gates and parameters .
+  - Bi-directional recurrent networks: a type of recurrent network that can process sequential data from both directions by using two parallel hidden layers that are connected to the same output layer .
+  - Continuous-time recurrent networks: a type of recurrent network that can model continuous-time dynamics by using differential equations to describe the state transitions.
+- Recurrent networks are trained using a variant of backpropagation called **backpropagation through time (BPTT)**, which unrolls the network in time and computes the gradients for each time step .
+- Recurrent networks face some challenges, such as:
+  - The vanishing or exploding gradient problem: the gradients can become very small or very large when propagated through many time steps, making the learning unstable or ineffective .
+  - The long-term dependency problem: the network may have difficulty in learning the dependencies between distant inputs and outputs, due to the interference of irrelevant information or the decay of memory .
+  - The computational complexity problem: the network may require a lot of time and memory to process long sequences, especially when using deep or bi-directional architectures.
+- Recurrent networks are a powerful and robust type of neural network, and have achieved state-of-the-art performance on a range of challenging problems .

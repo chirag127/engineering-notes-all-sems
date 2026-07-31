@@ -1,0 +1,9 @@
+
+#### Administering Hadoop in Hadoop Environment
+1. Overview of Hadoop: Hadoop is an open-source software framework for distributed storage and distributed processing of large data sets on computer clusters built from commodity hardware.
+2. Hadoop Architecture: Hadoop is made up of two main components, the Hadoop Distributed File System (HDFS) and the MapReduce programming model. HDFS is a distributed file system designed to store large amounts of data across multiple nodes and MapReduce is a programming model for distributed computing.
+3. Hadoop Administration: Hadoop administrators are responsible for managing the Hadoop cluster, which includes setting up the cluster, configuring the nodes, monitoring the cluster, and troubleshooting any issues.
+4. Cluster Configuration: The Hadoop administrator is responsible for configuring the cluster and setting up the nodes. This includes setting up the hardware and software, configuring the nodes, and installing the necessary software packages.
+5. Cluster Maintenance: The Hadoop administrator is also responsible for maintaining the cluster, which includes monitoring the cluster, troubleshooting any issues, and performing regular maintenance tasks such as patching and upgrading the software.
+6. Security: The Hadoop administrator is responsible for ensuring the security of the cluster, which includes setting up authentication and authorization, and ensuring the data is encrypted.
+7. Backup and Disaster Recovery: The Hadoop administrator is also responsible for setting up backup and disaster recovery plans for the cluster. This includes setting up regular backups, and setting up a disaster recovery plan for the cluster.

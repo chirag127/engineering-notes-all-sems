@@ -1,0 +1,14 @@
+### Hardware Controls for Augmented and Virtual Reality
+
+- Hardware controls are devices or components that enable users to interact with augmented and virtual reality applications.
+- Hardware controls can be classified into three categories: input, output, and tracking.
+- Input controls are devices that allow users to provide commands, gestures, or data to the application. Examples of input controls are keyboards, mice, gamepads, touchscreens, voice recognition, eye tracking, and motion controllers.
+- Output controls are devices that display or deliver the application's content to the users. Examples of output controls are monitors, head-mounted displays, projectors, speakers, haptic feedback, and smell or taste generators.
+- Tracking controls are devices that measure or sense the position, orientation, or movement of the users or the environment. Examples of tracking controls are cameras, infrared sensors, accelerometers, gyroscopes, magnetometers, GPS, and RFID tags.
+- Hardware controls can have different characteristics, such as:
+  - Degree of freedom: the number of independent directions or angles that a device can measure or control. For example, a mouse has two degrees of freedom (x and y), while a motion controller can have six degrees of freedom (x, y, z, pitch, yaw, and roll).
+  - Resolution: the smallest unit of measurement or change that a device can detect or produce. For example, a monitor's resolution is the number of pixels it can display, while a motion controller's resolution is the accuracy of its position or orientation.
+  - Latency: the delay between the user's action and the device's response. For example, a monitor's latency is the time it takes to update the image, while a motion controller's latency is the time it takes to reflect the user's movement.
+  - Bandwidth: the amount of data that a device can transmit or receive per unit of time. For example, a monitor's bandwidth is the rate of image refresh, while a motion controller's bandwidth is the rate of position or orientation update.
+  - Cost: the price or value of a device. For example, a monitor's cost is the amount of money it takes to buy or maintain, while a motion controller's cost is the amount of battery or power it consumes.
+- Hardware controls can have different advantages and disadvantages, depending on the application's requirements and the user's preferences. For example, a keyboard is a simple and familiar input device, but it may not be suitable for immersive or natural interactions. A head-mounted display is an immersive and realistic output device, but it may cause discomfort or motion sickness. A camera is a versatile and cheap tracking device, but it may have limited range or accuracy.

@@ -1,0 +1,12 @@
+#### Hadoop file system interfaces
+
+- Hadoop file system interfaces are the abstract classes and interfaces that define the contract between the Hadoop applications and the underlying file systems.
+- The main interface is the `org.apache.hadoop.fs.FileSystem` class, which provides methods for creating, deleting, renaming, reading and writing files and directories.
+- The `FileSystem` class is implemented by various subclasses that support different file systems, such as HDFS, S3, FTP, Azure, etc.
+- The `FileSystem` class also supports the concept of file system schemes, which are prefixes that indicate the type and location of the file system. For example, `hdfs://` for HDFS, `s3://` for S3, etc.
+- The `FileSystem` class can be configured by setting the `fs.defaultFS` property in the `core-site.xml` file, which specifies the default file system scheme and authority to use.
+- The `FileSystem` class can also be obtained by calling the `FileSystem.get()` method, which takes a `Configuration` object and a `URI` object as parameters. The `URI` object can specify the file system scheme and authority to use, or use the default one if not specified.
+- The `FileSystem` class can also be obtained by calling the `FileSystem.newInstance()` method, which returns a new instance of the file system specified by the `URI` object. This method is useful for creating multiple file system instances with different configurations or credentials.
+- The `FileSystem` class implements the `PathCapabilities` interface, which provides methods for checking the capabilities of a file system path, such as whether it supports append, truncate, concat, etc.
+- The `FileSystem` class also implements the `DelegationTokenIssuer` interface, which provides methods for obtaining and renewing delegation tokens for the file system. Delegation tokens are used for authentication and authorization in secure Hadoop clusters.
+- The `FileSystem` class also provides some static utility methods, such as `FileSystem.getFileSystemClass()`, which returns the class of the file system implementation for a given scheme, and `FileSystem.getFileSystemNames()`, which returns the names of all the available file system schemes.

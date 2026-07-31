@@ -1,0 +1,24 @@
+## Experiment 4 - Write a code simulating PING and TRACEROUTE commands
+
+- PING and TRACEROUTE are two common network diagnostic tools that can test the connectivity and latency between two hosts on a network.
+- PING sends a series of packets to a destination host and measures the time it takes for each packet to be sent and received. It also reports the number of packets lost or dropped during the transmission.
+- TRACEROUTE traces the route that packets take from the source host to the destination host, showing the intermediate hops and the latency for each hop. It can also identify the network devices and their IP addresses along the path.
+- To write a code simulating PING and TRACEROUTE commands, we can use the Python programming language and the socket and struct modules. The socket module provides low-level access to network interfaces, and the struct module allows us to pack and unpack binary data.
+- The following steps outline the basic algorithm for the code:
+
+  1. Import the socket and struct modules.
+  2. Define a function to create a raw socket that can send and receive ICMP (Internet Control Message Protocol) packets. ICMP is a protocol used for network management and error reporting. PING and TRACEROUTE use ICMP echo request and echo reply messages to test the connectivity and latency.
+  3. Define a function to calculate the checksum of a packet. The checksum is a value that verifies the integrity of the packet. It is computed by adding the 16-bit words of the packet and taking the one's complement of the sum.
+  4. Define a function to create an ICMP echo request packet. The packet consists of a header and a payload. The header contains the type, code, checksum, identifier, and sequence number fields. The payload can be any arbitrary data. The type and code fields are set to 8 and 0, respectively, for an echo request. The identifier and sequence number fields are used to match the request and reply packets. The checksum field is calculated using the function defined in step 3.
+  5. Define a function to send an ICMP echo request packet to a destination host and receive an ICMP echo reply packet from it. The function takes the destination host name, the packet size, and the timeout as parameters. The function uses the socket and struct modules to create and send the packet, and to receive and unpack the reply. The function also records the time it takes for the packet to be sent and received, and returns the round-trip time, the packet size, and the reply packet.
+  6. Define a function to parse an ICMP echo reply packet and extract the relevant information. The function takes the reply packet as a parameter and uses the struct module to unpack the header and payload. The function returns the type, code, checksum, identifier, sequence number, and payload fields of the packet.
+  7. Define a function to simulate the PING command. The function takes the destination host name, the number of packets to send, and the timeout as parameters. The function uses a loop to send and receive packets using the functions defined in steps 4 and 5. The function also calculates the minimum, maximum, average, and standard deviation of the round-trip times, and the percentage of packets lost. The function prints the results in a formatted output.
+  8. Define a function to simulate the TRACEROUTE command. The function takes the destination host name and the maximum number of hops as parameters. The function uses a loop to send and receive packets using the functions defined in steps 4 and 5, but with a twist. The function sets the TTL (Time To Live) field of the packet to a value that increases by one in each iteration. The TTL field determines how many hops a packet can travel before it is discarded. By increasing the TTL value, the function can trace the route that the packet takes from the source to the destination. The function also prints the IP address and the host name of each hop, and the round-trip time for each packet. The function stops when it reaches the destination, or when it exceeds the maximum number of hops, or when it encounters an error.
+  9. Write the main function that takes the user input and calls the appropriate function based on the command. The user can enter either PING or TRACEROUTE, followed by the destination host name, and optionally, the number of packets, the packet size, the timeout, and the maximum number of hops. The main function validates the user input and handles any exceptions that may occur.
+
+- The following code is an example of how the code simulating PING and TRACEROUTE commands can look like:
+
+```python
+# Import the
+
+```

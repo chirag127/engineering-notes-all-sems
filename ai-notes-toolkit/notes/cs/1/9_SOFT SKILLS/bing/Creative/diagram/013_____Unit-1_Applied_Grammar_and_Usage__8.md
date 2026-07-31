@@ -1,0 +1,29 @@
+### Unit-1 Applied Grammar and Usage: 8
+
+- This unit covers the following topics:
+  - Subject-verb agreement
+  - Pronoun-antecedent agreement
+  - Parallelism
+  - Modifier placement
+  - Punctuation
+- Subject-verb agreement is the rule that the verb must agree in number and person with the subject of a sentence. For example:
+  - He **likes** pizza. (singular subject, singular verb)
+  - They **like** pizza. (plural subject, plural verb)
+- Pronoun-antecedent agreement is the rule that the pronoun must agree in number, gender and person with its antecedent, which is the word or phrase that the pronoun refers to. For example:
+  - John lost **his** wallet. (singular antecedent, singular pronoun, masculine gender)
+  - Mary lost **her** wallet. (singular antecedent, singular pronoun, feminine gender)
+  - The students lost **their** wallets. (plural antecedent, plural pronoun, neutral gender)
+- Parallelism is the rule that the words or phrases in a list or a series must have the same grammatical form and structure. For example:
+  - She likes **reading**, **writing** and **painting**. (all gerunds)
+  - He is **smart**, **kind** and **funny**. (all adjectives)
+  - He **ran**, **jumped** and **swam**. (all past tense verbs)
+- Modifier placement is the rule that the modifier, which is a word or phrase that adds detail or description to another word or phrase, must be placed as close as possible to the word or phrase it modifies to avoid confusion or ambiguity. For example:
+  - He saw a dog **with a telescope**. (ambiguous: who has the telescope, he or the dog?)
+  - He saw **with a telescope** a dog. (clear: he has the telescope)
+  - She gave the cake **to her friend**. (clear: she gave the cake to her friend)
+  - She gave **to her friend** the cake. (awkward: the modifier is too far from the word it modifies)
+- Punctuation is the use of symbols such as commas, periods, semicolons, colons, dashes, apostrophes, quotation marks, etc. to separate or mark the parts of a sentence or a text. Punctuation helps to clarify the meaning, tone and structure of a sentence or a text. For example:
+  - Let's eat Grandma. (no punctuation: confusing and potentially cannibalistic)
+  - Let's eat, Grandma. (comma: clear and polite)
+  - I love you. (period: simple and declarative)
+  - I love you! (exclamation mark: emphatic and excited)

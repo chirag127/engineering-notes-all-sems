@@ -1,0 +1,22 @@
+### Wireless Medium Access Issues for the Notes of the Unit 4 - Network & Communication Aspects in IoT in the Subject of Internet of Things
+
+- Wireless medium access is the process of coordinating the transmission and reception of data among multiple devices that share a common wireless channel.
+- Wireless medium access is challenging in IoT because of the following issues :
+  - **Interference**: IoT devices may operate in the same frequency band as other wireless technologies, such as WiFi, Bluetooth, ZigBee, etc. This may cause interference and degrade the performance of IoT devices.
+  - **Energy efficiency**: IoT devices are often battery-powered and have limited energy resources. Therefore, they need to minimize their energy consumption while maintaining reliable communication.
+  - **Scalability**: IoT devices may be deployed in large numbers and have diverse requirements and capabilities. Therefore, they need to adapt to the dynamic network conditions and support heterogeneous traffic types and quality of service.
+  - **Mobility**: IoT devices may be mobile or attached to mobile platforms, such as drones, vehicles, robots, etc. Therefore, they need to cope with the changes in the wireless channel and the network topology.
+- Wireless medium access is controlled by the **medium access control (MAC)** protocol, which is a sublayer of the data link layer in the network stack.
+- The MAC protocol is responsible for the following functions :
+  - **Channel access**: The MAC protocol determines when and how a device can access the wireless channel to transmit or receive data. It may use contention-based or reservation-based schemes to avoid or resolve collisions among multiple devices.
+  - **Framing**: The MAC protocol defines the format and structure of the data frames that are exchanged between devices. It may include fields such as source and destination addresses, sequence numbers, checksums, etc.
+  - **Error control**: The MAC protocol detects and corrects errors that may occur during the wireless transmission. It may use techniques such as acknowledgments, retransmissions, error correction codes, etc.
+  - **Flow control**: The MAC protocol regulates the amount and rate of data that a device can send or receive. It may use techniques such as windowing, backpressure, congestion control, etc.
+  - **Power management**: The MAC protocol controls the power consumption of the devices by adjusting their transmission power, duty cycle, sleep mode, etc.
+- The MAC protocol is critical in the IoT since it coordinates data transport among various IoT devices. However, to achieve high network throughput, low energy consumption, and low latency, various issues at the MAC layer must be overcome .
+- Some of the challenges and solutions for the MAC protocol design in IoT are    :
+  - **Interference management**: The MAC protocol should be able to detect and avoid interference from other wireless technologies or devices. It may use techniques such as frequency hopping, channel adaptation, cognitive radio, etc.
+  - **Energy harvesting**: The MAC protocol should be able to exploit the energy sources available in the environment, such as solar, wind, vibration, etc. It may use techniques such as energy-aware scheduling, energy-efficient routing, energy-neutral operation, etc.
+  - **Cross-layer optimization**: The MAC protocol should be able to cooperate with other layers in the network stack, such as the physical, network, transport, and application layers. It may use techniques such as joint channel and power allocation, adaptive modulation and coding, network coding, etc.
+  - **Security and privacy**: The MAC protocol should be able to protect the data and the devices from malicious attacks, such as jamming, eavesdropping, spoofing, etc. It may use techniques such as encryption, authentication, key management, etc.
+  - **Mobility support**: The MAC protocol should be able to handle the mobility of the devices and the network topology changes. It may use techniques such as handover, location estimation, mobility prediction, etc.

@@ -1,0 +1,22 @@
+### Control Flow Testing
+
+- Control flow testing is a type of software testing that uses the program's control flow as a model.
+- Control flow testing is a structural testing strategy that comes under white box testing .
+- Control flow testing is used to develop test cases of a program, where the tester selects a large portion of the program to test and to set the testing path.
+- Control flow testing is based on the execution order of the statements or instructions given in the program.
+- Control flow testing can be performed manually or automated as the control flow graph that is used can be made by hand or by tools.
+- Control flow testing has the following advantages:
+  - It detects almost half of the defects that are determined during the unit testing.
+  - It also determines almost one-third of the defects of the whole program.
+  - It helps to improve the quality and reliability of the software.
+  - It helps to identify the unreachable or dead code in the program.
+- Control flow testing has the following steps:
+  - Draw the control flow graph of the program, which represents the overall flow of the program with nodes and edges.
+  - Identify the independent paths in the graph, which are the paths that do not repeat any node or edge.
+  - Design the test cases to cover each independent path in the graph.
+  - Execute the test cases and check the results.
+- Control flow testing has the following techniques:
+  - Statement coverage: It measures the percentage of statements that are executed by the test cases.
+  - Branch coverage: It measures the percentage of branches or decision points that are executed by the test cases.
+  - Path coverage: It measures the percentage of independent paths that are executed by the test cases.
+  - Condition coverage: It measures the percentage of logical conditions that are evaluated to true and false by the test cases.

@@ -1,0 +1,9 @@
+### Unit Testing in Software Testing
+
+- Unit testing is a type of software testing that focuses on verifying the functionality and quality of individual units of code, such as functions, methods, classes, or modules.
+- Unit testing is usually performed by developers using automated tools or frameworks, such as JUnit, NUnit, TestNG, PyTest, etc.
+- Unit testing helps to find and fix bugs early in the development cycle, improve the design and structure of the code, and facilitate code reuse and refactoring.
+- Unit testing follows the principle of "test early, test often", which means that unit tests should be written before or along with the code, and executed frequently during the development process.
+- Unit testing can be done in two ways: black-box testing or white-box testing. Black-box testing treats the unit as a black box and tests its functionality based on the input and output specifications. White-box testing examines the internal logic and structure of the unit and tests its branches, paths, and statements.
+- Unit testing can be classified into two categories: positive testing and negative testing. Positive testing verifies that the unit behaves as expected under normal or valid conditions. Negative testing checks that the unit handles errors and exceptions gracefully under abnormal or invalid conditions.
+- Unit testing can be enhanced by using techniques such as test-driven development (TDD), behavior-driven development (BDD), mocking, stubbing, and code coverage analysis. These techniques help to write more effective and maintainable unit tests, and ensure that the unit meets the desired specifications and behavior.

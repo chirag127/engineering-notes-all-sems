@@ -1,0 +1,24 @@
+# Potential stakeholders and their complex relationships to data and analytics applications
+
+- Stakeholders are individuals or groups that have an interest or influence in the data and analytics (D&A) activities of an organization or a project.
+- Stakeholders can have different roles, responsibilities, expectations, and needs regarding the D&A applications, processes, and outcomes.
+- Stakeholders can also have different levels of power, interest, and influence over the D&A activities, which can affect their engagement and support.
+- Stakeholders can be classified into two broad categories: primary and secondary.
+  - Primary stakeholders, also known as internal stakeholders, are directly associated with a business and include people like an employee, shareholder, customer, supplier or creditor.
+  - Secondary stakeholders, also known as external stakeholders, are not directly associated with a business but can affect or be affected by its D&A activities, such as regulators, competitors, media, or community.
+- Stakeholders can also be classified according to their functions or domains, such as business, technical, or social.
+  - Business stakeholders are those who are involved in the strategic, operational, or financial aspects of the organization or the project, such as executives, managers, analysts, or investors.
+  - Technical stakeholders are those who are involved in the design, development, implementation, or maintenance of the D&A systems, such as data engineers, data scientists, IT staff, or vendors.
+  - Social stakeholders are those who are concerned with the ethical, legal, or environmental implications of the D&A activities, such as customers, regulators, activists, or researchers.
+- Stakeholders can have complex relationships with each other and with the D&A applications, depending on their roles, interests, expectations, and needs.
+  - Stakeholders can have conflicting or competing interests or goals, which can create challenges or risks for the D&A activities, such as data quality, security, privacy, or compliance.
+  - Stakeholders can have different levels of understanding or awareness of the D&A applications, which can affect their engagement, trust, or satisfaction.
+  - Stakeholders can have different preferences or requirements for the D&A applications, such as data sources, formats, methods, tools, or outputs.
+  - Stakeholders can have different impacts or benefits from the D&A applications, such as improved decision-making, performance, or value.
+- Stakeholder management is the process of identifying, analyzing, engaging, and communicating with the stakeholders of a D&A project or initiative, to ensure their alignment, support, and satisfaction.
+- Stakeholder management involves the following steps:
+  - Identify the stakeholders and their roles, interests, expectations, and needs.
+  - Analyze the stakeholders and their power, influence, interest, and impact on the D&A activities.
+  - Engage the stakeholders and involve them in the D&A activities, such as planning, design, testing, or evaluation.
+  - Communicate with the stakeholders and provide them with relevant, timely, and accurate information and feedback on the D&A activities and outcomes.
+  - Monitor and evaluate the stakeholders and their engagement, trust, satisfaction, and value from the D&A activities and outcomes.

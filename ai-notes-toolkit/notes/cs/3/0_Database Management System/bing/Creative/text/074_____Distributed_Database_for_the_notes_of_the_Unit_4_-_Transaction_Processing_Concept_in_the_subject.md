@@ -1,0 +1,23 @@
+### Distributed Database for the notes of the Unit 4 - Transaction Processing Concept in the subject of Database Management System
+
+- A distributed database is a collection of databases that are physically distributed over different locations and connected by a network. 
+- A distributed transaction is a database transaction that involves two or more network hosts.  
+- A transaction is a logical unit of work that consists of one or more SQL statements executed by a single user. 
+- A transaction must satisfy the ACID properties: atomicity, consistency, isolation, and durability. 
+- A distributed transaction must also satisfy the following properties: 
+  - Serializability: The concurrent execution of distributed transactions should produce the same result as if they were executed serially in some order.
+  - Global atomicity: Either all the operations in a distributed transaction are committed or none of them are.
+  - Local autonomy: Each site in a distributed system should have some control over the transactions that access its local data.
+  - Transparency: The user should not be aware of the distribution of data and the execution of distributed transactions.
+- To achieve these properties, a distributed database system uses a two-phase commit protocol, which is a coordination mechanism that ensures the atomicity and consistency of distributed transactions.  
+- The two-phase commit protocol involves the following roles and phases:  
+  - Coordinator: The site that initiates the distributed transaction and coordinates the commit or rollback process.
+  - Participants: The sites that execute the operations of the distributed transaction and vote to commit or abort.
+  - Prepare phase: The coordinator asks the participants to prepare to commit and vote. The participants execute the transaction, write the undo and redo logs, and lock the data. Then they send their votes to the coordinator.
+  - Commit phase: The coordinator collects the votes and decides to commit or abort the transaction. It sends the decision to the participants. The participants follow the decision and release the locks and logs.
+- A distributed transaction may become in-doubt if the two-phase commit protocol fails due to network or system failures.  
+- An in-doubt transaction is a transaction whose outcome is unknown or uncertain.  
+- To resolve in-doubt transactions, a distributed database system uses a recovery mechanism that involves the following steps:  
+  - Detection: The coordinator or the participants detect the failure and try to reconnect with each other.
+  - Inquiry: The coordinator or the participants inquire about the status of the transaction from each other or from a third party, such as a transaction manager or a log file.
+  - Resolution: The coordinator or the participants decide to commit or abort the transaction based on the inquiry results and the predefined rules or policies.

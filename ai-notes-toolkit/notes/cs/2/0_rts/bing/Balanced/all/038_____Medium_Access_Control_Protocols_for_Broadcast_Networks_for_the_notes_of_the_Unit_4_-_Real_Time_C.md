@@ -1,0 +1,20 @@
+# Medium Access Control Protocols for Broadcast Networks
+
+- Medium access control (MAC) protocols are mechanisms that allow several users or transmitters to access a common medium or channel.
+- MAC protocols play an important role in the development of both wired and wireless networks, especially in broadcast networks where a single transmission can reach multiple receivers .
+- MAC protocols can be classified into two main categories: random access and scheduling .
+- Random access protocols allow users to transmit whenever they have data to send, without any coordination with other users. However, this may result in collisions, where two or more users transmit at the same time and interfere with each other. To avoid or resolve collisions, random access protocols use techniques such as carrier sensing, backoff, and acknowledgment.
+- Scheduling protocols assign transmission opportunities to users based on some criteria, such as priority, demand, or fairness. Scheduling protocols can avoid collisions and guarantee certain quality of service (QoS) requirements, such as delay, throughput, or reliability. However, scheduling protocols may incur more overhead and complexity than random access protocols.
+- Some examples of random access protocols are: 
+  - Carrier sense multiple access with collision detection (CSMA/CD), which is used in Ethernet networks. CSMA/CD requires users to sense the channel before transmitting and to abort transmission if a collision is detected.
+  - Carrier sense multiple access with collision avoidance (CSMA/CA), which is used in wireless networks such as IEEE 802.11 (Wi-Fi). CSMA/CA requires users to wait for a random backoff time before transmitting and to use acknowledgment frames to confirm successful reception.
+  - Slotted ALOHA, which is a simple random access protocol that divides time into slots and allows users to transmit in any slot with a certain probability. Slotted ALOHA does not use carrier sensing or collision detection, but relies on feedback from the receiver to retransmit lost packets.
+- Some examples of scheduling protocols are: 
+  - Time division multiple access (TDMA), which allocates a fixed time slot to each user in a round-robin fashion. TDMA can avoid collisions and provide equal access to all users, but it may waste bandwidth if some users have no data to send in their slots.
+  - Frequency division multiple access (FDMA), which assigns a fixed frequency band to each user. FDMA can also avoid collisions and provide equal access to all users, but it may suffer from interference and frequency reuse issues.
+  - Code division multiple access (CDMA), which allows users to transmit simultaneously using different codes that are orthogonal to each other. CDMA can achieve high spectral efficiency and robustness to interference, but it requires complex encoding and decoding schemes and power control mechanisms.
+- For real-time communication, MAC protocols need to consider the timing constraints and QoS requirements of the data streams, such as deadlines, jitter, and reliability.
+- Some MAC protocols that are designed for real-time communication are: 
+  - An adaptive MAC protocol for reliable broadcast in wireless networks (ABROAD), which adapts the transmission rate and the number of retransmissions according to the channel conditions and the packet deadlines. ABROAD can achieve high reliability and low delay for broadcast packets in wireless networks.
+  - A real-time MAC protocol for wireless sensor networks (RTMAC), which uses a hybrid approach of TDMA and CSMA/CA to support both periodic and sporadic data streams. RTMAC can guarantee the deadlines of periodic data streams and provide fair access to sporadic data streams in wireless sensor networks.
+  - A real-time MAC protocol for wireless body area networks (RT-WBAN), which uses a dynamic TDMA scheme to allocate slots to nodes based on their priority and traffic load. RT-WBAN can provide QoS differentiation and energy efficiency for various biomedical applications in wireless body area networks.

@@ -1,0 +1,24 @@
+# Coins as Cultural Heritage of India
+
+- Coins are one of the most important sources of information about the history, culture, religion, economy, and politics of ancient and medieval India.
+- Coins reflect the artistic, linguistic, and technological achievements of various dynasties and kingdoms that ruled over India or parts of it.
+- Coins also reveal the trade and cultural contacts that India had with other regions of the world, such as Central Asia, China, Southeast Asia, Persia, and Rome.
+- The origin of coinage in India can be traced back to the first millennium BCE, when punch-marked coins made of silver and copper were used as a medium of exchange.
+- The earliest coins were called karshapanas or panas, and they had symbols or marks punched on them, such as geometric shapes, animals, plants, or human figures.
+- The Mauryan Empire (4th-2nd century BCE) issued the largest number of punch-marked coins, which had the royal emblem of a peacock or a lion on them.
+- The post-Mauryan period (2nd-1st century BCE) saw the emergence of various regional powers, such as the Indo-Greeks, the Shakas, the Parthians, and the Kushanas, who introduced new types of coins in India.
+- The Indo-Greek coins were the first to bear the portraits and names of the kings, as well as bilingual legends in Greek and Brahmi scripts.
+- The Shakas and the Parthians followed the Indo-Greek model of coinage, but also added some distinctive features, such as the depiction of the king on horseback or the use of Iranian or Kharoshthi scripts.
+- The Kushanas (1st-3rd century CE) issued the most diverse and artistic coins in ancient India, which had images of the king, various deities, animals, and symbols, as well as legends in Greek, Brahmi, and Kharoshthi scripts.
+- The Kushana coins also show the influence of Roman, Persian, and Chinese cultures, as they used gold, silver, and copper metals, and adopted the Roman weight standard and the Persian fire altar motif.
+- The Gupta Empire (4th-6th century CE) is considered the golden age of Indian coinage, as they issued the most beautiful and elegant coins in ancient India, which had realistic portraits of the kings, and legends in Sanskrit and Brahmi scripts.
+- The Gupta coins also depicted various aspects of the royal life, such as hunting, playing musical instruments, performing rituals, or riding elephants.
+- The Gupta coins also show the religious diversity of India, as they had images of Hindu, Buddhist, and Jain deities, such as Vishnu, Shiva, Lakshmi, Buddha, and Mahavira.
+- The post-Gupta period (6th-12th century CE) witnessed the decline of a unified empire and the rise of regional kingdoms, such as the Pallavas, the Chalukyas, the Rashtrakutas, the Pandyas, the Cholas, the Pratiharas, the Palas, and the Chauhans, who issued their own coins in different styles and metals.
+- The medieval period (12th-16th century CE) saw the invasion and establishment of various foreign dynasties, such as the Delhi Sultanate, the Khiljis, the Tughlaqs, the Lodis, the Bahmanis, the Vijayanagara Empire, the Mughals, the Marathas, and the Sikhs, who introduced new types of coins in India.
+- The Delhi Sultanate coins were the first to use Arabic script and Islamic motifs, such as the kalima (the Islamic creed), the names of the caliphs, and the mint and date of issue.
+- The Khilji coins were the first to use the name of the king and the title of sultan, as well as the image of a horseman or a lion.
+- The Tughlaq coins were the first to use bilingual legends in Arabic and Devanagari scripts, as well as experiment with different metals, such as copper, brass, and lead.
+- The Lodi coins were the first to use the Persian language and script, as well as the image of a bull or a falcon.
+- The Bahmani coins were the first to use the image of a lion and a sun, as well as the name of the king and the title of shah.
+- The Vijayanagara coins were the first to use the image of a boar or a monkey, as well

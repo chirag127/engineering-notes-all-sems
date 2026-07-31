@@ -1,0 +1,17 @@
+### Standards and Guidelines for SOA
+
+- Service-Oriented Architecture (SOA) is a design paradigm that aims to create reusable, interoperable, and loosely coupled services that can be composed to fulfill business needs.
+- SOA is based on some guiding principles that define the characteristics and behaviors of services . These principles are:
+  - Standardized service contract: Services should have well-defined and consistent interfaces that are specified through one or more service description documents, such as WSDL or RESTful API specifications .
+  - Loose coupling: Services should be designed as self-contained components that maintain relationships that minimize dependencies on other services. This allows services to evolve independently and reduces the impact of changes .
+  - Abstraction: Services should hide their internal logic and implementation details from the outside world. They should only expose what is necessary for the consumers to interact with them. This increases the security and maintainability of services .
+  - Reusability: Services should be designed to support multiple business processes and scenarios, rather than being tied to a specific context or purpose. This maximizes the return on investment and reduces redundancy .
+  - Autonomy: Services should have control over their own logic and resources, and should not be affected by the state or behavior of other services. This enhances the reliability and availability of services .
+  - Statelessness: Services should avoid keeping any information about the consumer or the service interaction beyond the scope of a single request. This improves the scalability and performance of services, as well as simplifies the recovery from failures .
+  - Discoverability: Services should be easily discoverable and understandable by potential consumers. They should provide sufficient metadata and documentation that describe their functionality, quality, and requirements .
+  - Composability: Services should be able to be combined and orchestrated to create higher-level business solutions. They should support the principles of modularity, interoperability, and cohesion .
+- SOA is also influenced by some standards and guidelines that are established by various organizations and bodies, such as:
+  - The International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC), which provide standards for information security, quality management, and service management, such as ISO/IEC 27001, ISO 9001, and ISO/IEC 20000.
+  - The International Actuarial Association (IAA), which sets guidelines for a minimum syllabus for actuarial education and practice, which the SOA is committed to meeting through its exams and credentials.
+  - The American Psychological Association (APA), which provides guidelines for professional behavior, conduct, and ethics for psychologists and related fields, such as the APA Ethical Principles of Psychologists and Code of Conduct.
+  - The Society of Actuaries (SOA), which provides its own standards and guidelines for its members, such as the SOA Continuing Professional Development (CPD) requirement, the SOA Code of Professional Conduct, and the SOA Standards of Practice.

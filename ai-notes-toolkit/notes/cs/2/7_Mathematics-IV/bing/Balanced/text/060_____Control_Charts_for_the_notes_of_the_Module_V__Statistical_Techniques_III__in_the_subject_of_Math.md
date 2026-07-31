@@ -1,0 +1,28 @@
+### Control Charts
+
+- Control charts are graphical tools that help monitor the quality and stability of a process over time .
+- Control charts plot the values of a quality characteristic against a time scale, along with a central line for the average and two control limits for the variation .
+- Control charts can help detect the presence of special causes or assignable causes of variation that affect the process performance .
+- Control charts can be classified into two main types: univariate and multivariate .
+  - Univariate control charts are used to monitor one quality characteristic at a time, such as the mean, range, standard deviation, or median of a sample .
+  - Multivariate control charts are used to monitor more than one quality characteristic simultaneously, such as the correlation, covariance, or principal components of a sample .
+- Control charts can also be classified based on the type of data they use: attributes or variables .
+  - Attributes data are discrete or categorical data that can be counted or classified, such as the number of defects, errors, or complaints in a sample .
+  - Variables data are continuous or numerical data that can be measured or calculated, such as the length, weight, or temperature of a sample .
+- Some common types of control charts for attributes data are p-chart, np-chart, c-chart, and u-chart .
+  - p-chart is used to monitor the proportion or fraction of defective items in a sample .
+  - np-chart is used to monitor the number of defective items in a sample .
+  - c-chart is used to monitor the number of defects or nonconformities per unit in a sample .
+  - u-chart is used to monitor the number of defects or nonconformities per unit in a sample when the sample size varies .
+- Some common types of control charts for variables data are X-bar and R chart, X-bar and S chart, Md and R chart, and X chart .
+  - X-bar and R chart is used to monitor the mean and range of a sample .
+  - X-bar and S chart is used to monitor the mean and standard deviation of a sample .
+  - Md and R chart is used to monitor the median and range of a sample .
+  - X chart is used to monitor the individual values of a sample .
+- The steps to plot a control chart are :
+  - Define the quality characteristic to be monitored and the type of data to be collected.
+  - Select the appropriate type of control chart based on the data type and the quality characteristic.
+  - Collect the data in subgroups or samples over time and calculate the statistics for each subgroup or sample, such as the mean, range, proportion, or number of defects.
+  - Calculate the average and the control limits for the statistics using the formulas for the selected type of control chart.
+  - Plot the statistics and the control limits on a graph with a time scale on the horizontal axis and the quality characteristic on the vertical axis.
+  - Analyze the control chart for any patterns or trends that indicate the process is out of control, such as points beyond the control limits, runs of points on one side of the central line, or cycles or shifts in the data.

@@ -1,0 +1,10 @@
+### Solution of Linear Partial Differential Equation of Higher order with constant coefficients for the notes of the Module I: Partial Differential Equations in the subject of Mathematics-IV KCS
+
+1. A linear partial differential equation of higher order with constant coefficients is an equation of the form `a_n * D^n y + a_(n-1) * D^(n-1) y + ... + a_1 * D y + a_0 * y = f(x)`, where `D` is the differential operator, `n` is the order of the equation, `a_i` are constant coefficients, and `f(x)` is a given function.
+2. The general solution of such an equation can be obtained by finding the complementary function and the particular integral.
+3. The complementary function is the general solution of the corresponding homogeneous equation `a_n * D^n y + a_(n-1) * D^(n-1) y + ... + a_1 * D y + a_0 * y = 0`. It can be found by assuming a solution of the form `y = e^(m*x)` and substituting it into the homogeneous equation to obtain the characteristic equation `a_n * m^n + a_(n-1) * m^(n-1) + ... + a_1 * m + a_0 = 0`.
+4. The roots of the characteristic equation determine the form of the complementary function. If all the roots are distinct, the complementary function is given by `y_c = C_1 * e^(m_1 * x) + C_2 * e^(m_2 * x) + ... + C_n * e^(m_n * x)`, where `C_i` are arbitrary constants and `m_i` are the roots of the characteristic equation.
+5. If the characteristic equation has repeated roots, the complementary function will contain terms of the form `x^k * e^(m*x)`, where `k` is the multiplicity of the root `m`.
+6. The particular integral is a specific solution of the non-homogeneous equation that can be found using the method of undetermined coefficients or the method of variation of parameters.
+7. The general solution of the non-homogeneous equation is given by the sum of the complementary function and the particular integral: `y = y_c + y_p`.
+8. The solution can be further determined by applying any given initial or boundary conditions.

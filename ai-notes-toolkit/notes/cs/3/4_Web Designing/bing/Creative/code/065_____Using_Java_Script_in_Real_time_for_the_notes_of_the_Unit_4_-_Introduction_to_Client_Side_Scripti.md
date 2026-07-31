@@ -1,0 +1,20 @@
+# Using JavaScript in Real Time for the Notes of the Unit 4 - Introduction to Client Side Scripting in the Subject of Web Designing
+
+JavaScript is a scripting language that can run in the browser and on the server. It can be used to create dynamic and interactive web pages, as well as real-time applications that can communicate with the server and other clients.
+
+Real-time applications are applications that can exchange data with the server or other clients without reloading the page or waiting for a response. They can provide a better user experience and functionality, such as chat, video conferencing, gaming, live updates, etc.
+
+There are different ways to build real-time applications with JavaScript, depending on the technology and architecture used. Some of the common methods are:
+
+- **Long-Polling**: This is when the application requests updates from the server on a schedule. The app is “polling” the server for new data, and the server responds with the data or an empty response. This method is simple and widely supported, but it can be inefficient and consume a lot of resources on the server and the client. 
+- **Server-Sent Events**: Server-Sent Events (SSE) is similar to long-polling in so much as the client asks the server for information. However, instead of sending an empty response, the server keeps the connection open and sends data to the client whenever there is an update. The client listens for these events and updates the UI accordingly. This method is more efficient than long-polling, but it only supports one-way communication from the server to the client. 
+- **Web Sockets**: Web Sockets is a technology that facilitates a true two-way communication channel between a client and a server. The client and the server can send and receive data at any time, without any polling or waiting. This method is the most efficient and flexible for real-time applications, but it requires a compatible browser and server. 
+- **SignalR**: SignalR is a JavaScript library that abstracts the complexity of building real-time applications. It can use different methods of communication, such as Web Sockets, SSE, or long-polling, depending on the browser and server capabilities. It also provides features such as automatic connection management, groups, authentication, etc. 
+- **Azure SignalR**: Azure SignalR is a cloud service that provides a scalable and reliable infrastructure for real-time applications. It can handle millions of concurrent connections and messages, and it integrates with other Azure services, such as Functions, App Service, etc. It also supports SignalR, as well as other protocols, such as REST and MQTT. 
+
+Some examples of real-time applications that can be built with JavaScript are:
+
+- **Chatroom**: A chatroom is an application that allows users to communicate with each other in real time. It can use Web Sockets or SignalR to send and receive messages, and update the UI accordingly. It can also implement features such as authentication, encryption, emoticons, etc. 
+- **Video Conferencing**: A video conferencing application allows users to have a live video and audio conversation with each other. It can use WebRTC, a technology that enables peer-to-peer communication in the browser, and Web Sockets or SignalR to coordinate the connection and exchange data. It can also implement features such as screen sharing, recording, etc. 
+- **Gaming**: A gaming application allows users to play a game with each other in real time. It can use Web Sockets or SignalR to send and receive game data, such as position, score, actions, etc. It can also implement features such as graphics, sound, physics, etc. 
+- **Live Updates**: A live update application allows users to receive updates from the server or other clients in real time. It can use SSE or Web Sockets to listen for events, such as news, weather, sports, etc. It can also implement features such as notifications, filters, etc.

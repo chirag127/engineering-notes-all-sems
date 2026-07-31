@@ -1,0 +1,7 @@
+
+### Fundamentals of Satellite & Radar Communication
+
+* Satellite communication is the transmission of data, voice, video, and other forms of information between two or more points in space using a satellite. It is a form of wireless communication that uses a network of satellites to provide communication services to various locations on Earth.
+* Radar communication is the transmission of data, voice, video, and other forms of information between two or more points using radio waves. It is a form of wireless communication that uses high-frequency radio waves to provide communication services to various locations on Earth.
+* The fundamentals of communication engineering are the basic principles and concepts that are necessary for the effective design and implementation of communication systems. These principles include signal processing, modulation and coding, error detection and correction, transmission and reception, and network protocols.
+* The fundamentals of satellite and radar communication are the same as those of other forms of communication engineering. However, satellite and radar communication systems require additional considerations due to their unique characteristics. These considerations include orbital mechanics, signal propagation, and antenna design.

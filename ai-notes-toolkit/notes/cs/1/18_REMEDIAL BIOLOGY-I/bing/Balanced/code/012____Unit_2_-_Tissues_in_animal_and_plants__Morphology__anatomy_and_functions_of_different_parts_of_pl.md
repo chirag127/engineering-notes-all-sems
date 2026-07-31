@@ -1,0 +1,24 @@
+## Unit 2 - Tissues in animal and plants, Morphology, anatomy and functions of different parts of plants: Root, stem, leaf, inflorescence, flower, fruit and seed.
+
+- Tissues are groups of cells that have a similar structure and function in a multicellular organism.
+- There are two main types of tissues: animal tissues and plant tissues.
+- Animal tissues are classified into four types: epithelial, connective, muscle and nervous.
+  - Epithelial tissues are composed of cells that line the external and internal surfaces of the body, such as the skin, the lining of the digestive tract, and the glands.
+  - Connective tissues are composed of cells that support, bind, and protect other tissues and organs, such as the bone, cartilage, blood, and adipose tissue.
+  - Muscle tissues are composed of cells that contract and relax to produce movement, such as the skeletal, cardiac, and smooth muscles.
+  - Nervous tissues are composed of cells that transmit and receive electrical signals to coordinate the activities of the body, such as the neurons and glial cells.
+- Plant tissues are classified into three types: epidermis, ground tissue, and vascular tissue.
+  - Epidermis is the outermost layer of cells that covers and protects the plant body, such as the cuticle, stomata, and trichomes.
+  - Ground tissue is the bulk of the plant body that performs various functions, such as photosynthesis, storage, and support, such as the parenchyma, collenchyma, and sclerenchyma.
+  - Vascular tissue is the tissue that transports water and nutrients throughout the plant body, such as the xylem and phloem.
+- Morphology is the study of the external form and structure of plants, such as the shape, size, color, and arrangement of the plant parts.
+- Anatomy is the study of the internal structure and organization of plants, such as the tissues, cells, and organelles of the plant parts.
+- Functions are the roles and activities of the plant parts in relation to the survival and reproduction of the plant.
+- The different parts of plants are root, stem, leaf, inflorescence, flower, fruit and seed.
+  - Root is the part of the plant that anchors it to the soil, absorbs water and minerals, and stores food.
+  - Stem is the part of the plant that supports the leaves, flowers, and fruits, conducts water and nutrients, and produces new tissues.
+  - Leaf is the part of the plant that is the main site of photosynthesis, transpiration, and gas exchange.
+  - Inflorescence is the part of the plant that is a group of flowers arranged in a specific pattern on a common axis.
+  - Flower is the part of the plant that is the reproductive organ, consisting of four whorls: calyx, corolla, androecium, and gynoecium.
+  - Fruit is the part of the plant that is the mature ovary that contains the seeds and protects them.
+  - Seed is the part of the plant that is the product of fertilization, containing the embryo, endosperm, and seed coat.

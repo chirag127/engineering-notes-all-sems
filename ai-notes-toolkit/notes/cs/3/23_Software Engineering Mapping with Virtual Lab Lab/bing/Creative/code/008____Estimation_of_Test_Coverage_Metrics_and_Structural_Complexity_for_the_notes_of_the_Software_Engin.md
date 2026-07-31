@@ -1,0 +1,21 @@
+## Estimation of Test Coverage Metrics and Structural Complexity
+
+- Test coverage metrics are used to measure and monitor the testing activity of a software program.
+- Test coverage metrics help to answer questions such as:
+  - How many test cases are needed to test the program?
+  - How many test cases have been executed?
+  - How many test cases have passed or failed?
+  - How much of the program code has been covered by the test cases?
+  - How complex is the program code?
+- Test coverage metrics can be classified into two types:
+  - Functional coverage metrics: measure the extent to which the functional requirements of the program have been tested.
+  - Structural coverage metrics: measure the extent to which the program code has been exercised by the test cases.
+- Structural coverage metrics are based on the concept of a control flow graph (CFG) of the program.
+- A CFG is a graphical representation of the flow of control within a program, where each node represents a basic block and each edge represents a possible transition between basic blocks.
+- A basic block is a sequence of statements that has a single entry point and a single exit point.
+- A CFG helps to identify the complexity of the program and the linearly independent paths that need to be tested.
+- The complexity of the program can be estimated by using metrics such as cyclomatic complexity, which is the number of linearly independent paths in the CFG.
+- The linearly independent paths are the paths that cannot be expressed as a combination of other paths in the CFG.
+- The linearly independent paths can be identified by using techniques such as the basis path testing method, which uses the following formula to calculate the number of paths: P = E - N + 2, where P is the number of paths, E is the number of edges, and N is the number of nodes in the CFG.
+- The test coverage metrics can be calculated by using the following formula: C = T / P, where C is the test coverage, T is the number of test cases executed, and P is the number of paths in the CFG.
+- The test coverage metrics can be used to evaluate the quality and completeness of the testing process, and to identify the areas that need more testing.

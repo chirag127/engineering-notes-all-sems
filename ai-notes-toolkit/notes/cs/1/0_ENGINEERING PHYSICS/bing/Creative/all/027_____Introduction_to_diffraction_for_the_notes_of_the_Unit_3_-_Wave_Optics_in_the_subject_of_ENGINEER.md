@@ -1,0 +1,10 @@
+# Introduction to diffraction
+
+- Diffraction is the process by which a beam of light or other system of waves is spread out as a result of passing through a narrow aperture or across an edge, typically accompanied by interference between the wave forms produced  .
+- Diffraction occurs when the size of the obstacle or the slit is comparable to or smaller than the wavelength of the incident wave.
+- Diffraction is a consequence of the wave nature of light and other electromagnetic radiation, as well as of sound waves and particles that exhibit wave-like behavior, such as electrons and neutrons.
+- Diffraction can produce various patterns of light and dark or colored bands, depending on the shape and arrangement of the diffracting object, the wavelength of the incident wave, and the distance between the object and the screen where the pattern is observed.
+- Diffraction can be classified into two types: Fresnel diffraction and Fraunhofer diffraction, depending on whether the source and the screen are close to or far from the diffracting object.
+- Fresnel diffraction occurs when the source and the screen are at a finite distance from the diffracting object, and the wavefronts are spherical or cylindrical. Fresnel diffraction can be observed in the case of a single slit, a circular aperture, a straight edge, etc.
+- Fraunhofer diffraction occurs when the source and the screen are at an infinite distance from the diffracting object, and the wavefronts are plane. Fraunhofer diffraction can be observed in the case of a double slit, a diffraction grating, a single slit with a lens, etc.
+- Diffraction is an important phenomenon in many fields of science and engineering, such as optics, acoustics, crystallography, microscopy, spectroscopy, astronomy, etc. Diffraction can be used to study the structure and properties of matter, to create images and holograms, to measure wavelengths and distances, to analyze spectra and colors, etc.

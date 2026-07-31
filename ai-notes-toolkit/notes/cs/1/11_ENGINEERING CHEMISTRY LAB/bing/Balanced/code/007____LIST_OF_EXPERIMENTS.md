@@ -1,0 +1,13 @@
+## LIST OF EXPERIMENTS
+
+- An experiment is a scientific procedure that aims to test a hypothesis, answer a question, or discover something new.
+- Experiments usually involve manipulating one or more variables and measuring their effects on other variables.
+- Experiments can be classified into different types based on their design, purpose, and outcome.
+
+Some common types of experiments are:
+
+- **Controlled experiments**: These are experiments where the researcher controls all the factors that could affect the outcome, except for the independent variable (the one that is changed). The researcher then compares the results of the experimental group (the one that receives the treatment or manipulation) with the control group (the one that does not receive the treatment or manipulation). This type of experiment is often used to establish cause-and-effect relationships between variables.
+- **Natural experiments**: These are experiments where the researcher does not manipulate any variables, but rather observes the effects of a natural event or phenomenon on the variables of interest. The researcher then compares the results of the groups that are exposed to the event or phenomenon with the groups that are not exposed to it. This type of experiment is often used to study the impact of historical, social, or environmental changes on outcomes.
+- **Quasi-experiments**: These are experiments where the researcher manipulates one or more variables, but does not control for all the other factors that could affect the outcome. The researcher then compares the results of the groups that receive different levels or types of treatment or manipulation. This type of experiment is often used when it is not possible or ethical to conduct a controlled experiment, or when the researcher wants to study the effects of multiple variables at once.
+- **Field experiments**: These are experiments where the researcher conducts the experiment in a natural setting, rather than in a laboratory or a controlled environment. The researcher then observes the behavior or responses of the participants or subjects in their natural context. This type of experiment is often used to study the effects of interventions or policies on real-world outcomes.
+- **Laboratory experiments**: These are experiments where the researcher conducts the experiment in a controlled and artificial environment, such as a laboratory or a simulation. The researcher then manipulates one or more variables and measures their effects on other variables. This type of experiment is often used to test hypotheses, theories, or models in a controlled and isolated way.

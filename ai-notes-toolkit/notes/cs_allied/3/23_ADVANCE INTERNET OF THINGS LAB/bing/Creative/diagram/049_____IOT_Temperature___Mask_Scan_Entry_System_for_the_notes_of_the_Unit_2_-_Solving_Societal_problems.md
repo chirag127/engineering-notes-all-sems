@@ -1,0 +1,30 @@
+### IOT Temperature & Mask Scan Entry System
+
+- An IoT-based system that aims to increase COVID-19 indoor safety by checking the temperature and mask status of the visitors or employees before allowing entry    .
+- The system consists of the following components:
+  - A contactless temperature scanner that uses a thermal camera or a sensor to measure the body temperature of the person  .
+  - A mask detector that uses a video camera and an image processing algorithm to detect the presence or absence of a mask on the person's face   .
+  - A gate or a barrier that controls the entry of the person based on the temperature and mask scan results  .
+  - A display or a speaker that shows or announces the scan results and the entry status  .
+  - A Raspberry Pi or a microcontroller that acts as the central processing unit and connects the scanner, the detector, the gate, and the display or speaker  .
+  - An IoT platform or a cloud service that stores and analyzes the scan data and provides remote monitoring and control of the system  .
+- The system works as follows:
+  - The person approaches the system and stands in front of the scanner and the detector  .
+  - The scanner measures the person's temperature and sends the data to the Raspberry Pi or the microcontroller  .
+  - The detector captures the person's image and applies the image processing algorithm to detect the mask and sends the data to the Raspberry Pi or the microcontroller   .
+  - The Raspberry Pi or the microcontroller compares the temperature and mask data with the predefined thresholds and decides whether to allow or deny entry   .
+  - The gate or the barrier opens or closes accordingly  .
+  - The display or the speaker shows or announces the scan results and the entry status  .
+  - The Raspberry Pi or the microcontroller sends the scan data to the IoT platform or the cloud service for storage and analysis  .
+  - The IoT platform or the cloud service provides remote monitoring and control of the system and generates reports and alerts  .
+- The system has the following advantages:
+  - It reduces the risk of COVID-19 transmission by screening the visitors or employees for fever and mask compliance    .
+  - It automates the entry process and eliminates the need for manual checking and intervention    .
+  - It improves the efficiency and accuracy of the temperature and mask scan   .
+  - It provides real-time data and feedback on the scan results and the entry status   .
+  - It enables remote monitoring and control of the system and facilitates data analysis and decision making  .
+- The system has the following challenges or limitations:
+  - It requires a reliable and secure network connection and power supply .
+  - It may face technical issues or errors such as sensor or camera malfunction, false positives or negatives, or system hacking  .
+  - It may raise privacy or ethical concerns such as data protection, consent, or discrimination  .
+  - It may not be sufficient or effective to prevent COVID-19 spread without other measures such as vaccination, testing, or ventilation  [^5^

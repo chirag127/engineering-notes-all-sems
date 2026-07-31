@@ -1,0 +1,7 @@
+### Urdu Literature in India
+
+- Urdu literature is the literature written in the Urdu language, which is spoken by the Muslims of Pakistan and northern India .
+- Urdu literature is influenced by the Persian, Arabic, and Turkish languages, as well as the local languages of the Indian subcontinent, such as Hindi, Punjabi, Sindhi, and Gujarati.
+- Urdu literature is known for its poetry, especially the forms of ghazal and nazm, which are lyrical expressions of love, longing, and mysticism. Some of the famous poets of Urdu literature are Mirza Ghalib, Mir Taqi Mir, Allama Iqbal, Faiz Ahmed Faiz, and Ahmad Faraz.
+- Urdu literature also has a rich tradition of prose, including novels, short stories, essays, and biographies. Some of the notable prose writers of Urdu literature are Saadat Hasan Manto, Ismat Chughtai, Qurratulain Hyder, Munshi Premchand, and Khushwant Singh.
+- Urdu literature reflects the cultural, social, and political realities of the Indian subcontinent, as well as the aspirations and challenges of the Muslim community . Urdu literature has also contributed to the development of other literary traditions, such as Hindi literature, Bengali literature, and English literature in India.

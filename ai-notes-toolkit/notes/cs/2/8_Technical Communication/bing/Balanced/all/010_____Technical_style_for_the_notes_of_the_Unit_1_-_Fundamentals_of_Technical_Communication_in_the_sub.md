@@ -1,0 +1,32 @@
+# Technical style for the notes of the Unit 1 - Fundamentals of Technical Communication in the subject of Technical Communication
+
+- Technical style is the way of writing or speaking that is appropriate for a specific technical context, such as a report, a presentation, or a manual.
+- Technical style is different from other styles of communication because it has specific goals, audiences, and conventions that influence its form and content.
+- Some of the goals of technical style are to:
+  - Inform, persuade, or instruct the audience
+  - Provide accurate, clear, and concise information
+  - Use appropriate tone, vocabulary, and format
+  - Avoid ambiguity, confusion, and errors
+  - Establish credibility and authority
+  - Meet the expectations and needs of the audience
+- Some of the audiences of technical style are:
+  - Experts, who have specialized knowledge and skills in the technical field
+  - Non-experts, who have general or limited knowledge and skills in the technical field
+  - Mixed, who have varying levels of knowledge and skills in the technical field
+- Some of the conventions of technical style are:
+  - Use of standard grammar, punctuation, and spelling
+  - Use of technical terms, acronyms, and symbols
+  - Use of headings, lists, tables, figures, and references
+  - Use of logical organization, coherence, and transitions
+  - Use of objective, impersonal, and formal tone
+  - Use of active, passive, or mixed voice
+  - Use of simple, compound, or complex sentences
+  - Use of positive, negative, or neutral words
+  - Use of direct, indirect, or persuasive strategies
+- Technical style is not fixed or universal, but rather dynamic and adaptable to different situations and purposes. Therefore, technical communicators should always consider the following factors when choosing and applying a technical style:
+  - The purpose of the communication
+  - The audience of the communication
+  - The context of the communication
+  - The genre of the communication
+  - The medium of the communication
+  - The ethics of the communication

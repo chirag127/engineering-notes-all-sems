@@ -1,0 +1,23 @@
+### Information Retrieval for the notes of the Unit 5 - APPLICATIONS in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Information retrieval (IR) is the process of finding relevant information from a large collection of documents, such as web pages, books, articles, etc., based on a user's query.
+- Artificial intelligence (AI) is the field of computer science that aims to create systems that can perform tasks that normally require human intelligence, such as reasoning, learning, planning, natural language processing, etc.
+- AI methods are employed throughout the standard IR process and for novel value-added services, such as personalization, recommendation, summarization, etc.
+- The standard IR process consists of the following steps :
+  - Document collection: The IR system gathers the documents that are relevant to the domain of interest, such as web crawling, database indexing, etc.
+  - Document preprocessing: The IR system transforms the documents into a suitable representation for retrieval, such as tokenization, stemming, stopword removal, etc.
+  - Query processing: The IR system interprets the user's query and converts it into a suitable representation for retrieval, such as natural language processing, query expansion, etc.
+  - Matching and ranking: The IR system compares the query and the documents and assigns a score to each document based on its relevance to the query, such as vector space model, probabilistic model, etc.
+  - Result presentation: The IR system displays the results to the user in a suitable format, such as snippets, highlighting, pagination, etc.
+- AI methods can be applied to each of the above steps to improve the performance and user satisfaction of the IR system, such as   :
+  - Document collection: AI methods can help to select the most relevant and diverse sources of information, such as web mining, information extraction, etc.
+  - Document preprocessing: AI methods can help to extract meaningful features and concepts from the documents, such as named entity recognition, topic modeling, etc.
+  - Query processing: AI methods can help to understand the user's information need and intent, such as natural language understanding, query reformulation, etc.
+  - Matching and ranking: AI methods can help to model the relevance and importance of the documents, such as learning to rank, neural networks, etc.
+  - Result presentation: AI methods can help to generate and organize the results in a user-friendly way, such as natural language generation, clustering, etc.
+- Some examples of applications of AI in IR are  :
+  - Question answering: A system that can answer natural language questions by retrieving and synthesizing information from various sources, such as Wikipedia, databases, etc.
+  - Conversational agents: A system that can interact with the user in natural language and provide information or perform tasks, such as chatbots, voice assistants, etc.
+  - Recommender systems: A system that can suggest items or information that the user might be interested in, based on their preferences, behavior, context, etc., such as e-commerce, social media, etc.
+  - Information summarization: A system that can produce a concise and coherent summary of a document or a set of documents, such as news articles, reviews, etc.
+  - Information visualization: A system that can present the information in a graphical or interactive way, such as charts, maps, graphs, etc.

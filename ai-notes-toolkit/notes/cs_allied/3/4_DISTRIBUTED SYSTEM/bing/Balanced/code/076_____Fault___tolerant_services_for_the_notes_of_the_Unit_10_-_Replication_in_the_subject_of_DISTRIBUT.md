@@ -1,0 +1,12 @@
+### Fault-Tolerant Services for the Notes of the Unit 10 - Replication in the Subject of Distributed System
+
+- Fault-tolerance is the ability of a system to continue providing correct service despite the occurrence of failures, such as server crashes, network partitions, or malicious attacks.
+- Replication is a technique for achieving fault-tolerance by creating and maintaining multiple copies of the same service or data across different servers or locations.
+- Replication can improve the availability, performance, and reliability of a distributed system, but also introduces challenges such as consistency, coordination, and recovery.
+- There are two main classes of replication techniques: primary-backup replication and active replication.
+  - Primary-backup replication: One server acts as the primary and handles all the requests from the clients, while the others act as backups and receive updates from the primary. The primary is responsible for ensuring the consistency and durability of the replicas. If the primary fails, a new primary is elected from the backups.
+  - Active replication: All servers act as replicas and execute the same requests from the clients in the same order. The replicas use a consensus protocol to agree on the order of requests and ensure consistency. If a replica fails, the others can continue to provide service.
+- The correctness criterion for replicated services is linearizability, which means that every operation appears to take effect atomically at some point between its invocation and response, and that the order of operations is consistent with the real-time order of invocations.
+- The replicated state machine approach is a general method for implementing a fault-tolerant service by replicating servers and coordinating client interactions with server replicas. This approach was proposed by Lamport and further elaborated by Schneider .
+- An alternative method for fault-tolerance that combines ideas from replication and coding theory is fused state machines, which use (sufficient) replication to guarantee low overhead during normal operations and coding theory to reduce the number of copies to get space and message savings. This method was proposed by Garg.
+- Geo-replicated storage systems aim at ensuring available, low-latency access to data even under server crashes and network partitions. They use different consistency models, such as causal consistency, to balance the trade-off between performance and correctness.

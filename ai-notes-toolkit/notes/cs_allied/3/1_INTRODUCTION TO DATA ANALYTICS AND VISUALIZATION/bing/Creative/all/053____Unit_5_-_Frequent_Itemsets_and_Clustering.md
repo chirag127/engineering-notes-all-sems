@@ -1,0 +1,28 @@
+## Unit 5 - Frequent Itemsets and Clustering
+
+- This unit covers two important topics in data mining: finding frequent itemsets and clustering data points.
+- Frequent itemsets are sets of items that occur together frequently in a given dataset, such as transactions, documents, or web pages. They can reveal interesting patterns and associations among the data items.
+- Clustering is the process of grouping data points into clusters, such that the points within a cluster are similar to each other, and the points across different clusters are dissimilar. Clustering can help discover the underlying structure and categories of the data.
+- The main objectives of this unit are:
+
+  - To understand the concepts and applications of frequent itemsets and association rules.
+  - To learn how to use the Apriori algorithm to efficiently find frequent itemsets and generate association rules.
+  - To understand the concepts and challenges of clustering.
+  - To learn how to use the k-means algorithm to perform clustering on numerical data.
+  - To learn how to use the hierarchical clustering algorithm to perform clustering on any type of data.
+
+- The main topics covered in this unit are:
+
+  - Frequent itemsets and association rules
+    - Definition and examples of frequent itemsets and association rules
+    - Motivation and applications of frequent itemsets and association rules
+    - The Apriori principle and the Apriori algorithm
+    - Measures of interestingness and confidence for association rules
+    - Extensions and variations of frequent itemsets and association rules
+  - Clustering
+    - Definition and examples of clustering
+    - Motivation and applications of clustering
+    - The k-means algorithm
+    - The hierarchical clustering algorithm
+    - Evaluation and validation of clustering results
+    - Challenges and limitations of clustering

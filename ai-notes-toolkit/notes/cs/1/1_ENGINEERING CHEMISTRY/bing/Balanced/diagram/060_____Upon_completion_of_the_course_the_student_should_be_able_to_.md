@@ -1,0 +1,7 @@
+### Upon completion of the course the student should be able to:
+
+- Define and explain the basic concepts and principles of artificial intelligence, such as agents, environments, rationality, search, knowledge representation, reasoning, planning, learning, natural language processing, computer vision, and robotics.
+- Apply and implement various algorithms and techniques for solving artificial intelligence problems, such as uninformed and informed search, constraint satisfaction, logical inference, probabilistic reasoning, decision making, reinforcement learning, supervised and unsupervised learning, natural language processing, computer vision, and robotics.
+- Analyze and evaluate the strengths and limitations of different artificial intelligence methods and approaches for different domains and applications.
+- Design and develop artificial intelligence systems and applications using appropriate tools and frameworks, such as Python, TensorFlow, PyTorch, OpenAI Gym, NLTK, OpenCV, ROS, etc.
+- Demonstrate and communicate the ethical, social, and professional issues and challenges related to artificial intelligence, such as fairness, accountability, transparency, privacy, security, human-AI interaction, etc.

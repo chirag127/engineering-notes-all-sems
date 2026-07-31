@@ -1,0 +1,8 @@
+### MAC protocol survey
+
+- MAC (Medium Access Control) protocols are responsible for coordinating the access of multiple devices to a shared wireless medium in IoT (Internet of Things) networks.
+- MAC protocols can be classified into two main categories: contention-based and contention-free.
+- Contention-based MAC protocols allow devices to compete for the channel access without reservation or scheduling. They are suitable for low traffic and dynamic networks, but they may suffer from collisions, overhead, and unfairness. Examples of contention-based MAC protocols are CSMA/CA, ALOHA, and IEEE 802.11.
+- Contention-free MAC protocols allocate the channel access to devices in advance using reservation or scheduling mechanisms. They are suitable for high traffic and static networks, but they may suffer from complexity, latency, and wastage. Examples of contention-free MAC protocols are TDMA, FDMA, CDMA, and IEEE 802.15.4.
+- MAC protocols for IoT should consider the specific requirements and challenges of IoT networks, such as scalability, heterogeneity, energy efficiency, reliability, and security.
+- IEEE 802.11ah, also known as WiFi HaLow, is a recent MAC protocol that aims to provide a scalable solution for medium-range communication in IoT. It leverages various innovative features, such as restricted access window, target wake time, and group addressed transmission, to support a large number of devices with low power consumption and high reliability.

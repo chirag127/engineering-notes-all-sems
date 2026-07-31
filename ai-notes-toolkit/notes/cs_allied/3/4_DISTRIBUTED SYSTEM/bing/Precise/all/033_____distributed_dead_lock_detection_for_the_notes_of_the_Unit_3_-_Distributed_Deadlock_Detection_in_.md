@@ -1,0 +1,7 @@
+# Distributed Deadlock Detection
+
+Distributed deadlocks can occur in distributed systems when distributed transactions or concurrency control are utilized. Deadlock detection in distributed systems seems to be the best approach to handle deadlocks in distributed systems. There are two basic issues that need to be addressed when handling deadlocks using the approach of deadlock detection: First, the detection of existing deadlocks and second, the resolution of detected deadlocks  .
+
+Distributed deadlock detection algorithms can be divided into four classes: path-pushing, edge-chasing, diffusion computation, and global state detection . In the deadlock avoidance approach to distributed systems, a resource is granted to a process if the resulting global system is safe. Deadlock detection requires an examination of the status of the process-resources interaction for the presence of a deadlock condition. To resolve the deadlock, a deadlocked process has to be aborted .
+
+The techniques of deadlock detection in the distributed system require the following: Progress – The method should be able to detect all the deadlocks in the system. Safety – The method should not detect false or phantom deadlocks. There are three approaches to detect deadlocks in distributed systems: constructing a global wait-for graph from local wait-for graphs at a deadlock detector, using a distributed algorithm like edge chasing, and phantom deadlocks  .

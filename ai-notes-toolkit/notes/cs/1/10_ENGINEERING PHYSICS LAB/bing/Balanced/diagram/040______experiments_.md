@@ -1,0 +1,24 @@
+#### Experiments
+
+- An experiment is a scientific method of testing a hypothesis or a research question by manipulating one or more variables and observing their effects on another variable.
+- The purpose of an experiment is to establish a causal relationship between the independent variable (the factor that is changed by the experimenter) and the dependent variable (the factor that is measured or observed as the outcome of the experiment).
+- Experiments can be classified into two types: controlled experiments and natural experiments.
+  - A controlled experiment is one in which the experimenter has full control over all the variables and can randomly assign the participants or units to different groups or conditions.
+  - A natural experiment is one in which the experimenter cannot manipulate the independent variable, but can observe its effects on the dependent variable in a natural setting or a historical event.
+- The main components of an experiment are:
+  - The experimental group: the group or condition that receives the treatment or intervention of interest.
+  - The control group: the group or condition that does not receive the treatment or intervention, but is otherwise identical to the experimental group.
+  - The random assignment: the process of assigning the participants or units to the experimental or control group by chance, to ensure that the groups are comparable and to reduce bias.
+  - The pretest and posttest: the measurements of the dependent variable before and after the treatment or intervention, to assess the change or difference caused by the independent variable.
+  - The confounding variable: any factor other than the independent variable that may affect the dependent variable and distort the results of the experiment.
+  - The placebo effect: the psychological effect of believing that one is receiving the treatment or intervention, even if it is inactive or fake, and showing improvement or change in the dependent variable.
+  - The blinding: the technique of concealing the information about the treatment or intervention from the participants, the experimenter, or both, to reduce the placebo effect and bias.
+    - Single-blind: only the participants are unaware of the treatment or intervention they are receiving.
+    - Double-blind: both the participants and the experimenter are unaware of the treatment or intervention.
+    - Triple-blind: the participants, the experimenter, and the data analyst are unaware of the treatment or intervention.
+- The main steps of conducting an experiment are:
+  - Formulate a hypothesis or a research question based on a theory or an observation.
+  - Design the experiment by choosing the independent and dependent variables, the experimental and control groups, the random assignment method, the pretest and posttest measures, and the blinding technique.
+  - Conduct the experiment by applying the treatment or intervention to the experimental group and the placebo or no treatment to the control group, and collecting the data on the dependent variable.
+  - Analyze the data by using statistical methods to test the hypothesis or answer the research question, and to evaluate the significance and validity of the results.
+  - Interpret and report the results by explaining the findings, the implications, the limitations, and the suggestions for future research.

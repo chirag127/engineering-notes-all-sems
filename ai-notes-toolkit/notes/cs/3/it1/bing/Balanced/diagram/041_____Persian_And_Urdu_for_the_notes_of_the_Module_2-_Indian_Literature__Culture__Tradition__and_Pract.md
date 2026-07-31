@@ -1,0 +1,9 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on Persian and Urdu for the module 2 of Indian Literature, Culture, Tradition, and Practices. Here is a brief overview of the topic:
+
+### Persian and Urdu
+
+- Persian and Urdu are two languages that have influenced the literary and cultural traditions of India, especially in the northern and central regions.
+- Persian was the official language of the Mughal Empire, which ruled over most of India from the 16th to the 18th century. Persian was also the language of court, administration, literature, and art in many regional kingdoms and states that were influenced by the Mughals or had diplomatic relations with them.
+- Urdu emerged as a distinct language in the 18th century, as a result of the interaction and fusion of Persian, Arabic, Turkish, and local Indian languages, such as Hindi, Punjabi, and Sindhi. Urdu was initially spoken by the Muslim soldiers and traders who came to India from Central Asia and Persia, and later by the urban elites and the common people of various religious and ethnic backgrounds.
+- Persian and Urdu have contributed to the development of various genres and forms of literature in India, such as poetry, prose, drama, history, biography, travelogue, and fiction. Some of the prominent Persian and Urdu writers and poets in India are Amir Khusrau, Mirza Ghalib, Mir Taqi Mir, Sir Syed Ahmed Khan, Maulana Abul Kalam Azad, Allama Iqbal, and Saadat Hasan Manto.
+- Persian and Urdu have also enriched the cultural and artistic expressions of India, such as music, architecture, painting, calligraphy, and cuisine. Some of the examples of Persian and Urdu influence on Indian culture are the Qawwali, Ghazal, and Thumri forms of music, the Taj Mahal, the Red Fort, and the Humayun's Tomb monuments, the Mughal and Deccani schools of painting, the Nastaliq and Naskh styles of calligraphy, and the biryani, kebab, and pulao dishes of cuisine.

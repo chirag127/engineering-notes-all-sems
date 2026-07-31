@@ -1,0 +1,24 @@
+# Unit 10 - EA and SOA for Business and IT Alignment
+
+- EA stands for Enterprise Architecture, which is a framework that covers all the dimensions of IT architecture for the enterprise, such as business, data, application, and technology .
+- SOA stands for Service Oriented Architecture, which is an architectural strategy that uses the concept of "Services" as the underlining business-IT alignment entity .
+- Services are self-contained, reusable, and loosely coupled units of functionality that can be accessed through standard interfaces .
+- The main goal of EA and SOA is to bridge the gap between Business and IT through business-aligned services .
+- EA and SOA share some common principles, such as:
+  - Abstraction: hiding the complexity and implementation details of the services from the consumers .
+  - Standardization: using common standards and protocols for service definition, discovery, and invocation .
+  - Reusability: designing services that can be used by multiple consumers for different purposes .
+  - Loose coupling: minimizing the dependencies and interactions between the services and the consumers .
+  - Modularity: decomposing the system into smaller and independent services that can be developed, deployed, and maintained separately .
+  - Interoperability: enabling the services to communicate and exchange data with each other regardless of the underlying platforms and technologies .
+- EA and SOA also have some differences, such as:
+  - Scope: EA is a broader and more holistic approach that covers the entire enterprise, while SOA is a more focused and specific approach that covers the service layer .
+  - Perspective: EA is more business-oriented and strategic, while SOA is more technical and tactical .
+  - Deliverables: EA produces artifacts such as vision, principles, standards, models, and roadmaps, while SOA produces artifacts such as service contracts, service registries, and service compositions .
+  - Governance: EA requires a top-down and centralized governance structure that involves senior management and stakeholders, while SOA requires a bottom-up and decentralized governance structure that involves service providers and consumers .
+- EA and SOA can complement and support each other in achieving business and IT alignment, such as:
+  - EA can provide the strategic direction and guidance for SOA, such as defining the business goals, capabilities, and processes that the services should support .
+  - SOA can provide the technical implementation and realization for EA, such as designing and developing the services that enable the business capabilities and processes .
+  - EA can leverage the benefits of SOA, such as increased agility, flexibility, scalability, and reusability of the IT systems .
+  - SOA can leverage the benefits of EA, such as improved alignment, integration, and governance of the IT systems .
+- EA and SOA should be aligned and coordinated to ensure a consistent and coherent architecture that meets the business and IT needs of the enterprise .

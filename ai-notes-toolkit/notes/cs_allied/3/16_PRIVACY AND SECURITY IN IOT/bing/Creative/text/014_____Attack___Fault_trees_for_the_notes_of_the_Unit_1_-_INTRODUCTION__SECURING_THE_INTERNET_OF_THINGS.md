@@ -1,0 +1,7 @@
+### Attack & Fault Trees
+
+- Attack and fault trees are graphical methods to model and analyze the reliability and security of systems, especially in the context of IoT   .
+- A fault tree represents the logical combinations of events that can cause a system failure, using AND, OR, and other gates. A fault tree can be used to calculate the probability of failure, identify the critical components, and perform sensitivity analysis.
+- An attack tree represents the logical combinations of actions that an attacker can perform to achieve a malicious goal, using AND, OR, and other gates. An attack tree can be used to evaluate the difficulty, cost, and impact of attacks, identify the weakest points, and compare countermeasures.
+- Attack and fault trees can be integrated to model the interaction of malicious deliberate acts with random failures, and to assess the overall risk of a system. They can also be extended to include defense mechanisms, resulting in attack-defense trees.
+- Attack and fault trees can help to identify and mitigate the security and privacy threats in IoT systems, which are often complex, heterogeneous, and interconnected. They can also help to communicate and visualize the security analysis to different stakeholders.

@@ -1,0 +1,10 @@
+### Malayalam Literature
+
+- Malayalam literature is the literature written in Malayalam, a South-Dravidian language spoken in the Indian state of Kerala.
+- The earliest extant literary work in Malayalam is Ramacharitam, a poem based on the Hindu epic Ramayana, composed in the late 12th or early 13th century .
+- Malayalam literature has a rich and diverse history, influenced by Sanskrit, Tamil, Arabic, Portuguese, English and other languages .
+- Malayalam literature can be broadly divided into four periods: classical, medieval, modern and contemporary.
+- The classical period (13th to 16th century) is marked by the emergence of Manipravalam, a mixed language of Malayalam and Sanskrit, used for courtly poetry and drama . Some of the notable works of this period are Unniyachi Charitam, Niranam poets, Krishnagatha and Ramakathapattu.
+- The medieval period (17th to 19th century) is characterized by the development of various genres such as Kathakali, Thullal, Koodiyattam, Padayani and folk songs . Some of the prominent writers of this period are Thunchaththu Ezhuthachan, Kunchan Nambiar, Melpathur Narayana Bhattathiri and Poonthanam.
+- The modern period (20th century) witnessed the emergence of prose, novel, short story, essay, criticism, biography, autobiography and other forms of literature in Malayalam . Some of the influential writers of this period are Kumaran Asan, Vallathol Narayana Menon, Ulloor S. Parameswara Iyer, G. Sankara Kurup, Thakazhi Sivasankara Pillai, M. T. Vasudevan Nair, O. V. Vijayan, Kamala Surayya and M. Mukundan.
+- The contemporary period (21st century) is marked by the emergence of new voices, themes, styles and experiments in Malayalam literature . Some of the notable writers of this period are K. R. Meera, Benyamin, Anand, Subhash Chandran, N. S. Madhavan and T. D. Ramakrishnan.

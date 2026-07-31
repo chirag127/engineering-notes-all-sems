@@ -1,0 +1,22 @@
+## Unit 2 - Software Requirement Specifications (SRS)
+
+- Software Requirement Specifications (SRS) is a document that describes the features, functions, and constraints of a software system in detail.
+- The purpose of SRS is to provide a clear and complete understanding of the software system to the developers, customers, and other stakeholders.
+- The benefits of SRS are:
+  - It helps to avoid ambiguity and conflicts in the software requirements.
+  - It serves as a basis for software design, testing, and maintenance.
+  - It facilitates communication and collaboration among the project team and the customers.
+  - It helps to estimate the cost, time, and resources needed for the software development.
+- The characteristics of a good SRS are:
+  - Correct: It should be consistent with the actual needs and expectations of the customers and users.
+  - Complete: It should cover all the aspects of the software system, including functional and non-functional requirements, assumptions, dependencies, and constraints.
+  - Consistent: It should not have any contradictions or conflicts within or across the requirements.
+  - Clear: It should be unambiguous, precise, and easy to understand by the intended audience.
+  - Verifiable: It should be testable and measurable by using some criteria or methods.
+  - Modifiable: It should be adaptable and flexible to accommodate changes in the software requirements.
+  - Traceable: It should be able to track the origin and evolution of each requirement and its relationship with other requirements and components of the software system.
+- The structure of SRS may vary depending on the type and complexity of the software system, but a common format is:
+  - Introduction: It provides an overview of the software system, its scope, objectives, and intended users. It also defines the terms, acronyms, and abbreviations used in the document.
+  - Overall Description: It describes the general features and characteristics of the software system, such as its context, functions, user characteristics, operating environment, design and implementation constraints, assumptions and dependencies, and external interfaces.
+  - Specific Requirements: It specifies the detailed requirements of the software system, such as functional requirements, performance requirements, security requirements, usability requirements, reliability requirements, maintainability requirements, and portability requirements. It also defines the acceptance criteria and validation methods for each requirement.
+  - Appendices: It provides any additional or supplementary information that may be useful or relevant to the software system, such as data models, diagrams, tables, charts, references, glossaries, etc.

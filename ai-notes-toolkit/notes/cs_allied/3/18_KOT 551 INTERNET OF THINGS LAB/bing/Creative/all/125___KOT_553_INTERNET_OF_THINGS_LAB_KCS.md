@@ -1,0 +1,36 @@
+# KOT 553 INTERNET OF THINGS LAB KCS
+
+- Internet of Things (IoT) is the network of physical objects or things embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet.
+- IoT Lab is a place where students can learn and practice the skills and concepts related to IoT, such as designing, developing, testing, and deploying IoT solutions.
+- KOT 553 is a course code for Internet of Things Lab offered by the Department of Computer Science and Engineering at Dr. A.P.J. Abdul Kalam Technical University (AKTU).
+- The course objectives are to:
+  - Demonstrate basic concepts, principles and challenges in IoT.
+  - Illustrate functioning of hardware devices and sensors used for IoT.
+  - Develop and deploy IoT applications using various platforms and tools.
+  - Analyze and evaluate IoT solutions for different domains and scenarios.
+- The course outcomes are to:
+  - Understand the architecture, components, and protocols of IoT systems.
+  - Identify and use appropriate hardware devices and sensors for IoT applications.
+  - Program and interface IoT devices using Arduino, Raspberry Pi, and NodeMCU.
+  - Use cloud services and platforms such as AWS IoT, Google Cloud IoT, and IBM Watson IoT for IoT data management and analytics.
+  - Implement IoT security and privacy mechanisms and standards.
+  - Design and implement IoT solutions for smart home, smart city, smart agriculture, and smart healthcare domains.
+- The course syllabus covers the following topics:
+  - Introduction to IoT: Definition, characteristics, applications, and challenges of IoT.
+  - IoT Architecture: IoT reference model, IoT layers, IoT protocols, and IoT standards.
+  - IoT Hardware: IoT devices, sensors, actuators, microcontrollers, and communication modules.
+  - IoT Software: IoT operating systems, IoT programming languages, IoT libraries, and IoT frameworks.
+  - IoT Platforms: IoT cloud services, IoT cloud platforms, and IoT edge computing.
+  - IoT Applications: IoT use cases, IoT domains, and IoT project development.
+  - IoT Security: IoT security threats, IoT security solutions, and IoT security standards.
+- The course assessment consists of:
+  - Lab assignments: 10 marks
+  - Mid semester exam: 15 marks
+  - End semester exam: 25 marks
+  - Total: 50 marks
+- The course references are:
+  - Arshdeep Bahga and Vijay Madisetti, Internet of Things: A Hands-on Approach, Universities Press, 2015.
+  - Rajkumar Buyya and Amir Vahid Dastjerdi, Internet of Things: Principles and Paradigms, Morgan Kaufmann, 2016.
+  - Olivier Hersent, David Boswarthick, and Omar Elloumi, The Internet of Things: Key Applications and Protocols, Wiley, 2012.
+  - Adrian McEwen and Hakim Cassimally, Designing the Internet of Things, Wiley, 2013.
+  - Peter Waher, Learning Internet of Things, Packt Publishing, 2015.

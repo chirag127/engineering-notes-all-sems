@@ -1,0 +1,12 @@
+# Safety
+
+Safety is an important aspect of microcontroller programming and interfacing, especially for applications that involve human lives, critical systems, or high reliability. Safety can be defined as the absence of unacceptable risks of harm or damage to people, property, or the environment. Safety can be achieved by following certain standards, guidelines, and best practices that aim to prevent, detect, and mitigate faults, errors, and failures in microcontroller systems.
+
+Some of the topics that are relevant for safety in microcontroller programming and interfacing are:
+
+- **Functional safety**: Functional safety is the part of the overall safety that depends on a system or equipment operating correctly in response to its inputs. Functional safety is achieved by applying safety principles and techniques throughout the system lifecycle, from design to operation and maintenance. Functional safety can be assessed and certified according to international standards, such as ISO 26262, IEC 61508, and IEC 60730.
+- **Hardware safety features**: Hardware safety features are the physical components or mechanisms that provide protection, redundancy, or fault tolerance to a microcontroller system. Hardware safety features can include watchdog timers, brown-out detectors, power-on reset, memory protection, error correction codes, self-test routines, and lock-step cores .
+- **Software safety features**: Software safety features are the logical functions or algorithms that provide protection, redundancy, or fault tolerance to a microcontroller system. Software safety features can include safe coding practices, static and dynamic analysis, testing and verification, fault injection, error handling, and fault recovery .
+- **Interfacing safety features**: Interfacing safety features are the methods or protocols that provide protection, redundancy, or fault tolerance to the communication between a microcontroller and its peripheral devices or other systems. Interfacing safety features can include signal integrity, noise immunity, error detection and correction, encryption, authentication, and fail-safe modes .
+
+These topics are covered in more detail in the following sections of the Unit 1 - INTRODUCTION in the subject of PROGRAMMING AND INTERFACING WITH MICROCONTROLLERS.

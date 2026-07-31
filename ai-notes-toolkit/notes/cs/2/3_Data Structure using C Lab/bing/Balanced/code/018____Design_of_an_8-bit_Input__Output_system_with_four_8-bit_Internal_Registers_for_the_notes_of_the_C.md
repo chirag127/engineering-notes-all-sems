@@ -1,0 +1,230 @@
+## Design of an 8-bit Input/ Output system with four 8-bit Internal Registers
+
+An 8-bit input/output system is a device that can communicate with a computer by sending and receiving 8-bit data. An 8-bit data is a binary number that has 8 digits, such as 10110010. An 8-bit input/output system can have four 8-bit internal registers, which are memory units that can store 8-bit data temporarily.
+
+The design of an 8-bit input/output system with four 8-bit internal registers can be done using the following steps:
+
+- Step 1: Choose the input and output devices that will be connected to the system. For example, we can use a keyboard as an input device and a monitor as an output device.
+- Step 2: Choose the interface circuits that will convert the signals from the input and output devices to the 8-bit data format. For example, we can use an encoder circuit for the keyboard and a decoder circuit for the monitor.
+- Step 3: Choose the control logic that will coordinate the data transfer between the input/output devices and the computer. For example, we can use a microcontroller or a programmable logic device (PLD) that can execute instructions and generate control signals.
+- Step 4: Choose the four 8-bit internal registers that will store the data temporarily during the data transfer. For example, we can use four D flip-flops that can store one bit each and can be connected in parallel to form an 8-bit register.
+- Step 5: Connect the input and output devices, the interface circuits, the control logic, and the internal registers according to the data flow and the control signals. For example, we can connect the keyboard to the encoder circuit, the encoder circuit to one of the internal registers, the internal register to the control logic, the control logic to another internal register, the internal register to the decoder circuit, and the decoder circuit to the monitor.
+
+The following diagram shows a possible design of an 8-bit input/output system with four 8-bit internal registers:
+
+```text
++---------+    +---------+    +---------+    +---------+    +---------+
+|         |    |         |    |         |    |         |    |         |
+| Keyboard|----| Encoder |----| Register|----| Control |----| Register|----+
+|         |    |         |    |         |    | Logic   |    |         |    |
++---------+    +---------+    +---------+    +---------+    +---------+    |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+
+```

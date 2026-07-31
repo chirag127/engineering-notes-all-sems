@@ -1,0 +1,14 @@
+#### Package and Interface in Core Java
+
+A package is a group of classes, interfaces, and sub-packages that are related to each other. A package helps to organize the code, avoid naming conflicts, and reuse existing types. An interface is a group of abstract methods that define a contract or a behavior for a class that implements it. An interface helps to achieve abstraction, polymorphism, and multiple inheritance in Java.
+
+Some of the points to remember about packages and interfaces in core Java are:
+
+- A package is created using the `package` keyword, followed by the package name. For example, `package com.example;`.
+- An interface is created using the `interface` keyword, followed by the interface name. For example, `interface Shape;`.
+- A package can contain classes, interfaces, and sub-packages, but not variables or methods. An interface can contain only abstract methods, constants, and nested types, but not constructors or instance variables.
+- A package can be imported using the `import` keyword, followed by the package name or a specific type name. For example, `import java.util.*;` or `import java.util.Scanner;`.
+- An interface can be implemented by a class using the `implements` keyword, followed by the interface name. For example, `class Circle implements Shape;`.
+- A package can have a hierarchical structure, where a dot (.) is used to separate the sub-packages. For example, `java.util` is a sub-package of `java`. An interface can have a single or multiple inheritance, where an interface can extend one or more interfaces using the `extends` keyword. For example, `interface Printable extends Shape, Colorable;`.
+- A package can have different levels of access modifiers, such as public, protected, default, and private. A public package or type can be accessed from anywhere, a protected package or type can be accessed from the same package or a subclass, a default package or type can be accessed from the same package only, and a private package or type can be accessed from the same class only. An interface can have only public or default access modifiers, where a public interface can be accessed from anywhere, and a default interface can be accessed from the same package only.
+- A package can have different types of annotations, such as `@Deprecated`, `@SafeVarargs`, `@FunctionalInterface`, etc. An annotation is a special kind of comment that provides additional information or metadata about the package or type. An interface can have only one type of annotation, which is `@FunctionalInterface`. A functional interface is an interface that has only one abstract method, and can be used as a lambda expression or a method reference.

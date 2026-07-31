@@ -1,0 +1,23 @@
+### Spark on YARN
+
+- Spark on YARN is a mode of running Spark applications on a cluster of nodes managed by YARN (Yet Another Resource Negotiator), which is a resource manager for Hadoop.
+- Spark on YARN requires a binary distribution of Spark which is built with YARN support. Binary distributions can be downloaded from the downloads page of the project website   .
+- Spark on YARN supports two deploy modes: cluster mode and client mode.
+  - In cluster mode, the Spark driver runs inside an application master process which is managed by YARN on the cluster, and the client can go away after initiating the application.
+  - In client mode, the Spark driver runs in the client process, and the application master is only used for requesting resources from YARN.
+- Spark on YARN can use either HDFS or a local file system as the source of Spark archives and configuration files. To make Spark runtime jars accessible from YARN side, you can specify `spark.yarn.archive` or `spark.yarn.jars` in `spark-defaults.conf`.
+- Spark on YARN can also use dynamic allocation of executors, which allows Spark to request or release executors based on the workload. This feature requires an external shuffle service to be enabled on each node in the cluster.
+- Spark on YARN can be configured using various options in `spark-defaults.conf`, `spark-env.sh`, and `yarn-site.xml`. Some of the common options are:
+  - `spark.master`: the master URL for the cluster, which should be `yarn` for Spark on YARN mode.
+  - `spark.submit.deployMode`: the deploy mode for the application, which can be either `cluster` or `client`.
+  - `spark.yarn.queue`: the name of the YARN queue to which the application is submitted.
+  - `spark.yarn.am.memory`: the amount of memory to use for the application master in cluster mode.
+  - `spark.yarn.am.cores`: the number of cores to use for the application master in cluster mode.
+  - `spark.executor.instances`: the number of executors to launch for the application.
+  - `spark.executor.memory`: the amount of memory to use per executor.
+  - `spark.executor.cores`: the number of cores to use per executor.
+  - `spark.dynamicAllocation.enabled`: whether to enable dynamic allocation of executors.
+  - `spark.dynamicAllocation.minExecutors`: the minimum number of executors to keep alive when using dynamic allocation.
+  - `spark.dynamicAllocation.maxExecutors`: the maximum number of executors to use when using dynamic allocation.
+  - `spark.dynamicAllocation.initialExecutors`: the initial number of executors to request when using dynamic allocation.
+  - `spark.shuffle.service.enabled`: whether to enable the external shuffle service when using dynamic allocation.

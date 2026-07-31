@@ -1,0 +1,10 @@
+### Arithmetic and Logic Unit Design
+
+- An arithmetic and logic unit (ALU) is the part of a central processing unit (CPU) that performs arithmetic and logic operations on the operands in computer instruction words.
+- An ALU can be divided into two subunits: an arithmetic unit (AU) and a logic unit (LU). The AU performs arithmetic operations such as addition, subtraction, multiplication and division. The LU performs logic operations such as AND, OR, NOT, XOR and shift.
+- An ALU can be designed using various logic gates, such as AND, OR, NOT, XOR, NAND, NOR, etc. The logic gates can be implemented using different technologies, such as transistors, diodes, relays, vacuum tubes, etc.
+- An ALU can also be designed using reversible logic, which is a logic that preserves the information and does not produce any garbage outputs or consume any power. Reversible logic can be implemented using quantum-dot cellular automata (QCA), which are nanoscale devices that use the quantum mechanical effects of electrons to perform logic operations.
+- An ALU can be evaluated based on various parameters, such as quantum cost, garbage outputs, constant inputs, area, number of cells and simulation time. These parameters measure the efficiency, complexity and performance of the ALU design .
+- An ALU can be designed by setting the control inputs for each subunit. The control inputs determine which operation the ALU will perform on the input operands. For example, a 4-bit ALU can have two control inputs, C0 and C1, that can select one of the four operations: ADD, SUB, AND or OR.
+- An ALU can be designed by using different types of adders, such as half adder, full adder, ripple-carry adder, carry-lookahead adder, Brent-Kung adder, etc. The adders are the basic building blocks of the AU that perform binary addition of two bits and produce a sum and a carry bit.
+- An ALU can be designed by using different types of shifters, such as left shifter, right shifter, arithmetic shifter, logical shifter, etc. The shifters are the basic building blocks of the LU that perform bit-wise shifting of the input operand to the left or right by a specified number of positions.

@@ -1,0 +1,20 @@
+## Module 4-Science, Management and Indian Knowledge System
+
+- This module covers the contributions of Indian culture and civilization to various fields of science, technology and management.
+- It aims to highlight the achievements and innovations of ancient and medieval India in astronomy, chemistry, mathematics, physics, agriculture, medicine, metallurgy, geography, biology and other domains.
+- It also explores the indigenous knowledge systems and practices that have been developed and preserved by various communities and traditions in India.
+- Some of the topics covered in this module are:
+
+  - Astronomy in India: The development of astronomical concepts, observations, instruments, calendars and almanacs by Indian astronomers such as Aryabhata, Varahamihira, Brahmagupta, Bhaskara, Lalla, Surya Siddhanta and others.
+  - Chemistry in India: The origin and evolution of alchemy, metallurgy, dyeing, distillation, cosmetics, perfumery, medicine and other chemical arts in India by scholars such as Nagarjuna, Kanada, Charaka, Sushruta, Patanjali and others.
+  - Mathematics in India: The invention and application of zero, decimal system, algebra, geometry, trigonometry, calculus, combinatorics, cryptography and other branches of mathematics in India by mathematicians such as Pingala, Baudhayana, Apastamba, Katyayana, Panini, Aryabhata, Brahmagupta, Bhaskara, Mahavira, Hemachandra and others.
+  - Physics in India: The formulation and analysis of physical concepts, principles, laws, phenomena and experiments in India by physicists such as Kanada, Kapila, Gautama, Uddalaka, Yajnavalkya, Patanjali, Bharata, Bharadvaja and others.
+  - Agriculture in India: The cultivation and improvement of crops, soil, irrigation, fertilizers, pest control, animal husbandry, horticulture, forestry and other aspects of agriculture in India by farmers, scientists, engineers and administrators such as Kashyapa, Varahamihira, Amarasimha, Somadeva, Kautilya and others.
+  - Medicine in India: The origin and development of Ayurveda, Siddha, Unani, Yoga, Naturopathy and other systems of medicine in India by physicians, surgeons, pharmacists, therapists and teachers such as Charaka, Sushruta, Vagbhata, Nagarjuna, Patanjali, Dhanvantari and others.
+  - Metallurgy in India: The production and use of metals, alloys, minerals, gems, ceramics, glass and other materials in India by metallurgists, craftsmen, artists and traders such as Nagarjuna, Dharmottara, Nityananda, Rasa Ratna Samuccaya and others.
+  - Geography in India: The description and mapping of the earth, oceans, mountains, rivers, islands, continents, regions, countries and cities in India by geographers, travelers, explorers and cartographers such as Varahamihira, Ptolemy, Alberuni, Ibn Battuta, Abul Fazl and others.
+  - Biology in India: The study and classification of plants, animals, humans, microorganisms and other forms of life in India by biologists, botanists, zoologists, anatomists, physiologists and ecologists such as Kashyapa, Charaka, Sushruta, Jivaka, Patanjali, Varahamihira and others.
+  - Harappan Technologies: The engineering and architectural marvels of the Indus Valley Civilization such as the urban planning, drainage system, water supply, sanitation, public baths, granaries, docks, seals, weights, measures and scripts.
+  - Water Management in India: The construction and maintenance of wells, tanks, canals, dams, reservoirs, aqueducts and other water structures in India by engineers, architects, rulers and communities such as Vishwakarma, Bhoja, Chandragupta Maurya, Ashoka, Chandragupta Vikramaditya, Raja Bhoj, Krishnadevaraya and others.
+  - Textile Technology in India: The production and export of cotton, silk, wool, linen, jute and other fabrics in India by weavers, dyers, printers, embroiderers and merchants such as Kalidasa, Amarasimha, Varahamihira, Kautilya, Marco Polo, Ibn Battuta and others.
+  - Writing Technology in India: The invention and development

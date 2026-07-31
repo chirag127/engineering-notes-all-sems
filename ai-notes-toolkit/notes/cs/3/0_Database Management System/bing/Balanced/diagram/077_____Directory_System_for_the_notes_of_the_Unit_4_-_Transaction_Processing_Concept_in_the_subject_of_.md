@@ -1,0 +1,48 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the Unit 4 - Transaction Processing Concept in the subject of Database Management System. Here is a possible directory system for the notes of this unit:
+
+### Directory System for the notes of the Unit 4 - Transaction Processing Concept in the subject of Database Management System
+
+- Introduction
+  - Definition of a transaction
+  - Properties of a transaction (ACID)
+  - Examples of transactions
+- Transaction States and Serializability
+  - Transaction life cycle and state diagram
+  - Serial and concurrent schedules
+  - Conflict and view serializability
+  - Testing for serializability
+- Concurrency Control Techniques
+  - Lock-based protocols
+    - Binary, shared and exclusive locks
+    - Two-phase locking and its variants
+    - Deadlocks and deadlock prevention
+  - Timestamp-based protocols
+    - Basic timestamp ordering
+    - Thomas' write rule
+    - Multiversion concurrency control
+  - Validation-based protocols
+    - Optimistic concurrency control
+    - Basic validation technique
+    - Serial validation technique
+- Recovery Techniques
+  - Failure classification and recovery concepts
+  - Log-based recovery
+    - Deferred and immediate update
+    - Undo and redo operations
+    - Checkpoints and fuzzy checkpoints
+  - Shadow paging
+  - ARIES recovery algorithm
+- Distributed Transactions
+  - Distributed database systems and architectures
+  - Distributed concurrency control
+    - Centralized, primary copy and majority protocols
+    - Distributed two-phase locking
+    - Distributed timestamps
+  - Distributed recovery
+    - Two-phase commit protocol
+    - Three-phase commit protocol
+    - Distributed deadlocks and detection
+- Summary and Review Questions
+  - Key points and concepts of the unit
+  - Multiple choice and short answer questions
+  - Practice exercises and solutions

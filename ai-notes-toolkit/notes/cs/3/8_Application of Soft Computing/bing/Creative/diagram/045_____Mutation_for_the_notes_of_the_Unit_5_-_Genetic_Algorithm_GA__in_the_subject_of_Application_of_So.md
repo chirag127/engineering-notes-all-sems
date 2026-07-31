@@ -1,0 +1,8 @@
+### Mutation
+
+- Mutation is a genetic operator that alters one or more gene values in a chromosome from its initial state. It is used to introduce and maintain diversity in the population of genetic algorithms (GAs)  .
+- Mutation helps to prevent the population from converging to a local optimum and to explore new regions of the search space. It also provides a way to escape from plateaus of fitness where crossover is ineffective  .
+- Mutation is usually applied with a low probability to each gene or bit in a chromosome. A common method of implementing the mutation operator for binary coded GAs involves flipping a bit from 0 to 1 or vice versa with a given probability  .
+- Mutation can also be applied to real-valued or continuous parameters in GAs. Some examples of mutation algorithms for real-valued parameters are uniform mutation, non-uniform mutation, Gaussian mutation, and polynomial mutation .
+- Mutation can be adaptive, meaning that the mutation probability or the mutation step size can change dynamically according to some criteria, such as the fitness of the population, the diversity of the population, or the generation number .
+- Mutation is an important component of GAs, but it should be used carefully. Too much mutation can disrupt the good building blocks of the population and lead to a random search, while too little mutation can result in a loss of diversity and premature convergence  .

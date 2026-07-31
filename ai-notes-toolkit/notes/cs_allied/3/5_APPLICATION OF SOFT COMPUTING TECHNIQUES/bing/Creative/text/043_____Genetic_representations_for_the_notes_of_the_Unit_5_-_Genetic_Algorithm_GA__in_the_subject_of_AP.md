@@ -1,0 +1,11 @@
+### Genetic representations for the notes of the Unit 5 - Genetic Algorithm(GA) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+
+- Genetic representation is the way of encoding the possible solutions of a problem into a data structure that can be manipulated by a genetic algorithm (GA).
+- A genetic algorithm is a bio-inspired optimization technique that mimics the natural process of evolution by applying operators such as selection, crossover and mutation to a population of candidate solutions.
+- The data structure that represents a candidate solution is called a chromosome, and each element of the chromosome is called a gene. The value of a gene is called an allele.
+- The choice of genetic representation depends on the nature and complexity of the problem domain, and the desired properties of the solution space. Some common genetic representations are:
+
+  - Binary representation: Each gene is a binary digit (0 or 1), and the chromosome is a binary string. This is the simplest and most widely used representation, as it allows easy implementation of crossover and mutation operators. However, it may not be suitable for problems that require high precision or have a non-binary solution space.
+  - Integer or real-valued representation: Each gene is an integer or a real number, and the chromosome is an array of numbers. This representation can handle problems that involve numerical optimization, such as function approximation or parameter tuning. However, it may require more complex crossover and mutation operators, and may suffer from scaling or discretization issues.
+  - Tree representation: Each gene is a node of a tree, and the chromosome is a tree structure. This representation can handle problems that involve hierarchical or recursive structures, such as symbolic regression or natural language parsing. However, it may require more memory and computation, and may suffer from bloat or overfitting issues.
+  - Graph representation: Each gene is a node or an edge of a graph, and the chromosome is a graph structure. This representation can handle problems that involve network or relational structures, such as routing or scheduling. However, it may require more sophisticated crossover and mutation operators, and may suffer from connectivity or feasibility issues.

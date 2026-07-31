@@ -1,0 +1,12 @@
+### Background for the notes of the Unit 3 - Concept of CSS in the subject of Web Designing
+
+- CSS stands for Cascading Style Sheets. It is a language that describes how HTML elements are displayed on a web page.
+- CSS was created in 1996 by the World Wide Web Consortium (W3C) to separate the presentation of a web page from its content and structure.
+- CSS allows web developers to apply consistent styles, such as fonts, colors, margins, and layouts, to multiple HTML elements or pages.
+- CSS also enables web developers to create responsive web designs that adapt to different screen sizes and devices.
+- CSS has three levels of specification: CSS1, CSS2, and CSS3. Each level adds new features and capabilities to the previous one.
+- CSS3 is the latest and most advanced version of CSS. It introduces new modules, such as animations, transitions, transforms, grids, flexbox, and media queries, that enhance the interactivity and functionality of web pages.
+- CSS can be written in three ways: inline, internal, and external. Inline CSS is applied to a single HTML element using the style attribute. Internal CSS is written inside the head section of an HTML document using the style element. External CSS is written in a separate file with the .css extension and linked to an HTML document using the link element.
+- CSS follows a set of rules, called selectors, properties, and values, to apply styles to HTML elements. A selector is a pattern that matches one or more HTML elements. A property is a style attribute that can be modified, such as color, font-size, or width. A value is the specific setting for a property, such as red, 16px, or 50%.
+- CSS also follows a principle of specificity, which determines which style rules have higher priority over others. The specificity of a selector depends on its type, class, id, and pseudo-class. The more specific a selector is, the higher its priority. If two selectors have the same specificity, the one that comes later in the code wins.
+- CSS also follows a principle of inheritance, which means that some style properties are passed from parent elements to child elements. For example, if a parent element has a font-family property, its child elements will inherit the same font-family, unless they have their own font-family property. Inheritance helps to maintain consistency and avoid repetition in CSS code.

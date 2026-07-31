@@ -1,0 +1,7 @@
+### Character
+
+- A character is a basic unit of information that can be represented by a single symbol, such as a letter, a digit, or a punctuation mark.
+- A character can be encoded using a specific scheme that assigns a unique numerical value to each symbol. For example, ASCII and Unicode are two common encoding schemes for characters.
+- A character can be stored in a memory location that has a fixed size, usually one byte (8 bits) or two bytes (16 bits), depending on the encoding scheme. For example, ASCII characters can be stored in one byte, while Unicode characters can be stored in two bytes.
+- A character can be manipulated by various operations, such as reading, writing, comparing, copying, concatenating, or searching. For example, a character can be read from a keyboard, written to a display, compared with another character, copied to another memory location, concatenated with other characters to form a string, or searched in a file.
+- A character can be used to represent various types of data, such as text, numbers, commands, or control signals. For example, a character can be used to represent a letter in a word, a digit in a number, a command in a program, or a control signal in a communication protocol.

@@ -1,0 +1,15 @@
+# State of the Art for the Notes of the Unit 2 - Reference Architecture in the Subject of IoT Architecture and Protocols
+
+- A reference model is a model that describes the main conceptual entities and how they are related to each other, while the reference architecture aims at describing the main functional components of a system as well as how the system works, how the system is deployed, what information the system processes, etc.
+- The Internet of Things (IoT) is a network of physical objects that can sense, communicate, and interact with each other and with other entities, such as cloud services, applications, and users.
+- IoT architecture is the design of the structure and components of an IoT system, which includes the devices, the communication protocols, the data formats, the middleware, the cloud services, and the applications.
+- IoT architecture can be classified into different layers, such as perception, network, middleware, and application layers, or into different domains, such as device, edge, and cloud domains.  
+- The perception layer or domain is responsible for sensing the physical environment and collecting data from the devices, such as sensors, actuators, cameras, RFID tags, etc. 
+- The network layer or domain is responsible for transmitting the data from the devices to the middleware or the cloud, using various communication protocols, such as Wi-Fi, Bluetooth, ZigBee, LoRaWAN, 5G, etc. 
+- The middleware layer or domain is responsible for providing services and functions to connect, manage, and integrate the devices and the data, such as device discovery, registration, authentication, configuration, data aggregation, filtering, processing, storage, etc. 
+- The application layer or domain is responsible for delivering the data and services to the end-users, such as web applications, mobile applications, dashboards, analytics, etc. 
+- The cloud domain is responsible for providing scalable, reliable, and secure computing and storage resources for the IoT system, such as cloud platforms, databases, servers, etc.
+- The edge domain is responsible for providing low-latency, distributed, and localized computing and storage resources for the IoT system, such as edge devices, gateways, fog nodes, etc.
+- The state of the art of IoT architecture is to design and implement IoT systems that are responsive, resilient, elastic, and message-driven, following the principles of Reactive Systems.
+- The state of the art of IoT architecture is also to leverage the capabilities of edge and cloud computing, as well as fog computing, which is a paradigm that extends the cloud to the edge of the network, to enable efficient, secure, and reliable data processing and service delivery for the IoT system.
+- The state of the art of IoT architecture is also to address the challenges and opportunities of IoT, such as interoperability, scalability, security, privacy, energy efficiency, quality of service, artificial intelligence, etc.

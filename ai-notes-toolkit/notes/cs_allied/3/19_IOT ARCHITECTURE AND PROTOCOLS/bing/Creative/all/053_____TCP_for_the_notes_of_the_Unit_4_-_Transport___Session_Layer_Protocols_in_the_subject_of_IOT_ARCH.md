@@ -1,0 +1,14 @@
+# TCP for the notes of the Unit 4 - Transport & Session Layer Protocols in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- TCP stands for Transmission Control Protocol .
+- It is a transport layer protocol that facilitates the transmission of packets from source to destination .
+- It is a connection-oriented protocol that means it establishes the connection prior to the communication that occurs between the computing devices in a network .
+- TCP is a reliable protocol as it follows the flow and error control mechanism. It also supports the acknowledgment mechanism, which checks the state and sound arrival of the data .
+- TCP is used by application protocols like HTTP and FTP that require reliable and ordered delivery of data .
+- TCP has three main steps: establish connection, send packets of data, and close the connection.
+  - Establish connection: When two computers want to send data to each other over TCP, they first need to establish a connection using a three-way handshake . The sender initiates the connection by sending a SYN (synchronize) packet to the receiver. The receiver responds with a SYN-ACK (synchronize-acknowledge) packet to acknowledge the request. The sender then sends an ACK (acknowledge) packet to confirm the connection .
+  - Send packets of data: When a packet of data is sent over TCP, the recipient must always acknowledge what they received using an ACK packet. If the sender does not receive an ACK packet within a certain time, it assumes that the packet was lost or corrupted and resends it. This ensures that no data is lost or duplicated in the transmission .
+  - Close the connection: When the data transmission is complete, the sender and the receiver need to close the connection using a four-way handshake . The sender sends a FIN (finish) packet to indicate that it has no more data to send. The receiver responds with an ACK packet to acknowledge the FIN packet. The receiver then sends its own FIN packet to indicate that it has no more data to receive. The sender responds with an ACK packet to acknowledge the FIN packet. The connection is then terminated .
+- TCP has some advantages and disadvantages over other transport layer protocols such as UDP (User Datagram Protocol).
+  - Advantages: TCP provides reliable and ordered delivery of data, which is essential for applications that need to ensure the integrity and completeness of the data. TCP also handles congestion control and flow control, which prevent the network from being overloaded or overwhelmed by too much data .
+  - Disadvantages: TCP has an additional overhead due to the connection establishment and termination, the acknowledgment mechanism, and the retransmission of lost packets. TCP also has a higher latency and lower throughput than UDP, which can affect the performance of real-time applications such as video streaming or gaming .

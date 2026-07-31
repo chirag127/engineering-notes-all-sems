@@ -1,0 +1,15 @@
+### Word-Level RNNs & Deep Reinforcement Learning
+
+- Word-level recurrent neural networks (RNNs) are a type of neural network that can process sequential data, such as natural language, by maintaining a hidden state that encodes the previous inputs.
+- Word-level RNNs can be used for various natural language processing tasks, such as language modeling, text generation, machine translation, sentiment analysis, etc.
+- Word-level RNNs can be trained using backpropagation through time (BPTT), which is a variant of gradient descent that computes the gradients of the loss function with respect to the network parameters across multiple time steps.
+- Word-level RNNs can suffer from the vanishing or exploding gradient problem, which means that the gradients can become very small or very large as they propagate through time, making the learning unstable or ineffective.
+- Word-level RNNs can be improved by using different architectures, such as long short-term memory (LSTM) or gated recurrent unit (GRU), which introduce gating mechanisms that can control the information flow and prevent the gradients from vanishing or exploding.
+- Word-level RNNs can also be improved by using regularization techniques, such as dropout, weight decay, or gradient clipping, which can reduce overfitting and improve generalization.
+- Deep reinforcement learning (DRL) is a field that combines reinforcement learning (RL), which deals with sequential decision-making through an agent that takes actions in an environment, and deep learning, which employs deep neural networks, enabling RL to scale to problems with high-dimensional state and action spaces.
+- DRL can be used for various optimization and control problems, such as robotics, self-driving cars, games, etc.
+- DRL can be trained using different algorithms, such as policy gradient, actor-critic, Q-learning, etc., which can be categorized into model-free or model-based, on-policy or off-policy, value-based or policy-based, depending on how they learn the optimal policy or value function.
+- DRL can suffer from the sample inefficiency problem, which means that it requires a large amount of data to learn a good policy or value function, making the learning slow or costly.
+- DRL can also suffer from the exploration-exploitation dilemma, which means that it has to balance between trying new actions to discover better ones and exploiting the current knowledge to maximize the reward, making the learning challenging or suboptimal.
+- DRL can be improved by using different techniques, such as experience replay, target networks, reward shaping, curriculum learning, etc., which can enhance the data quality, stability, or diversity, and improve the learning performance or speed.
+- DRL can also be improved by using different architectures, such as recurrent neural network (RNN) based DRL, which can capture the temporal dependencies and dynamics of the environment and the agent, and improve the generalization and robustness of the policy or value function.

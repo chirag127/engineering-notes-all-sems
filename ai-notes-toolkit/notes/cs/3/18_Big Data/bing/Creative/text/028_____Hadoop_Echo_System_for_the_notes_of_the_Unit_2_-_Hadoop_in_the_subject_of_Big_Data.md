@@ -1,0 +1,12 @@
+### Hadoop Ecosystem for the notes of the Unit 2 - Hadoop in the subject of Big Data
+
+- The Hadoop ecosystem is a collection of software components and tools that work together to enable large-scale data processing and analysis on top of the Hadoop framework .
+- The Hadoop framework consists of two core components: Hadoop Distributed File System (HDFS) and Hadoop MapReduce. HDFS is a distributed file system that stores data across multiple nodes in a cluster, providing high availability, fault tolerance, and scalability. MapReduce is a programming model that allows parallel processing of large datasets using key-value pairs.
+- The Hadoop ecosystem also includes various other components that provide additional functionality and features, such as data access, data management, data integration, data processing, data analytics, data visualization, and data security. Some of the most well-known components of the Hadoop ecosystem are   :
+  - Apache Hive: a data warehouse system that allows querying and analyzing data using a SQL-like language called HiveQL. Hive supports data summarization, aggregation, and complex joins.
+  - Apache Pig: a scripting language that allows data transformation and manipulation using a high-level syntax. Pig supports user-defined functions, complex data types, and nested data structures.
+  - Apache Spark: a fast and general-purpose engine for large-scale data processing. Spark supports batch, streaming, interactive, and machine learning applications. Spark can run on top of Hadoop, Mesos, Kubernetes, or standalone.
+  - Apache HBase: a column-oriented database that provides low-latency random access to large amounts of structured and semi-structured data. HBase is based on the Google Bigtable model and integrates with HDFS and MapReduce.
+  - Apache Oozie: a workflow scheduler that allows managing and coordinating Hadoop jobs. Oozie supports dependency management, error handling, and retry mechanisms.
+  - Apache Sqoop: a tool that allows transferring data between Hadoop and relational databases. Sqoop supports bulk import and export of data, incremental updates, and parallel execution.
+  - Apache Zookeeper: a service that provides distributed coordination and configuration management for Hadoop clusters. Zookeeper maintains a hierarchical namespace of data nodes, handles leader election, and enables synchronization and group membership.

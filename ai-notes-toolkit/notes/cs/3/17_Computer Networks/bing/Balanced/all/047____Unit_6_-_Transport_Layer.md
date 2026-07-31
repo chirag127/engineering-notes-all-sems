@@ -1,0 +1,8 @@
+# Unit 6 - Transport Layer
+
+- The transport layer is the fourth layer in the open systems interconnection (OSI) network model, which divides the tasks involved with moving information between networked computers into seven smaller, more manageable task groups.
+- The transport layer provides communication between application processes running on different hosts within a layered architecture of protocols and other network components .
+- The transport layer is responsible for delivering data to the appropriate application process on the host computers. This involves statistical multiplexing of data from different application processes, i.e. forming data segments, and adding source and destination port numbers in the header of each transport layer data segment .
+- The transport layer also performs error detection, flow control, congestion control, and reliability functions to ensure that data is transmitted correctly and efficiently.
+- The transport layer can operate in two modes: connection-oriented and connectionless. In connection-oriented mode, the transport layer establishes a logical connection between the source and destination hosts before sending data, and maintains the connection until the data transfer is complete. In connectionless mode, the transport layer sends data without establishing a connection, and each data segment is treated independently.
+- The transport layer uses protocols such as Transmission Control Protocol (TCP), User Datagram Protocol (UDP), Stream Control Transmission Protocol (SCTP), and Datagram Congestion Control Protocol (DCCP) to provide different levels of service and functionality to the application layer .

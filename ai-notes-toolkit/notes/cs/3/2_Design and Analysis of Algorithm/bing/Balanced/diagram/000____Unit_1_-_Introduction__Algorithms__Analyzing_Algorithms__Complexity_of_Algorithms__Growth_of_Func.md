@@ -1,0 +1,14 @@
+## Unit 1 - Introduction: Algorithms, Analyzing Algorithms, Complexity of Algorithms, Growth of Functions, Performance Measurements, Sorting and Order Statistics - Shell Sort, Quick Sort, Merge Sort, Heap Sort, Comparison of Sorting Algorithms, Sorting in Linear Time.
+
+- An algorithm is a finite sequence of well-defined instructions for solving a problem or performing a task.
+- Analyzing algorithms is the process of determining the amount of resources (such as time and space) that an algorithm requires to execute.
+- Complexity of algorithms is a measure of the amount of resources that an algorithm consumes as a function of the input size.
+- Growth of functions is a way of comparing the asymptotic behavior of different functions, such as the running time of different algorithms.
+- Performance measurements are the empirical methods of evaluating the efficiency and correctness of algorithms, such as experiments, benchmarks, and simulations.
+- Sorting and order statistics are the problems of arranging a set of elements in a certain order and finding the kth smallest or largest element in a set.
+- Shell sort is a sorting algorithm that is based on the insertion sort algorithm. It first sorts elements that are far apart from each other and successively reduces the interval between the elements to be sorted. It avoids large shifts as in insertion sort, where the smaller value is on the far right and must be moved to the far left    .
+- Quick sort is a sorting algorithm that is based on the divide-and-conquer paradigm. It partitions the array into two subarrays around a pivot element, such that all elements in the left subarray are smaller than the pivot and all elements in the right subarray are larger than the pivot. It then recursively sorts the subarrays until the array is sorted.
+- Merge sort is a sorting algorithm that is also based on the divide-and-conquer paradigm. It divides the array into two equal halves, recursively sorts each half, and then merges the two sorted halves into one sorted array.
+- Heap sort is a sorting algorithm that is based on the heap data structure. It builds a max-heap or a min-heap from the array, and then repeatedly extracts the maximum or minimum element from the heap and places it at the end of the array, until the array is sorted.
+- Comparison of sorting algorithms is the process of evaluating the advantages and disadvantages of different sorting algorithms based on various criteria, such as time complexity, space complexity, stability, adaptability, and simplicity.
+- Sorting in linear time is the problem of sorting a set of elements in O(n) time, where n is the number of elements. This is possible only when the elements have some special properties, such as being integers in a fixed range, or having a common radix or base. Some examples of linear-time sorting algorithms are counting sort, radix sort, and bucket sort.

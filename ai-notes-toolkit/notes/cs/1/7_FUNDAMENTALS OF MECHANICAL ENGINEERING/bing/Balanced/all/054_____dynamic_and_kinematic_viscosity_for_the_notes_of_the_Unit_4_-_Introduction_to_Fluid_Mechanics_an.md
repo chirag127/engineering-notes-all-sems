@@ -1,0 +1,10 @@
+# Dynamic and Kinematic Viscosity
+
+- Viscosity is a property of fluids that measures their resistance to flow. It is also known as the internal friction of fluids.
+- There are two types of viscosity: dynamic (or absolute) viscosity and kinematic viscosity.
+- Dynamic viscosity evaluates the internal resistance of a fluid to flow when a certain force is applied. It is a measure of how much force is needed to make the fluid flow at a certain rate. It depends on the type of fluid and its temperature. The SI unit of dynamic viscosity is N s/m2 or Pa s.   
+- Kinematic viscosity describes the ratio of dynamic viscosity to density. It is a measure of how fast the fluid moves when a certain force is applied. It incorporates the fluid's weight or density as part of its measurement. It also depends on the type of fluid and its temperature. The SI unit of kinematic viscosity is m2/s.   
+- Two fluids with the same value of dynamic viscosity can have different values of kinematic viscosity based on their density and vice versa. For example, honey and water have similar dynamic viscosity at room temperature, but honey has a higher density and therefore a higher kinematic viscosity than water.  
+- Some examples of fluids with high dynamic viscosity are honey, molasses, glycerin, and motor oil. Some examples of fluids with low dynamic viscosity are water, air, gasoline, and alcohol.  
+- Some examples of fluids with high kinematic viscosity are honey, molasses, glycerin, and motor oil. Some examples of fluids with low kinematic viscosity are air, gasoline, alcohol, and water.  
+- The viscosity of fluids affects their flow behavior and their applications in engineering and science. For example, fluids with high viscosity are used as lubricants, adhesives, and coatings, while fluids with low viscosity are used as fuels, solvents, and refrigerants.

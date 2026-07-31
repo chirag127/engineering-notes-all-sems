@@ -1,0 +1,46 @@
+### Hadoop Eco System and YARN
+
+- Hadoop is an open source framework for distributed storage and processing of large-scale data using clusters of commodity hardware.
+- Hadoop Eco System refers to the various components and tools that work together with Hadoop to provide different functionalities and use cases for big data analytics.
+- Some of the most common components of Hadoop Eco System are:
+  - HDFS: Hadoop Distributed File System, a distributed and fault-tolerant file system that stores data across multiple nodes.
+  - MapReduce: A programming model and execution engine for parallel processing of data using key-value pairs.
+  - YARN: Yet Another Resource Negotiator, a resource management and job scheduling framework that enables multiple applications to run on Hadoop.
+  - Hive: A data warehouse system that provides a SQL-like interface for querying and analyzing data stored in HDFS.
+  - Pig: A scripting language and platform for data analysis and transformation using MapReduce.
+  - Spark: A fast and general engine for large-scale data processing that supports batch, streaming, SQL, machine learning and graph analytics.
+  - HBase: A distributed and scalable NoSQL database that provides random access and consistent updates for structured and semi-structured data.
+  - Oozie: A workflow scheduler and coordinator that manages and executes Hadoop jobs.
+  - Sqoop: A tool for transferring data between Hadoop and relational databases.
+  - Zookeeper: A service for maintaining configuration information, naming, synchronization and group services for distributed systems.
+- YARN is one of the major components of Hadoop that allocates and manages the resources and keeps all things working as they should.
+- YARN was initially named MapReduce 2 since it powered up the MapReduce of Hadoop 1.0 by addressing its downsides and enabling the Hadoop Eco System to perform well for the modern challenges.
+- YARN is the parallel processing framework for implementing distributed computing clusters that processes huge amounts of data over multiple compute nodes.
+- YARN allows for a compute job to be segmented into hundreds and thousands of tasks.
+- The architecture of YARN consists of two main components:
+  - ResourceManager (RM): A global daemon that manages the resources and the applications running on the cluster.
+  - ApplicationMaster (AM): A per-application daemon that negotiates the resources from the RM and coordinates the execution of the tasks on the cluster.
+- The RM has two sub-components:
+  - Scheduler: A pluggable component that allocates the resources to the applications based on various policies and constraints.
+  - ApplicationsManager: A component that accepts the application submissions, launches the AMs and monitors their status and progress.
+- The AM has two sub-components:
+  - ContainerLauncher: A component that requests and launches the containers from the RM and communicates with the NodeManagers.
+  - TaskScheduler: A component that schedules the tasks to run on the containers and monitors their status and progress.
+- The NodeManager (NM) is a per-node daemon that manages the containers and the resources on each node.
+- The NM has two sub-components:
+  - ContainerManager: A component that creates, starts, stops and monitors the containers on the node.
+  - NodeStatusUpdater: A component that reports the node status and the resource utilization to the RM.
+- The Container is a logical unit of execution that encapsulates the resources (CPU, memory, disk, network) and the environment (libraries, dependencies, configurations) for running a task.
+- The Client is the entity that submits the application to the RM and monitors its status and progress.
+- The Workflow of YARN is as follows:
+  - The Client submits the application to the RM along with the AM specification and the application jar file.
+  - The RM accepts the application and launches the AM on a container.
+  - The AM registers itself with the RM and requests the resources for the application.
+  - The RM allocates the resources to the AM based on the availability and the scheduling policy.
+  - The AM communicates with the NMs to launch the containers for the tasks.
+  - The NMs create, start, stop and monitor the containers on the nodes.
+  - The AM schedules the tasks to run on the containers and monitors their status and progress.
+  - The tasks execute the application logic and produce the output.
+  - The AM reports the application status and progress to the RM and the Client.
+  - The AM unregisters itself from the RM and releases the resources when the application is completed.
+  - The RM marks the application as finished and cleans up the state.

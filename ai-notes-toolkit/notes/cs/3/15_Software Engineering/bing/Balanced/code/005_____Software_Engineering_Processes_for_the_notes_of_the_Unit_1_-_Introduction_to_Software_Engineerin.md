@@ -1,0 +1,17 @@
+### Software Engineering Processes
+
+Software engineering processes are the methods and techniques used to develop and maintain software products that meet the customer's needs and expectations. Software engineering processes aim to ensure the quality, reliability, and efficiency of software products, as well as to manage the complexity and risks involved in software development.
+
+According to , software engineering processes consist of four basic key activities:
+
+- Software Specifications: This activity involves defining the scope, objectives, requirements, and constraints of the software product to be developed. The output of this activity is a software requirements specification (SRS) document that describes what the software should do and how it should behave.
+- Software Development: This activity involves designing, coding, documenting, and debugging the software product according to the SRS. The output of this activity is a software product that satisfies the requirements and specifications.
+- Software Validation: This activity involves verifying and validating that the software product meets the customer's needs and expectations, as well as the quality standards and criteria. The output of this activity is a software product that is tested, reviewed, and accepted by the customer and other stakeholders.
+- Software Evolution: This activity involves maintaining and enhancing the software product to cope with changing requirements, technologies, and environments. The output of this activity is a software product that is updated, improved, and adapted to new situations and demands.
+
+Software engineering processes can be classified into different models or paradigms, depending on how they organize and sequence the activities and tasks involved in software development. Some examples of software engineering process models are   :
+
+- Waterfall: A linear, sequential approach to software development, with distinct phases such as requirements, design, implementation, testing, and maintenance. Each phase must be completed before moving to the next one, and there is little or no feedback or iteration between phases.
+- Agile: An iterative, incremental, and adaptive approach to software development, with short and frequent cycles of planning, development, testing, and delivery. Each cycle produces a working and potentially shippable software product that can be evaluated and improved by the customer and the development team. Agile methods emphasize collaboration, communication, and feedback among stakeholders, as well as flexibility and responsiveness to change.
+- Lean: A value-driven, waste-reducing, and customer-focused approach to software development, with principles such as eliminating unnecessary activities and resources, delivering fast and frequently, optimizing the whole system, and empowering the team. Lean methods aim to maximize customer value and satisfaction, while minimizing waste and inefficiency.
+- Traditional/Waterfall: A structured, disciplined, and formal approach to software development, with well-defined processes, standards, and documentation. Traditional methods follow a plan-driven and predictive model, where the requirements and specifications are fixed and agreed upon at the beginning of the project, and the development follows a predefined and detailed plan. Traditional methods emphasize quality, control, and risk management.

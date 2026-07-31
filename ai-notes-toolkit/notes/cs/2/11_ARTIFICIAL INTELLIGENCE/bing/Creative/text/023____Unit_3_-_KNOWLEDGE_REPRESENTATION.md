@@ -1,0 +1,13 @@
+## Unit 3 - KNOWLEDGE REPRESENTATION
+
+- Knowledge representation is the process of encoding information about a domain in a form that can be used by an intelligent agent to perform reasoning and problem-solving tasks.
+- Knowledge representation involves choosing a suitable representation language, defining the syntax and semantics of the language, and constructing a knowledge base that contains facts and rules about the domain.
+- Some of the criteria for evaluating a knowledge representation language are expressiveness, efficiency, inferential adequacy, inferential efficiency, and acquisitional efficiency.
+- Some of the common types of knowledge representation languages are propositional logic, first-order logic, description logic, semantic networks, frames, production rules, and scripts.
+- Propositional logic is a language that uses symbols to represent atomic propositions and logical connectives to form complex propositions. It can express facts that are true or false, but not facts that involve variables, quantifiers, or relations.
+- First-order logic is an extension of propositional logic that allows the use of variables, constants, predicates, functions, and quantifiers. It can express facts that involve objects, properties, and relations, but not facts that involve higher-order logic, uncertainty, or vagueness.
+- Description logic is a subset of first-order logic that focuses on defining concepts and roles, and reasoning about their subsumption and instantiation. It can express facts that involve hierarchical classification and inheritance, but not facts that involve complex relations, functions, or arithmetic.
+- Semantic networks are graphical representations of knowledge that use nodes to represent concepts and links to represent relations. They can express facts that involve associations and categorization, but not facts that involve quantification, negation, or disjunction.
+- Frames are data structures that represent concepts as collections of slots and values. They can express facts that involve attributes, defaults, and exceptions, but not facts that involve logical inference, procedural knowledge, or temporal reasoning.
+- Production rules are conditional statements that specify actions to be performed when certain conditions are met. They can express facts that involve procedural knowledge, control, and planning, but not facts that involve declarative knowledge, uncertainty, or nonmonotonic reasoning.
+- Scripts are structures that represent stereotypical sequences of events that occur in a given situation. They can express facts that involve temporal and causal relations, expectations, and goals, but not facts that involve deviations, alternatives, or exceptions.

@@ -1,0 +1,24 @@
+# Search Strategies for Artificial Intelligence
+
+- Search strategies are methods to find solutions to problems in artificial intelligence (AI) by exploring a search space that consists of possible states and actions  .
+- Search strategies can be classified into two categories: uninformed and informed    .
+- Uninformed search strategies do not use any domain-specific knowledge or heuristics to guide the search. They are also called blind or brute-force search strategies    .
+- Informed search strategies use domain-specific knowledge or heuristics to estimate the cost or distance to the goal state. They are also called heuristic or intelligent search strategies    .
+- Some of the common uninformed search strategies are     :
+  - Depth-first search (DFS): It explores the deepest node in the current branch before backtracking to explore other branches.
+  - Breadth-first search (BFS): It explores all the nodes at the same level before moving to the next level.
+  - Depth-limited search (DLS): It limits the depth of the search to a predefined value to avoid infinite loops.
+  - Uniform-cost search (UCS): It expands the node with the lowest path cost from the initial state to the current state.
+  - Iterative deepening depth-first search (IDDFS): It combines the benefits of DFS and DLS by gradually increasing the depth limit until a solution is found.
+  - Bidirectional search (BDS): It searches from both the initial state and the goal state simultaneously and stops when they meet.
+- Some of the common informed search strategies are    :
+  - Greedy search (best-first search): It expands the node that appears to be closest to the goal state according to a heuristic function.
+  - A* search: It expands the node that has the lowest estimated total cost, which includes the path cost from the initial state to the current state and the heuristic cost from the current state to the goal state.
+  - Hill-climbing search (local search): It moves to a neighboring node that has a higher value according to a heuristic function and stops when no improvement is possible.
+  - Simulated annealing: It is a variation of hill-climbing search that allows some random moves to escape from local optima.
+  - Genetic algorithms: They are inspired by the natural process of evolution and use a population of candidate solutions that undergo selection, crossover, and mutation to find the optimal solution.
+- Search strategies are useful for solving problems in AI because they    :
+  - Provide a systematic and logical way to explore the search space and find the solution.
+  - Can be programmed in terms of search agents that use atomic representation and goal-based behavior.
+  - Can be adapted to different types of problems and domains by using different heuristics and evaluation functions.
+  - Can handle complex and large-scale problems that require optimization and decision making.

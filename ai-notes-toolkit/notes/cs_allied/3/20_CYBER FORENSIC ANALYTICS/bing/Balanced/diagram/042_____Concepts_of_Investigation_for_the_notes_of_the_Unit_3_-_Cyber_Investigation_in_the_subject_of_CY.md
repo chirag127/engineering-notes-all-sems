@@ -1,0 +1,22 @@
+### Concepts of Investigation for the notes of the Unit 3 - Cyber Investigation in the subject of CYBER FORENSIC ANALYTICS
+
+- Cyber forensics is a field that follows certain procedures to find the evidence to reach conclusions after proper investigation of matters.
+- Cyber forensics is also known as computer forensics or digital forensics  .
+- Cyber forensics is a scientific method of investigation and analysis in order to gather evidence from digital devices or computer networks and components which is suitable for presentation in a court of law or legal body.
+- Cyber forensics is a process of extracting data as proof for a crime (that involves electronic devices) while following proper investigation rules to nab the culprit by presenting the evidence to the court.
+- Cyber forensics involves the following steps  :
+  - Identification: The first step of cyber forensics experts are to identify what evidence is present, where it is stored, and in which format it is stored.
+  - Preservation: The second step is to preserve the evidence by making a copy of it and securing it from any tampering or alteration.
+  - Analysis: The third step is to analyze the evidence by using various tools and techniques to extract relevant information and data from it.
+  - Presentation: The fourth step is to present the evidence in a clear and concise manner to the court or legal body, using proper documentation and reports.
+  - Review: The final step is to review the entire process and the outcome, and to identify any errors or improvements that can be made for future cases.
+- Cyber forensics requires a combination of techniques and expert knowledge, such as:
+  - Reverse steganography: Steganography is a common tactic used to hide data inside any type of digital file, message or data stream. Reverse steganography is the process of detecting and extracting the hidden data from such files, messages or data streams.
+  - Cross-drive analysis: Cross-drive analysis is the process of correlating information found on multiple hard drives or devices, such as by using file names, file sizes, timestamps, etc.
+  - Live analysis: Live analysis is the process of examining a computer system or device while it is still running, without shutting it down or altering its state. This can help to capture volatile data, such as memory contents, network connections, etc.
+  - Deleted files recovery: Deleted files recovery is the process of recovering files that have been deleted from a computer system or device, by using various methods, such as undelete tools, file carving, slack space analysis, etc.
+  - Encryption cracking: Encryption cracking is the process of breaking the encryption or password protection of a file, message or data stream, by using various methods, such as brute force, dictionary attack, rainbow tables, etc.
+- Cyber forensics faces various challenges, such as:
+  - Legal issues: Cyber forensics must comply with the laws and regulations of the jurisdiction where the evidence is collected and presented, and must respect the privacy and rights of the individuals involved.
+  - Technical issues: Cyber forensics must deal with the complexity and diversity of digital devices and systems, and must keep up with the rapid changes and developments in technology and software.
+  - Ethical issues: Cyber forensics must adhere to the professional and ethical standards of the field, and must avoid any bias, conflict of interest, or misuse of the evidence or information obtained.

@@ -1,0 +1,9 @@
+#### Multiple access protocols in medium access control
+
+Multiple access protocols are a set of protocols operating in the Medium Access Control sublayer (MAC sublayer) of the Open Systems Interconnection (OSI) model. These protocols allow a number of nodes or users to access a shared network channel. The main objectives of multiple access protocols are to avoid collisions, minimize delay, maximize throughput, and ensure fairness.
+
+There are three main categories of multiple access protocols:
+
+- **Random access protocols**: In these protocols, all stations have equal priority and can send data depending on the state of the medium (idle or busy). There is no fixed time for sending data and collisions may occur. Examples of random access protocols are ALOHA, Carrier Sense Multiple Access (CSMA), CSMA with Collision Avoidance (CSMA/CA), and CSMA with Collision Detection (CSMA/CD).
+- **Controlled access protocols**: In these protocols, a station needs to obtain permission from a central authority or follow a predefined order before sending data. There is a fixed time for sending data and collisions are avoided. Examples of controlled access protocols are Reservation, Polling, and Token Passing.
+- **Channelization protocols**: In these protocols, the available bandwidth of the channel is divided into smaller units and assigned to different stations. There is no fixed time for sending data and collisions are avoided. Examples of channelization protocols are Frequency Division Multiple Access (FDMA), Time Division Multiple Access (TDMA), Code Division Multiple Access (CDMA), and Orthogonal Frequency Division Multiple Access (OFDMA).

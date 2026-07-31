@@ -1,0 +1,24 @@
+### The Oldham-Hackman Job Characteristic Model in spm
+
+- The Oldham-Hackman Job Characteristic Model (JCM) is a framework that businesses use to design jobs that facilitate employee motivation.
+- The JCM is based on the idea that the key to maintaining motivation is in the job itself, and that mundane tasks reduce motivation and productivity, while varied tasks improve them .
+- The JCM identifies five core job characteristics that affect three critical psychological states of an employee, which in turn influence their work outcomes  .
+- The five core job characteristics are:
+  - Skill variety: the degree to which a job requires a variety of different activities and skills.
+  - Task identity: the degree to which a job involves completing a whole, identifiable piece of work from start to finish.
+  - Task significance: the degree to which a job has a substantial impact on the lives of other people, whether within or outside the organization.
+  - Autonomy: the degree to which a job provides the employee with freedom, independence, and discretion in scheduling and performing the work.
+  - Feedback: the degree to which a job provides the employee with clear and direct information about the effectiveness of their performance.
+- The three critical psychological states are:
+  - Experienced meaningfulness of the work: the degree to which the employee feels that their work is worthwhile, valuable, and important.
+  - Experienced responsibility for the outcomes of the work: the degree to which the employee feels accountable and in control of the results of their work.
+  - Knowledge of the actual results of the work: the degree to which the employee knows and understands how well they are doing their work.
+- The work outcomes are:
+  - Motivation: the degree to which the employee is willing to exert high levels of effort toward achieving the goals of the job.
+  - Performance: the degree to which the employee performs the job effectively and efficiently.
+  - Satisfaction: the degree to which the employee is happy and content with their job.
+  - Absenteeism: the degree to which the employee is absent from work due to illness, personal reasons, or other factors.
+  - Turnover: the degree to which the employee leaves the organization voluntarily or involuntarily.
+- The JCM also proposes that the relationship between the core job characteristics and the work outcomes is moderated by the employee's growth need strength, which is the extent to which the employee desires to grow and develop personally and professionally  .
+- The JCM suggests that jobs can be enriched by increasing the core job characteristics, which will enhance the psychological states and the work outcomes of the employees  .
+- The JCM provides a useful tool for assessing and redesigning jobs, as well as for understanding and improving employee motivation, performance, satisfaction, absenteeism, and turnover   .

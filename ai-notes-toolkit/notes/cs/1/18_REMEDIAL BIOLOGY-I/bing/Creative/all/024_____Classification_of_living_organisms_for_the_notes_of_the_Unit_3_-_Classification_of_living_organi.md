@@ -1,0 +1,21 @@
+# Classification of living organisms
+
+- Classification of living organisms is the scientific process of arranging living things into different groups and subgroups based on their similarities and differences .
+- Classification helps to study the diversity of life forms in an organized and systematic way .
+- Classification also helps to understand the evolutionary relationships among different groups of organisms .
+- The most widely used system of classification is the Linnaean system, developed by Carl Linnaeus in the 18th century .
+- The Linnaean system uses a hierarchical structure of seven major levels: kingdom, phylum, class, order, family, genus and species .
+- Each level is more specific and more closely related than the previous one. For example, all animals belong to the kingdom Animalia, but only some animals belong to the phylum Chordata, and only some chordates belong to the class Mammalia, and so on .
+- The lowest level of classification is the species, which is a group of organisms that can interbreed and produce fertile offspring .
+- The scientific name of a species is given by the binomial system of nomenclature, which consists of two words: the genus name and the species name .
+- The genus name is capitalized and the species name is lowercase. Both names are italicized or underlined. For example, the scientific name of human is Homo sapiens .
+- The five kingdom classification is a system of dividing living organisms into five major groups: Animalia, Plantae, Fungi, Protista and Monera.
+- The kingdom Animalia includes all multicellular animals that are heterotrophic (obtain food from other organisms) and have a nervous system and a body cavity.
+- The kingdom Plantae includes all multicellular plants that are autotrophic (make their own food by photosynthesis) and have a cell wall and chloroplasts.
+- The kingdom Fungi includes all multicellular or unicellular organisms that are heterotrophic and decompose organic matter. They have a cell wall made of chitin and lack chloroplasts.
+- The kingdom Protista includes all unicellular or colonial organisms that are eukaryotic (have a nucleus and other membrane-bound organelles). They can be autotrophic or heterotrophic and have diverse modes of locomotion and reproduction.
+- The kingdom Monera includes all unicellular organisms that are prokaryotic (lack a nucleus and other membrane-bound organelles). They have a cell wall made of peptidoglycan and can be autotrophic or heterotrophic. They include bacteria and cyanobacteria (blue-green algae).
+- The concept of animal and plant classification is based on the morphological, anatomical, physiological and biochemical characteristics of the organisms in each kingdom.
+- Animal classification is further divided into several phyla, such as Chordata, Arthropoda, Mollusca, Annelida, Nematoda, Cnidaria, Porifera, etc.
+- Plant classification is further divided into several divisions, such as Bryophyta, Pteridophyta, Gymnospermae, Angiospermae, etc.
+- Each phylum or division is further subdivided into classes, orders, families, genera and species, following the Linnaean system.

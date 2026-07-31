@@ -1,0 +1,27 @@
+### Database testing for the notes of the Unit 7 - Testing Web Applications in the subject of Software Testing
+
+- Database testing is a type of software testing that checks the schema, tables, triggers, etc. of the database under test.
+- Database testing also checks data integrity and consistency, which means that the data is accurate, complete, and reliable.
+- Database testing is important for web applications because it protects the web app from vulnerabilities like data loss, unauthorized access, and corrupted transactions.
+- Database testing involves creating and executing queries to test the database functionality, performance, and security.
+- Database testing can be done using various tools, such as MS-Access, MS SQL Server, Oracle, MySQL, PostgreSQL, DB2, Toad, Admirer, etc.
+- Database testing can be divided into four categories: structural testing, functional testing, non-functional testing, and security testing.
+  - Structural testing checks the database design and schema, such as tables, columns, indexes, constraints, etc.
+  - Functional testing checks the database operations and transactions, such as insert, update, delete, select, etc.
+  - Non-functional testing checks the database performance and reliability, such as response time, load, stress, backup, recovery, etc.
+  - Security testing checks the database access and protection, such as authentication, authorization, encryption, auditing, etc.
+- Database testing can be done manually or automatically, depending on the complexity and scope of the test cases.
+- Database testing can be done at different levels of the web application, such as unit testing, integration testing, system testing, and acceptance testing.
+- Database testing can be done using different techniques, such as black-box testing, white-box testing, gray-box testing, etc.
+  - Black-box testing tests the database functionality without knowing the internal structure or code.
+  - White-box testing tests the database structure and code by knowing the internal details.
+  - Gray-box testing tests the database functionality and structure by having some knowledge of the internal details.
+- Database testing can be done using different strategies, such as top-down testing, bottom-up testing, hybrid testing, etc.
+  - Top-down testing tests the database from the higher level to the lower level, such as from the user interface to the database.
+  - Bottom-up testing tests the database from the lower level to the higher level, such as from the database to the user interface.
+  - Hybrid testing tests the database from both the higher and lower levels, using a combination of top-down and bottom-up approaches.
+- Database testing can be done using different methods, such as equivalence partitioning, boundary value analysis, decision table testing, cause-effect graph testing, etc.
+  - Equivalence partitioning divides the input data into equivalent classes and tests one value from each class.
+  - Boundary value analysis tests the input data at the boundary values and the values just above and below the boundaries.
+  - Decision table testing uses a table to represent the possible combinations of inputs and outputs and tests each combination.
+  - Cause-effect graph testing uses a graph to represent the logical relationships between the inputs and outputs and tests each path.

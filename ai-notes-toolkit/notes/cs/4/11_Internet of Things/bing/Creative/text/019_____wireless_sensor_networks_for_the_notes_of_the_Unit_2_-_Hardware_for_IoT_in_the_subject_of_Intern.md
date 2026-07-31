@@ -1,0 +1,7 @@
+### Wireless Sensor Networks for IoT
+
+- Wireless Sensor Networks (WSNs) are a subtype of broader IoT networks that consist of wireless interconnected networks of small low-power sensor devices that sense some environmental parameters at regular intervals of time and send them over to some central storage or database.
+- WSNs can be used for various applications such as environmental monitoring, smart agriculture, smart cities, health care, industrial automation, etc.
+- WSNs can use different wireless protocols to enable connectivity between sensors, such as Wi-Fi, Bluetooth, ZigBee, LoRaWAN, etc. The choice of protocol depends on factors such as data rate, range, power consumption, security, and cost.
+- WSNs face many challenges in terms of reliability, scalability, security, and energy efficiency, especially in harsh industrial environments. Therefore, WSNs require careful design and optimization of the network topology, routing protocols, data aggregation, and power management techniques.
+- Wireless sensors for IoT can measure various types of stimuli, such as temperature, humidity, light, motion, sound, pressure, etc. Wireless sensors can also perform some processing and actuation functions, such as filtering, compression, encryption, and control.

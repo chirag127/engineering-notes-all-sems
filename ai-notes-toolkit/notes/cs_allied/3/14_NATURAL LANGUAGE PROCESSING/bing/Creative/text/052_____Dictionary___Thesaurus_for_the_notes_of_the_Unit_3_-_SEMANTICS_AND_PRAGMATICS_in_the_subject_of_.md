@@ -1,0 +1,9 @@
+### Dictionary & Thesaurus for the notes of the Unit 3 - SEMANTICS AND PRAGMATICS in the subject of NATURAL LANGUAGE PROCESSING
+
+- A **dictionary** is a collection of words and their meanings, pronunciations, usage examples, and other information. A dictionary can be used to look up the meaning of a word, to check its spelling, or to find synonyms or antonyms.
+- A **thesaurus** is a specialized dictionary that stores synonyms and antonyms of selected words in a language. A thesaurus can be used to find alternative words with similar or opposite meanings, to enrich the vocabulary, or to avoid repetition.
+- In natural language processing (NLP), a dictionary and a thesaurus can be useful resources for various tasks, such as:
+  - **Word sense disambiguation**: the process of identifying the correct meaning of a word in a given context, among multiple possible meanings. A dictionary can provide the definitions of different senses, and a thesaurus can provide the related words for each sense.
+  - **Text summarization**: the process of creating a concise and informative summary of a longer text. A thesaurus can help to find synonyms or paraphrases for the key words or phrases in the text, to reduce redundancy and increase diversity.
+  - **Text generation**: the process of creating natural language text from some input, such as a prompt, a query, or a data source. A dictionary can provide the spelling and grammar rules for the target language, and a thesaurus can provide the word choices and variations for the generated text.
+  - **Text analysis**: the process of extracting information and insights from natural language text, such as sentiment, topics, entities, relations, etc. A dictionary can provide the basic linguistic information for the text, such as part-of-speech, morphology, and syntax, and a thesaurus can provide the semantic information, such as synonyms, antonyms, and categories.

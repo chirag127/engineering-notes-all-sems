@@ -1,0 +1,21 @@
+### Basics of RTOS
+
+- An RTOS is an operating system designed to manage hardware resources of an embedded system.
+- An RTOS creates multiple threads of software execution and a scheduler for managing these threads.
+- An RTOS provides the necessary hard real-time computing capabilities, which means it processes data and events that have critically defined time constraints.
+- An RTOS is used for controlling devices that require timing synchronization with their environment or with other devices.
+- An RTOS is distinct from a time-sharing operating system, such as Unix, which manages the sharing of system resources with a scheduler, data buffers, or fixed task priorities.
+- An RTOS is also different from a general-purpose operating system, such as Windows, which is not optimized for real-time performance and may have unpredictable delays or interruptions.
+- An RTOS typically has the following components :
+  - Kernel: The core of the RTOS that provides the basic services, such as task management, memory management, inter-task communication, and synchronization.
+  - Device drivers: The software modules that interface with the hardware devices, such as sensors, actuators, timers, and communication ports.
+  - Middleware: The software layer that provides additional functionality, such as networking, file system, graphical user interface, and security.
+  - Application: The software program that implements the specific functionality of the embedded system, such as control logic, data processing, or user interaction.
+- An RTOS can be classified into three types based on the degree of time constraints:
+  - Hard real-time operating system: These operating systems guarantee that critical tasks be completed within a range of predefined deadlines, otherwise the system may fail or cause severe consequences.
+  - Soft real-time operating system: These operating systems provide some relaxation in the time limit, meaning that missing a deadline may degrade the system performance or quality, but not cause failure or damage.
+  - Firm real-time operating system: These operating systems have to meet the deadlines as much as possible, but can tolerate occasional misses without compromising the system functionality or safety.
+- An RTOS can be implemented in different ways, such as using a microkernel, a monolithic kernel, or a hybrid kernel.
+- An RTOS can be designed for specific platforms, such as ARM, MIPS, or x86, or for cross-platform compatibility, such as POSIX.
+- An RTOS can be proprietary, such as VxWorks, QNX, or FreeRTOS, or open source, such as Linux, RTEMS, or Zephyr.
+- An RTOS can be integrated with cloud services, such as Azure RTOS, which provides a set of libraries and tools for developing and deploying IoT applications on Azure.

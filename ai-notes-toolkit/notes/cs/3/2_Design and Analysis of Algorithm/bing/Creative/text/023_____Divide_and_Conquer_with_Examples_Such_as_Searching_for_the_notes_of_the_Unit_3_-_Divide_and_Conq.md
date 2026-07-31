@@ -1,0 +1,13 @@
+### Divide and Conquer with Examples Such as Sorting, Matrix Multiplication, Convex Hull and Searching
+
+- Divide and conquer is a paradigm for designing algorithms that solve a problem by recursively breaking it into smaller subproblems, solving them, and combining their solutions .
+- Divide and conquer algorithms have three steps:
+  - Divide: Split the problem into smaller subproblems of the same type.
+  - Conquer: Solve the subproblems recursively or directly if they are simple enough.
+  - Combine: Merge the solutions of the subproblems to obtain the solution of the original problem.
+- Divide and conquer algorithms are often efficient and elegant, and can achieve lower time complexities than brute-force or iterative methods.
+- Some examples of divide and conquer algorithms are:
+  - Sorting: Merge sort and quicksort are two sorting algorithms that use divide and conquer. Merge sort divides the array into two halves, sorts them recursively, and then merges them in linear time. Quicksort partitions the array around a pivot element, sorts the two subarrays recursively, and then concatenates them .
+  - Matrix multiplication: Strassen's algorithm is an efficient algorithm to multiply two matrices. A naive method to multiply two matrices needs three nested loops and is O(n^3). Strassen's algorithm divides each matrix into four submatrices, performs seven multiplications and some additions on them, and then combines them to get the final product. Strassen's algorithm reduces the time complexity to O(n^2.8974) .
+  - Convex hull: The convex hull of a set of points is the smallest convex polygon that contains all the points. A divide and conquer algorithm to find the convex hull works as follows: Split the points into two halves by a vertical line, find the convex hull of each half recursively, and then merge the two hulls by finding the upper and lower tangents.
+  - Searching: Binary search is a classic example of a divide and conquer algorithm. If we have a sorted array of data, we can find any element in the array using a divide and conquer process. We compare the element with the middle element of the array, and if they are equal, we return the index. If the element is smaller, we search in the left half of the array, and if it is larger, we search in the right half. We repeat this process until we find the element or the array is empty. Binary search reduces the time complexity from O(n) to O(log n) .

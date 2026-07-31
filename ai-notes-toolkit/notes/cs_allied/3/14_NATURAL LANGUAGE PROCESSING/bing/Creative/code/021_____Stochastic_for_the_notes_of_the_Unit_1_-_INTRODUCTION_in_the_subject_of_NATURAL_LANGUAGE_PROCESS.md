@@ -1,0 +1,6 @@
+### Stochastic for the notes of the Unit 1 - INTRODUCTION in the subject of NATURAL LANGUAGE PROCESSING
+
+- Stochastic means involving randomness or probability. Stochastic methods are often used in natural language processing (NLP) to deal with uncertainty and ambiguity in natural languages.
+- Stochastic grammar is a type of grammar that assigns probabilities to grammar rules, allowing for the generation or parsing of sentences with different likelihoods . Stochastic grammar can capture the variability and preferences of natural language usage, and can handle noisy or incomplete data.
+- Stochastic semantic analysis is an approach that uses segments of words as basic semantic units, and assigns probabilities to their meanings and relations. Stochastic semantic analysis can cope with the ambiguity and vagueness of natural language semantics, and can learn from large corpora of text.
+- Stochastic models are widely used in various NLP tasks, such as machine translation, question answering, speech recognition, text generation, and sentiment analysis . Stochastic models can leverage statistical properties of natural language, and can be trained and evaluated using data-driven methods.

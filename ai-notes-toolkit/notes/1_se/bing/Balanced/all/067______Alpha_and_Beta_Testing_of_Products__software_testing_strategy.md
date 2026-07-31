@@ -1,0 +1,17 @@
+#### Alpha and Beta Testing of Products  software testing strategy
+
+- Alpha and beta testing are customer validation methodologies that help in building confidence to launch the product, and thereby result in the success of the product in the market.
+- Alpha testing is the last testing done by the test teams at the development site after the acceptance testing and before releasing the software for beta test. It can also be done by potential users or customers of the application, but this is a form of in-house acceptance testing.
+- Beta testing is done by a limited amount of end-users who get the beta version of the product and have a chance to test it in the “real environment”. When beta tests are done the company receives feedback about the quality of its product.
+- The main difference between alpha and beta testing is that alpha testing is focused on identifying bugs and validating that the software is functioning as a user would expect it to, while beta testing is focused on obtaining real-world feedback and ensuring the product is ready for the consumer market .
+- Alpha testing is conducted by internal employees of the organization, using white box and black box practices, in a testing or staging environment. Beta testing is conducted by external users or customers, using black box practices, in a production or live environment.
+- Alpha testing is more controlled and structured than beta testing, as the test cases and scenarios are predefined and the testers follow a specific protocol. Beta testing is more flexible and informal, as the testers are free to explore the product and report any issues or suggestions they encounter.
+- Alpha testing is usually done before the product is feature complete, meaning that some functionalities may be missing or incomplete. Beta testing is usually done after the product is feature complete, meaning that all the functionalities are implemented and ready to be tested.
+- Alpha testing is more technical and analytical than beta testing, as the testers are expected to find and report bugs, errors, and defects in the software. Beta testing is more user-oriented and experiential, as the testers are expected to provide feedback, opinions, and recommendations on the software.
+- Alpha testing is shorter and faster than beta testing, as the testers are limited in number and time. Beta testing is longer and slower, as the testers are larger in number and have more time to use the product.
+- Alpha testing is more confidential and secure than beta testing, as the testers are bound by non-disclosure agreements and the product is not exposed to the public. Beta testing is less confidential and secure, as the testers are not bound by non-disclosure agreements and the product may be leaked or pirated.
+
+A possible mnemonic to remember the differences between alpha and beta testing is:
+
+- Alpha testing is done by **A**lpha testers (internal employees) in an **A**rtificial environment (testing or staging) with **A**nalytical methods (white box and black box) and **A**ims to find bugs and errors.
+- Beta testing is done by **B**eta testers (external users) in a **B**ona fide environment (production or live) with **B**lack box methods and **B**enefits from feedback and opinions.

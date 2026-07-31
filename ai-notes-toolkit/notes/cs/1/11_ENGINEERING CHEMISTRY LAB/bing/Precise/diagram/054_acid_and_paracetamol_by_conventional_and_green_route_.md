@@ -1,0 +1,5 @@
+# Acid and Paracetamol by Conventional and Green Route
+
+- An alternative route for the synthesis of N-acetyl-p-aminophenol (paracetamol, PAR) and acetylsalicylic acid (aspirin, ASA) using principles of green chemistry has been proposed. This involves solvent-free synthesis combined with microwave-energy irradiation.
+- In 2014, Joncour et al., established a green approach involving direct amidation of hydroquinone to obtain paracetamol with maximum conversion. This eliminates the problems associated with the earlier techniques such as the extra step involved, unwanted ortho-isomerization, and generation of the sulfate salt.
+- Acetaminophen can also be synthesized from phenol in three steps. In this synthetic route, the solvent from step two is kept to help maximize atom economy. The first step is an electrophilic aromatic substitution on phenol with nitric acid to create p­nitrophenol.

@@ -1,0 +1,9 @@
+# Planck's theory of black body radiation (qualitative)
+
+- A black body is a hypothetical body that completely absorbs all radiant energy falling upon it, reaches some equilibrium temperature, and then reemits that energy as quickly as it absorbs it.
+- The spectrum of the radiation emitted by a black body depends only on its temperature, not on its shape, size, or material.
+- The classical theory of electromagnetism, based on the laws of Maxwell and Kirchhoff, failed to explain the observed spectrum of black body radiation, especially at high frequencies (short wavelengths), where it predicted an infinite amount of energy, known as the ultraviolet catastrophe.
+- In 1900, German physicist Max Planck heuristically derived a formula for the observed spectrum by assuming that a hypothetical electrically charged oscillator in a cavity that contained black-body radiation could only change its energy in a minimal increment, E, that was proportional to the frequency of its associated electromagnetic wave.
+- Planck's formula is given by:
+
+![Planck's formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/7b9a9f9f7b4a4f0f0c8f1a8a1f9f0b0c9c0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f

@@ -1,0 +1,21 @@
+### Function Point (FP) Based Measures
+
+- Function points are a unit of measurement used to quantify the amount of business functionality being delivered by a software application.
+- Function points measure the size of an application system based on the functional view of the system.
+- Function points allow software engineers to better measure the size of a project, identify areas in need of optimization, and analyze development performance benchmarks over time.
+- Function points are one of the most widely used measures of software size .
+- The basis of function points is that the “functionality” of the system, that is, what the system performs, is the measure of the system size .
+- Function points are independent of the technology, programming language, or development methodology used to build the software application.
+- Function points are calculated by counting the number of inputs, outputs, queries, internal files and external files in the system and adjusting that total for the functional complexity of the system .
+- The steps for counting function points are:
+  - Identify the type of project (development, enhancement, or maintenance) and the type of count (application or project).
+  - Identify the user requirements and the logical transactions of the system.
+  - Classify the logical transactions into five types: external inputs (EI), external outputs (EO), external inquiries (EQ), internal logical files (ILF), and external interface files (EIF).
+  - Assign a complexity level (low, average, or high) to each logical transaction based on the number of data elements and file types involved.
+  - Use a complexity-weighting table to assign a numerical value to each logical transaction based on its type and complexity level.
+  - Sum the numerical values of all the logical transactions to obtain the unadjusted function point (UFP) count.
+  - Determine the value adjustment factor (VAF) by rating 14 general system characteristics (GSC) on a scale of 0 to 5 and summing the ratings.
+  - Multiply the UFP by the VAF to obtain the adjusted function point (AFP) count.
+- Function points can be used to estimate the effort, cost, and duration of a software project based on historical data and productivity factors.
+- Function points can also be used to compare the productivity and quality of different software projects or teams.
+- Function points are mainly used for measuring the size of management information system (MIS) software.

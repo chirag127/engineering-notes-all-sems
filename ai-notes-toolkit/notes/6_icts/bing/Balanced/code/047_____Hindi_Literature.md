@@ -1,0 +1,10 @@
+### Hindi Literature
+
+Hindi literature is the literature written in the Hindi language, which includes various dialects and scripts. Hindi literature has a long and rich history, dating back to the 11th century. Some of the main features and genres of Hindi literature are:
+
+- Hindi literature is influenced by Sanskrit, Prakrit, Pali, Persian, Arabic, Urdu and other languages.
+- Hindi literature is divided into four periods: Adikal (early period), Bhaktikal (devotional period), Ritikal (poetic period) and Adhunik (modern period).
+- Adikal (11th to 14th century) is the earliest period of Hindi literature, which includes the poetry of Apabhraṃśa dialects like Awadhi, Magadhi, Ardhamagadhi and Marwari. Some of the famous poets of this period are Chand Bardai, Jayasi, Kabir and Tulsidas.
+- Bhaktikal (14th to 17th century) is the period of devotional literature, which reflects the religious movements of Bhakti and Sufism. Some of the prominent poets of this period are Surdas, Mirabai, Raskhan and Nanak.
+- Ritikal (17th to 19th century) is the period of ornate and refined poetry, which follows the rules of Sanskrit poetics. Some of the genres of this period are Riti (courtly poetry), Rekhti (Urdu-influenced poetry), Dohe (couplets) and Kavita (lyrical poetry). Some of the notable poets of this period are Bihari, Keshavdas, Ghananand and Brij Bhasha poets.
+- Adhunik (20th century onwards) is the period of modern literature, which reflects the social, political and cultural changes of India. Some of the genres of this period are Aadhunik (modernist poetry), Pragativad (progressive poetry), Chhayavad (romantic poetry), Nayi Kahani (new short story), Natak (drama) and Alochana (criticism). Some of the eminent writers of this period are Premchand, Nirala, Mahadevi Verma, Harivansh Rai Bachchan, Munshi Premchand, Bhisham Sahni and Mahasweta Devi.

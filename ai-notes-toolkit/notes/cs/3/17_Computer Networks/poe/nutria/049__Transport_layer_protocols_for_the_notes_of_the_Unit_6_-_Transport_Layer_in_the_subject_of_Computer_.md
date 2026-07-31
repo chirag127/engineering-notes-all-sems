@@ -1,0 +1,12 @@
+
+### Transport Layer Protocols
+
+1. **Transmission Control Protocol (TCP)**: TCP is a connection-oriented, reliable protocol that provides end-to-end communication between two hosts. It is a reliable protocol, meaning that it will guarantee that the data sent is received in the same order and with the same integrity as it was sent. It is also a connection-oriented protocol, meaning that it requires an establishment of a connection before it can start sending data. 
+
+2. **User Datagram Protocol (UDP)**: UDP is a connectionless, unreliable protocol that provides end-to-end communication between two hosts. It is an unreliable protocol, meaning that it does not guarantee that the data sent is received in the same order and with the same integrity as it was sent. It is also connectionless, meaning that it does not require an establishment of a connection before it can start sending data. 
+
+3. **Real-time Transport Protocol (RTP)**: RTP is a connectionless, reliable protocol that provides end-to-end communication between two hosts. It is a reliable protocol, meaning that it will guarantee that the data sent is received in the same order and with the same integrity as it was sent. It is also a connectionless protocol, meaning that it does not require an establishment of a connection before it can start sending data. 
+
+4. **Stream Control Transmission Protocol (SCTP)**: SCTP is a connection-oriented, reliable protocol that provides end-to-end communication between two hosts. It is a reliable protocol, meaning that it will guarantee that the data sent is received in the same order and with the same integrity as it was sent. It is also a connection-oriented protocol, meaning that it requires an establishment of a connection before it can start sending data. 
+
+5. **Datagram Congestion Control Protocol (DCCP)**: DCCP is a connection-oriented, unreliable protocol that provides end-to-end communication between two hosts. It is an unreliable protocol, meaning that it does not guarantee that the data sent is received in the same order and with the same integrity as it was sent. It is also a connection-oriented protocol, meaning that it requires an establishment of a connection before it can start sending data.

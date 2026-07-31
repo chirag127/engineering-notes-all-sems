@@ -1,0 +1,6 @@
+## Unit 5 - Overview of Cloud Computing
+
+- Cloud computing is a model for enabling **ubiquitous**, **convenient**, **on-demand** network access to a **shared pool** of **configurable computing resources** (e.g., networks, servers, storage, applications, and services) that can be **rapidly provisioned and released** with minimal management effort or service provider interaction.
+- Cloud computing also refers to the **technology** that makes cloud work. This includes some form of **virtualized IT infrastructure**— servers, operating system software, networking, and other infrastructure that’s **abstracted**, using special software, so that it can be **pooled and divided** irrespective of physical hardware boundaries.
+- Cloud computing is the **delivery** of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the **Internet** (“the cloud”) to offer **faster innovation**, **flexible resources**, and **economies of scale**.
+- Cloud computing is the **practice** of storing regularly used computer data on **multiple servers** that can be accessed through the **Internet**.

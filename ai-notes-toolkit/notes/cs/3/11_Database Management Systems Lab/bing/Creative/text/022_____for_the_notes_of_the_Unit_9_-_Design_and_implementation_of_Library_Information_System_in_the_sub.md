@@ -1,0 +1,10 @@
+# Unit 9 - Design and Implementation of Library Information System
+
+A library information system is an application that manages the operations and services of a library, such as book acquisition, cataloging, circulation, inventory, reservation, and search. A library information system can be based on web service, which allows users to access the system remotely and conveniently. A library information system can also support digital library functions, such as knowledge exchange, preservation, and semantic interoperability of heterogeneous resources.
+
+The design and implementation of a library information system involves the following steps:
+
+- **Requirement analysis**: Identify the needs and expectations of the library users and staff, and define the scope and objectives of the system. Use modeling languages such as UML to represent the use cases, actors, and scenarios of the system.
+- **System design**: Design the architecture and components of the system, such as the user interface, the database, the web service, and the business logic. Use diagrams such as class diagrams, sequence diagrams, and ER diagrams to illustrate the structure and behavior of the system.
+- **System implementation**: Implement the system using appropriate technologies and tools, such as JSP, SQL Server, stored procedures, and triggers. Test and debug the system to ensure its functionality and performance. Add features such as guest book and electronic publications to enhance the user experience and satisfaction.
+- **System evaluation**: Evaluate the system based on the criteria such as usability, reliability, efficiency, and security. Collect feedback from the users and staff, and measure the system's impact on the library operations and services. Identify the strengths and weaknesses of the system, and suggest improvements and enhancements.

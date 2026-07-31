@@ -1,0 +1,13 @@
+### Decision Tables in Software Requirement Specification (SRS)
+
+Decision tables are an important tool used in software requirement specification (SRS). They are used to define the logic of a system or software by mapping out all possible combinations of input conditions and corresponding actions or outputs.
+
+Here are some key points to keep in mind when working with decision tables in SRS:
+
+- Decision tables are a tabular representation of the logic of a system or software. They are composed of rows and columns, with each row representing a unique combination of input conditions and each column representing a specific action or output.
+- Decision tables are useful because they allow developers and stakeholders to clearly define the logic of a system or software in a way that is easy to understand and analyze. By mapping out all possible combinations of input conditions and corresponding actions or outputs, decision tables help ensure that all aspects of the system or software have been thoroughly considered and accounted for.
+- When creating a decision table, it is important to clearly define the input conditions and corresponding actions or outputs. Each input condition should be defined in terms of its possible values or states, and each action or output should be clearly defined in terms of what it does or produces.
+- Decision tables can be used to test the logic of a system or software by systematically testing all possible combinations of input conditions and verifying that the corresponding actions or outputs are correct. This can help identify any potential issues or errors in the logic of the system or software before it is implemented.
+- Decision tables can be used in conjunction with other tools and techniques in SRS, such as use cases and user stories. By using decision tables to define the logic of a system or software, developers and stakeholders can ensure that all use cases and user stories have been fully accounted for and that the system or software will meet all necessary requirements.
+
+In conclusion, decision tables are an important tool in software requirement specification that help developers and stakeholders define the logic of a system or software in a clear and systematic way. By mapping out all possible combinations of input conditions and corresponding actions or outputs, decision tables help ensure that all aspects of the system or software have been thoroughly considered and accounted for, and can help identify potential issues or errors before implementation.

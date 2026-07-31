@@ -1,0 +1,7 @@
+### Speech Distortion Measures
+
+- Speech distortion measures are methods to quantify the amount and type of distortion that occurs in speech signals due to various factors, such as hearing loss, hearing aids, noise, or speech processing algorithms.
+- Speech distortion measures can be classified into two categories: subjective and objective.
+  - Subjective measures are based on human perception and evaluation of speech quality, intelligibility, or naturalness. They require human listeners to rate speech samples on a scale or to transcribe speech utterances. Examples of subjective measures are mean opinion score (MOS), speech intelligibility index (SII), or word recognition score (WRS).
+  - Objective measures are based on mathematical or statistical calculations that compare speech signals or their features. They do not require human listeners, but they may or may not correlate well with subjective measures. Examples of objective measures are signal-to-noise ratio (SNR), spectral distortion (SD), or log-likelihood ratio (LLR).
+- Speech distortion measures can be used for various purposes, such as evaluating the performance of hearing aids, speech enhancement algorithms, speech recognition systems, or speech synthesis systems. They can also be used for diagnosing and treating speech sound disorders, such as articulation or phonological impairments.

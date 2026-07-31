@@ -1,0 +1,22 @@
+### Applications and Architectures of High Performance Grids
+
+- A grid is a distributed system that enables the sharing and coordinated use of heterogeneous resources across multiple administrative domains .
+- A high performance grid is a grid that can harness the power of an arbitrarily large collection of computing resources to meet the needs of compute intensive applications such as finite element model (FEM) simulations, scientific workflows, data analysis, etc .
+- Some of the applications of high performance grids are:
+  - Computational science and engineering: solving complex problems that require large-scale parallelism, such as climate modeling, fluid dynamics, molecular dynamics, etc.
+  - Data-intensive computing: processing and analyzing massive amounts of data, such as genomics, astronomy, social networks, etc.
+  - Collaborative computing: enabling distributed teams to work together on common tasks, such as telemedicine, virtual reality, e-learning, etc.
+  - Service-oriented computing: providing on-demand access to various services, such as web services, databases, storage, etc.
+- Some of the architectures of high performance grids are:
+  - Hierarchical grid: a grid that consists of multiple levels of sub-grids, each with its own resource management and scheduling policies, such as the European DataGrid (EDG) project.
+  - Peer-to-peer grid: a grid that is based on the principle of decentralization and self-organization, where each node can act as both a resource provider and a resource consumer, such as the Globus Toolkit.
+  - Service-oriented grid: a grid that is based on the concept of service-oriented architecture (SOA), where each resource is exposed as a service that can be discovered, invoked, and composed, such as the Open Grid Services Architecture (OGSA) and the Web Services Resource Framework (WSRF).
+  - Cloud-based grid: a grid that leverages the cloud computing paradigm, where resources are dynamically provisioned and released on demand, such as the Amazon Elastic Compute Cloud (EC2) and the Google App Engine.
+- Some of the challenges and issues of high performance grids are:
+  - Resource heterogeneity: dealing with the diversity and variability of resources in terms of hardware, software, network, etc.
+  - Resource availability: coping with the dynamic and unpredictable nature of resources, such as failures, faults, load, etc.
+  - Resource discovery: finding and selecting suitable resources for a given application or task.
+  - Resource allocation: distributing and scheduling resources among multiple competing applications or tasks.
+  - Resource coordination: synchronizing and communicating among resources to achieve a common goal.
+  - Resource security: ensuring the confidentiality, integrity, and availability of resources and data.
+  - Resource performance: optimizing the efficiency and effectiveness of resources and applications.

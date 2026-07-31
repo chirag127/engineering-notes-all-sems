@@ -1,0 +1,12 @@
+# Stereochemistry: Optical isomerism in compounds without chiral carbon, Geometrical
+
+- Stereochemistry is the branch of chemistry that studies the spatial arrangement of atoms and molecules and their effects on the physical and chemical properties of substances.
+- Optical isomerism is a type of stereoisomerism that occurs when a compound has the same molecular formula and connectivity but different spatial orientation of atoms, resulting in non-superimposable mirror images.
+- Optical isomers are also called enantiomers or chiral molecules. They have the property of rotating the plane of polarized light in opposite directions, which is called optical activity.
+- Optical isomerism usually occurs in compounds that have one or more chiral centers, which are atoms that are bonded to four different groups. The most common example of a chiral center is a carbon atom with four different substituents.
+- However, optical isomerism can also occur in compounds without chiral centers, such as allenes, biphenyls, spiranes, and some cyclic compounds. These compounds have a different type of chirality, which is called axial chirality, planar chirality, or helical chirality.
+- Axial chirality occurs when a molecule has a twisted or helical shape around an axis, such as an allene or a biphenyl. Planar chirality occurs when a molecule has a plane of symmetry but not a center of symmetry, such as a metal complex with a square planar geometry. Helical chirality occurs when a molecule has a helical shape, such as a DNA strand.
+- Geometrical isomerism is another type of stereoisomerism that occurs when a compound has the same molecular formula and connectivity but different spatial arrangement of atoms around a double bond, a ring, or a coordination complex.
+- Geometrical isomers are also called cis-trans isomers or E-Z isomers. They have different physical and chemical properties, such as melting point, boiling point, solubility, and reactivity.
+- Geometrical isomerism usually occurs in compounds that have restricted rotation around a bond or a ring, such as alkenes, cycloalkanes, or heteroleptic complexes. These compounds have different groups attached to the same atoms, which are called stereogenic elements.
+- Geometrical isomers can be named using the cis-trans or E-Z nomenclature. The cis-trans nomenclature is based on the relative position of the groups on the same side or opposite sides of the bond or ring. The E-Z nomenclature is based on the priority of the groups according to the Cahn-Ingold-Prelog rules.

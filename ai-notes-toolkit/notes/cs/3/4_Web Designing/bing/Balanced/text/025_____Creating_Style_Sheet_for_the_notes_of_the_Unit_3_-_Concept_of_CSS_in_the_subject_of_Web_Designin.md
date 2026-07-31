@@ -1,0 +1,24 @@
+### Creating Style Sheet for the notes of the Unit 3 - Concept of CSS in the subject of Web Designing
+
+- A style sheet is a file that contains a set of rules that define how to format and present the elements of a web page.
+- CSS stands for Cascading Style Sheets, which is the most widely used style sheet language for web design.
+- CSS allows web developers to separate the content and structure of a web page from its presentation and layout, making it easier to maintain and update.
+- CSS can also enhance the appearance and functionality of a web page by adding colors, fonts, backgrounds, borders, animations, transitions, and other effects.
+- CSS has three main components: selectors, properties, and values.
+  - Selectors are the parts of a CSS rule that specify which elements of a web page to apply the style to. For example, `p` is a selector that matches all `<p>` elements in a web page.
+  - Properties are the parts of a CSS rule that specify what aspect of the selected elements to style. For example, `color` is a property that sets the text color of the selected elements.
+  - Values are the parts of a CSS rule that specify how to style the selected properties. For example, `red` is a value that sets the color property to red.
+- A CSS rule consists of a selector followed by a declaration block, which contains one or more property-value pairs enclosed in curly braces. For example, `p {color: red;}` is a CSS rule that sets the text color of all `<p>` elements to red.
+- A style sheet can contain multiple CSS rules, which are separated by semicolons. For example, `p {color: red;} h1 {font-size: 36px;}` is a style sheet that contains two CSS rules.
+- A style sheet can be embedded in the `<head>` section of an HTML document using the `<style>` tag, or linked to an external file using the `<link>` tag. For example, `<link rel="stylesheet" href="style.css">` is a tag that links to an external style sheet named `style.css`.
+- A style sheet can also be applied to a specific element using the `style` attribute, which contains a CSS declaration block. For example, `<p style="color: red;">This is a paragraph.</p>` is an HTML element that has an inline style sheet that sets its text color to red.
+- CSS follows a cascading order of precedence, which determines how conflicting style rules are resolved. The order of precedence is as follows:
+  - Inline style sheets have the highest precedence, and override any other style sheets.
+  - External and embedded style sheets have the same precedence, and are applied in the order they appear in the HTML document. The later style sheets override the earlier ones.
+  - The default style sheet of the browser has the lowest precedence, and is applied only if no other style sheets are present or match the element.
+- CSS also follows a specificity rule, which determines how conflicting style rules with the same precedence are resolved. The specificity of a selector is based on the number and type of components it contains. The order of specificity is as follows:
+  - ID selectors (e.g. `#id`) have the highest specificity, and override any other selectors.
+  - Class selectors (e.g. `.class`) and attribute selectors (e.g. `[attr]`) have the same specificity, and are applied in the order they appear in the style sheet. The later selectors override the earlier ones.
+  - Type selectors (e.g. `p`) and pseudo-elements (e.g. `::before`) have the lowest specificity, and are applied in the order they appear in the style sheet. The later selectors override the earlier ones.
+  - Universal selector (`*`) and combinators (`+`, `>`, `~`, ` `) have no specificity, and are overridden by any other selector.
+- CSS also supports inheritance, which means that some properties are automatically passed from parent elements to child elements. For example, if a `<div>` element has a `color` property set to red, then all the text elements inside the `<div>` will also have the same color, unless they have a different color property specified. Inheritance can be overridden by using the `inherit` value, which forces the element to inherit the property from its parent, or the `initial` value, which forces the element to use the default value of the property.

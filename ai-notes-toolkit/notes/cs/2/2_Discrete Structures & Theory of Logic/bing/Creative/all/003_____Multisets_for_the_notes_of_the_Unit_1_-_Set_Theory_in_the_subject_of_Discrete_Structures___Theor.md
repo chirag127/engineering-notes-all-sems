@@ -1,0 +1,14 @@
+# Multisets
+
+- A multiset is a generalization of the concept of a set that allows for multiple instances of each element. The number of instances of an element is called its multiplicity .
+- A multiset is usually denoted by listing its elements, separated by commas, between curly braces. For example, {a, a, b, c, b} is a multiset with five elements, where a and b have multiplicity 2 and c has multiplicity 1.
+- A multiset can also be represented by a function that maps each element to its multiplicity. For example, the multiset {a, a, b, c, b} can be represented by the function f such that f(a) = 2, f(b) = 2, f(c) = 1, and f(x) = 0 for any other element x.
+- A multiset is said to be finite if it has a finite number of elements, and infinite otherwise. The size of a finite multiset is the sum of the multiplicities of its elements. For example, the size of the multiset {a, a, b, c, b} is 5.
+- Two multisets are equal if they have the same elements with the same multiplicities. For example, {a, a, b, c, b} = {b, a, c, b, a} but {a, a, b, c, b} ≠ {a, b, c, d}.
+- A multiset A is a subset of another multiset B if every element of A has a multiplicity that is less than or equal to the multiplicity of the same element in B. For example, {a, b, b} is a subset of {a, a, b, b, c} but not of {a, b, c}.
+- The union of two multisets A and B is the multiset that contains every element of A and B with the maximum multiplicity of the two multisets. For example, the union of {a, a, b, c} and {a, b, b, d} is {a, a, b, b, c, d}.
+- The intersection of two multisets A and B is the multiset that contains every element of A and B with the minimum multiplicity of the two multisets. For example, the intersection of {a, a, b, c} and {a, b, b, d} is {a, b}.
+- The difference of two multisets A and B is the multiset that contains every element of A with the multiplicity of A minus the multiplicity of B, if positive, and zero otherwise. For example, the difference of {a, a, b, c} and {a, b, b, d} is {a, c}.
+- The symmetric difference of two multisets A and B is the multiset that contains every element of A and B with the absolute value of the difference of their multiplicities. For example, the symmetric difference of {a, a, b, c} and {a, b, b, d} is {a, b, c, d}.
+- The Cartesian product of two multisets A and B is the multiset of all ordered pairs (a, b) where a is an element of A and b is an element of B, with the multiplicity of (a, b) equal to the product of the multiplicities of a and b. For example, the Cartesian product of {a, a, b} and {c, d} is {(a, c), (a, c), (a, d), (a, d), (b, c), (b, d)}.
+- The power multiset of a multiset A is the multiset of all subsets of A, with the multiplicity of a subset equal to the number of ways to form it from A. For example, the power multiset of {a, a, b} is {{}, {a}, {a}, {a, a}, {b}, {a, b}, {a, b}, {a, a, b}}.

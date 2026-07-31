@@ -1,0 +1,5 @@
+# Spontaneous and stimulated emission of radiation
+
+- Spontaneous emission is the process in which an atom or molecule in an excited state decays to a lower energy state and emits a photon of energy without the aid of external agency. This process is random and the emitted photons are incoherent, meaning they have different frequencies, phases, polarizations, and directions of propagation .
+- Stimulated emission is the process in which an atom or molecule in an excited state is induced to emit a photon of energy by interacting with another photon of the same frequency. This process is non-random and the emitted photons are coherent, meaning they have the same frequency, phase, polarization, and direction of propagation as the incident photons  .
+- Spontaneous emission and stimulated emission are the two main mechanisms of light emission in atoms and molecules. They are essential for the operation of lasers, which rely on stimulated emission to amplify light and produce coherent beams. Spontaneous emission is also important for fluorescence and phosphorescence, which are types of luminescence that occur when certain materials absorb and re-emit light.

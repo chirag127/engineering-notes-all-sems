@@ -1,0 +1,13 @@
+### Sequencing and Scheduling in SPM
+
+Sequencing and scheduling are two important aspects of software project management (SPM) that help to organize and execute complex projects. They involve the following steps:
+
+- **Sequencing** is the process of determining the order of tasks or activities that need to be performed in a project. It involves identifying the dependencies, constraints, and priorities among the tasks. Sequencing helps to avoid conflicts, delays, and rework in the project execution.
+- **Scheduling** is the process of assigning resources, such as time, people, and equipment, to the tasks or activities in a project. It involves estimating the duration, effort, and cost of each task, and allocating them to the available resources. Scheduling helps to optimize the use of resources, meet the deadlines, and control the budget of the project.
+
+Some of the techniques and tools that are used for sequencing and scheduling in SPM are:
+
+- **Work breakdown structure (WBS)**: A hierarchical decomposition of the project scope into smaller and manageable units of work, called work packages. Each work package can be further broken down into tasks or activities that are required to complete it. WBS helps to define the scope, sequence, and schedule of the project.
+- **Network diagram**: A graphical representation of the logical relationships and dependencies among the tasks or activities in a project. It shows the sequence, duration, and start and finish dates of each task, as well as the critical path, which is the longest sequence of tasks that determines the minimum time required to complete the project. Network diagram helps to visualize the project flow, identify the risks, and monitor the progress of the project.
+- **Gantt chart**: A bar chart that shows the schedule of the tasks or activities in a project, along with their start and finish dates, durations, and dependencies. It also shows the milestones, which are significant events or deliverables in the project. Gantt chart helps to communicate the project plan, track the status, and compare the actual and planned performance of the project.
+- **Resource histogram**: A graphical representation of the distribution of resources over time in a project. It shows the amount of resources that are required, available, and allocated for each task or activity in a project. Resource histogram helps to identify the resource requirements, availability, and constraints in the project, and to balance the resource allocation and utilization.

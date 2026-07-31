@@ -1,0 +1,23 @@
+# Neural network architecture
+
+Neural network architecture is the design of the structure and components of a neural network, which is a computational system that mimics the biological behavior of the brain. A neural network consists of many interconnected units called artificial neurons that can process information and learn from data. Neural network architecture determines how the neurons are arranged, connected, and activated to perform a specific task.
+
+## Components of a neural network
+
+The main components of a neural network are:
+
+- **Input layer**: This is the first layer of the network that receives the input data, such as images, text, or audio. The input layer has one neuron for each feature or dimension of the input data.
+- **Hidden layers**: These are the intermediate layers of the network that perform feature extraction and transformation on the input data. The hidden layers have a variable number of neurons, depending on the complexity of the task and the network design. The hidden layers can have different types of activation functions, such as sigmoid, tanh, ReLU, or softmax, that determine the output of each neuron based on its input.
+- **Output layer**: This is the last layer of the network that produces the output or prediction, such as a class label, a score, or a probability. The output layer has one neuron for each possible output or class. The output layer can also have different types of activation functions, such as sigmoid, softmax, or linear, that determine the output of each neuron based on its input.
+- **Weights and biases**: These are the parameters of the network that are learned during the training process. Weights are the values that multiply the inputs of each neuron, and biases are the values that are added to the inputs of each neuron. Weights and biases determine how the network learns the relationship between the input and the output data.
+- **Loss function**: This is the function that measures the difference between the actual output and the predicted output of the network. The loss function is used to evaluate the performance of the network and to update the weights and biases during the training process. The loss function can be different depending on the type of task and the output, such as mean squared error, cross-entropy, or hinge loss.
+- **Optimizer**: This is the algorithm that updates the weights and biases of the network based on the loss function and the learning rate. The optimizer determines how the network learns from the data and converges to the optimal solution. The optimizer can be different depending on the type of network and the data, such as gradient descent, stochastic gradient descent, Adam, or RMSprop.
+
+## Types of neural network architectures
+
+There are many types of neural network architectures, depending on the type of task, the type of data, and the network design. Some of the common types of neural network architectures are:
+
+- **Feedforward neural network**: This is the simplest type of neural network, where the information flows from the input layer to the output layer in a forward direction, without any feedback loops or cycles. Feedforward neural networks can be used for tasks such as regression, classification, or function approximation.
+- **Recurrent neural network**: This is a type of neural network that has feedback loops or cycles in the hidden layers, allowing the network to store and process sequential or temporal information. Recurrent neural networks can be used for tasks such as natural language processing, speech recognition, or time series analysis.
+- **Convolutional neural network**: This is a type of neural network that has convolutional layers in the hidden layers, where the neurons are arranged in a grid-like structure and connected to a local region of the input data. Convolutional neural networks can perform feature extraction and detection on spatial or image data, and can be used for tasks such as computer vision, image recognition, or object detection.
+- **Generative adversarial network**: This is a type of neural network that consists of two networks: a generator and a discriminator. The generator tries to generate realistic data that can fool the discriminator, and the discriminator tries to distinguish between real and fake data. Generative adversarial networks can be used for tasks such as image synthesis, image manipulation, or data augmentation.

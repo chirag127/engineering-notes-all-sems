@@ -1,0 +1,21 @@
+### Internet and Resource Reservation Protocols
+
+- Resource Reservation Protocol (RSVP) is a network-control protocol that enables Internet applications to obtain differing qualities of service (QoS) for their data flows    .
+- RSVP operates over IPv4 or IPv6 and provides receiver-initiated setup of resource reservations for multicast or unicast data flows.
+- RSVP is used by hosts to request and reserve resources along a path through the network to support their traffic streams  .
+- RSVP is also used by routers to deliver QoS requests to all nodes along the path(s) of the flows and to establish and maintain state to provide the requested service  .
+- RSVP requests will generally result in resources being reserved in each node along the data path.
+- RSVP is not a routing protocol; it is designed to operate with current and future routing protocols  .
+- RSVP supports the following functions  :
+  - Admission control: A node can use a local decision algorithm to determine whether it has sufficient available resources to satisfy a request.
+  - Classification: A node can use the flow specification and filterspec in the reservation request to determine how to recognize the packets that belong to a particular flow.
+  - Packet scheduling: A node can use the flow specification and filterspec to determine the QoS that has been requested for a particular flow and to provide the appropriate service.
+  - Policy control: A node can use the user identity and the policy data in the reservation request to determine whether the user has administrative permission to make the reservation.
+- RSVP defines two types of messages: PATH and RESV  .
+  - PATH messages are sent by the sender to the receiver along the unicast or multicast routes, carrying information about the sender and the data flow.
+  - RESV messages are sent by the receiver to the sender along the reverse path of the PATH messages, carrying the QoS requirements and the reservation request.
+- RSVP also defines other messages, such as PATHTEAR, RESVTEAR, PATHERR, and RESVERR, to handle error reporting and teardown of reservations  .
+- RSVP can support different service models, such as the integrated services model (IntServ) and the differentiated services model (DiffServ)   .
+  - IntServ uses RSVP to explicitly signal the QoS needs of an application's traffic along the devices in the end-to-end path through the network.
+  - DiffServ uses RSVP to aggregate multiple flows into a single reservation and to map the reservation to a per-hop behavior (PHB) at the edge of the network .
+- RSVP can also interoperate with other protocols, such as Multiprotocol Label Switching (MPLS) and IP Security (IPsec), to provide QoS guarantees for label-switched paths (LSPs) and secure tunnels .

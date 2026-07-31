@@ -1,0 +1,23 @@
+# Concurrency control in distributed transactions
+
+- Concurrency control is the process of managing the concurrent execution of transactions in a distributed database system, such that the ACID properties are preserved .
+- ACID stands for Atomicity, Consistency, Isolation, and Durability, which are the desirable properties of a transaction .
+- A distributed transaction is a transaction that accesses and updates data on multiple data servers that are connected by a network .
+- Concurrency control in distributed transactions is more challenging than in centralized transactions, because of the issues of network communication, data replication, and failure recovery .
+- There are three main approaches to concurrency control in distributed transactions: locking-based, timestamp-based, and optimistic.
+- Locking-based concurrency control protocols use the concept of locking data items to prevent conflicting operations by concurrent transactions .
+- Locking-based protocols can be classified into two-phase locking (2PL), rigorous 2PL, and tree-structured locking (TSL) .
+- 2PL ensures serializability, but not deadlock-freedom or recoverability .
+- Rigorous 2PL ensures serializability, recoverability, and avoids cascading aborts, but not deadlock-freedom .
+- TSL ensures serializability, recoverability, and deadlock-freedom, but requires a hierarchical data structure .
+- Timestamp-based concurrency control algorithms use a transaction’s timestamp to order conflicting operations and ensure serializability .
+- Timestamp-based algorithms can be classified into basic timestamp ordering (BTO), conservative BTO, and multiversion BTO .
+- BTO assigns a global timestamp to each transaction and uses it to determine the precedence of conflicting operations .
+- Conservative BTO assigns a global timestamp to each transaction and uses it to determine the precedence of conflicting operations, but also checks the availability of data items before starting a transaction .
+- Multiversion BTO maintains multiple versions of each data item and assigns a global timestamp to each version and each transaction, and uses them to determine the precedence of conflicting operations and the visibility of data versions .
+- Optimistic concurrency control algorithms assume that conflicts are rare and allow transactions to execute without locking or checking data items, but validate them before committing .
+- Optimistic algorithms can be classified into basic optimistic, optimistic with backward validation, and optimistic with forward validation .
+- Basic optimistic algorithm consists of three phases: read phase, validation phase, and write phase .
+- Optimistic with backward validation algorithm consists of three phases: read phase, validation phase, and write phase, but also checks the read set of a transaction against the write sets of other transactions that committed during its execution .
+- Optimistic with forward validation algorithm consists of three phases: read phase, validation phase, and write phase, but also checks the write set of a transaction against the read sets of other transactions that started during its execution .
+- There are also some specialized concurrency control protocols for distributed transactions, such as 2PC* for multi-microservice environments, and snapshot isolation for replicated databases.

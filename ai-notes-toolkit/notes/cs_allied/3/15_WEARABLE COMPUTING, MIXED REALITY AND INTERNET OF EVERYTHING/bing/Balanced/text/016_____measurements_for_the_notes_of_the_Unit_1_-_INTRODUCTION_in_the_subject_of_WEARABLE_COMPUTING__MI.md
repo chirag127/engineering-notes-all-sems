@@ -1,0 +1,11 @@
+### Measurements for the notes of the Unit 1 - INTRODUCTION in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Wearable computing is the use of devices that can be worn on the body, such as smartwatches, fitness trackers, smart glasses, or virtual reality headsets, to collect and analyse data, provide feedback, or enhance the user's experience  .
+- Mixed reality is the blending of the physical and digital worlds, where virtual objects can interact with real environments, and users can manipulate both through spatial computing. Spatial computing is the ability of devices to sense and map the surrounding space, and project digital content onto it.
+- Internet of Everything (IoE) is a network of connections between people, things, data, and processes that provide general intelligence and improved cognition across the networked environment. IoE encompasses the Internet of Things (IoT), which is the interconnection of devices and sensors that collect and exchange data .
+- Some of the applications of wearable computing, mixed reality, and IoE are:
+  - Health and fitness: Wearable devices can monitor vital signs, activity levels, sleep quality, and other health indicators, and provide feedback or alerts to the user or a medical professional  .
+  - Education and training: Mixed reality devices can create immersive and interactive learning environments, where students can access information, visualize concepts, and practice skills in a realistic and safe way.
+  - Entertainment and gaming: Wearable and mixed reality devices can provide rich and engaging experiences for users, such as watching movies, playing games, or exploring virtual worlds .
+  - Productivity and communication: Wearable and mixed reality devices can enhance the user's ability to multitask, access information, collaborate, and communicate with others, both locally and remotely  .
+  - Security and safety: Wearable and mixed reality devices can help users to identify and avoid potential threats, such as accidents, crimes, or natural disasters, and provide assistance or emergency response when needed  .

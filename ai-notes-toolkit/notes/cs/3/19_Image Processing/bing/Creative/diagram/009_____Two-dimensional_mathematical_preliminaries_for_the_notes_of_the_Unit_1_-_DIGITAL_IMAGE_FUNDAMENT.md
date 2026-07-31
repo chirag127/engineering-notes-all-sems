@@ -1,0 +1,18 @@
+### Two-dimensional mathematical preliminaries for the notes of the Unit 1 - DIGITAL IMAGE FUNDAMENTALS in the subject of Image Processing
+
+- An image is defined as a two-dimensional function, F(x,y), where x and y are spatial coordinates, and the amplitude of F at any pair of coordinates (x,y) is called the intensity or gray level of that image at that point.
+- When x, y, and amplitude values of F are finite, we call it a digital image. A digital image is composed of a finite number of elements, each of which has a particular location and value. These elements are called pixels or picture elements.
+- A digital image can be represented as a matrix of pixel values, where each element of the matrix corresponds to the intensity of the image at a specific spatial location. For example, a binary image can be represented as a matrix of 0s and 1s, where 0 denotes black and 1 denotes white.
+- To process a digital image, we need to apply mathematical operations and transformations to the pixel values. Some of the common operations and transformations are:
+  - Arithmetic operations: These involve adding, subtracting, multiplying, or dividing two or more images or an image and a constant. For example, image subtraction can be used to detect changes between two images.
+  - Logical operations: These involve performing bitwise operations such as AND, OR, XOR, or NOT on two or more images or an image and a mask. For example, image masking can be used to isolate a region of interest from an image.
+  - Geometric transformations: These involve changing the spatial position or orientation of an image or a part of an image. For example, image rotation, scaling, translation, or shearing.
+  - Point processing: This involves mapping each pixel value to a new value based on a function or a lookup table. For example, image contrast enhancement, thresholding, or histogram equalization.
+  - Neighborhood processing: This involves replacing each pixel value with a new value based on the values of its neighboring pixels. For example, image filtering, smoothing, sharpening, or edge detection.
+  - Global processing: This involves analyzing the whole image or a large region of the image to obtain some information or features. For example, image segmentation, feature extraction, or pattern recognition.
+- To analyze and design image processing systems, we need to use some mathematical tools and concepts that can describe the properties and behavior of two-dimensional signals and systems. Some of the important tools and concepts are:
+  - Laplace transform: This is a method of transforming a function of time into a function of a complex variable, which can simplify the analysis of linear systems and differential equations.
+  - Fourier transform: This is a method of transforming a function of time or space into a function of frequency, which can reveal the frequency components and periodicity of a signal.
+  - Z-transform: This is a method of transforming a discrete-time signal into a function of a complex variable, which can simplify the analysis of discrete systems and difference equations.
+  - Cosine transform: This is a method of transforming a real-valued function of time or space into a function of frequency, which can reduce the redundancy and correlation of a signal.
+  - Wavelet transform: This is a method of transforming a function of time or space into a function of scale and position, which can capture the local features and variations of a signal.

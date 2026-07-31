@@ -1,0 +1,22 @@
+# Honey Pots
+
+- A **honeypot** is a **cybersecurity mechanism** that uses a **manufactured attack target** to lure cybercriminals away from legitimate targets, and also gathers intelligence about the identity, methods and motivations of adversaries .
+- A honeypot can be modeled after any digital asset, including software applications, servers or the network itself .
+- Honeypots are typically configured to look like attractive targets to attackers—such as servers running vulnerable versions of operating systems or databases with easy passwords.
+- When attackers exploit the honeypot, their activities are monitored and recorded.
+- Honeypots can be used to **attract, detect, and deflect** cyberattacks, as well as to **collect** data and evidence for forensic analysis .
+- Honeypots can be classified into different types based on their purpose, interaction level, and deployment mode .
+  - **Purpose**: Honeypots can be used for **research** or **production**. Research honeypots are designed to study the behavior and techniques of attackers, while production honeypots are deployed to protect real assets and networks .
+  - **Interaction level**: Honeypots can be **low-interaction** or **high-interaction**. Low-interaction honeypots simulate only the basic services and functions of the target system, while high-interaction honeypots provide a realistic and complex environment for the attackers to interact with .
+  - **Deployment mode**: Honeypots can be **internal** or **external**. Internal honeypots are placed inside the network to detect insider threats or compromised systems, while external honeypots are exposed to the internet to attract external attackers .
+- Honeypots have several advantages and disadvantages in cybersecurity .
+  - **Advantages**:
+    - Honeypots can provide early warning and detection of cyberattacks, as well as valuable insights into the attackers' tactics, techniques and procedures (TTPs) .
+    - Honeypots can divert and distract attackers from the real targets, reducing the risk of data breaches and system damage .
+    - Honeypots can collect forensic evidence and data that can be used for legal prosecution, threat intelligence, or security improvement .
+    - Honeypots can be cost-effective and easy to deploy and maintain, as they do not require complex hardware or software .
+  - **Disadvantages**:
+    - Honeypots can be detected and avoided by sophisticated attackers, or used as a stepping stone to launch further attacks on the network .
+    - Honeypots can pose ethical and legal issues, such as privacy violation, entrapment, or liability .
+    - Honeypots can consume network resources and bandwidth, or cause false positives and alerts .
+    - Honeypots can be vulnerable to attacks themselves, such as denial-of-service (DoS), malware infection, or data tampering .

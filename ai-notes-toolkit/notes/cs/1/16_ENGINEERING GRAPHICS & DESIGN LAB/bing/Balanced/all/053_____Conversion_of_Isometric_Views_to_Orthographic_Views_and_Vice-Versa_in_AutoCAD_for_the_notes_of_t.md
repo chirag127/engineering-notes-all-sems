@@ -1,0 +1,25 @@
+# Conversion of Isometric Views to Orthographic Views and Vice-Versa in AutoCAD
+
+- Isometric views are 2D drawings that show 3D objects with the three principal axes equally inclined to the plane of projection. They are useful for visualizing the shape and dimensions of an object in a single view.
+- Orthographic views are 2D drawings that show 3D objects with the three principal axes perpendicular to the plane of projection. They are useful for showing the details and measurements of an object in multiple views.
+- To convert an isometric view to an orthographic view in AutoCAD, you can use the following steps:
+  - Select the isometric view and use the FLATTEN command to convert it to a 2D drawing.
+  - Use the UCS command to change the user coordinate system to match the orientation of the isometric view.
+  - Use the VIEW command to create a named view of the isometric view.
+  - Use the MVIEW command to create a layout viewport and set the view to the named view created in the previous step.
+  - Use the ALIGNSPACE command to align the layout viewport with the paper space.
+  - Use the MVIEW command again to create another layout viewport and set the view to one of the standard orthographic views, such as Top, Front, or Right.
+  - Use the ALIGNSPACE command again to align the layout viewport with the paper space.
+  - Repeat the last two steps for the other orthographic views as needed.
+  - Use the DIMENSION command to add dimensions to the orthographic views.
+- To convert an orthographic view to an isometric view in AutoCAD, you can use the following steps:
+  - Select the orthographic view and use the SOLPROF command to create a 2D profile of the 3D object.
+  - Use the UCS command to change the user coordinate system to one of the isometric planes, such as ISOPLANE TOP, ISOPLANE LEFT, or ISOPLANE RIGHT.
+  - Use the SNAP command to set the snap style to Isometric.
+  - Use the ISODRAFT button on the status bar to toggle the isometric drafting mode on or off.
+  - Use the COPY command to copy the 2D profile to the isometric plane.
+  - Use the ROTATE command to rotate the 2D profile to the desired angle.
+  - Use the MOVE command to move the 2D profile to the desired position.
+  - Repeat the last three steps for the other 2D profiles as needed.
+  - Use the TRIM command to trim the overlapping lines and create the isometric view.
+  - Use the DIMENSION command to add dimensions to the isometric view.

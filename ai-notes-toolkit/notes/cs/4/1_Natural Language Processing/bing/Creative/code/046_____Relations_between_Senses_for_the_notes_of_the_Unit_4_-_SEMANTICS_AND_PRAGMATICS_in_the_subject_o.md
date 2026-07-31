@@ -1,0 +1,13 @@
+### Relations between Senses
+
+- In natural language processing (NLP), word sense disambiguation (WSD) is the task of determining the meaning of a word in a given context, based on its possible senses .
+- Word senses are the different meanings that a word can have in different situations or domains. For example, the word "bank" can have different senses depending on whether it is used in a financial, geographical, or biological context.
+- Word senses are often related to each other in various ways, such as synonymy, antonymy, hyponymy, hypernymy, meronymy, holonymy, etc. These relations can help to define, contrast, or categorize word senses .
+- Synonymy is the relation between word senses that have the same or very similar meaning. For example, the word senses "happy" and "glad" are synonyms.
+- Antonymy is the relation between word senses that have opposite or contrasting meanings. For example, the word senses "hot" and "cold" are antonyms.
+- Hyponymy is the relation between word senses that denote a specific kind of a more general concept. For example, the word sense "rose" is a hyponym of the word sense "flower".
+- Hypernymy is the inverse of hyponymy, and it is the relation between word senses that denote a more general concept that includes specific kinds. For example, the word sense "flower" is a hypernym of the word sense "rose".
+- Meronymy is the relation between word senses that denote a part of a whole. For example, the word sense "petal" is a meronym of the word sense "flower".
+- Holonymy is the inverse of meronymy, and it is the relation between word senses that denote a whole that consists of parts. For example, the word sense "flower" is a holonym of the word sense "petal".
+- These relations between word senses can help to improve the performance of WSD systems, by providing additional information or constraints on the possible meanings of a word in a context . For example, if a word has two possible senses, one of which is a synonym of another word in the same sentence, and the other is not, then the synonym sense is more likely to be the correct one. Similarly, if a word has two possible senses, one of which is a hyponym of another word in the same sentence, and the other is not, then the hyponym sense is more likely to be the correct one.
+- However, these relations between word senses are not always clear-cut or consistent, and they may vary depending on the level of granularity, the domain, or the perspective of the speaker or the listener. Therefore, WSD systems need to take into account various sources of evidence and knowledge, such as the context, the syntax, the semantics, the pragmatics, the world knowledge, the domain knowledge, etc., to disambiguate word senses accurately and robustly   .

@@ -1,0 +1,11 @@
+### Pooling for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+
+In the field of machine learning, Artificial Neural Networks (ANNs) are a popular type of algorithm that are used for tasks such as image and speech recognition. Pooling is a technique that is commonly used in ANNs for reducing the size of the feature maps that are produced by the convolutional layers. Here are some key points to keep in mind when studying pooling in ANNs:
+
+- Pooling is used to reduce the size of feature maps by performing a downsampling operation. This can help to reduce the computational cost of the neural network and prevent overfitting.
+- There are several types of pooling that can be used in ANNs, including max pooling, average pooling, and L2 pooling. Max pooling is the most commonly used type of pooling and involves taking the maximum value from each pooling window.
+- Pooling is typically performed after the convolutional layers in an ANN. The convolutional layers are responsible for extracting features from the input data, while the pooling layers help to reduce the size of the feature maps.
+- The size of the pooling window is an important parameter that needs to be chosen carefully. A larger pooling window can lead to more aggressive downsampling, but it can also lead to a loss of important information. A smaller pooling window can preserve more information, but it can also increase the computational cost of the neural network.
+- One common mistake when using pooling is to perform too much downsampling. This can cause the neural network to lose important information and make it more difficult to train. It is important to strike a balance between reducing the computational cost of the neural network and preserving important information.
+
+Overall, pooling is a useful technique for reducing the size of feature maps in ANNs. By carefully choosing the size of the pooling window and the type of pooling to use, it is possible to improve the performance of the neural network while keeping the computational cost under control.

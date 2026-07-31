@@ -1,0 +1,24 @@
+### I2C/IIC for the notes of the Unit 3 - HARDWARE COMMUNICATION in the subject of PROGRAMMING AND INTERFACING WITH MICROCONTROLLERS
+
+- I2C or IIC stands for Inter-Integrated Circuit, a serial communication protocol made by Philips Semiconductor (now NXP Semiconductor) in 1982 .
+- It is designed for communication between chips on the same Printed Circuit Board (PCB) or within a short distance .
+- It is a synchronous, multi-master/multi-slave, packet switched, single-ended, serial communication bus.
+- It uses two lines to send and receive data: a serial clock line (SCL) and a serial data line (SDA) .
+- The clock line is controlled by the master device, which initiates and terminates the communication .
+- The data line is used to transfer bits between the master and the slave devices, synchronized by the clock line .
+- Each device on the bus has a unique address, which is used to identify it during the communication .
+- The communication consists of the following steps :
+  - The master sends a start condition, which is a high-to-low transition on the SDA line while the SCL line is high.
+  - The master sends the address of the slave device it wants to communicate with, along with a read/write bit to indicate the direction of the data transfer.
+  - The slave device with the matching address acknowledges the address by pulling the SDA line low for one clock cycle.
+  - The master and the slave exchange data bytes, each followed by an acknowledge bit from the receiver.
+  - The master sends a stop condition, which is a low-to-high transition on the SDA line while the SCL line is high, to end the communication.
+- The advantages of I2C protocol are :
+  - It is simple and easy to implement, requiring only two wires and no additional hardware.
+  - It supports multiple masters and slaves, allowing for flexible and complex communication scenarios.
+  - It is robust and reliable, with built-in error detection and recovery mechanisms.
+  - It is fast and efficient, with a maximum data rate of 3.4 Mbps (in high-speed mode) and a minimum overhead of 2 bits per byte.
+- The disadvantages of I2C protocol are :
+  - It is limited by the length and capacitance of the bus, which affects the signal quality and speed.
+  - It is not suitable for long-distance or noisy environments, as it is susceptible to interference and signal degradation.
+  - It requires a unique address for each device on the bus, which may cause conflicts or limitations if the address space is exhausted or shared by different devices.

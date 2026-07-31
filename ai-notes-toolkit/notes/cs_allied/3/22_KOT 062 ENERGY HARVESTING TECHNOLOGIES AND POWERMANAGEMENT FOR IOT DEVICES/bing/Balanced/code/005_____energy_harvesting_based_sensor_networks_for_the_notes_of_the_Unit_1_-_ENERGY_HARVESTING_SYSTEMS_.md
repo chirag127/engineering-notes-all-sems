@@ -1,0 +1,25 @@
+# Energy Harvesting Based Sensor Networks
+
+- Energy harvesting based sensor networks are wireless sensor networks that use ambient energy sources such as solar, wind, thermal, vibration, etc. to power the sensor nodes and extend their lifetime .
+- Energy harvesting based sensor networks have several advantages over battery-powered sensor networks, such as:
+  - Reduced maintenance cost and environmental impact of replacing batteries.
+  - Increased reliability and availability of sensor nodes.
+  - Enhanced scalability and flexibility of network deployment and expansion.
+  - Improved security and privacy of data transmission and storage.
+- Energy harvesting based sensor networks have several challenges, such as:
+  - Intermittent and unpredictable nature of energy sources.
+  - Trade-off between energy harvesting efficiency and sensor performance.
+  - Coordination and synchronization of sensor nodes with different energy levels and states.
+  - Routing and communication protocols that adapt to dynamic network conditions and energy constraints.
+- Energy harvesting based sensor networks require the following components  :
+  - Energy harvesting unit: A device that converts ambient energy into electrical energy, such as solar cells, piezoelectric generators, thermoelectric generators, etc.
+  - Energy storage unit: A device that stores the harvested energy for later use, such as batteries, capacitors, supercapacitors, etc.
+  - Energy management unit: A device that monitors and controls the energy flow between the energy harvesting unit, the energy storage unit, and the sensor node, such as voltage regulators, power converters, switches, etc.
+  - Sensor node: A device that performs sensing, processing, and communication tasks, such as microcontrollers, sensors, transceivers, etc.
+- Energy harvesting based sensor networks require the following techniques  :
+  - Energy-aware sensing: A technique that adjusts the sensing frequency, resolution, and accuracy according to the available energy and the application requirements.
+  - Energy-aware processing: A technique that optimizes the computation complexity, memory usage, and data compression according to the available energy and the application requirements.
+  - Energy-aware communication: A technique that adapts the transmission power, modulation scheme, coding rate, and packet size according to the available energy and the channel conditions.
+  - Energy-aware routing: A technique that selects the optimal path for data delivery based on the energy level, location, and connectivity of the sensor nodes.
+  - Energy-aware medium access control: A technique that coordinates the access of multiple sensor nodes to the shared wireless channel based on the energy level, traffic load, and collision probability.
+  - Energy-aware cross-layer optimization: A technique that jointly optimizes the performance of multiple layers of the network protocol stack based on the energy level and the application requirements.

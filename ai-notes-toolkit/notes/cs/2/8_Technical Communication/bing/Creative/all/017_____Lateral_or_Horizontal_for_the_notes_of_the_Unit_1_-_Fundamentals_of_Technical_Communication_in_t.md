@@ -1,0 +1,21 @@
+# Lateral or Horizontal Communication
+
+- Lateral or horizontal communication is communication between departments, teams, and individuals of the same level within an organization  .
+- Examples of lateral or horizontal communication are sending a memo to a colleague in finance, emailing your department, or catching up with a teammate over a coffee .
+- Lateral or horizontal communication has some advantages and disadvantages, such as :
+  - Advantages:
+    - It fosters collaboration and coordination among different units or functions.
+    - It enhances problem-solving and decision-making by sharing information and perspectives.
+    - It promotes innovation and creativity by encouraging cross-functional feedback and suggestions.
+    - It builds trust and rapport among co-workers and reduces conflicts and misunderstandings.
+  - Disadvantages:
+    - It can create information overload and confusion if there is too much or irrelevant communication.
+    - It can cause delays and inefficiencies if there is no clear direction or accountability for the communication.
+    - It can undermine the authority and credibility of managers or leaders if there is a lack of alignment or consistency in the communication.
+    - It can lead to duplication of work or resources if there is no coordination or integration of the communication.
+- To improve lateral or horizontal communication, some strategies are :
+  - Use appropriate communication channels and tools that suit the purpose and audience of the communication.
+  - Establish clear goals and expectations for the communication and follow up on the outcomes and feedback.
+  - Respect the diversity and differences of opinions and perspectives among co-workers and seek to understand their needs and interests.
+  - Communicate openly and honestly and avoid hidden agendas or assumptions.
+  - Seek and provide constructive feedback and suggestions and acknowledge and appreciate the contributions of co-workers.

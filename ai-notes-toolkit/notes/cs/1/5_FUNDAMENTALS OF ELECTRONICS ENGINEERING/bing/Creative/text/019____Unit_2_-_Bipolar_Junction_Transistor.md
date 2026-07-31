@@ -1,0 +1,26 @@
+## Unit 2 - Bipolar Junction Transistor
+
+- A bipolar junction transistor (BJT) is a type of transistor that uses both electrons and holes as charge carriers.
+- A transistor is a device that can amplify or switch electrical signals by controlling the flow of current or voltage between two terminals.
+- A BJT has three terminals: the emitter (E), the base (B), and the collector (C)  .
+- The emitter is the terminal that supplies the majority charge carriers (electrons for npn and holes for pnp) to the base  .
+- The base is the terminal that controls the amount of current flowing from the emitter to the collector  .
+- The collector is the terminal that collects the charge carriers from the emitter through the base  .
+- A BJT can be either npn or pnp, depending on the arrangement of the p-type and n-type semiconductor layers  .
+- An npn BJT has a thin p-type layer sandwiched between two n-type layers, while a pnp BJT has a thin n-type layer sandwiched between two p-type layers  .
+- The operation of a BJT depends on the biasing of the two pn junctions: the emitter-base junction and the collector-base junction  .
+- Biasing means applying a voltage across a pn junction to control the flow of current  .
+- The emitter-base junction is always forward biased, meaning that the voltage applied across it is in the same direction as the majority charge carriers  .
+- The collector-base junction is usually reverse biased, meaning that the voltage applied across it is in the opposite direction as the majority charge carriers  .
+- The forward bias of the emitter-base junction allows a small current (called the base current, I_B) to flow from the base to the emitter  .
+- The reverse bias of the collector-base junction creates a large electric field that attracts the majority charge carriers from the emitter to the collector  .
+- The current that flows from the emitter to the collector (called the collector current, I_C) is much larger than the base current, because most of the charge carriers injected by the emitter reach the collector  .
+- The ratio of the collector current to the base current is called the current gain (β) of the BJT  .
+- The current gain is a measure of how much the BJT can amplify the input signal  .
+- The BJT can be used as a switch or an amplifier, depending on the mode of operation  .
+- The mode of operation is determined by the voltage applied between the base and the emitter (V_BE) and the voltage applied between the collector and the emitter (V_CE)  .
+- There are three main modes of operation: cut-off, active, and saturation  .
+- In the cut-off mode, the base-emitter voltage is below the threshold voltage (V_BE < V_th), and no current flows in the BJT  .
+- In the active mode, the base-emitter voltage is above the threshold voltage (V_BE > V_th), and the collector-emitter voltage is high enough to keep the collector-base junction reverse biased (V_CE > V_CB)  .
+- In the saturation mode, the base-emitter voltage is above the threshold voltage (V_BE > V_th), and the collector-emitter voltage is low enough to make the collector-base junction forward biased (V_CE < V_CB)  .
+-

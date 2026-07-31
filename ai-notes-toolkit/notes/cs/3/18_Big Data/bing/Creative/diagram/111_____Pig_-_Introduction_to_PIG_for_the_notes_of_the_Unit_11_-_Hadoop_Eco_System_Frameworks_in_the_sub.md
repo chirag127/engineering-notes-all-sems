@@ -1,0 +1,10 @@
+### Pig - Introduction to PIG
+
+- Pig is a high-level scripting language that allows users to write complex data analysis programs for large-scale data sets.
+- Pig is part of the Hadoop ecosystem, which is a framework for distributed processing of big data using a cluster of computers.
+- Pig can run on top of Hadoop, which provides the storage and computation layers, or on other platforms that support the Hadoop Distributed File System (HDFS) and MapReduce, such as Apache Spark or Apache Tez.
+- Pig consists of two components: Pig Latin and Pig Engine.
+  - Pig Latin is the language that users write their scripts in. It is a declarative language that resembles SQL, but with more flexibility and expressiveness. Pig Latin supports various data types, such as tuples, bags, maps, and complex nested structures. Pig Latin also provides many built-in operators and functions for data manipulation, such as filtering, grouping, joining, sorting, aggregating, and transforming.
+  - Pig Engine is the component that executes the Pig Latin scripts. It translates the scripts into a series of MapReduce jobs or other execution plans, and runs them on the underlying platform. Pig Engine optimizes the execution by applying various techniques, such as logical and physical optimizations, parallelization, and caching.
+- Pig is designed to handle both structured and unstructured data, and to support various data formats, such as text, binary, JSON, XML, and Avro. Pig can also interact with external data sources and sinks, such as relational databases, NoSQL databases, and web services, using user-defined functions (UDFs) and load/store functions.
+- Pig is suitable for various data analysis tasks, such as data cleansing, data integration, data extraction, data transformation, data summarization, and data mining. Pig can also be used for exploratory data analysis, as it allows users to quickly and easily write and test their scripts interactively using the Grunt shell or the Pig web interface.

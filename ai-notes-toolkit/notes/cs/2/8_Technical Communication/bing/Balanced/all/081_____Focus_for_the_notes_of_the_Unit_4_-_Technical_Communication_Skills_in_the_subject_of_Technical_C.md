@@ -1,0 +1,23 @@
+# Focus for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication
+
+- The unit covers the following topics:
+  - Technical writing process
+  - Technical writing style
+  - Technical writing formats
+  - Technical writing ethics
+- The main focus for the notes should be on:
+  - Understanding the purpose, audience, and context of technical communication
+  - Applying the principles of clarity, conciseness, coherence, and correctness to technical writing
+  - Using appropriate tone, voice, and level of formality for technical writing
+  - Organizing and structuring technical documents logically and effectively
+  - Choosing and using suitable visual aids, such as graphs, tables, charts, and diagrams, to enhance technical writing
+  - Following the conventions and standards of technical writing formats, such as memos, letters, reports, proposals, and manuals
+  - Avoiding plagiarism, fabrication, falsification, and misrepresentation in technical writing
+  - Citing and referencing sources correctly and consistently in technical writing
+  - Evaluating and revising technical writing for quality and improvement
+- The notes should include:
+  - Definitions and examples of technical writing terms and concepts
+  - Guidelines and tips for technical writing process, style, and formats
+  - Exercises and activities to practice and apply technical writing skills
+  - Sample technical documents to illustrate and analyze technical writing features
+  - Self-assessment and feedback tools to monitor and improve technical writing performance

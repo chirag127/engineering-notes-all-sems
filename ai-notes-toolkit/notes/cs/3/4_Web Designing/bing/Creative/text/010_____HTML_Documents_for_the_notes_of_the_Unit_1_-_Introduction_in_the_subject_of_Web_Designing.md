@@ -1,0 +1,10 @@
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have asked me to write the content in markdown format on the topic of HTML Documents for the notes of the Unit 1 - Introduction in the subject of Web Designing. Here is the content I have generated for you:
+
+### HTML Documents
+
+- HTML stands for HyperText Markup Language, which is the standard language for creating web pages and web applications.
+- HTML documents are composed of elements, which are the building blocks of web pages. Elements are defined by tags, which are enclosed in angle brackets (< and >).
+- HTML documents have a structure that consists of a head and a body. The head contains information about the document, such as the title, meta data, links to stylesheets and scripts, etc. The body contains the actual content of the document, such as text, images, links, forms, etc.
+- HTML documents can be linked to each other using hyperlinks, which are elements that have an attribute called href, which specifies the URL of the destination document. Hyperlinks can also link to other resources, such as images, videos, audio, etc.
+- HTML documents can be styled using CSS (Cascading Style Sheets), which is a language that defines how HTML elements should look and behave. CSS can be embedded in the head of an HTML document, linked from an external file, or applied inline to individual elements using the style attribute.
+- HTML documents can be made interactive and dynamic using JavaScript, which is a scripting language that can manipulate the HTML elements and respond to user events. JavaScript can be embedded in the head or the body of an HTML document, linked from an external file, or applied inline to individual elements using the onclick attribute or other event attributes.

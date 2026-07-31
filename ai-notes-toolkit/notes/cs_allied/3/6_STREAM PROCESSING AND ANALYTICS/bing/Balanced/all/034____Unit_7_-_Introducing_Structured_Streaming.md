@@ -1,0 +1,29 @@
+# Unit 7 - Introducing Structured Streaming
+
+- Structured Streaming is a high-level API for building scalable and fault-tolerant streaming applications using Spark SQL.
+- Structured Streaming allows you to express your streaming computation as a batch-like query on a table that is continuously updated with new data.
+- Structured Streaming provides the following benefits:
+  - Consistency: The results of the streaming query are always equivalent to the results of the same query executed on a static table.
+  - Simplicity: You can use the same familiar DataFrame and Dataset APIs, SQL queries, and built-in functions to write streaming applications.
+  - Interoperability: You can easily integrate streaming and batch data sources, sinks, and queries in your application.
+  - Scalability: You can scale your streaming application from a few records per second to millions of records per second with minimal code changes.
+  - Fault-tolerance: You can handle failures and data loss automatically with the help of Spark's underlying execution engine and checkpointing mechanism.
+- Structured Streaming supports the following types of streaming sources and sinks:
+  - File source and sink: You can read and write streaming data from and to files in various formats, such as CSV, JSON, Parquet, etc.
+  - Kafka source and sink: You can read and write streaming data from and to Kafka topics.
+  - Socket source and sink: You can read and write streaming data from and to TCP sockets.
+  - Rate source: You can generate streaming data at a specified rate for testing purposes.
+  - Memory sink: You can write streaming data to an in-memory table for debugging purposes.
+- Structured Streaming supports the following types of streaming queries:
+  - Append mode: You can append only new records to the result table as they arrive.
+  - Complete mode: You can update the entire result table with the latest values for each key as they arrive.
+  - Update mode: You can update only the rows in the result table that have changed since the last trigger as they arrive.
+- Structured Streaming supports the following types of triggers for controlling the frequency of streaming query execution:
+  - Default trigger: The query will run as fast as possible, processing new data as soon as they arrive.
+  - Processing time trigger: The query will run at a fixed interval, processing all the available data at each interval.
+  - Once trigger: The query will run only once, processing all the available data at that point.
+  - Continuous trigger: The query will run continuously, processing new data as soon as they are ingested. This is an experimental feature that requires enabling the spark.sql.streaming.continuousProcessingEnabled configuration.
+- Structured Streaming supports the following types of output modes for controlling the behavior of streaming sinks:
+  - Append output mode: The sink will append only new records to the output as they arrive. This is the default output mode for most sinks.
+  - Complete output mode: The sink will overwrite the entire output with the latest values for each key as they arrive. This output mode is supported only for memory and console sinks.
+  - Update output mode: The sink will update only the rows in the output that have changed since the last trigger as they arrive. This output mode is supported only for memory, console, and Kafka sinks.

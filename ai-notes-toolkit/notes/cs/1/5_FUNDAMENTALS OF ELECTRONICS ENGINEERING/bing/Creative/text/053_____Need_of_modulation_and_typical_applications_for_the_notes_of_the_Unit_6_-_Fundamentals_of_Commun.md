@@ -1,0 +1,14 @@
+### Need of Modulation and Typical Applications
+
+Modulation is the process of changing one or more properties of a carrier wave, such as its amplitude, frequency or phase, in accordance with the information contained in the message signal. Modulation is essential for various reasons, such as:
+
+- To increase the range and quality of communication: Modulation enables the transmission of low-frequency message signals over long distances by using high-frequency carrier waves, which have less attenuation and interference. Modulation also improves the signal-to-noise ratio and reduces the distortion of the message signal.  
+- To multiplex multiple signals: Modulation allows the transmission of multiple message signals over the same channel by using different carrier frequencies, which can be separated at the receiver using filters. This increases the efficiency and capacity of the communication system. 
+- To adapt to the characteristics of the channel: Modulation allows the adjustment of the bandwidth, power and frequency of the transmitted signal according to the requirements and limitations of the channel, such as the antenna size, the available spectrum and the regulatory norms. 
+
+Some of the typical applications of modulation are:
+
+- Radio broadcasting: Modulation is used to transmit audio signals, such as music and speech, over radio waves, which can be received by radio receivers. Different types of modulation, such as amplitude modulation (AM) and frequency modulation (FM), are used for different radio stations and services. 
+- Television broadcasting: Modulation is used to transmit video and audio signals, such as images and sounds, over television waves, which can be received by television sets. Different types of modulation, such as vestigial sideband modulation (VSB) and quadrature amplitude modulation (QAM), are used for different television channels and standards. 
+- Mobile communication: Modulation is used to transmit voice and data signals, such as calls and messages, over cellular networks, which can be received by mobile phones. Different types of modulation, such as phase shift keying (PSK), frequency shift keying (FSK) and orthogonal frequency division multiplexing (OFDM), are used for different mobile technologies and generations. 
+- Satellite communication: Modulation is used to transmit signals, such as telemetry, navigation and remote sensing, over satellite links, which can be received by satellite receivers. Different types of modulation, such as pulse code modulation (PCM), binary phase shift keying (BPSK) and quadrature phase shift keying (QPSK), are used for different satellite applications and systems.

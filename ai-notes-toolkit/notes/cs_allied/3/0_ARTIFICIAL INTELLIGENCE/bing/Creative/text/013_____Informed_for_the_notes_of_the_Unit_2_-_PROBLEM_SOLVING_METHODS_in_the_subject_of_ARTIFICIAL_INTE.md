@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes for the Unit 2 - PROBLEM SOLVING METHODS in the subject of ARTIFICIAL INTELLIGENCE KCS. Here is the content I have generated for you:
+
+### Informed Search
+- Informed search is a type of search strategy that uses additional information or heuristics to guide the search process towards the goal state.
+- Heuristics are functions that estimate the cost or distance from a given state to the goal state, based on some domain knowledge or intuition.
+- Informed search algorithms are more efficient and effective than uninformed search algorithms, as they can avoid exploring irrelevant or suboptimal paths.
+- Some examples of informed search algorithms are:
+  - Greedy best-first search: This algorithm selects the node that has the lowest heuristic value, i.e., the node that is closest to the goal according to the heuristic function. It is not optimal, as it can get stuck in local minima or dead ends.
+  - A* search: This algorithm combines the heuristic value and the actual cost of reaching a node, i.e., it selects the node that has the lowest value of f(n) = g(n) + h(n), where g(n) is the cost of reaching the node from the start state, and h(n) is the heuristic value of the node. It is optimal and complete, if the heuristic function is admissible and consistent, i.e., it never overestimates the actual cost to the goal, and it is monotonic, i.e., it does not increase along any path.
+  - Iterative deepening A* search: This algorithm is a variation of A* search that uses a threshold value to limit the search depth. It starts with a low threshold and gradually increases it until the goal is found or the search space is exhausted. It is optimal and complete, and it uses less memory than A* search, as it does not store the entire search tree in memory.
+  - Recursive best-first search: This algorithm is another variation of A* search that uses a recursive structure to explore the search space. It keeps track of the best alternative path for each node, and backtracks when the current path exceeds the best alternative. It is optimal and complete, and it uses less memory than A* search, but it can be inefficient due to repeated node expansions.

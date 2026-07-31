@@ -1,0 +1,11 @@
+#### Spanning Tree Algorithms in Local Area Network
+
+- Spanning tree algorithms are used to prevent loops in a network topology that uses bridges or switches to connect multiple segments of a local area network (LAN).
+- Loops can cause problems such as broadcast storms, multiple frame copies, and MAC address table instability.
+- Spanning tree algorithms work by creating a logical tree structure of the network, where only one path exists between any two nodes. This path is called the spanning tree.
+- The spanning tree is determined by electing a root bridge, which is the switch with the lowest bridge ID. The bridge ID consists of a priority value and a MAC address. The default priority value is 32768 and can be changed by the network administrator.
+- The root bridge sends out special frames called bridge protocol data units (BPDUs) to announce its presence and status to other switches. The BPDUs contain information such as the root bridge ID, the sender bridge ID, the cost to reach the root bridge, and the port ID.
+- The other switches receive the BPDUs and compare them to their own information. They update their root bridge, root port, and designated port information accordingly. The root port is the port that has the lowest cost to reach the root bridge. The designated port is the port that has the lowest cost to reach a segment. The cost is based on the bandwidth of the link.
+- The switches forward the BPDUs to their other ports, except for the root port and the blocked ports. The blocked ports are the ports that are not part of the spanning tree and are disabled to prevent loops.
+- The spanning tree algorithm runs continuously to detect any changes in the network topology, such as link failures, new switches, or configuration changes. If a change occurs, the switches exchange BPDUs and recalculate the spanning tree.
+- There are different versions of spanning tree protocols, such as the original IEEE 802.1D standard, the Rapid Spanning Tree Protocol (RSTP), the Multiple Spanning Tree Protocol (MSTP), and the Cisco proprietary Per-VLAN Spanning Tree Protocol (PVST+). They differ in terms of speed, efficiency, and scalability.

@@ -1,0 +1,12 @@
+# On Scene Activities for the Notes of the Unit 4 - Evidence Management in the Subject of Cyber Forensic Analytics
+
+- On scene activities are the actions and procedures that a cyber forensic analyst performs at the location where a cyber incident or a cybercrime has occurred or is suspected to have occurred.
+- On scene activities are crucial for preserving, collecting, and documenting digital evidence that can be used for further analysis, investigation, or prosecution.
+- On scene activities include the following steps   :
+
+  - **Securing the scene**: This involves establishing a perimeter, controlling access, and ensuring safety for the personnel and the evidence. The analyst should also document the initial condition of the scene, such as the layout, the devices, the connections, and the environmental factors.
+  - **Identifying potential sources of evidence**: This involves locating and examining any digital devices or media that may contain relevant data, such as computers, smartphones, tablets, routers, servers, storage devices, cameras, etc. The analyst should also identify any network or cloud services that may be involved, such as email accounts, social media platforms, online storage, etc.
+  - **Collecting and preserving evidence**: This involves following a systematic and documented process to acquire and protect the data from the identified sources, while minimizing any alteration or damage. The analyst should use appropriate tools and techniques, such as write blockers, imaging software, hashing algorithms, etc. to create a forensically sound copy of the data. The analyst should also label, package, and transport the evidence securely and maintain a chain of custody record.
+  - **Documenting the scene and the evidence**: This involves creating a detailed and accurate report of the on scene activities, including the date, time, location, personnel, actions, observations, findings, and recommendations. The analyst should also take photographs, sketches, notes, and logs to support the report and the evidence.
+
+- On scene activities are essential for ensuring the integrity, reliability, and admissibility of the digital evidence, as well as for facilitating the subsequent stages of the cyber forensic process, such as analysis, interpretation, and presentation.

@@ -1,0 +1,9 @@
+##### 1. Verification of Kirchhoff’s laws
+
+Kirchhoff's laws are two equalities that deal with the current and potential difference (commonly known as voltage) in the lumped element model of electrical circuits. They were first described in 1845 by German physicist Gustav Kirchhoff. These laws are used to determine the values of the current and voltage in an electrical circuit.
+
+- **Kirchhoff's Current Law (KCL)**: This law is also known as Kirchhoff's first law, Kirchhoff's point rule, or Kirchhoff's junction rule. It states that, for any node (junction) in an electrical circuit, the sum of currents flowing into that node is equal to the sum of currents flowing out of that node. Mathematically, the algebraic sum of currents in a network of conductors meeting at a point is zero.
+
+- **Kirchhoff's Voltage Law (KVL)**: This law is also known as Kirchhoff's second law, Kirchhoff's loop (or mesh) rule, and Kirchhoff's second rule. It states that the directed sum of the potential differences (voltages) around any closed network is zero. Mathematically, the algebraic sum of the products of the resistances of the conductors and the currents in them in a closed loop is equal to the total emf available in that loop.
+
+Verification of Kirchhoff’s laws can be done by setting up a circuit and measuring the current and voltage at different points in the circuit. The measured values can then be compared to the values predicted by Kirchhoff’s laws to verify their accuracy. This can be done using a multimeter to measure the current and voltage, and a known resistance to calculate the current using Ohm’s law. The experiment can be repeated with different circuit configurations to further verify the accuracy of Kirchhoff’s laws.

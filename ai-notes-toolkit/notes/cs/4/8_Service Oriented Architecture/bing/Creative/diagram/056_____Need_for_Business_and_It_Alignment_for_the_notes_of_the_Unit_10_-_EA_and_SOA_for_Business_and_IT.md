@@ -1,0 +1,32 @@
+### Need for Business and IT Alignment
+
+- Business and IT alignment (B/I alignment) is a process in which a business organization uses information technology (IT) to achieve business objectives, such as improved financial performance or marketplace competitiveness.
+- B/I alignment integrates information technology into the strategy, mission, and goals of the organization.
+- B/I alignment helps ensure that the organization gets the right technology at the right time so it can meet its key performance indicators and reach its business transformation goals and objectives.
+- B/I alignment is important because it can:
+  - Enhance the value of IT investments and services.
+  - Reduce the risks and costs of IT failures and inefficiencies.
+  - Increase the agility and responsiveness of the organization to changing customer needs and market opportunities.
+  - Foster a culture of collaboration and innovation between IT and business teams.
+- B/I alignment can be achieved by:
+  - Aligning the IT strategy with the business strategy and vision.
+  - Establishing clear and measurable IT objectives and outcomes that support the business objectives and outcomes.
+  - Communicating and collaborating effectively across IT and business functions and levels.
+  - Developing and maintaining a shared understanding of the business processes, data, and systems.
+  - Adopting and adapting best practices and frameworks for IT governance, service management, and project management.
+  - Evaluating and improving the IT performance and value on a regular basis.
+- B/I alignment can be challenged by:
+  - The complexity and diversity of IT systems and services.
+  - The rapid pace and uncertainty of technological changes and innovations.
+  - The different languages, cultures, and perspectives of IT and business stakeholders.
+  - The conflicting priorities, expectations, and demands of IT and business functions.
+  - The lack of resources, skills, and capabilities to align IT and business.
+- B/I alignment can be facilitated by:
+  - Enterprise architecture (EA), which is a discipline and a set of tools that help to design, plan, implement, and govern the IT systems and services that support the business processes and goals.
+  - Service-oriented architecture (SOA), which is a style and a set of principles that guide the development and integration of IT systems and services that are loosely coupled, reusable, interoperable, and aligned with the business processes and goals.
+  - EA and SOA can work together to enable B/I alignment by:
+    - Providing a holistic and consistent view of the current and future state of the IT and business landscape.
+    - Identifying the gaps and opportunities for improving the IT and business alignment.
+    - Defining the standards, policies, and guidelines for designing, developing, and delivering IT systems and services that meet the business requirements and expectations.
+    - Facilitating the communication and collaboration among IT and business stakeholders.
+    - Supporting the governance and management of IT systems and services throughout their lifecycle.

@@ -1,0 +1,27 @@
+### Mobile IP
+
+- Mobile IP is a protocol that allows mobile devices to maintain their IP address and connectivity across different networks.
+- Mobile IP is based on the concept of a home network, where the mobile device has a permanent IP address, and a foreign network, where the mobile device visits temporarily and obtains a temporary IP address.
+- Mobile IP uses three main components: a home agent, a foreign agent, and a mobile node.
+- A home agent is a router on the home network that keeps track of the mobile node's location and forwards packets to and from the mobile node.
+- A foreign agent is a router on the foreign network that provides services to the mobile node, such as assigning a temporary IP address and relaying packets to and from the home agent.
+- A mobile node is the device that moves across networks and uses Mobile IP to maintain its IP address and connectivity.
+- Mobile IP works as follows:
+  - When the mobile node is on its home network, it communicates directly with other nodes using its permanent IP address.
+  - When the mobile node moves to a foreign network, it obtains a temporary IP address from the foreign agent and registers its new location with the home agent.
+  - The home agent creates a binding between the permanent IP address and the temporary IP address of the mobile node and updates a binding cache.
+  - When a node on the Internet wants to communicate with the mobile node, it sends packets to the permanent IP address of the mobile node.
+  - The home agent intercepts the packets and encapsulates them with the temporary IP address of the mobile node as the destination address. This process is called tunneling.
+  - The home agent sends the encapsulated packets to the foreign agent, which decapsulates them and delivers them to the mobile node.
+  - When the mobile node wants to communicate with a node on the Internet, it sends packets to the foreign agent, which encapsulates them with the permanent IP address of the mobile node as the source address and forwards them to the home agent.
+  - The home agent decapsulates the packets and sends them to the destination node on the Internet.
+  - When the mobile node moves to another foreign network, it repeats the same process of obtaining a new temporary IP address and registering with the home agent.
+  - The home agent updates the binding cache and forwards the packets to the new foreign agent.
+- Mobile IP has several advantages, such as:
+  - It preserves the IP address and connectivity of the mobile node across different networks, which enables seamless mobility and session continuity.
+  - It is compatible with existing IP networks and applications, as it does not require any changes to the nodes on the Internet or the mobile node.
+  - It supports security and authentication mechanisms, such as IPsec, to protect the communication between the mobile node and the home agent.
+- Mobile IP also has some limitations, such as:
+  - It introduces additional overhead and latency due to the encapsulation and decapsulation of packets and the registration process.
+  - It may cause suboptimal routing and increased network congestion, as the packets have to travel through the home agent and the foreign agent, which may not be the shortest path.
+  - It may not work well with some network protocols and applications that rely on the IP address of the mobile node, such as TCP and DNS.

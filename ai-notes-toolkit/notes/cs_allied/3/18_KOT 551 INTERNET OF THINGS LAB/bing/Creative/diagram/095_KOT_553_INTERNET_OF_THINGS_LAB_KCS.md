@@ -1,0 +1,25 @@
+# KOT 553 INTERNET OF THINGS LAB KCS
+
+- Internet of Things (IoT) is the network of physical objects or devices that are embedded with sensors, software, and other technologies to connect and exchange data with other devices and systems over the internet.
+- IoT Lab is a course that aims to provide students with hands-on experience in designing, developing, and testing IoT applications using various hardware and software platforms.
+- The course covers the following topics:
+  - Introduction to IoT and its applications
+  - IoT architecture and protocols
+  - IoT devices and sensors
+  - IoT platforms and cloud services
+  - IoT data analytics and visualization
+  - IoT security and privacy
+- The course consists of lectures, lab sessions, assignments, and projects.
+- The course is offered by the Department of Computer Science and Engineering at Dr. A.P.J. Abdul Kalam Technical University (AKTU) as an elective subject for the third year students.
+- The course code is KOT 553 and the course name is Internet of Things Lab KCS.
+- The course has a credit of 2 and a duration of 15 weeks.
+- The course is evaluated based on the following criteria:
+  - Lab performance: 30%
+  - Lab record: 20%
+  - Assignments: 20%
+  - Project: 30%
+- The course outcomes are as follows:
+  - Students will be able to understand the concepts and principles of IoT and its applications.
+  - Students will be able to design and implement IoT solutions using various hardware and software platforms.
+  - Students will be able to analyze and visualize IoT data using appropriate tools and techniques.
+  - Students will be able to identify and address the security and privacy issues in IoT systems.

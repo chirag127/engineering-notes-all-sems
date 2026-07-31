@@ -1,0 +1,28 @@
+### Scheduling Systems for the notes of the Unit 2 - OPEN SOURCE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- A scheduling system is a mechanism that determines which task or process should run on a processor at a given time, based on some criteria and constraints.
+- A real-time operating system (RTOS) is an operating system that guarantees a certain level of performance and responsiveness for time-critical applications.
+- An open source RTOS is a RTOS that is freely available and can be modified and distributed by anyone, subject to the terms of its license.
+- Some of the most popular open source RTOSes are FreeRTOS, Zephyr, RIOT, and NuttX.
+- Some of the factors that affect the choice of a scheduling system for an open source RTOS are:
+  - The type of tasks or processes: periodic, aperiodic, or sporadic.
+  - The timing requirements: hard, firm, or soft real-time.
+  - The resource constraints: memory, power, or CPU utilization.
+  - The system architecture: single-core, multi-core, or distributed.
+  - The application domain: automotive, aerospace, industrial, or IoT.
+- Some commonly used RTOS scheduling algorithms are:
+  - Cooperative scheduling: tasks voluntarily yield the processor to other tasks when they are idle or waiting for an event.
+  - Preemptive scheduling: tasks can be interrupted and replaced by higher priority tasks at any time.
+  - Rate-monotonic scheduling: tasks are assigned fixed priorities based on their periods, with shorter periods having higher priorities.
+  - Round-robin scheduling: tasks with equal priorities are executed in a circular order, with each task getting a fixed time slice.
+  - Fixed priority pre-emptive scheduling: tasks are assigned fixed priorities and preempted by higher priority tasks, but can also use time slicing within each priority level.
+  - Fixed-Priority Scheduling with Deferred Preemption: tasks are assigned fixed priorities and preempted by higher priority tasks, but can defer preemption until they reach a preemption point.
+  - Fixed-Priority Non-preemptive Scheduling: tasks are assigned fixed priorities and executed until completion, without being preempted by higher priority tasks.
+- The advantages and disadvantages of each scheduling algorithm depend on the characteristics and requirements of the system and the application. Some general trade-offs are:
+  - Cooperative scheduling is simple and easy to implement, but can cause long delays and missed deadlines if tasks do not yield the processor frequently or appropriately.
+  - Preemptive scheduling is responsive and can handle dynamic and unpredictable events, but can cause high overhead and complexity due to context switching and synchronization.
+  - Rate-monotonic scheduling is optimal for periodic tasks with hard real-time constraints, but can suffer from priority inversion and resource contention.
+  - Round-robin scheduling is fair and balanced for tasks with equal priorities, but can cause poor performance and jitter for tasks with different priorities or periods.
+  - Fixed priority pre-emptive scheduling is flexible and widely used, but can be difficult to analyze and verify for schedulability and correctness.
+  - Fixed-Priority Scheduling with Deferred Preemption can reduce the preemption overhead and improve the resource utilization, but can increase the blocking time and the response time of lower priority tasks.
+  - Fixed-Priority Non-preemptive Scheduling can eliminate the preemption overhead and the priority inversion problem, but can cause long delays and missed deadlines for higher priority tasks.

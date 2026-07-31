@@ -1,0 +1,11 @@
+### Photo Diodes
+- A photodiode is a light-sensitive semiconductor diode that produces current when it absorbs photons.
+- The package of a photodiode allows light (or infrared or ultraviolet radiation, or X-rays) to reach the sensitive part of the device.
+- A photodiode is designed to operate in reverse bias.
+- A solar cell used to generate electric solar power is a large area photodiode.
+- Photodiodes are used in scientific and industrial instruments to measure light intensity, either for its own sake or as a measure of some other property (density of smoke, for example).
+- The photodiode is a semiconductor device that has a nearly linear relationship of current to received optical power.
+- The easiest way to think of the photodiode is just as a current source, where the current amplitude is a linear function of optical power incident on the photodiode.
+- Photodiodes cover a broad spectral range, from near-infrared and ultraviolet wavelengths to high-energy regions.
+- Photodiodes are available in metal, ceramic, and plastic packages, as well as module types.
+- Custom designs are also available.

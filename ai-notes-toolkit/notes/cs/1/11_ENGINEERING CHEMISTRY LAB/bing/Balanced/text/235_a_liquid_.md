@@ -1,0 +1,7 @@
+# A liquid
+
+- A liquid is one of the four states of matter, along with solid, gas, and plasma.
+- A liquid is a fluid that has a definite volume but no fixed shape. It can flow and take the shape of its container, but it cannot be compressed easily.
+- A liquid is composed of molecules that are loosely bound by intermolecular forces, such as hydrogen bonds or van der Waals forces. These forces are weaker than the intramolecular forces that hold the molecules together in a solid, but stronger than the forces that separate the molecules in a gas.
+- A liquid can change its state to a solid by freezing, or to a gas by boiling or evaporating. The temperature at which a liquid freezes or boils depends on the type and amount of molecules in the liquid, as well as the external pressure.
+- A liquid has some properties that are common to all fluids, such as viscosity, surface tension, and capillarity. Viscosity is a measure of how much a liquid resists flowing. Surface tension is a force that acts on the surface of a liquid, making it behave like a thin elastic membrane. Capillarity is the ability of a liquid to rise or fall in a narrow tube due to the interaction of the liquid molecules with the tube walls and the surface tension of the liquid.

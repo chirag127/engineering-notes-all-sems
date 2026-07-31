@@ -1,0 +1,9 @@
+## Unit 2 - Creating Entity-Relationship Diagram using case tools
+
+- An entity-relationship diagram (ERD) is a graphical representation of the data and relationships in a database system.
+- A case tool is a software application that supports the analysis, design, implementation, and maintenance of a software system.
+- Creating an ERD using a case tool involves the following steps:
+  - Identify the entities and attributes in the system. Entities are the objects or concepts that store data, such as customers, products, orders, etc. Attributes are the properties or characteristics of entities, such as name, price, quantity, etc.
+  - Identify the relationships and cardinalities between the entities. Relationships are the associations or interactions between entities, such as customer places order, product belongs to category, etc. Cardinalities are the number of occurrences of one entity that can be related to another entity, such as one-to-one, one-to-many, many-to-many, etc.
+  - Draw the ERD using the case tool. The case tool provides various symbols and notations to represent the entities, attributes, relationships, and cardinalities in the ERD. For example, a rectangle represents an entity, an oval represents an attribute, a diamond represents a relationship, and a line with a crow's foot represents a one-to-many cardinality.
+  - Validate and refine the ERD using the case tool. The case tool allows the user to check the accuracy and completeness of the ERD, and to make changes or corrections as needed. The case tool may also provide features such as generating SQL scripts, reverse engineering, documentation, etc. to support the implementation and maintenance of the database system.

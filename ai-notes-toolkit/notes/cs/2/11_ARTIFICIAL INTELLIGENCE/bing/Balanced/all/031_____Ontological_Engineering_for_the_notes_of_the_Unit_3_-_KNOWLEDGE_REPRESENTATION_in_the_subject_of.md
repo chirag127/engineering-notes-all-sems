@@ -1,0 +1,11 @@
+# Ontological Engineering
+
+- Ontological Engineering is a field of study that deals with the creation and management of ontologies, which are formal and explicit specifications of the concepts, properties and relations in a domain of interest .
+- Ontologies are used to provide a common vocabulary and a shared understanding of a domain, which can facilitate communication, integration, interoperability, reasoning and learning among different systems and agents .
+- Ontological Engineering involves the following activities:
+  - Ontology development process: the steps and tasks for creating an ontology, such as defining the scope, purpose, requirements, conceptualization, formalization, implementation and evaluation of the ontology.
+  - Ontology life cycle: the stages and phases for maintaining and evolving an ontology, such as updating, revising, merging, aligning, modularizing and reusing the ontology.
+  - Ontology methods and methodologies: the principles, guidelines, best practices and standards for building ontologies, such as ontology design patterns, ontology engineering frameworks, ontology engineering methods and ontology engineering methodologies.
+  - Ontology languages and tools: the syntax, semantics and pragmatics of the languages and tools that support the representation, manipulation, storage, exchange and use of ontologies, such as ontology representation languages, ontology editors, ontology reasoners, ontology repositories and ontology applications.
+- Ontological Engineering is an interdisciplinary field that draws from various disciplines, such as computer science, information science, systems engineering, artificial intelligence, knowledge representation, logic, philosophy, linguistics, cognitive science and domain-specific fields .
+- Ontological Engineering has many applications and benefits in different domains and scenarios, such as knowledge management, semantic web, natural language processing, information retrieval, data integration, e-commerce, e-government, e-learning, e-health, bioinformatics, geospatial information, cultural heritage, etc .

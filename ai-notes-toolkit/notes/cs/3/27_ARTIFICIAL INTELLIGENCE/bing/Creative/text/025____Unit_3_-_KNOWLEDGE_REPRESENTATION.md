@@ -1,0 +1,11 @@
+## Unit 3 - KNOWLEDGE REPRESENTATION
+
+- Knowledge representation is the process of encoding information about a domain in a form that can be used by an intelligent agent to perform reasoning and problem-solving tasks.
+- Knowledge representation involves choosing a suitable representation language, defining the syntax and semantics of the language, and designing methods for acquiring, manipulating, and using the knowledge.
+- Some of the criteria for evaluating a knowledge representation language are expressiveness, efficiency, inferential adequacy, inferential efficiency, and acquisition efficiency.
+- Some of the common types of knowledge representation languages are logic-based, rule-based, frame-based, semantic network-based, and ontology-based.
+- Logic-based languages use formal logic to represent facts and rules about a domain, and use logical inference to derive new facts and conclusions. Examples of logic-based languages are propositional logic, first-order logic, and description logic.
+- Rule-based languages use conditional statements (if-then rules) to represent facts and rules about a domain, and use forward chaining or backward chaining to apply the rules and infer new facts. Examples of rule-based languages are production systems, Prolog, and Datalog.
+- Frame-based languages use hierarchical structures (frames) to represent concepts and their properties (slots) in a domain, and use inheritance and default values to fill in missing information. Examples of frame-based languages are KL-ONE, KRL, and Frame Logic.
+- Semantic network-based languages use graphs (semantic networks) to represent concepts and their relations (links) in a domain, and use spreading activation and path finding to access and infer information. Examples of semantic network-based languages are Conceptual Graphs, RDF, and Topic Maps.
+- Ontology-based languages use formal specifications (ontologies) to define the concepts, relations, and constraints in a domain, and use reasoning engines to check the consistency and validity of the knowledge. Examples of ontology-based languages are OWL, CycL, and Common Logic.

@@ -1,0 +1,9 @@
+## Retrieving files for the notes of the BIG DATA AND ANALYTICS LAB in the subject of BIG DATA AND ANALYTICS LAB
+
+- To retrieve files for the notes of the BIG DATA AND ANALYTICS LAB in the subject of BIG DATA AND ANALYTICS LAB, you need to follow these steps:
+  - Locate the folder where you have stored the files for the subject of BIG DATA AND ANALYTICS LAB on your computer or cloud storage.
+  - Open the folder and look for the files that have the name or extension of .md, .pdf, .docx, or .pptx. These are the common formats for notes files.
+  - Select the files that you want to retrieve and copy or move them to a different location, such as your desktop or a USB drive. Alternatively, you can also email them to yourself or upload them to a cloud service, such as Google Drive or Dropbox.
+  - If you want to view or edit the files, you need to have the appropriate software installed on your computer or device, such as a markdown editor, a PDF reader, a word processor, or a presentation software. You can also use online tools, such as Google Docs or Slides, to access and modify the files.
+  - If you want to print the files, you need to have a printer connected to your computer or device, or use a printing service, such as a library or a copy shop. You can also save the files as images and print them as photos.
+  - If you want to share the files with others, you can use email, cloud services, social media, or messaging apps to send them the files or the links to the files. You can also use a file-sharing platform, such as GitHub or Bitbucket, to upload and manage the files. You can also create a website or a blog to publish the files online.

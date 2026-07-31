@@ -1,0 +1,14 @@
+# Total Order for the Notes of the Unit 1 - Characterization of Distributed Systems
+
+- A distributed system is a collection of independent entities that communicate by message passing and coordinate their actions to achieve a common goal.
+- A distributed system can be characterized by various properties, such as scalability, fault tolerance, concurrency, transparency, heterogeneity, etc.
+- One of the challenges of distributed systems is to deal with the uncertainty and inconsistency of the state of the system, which can arise due to failures, delays, or concurrency of events.
+- An event is an occurrence that changes the state of an entity in the system. Events can be local (internal to an entity) or global (affecting multiple entities).
+- A partial order is a binary relation that satisfies three properties: reflexivity, antisymmetry, and transitivity. A partial order can be used to compare some but not all events in the system.
+- A total order is a binary relation that satisfies four properties: reflexivity, antisymmetry, transitivity, and totality. A total order can be used to compare all events in the system.
+- A total order can be useful for ensuring consistency, agreement, and coordination among the entities in the system, such as for implementing mutual exclusion, atomic broadcast, consensus, etc.
+- A total order can be established by using physical clocks, logical clocks, or vector clocks, which assign timestamps to events and allow them to be ordered according to some rules.
+- A physical clock is a device that measures the passage of time based on some physical phenomenon, such as the rotation of the earth, the vibration of a quartz crystal, or the emission of a radio signal. Physical clocks can be synchronized by using algorithms such as NTP, GPS, or atomic clocks.
+- A logical clock is an abstraction that assigns logical timestamps to events based on their causal relationships, rather than their actual occurrence times. Logical clocks can capture the happens-before relation, which is a partial order that defines the causal order of events in the system.
+- A vector clock is an extension of a logical clock that assigns a vector of logical timestamps to each event, where each element of the vector represents the local logical clock of an entity in the system. Vector clocks can capture the concurrent relation, which is a partial order that defines the concurrent or independent events in the system.
+- Lamport timestamps are a type of logical clock that assign a single scalar value to each event, based on the local logical clock of the entity that generates the event and the logical clocks of the entities that send messages to it. Lamport timestamps can be used to create a total order of events in the system by using some arbitrary mechanism to break ties (e.g. the ID of the process).

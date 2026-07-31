@@ -1,0 +1,9 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for Technical Communication. Here are some considerations for the notes of Unit 2 - Forms of Technical Communication:
+
+- Unit 2 covers the various forms of technical communication, such as reports, proposals, memos, letters, emails, presentations, and websites.
+- Each form of technical communication has a specific purpose, audience, format, style, and tone. You should be familiar with the characteristics and conventions of each form and how to adapt them to different situations and contexts.
+- You should also be able to analyze the rhetorical situation of any technical communication task, which involves identifying the purpose, audience, context, constraints, and exigence of the communication.
+- You should be able to apply the principles of effective technical communication, such as clarity, conciseness, coherence, accuracy, completeness, and ethics, to any form of technical communication.
+- You should be able to use appropriate visual aids, such as tables, graphs, charts, diagrams, and images, to enhance your technical communication and convey complex or quantitative information.
+- You should be able to use appropriate citation and referencing styles, such as APA, MLA, or IEEE, to acknowledge the sources of information and avoid plagiarism in your technical communication.
+- You should be able to use appropriate software tools, such as word processors, presentation software, web design software, and graphic design software, to create, edit, and design your technical communication documents and materials.

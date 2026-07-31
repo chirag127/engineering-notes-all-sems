@@ -1,0 +1,15 @@
+# Designing of smart street lights in smart city
+
+- Smart street lights are street lights that can be controlled, monitored, and optimized remotely using sensors, wireless connectivity, and a central management system.
+- Smart street lights can provide various benefits for smart cities, such as:
+  - Energy savings: Smart street lights can adjust their brightness and color temperature according to the ambient light, traffic, weather, and time of day, reducing energy consumption and carbon emissions.
+  - Cost savings: Smart street lights can reduce maintenance costs by reporting faults, failures, and performance data in real time, enabling proactive and preventive repairs.
+  - Safety and security: Smart street lights can enhance public safety and security by providing adequate and uniform illumination, detecting and deterring crime, and facilitating emergency response.
+  - Data and insights: Smart street lights can collect and analyze data from various sensors, such as air quality, noise, traffic, parking, and weather, providing valuable insights for urban planning and management.
+  - Smart city integration: Smart street lights can serve as a backbone for smart city networks, connecting and supporting other smart city applications, such as smart waste management, smart parking, smart traffic management, and smart public Wi-Fi.
+- The design of smart street lights involves the following components and steps:
+  - LED luminaires: LED luminaires are energy-efficient, long-lasting, and adaptable light sources that can be dimmed, colored, and controlled individually or in groups.
+  - Sensors: Sensors are devices that can measure and detect various physical phenomena, such as light, motion, temperature, humidity, air quality, noise, and vibration. Sensors can be integrated into the LED luminaires or attached to the street light poles.
+  - Wireless connectivity: Wireless connectivity enables bidirectional communication between the smart street lights and the central management system, as well as between the smart street lights and other smart city devices. Wireless connectivity can be based on various technologies, such as Wi-Fi, cellular, Bluetooth, Zigbee, LoRa, or NB-IoT.
+  - Central management system: Central management system is a software platform that can remotely control, monitor, and optimize the smart street lights, as well as collect and analyze data from the sensors and other smart city devices. Central management system can be hosted on the cloud or on-premise, and can provide various features, such as scheduling, dimming, fault detection, performance reporting, data visualization, and analytics.
+  - Installation and operation: Installation and operation involve the physical deployment and maintenance of the smart street lights, as well as the integration and configuration of the wireless connectivity and the central management system. Installation and operation require careful planning, testing, and quality assurance to ensure the reliability, security, and scalability of the smart street lighting system.

@@ -1,0 +1,12 @@
+### Language Modeling
+
+- Language modeling is the task of estimating the probability of a given sequence of words occurring in a natural language  .
+- Language models are useful for various natural language processing applications, such as speech recognition, machine translation, text summarization, text generation, etc.
+- Language models can be classified into two types: **generative** and **discriminative**.
+  - Generative models learn the joint probability of the input and output, and can generate new samples from the learned distribution. For example, a generative model can generate a sentence given a topic or a keyword.
+  - Discriminative models learn the conditional probability of the output given the input, and can predict the most likely output for a given input. For example, a discriminative model can predict the next word in a sentence given the previous words.
+- Language models can also be categorized based on the level of representation they use: **word-level**, **character-level**, **subword-level**, or **multimodal**.
+  - Word-level models use words as the basic units of representation, and assign probabilities to word sequences. Word-level models suffer from the problem of data sparsity, as they need a large vocabulary to cover all possible words, and many word sequences may not occur in the training data.
+  - Character-level models use characters as the basic units of representation, and assign probabilities to character sequences. Character-level models can overcome the data sparsity problem, as they can generate any word from a small set of characters, but they may not capture the semantic and syntactic information of words well.
+  - Subword-level models use subwords as the basic units of representation, and assign probabilities to subword sequences. Subwords are smaller units than words, but larger than characters, and can be obtained by splitting words based on frequency or morphology. Subword-level models can balance the trade-off between data sparsity and semantic information, as they can cover a large vocabulary with a small number of subwords, and also capture some word-level information.
+  - Multimodal models use multiple modalities as the basic units of representation, and assign probabilities to multimodal sequences. Multimodal models can incorporate information from different sources, such as text, speech, images, videos, etc., and can generate or predict multimodal outputs. For example, a multimodal model can generate a caption for an image, or a speech for a text.

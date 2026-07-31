@@ -1,0 +1,12 @@
+### Normal Forms for the Notes of the Unit 4 - Data Base Design & Normalization in the Subject of Basics of Data Base Management System
+
+Normal forms are a set of rules or guidelines for designing relational databases in a way that reduces data redundancy and improves data integrity. Normalization is the process of applying these rules to a database schema or table. There are different levels of normalization, called normal forms, that indicate how well a database is normalized. The higher the normal form, the less redundancy and more consistency the database has.
+
+The most common normal forms are:
+
+- **First Normal Form (1NF)**: A table is in 1NF if it does not contain any composite or multi-valued attributes. This means that each column should have a single value and each row should have a unique identifier (primary key).
+- **Second Normal Form (2NF)**: A table is in 2NF if it is in 1NF and every non-key attribute is fully functionally dependent on the primary key. This means that there should be no partial dependencies, where a non-key attribute depends on only a part of the primary key.
+- **Third Normal Form (3NF)**: A table is in 3NF if it is in 2NF and every non-key attribute is non-transitively dependent on the primary key. This means that there should be no transitive dependencies, where a non-key attribute depends on another non-key attribute that depends on the primary key.
+- **Boyce-Codd Normal Form (BCNF)**: A table is in BCNF if it is in 3NF and every determinant is a candidate key. This means that there should be no non-trivial functional dependencies, where a non-key attribute determines another non-key attribute.
+
+There are other higher normal forms, such as 4NF, 5NF, and 6NF, but they are less commonly used in practice. The goal of normalization is to achieve the highest normal form possible without losing any information or compromising the performance of the database. Normalization can help avoid problems such as data anomalies, data inconsistency, data duplication, and data loss. However, normalization can also introduce some drawbacks, such as increased complexity, reduced efficiency, and more joins. Therefore, normalization should be balanced with other factors, such as the requirements of the application, the nature of the data, and the expected queries.

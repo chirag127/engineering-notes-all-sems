@@ -1,0 +1,10 @@
+### Multi Version Schemes for the notes of the Unit 5 - Concurrency Control Techniques in the subject of Database Management System
+
+- Multi version schemes are a type of concurrency control technique that allow multiple versions of data objects to exist in the database at the same time.
+- The main idea of multi version schemes is to grant an appropriate version of a data object to each read request, while write requests operate on a copy of the data object, not the original one .
+- The advantages of multi version schemes are that they increase the concurrency and reduce the blocking and waiting time for read operations, as they can access the most recent committed version of a data object without conflicting with write operations .
+- The disadvantages of multi version schemes are that they require more storage space and overhead to maintain multiple versions of data objects, and they may cause some transactions to abort if they violate the database integrity or consistency .
+- There are different types of multi version schemes, such as timestamp ordering, multiversion two-phase locking, and snapshot isolation.
+- Timestamp ordering is a multi version scheme that assigns a unique timestamp to each transaction and each version of a data object, and uses these timestamps to order the transactions and determine which version of a data object to read or write.
+- Multiversion two-phase locking is a multi version scheme that combines the two-phase locking protocol with the creation of multiple versions of data objects, and ensures that each transaction acquires the appropriate locks on the versions of data objects that it accesses.
+- Snapshot isolation is a multi version scheme that allows each transaction to see a consistent snapshot of the database as of the start of the transaction, and prevents write-write conflicts by aborting transactions that try to update the same data object as another concurrent transaction.

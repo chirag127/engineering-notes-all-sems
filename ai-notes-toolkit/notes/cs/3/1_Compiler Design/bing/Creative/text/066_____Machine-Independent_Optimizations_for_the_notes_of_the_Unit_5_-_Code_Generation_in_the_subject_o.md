@@ -1,0 +1,14 @@
+### Machine-Independent Optimizations
+
+Machine-independent optimizations are techniques that improve the quality of the intermediate code without considering the specific features of the target machine. They aim to reduce the execution time and/or the code size of the generated target code. Machine-independent optimizations can be applied to any intermediate representation, such as abstract syntax trees, three-address code, or static single assignment form. Some examples of machine-independent optimizations are:
+
+- **Common subexpression elimination**: This technique identifies and eliminates redundant computations of the same expression. For example, if x + y is computed twice in the same basic block, the second occurrence can be replaced by a temporary variable that holds the value of the first occurrence.
+- **Constant folding**: This technique evaluates constant expressions at compile time and replaces them with their values. For example, 2 + 3 can be replaced by 5, and x * 1 can be replaced by x.
+- **Constant propagation**: This technique replaces the use of a variable that has a constant value with the constant itself. For example, if x = 5, then y = x + 2 can be replaced by y = 7.
+- **Dead code elimination**: This technique removes statements or blocks of code that have no effect on the program execution. For example, if x is never used after the assignment x = 5, then the assignment can be removed.
+- **Copy propagation**: This technique replaces the use of a variable that has the same value as another variable with the other variable. For example, if x = y, then z = x + 2 can be replaced by z = y + 2.
+- **Algebraic simplification**: This technique applies algebraic rules to simplify expressions. For example, x + 0 can be replaced by x, and x * 0 can be replaced by 0.
+- **Strength reduction**: This technique replaces expensive operations with cheaper ones. For example, x * 2 can be replaced by x + x, and x * 4 can be replaced by x << 2 (left shift by 2 bits).
+- **Loop invariant code motion**: This technique moves statements or expressions that do not depend on the loop variable out of the loop. For example, if x is not modified inside the loop, then y = x + 2 can be moved before the loop.
+- **Induction variable elimination**: This technique eliminates redundant variables that are used to control the loop iteration. For example, if i and j are both incremented by 1 in each iteration of the loop, and j is only used to compare with the loop bound, then j can be eliminated and replaced by i.
+- **Loop unrolling**: This technique replicates the loop body multiple times and reduces the number of loop iterations. For example, a loop that iterates 10 times can be unrolled into two loops that iterate 5 times each, or a single loop that iterates 5 times with two copies of the loop body. This can reduce the overhead of loop control and increase the opportunities for other optimizations.

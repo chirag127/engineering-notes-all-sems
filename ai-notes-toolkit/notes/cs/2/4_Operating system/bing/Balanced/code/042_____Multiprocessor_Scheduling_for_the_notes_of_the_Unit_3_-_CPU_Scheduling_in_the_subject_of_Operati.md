@@ -1,0 +1,18 @@
+### Multiprocessor Scheduling
+
+- Multiprocessor scheduling is the process of allocating CPU resources to multiple processes or threads that run on multiple processors or cores in a system.
+- Multiprocessor scheduling aims to achieve high performance, load balancing, fairness, and responsiveness for the system and the processes.
+- Multiprocessor scheduling is more complex than single processor scheduling because of the following challenges:
+  - Interprocessor communication and synchronization: Processes or threads that run on different processors may need to communicate or synchronize with each other, which may incur overhead and delay.
+  - Processor affinity: Processes or threads may have a preference or affinity for a certain processor or core, based on the locality of data or code. Moving a process or thread from one processor to another may cause cache misses and performance degradation.
+  - Load balancing: The workload of the system may vary over time and across processors. The scheduler should distribute the load evenly among the processors to avoid idle or overloaded processors.
+  - Scalability: The scheduler should be able to handle a large number of processors and processes without compromising efficiency or fairness.
+
+- There are two main approaches to multiprocessor scheduling in the operating system: symmetric multiprocessing and asymmetric multiprocessing.
+  - Symmetric multiprocessing (SMP): In this approach, each processor is self-scheduling and has equal access to the system resources. All processes may be in a common ready queue, or each processor may have its own private queue for ready processes. The scheduler may use any of the single processor scheduling algorithms, such as FCFS, SJF, priority, or round robin, to select the next process for each processor. The scheduler may also use migration, which is the transfer of a process from one processor to another, to achieve load balancing or processor affinity.
+  - Asymmetric multiprocessing (AMP): In this approach, one processor is designated as the master processor, and the rest are slave processors. The master processor is responsible for scheduling the processes and assigning them to the slave processors. The slave processors only execute the processes assigned to them by the master processor. The master processor may use a global queue or multiple queues for the processes, and may use any of the single processor scheduling algorithms to select the next process for each slave processor. The master processor may also use migration to achieve load balancing or processor affinity.
+
+- There are also some other concepts and techniques that have been studied and implemented for multiprocessor scheduling, such as:
+  - Gang scheduling: This is a technique that schedules a group of related processes or threads, called a gang, to run simultaneously on a set of processors. This technique can improve the performance and synchronization of parallel or distributed applications that have high interprocess communication.
+  - Processor sets: This is a technique that partitions the processors into disjoint subsets, called processor sets, and assigns each process or thread to a specific processor set. This technique can improve the processor affinity and isolation of processes or threads that have different characteristics or requirements.
+  - Real-time scheduling: This is a technique that schedules processes or threads that have timing constraints, such as deadlines or periodicity. This technique can ensure the predictability and responsiveness of real-time applications that have high priority or urgency.

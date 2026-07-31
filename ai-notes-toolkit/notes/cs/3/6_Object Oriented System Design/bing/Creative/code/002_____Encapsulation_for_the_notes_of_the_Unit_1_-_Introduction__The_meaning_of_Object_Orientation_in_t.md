@@ -1,0 +1,7 @@
+### Encapsulation for the notes of the Unit 1 - Introduction: The meaning of Object Orientation in the subject of Object Oriented System Design
+
+- Encapsulation is a fundamental concept in object-oriented programming (OOP) that involves bundling data and the methods that operate on that data within a single unit, known as a class .
+- Encapsulation helps to protect the data and methods from outside interference, as it restricts direct access to them . Only the public set of functions, known as the interface, can be used to interact with the object.
+- Encapsulation separates the contractual interface of an abstraction and its implementation. This means that the details of how an object works internally are hidden from the outside world, and only the expected behavior and functionality are exposed.
+- Encapsulation enables modularity, reusability, and maintainability of code, as it allows changing the implementation of an object without affecting its interface or the code that depends on it .
+- Encapsulation can be achieved in different ways, such as using access modifiers (public, private, protected, etc.), getters and setters, constructors, and destructors  . These mechanisms control the visibility and accessibility of the data and methods within a class.

@@ -1,0 +1,8 @@
+### Model Building for Data Analytics
+
+- Model building is the fourth phase of the data analytics lifecycle, where the data science team develops and tests the analytical methods and techniques that they planned in the previous phase .
+- Model building involves creating data sets for training, testing, and production purposes. These data sets enable the data scientists to train and evaluate the model, while holding aside some of the data for testing the model.
+- Model building also involves selecting the appropriate algorithms, tools, and frameworks for the data analysis task, such as regression, classification, clustering, etc. The data scientists may need to experiment with different parameters, features, and techniques to find the optimal solution .
+- Model building requires validating the model against the business objectives and the data quality. The data scientists need to check the accuracy, precision, recall, and other metrics of the model, as well as the assumptions, limitations, and risks of the model .
+- Model building may require iterating the previous phases of the data analytics lifecycle, such as data acquisition, data preparation, and model planning, to refine the data and the model according to the feedback and the results .
+- Model building is a crucial phase of the data analytics lifecycle, as it determines the effectiveness and the value of the data analysis project. The data scientists need to document the model building process and the outcomes, and communicate them to the stakeholders and the customers .

@@ -1,0 +1,14 @@
+### Artificial Neuron and its model
+
+Neural networks are modeled on the structure and functions of biological neurons. Artificial neurons form the basic building blocks of neural networks. Here are some key points to understand about artificial neurons and their models:
+
+- **What is an artificial neuron?** An artificial neuron, also called a perceptron, is a mathematical function that takes several input values and produces a single output value. It is the basic unit of computation in a neural network.
+- **What does an artificial neuron model?** An artificial neuron models the basic functions of a biological neuron, which receives input signals from multiple other neurons and produces an output signal that is transmitted to other neurons.
+- **What are the components of an artificial neuron model?** An artificial neuron model consists of three components: input weights, a summing function, and an activation function. The input weights determine the strength of each input signal, the summing function calculates the total input value, and the activation function determines the output value based on the total input value.
+- **What is the purpose of input weights in an artificial neuron?** Input weights determine the strength of each input signal. They are adjusted during the learning process to optimize the performance of the neural network.
+- **What is the summing function in an artificial neuron?** The summing function calculates the total input value by multiplying each input value with its corresponding input weight and summing the products.
+- **What is the activation function in an artificial neuron?** The activation function determines the output value of the neuron based on the total input value. It introduces nonlinearity into the model, allowing the neural network to learn complex patterns and relationships in the input data.
+- **What are the different types of activation functions?** Some common types of activation functions are sigmoid, ReLU, tanh, and softmax. Each type has its own properties and is suitable for different types of applications.
+- **What is the output of an artificial neuron?** The output of an artificial neuron is a single numerical value, which is transmitted to other neurons in the neural network. The value represents the probability or confidence level that the input belongs to a certain category or has a certain property.
+
+Understanding the structure and functions of artificial neurons is essential for building and training neural networks. By adjusting the input weights and activation functions, neural networks can be optimized for different applications, such as pattern recognition, classification, and prediction.

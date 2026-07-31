@@ -1,0 +1,22 @@
+### Dynamic voting protocols
+
+- Dynamic voting protocols are techniques for consistency and recovery control of replicated files in distributed systems  .
+- The purpose of a replicated file is to improve the availability of a logical file in the presence of site failures and network partitions  .
+- A dynamic voting protocol assigns a number of votes to each replica of a file, and requires a majority of votes to access or update the file   .
+- The number of votes assigned to each replica can change dynamically depending on the system state, such as the number of active replicas, the network connectivity, or the access pattern   .
+- A dynamic voting protocol can achieve the following objectives   :
+  - Maintain the consistency of replicated files by ensuring that only one group of replicas can access or update the file at a time.
+  - Maximize the availability of replicated files by allowing access or update even when some replicas or links are faulty or disconnected.
+  - Minimize the communication overhead by reducing the number of messages and votes required for each access or update operation.
+  - Adapt to the changing system state by reassigning votes to balance the load and improve the performance.
+- A dynamic voting protocol consists of the following components   :
+  - A voting algorithm that determines how many votes are assigned to each replica and how many votes are required for each access or update operation.
+  - A vote reassignment algorithm that decides when and how to change the vote assignment of each replica based on the system state.
+  - A recovery algorithm that restores the consistency and availability of replicated files after a failure or a partition.
+- Examples of dynamic voting protocols are     :
+  - Majority consensus voting, which assigns one vote to each replica and requires a majority of votes for each access or update operation.
+  - Weighted voting, which assigns different weights to each replica and requires a weighted majority of votes for each access or update operation.
+  - Quorum-based voting, which assigns a read quorum and a write quorum to each replica and requires a read quorum for read operations and a write quorum for write operations.
+  - Topological voting, which assigns votes to each replica based on the network topology and the location of the requester.
+  - Dynamic weighted voting, which adjusts the weights of each replica based on the access frequency and the network distance.
+  - Dynamic quorum-based voting, which adjusts the read and write quorums of each replica based on the availability and the load of the system.

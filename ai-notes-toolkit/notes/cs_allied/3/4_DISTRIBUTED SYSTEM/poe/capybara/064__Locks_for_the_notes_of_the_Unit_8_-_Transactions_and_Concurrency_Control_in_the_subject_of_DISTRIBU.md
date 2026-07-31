@@ -1,0 +1,13 @@
+### Locks for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+In a distributed system, concurrency control is an essential component to ensure that the system performs optimally and efficiently. One of the ways to achieve concurrency control is through the use of locks. Here are some important points to keep in mind regarding locks in a distributed system:
+
+- Locks are used to serialize access to a shared resource, such as a database or a file. By using locks, different processes can access the shared resource in a controlled and coordinated manner.
+- There are two types of locks: shared locks and exclusive locks. Shared locks allow multiple processes to access the shared resource simultaneously, but only for read operations. Exclusive locks, on the other hand, allow only one process to access the shared resource at a time, and for both read and write operations.
+- Deadlocks can occur when multiple processes are waiting for each other to release a lock. Deadlocks can be avoided by enforcing a strict order in which locks are acquired and released.
+- Locks can be implemented using various algorithms, such as two-phase locking, timestamp ordering, and optimistic concurrency control. Each algorithm has its strengths and weaknesses, and the choice of algorithm depends on the specific requirements of the system.
+- In a distributed system, locks must be coordinated across multiple nodes. This can be challenging, as nodes may have different clock times and network latencies. To address this challenge, distributed lock managers can be used to ensure that locks are acquired and released in a consistent and coordinated manner across all nodes.
+- Lock contention can occur when multiple processes are competing for the same lock. This can lead to performance issues and reduced throughput. To minimize lock contention, it is important to design the system in a way that reduces the need for locks, such as by partitioning the data and minimizing the number of shared resources.
+- Locks can also be used to ensure transaction isolation in a distributed system. By acquiring locks on the data that a transaction accesses, the system can ensure that the transaction sees a consistent view of the data, even if other transactions are modifying the same data simultaneously.
+
+In summary, locks are an important tool for achieving concurrency control in a distributed system. However, they must be used carefully and coordinated across all nodes to ensure optimal performance and consistency. By understanding the strengths and weaknesses of different lock algorithms and implementing them appropriately, developers can design distributed systems that are efficient, scalable, and reliable.

@@ -1,0 +1,8 @@
+### Deterministic Finite Automaton (DFA)
+
+- A deterministic finite automaton (DFA) is a mathematical model of computation that accepts or rejects a given string of symbols, based on a set of rules.
+- A DFA consists of five components: a finite set of states, a finite set of input symbols (called the alphabet), a transition function that maps each state and input symbol to a next state, a start state, and a set of accept states.
+- A DFA can be represented by a state diagram, which is a directed graph where each node is a state, each edge is labeled by an input symbol, and there is a special arrow pointing to the start state. The accept states are marked by double circles.
+- A DFA processes a given input string by starting from the start state and following the edges labeled by the input symbols. If the DFA reaches an accept state after reading the entire input string, the string is accepted. Otherwise, the string is rejected.
+- A DFA is called deterministic because there is exactly one next state for each state and input symbol. This means that the DFA can only be in one state at any given time, and its behavior is fully determined by its current state and input symbol.
+- A DFA recognizes a regular language, which is a set of strings that can be described by a regular expression or a regular grammar. A regular language is closed under operations such as union, concatenation, and star.

@@ -1,0 +1,20 @@
+### Biology in India and Ancient India
+
+- Biology is the study of life and living organisms, including their structure, function, evolution, and interactions with the environment.
+- India has a rich and diverse biological heritage, dating back to ancient times, when the people of the Indian subcontinent had a well-developed science of agriculture, medicine, and natural history.
+- Some of the main sources of information about biology in ancient India are the Vedas, the ancient scriptures of Hinduism, which contain hymns, rituals, and cosmology, as well as observations of plants and animals.
+- According to the Vedas, there are 740 plants and 250 animals recorded, proving that in the Vedic period (3000-800 BCE), observations of plants and animals were carried out and recorded .
+- The Vedas also mention the concept of prana, the vital force or life energy that pervades all living beings, and the five elements (earth, water, fire, air, and ether) that constitute the material world.
+- The Vedas also classify living beings into four categories: jarayuja (born from the womb), andaja (born from eggs), svedaja (born from sweat), and udbhijja (born from the soil).
+- Another source of information about biology in ancient India is the archaeological evidence, such as the ruins of Mohenjo-daro, one of the oldest urban civilizations in the world, dating back to 2500 BCE.
+- The ruins of Mohenjo-daro have yielded seeds of wheat and barley that were cultivated at that time, as well as millet, dates, melons, and other fruits and vegetables, and cotton.
+- The people of Mohenjo-daro also had knowledge of animal husbandry, as evidenced by the remains of cattle, sheep, goats, pigs, dogs, and elephants.
+- The people of Mohenjo-daro also practiced dentistry, as evidenced by the discovery of a drilled molar tooth, which is one of the earliest examples of dental surgery in the world.
+- Another source of information about biology in ancient India is the literature of the classical period (500 BCE-500 CE), such as the epics, the Puranas, the Buddhist and Jain texts, and the works of grammar, philosophy, and medicine.
+- The epics, such as the Ramayana and the Mahabharata, contain descriptions of various plants and animals, such as the ashoka tree, the lotus flower, the peacock, the monkey, and the elephant, as well as mythical creatures, such as the garuda, the naga, and the rakshasa.
+- The Puranas, which are ancient stories of gods and goddesses, also contain references to plants and animals, such as the kalpavriksha, the wish-fulfilling tree, the kamadhenu, the cow of plenty, and the shalabha, the grasshopper.
+- The Buddhist and Jain texts, which are the scriptures of the two major non-Vedic religions of ancient India, also contain information about biology, such as the concept of rebirth, the doctrine of ahimsa, or non-violence towards all living beings, and the classification of living beings into six realms: gods, demi-gods, humans, animals, hungry ghosts, and hell beings.
+- The works of grammar, such as the Ashtadhyayi of Panini, the oldest surviving grammar of Sanskrit, also contain information about biology, such as the names and categories of plants and animals, and the rules of word formation and derivation.
+- The works of philosophy, such as the Nyaya, the Vaisheshika, the Samkhya, the Yoga, the Mimamsa, and the Vedanta, also contain information about biology, such as the concepts of atman, the self or soul, and brahman, the supreme reality, the theory of causation, the theory of perception, and the theory of evolution.
+- The works of medicine, such as the Charaka Samhita and the Sushruta Samhita, the two main texts of Ayurveda, the ancient system of medicine and healing, also contain information about biology, such as the concepts of dosha, the three bodily humors, and dhatu, the seven bodily tissues, the anatomy and physiology of the human body, the diagnosis and treatment of diseases, and the methods of surgery and anesthesia.
+- The works of medicine also contain information about botany, such as the names and properties of hundreds

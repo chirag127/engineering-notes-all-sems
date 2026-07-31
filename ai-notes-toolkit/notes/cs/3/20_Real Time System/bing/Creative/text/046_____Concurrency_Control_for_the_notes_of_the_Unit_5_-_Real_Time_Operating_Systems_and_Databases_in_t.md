@@ -1,0 +1,14 @@
+### Concurrency Control for the notes of the Unit 5 - Real Time Operating Systems and Databases in the subject of Real Time System
+
+- Concurrency control is the process of managing the access and modification of shared data resources by multiple concurrent processes or transactions in a system.
+- Concurrency control is essential for ensuring both logical and timing correctness of real-time systems (RTS), which are systems that respond to their environment within specified time constraints.
+- Concurrency control techniques can be classified into two categories: pessimistic and optimistic.
+  - Pessimistic concurrency control prevents conflicts from occurring by locking or reserving the data resources before accessing or modifying them. Examples of pessimistic concurrency control methods are two-phase locking (2PL), timestamp ordering (TO), and priority inheritance protocol (PIP).
+  - Optimistic concurrency control allows conflicts to occur and resolves them after they are detected. Examples of optimistic concurrency control methods are multiversion concurrency control (MVCC), validation-based concurrency control (VBCC), and optimistic inheritance protocol (OIP).
+- Concurrency control techniques can also be classified into two levels: data level and transaction level.
+  - Data level concurrency control deals with the consistency and isolation of individual data items or records. Data level concurrency control methods are usually based on locking, timestamping, or versioning mechanisms.
+  - Transaction level concurrency control deals with the atomicity and durability of groups of data operations or transactions. Transaction level concurrency control methods are usually based on commit, abort, or restart mechanisms.
+- Concurrency control techniques for RTS must consider not only the logical correctness but also the timing correctness of the system. Timing correctness means that the system must meet the deadlines of the real-time tasks or transactions.
+- Concurrency control techniques for RTS must also consider the characteristics and requirements of the real-time applications, such as the predictability, schedulability, priority, and urgency of the tasks or transactions.
+- Concurrency control techniques for RTS must balance the trade-offs between the performance, complexity, and overhead of the methods. Some factors that affect the trade-offs are the degree of concurrency, the conflict rate, the abort rate, the blocking time, the validation time, and the restart time.
+- Concurrency control techniques for RTS are an active and challenging research area. Some open issues and future directions are the integration of concurrency control and scheduling, the adaptation of concurrency control to dynamic and heterogeneous environments, the evaluation and comparison of concurrency control methods, and the development of new concurrency control paradigms.

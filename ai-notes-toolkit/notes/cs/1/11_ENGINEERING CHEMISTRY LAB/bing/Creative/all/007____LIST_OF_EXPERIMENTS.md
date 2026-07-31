@@ -1,0 +1,13 @@
+## LIST OF EXPERIMENTS
+
+- An experiment is a scientific procedure that aims to test a hypothesis, answer a question, or demonstrate a known fact.
+- Experiments usually involve manipulating one or more variables, measuring their effects, and comparing them with a control group.
+- Experiments can be classified into different types based on their purpose, design, and outcome.
+- Some common types of experiments are:
+
+  - **Observational experiment**: An experiment that involves observing and recording the behavior or characteristics of a natural phenomenon or system without interfering with it. For example, observing the movement of planets, the migration of birds, or the growth of plants.
+  - **Quasi-experiment**: An experiment that involves comparing two or more groups that are not randomly assigned, but have some similarities or differences that are of interest. For example, comparing the academic performance of students from different schools, the health outcomes of smokers and non-smokers, or the effects of a natural disaster on a population.
+  - **Randomized controlled experiment**: An experiment that involves randomly assigning participants or units to different groups, and applying a treatment or intervention to one or more of the groups, while keeping the other groups as a control. For example, testing the efficacy of a new drug, a new teaching method, or a new policy.
+  - **Factorial experiment**: An experiment that involves manipulating two or more factors (independent variables) simultaneously, and measuring their effects on one or more outcomes (dependent variables). For example, studying the effects of temperature, humidity, and light on plant growth, the effects of gender, age, and education on income, or the effects of diet, exercise, and stress on health.
+  - **Single-subject experiment**: An experiment that involves applying a treatment or intervention to a single individual or unit, and measuring its effects over time. For example, evaluating the behavior change of a child with autism, the recovery of a patient with a brain injury, or the performance of a machine with a new software.
+  - **Simulation experiment**: An experiment that involves creating a model or representation of a real-world system or phenomenon, and manipulating its parameters or conditions to study its behavior or outcomes. For example, simulating the spread of a disease, the traffic flow of a city, or the climate change of a planet.

@@ -1,0 +1,26 @@
+### Formal Technical Reviews (Peer Reviews) for the notes of the Unit 4 - Software Testing in the subject of Software Engineering
+
+- A formal technical review (FTR) is a software quality assurance activity performed by software engineers and others  .
+- The objectives of FTR are :
+  - To uncover errors in function, logic, or implementation for any representation of the software, such as requirements, design, code, test cases, etc.
+  - To verify that the software meets the specified requirements and conforms to the standards and guidelines.
+  - To improve the quality of the software product and the software process by identifying and eliminating defects early in the development cycle.
+  - To facilitate communication and collaboration among the software team members and stakeholders.
+  - To provide feedback and guidance to the software engineers and to enable them to learn from each other's experiences and approaches.
+- The FTR process involves the following steps  :
+  - Planning: The review leader selects the review team, assigns roles and responsibilities, schedules the review meeting, and distributes the review materials to the reviewers.
+  - Preparation: The reviewers study the review materials and identify potential issues, questions, and comments. They also prepare a checklist of items to be verified during the review.
+  - Review meeting: The review team meets to discuss the review materials and to raise and resolve the issues, questions, and comments. The review leader moderates the meeting and ensures that the review objectives are met and the review rules are followed. The review scribe records the minutes of the meeting and the review findings.
+  - Rework: The software engineer who produced the review materials corrects the defects and implements the recommendations identified during the review meeting.
+  - Follow-up: The review leader verifies that the rework has been done correctly and that the review findings have been addressed. The review leader also prepares a review report that summarizes the review results and the lessons learned.
+- The FTR team consists of the following roles  :
+  - Review leader: The person who plans, organizes, and conducts the review. The review leader is usually a senior software engineer or a software quality assurance specialist.
+  - Reviewer: The person who participates in the review and evaluates the review materials. The reviewer is usually a peer of the software engineer who produced the review materials or a stakeholder of the software project.
+  - Review scribe: The person who records the review findings and the minutes of the review meeting. The review scribe is usually a junior software engineer or a software quality assurance specialist.
+  - Review presenter: The person who presents the review materials to the review team. The review presenter is usually the software engineer who produced the review materials or a representative of the software team.
+- The FTR guidelines are the following  :
+  - The review should be conducted in a constructive and respectful manner, focusing on the review materials and not on the review presenter.
+  - The review should be based on objective criteria and evidence, not on subjective opinions or preferences.
+  - The review should be thorough and comprehensive, covering all aspects of the review materials and the review objectives.
+  - The review should be timely and efficient, avoiding unnecessary delays and interruptions.
+  - The review should be documented and reported, providing clear and actionable feedback and recommendations to the software team and the management.

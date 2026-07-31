@@ -1,0 +1,22 @@
+### Report Preparations for Evidence Management in Cyber Forensic Analytics
+
+- Evidence management is the process of collecting, preserving, analyzing, and reporting on digital evidence in a cyber forensic investigation.
+- Evidence management requires following the best practices of writing a digital forensic report, such as:
+  - Don't break the law when collecting, processing, analyzing, or handling evidence.
+  - Only mention the information that's relevant to the case and the objectives of the investigation.
+  - Focus on concrete facts rather than your personal opinions or interpretations.
+  - Utilize any forensics notes you've made during the investigation itself.
+  - Avoid using complex terms and focus on conveying the relevant information in a manner that is coherent and simple to understand.
+  - Use clear and consistent formatting, headings, numbering, and referencing throughout the report.
+  - Include an executive summary that provides a brief overview of the case, the methods, the findings, and the conclusions.
+  - Include a detailed report that describes the evidence sources, the tools and techniques used, the results and analysis, and the limitations and recommendations.
+  - Include any supporting documents, such as screenshots, logs, hashes, timelines, charts, graphs, etc.
+  - Review and proofread the report for accuracy, clarity, and completeness.
+- Evidence management also requires having a solid understanding of computer networking concepts, network security methodologies, risk management, computer and privacy laws, and data analytics.
+- Evidence management also requires knowing a variety of techniques for how to collect, preserve, analyze, and report on evidence, such as :
+  - Reverse steganography: the process of extracting hidden data from images, audio, video, or other files.
+  - Stochastic forensics: the process of identifying patterns or anomalies in large and complex data sets.
+  - Cross-drive analysis: the process of correlating data from multiple devices or sources to establish connections or relationships.
+  - Live analysis: the process of examining a system while it is running to capture volatile data, such as memory, processes, network connections, etc.
+  - Deleted file recovery: the process of recovering data that has been deleted, overwritten, or corrupted from a storage device.
+  - And more.

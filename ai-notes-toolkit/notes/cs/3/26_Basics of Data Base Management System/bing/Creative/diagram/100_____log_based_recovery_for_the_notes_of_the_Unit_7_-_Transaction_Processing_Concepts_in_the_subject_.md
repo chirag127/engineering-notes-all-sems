@@ -1,0 +1,27 @@
+### Log Based Recovery in DBMS
+
+- Log based recovery is a technique used in DBMS to recover a database to a consistent state in the event of a failure or crash.
+- It involves the use of transaction logs, which are records of all the transactions performed on the database.
+- A log file will be created for every operation performed on the database at that point.
+- A log record contains the following information :
+  - Transaction ID: A unique identifier for each transaction.
+  - Operation: The type of operation performed by the transaction, such as read, write, commit, or abort.
+  - Data Item: The name of the data item affected by the operation.
+  - Old Value: The value of the data item before the operation.
+  - New Value: The value of the data item after the operation.
+- A log record can be written in the following format :
+  - `<Transaction ID, Operation, Data Item, Old Value, New Value>`
+- For example, if a transaction T1 changes the city of a customer from Chennai to NCR, the log record will be:
+  - `<T1, Write, City, Chennai, NCR>`
+- A start log is produced when the transaction begins .
+  - `<T1, Start>`
+- A commit log is produced when the transaction completes successfully .
+  - `<T1, Commit>`
+- An abort log is produced when the transaction fails or is aborted .
+  - `<T1, Abort>`
+- The log records are stored in a stable storage device, such as a disk, that is not affected by the failure.
+- The log records are used to recover the database by applying two techniques:
+  - Undo: This technique restores the old value of the data item by using the log record. It is used to undo the effects of uncommitted transactions that may have corrupted the database.
+  - Redo: This technique restores the new value of the data item by using the log record. It is used to redo the effects of committed transactions that may have been lost due to the failure.
+- The log records are processed in a chronological order, from the oldest to the newest, to perform the undo and redo operations.
+- The log based recovery ensures the ACID properties of transactions, which are atomicity, consistency, isolation, and durability.

@@ -1,0 +1,13 @@
+### Electrochemistry and Batteries: Basic concepts of electrochemistry
+
+Electrochemistry is the branch of chemistry that deals with the interconversion of chemical energy and electrical energy. Electrochemical reactions involve the transfer of electrons between substances, which can be harnessed to produce electricity or to drive chemical reactions.
+
+Some basic concepts of electrochemistry are:
+
+- **Electrochemical cell**: A device that converts chemical energy into electrical energy or vice versa. It consists of two electrodes (conductors) and an electrolyte (a solution or a solid that allows the flow of ions).
+- **Electrode**: A conductor that is in contact with the electrolyte and allows the flow of electrons to or from the external circuit. The electrode where oxidation (loss of electrons) occurs is called the **anode**, and the electrode where reduction (gain of electrons) occurs is called the **cathode**.
+- **Electrolyte**: A substance that contains ions that can move freely and carry electric charge. It can be a liquid, a solid, or a gel. The electrolyte completes the electric circuit by allowing the flow of ions between the electrodes.
+- **Electrode potential**: The measure of the tendency of an electrode to lose or gain electrons. It depends on the nature of the electrode material and the concentration of the ions in the electrolyte. The electrode potential is measured relative to a standard reference electrode, such as the **standard hydrogen electrode**.
+- **Cell potential**: The difference in electrode potentials between the two electrodes of an electrochemical cell. It is also called the **electromotive force (emf)** of the cell. It represents the maximum amount of work that can be obtained from the cell. The cell potential is positive for a spontaneous reaction and negative for a non-spontaneous reaction.
+- **Galvanic cell**: An electrochemical cell that converts chemical energy into electrical energy by a spontaneous redox reaction. It is also called a **voltaic cell** or a **battery**. A battery can consist of one or more galvanic cells connected in series or parallel. Examples of galvanic cells are the **Daniell cell**, the **lead-acid battery**, and the **alkaline battery**.
+- **Electrolytic cell**: An electrochemical cell that converts electrical energy into chemical energy by a non-spontaneous redox reaction. It requires an external source of electricity to drive the reaction. Examples of electrolytic cells are the **electroplating cell**, the **electrolysis of water**, and the **chlor-alkali process**.

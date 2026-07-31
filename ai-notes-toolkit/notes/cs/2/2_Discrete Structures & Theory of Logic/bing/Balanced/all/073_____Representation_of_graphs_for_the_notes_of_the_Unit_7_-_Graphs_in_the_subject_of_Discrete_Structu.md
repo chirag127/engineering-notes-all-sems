@@ -1,0 +1,7 @@
+# Representation of graphs
+
+- A graph is a mathematical structure that consists of a set of vertices and a set of edges that connect pairs of vertices.
+- A graph can be represented in different ways, such as using an adjacency matrix, an adjacency list, or an incidence matrix.
+- An adjacency matrix is a two-dimensional array of size n x n, where n is the number of vertices in the graph. The entry at row i and column j is 1 if there is an edge from vertex i to vertex j, and 0 otherwise. An adjacency matrix can be used to check if two vertices are adjacent in constant time, but it requires O(n^2) space and O(n) time to iterate over all the neighbors of a vertex.
+- An adjacency list is a collection of lists, one for each vertex in the graph. The list for vertex i contains all the vertices that are adjacent to i. An adjacency list can be used to iterate over all the neighbors of a vertex in linear time, but it requires O(m + n) space and O(n) time to check if two vertices are adjacent, where m is the number of edges in the graph.
+- An incidence matrix is a two-dimensional array of size n x m, where n is the number of vertices and m is the number of edges in the graph. The entry at row i and column j is 1 if vertex i is incident to edge j, and 0 otherwise. An incidence matrix can be used to check if a vertex is incident to an edge in constant time, but it requires O(nm) space and O(m) time to iterate over all the edges incident to a vertex.

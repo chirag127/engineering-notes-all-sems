@@ -1,0 +1,7 @@
+### Buddhist Literature in Pali, Prakrit And Sanskrit
+
+- The first Buddhist works were written in **Pali**, the language spoken in Magadha and South Bihar. It is said that Lord Buddha delivered his sermons in Pali, and they have been recorded in the same language .
+- **Prakrit** is a catch-all name for any language that differs from the mainstream one, **Sanskrit**. Pali is an old Prakrit dialect that combines several dialects .
+- The Buddhist literary and Philosophical works are in **Pali and Sanskrit** while the Jaina records are in **Prakrit and Sanskrit** .
+- The prosodic variety of Buddhist lyrics is great; about **30 different metres** can be distinguished. Pāli poems, with their new metres (often based on a musical phrase), stylistic features, figures of speech, and choice diction, foreshadow classical kāvya literature in Sanskrit, whose extant specimens date from a later period .
+- The best known of this group is **Pali**, which still serves as the canonical language of Buddhism in Sri Lanka and Southeast Asia. Other Prakrit languages such as Sauraseni, Maharastri, Magadhi and Gandhari embody various facets of the literatures of both the Brahmanical/Hindu and Buddhist traditions .

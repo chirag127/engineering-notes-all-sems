@@ -1,0 +1,18 @@
+# DAC for the notes of the Unit 2 - SOFTWARE HARDWARE FRAMEWORKS in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- DAC stands for **Digital-to-Analog Converter**, a device that converts digital audio signals into analog audio signals that can be output to speakers, headphones or other analog devices .
+- DACs are essential for wearable computing, mixed reality and internet of everything applications, as they enable the communication and interaction between digital devices and human senses, such as hearing and touch .
+- DACs can be classified into different types based on their architecture, performance, features and applications, such as:
+  - **USB DACs**: DACs that connect to a computer or a mobile device via a USB port and act as an external sound card, bypassing the internal DAC of the device . USB DACs can offer better sound quality, portability and compatibility than the built-in DACs of some devices .
+  - **Portable DACs**: DACs that are battery-powered and can be carried around with a mobile device or a portable music player, providing high-quality audio output on the go . Portable DACs can also include headphone amplifiers, Bluetooth connectivity and volume controls .
+  - **Desktop DACs**: DACs that are designed to be used with a desktop computer or a home audio system, providing high-end audio performance and features, such as multiple inputs and outputs, digital filters, remote controls and display screens  . Desktop DACs can also integrate headphone amplifiers, preamplifiers and network streamers  .
+  - **DAC HATs**: DACs that are designed to be used with a Raspberry Pi, a single-board computer that can be used for various projects, such as data acquisition, internet of things, robotics and gaming. DAC HATs can offer similar specs and accuracy as traditional USB and Ethernet-based DAQ products from MCC with resolution up to 24-bits and sample rates up to 100 kS/s.
+- DACs can be evaluated based on various parameters, such as:
+  - **Resolution**: The number of bits used to represent each sample of the digital audio signal, which determines the dynamic range and the signal-to-noise ratio of the analog audio output . Higher resolution means more detail and less distortion in the sound .
+  - **Sample rate**: The number of times per second that the digital audio signal is sampled, which determines the frequency range and the bandwidth of the analog audio output . Higher sample rate means more information and less aliasing in the sound .
+  - **THD+N**: The total harmonic distortion plus noise, which measures the amount of unwanted harmonics and noise that are added to the analog audio output by the DAC . Lower THD+N means more accuracy and clarity in the sound .
+  - **Output impedance**: The resistance that the DAC presents to the load (such as speakers or headphones) that is connected to its output, which affects the voltage and the current that are delivered to the load . Lower output impedance means more compatibility and efficiency in the sound .
+- DACs can be used for various purposes and applications, such as:
+  - **Music listening**: DACs can enhance the sound quality and the listening experience of music from various sources, such as streaming services, digital downloads, CDs and vinyl records . DACs can also support different audio formats, such as PCM, DSD, MQA and FLAC  .
+  - **Gaming**: DACs can improve the sound effects and the immersion of gaming from various platforms, such as PC, console and mobile . DACs can also support different audio features, such as surround sound, virtualization and equalization .
+  - **Movie watching**: DACs can enhance the sound quality and the realism of movie watching from various sources, such as Blu

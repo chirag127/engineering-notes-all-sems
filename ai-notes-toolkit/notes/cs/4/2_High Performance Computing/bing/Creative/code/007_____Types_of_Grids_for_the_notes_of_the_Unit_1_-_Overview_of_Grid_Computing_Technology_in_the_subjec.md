@@ -1,0 +1,17 @@
+# Types of Grids for the notes of the Unit 1 - Overview of Grid Computing Technology in the subject of High Performance Computing
+
+Grid computing is a distributed computing paradigm that involves the sharing and coordination of heterogeneous and geographically dispersed resources across multiple administrative domains to solve large-scale problems. 
+
+There are different types of grids based on the purpose, architecture, and functionality of the grid. Some of the common types of grids are:
+
+- **Computational grid**: This is a type of grid that acts as a mediator of many computers in a given network to solve one single problem at a time. The computers in a computational grid can be dedicated or opportunistic, meaning they can either be exclusively used for the grid or they can join and leave the grid depending on their availability. Computational grids are useful for applications that require a large amount of processing power, such as scientific simulations, weather forecasting, and cryptography.  
+
+- **Data grid**: The grid that deals with the sharing and managing the distributed data in a controlled manner is term as a data grid. Data grids provide mechanisms for data replication, caching, access control, and discovery across multiple data sources. Data grids are useful for applications that require a large amount of data storage and analysis, such as bioinformatics, e-commerce, and social networks.  
+
+- **Collaborative grid**: Such types of grids help in solving collective problems that involve the interaction and coordination of multiple users, groups, or organizations. Collaborative grids provide services for communication, collaboration, and coordination among the participants of the grid. Collaborative grids are useful for applications that require a high degree of human involvement, such as e-learning, e-health, and e-government. 
+
+- **Service grid**: This is a type of grid that provides a platform for the discovery, composition, and execution of distributed services. Service grids use standards and protocols such as web services, SOAP, and WSDL to enable interoperability and integration among heterogeneous and autonomous services. Service grids are useful for applications that require a high level of flexibility, scalability, and reusability, such as business process management, service-oriented architecture, and cloud computing. 
+
+- **Body fitted Co-ordinate grids**: These are types of grids that conform to the shape of the physical domain or the object being modeled. Body fitted Co-ordinate grids can be either orthogonal or non-orthogonal, meaning the grid lines can be either perpendicular or not at the intersection. Body fitted Co-ordinate grids are useful for applications that require a high accuracy and resolution of the physical phenomena, such as fluid dynamics, heat transfer, and electromagnetics. 
+
+- **Modular grids**: These are types of grids that consist of horizontal and vertical divisions marked by rows and columns. The rows, columns, and the gutters between them create a matrix of cells or modules that can be used to organize and align the elements of the design. Modular grids are useful for applications that require a high degree of complexity and control, such as graphic design, web design, and typography.

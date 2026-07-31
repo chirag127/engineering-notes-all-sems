@@ -1,0 +1,25 @@
+### Apriori algorithm
+
+- The Apriori algorithm is an algorithm for **frequent itemset mining** and **association rule learning** over relational databases  .
+- Frequent itemsets are sets of items that appear together in a database with a minimum frequency or support  .
+- Association rules are implications of the form X -> Y, where X and Y are itemsets, meaning that if X is present in a transaction, then Y is likely to be present as well  .
+- The Apriori algorithm was proposed by **Agrawal and Srikant** in 1994 .
+- The Apriori algorithm is designed to operate on databases containing **transactions** (for example, collections of items bought by customers, or details of a website frequentation or IP addresses)  .
+- The Apriori algorithm uses a **bottom-up** or **level-wise** approach, where it starts from the frequent individual items (1-itemsets) and extends them to larger and larger itemsets as long as they are frequent in the database  .
+- The Apriori algorithm uses the property that **all subsets of a frequent itemset are also frequent**, and conversely, **any superset of an infrequent itemset is also infrequent**  .
+- The Apriori algorithm consists of two main steps: **join** and **prune**  .
+  - The join step generates candidate itemsets of size k by joining frequent itemsets of size k-1 with themselves  .
+  - The prune step eliminates the candidate itemsets that have infrequent subsets by using the Apriori property  .
+- The Apriori algorithm repeats the join and prune steps until no more frequent or candidate itemsets can be generated  .
+- The Apriori algorithm can also generate association rules from the frequent itemsets by applying a minimum confidence threshold  .
+  - The confidence of a rule X -> Y is the ratio of the support of X union Y to the support of X  .
+  - The confidence measures how often the items in Y appear in transactions that contain X  .
+- The Apriori algorithm has some advantages and disadvantages  .
+  - Advantages:
+    - It is simple and easy to implement  .
+    - It can handle large datasets efficiently  .
+    - It can be parallelized and distributed  .
+  - Disadvantages:
+    - It may generate a huge number of candidate itemsets, especially when the items are numerous and the support threshold is low  .
+    - It may require multiple scans of the database, which can be costly in terms of I/O  .
+    - It may not be able to discover some interesting patterns that do not satisfy the minimum support or confidence thresholds  .

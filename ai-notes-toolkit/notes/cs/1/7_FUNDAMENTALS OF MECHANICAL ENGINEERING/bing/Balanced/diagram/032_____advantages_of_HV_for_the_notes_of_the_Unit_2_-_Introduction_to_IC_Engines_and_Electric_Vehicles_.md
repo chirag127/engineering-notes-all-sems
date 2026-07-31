@@ -1,0 +1,10 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some points on the advantages of HV for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING:
+
+### Advantages of HV
+
+- HV stands for high voltage, which is a type of electrical power transmission system that uses higher voltages than the standard low voltage systems  .
+- HV systems have several advantages over low voltage systems, such as:
+  - Reduced voltage drop: Voltage drop is the decrease in voltage along the transmission line due to the resistance of the conductor and the impedance of the load. HV systems reduce the voltage drop by increasing the voltage and decreasing the current, which reduces the power loss and improves the voltage regulation .
+  - Reduced system size and weight: HV systems require thinner conductors, smaller generators, motors, cables, transformers and other components for the same power output as low voltage systems. This reduces the system size and weight, which saves space, material and cost  .
+  - Increased power transfer capacity: HV systems can transfer more power over longer distances than low voltage systems, which is useful for connecting remote power sources and loads, such as renewable energy plants and electric vehicles. HV systems also have lower line losses, which means less power is wasted during transmission .
+  - Reduced fossil fuel dependency: HV systems can be used to integrate hybrid vehicles, which are vehicles that use both an internal combustion engine and an electric motor for propulsion. Hybrid vehicles have better fuel efficiency and emit less carbon emissions than conventional vehicles, which reduces the dependency on fossil fuels and the environmental impact of transportation.

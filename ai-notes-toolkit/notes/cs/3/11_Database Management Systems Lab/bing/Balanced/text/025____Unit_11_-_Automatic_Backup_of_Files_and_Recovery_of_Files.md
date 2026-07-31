@@ -1,0 +1,10 @@
+## Unit 11 - Automatic Backup of Files and Recovery of Files
+
+- Automatic backup is a process of backing up files, folders, and systems using automated software without any human intervention.
+- Automatic backup can help protect data against software problems, hardware failure, malware attacks, accidental deletion, and other disasters.
+- Automatic backup can be done in different ways, such as using Windows built-in tools, third-party software, or cloud services.
+- Some of the common methods of automatic backup in Windows are:
+  - Windows Backup and Restore (Windows 7): This tool allows you to create a system image and back up selected files and folders to an external hard drive or network location. You can also schedule the backup to run automatically at regular intervals.
+  - File History: This tool backs up all folders in the user account folder (such as Desktop, Documents, Pictures, etc.) and any other folders that you choose to an external hard drive or network location. You can also set how often and how long to keep the backups.
+  - OneDrive: This is a cloud service that syncs your files and folders to the online storage. You can access your files from any device and restore them if they are lost or damaged. You can also use OneDrive to back up your desktop, documents, and pictures folders automatically.
+- To restore files from a backup, you need to use the same tool that you used to create the backup. For example, if you used Windows Backup and Restore, you can go to Control Panel > System and Security > Backup and Restore (Windows 7) and click Restore my files or Select another backup to restore files from. If you used File History, you can go to Settings > Update & Security > Backup and click More options > Restore files from a current backup. If you used OneDrive, you can go to the OneDrive website and click Recycle bin or Restore your OneDrive .

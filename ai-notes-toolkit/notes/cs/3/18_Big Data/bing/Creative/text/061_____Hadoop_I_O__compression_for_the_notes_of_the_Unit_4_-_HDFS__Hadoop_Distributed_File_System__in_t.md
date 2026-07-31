@@ -1,0 +1,24 @@
+### Hadoop I/O: compression
+
+- Data compression is a technique to reduce the size of data files by using various algorithms.
+- Data compression can improve the performance of Hadoop applications by reducing the amount of I/O and network traffic.
+- Data compression can also save disk space and storage costs.
+- Data compression in Hadoop can be applied at different stages of data processing, such as:
+  - Input data: The data that is read by the MapReduce jobs from the HDFS or other sources can be compressed to reduce the I/O time and bandwidth.
+  - Intermediate data: The data that is shuffled between the map and reduce tasks can be compressed to reduce the network traffic and disk I/O.
+  - Output data: The data that is written by the MapReduce jobs to the HDFS or other destinations can be compressed to reduce the disk space and storage costs.
+- Data compression in Hadoop can be implemented by using various compression codecs, such as:
+  - Gzip: A widely used compression codec that provides a good compression ratio and speed. Gzip is supported by most of the Hadoop tools and frameworks. Gzip files have a .gz extension.
+  - Bzip2: A compression codec that provides a higher compression ratio than Gzip, but at the cost of lower speed. Bzip2 is also supported by most of the Hadoop tools and frameworks. Bzip2 files have a .bz2 extension.
+  - Snappy: A compression codec that provides a fast compression and decompression speed, but a lower compression ratio than Gzip and Bzip2. Snappy is mainly used for compressing intermediate data in MapReduce. Snappy files have a .snappy extension.
+  - LZO: A compression codec that provides a similar compression ratio and speed as Snappy, but with a better support for splitting and indexing. LZO is mainly used for compressing input and output data in MapReduce. LZO files have a .lzo extension.
+  - LZ4: A compression codec that provides a faster compression and decompression speed than Snappy and LZO, but a lower compression ratio. LZ4 is mainly used for compressing intermediate data in MapReduce. LZ4 files have a .lz4 extension.
+  - Zstandard: A compression codec that provides a high compression ratio and speed, and a low memory usage. Zstandard is a newer codec that is not widely supported by Hadoop tools and frameworks yet. Zstandard files have a .zst extension.
+- Data compression in Hadoop can be configured by using various properties, such as:
+  - mapreduce.map.output.compress: A boolean property that specifies whether to compress the intermediate data produced by the map tasks. The default value is false.
+  - mapreduce.map.output.compress.codec: A property that specifies the compression codec to use for compressing the intermediate data. The default value is org.apache.hadoop.io.compress.DefaultCodec, which is Gzip.
+  - mapreduce.output.fileoutputformat.compress: A boolean property that specifies whether to compress the output data produced by the reduce tasks. The default value is false.
+  - mapreduce.output.fileoutputformat.compress.codec: A property that specifies the compression codec to use for compressing the output data. The default value is org.apache.hadoop.io.compress.DefaultCodec, which is Gzip.
+  - mapreduce.output.fileoutputformat.compress.type: A property that specifies the compression type to use for compressing the output data. The possible values are NONE, RECORD, and BLOCK. The default value is RECORD, which means that each record is compressed separately. BLOCK means that a block of records is compressed together. NONE means that no compression is applied.
+  - io.compression.codecs: A property that specifies the list of compression codecs that are available in the Hadoop cluster. The default value is org.apache.hadoop.io.compress.DefaultCodec,org.apache.hadoop.io.compress.GzipCodec,org.apache.hadoop.io.compress.BZip2Codec,org.apache.hadoop.io.compress.SnappyCodec,org.apache.hadoop.io.compress.Lz4Codec,org.apache.hadoop.io.compress.ZStandardCodec.
+  - io.compression.codec.bzip2.library: A property that specifies the library to use for Bzip2 compression. The possible values are java and system-native. The default value is java, which means that the Java implementation of Bzip2 is used. system-native means that the native implementation of Bzip2 is used.

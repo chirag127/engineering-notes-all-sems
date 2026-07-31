@@ -1,0 +1,7 @@
+### Electrical circuit elements (R, L and C)
+
+- Electrical circuit elements are components that can store, dissipate, or transfer electrical energy in a circuit.
+- The most common circuit elements are resistors (R), inductors (L), and capacitors (C).
+- Resistors are devices that oppose the flow of electric current and convert electrical energy into heat. The resistance (R) of a resistor is measured in ohms (Ω) and depends on the material, shape, and temperature of the resistor. The voltage (V) across a resistor is proportional to the current (I) through it, according to Ohm's law: V = IR.
+- Inductors are devices that store electrical energy in a magnetic field when current flows through them. The inductance (L) of an inductor is measured in henries (H) and depends on the number of turns, the shape, and the core material of the coil. The voltage across an inductor is proportional to the rate of change of current through it, according to Faraday's law: V = L(dI/dt).
+- Capacitors are devices that store electrical energy in an electric field when a voltage is applied across them. The capacitance (C) of a capacitor is measured in farads (F) and depends on the area, distance, and dielectric material of the plates. The voltage across a capacitor is proportional to the charge (Q) stored on it, according to the definition of capacitance: V = Q/C.

@@ -1,0 +1,14 @@
+#### Introduction to AWT in Core Java
+
+- AWT stands for Abstract Window Toolkit, which is an API that provides classes and interfaces for creating graphical user interfaces (GUIs) and drawing graphics and images in Java .
+- AWT is part of the Java Foundation Classes (JFC), which also includes Swing, Java 2D, and Accessibility.
+- AWT components are platform-dependent, meaning that they are displayed according to the native look and feel of the operating system .
+- AWT components are also heavyweight, meaning that they use the resources of the operating system, such as windows, fonts, and colors .
+- AWT provides a hierarchy of classes and interfaces for creating and managing GUI components, such as buttons, text fields, labels, menus, dialogs, frames, etc .
+- The root class of the AWT hierarchy is the Component class, which represents any GUI element that can be displayed on the screen and that can interact with the user .
+- The Component class has two subclasses: Container and MenuComponent. A Container is a component that can contain other components, such as a Panel, a Window, or a Frame. A MenuComponent is a component that is part of a menu, such as a MenuItem, a Menu, or a MenuBar .
+- A Window is a container that has no borders and no title bar. It is not visible until it is packed or resized. A Frame is a window that has a title bar, a border, and an optional menu bar. It is the most commonly used top-level container for an AWT application .
+- A Panel is a container that can be used to group other components. It has no title bar, border, or menu bar. It can be added to another container, such as a Frame or a Window .
+- AWT also provides classes and interfaces for handling events, such as mouse clicks, keyboard inputs, window closing, etc. The main interface for handling events is the EventListener interface, which has several subinterfaces for different types of events, such as ActionListener, MouseListener, WindowListener, etc .
+- AWT also provides classes and interfaces for drawing graphics and images, such as shapes, colors, fonts, etc. The main class for drawing graphics is the Graphics class, which provides methods for drawing lines, rectangles, ovals, polygons, text, etc. The Graphics class also has a subclass called Graphics2D, which provides more advanced features, such as transformations, gradients, strokes, etc .
+- AWT also provides classes and interfaces for managing images, such as loading, displaying, and manipulating images. The main class for representing images is the Image class, which has several subclasses, such as BufferedImage, VolatileImage, etc. The Image class also has an interface called ImageObserver, which is used to monitor the status of an image .

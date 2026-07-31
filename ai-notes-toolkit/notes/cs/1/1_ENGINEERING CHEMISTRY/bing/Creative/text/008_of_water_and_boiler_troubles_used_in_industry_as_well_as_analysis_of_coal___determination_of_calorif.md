@@ -1,0 +1,24 @@
+# Water and Boiler Troubles Used in Industry
+
+Water is a vital medium for many industrial and commercial processes, such as boilers, cooling towers, cooling systems and other closed circuit systems. However, water can also cause various problems in these systems, such as corrosion, scaling, foaming, priming, carryover, and contamination. These problems can affect the efficiency, performance, safety, and lifespan of the equipment. Therefore, proper water treatment and maintenance are essential to prevent or minimize these problems.
+
+## Boiler Troubles
+
+A boiler is a device that converts water into steam by applying heat. Steam is used for various purposes, such as power generation, heating, sterilization, and process applications. However, boilers can also encounter various troubles that can impair their operation or cause damage. Some of the common boiler troubles are:
+
+- **Priming**: This is the phenomenon of water droplets being carried along with the steam, resulting in wet and low-quality steam. Priming can be caused by high water level, sudden increase in steam demand, improper boiler design, or impurities in the water. Priming can lead to water hammer, erosion, corrosion, and loss of heat transfer.
+- **Foaming**: This is the formation of a layer of foam or bubbles on the water surface, which reduces the effective water volume and increases the water level. Foaming can be caused by high concentration of dissolved solids, organic matter, oil, or chemicals in the water. Foaming can result in priming, carryover, corrosion, and overheating.
+- **Carryover**: This is the entrainment of water droplets or solids in the steam, which can contaminate the steam system or the end use. Carryover can be caused by priming, foaming, high steam velocity, or improper separation devices. Carryover can cause corrosion, erosion, scaling, and deposition in the steam system.
+- **Scaling**: This is the deposition of hard and insoluble substances, such as calcium carbonate, magnesium carbonate, or iron oxide, on the inner surfaces of the boiler. Scaling can be caused by high concentration of dissolved solids, high temperature, low pH, or inadequate water treatment. Scaling can reduce the heat transfer, increase the fuel consumption, cause overheating, and damage the boiler tubes.
+- **Corrosion**: This is the deterioration of the metal surfaces of the boiler due to chemical or electrochemical reactions with the water, steam, or gases. Corrosion can be caused by low pH, dissolved oxygen, carbon dioxide, hydrogen sulfide, chlorides, sulfates, or other corrosive agents in the water or steam. Corrosion can weaken the boiler structure, cause leaks, and contaminate the steam.
+- **Contamination**: This is the presence of undesirable substances, such as oil, grease, dirt, or chemicals, in the boiler water or steam. Contamination can be caused by leakage, improper water treatment, or external sources. Contamination can affect the water quality, cause foaming, priming, carryover, corrosion, or scaling, and damage the boiler or the steam system.
+
+## Water Treatment and Maintenance
+
+To prevent or minimize the boiler troubles, proper water treatment and maintenance are required. Some of the common methods are:
+
+- **Pre-treatment**: This is the process of removing or reducing the impurities, such as dissolved solids, suspended solids, organic matter, gases, or hardness, from the feed water before entering the boiler. Pre-treatment can include filtration, softening, deaeration, demineralization, or reverse osmosis.
+- **Internal treatment**: This is the process of adding chemicals or agents to the boiler water to control the water quality, prevent scaling, corrosion, foaming, or priming, and improve the steam quality. Internal treatment can include pH adjustment, alkalinity control, oxygen scavenging, sludge conditioning, or antifoaming agents.
+- **Blowdown**: This is the process of removing a portion of the boiler water periodically or continuously to maintain the concentration of dissolved solids within the acceptable limits. Blowdown can prevent scaling, foaming, or carryover, and improve the water quality and efficiency.
+- **Cleaning**: This is the process of removing the deposits or contaminants from the boiler surfaces, such as scaling, corrosion, or oil. Cleaning can be done by mechanical, chemical, or thermal methods, depending on the type and extent of the deposits or contaminants. Cleaning can restore the heat transfer, prevent overheating, and extend the boiler life.
+- **Inspection**: This is the process of checking the boiler components, such as tubes, valves, fittings, or gauges, for

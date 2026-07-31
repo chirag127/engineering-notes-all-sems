@@ -1,0 +1,19 @@
+### Sculptures
+
+Sculptures are three-dimensional art forms that are created by carving, modelling, casting, or assembling various materials. Sculptures can be realistic, stylized, or abstract representations of human, animal, or divine figures. Sculptures can also convey symbolic, religious, or aesthetic meanings.
+
+Sculptures are an important part of the cultural heritage and performing arts of India. India has a rich and diverse tradition of sculpture art that dates back to the ancient Indus Valley civilization and continues to the present day. Some of the features and characteristics of Indian sculptures are:
+
+- Sculptures are often integrated with architecture, such as temples, stupas, pillars, caves, and monuments. Sculptures are used to adorn and embellish the buildings, as well as to illustrate the stories and teachings of various religions and philosophies.
+- Sculptures are made from a variety of materials, such as stone, metal, wood, clay, ivory, terracotta, and plaster. The choice of material depends on the availability, durability, cost, and aesthetic preference of the artists and patrons.
+- Sculptures reflect the diversity of the Indian subcontinent, with different regions, periods, and styles having their own distinctive features and influences. Some of the major styles of Indian sculpture are: Gandhara, Mathura, Gupta, Pallava, Chola, Hoysala, Pala, Khajuraho, and Mughal.
+- Sculptures are influenced by the religious and cultural beliefs of the people who created and commissioned them. The most common themes of Indian sculptures are: Hindu gods and goddesses, such as Shiva, Vishnu, Ganesha, Durga, and Lakshmi; Buddhist figures, such as Buddha, Bodhisattvas, and Tara; Jain Tirthankaras, such as Mahavira and Parshvanatha; and secular subjects, such as kings, queens, warriors, dancers, musicians, and animals.
+
+Some of the famous and unique sculptures of India are:
+
+- The Dancing Girl, Mohen Jo Daro, c. 2500 BC: A small bronze statue of a young girl in a dancing pose, wearing bangles and a necklace. It is one of the earliest examples of metal casting and realistic depiction of human anatomy in Indian art .
+- Ashoka Pillar, Sarnath, 3rd Century BC: A stone pillar with a four-lion capital, erected by Emperor Ashoka to mark the site where Buddha gave his first sermon. It is a symbol of the Mauryan empire and the spread of Buddhism. It also bears the Ashoka Chakra, a wheel with 24 spokes that represents the law of dharma.
+- Buddha Statue, Sarnath, 5th Century AD: A sandstone statue of Buddha in a seated posture, with his right hand in the gesture of teaching and his left hand in the gesture of meditation. It is one of the finest examples of the Gupta style of sculpture, which is characterized by grace, elegance, and serenity.
+- Nataraja, Chola Bronze Sculpture, 10th-12th Century AD: A bronze statue of Shiva as the lord of dance, standing on a dwarf demon and surrounded by a ring of fire. It is a symbol of the cosmic dance of creation and destruction, as well as the harmony of opposites. It is one of the most iconic and influential images of Hindu art .
+- Khajuraho Temples, Madhya Pradesh, 10th-12th Century AD: A group of Hindu and Jain temples that are famous for their erotic sculptures, depicting various forms of love, pleasure, and union. They are also examples of the Nagara style of architecture, which features curvilinear towers, intricate carvings, and elaborate ornamentation .
+- Taj Mahal, Agra, 17th Century AD: A white marble mausoleum built by Emperor Shah Jahan for his beloved wife Mumtaz Mahal. It is a masterpiece of Mughal architecture, which combines Persian, Islamic, and Indian elements. It is also a symbol of love, beauty, and grief .

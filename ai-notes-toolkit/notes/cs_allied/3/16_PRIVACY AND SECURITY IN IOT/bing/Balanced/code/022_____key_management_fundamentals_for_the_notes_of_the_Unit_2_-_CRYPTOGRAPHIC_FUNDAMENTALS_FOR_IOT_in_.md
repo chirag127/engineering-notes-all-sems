@@ -1,0 +1,15 @@
+### Key Management Fundamentals for IoT
+
+- Key management is the process of generating, storing, distributing, using, and revoking cryptographic keys in a secure and efficient manner.
+- Keys are essential for ensuring the confidentiality, integrity, and authenticity of data and devices in IoT systems.
+- Key management challenges for IoT include:
+  - Scalability: IoT systems may involve a large number of devices and users, requiring a scalable key management solution that can handle the high demand and complexity.
+  - Heterogeneity: IoT devices may have different capabilities, constraints, and requirements, such as power, memory, bandwidth, and security levels, requiring a flexible and adaptable key management solution that can support various types of devices and protocols.
+  - Mobility: IoT devices may move across different networks and domains, requiring a key management solution that can enable seamless and secure communication and data exchange among devices and services.
+  - Lifecycle: IoT devices may have different lifecycles, such as deployment, operation, maintenance, and decommissioning, requiring a key management solution that can support the dynamic and evolving nature of IoT systems.
+- Key management solutions for IoT may involve different components and techniques, such as:
+  - Key generation: The process of creating cryptographic keys using random or pseudorandom sources, such as physical or software-based entropy sources. Key generation should ensure that the keys are unpredictable, unique, and secure.
+  - Key storage: The process of storing cryptographic keys in a secure and accessible manner, such as in hardware or software-based key vaults, key servers, or cloud services. Key storage should ensure that the keys are protected from unauthorized access, modification, or deletion, and that they are available when needed.
+  - Key distribution: The process of transferring cryptographic keys from one entity to another in a secure and efficient manner, such as using public key infrastructure (PKI), key agreement protocols, or key wrapping techniques. Key distribution should ensure that the keys are authenticated, encrypted, and integrity-protected during transmission, and that they are delivered to the intended recipients.
+  - Key usage: The process of applying cryptographic keys to perform cryptographic operations, such as encryption, decryption, signing, verification, or hashing. Key usage should ensure that the keys are used for their intended purposes, and that they are compatible with the algorithms and protocols involved.
+  - Key revocation: The process of invalidating cryptographic keys that are no longer needed, compromised, or expired, such as using certificate revocation lists (CRLs), online certificate status protocol (OCSP), or key expiration dates. Key revocation should ensure that the keys are removed from the system and that they are no longer accepted or used by any entity.

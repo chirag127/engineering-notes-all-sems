@@ -1,0 +1,24 @@
+### Architecture for the notes of the Unit 1 - Introduction: The meaning of Object Orientation in the subject of Object Oriented System Design
+
+- Object Oriented Architecture is a design paradigm based on the division of responsibilities for an application or system into individual reusable and self-sufficient objects.
+- An object is an entity that encapsulates data and behavior, and communicates with other objects through messages.
+- Object Oriented Architecture aims to achieve the following benefits :
+  - Modularity: The system is composed of independent and loosely coupled modules that can be changed or replaced without affecting the whole system.
+  - Abstraction: The system hides the unnecessary details and exposes only the essential features and functionality to the users or other modules.
+  - Encapsulation: The system protects the internal state and data of each object from unauthorized access or manipulation by other objects.
+  - Inheritance: The system allows the creation of new classes or objects that inherit the attributes and behavior of existing ones, and can also override or extend them.
+  - Polymorphism: The system allows the same message or operation to have different meanings or effects depending on the type or state of the object that receives it.
+  - Reusability: The system enables the reuse of existing objects or classes in different contexts or applications, reducing the development time and cost.
+- Object Oriented Architecture follows some principles and guidelines to ensure the quality and maintainability of the system, such as:
+  - Single Responsibility Principle: Each object or class should have only one reason to change, and should be responsible for only one aspect of the system.
+  - Open/Closed Principle: Each object or class should be open for extension, but closed for modification, meaning that new functionality can be added without altering the existing code.
+  - Liskov Substitution Principle: Each object or class should be substitutable by its subtypes, meaning that the system should behave the same regardless of the specific type of the object.
+  - Interface Segregation Principle: Each object or class should depend only on the interfaces that it needs, and not on the ones that it does not use, meaning that the system should provide small and cohesive interfaces rather than large and monolithic ones.
+  - Dependency Inversion Principle: Each object or class should depend on abstractions rather than concretions, meaning that the system should rely on interfaces or abstract classes rather than concrete implementations.
+- Object Oriented Architecture involves defining the context and the architecture of the system, which can be done using the following steps :
+  - Identify the problem domain and the requirements of the system, such as the functional and non-functional requirements, the constraints, the assumptions, and the stakeholders.
+  - Identify the key concepts and entities in the problem domain, and model them as classes or objects, with their attributes and methods.
+  - Identify the relationships and interactions among the classes or objects, such as inheritance, association, aggregation, composition, and dependency, and model them using diagrams or notations, such as UML.
+  - Identify the subsystems or components of the system, and group the related classes or objects into them, based on their functionality, cohesion, and coupling.
+  - Identify the interfaces and contracts of the subsystems or components, and define the communication and collaboration among them, using diagrams or notations, such as UML.
+  - Identify the patterns and principles that can be applied to the system, and refactor or optimize the design accordingly, to improve the quality and maintainability of the system.

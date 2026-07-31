@@ -1,0 +1,11 @@
+#### Components of Hadoop
+
+Hadoop is a framework for distributed storage and processing of large-scale data. It consists of the following core components:
+
+- **Hadoop Distributed File System (HDFS)**: This is the storage layer of Hadoop that stores data in a distributed manner across multiple nodes in a cluster. HDFS provides high availability, fault tolerance, scalability, and data locality. HDFS splits the data into blocks and replicates them across different nodes for redundancy and faster access. HDFS also supports various file formats and compression techniques.   
+
+- **Hadoop MapReduce**: This is the processing layer of Hadoop that allows parallel execution of user-defined functions on the data stored in HDFS. MapReduce consists of two phases: map and reduce. The map phase applies a function to each block of data and produces intermediate key-value pairs. The reduce phase aggregates the intermediate values based on the keys and produces the final output. MapReduce can handle structured, semi-structured, and unstructured data. MapReduce also supports various programming languages and frameworks.   
+
+- **Hadoop YARN**: This is the resource management layer of Hadoop that allocates and manages the resources (such as CPU, memory, disk, and network) for the applications running on the cluster. YARN consists of two components: a resource manager and a node manager. The resource manager is the master node that oversees the cluster resources and schedules the applications. The node manager is the slave node that monitors and reports the resource usage and status of the node. YARN also supports various types of applications, such as batch, interactive, streaming, and machine learning.   
+
+These are the core components of Hadoop that enable it to handle the challenges of Big Data, such as volume, velocity, variety, and value.  Hadoop also has other components, such as Hadoop Common, Hadoop ZooKeeper, Hadoop Hive, Hadoop HBase, Hadoop Spark, and Hadoop Pig, that provide additional functionalities and features.

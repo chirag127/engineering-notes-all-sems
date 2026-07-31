@@ -1,0 +1,24 @@
+# Fiber Optic Communication Principle
+
+- Fiber optic communication is a method of transmitting information from one place to another by sending pulses of infrared light through an optical fiber.
+- The light is a form of carrier wave that is modulated to carry information.
+- Optical fiber is a thin, transparent fiber made of glass or plastic that can guide light along its length .
+- Optical fiber has a core, a cladding and a protective coating.
+- The core is the central region of the fiber where the light is confined and propagated.
+- The cladding is the outer layer of the fiber that surrounds the core and has a lower refractive index than the core.
+- The coating is the material that covers the cladding and protects the fiber from physical damage and moisture.
+- The principle of fiber optic communication is based on total internal reflection, which is the phenomenon that occurs when light traveling in a medium with a higher refractive index reaches the boundary with a medium with a lower refractive index at an angle greater than the critical angle .
+- When this happens, the light is reflected back into the higher refractive index medium and does not escape into the lower refractive index medium .
+- In an optical fiber, the light travels in the core and is totally internally reflected at the core-cladding interface, thus staying within the fiber and reaching the other end .
+- The advantages of fiber optic communication include:
+  - Higher bandwidth and data transmission rate than copper wire or wireless systems .
+  - Lower attenuation and interference than copper wire or wireless systems .
+  - Smaller size and weight than copper wire or wireless systems .
+  - Higher security and reliability than copper wire or wireless systems .
+  - Lower cost and maintenance than copper wire or wireless systems .
+- Fiber optic communication is used in various applications, such as:
+  - Telecommunications, such as telephone, internet and cable television signals .
+  - Medical, such as endoscopy, laser surgery and imaging.
+  - Defense, such as surveillance, communication and guidance systems.
+  - Government, such as traffic control, public safety and environmental monitoring.
+  - Industrial and commercial, such as sensors, lighting, displays and networking.

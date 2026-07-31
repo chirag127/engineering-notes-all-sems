@@ -1,0 +1,23 @@
+### Network analysis for the notes of the Unit 1 - Social Network Analysis in the subject of SOCIAL NETWORK ANALYTICS
+
+- Network analysis is a method of studying the structure and behavior of social entities (such as individuals, groups, organizations, etc.) and their relationships (such as connections, interactions, influences, etc.) using networks and graph theory.
+- A network is a representation of a social system, where the nodes are the entities and the edges are the relationships. A network can be directed or undirected, weighted or unweighted, simple or complex, depending on the nature and type of the relationships.
+- A graph is a mathematical abstraction of a network, where the nodes are called vertices and the edges are called arcs. A graph can be represented by an adjacency matrix, an incidence matrix, or an edge list. A graph can have various properties, such as degree, density, diameter, centrality, clustering, etc.
+- Social network analysis (SNA) is a branch of network analysis that focuses on the social aspects of networks, such as the roles, positions, functions, and dynamics of the nodes and edges. SNA can be used to answer various questions, such as:
+  - Who are the most influential or central actors in a network?
+  - How are the actors connected or grouped in a network?
+  - How does information or behavior spread in a network?
+  - How does the network structure affect the performance or outcomes of the actors?
+  - How does the network evolve over time or under different conditions?
+- SNA can be applied to various domains and contexts, such as:
+  - Sociology: to study social groups, communities, movements, organizations, etc.
+  - Psychology: to study personality, cognition, emotion, motivation, etc.
+  - Communication: to study media, discourse, opinion, persuasion, etc.
+  - Economics: to study markets, trade, innovation, cooperation, etc.
+  - Politics: to study power, conflict, governance, policy, etc.
+  - Biology: to study ecosystems, evolution, disease, etc.
+  - Computer science: to study algorithms, networks, data, etc.
+- SNA can be performed using various tools and techniques, such as:
+  - Data collection: to obtain or generate network data from various sources, such as surveys, interviews, observations, experiments, archives, etc.
+  - Data analysis: to measure, visualize, model, and interpret network data using various methods, such as descriptive statistics, graph theory, matrix algebra, network algorithms, etc.
+  - Data interpretation: to draw conclusions, implications, and recommendations from the network analysis results using various frameworks, such as theory, hypothesis, evidence, etc.

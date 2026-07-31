@@ -1,0 +1,7 @@
+### Federated Services and Applications
+
+- Cloud Federation, also known as Federated Cloud, is the deployment and management of several external and internal cloud computing services to match business needs. It is a multi-national cloud system that integrates private, community, and public clouds into scalable computing platforms .
+- Hadoop is a Java-based framework used to manipulate data in the cloud or on-premises. It can be installed on cloud servers to manage Big Data, whereas cloud alone cannot manage data without Hadoop in it .
+- Hadoop is designed to scale up from a single computer to thousands of clustered computers, with each machine offering local computation and storage. In this way, Hadoop can efficiently store and process large amounts of data .
+- A new IEEE standard has been developed to advance Federated Cloud Computing. Based on the cloud federation roadmap outlined in NIST Special Publication 500-332: The NIST Cloud Federation Reference Architecture, it describes a functional model that supports all of the governance and processes required to design and implement a successful, effective cloud federation .
+- One of the future challenges in Federated Cloud Computing is to cut through the jungle of standards to help the adoption of cloud computing by encouraging compliance of cloud services with respect to standards and thus providing evidence of compliance to legal and audit obligations .

@@ -1,0 +1,12 @@
+### Urdu Literature in India
+
+- Urdu literature is the literature written in the Urdu language, which is spoken by the Muslims of Pakistan and northern India .
+- Urdu literature is influenced by the Persian, Arabic, and Turkish languages, as well as the local languages of the Indian subcontinent, such as Hindi, Punjabi, Sindhi, and Gujarati.
+- Urdu literature is mainly composed of poetry, especially the verse forms of the ghazal and the nazm, but it also includes prose genres such as the short story, the novel, the biography, the autobiography, the travelogue, and the essay.
+- Urdu literature emerged in the 13th century, when the Delhi Sultanate was established by the Turkish and Afghan invaders, who brought the Persian language and culture to India.
+- The earliest examples of Urdu poetry are the verses of Amir Khusrow (1253-1325), who is considered the father of Urdu literature. He wrote in both Persian and Hindavi, a precursor of Urdu, and introduced many Persian poetic forms and themes to India.
+- The golden age of Urdu literature was the 18th and 19th centuries, when the Mughal Empire declined and the British colonial rule began. This period saw the development of the Urdu ghazal, a lyrical poem of love and longing, by poets such as Mir Taqi Mir (1723-1810), Mirza Ghalib (1797-1869), and Mirza Asadullah Khan Ghalib (1797-1869).
+- The Urdu nazm, a more modern and free verse form of poetry, emerged in the 20th century, influenced by the Western literary movements and the social and political changes in India. Some of the prominent nazm poets are Muhammad Iqbal (1877-1938), Faiz Ahmad Faiz (1911-1984), and Ahmad Faraz (1931-2008).
+- The Urdu short story, or afsana, also flourished in the 20th century, as a medium of expressing the realities and challenges of the Indian society, especially the Muslim community. Some of the famous afsana writers are Munshi Premchand (1880-1936), Saadat Hasan Manto (1912-1955), Ismat Chughtai (1915-1991), and Qurratulain Hyder (1927-2007).
+- The Urdu novel, or afsana-e-muqaddas, is a relatively recent genre, which emerged in the late 19th and early 20th centuries, influenced by the English and European novels. Some of the notable Urdu novelists are Abdul Halim Sharar (1860-1926), Ratan Nath Sarshar (1846-1902), Qazi Abdul Ghaffar (1862-1956), and Razia Butt (1924-2012).
+- Urdu literature is a rich and diverse tradition, which reflects the history, culture, and identity of the Indian Muslims, as well as their interactions and influences with other communities and regions .

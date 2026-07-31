@@ -1,0 +1,12 @@
+### Map Reduce features
+
+MapReduce is a programming model and a software framework for processing large datasets in parallel on multiple nodes of a cluster or a grid. It is typically used with Apache Hadoop or other big data platforms. Some of the features of MapReduce are:
+
+- **Highly scalable**: MapReduce can handle petabytes of data by distributing and storing them across thousands of servers. It can also scale up or down depending on the data volume and the available resources .
+- **Versatile**: MapReduce can access and process various types of data sources, such as structured, unstructured, or semi-structured data. It can also support different kinds of data analysis, such as filtering, aggregation, sorting, joining, or machine learning .
+- **Secure**: MapReduce can provide data security and integrity by using encryption, authentication, and authorization mechanisms. It can also protect data from failures or corruption by using replication, checksums, and fault tolerance techniques .
+- **Affordable**: MapReduce can reduce the cost of data processing by using commodity hardware and open source software. It can also optimize the resource utilization and the performance by using load balancing, scheduling, and compression techniques .
+- **Fast-paced**: MapReduce can speed up the data processing by using parallel and distributed algorithms. It can also leverage the locality of data and computation by using data partitioning, shuffling, and caching techniques .
+- **Based on a simple programming model**: MapReduce consists of two main functions: map and reduce. The map function takes a set of input key-value pairs and produces a set of intermediate key-value pairs. The reduce function takes the intermediate key-value pairs with the same key and combines them to produce a set of output key-value pairs .
+- **Parallel processing-compatible**: MapReduce can exploit the parallelism of data and computation by using a master-slave architecture. The master node coordinates the execution of the map and reduce tasks on the slave nodes. The slave nodes perform the actual data processing and communicate with the master node through a heartbeat mechanism .
+- **Reliable**: MapReduce can handle failures and errors by using a backup and recovery mechanism. The master node monitors the status of the slave nodes and reassigns the failed tasks to other nodes. The slave nodes store the intermediate results on the local disk and transfer them to the reduce nodes when needed .

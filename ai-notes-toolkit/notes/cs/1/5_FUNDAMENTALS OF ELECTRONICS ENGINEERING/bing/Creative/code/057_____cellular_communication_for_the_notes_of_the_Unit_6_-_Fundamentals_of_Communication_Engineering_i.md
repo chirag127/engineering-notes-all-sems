@@ -1,0 +1,21 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic of cellular communication for the notes of the Unit 6 - Fundamentals of Communication Engineering in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING. Here are some points that you can use for your notes:
+
+### Cellular Communication
+- Cellular communication is a type of wireless communication that uses radio waves to transmit and receive signals over a large area divided into smaller regions called cells.
+- Each cell has a base station that communicates with the mobile devices within its range. The base stations are connected to a central controller called the mobile switching center (MSC), which coordinates the handoff of calls between cells and connects them to other networks.
+- Cellular communication offers several advantages, such as high capacity, low interference, wide coverage, and mobility. It also allows for multiple access techniques, such as frequency division multiple access (FDMA), time division multiple access (TDMA), code division multiple access (CDMA), and orthogonal frequency division multiple access (OFDMA), to share the available spectrum among many users.
+- Cellular communication can be classified into different generations based on the technology and standards used. The first generation (1G) used analog signals and voice communication only. The second generation (2G) used digital signals and introduced data services, such as SMS and MMS. The third generation (3G) increased the data rates and supported multimedia applications, such as video and internet. The fourth generation (4G) provided higher data rates and seamless connectivity across different networks, such as Wi-Fi and LTE. The fifth generation (5G) is expected to offer ultra-high data rates, low latency, massive connectivity, and enhanced reliability.
+
+### Interference and System Capacity
+- Interference is the unwanted signal that affects the quality and performance of the desired signal in cellular communication. Interference can be caused by various factors, such as multipath propagation, fading, noise, co-channel interference, adjacent channel interference, and intermodulation interference.
+- System capacity is the maximum number of users that can be supported by a cellular system at a given time and location. System capacity depends on various factors, such as the available bandwidth, the modulation scheme, the multiple access technique, the cell size, the frequency reuse factor, the interference level, and the quality of service (QoS) requirements.
+- To increase the system capacity, various techniques can be used, such as cell splitting, cell sectoring, cell zoning, microcell and picocell zones, frequency hopping, spread spectrum, smart antennas, and power control.
+
+### PCS Extension to Hata Model
+- Hata model is a widely used empirical model to estimate the path loss in cellular communication. It is based on the data collected from the Okumura model, which measured the signal strength in urban, suburban, and rural areas in Japan.
+- Hata model has three variants: urban, suburban, and open area. The urban model is suitable for large cities with tall buildings and high population density. The suburban model is suitable for medium-sized cities with lower building heights and population density. The open area model is suitable for rural areas with flat terrain and sparse vegetation.
+- Hata model is valid for frequencies between 150 MHz and 1500 MHz, base station antenna heights between 30 m and 200 m, and mobile station antenna heights between 1 m and 10 m.
+- PCS extension to Hata model is a modification of the Hata model to extend its validity for frequencies up to 2000 MHz, which are used for personal communication services (PCS). PCS extension to Hata model introduces a correction factor for the frequency and the mobile station antenna height, and adjusts the coefficients of the urban, suburban, and open area models.
+
+: https://btechgeeks.com/cellular-mobile-communication-notes/
+: https://www.lcps.org/cms/lib4/VA01000195/Centricity/Domain/3552/Cell%20Communication%20Notes.pdf

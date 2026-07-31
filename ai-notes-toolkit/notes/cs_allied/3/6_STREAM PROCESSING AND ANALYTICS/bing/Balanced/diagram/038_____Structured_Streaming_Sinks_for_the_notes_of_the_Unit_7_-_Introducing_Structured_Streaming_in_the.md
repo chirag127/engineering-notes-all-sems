@@ -1,0 +1,8 @@
+### Structured Streaming Sinks
+
+- A sink is a destination for the output of a streaming query. It defines how the data is written to an external system or storage.
+- Structured Streaming supports various types of sinks, such as file, console, memory, Kafka, Delta Lake, etc. Each sink has its own capabilities and limitations, such as output mode, partitioning, watermarking, etc.
+- Some sinks are natively supported by Structured Streaming, while others require using a specialized method called `foreachBatch` or `foreach` to write the output of a streaming query to arbitrary data sources that do not have an existing streaming sink.
+- `foreachBatch` allows reusing existing batch data sources with Structured Streaming. It applies a function to every micro-batch of the streaming query and writes the data to the batch data source. It can also perform arbitrary logic on the output of the streaming query, such as calling REST APIs, updating state, etc.
+- `foreach` allows writing the output of a streaming query to a custom sink. It applies a function to every row of the streaming query and writes the data to the custom sink. It can also perform arbitrary logic on the output of the streaming query, such as calling REST APIs, updating state, etc.
+- Structured Streaming sinks are part of the Data Source API V1 and are used in Micro-Batch Stream Processing only. They are not compatible with Continuous Stream Processing.

@@ -1,0 +1,21 @@
+# Timing Constraints for the notes of the Unit 1 - Introduction of Real Time System
+
+- Timing constraints are a vital attribute in real-time systems.
+- Timing constraints decide the total correctness of the result in real-time systems.
+- The correctness of results in real-time system does not depend only on logical correctness but also the result should be obtained within the time constraint.
+- Every real-time system has a set of timing constraints that it has been designed to meet.
+- If a system doesn't have timing constraints, it is not real-time.
+- Timing constraints can be broken down into two categories:
+  - Event response: The ability to react to external events within a specified time interval.
+  - Task scheduling: The ability to execute a set of tasks within their deadlines and resource constraints.
+- Timing constraints can be expressed using various constructs in requirements languages, such as:
+  - Temporal operators: To specify the order, duration, frequency, and periodicity of events and tasks.
+  - Logical operators: To specify the conditions, dependencies, and alternatives of events and tasks.
+  - Quantifiers: To specify the number, range, and scope of events and tasks.
+  - Variables: To specify the parameters, values, and states of events and tasks.
+- Timing constraints can be validated using automatic test systems that can:
+  - Measure the actual response time and execution time of events and tasks.
+  - Compare the actual and expected results of events and tasks.
+  - Check the compliance and consistency of timing constraints with the system specifications and requirements.
+- Timing constraints are essential for real-time computing, which is the ability to produce the expected result by a specific deadline.
+- Timing constraints also require time synchronization, which is the capability of agents to coordinate independent clocks and operate together in unison.

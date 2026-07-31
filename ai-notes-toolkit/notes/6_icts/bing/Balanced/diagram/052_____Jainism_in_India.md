@@ -1,0 +1,12 @@
+### Jainism in India
+
+- Jainism is an ancient Indian religion that teaches the path to spiritual purity and enlightenment through nonviolence and reducing harm to all living beings .
+- Jainism originated in India at least 2,500 years ago and is one of the three oldest religions of India, along with Hinduism and Buddhism .
+- The spiritual goal of Jainism is to achieve moksha, an all-knowing state of liberation from the cycle of rebirth, by following the three jewels of right faith, right knowledge and right conduct .
+- Jains believe in the existence of eternal souls (jivas) and non-living substances (ajivas) that make up the universe, and that karma is a material substance that binds the soul to the cycle of rebirth .
+- Jains follow the teachings of 24 spiritual leaders called tirthankaras, who attained moksha and revealed the truth of Jainism. The last and most recent tirthankara was Mahavira, who lived in the 6th century BCE .
+- Jains practice five main ethical principles: ahimsa (nonviolence), satya (truthfulness), asteya (non-stealing), brahmacharya (celibacy or chastity) and aparigraha (non-attachment or non-possessiveness) .
+- Jains are divided into two major sects: Digambara (sky-clad) and Svetambara (white-clad), based on their differences in doctrine, practice and tradition. The Digambaras believe that nudity is a requirement for moksha, while the Svetambaras do not. The Svetambaras also accept women and texts that the Digambaras reject .
+- Jains are a small but influential minority in India, constituting about 0.4% of the population, or about 4.5 million people. They are mostly concentrated in the states of Gujarat, Maharashtra, Rajasthan and Karnataka .
+- Jains are the most educated and affluent religious group in India, with high levels of literacy, urbanization, gender equality and social mobility. They are also the only religious group in India where a majority identify as members of a higher caste .
+- Jains have contributed significantly to the fields of philosophy, literature, art, architecture, science, trade, politics and social reform in India. Some of the notable Jain figures in Indian history include Chandragupta Maurya, Ashoka, Harshavardhana, Hemachandra, Akbar, Mahatma Gandhi and Vallabhbhai Patel .

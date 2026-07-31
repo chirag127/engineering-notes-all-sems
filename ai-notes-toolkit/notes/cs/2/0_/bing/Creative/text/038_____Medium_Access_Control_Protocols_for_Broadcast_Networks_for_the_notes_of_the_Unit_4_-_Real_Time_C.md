@@ -1,0 +1,8 @@
+### Medium Access Control Protocols for Broadcast Networks
+
+- Medium access control (MAC) protocols coordinate access to a shared communications channel, such as a wireless network or a broadcast network.
+- Broadcast networks are networks where a single transmission from one node can reach all other nodes in the network, such as radio or satellite networks.
+- MAC protocols for broadcast networks can be classified according to the access strategy employed, such as probabilistic contention, deterministic contention, or reservation-based protocols.
+- Probabilistic contention protocols utilize direct, asynchronous competition between neighboring nodes to determine which node will transmit next. Examples include Aloha and CSMA. These protocols are simple, decentralized, and adaptive, but they suffer from collisions, low efficiency, and unbounded delay.
+- Deterministic contention protocols use a predefined order or priority to determine which node will transmit next. Examples include TDMA and token passing. These protocols are collision-free, efficient, and bounded in delay, but they require synchronization, coordination, and fixed allocation of resources.
+- Reservation-based protocols combine the advantages of both probabilistic and deterministic contention protocols by allowing nodes to reserve slots for future transmissions. Examples include ABROAD and PRMA. These protocols are adaptive, collision-free, and bounded in delay, but they require some overhead for reservation and synchronization.

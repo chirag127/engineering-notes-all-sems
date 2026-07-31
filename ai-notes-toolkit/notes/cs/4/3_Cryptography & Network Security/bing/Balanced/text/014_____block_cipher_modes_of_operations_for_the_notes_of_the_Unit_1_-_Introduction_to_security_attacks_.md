@@ -1,0 +1,11 @@
+### Block Cipher Modes of Operation
+
+- A block cipher mode of operation is an algorithm that uses a block cipher to provide information security such as confidentiality or authenticity.
+- A block cipher by itself is only suitable for the secure cryptographic transformation (encryption or decryption) of one fixed-length group of bits called a block.
+- To encrypt or decrypt messages of arbitrary length or that are streamed, a block cipher needs to be combined with a mode of operation.
+- There are five types of operations in block cipher modes: ECB (Electronic Code Book) mode, CBC (Cipher Block Chaining) mode, CFB (Cipher Feedback) mode, OFB (Output Feedback) mode and CTR (Counter) mode.
+- ECB mode encrypts each block of the message independently with the same key. It is simple and fast, but vulnerable to pattern analysis and identical plaintext blocks produce identical ciphertext blocks.
+- CBC mode XORs each block of the message with the previous ciphertext block before encryption. It requires an initialization vector (IV) to start the process. It is more secure than ECB, but encryption is sequential and errors propagate through the ciphertext.
+- CFB mode makes a block cipher into a self-synchronizing stream cipher. It encrypts the previous ciphertext block and XORs it with the current plaintext block to produce the current ciphertext block. It also requires an IV and can recover from errors after a few blocks.
+- OFB mode makes a block cipher into a synchronous stream cipher. It encrypts the IV and XORs it with the plaintext block to produce the ciphertext block. The encrypted IV is then used as the next IV. It does not propagate errors, but it requires synchronization between sender and receiver.
+- CTR mode also makes a block cipher into a stream cipher. It encrypts a counter value and XORs it with the plaintext block to produce the ciphertext block. The counter value is incremented for each block. It does not propagate errors and allows parallel encryption and decryption, but it requires a unique counter value for each message.

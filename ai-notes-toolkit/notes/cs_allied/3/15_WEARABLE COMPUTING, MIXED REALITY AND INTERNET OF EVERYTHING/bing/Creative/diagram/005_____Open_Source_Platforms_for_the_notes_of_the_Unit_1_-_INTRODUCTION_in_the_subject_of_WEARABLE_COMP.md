@@ -1,0 +1,14 @@
+### Open Source Platforms for Wearable Computing, Mixed Reality and Internet of Things
+
+- Open source platforms are software frameworks or tools that are publicly available and can be modified or distributed by anyone.
+- Open source platforms can facilitate the development, deployment and management of applications and devices for wearable computing, mixed reality and internet of things (IoT).
+- Some examples of open source platforms for wearable computing, mixed reality and IoT are:
+
+  - **Kaa IoT**: A cloud platform that allows managing an unlimited number of connected devices with cross-device interoperability. It supports various protocols, such as MQTT, CoAP, HTTP and WebSocket. It also provides data processing, analytics and visualization features.
+  - **MACCHINA.io**: A platform that enables web applications to communicate with IoT devices, such as sensors, actuators, cameras and wearables. It uses web standards, such as HTML, CSS, JavaScript and WebSocket. It also supports various protocols, such as MQTT, CoAP, REST and OPC UA.
+  - **Zetta**: A platform that generates HTTP APIs for IoT devices using Node.js. It allows devices to be expressed as state machines using JavaScript. It also supports data streaming, peer-to-peer communication and cloud integration.
+  - **GE Predix**: A platform that provides industrial IoT solutions, such as asset performance management, operations optimization and digital twins. It uses cloud, edge and hybrid architectures. It also offers data ingestion, storage, processing, analytics and visualization features.
+  - **ThingSpeak**: A platform that enables data collection, analysis and visualization from IoT devices. It supports various protocols, such as MQTT, HTTP and TCP. It also provides MATLAB integration, machine learning and web services.
+  - **DeviceHive**: A platform that allows controlling and monitoring IoT devices using RESTful APIs, WebSocket and MQTT. It supports various device types, such as Arduino, Raspberry Pi, Android and iOS. It also provides data management, security and cloud integration features.
+  - **Distributed Services Architecture (DSA)**: A platform that enables distributed and scalable IoT applications using a brokerless messaging system. It supports various protocols, such as MQTT, WebSocket and HTTP. It also provides data streaming, synchronization and discovery features.
+  - **Eclipse**: A platform that provides various open source projects and tools for IoT development, such as Eclipse IoT, Eclipse Kura, Eclipse Paho, Eclipse Mosquitto and Eclipse SmartHome. It supports various languages, such as Java, C, C++, Python and JavaScript. It also provides data management, security and cloud integration features.

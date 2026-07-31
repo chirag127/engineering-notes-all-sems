@@ -1,0 +1,48 @@
+# ENGINEERING PHYSICS LAB KCS
+
+- Engineering physics is an interdisciplinary field that combines physics and engineering to solve practical problems and develop new technologies.
+- Engineering physics lab is a course that provides hands-on experience and training in various aspects of engineering physics, such as optics, electronics, mechanics, thermodynamics, and materials science.
+- KCS is an acronym for Kennedy College of Sciences, which is a college of the University of Massachusetts Lowell that offers undergraduate and graduate programs in science and engineering disciplines.
+- The objectives of the engineering physics lab course are to:
+  - Develop experimental skills and techniques for measuring physical quantities and analyzing data.
+  - Apply theoretical concepts and mathematical models to explain and predict physical phenomena and behavior of systems.
+  - Design, construct, and test simple devices and circuits using basic tools and equipment.
+  - Communicate scientific results and conclusions effectively using written reports and oral presentations.
+  - Work collaboratively and ethically in a team environment.
+- The topics covered in the engineering physics lab course include:
+  - Measurement and error analysis
+  - Linear and angular motion
+  - Forces and energy
+  - Oscillations and waves
+  - Electric charge and potential
+  - Electric current and resistance
+  - Capacitors and RC circuits
+  - Magnetic fields and forces
+  - Inductance and RL circuits
+  - AC circuits and resonance
+  - Optics and lenses
+  - Interference and diffraction
+  - Polarization and birefringence
+  - Laser and fiber optics
+  - Thermodynamics and heat transfer
+  - Thermal expansion and stress
+  - Specific heat and calorimetry
+  - Phase transitions and latent heat
+  - Radiation and blackbody spectrum
+  - Materials and properties
+  - Elasticity and Young's modulus
+  - Torsion and shear modulus
+  - Bending and flexural modulus
+  - Hardness and fracture
+  - Crystal structure and diffraction
+  - Semiconductors and diodes
+  - Transistors and amplifiers
+  - LEDs and photodiodes
+  - Solar cells and photovoltaic effect
+- The format of the engineering physics lab course is as follows:
+  - Each lab session consists of a pre-lab quiz, a lab experiment, and a post-lab report.
+  - The pre-lab quiz is based on the lab manual and the lecture notes and is meant to assess the students' preparation and understanding of the lab topic.
+  - The lab experiment involves performing the experiment according to the lab manual, collecting and recording data, and answering questions related to the experiment.
+  - The post-lab report is a written document that summarizes the experiment, presents the data and analysis, and discusses the results and conclusions.
+  - The lab instructor evaluates the students' performance and provides feedback and grades for the quiz, the experiment, and the report.
+  - The students are expected to follow the lab safety rules and regulations, and to adhere to the academic integrity policy.

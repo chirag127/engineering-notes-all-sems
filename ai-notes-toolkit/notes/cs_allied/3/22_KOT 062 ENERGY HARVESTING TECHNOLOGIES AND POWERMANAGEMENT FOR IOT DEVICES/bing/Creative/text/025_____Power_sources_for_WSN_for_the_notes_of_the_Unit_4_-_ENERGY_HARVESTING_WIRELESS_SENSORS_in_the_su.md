@@ -1,0 +1,15 @@
+### Power sources for wireless sensor networks
+
+- Wireless sensor networks (WSNs) are composed of small, low-power devices that can sense, process, and communicate data wirelessly.
+- WSNs have many applications in environmental monitoring, industrial automation, health care, smart buildings, and military operations.
+- One of the main challenges in WSNs is to provide adequate and reliable power for the sensor nodes, which have limited energy resources and often operate in harsh and inaccessible environments.
+- Power sources for WSNs can be classified into three categories   :
+  - Energy reservoirs: These are devices that store energy on the node, such as batteries, capacitors, or fuel cells. They have a finite amount of energy and need to be replaced or recharged periodically.
+  - Power distribution: These are methods that deliver power to the node from an external source, such as wires, electromagnetic induction, or radio frequency. They require a power infrastructure and may not be feasible or cost-effective for large-scale or remote deployments.
+  - Power scavenging: These are techniques that harvest ambient energy from the environment, such as solar, thermal, vibration, or wind. They can provide continuous and self-sustaining power for the node, but they depend on the availability and intensity of the energy source and may need energy storage or conversion devices.
+- The choice of the power source for a WSN depends on several factors, such as the power consumption and duty cycle of the node, the size and weight constraints, the environmental conditions, the network topology and lifetime, and the cost and maintenance requirements.
+- Some examples of power sources for WSNs are:
+  - Batteries: They are the most common and widely used energy reservoirs for WSNs. They have high energy density, low cost, and easy integration. However, they have limited lifetime, low power density, and environmental issues. They can be primary (non-rechargeable) or secondary (rechargeable).
+  - Solar cells: They are the most popular and promising power scavenging devices for WSNs. They convert solar radiation into electrical energy. They have high power density, long lifetime, and low maintenance. However, they have low efficiency, high cost, and dependence on weather and daylight.
+  - Piezoelectric generators: They are devices that convert mechanical strain or vibration into electrical energy. They can scavenge energy from human motion, machinery, or natural phenomena. They have high power density, wide frequency range, and simple structure. However, they have low efficiency, high impedance, and nonlinear behavior.
+  - Thermoelectric generators: They are devices that convert temperature gradients or heat flow into electrical energy. They can scavenge energy from body heat, waste heat, or environmental temperature differences. They have high reliability, low noise, and no moving parts. However, they have low efficiency, high cost, and thermal resistance.

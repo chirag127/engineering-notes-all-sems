@@ -1,0 +1,10 @@
+### MapR
+
+- MapR is a distributed data platform for AI and analytics that enables enterprises to apply data modeling to their business processes with the goal of increasing revenue, reducing costs and mitigating risks.
+- MapR is a complete enterprise distribution for Apache Hadoop, which is an open-source framework for processing large-scale data sets using clusters of commodity hardware.
+- MapR provides several advantages over other Hadoop distributions, such as:
+  - High availability: MapR provides self-healing features that eliminate the need for a single point of failure, such as the NameNode in Hadoop. MapR also supports mirroring and snapshots for data protection and disaster recovery.
+  - High performance: MapR leverages a patented file system called MapR-FS, which is POSIX-compliant and supports random read/write operations, unlike the Hadoop Distributed File System (HDFS). MapR-FS also enables direct access to data from applications without using MapReduce, which can improve performance and reduce complexity.
+  - Ease of use: MapR provides a unified platform that integrates various components of the Hadoop ecosystem, such as Hive, Pig, Spark, HBase, and Kafka. MapR also offers a web-based management console, a command-line interface, and a REST API for administration and monitoring.
+- MapR also offers MapR Ecosystem Packs (MEPs), which are pre-tested and certified bundles of open-source software components that can be installed on top of the MapR platform. MEPs enable users to choose the versions and combinations of components that best suit their needs, without compromising compatibility or stability.
+- MapR is used by various industries and domains, such as financial services, healthcare, retail, telecommunications, and government, for applications such as fraud detection, customer analytics, risk management, and machine learning.

@@ -1,0 +1,12 @@
+### Nonproteobacteria Gram-Negative Bacteria
+
+- Nonproteobacteria are a diverse group of bacteria that do not belong to the phylum Proteobacteria, which contains the majority of gram-negative bacteria.
+- Nonproteobacteria can be either gram-negative or gram-positive, depending on the presence or absence of an outer membrane in their cell wall.
+- Nonproteobacteria can have various metabolic modes, such as photoautotrophy, chemoheterotrophy, or chemoautotrophy.
+- Some examples of nonproteobacteria are:
+
+  - **Chlamydia**: Obligate intracellular parasites that infect animals and humans, causing diseases such as trachoma, chlamydia, and lymphogranuloma venereum. They have a unique developmental cycle that involves two forms: elementary bodies and reticulate bodies.
+  - **Spirochetes**: Motile, spiral-shaped bacteria that have a flexible cell wall and axial filaments for locomotion. They can be free-living or pathogenic, causing diseases such as syphilis, Lyme disease, and leptospirosis. They are difficult or impossible to culture in the laboratory.
+  - **CFB group**: A phylum of bacteria that includes the genera Cytophaga, Fusobacterium, and Bacteroides. They share some similarities in their DNA sequences, but are phylogenetically diverse. They are mostly anaerobic and inhabit various environments, such as soil, water, and the human gut. They can degrade complex organic molecules, such as cellulose, chitin, and polysaccharides.
+  - **Planctomycetes**: A phylum of bacteria that have unusual features, such as a lack of peptidoglycan in their cell wall, a compartmentalized cytoplasm, and the ability to bud. They are aquatic and can be found in freshwater, marine, and brackish habitats. They can perform various metabolic processes, such as nitrification, denitrification, and anammox.
+  - **Phototrophic bacteria**: A group of bacteria that can use light as an energy source for biosynthesis. They can be either oxygenic or anoxygenic, depending on whether they produce oxygen or not during photosynthesis. They can also have different types of pigments, such as chlorophylls, bacteriochlorophylls, or carotenoids. Some examples of phototrophic bacteria are cyanobacteria, purple bacteria, green bacteria, and heliobacteria.

@@ -1,0 +1,24 @@
+### Pyramids
+
+- A pyramid is a polyhedron with a polygonal base and triangular faces that meet at a common vertex.
+- The base can be any regular or irregular polygon, such as a square, pentagon, hexagon, etc.
+- The height of a pyramid is the perpendicular distance from the vertex to the base plane.
+- The slant height of a pyramid is the distance from the vertex to the midpoint of an edge of the base.
+- The axis of a pyramid is the line joining the vertex and the center of the base.
+- The projection of a pyramid is the representation of the pyramid on a plane, such as the horizontal plane (HP) or the vertical plane (VP).
+- The projection of a pyramid depends on the position and orientation of the pyramid with respect to the plane of projection.
+- The projection of a pyramid can be classified into three types: parallel projection, oblique projection, and perspective projection.
+- Parallel projection is a type of projection where the rays of projection are parallel to each other and perpendicular to the plane of projection.
+- Oblique projection is a type of projection where the rays of projection are parallel to each other but not perpendicular to the plane of projection.
+- Perspective projection is a type of projection where the rays of projection converge at a single point called the center of projection or the eye of the observer.
+- In engineering graphics, parallel projection is commonly used to create multi-view drawings of solids, such as pyramids.
+- In parallel projection, the projection of a pyramid can be shown in two views: the front view and the top view.
+- The front view is the projection of the pyramid on the VP, and the top view is the projection of the pyramid on the HP.
+- The front view shows the true shape and size of the base and the true height of the pyramid, but not the true slant height or the true shape of the faces.
+- The top view shows the true shape and size of the faces and the true slant height of the pyramid, but not the true height or the true shape of the base.
+- To draw the projection of a pyramid, the following steps are followed:
+  - Draw the base of the pyramid on the VP or the HP, depending on the given position and orientation of the pyramid.
+  - Draw the axis of the pyramid from the center of the base to the vertex, making the given angle with the plane of the base.
+  - Draw the slant edges of the pyramid from the vertex to the corners of the base, making the given angle with the axis.
+  - Project the base, the axis, and the slant edges on the other plane, perpendicular to the rays of projection.
+  - Label the points and dimensions of the projection, using the standard conventions of engineering graphics.

@@ -1,0 +1,24 @@
+### LR parsers
+
+- LR parsers are a type of bottom-up parser that analyse deterministic context-free languages in linear time.
+- LR parsers read the input from left to right and produce a rightmost derivation in reverse .
+- LR parsers use a stack to store the symbols of the rightmost derivation and a state transition table to guide the parsing actions.
+- LR parsers can handle a large class of grammars, including most programming languages.
+- There are several variants of LR parsers, such as SLR, LALR, Canonical LR(1), Minimal LR(1), and GLR.
+- The main difference among these variants is the way they construct the state transition table and the amount of lookahead they use .
+- The state transition table consists of two parts: the action table and the goto table.
+- The action table specifies what action the parser should take (shift, reduce, accept, or error) for each state and input symbol.
+- The goto table specifies the next state the parser should go to after a reduction.
+- The state transition table is derived from the grammar using a technique called LR(1) item construction .
+- An LR(1) item is a pair of a production and a lookahead symbol .
+- An LR(1) item represents a possible configuration of the parser at some point during the parsing process .
+- A state is a set of LR(1) items that are compatible with each other .
+- The state transition table is constructed by finding the closure and the goto of each state .
+- The closure of a state is the set of all LR(1) items that can be derived from the items in the state by applying the grammar rules .
+- The goto of a state on a symbol is the state that results from shifting the symbol on the stack and taking the closure of the new state .
+- The state transition table is complete when no new states can be added .
+- The LR(1) parser is also called the canonical LR parser because it uses the most precise state transition table possible.
+- However, the LR(1) parser is also the most complex and memory-intensive variant of LR parsers, as it may generate a large number of states.
+- Therefore, other variants of LR parsers use different methods to reduce the size of the state transition table, such as merging states with compatible items (LALR), using a subset of the lookahead symbols (SLR), or using a minimal set of states (Minimal LR).
+- The GLR parser is a generalization of the LR parser that can handle nondeterministic and ambiguous grammars by using multiple stacks and parsers.
+- The GLR parser can parse any context-free grammar, but it may not produce a unique parse tree for some inputs.

@@ -1,0 +1,12 @@
+### Components for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+
+Reinforcement learning (RL) is an area of machine learning that deals with how intelligent agents should take actions in an environment to maximize a cumulative reward. Unlike supervised learning or unsupervised learning, reinforcement learning does not rely on labeled data or predefined rules, but rather learns from its own experience and feedback.
+
+The main components of a reinforcement learning system are  :
+
+- **Agent**: The agent is the entity that interacts with the environment and learns from its actions and outcomes. The agent can be a robot, a software program, a game player, or any other system that can perceive and act.
+- **Environment**: The environment is the external world that the agent operates in. The environment can be deterministic or stochastic, fully observable or partially observable, discrete or continuous, or any combination of these. The environment provides the agent with observations and rewards, and responds to the agent's actions.
+- **Policy**: The policy is the strategy or the rule that the agent follows to select its actions at each time step. The policy can be deterministic or stochastic, explicit or implicit, or learned or given. The policy is often the main output of a reinforcement learning algorithm.
+- **Reward**: The reward is the numerical feedback that the agent receives from the environment after each action. The reward indicates how well the agent is performing its task and guides its learning process. The reward can be immediate or delayed, scalar or vector, or sparse or dense. The goal of the agent is to maximize the expected cumulative reward over time.
+- **Value function**: The value function is the function that estimates the long-term value or desirability of each state or action. The value function captures the trade-off between immediate and future rewards, and helps the agent to evaluate and compare different actions. The value function can be state-value function or action-value function, and can be learned or computed using various methods.
+- **Model**: The model is the optional component that represents the agent's knowledge or assumptions about the environment's dynamics. The model can be used to predict the next state and reward given the current state and action, or to plan ahead and select the best action sequence. The model can be learned from data or given by an expert, and can be accurate or approximate.

@@ -1,0 +1,15 @@
+## Unit 3 - DIMENSIONALITY REDUCTION
+
+In machine learning, high-dimensional datasets are common, but working with them can be challenging. One of the main problems with high-dimensional data is that it can become difficult to visualize and analyze. Dimensionality reduction is a set of techniques that aim to overcome this problem by reducing the number of features in a dataset while retaining the most important information.
+
+Here are some key points to understand about dimensionality reduction:
+
+- Dimensionality reduction is the process of reducing the number of features in a dataset while retaining the most important information. It is a crucial step in many machine learning applications, such as image recognition, text classification, and speech recognition.
+- The two main types of dimensionality reduction techniques are feature selection and feature extraction. Feature selection involves selecting a subset of the original features, while feature extraction involves transforming the original features into a new set of features that capture the most important information.
+- Principal Component Analysis (PCA) is a popular feature extraction technique that can be used to reduce the dimensionality of a dataset. PCA works by finding the directions of maximum variance in the data and projecting the data onto a lower-dimensional subspace that captures most of the original variance.
+- Another popular feature extraction technique is t-SNE, which is used for visualizing high-dimensional datasets. t-SNE works by preserving the pairwise distances between the points in the high-dimensional space and mapping them to a lower-dimensional space.
+- In addition to feature extraction techniques, there are also feature selection techniques such as Recursive Feature Elimination (RFE) and L1 regularization. RFE involves recursively removing the least important features from the dataset, while L1 regularization encourages sparsity in the feature space by setting some of the feature weights to zero.
+- One of the main advantages of dimensionality reduction is that it can help to reduce overfitting in machine learning models. By reducing the number of features, the model has fewer parameters to learn and is less likely to overfit the training data.
+- However, dimensionality reduction can also have some disadvantages, such as losing some of the original information and making it more difficult to interpret the results. Therefore, it is important to carefully evaluate the trade-offs between dimensionality reduction and model performance before applying it to a particular problem.
+
+In summary, dimensionality reduction is a set of techniques that can help to overcome the challenges of working with high-dimensional datasets in machine learning. By reducing the number of features while retaining the most important information, dimensionality reduction can help to improve model performance and reduce overfitting. However, it is important to carefully evaluate the trade-offs before applying dimensionality reduction to a particular problem.

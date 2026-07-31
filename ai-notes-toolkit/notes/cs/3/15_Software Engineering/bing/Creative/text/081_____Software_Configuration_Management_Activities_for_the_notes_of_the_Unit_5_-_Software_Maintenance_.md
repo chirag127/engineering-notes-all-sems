@@ -1,0 +1,11 @@
+### Software Configuration Management Activities
+
+Software configuration management (SCM) is a process that systematically manages, organizes, and controls the changes in the documents, codes, and other entities during the software development life cycle. The primary goal is to increase productivity with minimal mistakes.
+
+The major activities of SCM are :
+
+- **Configuration identification** – This is the process of identifying all of the components of a project and ensuring that these components can be found quickly throughout the project life cycle. Configuration identification also involves defining the configuration items (CIs), which are the units of configuration management, and the baselines, which are the reference points for configuration control.
+- **Configuration control** – This is the process of implementing a controlled change process, which involves evaluating, approving, and implementing changes to the CIs and baselines. Configuration control also involves maintaining the traceability and integrity of the CIs and baselines throughout the project life cycle.
+- **Configuration status accounting** – This is the process of recording and reporting all the necessary information on the status of the development process, such as the current version, location, and owner of each CI and baseline, the history of changes to each CI and baseline, and the dependencies and relationships among the CIs and baselines.
+- **Configuration auditing** – This is the process of verifying that the CIs and baselines are consistent with the requirements, design, and implementation of the project, and that they comply with the standards and regulations. Configuration auditing also involves checking that the configuration management process is followed and documented properly.
+- **Release management and delivery** – This is the process of preparing and distributing the CIs and baselines to the intended users, customers, or stakeholders. Release management and delivery also involves ensuring that the CIs and baselines are compatible, secure, and reliable, and that they meet the quality and performance expectations.

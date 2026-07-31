@@ -1,0 +1,25 @@
+### Basic concepts for the notes of the Unit 3 - Knowledge-Based Systems- AI Context in the subject of INTELLIGENT DATABASE SYSTEM
+
+- A **knowledge-based system (KBS)** is a form of artificial intelligence (AI) that aims to capture the knowledge of human experts to support decision-making  .
+- A KBS consists of two main components: a **knowledge base** and an **inference engine**  .
+- A **knowledge base** is a collection of facts, rules, and heuristics that represent the domain knowledge of the human experts  .
+- An **inference engine** is a software program that applies logical reasoning to the knowledge base to generate solutions or recommendations for specific problems  .
+- A KBS can be classified into different types based on the nature of the knowledge, the reasoning method, and the application domain  .
+- Some common types of KBS are:
+  - **Expert systems**: KBS that emulate the reasoning and decision-making of human experts in a specific domain, such as medical diagnosis, financial planning, or engineering design   .
+  - **Case-based reasoning systems**: KBS that use past cases or examples to solve new problems by finding similarities and differences between them, such as legal reasoning, customer service, or product recommendation .
+  - **Rule-based systems**: KBS that use a set of if-then rules to represent and manipulate knowledge, such as tax calculation, credit scoring, or natural language processing .
+  - **Ontology-based systems**: KBS that use a formal representation of concepts and relationships in a domain to facilitate knowledge sharing and reuse, such as semantic web, information retrieval, or knowledge management .
+- A KBS can be used for various purposes, such as:
+  - **Problem-solving**: KBS can provide solutions or recommendations for complex or ill-structured problems that require human expertise or judgment, such as diagnosis, planning, or design   .
+  - **Knowledge acquisition**: KBS can help capture, store, and organize the knowledge of human experts or other sources, such as documents, databases, or sensors   .
+  - **Knowledge dissemination**: KBS can help transfer and communicate the knowledge to other users or systems, such as learners, customers, or agents   .
+  - **Knowledge refinement**: KBS can help update, revise, and improve the knowledge based on new information, feedback, or evaluation   .
+- A KBS can have various benefits, such as:
+  - **Increasing efficiency**: KBS can reduce the time and cost of solving problems or performing tasks by automating or augmenting the human reasoning process   .
+  - **Enhancing quality**: KBS can improve the accuracy and consistency of the solutions or recommendations by avoiding human errors or biases   .
+  - **Preserving knowledge**: KBS can retain and reuse the valuable knowledge of human experts who may retire, leave, or die   .
+  - **Expanding knowledge**: KBS can discover and generate new knowledge from existing knowledge or data by applying inference or learning techniques   .
+- A KBS can also have some challenges, such as:
+  - **Knowledge elicitation**: KBS may face difficulties in extracting, representing, and validating the knowledge of human experts who may be reluctant, busy, or tacit   .
+  - **Knowledge maintenance**: KBS may require frequent and costly updates and revisions of the knowledge base to cope with the changes and uncertainties in the domain[^1

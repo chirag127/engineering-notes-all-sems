@@ -1,0 +1,10 @@
+
+### I/O Systems for the notes of the Unit 4 - VXWORKS / FREE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+* Input/Output (I/O) systems are the mechanisms by which user programs can access hardware devices such as keyboards, monitors, printers, and other peripherals.
+* VxWorks is a real-time operating system (RTOS) developed by Wind River Systems. It is designed for embedded systems, and is used in a variety of applications such as medical devices, industrial automation, and aerospace.
+* FreeRTOS is an open source real-time operating system (RTOS) for embedded systems. It is designed to be small and simple, making it suitable for a wide range of devices. It is available for free and can be used for commercial applications.
+* I/O systems for VxWorks and FreeRTOS are designed to provide efficient and reliable access to hardware devices. The I/O system consists of drivers, libraries, and APIs that are used to control and interact with hardware devices.
+* VxWorks provides a range of drivers for different types of hardware devices, including serial ports, USB, Ethernet, and other peripherals. It also includes a library of functions for performing common I/O operations, such as opening and closing files, reading and writing data, and controlling device settings.
+* FreeRTOS provides a range of drivers for different types of hardware devices, including serial ports, USB, Ethernet, and other peripherals. It also includes a library of functions for performing common I/O operations, such as opening and closing files, reading and writing data, and controlling device settings.
+* Both VxWorks and FreeRTOS provide APIs that allow user programs to access and control hardware devices. These APIs provide a range of functions for performing basic I/O operations, such as opening and closing files, reading and writing data, and controlling device settings.

@@ -1,0 +1,31 @@
+# Learning and Generalisation for the Notes of the Unit 3 - Data Analysis in the Subject of Introduction to Data Analytics and Visualization
+
+- Learning analytics is the collection and analysis of data about learners and their environments for the purpose of understanding and improving learning outcomes.
+- Learning analytics can be used to:
+  - Provide feedback and guidance to learners and instructors
+  - Identify at-risk learners and intervene early
+  - Personalize learning paths and content
+  - Evaluate the effectiveness of learning activities and interventions
+  - Discover new insights and patterns from learning data
+- Generalisation is the ability of a machine learning model to classify or forecast new data that is not part of the training set.
+- Generalisation is the ultimate goal of machine learning, as it indicates that the model has learned statistical patterns that are not specific to the training data, but applicable to the underlying population or distribution.
+- Generalisation can be measured by the difference between the training error and the test error of a model. A small difference indicates good generalisation, while a large difference indicates overfitting or underfitting.
+- Overfitting is when a model learns too much from the training data, and fails to generalise to new data. It can be caused by having too many features, too complex models, or too little data.
+- Underfitting is when a model learns too little from the training data, and fails to capture the underlying patterns. It can be caused by having too few features, too simple models, or too noisy data.
+- Bias is the difference between the expected prediction of a model and the true value. It measures how accurate a model is on average.
+- Variance is the variability of the predictions of a model across different training sets. It measures how sensitive a model is to the specific training data.
+- There is a trade-off between bias and variance in machine learning. A high bias model tends to have low variance, but high error. A low bias model tends to have high variance, but low error. The optimal model is the one that minimises the total error, which is the sum of bias and variance.
+- Regularisation is a technique to reduce overfitting and improve generalisation by adding a penalty term to the model complexity or the model parameters.
+- Regularisation can be done by:
+  - Adding a L1 or L2 norm to the model parameters, which shrinks them towards zero and reduces the number of effective features
+  - Adding a dropout layer to the model, which randomly drops out some units or connections and reduces the co-dependence of features
+  - Adding a noise layer to the model, which adds random noise to the inputs or outputs and reduces the sensitivity of the model to small variations
+  - Adding a early stopping criterion to the model, which stops the training process when the validation error starts to increase and prevents overfitting
+- Adaptive data analysis is the process of performing multiple analyses on the same data set, where each analysis depends on the results of previous analyses.
+- Adaptive data analysis can lead to overfitting and false discoveries, as the data is repeatedly reused and the hypotheses are not independent.
+- To prevent overfitting and ensure generalisation in adaptive data analysis, some techniques are :
+  - Using a holdout set, which is a subset of the data that is not used for training or validation, but only for testing the final model or hypothesis
+  - Using differential privacy, which is a framework that adds random noise to the data or the analysis results to preserve the privacy of the individuals in the data
+  - Using information-theoretic bounds, which are mathematical formulas that limit the amount of information that can be extracted from the data or the analysis results
+  - Using cross-validation, which is a method that splits the data into multiple folds and uses each fold as a test set while using the rest as a training set
+  - Using bootstrapping, which is a method that resamples the data with replacement and creates multiple synthetic data sets to estimate the variability and uncertainty of the analysis results

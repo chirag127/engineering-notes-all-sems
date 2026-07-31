@@ -1,0 +1,9 @@
+### Distributed Deadlock Detection
+
+- A deadlock is a condition where a set of processes request resources that are held by other processes in the set, and none of the processes can proceed or release the resources.
+- Distributed deadlocks can occur when distributed transactions or concurrency control are utilized in distributed systems.
+- Deadlock detection in distributed systems entails addressing two basic issues: first, detection of existing deadlocks and second, resolution of detected deadlocks.
+- Deadlock detection in distributed systems can be done using any of the following three approaches:
+  - Centralized approach: A single node is designated as the deadlock detector and collects information about the resource allocation and requests from all the nodes in the system. The deadlock detector constructs a global wait-for graph (WFG) and checks for cycles in the graph. If a cycle is found, a deadlock is detected and resolved by aborting one or more processes in the cycle.
+  - Distributed approach: Each node maintains a local wait-for graph and periodically sends it to a neighboring node. The neighboring node merges the received graph with its own graph and forwards it to another neighbor. This process continues until the graph returns to the original node. The original node then checks for cycles in the graph and initiates deadlock resolution if needed. This approach is also known as edge chasing.
+  - Hierarchical approach: The nodes in the system are organized into a hierarchy of clusters. Each cluster has a coordinator node that collects information from the nodes in the cluster and constructs a local wait-for graph. The coordinator nodes then exchange information with each other and construct a global wait-for graph at the top level of the hierarchy. The top-level coordinator checks for cycles in the graph and initiates deadlock resolution if needed. This approach is a hybrid of the centralized and distributed approaches.

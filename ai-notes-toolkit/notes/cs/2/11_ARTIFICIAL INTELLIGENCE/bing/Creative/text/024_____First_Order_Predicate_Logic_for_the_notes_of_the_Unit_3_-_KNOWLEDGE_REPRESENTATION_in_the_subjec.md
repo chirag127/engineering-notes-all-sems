@@ -1,0 +1,33 @@
+### First Order Predicate Logic
+
+- First order predicate logic (FOPL) is a form of knowledge representation that extends propositional logic with quantifiers, variables, predicates, and functions.
+- FOPL allows expressing complex sentences that involve relations between objects, properties of objects, and quantification over objects.
+- FOPL syntax consists of the following elements:
+  - **Constants**: symbols that represent specific objects in the domain, such as `a`, `b`, `John`, `Mary`, etc.
+  - **Variables**: symbols that can take the place of any object in the domain, such as `x`, `y`, `z`, etc.
+  - **Predicates**: symbols that represent relations between objects or properties of objects, such as `P`, `Q`, `R`, `father_of`, `red`, etc. Predicates can have one or more arguments, which are constants or variables.
+  - **Functions**: symbols that represent mappings from objects to objects, such as `f`, `g`, `h`, `mother_of`, `successor`, etc. Functions can have one or more arguments, which are constants or variables.
+  - **Connectives**: symbols that represent logical operations, such as `¬` (negation), `∧` (conjunction), `∨` (disjunction), `→` (implication), and `↔` (equivalence).
+  - **Quantifiers**: symbols that represent the scope of variables, such as `∀` (universal quantifier) and `∃` (existential quantifier).
+  - **Parentheses**: symbols that group expressions and indicate the order of evaluation, such as `(` and `)`.
+- FOPL semantics defines the meaning of FOPL sentences in terms of a **domain** (a set of objects), an **interpretation** (a mapping from constants, predicates, and functions to objects, relations, and mappings in the domain), and a **valuation** (a mapping from variables to objects in the domain).
+- FOPL sentences can be evaluated as true or false with respect to a given domain, interpretation, and valuation, using the following rules:
+  - A constant is true if and only if it is mapped to an object in the domain by the interpretation.
+  - A variable is true if and only if it is mapped to an object in the domain by the valuation.
+  - A predicate is true if and only if the relation or property it represents holds for the objects that its arguments are mapped to by the interpretation and the valuation.
+  - A function is true if and only if it is mapped to an object in the domain by the interpretation and the valuation, and that object is the result of applying the mapping it represents to the objects that its arguments are mapped to by the interpretation and the valuation.
+  - A negation is true if and only if its argument is false.
+  - A conjunction is true if and only if both its arguments are true.
+  - A disjunction is true if and only if at least one of its arguments is true.
+  - An implication is true if and only if its antecedent is false or its consequent is true.
+  - An equivalence is true if and only if both its arguments have the same truth value.
+  - A universal quantifier is true if and only if its argument is true for every possible valuation of the variable it binds.
+  - An existential quantifier is true if and only if its argument is true for some possible valuation of the variable it binds.
+- FOPL inference is the process of deriving new FOPL sentences from existing FOPL sentences, using logical rules and principles. Some common FOPL inference methods are:
+  - **Modus ponens**: from `P` and `P → Q`, infer `Q`.
+  - **Modus tollens**: from `¬Q` and `P → Q`, infer `¬P`.
+  - **Universal instantiation**: from `∀x P(x)`, infer `P(a)` for any constant `a`.
+  - **Existential instantiation**: from `∃x P(x)`, infer `P(a)` for some new constant `a`.
+  - **Universal generalization**: from `P(a)` for any constant `a`, infer `∀x P(x)`.
+  - **Existential generalization**: from `P(a)` for some constant `a`, infer `∃x P(x)`.
+  - **Resolution**: from `P ∨ Q` and `¬P ∨ R`, infer `Q ∨ R`.

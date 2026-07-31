@@ -1,0 +1,21 @@
+### Arrays: Array Notation and Representation, Manipulating Array Elements, using Multi Dimensional Arrays. Character Arrays and Strings, Structure, union, Enumerated Data types, Array of Structures, Passing Arrays to Functions.
+
+- An array is a data structure that can store a fixed-size sequential collection of elements of the same type.
+- An array is represented by a single name followed by square brackets that indicate the size or the index of the elements.
+- For example, int a[10] declares an array of 10 integers, and a[0] refers to the first element, a[1] to the second element, and so on.
+- An array can be initialized by assigning values to its elements in curly braces, separated by commas. For example, int a[5] = {1, 2, 3, 4, 5} initializes an array of 5 integers with the given values.
+- An array can be manipulated by accessing or modifying its elements using the index notation. For example, a[2] = 10 assigns the value 10 to the third element of the array a.
+- An array can also be manipulated by using built-in functions or methods that perform various operations on the array, such as sorting, searching, reversing, slicing, etc. For example, Array.sort(a) sorts the array a in ascending order.
+- A multi-dimensional array is an array that can store another array as its element. A multi-dimensional array can be declared by using multiple square brackets that indicate the dimensions of the array.
+- For example, int a[2][3] declares a two-dimensional array of 2 rows and 3 columns, and a[0][1] refers to the second element of the first row, a[1][2] to the third element of the second row, and so on.
+- A multi-dimensional array can be initialized by assigning values to its elements in nested curly braces, separated by commas. For example, int a[2][3] = {{1, 2, 3}, {4, 5, 6}} initializes a two-dimensional array of 2 rows and 3 columns with the given values.
+- A multi-dimensional array can be manipulated by accessing or modifying its elements using the index notation. For example, a[1][2] = 10 assigns the value 10 to the third element of the second row of the array a.
+- A multi-dimensional array can also be manipulated by using built-in functions or methods that perform various operations on the array, such as sorting, searching, reversing, slicing, etc. For example, Array.sort(a[0]) sorts the first row of the array a in ascending order.
+- A character array is an array that can store characters as its elements. A character array can be declared by using the char data type followed by square brackets that indicate the size or the index of the elements.
+- For example, char a[10] declares an array of 10 characters, and a[0] refers to the first character, a[1] to the second character, and so on.
+- A character array can be initialized by assigning values to its elements in single quotes, separated by commas, or by using a string literal in double quotes. For example, char a[5] = {'a', 'b', 'c', 'd', 'e'} or char a[5] = "abcde" initializes an array of 5 characters with the given values.
+- A character array can be manipulated by accessing or modifying its elements using the index notation. For example, a[2] = 'x' assigns the character 'x' to the third element of the array a.
+- A character array can also be manipulated by using built-in functions or methods that perform various operations on the array, such as concatenating, comparing, copying, finding, etc. For example, strcat(a, "fgh") appends the string "fgh" to the end of the array a.
+- A string is a special type of character array that is terminated by a null character '\0'. A string can be declared by using the char data type followed by square brackets that indicate the size or the index of the elements, or by using the string data type.
+- For example, char a[10] or string a declares a string of 10 characters, and a[0] refers to the first character, a[1] to the second character, and so on.
+- A string can be initialized by

@@ -1,0 +1,26 @@
+# Cipher suites for the notes of the Unit 2 - CRYPTOGRAPHIC FUNDAMENTALS FOR IOT in the subject of PRIVACY AND SECURITY IN IOT
+
+- Cipher suites are collections of algorithms that can work together to perform the secure communication between two parties over a network.
+- Cipher suites consist of four components:
+  - Key exchange algorithm: This algorithm is used to establish a shared secret key between the parties, such as RSA, DH, ECDH, DHE, ECDHE, or PSK.
+  - Authentication algorithm: This algorithm is used to verify the identity of the parties, such as RSA, ECDSA, or DSA.
+  - Encryption algorithm: This algorithm is used to encrypt and decrypt the data exchanged between the parties, such as AES, CHACHA20, Camellia, or ARIA.
+  - Message authentication code (MAC) algorithm: This algorithm is used to ensure the integrity and authenticity of the data exchanged between the parties, such as SHA-256, and POLY1305.
+- Cipher suites are negotiated during the handshake phase of the Transport Layer Security (TLS) protocol, which is the most widely used protocol for securing network connections.
+- Cipher suites are identified by a standard name, such as TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, which indicates the key exchange, authentication, encryption, and MAC algorithms used in the suite.
+- Cipher suites are also assigned a hexadecimal code, such as 0xC030, which is used to represent the suite in the TLS messages.
+- Cipher suites vary in their security, performance, and compatibility. Some cipher suites are considered more secure than others, such as those that use elliptic curve cryptography (ECC) or authenticated encryption with associated data (AEAD) algorithms.
+- Cipher suites also have different computational and bandwidth requirements, which may affect their suitability for different applications and devices.
+- Cipher suites may not be supported by all devices, platforms, or protocols, which may limit their interoperability and availability.
+- Cipher suites for IoT devices should be chosen carefully, considering the security, performance, and compatibility requirements of the IoT application and environment.
+- Some cloud platforms, such as Azure and AWS, provide recommendations and support for specific cipher suites for IoT devices that connect to their services  .
+- Some examples of cipher suites recommended by Azure IoT Hub are:
+  - TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+  - TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+  - TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+  - TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384
+- Some examples of cipher suites recommended by AWS IoT Core are:
+  - TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+  - TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+  - TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256
+  - TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384

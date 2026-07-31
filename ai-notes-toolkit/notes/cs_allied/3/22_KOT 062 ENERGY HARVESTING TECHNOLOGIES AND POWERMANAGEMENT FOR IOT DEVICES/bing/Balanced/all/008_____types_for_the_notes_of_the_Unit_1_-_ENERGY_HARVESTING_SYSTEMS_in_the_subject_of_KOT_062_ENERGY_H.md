@@ -1,0 +1,12 @@
+# Unit 1 - Energy Harvesting Systems
+
+- Energy harvesting systems are devices or systems that are used to convert ambient energy, which is derived from external sources existing in the atmosphere, into electrical energy.
+- Energy harvesting systems are attractive alternatives to battery-operated systems, especially for long-term, low-power, and self-sustaining electronic systems.
+- Energy harvesting systems can be classified into different types based on the source of ambient energy, such as:
+  - Mechanical energy harvesting: This type of energy harvesting converts mechanical energy, such as vibrations, stress, strain, or pressure, into electrical energy. Examples of mechanical energy harvesting devices are piezoelectric, electromagnetic, and electrostatic generators .
+  - Thermal energy harvesting: This type of energy harvesting converts thermal energy, such as temperature gradients, waste heat, or body heat, into electrical energy. Examples of thermal energy harvesting devices are thermoelectric, thermionic, and pyroelectric generators .
+  - Solar energy harvesting: This type of energy harvesting converts solar energy, such as sunlight or artificial light, into electrical energy. Examples of solar energy harvesting devices are photovoltaic, photoelectrochemical, and luminescent solar concentrator cells .
+  - Radio frequency energy harvesting: This type of energy harvesting converts radio frequency energy, such as electromagnetic waves from wireless communication or broadcasting, into electrical energy. Examples of radio frequency energy harvesting devices are antennas, rectifiers, and resonators .
+  - Other types of energy harvesting: These types of energy harvesting convert other sources of ambient energy, such as wind, water, sound, or biological, into electrical energy. Examples of other energy harvesting devices are wind turbines, water wheels, microphones, and biofuel cells .
+- Energy harvesting systems require interface circuits to control and regulate the flows of energy, such as power management, energy storage, and power conversion circuits .
+- Energy harvesting systems have various applications, such as in wireless sensor networks, wearable devices, implantable devices, remote monitoring systems, and smart buildings .

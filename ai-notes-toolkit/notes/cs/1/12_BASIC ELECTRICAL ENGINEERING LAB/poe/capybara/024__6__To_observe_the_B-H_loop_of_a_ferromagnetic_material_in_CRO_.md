@@ -1,0 +1,12 @@
+##### To observe the B-H loop of a ferromagnetic material in CRO:
+
+- A cathode ray oscilloscope (CRO) is an instrument used to display the waveform of electrical signals. It consists of an electron gun, deflection system, and fluorescent screen.
+- The B-H loop is a graph depicting the relationship between the magnetic field strength and the magnetic flux density of a ferromagnetic material. It is an important tool for understanding the magnetic properties of a material.
+- To observe the B-H loop of a ferromagnetic material in CRO, we need to use a current-carrying solenoid to generate a magnetic field and a test specimen made of ferromagnetic material.
+- The current flowing through the solenoid creates a magnetic field inside the test specimen. The magnetic field strength can be varied by adjusting the current flowing through the solenoid.
+- The magnetic flux density in the test specimen can be measured using a Hall probe. The Hall probe is a transducer that converts the magnetic field into a voltage output.
+- The output of the Hall probe is connected to the input of the CRO. The CRO displays the waveform of the output voltage from the Hall probe. The horizontal axis of the CRO represents the magnetic field strength, and the vertical axis represents the magnetic flux density.
+- By gradually increasing the magnetic field strength, we can observe the B-H loop of the ferromagnetic material. The B-H loop will be displayed on the CRO screen as a closed loop.
+- The B-H loop provides information about the magnetic hysteresis of the ferromagnetic material. The area enclosed by the B-H loop represents the energy loss due to hysteresis. The slope of the B-H curve represents the magnetic permeability of the material.
+- By analyzing the B-H loop, we can determine the magnetic properties of the ferromagnetic material, such as its coercivity, remanent magnetization, and saturation magnetization.
+- In conclusion, observing the B-H loop of a ferromagnetic material in CRO is an important tool for understanding the magnetic properties of materials. The B-H loop provides information about the magnetic hysteresis of the material, which is useful in designing magnetic devices such as transformers, motors, and generators.

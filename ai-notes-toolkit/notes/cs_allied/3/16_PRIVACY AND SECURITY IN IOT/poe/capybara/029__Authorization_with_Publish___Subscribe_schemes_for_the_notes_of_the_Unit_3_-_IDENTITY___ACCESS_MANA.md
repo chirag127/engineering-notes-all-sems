@@ -1,0 +1,14 @@
+### Authorization with Publish / Subscribe Schemes for the Notes of the Unit 3 - IDENTITY & ACCESS MANAGEMENT SOLUTIONS FOR IOT in the Subject of PRIVACY AND SECURITY IN IOT
+
+In the world of Internet of Things (IoT), authorization plays a crucial role in ensuring privacy and security. Authorization is the process of granting or denying access to certain resources or functionalities based on the identity of the user or device. In this unit, we will discuss the concept of authorization with publish/subscribe schemes.
+
+Here are some important points to understand about authorization with publish/subscribe schemes:
+
+- Publish/subscribe is a messaging paradigm that enables communication between different components or devices. In this model, publishers send messages to a broker, which then distributes them to the subscribers who have expressed interest in those messages.
+- Authorization with publish/subscribe schemes involves granting or denying access to certain topics or messages based on the identity of the publisher or subscriber. This can be achieved through the use of access control lists (ACLs) or policies that specify the permissions of different entities.
+- ACLs define the permissions of different entities based on their identity or attributes. For example, an ACL might specify that a certain device can only publish messages to a specific topic or that a certain user can only subscribe to messages related to a specific sensor.
+- Policies are more flexible than ACLs and can be used to define more complex authorization rules based on a variety of factors, such as time of day, location, or the content of the message. Policies can be expressed using a variety of languages, such as XACML or ABAC.
+- Authorization with publish/subscribe schemes can be used to enforce privacy and security in IoT systems. For example, it can be used to ensure that only authorized devices can access sensitive sensor data or that only authorized users can control certain devices.
+- However, authorization with publish/subscribe schemes can also introduce some challenges. For example, it can be difficult to manage large numbers of ACLs or policies, and it can be difficult to ensure that they are up-to-date and accurate. Additionally, it can be difficult to ensure that messages are only sent to authorized subscribers, especially in large-scale systems.
+
+In conclusion, authorization with publish/subscribe schemes is an important concept in IoT security and privacy. It involves granting or denying access to certain topics or messages based on the identity of the publisher or subscriber. This can be achieved through the use of ACLs or policies, which define the permissions of different entities. While authorization with publish/subscribe schemes can be challenging to implement in large-scale systems, it is essential for ensuring the privacy and security of IoT systems.

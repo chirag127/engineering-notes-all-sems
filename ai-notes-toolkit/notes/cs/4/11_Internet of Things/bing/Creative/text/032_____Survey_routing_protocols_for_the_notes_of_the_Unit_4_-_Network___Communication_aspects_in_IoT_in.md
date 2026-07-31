@@ -1,0 +1,14 @@
+### Survey routing protocols for the notes of the Unit 4 - Network & Communication aspects in IoT in the subject of Internet of Things
+
+- Routing protocols are the rules that determine how data packets are forwarded from one node to another in a network.
+- Routing protocols for Internet of Things (IoT) are designed to meet the specific requirements and challenges of IoT networks, such as resource constraints, heterogeneity, scalability, mobility, and security.
+- Routing protocols for IoT can be classified into different categories based on various criteria, such as network topology, routing strategy, data flow direction, and security mechanism.
+- Some of the common categories of routing protocols for IoT are:
+
+  - Flat routing protocols: These protocols treat all the nodes in the network as equal and do not form any hierarchy or cluster. They are suitable for small and homogeneous networks. Examples of flat routing protocols for IoT are Ad hoc On-Demand Distance Vector (AODV), Dynamic Source Routing (DSR), and Optimized Link State Routing (OLSR).
+  - Hierarchical routing protocols: These protocols divide the network into different levels of hierarchy or cluster, where each level has a different role and responsibility. They are suitable for large and heterogeneous networks. Examples of hierarchical routing protocols for IoT are Low-Power and Lossy Networks (LLNs) Routing Protocol (RPL), Cluster-Based Routing Protocol (CBRP), and Hierarchical Routing Protocol for IoT (HRP-IoT).
+  - Data-centric routing protocols: These protocols route the data packets based on the content or attributes of the data, rather than the address or location of the nodes. They are suitable for networks where the data is more important than the nodes. Examples of data-centric routing protocols for IoT are Directed Diffusion, Publish/Subscribe, and Context-Aware Routing Protocol (CARP).
+  - Multipath routing protocols: These protocols route the data packets through multiple paths between the source and the destination, rather than a single path. They are suitable for networks where reliability, load balancing, and fault tolerance are important. Examples of multipath routing protocols for IoT are Ad hoc On-Demand Multipath Distance Vector (AOMDV), Split Multipath Routing (SMR), and Multipath Routing Protocol for IoT (MRP-IoT).
+  - Security-aware routing protocols: These protocols route the data packets based on the security and trust level of the nodes and the paths. They are suitable for networks where security and privacy are important. Examples of security-aware routing protocols for IoT are Secure Routing Protocol for IoT (SRP-IoT), Trust-Based Routing Protocol for IoT (TRP-IoT), and Secure and Trust-Aware Routing Protocol for IoT (STAR-IoT).
+
+- Routing protocols for IoT are still an active area of research and development, as new challenges and opportunities arise with the growth and evolution of IoT applications and technologies.

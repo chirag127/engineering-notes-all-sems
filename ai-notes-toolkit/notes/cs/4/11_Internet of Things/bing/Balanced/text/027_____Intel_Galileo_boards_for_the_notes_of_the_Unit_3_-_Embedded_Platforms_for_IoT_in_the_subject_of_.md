@@ -1,0 +1,31 @@
+### Intel Galileo boards
+
+- Intel Galileo boards are development boards based on Intel x86 architecture and are designed for the maker and education communities.
+- Intel Galileo boards are hardware and software pin-compatible with Arduino shields designed for the Uno R3.
+- Intel Galileo boards are based on the Intel® Quark SoC X1000 Application Processor, a 32-bit Intel Pentium-class system on a chip .
+- Intel Galileo boards have the following features :
+  - 400 MHz 32-bit Intel® Pentium® processor
+  - 256 MByte DDR3, 512 kByte embedded SRAM, 8 MByte NOR Flash, and 8 kByte EEPROM standard on the board, plus support for microSD card up to 32 GByte
+  - 10/100 Ethernet connector
+  - Full PCI Express* mini-card slot, with PCIe 2.0 compliant features
+  - USB 2.0 Host Port
+  - USB Client Port, connected to a 6-pin 3.3 V USB TTL UART header
+  - 10-pin Standard JTAG header for debugging
+  - Reboot button to reboot the processor
+  - Reset button to reset the sketch and any attached shields
+  - 20 digital input/output pins, including 4 pins as PWM outputs
+  - 6 analog inputs, 12-bit resolution
+  - 1 analog output, 8-bit resolution
+  - 5 V operating voltage
+  - 5 V and 3.3 V output pins
+  - 7 V to 15 V input voltage
+  - 12 V Power over Ethernet (PoE) capable
+  - 0.5 A maximum current output
+  - 14.0 cm x 7.1 cm board size
+- Intel released two versions of Galileo, referred to as Gen 1 and Gen 2. The main differences between Gen 1 and Gen 2 are:
+  - Gen 2 supports 12 GPIOs capable of pulse width modulation (PWM) compared to 4 on Gen 1
+  - Gen 2 has a 6-pin 3.3 V USB TTL UART header replacing the RS-232 console port on Gen 1
+  - Gen 2 has a 12 V Power over Ethernet (PoE) module soldered on the board
+  - Gen 2 has improved I2C speed
+  - Gen 2 has improved analog input performance
+- Intel discontinued the Galileo boards on June 19, 2017.

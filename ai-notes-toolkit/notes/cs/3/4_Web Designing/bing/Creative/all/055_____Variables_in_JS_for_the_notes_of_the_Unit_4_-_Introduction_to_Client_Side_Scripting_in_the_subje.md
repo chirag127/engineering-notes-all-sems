@@ -1,0 +1,21 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on web designing. Here is the content for the topic of variables in JS for the notes of the Unit 4 - Introduction to Client Side Scripting.
+
+# Variables in JS
+
+- A variable is a named container that can store a value of a certain type, such as a number, a string, a boolean, an array, an object, or a function.
+- Variables are declared using the keywords `var`, `let`, or `const`, followed by the variable name and an optional assignment operator and initial value.
+- For example, `var x = 10;` declares a variable named `x` and assigns it the value `10`.
+- The keyword `var` declares a variable that has a function scope or a global scope, depending on where it is declared. This means that a variable declared with `var` can be accessed and modified within the function where it is declared, or anywhere in the global scope if it is declared outside any function.
+- The keyword `let` declares a variable that has a block scope, meaning that it can only be accessed and modified within the block where it is declared. A block is a code segment enclosed by curly braces, such as an `if` statement, a `for` loop, or a function body.
+- The keyword `const` declares a constant variable that has a block scope as well, but cannot be reassigned or redeclared. A constant variable must be initialized with a value when it is declared, and that value cannot be changed later.
+- For example, `const PI = 3.14;` declares a constant variable named `PI` and assigns it the value `3.14`. This value cannot be changed or overwritten by any other assignment or declaration.
+- Variables can be accessed and modified using the assignment operator `=` or other operators that perform arithmetic, logical, or bitwise operations on the variable and assign the result to it, such as `+=`, `-=`, `*=`, `/=`, `%=`, `&=`, `|=`, `^=`, `<<=`, `>>=`, or `>>>=`.
+- For example, `x += 5;` adds `5` to the value of `x` and assigns the result back to `x`.
+- Variables can also be accessed and modified using the increment operator `++` or the decrement operator `--`, which add or subtract one from the variable and return the new or old value, depending on whether they are used as a prefix or a postfix.
+- For example, `x++` returns the value of `x` and then increments it by one, while `++x` increments the value of `x` by one and then returns it.
+- Variables can be compared using the equality operator `==` or the strict equality operator `===`, which check if the values of the variables are equal or identical, respectively. The equality operator `==` performs type coercion, meaning that it converts the values of the variables to a common type before comparing them, while the strict equality operator `===` does not perform type coercion, meaning that it only returns true if the values and the types of the variables are the same.
+- For example, `x == "10"` returns true, because the value of `x` is converted to a string before comparing it with the string `"10"`, while `x === "10"` returns false, because the value of `x` is a number and the string `"10"` is a different type.
+- Variables can also be compared using the inequality operator `!=` or the strict inequality operator `!==`, which check if the values of the variables are not equal or not identical, respectively. They are the opposite of the equality and the strict equality operators, and they also perform type coercion or not, depending on which one is used.
+- For example, `x != "10"` returns false, because the value of `x` is converted to a string before comparing it with the string `"10"`, while `x !== "10"` returns true, because the value of `x` is a number and the string `"10"` is a different type.
+- Variables can also be compared using the relational operators `<`, `>`, `<=`, or `>=`, which check if the value of one variable is less than, greater than, less than or equal to, or greater than or equal to the value of another variable, respectively. These operators also perform type coercion, meaning that they convert the values of the variables to a common type before comparing them, usually a number.
+- For example, `x < "20"` returns true, because the value of `x` and the string `"20"` are both converted

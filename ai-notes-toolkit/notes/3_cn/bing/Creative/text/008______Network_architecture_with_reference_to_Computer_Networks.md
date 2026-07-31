@@ -1,0 +1,23 @@
+#### Network architecture with reference to Computer Networks
+
+- Network architecture is the design of a computer network   .
+- It is a framework for the specification of a network's physical components and their functional organization and configuration, its operational principles and procedures, as well as communication protocols used  .
+- Network architecture components include hardware, software, transmission media (wired or wireless), network topology, and communications protocols  .
+- Hardware refers to the devices that make up the network, such as computers, routers, switches, hubs, etc  .
+- Software refers to the programs that run on the network devices, such as operating systems, applications, network services, etc  .
+- Transmission media refers to the physical or wireless means of carrying data signals between network devices, such as copper wires, fiber optics, radio waves, etc  .
+- Network topology refers to the shape or layout of the network, such as bus, star, ring, mesh, etc  .
+- Communications protocols refer to the rules and standards that govern how network devices exchange data, such as TCP/IP, Ethernet, Wi-Fi, etc  .
+- Network architecture can be classified into different types based on the network's size and purpose, such as LAN, WAN, MAN, PAN, etc  .
+- LAN (local area network) connects computers over a relatively short distance, allowing them to share data, files, resources, etc  .
+- WAN (wide area network) connects computers over a large geographical area, such as across cities, countries, or continents  .
+- MAN (metropolitan area network) connects computers within a city or a metropolitan area, such as a campus, a company, or a government agency  .
+- PAN (personal area network) connects devices around a single person, such as a smartphone, a laptop, a smartwatch, etc  .
+- Network architecture can also be classified into different layers based on the level of abstraction and functionality, such as physical, data link, network, transport, session, presentation, and application layers .
+- Physical layer defines the electrical and mechanical characteristics of the transmission media and the signals .
+- Data link layer defines the methods of accessing the transmission media and the techniques of error detection and correction .
+- Network layer defines the addressing and routing schemes of the network and the protocols for packet switching and congestion control .
+- Transport layer defines the mechanisms for reliable and efficient data transfer between end devices and the protocols for flow control and multiplexing .
+- Session layer defines the methods of establishing, maintaining, and terminating sessions between network applications .
+- Presentation layer defines the formats and standards for data representation and encryption .
+- Application layer defines the interfaces and protocols for network services and applications, such as email, web, file transfer, etc .

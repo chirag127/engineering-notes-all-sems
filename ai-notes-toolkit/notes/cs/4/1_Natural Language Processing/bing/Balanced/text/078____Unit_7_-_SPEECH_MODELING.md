@@ -1,0 +1,21 @@
+## Unit 7 - SPEECH MODELING
+
+- Speech modeling is the process of using speech and language to help a child or a learner develop their communication skills   .
+- Speech modeling can be used for different purposes, such as:
+  - Teaching new words, phrases, or sentence structures
+  - Expanding vocabulary and grammar
+  - Correcting speech errors or pronunciation
+  - Enhancing fluency and confidence
+  - Learning a foreign language or a different accent
+- Speech modeling can be done in different ways, such as:
+  - Imitating the target speech or language
+  - Repeating the target speech or language with emphasis or correction
+  - Expanding or extending the target speech or language with more information or details
+  - Recasting the target speech or language in a different form or context
+  - Prompting the target speech or language with cues or questions
+- Speech modeling can be effective when it follows these principles   :
+  - Be natural and conversational
+  - Be positive and encouraging
+  - Be consistent and frequent
+  - Be appropriate and relevant
+  - Be responsive and interactive

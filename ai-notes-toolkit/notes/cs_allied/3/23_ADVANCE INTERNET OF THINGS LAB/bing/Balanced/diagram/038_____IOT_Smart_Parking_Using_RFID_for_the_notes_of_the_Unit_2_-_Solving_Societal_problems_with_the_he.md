@@ -1,0 +1,32 @@
+### IOT Smart Parking Using RFID
+
+- IOT (Internet of Things) is the interconnection of physical devices, sensors, and actuators over the internet to exchange data and perform tasks.
+- RFID (Radio Frequency Identification) is a technology that uses electromagnetic fields to identify and track tags attached to objects.
+- IOT Smart Parking Using RFID is a system that aims to replace the traditional parking system with a high technological, IoT based smart parking system by using RFID  .
+- The main components of the system are:
+  - RFID tags: These are attached to the vehicles and contain unique identification information.
+  - RFID readers: These are installed at the entry and exit points of the parking area and can read the RFID tags of the vehicles.
+  - ESP8266: This is a low-cost Wi-Fi module that can communicate with the RFID readers and the cloud server.
+  - Cloud server: This is the central database that stores the information of the parking slots and the vehicles.
+  - Mobile app: This is an android application that can be used by the users to check the availability of parking slots and to pay the parking fees.
+- The working of the system is as follows:
+  - The user has to install the mobile app and register with the system.
+  - The user has to attach an RFID tag to the vehicle and link it with the mobile app.
+  - When the user approaches the parking area, the RFID reader at the entry point scans the RFID tag and sends the data to the cloud server.
+  - The cloud server checks the availability of parking slots and assigns one to the user.
+  - The mobile app displays the assigned parking slot number and the directions to reach it.
+  - The user parks the vehicle in the assigned slot and the RFID reader at the exit point scans the RFID tag again and sends the data to the cloud server.
+  - The cloud server calculates the parking duration and the parking fee and sends it to the mobile app.
+  - The user can pay the parking fee through the mobile app and leave the parking area.
+- The advantages of the system are:
+  - It reduces the time and effort required for finding and paying for parking slots.
+  - It optimizes the utilization of parking space and reduces traffic congestion.
+  - It provides security and convenience to the users and the parking operators.
+  - It enables remote monitoring and management of the parking system.
+- The disadvantages of the system are:
+  - It requires high initial investment and maintenance costs for installing and updating the RFID tags, readers, and ESP8266 modules.
+  - It depends on the reliability and availability of the internet connection and the cloud server.
+  - It may face issues of RFID tag cloning, interference, and privacy.
+- The applications of the system are:
+  - It can be used in public places such as malls, airports, hospitals, offices, etc. where parking is a major problem.
+  - It can be integrated with other smart city solutions such as smart traffic management, smart lighting, smart waste management, etc. to improve the quality of life and the environment.

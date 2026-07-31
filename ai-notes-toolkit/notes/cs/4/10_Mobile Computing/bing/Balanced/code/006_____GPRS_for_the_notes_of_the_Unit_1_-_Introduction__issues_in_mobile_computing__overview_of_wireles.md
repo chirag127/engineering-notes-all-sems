@@ -1,0 +1,28 @@
+### GPRS for the notes of the Unit 1 - Introduction, issues in mobile computing, overview of wireless telephony: cellular concept, GSM: in the subject of Mobile Computing
+
+- GPRS stands for General Packet Radio Service .
+- It is a packet oriented wireless data communication service for mobile communications on 2G and 3G cellular communication systems .
+- It is non-voice, high speed packet switching technology intended for GSM networks .
+- GSM stands for Global System for Mobile Communications, which is a standard for digital cellular networks.
+- GPRS enables moderately high-speed data transfers using packet-based technologies .
+- Packet-based technologies allow data to be divided into small units called packets, which are transmitted over a shared channel and reassembled at the destination.
+- GPRS offers more data transmission options for GSM-based devices, as GSM networks at the time could only use Short Message Service (SMS), for example, to transmit a small amount of data.
+- With GPRS technology, mobile devices could support data functions across cellular internet connections, such as web browsing, email, multimedia messaging, location-based services, and online gaming.
+- GPRS also enables mobile devices to connect to the internet using the Internet Protocol (IP), which is the standard protocol for data communication over the internet.
+- GPRS uses a logical channel called the Packet Data Channel (PDCH), which is dynamically allocated to a mobile device when it requests a data transfer.
+- GPRS also uses a network node called the Gateway GPRS Support Node (GGSN), which acts as an interface between the GPRS network and the internet.
+- GPRS has several advantages, such as:
+  - It allows efficient use of network resources, as multiple users can share the same channel and only pay for the data they transmit or receive .
+  - It provides faster data rates than circuit-switched technologies, which require a dedicated channel for each data connection .
+  - It supports a wide range of applications and services, such as internet access, email, multimedia, and location-based services .
+  - It is compatible with existing GSM networks and devices, as it only requires software upgrades and minor hardware modifications .
+- GPRS also has some disadvantages, such as:
+  - It has limited coverage and availability, as not all GSM networks and devices support GPRS technology .
+  - It has variable data rates and quality of service, as it depends on factors such as network congestion, signal strength, and device capabilities .
+  - It has higher security risks than circuit-switched technologies, as data packets can be intercepted, modified, or lost during transmission .
+- GPRS has several applications in mobile computing, such as:
+  - It enables mobile devices to access the internet and use web-based services, such as online banking, e-commerce, and social media .
+  - It allows mobile devices to send and receive multimedia messages, such as images, audio, and video .
+  - It supports location-based services, such as navigation, tracking, and emergency response .
+  - It facilitates online gaming, as it provides low latency and high bandwidth for multiplayer games .
+  - It enables mobile devices to connect to other networks and devices, such as Bluetooth, Wi-Fi, and VPN .

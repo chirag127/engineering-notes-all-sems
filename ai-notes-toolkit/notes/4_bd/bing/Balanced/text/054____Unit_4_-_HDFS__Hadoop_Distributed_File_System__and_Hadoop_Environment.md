@@ -1,0 +1,24 @@
+## Unit 4 - HDFS (Hadoop Distributed File System) and Hadoop Environment
+
+- HDFS is a distributed file system that handles large data sets running on commodity hardware.
+- HDFS is one of the major components of Apache Hadoop, the others being MapReduce and YARN.
+- HDFS employs a NameNode and DataNode architecture to implement a distributed file system that provides high-performance access to data across highly scalable Hadoop clusters .
+- HDFS has many similarities with existing distributed file systems, but also has some unique features, such as:
+  - Fault tolerance: HDFS can tolerate hardware failures by replicating data blocks across multiple DataNodes.
+  - High throughput: HDFS can support high data transfer rates by splitting large files into fixed-size blocks and distributing them across the cluster.
+  - Scalability: HDFS can scale up to thousands of nodes and store petabytes of data.
+  - Data locality: HDFS can optimize data processing by moving computation to the nodes where the data is stored, rather than moving data to the computation.
+- HDFS consists of two types of nodes: NameNode and DataNode .
+  - NameNode: The NameNode is the master node that manages the namespace and the metadata of the file system. It also coordinates the access to the files by the clients. There is only one active NameNode in a cluster, and it is a single point of failure .
+  - DataNode: The DataNodes are the worker nodes that store the actual data blocks of the files. They also perform read and write operations on the blocks as instructed by the NameNode. There can be multiple DataNodes in a cluster, and they can be added or removed dynamically .
+- HDFS follows a write-once-read-many model, which means that a file can be written only once and then read multiple times. This simplifies the data consistency and concurrency issues.
+- HDFS also supports some advanced features, such as:
+  - Snapshots: HDFS can create point-in-time copies of the file system, which can be used for backup or disaster recovery.
+  - Federation: HDFS can support multiple namespaces, each managed by a separate NameNode, to improve the scalability and isolation of the file system.
+  - High Availability: HDFS can enable automatic failover of the NameNode by using a standby NameNode and a shared storage system.
+  - Erasure Coding: HDFS can use a more efficient way of data replication, which reduces the storage overhead and improves the data durability.
+- HDFS is designed to run on a Hadoop environment, which consists of a set of software tools and frameworks that enable distributed processing of large and complex data sets. Some of the key components of a Hadoop environment are:
+  - MapReduce: A programming model and an execution framework that allows parallel processing of large data sets using a map and reduce functions.
+  - YARN: A resource management and scheduling system that allocates and monitors the resources (CPU, memory, disk, network) for the applications running on the cluster.
+  - Hadoop Common: A collection of libraries and utilities that provide the basic functionality and support for the other Hadoop components.
+  - Hadoop Ecosystem: A set of projects and tools that extend the functionality and usability of Hadoop, such as Hive, Pig, Spark, HBase, Sqoop, Flume, etc.

@@ -1,0 +1,35 @@
+### Recursive definition of functions
+
+- A recursive definition of a function is a way of defining the value of a function for some inputs in terms of the value of the same function for other inputs, usually smaller or simpler ones.
+- A recursive definition of a function consists of two parts: a base case and a recursive step.
+- The base case specifies the value of the function for some inputs that do not depend on the function itself. For example, the factorial function n! is defined by the base case 0! = 1.
+- The recursive step specifies the value of the function for some inputs that depend on the function itself, usually by applying some operation or relation to the function value for a smaller or simpler input. For example, the factorial function n! is defined by the recursive step (n + 1)! = (n + 1)· n !.
+- A recursive definition of a function is valid if it satisfies the following conditions:
+  - The base case is well-defined and covers at least one input value.
+  - The recursive step is well-defined and covers all other input values.
+  - The recursive step always reduces the input value to a smaller or simpler one, so that the base case is eventually reached.
+  - The recursive step does not produce any contradictions or inconsistencies with the base case or itself.
+- A recursive definition of a function can be used to compute the function value for any input by following the recursive step until the base case is reached, and then substituting the base case value back into the recursive step. For example, to compute 3!, we can use the recursive definition as follows:
+  - 3! = (3 + 1)! / (3 + 1) = 4! / 4
+  - 4! = (4 + 1)! / (4 + 1) = 5! / 5
+  - 5! = (5 + 1)! / (5 + 1) = 6! / 6
+  - 6! = (6 + 1)! / (6 + 1) = 7! / 7
+  - 7! = (7 + 1)! / (7 + 1) = 8! / 8
+  - 8! = (8 + 1)! / (8 + 1) = 9! / 9
+  - 9! = (9 + 1)! / (9 + 1) = 10! / 10
+  - 10! = (10 + 1)! / (10 + 1) = 11! / 11
+  - 11! = (11 + 1)! / (11 + 1) = 12! / 12
+  - 12! = (12 + 1)! / (12 + 1) = 13! / 13
+  - 13! = (13 + 1)! / (13 + 1) = 14! / 14
+  - 14! = (14 + 1)! / (14 + 1) = 15! / 15
+  - 15! = (15 + 1)! / (15 + 1) = 16! / 16
+  - 16! = (16 + 1)! / (16 + 1) = 17! / 17
+  - 17! = (17 + 1)! / (17 + 1) = 18! / 18
+  - 18! = (18 + 1)! / (18 + 1) = 19! / 19
+  - 19! = (19 + 1)! / (19 + 1) = 20! / 20
+  - 20! = (20 + 1)! / (20 + 1) = 21! / 21
+  - 21! = (21 + 1)! / (21 + 1) = 22! / 22
+  - 22! = (22 + 1)! / (22 + 1) = 23! / 23
+  - 23! = (23 + 1)! / (23 + 1) = 24! / 24
+  - 24! = (24 + 1)! / (24 + 1) = 25! / 25
+  - 25! = (25

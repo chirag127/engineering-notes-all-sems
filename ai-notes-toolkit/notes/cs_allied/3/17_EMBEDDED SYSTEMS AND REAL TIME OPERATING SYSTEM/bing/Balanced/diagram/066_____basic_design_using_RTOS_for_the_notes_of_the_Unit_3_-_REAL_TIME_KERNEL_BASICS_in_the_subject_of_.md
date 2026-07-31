@@ -1,0 +1,11 @@
+### Basic Design using RTOS
+
+- An RTOS is an operating system designed to manage hardware resources of an embedded system; it creates multiple threads of software execution and a scheduler for managing these threads.
+- An RTOS provides a multi-tasking and deterministic run-time environment, which means that tasks can be executed in a predictable and timely manner.
+- An RTOS can be used to design embedded systems that have real-time constraints, such as deadlines, responsiveness, reliability, and performance.
+- Some basic design principles using RTOS are :
+  - Write short interrupt routines, but not too short. Interrupt routines should perform the minimum necessary work and then return to the main program or signal a task to handle the rest of the work. This reduces the interrupt latency and the blocking time of other tasks.
+  - Use a suitable task priority scheme. Tasks should be assigned priorities based on their importance and urgency. A common technique is to use rate monotonic scheduling (RMS), which assigns higher priorities to tasks with shorter periods. RMS can be used to verify the schedulability of the tasks and to ensure that no deadlines are missed.
+  - Avoid creating and destroying tasks while the system is running. This can be time consuming, error prone, and may cause memory fragmentation. It may be better to create all the tasks at system startup and leave them suspended or blocked until they are needed.
+  - Use semaphores and message queues for inter-task communication and synchronization. Semaphores can be used to protect shared resources, such as data structures, peripherals, or memory, from concurrent access by multiple tasks. Message queues can be used to pass data or commands between tasks, without requiring direct access to each other's memory space.
+  - Minimize the use of global variables and shared data. Global variables and shared data can introduce dependencies and coupling between tasks, which can make the system harder to debug and maintain. They can also increase the risk of data corruption and inconsistency. It may be better to use local variables and private data as much as possible, and to use semaphores or message queues to exchange data when necessary.

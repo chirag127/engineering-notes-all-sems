@@ -1,0 +1,14 @@
+#### Instance Methods in Networking
+
+- Instance methods are methods that are defined on an instance of a class, such as a socket, a server, or a client.
+- Instance methods can be used to perform specific operations on the instance, such as sending or receiving data, closing the connection, or listening for incoming requests.
+- Instance methods are usually invoked by using the dot notation, such as `socket.send(data)` or `server.accept()`.
+- Some common instance methods in networking are:
+
+  - `socket.bind(address)`: This method binds the socket to a local address and port. The address argument is a tuple of (host, port), where host is a string representing the hostname or IP address, and port is an integer representing the port number. This method is usually used by servers to specify which address and port they want to listen on.
+  - `socket.listen(backlog)`: This method enables the socket to accept incoming connections. The backlog argument is an integer that specifies the maximum number of queued connections. This method is usually used by servers after binding the socket to an address and port.
+  - `socket.accept()`: This method blocks until a new connection is established. It returns a pair of (conn, address), where conn is a new socket object representing the connection, and address is a tuple of (host, port) representing the address of the client. This method is usually used by servers to accept incoming requests from clients.
+  - `socket.connect(address)`: This method connects the socket to a remote address and port. The address argument is a tuple of (host, port), where host is a string representing the hostname or IP address, and port is an integer representing the port number. This method is usually used by clients to initiate a connection to a server.
+  - `socket.send(data)`: This method sends data to the connected socket. The data argument is a bytes object that contains the data to be sent. This method returns the number of bytes sent, which may be less than the length of data. This method is usually used by both clients and servers to exchange data over the connection.
+  - `socket.recv(bufsize)`: This method receives data from the connected socket. The bufsize argument is an integer that specifies the maximum number of bytes to be received. This method returns a bytes object that contains the data received, which may be less than bufsize. This method is usually used by both clients and servers to exchange data over the connection.
+  - `socket.close()`: This method closes the socket and frees the resources associated with it. This method is usually used by both clients and servers to terminate the connection.

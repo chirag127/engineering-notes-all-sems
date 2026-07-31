@@ -1,0 +1,23 @@
+## Unit 2 - Software Requirement Specifications (SRS)
+
+- Software Requirement Specifications (SRS) is a document that describes the features, functions, constraints, and quality attributes of a software system.
+- The purpose of SRS is to communicate the requirements of the stakeholders to the developers, testers, and other stakeholders, and to provide a basis for evaluating the software product.
+- The benefits of SRS are:
+  - It helps to avoid ambiguity and conflicts among the stakeholders.
+  - It helps to reduce the cost and time of software development and maintenance.
+  - It helps to improve the quality and reliability of the software product.
+  - It helps to facilitate the verification and validation of the software product.
+- The characteristics of a good SRS are:
+  - Correct: It should state the true requirements of the system.
+  - Complete: It should cover all the requirements of the system and not omit any relevant information.
+  - Consistent: It should not contain any contradictory or conflicting requirements.
+  - Clear: It should use simple and unambiguous language and terminology.
+  - Verifiable: It should be possible to check whether the requirements are met by the software product.
+  - Modifiable: It should be easy to update and maintain the SRS as the requirements change.
+  - Traceable: It should be possible to trace the origin and rationale of each requirement and its relationship with other requirements.
+- The structure of a typical SRS is:
+  - Introduction: It provides an overview of the SRS, its scope, objectives, assumptions, and references.
+  - General Description: It provides a general description of the software system, its context, users, functions, constraints, and dependencies.
+  - Specific Requirements: It provides a detailed description of the functional and non-functional requirements of the software system, such as user interface, data, performance, security, reliability, etc.
+  - Appendices: It provides any additional information that is relevant to the SRS, such as glossary, acronyms, diagrams, etc.
+  - Index: It provides an index of the terms and topics covered in the SRS.

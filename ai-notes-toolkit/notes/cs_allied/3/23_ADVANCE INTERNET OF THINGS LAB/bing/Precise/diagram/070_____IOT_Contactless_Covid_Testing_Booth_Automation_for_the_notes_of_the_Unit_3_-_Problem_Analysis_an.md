@@ -1,0 +1,8 @@
+### IOT Contactless Covid Testing Booth Automation
+
+Unit 3 - Problem Analysis and Designing a Solution in the subject of ADVANCE INTERNET OF THINGS LAB
+
+1. **Introduction:** The COVID-19 pandemic has brought about the need for innovative solutions to tackle the spread of the virus. One such solution is the use of IOT contactless COVID testing booths.
+2. **Problem Analysis:** The traditional method of COVID testing involves close contact between the tester and the person being tested, increasing the risk of transmission. The use of IOT contactless COVID testing booths aims to minimize this risk by automating the testing process and reducing the need for close contact.
+3. **Designing a Solution:** The design of an IOT contactless COVID testing booth involves the integration of various technologies such as sensors, cameras, and robotics. The booth would be equipped with sensors to detect the presence of a person and initiate the testing process. Cameras would be used to guide the person through the process and ensure that the sample is collected correctly. Robotics would be used to collect the sample and transport it to the testing facility.
+4. **Conclusion:** The use of IOT contactless COVID testing booths has the potential to significantly reduce the risk of transmission during the testing process. By automating the process and reducing the need for close contact, these booths provide a safer and more efficient method of testing for COVID-19.

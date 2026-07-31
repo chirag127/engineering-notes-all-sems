@@ -1,0 +1,15 @@
+#### Jobs in Spark
+
+Spark is a distributed computing framework that allows users to process large-scale data using various programming languages and APIs. Spark can run on different cluster managers, such as YARN, Mesos, or Kubernetes, and can also run in standalone mode. Spark applications consist of one or more jobs, which are divided into stages and tasks.
+
+- A job is a parallel computation of tasks, triggered by an action operation, such as `count()`, `collect()`, `write()`, etc. A job can have one or more stages, depending on the data dependencies and transformations involved.
+- A stage is a set of tasks that can run in parallel, without any data shuffling. A stage can have one or more tasks, depending on the number of partitions of the input data. A stage ends when a shuffle operation is required, such as `groupBy()`, `join()`, `sortBy()`, etc.
+- A task is the smallest unit of work in Spark, which is executed by an executor on a worker node. A task applies a function to a partition of data and produces an output. A task can fail due to various reasons, such as network issues, memory errors, or hardware failures.
+
+Spark jobs can be submitted in different ways, such as using the `spark-submit` command, using the Spark shell, using the Spark UI, or using the Azure Machine Learning service. Spark jobs can also be monitored and managed using various tools, such as the Spark History Server, the Spark Web UI, or the Azure Machine Learning Studio.
+
+Some examples of jobs in Spark are:
+
+- Spark Engineer: A Spark engineer is responsible for developing, testing, and deploying Spark applications using various languages, such as Java, Scala, or Python. A Spark engineer should have strong knowledge of Spark core concepts, such as RDDs, DataFrames, Datasets, Spark SQL, Spark Streaming, etc. A Spark engineer should also have experience with cloud platforms, such as AWS, Azure, or GCP, and with containerization and microservices technologies, such as Docker, Kubernetes, or ECS.
+- Spark Program Lead: A Spark program lead is responsible for leading and managing a team of Spark engineers and analysts, and for overseeing the design, development, and delivery of Spark solutions for various business problems. A Spark program lead should have strong leadership and communication skills, as well as deep technical expertise in Spark and related technologies, such as Hadoop, Kafka, Hive, etc. A Spark program lead should also have experience with agile methodologies, such as Scrum, Kanban, or XP, and with project management tools, such as Jira, Trello, or Asana.
+- Spark Delivery Driver: A Spark delivery driver is responsible for delivering groceries and other items to customers using the Spark app, which is powered by Walmart. A Spark delivery driver should have a valid driver's license, a reliable vehicle, a smartphone, and a positive attitude. A Spark delivery driver should also have good customer service skills, as well as the ability to follow directions and handle different situations. A Spark delivery driver can work part-time or full-time, depending on their availability and preference.

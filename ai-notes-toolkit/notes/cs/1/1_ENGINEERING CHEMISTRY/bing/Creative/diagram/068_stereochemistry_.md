@@ -1,0 +1,12 @@
+# Stereochemistry
+
+Stereochemistry is the branch of chemistry that deals with the three-dimensional arrangement of atoms and molecules and the effect of this on chemical reactions . Stereochemistry focuses on the relationships between stereoisomers, which are molecules that have the same molecular formula and sequence of bonded atoms, but differ in the orientation of their atoms in space.
+
+Some of the main topics in stereochemistry are:
+
+- **Stereoisomerism**: The classification of stereoisomers into different types, such as enantiomers, diastereomers, cis-trans isomers, conformational isomers, etc. Stereoisomers have different physical and chemical properties, such as melting point, boiling point, optical activity, reactivity, etc.
+- **Chirality**: The property of a molecule or an object that makes it non-superimposable on its mirror image. Chiral molecules have at least one stereogenic center, which is an atom (usually carbon) that is bonded to four different groups. Chiral molecules exist in pairs of enantiomers, which are mirror images of each other and have opposite optical activity.
+- **Optical activity**: The ability of a chiral molecule to rotate the plane of polarized light. Optical activity is measured by a polarimeter, which gives the specific rotation of a molecule. The specific rotation depends on the concentration, temperature, wavelength, and solvent of the sample. The sign of the specific rotation indicates the direction of rotation: positive for clockwise and negative for counterclockwise. Enantiomers have equal but opposite specific rotations.
+- **Configuration**: The spatial arrangement of the atoms or groups in a molecule. Configuration can be determined by using stereochemical notation, such as R/S, E/Z, or D/L. Configuration is usually fixed and can only be changed by breaking and forming bonds.
+- **Conformation**: The spatial arrangement of the atoms or groups in a molecule that results from rotation around single bonds. Conformation can be represented by using different projections, such as Newman, Fischer, or Haworth. Conformation can change rapidly and affects the stability and reactivity of a molecule.
+- **Stereochemical reactions**: The reactions that involve the formation, interconversion, or resolution of stereoisomers. Stereochemical reactions can be classified into different types, such as racemization, inversion, retention, elimination, addition, substitution, etc. Stereochemical reactions are influenced by the stereochemistry of the reactants, products, intermediates, and catalysts.

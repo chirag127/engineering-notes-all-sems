@@ -1,0 +1,19 @@
+### IOT based Intelligent Gas Leakage Detector Using Arduino
+
+- This is a project that aims to detect the leakage of LPG gas in the surroundings and send data to an IOT module using Arduino.
+- The main components of this project are:
+  - MQ5 gas sensor: This sensor can detect various gases such as LPG, methane, alcohol, etc. It has a high sensitivity and fast response time. It outputs an analog voltage that varies with the concentration of the gas.
+  - ESP8266 module: This is a low-cost Wi-Fi module that can connect to the internet and send or receive data. It can be programmed using Arduino IDE and communicate with the Arduino board using serial communication.
+  - Arduino board: This is a microcontroller board that can read the analog voltage from the MQ5 sensor and process it to determine the level of gas leakage. It can also control a buzzer and an LED to alert the user in case of high gas concentration. It can also send the data to the ESP8266 module using serial communication.
+  - Buzzer and LED: These are the output devices that can indicate the status of gas leakage. The buzzer can produce a loud sound and the LED can blink in different colors depending on the level of gas concentration.
+  - IOT platform: This is a web-based service that can receive the data from the ESP8266 module and display it on a dashboard or a mobile app. It can also send notifications or alerts to the user in case of high gas concentration. Some examples of IOT platforms are ThingSpeak, Blynk, Firebase, etc.
+- The working principle of this project is as follows:
+  - The MQ5 sensor is powered by the Arduino board and placed near the gas source. It continuously monitors the level of LPG gas in the air and outputs an analog voltage that is proportional to the gas concentration.
+  - The Arduino board reads the analog voltage from the MQ5 sensor and converts it to a digital value using an analog-to-digital converter (ADC). It then compares the digital value with some predefined thresholds and determines the level of gas leakage. It also controls the buzzer and the LED to indicate the level of gas leakage. For example, if the gas concentration is low, the LED will glow green and the buzzer will be silent. If the gas concentration is medium, the LED will glow yellow and the buzzer will beep intermittently. If the gas concentration is high, the LED will glow red and the buzzer will beep continuously.
+  - The Arduino board also sends the digital value of the gas concentration to the ESP8266 module using serial communication. The ESP8266 module connects to the internet using Wi-Fi and sends the data to the IOT platform using HTTP or MQTT protocol. The IOT platform receives the data and displays it on a dashboard or a mobile app. It can also send notifications or alerts to the user in case of high gas concentration. For example, it can send an email or a text message to the user's phone or a push notification to the user's app.
+- The advantages of this project are:
+  - It can detect the leakage of LPG gas in real-time and alert the user in case of high gas concentration.
+  - It can send the data to the IOT platform and allow the user to monitor the gas level remotely using a web browser or a mobile app.
+  - It can prevent the risk of fire or explosion due to gas leakage and ensure the safety of the user and the environment.
+  - It can be easily implemented using low-cost and readily available components such as Arduino, ESP8266, MQ5 sensor, etc.
+  - It can be customized and modified according to the user's requirements and preferences. For example, the user can change the thresholds, the output devices, the IOT platform, etc.

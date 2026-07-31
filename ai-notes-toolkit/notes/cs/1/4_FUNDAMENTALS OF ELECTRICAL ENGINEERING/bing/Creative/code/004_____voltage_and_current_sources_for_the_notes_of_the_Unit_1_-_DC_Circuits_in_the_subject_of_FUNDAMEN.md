@@ -1,0 +1,10 @@
+### Voltage and Current Sources
+
+- Voltage and current sources are devices that provide electrical energy to a circuit. They are also called active elements because they can generate power.
+- A voltage source is a device that maintains a constant potential difference (voltage) across its two terminals, regardless of the current flowing through it. A voltage source can be ideal or practical. 
+- An ideal voltage source has zero internal resistance and can supply any amount of current to the circuit. A practical voltage source has some internal resistance and can supply a limited amount of current to the circuit. The terminal voltage of a practical voltage source decreases as the current increases.
+- A current source is a device that maintains a constant electric current through its two terminals, regardless of the voltage across it. A current source can be ideal or practical. 
+- An ideal current source has infinite internal resistance and can maintain the same current regardless of the voltage across it. A practical current source has some finite internal resistance and can maintain the same current only within a certain range of voltages across it. The terminal current of a practical current source decreases as the voltage increases.
+- Examples of voltage sources are batteries, generators, solar cells, etc. Examples of current sources are photodiodes, transistors, etc.
+- In a circuit diagram, a voltage source is represented by a circle with a plus and minus sign inside it, indicating the polarity of the voltage. A current source is represented by a circle with an arrow inside it, indicating the direction of the current.
+- The sign convention for voltage and current sources is that the positive terminal of a voltage source and the tail of a current source arrow are considered as the reference node. The voltage and current of a source are positive if they have the same direction as the reference node.

@@ -1,0 +1,13 @@
+# Application of Fiber Optics
+
+Fiber optics are thin, flexible strands of glass or plastic that can transmit light signals over long distances with minimal loss or interference. Fiber optics have many advantages over conventional copper wires, such as higher bandwidth, lower attenuation, immunity to electromagnetic interference, lighter weight, and greater security.
+
+Fiber optics have a wide range of applications in various fields, such as:
+
+- **Communication**: Fiber optics are the backbone of modern telecommunication systems, enabling high-speed transmission of voice, data, and video signals over long distances. Fiber optics are used for telephone lines, internet cables, cable TV, optical wireless communication, and optical fiber sensors .
+- **Medical**: Fiber optics are used for various medical purposes, such as endoscopy, laser surgery, dentistry, ophthalmology, and biomedical imaging. Fiber optics allow doctors to perform minimally invasive procedures, diagnose diseases, and monitor vital signs .
+- **Defense**: Fiber optics are used for data transmission in high-level data security fields of military and aerospace applications. These are used in wirings in aircraft, hydrophones for SONARs and Seismics applications. Optical Fibers are used in Industries .
+- **Industries**: Fiber optics are used for various industrial applications, such as process control, automation, instrumentation, inspection, and measurement. Fiber optics can withstand harsh environments, such as high temperature, pressure, vibration, and corrosion, and provide accurate and reliable data .
+- **Broadcasting**: Fiber optics are used for transmitting audio and video signals for broadcasting purposes, such as radio, television, and internet streaming. Fiber optics offer high-quality, low-noise, and low-cost transmission of signals over long distances .
+- **Lighting and Decorations**: Fiber optics are used for creating decorative and artistic lighting effects, such as fiber optic lamps, chandeliers, curtains, and sculptures. Fiber optics can produce various colors, shapes, and patterns of light, and are safe and energy-efficient .
+- **Mechanical Inspections**: Fiber optics are used for inspecting hard-to-reach or inaccessible areas, such as pipelines, engines, turbines, and boilers. Fiber optics can provide high-resolution images and videos of the internal structures and conditions of these areas, and help detect faults and damages .

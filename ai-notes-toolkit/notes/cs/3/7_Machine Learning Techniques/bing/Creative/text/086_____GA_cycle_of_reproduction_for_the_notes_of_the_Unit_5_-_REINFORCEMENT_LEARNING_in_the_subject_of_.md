@@ -1,0 +1,10 @@
+### GA cycle of reproduction
+
+- GA stands for Genetic Algorithm, which is a search-based optimization technique based on the principles of Genetics and Natural Selection.
+- GA cycle of reproduction is the process of generating new individuals (called offspring or children) from existing individuals (called parents) in a population using genetic operators such as crossover and mutation.
+- GA cycle of reproduction consists of the following steps:
+  - Selection: A subset of individuals from the current population is chosen based on their fitness values, which measure how well they solve the problem at hand. The selection process favors individuals with higher fitness values, as they have a higher chance of producing better offspring.
+  - Crossover: Pairs of selected individuals are randomly chosen to exchange some of their genetic information, creating new individuals that inherit traits from both parents. Crossover is also called recombination, and it mimics the biological process of sexual reproduction.
+  - Mutation: Some of the new individuals undergo random changes in their genetic information, introducing some diversity and variation in the population. Mutation is also inspired by the biological process of genetic mutation, and it helps to explore new regions of the search space.
+  - Replacement: The new individuals replace some or all of the old individuals in the population, forming the next generation. The replacement process can be done in different ways, such as elitism (keeping the best individuals from the previous generation), generational (replacing the entire population), or steady-state (replacing only a fraction of the population).
+- GA cycle of reproduction is repeated until a termination criterion is met, such as reaching a maximum number of generations, finding an optimal or near-optimal solution, or reaching a convergence state where the population does not change significantly.

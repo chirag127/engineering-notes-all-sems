@@ -1,0 +1,12 @@
+# oneM2M
+
+- oneM2M is a global partnership project founded in 2012 and constituted by 8 of the world's leading ICT standards development organizations.
+- oneM2M aims to develop a common service layer that can be readily embedded within various hardware and software, and relied upon to connect the myriad of devices in the field with M2M application servers worldwide.
+- oneM2M is similar to a distributed operating system for the Internet of Things. It takes the form of a middleware service layer consisting of a suite of common service functions (CSFs).
+- oneM2M common service layer contains set of common service functions which are required by various IoT verticals. Common Service Entity (CSE) is the main component of oneM2M common service layer which provides the common service functions.
+- oneM2M defines three types of CSEs: Infrastructure Node (IN-CSE), Middle Node (MN-CSE) and Application Entity (AE). IN-CSE is the root of the oneM2M system and provides the core functionalities. MN-CSE is an intermediate node that can act as a gateway or a proxy. AE is an application that uses the oneM2M services.
+- oneM2M uses a resource-oriented architecture (ROA) based on RESTful principles. Resources are the basic units of information that can be created, retrieved, updated and deleted through the oneM2M interfaces. Resources are organized in a hierarchical tree structure and have unique identifiers.
+- oneM2M defines four types of interfaces: Mca, Mcc, Mcn and Mcc'. Mca is the interface between an AE and a CSE. Mcc is the interface between two CSEs. Mcn is the interface between a CSE and a network service entity (NSE). Mcc' is the interface between a CSE and a non-oneM2M system.
+- oneM2M supports various protocols for communication, such as HTTP, CoAP, MQTT and WebSocket. oneM2M also defines a protocol-independent binding mechanism called oneM2M Base Protocol (oB) that allows the mapping of oneM2M messages to different protocols.
+- oneM2M provides various common service functions, such as registration, discovery, data management, subscription and notification, group management, access control, security, device management and semantic interoperability.
+- oneM2M has released five versions of its technical specifications so far: Release 1 (2015), Release 2 (2016), Release 3 (2018), Release 4 (2019) and Release 5 (2021). Each release adds new features and enhancements to the previous one.

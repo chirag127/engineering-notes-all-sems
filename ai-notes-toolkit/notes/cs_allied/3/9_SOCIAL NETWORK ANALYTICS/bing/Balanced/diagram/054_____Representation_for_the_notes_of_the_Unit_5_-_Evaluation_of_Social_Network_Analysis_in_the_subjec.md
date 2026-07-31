@@ -1,0 +1,10 @@
+### Representation for the notes of the Unit 5 - Evaluation of Social Network Analysis in the subject of SOCIAL NETWORK ANALYTICS
+
+- Social network analysis (SNA) is an evaluation approach that uses mathematics and visualization to represent the structure of relationships between people, organizations, goals, interests, and other entities within a larger system.
+- SNA helps to understand the phenomena that emerge from the interaction of individuals or institutions and is useful to assess the impact, effectiveness, and sustainability of interventions that aim to change or improve social networks.
+- SNA can be used to find the type, importance, and quantity of relationships in a social network, allowing for a graphical output in conjunction with mathematical analysis.
+- SNA can be applied in various domains, such as health, education, development, business, and policy, to evaluate the outcomes and processes of network-based interventions, programs, or policies.
+- SNA can be conducted at different levels of analysis, such as ego-networks (focusing on the individual and their immediate contacts), whole networks (focusing on the entire network and its subgroups), or multilevel networks (focusing on the interplay between different levels of networks).
+- SNA can use different types of data, such as surveys, interviews, observations, documents, or digital traces, to collect information on the nodes (the entities in the network) and the ties (the relationships between the nodes) of the network.
+- SNA can employ different methods of analysis, such as descriptive statistics, network visualization, network metrics, network models, or network algorithms, to measure and interpret the structural and relational properties of the network.
+- SNA can provide different insights for evaluation, such as identifying the key actors, roles, and positions in the network, examining the patterns, density, and diversity of the network, comparing the network structure and dynamics over time or across groups, and explaining the network outcomes and impacts in relation to the network characteristics.

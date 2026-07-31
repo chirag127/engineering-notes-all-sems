@@ -1,0 +1,17 @@
+# Logical Operations in 8085 Microprocessor
+
+- Logical operations are the instructions that perform basic logical operations such as AND, OR, XOR, NOT, etc. on the bits of the operands.
+- In the 8085 microprocessor, the destination operand for the logical instructions is always the accumulator register (A).
+- The logical operations work on a bitwise level, meaning that each bit of the accumulator is logically operated with the corresponding bit of the source operand.
+- The source operand can be either a register, a memory location, or an immediate data.
+- The result of the logical operation is stored in the accumulator register and the flags are affected accordingly.
+- The logical instructions in 8085 microprocessor are:
+
+  - **ANA** (AND with accumulator): This instruction performs the bitwise AND operation between the accumulator and the source operand and stores the result in the accumulator. The source operand can be a register, a memory location, or an immediate data. The flags affected by this instruction are: S, Z, P, C, and AC.
+  - **ORA** (OR with accumulator): This instruction performs the bitwise OR operation between the accumulator and the source operand and stores the result in the accumulator. The source operand can be a register, a memory location, or an immediate data. The flags affected by this instruction are: S, Z, P, C, and AC.
+  - **XRA** (XOR with accumulator): This instruction performs the bitwise XOR operation between the accumulator and the source operand and stores the result in the accumulator. The source operand can be a register, a memory location, or an immediate data. The flags affected by this instruction are: S, Z, P, C, and AC.
+  - **CMA** (Complement accumulator): This instruction performs the bitwise complement operation on the accumulator, meaning that each bit of the accumulator is inverted. The source operand is not required for this instruction. The flags affected by this instruction are: None.
+  - **RLC** (Rotate left through carry): This instruction performs the left circular rotation of the accumulator, meaning that the leftmost bit of the accumulator is shifted to the rightmost position and also to the carry flag. The source operand is not required for this instruction. The flags affected by this instruction are: C.
+  - **RRC** (Rotate right through carry): This instruction performs the right circular rotation of the accumulator, meaning that the rightmost bit of the accumulator is shifted to the leftmost position and also to the carry flag. The source operand is not required for this instruction. The flags affected by this instruction are: C.
+  - **RAL** (Rotate left through accumulator): This instruction performs the left rotation of the accumulator, meaning that the leftmost bit of the accumulator is shifted to the carry flag and the carry flag is shifted to the rightmost position of the accumulator. The source operand is not required for this instruction. The flags affected by this instruction are: C.
+  - **RAR** (Rotate right through accumulator): This instruction performs the right rotation of the accumulator, meaning that the rightmost bit of the accumulator is shifted to the carry flag and the carry flag is shifted to the leftmost position of the accumulator. The source operand is not required for this instruction. The flags affected by this instruction are: C.

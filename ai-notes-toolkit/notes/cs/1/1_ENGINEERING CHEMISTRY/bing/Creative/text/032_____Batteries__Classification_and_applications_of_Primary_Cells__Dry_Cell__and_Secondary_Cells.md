@@ -1,0 +1,12 @@
+### Batteries; Classification and applications of Primary Cells (Dry Cell) and Secondary Cells
+
+- Batteries are devices that store chemical energy and convert it into electrical energy when needed.
+- Batteries are classified into two main types based on their ability to be recharged: primary cells and secondary cells .
+- Primary cells are batteries that cannot be recharged and are discarded after their chemical energy is exhausted. They are also called dry cells because they do not contain any liquid electrolyte .
+- Secondary cells are batteries that can be recharged by applying an external electric current that reverses the chemical reaction. They are also called wet cells because they usually contain a liquid electrolyte .
+- Primary cells are further classified into two subcategories based on their application: household batteries and industrial batteries.
+- Household batteries are the types of batteries that are more likely to be known to the common man. They find uses in a wide range of household appliances (such as torches, clocks, and cameras). Some examples of household batteries are zinc-carbon batteries, alkaline batteries, lithium batteries, and button cells .
+- Industrial batteries are built to serve heavy-duty requirements. They are used in applications that require high power, long life, and reliability. Some examples of industrial batteries are lead-acid batteries, nickel-cadmium batteries, nickel-metal hydride batteries, and lithium-ion batteries .
+- Secondary cells are further classified into two subcategories based on their application: vehicle batteries and portable batteries.
+- Vehicle batteries are more user-friendly and a less complicated version of the industrial batteries. They are used to provide electrical power to automobiles, motorcycles, and other vehicles. Some examples of vehicle batteries are lead-acid batteries, nickel-cadmium batteries, nickel-metal hydride batteries, and lithium-ion batteries .
+- Portable batteries are the types of batteries that are used in devices that can be carried around easily. They are used in applications that require low power, light weight, and long life. Some examples of portable batteries are nickel-cadmium batteries, nickel-metal hydride batteries, lithium-ion batteries, and lithium-polymer batteries .

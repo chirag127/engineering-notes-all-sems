@@ -1,0 +1,11 @@
+# Other Heterodox Sects
+
+- Heterodox sects are those that do not accept the authority of the Vedas and the Brahmanical rituals and practices.
+- They emerged in the 6th century BCE as a reaction to the rigid and complex Vedic religion, the social inequalities and the materialistic tendencies of the society.
+- They advocated a more ethical and rational approach to life, based on the principles of karma, rebirth, liberation and non-violence.
+- Some of the prominent heterodox sects are:
+
+  - **Ajivika**: Founded by Makkhali Gosala, this sect believed in fatalism, that is, everything is predetermined by fate and human actions have no effect on the outcome. They also denied the existence of free will, soul, God and moral values. They practiced extreme asceticism and renunciation of worldly pleasures. They were supported by some rulers, such as Bindusara, the father of Ashoka.  
+  - **Lokayata**: Also known as Charvaka or Brihaspatya, this sect was founded by Brihaspati, a mythical sage. This sect believed in materialism, that is, only matter is real and there is no soul, God, afterlife or moral law. They rejected the concepts of karma, rebirth and liberation. They advocated a hedonistic lifestyle, that is, pursuit of sensual pleasures and enjoyment of the present. They also criticized the Vedas, the Brahmins and the rituals. They were opposed by most of the orthodox and other heterodox sects.  
+  - **Nityavada**: This sect was founded by Purana Kassapa, a contemporary of Buddha and Mahavira. This sect believed in eternalism, that is, everything is eternal and unchanging. They also denied the existence of causation, karma, rebirth and liberation. They argued that there is no difference between good and evil, and that human actions have no consequences. They were also known as Akriyavada or Amoralism.  
+  - **Sandehavada**: This sect was founded by Ajita Kesakambali, another contemporary of Buddha and Mahavira. This sect believed in agnosticism, that is, nothing can be known for certain. They also denied the existence of soul, God, afterlife, karma, rebirth and liberation. They argued that there is no evidence for any of these concepts and that they are mere speculations. They were also known as Sasvata or Nihilism.

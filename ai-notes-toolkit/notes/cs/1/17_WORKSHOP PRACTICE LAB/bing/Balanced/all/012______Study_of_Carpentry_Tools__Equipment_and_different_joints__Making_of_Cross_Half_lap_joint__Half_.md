@@ -1,0 +1,20 @@
+#### Study of Carpentry Tools, Equipment and different joints. Making of Cross Half lap joint, Half lap Dovetail joint and Mortise Tenon Joint
+
+Carpentry is the art and skill of working with wood to create various structures, furniture, and objects. Carpentry requires the use of various tools and equipment to measure, cut, shape, join, and finish wood. Some of the common carpentry tools and equipment are:
+
+- **Hammer**: A tool used to drive nails, pins, or other fasteners into wood. Hammers have a metal head and a wooden or rubber handle. There are different types of hammers, such as claw hammer, ball-peen hammer, sledgehammer, etc.
+- **Saw**: A tool used to cut wood into different shapes and sizes. Saws have a blade with teeth that move back and forth or in a circular motion. There are different types of saws, such as hand saw, circular saw, jigsaw, coping saw, etc.
+- **Chisel**: A tool used to carve, shape, or remove wood. Chisels have a sharp metal edge and a wooden or plastic handle. There are different types of chisels, such as bevel-edge chisel, mortise chisel, dovetail chisel, etc.
+- **Plane**: A tool used to smooth, level, or shape wood. Planes have a blade that shaves off thin layers of wood as it is pushed or pulled along the surface. There are different types of planes, such as jack plane, smoothing plane, block plane, etc.
+- **Drill**: A tool used to make holes in wood. Drills have a rotating bit that can be changed to suit different sizes and shapes of holes. There are different types of drills, such as hand drill, electric drill, cordless drill, etc.
+- **Screwdriver**: A tool used to drive screws into or out of wood. Screwdrivers have a metal tip that fits into the head of a screw and a handle that can be turned to rotate the tip. There are different types of screwdrivers, such as flat-head screwdriver, Phillips screwdriver, Torx screwdriver, etc.
+- **Clamp**: A device used to hold two or more pieces of wood together while they are being glued, nailed, or screwed. Clamps have two jaws that can be adjusted to fit different thicknesses of wood and a mechanism that applies pressure to keep the jaws closed. There are different types of clamps, such as C-clamp, bar clamp, pipe clamp, etc.
+- **Square**: A tool used to measure and mark right angles on wood. Squares have two arms that form a 90-degree angle and a scale that shows the length of each arm. There are different types of squares, such as try square, combination square, speed square, etc.
+- **Level**: A tool used to check if a surface is horizontal or vertical. Levels have a bubble that moves inside a liquid-filled tube and indicates if the surface is level or not. There are different types of levels, such as spirit level, laser level, digital level, etc.
+- **Tape measure**: A tool used to measure the length, width, or height of wood or other objects. Tape measures have a flexible metal or plastic tape that can be extended or retracted and a scale that shows the measurement in inches or centimeters. There are different types of tape measures, such as retractable tape measure, folding tape measure, steel tape measure, etc.
+
+Carpentry also involves the use of different joints to connect two or more pieces of wood together. Joints can be classified into two main categories: **fastened joints** and **glued joints**. Fastened joints use nails, screws, dowels, biscuits, or other metal fasteners to hold the wood together. Glued joints use wood glue or other adhesives to bond the wood together. Some of the common carpentry joints are:
+
+- **Butt joint**: A joint where the end of one piece of wood is joined to the edge or face of another piece of wood. This is the simplest and weakest type of joint and usually requires fasteners or glue to reinforce it.
+- **Miter joint**: A joint where the ends of two pieces of wood are cut at an angle and joined together to form a corner. This is a common type of joint for making frames, boxes, or cabinets and can be reinforced with fasteners or glue.
+- **Dado joint**: A joint where a groove is cut across the grain of one piece of wood and another piece of wood is fitted into the

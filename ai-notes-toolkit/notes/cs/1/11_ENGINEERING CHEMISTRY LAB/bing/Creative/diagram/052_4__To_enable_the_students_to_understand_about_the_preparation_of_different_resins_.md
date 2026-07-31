@@ -1,0 +1,12 @@
+# 4. To enable the students to understand about the preparation of different resins.
+
+- Resins are natural or synthetic organic substances that are usually solid or semi-solid, and have a high molecular weight.
+- Resins are widely used in various industries, such as paints, adhesives, plastics, rubber, and pharmaceuticals.
+- Resins can be classified into two main types: thermoplastic and thermosetting.
+- Thermoplastic resins are resins that can be softened by heating and hardened by cooling, without undergoing any chemical change. Examples of thermoplastic resins are polyethylene, polypropylene, polystyrene, and nylon.
+- Thermosetting resins are resins that undergo an irreversible chemical reaction when heated, forming a rigid and insoluble network. Examples of thermosetting resins are phenol-formaldehyde, urea-formaldehyde, epoxy, and polyester.
+- The preparation of different resins involves various steps, such as polymerization, condensation, cross-linking, and curing.
+- Polymerization is the process of joining small molecules (monomers) to form large molecules (polymers) with repeating units. Polymerization can be initiated by heat, light, or catalysts. Examples of polymerization reactions are the formation of polyethylene from ethylene, and the formation of polystyrene from styrene.
+- Condensation is the process of joining two molecules with the elimination of a small molecule, such as water, ammonia, or alcohol. Condensation reactions are usually catalyzed by acids or bases. Examples of condensation reactions are the formation of nylon from hexamethylenediamine and adipic acid, and the formation of phenol-formaldehyde from phenol and formaldehyde.
+- Cross-linking is the process of forming covalent bonds between different polymer chains, resulting in a three-dimensional network. Cross-linking increases the strength, rigidity, and thermal stability of the resin. Examples of cross-linking agents are formaldehyde, sulfur, and peroxides.
+- Curing is the process of completing the cross-linking reaction and hardening the resin. Curing can be done by heating, cooling, or exposing to radiation. Curing time and temperature depend on the type and amount of cross-linking agent, and the properties of the resin. Examples of curing methods are baking, cooling, and ultraviolet radiation.

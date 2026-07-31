@@ -1,0 +1,21 @@
+## Unit 3 - Scripting
+
+- Scripting is the process of writing and executing a series of commands or instructions that can automate a task or perform a specific function.
+- Scripting languages are high-level programming languages that are interpreted rather than compiled, meaning they are executed line by line at run time.
+- Scripting languages are often used for tasks such as web development, data analysis, system administration, text processing, and automation.
+- Some examples of popular scripting languages are Python, JavaScript, Ruby, Perl, and Bash.
+- Scripting languages have some advantages and disadvantages compared to compiled languages, such as:
+  - Advantages:
+    - They are easy to learn and use, with simple syntax and dynamic typing.
+    - They are portable and platform-independent, meaning they can run on different operating systems and devices.
+    - They are flexible and expressive, allowing the programmer to write concise and readable code.
+    - They support multiple programming paradigms, such as procedural, object-oriented, and functional programming.
+    - They have rich libraries and frameworks that provide built-in functionality and support for various domains and applications.
+  - Disadvantages:
+    - They are slower and less efficient than compiled languages, as they require an interpreter to run the code.
+    - They are less secure and reliable than compiled languages, as they are more prone to errors and bugs that are not detected until run time.
+    - They are less suitable for low-level programming, such as hardware interfacing, memory management, and performance optimization.
+- To write and run a script, the programmer needs a text editor and an interpreter for the chosen scripting language.
+- A text editor is a software tool that allows the programmer to create and edit plain text files that contain the source code of the script.
+- An interpreter is a software tool that reads and executes the source code of the script, translating it into machine code that can be understood by the computer.
+- Some text editors and interpreters are integrated into a single software tool called an integrated development environment (IDE), which provides additional features such as syntax highlighting, code completion, debugging, and testing.

@@ -1,0 +1,12 @@
+#### HBase concepts
+
+HBase is a distributed, scalable, and column-oriented database that runs on top of the Hadoop Distributed File System (HDFS). It is designed to store and process large amounts of semi-structured and sparse data in a fault-tolerant and consistent way. Some of the key concepts of HBase are:
+
+- **Table**: A table is a collection of rows that are organized into column families. Each table has a unique name and can have one or more column families.
+- **Row**: A row is a unit of data that is identified by a row key. A row can have multiple versions, which are distinguished by timestamps. A row can have any number of columns, but each column must belong to a column family.
+- **Column family**: A column family is a group of columns that share a common prefix and have the same configuration and storage properties. A column family is stored as a separate file on HDFS and can have one or more columns.
+- **Column**: A column is a pair of a column qualifier and a value. A column qualifier is a suffix that is appended to the column family prefix to form the full column name. A value is a byte array that can store any type of data. A column can have multiple versions, which are distinguished by timestamps.
+- **Cell**: A cell is a combination of a row key, a column name, and a timestamp. A cell stores a single value and can be accessed by specifying the row key, the column name, and the timestamp.
+- **Region**: A region is a contiguous and sorted range of rows that are stored together on a region server. A region is the basic unit of data distribution and load balancing in HBase. A region can be split into two smaller regions when it grows too large or merged with another region when it becomes too small.
+- **Region server**: A region server is a process that runs on a node in the Hadoop cluster and serves one or more regions. A region server is responsible for handling read and write requests, performing compactions, and communicating with the HBase master.
+- **HBase master**: The HBase master is a process that runs on a node in the Hadoop cluster and coordinates the region servers. The HBase master is responsible for assigning regions to region servers, monitoring the cluster health, performing metadata operations, and handling schema changes.

@@ -1,0 +1,22 @@
+### Static and Dynamic Websites
+
+- Static and dynamic websites are two types of websites that differ in how they display and deliver content to the users.
+- A static website is one that has fixed and stable content, where every user sees the same thing on each page. A static website is usually written exclusively in HTML, and does not require any server-side processing or database interaction.
+- A dynamic website is one that can display different and interactive content depending on the user, the time, the location, or other factors. A dynamic website uses advanced programming languages and databases in addition to HTML, and requires server-side processing to generate the web pages.
+- Some examples of static websites are personal blogs, portfolios, landing pages, and online resumes. Some examples of dynamic websites are e-commerce sites, social media platforms, online forums, and web applications.
+- Some advantages of static websites are:
+  - They are faster and cheaper to host, as they do not require any server resources or database management.
+  - They are more secure and reliable, as they are less prone to hacking, errors, or downtime.
+  - They are easier to maintain and update, as they only require editing the HTML files.
+- Some disadvantages of static websites are:
+  - They are less flexible and scalable, as they cannot adapt to different user needs or preferences.
+  - They are less engaging and interactive, as they cannot offer any user feedback or functionality.
+  - They are harder to manage and expand, as they require creating and editing multiple HTML files for each page.
+- Some advantages of dynamic websites are:
+  - They are more flexible and scalable, as they can customize the content and layout for each user or situation.
+  - They are more engaging and interactive, as they can offer various features and functions, such as forms, comments, ratings, etc.
+  - They are easier to manage and expand, as they only require editing the code or the database for the entire website.
+- Some disadvantages of dynamic websites are:
+  - They are slower and more expensive to host, as they require more server resources and database management.
+  - They are less secure and reliable, as they are more vulnerable to hacking, errors, or downtime.
+  - They are harder to maintain and update, as they require more technical skills and knowledge of the programming languages and databases.

@@ -1,0 +1,12 @@
+#### How to build applications with Zookeeper
+
+Zookeeper is a distributed system coordinator that provides services such as configuration management, synchronization, naming, and leader election for distributed applications. Zookeeper can help developers to simplify the complexity of distributed programming and achieve high availability and scalability.
+
+To build applications with Zookeeper, the following steps are recommended:
+
+- Install Zookeeper on one or more servers. Zookeeper can run in standalone mode or in a cluster mode. In standalone mode, only one server is needed, but it does not provide fault tolerance. In cluster mode, at least three servers are needed to form a quorum, which can tolerate one server failure .
+- Create a configuration file for Zookeeper, which specifies the server ID, data directory, client port, and other parameters. The configuration file should be consistent across all the servers in the cluster .
+- Start Zookeeper using the command `zkServer.sh start` on Linux or `zkServer.cmd` on Windows. Alternatively, Zookeeper can be started as a service using the `/etc/init.d/zookeeper-service-default` script on Linux or the `Zookeeper/zookeeper/bin/zkService.bat` script on Windows  .
+- Connect to Zookeeper using a client library or a command-line interface. Zookeeper provides client libraries for Java, C, and Python, as well as a command-line interface called `zkCli.sh` on Linux or `zkCli.cmd` on Windows. The client can use Zookeeper to create, read, update, and delete nodes (also called znodes) in a hierarchical namespace, which stores the configuration and state information of the distributed application .
+- Implement the desired features of the distributed application using the Zookeeper API. Zookeeper provides several primitives and recipes for common distributed programming tasks, such as locks, barriers, queues, watches, ephemeral nodes, and leader election. The Zookeeper API allows the client to perform operations on the znodes, such as setting and getting data, checking existence, setting and removing watches, creating and deleting children, and synchronizing data .
+- Deploy and run the distributed application on a Kubernetes cluster. Kubernetes is a platform for managing containerized applications across multiple nodes. Kubernetes can use Zookeeper as a backend for storing the cluster state and configuration. To run Zookeeper on Kubernetes, a manifest file that defines the Zookeeper service, pod, and statefulset can be created and applied using the `kubectl apply` command.

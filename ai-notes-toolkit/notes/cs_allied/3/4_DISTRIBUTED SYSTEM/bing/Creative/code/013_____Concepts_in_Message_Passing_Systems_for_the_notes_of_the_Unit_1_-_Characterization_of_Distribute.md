@@ -1,0 +1,23 @@
+# Concepts in Message Passing Systems for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Message passing is a technique for invoking behavior on a computer by sending a message to a process.
+- Message passing is used in distributed systems, where processes communicate by exchanging messages over a network  .
+- Message passing systems provide a collection of message-based interprocess communication (IPC) protocols that hide the complexities of network protocols and heterogeneous platforms .
+- Message passing systems can be classified into two categories: synchronous and asynchronous.
+  - Synchronous message passing systems require the sender and the receiver to be ready at the same time for communication. The sender blocks until the receiver acknowledges the message, and the receiver blocks until a message arrives.
+  - Asynchronous message passing systems do not require the sender and the receiver to be ready at the same time for communication. The sender does not block after sending a message, and the receiver can retrieve a message from a queue or a buffer at any time.
+- Message passing systems can also be classified into two types: direct and indirect.
+  - Direct message passing systems require the sender and the receiver to know each other's identities, such as process names or addresses. The sender specifies the destination of the message, and the receiver specifies the source of the message.
+  - Indirect message passing systems do not require the sender and the receiver to know each other's identities. The sender and the receiver communicate through a shared entity, such as a mailbox, a port, or a topic. The sender deposits the message in the shared entity, and the receiver retrieves the message from the shared entity.
+- Message passing systems can support different communication models, such as one-to-one, one-to-many, many-to-one, or many-to-many.
+  - One-to-one communication model involves a single sender and a single receiver. This is also known as point-to-point or unicast communication.
+  - One-to-many communication model involves a single sender and multiple receivers. This is also known as broadcast or multicast communication.
+  - Many-to-one communication model involves multiple senders and a single receiver. This is also known as gather or anycast communication.
+  - Many-to-many communication model involves multiple senders and multiple receivers. This is also known as scatter or all-to-all communication.
+- Message passing systems can have different features, such as reliability, ordering, delivery, buffering, routing, security, etc.
+  - Reliability refers to the ability of the message passing system to ensure that a message is delivered to the intended receiver without loss, duplication, or corruption.
+  - Ordering refers to the ability of the message passing system to preserve the temporal or causal relationships among messages sent by the same or different senders.
+  - Delivery refers to the ability of the message passing system to guarantee that a message is delivered to the receiver within a specified time or deadline.
+  - Buffering refers to the ability of the message passing system to store messages temporarily in a queue or a buffer until they are delivered or retrieved.
+  - Routing refers to the ability of the message passing system to select the best path or route for sending a message from the sender to the receiver over a network.
+  - Security refers to the ability of the message passing system to protect the confidentiality, integrity, and authenticity of the messages and the processes involved in communication.

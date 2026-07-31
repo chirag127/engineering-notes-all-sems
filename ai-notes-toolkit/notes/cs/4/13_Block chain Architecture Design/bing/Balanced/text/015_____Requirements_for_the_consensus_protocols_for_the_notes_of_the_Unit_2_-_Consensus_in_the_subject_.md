@@ -1,0 +1,9 @@
+### Requirements for the consensus protocols for the notes of the Unit 2 - Consensus in the subject of Block chain Architecture Design
+
+- A consensus protocol is a set of rules that determines how a decentralized computer network reaches agreement on which transactions are valid and which are not .
+- A consensus protocol prevents a single entity from controlling a blockchain or distorting the “truth” of what should be recorded.
+- A consensus protocol ensures that all participating nodes agree on the state of a blockchain and that the blockchain is immutable, secure, and consistent .
+- A consensus protocol should be able to handle various challenges, such as network latency, malicious nodes, network partitioning, and scalability .
+- A consensus protocol should also be able to balance the trade-offs between decentralization, security, and performance .
+- Some of the common consensus protocols used in blockchain networks are Proof of Work (PoW), Proof of Stake (PoS), Delegated Proof of Stake (DPoS), Byzantine Fault Tolerance (BFT), and Practical Byzantine Fault Tolerance (PBFT) .
+- Each consensus protocol has its own advantages and disadvantages, and different protocols may be suitable for different use cases and applications .

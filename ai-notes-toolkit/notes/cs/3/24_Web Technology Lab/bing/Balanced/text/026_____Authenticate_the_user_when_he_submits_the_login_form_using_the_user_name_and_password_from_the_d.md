@@ -1,0 +1,17 @@
+### Authenticate the user when he submits the login form using the user name and password from the database for the notes of the Unit 5 - Design server site applications using JDDC,ODBC and section tracking API in the subject of Web Technology Lab
+
+- To authenticate the user when he submits the login form using the user name and password from the database, we need to use JDBC and ODBC drivers that can connect to the database server and execute SQL queries.
+- JDBC stands for Java Database Connectivity, which is a standard API for Java applications to interact with various types of databases. ODBC stands for Open Database Connectivity, which is a standard API for applications written in different languages to interact with various types of databases.
+- Both JDBC and ODBC drivers support different authentication methods, such as personal access tokens, username and password, Kerberos integrated authentication, or IAM credentials. The authentication method depends on the type of database server and the security configuration.
+- The following steps describe the general process of authenticating the user using JDBC and ODBC drivers:
+
+  1. Create a login form that asks the user to enter the user name and password. The form should have a submit button that sends the user input to a servlet or a JSP page that handles the authentication logic.
+  2. In the servlet or JSP page, load the appropriate JDBC or ODBC driver class using the Class.forName() method. For example, to load the JDBC driver for SQL Server, use Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver").
+  3. Create a connection object using the DriverManager.getConnection() method. The method takes a connection URL as a parameter, which specifies the database server name, port number, database name, and authentication method. For example, to use SQL Server authentication, the connection URL can be jdbc:sqlserver://server:port;databaseName=db;user=user;password=pass. To use Kerberos authentication, the connection URL can be jdbc:sqlserver://server:port;databaseName=db;authenticationScheme=JavaKerberos.
+  4. Create a statement object using the connection.createStatement() method. The statement object can execute SQL queries using the executeQuery() or executeUpdate() methods.
+  5. Execute a SQL query that selects the user name and password from the login table where the user name matches the user input. For example, the query can be SELECT username, password FROM login WHERE username = ?.
+  6. Use a prepared statement object to set the parameter value for the user name using the setString() method. For example, preparedStatement.setString(1, username).
+  7. Execute the query using the executeQuery() method, which returns a result set object that contains the query results.
+  8. Check if the result set object has any rows using the next() method. If it has, then compare the password from the result set with the user input using the getString() method. For example, if (resultSet.next() && resultSet.getString("password").equals(password)).
+  9. If the password matches, then the user is authenticated and can be redirected to the welcome page or the main page of the application. If the password does not match, then the user is not authenticated and can be shown an error message or asked to try again.
+  10. Close the result set, statement, and connection objects using the close() method to release the resources.

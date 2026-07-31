@@ -1,0 +1,9 @@
+### Recovery from deadlock
+
+- A deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process.
+- If a system does not use deadlock prevention or avoidance techniques, it may have to deal with deadlocks after they occur.
+- Deadlock recovery involves two steps: deadlock detection and deadlock resolution.
+- Deadlock detection is the process of finding out whether a deadlock has occurred or not. This can be done by using algorithms that check the resource allocation graph or the resource allocation matrix for cycles or wait-for relations.
+- Deadlock resolution is the process of breaking the deadlock by releasing some resources or terminating some processes. There are several methods for deadlock resolution, such as:
+  - Process termination: This method involves killing one or more processes involved in the deadlock to free up the resources they hold. This can be done by aborting all the deadlocked processes, or by aborting one process at a time until the deadlock is resolved. The choice of which process to abort depends on factors such as priority, execution time, number of resources, etc.
+  - Resource preemption: This method involves taking away some resources from the processes involved in the deadlock and giving them to other processes. This can be done by preempting a resource from a process and rolling it back to a safe state, or by preempting a resource from a process and restarting it with reduced resource allocation. The choice of which resource to preempt and which process to roll back depends on factors such as cost, starvation, etc.

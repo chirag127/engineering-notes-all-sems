@@ -1,0 +1,22 @@
+# India’s Dominance up to Pre-colonial Times
+
+- India has a long and rich history that dates back to 2500 BC, when the Indus Valley civilization emerged as one of the earliest urban cultures in the world.
+- India witnessed the rise and fall of many empires and dynasties that contributed to its cultural, religious, political, and economic diversity and development .
+- Some of the notable empires and dynasties that dominated India up to pre-colonial times include:
+  - The Mauryan Empire (321-185 BC), which was the first pan-Indian empire and established a centralized administration, a large army, and a network of trade and diplomacy.
+  - The Gupta Empire (320-550 AD), which is considered the golden age of Indian culture and science, and witnessed the flourishing of art, literature, mathematics, astronomy, medicine, and architecture.
+  - The Chola Empire (9th-13th century AD), which was one of the longest-ruling and most powerful dynasties in South India and expanded its influence to Southeast Asia, Sri Lanka, and the Maldives through naval expeditions and trade.
+  - The Delhi Sultanate (1206-1526 AD), which was the first Muslim empire in India and introduced Persian culture, language, and administration to the subcontinent.
+  - The Mughal Empire (1526-1857 AD), which was the largest and most prosperous empire in India and created a remarkable legacy of art, architecture, literature, music, and cuisine.
+- India also had a vibrant and dynamic economy that was integrated with the global trade network and attracted merchants, travelers, and invaders from various regions and countries .
+- India was a major exporter of textiles, spices, gems, metals, and handicrafts to Europe, Asia, and Africa, and a major importer of gold, silver, horses, and luxury goods .
+- India also had a rich and diverse knowledge system that encompassed various fields of science, management, and philosophy, and influenced other civilizations and cultures.
+- Some of the examples of India's knowledge system are:
+  - The Vedas, Upanishads, and other sacred texts that contain the spiritual and ethical teachings of Hinduism, Buddhism, and Jainism.
+  - The Ayurveda, Yoga, and Siddha systems of medicine and wellness that emphasize the holistic and preventive approach to health and well-being.
+  - The Sankhya, Nyaya, Vaisheshika, Mimamsa, Vedanta, and other schools of philosophy that explore the nature of reality, knowledge, logic, ethics, and metaphysics.
+  - The contributions of Indian mathematicians and astronomers such as Aryabhata, Brahmagupta, Bhaskara, and Varahamihira, who developed the concepts of zero, decimal system, algebra, trigonometry, and heliocentrism.
+  - The Kautilya's Arthashastra, which is a treatise on statecraft, economics, and management, and provides insights on governance, diplomacy, warfare, and trade.
+- India's dominance up to pre-colonial times was challenged and disrupted by the advent of European colonialism, which began with the arrival of the Portuguese in the 15th century, followed by the Dutch, the French, and the British.
+- The British East India Company gradually gained political and economic control over most of India by the 18th century, and exploited its resources, suppressed its culture, and imposed its rule.
+- The British colonial rule had a profound impact on India's society, economy, politics, and culture, and led to the emergence of the Indian nationalist movement, which eventually resulted in India's independence in 1947.

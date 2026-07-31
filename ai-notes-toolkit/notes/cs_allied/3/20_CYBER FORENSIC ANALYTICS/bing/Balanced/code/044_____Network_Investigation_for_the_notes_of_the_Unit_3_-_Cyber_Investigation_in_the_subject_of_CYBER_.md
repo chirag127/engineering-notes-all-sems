@@ -1,0 +1,10 @@
+### Network Investigation
+
+Network investigation is a branch of cyber forensics that involves the examination and analysis of network traffic data to identify and reconstruct the events of a cyber attack or a cyber crime. Network investigation can help to determine the source, target, method, and motive of an attack, as well as to collect and preserve evidence for legal purposes. Network investigation can also help to identify and mitigate the vulnerabilities and risks in a network that may allow future attacks.
+
+Some of the topics that are covered in network investigation are:
+
+- Network forensics tools and techniques: These are the software and hardware tools that can capture, filter, analyze, and visualize network traffic data, such as packet sniffers, network analyzers, network scanners, and network monitors. Some of the techniques that can be used to perform network forensics are packet analysis, flow analysis, protocol analysis, and anomaly detection.
+- Network forensics methods: These are the approaches that can be used to conduct network forensics, such as the "catch it as you can" method, which involves capturing and storing all network traffic for later analysis, and the "stop, look and listen" method, which involves monitoring and capturing only the relevant data packets in real time.
+- Network forensics challenges and limitations: These are the difficulties and constraints that can affect the accuracy and reliability of network forensics, such as encryption, fragmentation, spoofing, compression, and network complexity.
+- Network forensics best practices and standards: These are the guidelines and recommendations that can help to ensure the quality and validity of network forensics, such as the use of proper tools and techniques, the preservation of data integrity and chain of custody, the documentation and reporting of findings, and the compliance with legal and ethical principles.

@@ -1,0 +1,11 @@
+### 3. PCB Lab: a. Artwork & printing of a simple PCB. b. Etching & drilling of PCB
+
+A printed circuit board (PCB) is a board that electrically connects electronic components using conductive traces, pads, and other features. PCBs are used in various electronic devices and applications. To make a PCB, one needs to design the artwork, print it on a suitable material, etch away the unwanted copper, and drill holes for the components.
+
+The following are the steps to make a simple PCB:
+
+- **Artwork and printing**: The artwork is the design of the circuit layout on the PCB. It can be drawn by hand or using a software tool. The artwork should include the component symbols, the trace widths, the pad sizes, and the dimensions of the board. The artwork can be printed on a transparent film or paper using a laser printer or an inkjet printer. The printed artwork should be clear and dark enough to block the light during the exposure process.
+
+- **Etching**: The etching process removes the unwanted copper from the board, leaving only the traces and pads. The board is first coated with a photosensitive material, such as a dry film or a liquid photoresist. The board is then exposed to ultraviolet light through the printed artwork, which hardens the photoresist on the areas where the copper is needed. The board is then developed in a chemical solution, which removes the unexposed photoresist. The board is then immersed in an etching solution, such as ferric chloride or sodium persulfate, which dissolves the exposed copper. The board is then rinsed and dried.
+
+- **Drilling**: The drilling process makes holes for the components and vias on the board. The holes should be aligned with the pads and traces on the board. The drilling can be done manually using a hand drill or a drill press, or automatically using a CNC machine. The drill bits should be sharp and of the appropriate size for the components. The board should be supported by a backing material, such as wood or acrylic, to prevent damage to the board or the drill bit. The board should be cleaned and deburred after drilling.

@@ -1,0 +1,23 @@
+### Inductive inference with decision trees
+
+- Decision tree learning is a method that uses inductive inference to approximate a target function, which will produce discrete values  .
+- Inductive inference is the process of generalizing from a set of training examples to a hypothesis that can make predictions for unseen examples.
+- Decision trees are graphical representations of the learned function, where each node corresponds to a test on an attribute, and each branch corresponds to a possible outcome of the test  .
+- The leaves of the tree represent the class labels or values of the target function  .
+- Decision trees can also be converted to a set of if-then-else rules, where each rule corresponds to a path from the root to a leaf .
+- Decision tree learning is widely used, robust to noisy data, and capable of learning disjunctive expressions  .
+- Disjunctive expressions are logical formulas that use the OR operator to combine simpler conditions.
+- Decision tree learning can handle both categorical and numerical attributes, and can deal with missing values.
+- Decision tree learning can also perform feature selection by choosing the most relevant attributes to split the data.
+- Decision tree learning is based on the principle of Occam's razor, which states that the simplest hypothesis that fits the data is the best.
+- Decision tree learning uses various algorithms to construct the tree, such as ID3, C4.5, CART, etc.
+- Decision tree learning algorithms typically use a top-down, greedy, divide-and-conquer approach, where they start with the whole data set and recursively split it into smaller subsets based on the best attribute at each node.
+- The best attribute is usually chosen based on some measure of information gain or impurity reduction, such as entropy, Gini index, etc.
+- The splitting process stops when all the examples in a subset belong to the same class, or when there are no more attributes to test, or when some other stopping criterion is met.
+- The resulting tree may be overfitted to the training data, and may not generalize well to unseen data.
+- To avoid overfitting, decision tree learning algorithms may use some techniques such as pruning, pre-pruning, post-pruning, etc.
+- Pruning is the process of removing or collapsing some nodes or branches of the tree that do not contribute much to the accuracy or simplicity of the tree.
+- Pre-pruning is the process of stopping the splitting process early, before the tree becomes too complex.
+- Post-pruning is the process of trimming the tree after it is fully grown, by using a separate validation set or some statistical tests.
+- Decision tree learning has many advantages, such as being easy to understand, interpret, and visualize, being able to handle heterogeneous data, being able to cope with noise and outliers, being able to perform implicit feature selection, etc.
+- Decision tree learning also has some limitations, such as being prone to overfitting, being sensitive to small changes in the data, being biased towards attributes with more values or levels, being unable to learn linear or non-linear relationships, etc.

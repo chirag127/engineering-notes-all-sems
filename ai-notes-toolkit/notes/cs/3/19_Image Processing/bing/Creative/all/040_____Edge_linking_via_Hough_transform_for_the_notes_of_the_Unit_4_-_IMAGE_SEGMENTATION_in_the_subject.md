@@ -1,0 +1,15 @@
+# Edge linking via Hough transform
+
+- Edge linking is the process of connecting edge pixels in an image to form continuous curves or contours that represent the boundaries of objects or regions.
+- Edge linking can be done by local or global methods. Local methods analyze the neighborhood of each edge pixel and link it to another edge pixel based on some criteria, such as gradient direction, intensity difference, or distance. Global methods use a parametric representation of the curve shape and try to find the best fit for the edge pixels in the image.
+- Hough transform is a global method for edge linking that can detect lines, circles, ellipses, or other shapes in an image. The basic idea of Hough transform is to map each edge pixel in the image space to a set of curves in a parameter space, and then find the peaks or maxima in the parameter space that correspond to the most likely curves in the image space.
+- For example, to detect lines in an image, the parameter space is defined by the slope and intercept of the line, or equivalently, by the angle and distance of the line from the origin. Each edge pixel (x, y) in the image space can be represented by a sinusoidal curve in the parameter space, given by r = x cos(theta) + y sin(theta), where r is the distance and theta is the angle of the line. The intersection of the curves from different edge pixels indicates a possible line in the image space. The more curves intersect at a point, the higher the value of the accumulator array at that point, and the more likely that a line exists in the image space.
+- The steps of Hough transform for line detection are:
+
+  - Apply edge detection to the input image and obtain a binary edge map.
+  - Define the parameter space and initialize an accumulator array with zeros.
+  - For each edge pixel (x, y) in the edge map, compute the curve r = x cos(theta) + y sin(theta) for all values of theta in the parameter space, and increment the accumulator array at each (r, theta) pair by one.
+  - Find the local maxima in the accumulator array that are above a certain threshold. These are the peaks that represent the most likely lines in the image space.
+  - For each peak, draw the corresponding line in the image space using the equation y = (r - x cos(theta)) / sin(theta) or x = (r - y sin(theta)) / cos(theta), depending on the value of theta.
+
+- Hough transform can be extended to detect other shapes, such as circles, ellipses, or polygons, by using different parameter spaces and equations. However, the complexity and dimensionality of the parameter space increase with the number of parameters required to define the shape. Therefore, some modifications and optimizations are often applied to the Hough transform, such as using polar coordinates, gradient information, randomized sampling, or voting schemes, to reduce the computational cost and improve the accuracy.

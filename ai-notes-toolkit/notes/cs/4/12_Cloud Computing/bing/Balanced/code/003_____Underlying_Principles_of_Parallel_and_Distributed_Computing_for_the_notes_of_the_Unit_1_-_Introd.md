@@ -1,0 +1,13 @@
+### Underlying Principles of Parallel and Distributed Computing
+
+- Parallel and distributed computing are two models of computation that involve multiple processors or devices working together to solve a problem or perform a task.
+- Parallel computing refers to a model in which the computation is divided among several processors sharing the same physical memory and communication medium. The processors communicate with each other with the help of shared memory. Parallel computing is often used to speed up the execution of a single program or task by exploiting the concurrency and parallelism inherent in the problem.
+- Distributed computing refers to a model in which the computation is distributed among several processors or devices that have their own memory and communication network. The processors communicate with each other by exchanging messages over the network. Distributed computing is often used to coordinate the activities of multiple programs or tasks that may have different goals and requirements, and to achieve fault tolerance and scalability.
+- Parallel and distributed computing are often used in tandem, as distributed parallel computing, which uses multiple computing devices to process tasks in parallel. For example, a distributed system may consist of several parallel computers that communicate with each other over a network, or a parallel computer may use distributed memory to store and access data.
+- Parallel and distributed computing have many applications and challenges in various domains of computer science, such as algorithms, architecture, networks, operating systems, and software engineering. Some of the common issues and topics in parallel and distributed computing are:
+
+  - Designing efficient and scalable algorithms and data structures that can exploit the parallelism and distribution of the computation.
+  - Developing programming models, languages, and tools that can simplify the development and debugging of parallel and distributed programs.
+  - Designing and implementing architectures and systems that can support parallel and distributed computing, such as multiprocessors, clusters, grids, clouds, and supercomputers.
+  - Managing the communication, synchronization, coordination, and load balancing among the processors or devices involved in the computation.
+  - Ensuring the correctness, reliability, security, and performance of parallel and distributed systems, especially in the presence of failures, faults, and attacks.

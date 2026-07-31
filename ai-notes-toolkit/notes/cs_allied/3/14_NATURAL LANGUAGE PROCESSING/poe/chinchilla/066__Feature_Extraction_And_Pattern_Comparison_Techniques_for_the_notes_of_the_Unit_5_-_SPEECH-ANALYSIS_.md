@@ -1,0 +1,15 @@
+### Feature Extraction And Pattern Comparison Techniques for the notes of the Unit 5 - SPEECH-ANALYSIS in the subject of NATURAL LANGUAGE PROCESSING.
+
+In the field of natural language processing, speech analysis is a crucial area that deals with the extraction of meaningful information from audio signals. Feature extraction and pattern comparison techniques are fundamental tools used in speech analysis to extract relevant features and compare them with reference patterns. Here are some of the most commonly used techniques:
+
+1. **Mel Frequency Cepstral Coefficients (MFCCs):** MFCCs are widely used in speech analysis to extract relevant features from audio signals. They are based on the human auditory system's perception of sound, which is more sensitive to changes in frequency than amplitude. MFCCs involve taking the logarithm of the signal's power spectrum, followed by a discrete cosine transform to obtain a set of coefficients that represent the spectral envelope of the signal.
+
+2. **Linear Predictive Coding (LPC):** LPC is another popular technique used for speech analysis. It involves modeling the speech signal as a linear combination of past samples, with the coefficients of the combination being estimated using the autocorrelation function of the signal. LPC can be used to extract features such as formants and pitch, which are important for speech recognition and synthesis.
+
+3. **Hidden Markov Models (HMMs):** HMMs are statistical models that are commonly used in speech recognition applications. They can be used to model the probability distribution of speech sounds, and to recognize words or phrases based on the observed sequence of sounds. HMMs are trained using a set of reference patterns, and can be used to detect deviations from these patterns in real-time speech signals.
+
+4. **Dynamic Time Warping (DTW):** DTW is a technique used to compare two sequences of feature vectors, such as those obtained from speech signals. DTW involves finding the best alignment between the two sequences, by warping one of the sequences in time to match the other sequence. DTW can be used to compare speech signals at different rates of speaking, and is commonly used in speech recognition and speaker identification applications.
+
+5. **Artificial Neural Networks (ANNs):** ANNs are machine learning models that can be trained to recognize patterns in speech signals. They involve a network of interconnected nodes that are trained using a set of reference patterns. ANNs can be used for tasks such as speech recognition, speaker identification, and emotion recognition.
+
+In conclusion, feature extraction and pattern comparison techniques are essential tools for speech analysis in natural language processing. The techniques discussed in this article are just a few of the many approaches used in this field, and researchers continue to develop new and improved techniques to extract meaningful information from speech signals.

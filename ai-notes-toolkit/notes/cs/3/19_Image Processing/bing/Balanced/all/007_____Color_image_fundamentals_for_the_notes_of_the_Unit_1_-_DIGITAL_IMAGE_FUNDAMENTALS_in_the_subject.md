@@ -1,0 +1,21 @@
+# Color image fundamentals
+
+- Color is a powerful descriptor that often simplifies object identification and extraction from a scene.
+- Color image processing is divided into two major areas: full-color and pseudo-color processing.
+- Full-color processing involves the manipulation of color images that have multiple color components, such as RGB (red, green, blue) or CMYK (cyan, magenta, yellow and black) .
+- Pseudo-color processing involves the assignment of colors to gray-level images to enhance their visual appearance or highlight certain features.
+- Color images can be represented and processed in different color models, which are mathematical frameworks for describing the properties of colors  .
+- Some common color models are:
+  - RGB: based on a Cartesian coordinate system, where each color is a combination of red, green and blue components . It is widely used for color display devices, such as monitors and cameras.
+  - CMY and CMYK: based on subtractive color mixing, where each color is a combination of cyan, magenta and yellow components (and optionally black) . It is widely used for color printing devices, such as printers and scanners.
+  - HSI: based on a cylindrical coordinate system, where each color is described by its hue (color tone), saturation (color purity) and intensity (brightness) . It is widely used for color analysis and segmentation, as it separates the chromatic and achromatic information of colors.
+- Color image processing involves various techniques and applications, such as:
+  - Color transformation: changing the color representation of an image from one model to another, such as RGB to HSI or vice versa .
+  - Color enhancement: improving the visual quality or contrast of an image by adjusting its color components, such as brightness, contrast, saturation, etc. .
+  - Color segmentation: dividing an image into regions or objects based on their color similarity or difference .
+  - Color edge detection: finding the boundaries of regions or objects in an image based on their color discontinuity .
+  - Color feature extraction: extracting useful information or characteristics from an image based on its color properties, such as color histogram, color moments, color texture, etc. .
+  - Color image compression: reducing the size of an image by removing redundant or irrelevant color information, such as color quantization, color coding, color space reduction, etc. .
+  - Color image restoration: removing noise or distortion from an image by applying filters or models that preserve or enhance its color information, such as color smoothing, color inpainting, color deblurring, etc. .
+  - Color image fusion: combining two or more images with different color information to produce a new image that contains more or better color information, such as color stereo, color panorama, color multispectral, etc. .
+  - Color image recognition: identifying or classifying objects or scenes in an image based on their color features, such as color face recognition, color object recognition, color scene recognition, etc. .

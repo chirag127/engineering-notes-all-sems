@@ -1,0 +1,15 @@
+# Ontology theoretical foundations
+
+- Ontology is the philosophical study of being, as well as related concepts such as existence, becoming, and reality.
+- Ontology addresses questions like how entities are grouped into categories and which of these entities exist on the most fundamental level.
+- Ontology is also a branch of knowledge engineering, artificial intelligence and computer science, where it is used to represent and reason about the concepts and relations in a domain of interest.
+- Ontology can be used for knowledge management, natural language processing, e-commerce, intelligent information integration, information retrieval, and semantic web applications.
+- Ontology can be developed in a top-down or bottom-up approach, depending on the level of generality and specificity of the concepts and relations.
+- At the highest level of generality, there are the foundational ontologies, which span across many fields and model the very basic and general concepts and relations that make up the world, such as object, event, parthood relation, etc.  .
+- Foundational ontologies provide a high-level categorization about the kinds of things that will be represented in the ontology, such as process and physical object, relations that are useful across subject domains, such as participation and parthood, and how to represent attributes in a particular subject domain, such as color and height, which can be done, e.g., as quality or some kind of dependent continuant or trope .
+- Foundational ontologies can be used to guide the development of domain ontologies, which are more specific and capture the concepts and relations of a particular field or area of interest, such as biology, medicine, geography, etc.  .
+- Domain ontologies can be further refined into application ontologies, which are tailored to the needs and requirements of a specific application or task, such as diagnosis, planning, recommendation, etc.  .
+- Ontology development involves several steps, such as ontology specification, ontology conceptualization, ontology formalization, ontology implementation, ontology evaluation, and ontology maintenance .
+- Ontology development also requires a clear understanding of the ontological foundations, such as the research paradigm, the ontology, epistemology and methodology of the domain, the ontology language and representation, and the ontology reasoning and inference mechanisms .
+- Ontology development is an iterative and collaborative process, which involves multiple stakeholders, such as domain experts, ontology engineers, end-users, and other ontology developers .
+- Ontology development is a challenging and complex task, which requires a balance between expressivity and computability, between generality and specificity, and between consistency and completeness .

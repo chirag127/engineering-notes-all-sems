@@ -1,0 +1,13 @@
+### IOT Based Heart Monitoring System Using ECG
+
+- IOT Based Heart Monitoring System Using ECG is an application of Internet of Things (IoT) in medical science that allows remote diagnosis and monitoring of heart diseases using electrocardiogram (ECG) signals.
+- ECG is a graphical representation of the electrical activity of the heart that can reveal various parameters such as heart rate, rhythm, and abnormalities.
+- IOT Based Heart Monitoring System Using ECG consists of three main components: ECG acquisition device, IoT platform, and web or mobile application.
+- ECG acquisition device is a hardware device that captures the ECG signals from the patient using electrodes attached to the chest or limbs. The device can be a single-lead or multi-lead sensor that can measure different views of the heart. The device can also include a microcontroller such as Arduino or ESP8266 that can process, analyze, and upload the ECG data to the IoT platform using wireless communication protocols such as Wi-Fi, Bluetooth, or cellular network  .
+- IoT platform is a cloud-based service that receives, stores, and manages the ECG data from the ECG acquisition device. The IoT platform can also provide data visualization, analytics, and alerts for the ECG signals. The IoT platform can be a third-party service such as Ubidots, AWS, or Google Cloud, or a custom-built platform using open-source software such as Node-RED, MQTT, or InfluxDB  .
+- Web or mobile application is a software interface that allows the patient, doctor, or caregiver to access and monitor the ECG data from the IoT platform. The application can display the ECG waveform, heart rate, and other parameters in real-time or historical mode. The application can also provide feedback, diagnosis, and recommendations based on the ECG data. The application can be a web browser, a smartphone app, or a wearable device   .
+- IOT Based Heart Monitoring System Using ECG can provide several benefits such as:
+  - Improving the accessibility and affordability of health care for patients with heart diseases, especially in remote or rural areas.
+  - Enhancing the quality and accuracy of diagnosis and treatment for heart diseases by providing continuous and comprehensive ECG data.
+  - Reducing the risk of complications and mortality for patients with heart diseases by enabling early detection and intervention.
+  - Increasing the efficiency and convenience of health care delivery for doctors and caregivers by reducing the need for physical visits and manual data collection.

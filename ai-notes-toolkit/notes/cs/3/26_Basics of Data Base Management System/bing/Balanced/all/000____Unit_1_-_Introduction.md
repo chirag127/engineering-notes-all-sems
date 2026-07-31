@@ -1,0 +1,22 @@
+## Unit 1 - Introduction
+
+- In this unit, you will learn about the basic concepts and principles of artificial intelligence (AI).
+- AI is the study of how to create machines and systems that can perform tasks that normally require human intelligence, such as reasoning, learning, perception, decision making, and natural language processing.
+- AI can be divided into two main branches: symbolic AI and sub-symbolic AI.
+  - Symbolic AI is based on the idea of using symbols and rules to represent and manipulate knowledge. Examples of symbolic AI include expert systems, logic programming, and knowledge representation and reasoning.
+  - Sub-symbolic AI is based on the idea of using numerical and statistical methods to model and simulate complex phenomena. Examples of sub-symbolic AI include neural networks, evolutionary algorithms, and fuzzy logic.
+- AI can also be classified according to the level of intelligence and the type of task it can perform. Some common categories are:
+  - Artificial narrow intelligence (ANI): AI that can perform a specific task or domain, such as playing chess, recognizing faces, or translating languages.
+  - Artificial general intelligence (AGI): AI that can perform any intellectual task that a human can, such as understanding and reasoning about the world, learning from experience, and communicating with natural language.
+  - Artificial superintelligence (ASI): AI that can surpass human intelligence and capabilities, such as creating new knowledge, solving any problem, and controlling other machines and systems.
+  - Reactive AI: AI that can respond to stimuli and situations without any memory or learning. Examples include simple reflex agents, such as thermostats or traffic lights.
+  - Limited memory AI: AI that can store and use some information from the past to improve its performance. Examples include learning agents, such as self-driving cars or chatbots.
+  - Theory of mind AI: AI that can understand and model the mental states, emotions, and intentions of other agents, such as humans or animals. Examples include social robots, such as Sophia or Kismet.
+  - Self-aware AI: AI that can have a sense of self, consciousness, and self-improvement. Examples include hypothetical agents, such as HAL 9000 or Skynet.
+- AI can have various applications and impacts on different domains and aspects of society, such as education, health, entertainment, security, economy, and ethics. Some examples are:
+  - Education: AI can enhance the learning experience and outcomes of students and teachers, such as by providing personalized feedback, adaptive content, intelligent tutoring systems, and automated grading.
+  - Health: AI can improve the diagnosis, treatment, and prevention of diseases and disorders, such as by analyzing medical images, discovering new drugs, monitoring vital signs, and providing telemedicine and robotic surgery.
+  - Entertainment: AI can create and enrich various forms of entertainment and art, such as by generating music, movies, games, and stories, and by interacting with users and audiences.
+  - Security: AI can enhance the protection and defense of individuals, organizations, and nations, such as by detecting and preventing cyberattacks, fraud, and terrorism, and by providing surveillance and military systems.
+  - Economy: AI can increase the productivity and efficiency of various industries and sectors, such as by automating and optimizing tasks, processes, and decisions, and by creating new products and services.
+  - Ethics: AI can raise various ethical, social, and legal issues and challenges, such as by affecting human dignity, rights, and values, and by creating risks of bias, discrimination, and harm.

@@ -1,0 +1,15 @@
+#### CO-4 Determine and calculate various physical properties of a given material by using
+
+Physical properties are the traits a material has before it is used. They can be observed or measured without changing the composition of the material. Examples of physical properties include colour, hardness, smell, density, specific gravity, state of matter, melting point, boiling point, electrical conductivity, thermal conductivity, etc.   
+
+To determine and calculate various physical properties of a given material, we can use different methods and instruments depending on the property we want to measure. Some of the common methods and instruments are:
+
+- Density: Density of a material is the mass per unit volume. It can be calculated by dividing the mass of the material by its volume. Density can be measured by using a balance and a measuring cylinder or a volumetric flask.  
+- Specific gravity: Specific gravity of a material is the ratio of its density to the density of a reference substance, usually water. It can be calculated by dividing the density of the material by the density of water. Specific gravity can be measured by using a hydrometer or a pycnometer.  
+- State of matter: State of matter of a material is the physical form in which it exists, such as solid, liquid, or gas. It can be determined by observing the shape and volume of the material. State of matter can be changed by altering the temperature or pressure of the material.  
+- Melting point: Melting point of a material is the temperature at which it changes from solid to liquid. It can be determined by heating the material and observing the temperature at which it starts to melt. Melting point can be measured by using a thermometer or a melting point apparatus.  
+- Boiling point: Boiling point of a material is the temperature at which it changes from liquid to gas. It can be determined by heating the material and observing the temperature at which it starts to boil. Boiling point can be measured by using a thermometer or a distillation apparatus.  
+- Electrical conductivity: Electrical conductivity of a material is the ability of the material to allow electric current to pass through it. It can be calculated by dividing the electric current by the potential difference across the material. Electrical conductivity can be measured by using an ammeter, a voltmeter, and a rheostat.  
+- Thermal conductivity: Thermal conductivity of a material is the ability of the material to transfer heat from one point to another. It can be calculated by dividing the heat transfer rate by the temperature difference across the material. Thermal conductivity can be measured by using a calorimeter, a thermometer, and a heater.  
+
+These are some of the physical properties of materials that can be determined and calculated by using different methods and instruments. There are many other physical properties of materials that can be measured by using various techniques and devices.

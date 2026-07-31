@@ -1,0 +1,11 @@
+#### UDP Transport layer protocol
+- UDP stands for User Datagram Protocol.
+- It is a transport layer protocol that provides a connectionless and unreliable service.
+- It is used for applications that do not require reliable delivery of data, such as streaming audio and video.
+- UDP does not provide error checking or flow control, which makes it faster than TCP.
+- UDP packets are called datagrams and have a fixed size header of 8 bytes.
+- The header contains the source and destination port numbers, the length of the datagram, and a checksum.
+- The checksum is used to detect errors in the transmission of the datagram.
+- UDP is used by applications that require fast transmission of data and can tolerate some loss of data.
+- Some examples of applications that use UDP are DNS, SNMP, and DHCP.
+- UDP is not suitable for applications that require reliable delivery of data, such as file transfer or email.

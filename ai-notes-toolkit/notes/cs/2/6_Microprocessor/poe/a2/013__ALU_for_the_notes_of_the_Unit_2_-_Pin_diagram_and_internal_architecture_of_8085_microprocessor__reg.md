@@ -1,0 +1,13 @@
+ Here is the content in markdown format:
+
+### ALU for the notes of the Unit 2 - Pin diagram and internal architecture of 8085 microprocessor, registers, ALU, Control & status, interrupt and machine cycle. Instruction sets. Addressing modes. Instruction formats Instruction Classification: data transfer, arithmetic operations, logical operations, branching operations, machine control and assembler directives.
+
+-   **Arithmetic and Logic Unit (ALU)**: Performs arithmetic and logical operations on data. It contains circuits that perform addition, subtraction, AND, OR, exclusive-OR, complement, and left-shift and right-shift operations.
+-   **Registers**: The 8085 microprocessor has six registers to store data and address: accumulator, flag register, stack pointer, program counter, instruction register, and temporary register. The accumulator is an 8-bit register that is used to store one of the operands and store the result of an operation.
+-   **Control and Status Register**: Contains flag bits that are set or reset after an operation according to the result of that operation. The flag bits are used to test for conditions and control the machine flow.
+-   **Interrupt**: The 8085 can be interrupted by external devices and can respond to maskable and non-maskable interrupts. Interrupts provide a way for external devices to get the attention of the microprocessor.
+-   **Machine Cycle**: The sequence of steps that the microprocessor goes through while executing each instruction is known as the machine cycle. Each machine cycle for an instruction may consist of up to six steps: Fetch, Decode, Read, Execute, Memory, and Write.
+-   **Instruction Sets**: The 8085 microprocessor has 78 instructions in its instruction set which are used to perform a variety of operations on data. The instructions are encoded as 1 to 3 bytes long.
+-   **Addressing Modes**: The 8085 microprocessor supports five addressing modes: register addressing, direct addressing, indirect addressing, immediate addressing, and implied addressing. The addressing mode determines how the effective address of an operand is computed.
+-   **Instruction Formats**: The 8085 instructions have either two or three operand addressing modes. The format of an instruction specifies the number and type of operands that the instruction uses.
+-   **Instruction Classification**: The 8085 instructions can be classified into data transfer, arithmetic, logical, branching, machine control, and assembler directives based on the operations they perform.

@@ -1,0 +1,14 @@
+### Clocking
+
+- Clocking is the process of measuring and synchronizing the passage of time in a computer system.
+- Clocking is essential for real time kernels, which are operating systems that provide deterministic and predictable response times to events.
+- Clocking involves two types of clocks: hardware clocks and software clocks.
+- Hardware clocks are physical devices that generate periodic signals based on a quartz crystal or an atomic oscillator. They are independent of the CPU and can keep track of time even when the system is powered off.
+- Software clocks are logical entities that are maintained by the kernel using interrupts, timers, and counters. They are dependent on the CPU and can be affected by system load, scheduling, and synchronization issues.
+- The most common hardware clock in a PC is the Real Time Clock (RTC), which is a battery-backed chip that stores the date and time. The RTC can be accessed by the kernel or by user applications using the /dev/rtc device file or the ioctl() system call .
+- The most common software clock in a Linux kernel is the system clock, which is a high-resolution timer that counts the number of nanoseconds since the Unix epoch (January 1, 1970). The system clock can be accessed by the kernel or by user applications using the clock_gettime() system call with the CLOCK_REALTIME parameter .
+- The system clock is initialized from the RTC at boot time, and can be adjusted by the kernel or by user applications using the clock_settime() or the adjtimex() system calls. The system clock can also be synchronized with external time sources, such as network time servers, using the Network Time Protocol (NTP) or other mechanisms .
+- The system clock is not monotonic, which means that it can go backwards or forwards due to clock adjustments or leap seconds. This can cause problems for real time applications that rely on accurate timing and ordering of events.
+- To avoid this issue, the Linux kernel also provides a monotonic clock, which is a software clock that counts the number of nanoseconds since an arbitrary point in time (usually the system boot time). The monotonic clock can be accessed by the kernel or by user applications using the clock_gettime() system call with the CLOCK_MONOTONIC parameter .
+- The monotonic clock is guaranteed to be always increasing, but it is not affected by clock adjustments or leap seconds. Therefore, it is suitable for measuring elapsed time or relative time between events, but not for representing absolute time or calendar time.
+- The Linux kernel also provides other software clocks for specific purposes, such as the process clock, the thread clock, the CPU clock, and the high-resolution clock. For more details, see the man page of clock_gettime() or the Linux kernel documentation .

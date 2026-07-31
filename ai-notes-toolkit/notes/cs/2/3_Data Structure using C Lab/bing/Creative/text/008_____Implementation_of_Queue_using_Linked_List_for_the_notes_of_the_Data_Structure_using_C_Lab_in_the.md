@@ -1,0 +1,11 @@
+### Implementation of Queue using Linked List
+
+- A queue is a linear data structure that follows the First In First Out (FIFO) principle. It means that the element that is inserted first is removed first.
+- A queue can be implemented using an array or a linked list. In this topic, we will see how to implement a queue using a linked list.
+- A linked list is a collection of nodes, where each node contains some data and a pointer to the next node. The first node is called the head and the last node is called the tail. The tail node points to NULL.
+- To implement a queue using a linked list, we need to maintain two pointers: front and rear. The front pointer points to the head node of the linked list, and the rear pointer points to the tail node of the linked list.
+- The basic operations on a queue are: enqueue, dequeue, peek, and isEmpty.
+- Enqueue operation is used to insert an element at the rear end of the queue. To perform this operation, we need to create a new node with the given data, and link it to the tail node of the linked list. Then, we need to update the rear pointer to point to the new node.
+- Dequeue operation is used to remove an element from the front end of the queue. To perform this operation, we need to check if the queue is empty or not. If the queue is empty, we return an error message. Otherwise, we store the data of the head node in a temporary variable, and update the front pointer to point to the next node of the head node. Then, we delete the head node and return the data stored in the temporary variable.
+- Peek operation is used to return the data of the front element of the queue without removing it. To perform this operation, we need to check if the queue is empty or not. If the queue is empty, we return an error message. Otherwise, we return the data of the head node.
+- IsEmpty operation is used to check if the queue is empty or not. To perform this operation, we need to check if the front pointer is NULL or not. If the front pointer is NULL, we return true. Otherwise, we return false.

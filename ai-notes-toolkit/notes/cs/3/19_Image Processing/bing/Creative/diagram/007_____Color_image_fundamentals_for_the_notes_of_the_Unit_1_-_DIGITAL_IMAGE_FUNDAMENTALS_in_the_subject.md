@@ -1,0 +1,8 @@
+### Color image fundamentals
+
+- A color image is a digital representation of a scene that captures the visual appearance of the objects and the light sources in the scene.
+- A color image can be modeled as a function of three variables: x, y, and λ, where x and y are the spatial coordinates and λ is the wavelength of the light.
+- A color image can also be represented as a combination of three primary colors, such as red, green, and blue (RGB), or other color spaces, such as hue, saturation, and value (HSV), or cyan, magenta, yellow, and black (CMYK).
+- A color image can be stored as a matrix of pixel values, where each pixel has three components corresponding to the three primary colors or color space dimensions. For example, an RGB image can be stored as a 3D array of size M x N x 3, where M and N are the number of rows and columns of the image, and 3 is the number of color channels.
+- A color image can be displayed on a monitor or a printer by using a color model that maps the pixel values to the physical properties of the device, such as the intensity and the chromaticity of the light emitted or reflected by the device.
+- A color image can be processed by applying various techniques, such as color enhancement, color segmentation, color feature extraction, color transformation, color compression, color restoration, etc., to improve the quality, the information content, or the visual appearance of the image.

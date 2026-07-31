@@ -1,0 +1,16 @@
+### Martial Arts Traditions
+
+Martial arts are systems of codified practices and traditions of training for combat. They are used for self-defense, physical fitness, mental and spiritual development, entertainment, and cultural preservation. India has an ancient tradition in diverse martial arts. Nearly every part of India has evolved one or the other form of a popular martial art. The Japanese and the Chinese trace the origins of their popular martial arts, karate and kung-fu, to India.
+
+Some of the martial arts traditions in India are:
+
+- **Kalaripayattu**: One of the oldest forms of martial arts, Kalaripayattu finds its origins in Kerala. It can be performed with bare hands or using swords, daggers, spears, shields, and other weapons. It also incorporates elements of yoga, meditation, and healing. It is considered the mother of all martial arts .
+- **Gatka**: A Sikh martial art that originated in Punjab, Gatka is a weapon-based system that uses wooden sticks to simulate swords, daggers, and other weapons. It also involves acrobatic movements, jumps, and kicks. It is mainly practiced as a sport and a cultural performance.
+- **Silambam**: A Tamil martial art that uses a long bamboo staff as the primary weapon, Silambam also incorporates other weapons such as swords, knives, and spears. It is known for its fast and fluid movements, and its use of footwork and body rotation. It is also influenced by yoga and Ayurveda.
+- **Mardaani Khel**: A martial art from Maharashtra that is also known as Koli Kala or Talim, Mardaani Khel is a weapon-based system that uses swords, shields, daggers, axes, and lances. It is practiced by the Koli community, who are traditionally fishermen and warriors. It is also a form of folk dance and entertainment.
+- **Thang-Ta and Sarit Sarak**: Two related martial arts from Manipur that are also known as Huyen Langlon, Thang-Ta and Sarit Sarak are based on the use of swords and spears, respectively. They also involve unarmed combat, kicks, and jumps. They are influenced by the indigenous religion of Sanamahism, and are performed as rituals, dances, and sports .
+- **Thoda**: A martial art from Himachal Pradesh that uses bows and arrows, Thoda is also known as the dance of the arrows. It is a team sport that involves two groups of archers shooting at each other's legs, while avoiding hitting the upper body. It is also a form of cultural celebration and festival.
+- **Lathi Khel**: A martial art from North India that uses a long bamboo stick as the primary weapon, Lathi Khel also involves kicks, punches, and blocks. It is practiced by farmers, shepherds, and soldiers as a form of self-defense and exercise. It is also a form of folk art and entertainment.
+- **Pari-Khanda**: A martial art from Bihar that uses swords and shields, Pari-Khanda also incorporates wrestling, grappling, and acrobatics. It is practiced by the Bhumihar Brahmins, who are traditionally landlords and warriors. It is also a form of folk dance and performance.
+
+These are some of the martial arts traditions that are deep rooted in the culture of India. They reflect the diversity, history, and heritage of the country. They also serve as a means of physical, mental, and spiritual development for the practitioners. They are a part of India's cultural and performing arts  .

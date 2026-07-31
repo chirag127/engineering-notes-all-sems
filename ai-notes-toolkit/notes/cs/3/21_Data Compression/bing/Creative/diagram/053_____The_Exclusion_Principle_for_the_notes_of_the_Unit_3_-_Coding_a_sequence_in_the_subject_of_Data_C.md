@@ -1,0 +1,10 @@
+### The Exclusion Principle
+
+- The exclusion principle is a technique used in some data compression algorithms, such as PPM, to improve the compression ratio by excluding symbols that are unlikely to occur in a given context.
+- The exclusion principle is based on the idea that if a symbol has not occurred in a higher-order context, it is less likely to occur in a lower-order context, and therefore its probability can be reduced or ignored.
+- The exclusion principle can be applied in two ways: eager exclusion or lazy exclusion.
+  - Eager exclusion: the probabilities of the symbols in the lower-order contexts are reduced by the amount of probability mass assigned to the higher-order context. This requires updating the probabilities of all symbols in the lower-order contexts whenever a new symbol is seen in the higher-order context.
+  - Lazy exclusion: the probabilities of the symbols in the lower-order contexts are not reduced, but instead an escape symbol is used to indicate that the actual symbol is not in the current context. This requires only updating the probability of the escape symbol in the lower-order contexts whenever a new symbol is seen in the higher-order context.
+- The exclusion principle can improve the compression ratio by assigning more bits to the symbols that are more likely to occur in a given context, and less bits to the symbols that are less likely or impossible to occur in that context.
+- The exclusion principle can also reduce the size of the model by eliminating the need to store the probabilities of the symbols that are excluded from the lower-order contexts.
+- The exclusion principle is related to the arithmetic coding technique, which divides the unit interval into subintervals based on the probabilities of the symbols. The exclusion principle can be seen as a way of refining the subintervals by excluding the symbols that are not in the current context.

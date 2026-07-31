@@ -1,0 +1,11 @@
+### Chamfer
+- A chamfer is a transitional edge between two faces of an object.
+- It is typically used to remove sharp edges, to facilitate assembly, or to improve the appearance of a part.
+- In computer-aided design (CAD), chamfers can be easily added to 3D models using the chamfer command.
+- Chamfers can be created at different angles and distances, depending on the desired effect.
+- Chamfers are commonly used in mechanical engineering, architecture, and woodworking.
+- In engineering drawings, chamfers are typically indicated using a symbol that consists of a 45-degree line with the distance of the chamfer written next to it.
+- Chamfers can be created using various tools, including hand files, chamfer mills, and chamfer planes.
+- In manufacturing, chamfers are often created using CNC machines, which can produce precise and consistent chamfers.
+- Chamfers can also be used to improve the flow of fluids or gases in pipes and other objects.
+- In summary, chamfers are an important aspect of design and manufacturing, and are widely used in various industries to improve the functionality and appearance of parts.

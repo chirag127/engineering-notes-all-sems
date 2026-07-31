@@ -1,0 +1,7 @@
+#### Course Outcome (CO) Bloom's Level
+
+- Course outcome (CO) is a statement that describes what students are expected to know, understand, or be able to do at the end of a course.
+- Bloom's level is a measure of the cognitive complexity of the learning outcome, based on Bloom's taxonomy of educational objectives.
+- Bloom's taxonomy consists of six levels of cognitive skills: remember, understand, apply, analyze, evaluate, and create. Each level builds on the previous one, requiring higher-order thinking and deeper understanding.
+- The CO Bloom's level indicates the level of cognitive skill that the course outcome requires or assesses. For example, a CO that states "Students will be able to explain the concept of inheritance in object-oriented programming" has a Bloom's level of understand, while a CO that states "Students will be able to design and implement a class hierarchy using inheritance and polymorphism" has a Bloom's level of create.
+- The CO Bloom's level can help instructors align their course objectives, teaching methods, and assessment strategies to ensure that students achieve the desired learning outcomes. It can also help students monitor their own learning progress and identify areas of improvement.

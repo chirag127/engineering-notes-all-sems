@@ -1,0 +1,13 @@
+### Principal Components as Feature Descriptors
+
+In image analytics, feature extraction is a crucial step in the analysis of images. It involves the identification and extraction of relevant information from the image, which can help in various applications such as image recognition, object detection, and image segmentation. One of the commonly used feature extraction techniques is Principal Component Analysis (PCA). Here are some important points to understand Principal Components as Feature Descriptors for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS:
+
+- Principal Component Analysis (PCA) is a mathematical technique that transforms a set of correlated variables into a new set of uncorrelated variables, called principal components.
+- In image analytics, PCA is used to extract features from the image, which can be used to represent the image in a lower-dimensional space.
+- The principal components obtained from PCA have the property that they capture the maximum amount of variance in the data. This means that the first principal component captures the largest amount of variation in the data, followed by the second principal component, and so on.
+- The principal components obtained from PCA can be used as feature descriptors for the image. These feature descriptors can be used to represent the image in a lower-dimensional space, which can help in various applications such as image recognition and object detection.
+- The number of principal components to be retained depends on the amount of variance that needs to be preserved. Generally, the first few principal components are sufficient to represent the image in a lower-dimensional space.
+- PCA can also be used for image compression. By retaining only the first few principal components, the image can be compressed without significant loss of information.
+- PCA is a powerful technique for feature extraction in image analytics. However, it has some limitations, such as being sensitive to outliers and not being able to capture complex nonlinear relationships in the data.
+
+In conclusion, Principal Component Analysis is an important technique for feature extraction in image analytics. It can be used to extract relevant information from the image, which can help in various applications such as image recognition, object detection, and image segmentation. By understanding the principles of PCA, we can use it effectively to extract features from images and represent them in a lower-dimensional space.

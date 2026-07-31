@@ -1,0 +1,9 @@
+#### IBM Big Data strategy
+
+IBM Big Data strategy is a corporate initiative that aims to provide solutions for storing, managing, and analyzing the large volumes of data generated every day by various sources, such as social media, sensors, mobile devices, and transactions. IBM Big Data strategy is part of its Smarter Planet vision, which seeks to leverage data and technology to achieve economic and social progress. Some of the key aspects of IBM Big Data strategy are:
+
+- IBM offers a comprehensive portfolio of products and services that enable customers to build and operate data platforms, such as data lakes, data warehouses, and data hubs, using open source technologies, such as Apache Hadoop, Apache Spark, and Apache Kafka, as well as IBM's own solutions, such as IBM Cloud Pak for Data, IBM Db2, and IBM Watson.
+- IBM also provides tools and capabilities for data governance, data quality, data integration, data security, and data privacy, to ensure that data is trustworthy, accessible, and compliant with regulations and policies.
+- IBM leverages its expertise and experience in artificial intelligence, machine learning, and analytics, to help customers derive insights and value from their data, using solutions such as IBM Watson Studio, IBM Watson Assistant, IBM Watson Discovery, and IBM Cognos Analytics.
+- IBM collaborates with partners and ecosystem players, such as Cloudera, Red Hat, and MongoDB, to offer customers more choice and flexibility in their data architectures and platforms, as well as to support hybrid cloud and multicloud environments.
+- IBM invests in research and innovation, to develop new technologies and solutions that address the emerging challenges and opportunities of Big Data, such as quantum computing, edge computing, and blockchain.

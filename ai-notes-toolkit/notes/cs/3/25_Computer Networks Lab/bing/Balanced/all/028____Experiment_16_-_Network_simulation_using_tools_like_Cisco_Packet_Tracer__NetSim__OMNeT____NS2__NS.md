@@ -1,0 +1,12 @@
+## Experiment 16 - Network simulation using tools like Cisco Packet Tracer, NetSim, OMNeT++, NS2, NS3, etc
+
+- Network simulation is the process of modeling the behavior and performance of a network using software tools.
+- Network simulation tools can help students, researchers, and professionals to learn, design, test, and troubleshoot networks without using physical hardware.
+- Network simulation tools can support various types of networks, such as wired, wireless, mobile, sensor, software-defined, hybrid, etc.
+- Network simulation tools can vary in their features, capabilities, complexity, and licensing. Some of the most popular network simulation tools are:
+
+  - Cisco Packet Tracer: A network simulation and visualization tool developed by Cisco for its Networking Academy courses. It allows users to create, configure, and troubleshoot network scenarios using Cisco devices and protocols. It also supports IoT and cybersecurity features. It is free to download for students and instructors enrolled in Cisco courses.
+  - NetSim: A network simulation and emulation tool developed by Tetcos. It supports a wide range of network technologies, such as LAN, WAN, MANET, LTE, Wi-Fi, WiMAX, ZigBee, etc. It also supports network design, protocol analysis, and performance evaluation. It is a licensed software with a free trial version available.
+  - OMNeT++: An open-source, modular, and component-based network simulation framework. It allows users to create and customize network models using C++ and a graphical user interface. It supports various network domains, such as wireless, optical, sensor, vehicular, etc. It also supports parallel and distributed simulation.
+  - NS2: An open-source, discrete-event network simulator. It is widely used for academic research and education. It supports various network protocols, such as TCP, UDP, IP, MPLS, etc. It also supports wireless and mobile networks, such as ad hoc, sensor, cellular, etc. It uses two languages: C++ for the core simulation engine and OTcl for the network configuration .
+  - NS3: An open-source, discrete-event network simulator. It is a successor of NS2 with improved features and performance. It supports various network technologies, such as Wi-Fi, WiMAX, LTE, 5G, etc. It also supports software-defined networks, hybrid networks, and network emulation. It uses C++ and Python as the main programming languages .

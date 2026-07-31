@@ -1,0 +1,7 @@
+### Constraint Propagation
+
+- Constraint propagation is a form of reasoning, using a network of related facts, in which a value or range of possible values determined for one variable constrains the possible values of variables to which it is related.
+- Constraint propagation is a technique for reducing the search space of a constraint satisfaction problem (CSP) by applying local consistency conditions to the variables and constraints.
+- Constraint propagation can be applied to both numeric and symbolic constraints. An example of symbolic constraint propagation is junction and line labelling in computer vision, where the labels of lines and junctions in an image are constrained by geometric and topological rules.
+- Constraint propagation can be implemented by various algorithms, such as arc consistency, path consistency, and generalized arc consistency. These algorithms check and enforce different levels of local consistency by removing inconsistent values from the domains of the variables.
+- Constraint propagation can be used as a standalone method or in combination with search to solve CSPs. Constraint propagation can simplify the problem by pruning the search space, but it may not always find a solution or prove unsatisfiability.

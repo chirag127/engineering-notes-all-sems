@@ -1,0 +1,9 @@
+# Compton Effect
+
+- The Compton effect is the phenomenon of **elastic scattering** of photons by electrons, resulting in a **change in the wavelength** of the photons .
+- The Compton effect was discovered by **Arthur Compton** in 1923, who measured the scattering of X-rays by graphite and observed that the scattered X-rays had a longer wavelength than the incident ones .
+- The Compton effect demonstrated that **light has both wave and particle properties**, and that photons can transfer energy and momentum to electrons, as predicted by the **quantum theory** of light .
+- The Compton effect can be explained by considering a **collision** between a photon and an electron, in which both particles are **conserved** in energy and momentum .
+- The **Compton formula** gives the relation between the change in the wavelength of the photon and the scattering angle of the electron :
+
+    ![Compton formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/0f8f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0f0c6f8f0

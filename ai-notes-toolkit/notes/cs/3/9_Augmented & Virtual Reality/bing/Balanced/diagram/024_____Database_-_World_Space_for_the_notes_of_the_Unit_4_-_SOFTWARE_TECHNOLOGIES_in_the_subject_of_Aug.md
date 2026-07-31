@@ -1,0 +1,22 @@
+### Database - World Space
+
+- Database is a collection of organized data that can be accessed, managed, and updated.
+- World space is the physical environment that surrounds the user and can be augmented with digital content and information.
+- Database - world space is the concept of using databases to store and retrieve data that is relevant to the world space and can be displayed in augmented reality (AR).
+- AR is an interactive way for users to see the world with additional objects, information, or data overlaid on their view of reality.
+- Database - world space can be used for various purposes, such as:
+  - Visualizing data in the context of the physical environment it is related to, such as spatial anchors, geospatial data, or scientific data.
+  - Providing guidance and assistance to users in performing tasks or accessing information in the real world, such as maintenance, repair, navigation, or education.
+  - Enhancing user experience and engagement with the world, such as entertainment, gaming, or social interaction.
+- Database - world space requires the following components:
+  - A database system that can store and query data efficiently and securely, such as relational, NoSQL, or cloud-based databases.
+  - A data model that can represent the data and its relationships to the world space, such as spatial, temporal, or semantic models.
+  - A data access layer that can communicate with the database system and provide data to the AR application, such as APIs, web services, or middleware.
+  - An AR application that can display the data in the world space using AR devices, such as smartphones, tablets, headsets, or glasses.
+  - An AR framework that can provide the AR functionality, such as tracking, rendering, interaction, or collaboration, such as ARKit, ARCore, or Unity.
+- Database - world space is a new and emerging field that has many challenges and opportunities, such as:
+  - Data quality, integrity, and security, such as ensuring the accuracy, completeness, and protection of the data.
+  - Data integration and interoperability, such as combining data from different sources and formats and enabling data exchange and sharing among different AR applications and devices.
+  - Data visualization and interaction, such as designing effective and intuitive ways to present and manipulate the data in the world space.
+  - Data analysis and discovery, such as applying data mining, machine learning, or artificial intelligence techniques to extract insights and knowledge from the data.
+  - User acceptance and adoption, such as understanding the user needs, preferences, and behaviors and providing user-friendly and useful AR experiences.

@@ -1,0 +1,24 @@
+### 360° Aerial Surveillance UAV With IOT Camera
+
+- Aerial surveillance is the key to security and military based operations. It provides real time information on enemy movements which plays a key role in precision strikes  .
+- Aerial surveillance can be performed by using unmanned aerial vehicles (UAVs) or drones, which are remotely controlled or autonomous aircraft that can carry cameras, sensors, and other payloads  .
+- A 360° aerial surveillance UAV with IOT camera is a drone that can capture and stream 360-degree video from the air, using an internet of things (IOT) platform that enables data transmission, processing, and analysis  .
+- The components of a 360° aerial surveillance UAV with IOT camera are  :
+  - A drone frame that supports the weight and balance of the drone and its components.
+  - A flight controller that controls the motors, sensors, and communication modules of the drone.
+  - A 360-degree camera that captures spherical video from the air, such as the Garmin VIRB 360.
+  - A wireless module that connects the drone to the internet and transmits the video data to the cloud or a local server.
+  - A battery that powers the drone and its components.
+  - A propeller that provides thrust and lift to the drone.
+  - A motor that rotates the propeller.
+  - An electronic speed controller (ESC) that regulates the speed of the motor.
+  - A GPS module that provides the location and altitude of the drone.
+  - A gyroscope and an accelerometer that measure the orientation and acceleration of the drone.
+  - A magnetometer that measures the direction of the drone.
+  - A barometer that measures the air pressure and altitude of the drone.
+- The advantages of a 360° aerial surveillance UAV with IOT camera are    :
+  - It can provide a panoramic view of the surroundings, which can enhance the situational awareness and decision making of the operators.
+  - It can reduce the blind spots and the need for multiple cameras, which can save cost and weight.
+  - It can enable image stabilization, which can improve the quality and clarity of the video.
+  - It can leverage the IOT platform, which can enable data storage, processing, and analysis in the cloud or a local server, as well as data sharing and collaboration among multiple users and devices.
+  - It can support various applications, such as crowd surveillance, disaster management, border security, wildlife monitoring, and environmental assessment.

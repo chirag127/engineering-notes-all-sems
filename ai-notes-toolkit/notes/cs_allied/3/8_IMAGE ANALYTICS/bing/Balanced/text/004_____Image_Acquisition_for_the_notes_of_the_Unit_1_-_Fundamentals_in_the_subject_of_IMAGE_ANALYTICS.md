@@ -1,0 +1,11 @@
+### Image Acquisition
+
+Image acquisition is the process of capturing an image from a physical scene and converting it into a digital form that can be processed by a computer. Image acquisition is the first and essential step in digital image processing. 
+
+Some of the fundamental concepts and steps involved in image acquisition are:
+
+- **Image source**: The image source is the object or scene that emits or reflects some form of energy, such as light, sound, or radiation. The image source can be natural or artificial, static or dynamic, two-dimensional or three-dimensional.
+- **Image sensor**: The image sensor is the device that detects and measures the energy from the image source and converts it into an electrical signal. The image sensor can be analog or digital, and can have different types of elements, such as photodiodes, charge-coupled devices (CCDs), or complementary metal-oxide-semiconductor (CMOS) transistors.
+- **Image digitization**: The image digitization is the process of converting the analog signal from the image sensor into a discrete and quantized digital signal that can be stored and manipulated by a computer. The image digitization involves two steps: sampling and quantization. Sampling is the process of dividing the continuous image into a finite number of pixels or voxels, each representing a small region of the image. Quantization is the process of assigning a discrete value or intensity to each pixel or voxel, based on the amplitude of the analog signal.
+- **Image enhancement**: Image enhancement is the process of manipulating the digital image to improve its appearance or suitability for a specific application. Image enhancement can involve operations such as contrast adjustment, noise reduction, sharpening, filtering, or color correction.
+- **Image acquisition system**: The image acquisition system is the combination of hardware and software components that perform the image acquisition process. The image acquisition system can include components such as lenses, filters, cameras, scanners, frame grabbers, digitizers, computers, and software. The image acquisition system should be designed and configured according to the requirements and constraints of the image source, the image sensor, the image digitization, and the image enhancement.

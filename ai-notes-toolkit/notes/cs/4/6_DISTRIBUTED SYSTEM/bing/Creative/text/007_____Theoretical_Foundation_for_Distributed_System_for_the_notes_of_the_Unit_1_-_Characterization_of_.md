@@ -1,0 +1,9 @@
+### Theoretical Foundation for Distributed System
+
+- A distributed system is a collection of processes that are spatially separated and do not share a common memory and communicate with one another by exchanging messages with arbitrary delays .
+- Theoretical foundation for distributed system aims to understand the inherent limitations, challenges and possibilities of such systems, and to design efficient and reliable algorithms and protocols for solving various problems in distributed settings  .
+- Some of the key concepts and topics in the theoretical foundation for distributed system are  :
+  - Limitation of distributed system: due to the lack of global clock, shared memory, and reliable communication, distributed systems face issues such as uncertainty, inconsistency, concurrency, and fault-tolerance.
+  - Logical clocks: a mechanism to order events and messages in a distributed system without relying on physical clocks, proposed by Lamport. A logical clock is a function that assigns a logical timestamp to each event, such that if event A causally precedes event B, then the timestamp of A is smaller than the timestamp of B.
+  - Vector clocks: an extension of logical clocks that can capture the partial order of events in a distributed system, proposed by Fidge and Mattern. A vector clock is a vector of logical clocks, one for each process, that is updated and piggybacked on each message. A vector clock can determine the causal relationship between any two events by comparing their vector timestamps.
+  - Message passing system: a model of distributed computation where processes communicate by sending and receiving messages through channels. A message passing system can be characterized by various properties, such as synchrony, reliability, ordering, and topology.

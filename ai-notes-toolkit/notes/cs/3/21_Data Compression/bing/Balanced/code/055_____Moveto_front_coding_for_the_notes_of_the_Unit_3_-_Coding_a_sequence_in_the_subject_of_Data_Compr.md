@@ -1,0 +1,8 @@
+### Movetofront coding
+
+- Movetofront coding is a data transformation algorithm that does not compress data by itself, but rearranges the data to make it more suitable for entropy encoding techniques of compression  .
+- The basic idea of movetofront coding is to maintain a list of symbols (such as bytes or characters) that is updated dynamically as the data is processed. The list is initially sorted in some order, such as lexicographic or frequency-based. Then, for each symbol in the data, the algorithm outputs the index of that symbol in the list and moves that symbol to the front of the list  .
+- The advantage of movetofront coding is that it tends to produce long runs of small numbers, especially if the data has high local correlation or repetition. This makes the data more compressible by entropy encoding techniques, such as Huffman coding or arithmetic coding  .
+- The disadvantage of movetofront coding is that it adds an extra step in the compression and decompression process, which may increase the computational complexity and time. However, the algorithm is relatively simple and fast to implement, and its benefits usually outweigh its costs  .
+- Movetofront coding is reversible, meaning that the original data can be recovered from the transformed data and the list of symbols. The decompression algorithm simply reverses the steps of the compression algorithm, using the same list of symbols and updating it in the same way  .
+- Movetofront coding is used as a sub-step in several other compression algorithms, such as Burrows–Wheeler transform, bzip2, and ZPAQ .

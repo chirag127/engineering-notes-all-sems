@@ -1,0 +1,31 @@
+# Software Project Audit
+
+- A software project audit is a systematic and independent examination of a software project to assess its quality, progress, compliance and performance .
+- A software project audit can be conducted for various purposes, such as :
+  - To verify that the project meets the requirements and specifications of the stakeholders and customers.
+  - To evaluate the effectiveness and efficiency of the software development process and the software product.
+  - To identify the risks and issues that may affect the project outcome and suggest corrective actions or improvements.
+  - To ensure that the project follows the standards, best practices, guidelines and regulations applicable to the software domain and the organization.
+  - To measure the performance and productivity of the project team and the individual team members.
+  - To provide feedback and recommendations to the project manager and the project sponsor.
+- A software project audit can be performed at different stages of the project life cycle, such as :
+  - At the initiation or planning phase, to review the project scope, objectives, feasibility, schedule, budget, resources, risks and quality plan.
+  - At the execution or monitoring phase, to monitor the project progress, deliverables, quality, issues, changes and communication.
+  - At the closure or evaluation phase, to evaluate the project outcome, benefits, lessons learned and customer satisfaction.
+- A software project audit can be conducted by different parties, such as :
+  - Internal auditors, who are part of the organization but not involved in the project development.
+  - External auditors, who are independent and objective experts hired by the organization or the customer.
+  - Peer reviewers, who are colleagues or peers of the project team with similar or complementary skills and knowledge.
+- A software project audit can follow different methods and techniques, such as :
+  - Document review, which involves examining the project documents, such as plans, reports, contracts, specifications, manuals, etc.
+  - Interview, which involves interviewing the project stakeholders, such as the project manager, the project team, the customer, the sponsor, etc.
+  - Observation, which involves observing the project activities, such as meetings, workshops, testing, demonstrations, etc.
+  - Survey, which involves collecting feedback and opinions from the project stakeholders, such as the project team, the customer, the users, etc.
+  - Testing, which involves verifying the functionality, quality, performance and usability of the software product.
+  - Metrics, which involve measuring and analyzing the quantitative data and indicators related to the project, such as cost, time, scope, quality, etc.
+- A software project audit can produce different outputs and outcomes, such as :
+  - Audit report, which summarizes the audit findings, conclusions and recommendations.
+  - Audit checklist, which lists the audit criteria, questions and evidence.
+  - Audit scorecard, which rates the project performance and compliance based on the audit criteria and metrics.
+  - Audit feedback, which provides constructive and actionable feedback to the project stakeholders.
+  - Audit improvement, which implements the audit recommendations and monitors the results and benefits.

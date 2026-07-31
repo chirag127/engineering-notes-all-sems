@@ -1,0 +1,10 @@
+### Statistical Language Model for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+
+- A statistical language model (SLM) is a mathematical tool that assigns probabilities to sequences of words or symbols in a natural language, such as English, Spanish, or Hindi.
+- SLMs are used to generate or analyze natural language text or speech in various natural language processing (NLP) tasks, such as speech recognition, machine translation, natural language generation, information retrieval, and text summarization.
+- SLMs are based on the assumption that the probability of a word or symbol depends on the previous words or symbols in the sequence, which is called the context or history.
+- SLMs can be classified into two main types: n-gram models and neural network models.
+- N-gram models are the simplest and most widely used SLMs. They estimate the probability of a word or symbol based on the previous n-1 words or symbols, where n is a fixed number. For example, a bigram model (n=2) estimates the probability of a word based on the previous word, and a trigram model (n=3) estimates the probability of a word based on the previous two words.
+- Neural network models are more complex and powerful SLMs. They use artificial neural networks to learn the probability distribution of words or symbols in a natural language from large amounts of text or speech data. Neural network models can capture long-range dependencies and semantic similarities between words or symbols, which are difficult for n-gram models to handle.
+- SLMs are trained on large corpora of natural language text or speech, which are collections of documents or utterances that represent the language of interest. The quality and quantity of the training data affect the performance and accuracy of the SLMs.
+- SLMs are evaluated using various metrics, such as perplexity, accuracy, and log-likelihood. Perplexity measures how well the SLM predicts the next word or symbol in a sequence, accuracy measures how often the SLM predicts the correct word or symbol, and log-likelihood measures how likely the SLM assigns a high probability to a given sequence.

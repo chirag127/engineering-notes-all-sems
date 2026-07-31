@@ -1,0 +1,8 @@
+## Course Outcomes:
+
+- A course outcome is a statement that describes what a student should be able to do or demonstrate after completing a course.
+- Course outcomes are usually derived from the course objectives, which are the broad goals or purposes of the course.
+- Course outcomes should be specific, measurable, achievable, relevant, and time-bound (SMART).
+- Course outcomes should align with the course content, activities, assessments, and learning outcomes of the program or degree.
+- Course outcomes should be communicated to the students at the beginning of the course and throughout the course.
+- Course outcomes should be evaluated and revised periodically based on feedback from students, instructors, and other stakeholders.

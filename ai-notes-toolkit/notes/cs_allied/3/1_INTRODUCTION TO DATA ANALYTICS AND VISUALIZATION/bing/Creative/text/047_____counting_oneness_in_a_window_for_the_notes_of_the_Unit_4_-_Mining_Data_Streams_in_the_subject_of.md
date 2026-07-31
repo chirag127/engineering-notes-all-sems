@@ -1,0 +1,23 @@
+### Counting oneness in a window
+
+- Counting oneness in a window is a problem of estimating the number of 1's in the last k bits of a data stream, where k is a large number that cannot be stored in memory.
+- One possible solution is to use the DGIM algorithm, which uses a compact representation of the stream using buckets of 1's with timestamps and sizes.
+- The DGIM algorithm works as follows:
+  - Each bit of the stream has a timestamp, the position in which it arrives. The first bit has timestamp 1, the second has timestamp 2, and so on.
+  - The algorithm maintains a set of buckets, each consisting of the timestamp of its rightmost bit and the number of 1's in the bucket.
+  - The buckets are stored in a circular array of size N, where N is the length of the window. The algorithm also keeps track of the total number of bits seen in the stream modulo N, which allows to determine the position of any bit in the current window.
+  - The buckets are subject to two rules:
+    - Rule 1: There can be at most two buckets of the same size.
+    - Rule 2: The buckets are ordered by their timestamps, from oldest to newest.
+  - Whenever a new bit arrives, the algorithm performs the following steps:
+    - If the bit is 0, do nothing.
+    - If the bit is 1, create a new bucket of size 1 with the current timestamp and append it to the end of the array.
+    - If there are now three buckets of size 1, merge the oldest two into a bucket of size 2 and move it to the right position in the array, preserving the order.
+    - Repeat the merging process for any other size that has three buckets, until there are at most two buckets of any size.
+    - If the oldest bucket is no longer in the window, discard it and move the pointer to the next bucket.
+  - To estimate the number of 1's in the last k bits, the algorithm performs the following steps:
+    - Find the oldest bucket that is completely within the last k bits. Call it B.
+    - Sum the sizes of all the buckets after B, including B. Call this sum S.
+    - Subtract half of the size of B from S. Call this result R.
+    - Return R as the estimate of the number of 1's in the last k bits.
+  - The DGIM algorithm guarantees that the estimate R is within 50% of the true count, and uses O(log2 N) bits of space.

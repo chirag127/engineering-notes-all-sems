@@ -1,0 +1,26 @@
+### Deadlines for the notes of the Unit 1 - Introduction of Real Time System in the subject of Real Time System
+
+- Unit 1 covers the following topics:
+  - Definition and characteristics of real time systems
+  - Classification and examples of real time systems
+  - Typical components and architecture of real time systems
+  - Design challenges and methods for real time systems
+  - Real time operating systems and scheduling algorithms
+- The notes for Unit 1 are expected to be completed by the end of the second week of the semester.
+- The notes should be written in a clear, concise, and accurate manner, following the guidelines and format provided by the instructor.
+- The notes should include the following elements:
+  - A summary of the main concepts and definitions of each topic
+  - A list of the key terms and acronyms used in each topic
+  - A diagram or table to illustrate the classification or architecture of real time systems
+  - A comparison or contrast of the different types or examples of real time systems
+  - A description of the design challenges and methods for real time systems
+  - A brief explanation of the real time operating systems and scheduling algorithms
+- The notes should be submitted electronically via the course website or email, depending on the instructor's preference.
+- The notes will be graded based on the following criteria:
+  - Completeness and coverage of the topics
+  - Clarity and correctness of the language and notation
+  - Relevance and accuracy of the examples and diagrams
+  - Organization and presentation of the notes
+- The notes will count for 10% of the final grade for the course.
+- Late submissions will be penalized by 10% of the total marks for each day of delay.
+- If you have any questions or difficulties regarding the notes, please contact the instructor as soon as possible.

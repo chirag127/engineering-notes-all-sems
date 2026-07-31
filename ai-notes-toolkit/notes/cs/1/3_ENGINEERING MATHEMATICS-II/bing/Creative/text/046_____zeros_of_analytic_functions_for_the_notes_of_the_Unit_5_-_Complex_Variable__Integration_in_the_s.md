@@ -1,0 +1,7 @@
+### Zeros of Analytic Functions
+
+- An analytic function is a complex function that is differentiable at every point of its domain.
+- A zero of an analytic function is a point where the function vanishes, or its value becomes zero. For example, z = 0 is a zero of the function f(z) = z^2 + 1.
+- Zeros of analytic functions are isolated, meaning that there is a neighborhood around each zero where the function is nonzero, except possibly at the zero itself  . For example, the function f(z) = z^2 + 1 has only one zero at z = 0, and it is nonzero in any disk around 0, except at 0 itself.
+- Zeros of analytic functions have a multiplicity, which is the number of times the zero is repeated in the Taylor series expansion of the function  . For example, the function f(z) = (z - 1)^3 has a zero of multiplicity 3 at z = 1, because its Taylor series around 1 is f(z) = (z - 1)^3 + O((z - 1)^4).
+- Zeros of analytic functions can be used to factor the function into simpler functions, similar to how zeros of polynomials can be used to factor the polynomial . For example, if f(z) is an analytic function with a zero of multiplicity m at z = a, then f(z) can be written as f(z) = (z - a)^m g(z), where g(z) is another analytic function such that g(a) is nonzero.

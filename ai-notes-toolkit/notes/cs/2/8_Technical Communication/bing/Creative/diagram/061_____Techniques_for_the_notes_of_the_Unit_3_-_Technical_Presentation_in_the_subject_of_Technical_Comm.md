@@ -1,0 +1,10 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic of Technical Presentation in Technical Communication. Here are some techniques for the notes of the Unit 3:
+
+- Use the **STAR** method to structure your notes: **S**ituation, **T**ask, **A**ction, and **R**esult. This will help you to present a clear and concise story of your project or work experience.
+- Use **bullet points** to summarize the main points of each section. Avoid writing long sentences or paragraphs that may distract you or the audience from the main message.
+- Use **keywords** and **phrases** that are relevant to your topic and audience. Avoid using jargon, acronyms, or technical terms that may confuse or alienate the audience.
+- Use **visual aids** such as graphs, charts, diagrams, or images to support your points and make your presentation more engaging and memorable. Make sure the visual aids are clear, relevant, and easy to read.
+- Use **cue cards** or **post-it notes** to write down your notes. Avoid reading from a script or a slide that may make your presentation sound monotonous or unnatural. Use the cue cards or post-it notes as reminders of the main points, not as the full text of your presentation.
+- Use **color coding** or **highlighting** to organize your notes and make them easier to find and follow. For example, you can use different colors for different sections, or highlight the keywords or phrases that you want to emphasize.
+- Use **mnemonics** or **memory techniques** to help you remember your notes and deliver your presentation confidently. For example, you can use acronyms, rhymes, associations, or images to recall the main points or the order of your presentation.
+- Use **practice** and **feedback** to improve your notes and your presentation skills. Practice your presentation aloud several times, preferably in front of a mirror, a friend, or a recorder. Ask for feedback from others and make adjustments to your notes and your delivery accordingly.

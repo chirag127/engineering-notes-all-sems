@@ -1,0 +1,13 @@
+## Unit 4 - Normalization
+
+- Normalization is a process of organizing the data in a database to reduce redundancy and improve data integrity.
+- Normalization also simplifies the database design by ensuring that each table has a single purpose and relates to other tables in a well-defined way.
+- Normalization is based on a set of rules or **normal forms** that define how a database should be structured to avoid anomalies and inconsistencies.
+- The most common normal forms are:
+  - **First normal form (1NF)**: A table is in 1NF if it contains only atomic values and no repeating groups. Atomic values are indivisible and cannot be further decomposed. Repeating groups are sets of columns that store multiple values of the same attribute for a single record.
+  - **Second normal form (2NF)**: A table is in 2NF if it is in 1NF and every non-key attribute is fully functionally dependent on the primary key. Functional dependency means that the value of one attribute determines the value of another attribute. Full functional dependency means that the dependency cannot be simplified by removing any part of the key.
+  - **Third normal form (3NF)**: A table is in 3NF if it is in 2NF and every non-key attribute is non-transitively dependent on the primary key. Non-transitive dependency means that the value of one attribute depends on the value of another attribute that is not part of the key.
+  - **Boyce-Codd normal form (BCNF)**: A table is in BCNF if it is in 3NF and every determinant is a candidate key. A determinant is an attribute or a set of attributes that determines the value of another attribute. A candidate key is a minimal set of attributes that uniquely identifies a record in a table.
+  - **Fourth normal form (4NF)**: A table is in 4NF if it is in BCNF and has no multi-valued dependencies. A multi-valued dependency means that the value of one attribute determines the values of a set of attributes, and these values are independent of the values of another set of attributes.
+  - **Fifth normal form (5NF)**: A table is in 5NF if it is in 4NF and has no join dependencies. A join dependency means that a table can be decomposed into two or more tables and then reconstructed by joining them on a common key without losing any information.
+- Normalization can be achieved by applying the normal forms in a step-by-step manner, starting from 1NF and moving up to the highest normal form applicable to the database. Each step involves identifying the dependencies and anomalies in the current table and splitting it into smaller tables that satisfy the next normal form. The process ends when no further decomposition is possible or desirable.

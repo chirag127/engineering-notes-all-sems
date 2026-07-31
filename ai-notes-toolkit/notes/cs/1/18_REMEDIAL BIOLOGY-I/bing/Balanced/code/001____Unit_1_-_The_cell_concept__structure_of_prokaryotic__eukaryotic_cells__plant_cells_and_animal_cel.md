@@ -1,0 +1,20 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic. Here is a summary of the main points:
+
+## Unit 1 - The cell concept, structure of prokaryotic, eukaryotic cells, plant cells and animal cells, Structure and function of cell membrane, cell organelles and their function, Basics of cell signaling, Structure and use of compound microscope, Basic chemical constituents of living body
+
+- The cell concept is the idea that all living things are composed of one or more cells, and that cells are the basic units of structure and function in living organisms.
+- Prokaryotic cells are simple, unicellular organisms that lack a nucleus and other membrane-bound organelles. They have a cell wall, a plasma membrane, cytoplasm, ribosomes, and a circular DNA molecule called a nucleoid. Examples of prokaryotes are bacteria and archaea .
+- Eukaryotic cells are more complex, multicellular or unicellular organisms that have a nucleus and other membrane-bound organelles. They have a cell wall (in plants, fungi, and some protists), a plasma membrane, cytoplasm, ribosomes, and linear DNA molecules organized into chromosomes. Examples of eukaryotes are animals, plants, fungi, and protists  .
+- Plant cells and animal cells are both types of eukaryotic cells, but they have some differences. Plant cells have a cell wall made of cellulose, a large central vacuole, chloroplasts (organelles that perform photosynthesis), and plasmodesmata (channels that connect adjacent cells). Animal cells lack these features, but have centrioles (structures that help in cell division), lysosomes (organelles that digest waste and foreign material), and tight junctions (seals that prevent leakage between cells).
+- The cell membrane is a thin, flexible layer that surrounds the cell and regulates what enters and exits the cell. It is composed of a phospholipid bilayer, with hydrophilic heads facing the water and hydrophobic tails facing the interior. It also contains proteins, carbohydrates, and cholesterol that perform various functions, such as transport, recognition, signaling, and attachment .
+- Cell organelles are specialized structures within the cell that perform specific functions. Some of the main organelles are:
+  - The nucleus, which contains the genetic material (DNA) and controls the cell's activities .
+  - The endoplasmic reticulum (ER), which is a network of membranes that synthesizes and transports proteins and lipids .
+  - The Golgi apparatus, which is a stack of flattened membranes that modifies, sorts, and packages proteins and lipids for export or use within the cell .
+  - The mitochondria, which are the powerhouses of the cell, where cellular respiration takes place and energy (ATP) is produced .
+  - The chloroplasts, which are found only in plant cells and some protists, where photosynthesis takes place and energy (glucose) is produced .
+  - The vacuoles, which are sacs that store water, nutrients, waste, or other substances .
+  - The lysosomes, which are found only in animal cells and some protists, where enzymes digest waste and foreign material .
+  - The cytoskeleton, which is a network of protein fibers that provides shape, support, and movement to the cell .
+- Cell signaling is the process by which cells communicate with each other or with the environment. It involves the transmission and reception of chemical or electrical signals, such as hormones, neurotransmitters, or ions. Cell signaling can regulate cell growth, differentiation, metabolism, movement, and response to stimuli.
+- A compound microscope is a device that uses two or more lenses to magnify small objects. It consists of an eyepiece, an objective lens, a stage, a light source, and a focusing knob. The object is placed on the stage and illuminated by the light source. The objective lens collects the light and forms an enlarged image of the object. The eyepiece further magnifies the image and allows the observer to see it[^6^

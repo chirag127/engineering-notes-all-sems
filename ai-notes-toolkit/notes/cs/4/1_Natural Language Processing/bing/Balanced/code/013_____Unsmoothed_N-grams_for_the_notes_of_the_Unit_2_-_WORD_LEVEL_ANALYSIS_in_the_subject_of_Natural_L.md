@@ -1,0 +1,14 @@
+### Unsmoothed N-grams
+
+- An n-gram is a sequence of n words or tokens in a text. For example, "natural language processing" is a trigram (n = 3).
+- An n-gram model is a probabilistic model that estimates the probability of a word given its previous n-1 words. For example, P(processing | natural language) is the probability of the word "processing" given the previous bigram "natural language".
+- An unsmoothed n-gram model is a simple way of estimating these probabilities by counting the frequency of n-grams in a corpus and dividing by the frequency of the previous n-1 grams. For example, P(processing | natural language) = C(natural language processing) / C(natural language), where C is the count function.
+- Unsmoothed n-gram models have some advantages and disadvantages:
+  - Advantages:
+    - They are easy to implement and understand.
+    - They can capture local dependencies and patterns in the text.
+    - They can be used for various tasks in natural language processing, such as language modeling, text generation, speech recognition, etc.
+  - Disadvantages:
+    - They suffer from data sparsity, meaning that many n-grams may not occur in the corpus or have very low frequency, leading to zero or unreliable probabilities.
+    - They do not account for the context or meaning of the words, only their surface forms.
+    - They are sensitive to the choice of n and the size and quality of the corpus.

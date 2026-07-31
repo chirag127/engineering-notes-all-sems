@@ -1,0 +1,28 @@
+### Structural Testing (White Box Testing) for the notes of the Unit 4 - Software Testing in the subject of Software Engineering
+
+- Structural testing, also known as white box testing, is a method of software testing that tests the internal structure, logic, and code of the software system .
+- The tester has access to the source code and can create test cases based on the code paths, branches, conditions, loops, and statements .
+- The main objective of structural testing is to verify the quality, reliability, security, and performance of the software system.
+- The advantages of structural testing are:
+  - It can detect errors and bugs in the code that may not be visible in the functionality .
+  - It can improve the code coverage and test coverage by testing all possible paths and scenarios .
+  - It can help in optimizing the code and removing redundant or dead code .
+  - It can facilitate debugging and maintenance by identifying the exact location of the defects .
+- The disadvantages of structural testing are:
+  - It requires skilled and experienced testers who can understand the code and design test cases accordingly .
+  - It can be time-consuming and costly as it involves testing every line of code and every possible path .
+  - It can be incomplete or insufficient as it does not test the functionality or usability of the software system from the user's perspective .
+- The types of structural testing are:
+  - Statement coverage: It measures the percentage of statements that are executed by the test cases .
+  - Branch coverage: It measures the percentage of branches or decision points that are executed by the test cases .
+  - Path coverage: It measures the percentage of paths or sequences of statements and branches that are executed by the test cases .
+  - Condition coverage: It measures the percentage of conditions or logical expressions that are evaluated to true and false by the test cases .
+  - Loop coverage: It measures the percentage of loops that are executed by the test cases with different iterations .
+  - Data flow coverage: It measures the percentage of data flow or variables that are defined, used, and modified by the test cases .
+  - Mutation coverage: It measures the percentage of mutants or modified versions of the code that are detected by the test cases .
+- The techniques of structural testing are:
+  - Control flow testing: It is a technique that uses the control flow graph or diagram of the software system to identify the paths and test cases .
+  - Data flow testing: It is a technique that uses the data flow graph or diagram of the software system to identify the data flow and test cases .
+  - Mutation testing: It is a technique that uses the mutants or modified versions of the code to evaluate the effectiveness of the test cases .
+  - Basis path testing: It is a technique that uses the cyclomatic complexity or the number of linearly independent paths in the software system to determine the minimum number of test cases .
+  - Loop testing: It is a technique that tests the loops in the software system with different values and iterations .

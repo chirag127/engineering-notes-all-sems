@@ -1,0 +1,11 @@
+### Classification of Data
+
+Classification of data is the process of organizing data into categories or groups based on some criteria, such as characteristics, attributes, or quality. Classification of data helps to make data easier to locate, retrieve, analyze, and protect. Classification of data also supports risk management, security, and regulatory compliance.
+
+There are different ways to classify data, depending on the purpose and context of the data analysis. Some of the common types of data classification are:
+
+- **Qualitative classification**: This type of classification is based on the nature or quality of the data, such as gender, religion, hair color, intelligence, etc. Qualitative data are usually nominal or ordinal, meaning they have no inherent order or numerical value. For example, classifying students by their favorite subject is a qualitative classification.
+- **Quantitative classification**: This type of classification is based on the quantity or measure of the data, such as height, weight, income, age, etc. Quantitative data are usually interval or ratio, meaning they have a fixed order and numerical value. For example, classifying students by their test scores is a quantitative classification.
+- **Geographical classification**: This type of classification is based on the location or spatial distribution of the data, such as country, state, city, region, etc. Geographical data are useful for mapping, comparing, and analyzing spatial patterns and trends. For example, classifying countries by their GDP is a geographical classification.
+- **Chronological classification**: This type of classification is based on the time or date of the data, such as year, month, day, hour, etc. Chronological data are useful for studying changes, trends, and patterns over time. For example, classifying sales by month is a chronological classification.
+- **Security classification**: This type of classification is based on the level of sensitivity or confidentiality of the data, such as public, private, internal, restricted, secret, top secret, etc. Security data are useful for protecting data from unauthorized access, use, or disclosure. For example, classifying documents by their security clearance is a security classification.

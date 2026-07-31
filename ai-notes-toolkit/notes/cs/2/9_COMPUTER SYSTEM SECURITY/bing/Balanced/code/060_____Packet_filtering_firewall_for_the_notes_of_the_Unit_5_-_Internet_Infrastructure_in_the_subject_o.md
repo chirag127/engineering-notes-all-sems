@@ -1,0 +1,22 @@
+### Packet filtering firewall
+
+- A packet filtering firewall is the most basic type of firewall that controls data flow to and from a network .
+- It is a network security solution that allows network packets to move across between networks and controls their flow using a set of user-defined rules, IP addresses, ports, and protocols .
+- A packet filtering firewall can be implemented as a standalone device or as part of a router.
+- A packet filtering firewall operates at the network layer of the OSI model and examines each packet header for source and destination addresses, port numbers, and protocol identifiers .
+- A packet filtering firewall can perform one of the following actions on each packet: accept, reject, or drop .
+  - Accept: The packet is allowed to pass through the firewall.
+  - Reject: The packet is blocked and a notification is sent back to the sender.
+  - Drop: The packet is silently discarded without any notification.
+- A packet filtering firewall can be configured with two types of rules: stateless or stateful .
+  - Stateless: The firewall evaluates each packet individually and does not keep track of the connection state or context.
+  - Stateful: The firewall maintains a state table that records the connection state and context of each packet and applies rules based on the state information.
+- A packet filtering firewall has some advantages and disadvantages   .
+  - Advantages:
+    - It is simple, fast, and inexpensive to implement and maintain.
+    - It can handle high volumes of traffic without significant performance degradation.
+    - It can provide basic protection against network attacks and unauthorized access.
+  - Disadvantages:
+    - It cannot inspect the payload or content of the packets for malicious or harmful data.
+    - It cannot prevent application-level attacks or sophisticated attacks that use encryption, fragmentation, or spoofing techniques.
+    - It can be vulnerable to misconfiguration, rule conflicts, or rule bypassing.

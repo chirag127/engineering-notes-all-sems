@@ -1,0 +1,8 @@
+#### Transmission media in Computer Networks
+
+Transmission media in computer networks are the physical channels that connect the sender and the receiver of data. They are used to transfer data in the form of bits or signals over a network. Transmission media can be classified into two main types: guided media and unguided media   .
+
+- Guided media: These are the media that provide a physical path for the data to travel along. They are also called wired or bounded media. Examples of guided media are twisted pair cables, coaxial cables, and optical fibers. Guided media have the advantages of high bandwidth, low attenuation, and low interference. However, they also have the disadvantages of high cost, limited length, and installation complexity .
+- Unguided media: These are the media that do not provide a physical path for the data to travel along. They are also called wireless or unbounded media. Examples of unguided media are radio waves, microwaves, infrared waves, and visible light. Unguided media have the advantages of low cost, easy installation, and mobility. However, they also have the disadvantages of low bandwidth, high attenuation, and high interference .
+
+Transmission media are an essential component of network architecture, which is the design and structure of a network. Network architecture includes hardware, software, protocols, and topology . The choice of transmission media depends on various factors, such as the distance, speed, reliability, security, and cost of data transmission. Different transmission media have different characteristics and suitability for different network applications .

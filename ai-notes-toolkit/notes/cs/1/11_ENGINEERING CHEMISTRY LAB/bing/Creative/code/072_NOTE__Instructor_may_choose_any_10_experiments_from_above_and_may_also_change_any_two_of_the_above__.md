@@ -1,0 +1,6 @@
+# NOTE: Instructor may choose any 10 experiments from above and may also change any two of the above.
+
+- This note implies that the instructor has the authority and flexibility to select the experiments that are most suitable for the course objectives, the available resources, and the students' interests and abilities.
+- The note also implies that the instructor can modify or replace up to two experiments from the given list, if they find them too difficult, too easy, too boring, or too irrelevant for the course.
+- The note does not specify which experiments are mandatory or optional, nor does it provide any criteria or guidelines for choosing or changing the experiments. Therefore, the instructor has to use their own judgment and discretion to make the best decisions for the course.
+- The note also does not indicate how the experiments will be assessed or graded, nor does it mention any prerequisites or co-requisites for the course. Therefore, the instructor has to communicate these details to the students clearly and consistently.

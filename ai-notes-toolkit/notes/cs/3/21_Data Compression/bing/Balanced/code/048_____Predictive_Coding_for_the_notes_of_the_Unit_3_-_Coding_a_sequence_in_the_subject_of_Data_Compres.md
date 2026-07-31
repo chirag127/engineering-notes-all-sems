@@ -1,0 +1,9 @@
+### Predictive Coding
+
+Predictive coding is a method of lossless data compression that uses a model to predict the next symbol or bit in a sequence, based on the previous symbols or bits. The prediction error, or the difference between the actual and predicted symbol or bit, is then encoded using a variable-length code, such as arithmetic coding. The advantage of predictive coding is that it can exploit the statistical dependencies and redundancies in the data, and achieve higher compression ratios than fixed-length codes.
+
+Some examples of predictive coding algorithms are:
+
+- **Linear predictive coding (LPC)**: This is a technique used for speech and audio compression, that models the spectral envelope of the signal using a linear combination of previous samples. The coefficients of the linear combination are called the LPC parameters, and they are transmitted along with the prediction error, or the residual signal. LPC can reduce the bit rate of speech signals by a factor of 10 or more, while preserving the quality and intelligibility of the speech.
+- **Dynamic Markov compression (DMC)**: This is a technique that uses a Markov model to predict the next bit in a binary sequence, based on the previous bits. The Markov model is updated dynamically as new bits are observed, and the prediction error is encoded using arithmetic coding. DMC can achieve high compression ratios for text and other types of data, and it adapts well to changes in the data statistics.
+- **Predictive coding for images**: This is a technique that exploits the spatial correlation and redundancy in images, by predicting the pixel values based on the neighboring pixels. The prediction error, or the difference image, is then encoded using a lossless compression method, such as Huffman coding or arithmetic coding. Predictive coding for images can reduce the size of uncompressed images by a factor of 2 or more, depending on the image quality and complexity.

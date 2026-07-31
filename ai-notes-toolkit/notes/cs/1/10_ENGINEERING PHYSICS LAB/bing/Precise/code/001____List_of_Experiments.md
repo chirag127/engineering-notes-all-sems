@@ -1,0 +1,7 @@
+## List of Experiments
+
+1. **The Milgram Experiment:** This experiment was conducted by Stanley Milgram in 1961 to study obedience to authority figures. The experiment involved participants administering electric shocks to a "learner" when they answered questions incorrectly.
+2. **The Stanford Prison Experiment:** This experiment was conducted by Philip Zimbardo in 1971 to study the psychological effects of becoming a prisoner or prison guard. The experiment involved college students being randomly assigned to play the role of either a prisoner or a guard in a simulated prison environment.
+3. **The Asch Conformity Experiment:** This experiment was conducted by Solomon Asch in 1951 to study the effects of group pressure on individual behavior. The experiment involved participants being asked to match the length of a line with comparison lines, while in a group setting where the other group members gave obviously incorrect answers.
+4. **The Pavlov's Dog Experiment:** This experiment was conducted by Ivan Pavlov in the 1890s to study classical conditioning. The experiment involved training a dog to associate the sound of a bell with being fed, resulting in the dog salivating at the sound of the bell even when no food was present.
+5. **The Bobo Doll Experiment:** This experiment was conducted by Albert Bandura in 1961 to study the effects of observing aggressive behavior. The experiment involved children observing an adult model behaving aggressively towards a Bobo doll, and then being given the opportunity to interact with the doll themselves.

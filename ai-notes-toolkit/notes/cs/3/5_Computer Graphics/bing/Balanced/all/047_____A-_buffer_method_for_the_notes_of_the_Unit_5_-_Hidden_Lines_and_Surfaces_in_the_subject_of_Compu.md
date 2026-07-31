@@ -1,0 +1,21 @@
+# A-Buffer Method for Hidden Lines and Surfaces
+
+- A-buffer method is a general hidden surface mechanism suited to medium scale virtual memory computers .
+- It resolves visibility among an arbitrary collection of opaque, transparent, and intersecting objects .
+- It extends the algorithm of depth-buffer (or Z-buffer) method by storing more than one depth and color value per pixel.
+- It uses a linked list data structure to store the fragments of objects that contribute to a pixel.
+- Each fragment has four attributes: depth, color, opacity, and coverage.
+- The depth attribute is the distance of the fragment from the view plane.
+- The color attribute is the color of the fragment.
+- The opacity attribute is the degree of transparency of the fragment.
+- The coverage attribute is the fraction of the pixel area covered by the fragment.
+- The fragments are sorted in decreasing order of depth in the linked list.
+- The final color of the pixel is computed by blending the colors of the fragments according to their opacity and coverage.
+- The advantages of A-buffer method are:
+  - It can handle transparent and intersecting objects.
+  - It can produce anti-aliased images by using sub-pixel sampling.
+  - It can support various shading and lighting effects.
+- The disadvantages of A-buffer method are:
+  - It requires more memory and processing time than depth-buffer method.
+  - It may suffer from aliasing artifacts due to finite resolution of the depth buffer.
+  - It may not handle some complex cases such as cyclic overlaps or self-intersections.

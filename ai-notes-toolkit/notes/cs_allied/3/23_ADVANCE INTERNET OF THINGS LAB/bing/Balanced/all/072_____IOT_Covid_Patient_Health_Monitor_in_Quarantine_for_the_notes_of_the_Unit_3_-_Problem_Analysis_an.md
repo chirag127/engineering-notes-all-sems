@@ -1,0 +1,14 @@
+# IOT Covid Patient Health Monitor in Quarantine
+
+- IoT stands for Internet of Things, which is a network of physical devices, sensors, and actuators that can communicate and exchange data over the internet.
+- Covid-19 is a highly contagious respiratory disease caused by a novel coronavirus that emerged in late 2019 and has spread worldwide, causing a global pandemic.
+- Covid-19 patients who have mild or moderate symptoms are advised to isolate themselves at home or in designated quarantine facilities to prevent further transmission of the virus and to reduce the burden on the health care system.
+- However, these patients still need to monitor their vital signs, such as body temperature, pulse rate, blood oxygen saturation, and blood pressure, which are indicators of their health condition and potential complications.
+- IoT-based health monitoring systems can provide a solution for remote and real-time monitoring of Covid-19 patients in quarantine, by using wearable or non-invasive sensors that can measure the vital signs and transmit the data to a cloud server or a mobile application, where the medical staff, doctors, or family members can access and analyze the data and provide timely feedback or intervention if needed.
+- IoT-based health monitoring systems can also alert the patients or the caregivers if the vital signs exceed the normal or safe ranges, or if there are any abnormal patterns or trends in the data, which may indicate a worsening of the condition or a need for hospitalization.
+- IoT-based health monitoring systems can benefit both the patients and the health care providers, by reducing the risk of exposure and infection, improving the quality and efficiency of care, enhancing the patient's comfort and compliance, and saving the cost and resources of the health care system.
+- Some examples of IoT-based health monitoring systems for Covid-19 patients in quarantine are:
+
+  - IoT Based Covid Patient Health Monitor in Quarantine by Nevon Projects, which uses a heartbeat sensor, a temperature sensor, and a blood pressure sensor to measure the vital signs and send the data to an online server, where the medical staff can monitor multiple patients remotely and receive alerts if the values are abnormal.
+  - IoT Based COVID Patient Health Monitoring System in Quarantine by R.Yoganapriya et al., which uses a pulse oximeter, a temperature sensor, and a blood pressure sensor to measure the vital signs and send the data to a mobile application, where the doctor can monitor the patient and provide feedback or prescription through a chatbot.
+  - IoT-Based Smart Health Monitoring System for COVID-19 by M. Alsharif et al., which uses a smart wristband, a smart thermometer, and a smart blood pressure monitor to measure the vital signs and send the data to a cloud server, where the medical staff can monitor the patient and provide guidance or intervention through a web application.

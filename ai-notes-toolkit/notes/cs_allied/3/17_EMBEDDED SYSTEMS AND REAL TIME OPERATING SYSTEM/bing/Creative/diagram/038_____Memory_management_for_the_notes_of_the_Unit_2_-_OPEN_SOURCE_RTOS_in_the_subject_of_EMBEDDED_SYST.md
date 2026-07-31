@@ -1,0 +1,12 @@
+### Memory management for the notes of the Unit 2 - OPEN SOURCE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Memory management is the process of allocating and deallocating memory for the tasks and objects in an RTOS.
+- Memory management can be done in two ways: static or dynamic.
+- Static memory management means that the memory is allocated at compile time and cannot be changed at run time. This method is simple, fast, and deterministic, but it can waste memory and limit flexibility.
+- Dynamic memory management means that the memory is allocated and freed at run time, according to the needs of the application. This method is more flexible and efficient, but it can introduce overhead, fragmentation, and non-determinism.
+- An open source RTOS is an RTOS that has its source code available for anyone to use, modify, and distribute. Some examples of open source RTOS are FreeRTOS, Zephyr, and Azure RTOS.
+- An open source RTOS may use different memory management options, depending on its design and features. Some common options are:
+  - Heap: A heap is a pool of memory that can be dynamically allocated and freed by the RTOS or the application. A heap can be implemented using different algorithms, such as first fit, best fit, or worst fit. A heap can provide flexibility and efficiency, but it can also cause fragmentation, overhead, and non-determinism.
+  - Stack: A stack is a region of memory that is allocated and freed in a last-in, first-out (LIFO) order. A stack is typically used to store local variables and function call information for each task. A stack can provide speed and determinism, but it can also waste memory and cause stack overflow or underflow.
+  - Pool: A pool is a collection of fixed-size memory blocks that can be allocated and freed by the RTOS or the application. A pool can reduce fragmentation and overhead, but it can also limit flexibility and cause pool exhaustion.
+  - Static: Static memory management means that the memory is allocated at compile time and cannot be changed at run time. This option can be used for tasks and objects that have fixed and known memory requirements. Static memory management can provide simplicity, speed, and determinism, but it can also waste memory and limit flexibility.

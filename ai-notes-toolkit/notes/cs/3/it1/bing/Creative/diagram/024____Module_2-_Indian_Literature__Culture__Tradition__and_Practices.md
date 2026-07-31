@@ -1,0 +1,15 @@
+## Module 2- Indian Literature, Culture, Tradition, and Practices
+
+- Indian literature is the literature produced in the Indian subcontinent and its diaspora. It includes works in many languages, such as Sanskrit, Hindi, Urdu, Bengali, Tamil, Telugu, Marathi, Malayalam, Kannada, Gujarati, Punjabi, Assamese, Odia, and English. Indian literature reflects the rich and diverse cultural heritage of India, as well as its history, philosophy, religion, art, and social issues. Some of the major genres of Indian literature are epics, poetry, drama, novels, short stories, essays, and folktales. Some of the prominent figures of Indian literature are Valmiki, Kalidasa, Tulsidas, Kabir, Mirabai, Rabindranath Tagore, Munshi Premchand, R.K. Narayan, Raja Rao, Salman Rushdie, Arundhati Roy, and Amitav Ghosh  .
+
+- Indian culture is the collective expression of the beliefs, values, customs, traditions, and practices of the people of India. It is influenced by various factors, such as geography, history, religion, language, ethnicity, and foreign invasions. Indian culture is known for its diversity, unity, tolerance, and spirituality. Some of the salient features of Indian culture are greetings, religious customs, festivals, family structure, marriage, symbols, cuisine, clothing, dances, epics, mythology, martial arts, and languages  .
+
+- Indian tradition is the transmission of the cultural norms and practices of India from one generation to another. It is based on the principles of dharma (duty), karma (action), and moksha (liberation). Indian tradition encompasses various aspects of life, such as education, morality, ethics, etiquette, rituals, ceremonies, rites of passage, social norms, and family values. Some of the common Indian traditions are respecting elders, honoring guests, celebrating festivals, performing puja (worship), observing fasts, wearing bindi (dot on the forehead), applying henna (temporary tattoo), wearing sacred thread, and practicing yoga and meditation  .
+
+- Indian practices are the actions and behaviors that reflect the Indian culture and tradition. They are influenced by the regional, religious, linguistic, and personal preferences of the people. Some of the examples of Indian practices are greeting with namaste (folding hands), bowing to touch the feet of elders, offering food and water to guests, eating with hands, wearing traditional attire, following the lunar calendar, consulting astrologers, celebrating birthdays, weddings, and anniversaries, donating to charity, visiting temples, mosques, churches, and gurudwaras, participating in cultural events, and respecting the national symbols  .
+
+: https://indiaculture.nic.in/literature-folklore
+: https://www.holidify.com/pages/indian-traditions-and-culture-1331.html
+: https://www.aplustopper.com/indian-culture-and-tradition-essay/
+: https://www.britannica.com/art/Native-American-literature
+: https://www.livescience.com/28634-indian-culture.html

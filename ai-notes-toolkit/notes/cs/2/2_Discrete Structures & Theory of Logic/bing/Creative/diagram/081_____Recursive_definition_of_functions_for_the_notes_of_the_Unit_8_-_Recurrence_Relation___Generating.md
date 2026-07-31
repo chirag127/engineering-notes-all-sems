@@ -1,0 +1,22 @@
+### Recursive definition of functions
+
+- A recursive definition of a function is a way of defining the value of a function for some inputs in terms of the value of the same function for other (usually smaller) inputs.
+- A recursive definition of a function consists of two parts: a base case and a recursive step.
+- The base case specifies the value of the function for some simple or initial inputs, such as 0 or 1.
+- The recursive step specifies how to compute the value of the function for a larger or more complex input, using the value of the function for a smaller or simpler input.
+- For example, the factorial function n! is defined recursively by the rules:
+  - 0! = 1 (base case)
+  - (n + 1)! = (n + 1)· n ! (recursive step)
+- A recursive definition of a function is valid if it satisfies two conditions:
+  - Every possible input is eventually reduced to a base case by applying the recursive step finitely many times.
+  - The value of the function is uniquely determined by the base case and the recursive step.
+- A recursive function is a function that is defined by a recursive definition.
+- A recursive function can be implemented by a computer program that calls itself with smaller or simpler inputs until a base case is reached.
+- A recursive function can also be represented by a recurrence relation, which is an equation that relates the value of the function for an input to the value of the function for a smaller or simpler input.
+- For example, the recurrence relation for the factorial function is:
+  - f(0) = 1
+  - f(n + 1) = (n + 1)· f(n)
+- A recursive function can also be expressed by a generating function, which is a formal power series that encodes the values of the function as coefficients of the series.
+- For example, the generating function for the factorial function is:
+  - F(x) = 1 + x + 2x^2 + 6x^3 + 24x^4 + ...
+- A recursive function can be used to model various phenomena in mathematics, logic, computer science, and other fields, such as sequences, algorithms, grammars, fractals, and trees.

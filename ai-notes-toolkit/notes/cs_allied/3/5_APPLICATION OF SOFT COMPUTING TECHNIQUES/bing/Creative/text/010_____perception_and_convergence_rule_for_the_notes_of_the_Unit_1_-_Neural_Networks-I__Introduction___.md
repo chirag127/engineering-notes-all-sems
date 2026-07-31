@@ -1,0 +1,24 @@
+### Perception and Convergence Rule
+
+- The perceptron is a kind of a single-layer artificial neural network with only one neuron.
+- The perceptron is the simplest neural network, one that is comprised of just one neuron.
+- The perceptron is the building block of artificial neural networks, it is a simplified model of the biological neurons in our brain.
+- A perceptron is an artificial neuron using the Heaviside step function as the activation function.
+- The perceptron takes a vector of real-valued or boolean inputs and calculates the linear combination of them, then passes it through a threshold activation function.
+- The output of the perceptron is either 0 or 1, depending on whether the input is above or below the threshold.
+- The perceptron can be used to perform binary classification tasks, such as linearly separable problems.
+- The perceptron learning rule is an algorithm that updates the weights of the perceptron based on the errors between the desired and actual outputs.
+- The perceptron learning rule is also called the delta rule or the Widrow-Hoff rule.
+- The perceptron learning rule can be expressed as: w_i = w_i + alpha * (d - y) * x_i, where w_i is the weight of the i-th input, alpha is the learning rate, d is the desired output, y is the actual output, and x_i is the i-th input.
+- The perceptron convergence theorem states that for any data set which is linearly separable, the perceptron learning rule is guaranteed to find a solution in a finite number of steps .
+- The perceptron convergence theorem was proved by Frank Rosenblatt in 1962.
+- The perceptron convergence theorem does not hold for non-linearly separable problems, such as the XOR problem.
+- The perceptron can be extended to handle non-linearly separable problems by using a multilayer perceptron, which is a neural network with more than one layer of neurons.
+- The multilayer perceptron can learn complex non-linear functions by using a differentiable activation function, such as the sigmoid or the tanh function, and applying the backpropagation algorithm to update the weights.
+- The multilayer perceptron is also called a feedforward neural network, to distinguish it from a recurrent neural network, which has feedback connections between the neurons.
+- The multilayer perceptron can be further improved by using different architectures, such as convolutional neural networks, recurrent neural networks, or deep neural networks.
+- The multilayer perceptron can also be controlled by using rule representations, which are symbolic expressions that define the inputs and outputs of the network.
+- The rule representations can be encoded into the network by using a rule encoder, which is a module that transforms the rules into a vector representation.
+- The rule encoder can be coupled with a rule-based objective, which is a loss function that measures the consistency between the rules and the network outputs.
+- The rule-based objective can help the network to learn interpretable and explainable models, as well as to incorporate prior knowledge and constraints into the learning process.
+- The rule encoder and the rule-based objective can be applied to any kind of rule defined for any data type and model architecture.

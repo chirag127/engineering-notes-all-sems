@@ -1,0 +1,14 @@
+### New directions in cloud enabled IoT computing
+
+- Cloud computing and IoT are two technologies that have a synergistic relationship, as cloud provides the infrastructure, platform, and services for IoT devices to connect, store, process, and analyze data, while IoT generates massive amounts of data that can be leveraged by cloud applications and services.
+- Some of the IoT-enabling characteristics of the cloud are:
+  - Scalability: Cloud can scale up or down the resources and services according to the demand and workload of IoT devices and applications.
+  - Elasticity: Cloud can dynamically allocate and deallocate resources and services to IoT devices and applications without affecting their performance and availability.
+  - Availability: Cloud can ensure high availability and reliability of IoT devices and applications by providing backup, recovery, and fault tolerance mechanisms.
+  - Security: Cloud can provide security and privacy for IoT devices and applications by implementing encryption, authentication, authorization, and auditing techniques.
+  - Cost-effectiveness: Cloud can reduce the cost and complexity of IoT devices and applications by offering pay-as-you-go and on-demand models of service delivery.
+- Some of the new directions and use cases of cloud-enabled IoT are:
+  - Edge computing: Edge computing is a paradigm that moves the computation and data processing from the cloud to the edge of the network, closer to the IoT devices and sources of data. This can reduce the latency, bandwidth, and energy consumption of IoT applications, as well as enhance the security and privacy of the data.
+  - Fog computing: Fog computing is a paradigm that extends the cloud to the edge of the network, creating a distributed and decentralized infrastructure that can support IoT applications. Fog computing can provide low-latency, high-bandwidth, and context-aware services to IoT devices and applications, as well as enable data aggregation, filtering, and analytics at the edge.
+  - Cloudlets: Cloudlets are small-scale cloud servers that are deployed at the edge of the network, providing offloading and caching services to IoT devices and applications. Cloudlets can improve the performance, efficiency, and quality of service of IoT applications, as well as reduce the network congestion and load on the cloud.
+  - Blockchain: Blockchain is a distributed ledger technology that can provide trust, transparency, and security for IoT devices and applications. Blockchain can enable peer-to-peer transactions, smart contracts, and consensus mechanisms among IoT devices and applications, as well as prevent data tampering, fraud, and cyberattacks.

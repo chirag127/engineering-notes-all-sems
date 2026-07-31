@@ -1,0 +1,26 @@
+# Cyber Forensic Analytics
+
+- Cyber forensic analytics is the application of cybersecurity and analytics tools to identify and mitigate damage from cyberthreats, such as malware, hacking, phishing, ransomware, etc.
+- Cyber forensic analytics involves the following key topics:
+  - Cyber forensics: the practice of extracting information, analyzing the data and gaining intelligence into activities that involve the use of technology as a structured chain of evidence that can be presented in the court of law.
+  - Network defense: the process of protecting a network from unauthorized access, misuse, modification, or denial of service.
+  - Applied cyber data analytics: the use of data mining, machine learning, statistical analysis, and visualization techniques to detect, analyze, and respond to cyberattacks.
+  - Security data visualization: the graphical representation of security data to facilitate understanding, communication, and decision making.
+  - Auditing and intrusion detection: the methods of monitoring and verifying the security and integrity of a system or network, and identifying and reporting any unauthorized or malicious activities.
+- Cyber forensic analytics requires the use of various tools and technologies, such as:
+  - Computer forensic analysis tools: software applications that help detect unknown, malicious threats across devices and networks, such as EnCase, FTK, Autopsy, etc.
+  - Forensic examination tools and technologies: hardware and software devices that help collect, preserve, and analyze digital evidence, such as write blockers, imaging tools, hash calculators, etc.
+  - Artifact reconstruction and recovery tools: software applications that help recover and reconstruct deleted, damaged, or encrypted data, such as Recuva, PhotoRec, R-Studio, etc.
+  - Evidentiary volume and encryption tools: software applications that help manage and encrypt large volumes of digital evidence, such as VeraCrypt, BitLocker, TrueCrypt, etc.
+  - Cloud security tools: software applications that help protect data and applications hosted on cloud platforms, such as AWS, Azure, Google Cloud, etc., such as Cloudflare, Zscaler, McAfee, etc.
+- Cyber forensic analytics faces various challenges, such as:
+  - The increasing volume, variety, and velocity of cyberattacks and data breaches.
+  - The evolving and sophisticated nature of cyberthreats and malware.
+  - The legal and ethical issues of privacy, consent, jurisdiction, and admissibility of digital evidence.
+  - The shortage of skilled and qualified cyber forensic analysts and professionals.
+- Cyber forensic analytics offers various benefits, such as:
+  - Enhancing the security and resilience of systems and networks.
+  - Improving the detection and response to cyber incidents and attacks.
+  - Providing valuable insights and intelligence into cyber activities and actors.
+  - Supporting the investigation and prosecution of cybercrimes and cyberattacks.
+  - Increasing the awareness and education of cybersecurity and cyber forensics.

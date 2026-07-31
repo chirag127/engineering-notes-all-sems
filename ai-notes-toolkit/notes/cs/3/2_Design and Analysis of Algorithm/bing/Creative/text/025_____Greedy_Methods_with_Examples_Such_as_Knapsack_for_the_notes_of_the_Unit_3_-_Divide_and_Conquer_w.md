@@ -1,0 +1,14 @@
+### Greedy Methods with Examples
+
+Greedy methods are a class of algorithms that make local optimal choices at each step, hoping to find a global optimal solution. Greedy methods do not always guarantee the best solution, but they are often efficient and easy to implement. Greedy methods are suitable for problems where the optimal substructure and the greedy choice property hold.
+
+- Optimal substructure means that an optimal solution to the problem can be constructed from optimal solutions to its subproblems.
+- Greedy choice property means that a globally optimal solution can be obtained by making a locally optimal (greedy) choice at each step, without considering the future consequences.
+
+Some examples of greedy methods are:
+
+- **Fractional Knapsack Problem**: Given a set of items, each with a weight and a value, and a knapsack with a maximum capacity, find the maximum value that can be obtained by filling the knapsack with fractions of items. The greedy choice is to pick the item with the highest value-to-weight ratio first, and then the next highest, and so on, until the knapsack is full or no more items are left.
+- **Optimal Reliability Allocation Problem**: Given a system with n components, each with a reliability and a cost, and a budget B, find the optimal way to allocate the budget among the components to maximize the overall reliability of the system. The greedy choice is to allocate the budget to the component with the highest marginal reliability per unit cost first, and then the next highest, and so on, until the budget is exhausted or no more components are left.
+- **Minimum Spanning Tree Problem**: Given a connected, undirected, weighted graph, find a subset of edges that connects all the vertices with the minimum total weight. The greedy choice is to pick the edge with the lowest weight that does not form a cycle with the already selected edges, and then repeat until all the vertices are connected.
+- **Single Source Shortest Path Problem**: Given a weighted, directed graph and a source vertex, find the shortest path from the source to every other vertex in the graph. The greedy choice is to pick the vertex with the lowest distance from the source that has not been visited yet, and then update the distances of its adjacent vertices, and then repeat until all the vertices are visited.
+- **Activity Selection Problem**: Given a set of activities, each with a start and finish time, find the maximum number of activities that can be performed by a single person, assuming that a person can only work on one activity at a time. The greedy choice is to pick the activity with the earliest finish time first, and then the next earliest, and so on, as long as they do not overlap with the already selected activities.

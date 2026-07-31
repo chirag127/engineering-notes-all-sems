@@ -1,0 +1,23 @@
+## Unit 11 - Automatic Backup of Files and Recovery of Files
+
+- Automatic backup of files is a process of creating copies of data and storing them in a different location from the original source, so that they can be restored in case of data loss, corruption, or disaster.
+- Recovery of files is a process of restoring data from a backup or other source, such as a recycle bin, a previous version, or a recovery tool, in case of data loss, corruption, or disaster.
+- Automatic backup and recovery of files are important for data protection, security, and continuity, as they can prevent or minimize data loss, downtime, and damage.
+- Automatic backup and recovery of files can be performed by using various methods, such as:
+  - Scheduled backup: A backup that is performed at a regular interval, such as daily, weekly, or monthly, or at a specific time, such as midnight or 3 a.m.
+  - Continuous backup: A backup that is performed continuously or in real time, as soon as a file is created, modified, or deleted, or whenever a change is detected.
+  - Incremental backup: A backup that only copies the files that have changed since the last backup, saving time and storage space.
+  - Differential backup: A backup that only copies the files that have changed since the last full backup, saving time and storage space.
+  - Full backup: A backup that copies all the files in a source, regardless of whether they have changed or not, providing a complete and consistent snapshot of the data.
+  - Mirror backup: A backup that creates an exact replica of the source, deleting any files that are not present in the source, ensuring that the backup and the source are always identical.
+  - Cloud backup: A backup that stores the data in a remote server or service over the internet, providing accessibility, scalability, and security.
+  - Local backup: A backup that stores the data in a local device, such as a hard drive, a flash drive, or a CD/DVD, providing speed, convenience, and control.
+  - Hybrid backup: A backup that combines cloud and local backup, providing the benefits of both methods, such as redundancy, reliability, and flexibility.
+- Automatic backup and recovery of files can be configured and performed by using various tools, such as:
+  - Windows Backup and Restore: A built-in feature of Windows that allows users to create and manage backups and restore files from backups, using a wizard or a control panel.
+  - File History: A built-in feature of Windows that allows users to create and manage backups of personal files, such as documents, pictures, and music, and restore previous versions of files from backups, using a file explorer or a control panel.
+  - OneDrive: A cloud storage service that allows users to store and sync files online and across devices, and restore deleted or previous versions of files from the cloud, using a web browser or an app.
+  - Google Drive: A cloud storage service that allows users to store and sync files online and across devices, and restore deleted or previous versions of files from the cloud, using a web browser or an app.
+  - Dropbox: A cloud storage service that allows users to store and sync files online and across devices, and restore deleted or previous versions of files from the cloud, using a web browser or an app.
+  - Recuva: A recovery tool that allows users to scan and recover deleted or lost files from various sources, such as hard drives, flash drives, or memory cards, using a wizard or an advanced mode.
+  - EaseUS Data Recovery Wizard: A recovery tool that allows users to scan and recover deleted or lost files from various sources, such as hard drives, flash drives, or memory cards, using a wizard or an advanced mode.

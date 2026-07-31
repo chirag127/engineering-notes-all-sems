@@ -1,0 +1,10 @@
+# The macro-structure of social networks
+
+- A social network is a social structure made up of a set of social actors (such as individuals or organizations), sets of dyadic ties, and other social interactions between actors.
+- The macro-structure of social networks refers to the overall pattern of relationships and interactions among the actors in the network, as well as the properties and functions of the network as a whole.
+- The macro-structure of social networks can be analyzed from three levels: micro-level, meso-level, and macro-level.
+  - Micro-level: This level focuses on the behavior and attributes of individual actors and their immediate ties in the network. For example, how an actor's position, centrality, or embeddedness in the network affects their outcomes, such as power, influence, or performance.
+  - Meso-level: This level focuses on the subgroups and clusters of actors within the network, and how they are connected and organized by social institutions and institutionalized social relationships. For example, how communities, cliques, or coalitions form and operate in the network, and how they are influenced by norms, values, or culture.
+  - Macro-level: This level focuses on the global and historical aspects of the network, and how they affect and are affected by social change and social movements. For example, how the network structure influences or reflects civil uprising, state formation, policy diffusion, or economic development.
+- The macro-structure of social networks can be measured and visualized by using various methods and techniques of social network analysis, such as network density, diameter, degree distribution, modularity, centrality, or network graphs.
+- The macro-structure of social networks can provide insights into the social processes and mechanisms that shape and are shaped by the network, such as diffusion, contagion, homophily, reciprocity, or social capital.

@@ -1,0 +1,22 @@
+### Images in Web Page Designing
+
+- Images are visual elements that can enhance the appearance and functionality of a web page.
+- Images can be used for various purposes, such as:
+  - Illustrating the content or the theme of the web page.
+  - Providing information or instructions to the users.
+  - Creating visual interest or attraction for the users.
+  - Establishing the identity or the brand of the web page or the website.
+  - Linking to other web pages or external resources.
+- Images can be of different types, such as:
+  - Bitmap images, which are composed of pixels or dots of color. Examples of bitmap image formats are JPEG, PNG, GIF, BMP, etc.
+  - Vector images, which are composed of mathematical shapes and curves. Examples of vector image formats are SVG, EPS, PDF, etc.
+  - Animated images, which are sequences of images that create the illusion of movement. Examples of animated image formats are GIF, APNG, WebP, etc.
+- Images can be embedded in a web page using different methods, such as:
+  - The `<img>` tag, which is an inline element that displays an image specified by the `src` attribute. The `<img>` tag can also have other attributes, such as `alt`, `width`, `height`, `title`, etc.
+  - The `background-image` property, which is a CSS property that sets an image as the background of an element. The `background-image` property can also have other properties, such as `background-repeat`, `background-position`, `background-size`, etc.
+  - The `url()` function, which is a CSS function that inserts an image as a value of a property, such as `content`, `border-image`, `list-style-image`, etc.
+- Images can be optimized for web page designing, such as:
+  - Choosing the appropriate image format and quality for the intended purpose and audience of the web page.
+  - Resizing and cropping the images to fit the layout and design of the web page.
+  - Compressing and reducing the file size of the images to improve the loading speed and performance of the web page.
+  - Adding alternative text and captions to the images to improve the accessibility and SEO of the web page.

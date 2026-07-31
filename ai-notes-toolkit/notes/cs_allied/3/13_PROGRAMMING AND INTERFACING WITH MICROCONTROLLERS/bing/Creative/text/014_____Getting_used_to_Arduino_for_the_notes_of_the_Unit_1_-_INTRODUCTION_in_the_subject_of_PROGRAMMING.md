@@ -1,0 +1,25 @@
+### Getting used to Arduino for the notes of the Unit 1 - INTRODUCTION in the subject of PROGRAMMING AND INTERFACING WITH MICROCONTROLLERS
+
+- Arduino is an open-source platform that combines hardware and software for creating interactive projects with microcontrollers.
+- A microcontroller is a small computer that can be programmed to perform specific tasks, such as controlling sensors, motors, lights, etc.
+- Arduino consists of two main components: the Arduino board and the Arduino IDE (Integrated Development Environment).
+- The Arduino board is the physical device that contains the microcontroller and other components, such as input/output pins, LEDs, buttons, etc.
+- The Arduino IDE is the software that allows you to write, compile, and upload code to the Arduino board using a programming language called Arduino C/C++.
+- To get started with Arduino, you need the following:
+  - An Arduino board (such as Arduino Uno, Nano, Mega, etc.)
+  - A USB cable to connect the board to your computer
+  - The Arduino IDE installed on your computer (available for Windows, Mac OS, and Linux)
+  - A breadboard, some wires, and some electronic components (such as resistors, LEDs, potentiometers, etc.) for building circuits
+- To program the Arduino board, you need to follow these steps:
+  - Connect the board to your computer using the USB cable
+  - Launch the Arduino IDE and select the board and port from the Tools menu
+  - Write your code in the editor window or open an example sketch from the File menu
+  - Verify your code by clicking the check mark button or pressing Ctrl+R
+  - Upload your code to the board by clicking the arrow button or pressing Ctrl+U
+  - Observe the behavior of the board and the components connected to it
+- To learn more about Arduino, you can refer to the following resources:
+  - The official Arduino website (https://www.arduino.cc/)
+  - The Arduino reference page (https://www.arduino.cc/reference/en/)
+  - The Arduino tutorials page (https://www.arduino.cc/en/Tutorial/HomePage)
+  - The Arduino forum (https://forum.arduino.cc/)
+  - The Arduino YouTube channel (https://www.youtube.com/user/Arduino)

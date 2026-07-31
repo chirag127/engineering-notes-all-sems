@@ -1,0 +1,10 @@
+# Applications of Electrical Machines
+
+Electrical machines are devices that convert electrical energy into mechanical energy or vice versa. They are classified into two main categories: rotating and linear machines. Rotating machines include motors and generators, while linear machines include actuators and transformers.
+
+Some of the applications of electrical machines are:
+
+- **DC machines**: These are machines that operate on direct current (DC) and have commutators and brushes to switch the direction of current in the armature. They are mainly used for supplying excitation of small and medium-range alternators, in electrolytic processes, welding processes and variable speed motor drives . DC machines can also be used as starters for induction motors and synchronous motors.
+- **AC machines**: These are machines that operate on alternating current (AC) and have no commutators or brushes. They are further divided into synchronous and asynchronous machines. Synchronous machines have a constant speed and can operate as motors or generators. They are used for high-power applications such as power generation, transmission and distribution, industrial drives, and power factor correction. Asynchronous machines, also known as induction machines, have a speed that depends on the load and the frequency of the supply. They are the most widely used type of electric motors in industrial, domestic and commercial applications. They are used for fans, blowers, pumps, machine tools, household appliances, power tools, and disk drives .
+- **Universal machines**: These are machines that can operate on both AC and DC supply. They are usually small and have high speed and torque. They are used for portable tools, mixers, blenders, and vacuum cleaners.
+- **Linear machines**: These are machines that produce linear motion instead of rotational motion. They are used for actuators, solenoids, relays, and transformers. They can also be used for linear motors, which are used for high-speed transportation, magnetic levitation, and linear generators.

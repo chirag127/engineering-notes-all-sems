@@ -1,0 +1,13 @@
+# DETAILED SYLLABUS
+
+- A detailed syllabus is a document that outlines the topics, objectives, learning outcomes, assessment methods, and resources for a specific course or module.
+- A detailed syllabus can help students to understand the expectations and requirements of the course, as well as to plan their study time and activities accordingly.
+- A detailed syllabus can also help instructors to design and deliver the course in a coherent and consistent way, as well as to communicate with students and other stakeholders about the course content and goals.
+- A detailed syllabus typically includes the following sections:
+
+  - Course information: This section provides basic information about the course, such as the course title, code, credits, level, prerequisites, co-requisites, instructor name and contact details, office hours, course website, etc.
+  - Course description: This section provides a brief overview of the course, its purpose, scope, and main themes or topics. It may also include a rationale for why the course is important or relevant for the students or the discipline.
+  - Course objectives: This section lists the specific learning objectives or outcomes that the students are expected to achieve by the end of the course. These objectives should be clear, measurable, and aligned with the course level and the program outcomes.
+  - Course schedule: This section provides a tentative outline of the course content and activities, organized by week or session. It may include the topics, readings, assignments, quizzes, exams, projects, presentations, etc. that the students need to complete or prepare for each week or session. It may also indicate the due dates, weightings, and formats of the assessments.
+  - Course policies: This section specifies the rules and expectations that the students and the instructor need to follow in the course, such as the attendance, participation, late submission, academic integrity, grading, feedback, communication, etc. policies. It may also include the procedures for requesting extensions, accommodations, appeals, etc.
+  - Course resources: This section lists the required and recommended materials and resources that the students need to access or purchase for the course, such as the textbooks, articles, websites, software, etc. It may also provide information on how and where to access or obtain these resources, such as the library, online platforms, etc.

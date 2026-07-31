@@ -1,0 +1,38 @@
+# Backward Chaining
+
+- Backward chaining is a concept in artificial intelligence that involves backtracking from the endpoint or goal to steps that led to the endpoint .
+- It is a goal-driven inference method that starts from the goal and moves backward to comprehend the steps that were taken to attain this goal .
+- It is used in automated theorem provers, inference engines, proof assistants, and other artificial intelligence applications .
+- It is based on the modus ponens inference rule, which states that if P implies Q and P is true, then Q is true.
+- It is one of the two most commonly used methods of reasoning with inference rules and logical implications – the other is forward chaining.
+- The main steps of backward chaining are :
+  - Start with the goal or query and try to find a rule that has the goal as its conclusion.
+  - If such a rule is found, then try to prove its premises using the same method recursively.
+  - If no such rule is found, then try to find a fact that matches the goal or query.
+  - If such a fact is found, then the goal or query is true.
+  - If no such fact is found, then the goal or query is false or unknown.
+- An example of backward chaining is:
+  - Goal: John is a criminal
+  - Rule 1: If X is a tax evader, then X is a criminal
+  - Rule 2: If X has income and X does not pay taxes, then X is a tax evader
+  - Fact 1: John has income
+  - Fact 2: John does not pay taxes
+  - Backward chaining process:
+    - To prove John is a criminal, we need to find a rule that has John is a criminal as its conclusion.
+    - Rule 1 matches this criterion, so we need to prove its premise: John is a tax evader.
+    - To prove John is a tax evader, we need to find a rule that has John is a tax evader as its conclusion.
+    - Rule 2 matches this criterion, so we need to prove its premises: John has income and John does not pay taxes.
+    - To prove John has income, we need to find a fact that matches John has income.
+    - Fact 1 matches this criterion, so John has income is true.
+    - To prove John does not pay taxes, we need to find a fact that matches John does not pay taxes.
+    - Fact 2 matches this criterion, so John does not pay taxes is true.
+    - Since both premises of Rule 2 are true, John is a tax evader is true.
+    - Since the premise of Rule 1 is true, John is a criminal is true.
+- The advantages of backward chaining are :
+  - It is efficient for proving specific goals or queries, as it only searches for relevant rules and facts.
+  - It avoids exploring irrelevant branches of the search space, as it stops when a goal or query is proven or disproven.
+  - It can handle incomplete or uncertain knowledge, as it can return unknown or probabilistic answers.
+- The disadvantages of backward chaining are :
+  - It may not find all possible solutions or proofs for a given goal or query, as it may stop at the first successful match.
+  - It may encounter infinite loops or dead ends, as it may repeatedly apply the same rules or facts without making progress.
+  - It may require a large amount of memory, as it may store a long chain of rules and facts to prove a goal or query.

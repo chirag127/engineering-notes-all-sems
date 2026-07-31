@@ -1,0 +1,24 @@
+### SRS Document for the notes of the Unit 2 - Software Requirement Specifications (SRS) in the subject of Software Engineering
+
+- Software Requirement Specifications (SRS) is a document that describes the requirements of a software system in a clear, consistent, and complete manner.
+- The purpose of SRS is to provide a common understanding of the system among the stakeholders, such as the customers, developers, testers, and managers.
+- The benefits of SRS are:
+  - It helps to avoid ambiguity and conflicts in the requirements.
+  - It facilitates communication and collaboration among the stakeholders.
+  - It serves as a basis for planning, designing, testing, and maintaining the system.
+  - It provides a reference for evaluating the quality and performance of the system.
+- The characteristics of a good SRS are:
+  - Correct: It should be consistent with the actual needs and expectations of the stakeholders.
+  - Complete: It should cover all the functional and non-functional requirements of the system, as well as any constraints and assumptions.
+  - Consistent: It should not contain any contradictory or conflicting requirements.
+  - Clear: It should be written in a simple, precise, and unambiguous language that can be understood by all the stakeholders.
+  - Verifiable: It should be possible to check whether the system meets the requirements by using some methods, such as testing, inspection, or analysis.
+  - Modifiable: It should be easy to update and maintain the SRS as the requirements change or evolve over time.
+  - Traceable: It should be possible to trace the origin and rationale of each requirement, as well as the impact of any changes on the other requirements.
+- The structure of a typical SRS document is:
+  - Introduction: It provides an overview of the system, its scope, objectives, and intended users. It also defines the terms and acronyms used in the document.
+  - System Overview: It describes the general characteristics and features of the system, such as its architecture, components, interfaces, and dependencies. It also identifies the external entities that interact with the system, such as other systems, users, or devices.
+  - System Requirements: It specifies the functional and non-functional requirements of the system, as well as any constraints and assumptions. Functional requirements describe what the system should do, while non-functional requirements describe how the system should do it. Constraints are the limitations or restrictions imposed on the system, such as technical, legal, or regulatory. Assumptions are the conditions or facts that are presumed to be true for the system to function properly.
+  - System Models: It presents the graphical or textual representations of the system, such as use case diagrams, data flow diagrams, entity-relationship diagrams, state transition diagrams, or class diagrams. These models help to illustrate the behavior, structure, and data of the system in a more abstract and concise way.
+  - System Analysis: It analyzes the feasibility, risks, and quality of the system, as well as the trade-offs and alternatives. Feasibility analysis evaluates the technical, economic, and operational viability of the system. Risk analysis identifies and assesses the potential threats and vulnerabilities of the system, as well as the mitigation strategies and contingency plans. Quality analysis measures and ensures the compliance of the system with the quality standards and criteria, such as reliability, usability, efficiency, maintainability, and portability. Trade-off analysis compares and balances the benefits and costs of different design choices and options. Alternative analysis explores and evaluates the possible variations and modifications of the system.
+  - Appendices: It contains any additional or supplementary information that supports or complements the main content of the document, such as glossary, references, bibliography, or index.

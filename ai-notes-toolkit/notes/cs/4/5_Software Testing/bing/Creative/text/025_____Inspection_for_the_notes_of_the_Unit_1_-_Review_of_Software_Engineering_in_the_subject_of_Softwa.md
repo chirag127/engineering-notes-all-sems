@@ -1,0 +1,21 @@
+### Inspection for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- Inspection is a formal and systematic technique for finding defects in software artifacts such as requirements, design, code, and test cases.
+- Inspection involves a team of reviewers who follow a well-defined process to examine the artifact, identify errors, and suggest improvements.
+- Inspection is also known as static testing, as it does not require executing the software or test cases.
+- Inspection has several benefits, such as:
+  - It can detect defects early in the software development life cycle, reducing the cost and effort of fixing them later.
+  - It can improve the quality and reliability of the software product, as well as the productivity and morale of the developers.
+  - It can provide feedback and learning opportunities for the developers, as well as metrics and data for process improvement.
+- Inspection has several challenges, such as:
+  - It requires a significant amount of time and resources, especially for large and complex artifacts.
+  - It depends on the skill and experience of the reviewers, as well as their motivation and attitude.
+  - It may not detect all types of defects, such as performance, usability, or security issues.
+  - It may introduce new defects or conflicts, if the suggestions are not implemented correctly or consistently.
+- Inspection consists of several phases, such as:
+  - Planning: The inspection leader selects the artifact to be inspected, the reviewers, the roles, the schedule, the checklist, and the entry and exit criteria.
+  - Overview: The inspection leader provides an overview of the artifact and its context, and clarifies any questions or doubts from the reviewers.
+  - Preparation: The reviewers individually study the artifact and identify potential defects, using the checklist and their own expertise.
+  - Inspection meeting: The reviewers meet and discuss their findings, moderated by the inspection leader. The defects are recorded and classified by severity and type.
+  - Rework: The author of the artifact corrects the defects and verifies that no new defects are introduced.
+  - Follow-up: The inspection leader checks that the rework is done satisfactorily and that the exit criteria are met. The inspection is closed and the results are reported.

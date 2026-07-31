@@ -1,0 +1,20 @@
+# Recovery from Transaction Failures
+
+- A transaction failure is an event that causes a transaction to abort or terminate before completing all its operations.
+- A transaction failure can be caused by various reasons, such as system crash, power failure, user error, deadlock, concurrency control violation, or integrity constraint violation.
+- To recover from transaction failure, the atomicity and durability of transactions must be maintained. That is, either all the operations of a transaction are executed or none, and the effects of committed transactions are not lost due to failures.
+- There are three states of database recovery in DBMS:
+  - Consistent state: A state where the database satisfies all the integrity constraints and reflects a correct state of the real world.
+  - Inconsistent state: A state where the database violates some integrity constraints or does not reflect a correct state of the real world.
+  - Intermediate state: A state where the database is in the process of executing a transaction and has not reached a consistent or inconsistent state yet.
+- There are two types of database recovery in DBMS:
+  - Crash recovery: The process of restoring the database to a consistent state after a system crash or power failure. Crash recovery involves redoing or undoing the operations of transactions that were affected by the failure.
+  - Media recovery: The process of restoring the database to a consistent state after a disk failure or other physical damage to the storage media. Media recovery involves restoring the database from a backup copy and applying the changes made by transactions that occurred after the backup.
+- There are various recovery techniques in DBMS that use different methods to record and restore the changes made by transactions. Some of the common recovery techniques are  :
+  - Deferred update: A technique where the changes made by a transaction are not written to the database until the transaction commits. This technique ensures atomicity but not durability, as the changes may be lost if a failure occurs before the commit.
+  - Immediate update: A technique where the changes made by a transaction are written to the database as soon as they occur, even before the transaction commits. This technique ensures durability but not atomicity, as the changes may be inconsistent if a failure occurs before the commit.
+  - Shadow paging: A technique where the changes made by a transaction are written to a copy of the database pages, called shadow pages, instead of the original pages. The original pages are replaced by the shadow pages only when the transaction commits. This technique ensures atomicity and durability, but requires extra space and may cause fragmentation.
+  - Log-based recovery: A technique where the changes made by a transaction are recorded in a separate file, called a log, along with a unique transaction identifier, a timestamp, and a commit or abort flag. The log is used to redo or undo the changes in case of a failure. This technique can be combined with deferred or immediate update methods. There are two types of log-based recovery:
+    - Undo logging: A type of log-based recovery where the log records the old values of the data items before they are modified by a transaction. The log is used to undo the changes of uncommitted transactions in case of a failure.
+    - Redo logging: A type of log-based recovery where the log records the new values of the data items after they are modified by a transaction. The log is used to redo the changes of committed transactions in case of a failure.
+  - Checkpointing: A technique where the database system periodically writes all the modified pages and the log records to the disk and marks a point in the log, called a checkpoint, that indicates the state of the database at that time. Checkpointing reduces the amount of work needed for recovery, as the system only needs to consider the transactions that occurred after the last checkpoint.

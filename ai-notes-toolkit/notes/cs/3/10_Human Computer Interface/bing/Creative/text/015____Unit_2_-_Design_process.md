@@ -1,0 +1,9 @@
+## Unit 2 - Design process
+
+The design process is a series of steps that engineers, architects, artists, and other creators follow to transform an idea into a solution. The design process can vary depending on the context, the discipline, and the problem, but it generally involves some common stages:
+
+- **Define the problem**: This stage involves identifying the need, the goal, the constraints, and the criteria for success of the design. The problem should be clear, specific, and measurable.
+- **Research and brainstorm**: This stage involves gathering information, generating ideas, and exploring possibilities for the design. The research should be relevant, reliable, and diverse. The brainstorming should be creative, collaborative, and open-minded.
+- **Develop and test solutions**: This stage involves selecting the best idea, developing a prototype, and testing its performance, functionality, and usability. The development should be iterative, detailed, and logical. The testing should be objective, systematic, and constructive.
+- **Evaluate and refine**: This stage involves analyzing the results, identifying the strengths and weaknesses, and making improvements to the design. The evaluation should be based on the criteria, the feedback, and the data. The refinement should be incremental, effective, and evidence-based.
+- **Communicate and present**: This stage involves documenting the design process, explaining the solution, and demonstrating its value. The communication should be clear, concise, and coherent. The presentation should be engaging, persuasive, and professional.

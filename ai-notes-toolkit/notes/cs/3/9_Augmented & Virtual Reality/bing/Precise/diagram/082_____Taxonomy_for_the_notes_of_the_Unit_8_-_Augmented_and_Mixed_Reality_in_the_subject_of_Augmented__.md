@@ -1,0 +1,9 @@
+### Taxonomy for the notes of the Unit 8 - Augmented and Mixed Reality in the subject of Augmented & Virtual Reality
+
+1. **Definition:** Taxonomy is the practice and science of classification. In the context of Augmented and Mixed Reality, taxonomy refers to the classification of different types of AR and MR experiences and technologies.
+2. **Purpose:** The purpose of taxonomy in AR and MR is to provide a framework for understanding, organizing, and communicating about the different types of experiences and technologies available.
+3. **Types of Taxonomies:** There are several different taxonomies that have been proposed for AR and MR, including the Milgram and Kishino taxonomy, the Azuma taxonomy, and the Bimber and Raskar taxonomy.
+4. **Milgram and Kishino Taxonomy:** This taxonomy classifies AR and MR experiences based on the degree of virtuality, ranging from completely real environments to completely virtual environments.
+5. **Azuma Taxonomy:** This taxonomy classifies AR and MR experiences based on the type of display used, including head-mounted displays, handheld displays, and spatial displays.
+6. **Bimber and Raskar Taxonomy:** This taxonomy classifies AR and MR experiences based on the type of optical blending used, including video see-through, optical see-through, and projective displays.
+7. **Conclusion:** Taxonomy is an important tool for understanding and organizing the different types of AR and MR experiences and technologies. By using a common framework for classification, it is easier to communicate and collaborate on the development and use of these technologies.

@@ -1,0 +1,11 @@
+### Design Strategies in Software Design
+
+- Software design is the process of defining the architecture, components, interfaces, and other characteristics of a software system.
+- Software design strategies are the methods or approaches used to guide the design process and achieve the desired quality attributes of the system.
+- Some common software design strategies are:
+
+  - Top-down design: This strategy starts with a high-level view of the system and decomposes it into smaller and more detailed components. Each component is then designed and implemented separately. This strategy helps to reduce complexity and focus on the main functionality of the system.
+  - Bottom-up design: This strategy starts with the low-level components of the system and integrates them into larger and more complex components. Each component is tested and verified before integration. This strategy helps to reuse existing components and ensure compatibility and interoperability of the system.
+  - Modular design: This strategy divides the system into independent and cohesive modules that communicate through well-defined interfaces. Each module has a specific function and can be developed and maintained separately. This strategy helps to increase modularity, reusability, and maintainability of the system.
+  - Object-oriented design: This strategy models the system as a collection of objects that have attributes, behaviors, and relationships. Each object belongs to a class that defines its common properties and methods. This strategy helps to encapsulate data and functionality, support abstraction and inheritance, and promote polymorphism and dynamic binding of the system.
+  - Component-based design: This strategy builds the system from pre-existing and reusable components that have well-defined interfaces and contracts. Each component can be deployed and executed independently and can be replaced or updated without affecting the rest of the system. This strategy helps to reduce development time and cost, improve reliability and scalability, and facilitate reuse and integration of the system.

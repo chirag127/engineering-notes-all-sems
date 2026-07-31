@@ -1,0 +1,11 @@
+### Regression Coefficients
+
+- Regression coefficients are estimates of some unknown parameters that describe the relationship between a predictor variable and the corresponding response  .
+- In other words, regression coefficients are used to predict the value of an unknown variable using a known variable .
+- Regression coefficients are the quantities by which the variables in a regression equation are multiplied. For example, in the linear regression equation `y = a + bx`, `a` and `b` are the regression coefficients.
+- The most commonly used type of regression is linear regression, which assumes a linear relationship between the predictor and the response variables .
+- The aim of linear regression is to find the regression coefficients that produce the best-fitted line, which minimizes the sum of squared errors between the observed and predicted values .
+- There are different methods to estimate the regression coefficients, such as the method of least squares, the method of maximum likelihood, or the method of moments.
+- The regression coefficients have different interpretations depending on the type of regression and the nature of the variables. For example, in simple linear regression, the coefficient of the predictor variable represents the slope of the regression line, which indicates the change in the response variable for a unit change in the predictor variable.
+- The regression coefficients can also be tested for statistical significance, which indicates whether the predictor variable has a significant effect on the response variable or not. The null hypothesis is that the coefficient is equal to zero, and the alternative hypothesis is that the coefficient is not equal to zero. The test statistic is usually a t-statistic or a z-statistic, and the p-value is the probability of obtaining the observed coefficient or more extreme under the null hypothesis.
+- The regression coefficients can also be used to calculate the coefficient of determination, which measures the proportion of variation in the response variable that is explained by the predictor variable. The coefficient of determination is equal to the square of the correlation coefficient between the predictor and the response variables, and it ranges from 0 to 1. A higher coefficient of determination indicates a better fit of the regression model.

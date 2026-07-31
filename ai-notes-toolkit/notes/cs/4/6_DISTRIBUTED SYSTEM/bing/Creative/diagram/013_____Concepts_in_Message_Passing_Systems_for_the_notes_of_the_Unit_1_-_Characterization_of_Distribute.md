@@ -1,0 +1,24 @@
+### Concepts in Message Passing Systems
+
+- Message passing is a technique for invoking behavior on a computer by sending a message to a process.
+- Message passing is used in distributed systems, which are systems that consist of multiple independent computers that communicate and coordinate their actions by passing messages.
+- Message passing systems provide a set of message-based interprocess communication (IPC) protocols that allow processes to exchange information and synchronize their activities.
+- Message passing systems can be classified into two categories: synchronous and asynchronous.
+  - Synchronous message passing systems require the sender and the receiver to be ready at the same time for the message transfer. The sender blocks until the receiver acknowledges the message, and the receiver blocks until a message arrives.
+  - Asynchronous message passing systems do not impose any timing constraints on the sender and the receiver. The sender can send a message and continue its execution without waiting for an acknowledgment, and the receiver can receive a message at any time without blocking.
+- Message passing systems can also be classified into two types: direct and indirect.
+  - Direct message passing systems require the sender to explicitly specify the identity of the receiver, such as its name or address. The communication link is established by the sender before sending the message.
+  - Indirect message passing systems do not require the sender to know the identity of the receiver. The communication link is established by a third party, such as a message queue or a topic. The sender and the receiver can communicate by sending and receiving messages to and from the same queue or topic.
+- Message passing systems have some advantages and disadvantages over other IPC methods, such as shared memory and remote procedure calls (RPCs).
+  - Advantages of message passing systems include:
+    - They are portable and scalable, as they do not depend on the underlying hardware or operating system.
+    - They are flexible and expressive, as they can support different types of messages and communication patterns.
+    - They are reliable and fault-tolerant, as they can handle message losses, duplications, and delays.
+  - Disadvantages of message passing systems include:
+    - They are complex and difficult to program, as they require the programmer to deal with low-level details of message formats, protocols, and error handling.
+    - They are inefficient and costly, as they incur overheads of message encoding, decoding, buffering, and transmission.
+    - They are insecure and vulnerable, as they expose the messages to unauthorized access, modification, or interception.
+- Message passing interface (MPI) is a standardized and portable message-passing system developed for distributed and parallel computing. MPI provides parallel hardware vendors with a clearly defined base set of routines that can be efficiently implemented.
+  - MPI supports both synchronous and asynchronous message passing, as well as both point-to-point and collective communication.
+  - MPI allows processes to send and receive messages that contain data ranging from primitive types to actual objects.
+  - MPI also provides features such as groups, communicators, topologies, and virtual channels to facilitate the organization and coordination of processes.

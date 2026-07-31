@@ -1,0 +1,11 @@
+### Statistical Language Model for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+
+- A statistical language model (SLM) is a mathematical tool that assigns probabilities to sequences of words or symbols in a natural language, such as English, Chinese, or Hindi.
+- SLMs are used to generate or analyze natural language text or speech in various natural language processing (NLP) tasks, such as speech recognition, machine translation, natural language generation, information retrieval, and text summarization.
+- SLMs are based on the assumption that the probability of a word or symbol depends on its previous words or symbols, or its context. This is known as the Markov property.
+- SLMs can be classified into two main types: n-gram models and neural network models.
+- N-gram models are the simplest and most widely used SLMs. They estimate the probability of a word or symbol based on the previous n-1 words or symbols, where n is a fixed number. For example, a bigram model (n=2) estimates the probability of a word based on the previous word, and a trigram model (n=3) estimates the probability of a word based on the previous two words.
+- Neural network models are more complex and powerful SLMs. They use artificial neural networks to learn the probability distribution of words or symbols in a natural language. They can capture long-range dependencies and semantic similarities between words or symbols. For example, a recurrent neural network (RNN) model can process variable-length sequences of words or symbols, and a transformer model can encode the context and attention of words or symbols.
+- SLMs are trained on large corpora of natural language text or speech, using various methods such as maximum likelihood estimation, smoothing, regularization, or optimization.
+- SLMs are evaluated on their ability to predict unseen words or symbols, using metrics such as perplexity, accuracy, or cross-entropy.
+- SLMs are the core component of modern NLP, and they have many applications and benefits in various domains and industries. For example, they can help machines to read, understand, and derive meaning from human languages, improve the quality and efficiency of communication and information, and enable new and innovative services and products.

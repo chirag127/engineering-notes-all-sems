@@ -1,0 +1,27 @@
+# Optimal Decisions in Games
+
+- In a normal search problem, the optimal solution would be a sequence of actions leading to a goal state-a terminal state that is a win .
+- In a game, the optimal solution would be a strategy-a function that specifies the move to make in each situation .
+- A strategy is optimal if it guarantees the best possible outcome against any opponent .
+- Given a game tree, the optimal strategy can be determined from the minimax value of each node, which we write as MINIMAX(n) .
+- The minimax value of a node is the utility (for MAX) of being in the corresponding state, assuming that both players play optimally from there to the end of the game .
+- The minimax value of a terminal node is just the utility of that node .
+- The minimax value of a non-terminal node is the minimum or maximum of the minimax values of its children, depending on whether it is a MIN or a MAX node .
+- The minimax algorithm is a recursive procedure that computes the minimax values of all the nodes in the game tree .
+- The minimax algorithm can be implemented using depth-first search with backtracking .
+- The minimax algorithm is optimal, but it is also inefficient, as it explores the entire game tree, which can be very large .
+- Some techniques to improve the efficiency of the minimax algorithm are alpha-beta pruning, move ordering, iterative deepening, and heuristic evaluation functions .
+- Alpha-beta pruning is a technique that eliminates branches of the game tree that are provably worse than the best move found so far .
+- Move ordering is a technique that sorts the moves at each node according to some heuristic, so that the best moves are explored first, increasing the chances of pruning .
+- Iterative deepening is a technique that applies the minimax algorithm with increasing depth limits, until the time runs out or the optimal solution is found .
+- Heuristic evaluation functions are functions that estimate the utility of a non-terminal node, based on some features of the state .
+- Heuristic evaluation functions are useful when the game tree is too large to be explored completely, and a cutoff point is reached .
+- Heuristic evaluation functions should be consistent, meaning that they should agree with the true utility of terminal nodes .
+- Heuristic evaluation functions should also be admissible, meaning that they should never overestimate the utility of a node for MAX or underestimate it for MIN .
+- Some examples of heuristic evaluation functions are material balance, mobility, position, and king safety in chess .
+- Game playing in artificial intelligence can be classified into two main approaches: rule-based systems and machine learning-based systems.
+- Rule-based systems use a set of fixed rules to play the game, whereas machine learning-based systems use algorithms to learn from experience and make decisions based on that experience.
+- Rule-based systems are easier to implement and understand, but they are limited by the knowledge and expertise of the human programmers.
+- Machine learning-based systems are more flexible and adaptable, but they require a lot of data and computational resources to train and evaluate.
+- Some examples of rule-based systems are Deep Blue and Chinook, which are world-class chess and checkers programs, respectively.
+- Some examples of machine learning-based systems are AlphaGo and AlphaZero, which are state-of-the-art programs for playing Go and other board games, respectively.

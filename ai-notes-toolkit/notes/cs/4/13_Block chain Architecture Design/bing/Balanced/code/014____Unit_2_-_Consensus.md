@@ -1,0 +1,11 @@
+## Unit 2 - Consensus
+
+Consensus is the process of reaching agreement among a group of participants on a common state or value. Consensus is essential for distributed systems that need to coordinate their actions and ensure consistency and reliability.
+
+Some key concepts and challenges of consensus are:
+
+- **Fault tolerance**: The ability of a system to tolerate failures of some of its components and still function correctly. Fault tolerance can be measured by the number of failures that a system can withstand before it becomes unavailable or inconsistent.
+- **Byzantine fault**: A type of fault that occurs when a component behaves arbitrarily or maliciously, such as sending conflicting or incorrect messages to other components. Byzantine faults are harder to detect and handle than crash faults, where a component simply stops working.
+- **Safety and liveness**: Two properties that define the correctness of a consensus protocol. Safety means that the protocol guarantees that all correct participants agree on the same value and that the value is valid. Liveness means that the protocol guarantees that all correct participants eventually decide on a value.
+- **Paxos and Raft**: Two well-known consensus protocols that are based on the idea of electing a leader among the participants and having the leader propose a value to the followers. Paxos and Raft differ in their complexity and optimality. Paxos is more general and can handle any number of failures, but it is more difficult to understand and implement. Raft is more intuitive and easier to implement, but it requires a majority of participants to be alive and can only tolerate up to (n-1)/2 failures, where n is the number of participants.
+- **Proof-of-Work and Proof-of-Stake**: Two consensus mechanisms that are used in blockchain systems, such as Bitcoin and Ethereum. Proof-of-Work requires participants to solve a hard cryptographic puzzle to propose a new block of transactions and earn rewards. Proof-of-Work is secure against Byzantine faults, but it consumes a lot of energy and resources. Proof-of-Stake requires participants to stake some of their own tokens to propose a new block and earn rewards. Proof-of-Stake is more efficient and scalable, but it introduces new challenges, such as the possibility of forks and attacks.

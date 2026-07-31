@@ -1,0 +1,8 @@
+### Competitive Learning
+
+- Competitive learning is a form of **unsupervised learning** in artificial neural networks, in which nodes compete for the right to respond to a subset of the input data .
+- Competitive learning works by increasing the **specialization** of each node in the network. It is well suited to finding **clusters** within data .
+- Competitive learning is usually implemented with neural networks that contain a hidden layer which is commonly known as **competitive layer**. Every competitive neuron is described by a vector of weights and calculates the **similarity measure** between the input data and the weight vector.
+- Competitive learning can be seen as a variant of **Hebbian learning**, which is based on the principle that neurons that fire together wire together. Hebbian learning strengthens the connections between neurons that have correlated activity, while competitive learning weakens the connections between neurons that have uncorrelated activity .
+- Competitive learning can be applied to various problems, such as **data clustering**, **dimensionality reduction**, **feature extraction**, **pattern recognition**, **anomaly detection**, and **self-organization**.
+- Competitive learning can also be used in some instances between groups working on the same project-based learning problem. This can foster **motivation**, **creativity**, and **collaboration** among students.

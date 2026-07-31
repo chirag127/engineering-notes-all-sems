@@ -1,0 +1,14 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some notes on the topic of random variable for the Unit 1 - Descriptive Statistics in the subject of MATHEMATICAL FOUNDATION AI , ML AND DATA SCIENCE.
+
+### Random Variable
+
+- A random variable is a variable that takes on different values depending on the outcome of a random experiment.
+- A random variable can be either discrete or continuous, depending on whether it has a finite or infinite number of possible values.
+- A discrete random variable can take on only a countable number of values, such as 0, 1, 2, ..., or heads, tails, etc. Examples of discrete random variables are the number of heads in a coin toss, the number of students in a class, the roll of a die, etc.
+- A continuous random variable can take on any value in a given interval, such as 0.5, 1.23, 3.14, etc. Examples of continuous random variables are the height of a person, the weight of a fruit, the temperature of a room, etc.
+- A random variable can be either numerical or categorical, depending on whether it has a numerical or a non-numerical value. A numerical random variable can be either discrete or continuous, while a categorical random variable can only be discrete.
+- A categorical random variable can take on values that represent categories or labels, such as red, blue, green, male, female, etc. Examples of categorical random variables are the color of a car, the gender of a person, the type of a flower, etc.
+- A random variable can be either independent or dependent, depending on whether its value is affected by the value of another random variable. Two random variables are independent if the value of one does not influence the value of the other, and vice versa. Two random variables are dependent if the value of one affects the value of the other, or vice versa.
+- A random variable can be either univariate or multivariate, depending on whether it has one or more than one value. A univariate random variable has only one value for each outcome of a random experiment, while a multivariate random variable has more than one value for each outcome of a random experiment.
+- A univariate random variable can be either scalar or vector, depending on whether it has one or more than one dimension. A scalar random variable has only one dimension, such as 3, 5, 7, etc. A vector random variable has more than one dimension, such as (3, 4), (5, 6), (7, 8), etc.
+- A multivariate random variable can be either matrix or tensor, depending on whether it has two or more than two dimensions. A matrix random variable has two dimensions, such as [[1, 2], [3, 4]], [[5, 6], [7, 8]], etc. A tensor random variable has more than two dimensions, such as [[[1, 2], [3, 4]], [[5, 6], [7, 8]]], [[[9, 10], [11, 12]], [[13, 14], [15, 16]]], etc.

@@ -1,0 +1,10 @@
+# Component for the notes of the Unit 2 - Basic Structural Modeling in the subject of Object Oriented System Design
+
+- Basic structural modeling is the process of identifying and organizing the objects and classes that constitute the system under development or analysis.
+- Basic structural modeling involves the following concepts and diagrams   :
+  - **Object**: An object is an entity that has a state, behavior, and identity. An object is an instance of a class. Objects can communicate with each other by sending and receiving messages.
+  - **Class**: A class is a blueprint or template that defines the common attributes and methods of a group of objects. A class can have relationships with other classes, such as inheritance, association, aggregation, or composition.
+  - **Class diagram**: A class diagram is a graphical representation of the classes and their relationships in a system. A class diagram shows the attributes, methods, and visibility of each class, as well as the multiplicity, role, and navigation of the associations between classes.
+  - **Object diagram**: An object diagram is a graphical representation of the objects and their links in a system at a specific point in time. An object diagram shows the values, states, and identities of the objects, as well as the links that represent the associations between objects.
+  - **Package**: A package is a grouping of related classes and objects that share a common namespace and purpose. A package can contain other packages, classes, or objects. A package can be represented by a tabbed folder icon with a name and an optional stereotype.
+  - **Package diagram**: A package diagram is a graphical representation of the packages and their dependencies in a system. A package diagram shows the structure and organization of the system in terms of logical units of functionality. A package diagram can also show the visibility and accessibility of the elements within a package.

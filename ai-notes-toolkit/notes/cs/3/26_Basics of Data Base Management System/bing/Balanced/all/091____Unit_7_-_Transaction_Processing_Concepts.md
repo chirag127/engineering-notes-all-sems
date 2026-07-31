@@ -1,0 +1,24 @@
+## Unit 7 - Transaction Processing Concepts
+
+- A transaction is a logical unit of work that represents a real-world event of interest to a business or an organization.
+- A transaction processing system (TPS) is a software system that supports the execution of transactions and ensures their correctness, consistency, durability, and availability.
+- The main characteristics of a transaction are atomicity, consistency, isolation, and durability (ACID).
+  - Atomicity means that a transaction either completes all its operations or none of them.
+  - Consistency means that a transaction preserves the integrity and validity of the data.
+  - Isolation means that a transaction does not interfere with other concurrent transactions.
+  - Durability means that the effects of a transaction are permanent and survive any system failures.
+- The main components of a TPS are the transaction manager, the scheduler, the recovery manager, and the data manager.
+  - The transaction manager is responsible for initiating, coordinating, and terminating transactions.
+  - The scheduler is responsible for controlling the order and concurrency of transactions.
+  - The recovery manager is responsible for restoring the system to a consistent state in case of failures.
+  - The data manager is responsible for accessing and manipulating the data stored in the database or other data sources.
+- The main types of failures that can affect a TPS are transaction failures, system failures, media failures, and network failures.
+  - Transaction failures are caused by logical errors, such as division by zero, or by user aborts.
+  - System failures are caused by hardware or software malfunctions, such as power outages, memory errors, or bugs.
+  - Media failures are caused by physical damage to the storage devices, such as disk crashes, fire, or flood.
+  - Network failures are caused by communication problems, such as broken links, congestion, or security breaches.
+- The main techniques for ensuring the reliability and availability of a TPS are logging, checkpointing, backup, and replication.
+  - Logging is the process of recording the changes made by transactions to the data in a separate file called the log.
+  - Checkpointing is the process of periodically saving the state of the system to a stable storage device.
+  - Backup is the process of copying the data from the primary storage device to a secondary storage device for recovery purposes.
+  - Replication is the process of maintaining multiple copies of the data on different storage devices or servers for fault tolerance and load balancing purposes.

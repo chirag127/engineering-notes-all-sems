@@ -1,0 +1,37 @@
+# Java Server Pages Overview
+
+- Java Server Pages (JSP) is a technology that allows developers to create dynamic web pages using a combination of HTML, XML, and Java code   .
+- JSP pages are executed on a web server, and the resulting output is sent to the client's web browser.
+- JSP is built on top of Java Servlets, which are Java classes that handle HTTP requests and responses.
+- JSP pages can contain static HTML or XML elements, as well as JSP actions and commands that are processed by the JSP engine.
+- JSP actions and commands are enclosed in special tags that start with `<%` and end with `%>`.
+- JSP actions and commands can perform various tasks, such as:
+  - Declaring and initializing variables and methods using `<%! ... %>`.
+  - Inserting Java expressions that are evaluated and inserted into the output using `<%= ... %>`.
+  - Including other files or resources using `<%@ include ... %>` or `<jsp:include ... />`.
+  - Forwarding the request to another resource using `<%@ forward ... %>` or `<jsp:forward ... />`.
+  - Creating and using JavaBeans components using `<jsp:useBean ... />`, `<jsp:setProperty ... />`, and `<jsp:getProperty ... />`.
+  - Implementing custom tags using `<%@ taglib ... %>` and `<jsp:doBody ... />`.
+- JSP pages can also use JSP directives, which are instructions to the JSP engine that affect the overall structure and behavior of the page.
+- JSP directives are enclosed in special tags that start with `<%@` and end with `%>`.
+- JSP directives can perform various tasks, such as:
+  - Specifying the page attributes, such as language, contentType, buffer, session, etc. using `<%@ page ... %>`.
+  - Importing Java packages or classes using `<%@ import ... %>`.
+  - Defining error pages or exception handlers using `<%@ errorPage ... %>` or `<%@ isErrorPage ... %>`.
+- JSP pages can also use JSP comments, which are ignored by the JSP engine and not included in the output.
+- JSP comments are enclosed in special tags that start with `<%--` and end with `--%>`.
+- JSP pages can also use HTML comments, which are included in the output but not displayed by the web browser.
+- HTML comments are enclosed in special tags that start with `<!--` and end with `-->`.
+- JSP pages can also use JSP expressions, which are shorthand for JSP actions that insert Java expressions into the output.
+- JSP expressions are enclosed in special tags that start with `${` and end with `}`.
+- JSP expressions can use various operators, such as arithmetic, relational, logical, etc. as well as access JavaBeans properties, collections, arrays, etc..
+- JSP pages can also use JSP scriptlets, which are blocks of Java code that are executed by the JSP engine.
+- JSP scriptlets are enclosed in special tags that start with `<%` and end with `%>`.
+- JSP scriptlets can use various Java statements, such as declarations, assignments, loops, conditionals, etc. as well as access request, response, session, application, and pageContext objects.
+- JSP pages can also use JSP declarations, which are blocks of Java code that are executed once when the JSP page is loaded.
+- JSP declarations are enclosed in special tags that start with `<%!` and end with `%>`.
+- JSP declarations can be used to declare and initialize variables and methods that are accessible throughout the JSP page.
+- JSP pages can also use JSP standard actions, which are predefined tags that perform common tasks.
+- JSP standard actions are enclosed in special tags that start with `<jsp:` and end with `/>`.
+- JSP standard actions can perform various tasks, such as:
+  - Including other files or resources using `<jsp:include page="..." />`[^4

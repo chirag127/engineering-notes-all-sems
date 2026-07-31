@@ -1,0 +1,10 @@
+### Flow control and retransmission for the notes of the Unit 6 - Transport Layer in the subject of Computer Networks
+
+- The transport layer is the fourth layer of the OSI model that ensures the reliable delivery of messages across a network.
+- The transport layer performs the following functions    :
+  - Packetization: The transport layer divides the application messages into smaller segments and adds a header to each segment with a sequence number and other information.
+  - Flow control: The transport layer regulates the rate of data transmission between the sender and the receiver to prevent buffer overflow or underflow. The transport layer can use techniques such as sliding window, stop-and-wait, or backpressure to achieve flow control.
+  - Error control: The transport layer detects and corrects errors in the data segments by using checksums, acknowledgments, and timers. The transport layer can request retransmission of corrupted or lost segments to ensure reliable delivery.
+  - Multiplexing and demultiplexing: The transport layer can handle multiple connections from different applications by using port numbers to identify the source and destination processes. The transport layer can also combine data from different sources into a single stream or split a stream into multiple segments.
+  - Congestion control: The transport layer can adapt to the network conditions and avoid sending more data than the network can handle. The transport layer can use techniques such as slow start, congestion avoidance, or congestion recovery to control congestion.
+- The transport layer protocols are implemented in the end systems but not in the network routers. The transport layer provides different protocols to the network applications, such as TCP and UDP, that offer different levels of reliability, efficiency, and functionality.

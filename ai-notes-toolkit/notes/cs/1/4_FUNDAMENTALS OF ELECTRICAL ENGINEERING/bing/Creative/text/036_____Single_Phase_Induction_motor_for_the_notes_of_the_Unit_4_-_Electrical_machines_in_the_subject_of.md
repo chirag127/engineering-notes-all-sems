@@ -1,0 +1,22 @@
+### Single Phase Induction Motor
+
+- A single phase induction motor is a type of AC motor that operates on single phase power supply .
+- It has a stator with distributed single phase winding and a rotor with a cage winding .
+- The stator produces a pulsating magnetic field that does not rotate, and the rotor is not electrically connected to the stator .
+- The single phase induction motor has no starting torque, as there is no net torque acting on the rotor when it is stationary .
+- To make the single phase induction motor self-starting, various methods are used to create a rotating magnetic field at least at starting, such as:
+  - Split-phase method: The stator has two windings, a main winding and an auxiliary winding, with different resistances and inductances. The auxiliary winding is connected in series with a capacitor and a switch. The capacitor creates a phase difference between the currents in the two windings, resulting in a rotating magnetic field. The switch disconnects the auxiliary winding after the motor reaches a certain speed.
+  - Permanent-split capacitor method: The stator has two windings, a main winding and an auxiliary winding, with different resistances and inductances. The auxiliary winding is permanently connected in series with a capacitor. The capacitor creates a phase difference between the currents in the two windings, resulting in a rotating magnetic field. This method eliminates the need for a switch, but has lower starting torque than the split-phase method.
+  - Capacitor-start capacitor-run method: The stator has two windings, a main winding and an auxiliary winding, with different resistances and inductances. The auxiliary winding is connected in series with two capacitors, one for starting and one for running. The starting capacitor creates a large phase difference between the currents in the two windings, resulting in a high starting torque. The running capacitor creates a smaller phase difference, resulting in a higher efficiency and power factor. The starting capacitor is disconnected by a switch after the motor reaches a certain speed.
+  - Shaded-pole method: The stator has a single winding with salient poles. Each pole has a copper ring or band around a part of it, called the shaded pole. The shaded pole creates a phase difference between the fluxes in the shaded and unshaded parts of the pole, resulting in a rotating magnetic field. This method has low starting torque and efficiency, but is simple and cheap.
+- The single phase induction motor has the following advantages and disadvantages:
+  - Advantages:
+    - Simple and cheap construction
+    - Easy to maintain and repair
+    - High reliability and durability
+    - Suitable for low power and variable load applications
+  - Disadvantages:
+    - Low starting torque and power factor
+    - Low efficiency and speed regulation
+    - Requires additional devices for starting
+    - Generates more noise and vibration

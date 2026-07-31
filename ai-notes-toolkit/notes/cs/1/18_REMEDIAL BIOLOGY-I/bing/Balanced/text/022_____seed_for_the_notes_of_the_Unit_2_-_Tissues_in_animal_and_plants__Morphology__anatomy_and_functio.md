@@ -1,0 +1,32 @@
+### Unit 2 - Tissues in animal and plants, Morphology, anatomy and functions of different parts of plants: Root, stem, leaf, inflorescence, flower, fruit and seed.
+
+- Tissues are groups of cells that have a similar structure and function in a multicellular organism.
+- Tissues are classified into two main types: animal tissues and plant tissues .
+- Animal tissues are further divided into four main types: epithelial, connective, muscle and nervous tissues  .
+- Plant tissues are further divided into two main types: meristematic and permanent tissues.
+- Meristematic tissues are composed of actively dividing cells that are responsible for the growth of the plant.
+- Permanent tissues are composed of mature cells that have a specific function and shape.
+- Permanent tissues are further classified into three main types: simple, complex and special tissues.
+- Simple tissues are composed of one type of cells that perform a common function, such as parenchyma, collenchyma and sclerenchyma.
+- Complex tissues are composed of more than one type of cells that work together to perform a specific function, such as xylem and phloem.
+- Special tissues are composed of cells that have a specialized structure or function, such as secretory tissues, epidermis and cork.
+- Morphology is the study of the external form and structure of plants.
+- Anatomy is the study of the internal structure and organization of plants.
+- The main parts of a plant are the root, stem, leaf, inflorescence, flower, fruit and seed.
+- The root is the part of the plant that anchors it to the soil and absorbs water and minerals from the soil.
+- The stem is the part of the plant that supports the leaves, flowers and fruits and conducts water and nutrients throughout the plant.
+- The leaf is the part of the plant that is the main site of photosynthesis and transpiration.
+- The inflorescence is the part of the plant that is a group or cluster of flowers arranged on a stem.
+- The flower is the part of the plant that is the reproductive organ and consists of four main parts: sepals, petals, stamens and carpels.
+- The fruit is the part of the plant that is the mature ovary that contains the seeds.
+- The seed is the part of the plant that is the fertilized ovule that contains the embryo and the endosperm.
+- The functions of different parts of plants vary depending on their structure and location.
+- Some of the functions of different parts of plants are:
+
+  - The root functions to anchor the plant, absorb water and minerals, store food and hormones, and produce secondary roots.
+  - The stem functions to support the plant, transport water and nutrients, store food and water, and produce buds and branches.
+  - The leaf functions to photosynthesize, transpire, exchange gases, and regulate temperature and water loss.
+  - The inflorescence functions to attract pollinators, display flowers, and protect the flowers from environmental stress.
+  - The flower functions to produce gametes, facilitate pollination, and form fruits and seeds.
+  - The fruit functions to protect the seeds, disperse the seeds, and attract seed dispersers.
+  - The seed functions to germinate, produce a new plant, and store food and hormones.

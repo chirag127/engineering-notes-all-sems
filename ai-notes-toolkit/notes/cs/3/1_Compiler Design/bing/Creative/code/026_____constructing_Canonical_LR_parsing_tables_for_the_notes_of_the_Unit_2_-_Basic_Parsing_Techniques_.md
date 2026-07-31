@@ -1,0 +1,28 @@
+# Constructing Canonical LR Parsing Tables
+
+- Canonical LR parsing is a technique for constructing bottom-up parsers for context-free grammars.
+- Canonical LR parsing uses the canonical collection of LR(1) items to construct the parsing table.
+- LR(1) items are augmented productions of the grammar with a lookahead symbol that indicates the possible next input symbol after the production is applied.
+- The canonical collection of LR(1) items is a set of sets of LR(1) items, where each set represents a possible state of the parser.
+- The canonical collection of LR(1) items can be constructed by applying two operations: closure and goto.
+- Closure(I) is the operation that adds all the LR(1) items that can be derived from the items in I by expanding the nonterminals after the dot.
+- Goto(I, X) is the operation that moves the dot over the symbol X in the items in I, and returns the closure of the resulting set of items.
+- The canonical collection of LR(1) items can be obtained by starting with the closure of the augmented grammar's start symbol, and applying goto recursively on all the symbols that appear after the dot in the items.
+- The canonical LR parsing table has two components: the action table and the goto table.
+- The action table maps each state and terminal symbol to one of the following actions: shift, reduce, accept, or error.
+- The goto table maps each state and nonterminal symbol to another state.
+- The action table can be constructed by following these rules:
+  - If [A -> α.Xβ, a] is an item in Ii, and Goto(Ii, X) = Ij, then set action[i, X] to shift j.
+  - If [A -> α., a] is an item in Ii, then set action[i, a] to reduce A -> α, for all a in the lookahead set of the item.
+  - If [S' -> S., $] is an item in Ii, where S' is the augmented start symbol, then set action[i, $] to accept.
+  - If action[i, a] is undefined for some state i and terminal a, then set it to error.
+- The goto table can be constructed by following this rule:
+  - If Goto(Ii, A) = Ij, then set goto[i, A] to j, for all nonterminals A.
+- The canonical LR parsing table can be used to parse an input string by following these steps:
+  - Initialize a stack with the initial state 0, and a pointer to the beginning of the input string.
+  - Repeat until the action is accept or error:
+    - Let s be the state on top of the stack, and a be the current input symbol.
+    - If action[s, a] is shift t, then push t onto the stack, advance the input pointer, and continue.
+    - If action[s, a] is reduce A -> α, then pop |α| symbols from the stack, let t be the new state on top of the stack, push goto[t, A] onto the stack, and continue without advancing the input pointer.
+    - If action[s, a] is accept, then the input string is accepted and the parse is successful.
+    - If action[s, a] is error, then the input string is rejected and the parse fails.

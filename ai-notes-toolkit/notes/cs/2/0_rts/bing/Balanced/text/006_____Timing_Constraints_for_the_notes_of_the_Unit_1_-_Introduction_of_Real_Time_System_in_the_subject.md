@@ -1,0 +1,21 @@
+### Timing Constraints for the notes of the Unit 1 - Introduction of Real Time System in the subject of Real Time System
+
+- Timing constraints are a vital attribute in real-time systems. They decide the total correctness of the result in real-time systems.
+- The correctness of results in real-time systems does not depend only on logical correctness but also on the result being obtained within the time constraint.
+- Time constraints related with real-time systems mean that there is a time interval allotted for the response of the ongoing program. This deadline means that the task should be completed within this time interval.
+- Real-time systems are responsible for the completion of all tasks within their time intervals.
+- Timing constraints associated with the real-time system are classified to identify the different types of timing constraints in a real-time system. Timing constraints are broadly classified into two categories:
+  - Performance Constraints: The constraints enforced on the response of the system are known as Performance Constraints.
+  - Reliability Constraints: The constraints enforced on the behavior of the system are known as Reliability Constraints.
+- Performance Constraints are further divided into three types:
+  - Delay Constraint: A delay constraint describes the minimum time interval between the occurrence of two consecutive events.
+  - Deadline Constraint: A deadline constraint describes the maximum time interval between the occurrence of two consecutive events.
+  - Duration Constraint: A duration constraint describes the maximum or minimum time interval for which an event should occur or a condition should hold.
+- Reliability Constraints are further divided into two types:
+  - Synchronization Constraint: A synchronization constraint describes the order or precedence of events or conditions in the system.
+  - Consistency Constraint: A consistency constraint describes the relationship or dependency of events or conditions in the system.
+- Timing constraints can be expressed using various constructs in requirements languages, such as temporal logic, interval logic, or graphical notations.
+- Timing constraints can be validated using automatic test systems that can measure the actual response time and behavior of the system and compare them with the expected values.
+- For a real-time system to be capable of real-time computing, it must satisfy two requirements:
+  - Timeliness: The ability to produce the expected result by a specific deadline.
+  - Time synchronization: The capability of agents to coordinate independent clocks and operate together in unison.

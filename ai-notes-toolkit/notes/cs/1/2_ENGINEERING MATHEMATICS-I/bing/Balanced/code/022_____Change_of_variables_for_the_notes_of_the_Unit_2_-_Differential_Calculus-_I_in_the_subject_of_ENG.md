@@ -1,0 +1,25 @@
+### Change of variables for the notes of the Unit 2 - Differential Calculus- I in the subject of ENGINEERING MATHEMATICS-I
+
+- Differential calculus is a method which deals with the rate of change of one quantity with respect to another.
+- The rate of change of x with respect to y is expressed as dx/dy, which is also called the derivative of x with respect to y.
+- Sometimes, it is useful to change the variable of a function or a differential equation to simplify the problem or to find a solution.
+- One common technique for changing variables is integration by substitution, also known as u-substitution, reverse chain rule or change of variables.
+- Integration by substitution is a method for evaluating integrals and antiderivatives by replacing the original variable with a new one that is related by a function.
+- The basic idea of integration by substitution is to use the chain rule for differentiation in reverse, that is, if y = f(u) and u = g(x), then dy/dx = f'(u)g'(x) and dy = f'(u)g'(x)dx.
+- To perform integration by substitution, we follow these steps:
+  - Choose a new variable u that is a function of x, such as u = g(x).
+  - Find the derivative of u with respect to x, that is, du/dx = g'(x).
+  - Rewrite the integral in terms of u by replacing x with g^-1^(u) and dx with du/g'(x).
+  - Evaluate the integral in terms of u using the usual rules of integration.
+  - Replace u with g(x) to get the final answer in terms of x.
+- Another technique for changing variables is to use a change of variables theorem, which applies to multivariable functions and integrals.
+- The change of variables theorem states that if f is a continuous function on a region R in the xy-plane, and T is a one-to-one transformation that maps a region S in the uv-plane onto R, then the integral of f over R is equal to the integral of f(T(u,v)) times the absolute value of the Jacobian determinant of T over S.
+- The Jacobian determinant of T is a measure of how the transformation T affects the area of a small region around a point in the uv-plane.
+- The change of variables theorem can be used to simplify the integration of multivariable functions by transforming the region of integration and the integrand into a more convenient form.
+- To perform a change of variables, we follow these steps:
+  - Choose a new variable u and v that are functions of x and y, such as u = g(x,y) and v = h(x,y).
+  - Find the inverse transformation that maps x and y in terms of u and v, such as x = g^-1^(u,v) and y = h^-1^(u,v).
+  - Find the Jacobian determinant of the transformation, that is, J = (dx/du)(dy/dv) - (dx/dv)(dy/du).
+  - Rewrite the integral in terms of u and v by replacing x and y with g^-1^(u,v) and h^-1^(u,v) and dxdy with Jdudv.
+  - Evaluate the integral in terms of u and v using the usual rules of integration.
+  - Replace u and v with g(x,y) and h(x,y) to get the final answer in terms of x and y.

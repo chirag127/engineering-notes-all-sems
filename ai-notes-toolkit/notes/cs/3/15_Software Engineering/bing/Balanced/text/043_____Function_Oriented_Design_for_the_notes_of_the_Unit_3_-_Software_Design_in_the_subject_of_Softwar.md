@@ -1,0 +1,21 @@
+### Function Oriented Design
+
+- Function Oriented Design is an approach to software design where the design is decomposed into a set of interacting units or modules where each unit or module has a clearly defined function.
+- The main focus of Function Oriented Design is on the functions or operations that the software performs, rather than the data or information that the software manipulates.
+- Function Oriented Design is based on the principle of top-down decomposition, where the software is divided into smaller and simpler sub-problems, and each sub-problem is further divided until it becomes a single function or module.
+- Function Oriented Design uses various design notations and strategies to represent the software design, such as:
+  - Data Flow Diagram (DFD): A graphical representation of the flow of data and functions in the software system.
+  - Data Dictionary: A repository of information about the data items defined in the DFD, such as their names, types, formats, sources, destinations, etc.
+  - Structured English: A textual description of the logic and algorithm of each function or module, using a subset of natural language and some predefined keywords.
+  - Decision Table: A tabular representation of the conditions and actions of each function or module, showing the possible outcomes for different combinations of inputs.
+  - Decision Tree: A graphical representation of the decision logic of each function or module, showing the branching of conditions and actions.
+  - Pseudo Code: A semi-formal notation of the logic and algorithm of each function or module, using a mixture of natural language and programming language syntax.
+- Function Oriented Design has some advantages and disadvantages, such as:
+  - Advantages:
+    - It is easy to understand and implement, as it follows a natural way of problem solving.
+    - It facilitates modularization and reusability of software components, as each function or module can be independently developed and tested.
+    - It supports top-down testing and debugging, as each function or module can be verified and validated separately.
+  - Disadvantages:
+    - It does not consider the data or information aspects of the software system, which may lead to data redundancy and inconsistency.
+    - It does not capture the dynamic behavior or interactions of the software system, which may result in poor performance and scalability.
+    - It does not support object-oriented concepts such as inheritance, polymorphism, and encapsulation, which are essential for modern software development.

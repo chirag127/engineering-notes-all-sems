@@ -1,0 +1,23 @@
+### Multigraphs
+
+- A multigraph is a type of graph that allows multiple edges between two vertices.
+- In a multigraph, two vertices can be connected by more than one edge.
+- A multigraph can be represented using an adjacency matrix, where the entry in the i-th row and j-th column represents the number of edges between vertex i and vertex j.
+- A multigraph can also be represented using an adjacency list, where each vertex has a list of its adjacent vertices.
+- A multigraph can be directed or undirected.
+- A directed multigraph is also known as a quiver.
+- A multigraph can have self-loops, which are edges that connect a vertex to itself.
+- A multigraph can be used to model many real-world situations, such as transportation networks, where there may be multiple routes between two locations.
+- A multigraph can be weighted, where each edge is assigned a weight representing the cost or distance of the edge.
+- A weighted multigraph can be used to find the shortest path between two vertices, using algorithms such as Dijkstra's algorithm or the Floyd-Warshall algorithm.
+- A multigraph can be converted into a simple graph by replacing multiple edges between two vertices with a single edge.
+- A multigraph can be traversed using depth-first search or breadth-first search, similar to a simple graph.
+- A multigraph can have cycles, which are paths that start and end at the same vertex.
+- A multigraph can be acyclic, which means it does not have any cycles.
+- An acyclic multigraph is also known as a forest.
+- A multigraph can be connected, which means there is a path between any two vertices.
+- A multigraph can be disconnected, which means there is no path between some pairs of vertices.
+- A multigraph can be complete, which means there is an edge between every pair of vertices.
+- A complete multigraph is also known as a complete k-partite graph, where k is the number of vertices.
+- A multigraph can be bipartite, which means its vertices can be divided into two disjoint sets such that all edges connect vertices from one set to vertices from the other set.
+- A bipartite multigraph is also known as a bigraph.

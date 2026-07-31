@@ -1,0 +1,10 @@
+### Information Extraction
+
+- Information extraction (IE) is the task of automatically extracting structured information from unstructured and/or semi-structured machine-readable documents and other electronically represented sources.
+- IE is a subfield of artificial intelligence (AI) that aims to mimic the human ability to analyze data and extract relevant information.
+- IE can improve the efficiency of the workflow in a variety of settings, such as business, healthcare, education, and research, by reducing manual effort, increasing accuracy, and enabling faster decision making .
+- IE can be performed using different methodologies, such as rule-based, statistical, and hybrid methods.
+  - Rule-based methods use specific rules for extracting the text out of a given document. The rules can be based on syntax, semantics, or domain knowledge. Rule-based methods are easy to implement and interpret, but they require a lot of manual effort to create and maintain the rules, and they may not generalize well to new or unseen data.
+  - Statistical methods use machine learning algorithms to learn from labeled or unlabeled data and extract information based on probabilistic models. Statistical methods can handle noisy, ambiguous, and incomplete data, and they can adapt to new or unseen data, but they require a lot of computational resources and data to train and evaluate the models, and they may not be transparent or interpretable.
+  - Hybrid methods combine rule-based and statistical methods to leverage the advantages of both approaches. Hybrid methods can use rules to guide or constrain the learning process, or use learning to generate or refine the rules. Hybrid methods can achieve higher accuracy and robustness than either of the individual methods, but they may also inherit the limitations and challenges of both methods.
+- IE can be applied to different types of data and information, such as named entities, relations, events, facts, opinions, and sentiments. IE can also be used for different purposes, such as information retrieval, information integration, information summarization, question answering, and knowledge base construction.

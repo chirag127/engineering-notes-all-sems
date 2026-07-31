@@ -1,0 +1,21 @@
+### MCB for the notes of the Unit 5 - Electrical Installations in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+
+- MCB stands for **Miniature Circuit Breaker**, an electrical switch that automatically switches off the electrical circuit during an abnormal condition of the network, such as overload or short circuit  .
+- MCBs are protective devices that break the circuit in case of excess current and prevent damage to the electrical circuit and equipment .
+- MCBs are more reliable, sensitive, and convenient than fuses, which have to be replaced after each operation .
+- MCBs have two methods of circuit interruption: a thermal mechanism and a magnetic mechanism.
+  - The thermal mechanism, usually a bi-metallic strip, provides protection against moderate overcurrent. The heating action of the current causes the bi-metallic strip to curve and break circuit contact .
+  - The magnetic mechanism, usually an electromagnet, provides protection against short circuit. The high current produces a strong magnetic field that attracts the movable contact and breaks the circuit .
+- MCBs have different types based on their tripping characteristics, such as B, C, D, and K .
+  - Type B MCBs trip between 3 and 5 times the full load current and are suitable for resistive or small inductive loads, such as lighting and domestic appliances .
+  - Type C MCBs trip between 5 and 10 times the full load current and are suitable for moderate inductive loads, such as motors and fluorescent lights .
+  - Type D MCBs trip between 10 and 20 times the full load current and are suitable for high inductive loads, such as transformers and X-ray machines .
+  - Type K MCBs trip between 8 and 12 times the full load current and are suitable for high inrush current loads, such as welding machines and UPS systems.
+- MCBs are rated for amperes, voltage, and short-circuit or fault-current interruption.
+  - The ampere rating indicates the maximum current that the MCB can carry without tripping.
+  - The voltage rating indicates the maximum voltage that the MCB can safely interrupt.
+  - The short-circuit or fault-current rating indicates the maximum current that the MCB can interrupt without damage.
+- MCBs are installed in low-voltage electrical networks, such as residences, small businesses, and offices.
+  - MCBs are usually mounted on a DIN rail in a distribution board or panel board.
+  - MCBs have a toggle switch that can be manually operated to switch on or off the circuit.
+  - MCBs have a trip indicator that shows the status of the circuit: ON, OFF, or TRIPPED.

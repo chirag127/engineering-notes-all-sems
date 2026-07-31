@@ -1,0 +1,22 @@
+# Evolution of script in India
+
+- A script is a written symbolisation of speech. It is a collection of characters used to write one or more languages.
+- India has a long history of writing, dating back to the Indus Valley Civilization (c. 2500-1900 BCE), which used a pictographic script known as the Indus script.
+- The most influential script in India's history is the Brahmi script, which was used to write the edicts of Emperor Ashoka (c. 3rd century BCE) and the ancient Buddhist and Jain texts .
+- The Brahmi script is the ancestor of most modern Indian scripts, as well as the scripts of Sri Lanka, Tibet, Southeast Asia, and some parts of Central Asia .
+- The Brahmi script evolved into different regional variants over time, depending on the linguistic, cultural, and political factors. Some of the major variants are :
+  - Kharosthi: used in the northwest of India, especially in Gandhara and Bactria, from the 3rd century BCE to the 4th century CE. It was derived from the Aramaic script and written from right to left.
+  - Gupta: used in the north and central India, especially during the Gupta Empire (c. 4th-6th century CE). It was a more refined and elegant form of Brahmi, and the basis of the Nagari script.
+  - Nagari: used in the north and west of India, especially in the medieval period. It was a more angular and vertical form of Gupta, and the precursor of the Devanagari script.
+  - Siddhamatrika: used in the east and northeast of India, especially in Bengal and Bihar, from the 6th to the 12th century CE. It was a more rounded and horizontal form of Gupta, and the ancestor of the Bengali and Tibetan scripts.
+  - Grantha: used in the south of India, especially in Tamil Nadu and Kerala, from the 6th to the 19th century CE. It was a more complex and ornate form of Brahmi, and the source of the Tamil and Malayalam scripts.
+  - Vatteluttu: used in the south of India, especially in Tamil Nadu and Kerala, from the 8th to the 16th century CE. It was a more simplified and curved form of Grantha, and the origin of the Sinhala script.
+- Due to the use of different writing materials, such as palm leaves, birch bark, stone, metal, and paper, the scripts of India also developed different styles and features, such as rounded shapes, diacritical marks, conjunct consonants, and vowel signs  .
+- The modern scripts of India are mostly derived from the Nagari, Siddhamatrika, Grantha, and Vatteluttu scripts, with some influences from the Persian and Arabic scripts. Some of the major modern scripts are :
+  - Devanagari: used to write Hindi, Sanskrit, Marathi, Nepali, and other languages. It is the most widely used script in India and the official script of the Indian government.
+  - Bengali: used to write Bengali, Assamese, Manipuri, and other languages. It is the second most widely used script in India and the official script of Bangladesh and some Indian states.
+  - Tamil: used to write Tamil, Badaga, Irula, and other languages. It is the oldest and most conservative script in India, retaining many features of the ancient Brahmi script.
+  - Malayalam: used to write Malayalam, Sanskrit, and other languages. It is the youngest and most complex script in India, having developed from the Grantha script in the 16th century CE.
+  - Telugu: used to write Telugu, Sanskrit, and other languages. It is the most rounded and fluid script in India, having developed from the Vatteluttu script.
+  - Kannada: used to write Kannada, Tulu, Konkani, and other languages. It is the most angular and geometric script in India, having developed from the Grantha script.
+  - Gurmukhi: used to write Punjabi, Sindhi, and other languages. It is the most distinctive script in India, having developed from the Siddhamatrika script under the influence

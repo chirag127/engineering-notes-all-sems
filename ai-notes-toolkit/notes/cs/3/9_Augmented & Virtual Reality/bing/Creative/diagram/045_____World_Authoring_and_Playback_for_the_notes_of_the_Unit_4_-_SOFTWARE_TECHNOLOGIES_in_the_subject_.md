@@ -1,0 +1,12 @@
+### World Authoring and Playback
+
+- World authoring and playback are the processes of creating and experiencing virtual and augmented reality content.
+- Virtual reality (VR) is a simulated experience, where a scenario is replicated in a digital environment and where users are able to interact with that virtual world using computer-based objects.
+- Augmented reality (AR) is a view of the real world in which computer-generated content is laid on top of the real world to augment the world with additional information or metadata such as sound, graphics, GPS data, and textual displays.
+- World authoring and playback can be used for various purposes, such as education, entertainment, training, simulation, and social interaction.
+- World authoring and playback require different tools and techniques, depending on the type and complexity of the content, the target platform and device, and the user preferences and needs.
+- Some of the common tools and techniques for world authoring and playback are:
+
+  - E-learning authoring tools: These are software applications that help develop AR and VR content for educational purposes. They provide an intuitive user interface, hotspots, markers, interactives, and 360° media assets that help create immersive learning experiences. Some examples of e-learning authoring tools are Adobe Captivate, Lectora, and Articulate Storyline.
+  - Event-based interaction module: This is a technique that simplifies the authoring and editing process of virtual and augmented contents by using events as the basic unit of interaction. Events are defined as changes in the state of the virtual or augmented world that trigger actions or responses from the system or the user. Events can be created, edited, and deleted by the user in real time, using a graphical user interface or natural language commands. An example of an event-based interaction module is Authoring-By-Doing, which is a prototype system developed for industrial scenarios.
+  - Game engines: These are software frameworks that provide the core functionality for creating and running video games, which can also be used for creating and running VR and AR content. They offer features such as rendering, physics, animation, sound, scripting, and networking, as well as tools for designing, testing, and debugging. Some examples of game engines are Unity, Unreal Engine, and Godot.

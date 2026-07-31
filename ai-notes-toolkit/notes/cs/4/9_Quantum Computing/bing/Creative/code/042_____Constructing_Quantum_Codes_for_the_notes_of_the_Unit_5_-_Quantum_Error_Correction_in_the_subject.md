@@ -1,0 +1,11 @@
+### Constructing Quantum Codes
+
+Quantum codes are methods of encoding quantum information in such a way that errors caused by noise or decoherence can be detected and corrected. Quantum codes are essential for reliable quantum computation and communication.
+
+There are several ways of constructing quantum codes from classical codes or other mathematical structures. Some of the most common methods are:
+
+- **CSS construction**: This method, named after Calderbank, Shor and Steane, uses a pair of classical linear codes C and C⊥ that satisfy C ⊆ C⊥. The quantum code Q is obtained by encoding each qubit of the quantum information in a codeword of C, and then applying a Hadamard transform to each qubit. The resulting code Q has the property that X errors can be corrected by using C, and Z errors can be corrected by using C⊥. Many quantum codes, such as the Shor code, the Steane code and the toric code, are based on this construction   .
+
+- **Stabilizer construction**: This method uses a subgroup of the Pauli group, called the stabilizer group, to define the quantum code Q. The stabilizer group S is a set of commuting Pauli operators that leave the codewords of Q invariant. The codewords of Q are the simultaneous eigenvectors of S with eigenvalue +1. The stabilizer group S also determines the error syndrome, which is a set of binary numbers that indicate which errors have occurred on the qubits. The stabilizer construction is a generalization of the CSS construction, and can be used to construct quantum codes from classical codes that are not necessarily linear or self-orthogonal .
+
+- **Quantum spherical codes**: This method uses classical spherical codes, which are sets of unit vectors in a Euclidean space that are as far apart as possible, to construct quantum codes defined on spheres. The quantum spherical codes are obtained by mapping the classical spherical codes to coherent states of bosonic modes, and then applying a displacement operator to each mode. The resulting quantum codes have the property that they can correct both phase and amplitude errors, and can outperform previous constructions of bosonic codes.

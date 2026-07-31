@@ -1,0 +1,23 @@
+### AMQP
+
+- AMQP stands for **Advanced Message Queuing Protocol**.
+- It is an **open standard**, **binary** application layer protocol designed for **message-oriented middleware**.
+- It enables **encrypted** and **interoperable** messaging between **organizations** and **applications**.
+- It is used in **client/server messaging** and in **IoT device management**.
+- It has **reliable**, **secure**, **interoperable**, **open**, and **standard** properties, along with **low overhead** characteristics, making it a good solution for **IoT applications**.
+- It supports **publish/subscribe**, **point-to-point**, and **request/response** messaging patterns.
+- It defines a **wire-level protocol** that allows **interoperability** between different **vendors** and **platforms**.
+- It consists of the following components:
+  - **Producers**: The entities that send messages to a **broker**.
+  - **Brokers**: The entities that receive messages from **producers** and route them to **consumers** based on **exchanges** and **queues**.
+  - **Consumers**: The entities that receive messages from a **broker**.
+  - **Exchanges**: The entities that route messages to **queues** based on **bindings** and **routing keys**.
+  - **Queues**: The entities that store messages until they are consumed by **consumers**.
+  - **Bindings**: The rules that define how messages are routed from **exchanges** to **queues**.
+  - **Routing keys**: The attributes that are used to match messages with **bindings**.
+- It supports two types of authentication for connecting to an **IoT hub**:
+  - **Claims-based security (CBS)**: A mechanism that allows a client to obtain a **token** from a **token provider** and present it to the **broker** for authorization.
+  - **Simple Authentication and Security Layer (SASL)**: A mechanism that allows a client to authenticate with the **broker** using a **shared access signature (SAS)**.
+- It supports two types of communication modes for **device-side communications**:
+  - **AMQP**: A mode that uses the standard AMQP protocol over TCP port 5671.
+  - **AMQP over WebSockets**: A mode that uses the AMQP protocol over WebSockets over TCP port 443.

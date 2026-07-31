@@ -1,0 +1,21 @@
+### Structure and function of cells
+
+- A cell is the basic structural and functional unit of a living organism.
+- Cells can be classified into two major types: prokaryotic and eukaryotic.
+- Prokaryotic cells are cells that lack a nucleus and other membrane-bound organelles. They are usually unicellular and have a simple structure. Examples of prokaryotes are bacteria and archaea.
+- Eukaryotic cells are cells that have a nucleus and other membrane-bound organelles. They are usually multicellular and have a complex structure. Examples of eukaryotes are animals, plants, fungi, and protists.
+- The size, shape, and arrangement of bacterial cells vary depending on the species and environmental conditions. Some common shapes of bacteria are cocci (spherical), bacilli (rod-shaped), and spirilla (spiral-shaped). Some bacteria form clusters, chains, or filaments.
+- The structure and function of cells are determined by the components that make up the cell. These components include the cell membrane, the cytoplasm, and the organelles.
+- The cell membrane is a thin layer of phospholipids and proteins that surrounds the cell and regulates the movement of substances in and out of the cell. It also maintains the cell's shape and communicates with other cells.
+- The cytoplasm is a jelly-like substance that fills the cell and contains the organelles and other molecules. It provides a medium for chemical reactions and transports materials within the cell.
+- The organelles are specialized structures that perform specific functions in the cell. Some common organelles are the nucleus, the mitochondria, the ribosomes, the endoplasmic reticulum, the Golgi apparatus, the lysosomes, the vacuoles, the chloroplasts, and the cytoskeleton .
+- The nucleus is the control center of the cell. It contains the genetic material (DNA) that directs the cell's activities and is surrounded by a nuclear envelope.
+- The mitochondria are the powerhouses of the cell. They convert the energy from food into a usable form (ATP) through cellular respiration. They have a double membrane and their own DNA.
+- The ribosomes are the protein factories of the cell. They synthesize proteins from amino acids using the information from mRNA. They can be found in the cytoplasm or attached to the endoplasmic reticulum.
+- The endoplasmic reticulum is a network of membranes that transports and modifies proteins and lipids. It can be smooth (without ribosomes) or rough (with ribosomes).
+- The Golgi apparatus is a stack of flattened membranes that sorts and packages proteins and lipids for export or storage. It also modifies some molecules by adding sugars or other groups.
+- The lysosomes are the garbage disposals of the cell. They contain digestive enzymes that break down waste materials and foreign invaders. They can fuse with vacuoles or phagosomes to digest their contents.
+- The vacuoles are the storage tanks of the cell. They store water, nutrients, waste products, or other substances. They can also help maintain the cell's shape and pressure.
+- The chloroplasts are the solar panels of the cell. They capture light energy and convert it into chemical energy (glucose) through photosynthesis. They have a double membrane and their own DNA.
+- The cytoskeleton is the skeleton of the cell. It is composed of protein filaments that provide support, shape, and movement to the cell and its organelles. It includes microtubules, microfilaments, and intermediate filaments.
+- The structure and function of cells are interrelated and essential for life. Cells are the basic units of life that carry out all the metabolic processes associated with life.

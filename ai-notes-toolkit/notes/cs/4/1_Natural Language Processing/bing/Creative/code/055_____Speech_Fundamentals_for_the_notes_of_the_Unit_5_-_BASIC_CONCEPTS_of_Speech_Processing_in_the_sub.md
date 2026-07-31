@@ -1,0 +1,12 @@
+### Speech Fundamentals
+
+- Speech is the natural mode of communication for humans, and it involves the production and perception of sounds that convey meaning.
+- Speech processing is the field of study that deals with the analysis, synthesis, recognition, and understanding of speech signals by machines.
+- Speech processing is a subfield of natural language processing (NLP), which is the branch of artificial intelligence that aims to enable computers to understand and generate natural language texts and speech.
+- Speech processing has many applications, such as speech recognition, speech synthesis, speech translation, speech enhancement, speech coding, speech emotion recognition, speaker identification, and speech summarization.
+- Speech processing involves several challenges, such as the variability and ambiguity of speech signals, the complexity and diversity of natural languages, the noise and distortion of speech channels, and the limitations and requirements of speech systems.
+- Speech processing relies on various techniques and models from different disciplines, such as linguistics, mathematics, statistics, signal processing, machine learning, and computer science.
+- Speech processing can be divided into three main levels: acoustic, phonetic, and linguistic.
+  - Acoustic level: This level deals with the physical properties and representation of speech signals, such as frequency, amplitude, spectrum, and waveform. Acoustic analysis involves extracting features from speech signals, such as pitch, energy, and spectral coefficients. Acoustic synthesis involves generating speech signals from features or parameters, such as formants, vocoders, and concatenative synthesis.
+  - Phonetic level: This level deals with the basic units and rules of speech sounds, such as phonemes, allophones, syllables, and prosody. Phonetic analysis involves identifying and labeling the speech sounds in a given signal, such as using hidden Markov models, neural networks, or decision trees. Phonetic synthesis involves generating speech sounds from phonetic symbols or rules, such as using articulatory, acoustic, or statistical models.
+  - Linguistic level: This level deals with the structure and meaning of natural language, such as words, phrases, sentences, and discourse. Linguistic analysis involves parsing and interpreting the speech input, such as using grammars, lexicons, semantic networks, or ontologies. Linguistic synthesis involves generating natural language output from speech input, such as using templates, rules, or neural networks.

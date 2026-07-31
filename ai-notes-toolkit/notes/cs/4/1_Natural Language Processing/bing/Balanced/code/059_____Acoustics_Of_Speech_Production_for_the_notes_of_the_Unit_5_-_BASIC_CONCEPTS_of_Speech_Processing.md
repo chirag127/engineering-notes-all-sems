@@ -1,0 +1,21 @@
+### Acoustics of Speech Production
+
+- Acoustics of speech production is the study of how speech sounds are generated and modified by the human vocal tract.
+- Speech production involves a source of sound energy (usually the larynx) and a filter (the supralaryngeal vocal tract) that shapes the sound spectrum.
+- The source of sound can be either periodic (as in voiced sounds) or aperiodic (as in voiceless sounds) depending on the vibration of the vocal folds.
+- The filter function of the vocal tract depends on the shape and size of the oral and nasal cavities, which are determined by the position of the tongue, lips, jaw, velum, and other articulators.
+- The acoustic characteristics of speech sounds can be described by parameters such as frequency, amplitude, duration, and spectrum.
+- Frequency is the number of cycles per second of a sound wave, measured in hertz (Hz). Frequency determines the pitch of a sound.
+- Amplitude is the magnitude of the displacement of a sound wave, measured in decibels (dB). Amplitude determines the loudness of a sound.
+- Duration is the length of time a sound lasts, measured in seconds or milliseconds. Duration affects the perception of stress and rhythm.
+- Spectrum is the distribution of energy across different frequencies of a sound wave, measured in hertz (Hz) or kilohertz (kHz). Spectrum determines the quality or timbre of a sound.
+- Speech sounds can be classified into different categories based on their acoustic properties, such as vowels, consonants, fricatives, stops, affricates, nasals, liquids, and glides.
+- Vowels are speech sounds that are produced with a relatively open vocal tract and a periodic source of sound. Vowels have a clear formant structure in their spectrum, which reflects the resonant frequencies of the vocal tract.
+- Consonants are speech sounds that are produced with a relatively closed or constricted vocal tract and a periodic or aperiodic source of sound. Consonants have a less clear formant structure in their spectrum, and may have additional features such as noise, aspiration, or voicing.
+- Fricatives are consonants that are produced with a narrow constriction in the vocal tract that creates turbulent airflow and a hissing noise. Fricatives can be voiced or voiceless, and have a high-frequency spectrum.
+- Stops are consonants that are produced with a complete closure in the vocal tract that blocks the airflow and creates a silence. Stops are followed by a burst of air and a transition to a vowel. Stops can be voiced or voiceless, and have a low-frequency spectrum.
+- Affricates are consonants that are produced with a combination of a stop and a fricative. Affricates have a stop-like closure followed by a fricative-like release. Affricates can be voiced or voiceless, and have a mixed spectrum.
+- Nasals are consonants that are produced with a closure in the oral cavity and an open velum that allows the air to escape through the nose. Nasals are always voiced, and have a low-frequency spectrum with a nasal formant.
+- Liquids are consonants that are produced with a partial closure in the vocal tract that allows the air to flow around the tongue. Liquids are always voiced, and have a mid-frequency spectrum with a clear formant structure.
+- Glides are consonants that are produced with a gradual change in the shape of the vocal tract. Glides are always voiced, and have a high-frequency spectrum with a weak formant structure.
+- Acoustics of speech production is important for understanding the nature and variability of speech sounds, as well as for developing speech recognition and synthesis systems .

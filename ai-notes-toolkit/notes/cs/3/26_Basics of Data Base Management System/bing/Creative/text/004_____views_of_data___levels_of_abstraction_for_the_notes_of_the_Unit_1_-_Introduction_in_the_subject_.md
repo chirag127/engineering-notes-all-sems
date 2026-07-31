@@ -1,0 +1,10 @@
+### Views of Data – Levels of Abstraction
+
+- Views of data are the different ways of representing the data in a database system.
+- Views of data help to achieve data abstraction, which is the process of hiding the details of how data is stored and manipulated from the users and applications.
+- Data abstraction also supports data independence, which is the ability to change the data at one level without affecting the data at higher levels.
+- There are three levels of data abstraction in the ANSI/SPARC database architecture :
+  - Physical level: This is the lowest level of data abstraction. It describes how the data is physically stored in the storage devices and the access methods used to retrieve and update the data. It also reveals the data structures and file organizations used to store the data. For example, the physical level may specify that the data is stored in a B+ tree or a hash table, and that it is accessed by sequential or random access methods.
+  - Logical level: This is the middle level of data abstraction. It describes what data is stored in the database and the relationships among the data. It also defines the constraints and integrity rules that apply to the data. It does not specify how the data is stored or accessed. The logical level is usually represented by a conceptual schema, such as an entity-relationship (ER) model or a relational model.
+  - View level: This is the highest level of data abstraction. It describes how the data is seen by the users and applications. It may show only a part of the database that is relevant to a specific user or application. It may also hide some details of the data types and structures. The view level is usually represented by a set of external schemas, such as SQL queries or forms .
+- The three levels of data abstraction provide a clear separation of concerns and responsibilities among the database users, designers, and administrators. They also allow for different levels of security and privacy for the data.

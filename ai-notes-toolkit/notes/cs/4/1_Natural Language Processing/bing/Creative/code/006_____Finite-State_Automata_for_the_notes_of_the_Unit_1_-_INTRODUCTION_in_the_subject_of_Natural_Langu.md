@@ -1,0 +1,10 @@
+# Finite-State Automata for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+
+- Finite-state automata (FSA) are abstract machines that can recognize and generate patterns of symbols, such as strings of characters or words.
+- FSA have a finite number of states, and can change from one state to another based on the input symbol and a transition function.
+- FSA can be deterministic (DFA) or non-deterministic (NFA). DFA have exactly one transition for each input symbol and state, while NFA can have zero, one, or more transitions for each input symbol and state.
+- FSA can be used to model various aspects of natural language, such as morphology, syntax, semantics, and pragmatics.
+- FSA can also be used to implement various natural language processing (NLP) tasks, such as tokenization, stemming, lemmatization, part-of-speech tagging, named entity recognition, parsing, and generation.
+- FSA can be represented graphically as directed graphs, where the nodes are the states and the edges are the transitions. FSA can also be represented algebraically as regular expressions, which are compact and concise ways of describing patterns of symbols.
+- FSA can be composed, minimized, and inverted to create new FSA that perform different functions. FSA can also be extended to finite-state transducers (FST), which can produce an output symbol for each input symbol, or vice versa. FST can be used to model transformations between languages, such as translation, transliteration, and normalization.
+- FSA and FST are efficient and robust methods for natural language processing, as they can handle large and noisy data, and can be implemented using simple and fast algorithms. However, they also have some limitations, such as being unable to capture long-distance dependencies, context-sensitive rules, and recursive structures in natural language.

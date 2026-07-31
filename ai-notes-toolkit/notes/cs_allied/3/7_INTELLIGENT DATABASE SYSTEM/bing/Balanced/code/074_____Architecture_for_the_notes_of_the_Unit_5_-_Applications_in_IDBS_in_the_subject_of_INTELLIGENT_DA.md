@@ -1,0 +1,12 @@
+### Architecture for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+
+- An intelligent database system (IDBS) is a system that combines the capabilities of a database management system (DBMS) and an artificial intelligence (AI) system to provide efficient and effective access, processing and analysis of data.
+- An IDBS can be seen as having three main components: the database engine, the user interface and the high level tools.
+- The database engine is responsible for storing, retrieving and manipulating the data in the database. It can also perform some basic data processing tasks, such as sorting, filtering, indexing and aggregation.
+- The user interface is the component that interacts with the users and allows them to query, update and visualize the data in the database. It can also provide some intelligent features, such as natural language processing, speech recognition, dialogue management and query reformulation.
+- The high level tools are the component that performs more advanced data processing and analysis tasks, such as data mining, machine learning, knowledge discovery, data quality management and data integration. They can also provide some intelligent features, such as recommendation, explanation, prediction and optimization.
+- An IDBS can have various applications in different domains, such as banking, education, health care, e-commerce, social media, etc. Some examples of IDBS applications are :
+  - Banking: An IDBS can manage the transactions, accounts, customers and fraud detection of a bank. It can also provide personalized services, such as financial advice, loan approval and credit scoring.
+  - Education: An IDBS can manage the courses, students, teachers and exams of a university or college. It can also provide adaptive learning, such as personalized feedback, tutoring and assessment.
+  - Health care: An IDBS can manage the records, diagnoses, treatments and prescriptions of patients and doctors. It can also provide intelligent diagnosis, such as symptom analysis, disease prediction and treatment recommendation.
+  - E-commerce: An IDBS can manage the products, customers, orders and reviews of an online store. It can also provide intelligent recommendation, such as product suggestion, price comparison and customer segmentation.

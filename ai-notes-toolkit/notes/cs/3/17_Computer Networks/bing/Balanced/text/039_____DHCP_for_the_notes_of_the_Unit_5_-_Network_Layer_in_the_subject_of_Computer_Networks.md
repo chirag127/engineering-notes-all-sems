@@ -1,0 +1,23 @@
+### DHCP
+
+- DHCP stands for Dynamic Host Configuration Protocol   .
+- It is a network management protocol that automatically assigns IP addresses and other communication parameters to devices connected to an IP network using a client-server architecture   .
+- It is based on the Bootstrap Protocol (BOOTP) and defined by RFCs 2131 and 2132.
+- It reduces the manual configuration and administration of IP hosts and avoids IP address conflicts   .
+- It consists of four main components: DHCP clients, DHCP servers, DHCP relay agents, and DHCP messages.
+- DHCP clients are devices that request IP configuration information from a DHCP server.
+- DHCP servers are devices that maintain a pool of available IP addresses and other configuration parameters and provide them to DHCP clients upon request.
+- DHCP relay agents are devices that forward DHCP messages between DHCP clients and DHCP servers that are not on the same network segment.
+- DHCP messages are the packets that carry the information exchange between DHCP clients and servers.
+- The DHCP process involves four basic steps: discover, offer, request, and acknowledge (DORA)   .
+- Discover: The DHCP client broadcasts a DHCPDISCOVER message to locate a DHCP server   .
+- Offer: The DHCP server responds with a DHCPOFFER message that contains an IP address and other configuration parameters for the DHCP client   .
+- Request: The DHCP client sends a DHCPREQUEST message to accept the offer from the DHCP server   .
+- Acknowledge: The DHCP server sends a DHCPACK message to confirm the IP address assignment and complete the process   .
+- The DHCP client can also send a DHCPRELEASE message to relinquish the IP address and cancel the lease   .
+- The DHCP server can also send a DHCPNAK message to reject the request from the DHCP client   .
+- The DHCP client can also send a DHCPINFORM message to obtain additional configuration parameters without an IP address   .
+- The DHCP server can also send a DHCPFORCERENEW message to force the DHCP client to renew its lease   .
+- The DHCP client can also send a DHCPDECLINE message to decline an IP address that is already in use   .
+- The DHCP server can also send a DHCPLEASEQUERY message to query the status of a lease   .
+- The DHCP client can also send a DHCPLEASEUNASSIGNED, DHCPLEASEUNKNOWN, or DHCPLEASEACTIVE message to reply to a DHCPLEASEQUERY message   .

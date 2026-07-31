@@ -1,0 +1,21 @@
+### Need for Models
+
+- Models are representations of reality that help in understanding, communicating, and designing complex systems.
+- Models are essential for service-oriented analysis and design (SOAD), which is a methodology for developing service-oriented architecture (SOA) applications.
+- SOAD aims to identify, specify, and realize services and service compositions that support business processes and goals.
+- SOAD requires models that capture the following aspects of SOA applications :
+  - Business domain: the context, scope, and objectives of the business problem and solution
+  - Service inventory: the collection of services that belong to a specific business domain and share common standards and governance
+  - Service candidates: the potential services that can be derived from the business domain analysis and meet the service-orientation principles
+  - Service contract: the specification of the service interface, functionality, quality, and policies
+  - Service composition: the coordination and orchestration of services to achieve a higher-level business task or goal
+  - Service implementation: the realization of the service logic and behavior using a specific technology platform
+- Models help in achieving the following benefits of SOAD  :
+  - Alignment: models ensure that the services and service compositions are aligned with the business vision, strategy, and requirements
+  - Abstraction: models abstract away the unnecessary details and focus on the essential characteristics and relationships of the services and service compositions
+  - Reuse: models facilitate the reuse of existing services and service compositions by identifying common functionality and dependencies
+  - Consistency: models enforce the consistency and interoperability of the services and service compositions by following common standards and governance
+  - Agility: models enable the agility and adaptability of the services and service compositions by supporting changes and evolution in the business and technology environments
+  - Quality: models improve the quality and reliability of the services and service compositions by specifying the expected behavior, performance, and policies
+- Models can be expressed using different notations and languages, such as Unified Modeling Language (UML), Business Process Model and Notation (BPMN), Service-Oriented Modeling Language (SoaML), and Web Services Description Language (WSDL)  .
+- Models can be created and validated using different tools and techniques, such as service-oriented modeling and architecture (SOMA), service-oriented modeling framework (SOMF), and service-oriented design and development methodology (SODDM)  .

@@ -1,0 +1,23 @@
+### Normal Forms for Grammar
+
+- Normal forms for grammar are ways of transforming a grammar into a simpler or more restricted form without changing the language it generates.
+- Normal forms are useful for parsing and analyzing natural language sentences using efficient algorithms.
+- There are different types of normal forms for grammar, such as Chomsky normal form, Greibach normal form, Kuroda normal form, etc.
+- Each normal form has its own rules and properties that define how the grammar can be rewritten or simplified.
+- For example, Chomsky normal form (CNF) is a normal form for context-free grammars that requires every production rule to have one of the following forms:
+  - A -> BC, where A, B, and C are non-terminal symbols
+  - A -> a, where A is a non-terminal symbol and a is a terminal symbol
+  - S -> ε, where S is the start symbol and ε is the empty string
+- To convert a context-free grammar to CNF, there are four steps:
+  - Eliminate ε-rules, i.e., rules of the form A -> ε
+  - Eliminate unit rules, i.e., rules of the form A -> B, where A and B are non-terminal symbols
+  - Eliminate long rules, i.e., rules of the form A -> X1X2...Xn, where n > 2 and Xi are non-terminal or terminal symbols
+  - Eliminate mixed rules, i.e., rules of the form A -> aB, where a is a terminal symbol and B is a non-terminal symbol
+- The benefits of converting a grammar to CNF are:
+  - It reduces the number of possible derivations for a given sentence
+  - It allows the use of the CYK algorithm, which is a bottom-up dynamic programming algorithm that can determine whether a sentence belongs to the language of a grammar in polynomial time
+  - It facilitates the construction of parse trees, which are graphical representations of the syntactic structure of a sentence
+- The drawbacks of converting a grammar to CNF are:
+  - It may increase the size of the grammar by introducing new non-terminal symbols
+  - It may lose some information about the original grammar, such as the precedence or associativity of operators
+  - It may not preserve the semantics or meaning of the original grammar

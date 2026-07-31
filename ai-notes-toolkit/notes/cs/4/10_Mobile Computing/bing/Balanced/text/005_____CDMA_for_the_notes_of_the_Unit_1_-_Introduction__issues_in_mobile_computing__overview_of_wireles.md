@@ -1,0 +1,31 @@
+### CDMA for the notes of the Unit 1 - Introduction, issues in mobile computing, overview of wireless telephony: cellular concept, GSM: in the subject of Mobile Computing
+
+- CDMA stands for Code Division Multiple Access and is a spread spectrum multiple access technique  .
+- Spread spectrum technique spreads bandwidth of data in a uniform manner for the same transmitted power.
+- CDMA is a digital cellular technology used for mobile communication .
+- CDMA is the base on which access methods such as cdmaOne, CDMA2000, and WCDMA are built .
+- CDMA allows numerous signals to occupy a single transmission channel, optimizing the use of available bandwidth .
+- CDMA uses a special coding scheme, where each transmitter is assigned a code, to allow multiple users to be multiplexed over the same physical channel  .
+- CDMA is a form of direct-sequence spread spectrum (DSSS) modulation, where the data signal is multiplied by a pseudorandom noise (PN) code sequence that has a much higher bit rate than the data signal  .
+- CDMA has several advantages over other multiple access techniques, such as:
+  - Higher spectral efficiency, as more users can share the same bandwidth without interference  .
+  - Better security, as the data signal is scrambled by the PN code and can only be decoded by the intended receiver  .
+  - Improved voice quality, as the background noise and cross-talk are reduced by the spread spectrum technique  .
+  - Greater flexibility, as the users can dynamically adjust their transmission power and code length according to the channel conditions  .
+- CDMA has some disadvantages, such as:
+  - Higher complexity, as the transmitter and receiver need to synchronize their PN codes and perform complex signal processing  .
+  - Near-far problem, where a strong signal from a nearby transmitter can interfere with a weak signal from a faraway transmitter, if they use the same code  .
+  - Cell breathing, where the coverage area of a cell varies depending on the number and location of active users  .
+- CDMA is one of the multiple access techniques used in mobile computing, along with FDMA (Frequency Division Multiple Access) and TDMA (Time Division Multiple Access).
+- FDMA divides the available bandwidth into frequency bands, and assigns each user a different band.
+- TDMA divides the available bandwidth into time slots, and assigns each user a different slot.
+- CDMA, FDMA, and TDMA are used to enable wireless telephony, which is the transmission and reception of voice signals over a wireless network.
+- Wireless telephony is based on the cellular concept, where the service area is divided into small regions called cells, and each cell is served by a base station.
+- GSM (Global System for Mobile Communications) is a standard for wireless telephony that uses a combination of FDMA and TDMA to provide voice and data services.
+- GSM is the most widely used wireless telephony standard in the world, with over 5 billion subscribers as of 2020.
+- GSM operates in the 900 MHz and 1800 MHz frequency bands in Europe and Asia, and in the 850 MHz and 1900 MHz frequency bands in North America and South America.
+- GSM uses a 200 kHz channel bandwidth, and divides it into eight time slots, each with a duration of 0.577 ms.
+- GSM uses a 25 MHz frequency band, and divides it into 124 channels, each with a 200 kHz bandwidth.
+- GSM supports a maximum data rate of 9.6 kbps per time slot, and a maximum voice quality of 13 kbps per time slot.
+- GSM uses a variety of techniques to improve the performance and reliability of wireless telephony, such as:
+  - Frequency hopping, where the

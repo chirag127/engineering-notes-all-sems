@@ -1,0 +1,18 @@
+### Enterprise SOA Reference Architecture
+
+- Enterprise SOA Reference Architecture is a set of guidelines and options for designing and implementing SOA solutions or standards in an enterprise context.
+- SOA stands for Service-Oriented Architecture, which is an architectural style that facilitates the creation of flexible, re-usable, and interoperable assets for enabling end-to-end business solutions.
+- Enterprise SOA Reference Architecture has nine layers representing nine key clusters of considerations and responsibilities that typically emerge in the process of designing an SOA solution or defining an enterprise architecture standard.
+- The nine layers are:
+
+  - Operational Systems Layer: This layer contains the existing systems and data sources that provide the functionality and information for the business processes. It also includes the adapters and connectors that expose the systems and data sources as services to the upper layers.
+  - Services Layer: This layer contains the services that encapsulate the business logic and data access of the operational systems. It also includes the service contracts, policies, and metadata that define the service interfaces and behaviors.
+  - Business Process Layer: This layer contains the business processes that orchestrate and coordinate the services to achieve the business goals. It also includes the business rules, events, and human tasks that govern the business process execution and interaction.
+  - Consumer Layer: This layer contains the consumers that invoke the services and business processes to fulfill their needs. It also includes the channels, portals, applications, and devices that provide the user interface and experience for the consumers.
+  - Integration Layer: This layer contains the integration components that enable the communication and mediation between the services, business processes, and consumers. It also includes the service bus, message broker, transformation engine, routing engine, and other middleware technologies that facilitate the integration.
+  - Quality of Service Layer: This layer contains the quality of service components that ensure the reliability, availability, security, performance, and scalability of the services, business processes, and consumers. It also includes the monitoring, auditing, logging, testing, and governance mechanisms that provide the quality of service assurance and management.
+  - Information Layer: This layer contains the information components that enable the access, analysis, and delivery of the data and content across the services, business processes, and consumers. It also includes the data models, schemas, repositories, catalogs, and other information management technologies that facilitate the information.
+  - Governance Layer: This layer contains the governance components that provide the policies, standards, guidelines, and best practices for the design, development, deployment, and operation of the services, business processes, and consumers. It also includes the roles, responsibilities, processes, and tools that enable the governance.
+  - Enterprise Architecture Layer: This layer contains the enterprise architecture components that provide the strategic vision, direction, and alignment for the SOA initiatives and solutions. It also includes the principles, frameworks, models, and patterns that guide the enterprise architecture.
+
+- Enterprise SOA Reference Architecture is not a prescriptive or definitive architecture, but rather a reference model that can be adapted and customized to suit the specific needs and requirements of each enterprise and SOA project.

@@ -1,0 +1,25 @@
+### Representation for the notes of the Unit 5 - Evaluation of Social Network Analysis in the subject of SOCIAL NETWORK ANALYTICS
+
+- Social network analysis (SNA) is an evaluation approach that uses mathematics and visualization to represent the structure of relationships between people, organizations, goals, interests, and other entities within a larger system.
+- SNA helps to understand the phenomena that emerge from the interaction of individuals or institutions and is useful to assess the impact, effectiveness, and sustainability of interventions that aim to change or improve social networks.
+- SNA can be used to find the type, importance, and quantity of relationships in a social network, allowing for a graphical output in conjunction with mathematical analysis.
+- SNA can be applied in various domains, such as health, education, development, business, and policy, to evaluate the outcomes and processes of leadership networks, community coalitions, knowledge networks, organizational networks, and social capital.
+- SNA involves the following steps:
+  - Define the research question and the scope of the network
+  - Collect data on the nodes (actors) and the ties (relationships) in the network
+  - Analyze the data using network measures, such as density, centrality, cohesion, and subgroups
+  - Visualize the network using graphs, matrices, or maps
+  - Interpret the results and draw conclusions
+- SNA has some advantages and limitations, such as:
+  - Advantages: 
+    - It can capture the complexity and dynamics of social systems
+    - It can reveal hidden patterns and structures that are not apparent from other methods
+    - It can provide quantitative and qualitative insights into the network properties and processes
+    - It can facilitate the identification of key actors, influencers, and brokers in the network
+    - It can support the design and implementation of network interventions and strategies
+  - Limitations:
+    - It can be time-consuming and costly to collect and analyze network data
+    - It can be challenging to define the boundaries and the level of analysis of the network
+    - It can be affected by the quality and reliability of the data sources and the sampling methods
+    - It can be difficult to establish causality and attribution of network effects
+    - It can raise ethical and privacy issues regarding the use and dissemination of network data

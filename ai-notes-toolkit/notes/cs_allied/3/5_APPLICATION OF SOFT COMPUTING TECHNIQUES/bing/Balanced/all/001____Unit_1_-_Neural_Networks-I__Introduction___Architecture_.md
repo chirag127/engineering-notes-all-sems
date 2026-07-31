@@ -1,0 +1,13 @@
+# Unit 1 - Neural Networks-I (Introduction & Architecture)
+
+- Neural networks are computational models that are inspired by the structure and function of biological neurons and the brain.
+- Neural networks can learn from data and perform tasks such as classification, regression, clustering, dimensionality reduction, etc.
+- Neural networks consist of layers of artificial neurons, also called nodes or units, that are connected by weights and biases.
+- Each neuron receives inputs from other neurons or external sources, applies an activation function to the weighted sum of the inputs, and produces an output that can be sent to other neurons or used as the final output of the network.
+- The activation function determines the output of a neuron based on its input. It can be linear, nonlinear, or threshold-based. Some common activation functions are sigmoid, tanh, ReLU, softmax, etc.
+- The input layer of a neural network receives the raw data and passes it to the hidden layer(s). The hidden layer(s) perform the computations and transformations on the data and pass it to the output layer. The output layer produces the final output of the network, such as a class label, a score, a probability, etc.
+- The architecture of a neural network refers to the number, type, and arrangement of the layers and neurons in the network. It determines the complexity and capacity of the network to learn from data and perform tasks.
+- There are different types of neural network architectures, such as feedforward, recurrent, convolutional, etc. Each type has its own advantages and disadvantages, and is suitable for different kinds of problems and data.
+- Feedforward neural networks are the simplest and most common type of neural networks. They have a single direction of information flow from the input layer to the output layer, without any loops or cycles. They are also called multilayer perceptrons (MLPs).
+- Recurrent neural networks (RNNs) are neural networks that have feedback connections that allow information to flow in both directions. They can process sequential data, such as text, speech, or time series, by maintaining a memory of the previous inputs and outputs. They are also called dynamic neural networks.
+- Convolutional neural networks (CNNs) are neural networks that have convolutional layers that apply filters to the input data to extract features. They can process spatial data, such as images, videos, or audio, by exploiting the local structure and correlation of the data. They are also called vision networks.

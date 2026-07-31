@@ -1,0 +1,8 @@
+### Mathematical Preliminaries for Lossless Compression
+
+- Lossless compression is a technique that reduces the size of data without losing any information. The original data can be reconstructed exactly from the compressed data.
+- Lossless compression is useful for applications that require high fidelity and accuracy, such as text, audio, images, and executable files.
+- Lossless compression is based on the concept of entropy, which measures the amount of information or uncertainty in a data source. The lower the entropy, the more predictable and compressible the data is.
+- Entropy can be calculated using different models of the data source, such as the zero-order model (assuming each symbol is independent and identically distributed), the first-order model (assuming each symbol depends only on the previous one), or higher-order models (assuming more complex dependencies).
+- The entropy of a data source is the lower bound for the average number of bits per symbol needed to encode the data. No lossless compression scheme can achieve a compression ratio lower than the entropy of the data source.
+- Lossless compression schemes can be classified into two categories: statistical and dictionary-based. Statistical schemes use a model of the data source to assign variable-length codes to the symbols, such that the more frequent symbols have shorter codes and the less frequent symbols have longer codes. Dictionary-based schemes use a predefined or adaptive dictionary of strings to replace the original data with shorter codes that refer to the dictionary entries.

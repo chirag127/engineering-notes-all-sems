@@ -1,0 +1,38 @@
+### Databases with JDBC
+
+- JDBC stands for Java Database Connectivity, which is an API (Application Programming Interface) that allows Java programs to interact with various types of databases.
+- JDBC provides a set of classes and interfaces that enable the Java application to connect to a database, execute SQL statements, process the results, and handle errors.
+- JDBC supports relational databases as well as other table-based data sources, such as spreadsheets and flat files. JDBC drivers are software components that implement the JDBC API for a specific database or data source.
+- JDBC drivers are categorized into four types based on their architecture and implementation:
+  - Type 1: JDBC-ODBC Bridge Driver, which uses the ODBC (Open Database Connectivity) driver to connect to the database. This type is platform-dependent and not recommended for production use.
+  - Type 2: Native-API Driver, which uses the native libraries of the database to connect to the database. This type is also platform-dependent and requires the installation of the native libraries on the client machine.
+  - Type 3: Network Protocol Driver, which uses a middleware server to communicate with the database. This type is platform-independent and can connect to multiple databases through the middleware server.
+  - Type 4: Thin Driver, which uses the database-specific protocol to connect to the database. This type is platform-independent and does not require any additional software on the client machine.
+- JDBC provides the following classes and interfaces for database operations:
+  - DriverManager: A class that manages the loading and registration of JDBC drivers and provides methods to obtain database connections.
+  - Connection: An interface that represents a connection to a database and provides methods to create statements, execute transactions, and obtain metadata.
+  - Statement: An interface that represents a SQL statement and provides methods to execute queries and updates.
+  - PreparedStatement: A subinterface of Statement that represents a precompiled SQL statement and provides methods to set parameters and execute queries and updates.
+  - CallableStatement: A subinterface of PreparedStatement that represents a stored procedure call and provides methods to set parameters and execute queries and updates.
+  - ResultSet: An interface that represents the result of a query and provides methods to access the data and metadata.
+  - ResultSetMetaData: An interface that provides information about the columns of a ResultSet, such as name, type, size, and precision.
+  - DatabaseMetaData: An interface that provides information about the database, such as name, version, supported features, and schemas.
+  - SQLException: A class that represents an error or warning that occurs during a database operation and provides methods to obtain the error code, message, and cause.
+- JDBC follows a standard sequence of steps to perform database operations:
+  - Load and register the JDBC driver using the DriverManager class.
+  - Obtain a connection to the database using the DriverManager class or a DataSource object.
+  - Create a statement object using the connection object.
+  - Execute the statement object using the execute, executeQuery, or executeUpdate methods.
+  - Process the results using the ResultSet object or the update count.
+  - Close the resources using the close methods of the connection, statement, and result set objects.
+- JDBC allows the application to control the parallelism and performance of the database operations by using various options and techniques :
+  - Use the setFetchSize method of the statement object to specify the number of rows to be fetched from the database at a time.
+  - Use the setMaxRows method of the statement object to limit the number of rows to be returned by the query.
+  - Use the setQueryTimeout method of the statement object to specify the maximum time in seconds that the query can run.
+  - Use the setAutoCommit method of the connection object to enable or disable the automatic commit of transactions.
+  - Use the commit and rollback methods of the connection object to manually commit or rollback transactions.
+  - Use the setTransactionIsolation method of the connection object to specify the level of isolation for transactions, such as READ_UNCOMMITTED, READ_COMMITTED, REPEATABLE_READ, or SERIALIZABLE.
+  - Use the repartition method of the data frame or RDD object to control the number of partitions in memory and the parallelism of the write operation.
+  - Use the batch size option of the JDBC write operation to specify the number of rows to be inserted or updated in a single batch.
+  - Use the numPartitions option of the JDBC read operation to specify the number of partitions to be created for the data frame or RDD object.
+  - Use the partitionColumn, lower

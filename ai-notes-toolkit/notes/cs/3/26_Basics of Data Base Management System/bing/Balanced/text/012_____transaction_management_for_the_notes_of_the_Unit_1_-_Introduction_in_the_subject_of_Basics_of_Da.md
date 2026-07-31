@@ -1,0 +1,21 @@
+### Transaction Management in DBMS
+
+- Transaction management is a logical unit of processing in a DBMS which entails one or more database access operations.
+- A transaction is a program unit whose execution may or may not change the contents of a database.
+- Transactions are used to manage concurrency and ensure data integrity in a database.
+- A transaction is a set of logically related operations, such as transferring money from one account to another, or booking a flight ticket.
+- A transaction usually means that the data in the database has changed.
+- A transaction has four properties, known as ACID properties, which are Atomicity, Consistency, Isolation, and Durability  .
+- Atomicity means that either all the operations in a transaction are executed or none of them are  .
+- Consistency means that a transaction preserves the integrity constraints of the database, such as primary keys, foreign keys, and domain constraints  .
+- Isolation means that a transaction is executed as if it is the only one running on the database, and does not interfere with other concurrent transactions  .
+- Durability means that the effects of a transaction are permanent and do not get lost due to system failures or crashes  .
+- A transaction can have one of the following states: active, partially committed, committed, failed, or aborted .
+- An active transaction is one that has started but not yet finished .
+- A partially committed transaction is one that has executed its final statement but not yet committed .
+- A committed transaction is one that has completed successfully and made its changes permanent in the database .
+- A failed transaction is one that has encountered an error or violation and cannot continue .
+- An aborted transaction is one that has been rolled back and its changes have been undone from the database .
+- A DBMS is responsible for scheduling the access of data concurrently, and ensuring that the ACID properties of transactions are maintained  .
+- A DBMS uses various techniques, such as locking, timestamping, validation, and serialization, to control the concurrency and prevent conflicts among transactions   .
+- A DBMS also uses various methods, such as logging, checkpointing, and recovery, to protect the user's data from system failures and restore the database to a consistent state   .

@@ -1,0 +1,22 @@
+### Trust and Reputation in Multi-agent systems
+
+- Trust and reputation are important concepts for effective interactions in open multi-agent systems (MAS), where agents may have different goals, preferences, and behaviors, and may enter and leave the system dynamically .
+- Trust is the degree of belief that an agent has about the expected outcome of another agent's action, based on the agent's own experience or observation .
+- Reputation is the collective opinion of a group of agents about the trustworthiness of another agent, based on the agents' direct or indirect interactions .
+- Trust and reputation models aim to provide agents with mechanisms to evaluate, predict, and influence the behavior of other agents, as well as to cope with uncertainty, risk, and deception .
+- Some of the benefits of trust and reputation models are :
+  - They can help agents select reliable and cooperative partners for joint tasks or transactions.
+  - They can motivate agents to behave honestly and reciprocally, and deter them from cheating or defecting.
+  - They can enhance the robustness and resilience of the system against malicious or faulty agents.
+  - They can reduce the communication and computation overhead of the system by filtering out irrelevant or untrustworthy agents.
+- Some of the challenges of trust and reputation models are :
+  - They need to cope with the dynamic and heterogeneous nature of open MAS, where agents may have different trust and reputation criteria, standards, and representations.
+  - They need to deal with the uncertainty and incompleteness of the available information, as well as the possibility of noise, errors, or manipulation.
+  - They need to balance the trade-off between the accuracy and efficiency of the trust and reputation computation and update.
+  - They need to address the ethical and social implications of trust and reputation, such as privacy, fairness, and accountability.
+- Some of the examples of trust and reputation models are  :
+  - Marsh's model, which defines trust as a subjective and context-dependent measure of the competence, reliability, and honesty of another agent, and uses a calculus of trust to compute the trust value based on the agent's beliefs and goals.
+  - Sen et al.'s model, which defines trust as a function of the similarity and dependability of another agent, and uses a learning algorithm to update the trust value based on the agent's observations and feedback.
+  - SPORAS, which defines reputation as a global and objective measure of the performance of another agent, and uses a scoring system to update the reputation value based on the outcomes of the interactions.
+  - eBay's model, which defines reputation as a global and subjective measure of the satisfaction of other agents, and uses a feedback system to collect and aggregate the ratings of the interactions.
+  - Certified reputation, which defines reputation as a local and verifiable measure of the trustworthiness of another agent, and uses a certification system to issue and validate the reputation certificates.

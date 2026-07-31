@@ -1,0 +1,21 @@
+### Transaction recovery for the notes of the Unit 9 - Distributed Transactions in the subject of DISTRIBUTED SYSTEM
+
+- A transaction is a logical unit of work that accesses and possibly modifies the data in a database.
+- A distributed transaction is a transaction that spans multiple sites or nodes in a distributed system.
+- A distributed transaction system must ensure the ACID properties of transactions: atomicity, consistency, isolation, and durability.
+- Atomicity means that either all the operations of a transaction are executed or none of them are.
+- Consistency means that a transaction preserves the integrity constraints of the database.
+- Isolation means that a transaction does not interfere with other concurrent transactions.
+- Durability means that the effects of a committed transaction are permanent and survive failures.
+- Transaction recovery is the process of restoring the database to a consistent state after a failure or an abort.
+- Transaction recovery in a distributed system is more complex than in a centralized system because of the following challenges:
+  - Communication failures: A site may lose contact with other sites due to network problems or partitioning.
+  - Site failures: A site may crash or become unavailable due to hardware or software faults.
+  - Media failures: A disk or a file may be corrupted or damaged due to physical or logical errors.
+  - Distributed concurrency control: A distributed transaction may encounter conflicts or deadlocks with other transactions at different sites.
+  - Distributed commit protocol: A distributed transaction may need to coordinate with other sites to reach a global decision on whether to commit or abort.
+- Transaction recovery in a distributed system relies on the following techniques:
+  - Logging: A log is a record of the operations performed by a transaction and the data values affected by them. A log is maintained at each site and is used to undo or redo the operations of a transaction in case of a failure or an abort.
+  - Checkpointing: A checkpoint is a point in time when the database is consistent and all the committed transactions have their effects written to the disk. A checkpoint is taken periodically at each site and is used to reduce the amount of logging and recovery work.
+  - Shadow versions: A shadow version is a copy of a data item that is created before a transaction modifies it. A shadow version is used to restore the original value of the data item in case of an abort.
+  - Two-phase commit protocol: A two-phase commit protocol is a protocol that ensures the atomicity of a distributed transaction by coordinating the commit or abort decision among all the sites involved in the transaction. The protocol consists of two phases: a prepare phase and a commit phase. In the prepare phase, the coordinator site asks all the participant sites to vote on whether to commit or abort the transaction. In the commit phase, the coordinator site decides on the final outcome based on the votes and informs all the participant sites to either commit or abort the transaction.

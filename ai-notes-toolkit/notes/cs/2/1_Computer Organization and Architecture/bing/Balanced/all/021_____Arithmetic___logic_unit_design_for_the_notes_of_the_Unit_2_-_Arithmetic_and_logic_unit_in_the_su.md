@@ -1,0 +1,8 @@
+# Arithmetic and Logic Unit Design
+
+- An arithmetic and logic unit (ALU) is a component of a central processing unit (CPU) that performs arithmetic and logic operations on the operands in computer instruction words.
+- An ALU can perform three kinds of operations: arithmetic operations, such as addition, subtraction, multiplication and division; logical operations, such as AND, OR, NOT, XOR and NAND; and data movement operations, such as load and store.
+- An ALU can be divided into two subunits: an arithmetic unit (AU) and a logic unit (LU). The AU performs arithmetic operations, while the LU performs logical operations.
+- An ALU can be designed using various logic gates, such as AND, OR, NOT, XOR and NAND. The logic gates can be combined to form more complex circuits, such as adders, subtracters, multipliers, dividers, shifters and comparators.
+- An ALU can also be designed using reversible logic, which is a logic that preserves the information and does not produce any garbage outputs or consume any power. Reversible logic can be implemented using quantum-dot cellular automata (QCA), which are nanoscale devices that use the quantum mechanical behavior of electrons to perform logic operations.
+- An ALU can be evaluated based on various parameters, such as quantum cost, garbage outputs, constant inputs, area, number of cells and simulation time. These parameters can be used to measure the performance, efficiency and complexity of the ALU design.

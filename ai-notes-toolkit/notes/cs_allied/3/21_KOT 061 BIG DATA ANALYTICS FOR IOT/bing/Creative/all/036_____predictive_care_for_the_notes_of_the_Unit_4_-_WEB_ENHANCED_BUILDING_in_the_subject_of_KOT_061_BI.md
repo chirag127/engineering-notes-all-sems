@@ -1,0 +1,12 @@
+# Predictive care for the notes of the Unit 4 - WEB ENHANCED BUILDING in the subject of KOT 061 BIG DATA ANALYTICS FOR IOT KCS
+
+- Predictive care is the application of predictive analytics to healthcare, using data from various sources such as IoT sensors, electronic health records, medical imaging, genomics, etc. to anticipate and prevent health problems, improve diagnosis and treatment, and optimize resource utilization  .
+- Predictive care can be applied to different domains of healthcare, such as:
+  - Predictive maintenance: This is about constant monitoring of equipment conditions to predict issues and avoid service interruption or downtime. IoT sensors play an essential role in this process, as they gather data about different parameters (e.g., temperature, vibration, humidity, light, etc.) Then, this data is analyzed to predict when a failure may occur and schedule preventive actions .
+  - Predictive health: This is about using data from various sources, such as wearable devices, smart home devices, environmental sensors, etc. to monitor and predict the health status and risks of individuals and populations. IoT and predictive analytics can augment the doctor-patient conversation and diagnoses with knowledge based on data. Predictive health can help to detect early signs of patient deterioration, identify at-risk patients, prevent hospital readmissions, and personalize treatment plans  .
+  - Predictive medicine: This is about using data from genomic sequencing, medical imaging, biomarkers, etc. to predict the susceptibility and progression of diseases, such as cancer, diabetes, Alzheimer's, etc. IoT and predictive analytics can enable precision medicine, which is the tailoring of medical treatment to the individual characteristics of each patient. Predictive medicine can help to prevent or delay the onset of diseases, improve early detection and diagnosis, and optimize treatment outcomes .
+- Predictive care can provide various benefits for healthcare, such as:
+  - Improving patient outcomes and satisfaction by providing timely and personalized care
+  - Reducing healthcare costs and waste by optimizing resource utilization and avoiding unnecessary interventions
+  - Enhancing healthcare quality and safety by preventing errors and adverse events
+  - Advancing healthcare innovation and research by discovering new insights and patterns from data

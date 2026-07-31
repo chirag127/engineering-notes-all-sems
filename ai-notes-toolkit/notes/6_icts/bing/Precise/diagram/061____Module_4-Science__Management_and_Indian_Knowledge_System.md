@@ -1,0 +1,7 @@
+## Module 4-Science, Management and Indian Knowledge System
+
+1. Science and Management: Science and management are two distinct fields that have a close relationship. Science is the systematic study of the natural world, while management is the process of planning, organizing, leading, and controlling resources to achieve specific goals.
+2. Indian Knowledge System: The Indian knowledge system is a rich and diverse tradition that encompasses a wide range of disciplines, including philosophy, mathematics, astronomy, medicine, and the arts.
+3. Relationship between Science, Management, and Indian Knowledge System: Science, management, and the Indian knowledge system are interconnected and can inform and benefit from each other. For example, the principles of Ayurveda, an ancient Indian system of medicine, can be applied to modern management practices to promote health and well-being in the workplace.
+4. Applications of Indian Knowledge System in Management: The Indian knowledge system has much to offer in the field of management. For example, the concept of Dharma, or duty, can be applied to business ethics and corporate social responsibility. The principles of Yoga and meditation can be used to promote mindfulness and stress reduction in the workplace.
+5. Conclusion: Science, management, and the Indian knowledge system are interconnected fields that can inform and benefit from each other. By drawing on the rich tradition of the Indian knowledge system, modern management practices can be enhanced and enriched.

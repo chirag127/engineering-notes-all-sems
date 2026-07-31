@@ -1,0 +1,9 @@
+### Look ahead carries adders
+
+- A carry look-ahead adder (CLA) is an electronic adder used for binary addition that reduces the propagation delay by introducing more complex hardware .
+- The CLA logic uses the concepts of generating and propagating carries, which are functions of the input bits that determine whether a carry will be generated or propagated to the next stage .
+- A carry is generated when both input bits are 1, and a carry is propagated when one of the input bits is 1 and the carry-in is 1 .
+- The CLA can be implemented using a four-bit adder block that computes the sum and carry outputs for four bits in parallel, and a carry look-ahead unit that generates the carry signals for each block using the generate and propagate functions .
+- The CLA can be extended to larger bit widths by using a hierarchical structure of carry look-ahead units, where each unit generates the group generate and group propagate signals for a group of four bits, and these signals are used by a higher-level unit to generate the carry signals for the whole adder .
+- The CLA has a lower propagation delay than a ripple carry adder, which uses a chain of full adders that propagate the carry from one stage to the next . The CLA has a propagation delay that is proportional to the logarithm of the bit width, while the ripple carry adder has a propagation delay that is proportional to the bit width.
+- The CLA has a higher hardware complexity and power consumption than a ripple carry adder, due to the additional logic gates and wires required for the carry look-ahead unit . The CLA is suitable for applications that require fast addition of large numbers, such as processors and digital signal processors .

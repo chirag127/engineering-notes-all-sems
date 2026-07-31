@@ -1,0 +1,22 @@
+### Church's Thesis
+
+- Church's thesis, also called Church's theorem, is a principle formulated by the American logician Alonzo Church in 1935.
+- It states that the **recursive functions** are the only functions that can be **mechanically calculated**.
+- A recursive function is a function that can be defined by a finite set of rules, such as a formula, an algorithm, or a program.
+- A function is mechanically calculable if there exists a mechanical device, such as a Turing machine, that can compute the function for any given input.
+- Church's thesis is not a mathematical theorem, but a hypothesis or a conjecture that cannot be proved or disproved.
+- It is based on the intuitive notion of an **effectively computable** function, which is a function that can be computed by a human using a finite amount of time and resources.
+- Church's thesis asserts that the notion of an effectively computable function is equivalent to the notion of a recursive function.
+- This means that any function that can be computed by a human can also be computed by a Turing machine, and vice versa.
+- Church's thesis is also known as the **Church-Turing thesis**, because it was independently proposed by the British mathematician Alan Turing in 1936.
+- Turing introduced the concept of a **Turing machine**, which is a hypothetical device that can manipulate symbols on a tape according to a set of rules.
+- Turing showed that any function that can be computed by a Turing machine is a recursive function, and that any recursive function can be computed by a Turing machine.
+- Church's thesis has many implications and applications in logic, mathematics, and computer science.
+- It provides a foundation for the theory of **computability**, which studies the limits and possibilities of computation.
+- It also provides a basis for the theory of **complexity**, which studies the resources and efficiency of computation.
+- It also influences the fields of **artificial intelligence**, **cryptography**, **philosophy**, and **cognitive science**.
+- Church's thesis is widely accepted by most mathematicians and computer scientists, but it is not universally accepted.
+- Some critics have argued that there may exist functions that are effectively computable but not recursive, or that there may exist devices that can compute more than Turing machines.
+- Some examples of such devices are **hypercomputers**, **quantum computers**, **analog computers**, and **neural networks**.
+- However, none of these devices have been proven to violate Church's thesis, and some of them may be equivalent to Turing machines in terms of computability.
+- Church's thesis remains an open and fascinating problem in the foundations of mathematics and computer science.

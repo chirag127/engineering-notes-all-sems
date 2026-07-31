@@ -1,0 +1,11 @@
+### Storage and Reasoning for the Notes of the Unit 5 - Evaluation of Social Network Analysis in the Subject of SOCIAL NETWORK ANALYTICS
+
+In the field of social network analysis, the evaluation of the network is essential to understand its structure and functioning. The evaluation process involves the storage and reasoning of the data collected during the analysis. Here are some important points to consider about the storage and reasoning of the notes for the evaluation of social network analysis:
+
+- The notes collected during the evaluation process should be stored securely to avoid any loss or damage. The use of cloud-based storage services or physical storage devices such as hard drives can be used for this purpose. 
+- The notes should be organized systematically to facilitate easy retrieval and analysis. The use of software tools such as Gephi or UCINet can be helpful in organizing the notes and drawing conclusions from the data collected. 
+- The reasoning process involves the interpretation of the data collected during the evaluation process. It helps to identify the patterns and relationships between different nodes and edges in the network. 
+- The reasoning process requires a thorough understanding of the social network analysis techniques and their applications. The researcher should have a clear understanding of the theoretical frameworks and methods used in social network analysis. 
+- The notes collected during the evaluation process should be cross-checked with other sources of data to validate the findings. The use of multiple methods and sources can help to increase the reliability and validity of the analysis. 
+
+In conclusion, the storage and reasoning of the notes for the evaluation of social network analysis are critical for drawing meaningful conclusions about the network's structure and functioning. A researcher should have a thorough understanding of the theoretical frameworks and methods used in social network analysis to ensure the accuracy and validity of the analysis. Proper storage and organization of the notes can also help to facilitate the analysis process and ensure the data's security and integrity.

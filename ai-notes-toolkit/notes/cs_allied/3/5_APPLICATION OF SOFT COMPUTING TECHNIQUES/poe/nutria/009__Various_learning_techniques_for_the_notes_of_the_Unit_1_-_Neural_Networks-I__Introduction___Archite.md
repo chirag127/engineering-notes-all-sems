@@ -1,0 +1,9 @@
+
+### Various Learning Techniques for the Notes of the Unit 1 - Neural Networks-I (Introduction & Architecture) in the Subject of Application of Soft Computing Techniques
+
+* Artificial Neural Networks (ANNs) are computing systems that are inspired by the biological neural networks found in the human brain. They are composed of interconnected nodes (neurons) which process information and transmit it to other neurons.
+* Feedforward Neural Networks are the most basic type of ANNs. They are composed of input, output, and hidden layers. The input layer takes in the input data, the output layer produces the output data, and the hidden layers process the data.
+* Backpropagation is the process of adjusting the weights of the connections between neurons in order to reduce the error of the network.
+* Convolutional Neural Networks (CNNs) are used in image processing tasks such as image classification, object detection, and image segmentation. They are composed of convolutional layers which extract features from the input image and pooling layers which reduce the size of the feature maps.
+* Recurrent Neural Networks (RNNs) are used for tasks such as language modelling, speech recognition, and time series analysis. They are composed of recurrent layers which can process sequences of data and remember the past states of the network.
+* Generative Adversarial Networks (GANs) are used for tasks such as image generation and data augmentation. They are composed of two networks, the generator and the discriminator. The generator generates data, and the discriminator evaluates the data and provides feedback to the generator.

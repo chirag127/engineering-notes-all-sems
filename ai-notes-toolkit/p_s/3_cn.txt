@@ -1,0 +1,76 @@
+# Computer Networks
+## Unit 1 - Introductory Concepts of Computer Networks and Physical Layer
+### Introductory Concepts of Computer Networks
+#### Goals and applications of networks and protocols
+#### Categories of networks in computer networks
+#### Organization of the Internet
+#### ISP
+#### Network structure with reference to Computer Networks
+#### Network architecture with reference to Computer Networks
+#### layering principles with reference to Network Architecture in Computer Networks
+#### services in networks architecture in Computer Networks
+#### protocols and standards in networks architecture in Computer Networks
+#### The OSI reference model in in Computer Networks
+#### TCP/IP protocol suite in in Computer Networks
+#### Network devices in Computer Networks
+#### network components in Computer Networks
+### Physical Layer in Computer Networks
+#### Network topology design in Computer Networks
+#### Types of connections in Computer Networks
+#### Transmission media in Computer Networks
+#### Signal transmission and encoding in Computer Networks
+#### Network performance and transmission impairments in Computer Networks
+#### Switching techniques and multiplexing in Computer Networks
+## Unit 2 - Link layer in Computer Networks and Medium Access Control and Local Area Networks
+#### Link layer in Computer Networks
+#### Framing in link layer in Computer Networks
+#### Error Detection and Correction in link layer in Computer Networks
+#### Flow control in link layer in Computer Networks
+#### Elementary Data Link Protocols in link layer in Computer Networks
+#### Sliding Window protocols in link layer in Computer Networks
+#### Medium Access Control and Local Area Networks
+#### Channel allocation in medium access control
+#### Multiple access protocols in medium access control
+#### LAN standards in local area network
+#### Link layer switches & bridges in local area network
+#### learning bridge algorithms in local area network
+#### spanning tree algorithms in local area network
+## Unit 3 - Network Layer in Computer Networks
+### Point-to-point networks in network layer
+### Logical addressing in network layer
+### Basic internetworking in network layer
+#### IP
+#### CIDR
+#### ARP
+#### RARP
+#### DHCP
+#### ICMP
+### Routing in network layer
+### forwarding and delivery in network layer
+### Static and dynamic routing in cn
+### Routing algorithms and protocols in cn
+### Congestion control algorithms in cn
+### IPv6 in cn
+## Unit 4 - Transport Layer in Computer Networks
+### Process-to-process delivery in transport layer
+### Transport layer protocols
+#### UDP Transport layer protocol
+#### TCP Transport layer protocol
+### Multiplexing in transport layer
+### Connection management in transport layer
+### Flow control in transport layer
+### etransmission  in transport layer
+### Window management in transport layer
+### TCP Congestion control in transport layer
+### Quality of service in transport layer
+## Unit 5 - Application Layer in Computer Networks
+### Domain Name System
+### World Wide Web
+### Hyper Text Transfer Protocol
+### Electronic mail in application layer
+### File Transfer Protocol in application layer
+### Remote login in application layer
+### Network management in application layer
+### Data compression in application layer
+### Cryptography in application layer
+### basic concepts of Cryptography in application layer

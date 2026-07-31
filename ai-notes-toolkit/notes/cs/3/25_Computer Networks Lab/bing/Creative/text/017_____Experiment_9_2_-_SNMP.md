@@ -1,0 +1,17 @@
+### Experiment 9.2 - SNMP
+
+- SNMP stands for Simple Network Management Protocol. It is a standard protocol for managing devices on a network, such as routers, switches, servers, printers, etc.
+- SNMP operates on the application layer of the OSI model. It uses UDP as the transport protocol and port 161 for requests and port 162 for notifications.
+- SNMP consists of three components: SNMP managers, SNMP agents, and management information base (MIB).
+  - SNMP managers are software applications that run on network management systems (NMS). They initiate queries and receive responses from SNMP agents. They can also receive unsolicited notifications (traps or informs) from SNMP agents.
+  - SNMP agents are software modules that run on managed devices. They collect and store information about the device's status and configuration in the MIB. They respond to queries and send notifications to SNMP managers.
+  - MIB is a hierarchical database that defines the variables (objects) that can be accessed by SNMP. Each object has a unique identifier (OID) and a data type. MIB is divided into two parts: standard MIB and vendor-specific MIB. Standard MIB defines common objects for all devices, such as system name, uptime, interface statistics, etc. Vendor-specific MIB defines additional objects for specific devices, such as CPU temperature, fan speed, etc.
+- SNMP has four basic operations: GET, GETNEXT, SET, and TRAP (or INFORM).
+  - GET is used by SNMP managers to request the value of one or more objects from SNMP agents.
+  - GETNEXT is used by SNMP managers to request the value of the next object in the MIB from SNMP agents.
+  - SET is used by SNMP managers to modify the value of one or more objects on SNMP agents.
+  - TRAP (or INFORM) is used by SNMP agents to send unsolicited notifications to SNMP managers about significant events or changes on the device.
+- SNMP has three versions: SNMPv1, SNMPv2c, and SNMPv3.
+  - SNMPv1 is the original version of SNMP. It supports only GET, GETNEXT, and TRAP operations. It uses community strings as a simple form of authentication and authorization. Community strings are plain-text passwords that are sent along with SNMP messages. They determine the access level (read-only or read-write) of the SNMP manager to the SNMP agent. The default community strings are "public" for read-only access and "private" for read-write access.
+  - SNMPv2c is an extension of SNMPv1. It adds support for GETBULK, INFORM, and RESPONSE operations. GETBULK is used by SNMP managers to request multiple objects in a single message from SNMP agents. INFORM is similar to TRAP, but it requires an acknowledgment from the SNMP manager. RESPONSE is used by SNMP agents to acknowledge INFORM messages. SNMPv2c also improves the performance and error handling of SNMP. It still uses community strings as the security mechanism.
+  - SNMPv3 is the latest and most secure version of SNMP. It adds support for encryption, authentication, and authorization. It uses user-based security model (USM) and view-based access control model (VACM) as the security mechanisms. USM defines how SNMP messages are encrypted and authenticated using different algorithms and keys. VACM defines who can access which objects on the SNMP agent using different views and groups. SNMPv3 also supports SNMPv1 and SNMPv2c messages for backward compatibility.

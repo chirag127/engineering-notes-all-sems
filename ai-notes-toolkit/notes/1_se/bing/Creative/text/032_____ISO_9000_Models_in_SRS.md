@@ -1,0 +1,26 @@
+### ISO 9000 Models in SRS
+
+- ISO 9000 is a family of standards that provide guidelines and principles for quality management systems (QMS)  .
+- QMS are the organizational processes and procedures that ensure the quality of products and services  .
+- ISO 9000 standards are applicable to any organization, regardless of size, type, or industry .
+- ISO 9000 standards are based on the following seven quality management principles :
+  - Customer focus: understanding and meeting customer needs and expectations
+  - Leadership: establishing a vision, direction, and culture that foster quality
+  - Engagement of people: involving and empowering all employees and stakeholders in quality improvement
+  - Process approach: managing activities and resources as interrelated processes
+  - Improvement: pursuing continual and proactive enhancement of performance and outcomes
+  - Evidence-based decision making: using data and analysis to support decision making
+  - Relationship management: building and maintaining mutually beneficial relationships with suppliers and partners
+- ISO 9000 standards are revised periodically to reflect the changing needs and expectations of customers and stakeholders  .
+- ISO 9000 standards are voluntary, but they can provide a competitive advantage, customer satisfaction, and regulatory compliance  .
+- ISO 9000 standards are not specific to software engineering, but they can be applied to the software development life cycle (SDLC) .
+- ISO 9000-3:1997 is a standard that provides guidance on how to apply ISO 9001:1994 to the development, supply, installation, and maintenance of computer software .
+- ISO 9001:1994 is a standard that specifies the requirements for a QMS that can demonstrate the ability to consistently provide products and services that meet customer and regulatory requirements .
+- ISO 9000-3:1997 covers the following aspects of software engineering :
+  - Quality management system: the documentation and implementation of policies, objectives, and procedures for quality assurance
+  - Management responsibility: the commitment and involvement of top management in quality planning, review, and improvement
+  - Resource management: the provision and allocation of human, physical, and financial resources for quality activities
+  - Product realization: the planning, design, development, testing, delivery, and installation of software products and services
+  - Measurement, analysis, and improvement: the monitoring, evaluation, and correction of quality performance and processes
+- ISO 9000-3:1997 is not a prescriptive or rigid standard, but rather a flexible and adaptable framework that can be tailored to the specific needs and characteristics of each software project .
+- ISO 9000-3:1997 is compatible with other software engineering standards and models, such as CMMI, SPICE, and IEEE .

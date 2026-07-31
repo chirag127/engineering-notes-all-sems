@@ -1,0 +1,9 @@
+### Open Source Platforms for Microcontroller Programming
+
+- Open source platforms are software or hardware tools that are publicly available and can be modified or shared by anyone.
+- Open source platforms can facilitate the development of microcontroller-based projects by providing easy-to-use interfaces, libraries, and documentation.
+- Some examples of open source platforms for microcontroller programming are:
+
+  - **Arduino**: Arduino is a popular platform that consists of a physical programmable circuit board (microcontroller) and a software IDE that runs on a computer. Arduino can be used to create interactive electronic objects that can sense and control the physical world. Arduino supports a variety of microcontroller boards, sensors, actuators, and shields that can be connected and programmed using a simple wiring language and a C/C++ based syntax. Arduino is based on the Wiring project and the Processing language.   
+  - **XOD**: XOD is a visual programming language and IDE for microcontrollers. XOD allows users to create programs by connecting nodes that represent inputs, outputs, functions, and values. XOD can generate native code for Arduino and other compatible boards, as well as run simulations and debug programs. XOD is designed to be intuitive, modular, and extensible. XOD is an open source project hosted on GitHub. 
+  - **Other open source embedded development boards**: There are many other open source platforms that can be used for microcontroller programming, such as Raspberry Pi, BeagleBone, ESP32, STM32, PIC, and more. Each platform has its own features, advantages, and limitations, depending on the project requirements and preferences. Some platforms may offer more processing power, memory, connectivity, or compatibility than others. Some platforms may also support different programming languages, such as Python, Java, Lua, or BASIC. A comparison of some open source embedded development boards can be found here.

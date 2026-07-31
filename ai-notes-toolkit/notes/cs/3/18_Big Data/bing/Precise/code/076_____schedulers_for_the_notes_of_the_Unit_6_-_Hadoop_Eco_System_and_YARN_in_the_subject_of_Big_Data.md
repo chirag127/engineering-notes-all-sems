@@ -1,0 +1,7 @@
+### Schedulers for the notes of the Unit 6 - Hadoop Eco System and YARN in the subject of Big Data
+
+- The Hadoop ecosystem is one of the most critical developments in Big Data. It provides tools for storing and analyzing data and a framework for other companies to develop their applications.
+- The addition of YARN significantly expanded Hadoop's potential uses. The original incarnation of Hadoop closely paired the Hadoop Distributed File System (HDFS) with the batch-oriented MapReduce programming framework and processing engine, which also functioned as the big data platform's resource manager and job scheduler.
+- Resource management is one of the critical concepts of Big Data architecture. After all, the optimum use of resources will fetch us optimum performance. Hadoop depends on YARN for resource management, and it is also one of the core components of the Hadoop ecosystem. YARN stands for Yet Another Resource Negotiator.
+- YARN has three built-in schedulers: the FIFO, Fair and Capacity Scheduler. Though these schedulers provide users different methods to allocate resources of a Hadoop cluster to execute their MapReduce jobs, they do not guarantee that their jobs will be executed within a specific deadline.
+- There are mainly 3 types of Schedulers in Hadoop: FIFO (First In First Out) Scheduler, Capacity Scheduler, and Fair Scheduler. These Schedulers are actually a kind of algorithm that we use to schedule tasks in a Hadoop cluster when we receive requests from different-different clients.

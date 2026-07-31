@@ -1,0 +1,7 @@
+### 5. To enable the students to understand detailed concepts related to polymers, Polymerization, Polymer Blends
+
+- Polymers are large molecules composed of repeating units called monomers, which are linked together by covalent bonds.
+- Polymerization is the process of forming polymers from monomers, either by addition or condensation reactions.
+- Addition polymerization involves the joining of monomers without the elimination of any atoms or molecules, such as water. The monomers have double or triple bonds that are broken and reformed to link with other monomers. For example, ethene can polymerize to form polyethylene, a common plastic.
+- Condensation polymerization involves the joining of monomers with the elimination of a small molecule, such as water, ammonia, or hydrogen chloride. The monomers have functional groups that react with each other to form covalent bonds and release the by-product. For example, nylon is formed by the condensation of hexamethylenediamine and adipic acid.
+- Polymer blends are mixtures of two or more polymers that are physically mixed but not chemically bonded. They are used to combine the properties of different polymers and improve the performance of the final product. For example, polystyrene and polybutadiene can be blended to form high-impact polystyrene, which is more tough and resilient than pure polystyrene.

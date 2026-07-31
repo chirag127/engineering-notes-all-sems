@@ -1,0 +1,12 @@
+### Addresses in the Target Code
+
+- Addresses in the target code are the locations where the values of variables, constants, temporaries, and intermediate results are stored in the memory or registers of the target machine.
+- Addresses in the target code can be classified into four categories:
+  - Absolute addresses: These are the actual physical addresses in the memory where the data is stored. For example, `x = 1000` means that the value of x is stored at the memory location 1000.
+  - Relative addresses: These are the offsets from a base address, such as the beginning of a data segment or a stack frame. For example, `x = 8(R1)` means that the value of x is stored at the memory location obtained by adding 8 to the value of register R1.
+  - Register addresses: These are the names of the registers in the target machine where the data is stored. For example, `x = R2` means that the value of x is stored in the register R2.
+  - Indirect addresses: These are the addresses that point to another address where the data is stored. For example, `x = (R3)` means that the value of x is stored at the memory location pointed by the value of register R3.
+- Addresses in the target code are determined by the code generator, which is the final phase of the compiler. The code generator takes the optimized intermediate representation (such as three-address code) as the input and produces the target code (such as assembly code) as the output.
+- The code generator performs two main tasks:
+  - Register allocation: This is the process of assigning registers to the operands and temporaries in the intermediate code. Registers are faster than memory locations, so using registers can improve the performance of the target code. However, registers are limited in number, so the code generator has to use some strategies to allocate registers efficiently, such as graph coloring, linear scan, or local allocation.
+  - Code optimization: This is the process of improving the quality of the target code by applying some transformations, such as instruction selection, instruction scheduling, or peephole optimization. Code optimization can reduce the size, execution time, or power consumption of the target code. However, code optimization may also introduce some trade-offs, such as increased complexity, compilation time, or debugging difficulty.

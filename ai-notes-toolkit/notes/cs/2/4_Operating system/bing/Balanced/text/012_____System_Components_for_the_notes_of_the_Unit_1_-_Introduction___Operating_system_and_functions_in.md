@@ -1,0 +1,13 @@
+### System Components for the notes of the Unit 1 - Introduction : Operating system and functions
+
+- A system component is a process, program, utility, or another part of a computer's operating system that helps to manage different areas of the computer.
+- An operating system is a large and complex system that can only be created by partitioning into small pieces.
+- The main components of an operating system are  :
+  - Process Management: A process is a program in execution. A process can be suspended temporarily and the execution can be resumed later. Process management involves creating and deleting processes, scheduling CPU time, managing memory, and synchronizing processes.
+  - File Management: A file is a collection of related information which is defined by its creator. Files are used for long-term storage and for both input and output. File management involves creating and deleting files, organizing files in directories, controlling access to files, and managing disk space .
+  - Network Management: A network is a collection of computers and devices that are connected by communication channels. Network management involves establishing and maintaining network connections, transmitting and receiving data, and providing network security.
+  - Main Memory Management: Main memory is the primary storage area of the computer. It is volatile and fast. Main memory management involves allocating and deallocating memory space to processes, managing virtual memory, and ensuring memory protection .
+  - Secondary Storage Management: Secondary storage is the non-volatile storage area of the computer. It is slower and cheaper than main memory. Secondary storage management involves managing disk drives, disk partitions, disk formatting, and disk caching .
+  - I/O Device Management: I/O devices are the peripherals that allow the computer to interact with the external world. They include keyboards, mice, monitors, printers, scanners, etc. I/O device management involves controlling the operation of I/O devices, buffering and caching I/O data, and handling I/O errors .
+  - Security Management: Security management involves protecting the computer system and its resources from unauthorized access, malicious attacks, and accidental damage. It includes implementing authentication, encryption, firewall, antivirus, and backup mechanisms.
+  - Command Interpreter System: A command interpreter system is a program that allows the user to interact with the operating system. It can be a graphical user interface (GUI) or a command-line interface (CLI). It accepts commands from the user and executes them by invoking the appropriate system components .

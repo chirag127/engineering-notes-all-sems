@@ -1,0 +1,13 @@
+# Prevention for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+
+- CPU scheduling is the process of deciding which process will own the CPU to use while another process is suspended.
+- CPU scheduling algorithms are designed to optimize the performance, throughput, response time, and fairness of the system.
+- CPU scheduling can be classified into two types: preemptive and non-preemptive. Preemptive scheduling allows the CPU to switch from one process to another before the current process finishes its execution, while non-preemptive scheduling does not.
+- Some of the common CPU scheduling algorithms are: first come first serve (FCFS), shortest job first (SJF), priority scheduling, round robin (RR), and multilevel queue scheduling.
+- CPU scheduling can face some challenges such as starvation, aging, deadlock, and convoy effect. Starvation occurs when a low-priority process is indefinitely blocked from the CPU by a stream of higher-priority processes. Aging is a technique to prevent starvation by gradually increasing the priority of a waiting process. Deadlock occurs when a set of processes are waiting for each other's resources and none of them can proceed. Convoy effect occurs when a long process blocks the CPU and causes other processes to wait for a long time in the ready queue .
+- CPU scheduling can be prevented by applying some strategies such as:
+  - Avoiding mutual exclusion: This means allowing multiple processes to share the same resource without blocking each other. However, this is not possible for some resources that are inherently non-sharable, such as printers and tape drives.
+  - Avoiding hold and wait: This means requiring a process to request all the resources it needs at once, and releasing them all when it is done. This way, a process will not hold any resource while waiting for another one.
+  - Avoiding circular wait: This means imposing a total ordering on the resources and requiring a process to request them in a consistent order. This way, a cycle of dependency among the processes will not form.
+  - Avoiding preemptive scheduling: This means using non-preemptive scheduling algorithms that do not interrupt a running process until it finishes or voluntarily yields the CPU. This way, a process will not lose the CPU to another process with higher priority or shorter burst time.
+  - Using feedback mechanisms: This means adjusting the parameters of the scheduling algorithms based on the behavior and characteristics of the processes. For example, using aging to increase the priority of a waiting process, or using multilevel feedback queue to dynamically assign processes to different queues based on their CPU usage .

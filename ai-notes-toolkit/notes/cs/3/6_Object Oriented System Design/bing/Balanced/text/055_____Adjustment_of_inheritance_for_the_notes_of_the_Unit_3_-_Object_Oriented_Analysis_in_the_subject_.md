@@ -1,0 +1,10 @@
+### Adjustment of inheritance
+
+- Adjustment of inheritance is a technique of object design that aims to increase the amount of inheritance in a class hierarchy by modifying the definitions of classes and operations .
+- Inheritance is a mechanism of object-oriented programming that allows a class to inherit the attributes and behaviors of another class, called the superclass or parent class.
+- Inheritance can improve the reusability, extensibility, and maintainability of code by avoiding duplication and enabling polymorphism.
+- Adjustment of inheritance can be done by following these steps  :
+  - Rearrange and adjust classes and operations to increase inheritance. This can involve moving common attributes and operations to a superclass, or creating new superclasses or subclasses to capture the similarities and differences among classes.
+  - Abstract common behavior out of groups of classes. This can involve defining abstract classes or interfaces that specify the common operations that subclasses must implement, or using design patterns such as template method or strategy to define a common algorithm with variations.
+  - Use delegation to share behavior when inheritance is semantically invalid. This can involve creating helper classes or components that provide the shared behavior, and delegating the calls to them from the classes that need them, or using design patterns such as adapter or facade to provide a uniform interface to a set of classes.
+- Adjustment of inheritance should be done carefully, as it can also introduce some drawbacks, such as increased complexity, coupling, and fragility of the class hierarchy. The depth of inheritance, which measures the maximum length from a class to the root of the hierarchy, is a code metric that can indicate the potential problems of inheritance. A high depth of inheritance can make the code harder to understand, test, and modify. Therefore, adjustment of inheritance should balance the benefits and costs of inheritance, and follow the principles of good object-oriented design, such as cohesion, coupling, abstraction, encapsulation, and polymorphism.

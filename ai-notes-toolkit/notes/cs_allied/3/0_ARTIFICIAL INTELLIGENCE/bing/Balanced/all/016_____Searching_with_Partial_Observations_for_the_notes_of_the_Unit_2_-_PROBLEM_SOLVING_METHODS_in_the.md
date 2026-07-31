@@ -1,0 +1,10 @@
+# Searching with Partial Observations
+
+- Searching with partial observations is a type of problem solving method in artificial intelligence where the agent does not have complete information about the state of the environment or the effects of its actions.
+- This type of problem is more realistic and challenging than searching with full observability, where the agent knows everything about the world and can plan its actions accordingly.
+- Searching with partial observations requires the agent to deal with uncertainty and ambiguity, and to use its memory and reasoning skills to infer the hidden information and update its beliefs over time.
+- There are different ways to model and solve problems with partial observations, depending on the nature and degree of uncertainty involved. Some of the common approaches are:
+
+  - **Sensorless search**: The agent has no sensors and cannot observe anything about the environment. It can only act and hope to reach the goal state. The agent needs to find a sequence of actions that is guaranteed to succeed in any possible initial state and any possible outcome of its actions. This is also known as **conformant search** or **contingency planning**.
+  - **Search with noisy sensors**: The agent has sensors but they are unreliable and may give incorrect or incomplete information. The agent needs to find a sequence of actions that is robust to sensor errors and can handle different possible observations. This is also known as **belief state search** or **partially observable search**.
+  - **Search with hidden state variables**: The agent has sensors but they cannot observe some aspects of the environment that are relevant for the problem. The agent needs to infer the hidden state variables from the observable ones and use them to guide its actions. This is also known as **hidden state search** or **hidden parameter search**.

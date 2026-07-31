@@ -1,0 +1,23 @@
+#### Demonstration of working, construction and accessories for Lathe machine
+
+- A lathe machine is a machine tool that is used to perform various operations such as turning, facing, threading, knurling, parting, etc. on a workpiece that is rotated about a fixed axis.
+- The working principle of a lathe machine is that the workpiece is held between two rigid and strong supports called centers or in a chuck or face plate which revolves. The cutting tool is rigidly held and supported in a tool post which is fed against the revolving work. The tool material should be harder than the workpiece and the latter held securely and rigidly on the machine  .
+- The construction of a lathe machine consists of the following main parts:
+  - Bed: It is the base of the machine on which the headstock, tailstock, carriage and other accessories are mounted. It is made of cast iron and has guide ways for the movement of the carriage.
+  - Headstock: It is the fixed part of the machine that holds the spindle and the driving mechanism. It is located at the left end of the bed. The spindle is a hollow cylindrical shaft that rotates the workpiece or the chuck. The driving mechanism consists of an electric motor, a belt, a pulley and a gear box that transmit the power and speed to the spindle.
+  - Tailstock: It is the movable part of the machine that supports the other end of the workpiece. It is located at the right end of the bed and can be adjusted along the guide ways. It has a quill or a barrel that can slide in and out to hold the dead center or a drill bit for drilling operations.
+  - Carriage: It is the part of the machine that holds and moves the cutting tool along the workpiece. It consists of the following components:
+    - Saddle: It is a rectangular casting that slides on the guide ways of the bed. It supports the cross slide and the compound slide.
+    - Cross slide: It is a rectangular casting that slides on the dovetail guide ways of the saddle. It has a hand wheel and a screw for moving the tool perpendicular to the axis of the workpiece.
+    - Compound slide: It is a small casting that is mounted on the top of the cross slide. It has a swivel base that can be rotated to any angle. It has a hand wheel and a screw for moving the tool at an angle to the axis of the workpiece.
+    - Tool post: It is a device that holds the tool in a fixed position. It is mounted on the top of the compound slide. It has a clamping mechanism that can be adjusted to accommodate different types of tools.
+  - Feed mechanism: It is the mechanism that controls the movement of the carriage and the tool along the workpiece. It consists of the following components:
+    - Lead screw: It is a long threaded rod that runs parallel to the bed. It is driven by the headstock through a gear train. It is used for thread cutting operations.
+    - Feed rod: It is a long smooth rod that runs parallel to the bed. It is driven by the headstock through a gear train. It is used for turning and facing operations.
+    - Feed box: It is a device that is mounted on the left end of the apron. It has a set of gears that can be changed to vary the feed rate and the direction of the carriage and the tool.
+    - Apron: It is a box-like casting that is attached to the saddle. It houses the feed box and the clutch mechanism. It also has a hand wheel for manual movement of the carriage.
+- The accessories of a lathe machine are the devices that are used to enhance the performance and the capabilities of the machine. Some of the common accessories are:
+  - Chuck: It is a device that is mounted on the spindle to hold the workpiece. It can be of different types such as three-jaw chuck, four-jaw chuck, collet chuck, etc.
+  - Face plate: It is a circular plate that is mounted on the spindle to hold irregular or large workpieces. It has slots and holes for clamping the workpiece.
+  - Steady rest: It is a device that is mounted on the bed to support long or slender workpieces. It has three adjustable jaws that can be set to the diameter of the workpiece.
+  - Follower rest: It is a device that is mounted on the carriage to support long or slender workpieces. It has two adjustable jaws that can be set to the diameter

@@ -1,0 +1,12 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic of analysis for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication. Here is a summary of the main points:
+
+- Technical communication skills are the abilities to communicate effectively and efficiently in a technical or professional context, such as engineering, science, or business.
+- Technical communication skills include written, oral, visual, and digital communication, as well as teamwork, problem-solving, critical thinking, and ethical awareness.
+- Written communication skills involve the ability to produce clear, concise, and accurate documents, such as reports, proposals, manuals, memos, emails, and letters, that meet the needs and expectations of the audience and the purpose.
+- Oral communication skills involve the ability to deliver engaging, informative, and persuasive presentations, speeches, interviews, and meetings, that suit the occasion, audience, and objective.
+- Visual communication skills involve the ability to create and use appropriate graphics, charts, diagrams, tables, and images, that enhance the understanding and impact of the message.
+- Digital communication skills involve the ability to use and adapt to various technologies, platforms, and media, such as websites, blogs, podcasts, videos, and social networks, that facilitate and enrich the communication process.
+- Teamwork skills involve the ability to collaborate, cooperate, and coordinate with others, such as colleagues, clients, and stakeholders, in a respectful, constructive, and productive manner.
+- Problem-solving skills involve the ability to identify, analyze, and resolve technical or professional issues, challenges, or questions, using logical, creative, and systematic methods.
+- Critical thinking skills involve the ability to evaluate, interpret, and synthesize information, data, and evidence, from various sources and perspectives, using rational, objective, and analytical reasoning.
+- Ethical awareness skills involve the ability to recognize, understand, and apply ethical principles, standards, and codes, that govern the technical or professional field, and to act with honesty, integrity, and responsibility.

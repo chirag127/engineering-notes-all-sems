@@ -1,0 +1,21 @@
+### Semaphores for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+
+- A semaphore is a variable or abstract data type used to control access to a common resource by multiple threads and avoid critical section problems in a concurrent system such as a multitasking operating system.
+- A semaphore has two fields: a non-negative integer value S.V and a set of processes in a queue S.L.
+- A semaphore can be initialized to any non-negative value, depending on the number of resources available.
+- A semaphore supports two atomic operations: wait and signal, also known as P and V.
+- The wait operation decrements the value of the semaphore if it is positive, or blocks the calling process until the value becomes positive and then decrements it.
+- The signal operation increments the value of the semaphore and wakes up one of the blocked processes, if any, in the queue.
+- There are two main types of semaphores: counting semaphores and binary semaphores.
+- A counting semaphore can have any non-negative value and is used to represent the number of available resources or the number of empty slots in a buffer.
+- A binary semaphore can have only two values: 0 or 1, and is used to implement mutual exclusion or locks.
+- A binary semaphore is also called a mutex (short for mutual exclusion) semaphore.
+- Semaphores have some advantages and disadvantages:
+  - Advantages:
+    - Semaphores allow only one process into the critical section and follow the mutual exclusion principle.
+    - Semaphores are easy to implement and can be used for various synchronization problems.
+    - Semaphores can be used to synchronize processes that do not share a common address space or memory.
+  - Disadvantages:
+    - Semaphores may cause busy waiting, which wastes CPU time and resources.
+    - Semaphores may cause deadlock, starvation, or priority inversion, if not used carefully or correctly.
+    - Semaphores are low-level primitives and require programmers to handle the details of synchronization logic.

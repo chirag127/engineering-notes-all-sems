@@ -1,0 +1,8 @@
+### Process-to-process delivery in transport layer
+
+- The transport layer is responsible for delivering data from one process to another process on different hosts across a network. This is called process-to-process delivery .
+- A process is an application program that uses the services of the transport layer. For example, a web browser or an email client are processes that communicate with a web server or an email server respectively.
+- The transport layer uses port numbers to identify the source and destination processes in a packet. A port number is a 16-bit integer that is added to the packet header by the transport layer .
+- The transport layer also multiplexes and demultiplexes data from different processes. Multiplexing is the process of combining data from multiple processes into a single packet. Demultiplexing is the process of separating data from a single packet into multiple processes .
+- The transport layer provides two types of services: connection-oriented and connectionless. Connection-oriented service establishes a logical connection between the source and destination processes before data transfer. Connectionless service does not require a connection and sends data as independent packets .
+- The transport layer also performs error control, flow control, and congestion control. Error control is the process of detecting and correcting errors in the data packets. Flow control is the process of regulating the rate of data transmission between the source and destination processes. Congestion control is the process of avoiding or reducing network congestion by adjusting the data rate or dropping packets .

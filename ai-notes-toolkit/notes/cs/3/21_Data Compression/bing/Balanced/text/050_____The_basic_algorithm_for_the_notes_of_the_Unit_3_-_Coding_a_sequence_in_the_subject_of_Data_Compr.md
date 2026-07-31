@@ -1,0 +1,31 @@
+### The basic algorithm for the notes of the Unit 3 - Coding a sequence in the subject of Data Compression
+
+- Data compression is the process of encoding information using fewer bits than the original representation.
+- Coding a sequence is a technique of data compression that assigns codes to sequences of input bytes, rather than individual bytes.
+- Coding a sequence can achieve better compression ratio than coding a symbol, especially for data with repeated patterns.
+- One of the most popular coding a sequence algorithms is LZW (Lempel–Ziv–Welch) algorithm .
+- The basic steps of LZW algorithm are :
+  - Initialize a code table with 256 entries, corresponding to the ASCII codes of single characters.
+  - Read the first input byte and store it as the current sequence.
+  - While there are more input bytes, do the following:
+    - Read the next input byte and append it to the current sequence.
+    - If the current sequence is already in the code table, continue reading the next input byte.
+    - Otherwise, output the code of the current sequence without the last input byte, and add the current sequence with the last input byte to the code table with a new code.
+    - Reset the current sequence to the last input byte.
+  - Output the code of the current sequence and stop.
+- For example, suppose the input data is "ABABABA". The LZW algorithm will produce the following output:
+  - Initialize the code table with 256 entries for single characters.
+  - Read the first input byte "A" and store it as the current sequence.
+  - Read the next input byte "B" and append it to the current sequence, forming "AB".
+  - Since "AB" is not in the code table, output the code of "A" (65), and add "AB" to the code table with a new code (256).
+  - Reset the current sequence to "B".
+  - Read the next input byte "A" and append it to the current sequence, forming "BA".
+  - Since "BA" is not in the code table, output the code of "B" (66), and add "BA" to the code table with a new code (257).
+  - Reset the current sequence to "A".
+  - Read the next input byte "B" and append it to the current sequence, forming "AB".
+  - Since "AB" is in the code table, continue reading the next input byte.
+  - Read the next input byte "A" and append it to the current sequence, forming "ABA".
+  - Since "ABA" is not in the code table, output the code of "AB" (256), and add "ABA" to the code table with a new code (258).
+  - Reset the current sequence to "A".
+  - There are no more input bytes, so output the code of "A" (65) and stop.
+  - The final output is 65, 66, 256, 65.

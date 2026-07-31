@@ -1,0 +1,12 @@
+# CO-3 Measure the hardness and alkalinity of the water. K3
+
+- Hardness of water is the measure of the amount of calcium and magnesium salts dissolved in it. It is expressed in terms of equivalent calcium carbonate (CaCO3).
+- Alkalinity of water is the measure of the capacity of water to neutralize acids. It is mainly due to the presence of bicarbonates, carbonates and hydroxides of calcium, magnesium and other metals. It is also expressed in terms of equivalent calcium carbonate (CaCO3).
+- The hardness and alkalinity of water are important parameters for various applications, such as drinking water, industrial water, boiler water, irrigation water, etc.
+- The hardness and alkalinity of water can be measured by titration methods using standard solutions of acids and bases.
+- The hardness of water can be measured by two methods: total hardness and permanent hardness.
+  - Total hardness is the sum of calcium and magnesium hardness. It can be measured by titrating a sample of water with a standard solution of ethylenediaminetetraacetic acid (EDTA) using eriochrome black T as an indicator. The end point is marked by a color change from wine red to blue.
+  - Permanent hardness is the hardness that remains after boiling the water. It is mainly due to the presence of chlorides and sulfates of calcium and magnesium. It can be measured by titrating a boiled sample of water with a standard solution of sodium carbonate using methyl orange as an indicator. The end point is marked by a color change from yellow to orange.
+- The alkalinity of water can be measured by two methods: total alkalinity and phenolphthalein alkalinity.
+  - Total alkalinity is the sum of all the bases that can react with acids. It can be measured by titrating a sample of water with a standard solution of sulfuric acid using phenolphthalein and methyl orange as indicators. The end point for phenolphthalein alkalinity is marked by a color change from pink to colorless. The end point for total alkalinity is marked by a color change from yellow to orange.
+  - Phenolphthalein alkalinity is the alkalinity due to the presence of hydroxides and half of the carbonates. It can be measured by titrating a sample of water with a standard solution of sulfuric acid using phenolphthalein as an indicator. The end point is marked by a color change from pink to colorless.

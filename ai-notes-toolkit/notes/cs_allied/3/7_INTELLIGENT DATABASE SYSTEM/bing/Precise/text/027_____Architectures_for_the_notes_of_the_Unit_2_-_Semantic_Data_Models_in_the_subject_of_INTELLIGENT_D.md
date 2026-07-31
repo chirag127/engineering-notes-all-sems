@@ -1,0 +1,7 @@
+### Architectures for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+
+1. **Three-Schema Architecture**: This architecture separates the user applications and the physical database. It consists of three levels: the external level, the conceptual level, and the internal level.
+2. **Two-Schema Architecture**: This architecture is a simplified version of the three-schema architecture. It consists of two levels: the external level and the internal level.
+3. **Client-Server Architecture**: This architecture is used in distributed database systems. It consists of two components: the client and the server. The client sends requests to the server, and the server processes the requests and sends the results back to the client.
+4. **Peer-to-Peer Architecture**: This architecture is used in distributed database systems where each node acts as both a client and a server. Each node can send requests to other nodes and can also process requests from other nodes.
+5. **Service-Oriented Architecture**: This architecture is used in distributed database systems where the database is accessed through a set of services. Each service provides a specific functionality and can be accessed by other services or by the client.

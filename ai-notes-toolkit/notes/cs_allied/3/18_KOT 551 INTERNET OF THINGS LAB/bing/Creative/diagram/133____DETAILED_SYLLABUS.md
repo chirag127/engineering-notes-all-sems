@@ -1,0 +1,10 @@
+## DETAILED SYLLABUS
+
+A detailed syllabus is a document that outlines the topics, objectives, assignments, assessments, and policies of a course. It serves as a guide for both instructors and students to plan and manage their learning activities. A detailed syllabus typically includes the following sections:
+
+- **Course information**: This section provides basic information about the course, such as the course title, code, number, credits, prerequisites, instructor name, contact details, office hours, and course website.
+- **Course description**: This section gives an overview of the main themes, goals, and outcomes of the course. It explains the purpose and relevance of the course, the learning objectives, and the expected competencies of the students upon completion of the course.
+- **Course schedule**: This section lists the topics, readings, assignments, and assessments for each week or unit of the course. It indicates the deadlines, due dates, and weightings of the assignments and assessments. It also specifies the required and recommended texts, materials, and resources for the course.
+- **Course policies**: This section outlines the rules and expectations for the course, such as the attendance, participation, late submission, academic integrity, grading, and feedback policies. It also explains the procedures for requesting extensions, accommodations, or appeals, and the consequences for violating the policies.
+- **Course evaluation**: This section describes the methods and criteria for assessing the students' performance and learning in the course. It explains how the assignments and assessments align with the learning objectives, how they will be graded, and how the final grade will be calculated.
+- **Course support**: This section provides information and resources for the students to access additional help and guidance for the course, such as the instructor's office hours, the teaching assistants' contact details, the academic support services, and the online learning platforms.

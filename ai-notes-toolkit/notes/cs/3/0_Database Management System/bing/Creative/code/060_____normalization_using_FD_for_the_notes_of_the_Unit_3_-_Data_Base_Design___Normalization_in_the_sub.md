@@ -1,0 +1,14 @@
+### Normalization using FD
+
+Normalization is the process of designing a relational database schema to minimize redundancy and anomalies. Redundancy occurs when the same data is stored in more than one place, leading to waste of space and inconsistency. Anomalies occur when the data is not updated correctly, leading to loss of integrity and accuracy. Normalization aims to eliminate these problems by decomposing a relation into smaller relations that satisfy certain properties.
+
+Functional dependency (FD) is a concept that describes the relationship between attributes (columns) in a relation. A functional dependency FD: X -> Y means that the values of Y are determined by the values of X. Two tuples (rows) sharing the same values of X will necessarily have the same values of Y. For example, if a relation R has attributes A, B, and C, and FD: A -> B holds, then for any two tuples t1 and t2 in R, if t1[A] = t2[A], then t1[B] = t2[B].
+
+Normalization using FD involves applying a series of rules or normal forms to check if a relation satisfies certain conditions based on the functional dependencies among its attributes. The most common normal forms are:
+
+- First normal form (1NF): A relation is in 1NF if it has no repeating groups or multivalued attributes. That is, each attribute contains only atomic values and each tuple has a unique value for each attribute.
+- Second normal form (2NF): A relation is in 2NF if it is in 1NF and every non-key attribute is fully functionally dependent on the primary key. That is, there is no partial dependency, where a non-key attribute depends on only a part of the primary key.
+- Third normal form (3NF): A relation is in 3NF if it is in 2NF and every non-key attribute is non-transitively dependent on the primary key. That is, there is no transitive dependency, where a non-key attribute depends on another non-key attribute that depends on the primary key.
+- Boyce-Codd normal form (BCNF): A relation is in BCNF if it is in 3NF and every determinant is a candidate key. A determinant is a set of attributes that determines another attribute. A candidate key is a minimal set of attributes that uniquely identifies a tuple. BCNF is a special case of 3NF that applies when a relation has more than one candidate key.
+
+To normalize a relation using FD, we need to identify all the functional dependencies among its attributes and check if they violate any of the normal forms. If they do, we need to decompose the relation into smaller relations that preserve the functional dependencies and satisfy the normal forms. The process of decomposition should also ensure that there is no loss of information or introduction of spurious tuples. There are different algorithms for performing decomposition, such as synthesis algorithm, decomposition algorithm, and dependency-preserving algorithm.

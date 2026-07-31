@@ -1,0 +1,22 @@
+### Cache memories for the notes of the Unit 4 - Memory in the subject of Computer Organization and Architecture
+
+- Cache memory is a special type of memory that is faster than main memory and is used to store frequently accessed data and instructions .
+- Cache memory is located between the CPU and the main memory, and acts as a buffer to reduce the average access time .
+- Cache memory is usually implemented using static RAM (SRAM) which is faster but more expensive than dynamic RAM (DRAM) used for main memory.
+- Cache memory is divided into small blocks of fixed size, called cache lines or cache blocks, which correspond to the blocks of main memory .
+- Cache memory has a limited capacity, so when a new block is brought from main memory, an existing block in the cache must be replaced .
+- The replacement policy determines which block to replace when the cache is full. Some common policies are FIFO, LRU, LFU, etc.
+- The mapping function determines where a block from main memory can be placed in the cache. There are three types of mapping functions: direct, associative, and set-associative .
+- Direct mapping assigns each block of main memory to a specific cache line. It is simple and fast, but may cause conflicts if two frequently accessed blocks map to the same cache line .
+- Associative mapping allows a block of main memory to be placed in any cache line. It avoids conflicts, but requires a complex and slow search mechanism to find a block in the cache .
+- Set-associative mapping divides the cache into sets of cache lines, and allows a block of main memory to be placed in any cache line within a set. It is a compromise between direct and associative mapping, and combines the advantages of both .
+- The write policy determines how the cache and the main memory are updated when the CPU writes data to the cache. There are two types of write policies: write-through and write-back .
+- Write-through policy updates both the cache and the main memory whenever the CPU writes data to the cache. It ensures consistency, but increases the traffic and the latency .
+- Write-back policy updates only the cache when the CPU writes data to the cache, and delays the update of the main memory until the cache block is replaced. It reduces the traffic and the latency, but may cause inconsistency .
+- The write policy also requires a write buffer to store the data that needs to be written to the main memory. The write buffer allows the CPU to continue its operation without waiting for the main memory to be updated .
+- The cache performance depends on several factors, such as the cache size, the cache line size, the mapping function, the replacement policy, the write policy, the hit ratio, the miss penalty, etc .
+- The hit ratio is the fraction of memory accesses that are found in the cache. The miss ratio is the fraction of memory accesses that are not found in the cache .
+- The miss penalty is the additional time required to bring a block from the main memory to the cache when a miss occurs .
+- The average memory access time (AMAT) is the weighted average of the cache access time and the miss penalty. It is given by the formula: AMAT = cache access time + (miss ratio * miss penalty) .
+- The cache performance can be improved by increasing the cache size, reducing the cache line size, using a suitable mapping function, choosing an optimal replacement policy, adopting a write-back policy, increasing the hit ratio, and reducing the miss penalty .
+- Cache memory is an important component of computer architecture that enhances the speed and efficiency of the CPU and the memory system .

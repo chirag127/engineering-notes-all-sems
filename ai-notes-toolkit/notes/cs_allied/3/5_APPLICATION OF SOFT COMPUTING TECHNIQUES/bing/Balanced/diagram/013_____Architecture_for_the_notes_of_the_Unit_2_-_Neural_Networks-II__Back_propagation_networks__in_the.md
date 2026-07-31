@@ -1,0 +1,15 @@
+### Architecture of Back Propagation Networks
+
+- A back propagation network is a type of artificial neural network that uses a supervised learning algorithm to adjust the weights of the connections between the neurons.
+- A back propagation network consists of three main components: an input layer, one or more hidden layers, and an output layer. Each layer is fully connected to the next layer, meaning that every neuron in one layer is connected to every neuron in the next layer.
+- The input layer receives the input data, such as images, text, or numbers, and passes it to the first hidden layer. The hidden layers perform nonlinear transformations on the input data using activation functions, such as sigmoid, tanh, or ReLU. The output layer produces the final output of the network, such as a classification, a regression, or a prediction.
+- The architecture of a back propagation network can be represented by a diagram, such as the one shown below:
+
+![Back propagation network diagram](https://www.researchgate.net/profile/Chun-Yi-Lee-2/publication/234101900/figure/fig1/AS:667713636831232@1536649789063/Architecture-of-back-propagation-network.png)
+
+- In this diagram, there are four neurons in the input layer, three neurons in the hidden layer, and two neurons in the output layer. The arrows indicate the direction of the data flow, and the numbers on the arrows indicate the weights of the connections. The biases of the neurons are not shown in the diagram, but they are also part of the network parameters.
+- The architecture of a back propagation network can vary depending on the problem and the data. There is no definitive rule for choosing the number of hidden layers or the number of neurons in each layer, but some general guidelines are:
+
+  - The number of neurons in the input layer should match the dimensionality of the input data. For example, if the input data is a 28x28 pixel image, the input layer should have 784 neurons.
+  - The number of neurons in the output layer should match the desired output of the network. For example, if the network is performing a binary classification, the output layer should have one neuron. If the network is performing a multi-class classification, the output layer should have as many neurons as the number of classes.
+  - The number of hidden layers and the number of neurons in each hidden layer should be chosen based on the complexity of the problem and the amount of data available. Generally, more hidden layers and more neurons can increase the expressive power of the network, but they can also increase the risk of overfitting and the computational cost of training. A common practice is to start with a simple architecture and gradually increase the complexity until the performance of the network stops improving or starts deteriorating.

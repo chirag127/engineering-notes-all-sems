@@ -1,0 +1,23 @@
+### Binary tree
+
+- A binary tree is a tree data structure where each node has at most two child nodes, creating the branches of the tree  .
+- The two children are usually called the left and right nodes .
+- A binary tree is also an ordered tree (a.k.a. plane tree) in which every node has a fixed position relative to its parent.
+- A binary tree can be empty (no nodes) or non-empty (at least one node).
+- A binary tree can be classified into different types based on the number and structure of its nodes, such as:
+  - A full binary tree (sometimes referred to as a proper or plane or strict binary tree) is a tree in which every node has either 0 or 2 children .
+  - A complete binary tree is a tree in which every level, except possibly the last, is completely filled, and all nodes are as far left as possible.
+  - A balanced binary tree is a tree in which the height of the left and right subtrees of every node differ by at most 1.
+  - A perfect binary tree is a full binary tree in which all leaves are at the same level.
+- A binary tree can be represented by a pointer to the topmost node (commonly known as the “root”) of the tree.
+- A binary tree can be traversed in different ways, such as:
+  - Preorder traversal: visit the root node, then the left subtree, then the right subtree.
+  - Inorder traversal: visit the left subtree, then the root node, then the right subtree.
+  - Postorder traversal: visit the left subtree, then the right subtree, then the root node.
+  - Level order traversal: visit the nodes level by level, from left to right.
+- A binary tree can be used to implement various data structures and algorithms, such as:
+  - Binary search tree: a binary tree where the left subtree of a node contains only nodes with keys less than the node's key, and the right subtree of a node contains only nodes with keys greater than the node's key.
+  - Heap: a binary tree where the key of a node is greater than or equal to (max-heap) or less than or equal to (min-heap) the keys of its children.
+  - Huffman coding: a binary tree where the leaves represent symbols and their frequencies, and the internal nodes represent the prefix codes for the symbols.
+  - Expression tree: a binary tree where the leaves represent operands and the internal nodes represent operators.
+  - Decision tree: a binary tree where the nodes represent questions or tests, and the branches represent possible outcomes or actions.

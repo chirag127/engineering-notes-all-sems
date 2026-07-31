@@ -1,0 +1,10 @@
+##### 2. To study Hall effect and determine Hall coefficient, carrier density and mobility of a semiconductor
+
+- Hall effect is the phenomenon of generation of a transverse electric field (Hall field) in a current-carrying conductor when it is placed in a magnetic field perpendicular to the current direction  .
+- Hall effect can be used to determine the type, concentration and mobility of charge carriers in a semiconductor   .
+- To study Hall effect, a thin rectangular slab of a semiconductor is connected to a constant current source and placed between two poles of a magnet. The magnetic field is perpendicular to the current direction and the slab surface. A voltmeter is connected across the slab to measure the Hall voltage  .
+- The Hall voltage is proportional to the product of the current, the magnetic field and the Hall coefficient, which is a characteristic of the material and depends on the type and density of charge carriers  .
+- The Hall coefficient can be used to determine the polarity of the charge carriers, i.e. whether they are electrons (negative) or holes (positive). If the Hall voltage is positive, the charge carriers are positive, and vice versa   .
+- The Hall coefficient can also be used to determine the carrier density, i.e. the number of charge carriers per unit volume of the material. The carrier density is inversely proportional to the Hall coefficient  .
+- The mobility of the charge carriers, i.e. the ease with which they move in the material under the influence of an electric field, can be determined by dividing the conductivity of the material by the carrier density. The conductivity can be measured by the resistance of the slab and the current  .
+- Hall effect has many applications in sensing, measuring and controlling magnetic fields, currents, positions, speeds, etc. It is also used to identify the type and quality of semiconductors    .

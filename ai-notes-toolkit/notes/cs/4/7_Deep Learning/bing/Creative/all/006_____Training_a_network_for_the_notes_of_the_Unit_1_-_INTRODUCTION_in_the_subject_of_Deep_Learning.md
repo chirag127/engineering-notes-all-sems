@@ -1,0 +1,15 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the subject of Deep Learning. Here is the content for the topic of Training a network for the notes of the Unit 1 - INTRODUCTION:
+
+# Training a network
+
+- Training a network is the process of adjusting the parameters of a neural network to minimize a loss function that measures the discrepancy between the network's predictions and the actual labels of the data.
+- The loss function is also called the objective function or the cost function, and it quantifies the performance of the network on a given task.
+- The most common loss function for supervised learning is the cross-entropy loss, which measures the difference between the probability distributions of the network's outputs and the true labels.
+- The most common loss function for unsupervised learning is the reconstruction loss, which measures the difference between the network's outputs and the inputs themselves, assuming the network is trying to learn a representation of the data.
+- The most common optimization algorithm for training a network is gradient descent, which iteratively updates the parameters of the network in the opposite direction of the gradient of the loss function with respect to the parameters.
+- The gradient is a vector that points to the direction of the steepest ascent of the loss function, and by moving in the opposite direction, the network tries to find the minimum of the loss function.
+- The learning rate is a hyperparameter that controls the size of the update step in gradient descent. A high learning rate can lead to faster convergence, but also to instability and divergence. A low learning rate can lead to slower convergence, but also to better accuracy and stability.
+- The batch size is another hyperparameter that controls the number of data samples used to compute the gradient at each iteration. A large batch size can lead to more accurate and stable gradients, but also to higher memory and computational costs. A small batch size can lead to faster and more frequent updates, but also to noisy and biased gradients.
+- The epoch is a unit of measurement that indicates how many times the network has seen the entire training data set. One epoch consists of multiple iterations, where each iteration uses a different batch of data samples.
+- The validation set is a subset of the data set that is not used for training, but for evaluating the performance of the network on unseen data. The validation set can help to tune the hyperparameters and to prevent overfitting, which is the phenomenon of the network memorizing the training data and losing the ability to generalize to new data.
+- The test set is another subset of the data set that is not used for training or validation, but for testing the final performance of the network on unseen data. The test set should only be used once, after the network has been trained and validated, to avoid biasing the results.

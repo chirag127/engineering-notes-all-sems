@@ -1,0 +1,24 @@
+# Viral Structures
+
+- Viruses are noncellular genetic elements that use a living cell for their replication and have an extracellular state.
+- Viruses are ultramicroscopic particles containing nucleic acid surrounded by protein, and in some cases, other macromolecular components such as a membranelike envelope.
+- Viruses are observed in a wide range of shapes and sizes, but these shapes are constant in a particular viral family.
+- The basic structure of all viruses includes nucleic acid, either DNA (Deoxyribonucleic Acid) or RNA (Ribonucleic Acid) called a genome which is enveloped by a protein coat called a capsid .
+- Many viruses have a lipoprotein bilayer that encloses the capsid, called an envelope .
+- The nucleic acid of a virus contains the genetic information for the synthesis of proteins and replication.
+- The capsid is composed of subunits called capsomeres, which may have different shapes and arrangements depending on the type of virus .
+- The envelope may have spikes or glycoproteins that help the virus attach to the host cell or evade the host immune system .
+- Viruses can be classified into two main classes based on their nucleic acid: RNA viruses and DNA viruses.
+- RNA viruses have single-stranded or double-stranded RNA as their genome, and they may be positive-sense or negative-sense, depending on the polarity of their RNA .
+- DNA viruses have single-stranded or double-stranded DNA as their genome, and they may be linear or circular, depending on the shape of their DNA .
+- Some examples of RNA viruses are influenza virus, coronavirus, poliovirus, and HIV .
+- Some examples of DNA viruses are herpesvirus, adenovirus, poxvirus, and hepatitis B virus .
+- Viruses can also be classified into different types based on their shape, such as helical, icosahedral, complex, or enveloped .
+- Helical viruses have a rod-shaped or filamentous capsid that forms a helix around the nucleic acid .
+- Icosahedral viruses have a spherical capsid that consists of 20 triangular faces and 12 vertices .
+- Complex viruses have a capsid that is neither helical nor icosahedral, and may have additional structures such as a tail or a head .
+- Enveloped viruses have a capsid that is surrounded by a lipid bilayer derived from the host cell membrane .
+- Some examples of helical viruses are tobacco mosaic virus, rabies virus, and Ebola virus .
+- Some examples of icosahedral viruses are poliovirus, adenovirus, and herpesvirus .
+- Some examples of complex viruses are bacteriophage, poxvirus, and mimivirus .
+- Some examples of enveloped viruses are influenza virus, coronavirus, and HIV .

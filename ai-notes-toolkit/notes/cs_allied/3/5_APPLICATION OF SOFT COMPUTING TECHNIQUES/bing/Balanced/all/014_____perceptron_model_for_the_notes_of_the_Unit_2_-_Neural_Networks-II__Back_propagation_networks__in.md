@@ -1,0 +1,22 @@
+# Perceptron Model
+
+- The perceptron is a **simplified model of a biological neuron** that accepts multiple inputs and outputs a single value  .
+- The perceptron has four key components:
+  - **Input values**: These are the numerical values that represent the features of the data, such as pixels, coordinates, measurements, etc.
+  - **Weights**: These are the numerical values that determine how much each input contributes to the output. They can be positive or negative, and are usually initialized randomly or with zeros.
+  - **Weighted sum**: This is the result of multiplying each input by its corresponding weight and adding them together. It represents the strength of the signal that passes through the perceptron.
+  - **Activation function**: This is a function that maps the weighted sum to the output value. It usually has a threshold or a range that determines whether the output is positive or negative, or between 0 and 1. A common activation function is the **step function**, which outputs 1 if the weighted sum is greater than or equal to 0, and 0 otherwise.
+- The perceptron can be used for **binary classification** tasks, such as predicting whether an email is spam or not, or whether an image contains a cat or not  .
+- The perceptron can be trained using the **perceptron learning algorithm**, which is a type of **supervised learning** algorithm that updates the weights based on the error between the predicted output and the actual output  .
+- The perceptron learning algorithm works as follows  :
+  - Initialize the weights randomly or with zeros.
+  - For each training example, compute the weighted sum and the output using the activation function.
+  - Compare the output with the actual output and compute the error.
+  - Update the weights by adding or subtracting a fraction of the error multiplied by the input value. The fraction is called the **learning rate** and determines how fast the weights change.
+  - Repeat the process until the error is minimized or a maximum number of iterations is reached.
+- The perceptron learning algorithm is guaranteed to converge to a solution if the data is **linearly separable**, meaning that there exists a straight line (or a hyperplane in higher dimensions) that can separate the positive and negative examples .
+- However, the perceptron learning algorithm has some limitations, such as :
+  - It cannot handle data that is not linearly separable, such as the XOR problem, where the output is 1 if the inputs are different, and 0 if they are the same.
+  - It can be sensitive to the order of the training examples, the initial weights, and the learning rate.
+  - It can only output binary values, and cannot represent complex functions or probabilities.
+- To overcome these limitations, more advanced models such as **multi-layer perceptrons** or **neural networks** can be used, which consist of multiple perceptrons connected in layers, and use different activation functions and learning algorithms .

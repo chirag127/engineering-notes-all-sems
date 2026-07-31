@@ -1,0 +1,18 @@
+### Thresholding
+- Thresholding is a simple and widely used technique for image segmentation.
+- It aims to separate the foreground objects from the background by comparing the pixel values with a predefined threshold value.
+- If the pixel value is greater than or equal to the threshold, it is assigned to the foreground class, otherwise it is assigned to the background class.
+- The result of thresholding is a binary image, where the foreground pixels have a value of 1 and the background pixels have a value of 0.
+- The choice of the threshold value is crucial for the quality of the segmentation. A good threshold should maximize the inter-class variance and minimize the intra-class variance of the pixel values.
+- There are different methods to determine the optimal threshold value, such as histogram-based methods, entropy-based methods, spatial methods, etc.
+- Some of the common histogram-based methods are Otsu's method, Kapur's method, Kittler's method, etc.
+- Otsu's method assumes that the pixel values follow a bimodal distribution and tries to find the threshold that minimizes the weighted sum of the variances of the two classes.
+- Kapur's method maximizes the entropy of the foreground and background classes, assuming that they are independent and identically distributed.
+- Kittler's method assumes that the pixel values follow a mixture of two Gaussian distributions and tries to find the threshold that maximizes the likelihood of the data.
+- Thresholding can be applied globally or locally. Global thresholding uses a single threshold value for the whole image, while local thresholding uses different threshold values for different regions of the image.
+- Global thresholding is faster and simpler, but it may not work well for images with uneven illumination or contrast.
+- Local thresholding can adapt to the local characteristics of the image, but it is more computationally expensive and may introduce artifacts or noise.
+- Some of the common local thresholding methods are adaptive thresholding, Niblack's method, Sauvola's method, etc.
+- Adaptive thresholding computes the threshold value for each pixel based on the mean or median of a local neighborhood around the pixel.
+- Niblack's method computes the threshold value for each pixel based on the mean and standard deviation of a local neighborhood around the pixel.
+- Sauvola's method is a modification of Niblack's method that uses a dynamic range parameter to adjust the threshold value according to the contrast of the local neighborhood.

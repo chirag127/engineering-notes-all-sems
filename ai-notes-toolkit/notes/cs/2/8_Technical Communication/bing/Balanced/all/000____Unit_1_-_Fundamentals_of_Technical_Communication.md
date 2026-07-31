@@ -1,0 +1,29 @@
+## Unit 1 - Fundamentals of Technical Communication
+
+- Technical communication is the process of conveying information and instructions to a specific audience for a specific purpose.
+- Technical communication can be written, oral, visual, or multimodal, depending on the context, audience, and purpose of the communication.
+- Technical communication has the following characteristics:
+  - It is accurate, clear, concise, coherent, and complete.
+  - It is audience-centered, meaning it considers the needs, expectations, and preferences of the intended recipients.
+  - It is purpose-driven, meaning it has a clear and specific goal or objective.
+  - It is ethical, meaning it respects the rights, responsibilities, and values of the communicators and the audience.
+  - It is professional, meaning it follows the standards, conventions, and expectations of the field or discipline.
+- Technical communication can be classified into two main types: informative and persuasive.
+  - Informative technical communication aims to provide factual information or instructions to the audience, such as reports, manuals, memos, or emails.
+  - Persuasive technical communication aims to influence the audience's attitudes, beliefs, or actions, such as proposals, advertisements, or presentations.
+- Technical communication can be further categorized into different genres or forms, depending on the purpose, audience, and context of the communication. Some common genres of technical communication are:
+  - Definition: A statement that explains the meaning of a term or concept.
+  - Description: A statement that provides details or characteristics of an object, process, or phenomenon.
+  - Classification: A statement that groups or organizes items or concepts into categories based on common features or criteria.
+  - Comparison: A statement that shows the similarities and differences between two or more items or concepts.
+  - Process: A statement that describes the steps or stages of an action or procedure.
+  - Problem-Solution: A statement that identifies a problem and proposes a solution or a set of solutions.
+  - Cause-Effect: A statement that explains the reasons or consequences of an event or situation.
+  - Argument: A statement that presents a claim or a position and supports it with evidence and reasoning.
+- Technical communication requires the use of various skills and strategies, such as:
+  - Analyzing the rhetorical situation: The process of identifying and evaluating the purpose, audience, and context of the communication.
+  - Researching and evaluating information: The process of finding, selecting, and assessing the quality and relevance of the information needed for the communication.
+  - Organizing and outlining information: The process of arranging and structuring the information in a logical and coherent way.
+  - Drafting and revising information: The process of writing and editing the information in a clear and concise way.
+  - Designing and formatting information: The process of applying visual elements and principles to enhance the readability and attractiveness of the information.
+  - Testing and evaluating information: The process of checking and improving the effectiveness and usability of the information.

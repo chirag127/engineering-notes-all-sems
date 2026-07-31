@@ -1,0 +1,21 @@
+### File Handling: File I/O Functions, Standard C Preprocessors, Defining and Calling Macros and Command-Line Arguments
+
+- File handling is the process of creating, reading, updating, and deleting files using a programming language. In C, file handling is done using the file I/O functions defined in the `stdio.h` header file.
+- File I/O functions are used to perform various operations on files, such as opening, closing, reading, writing, appending, seeking, etc. Some of the common file I/O functions are:
+  - `fopen`: opens a file and returns a pointer to it. It takes two arguments: the file name and the mode of opening. The mode can be `r` for reading, `w` for writing, `a` for appending, `r+` for reading and writing, `w+` for writing and reading, `a+` for appending and reading, and `b` for binary mode.
+  - `fclose`: closes a file and frees the pointer to it. It takes one argument: the file pointer.
+  - `fgetc`: reads a single character from a file and returns it as an int. It takes one argument: the file pointer. It returns `EOF` if the end of file is reached or an error occurs.
+  - `fputc`: writes a single character to a file and returns it as an int. It takes two arguments: the character to be written and the file pointer. It returns `EOF` if an error occurs.
+  - `fgets`: reads a string of characters from a file and stores it in a buffer. It takes three arguments: the buffer, the maximum number of characters to be read, and the file pointer. It returns the buffer on success, or `NULL` if the end of file is reached or an error occurs.
+  - `fputs`: writes a string of characters to a file and returns a non-negative value on success, or `EOF` if an error occurs. It takes two arguments: the string to be written and the file pointer.
+  - `fread`: reads a specified number of bytes from a file and stores them in a buffer. It takes four arguments: the buffer, the size of each element, the number of elements, and the file pointer. It returns the number of elements successfully read, or zero if the end of file is reached or an error occurs.
+  - `fwrite`: writes a specified number of bytes to a file from a buffer. It takes four arguments: the buffer, the size of each element, the number of elements, and the file pointer. It returns the number of elements successfully written, or zero if an error occurs.
+  - `fseek`: moves the file position indicator to a specified location in a file. It takes three arguments: the file pointer, the offset in bytes, and the origin of the offset. The origin can be `SEEK_SET` for the beginning of the file, `SEEK_CUR` for the current position, or `SEEK_END` for the end of the file. It returns zero on success, or a non-zero value on failure.
+  - `ftell`: returns the current position of the file position indicator in a file. It takes one argument: the file pointer. It returns a long int value on success, or `-1` on failure.
+  - `rewind`: sets the file position indicator to the beginning of a file. It takes one argument: the file pointer. It does not return any value.
+  - `feof`: tests whether the end of file has been reached in a file. It takes one argument: the file pointer. It returns a non-zero value if the end of file is reached, or zero otherwise.
+  - `ferror`: tests whether an error has occurred in a file. It takes one argument: the file pointer. It returns a non-zero value if an error has occurred, or zero otherwise.
+  - `clearerr`: clears the error and end of file indicators of a file. It takes one argument: the file pointer. It does not return any value.
+- Standard C preprocessors are directives that are processed before the compilation of a C program. They are used to perform various tasks, such as including header files, defining constants, expanding macros, conditional compilation, etc. Some of the common standard C preprocessors are:
+  - `#include`: includes the contents of another file in the current file. It can be used to include header files or source files. It takes one argument: the file name enclosed in angle brackets `< >` for system files, or double quotes `" "` for user-defined files.
+  - `#define`: defines a constant or a macro that can be used in the program. It takes two arguments: the

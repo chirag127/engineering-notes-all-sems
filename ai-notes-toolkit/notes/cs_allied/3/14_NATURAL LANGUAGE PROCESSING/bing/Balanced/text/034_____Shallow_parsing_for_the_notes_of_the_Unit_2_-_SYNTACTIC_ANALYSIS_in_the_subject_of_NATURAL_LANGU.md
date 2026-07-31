@@ -1,0 +1,11 @@
+### Shallow parsing
+
+- Shallow parsing (also called chunking or light parsing) is an analysis of a sentence which first identifies constituent parts of sentences (nouns, verbs, adjectives, etc.) and then links them to higher order units that have discrete grammatical meanings (noun groups or phrases, verb groups, etc.).
+- Shallow parsing is different from deep parsing, which aims to produce a complete and detailed syntactic structure of a sentence, such as a parse tree. Shallow parsing is faster and less complex than deep parsing, but it also provides less information about the sentence structure and meaning.
+- Shallow parsing can be used for various natural language processing tasks, such as:
+  - Semantic role labeling, which is the process of assigning labels to words or phrases in a sentence that indicate their semantic role in the sentence, such as that of an agent, goal, or result. It serves to find the meaning of the sentence.
+  - Information extraction, which is the process of extracting structured information from unstructured or semi-structured text, such as names, dates, locations, events, etc. It serves to organize and summarize the text.
+  - Text summarization, which is the process of creating a concise and coherent summary of a longer text, such as a news article, a book, or a speech. It serves to provide the main points and gist of the text.
+- Shallow parsing can be performed by using various methods, such as:
+  - Rule-based methods, which use predefined rules and patterns to identify and label the chunks in a sentence. For example, a rule might state that a noun phrase consists of a determiner followed by zero or more adjectives followed by a noun. Rule-based methods are easy to implement and understand, but they also require a lot of manual effort and domain knowledge to create and maintain the rules.
+  - Machine learning methods, which use data-driven approaches to learn and apply the chunking models. For example, a machine learning method might use a classifier to predict the chunk boundaries and labels based on the features of the words and their context. Machine learning methods are more flexible and adaptable, but they also require a lot of annotated data and computational resources to train and test the models.

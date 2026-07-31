@@ -1,0 +1,14 @@
+# Unit 7 - Graphs
+
+## Definition and terminology
+
+- A **graph** is a mathematical structure that consists of a set of **vertices** (or nodes) and a set of **edges** (or links) that connect pairs of vertices.
+- A graph can be represented by a diagram, where vertices are drawn as points or circles, and edges are drawn as lines or curves connecting the vertices.
+- A graph can also be represented by an **adjacency matrix**, where each row and column corresponds to a vertex, and each entry indicates whether there is an edge between the corresponding vertices or not.
+- A graph can be **directed** or **undirected**, depending on whether the edges have a direction or not. A directed edge is drawn as an arrow pointing from one vertex to another, while an undirected edge is drawn as a line without arrows.
+- A graph can be **weighted** or **unweighted**, depending on whether the edges have a numerical value or not. A weighted edge is drawn with a label indicating its value, while an unweighted edge has no label.
+- A graph can be **simple** or **non-simple**, depending on whether it has multiple edges or loops or not. A multiple edge is an edge that connects the same pair of vertices more than once, while a loop is an edge that connects a vertex to itself. A simple graph has no multiple edges or loops, while a non-simple graph may have them.
+- A graph can be **connected** or **disconnected**, depending on whether there is a path between any pair of vertices or not. A path is a sequence of edges that connects a sequence of vertices, where each edge is adjacent to the previous and next vertex in the sequence. A connected graph has a path between any pair of vertices, while a disconnected graph may have some pairs of vertices that are not connected by any path.
+- A graph can be **cyclic** or **acyclic**, depending on whether it has a cycle or not. A cycle is a path that starts and ends at the same vertex, and does not repeat any other vertex or edge. A cyclic graph has at least one cycle, while an acyclic graph has no cycles.
+- A graph can be **complete** or **incomplete**, depending on whether it has all possible edges or not. A complete graph has an edge between every pair of distinct vertices, while an incomplete graph may have some pairs of vertices that are not connected by any edge.
+- A graph can be **bipartite** or **non-bipartite**, depending on whether it can be partitioned into two sets of vertices such that no edge connects two vertices in the same set. A bipartite graph can be drawn with the vertices in two distinct regions, such that all edges cross the boundary between the regions, while a non-bipartite graph cannot be drawn in this way.

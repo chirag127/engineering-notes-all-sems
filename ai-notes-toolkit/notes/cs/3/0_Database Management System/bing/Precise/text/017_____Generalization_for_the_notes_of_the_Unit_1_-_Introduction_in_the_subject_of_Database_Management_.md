@@ -1,0 +1,8 @@
+### Generalization for the notes of the Unit 1 - Introduction in the subject of Database Management System
+
+- Generalization is the process of defining a general concept or entity by extracting common features from specific instances.
+- In the context of a database management system, generalization is used to create a hierarchy of entities by identifying common attributes and relationships among lower-level entities and grouping them into a higher-level entity.
+- This higher-level entity is called a superclass or a generalization, while the lower-level entities are called subclasses or specializations.
+- Generalization helps to reduce redundancy and complexity in the database by allowing the common attributes and relationships to be defined only once at the higher level, rather than being repeated for each lower-level entity.
+- Generalization can be represented graphically using an entity-relationship diagram, where the superclass is connected to its subclasses by a line with a triangle pointing towards the superclass.
+- An example of generalization in a database could be the creation of a `Person` entity as a superclass for the entities `Student` and `Teacher`, where the common attributes such as `name`, `age`, and `address` are defined at the `Person` level, while the specific attributes such as `major` and `advisor` for `Student` and `subject` and `salary` for `Teacher` are defined at the subclass level.

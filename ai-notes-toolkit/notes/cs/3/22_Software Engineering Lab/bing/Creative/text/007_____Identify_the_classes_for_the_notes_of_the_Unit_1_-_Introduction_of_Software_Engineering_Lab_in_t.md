@@ -1,0 +1,12 @@
+### Identify the classes for the notes of the Unit 1 - Introduction of Software Engineering Lab in the subject of Software Engineering Lab
+
+- A class is a blueprint or template that defines the attributes and behaviors of the objects of that class.
+- The classes for the notes of the Unit 1 - Introduction of Software Engineering Lab are:
+
+  - **Software Engineering**: This class represents the discipline of developing and maintaining software systems that are reliable, efficient, and cost-effective. It covers the topics such as software process models, software requirements, software design, software testing, software quality, and software maintenance.
+  - **Software Process Model**: This class represents the framework or methodology that guides the software development activities. It covers the topics such as waterfall model, incremental model, iterative model, agile model, and spiral model.
+  - **Software Requirement**: This class represents the specification of what the software system should do and how it should behave. It covers the topics such as requirement elicitation, requirement analysis, requirement specification, and requirement validation.
+  - **Software Design**: This class represents the process of creating a plan or structure for the software system that meets the software requirements. It covers the topics such as design principles, design patterns, design models, and design documentation.
+  - **Software Testing**: This class represents the process of verifying and validating that the software system meets the software requirements and quality standards. It covers the topics such as testing levels, testing techniques, testing strategies, testing tools, and testing documentation.
+  - **Software Quality**: This class represents the degree to which the software system satisfies the expectations and needs of the stakeholders. It covers the topics such as quality attributes, quality metrics, quality standards, quality assurance, and quality control.
+  - **Software Maintenance**: This class represents the process of modifying and improving the software system after its delivery. It covers the topics such as maintenance types, maintenance activities, maintenance costs, and maintenance challenges.

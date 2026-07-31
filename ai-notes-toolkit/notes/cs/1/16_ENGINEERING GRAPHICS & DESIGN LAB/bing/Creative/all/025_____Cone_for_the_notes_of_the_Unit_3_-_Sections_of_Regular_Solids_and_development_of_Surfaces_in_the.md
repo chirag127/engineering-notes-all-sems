@@ -1,0 +1,10 @@
+# Cone for the notes of the Unit 3 - Sections of Regular Solids and development of Surfaces in the subject of ENGINEERING GRAPHICS & DESIGN LAB
+
+- A cone is a three-dimensional solid that has a circular base and a curved surface that tapers to a point called the vertex or apex.
+- A cone can be cut by a plane in different ways to produce different conic sections, such as circles, ellipses, parabolas, and hyperbolas.
+- The angle between the axis of the cone and the generator (the line joining the vertex and a point on the base) is called the semi-vertical angle of the cone.
+- The slant height of the cone is the length of the generator, and the height of the cone is the perpendicular distance from the vertex to the base.
+- The development of a cone is the process of unfolding the curved surface into a flat plane. The development of a cone is a sector of a circle with radius equal to the slant height of the cone and central angle equal to the slant angle of the cone.
+- The slant angle of the cone is the angle subtended by the circumference of the base at the vertex. It can be calculated by using the formula: slant angle = 360° x (base circumference / slant height).
+- The true shape of the section of a cone is the shape obtained when the section plane is perpendicular to the generator of the cone. The true shape of the section can be a circle, an ellipse, a parabola, or a hyperbola, depending on the position and orientation of the section plane.
+- The development of a sectioned cone is the process of unfolding the part of the curved surface below the section plane into a flat plane. The development of a sectioned cone is a segment of a sector of a circle with radius equal to the slant height of the cone and central angle equal to the slant angle of the cone. The segment is bounded by two radii and an arc that corresponds to the true shape of the section.

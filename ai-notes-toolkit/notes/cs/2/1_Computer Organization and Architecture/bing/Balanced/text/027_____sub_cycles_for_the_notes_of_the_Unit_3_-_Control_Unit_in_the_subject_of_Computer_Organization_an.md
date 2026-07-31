@@ -1,0 +1,22 @@
+### Sub cycles of control unit
+
+- A control unit is a component of the CPU that coordinates and controls the execution of instructions.
+- The control unit generates the control signals that activate the other components of the CPU, such as the ALU, the registers, and the buses.
+- The control unit also interprets the instructions fetched from the memory and determines the sequence of operations needed to execute them.
+- The execution of an instruction involves the execution of a sequence of substeps, generally called cycles.
+- The number and types of cycles depend on the instruction and the CPU architecture, but some common cycles are:
+  - Fetch cycle: The control unit fetches the instruction from the memory and stores it in the instruction register.
+  - Decode cycle: The control unit decodes the instruction and determines the operands and the operation to be performed.
+  - Indirect cycle: The control unit fetches the effective address of an operand from the memory if the instruction uses indirect addressing mode.
+  - Execute cycle: The control unit activates the ALU and the registers to perform the operation and store the result.
+  - Interrupt cycle: The control unit checks for any external signals or interrupts and handles them accordingly.
+- Each cycle is in turn made up of a sequence of more fundamental operations, called micro-operations.
+- A micro-operation is a basic operation performed on the data stored in one or more registers, or transferred between a register and an external bus.
+- A micro-operation can be classified into four types:
+  - Register transfer micro-operation: A micro-operation that transfers data from one register to another or from a register to an external bus.
+  - Arithmetic micro-operation: A micro-operation that performs an arithmetic operation on the data stored in one or more registers and stores the result in another register.
+  - Logic micro-operation: A micro-operation that performs a logical operation on the data stored in one or more registers and stores the result in another register.
+  - Shift micro-operation: A micro-operation that shifts or rotates the data stored in a register by a specified number of bits.
+- The control unit can be designed using two methods:
+  - Hardwired control unit: A control unit that generates the control signals using specially designed hardware logical circuits. The logic of the control unit is fixed and cannot be modified easily.
+  - Microprogrammed control unit: A control unit that generates the control signals using a sequence of micro-instructions stored in a control memory. The logic of the control unit can be modified by changing the micro-instructions.

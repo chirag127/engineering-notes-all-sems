@@ -1,0 +1,7 @@
+### Non-linear techniques for the notes of the Unit 3 - ELECTROMAGNETIC ENERGY HARVESTING AND NON-LINEAR TECHNIQUES in the subject of KOT 062 ENERGY HARVESTING TECHNOLOGIES AND POWERMANAGEMENT FOR IOT DEVICES KCS
+
+- Non-linear techniques are used to optimize the harvested energy from piezoelectric and electromagnetic generators.
+- A nonlinear electromagnetic energy harvester (EMEH) with high output voltage can be used. The model of a nonlinear interface circuit is derived and a power management circuit (PMC) is designed. The proposed PMC uses a buck–boost direct current-direct current (DC–DC) converter to match the load resistance of the nonlinear interface circuit.
+- The harvester can consist of a small magnet moving in an isolating tube surrounded by a coil attached to the electrical circuit. In the nonlinear case, the magnet vibrates between two fixed magnets attached to both ends of the tube. Additionally, two springs can be used to limit the movement of the small magnet.
+- A semi-analytical, non-linear model can be introduced that enables accurate and efficient analysis of energy transduction. The model predicts the transient and steady-state response of the system.
+- Amongst a myriad of energy harvesting mechanisms, the most popular ones include electrostatic, electromagnetic, and piezoelectric energy harvesters.

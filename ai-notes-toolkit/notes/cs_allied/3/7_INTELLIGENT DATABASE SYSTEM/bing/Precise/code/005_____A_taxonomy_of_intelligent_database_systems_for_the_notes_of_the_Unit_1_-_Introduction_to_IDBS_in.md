@@ -1,0 +1,11 @@
+### A Taxonomy of Intelligent Database Systems
+
+Intelligent Database Systems (IDBS) are systems that integrate artificial intelligence techniques with traditional database management systems to provide enhanced functionality and performance. There are several different types of IDBS, which can be classified based on their architecture, functionality, and the type of artificial intelligence techniques used.
+
+1. **Architecture-based classification:** IDBS can be classified based on their architecture into centralized, distributed, and federated systems. Centralized systems have a single database server that manages all data and processing, while distributed systems have multiple database servers that work together to manage data and processing. Federated systems, on the other hand, integrate multiple independent databases into a single system.
+
+2. **Functionality-based classification:** IDBS can also be classified based on the functionality they provide. Some common types of IDBS based on functionality include expert database systems, which use rule-based systems to provide expert advice and decision support; knowledge-based database systems, which use knowledge representation and reasoning techniques to manage complex data; and active database systems, which use triggers and rules to automatically respond to changes in the data.
+
+3. **AI technique-based classification:** Finally, IDBS can be classified based on the type of artificial intelligence techniques they use. Some common types of IDBS based on AI techniques include neural network-based systems, which use artificial neural networks to learn from data and make predictions; fuzzy logic-based systems, which use fuzzy logic to represent and reason with uncertain or imprecise data; and genetic algorithm-based systems, which use genetic algorithms to optimize database queries and operations.
+
+In summary, there are several different ways to classify IDBS, and each classification provides a different perspective on the capabilities and functionality of these systems. Understanding the different types of IDBS and their characteristics can help in selecting the right system for a particular application or use case.

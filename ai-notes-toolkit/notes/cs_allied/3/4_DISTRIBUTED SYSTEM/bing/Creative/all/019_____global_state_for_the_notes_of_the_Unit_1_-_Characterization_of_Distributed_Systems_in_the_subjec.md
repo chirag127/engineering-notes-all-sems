@@ -1,0 +1,27 @@
+# Global State for the Notes of the Unit 1 - Characterization of Distributed Systems
+
+- A **distributed system** is a collection of independent processes that communicate with each other by exchanging messages over a network.
+- A **process** is an entity that can perform computation and communication.
+- A **channel** is a communication link that connects two or more processes and allows them to send and receive messages.
+- A **local state** of a process is the set of values of its variables and data structures at a given point in time.
+- A **local state** of a channel is the sequence of messages that have been sent but not yet received on that channel.
+- A **global state** of a distributed system is a collection of the local states of all the processes and channels in the system  .
+- A **global state** can be used to determine properties of the distributed system, such as deadlock, termination, consistency, etc  .
+- A **global state** can be recorded by taking a **snapshot** of the local states of the processes and channels at some point in time .
+- A **snapshot** can be taken by using a **global state recording algorithm**, which is a protocol that specifies how the processes and channels cooperate to capture a consistent global state  .
+- A **consistent global state** is one that could have occurred during the execution of the distributed system, i.e., it does not contain any causal inconsistency .
+- A **causal inconsistency** is a situation where a message is received before it is sent, or a message is sent but not received, or a message is received by a process that has not yet sent any message .
+- A **cut** is a partition of the set of events that have occurred in the distributed system into two subsets: past and future .
+- A **consistent cut** is a cut that does not cross any message, i.e., if a message is in the past, then its sender and receiver are also in the past, and vice versa .
+- A **consistent global state** is equivalent to the global state of a consistent cut .
+- A **global state recording algorithm** should ensure that the snapshot is taken along a consistent cut, and that the snapshot is complete, i.e., it contains the local state of every process and channel in the system  .
+- A **global state recording algorithm** can be classified into two types: **synchronous** and **asynchronous**  .
+- A **synchronous global state recording algorithm** assumes that the processes and channels are synchronized by a global clock, and that the messages have bounded transmission delays  .
+- A **synchronous global state recording algorithm** can take a snapshot by having each process record its local state at a predefined time, and each channel record the messages that are in transit at that time  .
+- An **asynchronous global state recording algorithm** does not make any assumptions about the synchronization or the message delays in the distributed system  .
+- An **asynchronous global state recording algorithm** can take a snapshot by using a **marker message**, which is a special message that initiates and propagates the snapshot process  .
+- An example of an asynchronous global state recording algorithm is the **Chandy-Lamport algorithm**, which works as follows  :
+  - A process that wants to initiate a snapshot sends a marker message to all its outgoing channels, and records its local state.
+  - A process that receives a marker message for the first time records its local state, and sends a marker message to all its outgoing channels.
+  - A process that receives a marker message after recording its local state records the state of the incoming channel as the sequence of messages received after the first marker message and before the second marker message.
+  - A process that has recorded its local state and

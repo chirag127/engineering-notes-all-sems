@@ -1,0 +1,15 @@
+### Priority Driven Approach for the notes of the Unit 2 - Real Time Scheduling in the subject of Real Time System
+
+Real-time systems are designed to handle tasks that have stringent timing constraints. In such systems, the scheduling of tasks is of utmost importance. The priority-driven approach is one such technique used for scheduling tasks in real-time systems. In this approach, tasks are assigned priorities based on their importance and urgency, and the scheduler schedules the tasks according to their priorities. The priority-driven approach is widely used in real-time systems because of its simplicity and efficiency. Here are some key points about the priority-driven approach:
+
+- The priority-driven approach is based on the principle of scheduling tasks in order of their priority. Tasks with higher priority are executed before tasks with lower priority.
+- Priorities are assigned to tasks based on their importance and urgency. The higher the importance and urgency of a task, the higher its priority.
+- The priority of a task may be fixed or dynamic. In fixed priority scheduling, the priorities are assigned at the time of task creation and remain constant throughout the task's lifetime. In dynamic priority scheduling, the priorities may change during the task's lifetime based on its behavior or external events.
+- The priority-driven approach can be implemented using various scheduling algorithms such as rate-monotonic scheduling (RMS), earliest deadline first (EDF), and deadline monotonic scheduling (DMS).
+- In RMS, tasks with shorter periods have higher priorities. This algorithm is optimal for periodic tasks that have fixed execution times and deadlines.
+- In EDF, tasks with earlier deadlines have higher priorities. This algorithm is optimal for sporadic tasks that have variable execution times and deadlines.
+- In DMS, tasks with shorter deadlines have higher priorities. This algorithm is optimal for tasks that have fixed execution times and deadlines and may miss their deadlines if not scheduled in time.
+- The priority-driven approach can be preemptive or non-preemptive. In preemptive scheduling, a higher priority task can preempt a lower priority task that is currently executing. In non-preemptive scheduling, a task once started, continues to execute until completion or until it releases the CPU voluntarily.
+- The priority-driven approach can lead to priority inversion, where a lower priority task holds a resource needed by a higher priority task, causing the higher priority task to wait. This issue can be addressed using various techniques such as priority inheritance, priority ceiling protocol, and stack-based resource access control.
+
+Overall, the priority-driven approach is a simple and efficient technique for scheduling tasks in real-time systems. It can be implemented using various scheduling algorithms and can be preemptive or non-preemptive. However, it is important to address issues such as priority inversion to ensure the correctness and timely execution of real-time systems.

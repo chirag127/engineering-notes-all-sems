@@ -1,0 +1,11 @@
+#### Schedulers in Hadoop Ecosystem
+
+- Schedulers are algorithms that assign tasks to the available resources in a Hadoop cluster.
+- Schedulers help to optimize the performance, throughput, and resource utilization of the cluster.
+- Schedulers also help to enforce policies, priorities, and quotas for different users and groups of users.
+- There are mainly four types of schedulers in Hadoop ecosystem:
+
+  - **FIFO (First In First Out) Scheduler**: This is the default and simplest scheduler in Hadoop. It assigns tasks to the nodes in the order they are submitted by the users. It does not consider the resource availability, task size, or task priority. It is suitable for small clusters with homogeneous workloads.
+  - **Capacity Scheduler**: This is a pluggable scheduler that allows multiple queues to be created, each with a configurable capacity, priority, and access control. It allocates resources to the queues based on their capacities and guarantees a minimum share of resources for each queue. It also supports preemption, which means that tasks from a low-priority queue can be killed to free up resources for a high-priority queue. It is suitable for large clusters with heterogeneous and multi-tenant workloads.
+  - **Fair Scheduler**: This is another pluggable scheduler that aims to provide fair sharing of resources among the users and groups of users. It dynamically adjusts the resource allocation to the queues based on the demand and the number of running tasks. It also supports preemption, weight, and min/max share settings for the queues. It is suitable for large clusters with heterogeneous and multi-tenant workloads that require fairness and flexibility.
+  - **YARN Scheduler**: This is the scheduler for the YARN framework, which is the successor of MapReduce. It consists of two components: the Resource Manager and the Node Manager. The Resource Manager is responsible for managing the cluster resources and allocating them to the applications. The Node Manager is responsible for managing the resources and tasks on each node. The Resource Manager supports two types of schedulers: the Capacity Scheduler and the Fair Scheduler. The YARN Scheduler is suitable for large clusters with diverse and distributed workloads that require scalability and efficiency.

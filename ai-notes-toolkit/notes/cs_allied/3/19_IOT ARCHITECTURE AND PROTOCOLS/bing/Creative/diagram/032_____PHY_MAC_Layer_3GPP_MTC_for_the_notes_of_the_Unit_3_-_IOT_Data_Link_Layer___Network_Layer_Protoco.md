@@ -1,0 +1,17 @@
+### PHY/MAC Layer(3GPP MTC
+
+- 3GPP MTC stands for 3rd Generation Partnership Project Machine Type Communication, which is a term used to describe various applications that involve communication between machines or devices without human intervention.
+- 3GPP MTC can be categorized into two major challenges: massive MTC and critical MTC. Massive MTC refers to scenarios where a large number of devices send infrequent and small size data traffic, such as sensors, smart meters, and wearable devices. Critical MTC refers to scenarios where low latency and high reliability are required, such as industrial automation, remote surgery, and vehicle-to-everything communication.
+- The PHY/MAC layer is the lowest layer of the radio interface protocol architecture in 3GPP MTC, which is responsible for the physical transmission and reception of data over the radio channel, as well as the medium access control and scheduling of the radio resources.
+- The PHY/MAC layer design for 3GPP MTC aims to address the following requirements and challenges :
+  - Low cost and low complexity: The devices should be able to operate with low power consumption, low hardware complexity, and low signaling overhead, to reduce the cost and extend the battery life.
+  - Scalability and robustness: The system should be able to support a large number of devices with diverse traffic patterns and quality of service requirements, and cope with the interference and congestion caused by the massive access attempts.
+  - Coverage and mobility: The system should be able to provide wide area coverage and seamless mobility for the devices, especially for those in deep indoor or remote locations.
+  - Coexistence and compatibility: The system should be able to coexist and interwork with other radio access technologies, such as LTE, Wi-Fi, and Bluetooth, and support backward and forward compatibility across different releases and standards.
+- Some of the key PHY/MAC layer solutions for 3GPP MTC include  :
+  - Narrowband IoT (NB-IoT): A new radio access technology that operates in narrowband (180 kHz) spectrum, either in standalone, in-band, or guard-band mode, to provide low cost, low power, and enhanced coverage for massive MTC applications.
+  - LTE-M: A modified version of LTE that supports lower bandwidth (1.4 MHz), lower data rate, and lower complexity for MTC devices, as well as extended discontinuous reception (eDRX) and power saving mode (PSM) for power saving.
+  - Enhanced Coverage GSM IoT (EC-GSM-IoT): An evolution of GSM that enhances the coverage and capacity for MTC devices by using extended repetitions, reduced data rate, and improved link adaptation.
+  - Single-Cell Point-to-Multipoint (SC-PTM): A multicast transmission scheme that allows a single cell to deliver the same data to multiple devices simultaneously, to improve the spectral efficiency and reduce the signaling overhead for MTC applications.
+  - Non-Orthogonal Multiple Access (NOMA): A multiple access scheme that allows multiple devices to share the same time-frequency resource by using different power levels or spreading codes, to increase the system capacity and user fairness for MTC applications.
+  - Grant-Free Access: A random access scheme that allows devices to transmit data without prior reservation or scheduling, to reduce the latency and signaling overhead for MTC applications.

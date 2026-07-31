@@ -1,0 +1,7 @@
+# Unit 2 - WORD LEVEL ANALYSIS
+
+Word level analysis is the process of identifying and describing the structure and meaning of words in a text. It involves the following aspects:
+
+- Morphology: the study of the internal structure of words and how they are formed from smaller units called morphemes. Morphemes are the smallest meaningful units of language, such as roots, prefixes, suffixes, etc. For example, the word "unhappy" consists of two morphemes: the prefix "un-" and the root "happy".
+- Lexicology: the study of the vocabulary of a language, including its origin, history, meaning, usage, and relationships with other words. Lexicology also covers the classification of words into different categories, such as parts of speech, synonyms, antonyms, homonyms, etc. For example, the word "bank" can be a noun, a verb, or an adjective, depending on the context and the meaning.
+- Semantics: the study of the meaning of words and how they convey information and express ideas. Semantics also deals with the relationships between words and the world, such as reference, truth, implication, entailment, etc. For example, the word "dog" refers to a specific type of animal, and the sentence "Dogs bark" is true in most situations.

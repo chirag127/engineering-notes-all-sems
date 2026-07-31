@@ -1,0 +1,11 @@
+### Curve tracing for the notes of the Unit 2 - Differential Calculus- I in the subject of ENGINEERING MATHEMATICS-I
+
+Curve tracing is an important topic in differential calculus that deals with the study of the shape and behavior of curves. The following are some of the important points that you need to keep in mind while studying curve tracing.
+
+- **Symmetry:** The symmetry of a curve can be used to identify its shape. A curve is said to be symmetric about the y-axis if replacing x with -x in the equation of the curve does not change its shape. Similarly, a curve is symmetric about the x-axis if replacing y with -y in the equation of the curve does not change its shape. A curve is symmetric about the origin if it is symmetric about both the x-axis and the y-axis.
+- **Asymptotes:** An asymptote of a curve is a line that the curve approaches as the x or y values become very large or very small. Vertical asymptotes occur when the denominator of a rational function becomes zero, and horizontal asymptotes occur when the degree of the numerator and denominator of a rational function are the same.
+- **Intercepts:** The x-intercepts of a curve are the points where the curve intersects the x-axis, and the y-intercepts of a curve are the points where the curve intersects the y-axis. To find the x-intercepts of a curve, set y equal to zero in the equation of the curve and solve for x. To find the y-intercepts of a curve, set x equal to zero in the equation of the curve and solve for y.
+- **Maxima and Minima:** The maximum and minimum points of a curve are called its extrema. A maximum point is a point where the curve changes from increasing to decreasing, and a minimum point is a point where the curve changes from decreasing to increasing. To find the extrema of a curve, you need to take the derivative of the curve and solve for the points where the derivative is zero.
+- **Inflection Points:** An inflection point is a point where the curve changes its concavity. To find the inflection points of a curve, you need to take the second derivative of the curve and solve for the points where the second derivative is zero.
+
+By understanding these concepts, you will be able to analyze the behavior and shape of curves with ease. Keep practicing and applying these concepts to different types of functions to master curve tracing.

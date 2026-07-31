@@ -1,0 +1,22 @@
+# Overview of Commercial Real Time Databases
+
+- A real-time database is a database system that uses real-time processing to handle workloads whose state is constantly changing.
+- Real-time databases are useful for accounting, banking, law, medical records, multi-media, process control, reservation systems, and scientific data analysis.
+- Real-time databases can be classified into two types: hard real-time and soft real-time.
+  - Hard real-time databases have strict timing constraints and must guarantee that transactions are completed within their deadlines.
+  - Soft real-time databases have more relaxed timing constraints and can tolerate some degree of deadline misses.
+- Some of the attributes of live real-time databases are:
+  - Concurrency control: The ability to handle multiple transactions accessing the same data without compromising data integrity or consistency.
+  - Data freshness: The degree to which the data reflects the current state of the real world.
+  - Data distribution: The ability to store and access data across multiple nodes or locations for scalability, availability, and performance.
+  - Data replication: The ability to create and maintain copies of data on different nodes or locations for fault tolerance, load balancing, and data locality.
+  - Data recovery: The ability to restore data to a consistent state after a failure or a crash.
+  - Data security: The ability to protect data from unauthorized access, modification, or deletion.
+  - Data quality: The ability to ensure that data is accurate, complete, and reliable.
+  - Data analysis: The ability to perform queries, aggregations, and transformations on data to derive insights and intelligence.
+  - Data visualization: The ability to present data in a graphical or interactive form to facilitate understanding and decision making.
+- Some of the examples of commercial real-time databases are :
+  - Dealpath: A cloud-based platform that provides data and workflow management for commercial real estate transactions.
+  - Altus Group: A data and software provider that offers historical and current market data, valuation, and analytics for commercial real estate.
+  - CoStar: A leading provider of commercial real estate information, analytics, and online marketplaces.
+  - Google Cloud Firestore: A highly performant, fully managed NoSQL database service for large analytical and operational workloads.

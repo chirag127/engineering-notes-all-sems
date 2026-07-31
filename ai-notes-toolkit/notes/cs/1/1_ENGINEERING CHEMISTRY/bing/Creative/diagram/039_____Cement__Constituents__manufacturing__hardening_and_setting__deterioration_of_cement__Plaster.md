@@ -1,0 +1,23 @@
+### Cement; Constituents, manufacturing, hardening and setting, deterioration of cement, Plaster
+
+- Cement is a binding material that sets, hardens, and adheres to other materials to bind them together.
+- The main constituents of cement are calcium, silicon, aluminum, iron and other ingredients that are combined in different proportions depending on the type and grade of cement.
+- The manufacturing process of cement involves four main stages: raw material preparation, clinker production, clinker grinding, and cement packing.
+  - Raw material preparation: The raw materials, such as limestone, clay, shale, sand, and iron ore, are crushed and blended to form a homogeneous mixture that is suitable for the kiln.
+  - Clinker production: The raw material mixture is fed into a rotary kiln, where it is heated to a high temperature (about 1400-1500°C) and undergoes a series of chemical reactions that result in the formation of clinker, which is a nodular material composed of calcium silicates and aluminates.
+  - Clinker grinding: The clinker is cooled and ground to a fine powder, usually with the addition of a small amount of gypsum, which acts as a retarder of setting.
+  - Cement packing: The cement powder is stored in silos and then packed in bags or bulk for distribution.
+- The setting and hardening of cement is due to the formation of interlocking crystals reinforced by rigid gels formed by the hydration and hydrolysis of the constituent compounds.
+  - The setting of cement is the process of losing plasticity and gaining strength, which occurs when water is added to the cement powder and the hydration reactions begin.
+  - The initial setting time is the time required for the cement paste to reach a certain degree of stiffness, which determines the workability and usability of the cement mix.
+  - The final setting time is the time required for the cement paste to reach a certain degree of hardness, which determines the strength and durability of the cement mix.
+  - The hardening of cement is the process of gaining strength and stability over time, which occurs as the hydration reactions continue and the crystals and gels grow and interlock.
+  - The hardening of cement is influenced by several factors, such as the water-cement ratio, the curing conditions, the type and amount of additives, and the environmental factors.
+- The deterioration of cement is the loss of strength, integrity, and appearance of the cement mix due to various causes, such as chemical attack, physical damage, or biological growth.
+  - Chemical attack: The cement mix can be affected by some natural or artificial chemical agents, such as acids, sulfates, chlorides, carbon dioxide, etc., that can react with the cement compounds and alter their structure and properties .
+  - Physical damage: The cement mix can be subjected to some mechanical or thermal stresses, such as cracking, spalling, abrasion, erosion, freezing and thawing, etc., that can cause fractures and defects in the cement matrix and reduce its strength and durability.
+  - Biological growth: The cement mix can be colonized by some microorganisms, such as bacteria, fungi, algae, etc., that can produce organic acids, enzymes, or biofilms that can degrade the cement compounds and affect its appearance and performance.
+- Plaster is a mixture of cement, sand, water, and sometimes other additives, such as lime, fibers, or pigments, that is applied to a surface to form a smooth and protective coating.
+  - Plaster can be used for various purposes, such as leveling, finishing, decorating, or insulating a surface.
+  - Plaster can be applied in different ways, such as by hand, by machine, or by spraying.
+  - Plaster can have different properties, such as hardness, adhesion, water resistance, fire resistance, etc., depending on the type and proportion of the ingredients and the curing conditions.

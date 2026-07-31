@@ -1,0 +1,28 @@
+# Memory for the notes of the Unit 2 - Cloud Enabling Technologies Service Oriented Architecture in the subject of Cloud Computing
+
+- Service Oriented Architecture (SOA) is a design paradigm that defines how software components can interact and cooperate to provide business services .
+- SOA is based on the principles of loose coupling, abstraction, reusability, composability, statelessness, discoverability, and interoperability .
+- SOA enables cloud computing by facilitating the integration and orchestration of distributed and heterogeneous services across the network  .
+- REST (Representational State Transfer) is an architectural style that defines how web resources can be accessed and manipulated using a uniform and stateless interface  .
+- REST is based on the principles of resource identification, resource representation, resource linking, and uniform interface  .
+- REST enables cloud computing by providing a scalable, flexible, and standardized way of exposing and consuming web services  .
+- Systems of Systems (SoS) are complex systems that consist of multiple independent and interrelated subsystems that collaborate to achieve a common goal .
+- SoS are characterized by operational and managerial independence, evolutionary development, emergent behavior, and geographical distribution .
+- SoS enable cloud computing by allowing the dynamic and adaptive composition of services from different domains and providers .
+- Web Services are software components that can be invoked and accessed over the web using standard protocols and formats  .
+- Web Services can be classified into two types: SOAP (Simple Object Access Protocol) and RESTful  .
+- SOAP is a protocol that defines how to exchange structured and typed messages between web services using XML and HTTP  .
+- RESTful is a style that defines how to access and manipulate web resources using HTTP methods and formats such as JSON and XML  .
+- Web Services enable cloud computing by providing a platform-independent and interoperable way of exposing and consuming business functionalities  .
+- Publish-Subscribe Model is a communication pattern that decouples the publishers and subscribers of messages using an intermediary broker .
+- Publishers are the entities that produce and send messages to the broker, and subscribers are the entities that register and receive messages from the broker .
+- The broker is responsible for routing, filtering, and delivering the messages to the appropriate subscribers based on their interests .
+- Publish-Subscribe Model enables cloud computing by supporting asynchronous, scalable, and event-driven communication between distributed and heterogeneous services .
+- Virtualization is a technology that allows the creation and management of virtual entities that emulate the behavior and characteristics of physical entities  .
+- Virtualization can be applied to different levels of abstraction, such as hardware, operating system, application, network, and storage  .
+- Virtualization can be classified into two types: full virtualization and paravirtualization  .
+- Full virtualization is a technique that creates a complete and isolated virtual environment for each guest operating system using a hypervisor  .
+- Paravirtualization is a technique that creates a partially isolated virtual environment for each guest operating system using a modified kernel that communicates with the hypervisor  .
+- Virtualization enables cloud computing by providing resource abstraction, isolation, consolidation, elasticity, and migration  .
+- Virtualization of CPU is a process that allows the sharing and allocation of CPU resources among multiple virtual machines using a hypervisor  .
+- Virtualization of CPU can be implemented using two techniques: binary translation and hardware-assisted virtualization  .

@@ -1,0 +1,13 @@
+### Prefix codes for the notes of the Unit 1 - Compression Techniques in the subject of Data Compression
+
+Prefix codes, also known as prefix-free codes or Huffman codes, are widely used in data compression. They are used to assign unique binary codes to characters or symbols in a way that there is no prefix of a code that is also a code for another character or symbol. This ensures that the codes can be unambiguously decoded.
+
+Here are some important points to keep in mind when dealing with prefix codes in data compression:
+
+- Prefix codes are variable-length codes, which means that different characters or symbols can have codes of different lengths. This allows for more efficient compression because frequently occurring characters or symbols can be assigned shorter codes.
+- The most common method for constructing prefix codes is the Huffman algorithm, which is a greedy algorithm that builds the code tree from the bottom up. In this algorithm, each character or symbol is assigned a weight based on its frequency of occurrence, and the code tree is constructed by repeatedly combining the two lowest-weight characters or symbols until all are combined into a single tree.
+- One important property of prefix codes is the prefix property, which states that no code for a character or symbol is a prefix of any other code. This property ensures that the codes can be unambiguously decoded, because the decoder can simply read the code one bit at a time until it matches a code for a character or symbol.
+- Another important property of prefix codes is the optimality property, which states that the code tree produced by the Huffman algorithm is optimal in terms of minimizing the expected length of the codes. In other words, no other prefix code can achieve a lower expected length than the Huffman code for the same set of character or symbol frequencies.
+- Prefix codes are used in many applications of data compression, including text compression, image compression, and video compression. They are particularly effective for compressing text data, because text data often contains a small set of frequently occurring characters that can be assigned short codes.
+
+In conclusion, prefix codes are a fundamental tool in data compression, and understanding their properties and construction methods is essential for anyone working in this field. By using prefix codes effectively, it is possible to achieve significant reductions in the size of data files, which can lead to faster transmission times, lower storage requirements, and other benefits.

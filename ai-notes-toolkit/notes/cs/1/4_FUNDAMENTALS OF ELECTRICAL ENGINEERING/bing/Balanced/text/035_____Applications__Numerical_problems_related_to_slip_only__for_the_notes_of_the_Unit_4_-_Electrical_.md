@@ -1,0 +1,33 @@
+### Applications (Numerical problems related to slip only)
+
+- Slip is the difference between the synchronous speed and the actual speed of an induction motor, expressed as a fraction or percentage of the synchronous speed.
+- Slip can be calculated by the formula: `s = (Ns - N)/Ns`, where `s` is the slip, `Ns` is the synchronous speed, and `N` is the actual speed of the motor.
+- Slip can also be expressed in terms of frequency as: `s = (fs - fr)/fs`, where `fs` is the supply frequency, and `fr` is the rotor frequency.
+- Slip is an important parameter for induction motors, as it affects the torque, power, efficiency, and speed regulation of the motor.
+- Some numerical problems related to slip are:
+
+  - Example 1: A three-phase induction motor has a synchronous speed of 1200 rpm and runs at 1140 rpm. Find the slip of the motor.
+    - Solution: Using the formula `s = (Ns - N)/Ns`, we get:
+      - `s = (1200 - 1140)/1200`
+      - `s = 0.05`
+      - The slip of the motor is 0.05 or 5%.
+  - Example 2: A four-pole induction motor is connected to a 50 Hz supply and has a full-load slip of 4%. Find the full-load speed of the motor.
+    - Solution: The synchronous speed of a four-pole motor is given by: `Ns = 120f/p`, where `f` is the supply frequency, and `p` is the number of poles. Substituting the values, we get:
+      - `Ns = 120 x 50 / 4`
+      - `Ns = 1500 rpm`
+      - The full-load speed of the motor is given by: `N = Ns (1 - s)`, where `s` is the slip. Substituting the values, we get:
+      - `N = 1500 (1 - 0.04)`
+      - `N = 1440 rpm`
+      - The full-load speed of the motor is 1440 rpm.
+  - Example 3: A six-pole induction motor has a rotor frequency of 2 Hz when the supply frequency is 60 Hz. Find the slip and the speed of the motor.
+    - Solution: The slip of the motor is given by: `s = (fs - fr)/fs`, where `fs` is the supply frequency, and `fr` is the rotor frequency. Substituting the values, we get:
+      - `s = (60 - 2)/60`
+      - `s = 0.9667`
+      - The slip of the motor is 0.9667 or 96.67%.
+      - The synchronous speed of a six-pole motor is given by: `Ns = 120f/p`, where `f` is the supply frequency, and `p` is the number of poles. Substituting the values, we get:
+      - `Ns = 120 x 60 / 6`
+      - `Ns = 1200 rpm`
+      - The speed of the motor is given by: `N = Ns (1 - s)`, where `s` is the slip. Substituting the values, we get:
+      - `N = 1200 (1 - 0.9667)`
+      - `N = 40 rpm`
+      - The speed of the motor is 40 rpm.

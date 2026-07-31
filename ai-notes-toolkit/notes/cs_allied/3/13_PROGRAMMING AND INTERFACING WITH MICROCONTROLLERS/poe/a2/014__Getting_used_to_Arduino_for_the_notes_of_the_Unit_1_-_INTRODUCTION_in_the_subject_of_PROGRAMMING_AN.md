@@ -1,0 +1,9 @@
+ Here is the content in markdown format without any emojis or external links, written in a formal tone with points:
+
+### Getting used to Arduino for the notes of the Unit 1 - INTRODUCTION in the subject of PROGRAMMING AND INTERFACING WITH MICROCONTROLLERS
+
+1. Learn about Arduino board - Arduino is an open-source electronics platform based on easy-to-use hardware and software. It can sense the environment through input devices called sensors and can also affect its surrounding through output devices called actuators.
+2. Get familiar with the Arduino IDE - Arduino IDE is the software that is used to write and upload code to the Arduino board. Learn about the interface and components of the Arduino IDE like the edit area, tools options, upload button, etc.
+3. Understand the structure of an Arduino program - An Arduino program has setup() function which runs once when the board is turned on and loop() function which runs continuously. Learn about variables, data types, comments, and other components of the code.
+4. Learn basic Arduino programming - Understand Arduino programming through basic examples like blinking an LED, taking input from a button and displaying the output, controlling the brightness of an LED, etc. This will help you get comfortable with writing and uploading code to the Arduino board.
+5. Learn about Arduino shields and libraries - Shields are boards that can be attached to the Arduino board to add more functions like connecting to the internet, storing data, etc. Libraries are codes that can be added to the Arduino IDE to access certain functions and make programming easier. Get an introduction to some common shields and libraries.

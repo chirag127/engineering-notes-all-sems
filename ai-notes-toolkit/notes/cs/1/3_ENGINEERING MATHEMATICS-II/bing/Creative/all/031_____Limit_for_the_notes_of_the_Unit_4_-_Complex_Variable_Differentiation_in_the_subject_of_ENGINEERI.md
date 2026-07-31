@@ -1,0 +1,22 @@
+# Unit 4 - Complex Variable–Differentiation
+
+- A complex function is a function that maps complex numbers to complex numbers, such as f(z) = z^2 + 1.
+- A complex function can be written as f(z) = u(x,y) + i v(x,y), where z = x + i y, and u and v are real functions of two real variables.
+- A complex function is said to be differentiable at a point z_0 if the limit lim_(z->z_0) (f(z) - f(z_0))/(z - z_0) exists and is independent of the direction of approach of z to z_0.
+- The complex derivative of f at z_0 is defined as f'(z_0) = lim_(z->z_0) (f(z) - f(z_0))/(z - z_0), if it exists.
+- A complex function is said to be analytic or holomorphic at a point z_0 if it is differentiable at z_0 and in some neighborhood of z_0.
+- A complex function is said to be entire if it is analytic in the whole complex plane.
+- A complex function is said to be harmonic if its real and imaginary parts are harmonic functions, that is, they satisfy Laplace's equation.
+- A necessary condition for a complex function to be differentiable is that its real and imaginary parts satisfy the Cauchy-Riemann equations, which are partial differential equations that link them together.
+- The Cauchy-Riemann equations are u_x = v_y and u_y = -v_x, where u_x, u_y, v_x, and v_y are the partial derivatives of u and v with respect to x and y, respectively.
+- The Cauchy-Riemann equations can also be written in polar coordinates as u_r = v_theta/r and u_theta = -r v_r, where u_r, u_theta, v_r, and v_theta are the partial derivatives of u and v with respect to r and theta, respectively.
+- A sufficient condition for a complex function to be differentiable is that its real and imaginary parts are continuously differentiable and satisfy the Cauchy-Riemann equations.
+- A consequence of the Cauchy-Riemann equations is that a complex function is conformal, that is, it preserves angles and orientations locally.
+- Another consequence of the Cauchy-Riemann equations is that a complex function has a harmonic conjugate, that is, a function that is harmonic and has the same level curves as the original function, but with orthogonal directions.
+- A complex function can be represented by a power series, which is a series of the form f(z) = sum_(n=0)^infty a_n (z - z_0)^n, where a_n are complex coefficients and z_0 is a fixed complex number.
+- A power series converges absolutely and uniformly in a disk of convergence, which is the largest disk centered at z_0 such that the series converges for all z inside the disk.
+- The radius of convergence of a power series is the distance from z_0 to the nearest singularity of the function, where a singularity is a point where the function is not analytic.
+- A power series can be differentiated term by term inside its disk of convergence, and the resulting series has the same radius of convergence as the original series.
+- A complex function that is analytic in a domain can be expanded into a power series around any point in the domain, and the coefficients of the series can be obtained by the formula a_n = f^(n)(z_0)/n!, where f^(n) is the n-th derivative of f.
+- A complex function that is analytic in a domain is equal to its power series expansion in the domain, and the power series is unique. This is known as the identity theorem for power series.
+- A complex function that is analytic in a domain is infinitely differentiable in the domain, and its derivatives are also analytic in the domain. This is known as the analyticity theorem for complex functions.

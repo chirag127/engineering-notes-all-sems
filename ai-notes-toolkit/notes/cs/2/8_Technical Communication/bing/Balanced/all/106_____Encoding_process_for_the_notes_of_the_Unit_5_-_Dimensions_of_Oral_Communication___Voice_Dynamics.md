@@ -1,0 +1,21 @@
+# Encoding process for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication
+
+- Encoding is the process of turning thoughts into communication.
+- The encoder is the person who creates the message, adapts it to the receiver, and transmits it across a channel.
+- The encoding process is based on the purpose of communication and the relation between the sender and the receiver.
+- The encoder uses symbols to communicate their message, such as words, gestures, images, sounds, etc.
+- The encoder must consider the following factors when encoding a message:
+  - The context of the communication situation
+  - The characteristics and expectations of the receiver
+  - The channel and medium of communication
+  - The feedback and response from the receiver
+  - The potential barriers and noise that may affect the communication
+- Encoding is an essential skill for oral communication, as it involves selecting the appropriate words, tone, pitch, volume, pace, and nonverbal cues to convey the intended meaning and emotion to the listener.
+- Encoding also requires the encoder to be aware of their own verbal and nonverbal habits, and to adapt them to suit the audience and the occasion.
+- Encoding can be influenced by the encoder's culture, background, education, personality, mood, and motivation.
+- Encoding can be improved by practicing the following strategies:
+  - Planning and organizing the message before speaking
+  - Using clear and concise language that is appropriate for the audience and the purpose
+  - Using examples, stories, analogies, and evidence to support the message
+  - Using vocal variety and body language to enhance the message
+  - Asking for feedback and clarifying any misunderstandings

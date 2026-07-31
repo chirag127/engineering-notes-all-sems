@@ -1,0 +1,21 @@
+### Priority Driven Approach
+
+- The term priority-driven algorithms refers to a class of scheduling algorithms that never leave any resource idle intentionally .
+- A resource becomes idle only when no job requiring the resource is ready for execution .
+- It is an event-driven approach for job scheduling and scheduling decisions are made only when release and completion of jobs occur .
+- In a priority-driven approach, tasks are executed based on their priority level.
+- Higher-priority tasks are executed before lower-priority tasks.
+- This can be useful in real-time systems where certain tasks are more important than others and need to be completed as soon as possible.
+- Priority-driven scheduling can be classified into two types: static and dynamic.
+- Static priority-driven scheduling assigns a fixed priority to each task at design time and does not change it during execution.
+- Dynamic priority-driven scheduling assigns a variable priority to each task at run time and may change it depending on the system state and events.
+- Priority-driven scheduling can be applied to both periodic and aperiodic tasks.
+- Periodic tasks are tasks that have a fixed period and deadline and are activated at regular intervals.
+- Aperiodic tasks are tasks that have a variable period and deadline and are activated by unpredictable events.
+- Priority-driven scheduling can improve the real-time performance and predictability of ROS 2, which is a framework for developing robotic applications.
+- ROS 2 can benefit from priority-driven scheduling by using a middleware layer that supports different quality of service (QoS) policies for different topics and nodes.
+- QoS policies can specify the priority, reliability, durability, and deadline of the messages exchanged between nodes.
+- Priority-driven scheduling can also be implemented by using a real-time operating system (RTOS) that supports priority inheritance and priority ceiling protocols.
+- Priority inheritance is a mechanism that allows a lower-priority task to temporarily inherit the priority of a higher-priority task that is blocked by a shared resource.
+- Priority ceiling is a mechanism that assigns a ceiling priority to each shared resource and prevents a lower-priority task from accessing the resource if a higher-priority task is ready.
+- These mechanisms can prevent priority inversion, which is a situation where a higher-priority task is delayed by a lower-priority task that holds a shared resource.

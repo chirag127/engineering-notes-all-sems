@@ -1,0 +1,10 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is a comparison of Hadoop with traditional databases:
+
+### Comparison with traditional databases
+
+- Traditional databases are based on the relational model, which organizes data into tables with predefined schema and supports SQL queries. Hadoop is based on the distributed file system (DFS) model, which stores data in files across multiple nodes with no schema and supports MapReduce programming model.
+- Traditional databases are suitable for structured data with low volume and high integrity, such as transactional data, customer records, or financial data. Hadoop is suitable for semi-structured or unstructured data with high volume and low integrity, such as web logs, social media, or sensor data.
+- Traditional databases are limited by the scalability and performance of a single server or a cluster of servers. Hadoop can scale linearly by adding more nodes to the cluster and can handle petabytes of data with high parallelism and fault tolerance.
+- Traditional databases support multiple read and write operations and can update data in real time. Hadoop supports only write-once and read-many operations and can process data in batch mode.
+- Traditional databases have a static schema structure, which means the data types and formats are fixed and predefined. Hadoop has a dynamic schema structure, which means the data types and formats are flexible and can be defined at the time of analysis.
+- Traditional databases are easier to learn and use than Hadoop, but harder to scale and maintain. Hadoop is harder to learn and use than traditional databases, but easier to scale and maintain. Hadoop also offers a variety of tools and frameworks to enhance its functionality and usability, such as Hive, Pig, Spark, etc.

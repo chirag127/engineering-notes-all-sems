@@ -1,0 +1,9 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on Kannada literature for the module 2 of Indian literature, culture, tradition, and practices.
+
+### Kannada literature
+
+- Kannada literature is the corpus of written forms of the Kannada language, a member of the Dravidian family spoken mainly in the Indian state of Karnataka and written in the Kannada script .
+- The earliest records in Kannada are inscriptions dating from the 6th century AD onward. The oldest existing literary work in Kannada is the Kavirajamarga, a treatise on poetics, written by King Nripatunga Amoghavarsha I in the 9th century .
+- Kannada literature has been influenced by various literary traditions, such as Jainism, Shaivism, Vaishnavism, Bhakti, Veerashaivism, Haridasa, Vachana, Navya, Dalit, and Bandaya . Some of the notable Kannada writers and poets include Pampa, Ranna, Harihara, Basavanna, Akka Mahadevi, Allama Prabhu, Purandara Dasa, Kanaka Dasa, Sarvajna, Kumara Vyasa, Lakshmisa, Bendre, Kuvempu, Shivaram Karanth, Masti Venkatesha Iyengar, U.R. Ananthamurthy, Girish Karnad, and Chandrashekhara Kambara  .
+- The topics of Kannada literature included grammar, philosophy, prosody, rhetoric, chronicles, biography, history, drama and cuisine, as well as dictionaries and encyclopedias. According to critic Joseph T. Shipley, over fifty works on scientific subjects including medicine, mathematics and astrology have been written in the Kannada language.
+- Kannada literature has been recognized by various awards, such as the Jnanpith Award, the Sahitya Akademi Award, the Karnataka Sahitya Academy Award, the Pampa Award, the Nrupatunga Award, and the Basava Puraskara . Kannada is also one of the official languages of India and the second oldest Indian language to be designated as a classical language by the Government of India in 2008 .

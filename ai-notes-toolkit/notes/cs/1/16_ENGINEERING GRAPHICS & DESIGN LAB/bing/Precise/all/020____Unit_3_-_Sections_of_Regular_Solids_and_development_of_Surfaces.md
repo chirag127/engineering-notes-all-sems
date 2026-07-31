@@ -1,0 +1,15 @@
+## Unit 3 - Sections of Regular Solids and Development of Surfaces
+
+1. **Sections of Regular Solids:** A section of a solid is the shape obtained by cutting the solid with a plane. The shape of the section depends on the orientation of the cutting plane relative to the solid.
+2. **Development of Surfaces:** The development of a surface is the process of unfolding a 3D shape into a 2D shape. This is useful for creating patterns for sheet metal work, packaging design, and other applications where a flat pattern must be bent or folded to create a 3D shape.
+3. **Types of Solids:** There are several types of regular solids, including prisms, pyramids, cylinders, cones, and spheres. Each type of solid has its own unique properties and characteristics.
+4. **Sections of Prisms:** The section of a prism depends on the orientation of the cutting plane. If the cutting plane is parallel to the base of the prism, the section will be a scaled version of the base. If the cutting plane is perpendicular to the base, the section will be a rectangle.
+5. **Sections of Pyramids:** The section of a pyramid depends on the orientation of the cutting plane. If the cutting plane is parallel to the base of the pyramid, the section will be a scaled version of the base. If the cutting plane passes through the apex of the pyramid, the section will be a triangle.
+6. **Sections of Cylinders:** The section of a cylinder depends on the orientation of the cutting plane. If the cutting plane is parallel to the axis of the cylinder, the section will be a rectangle. If the cutting plane is perpendicular to the axis, the section will be a circle.
+7. **Sections of Cones:** The section of a cone depends on the orientation of the cutting plane. If the cutting plane is parallel to the axis of the cone, the section will be a triangle. If the cutting plane is perpendicular to the axis, the section will be a circle.
+8. **Sections of Spheres:** The section of a sphere is always a circle, regardless of the orientation of the cutting plane.
+9. **Development of Prisms:** To develop the surface of a prism, the lateral faces are unfolded into a series of rectangles, and the base is unfolded into its own shape.
+10. **Development of Pyramids:** To develop the surface of a pyramid, the lateral faces are unfolded into a series of triangles, and the base is unfolded into its own shape.
+11. **Development of Cylinders:** To develop the surface of a cylinder, the lateral surface is unfolded into a rectangle, and the two bases are unfolded into circles.
+12. **Development of Cones:** To develop the surface of a cone, the lateral surface is unfolded into a sector of a circle, and the base is unfolded into a circle.
+13. **Development of Spheres:** It is not possible to develop the surface of a sphere into a flat shape without distortion.

@@ -1,0 +1,23 @@
+### ALU for the notes of the Unit 2 - Pin diagram and internal architecture of 8085 microprocessor, registers, ALU, Control & status, interrupt and machine cycle. Instruction sets. Addressing modes. Instruction formats Instruction Classification: data transfer, arithmetic operations, logical operations, branching operations, machine control and assembler directives. in the subject of Microprocessor KCS
+
+- ALU stands for Arithmetic and Logic Unit. It is a functional unit of the 8085 microprocessor that performs arithmetic, logical, I/O and LOAD/STORE operations .
+- The ALU is connected to the internal data bus and the accumulator, which is an 8-bit register that stores the result of the ALU operations .
+- The ALU can perform the following operations  :
+  - Addition and subtraction of 8-bit or 16-bit numbers, with or without carry or borrow.
+  - Increment and decrement of 8-bit or 16-bit numbers.
+  - Logical operations such as AND, OR, XOR, NOT, and compare.
+  - Bitwise operations such as rotate, shift, and test.
+  - I/O operations such as input and output of data from or to external devices.
+  - LOAD/STORE operations such as moving data between registers, memory, and accumulator.
+- The ALU is controlled by the instruction decoder, which decodes the instruction fetched from the memory and generates the appropriate control signals for the ALU .
+- The ALU also sets the flags in the flag register, which indicate the status of the ALU operations, such as zero, sign, parity, carry, and auxiliary carry .
+- The ALU is implemented using NMOS technology and consists of several circuits, such as adder, subtractor, comparator, multiplexer, shifter, and logic gates.
+- The ALU is a part of the internal architecture of the 8085 microprocessor, which also includes the following components :
+  - Address bus: A 16-bit bus that transfers the memory address of the data that needs to be read or written.
+  - Data bus: An 8-bit bus that transfers the data between the microprocessor and external devices.
+  - Program counter: A 16-bit register that holds the address of the next instruction to be executed.
+  - Stack pointer: A 16-bit register that holds the address of the top of the stack in the memory.
+  - Registers: Six 8-bit registers arranged in pairs: BC, DE, HL, which can be used as general-purpose registers or as 16-bit registers for some operations.
+  - Control and status unit: A unit that generates the control signals for the internal and external devices and synchronizes the operations of the microprocessor with the clock.
+  - Interrupt unit: A unit that handles the external interrupts from the peripheral devices and executes the interrupt service routines.
+  - Machine cycle unit: A unit that defines the sequence of operations for each instruction, such as fetch, decode, execute, and memory read/write. Each machine cycle consists of several clock cycles or T-states.

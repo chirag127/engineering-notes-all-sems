@@ -1,0 +1,19 @@
+## Unit 4 - Agreement Protocols
+
+- Agreement protocols are a class of distributed algorithms that allow a set of processes to reach a common decision or consensus, despite the possibility of failures or faults.
+- Agreement protocols are useful for implementing reliable and consistent services in distributed systems, such as leader election, atomic broadcast, distributed transactions, replication, and fault tolerance.
+- Agreement protocols can be classified into different types based on the assumptions they make about the system model, such as the number and type of failures, the communication model, the synchrony assumptions, and the validity and termination properties.
+- Some of the common types of agreement protocols are:
+  - **Consensus**: Each process proposes a value and must agree on a single value that is one of the proposed values.
+  - **Atomic commit**: Each process decides to commit or abort a transaction and must agree on a single outcome that is either commit or abort.
+  - **Byzantine agreement**: Each process proposes a value and must agree on a single value that is one of the proposed values, even if some processes are faulty and may behave arbitrarily (Byzantine faults).
+  - **Interactive consistency**: Each process has a private value and must agree on a vector of values that contains the private values of all correct processes.
+  - **k-set agreement**: Each process proposes a value and must agree on a single value that is one of the proposed values, but up to k different values are allowed.
+- Agreement protocols are often impossible or difficult to achieve in certain system models, due to the presence of failures, asynchrony, or uncertainty. For example, the FLP impossibility result shows that consensus is impossible to solve in an asynchronous system with even one crash failure. The CAP theorem shows that atomic consistency, availability, and partition tolerance are impossible to achieve simultaneously in a distributed system. The Byzantine generals problem shows that Byzantine agreement requires at least 3f+1 processes to tolerate f Byzantine faults.
+- Agreement protocols often rely on techniques such as message passing, timeouts, failure detectors, quorums, voting, randomization, cryptography, or trusted components to overcome the challenges and limitations of the system model and achieve the desired properties. Some of the well-known agreement protocols are:
+  - **Paxos**: A family of consensus protocols that use a leader-based approach and quorum intersection to ensure safety and liveness in asynchronous systems with crash failures.
+  - **Raft**: A consensus protocol that simplifies Paxos by using a stronger leader and a more intuitive state machine to ensure safety and liveness in asynchronous systems with crash failures.
+  - **Two-phase commit**: An atomic commit protocol that uses a coordinator and two phases (prepare and commit) to ensure agreement on a transaction outcome in synchronous systems with crash failures.
+  - **Three-phase commit**: An atomic commit protocol that uses a coordinator and three phases (prepare, pre-commit, and commit) to ensure agreement on a transaction outcome in asynchronous systems with crash failures.
+  - **Practical Byzantine Fault Tolerance (PBFT)**: A Byzantine agreement protocol that uses a primary and a three-phase protocol (pre-prepare, prepare, and commit) to ensure agreement on a value in asynchronous systems with Byzantine faults.
+  - **Zyzzyva**: A Byzantine agreement protocol that uses a primary and a two-phase protocol (request and commit) to ensure agreement on a value in asynchronous systems with Byzantine faults, and optimizes the performance by using speculative execution and MAC authentication.

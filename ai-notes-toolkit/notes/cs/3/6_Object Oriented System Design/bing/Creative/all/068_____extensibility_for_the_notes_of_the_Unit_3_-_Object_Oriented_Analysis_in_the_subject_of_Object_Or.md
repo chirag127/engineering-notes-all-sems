@@ -1,0 +1,13 @@
+# Extensibility for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Extensibility is the ability of a software system to accommodate changes or additions to its functionality or structure without affecting its existing components.
+- Extensibility is one of the main advantages of object-oriented programming (OOP) over procedural programming (POP), as OOP provides modularity, reusability, and inheritance .
+- Modularity is the separation of duties in object-based program development, which allows each object to have its own data and behavior, and to communicate with other objects through well-defined interfaces.
+- Reusability is the possibility of using existing objects or classes in new or different contexts, which reduces the need for writing new code and improves the quality and reliability of the software.
+- Inheritance is the mechanism of creating new classes from existing ones, which allows the new classes to inherit the attributes and behaviors of the parent classes, and to add or override them as needed.
+- Extensibility can be achieved in OOP by using different mechanisms, such as polymorphism, abstract classes, interfaces, and design patterns .
+- Polymorphism is the ability of an object to behave differently depending on the context or the type of the object, which allows the same operation to be applied to different objects and produce different results.
+- Abstract classes are classes that cannot be instantiated, but can be used as base classes for other classes, which provide common functionality and define abstract methods that must be implemented by the subclasses.
+- Interfaces are contracts that specify the methods and properties that a class must implement, but do not provide any implementation details, which allow multiple classes to share the same interface and be used interchangeably.
+- Design patterns are reusable solutions to common software design problems, which provide guidelines and best practices for achieving extensibility and other quality attributes in OOP .
+- Some examples of design patterns that support extensibility are the Strategy pattern, which defines a family of interchangeable algorithms that can be selected at runtime; the Decorator pattern, which adds new functionality to an existing object without modifying its structure; the Factory pattern, which creates objects of different types without exposing the creation logic; and the Visitor pattern, which allows new operations to be added to an existing object structure without changing it .

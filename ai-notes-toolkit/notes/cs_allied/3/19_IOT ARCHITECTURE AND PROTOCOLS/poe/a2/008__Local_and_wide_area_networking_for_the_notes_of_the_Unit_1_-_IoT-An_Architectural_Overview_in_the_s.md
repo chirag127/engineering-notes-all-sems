@@ -1,0 +1,10 @@
+ Here is the content in markdown format without any emojis or external links and in a formal tone:
+
+### Local and wide area networking for the notes of the Unit 1 - IoT-An Architectural Overview in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+1. Local Area Network (LAN): A LAN is a computer network covering a small physical area, like an office building, a home, or a group of buildings. Devices are connected to the LAN via Ethernet cables or Wi-Fi. LANs allow devices to share resources like internet connections, file servers, printers, storage, and applications.
+2. Wide Area Network (WAN): A WAN is a telecommunications network that covers a broad area (i.e. any network whose communications links cross metropolitan, regional, or national boundaries). WANs are used to connect LANs and other types of networks together, so that users and computers in one location can communicate with users and computers in other locations. The Internet is the largest WAN.
+3. Network Protocols: Protocols are the rules and procedures for communication between devices on a network. Protocols determine how data is formatted, addressed, transmitted, and received. For example, the Internet Protocol (IP) is the method for delivering packets of data over the internet and sits on top of lower-level protocols like Ethernet.
+4. IoT Network Requirements: IoT applications have a range of networking requirements. Low data rate applications may only require short-range wireless protocols, while high performance applications may require wireless WAN or wired protocols. Network requirements depend on factors like range, battery life, latency, throughput, and cost. IoT devices may use a variety of protocols at different layers of the network stack.
+
+The above points cover the key aspects of local area networking, wide area networking and network protocols which form the networking fundamentals required for understanding IoT architecture and protocols. Let me know if you would like me to elaborate on any of the points or add additional points to the content.

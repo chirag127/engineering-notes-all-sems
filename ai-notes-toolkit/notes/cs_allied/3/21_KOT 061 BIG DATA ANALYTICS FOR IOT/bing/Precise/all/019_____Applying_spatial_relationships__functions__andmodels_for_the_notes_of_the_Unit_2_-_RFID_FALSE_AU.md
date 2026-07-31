@@ -1,0 +1,6 @@
+### Applying spatial relationships, functions, and models for the notes of the Unit 2 - RFID FALSE AUTHENTICATIONS in the subject of KOT 061 BIG DATA ANALYTICS FOR IOT KCS
+
+1. Spatial relationships refer to the way objects are positioned in space in relation to each other. These relationships can be used to model and analyze data in the context of RFID false authentication.
+2. Functions are mathematical tools that can be used to model the behavior of a system. In the context of RFID false authentication, functions can be used to model the probability of a false authentication occurring based on various factors.
+3. Models are simplified representations of a system that can be used to make predictions and analyze data. In the context of RFID false authentication, models can be used to predict the likelihood of a false authentication occurring and to analyze the factors that contribute to false authentication.
+4. By applying spatial relationships, functions, and models, it is possible to gain a deeper understanding of the factors that contribute to RFID false authentication and to develop strategies for preventing it. This can be an important tool in the field of Big Data Analytics for IoT.

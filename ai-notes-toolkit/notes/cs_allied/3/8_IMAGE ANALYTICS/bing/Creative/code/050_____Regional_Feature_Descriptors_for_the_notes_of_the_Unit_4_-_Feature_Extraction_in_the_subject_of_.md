@@ -1,0 +1,8 @@
+### Regional Feature Descriptors for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+
+- Regional feature descriptors are methods to extract and describe distinctive regions or patches in an image that can be used for image analysis tasks such as retrieval, classification, and matching    .
+- Regional feature descriptors can be divided into two categories: hand-crafted and learned.
+- Hand-crafted regional feature descriptors are based on predefined rules or algorithms to detect and describe regions of interest in an image, such as corners, edges, blobs, etc. Examples of hand-crafted regional feature descriptors are SIFT, SURF, ORB, BRIEF, etc .
+- Learned regional feature descriptors are based on data-driven approaches to learn the optimal representation of regions in an image, such as deep neural networks, autoencoders, etc. Examples of learned regional feature descriptors are LIFT, HardNet, L2-Net, etc .
+- Regional feature descriptors can be evaluated based on several criteria, such as repeatability, distinctiveness, robustness, efficiency, and scalability .
+- Regional feature descriptors can be further enhanced by using region-wise feature aggregation methods, such as Bag of Words (BoW), Fisher Vector (FV), or Vector of Locally Aggregated Descriptors (VLAD), which can capture the global and local information of an image and reduce the dimensionality of the feature space .

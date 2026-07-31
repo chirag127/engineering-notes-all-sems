@@ -1,0 +1,11 @@
+### Architecture for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+
+- An Intelligent Database System (IDBS) is a database system that incorporates Artificial Intelligence (AI) techniques to enhance its functionality and performance .
+- An IDBS can be seen as an extension of a conventional database system with additional components such as a knowledge base, an inference engine, and a user interface.
+- The architecture of an IDBS can be based on different paradigms, such as the expert system paradigm, the deductive database paradigm, the active database paradigm, or the hybrid paradigm.
+- The expert system paradigm is based on the organization of an expert system, which consists of a fact database, a rule base, and an inference engine. The fact database stores the data, the rule base stores the domain knowledge, and the inference engine applies the rules to the data to derive new facts or conclusions.
+- The deductive database paradigm is based on the integration of logic programming and database systems, which allows the definition and manipulation of data using logic rules and queries. The deductive database system can perform deductive reasoning on the data and infer new facts or answers.
+- The active database paradigm is based on the incorporation of triggers and rules into the database system, which can specify actions to be performed automatically in response to certain events or conditions. The active database system can monitor the data and react to changes or updates.
+- The hybrid paradigm is based on the combination of different paradigms, such as the expert system paradigm and the deductive database paradigm, or the active database paradigm and the deductive database paradigm. The hybrid database system can exploit the advantages of different paradigms and provide more functionality and flexibility.
+- The applications of IDBS can be found in various domains, such as decision support systems, data mining, data warehousing, information retrieval, natural language processing, image processing, multimedia, and web databases  .
+- The benefits of IDBS include improved data quality, data consistency, data integration, data analysis, data interpretation, data presentation, and user satisfaction .

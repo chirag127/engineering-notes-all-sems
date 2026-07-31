@@ -1,0 +1,20 @@
+### Operational aspects for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+
+- A semantic data model (SDM) is a high-level database model that captures the meaning and relationships of the data in an application domain.
+- A semantic data model works by creating relationships between data elements or objects when the data is organized, which allows the data to have meaning without human intervention or additional processing.
+- A semantic data model consists of three essential parts: the first data element or object, the relationship, and the second data element or object.
+- A semantic data model can be represented graphically using a semantic network, which is a directed graph that shows the data elements or objects as nodes and the relationships as arcs.
+- A semantic data model can also be represented using a formal language, such as the Resource Description Framework (RDF), which is a standard for describing and exchanging data on the web.
+- A semantic data model has several advantages over other database models, such as:
+  - It can express complex and dynamic data structures and constraints more naturally and intuitively.
+  - It can facilitate data integration and interoperability across different sources and applications.
+  - It can support data analysis and reasoning based on the semantics and logic of the data.
+- A semantic data model has several challenges and limitations, such as:
+  - It can be difficult to design and implement, especially for large and heterogeneous data sets.
+  - It can require more computational resources and processing time than other database models.
+  - It can be affected by the quality and consistency of the data and the relationships.
+- A semantic data model can be used for various purposes and applications, such as:
+  - Data resource planning: The SDM can be used in the initial stages of project planning to provide the necessary data resources.
+  - Data warehouse development: The SDM can serve as a basis for understanding the requirements and the design of the subsequent data models.
+  - Data analysis and reporting: The SDM can be used to present data for analysis according to the structure of the business.
+  - Data sharing and exchange: The SDM can be used to describe and exchange data on the web using common standards and vocabularies.

@@ -1,0 +1,12 @@
+### Concepts in Backward and Forward Recovery
+
+- Backward recovery and forward recovery are two techniques for restoring the system to a consistent state after a failure in a distributed system.
+- Backward recovery involves rolling back the system to a previous error-free state by using checkpoints and logs. Forward recovery involves correcting the errors and continuing the execution from the current state.
+- Backward recovery has the advantage of being independent of the nature of faults, but it may require undoing the effects of many transactions and coordinating with other processes. Forward recovery has the advantage of avoiding unnecessary rollbacks, but it may require accurate diagnosis of errors and complex recovery actions.
+- Some of the concepts related to backward and forward recovery are:
+
+  - Checkpoint: A checkpoint is a snapshot of the system state that is periodically taken and stored in a stable storage. Checkpoints can be local (for each process) or global (for the whole system). Checkpoints are used to reduce the amount of work that needs to be redone or undone in case of a failure.
+  - Log: A log is a record of the actions performed by the system that may affect the system state. Logs can be undo logs (that store the old values of the modified data) or redo logs (that store the new values of the modified data). Logs are used to restore the system state to a consistent checkpoint by applying or reversing the logged actions.
+  - Recovery line: A recovery line is a set of checkpoints that defines a consistent state of the system. A recovery line can be consistent (if all the checkpoints are consistent with each other) or inconsistent (if some checkpoints are inconsistent with each other). A recovery line is used to determine the starting point for recovery.
+  - Recovery point: A recovery point is a point in the execution history of the system that corresponds to a consistent state of the system. A recovery point can be a checkpoint or a log record. A recovery point is used to determine the ending point for recovery.
+  - Dependency graph: A dependency graph is a graph that represents the causal dependencies among the processes and the actions in the system. A dependency graph is used to determine the global state of the system and the effects of failures and rollbacks.

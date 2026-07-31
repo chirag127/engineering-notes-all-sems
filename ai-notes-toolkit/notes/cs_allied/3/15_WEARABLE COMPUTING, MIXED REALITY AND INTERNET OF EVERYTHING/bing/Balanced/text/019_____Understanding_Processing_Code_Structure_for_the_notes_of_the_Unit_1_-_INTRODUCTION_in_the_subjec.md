@@ -1,0 +1,9 @@
+### Understanding Processing Code Structure
+
+Processing is a programming language that is designed for creating interactive graphics, animations, and games. It is based on Java, but it has a simplified syntax and a built-in graphics library. Processing code consists of two main parts: setup and draw blocks .
+
+- The setup block runs once when the code gets executed, and it is used to initialize the variables, set the window size, load the images, and other tasks that need to be done only once.
+- The draw block runs continuously, and it is used to update the graphics, handle the user input, and perform the main logic of the program. The draw block is executed 60 times per second by default, unless the frame rate is changed by the frameRate() function.
+- Processing also allows the use of other functions, such as mousePressed(), keyPressed(), and setup() and draw() are optional and can be omitted if not needed.
+- Processing code can be written in two modes: Java mode and Processing mode. In Java mode, the code is written as a Java class that extends the PApplet class, and it follows the Java syntax and conventions. In Processing mode, the code is written as a sketch that uses the Processing syntax and functions, and it is automatically converted to a Java class by the Processing editor.
+- Processing code can be run in different ways, such as using the Processing editor, exporting the code as an application, embedding the code in a web page, or using the Processing command line tool. Processing code can also be integrated with other languages and libraries, such as Python, JavaScript, and OpenCV.

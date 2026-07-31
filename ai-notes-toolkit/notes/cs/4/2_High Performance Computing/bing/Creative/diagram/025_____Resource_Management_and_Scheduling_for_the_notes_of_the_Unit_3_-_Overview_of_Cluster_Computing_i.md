@@ -1,0 +1,27 @@
+### Resource Management and Scheduling
+
+- Resource management and scheduling (RMS) are critical tasks in cluster computing, which aim to efficiently utilize the available resources and execute the jobs submitted by the users in a timely manner .
+- Cluster computing involves a collection of heterogeneous and distributed resources that are interconnected by a high-speed network and can cooperate to perform parallel and distributed applications.
+- Cluster resource scheduling includes two main functions: resource allocation and job scheduling.
+  - Resource allocation is the process of assigning a certain quantity of computing resources to each user or application at runtime, guided by a global policy to share cluster resources among multiple users based on fairness and/or predefined priority.
+  - Job scheduling is the process of mapping the jobs to the allocated resources and determining the execution order and time of the jobs, considering the jobs' requirements and the resources' characteristics.
+- The RMS of clusters provides support of four main functionalities: management of resources; job queuing; job scheduling and execution.
+  - The RMS manages, controls and maintains the status information of the resources such as processors and disk storage in the cluster system.
+  - Jobs submitted by the users into the cluster system are initially placed into queues until there are available resources to execute the jobs.
+  - The cluster RMS then invokes the cluster scheduler to determine how resources are assigned to various jobs.
+  - After that, the cluster RMS dispatches the jobs to the assigned nodes and manages the job execution processes before returning the results to the users upon job completion.
+- The RMS of clusters can be classified into two types: centralized and distributed.
+  - Centralized RMS has a single master node that is responsible for managing all the resources and jobs in the cluster, while the other nodes are workers that execute the jobs assigned by the master.
+  - Distributed RMS has multiple nodes that share the responsibility of resource management and job scheduling, and communicate with each other to coordinate their actions.
+- The RMS of clusters can also be classified into two categories: static and dynamic.
+  - Static RMS performs resource allocation and job scheduling at the beginning of the execution, based on the initial information about the resources and jobs, and does not change them during the execution.
+  - Dynamic RMS performs resource allocation and job scheduling at runtime, based on the current information about the resources and jobs, and can adapt to the changes in the system.
+- The main challenges of cluster resource scheduling are :
+  - Achieving a tradeoff between multiple conflicting objectives, such as maximizing resource utilization, minimizing job completion time, balancing the workload, reducing energy consumption, etc.
+  - Finding the balance between jobs' requirements, such as deadline, priority, quality of service, etc., and resources' characteristics, such as capacity, availability, reliability, etc.
+  - Scaling to the large number and diversity of resources and jobs in the cluster, and handling the dynamic and unpredictable nature of the system.
+  - Dealing with the heterogeneity and complexity of the applications and the resources in the cluster, and supporting various types of jobs, such as batch, interactive, streaming, etc.
+- Some examples of cluster RMS are:
+  - Slurm: a cluster management and scheduling system for Linux clusters that is fault-tolerant and highly scalable, and supports various types of jobs and resources.
+  - Mesos: a cluster operating system that abstracts the resources of the cluster and provides a common interface for various frameworks to run on top of it, such as Spark, Hadoop, etc.
+  - Kubernetes: a cluster orchestration system that automates the deployment, scaling and management of containerized applications on the cluster, and provides features such as service discovery, load balancing, etc.

@@ -1,0 +1,10 @@
+##### 10. Demonstration of cut-out sections of machines: dc machine, three phase induction machine, single-phase induction machine and synchronous machine.
+
+- A cut-out section of a machine is a part of the machine that is cut or removed to expose the internal components and structure of the machine.
+- Cut-out sections of machines are useful for demonstration and learning purposes, as they allow the students to observe and understand the working principles, construction, and operation of different types of machines.
+- The following are some examples of cut-out sections of machines:
+
+  - DC machine: A DC machine is a machine that converts electrical energy into mechanical energy or vice versa using direct current. A cut-out section of a DC machine can show the commutator-brush arrangement, the armature winding, the field winding, and the magnetic poles.
+  - Three phase induction machine: A three phase induction machine is a machine that converts electrical energy into mechanical energy using alternating current. A cut-out section of a three phase induction machine can show the stator winding, the rotor winding, the air gap, and the slip rings.
+  - Single-phase induction machine: A single-phase induction machine is a machine that converts electrical energy into mechanical energy using single-phase alternating current. A cut-out section of a single-phase induction machine can show the main winding, the auxiliary winding, the capacitor, the centrifugal switch, and the shaded poles.
+  - Synchronous machine: A synchronous machine is a machine that converts electrical energy into mechanical energy or vice versa using alternating current at a constant frequency. A cut-out section of a synchronous machine can show the stator winding, the rotor winding, the exciter, the damper bars, and the salient poles.

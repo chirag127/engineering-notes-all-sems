@@ -1,0 +1,14 @@
+### Types of supports (Hinge, Roller) and loads (Point, UDL, UVL) for the notes of the Unit 1 - Introduction to Mechanics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+
+- Supports are devices that connect a structural member to its foundation and transfer the loads from the member to the foundation.
+- Supports can resist different types of forces and moments depending on their configuration and constraints.
+- Supports can be classified into four main types: roller, hinge, fixed and pinned   .
+- Roller support: A roller support allows rotation about any axis and translation (horizontal movement) in any direction parallel to the surface on which it rests . It can resist a vertical force but not a horizontal force or a moment. A roller support is represented by a small circle with a line under it.
+- Hinge support: A hinge support allows rotation about any axis but prevents movement in the horizontal and vertical directions. It can resist a horizontal force and a vertical force but not a moment. A hinge support is represented by a triangle with a line under it.
+- Fixed support: A fixed support prevents rotation and translation in any direction. It can resist a horizontal force, a vertical force and a moment. A fixed support is represented by a triangle with a line and a small circle under it.
+- Pinned support: A pinned support is similar to a hinge support but it also prevents rotation about the axis perpendicular to the plane of the structure. It can resist a horizontal force, a vertical force and a moment about the axis perpendicular to the plane of the structure. A pinned support is represented by a triangle with a line and a small circle with a dot under it.
+- Loads are forces or moments that act on a structural member and cause deformation or displacement.
+- Loads can be classified into three main types: point, uniformly distributed (UDL) and uniformly varying (UVL).
+- Point load: A point load is a load that acts at a single point on a structural member. It can be a force or a moment. A point load is represented by an arrow pointing in the direction of the load or a curved arrow indicating the direction of the moment.
+- Uniformly distributed load (UDL): A UDL is a load that acts uniformly over a length of a structural member. It can be a force or a moment. A UDL is represented by a series of parallel arrows pointing in the direction of the load or a series of curved arrows indicating the direction of the moment.
+- Uniformly varying load (UVL): A UVL is a load that varies linearly over a length of a structural member. It can be a force or a moment. A UVL is represented by a series of arrows pointing in the direction of the load or a series of curved arrows indicating the direction of the moment, with the length of the arrows increasing or decreasing proportionally to the load.

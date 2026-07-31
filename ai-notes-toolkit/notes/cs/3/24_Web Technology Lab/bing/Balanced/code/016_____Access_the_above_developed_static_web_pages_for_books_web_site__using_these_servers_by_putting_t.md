@@ -1,0 +1,15 @@
+### Access the above developed static web pages for books web site, using these servers by putting the web pages developed for the notes of the Unit 5 - Design server site applications using JDDC,ODBC and section tracking API in the subject of Web Technology Lab
+
+- To access the static web pages for books web site, you need to have a web server that can host and serve the HTML files. You can use any web server software such as Apache, Nginx, IIS, etc. You also need to configure the web server to point to the directory where the HTML files are stored.
+- To put the web pages developed for the notes of the Unit 5, you need to have a database server that can store and retrieve the data for the server site applications. You can use any database server software such as MySQL, PostgreSQL, Oracle, etc. You also need to install and configure the JDBC and ODBC drivers that can connect the web server and the database server. You also need to implement the session tracking API that can maintain the state of the user across multiple requests.
+- To design the server site applications using JDBC, ODBC and session tracking API, you need to have a programming language that can run on the web server and interact with the database server. You can use any programming language such as Java, PHP, Python, etc. You also need to use the JDBC and ODBC APIs to execute SQL queries and manipulate the data in the database. You also need to use the session tracking API to create, store, and retrieve the session objects that can store the user information and preferences.
+- The following are the steps to access the static web pages for books web site and put the web pages developed for the notes of the Unit 5:
+
+  - Install and configure the web server software on your machine. Make sure the web server is running and listening on a port (usually 80 or 443).
+  - Install and configure the database server software on your machine or another machine. Make sure the database server is running and listening on a port (usually 3306 or 5432).
+  - Install and configure the JDBC and ODBC drivers on your machine. Make sure the drivers are compatible with the web server and the database server software.
+  - Create a database and a table for the server site applications. Populate the table with some sample data.
+  - Create a directory for the static web pages for books web site. Copy the HTML files from the source to the directory. Make sure the web server can access the directory and the HTML files.
+  - Create a directory for the web pages developed for the notes of the Unit 5. Write the code for the server site applications using JDBC, ODBC and session tracking API. Make sure the code can access the database and the session objects.
+  - Access the static web pages for books web site by typing the URL of the web server and the directory name in the browser. For example, http://localhost/books/
+  - Access the web pages developed for the notes of the Unit 5 by typing the URL of the web server and the directory name in the browser. For example, http://localhost/notes/

@@ -1,0 +1,29 @@
+### Group Discussion for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication
+
+- A group discussion involves having a conversation with others in a group setting.
+- Group discussions encourage teamwork and allow participants to improve their speaking and listening skills.
+- Group discussions are of the following types :
+  - Factual group discussions: These group discussions are about practical things and judge how a candidate processes information and analyses day-to-day topics or socio-economic issues.
+  - Opinion-based group discussions: These group discussions test how candidates put forward their opinions and views.
+  - Case study-based group discussions: These group discussions involve solving a problem or a scenario given to the candidates.
+  - Abstract group discussions: These group discussions are about topics that are vague or have no definite meaning.
+- The purpose of group discussions can vary depending on the context and the goal of the group . Some common purposes are:
+  - To generate ideas or solutions for a problem or a challenge.
+  - To share information or knowledge among the group members.
+  - To evaluate the performance or skills of the candidates for a job or an admission.
+  - To reach a consensus or a decision on a matter of interest or concern.
+  - To develop interpersonal and communication skills among the group members.
+- The prerequisites for a successful group discussion are:
+  - A clear and relevant topic or case for the discussion.
+  - A well-defined objective and scope for the discussion.
+  - A suitable size and composition of the group.
+  - A conducive and comfortable environment for the discussion.
+  - A fair and impartial moderator or facilitator for the discussion.
+- The steps for conducting a group discussion are:
+  - Forming the group and assigning roles and responsibilities to the members.
+  - Introducing the topic or case and setting the rules and norms for the discussion.
+  - Initiating the discussion and allowing the members to express their views and opinions.
+  - Encouraging the participation and interaction of all the members.
+  - Moderating the discussion and resolving any conflicts or disagreements.
+  - Summarizing the discussion and highlighting the main points and outcomes.
+  - Evaluating the discussion and providing feedback to the members.

@@ -1,0 +1,24 @@
+### Security in IoT Protocols
+
+- Security is a major challenge for IoT systems, as they involve a large number of heterogeneous devices, networks, and applications that communicate and exchange data over the internet.
+- Security in IoT protocols refers to the methods and mechanisms that ensure the confidentiality, integrity, availability, and authenticity of data and devices in IoT systems.
+- Some of the security requirements for IoT protocols are:
+  - Data privacy: protecting the sensitive and personal data of users and devices from unauthorized access and disclosure.
+  - Data integrity: ensuring that the data is not tampered with or corrupted during transmission or storage.
+  - Data availability: ensuring that the data and devices are accessible and functional when needed.
+  - Authentication: verifying the identity and legitimacy of the devices and users that participate in IoT systems.
+  - Authorization: granting or denying access and privileges to the devices and users based on predefined policies and rules.
+  - Trust management: establishing and maintaining trust relationships among the devices and users in IoT systems.
+- Some of the security threats and attacks that IoT protocols have to deal with are:
+  - Eavesdropping: intercepting and listening to the data transmitted over the network.
+  - Replay: capturing and retransmitting the data to impersonate or deceive the legitimate devices or users.
+  - Modification: altering or modifying the data to cause damage or disruption to the IoT system.
+  - Denial-of-service: flooding the network or devices with excessive or malicious traffic to prevent them from functioning properly.
+  - Spoofing: forging or falsifying the identity or location of the devices or users to gain unauthorized access or privileges.
+  - Man-in-the-middle: inserting a malicious node between the sender and receiver to intercept, modify, or redirect the data.
+- Some of the security protocols that are used or proposed for IoT systems are:
+  - MQTT: a lightweight and publish-subscribe messaging protocol that supports encryption, authentication, and authorization using TLS/SSL, username/password, and access control lists .
+  - CoAP: a web-based and RESTful protocol that supports encryption, authentication, and authorization using DTLS, pre-shared keys, certificates, and tokens.
+  - LwM2M: a device management and service layer protocol that supports encryption, authentication, and authorization using DTLS, pre-shared keys, certificates, and bootstrap server.
+  - XMPP: an extensible and XML-based messaging protocol that supports encryption, authentication, and authorization using TLS/SSL, SASL, and XEP-0198.
+  - AMQP: an advanced and reliable messaging protocol that supports encryption, authentication, and authorization using TLS/SSL, SASL, and ACL.

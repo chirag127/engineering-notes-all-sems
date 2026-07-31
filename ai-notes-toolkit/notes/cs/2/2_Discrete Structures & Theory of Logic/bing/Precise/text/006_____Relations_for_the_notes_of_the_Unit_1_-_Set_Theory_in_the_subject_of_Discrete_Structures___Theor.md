@@ -1,0 +1,22 @@
+### Relations
+
+- A relation is a set of ordered pairs.
+- Relations can be represented using a set of ordered pairs, a table, a graph, or a matrix.
+- The domain of a relation is the set of all first elements of the ordered pairs.
+- The range of a relation is the set of all second elements of the ordered pairs.
+- The inverse of a relation is obtained by switching the order of the elements in each ordered pair.
+- A relation can be reflexive, symmetric, transitive, or a combination of these properties.
+- A relation is reflexive if every element is related to itself.
+- A relation is symmetric if for every ordered pair (a, b), the ordered pair (b, a) is also in the relation.
+- A relation is transitive if for every ordered pair (a, b) and (b, c), the ordered pair (a, c) is also in the relation.
+- A relation that is reflexive, symmetric, and transitive is called an equivalence relation.
+- A relation can also be a partial order or a total order.
+- A relation is a partial order if it is reflexive, antisymmetric, and transitive.
+- A relation is a total order if it is a partial order and for every pair of elements, either one is related to the other or the other is related to the one.
+- A function is a special type of relation where every element in the domain is related to exactly one element in the range.
+- A function can be injective (one-to-one), surjective (onto), or bijective (one-to-one and onto).
+- A function is injective if no two elements in the domain are related to the same element in the range.
+- A function is surjective if every element in the range is related to at least one element in the domain.
+- A function is bijective if it is both injective and surjective.
+- The composition of two functions is a new function obtained by applying one function to the result of the other function.
+- The inverse of a function is a new function that "undoes" the original function. The inverse of a function exists if and only if the function is bijective.

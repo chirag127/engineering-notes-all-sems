@@ -1,0 +1,10 @@
+### Eukaryotic Cells
+
+- Eukaryotic cells are one of the two types of cells that make up all living things. The other type is prokaryotic cells.
+- Eukaryotic cells have a nucleus that contains the genetic material (DNA) and is surrounded by a nuclear membrane.
+- Eukaryotic cells also have other membrane-bound organelles that perform specific functions, such as mitochondria (energy production), endoplasmic reticulum (protein synthesis and transport), Golgi apparatus (modification and sorting of proteins), lysosomes (digestion and recycling of materials), and vacuoles (storage and regulation of water and solutes).
+- Eukaryotic cells have a cytoskeleton that provides shape, support, and movement to the cell and its organelles. The cytoskeleton is composed of microtubules, microfilaments, and intermediate filaments.
+- Eukaryotic cells can be divided into two major groups: plant cells and animal cells. Plant cells have some additional organelles that animal cells lack, such as chloroplasts (photosynthesis), cell wall (rigidity and protection), and central vacuole (water storage and turgor pressure).
+- Eukaryotic cells belong to the domain Eukaryota, which includes four kingdoms: Protista (unicellular or multicellular organisms that are not plants, animals, or fungi), Fungi (decomposers that feed on organic matter), Plantae (photosynthetic multicellular organisms), and Animalia (multicellular organisms that ingest food and have a nervous system).
+- Eukaryotic cells are typically much larger than prokaryotic cells, having a volume of around 10,000 times greater than the prokaryotic cell .
+- Eukaryotic cells are more complex and evolved than prokaryotic cells, and are thought to have originated from endosymbiosis, a process in which a prokaryotic cell engulfed another prokaryotic cell and formed a symbiotic relationship .

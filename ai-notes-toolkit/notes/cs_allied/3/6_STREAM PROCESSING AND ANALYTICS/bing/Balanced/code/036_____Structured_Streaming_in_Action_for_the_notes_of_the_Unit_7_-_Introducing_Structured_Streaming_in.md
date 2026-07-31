@@ -1,0 +1,10 @@
+### Structured Streaming in Action
+
+- Structured Streaming is a scalable and fault-tolerant stream processing engine built on the Spark SQL engine.
+- Structured Streaming allows you to take the same operations that you perform in batch mode using Spark’s structured APIs, and run them in a streaming fashion. This can reduce latency and allow for incremental processing.
+- Structured Streaming lets you express computation on streaming data in the same way you express a batch computation on static data. The Structured Streaming engine performs the computation incrementally and continuously updates the result as streaming data arrives.
+- In Structured Streaming, a data stream is treated as a table that is being continuously appended. This leads to a stream processing model that is very similar to a batch processing model. You express your streaming computation as a standard batch-like query as on a static table, but Spark runs it as an incremental query on the unbounded input table .
+- Structured Streaming supports various sources and sinks for streaming data, such as Kafka, Flume, files, sockets, etc. It also supports different output modes, such as append, update, and complete, to specify how the output table should be updated.
+- Structured Streaming provides high-level APIs, such as DataFrames and Datasets, to work with structured and semi-structured data. It also provides low-level APIs, such as RDDs and DStreams, to work with unstructured data.
+- Structured Streaming supports various operations on streaming data, such as filtering, aggregation, windowing, joining, etc. It also supports complex event processing, such as pattern matching, stateful processing, watermarking, etc.
+- Structured Streaming guarantees end-to-end exactly-once fault-tolerance through checkpointing and write-ahead logs. It also provides rich monitoring and debugging tools, such as web UI, metrics, and query explain plans.

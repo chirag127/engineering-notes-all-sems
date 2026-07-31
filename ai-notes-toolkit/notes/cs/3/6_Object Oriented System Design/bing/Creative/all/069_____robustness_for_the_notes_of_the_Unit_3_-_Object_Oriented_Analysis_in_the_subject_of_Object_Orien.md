@@ -1,0 +1,23 @@
+# Robustness for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Robustness is the ability of a system to handle errors, failures, and unexpected situations without compromising its functionality or performance.
+- Robustness analysis is a technique for identifying and classifying the objects that participate in a use case scenario, based on their roles and responsibilities .
+- Robustness analysis helps to bridge the gap between the requirements and the design of a system, by providing a first-guess set of objects that can be refined and elaborated in the design phase .
+- Robustness analysis involves the following steps:
+  - Analyzing the narrative text of use cases, one sentence at a time, and drawing the actors, the appropriate boundary, entity, and control objects, and the messages that flow between them.
+  - Boundary objects represent the interfaces between the actors and the system, such as user interfaces, sensors, or devices.
+  - Entity objects represent the persistent information that is manipulated by the system, such as data structures, files, or databases.
+  - Control objects represent the use case logic and coordinate the other objects, such as algorithms, workflows, or business rules.
+  - Messages represent the interactions between the objects, such as method calls, events, or signals.
+  - Applying the following guidelines to check the validity and completeness of the robustness diagram:
+    - Every use case step should be represented by at least one message in the diagram.
+    - Every message should have a sender and a receiver object.
+    - Every object should have a stereotype of boundary, entity, or control.
+    - Boundary objects should only communicate with actors or control objects, not with other boundary objects or entity objects.
+    - Entity objects should only communicate with control objects, not with actors, boundary objects, or other entity objects.
+    - Control objects can communicate with any other objects, but they should not dominate the diagram or create circular dependencies.
+- Robustness analysis benefits the system development process by :
+  - Enabling the ongoing discovery of objects and their relationships, which may be missed or overlooked in the domain modeling phase.
+  - Addressing object naming discrepancies and conflicts before they cause serious problems in the design or implementation phase.
+  - Providing a common language and notation for communicating the use case scenarios and the system behavior among the stakeholders, such as analysts, designers, developers, and testers.
+  - Supporting the iterative and incremental development approach, by allowing the refinement and validation of the robustness diagrams in each iteration.

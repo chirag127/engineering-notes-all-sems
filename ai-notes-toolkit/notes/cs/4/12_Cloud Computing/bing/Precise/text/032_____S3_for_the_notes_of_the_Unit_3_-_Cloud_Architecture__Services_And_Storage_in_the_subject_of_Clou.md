@@ -1,0 +1,8 @@
+### S3 - Cloud Architecture, Services And Storage
+
+- Amazon Simple Storage Service (Amazon S3) is a scalable, high-speed, web-based cloud storage service designed for online backup and archiving of data and applications on Amazon Web Services (AWS) .
+- S3 is an object storage service, which differs from other types of cloud computing storage types, such as block and file storage. Each object is stored as a file with its metadata included and is also given an ID number .
+- The S3 object storage cloud service gives a subscriber access to the same systems that Amazon uses to run its own websites. S3 enables customers to upload, store and download practically any file or object that is up to 5 terabytes (TB) in size -- with the largest single upload capped at 5 gigabytes (GB) .
+- Amazon S3 has storage management features that you can use to manage costs, meet regulatory requirements, reduce latency, and save multiple distinct copies of your data for compliance requirements. S3 Lifecycle – Configure a lifecycle configuration to manage your objects and store them cost effectively throughout their lifecycle .
+- Amazon S3 is cloud object storage with industry-leading scalability, data availability, security, and performance. S3 is ideal for data lakes, mobile applications, backup and restore, archival, IoT devices, ML, AI, and analytics .
+- Use Amazon S3 to store and retrieve any amount of data using highly scalable, reliable, fast, and inexpensive data storage. User Guide Provides detailed information and instructions for getting started, developing, and working with Amazon S3 using the AWS Management Console, AWS CLI, AWS SDKs, and REST API .

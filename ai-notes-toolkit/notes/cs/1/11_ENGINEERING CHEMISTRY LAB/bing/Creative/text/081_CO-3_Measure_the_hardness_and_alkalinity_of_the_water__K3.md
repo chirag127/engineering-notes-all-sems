@@ -1,0 +1,12 @@
+# CO-3 Measure the hardness and alkalinity of the water. K3
+
+- Hardness and alkalinity are two parameters that indicate the quality of water.
+- Hardness measures the concentration of divalent salts, mainly calcium and magnesium, that can form deposits or scale in pipes, boilers, and appliances.
+- Alkalinity measures the capacity of water to neutralize acids, or the amount of bases present in water, mainly bicarbonate and carbonate.
+- Hardness and alkalinity are related through common ions formed in aquatic systems. The counter-ions associated with the bicarbonate and carbonate fraction of alkalinity are the principal cations responsible for hardness (usually Ca ++ and Mg ++).
+- Hardness and alkalinity are influenced by the geology of the area where the water is located and the dissolution of carbon dioxide from the atmosphere. The ions responsible for hardness and alkalinity originate from the dissolution of geological minerals into rain and groundwater.
+- Hardness and alkalinity can be measured by titration methods using standard solutions of acids and bases and indicators that change color at certain pH levels.
+- Hardness can be classified as temporary or permanent. Temporary hardness is caused by the presence of bicarbonate ions that can be removed by boiling the water. Permanent hardness is caused by the presence of other ions that cannot be removed by boiling the water.
+- Alkalinity can be classified as total, carbonate, or bicarbonate alkalinity. Total alkalinity is the amount of acid required to lower the pH of water to 4.5. Carbonate alkalinity is the amount of acid required to lower the pH of water to 8.3. Bicarbonate alkalinity is the amount of acid required to lower the pH of water to 4.5 minus the amount of acid required to lower the pH of water to 8.3.
+- Hardness and alkalinity are expressed in units of milligrams per liter (mg/L) as calcium carbonate (CaCO3). The conversion factor between mg/L of CaCO3 and mg/L of other ions is based on their equivalent weights.
+- Hardness and alkalinity can affect the taste, odor, color, corrosion, and biological activity of water. Hard water can cause scaling, reduce the effectiveness of detergents, and increase the energy consumption of heating appliances. Alkaline water can cause corrosion, increase the solubility of metals, and reduce the disinfection efficiency of chlorine.

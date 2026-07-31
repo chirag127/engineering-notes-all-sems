@@ -1,0 +1,11 @@
+# Informed Search Methods in Artificial Intelligence
+
+Informed search methods are problem-solving techniques that use additional information or heuristics to guide the search process towards the goal state. Heuristics are estimates of the cost, distance, or quality of a solution, based on some domain knowledge or intuition. Informed search methods can be more efficient and effective than uninformed search methods, which do not use any heuristics and explore the search space blindly.
+
+Some of the common informed search methods are:
+
+- **Greedy best-first search**: This method selects the node that is closest to the goal, according to the heuristic function. It is optimistic, but not optimal, as it may get stuck in local minima or dead ends.
+- **A* search**: This method combines the cost of reaching a node from the start state (g) and the estimated cost of reaching the goal from that node (h). It selects the node with the lowest value of f = g + h. It is both optimistic and optimal, as it guarantees to find the shortest path to the goal, if the heuristic function is admissible (never overestimates) and consistent (satisfies the triangle inequality).
+- **Iterative deepening A* search**: This method is a variation of A* search that uses a threshold on the f-value to limit the search depth. It gradually increases the threshold until the goal is found or the search space is exhausted. It is optimal, complete, and more space-efficient than A* search, as it does not store all the nodes in memory.
+- **Recursive best-first search**: This method is another variation of A* search that uses a recursive algorithm to explore the search space. It keeps track of the f-value of the best alternative path for each node, and backtracks when the current path exceeds the alternative. It is optimal and complete, and uses linear space, but it may re-expand nodes multiple times.
+- **Beam search**: This method is a heuristic-based search that keeps a fixed number of nodes (the beam width) in memory at each level. It expands only the most promising nodes according to the heuristic function, and discards the rest. It is not optimal or complete, but it is fast and memory-efficient. It can be used for problems where the search space is too large or complex to explore exhaustively.

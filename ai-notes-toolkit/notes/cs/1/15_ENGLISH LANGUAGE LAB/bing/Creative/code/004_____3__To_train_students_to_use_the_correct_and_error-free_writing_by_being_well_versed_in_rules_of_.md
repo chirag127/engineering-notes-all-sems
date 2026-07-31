@@ -1,0 +1,21 @@
+### 3. To train students to use the correct and error-free writing by being well versed in rules of English grammar.
+
+- The objective of this topic is to help students improve their writing skills by learning and applying the rules of English grammar.
+- Writing is a form of communication that requires clarity, accuracy, and coherence. Errors in grammar can affect the meaning, tone, and impression of the writer's message.
+- Grammar is the system of rules that governs how words and sentences are structured, used, and punctuated in a language. It includes the following aspects:
+  - Parts of speech: the categories of words based on their function and meaning, such as nouns, verbs, adjectives, adverbs, etc.
+  - Sentence structure: the arrangement of words and phrases in a sentence, such as subject, predicate, object, modifier, etc.
+  - Verb tense: the form of a verb that indicates the time of the action or state, such as present, past, future, etc.
+  - Voice: the relationship between the subject and the verb, such as active or passive.
+  - Mood: the attitude or mode of expression of the verb, such as indicative, imperative, subjunctive, etc.
+  - Agreement: the consistency between the number and person of the subject and the verb, and between the gender and number of the noun and the pronoun, etc.
+  - Case: the form of a noun or pronoun that shows its function in a sentence, such as nominative, accusative, genitive, etc.
+  - Pronoun reference: the use of pronouns to refer to nouns or other pronouns, such as he, she, it, they, etc.
+  - Modifiers: the words or phrases that add information or qualify the meaning of other words, such as adjectives, adverbs, prepositions, etc.
+  - Punctuation: the marks that separate and clarify the elements of a sentence, such as commas, periods, colons, semicolons, etc.
+- To train students to use the correct and error-free writing by being well versed in rules of English grammar, the following steps are suggested:
+  - Teach the students the basic concepts and terms of grammar, and provide them with examples and exercises to practice and reinforce their understanding.
+  - Provide the students with feedback and correction on their writing assignments, and point out the common errors and mistakes they make.
+  - Encourage the students to revise and edit their own and their peers' writing, and to use reference materials and tools, such as dictionaries, grammar books, online resources, etc.
+  - Expose the students to various types and genres of writing, such as academic, creative, professional, etc., and help them to identify and apply the appropriate grammar rules and conventions for each context and purpose.
+  - Assess the students' progress and achievement in writing by using rubrics and criteria that reflect the standards and expectations of grammar.

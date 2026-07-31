@@ -1,0 +1,35 @@
+# Context Free Grammars
+
+- A **context-free grammar (CFG)** is a list of rules that define the set of all well-formed sentences in a language.
+- Each rule has a **left-hand side**, which identifies a syntactic category, and a **right-hand side**, which defines its alternative component parts, reading from left to right.
+- A CFG consists of four components:
+  - A set of **terminal symbols**, which are the basic units of the language, such as words or punctuation marks.
+  - A set of **non-terminal symbols**, which are abstract categories that group together terminal symbols or other non-terminal symbols, such as noun phrases or verb phrases.
+  - A set of **production rules**, which specify how a non-terminal symbol can be rewritten as a sequence of terminal or non-terminal symbols.
+  - A **start symbol**, which is a special non-terminal symbol that represents the whole sentence.
+- A CFG can be used to generate or parse sentences in a language.
+  - To generate a sentence, we start with the start symbol and apply production rules until we obtain a sequence of terminal symbols.
+  - To parse a sentence, we start with the sequence of terminal symbols and apply production rules in reverse until we obtain the start symbol.
+- A CFG can be represented by a **parse tree**, which is a hierarchical structure that shows how a sentence is derived from the production rules.
+  - The root node of the parse tree is the start symbol.
+  - The leaf nodes of the parse tree are the terminal symbols.
+  - The internal nodes of the parse tree are the non-terminal symbols.
+  - The branches of the parse tree correspond to the production rules.
+- A CFG can be used to model the constituent structure of natural language, which is the way that words and phrases are grouped together to form larger units of meaning.
+  - A constituent is a word or a group of words that functions as a single unit within a hierarchical structure.
+  - A constituent can be identified by various tests, such as substitution, movement, coordination, or deletion.
+  - A CFG can capture the recursive nature of natural language, which allows for sentences to contain other sentences as constituents.
+- A CFG can also be used to define the high level structure of a programming language, which is the way that symbols and keywords are combined to form valid expressions and statements.
+  - A programming language can be seen as a formal language that has a precise syntax and semantics.
+  - A CFG can be used to specify the syntax of a programming language, which is the set of rules that determine whether a string of symbols is a well-formed program.
+  - A CFG can also be used to generate or parse programs in a programming language, similar to natural language.
+- A CFG is called context-free because the production rules do not depend on the surrounding symbols or the position in the sentence.
+  - A CFG can only capture the local dependencies between symbols, but not the long-distance or cross-serial dependencies that may exist in natural or programming languages.
+  - A CFG is a type of formal grammar that belongs to the Chomsky hierarchy, which is a classification of formal languages based on their expressive power and computational complexity.
+  - A CFG is more expressive than a regular grammar, but less expressive than a context-sensitive grammar or a recursively enumerable grammar.
+  - A CFG is recognized by a pushdown automaton, which is a type of finite state machine that has an additional stack memory.
+  - A CFG has a polynomial time complexity for parsing, but it may suffer from ambiguity or inefficiency.
+- A CFG is a commonly used mathematical system for modelling natural or programming languages, but it has some limitations and challenges  .
+  - Natural languages are not strictly context-free, as they may exhibit some context-sensitive phenomena, such as agreement, anaphora, or coordination .
+  - Programming languages may also have some context-sensitive features, such as variable scoping, type checking, or operator precedence .
+  - To overcome these limitations, some extensions or variations of CFGs have been proposed, such as augmented CFGs, attribute grammars, tree-adjoining grammars, or mildly context-sensitive grammars   .

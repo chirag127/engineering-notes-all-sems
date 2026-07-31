@@ -1,0 +1,11 @@
+### Schedulers for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+
+- Schedulers are operating system modules that select the next jobs to be admitted into the system and the next process to run on the CPU.
+- Schedulers are required to maintain the multi-tasking capabilities of a computer and to keep its performance at the highest level by scheduling the process according to their preferences and need.
+- There are three types of schedulers in operating system:
+  - Long-term scheduler: Also known as an admission scheduler or high-level scheduler, it decides which jobs or programs are admitted to the system for processing. It controls the degree of multiprogramming, i.e., the number of processes in memory. It runs infrequently and may involve I/O or memory allocation.
+  - Mid-term scheduler: Also known as a medium-term scheduler, it decides which processes are swapped out of memory to the disk and which are swapped in from the disk to the memory. It is used to improve the process mix and memory utilization. It runs less frequently than the short-term scheduler and may involve I/O or memory allocation.
+  - Short-term scheduler: Also known as a CPU scheduler or low-level scheduler, it decides which process runs on the CPU at a certain point in time. It runs frequently and may involve context switching. It can be either preemptive or cooperative, depending on whether it can pause a running process or not.
+- The process scheduling is the activity of the process manager that handles the removal of the running process from the CPU and the selection of another process on the basis of a particular strategy.
+- The process scheduling can be done using various algorithms, such as first-come first-served (FCFS), shortest job first (SJF), priority, round robin, multilevel queue, multilevel feedback queue, etc.
+- The process scheduling algorithms are evaluated based on various criteria, such as CPU utilization, throughput, turnaround time, waiting time, response time, etc.

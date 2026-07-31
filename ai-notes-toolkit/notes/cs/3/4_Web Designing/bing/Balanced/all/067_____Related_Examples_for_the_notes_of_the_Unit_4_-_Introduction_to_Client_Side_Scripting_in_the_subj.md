@@ -1,0 +1,13 @@
+# Related Examples for the notes of the Unit 4 - Introduction to Client Side Scripting in the subject of Web Designing
+
+- Client side scripting is a technique of writing code that runs on the user's browser, rather than on the web server.
+- Client side scripting can enhance the interactivity, functionality, and usability of web pages by allowing the user to interact with the web page without reloading it or sending requests to the server.
+- Client side scripting can also reduce the load on the web server by performing some tasks on the user's device, such as validating user input, storing data locally, or displaying dynamic content.
+- Some examples of client side scripting languages are JavaScript, VBScript, JScript, and ActionScript.
+- Some examples of client side scripting applications are:
+
+  - Form validation: Client side scripting can check the user's input before submitting it to the server, and display error messages or suggestions if the input is invalid or incomplete. For example, a client side script can check if the user has entered a valid email address, password, or phone number in a registration form.
+  - Image slideshow: Client side scripting can create a dynamic and interactive image slideshow on a web page, by changing the source of an image element or using CSS transitions and animations. For example, a client side script can cycle through a list of images and display them one by one, with a timer or a user-controlled button.
+  - Calculator: Client side scripting can create a simple calculator on a web page, by using HTML elements to display the numbers and buttons, and using arithmetic operators and functions to perform the calculations. For example, a client side script can take the user's input from a text box or a button, and display the result in another text box or an alert box.
+  - Quiz: Client side scripting can create a quiz on a web page, by using HTML elements to display the questions and options, and using variables and arrays to store the data and the score. For example, a client side script can generate a random question from an array of questions, and check the user's answer against the correct answer, and update the score and the feedback accordingly.
+  - Clock: Client side scripting can create a clock on a web page, by using the Date object and its methods to get the current date and time, and using HTML elements or CSS styles to display them. For example, a client side script can create a digital or an analog clock, and update it every second using the setInterval() function.

@@ -1,0 +1,17 @@
+### DFT, DCT for the notes of the Unit 1 - DIGITAL IMAGE FUNDAMENTALS in the subject of Image Processing
+
+- DFT stands for Discrete Fourier Transform, which is a mathematical operation that transforms a discrete signal (such as an image) into its frequency components.
+- DCT stands for Discrete Cosine Transform, which is a special case of DFT that only uses real and even functions, and is more efficient and compact for real-valued signals.
+- Both DFT and DCT are useful tools for image processing, as they can reveal the frequency content of an image, and allow for operations such as filtering, compression, and enhancement in the frequency domain.
+- DFT and DCT can be applied to one-dimensional or two-dimensional signals, such as audio or images, respectively. For two-dimensional signals, the DFT and DCT are computed by applying the one-dimensional transform to each row and column of the signal matrix.
+- The DFT and DCT can be computed using fast algorithms, such as the Fast Fourier Transform (FFT) and the Fast Cosine Transform (FCT), which reduce the computational complexity from O(N^2) to O(N log N), where N is the number of samples in the signal.
+- The DFT and DCT have some properties that make them suitable for image processing, such as:
+  - Linearity: The DFT and DCT of a linear combination of signals is equal to the linear combination of their DFT and DCT, respectively.
+  - Shift-invariance: The DFT and DCT of a shifted signal is equal to the DFT and DCT of the original signal multiplied by a phase factor, which means that the magnitude of the DFT and DCT is independent of the location of the signal.
+  - Parseval's theorem: The DFT and DCT preserve the energy of the signal, which means that the sum of the squared magnitude of the DFT and DCT is equal to the sum of the squared magnitude of the signal.
+  - Symmetry: The DFT and DCT of a real and even signal are also real and even, which means that only half of the DFT and DCT coefficients are needed to represent the signal.
+  - Separability: The DFT and DCT of a two-dimensional signal can be computed by applying the one-dimensional DFT and DCT to each row and column of the signal matrix, which simplifies the computation and allows for parallel processing.
+- Some applications of DFT and DCT in image processing are:
+  - Image compression: The DFT and DCT can be used to reduce the size of an image by discarding the high-frequency components that are less perceptible to the human eye, and encoding the remaining low-frequency components using fewer bits. For example, the JPEG standard uses the DCT to compress images.
+  - Image filtering: The DFT and DCT can be used to modify the frequency content of an image by multiplying the DFT and DCT coefficients by a filter function, and then applying the inverse DFT and DCT to obtain the filtered image. For example, low-pass filters can be used to smooth an image, and high-pass filters can be used to enhance the edges of an image.
+  - Image enhancement: The DFT and DCT can be used to improve the quality of an image by removing noise, increasing contrast, or correcting distortions. For example, the DFT and DCT can be used to perform deconvolution, which is a technique to restore an image that has been blurred by a known point spread function.

@@ -1,0 +1,22 @@
+### Context Free Grammars for Pushdown Automata
+
+- A context-free grammar (CFG) is a set of rewriting rules that can be used to generate or reproduce patterns/strings recursively.
+- A pushdown automaton (PDA) is a finite automaton with an additional stack that can store and manipulate symbols.
+- A PDA can recognize a context-free language (CFL) by simulating the derivation of a string using a CFG.
+- There is a procedure to convert any CFG into an equivalent PDA, and vice versa .
+- The procedure to convert a CFG into a PDA is as follows:
+  - The PDA has a single state and a single accept state.
+  - The input alphabet of the PDA is the same as the terminal symbols of the CFG.
+  - The stack alphabet of the PDA is the union of the terminal and nonterminal symbols of the CFG, plus a special symbol $ to mark the bottom of the stack.
+  - The start symbol of the CFG is pushed onto the stack initially.
+  - The transition function of the PDA is defined as follows:
+    - If the top of the stack is a terminal symbol, and the input symbol matches it, then pop the terminal symbol from the stack and read the input symbol.
+    - If the top of the stack is a nonterminal symbol, and there is a production rule for that symbol, then pop the nonterminal symbol from the stack and push the right-hand side of the production rule onto the stack in reverse order.
+    - If the stack is empty, and the input is empty, then move to the accept state.
+- The procedure to convert a PDA into a CFG is as follows:
+  - The nonterminal symbols of the CFG are of the form [q, X, p], where q and p are states of the PDA, and X is a symbol of the stack alphabet of the PDA.
+  - The start symbol of the CFG is [q0, $, qf], where q0 is the initial state of the PDA, $ is the bottom of the stack symbol, and qf is the accept state of the PDA.
+  - The production rules of the CFG are derived from the transition function of the PDA as follows:
+    - If the PDA can pop X from the stack and move from q to p without reading any input, then add the rule [q, X, p] -> ε to the CFG, where ε is the empty string.
+    - If the PDA can pop X from the stack, read a from the input, and move from q to p, then add the rule [q, X, p] -> a to the CFG, where a is a terminal symbol.
+    - If the PDA can pop X from the stack, push Y and Z onto the stack, and move from q to r, then for every state p of the PDA, add the rule [q, X, p] -> [r, Y, p][r, Z, p] to the CFG, where Y and Z are symbols of the stack alphabet.

@@ -1,0 +1,11 @@
+# Nonfunctional Properties for Services
+
+Nonfunctional properties for services are the qualities and features that are desirable by the service users, but are not directly related to the functionality or behavior of the service. Nonfunctional properties can affect the performance, reliability, security, usability, availability, and maintainability of the service. Nonfunctional properties are often specified in service level agreements (SLAs) between the service provider and the service consumer, and can be used to measure and report how well the service is meeting the customer's expectations.
+
+Some examples of nonfunctional properties for services are:
+
+- **Availability**: The degree to which the service is accessible and operational at a given time and location. Availability can be measured by the percentage of time the service is up and running, the frequency and duration of downtimes, and the response time for service requests.
+- **Price**: The amount of money or other resources that the service consumer has to pay or exchange for using the service. Price can be fixed or variable, depending on the service model, the demand and supply, and the quality of the service. Price can also include discounts, penalties, and incentives for different levels of service consumption or performance.
+- **Security**: The degree to which the service protects the confidentiality, integrity, and availability of the data and resources involved in the service interaction. Security can be achieved by applying various techniques and mechanisms, such as encryption, authentication, authorization, auditing, and firewalls.
+- **Quality**: The degree to which the service meets the functional and nonfunctional requirements and expectations of the service consumer. Quality can be assessed by various criteria and metrics, such as accuracy, completeness, consistency, timeliness, and reliability of the service output and outcome.
+- **Usability**: The degree to which the service is easy to use and understand by the service consumer. Usability can be influenced by the design, interface, documentation, and feedback of the service. Usability can also include the user satisfaction and experience with the service.

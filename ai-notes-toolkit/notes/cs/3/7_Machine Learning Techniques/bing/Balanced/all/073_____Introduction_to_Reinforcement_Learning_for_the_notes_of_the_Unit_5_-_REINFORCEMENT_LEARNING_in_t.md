@@ -1,0 +1,27 @@
+# Introduction to Reinforcement Learning
+
+- Reinforcement learning (RL) is a machine learning paradigm that aims to learn optimal actions in an environment based on rewards and penalties  .
+- RL is inspired by behaviorist psychology, which studies how organisms learn from their experiences and consequences .
+- RL differs from other machine learning paradigms, such as supervised learning and unsupervised learning, in that the agent is not given explicit instructions or labels, but learns through trial and error  .
+- RL can be applied to various domains, such as robotics, games, control systems, and optimization problems .
+- RL involves four main components: an agent, an environment, a policy, and a reward function .
+  - An agent is the learner or decision maker that interacts with the environment .
+  - An environment is the external system that provides the agent with states, actions, and rewards .
+  - A policy is a rule or a strategy that determines how the agent chooses actions in each state .
+  - A reward function is a scalar value that evaluates the desirability of a state or an action .
+- The goal of RL is to find an optimal policy that maximizes the expected cumulative reward over time .
+- RL can be classified into two types: model-based and model-free .
+  - Model-based RL assumes that the agent has access to a model of the environment, which can predict the next state and reward given an action .
+  - Model-free RL does not rely on a model of the environment, but learns directly from the observed state transitions and rewards .
+- RL can also be classified into two modes: online and offline .
+  - Online RL learns and acts simultaneously, updating the policy after each interaction .
+  - Offline RL learns from a fixed dataset of state transitions and rewards, without interacting with the environment .
+- RL can use different methods to learn the optimal policy, such as value-based, policy-based, and actor-critic methods .
+  - Value-based methods learn a value function that estimates the expected cumulative reward for each state or state-action pair, and derive the policy from the value function .
+  - Policy-based methods learn the policy directly, without using a value function .
+  - Actor-critic methods combine value-based and policy-based methods, using an actor to learn the policy and a critic to learn the value function .
+- RL can face various challenges, such as exploration-exploitation trade-off, delayed rewards, partial observability, and high dimensionality .
+  - Exploration-exploitation trade-off is the dilemma of whether to choose an action that has the highest estimated reward (exploitation) or to choose an action that may yield new information (exploration) .
+  - Delayed rewards are rewards that are not received immediately after an action, but depend on future actions .
+  - Partial observability is the situation where the agent cannot observe the full state of the environment, but only some features or signals .
+  - High dimensionality is the problem of dealing with a large number of states, actions, or features, which can make the learning process computationally expensive or intractable .

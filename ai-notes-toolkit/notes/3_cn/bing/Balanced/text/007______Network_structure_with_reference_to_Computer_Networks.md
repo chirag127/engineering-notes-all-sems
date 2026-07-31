@@ -1,0 +1,26 @@
+#### Network structure with reference to Computer Networks
+
+- A computer network is a structure that makes available to a data processing user at one place some data processing function or service performed at another place.
+- A computer network consists of two or more devices that can communicate with each other and share data, files, resources, or services.
+- A computer network can be classified by its size, topology, architecture, and protocols.
+- The size of a network refers to the geographical area it covers and the number of devices it connects. Some common network sizes are:
+  - LAN (local area network): A LAN connects computers over a relatively short distance, such as within a building or a campus. A LAN typically uses wired media, such as Ethernet cables, to transfer data at high speeds.
+  - WLAN (wireless local area network): A WLAN is just like a LAN but connections between devices on the network are wireless, such as Wi-Fi or Bluetooth. A WLAN offers more mobility and flexibility than a LAN, but may have lower security and reliability.
+  - MAN (metropolitan area network): A MAN connects computers over a larger area, such as a city or a region. A MAN may use a combination of wired and wireless media, such as fiber-optic cables and microwave links, to provide high-speed data transmission.
+  - WAN (wide area network): A WAN connects computers over a very large area, such as a country or a continent. A WAN may use various media and technologies, such as satellite, telephone lines, and cellular networks, to provide long-distance data communication. The Internet is the largest and most well-known example of a WAN.
+- The topology of a network refers to the physical or logical arrangement of the devices and the links that connect them. Some common network topologies are:
+  - Bus: A bus network has a single cable that connects all the devices on the network. A bus network is simple and cheap to implement, but may have low performance and reliability if the cable is damaged or overloaded.
+  - Star: A star network has a central device, such as a switch or a hub, that connects all the other devices on the network. A star network is easy to expand and troubleshoot, but may have high cost and dependency on the central device.
+  - Ring: A ring network has a circular arrangement of devices that are connected by a single cable. A ring network has high performance and reliability, as data can travel in both directions and there is no collision, but may have difficulty in adding or removing devices.
+  - Mesh: A mesh network has multiple connections between the devices on the network, creating a web-like structure. A mesh network has high fault tolerance and scalability, as data can take multiple paths to reach the destination, but may have high complexity and cost.
+  - Tree: A tree network has a hierarchical structure of devices that are connected by branches of cables. A tree network is a combination of bus and star topologies, and has the advantages and disadvantages of both.
+- The architecture of a network refers to the way network devices and services are structured and organized to serve the connectivity needs of client devices. Some common network architectures are:
+  - Client-server: A client-server network has one or more servers that provide services, such as file storage, email, or web hosting, to the client devices that request them. A client-server network has high efficiency and security, as the servers can manage the resources and the access control, but may have high cost and maintenance.
+  - Peer-to-peer: A peer-to-peer network has no servers, and each device on the network can act as both a client and a server, sharing its own resources and services with other devices. A peer-to-peer network has low cost and easy setup, as no central administration is required, but may have low security and reliability, as the devices may not be always available or trustworthy.
+- The protocols of a network refer to the rules and standards that govern the communication and data exchange between the devices on the network. Some common network protocols are:
+  - TCP/IP: TCP/IP is the predominant model for today’s Internet structure and presents this standard layer configuration for communication links:
+    - Network access layer: Defines how the data gets physically transferred.
+    - Internet layer: Packages the data into understandable packets so it can be sent and received.
+    - Transport layer: Allows the network devices to maintain conversations.
+    - Application layer: Establishes how high-level applications access the network for purposes of data transfer.
+  - Ethernet: Ethernet is a protocol that defines how data is transmitted over a LAN using a bus or a star topology. Ethernet uses a technique called CS

@@ -1,0 +1,21 @@
+### Programmed I/O
+
+- Programmed I/O is a method of transferring data between the CPU and a peripheral device, such as a keyboard, a mouse, a disk, or a network adapter   .
+- Programmed I/O operations are the result of I/O instructions written in the computer program .
+- In programmed I/O, each data transfer is initiated by the CPU, and the CPU is in continuous monitoring of the interface  .
+- Programmed I/O can be performed in two modes: synchronous and asynchronous.
+  - In synchronous mode, the CPU waits for the I/O operation to complete before resuming the execution of the program.
+  - In asynchronous mode, the CPU issues an I/O command and then continues to execute the program, until it is notified by the interface that the I/O operation is done.
+- Programmed I/O has some advantages and disadvantages :
+  - Advantages:
+    - It is simple and cheap to implement .
+    - It does not require any special hardware support .
+    - It is suitable for low-speed devices that do not generate a lot of data .
+  - Disadvantages:
+    - It consumes a lot of CPU time and resources .
+    - It reduces the performance and throughput of the system .
+    - It is not scalable for high-speed devices that generate a lot of data .
+- Programmed I/O can be improved by using techniques such as buffering, polling, and interrupt-driven I/O .
+  - Buffering is a technique of storing data temporarily in a memory area before or after transferring it to or from the device .
+  - Polling is a technique of checking the status of the device periodically to determine if it is ready for data transfer .
+  - Interrupt-driven I/O is a technique of using a hardware signal to notify the CPU that the device is ready for data transfer .

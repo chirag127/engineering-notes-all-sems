@@ -1,0 +1,11 @@
+### Security for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+- Security is a crucial aspect of blockchain technology, as it ensures the integrity, confidentiality and availability of the data stored and exchanged on the network.
+- Security in blockchain is based on the following principles and mechanisms:
+  - Cryptography: Blockchain networks use cryptographic algorithms to secure transactions and data. This means that the security of the network depends on the strength of the cryptographic algorithms and the keys used to encrypt and decrypt the data .
+  - Decentralization: Blockchain networks are distributed among multiple nodes, each of which maintains a copy of the ledger and validates transactions. This reduces the risk of a single point of failure or a malicious attack on the network .
+  - Consensus: Blockchain networks use consensus protocols to ensure that all nodes agree on the state of the ledger and the validity of transactions. This prevents double-spending, fraud and tampering with the data .
+  - Immutability: Blockchain networks store data in blocks that are linked together by hashes, forming a chain. Once a block is added to the chain, it cannot be modified or deleted without breaking the chain and invalidating the subsequent blocks .
+  - Transparency: Blockchain networks are open and public, meaning that anyone can access and verify the data on the ledger. This increases the trust and accountability of the network participants.
+- Security in blockchain also involves a comprehensive risk management system, using cybersecurity frameworks, assurance services and best practices to reduce the risks of attacks and fraud on the network.
+- Security in blockchain is an evolving and dynamic field, as new threats and challenges emerge with the development and adoption of the technology. NIST researchers have been investigating blockchain technologies at multiple levels, from use cases, applications and existing services, to protocols, security guarantees and cryptographic mechanisms.

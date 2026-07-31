@@ -1,0 +1,14 @@
+### Ontological representation of social individuals for the notes of the Unit 3 - Modelling and Aggregating Social Network Data in the subject of SOCIAL NETWORK ANALYTICS
+
+Social individuals play a crucial role in social network analysis, as they are the basic unit of analysis in any social network. In order to understand and analyze social networks, it is important to have an ontological representation of social individuals. Here are some key points to consider:
+
+- Ontology refers to the study of being or existence. In social network analysis, ontology refers to the representation of social individuals in a network.
+- Social individuals can be represented as nodes or vertices in a network. Each node represents a social individual and the connections between them represent the relationships or interactions between them.
+- The attributes of social individuals can also be represented in the network. For example, the gender, age, occupation, or education level of a social individual can be represented as attributes of their node in the network.
+- The ontological representation of social individuals can vary depending on the research question or objective of the study. For example, if the focus is on gender differences in social networks, the gender attribute may be emphasized in the representation.
+- It is important to consider the context in which the social individuals exist. Social individuals do not exist in isolation, but are part of larger social systems and structures. This can include social institutions such as family, school, or workplace, as well as broader social structures such as class, race, or ethnicity.
+- The ontological representation of social individuals can also include their roles and positions within the network. For example, a social individual may be a central node with many connections, or they may be a peripheral node with few connections.
+- It is important to note that the ontological representation of social individuals is not fixed, but can change over time. For example, a social individual may gain or lose connections over time, or their attributes may change.
+- Finally, the ontological representation of social individuals should be informed by theory and empirical research. Theories and concepts from sociology, psychology, anthropology, and other disciplines can help to inform the representation of social individuals in social network analysis.
+
+In conclusion, the ontological representation of social individuals is a crucial aspect of social network analysis. By understanding how social individuals are represented in a network, researchers can better understand the relationships and interactions between them, as well as the broader social systems and structures in which they exist.

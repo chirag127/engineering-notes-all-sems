@@ -1,0 +1,11 @@
+### Quantum Circuits
+
+- A quantum circuit is a model for quantum computation, similar to classical circuits, in which a computation is a sequence of quantum gates, measurements, initializations of qubits to known values, and possibly other actions.
+- A quantum circuit consists of quantum wires and quantum gates. Quantum wires are used to carry qubits, the basic units of quantum information, from one gate to another. Quantum gates are operations that manipulate one or more qubits, such as rotations, entanglements, or controlled operations.
+- A quantum circuit can be represented by a diagram, where each horizontal line represents a quantum wire, and each box or symbol represents a quantum gate. The input qubits are on the left, and the output qubits are on the right. For example, the following diagram shows a quantum circuit that applies a Hadamard gate to the first qubit, a controlled-NOT gate to the second and third qubits, and a measurement to the third qubit:
+
+![quantum circuit example](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Quantum_circuit_example.svg/1200px-Quantum_circuit_example.svg.png)
+
+- A quantum circuit can be described by a unitary matrix, U, that maps the input qubits to the output qubits. The unitary matrix can be obtained by multiplying the matrices of the individual gates in the order they are applied. For example, the unitary matrix of the above circuit is:
+
+![quantum circuit matrix](https://wikimedia.org/api/rest_v1/media/math/render/svg/4f4f0b7f0f3c3f7a8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c3f3f7f8a1c8a9c0c

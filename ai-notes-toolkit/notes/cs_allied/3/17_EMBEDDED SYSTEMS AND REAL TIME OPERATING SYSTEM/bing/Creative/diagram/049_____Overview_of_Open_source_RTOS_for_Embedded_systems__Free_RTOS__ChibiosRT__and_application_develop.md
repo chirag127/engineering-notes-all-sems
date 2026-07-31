@@ -1,0 +1,26 @@
+### Overview of Open source RTOS for Embedded systems (Free RTOS/ ChibiosRT) and application development
+
+- An open source RTOS is a real-time operating system that is freely available for developers to use, modify, and distribute under a license that allows such actions.
+- An RTOS is designed to support time-critical applications by providing deterministic execution of tasks, preemptive scheduling, interrupt handling, inter-task communication, and memory management.
+- An embedded system is a computer system that is integrated with a specific hardware device and performs a dedicated function or functions. Embedded systems often have limited resources, such as memory, processing power, and battery life, and require high reliability and efficiency.
+- Some examples of embedded systems are smart watches, medical devices, industrial controllers, automotive systems, and IoT devices.
+- Some benefits of using an open source RTOS for embedded systems are:
+  - Cost savings: Developers can avoid paying licensing fees or royalties for using a proprietary RTOS.
+  - Customization: Developers can tailor the RTOS to their specific needs and preferences, and add or remove features as required.
+  - Compatibility: Developers can ensure that the RTOS is compatible with their hardware platform and software tools, and avoid vendor lock-in or obsolescence.
+  - Community: Developers can benefit from the support and collaboration of other developers who use the same RTOS, and contribute to its improvement and innovation.
+- Some challenges of using an open source RTOS for embedded systems are:
+  - Security: Developers need to ensure that the RTOS is secure and free of vulnerabilities, and apply patches and updates as needed.
+  - Quality: Developers need to verify that the RTOS is reliable and stable, and meets the performance and functionality requirements of their application.
+  - Documentation: Developers need to find and follow the documentation and guidelines for using the RTOS, and seek help from the community if needed.
+  - Maintenance: Developers need to maintain and update the RTOS as the hardware and software environment changes, and fix any bugs or issues that arise.
+- Some examples of open source RTOS for embedded systems are:
+  - FreeRTOS: A market-leading RTOS for microcontrollers and small microprocessors, developed in partnership with the world's leading chip companies. It has a simple and intuitive API, and supports a wide range of architectures and features .
+  - ChibiOS/RT: A compact and fast RTOS for embedded systems, designed for high performance and low resource usage. It supports multiple architectures and features, such as multithreading, synchronization, timers, memory management, and device drivers.
+  - RTOS: An open source operating system for embedded devices developed by RT-Thread. It provides a standardized, friendly foundation for developers to program a variety of devices and includes a large number of useful libraries and toolkits to make the process easier. Like Linux, RTOS uses a modular approach, which makes it easy to extend .
+- Application development for embedded systems using an open source RTOS involves the following steps:
+  - Selecting the hardware platform and the RTOS that best suit the application requirements and constraints.
+  - Configuring the RTOS to the specific hardware and software environment, and choosing the functionalities and features that are needed.
+  - Writing the application code using the RTOS API and libraries, and following the best practices and guidelines for embedded programming.
+  - Testing and debugging the application code using the RTOS tools and methods, and ensuring that the application meets the performance and functionality specifications.
+  - Deploying and updating the application code to the embedded device, and monitoring and maintaining its operation and behavior.

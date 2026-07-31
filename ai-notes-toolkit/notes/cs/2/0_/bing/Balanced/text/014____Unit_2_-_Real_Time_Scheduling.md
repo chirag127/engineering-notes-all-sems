@@ -1,0 +1,23 @@
+## Unit 2 - Real Time Scheduling
+
+- Real time scheduling is the process of assigning and executing tasks in a system that has strict timing constraints and deadlines .
+- Real time scheduling aims to achieve predictable and deterministic behavior of the system, and to avoid missing deadlines or violating timing constraints .
+- Real time scheduling can be classified into two categories: static and dynamic .
+  - Static scheduling is done at compile time or design time, and does not change at run time. Static scheduling is suitable for systems that have fixed and known tasks and workloads .
+  - Dynamic scheduling is done at run time, and can adapt to changes in the system state, workload, or environment. Dynamic scheduling is suitable for systems that have variable and unpredictable tasks and workloads .
+- Real time scheduling can also be classified into two types: preemptive and non-preemptive .
+  - Preemptive scheduling allows a higher priority task to interrupt and suspend a lower priority task that is currently executing. Preemptive scheduling can reduce the response time and improve the schedulability of tasks .
+  - Non-preemptive scheduling does not allow a higher priority task to interrupt a lower priority task that is currently executing. Non-preemptive scheduling can avoid the overhead and complexity of context switching and synchronization .
+- Real time scheduling algorithms are the rules and methods that determine how the scheduler selects and executes tasks in a real time system .
+- Some examples of real time scheduling algorithms are:
+  - Rate Monotonic Scheduling (RMS): a static and preemptive algorithm that assigns priorities to tasks based on their periods, such that the shorter the period, the higher the priority .
+  - Earliest Deadline First (EDF): a dynamic and preemptive algorithm that assigns priorities to tasks based on their deadlines, such that the earlier the deadline, the higher the priority .
+  - Least Laxity First (LLF): a dynamic and preemptive algorithm that assigns priorities to tasks based on their laxity, which is the difference between their deadline and their remaining execution time, such that the smaller the laxity, the higher the priority .
+  - Fixed Priority Scheduling (FPS): a static and preemptive or non-preemptive algorithm that assigns fixed priorities to tasks based on some criteria, such as user preference, criticality, or importance .
+  - Round Robin Scheduling (RR): a static and preemptive or non-preemptive algorithm that assigns equal priorities to tasks and executes them in a circular order for a fixed time slice or quantum .
+- Real time scheduling analysis is the process of verifying and validating the correctness and feasibility of a real time scheduling algorithm and system .
+- Real time scheduling analysis can be done using different methods, such as:
+  - Utilization-based analysis: a method that uses the CPU utilization of tasks and the system to determine the schedulability and performance of a real time scheduling algorithm .
+  - Response time analysis: a method that uses the worst-case response time of tasks and the system to determine the schedulability and performance of a real time scheduling algorithm .
+  - Simulation: a method that uses a software or hardware model of the real time system and the scheduling algorithm to test and evaluate their behavior and performance under different scenarios and conditions .
+  - Experimentation: a method that uses a real or prototype system and the scheduling algorithm to measure and observe their behavior and performance under real or simulated scenarios and conditions .

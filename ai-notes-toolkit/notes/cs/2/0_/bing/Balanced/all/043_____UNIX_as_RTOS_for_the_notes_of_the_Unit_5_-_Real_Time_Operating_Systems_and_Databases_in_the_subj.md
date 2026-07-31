@@ -1,0 +1,22 @@
+# UNIX as RTOS
+
+- A real-time operating system (RTOS) is an operating system (OS) for real-time computing applications that processes data and events that have critically defined time constraints.
+- An RTOS is distinct from a time-sharing operating system, such as UNIX, which manages the sharing of system resources with a scheduler, data buffers, or fixed task prioritization in a multitasking or multiprogramming environment.
+- UNIX is not a RTOS by default, but it can be modified or extended to provide some real-time features, such as:
+  - Preemptive scheduling: the ability to interrupt a running process and switch to a higher priority one when an event occurs.
+  - Priority inheritance: the mechanism to avoid priority inversion, which occurs when a low priority process holds a resource needed by a high priority process.
+  - Real-time signals: the signals that are delivered to a process immediately, without being queued or blocked.
+  - Memory locking: the function to prevent the memory pages of a process from being swapped out to disk.
+  - High-resolution timers: the timers that can measure time intervals with nanosecond precision.
+- Some examples of UNIX variants that have real-time capabilities are:
+  - RTLinux: a hard real-time extension to the Linux kernel that runs the Linux OS as the lowest priority thread on a small real-time core.
+  - QNX: a microkernel-based OS that supports preemptive scheduling, priority inheritance, real-time signals, memory locking, and high-resolution timers.
+  - Solaris: a UNIX OS that supports real-time scheduling, real-time signals, memory locking, and high-resolution timers.
+- The advantages of using UNIX as a RTOS are:
+  - It can leverage the existing UNIX tools, libraries, and applications for development and debugging.
+  - It can provide a familiar and user-friendly interface for the system administrators and users.
+  - It can offer a high level of security, stability, and portability.
+- The disadvantages of using UNIX as a RTOS are:
+  - It may not meet the strict timing requirements of some hard real-time applications.
+  - It may incur a higher overhead and complexity due to the additional layers of abstraction and functionality.
+  - It may suffer from performance degradation due to the interference of non-real-time processes and interrupts.

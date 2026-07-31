@@ -1,0 +1,10 @@
+# Bivariate Correlation
+
+- Bivariate correlation is a statistical technique that measures the strength and direction of the linear relationship between two variables .
+- Bivariate correlation can be calculated using different methods, depending on the type and scale of the variables. The most common methods are:
+  - Pearson correlation coefficient (r): This method is used when both variables are continuous and have a normal distribution. It ranges from -1 to 1, where -1 indicates a perfect negative linear relationship, 0 indicates no linear relationship, and 1 indicates a perfect positive linear relationship  .
+  - Spearman rank correlation coefficient (rho): This method is used when one or both variables are ordinal (ranked) or when the variables are not normally distributed. It also ranges from -1 to 1, and it measures the degree of monotonic association between the variables, meaning how well they can be described by a monotone function .
+  - Kendall rank correlation coefficient (tau): This method is also used when one or both variables are ordinal or when the variables are not normally distributed. It ranges from -1 to 1, and it measures the degree of concordance between the variables, meaning how often they agree or disagree in their relative rankings .
+- Bivariate correlation can be used to explore the relationship between two variables, to test a hypothesis about the existence or direction of a relationship, or to provide evidence for causality (although correlation does not imply causation) .
+- Bivariate correlation can be computed using various software tools, such as SPSS, Excel, R, or Python. The output usually includes the correlation coefficient, the p-value, and the confidence interval  .
+- Bivariate correlation can be visualized using a scatter plot, which shows the distribution of the data points and the direction of the relationship. A line of best fit can also be drawn to represent the linear equation that best describes the relationship .

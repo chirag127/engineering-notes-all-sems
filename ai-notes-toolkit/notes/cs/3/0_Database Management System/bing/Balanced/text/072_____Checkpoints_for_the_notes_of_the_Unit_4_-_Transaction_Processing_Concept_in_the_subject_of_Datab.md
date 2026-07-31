@@ -1,0 +1,24 @@
+### Checkpoints for the notes of the Unit 4 - Transaction Processing Concept in the subject of Database Management System
+
+- A transaction is a logical unit of work that represents a real-world event of data processing.
+- A transaction has four properties: atomicity, consistency, isolation, and durability (ACID).
+- Atomicity means that a transaction either executes all or none of its operations.
+- Consistency means that a transaction preserves the integrity constraints of the database.
+- Isolation means that a transaction executes as if it is the only one in the system, without interference from other transactions.
+- Durability means that the effects of a committed transaction are permanent and survive any system failures.
+- A transaction can have one of the following states: active, partially committed, committed, failed, or aborted.
+- A transaction begins in the active state, where it executes its operations.
+- A transaction enters the partially committed state when it executes its final operation.
+- A transaction enters the committed state when it successfully completes and its changes are recorded in the database.
+- A transaction enters the failed state when it encounters an error or aborts due to some reason.
+- A transaction enters the aborted state when it is rolled back and its changes are undone from the database.
+- A transaction can be aborted by the user, the system, or the concurrency control mechanism.
+- A transaction can be rolled back by using undo and redo operations, which are based on the transaction log.
+- A transaction log is a file that records all the changes made by transactions to the database.
+- A transaction log entry contains the transaction id, the data item, the old value, and the new value.
+- An undo operation restores the old value of a data item from the log.
+- A redo operation applies the new value of a data item from the log.
+- A checkpoint is a point in time when the database and the transaction log are synchronized.
+- A checkpoint ensures that all the committed transactions are written to the database and all the active transactions are written to the log.
+- A checkpoint reduces the recovery time in case of a system failure, as only the transactions after the checkpoint need to be considered.
+- A checkpoint can be performed periodically, or triggered by some events, such as the log size reaching a limit, or the system shutting down.

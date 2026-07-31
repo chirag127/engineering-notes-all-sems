@@ -1,0 +1,15 @@
+# Geometry and topology of engineered components
+
+- Geometry is the branch of mathematics that studies the properties, measurements, and relationships of points, lines, angles, surfaces, and solids in space.
+- Topology is the branch of mathematics that studies the properties of shapes that are preserved under continuous deformations, such as stretching, twisting, bending, and shrinking, but not tearing or gluing.
+- Geometry and topology are closely related, as many geometric concepts can be generalized and abstracted to topological ones, and many topological problems can be approached using geometric methods and tools.
+- In engineering, geometry and topology are important for designing, analyzing, and optimizing the shape, size, structure, and function of components, systems, and materials.
+- Some examples of applications of geometry and topology in engineering are:
+
+  - Computer-aided design (CAD) is the use of computer software to create, modify, analyze, and optimize the geometry and topology of 2D or 3D models of physical objects, such as mechanical parts, buildings, or products.
+  - Finite element analysis (FEA) is a numerical method for solving partial differential equations that arise from physical phenomena, such as heat transfer, fluid flow, stress, or vibration, by discretizing the domain into a mesh of finite elements with a given geometry and topology, and applying boundary conditions and loads to the nodes and elements.
+  - Computational fluid dynamics (CFD) is a branch of fluid mechanics that uses numerical methods and algorithms to simulate and analyze the flow of fluids (such as air, water, or gas) around or inside objects with complex geometry and topology, such as aircraft, cars, pipes, or valves.
+  - Computer graphics is the field of computer science that deals with the creation, manipulation, and display of images and animations using geometric and topological models, such as polygons, curves, surfaces, or volumes, and applying techniques such as shading, lighting, texturing, or rendering.
+  - Computer vision is the field of computer science that deals with the extraction, analysis, and understanding of information from images and videos using geometric and topological methods, such as edge detection, feature extraction, shape recognition, or object tracking.
+  - Additive manufacturing (AM) or 3D printing is a process of creating physical objects by depositing layers of material on top of each other according to a digital model with a specified geometry and topology, such as a CAD file or a scanned image.
+  - Topological optimization is a method of finding the optimal shape and structure of a component or system that minimizes the material usage or maximizes the performance, subject to certain constraints and objectives, by using topological concepts, such as connectivity, boundary, or homology.

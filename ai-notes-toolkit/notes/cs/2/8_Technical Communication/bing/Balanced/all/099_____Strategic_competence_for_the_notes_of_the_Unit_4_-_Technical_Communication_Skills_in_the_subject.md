@@ -1,0 +1,24 @@
+# Strategic competence for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication
+
+- Strategic competence is the ability to use various verbal and nonverbal strategies to communicate effectively and overcome difficulties when communication breakdowns occur .
+- Strategic competence is an aspect of communicative competence, which is the overall ability to use language appropriately and effectively in different contexts and situations.
+- Strategic competence performs assessment, planning, and execution functions in determining the most effective means of achieving a communicative or language learning goal. It connects declarative, procedural, and conditional knowledge .
+- Strategic competence is important for technical communication because it helps communicators to:
+  - Adapt to different audiences, purposes, and situations
+  - Use appropriate tone, style, and register
+  - Choose the best medium and format for the message
+  - Organize and structure the information logically and clearly
+  - Use visual aids and graphics to enhance the message
+  - Avoid or resolve misunderstandings and ambiguities
+  - Repair communication errors and gaps
+  - Negotiate meaning and feedback
+  - Initiate innovation and bring strategic change .
+- Some examples of strategic competence in technical communication are:
+  - Using paraphrasing, summarizing, or examples to explain complex or unfamiliar concepts
+  - Asking for clarification, confirmation, or repetition when unsure or confused
+  - Using gestures, facial expressions, or body language to support or emphasize the verbal message
+  - Switching to a different language, dialect, or code when necessary or appropriate
+  - Using synonyms, circumlocution, or approximation when lacking the exact word or term
+  - Using humor, politeness, or empathy to establish rapport and trust with the audience
+  - Using rhetorical devices, such as analogy, metaphor, or contrast, to persuade or influence the audience
+  - Using feedback mechanisms, such as questions, surveys, or tests, to check the audience's understanding and satisfaction

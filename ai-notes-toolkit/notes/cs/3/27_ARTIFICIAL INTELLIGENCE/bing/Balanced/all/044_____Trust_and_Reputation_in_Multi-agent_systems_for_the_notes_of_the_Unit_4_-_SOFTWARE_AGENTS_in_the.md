@@ -1,0 +1,26 @@
+# Trust and Reputation in Multi-agent systems
+
+- Trust and reputation are important concepts for effective interactions in open multi-agent systems (MAS) where agents can cooperate, coordinate, and negotiate with each other.
+- Trust is the degree of belief that an agent has about the reliability, honesty, and competence of another agent in a specific context or domain.
+- Reputation is the collective opinion or evaluation of an agent's behavior or performance by a group of agents or a community.
+- Trust and reputation can help agents to select suitable partners, avoid malicious or incompetent agents, and cope with uncertainty and risk in dynamic and complex environments.
+- Trust and reputation can also facilitate the emergence of social norms, cooperation, and coordination among self-interested and rational agents.
+- There are many different models and mechanisms for trust and reputation in MAS, which can be classified according to various criteria, such as:
+  - The source of information: direct (based on first-hand experiences) or indirect (based on recommendations or feedback from other agents).
+  - The type of information: binary (positive or negative) or numerical (rating or score).
+  - The aggregation method: average, weighted, or Bayesian.
+  - The representation of uncertainty: probabilistic, fuzzy, or interval.
+  - The dynamics of trust and reputation: static, adaptive, or decay.
+  - The scope of trust and reputation: global (shared by all agents) or local (personalized for each agent).
+- Some examples of trust and reputation models in MAS are:
+  - Marsh's model: a cognitive model that defines trust as a subjective and context-dependent measure of an agent's competence, reliability, and dependability.
+  - Sen et al.'s model: a game-theoretic model that defines trust as the probability of an agent's cooperation in a repeated Prisoner's Dilemma game.
+  - SPORAS: a reputation system that uses a simple scoring scheme and a decay function to update the reputation of agents based on their feedback.
+  - eBay: a reputation system that uses a binary feedback mechanism and a global reputation score to rate the sellers and buyers in an online marketplace.
+  - Certified reputation: a reputation system that uses digital certificates and cryptographic techniques to ensure the authenticity and integrity of the reputation information.
+- Trust and reputation models in MAS face several challenges, such as:
+  - How to deal with incomplete, inaccurate, or conflicting information from different sources.
+  - How to cope with malicious or dishonest agents that may provide false or misleading information, or manipulate the trust and reputation system.
+  - How to balance the trade-off between exploration and exploitation, or between trusting new or unknown agents and relying on familiar or trusted agents.
+  - How to adapt to the changes in the environment, the agents, and their behaviors over time.
+  - How to evaluate the performance and effectiveness of the trust and reputation system in different domains and scenarios.

@@ -1,0 +1,11 @@
+#### Grunt in Pig
+- Grunt shell is a shell command.
+- The Grunts shell of Apache Pig is mainly used to write Pig Latin scripts.
+- Pig script can be executed with grunt shell which is native shell provided by Apache Pig to execute pig queries.
+- We can invoke any shell commands using sh and fs.
+- Using sh command from the Grunt shell, we cannot execute the commands that are a part of the shell environment (ex − cd).
+- A study into pig behavior has found that grunts reflect their environment, and reveal their personalities.
+- Proactive pigs grunt faster than reactive pigs.
+- Male pigs grunt less if their environment is not enriching.
+- The grunts made by pigs vary depending on the pig's personality and can convey important information about the welfare of this highly social species.
+- A database of thousands of grunts, oinks, snuffles and squeals, gathered and recorded from hundreds of pigs at every stage of their lives, will be used to help farmers better understand their animals' emotional states and improve their welfare in the future.

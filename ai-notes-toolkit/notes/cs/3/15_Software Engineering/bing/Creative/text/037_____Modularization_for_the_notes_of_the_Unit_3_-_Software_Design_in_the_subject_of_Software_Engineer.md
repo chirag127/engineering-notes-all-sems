@@ -1,0 +1,13 @@
+### Modularization
+
+- Modularization is the process of dividing a software system into smaller, independent, and cohesive modules that can be developed, tested, and maintained separately.
+- Modularization aims to achieve the following benefits:
+  - Reduced complexity: By breaking down a large and complex problem into smaller and simpler subproblems, modularization reduces the cognitive load and effort required to understand and solve the problem.
+  - Increased reusability: By creating modules that perform specific and well-defined functions, modularization enables the reuse of existing modules in different contexts and applications, thus saving time and resources.
+  - Enhanced maintainability: By isolating the effects of changes and errors within a module, modularization facilitates the modification and correction of the software system without affecting other modules, thus improving the quality and reliability of the software system.
+  - Improved scalability: By allowing parallel and distributed development of modules, modularization increases the productivity and efficiency of the software development process, thus enabling the software system to meet the changing and growing requirements of the users and stakeholders.
+- Modularization can be achieved by applying the following principles and techniques:
+  - Abstraction: Abstraction is the process of hiding the unnecessary details and focusing on the essential features of a module. Abstraction helps to reduce the complexity and increase the understandability of a module.
+  - Encapsulation: Encapsulation is the process of bundling the data and the operations that manipulate the data within a module. Encapsulation helps to protect the data from unauthorized access and modification, and to ensure the consistency and integrity of the module.
+  - Cohesion: Cohesion is the degree of relatedness and similarity among the elements of a module. Cohesion helps to measure the quality and effectiveness of a module. A module should have high cohesion, meaning that its elements should be strongly and logically connected to each other and to the purpose of the module.
+  - Coupling: Coupling is the degree of interdependence and interaction among the modules of a software system. Coupling helps to measure the complexity and maintainability of a software system. A software system should have low coupling, meaning that its modules should be loosely and minimally connected to each other and to the external environment.

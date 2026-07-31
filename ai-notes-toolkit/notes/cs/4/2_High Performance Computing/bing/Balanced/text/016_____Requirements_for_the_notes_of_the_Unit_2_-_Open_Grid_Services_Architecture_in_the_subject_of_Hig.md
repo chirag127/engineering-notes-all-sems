@@ -1,0 +1,22 @@
+### Requirements for the notes of the Unit 2 - Open Grid Services Architecture in the subject of High Performance Computing
+
+- The notes should explain what is Open Grid Services Architecture (OGSA) and why it is important for grid computing.
+- The notes should describe the main components and features of OGSA, such as:
+  - Grid services: the basic building blocks of OGSA that provide a uniform way to access and manage distributed resources.
+  - Service data: the information associated with each grid service that defines its state, configuration, and capabilities.
+  - Service factories: the mechanisms that create and destroy grid services dynamically according to the user's needs and preferences.
+  - Service groups: the collections of grid services that share some common characteristics or functionality.
+  - Service discovery: the process of finding and selecting grid services that match the user's requirements and expectations.
+  - Service invocation: the process of invoking the operations of grid services using standard protocols and formats, such as SOAP and WSDL.
+  - Service notification: the process of receiving and sending asynchronous messages from and to grid services to monitor their status and events.
+  - Service security: the aspects of ensuring the confidentiality, integrity, and availability of grid services and their data.
+- The notes should provide some examples of how OGSA can be applied to different domains and scenarios, such as:
+  - Scientific computing: using OGSA to enable large-scale and collaborative experiments and simulations across multiple disciplines and institutions.
+  - Business computing: using OGSA to support e-commerce, e-business, and e-government applications that require high performance, reliability, and scalability.
+  - Data-intensive computing: using OGSA to handle massive and heterogeneous data sets that need to be stored, processed, and analyzed efficiently and effectively.
+  - Resource-intensive computing: using OGSA to optimize the utilization and allocation of various types of resources, such as CPU, memory, disk, network, and power.
+- The notes should include some diagrams, tables, or charts to illustrate the concepts and principles of OGSA, such as:
+  - The OGSA architecture and its layers: the logical view of how OGSA organizes and integrates the grid services and their interactions.
+  - The OGSA service model and its elements: the conceptual view of how OGSA defines and represents the grid services and their data.
+  - The OGSA service lifecycle and its states: the operational view of how OGSA manages the creation, activation, deactivation, and destruction of grid services.
+  - The OGSA service interactions and their patterns: the behavioral view of how OGSA supports the communication and coordination of grid services.

@@ -1,0 +1,32 @@
+### Tautology for the notes of the Unit 4 - Propositional Logic in the subject of Discrete Structures & Theory of Logic
+
+- A tautology is a propositional formula that is always true, regardless of the truth values of the propositional variables in it .
+- A tautology can be verified by using a truth table, which shows all the possible combinations of truth values for the propositional variables and the resulting truth value of the formula .
+- A tautology can also be proved by using logical equivalences, which are rules that allow us to replace one propositional formula with another that has the same truth value in all situations.
+- Some examples of tautologies are :
+  - p ∨ ¬p (the law of excluded middle)
+  - p → p (the law of identity)
+  - (p → q) ∨ (q → p) (the law of material implication)
+  - (p ∧ q) → p (the law of simplification)
+  - (p ∧ (p ∨ q)) ↔ p (the law of absorption)
+- A contradiction is a propositional formula that is always false, regardless of the truth values of the propositional variables in it.
+- A contradiction can be verified by using a truth table, which shows that there is no combination of truth values for the propositional variables that makes the formula true.
+- A contradiction can also be proved by using logical equivalences, which are rules that allow us to replace one propositional formula with another that has the same truth value in all situations.
+- Some examples of contradictions are:
+  - p ∧ ¬p (the law of non-contradiction)
+  - p → ¬p (the law of contradiction)
+  - (p ∧ q) → ¬p (the law of negation)
+  - (p ∨ (p ∧ q)) ↔ ¬p (the law of contradiction)
+- A tautology can be used as a rule of inference, which is a method of deriving a new propositional formula from existing ones.
+- A rule of inference consists of a set of premises and a conclusion, which are all propositional formulas.
+- A rule of inference is valid if the conclusion is true whenever all the premises are true.
+- A tautology can be used as a rule of inference by replacing one of the premises with a logically equivalent tautology.
+- Some examples of rules of inference that use tautologies are:
+  - Modus ponens: p → q, p ∴ q
+  - Modus tollens: p → q, ¬q ∴ ¬p
+  - Hypothetical syllogism: p → q, q → r ∴ p → r
+  - Disjunctive syllogism: p ∨ q, ¬p ∴ q
+  - Addition: p ∴ p ∨ q
+  - Simplification: p ∧ q ∴ p
+  - Conjunction: p, q ∴ p ∧ q
+  - Resolution: p ∨ q, ¬p ∨ r ∴ q ∨ r

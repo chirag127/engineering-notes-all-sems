@@ -1,0 +1,11 @@
+# Some Basic Descriptors for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+
+- Feature extraction is the process of transforming an image into a set of numerical or symbolic features that represent its properties or characteristics.
+- Features can be used for various purposes, such as image classification, segmentation, recognition, retrieval, matching, registration, etc.
+- Some basic descriptors for features are:
+
+  - **Color**: Color is one of the most intuitive and perceptual features of an image. It can be represented by different color spaces, such as RGB, HSV, YCbCr, etc. Color features can be extracted by computing color histograms, color moments, color correlograms, color coherence vectors, etc.
+  - **Texture**: Texture is the visual pattern or structure of an image region, which reflects the spatial arrangement and variation of pixel intensities or colors. Texture features can be extracted by using statistical methods, such as gray-level co-occurrence matrices, local binary patterns, Tamura features, etc., or by using transform-based methods, such as wavelets, Gabor filters, Fourier transform, etc.
+  - **Shape**: Shape is the contour or boundary of an image region, which defines its geometric properties and spatial relations. Shape features can be extracted by using boundary-based methods, such as chain codes, Fourier descriptors, shape context, etc., or by using region-based methods, such as moments, Zernike moments, Hu moments, etc.
+  - **Edge**: Edge is the boundary between two image regions with different pixel values, which indicates the presence of discontinuities or changes in the image. Edge features can be extracted by using edge detection operators, such as Sobel, Canny, Laplacian, etc., or by using edge linking algorithms, such as Hough transform, RANSAC, etc.
+  - **Interest point**: Interest point is a salient or distinctive point in an image, which can be detected by using corner detectors, such as Harris, FAST, SIFT, etc., or by using blob detectors, such as LoG, DoG, SURF, etc. Interest point features can be extracted by using local descriptors, such as SIFT, SURF, ORB, etc., or by using global descriptors, such as HOG, LBP, etc.

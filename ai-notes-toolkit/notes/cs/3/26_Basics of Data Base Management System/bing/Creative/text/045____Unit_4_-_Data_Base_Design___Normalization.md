@@ -1,0 +1,23 @@
+## Unit 4 - Database Design and Normalization
+
+- Database design is the process of creating a logical and physical structure for storing and manipulating data in a relational database management system (RDBMS).
+- Database normalization is a technique of database design that organizes the data into tables and columns to reduce redundancy and improve data integrity.
+- Normalization also simplifies the database design by creating atomic elements, i.e., elements that cannot be broken down into smaller parts.
+- Normalization is based on a series of normal forms, which are rules that define the level of data organization and quality.
+- The most common normal forms are:
+  - First normal form (1NF): Each column in a table contains only one value, and each row is unique. There are no repeating groups or arrays in a table.
+  - Second normal form (2NF): Each column in a table that is not part of the primary key depends on the whole primary key. There are no partial dependencies in a table.
+  - Third normal form (3NF): Each column in a table that is not part of the primary key depends only on the primary key. There are no transitive dependencies in a table.
+  - Boyce-Codd normal form (BCNF): Each determinant in a table is a candidate key. A determinant is a column or a set of columns that determines the value of another column.
+  - Fourth normal form (4NF): Each column in a table contains only one value from a single domain, and each row is unique. There are no multi-valued dependencies in a table.
+  - Fifth normal form (5NF): Each column in a table is part of a candidate key or a join dependency. A join dependency is a condition that specifies how a table can be reconstructed from its projections.
+- Normalization is a progressive process, and a higher level of normalization cannot be achieved unless the previous levels have been satisfied.
+- Normalization has many benefits, such as:
+  - Eliminating data anomalies, such as insertion, deletion, and update anomalies, that can cause data inconsistency and corruption.
+  - Reducing data redundancy and storage space, which can improve performance and efficiency.
+  - Enhancing data integrity and security, which can prevent unauthorized access and modification.
+  - Facilitating data manipulation and querying, which can improve usability and functionality.
+- Normalization also has some drawbacks, such as:
+  - Increasing the number of tables and joins, which can complicate the database design and maintenance.
+  - Decreasing the query performance and speed, which can affect the user experience and satisfaction.
+  - Losing some information or context, which can reduce the data quality and completeness.

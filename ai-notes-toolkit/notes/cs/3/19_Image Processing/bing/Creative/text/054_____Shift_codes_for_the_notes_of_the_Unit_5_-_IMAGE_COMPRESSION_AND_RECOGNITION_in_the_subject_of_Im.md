@@ -1,0 +1,12 @@
+### Shift codes for the notes of the Unit 5 - IMAGE COMPRESSION AND RECOGNITION in the subject of Image Processing
+
+- Image compression is the process of reducing the amount of data required to represent an image, without compromising its quality or information content.
+- Image compression can be classified into two types: lossless and lossy.
+- Lossless image compression preserves the exact pixel values of the original image, and allows perfect reconstruction of the image after decompression.
+- Lossy image compression discards some of the pixel values of the original image, and introduces some distortion or error in the reconstructed image after decompression.
+- Shift coding is a technique for lossless image compression, based on the idea of shifting the pixel values of an image to reduce the number of bits required to represent them.
+- Shift coding can be applied in two ways: using leading short word (LSW) or using lead bit (LB).
+- LSW shift coding works by finding the minimum and maximum pixel values in the image, and subtracting the minimum value from all the pixel values. This shifts the pixel values to the range [0, max-min]. Then, the number of bits required to represent the maximum value (which is also the range) is appended to the beginning of the compressed data, followed by the shifted pixel values.
+- LB shift coding works by finding the most significant bit (MSB) position of the pixel values in the image, and shifting all the pixel values to the right by that position. This shifts the pixel values to the range [0, 2^MSB]. Then, the MSB position is appended to the beginning of the compressed data, followed by the shifted pixel values.
+- Shift coding can reduce the number of bits required to represent an image, especially if the image has a small dynamic range (i.e., the difference between the minimum and maximum pixel values is small).
+- Shift coding can be combined with other techniques, such as run-length encoding (RLE) or Huffman coding, to further compress the image data. RLE works by encoding the repeated pixel values as a pair of value and count, while Huffman coding works by assigning variable-length codes to the pixel values based on their frequencies.

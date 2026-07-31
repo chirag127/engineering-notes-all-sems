@@ -1,0 +1,24 @@
+### Stochastic Games
+
+- Stochastic games are a generalization of Markov decision processes (MDPs) to the case where there are multiple agents in a common environment  .
+- The agents perform a joint action that defines both the reward obtained by the agents and the new state of the environment .
+- The agents may have different objectives and preferences, and may act cooperatively or competitively  .
+- Stochastic games can model many artificial intelligence applications, such as playing chess and Go, autonomous driving, robotics, and multi-agent reinforcement learning  .
+- Stochastic games can be classified into different types, depending on the information available to the agents, the structure of the game, and the nature of the rewards .
+- Some common types of stochastic games are:
+  - Zero-sum games: the sum of the rewards of the agents is zero, so one agent's gain is another agent's loss .
+  - Cooperative games: the agents share a common reward function and try to maximize it together .
+  - Non-cooperative games: the agents have individual reward functions and try to maximize their own rewards .
+  - Perfect-information games: the agents know the state of the environment and the actions and rewards of the other agents  .
+  - Imperfect-information games: the agents have incomplete or uncertain information about the state of the environment or the actions and rewards of the other agents  .
+  - Deterministic games: the state transition function is deterministic, so the next state is fully determined by the current state and the joint action  .
+  - Stochastic games: the state transition function is stochastic, so the next state is probabilistic and depends on the current state and the joint action  .
+- Stochastic games can be solved by various algorithms, depending on the type and size of the game  .
+- Some common algorithms for stochastic games are:
+  - Minimax: a recursive algorithm that finds the optimal strategy for a zero-sum game with perfect information .
+  - Alpha-beta pruning: an optimization technique that reduces the number of nodes explored by the minimax algorithm by pruning branches that are provably worse than the best current option .
+  - Expectimax: a generalization of minimax that accounts for the stochasticity of the state transitions and the expected value of the rewards .
+  - Monte Carlo tree search: a heuristic algorithm that builds a search tree by sampling random trajectories from the current state and using the average reward as an estimate of the value of each node  .
+  - Q-learning: a reinforcement learning algorithm that learns a value function for each state-action pair by iteratively updating it based on the observed rewards and transitions .
+  - Nash equilibrium: a solution concept that defines a strategy profile where no agent can improve its expected reward by deviating from its strategy, given the strategies of the other agents .
+  - Correlated equilibrium: a generalization of Nash equilibrium that allows the agents to coordinate their actions based on a common random signal .

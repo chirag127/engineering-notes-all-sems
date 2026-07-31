@@ -1,0 +1,8 @@
+### Single Layer and Multilayer Feed Forward Networks
+
+- A feed forward network is an artificial neural network where the information flows only in one direction, from input to output. There are no cycles or feedback loops in the network.
+- A single layer feed forward network consists of only two layers: an input layer and an output layer. The input layer receives the input data and passes it to the output layer. The output layer performs some computation on the input data and produces the output .
+- A single layer feed forward network can be used for linear classification or regression problems, where the output is a linear function of the input. A common choice of the output layer activation function is the logistic function, which produces a continuous output between 0 and 1.
+- A multilayer feed forward network consists of more than two layers: an input layer, one or more hidden layers, and an output layer. The hidden layers are internal to the network and have no direct connection to the input or output data. The hidden layers perform some nonlinear transformations on the input data and pass it to the output layer .
+- A multilayer feed forward network can be used for nonlinear classification or regression problems, where the output is a nonlinear function of the input. A common choice of the hidden layer activation function is the sigmoid function, which produces a continuous output between 0 and 1.
+- A multilayer feed forward network can learn more complex and abstract features from the input data than a single layer feed forward network, and can approximate any continuous function with enough hidden units and layers.

@@ -1,0 +1,32 @@
+### Architectural Modeling
+
+- Architectural modeling is the process of creating a high-level design of a software system that describes its structure, behavior, and interactions.
+- Architectural modeling is important for developing software systems that are understandable, reusable, and adaptable to changing requirements and environments.
+- Architectural modeling can be done using different approaches, such as object-oriented, data-oriented, functional, or service-oriented.
+- Object-oriented architecture is one of the popular approaches of architectural modeling that views a software system as a collection of entities known as objects.
+- Objects are instances of classes that encapsulate data and the operations that must be applied to manipulate the data.
+- Objects communicate and coordinate with each other by sending and receiving messages.
+- Object-oriented architecture has the following advantages:
+  - It maps the application to real-world objects, making it more intuitive and easy to understand.
+  - It supports abstraction, encapsulation, inheritance, and polymorphism, which are the key principles of object-oriented design.
+  - It promotes modularity, reusability, and extensibility of software components.
+  - It facilitates the development of distributed and concurrent systems.
+- Object-oriented architecture has the following disadvantages:
+  - It may introduce complexity and overhead due to the large number of objects and messages.
+  - It may not be suitable for some domains or applications that are not easily modeled by objects.
+  - It may require more effort and expertise to design and implement effectively.
+- Object-oriented architecture consists of two main stages: system design and object design.
+  - System design: In this stage, the complete architecture of the desired system is designed. The system is conceived as a set of interacting subsystems that in turn is composed of a hierarchy of interacting objects, grouped into classes. The system design defines the following aspects of the system:
+    - The decomposition of the system into subsystems and classes, and their relationships and dependencies.
+    - The allocation of responsibilities and collaborations among the subsystems and classes.
+    - The identification of the interfaces and contracts among the subsystems and classes.
+    - The specification of the behavior and state of the subsystems and classes.
+    - The selection of the architectural styles and patterns to be used in the system.
+  - Object design: In this stage, the detailed design of each object in the system is done. The object design defines the following aspects of each object:
+    - The attributes and methods of the object, and their visibility and accessibility.
+    - The implementation of the methods and the algorithms used.
+    - The inheritance and polymorphism relationships among the objects and their classes.
+    - The associations and aggregations among the objects and their classes.
+    - The design of the messages and protocols for communication among the objects.
+- Object-oriented architecture can be represented using different models and notations, such as UML (Unified Modeling Language), OMT (Object Modeling Technique), or OOSE (Object-Oriented Software Engineering).
+- Object-oriented architecture can be verified and validated using different methods and techniques, such as reviews, inspections, testing, or analysis.

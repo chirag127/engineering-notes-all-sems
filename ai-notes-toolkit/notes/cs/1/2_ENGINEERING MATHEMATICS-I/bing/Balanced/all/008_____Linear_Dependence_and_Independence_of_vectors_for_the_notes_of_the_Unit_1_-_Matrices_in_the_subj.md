@@ -1,0 +1,20 @@
+# Linear Dependence and Independence of Vectors
+
+- A vector is a quantity that has both magnitude and direction. Examples of vectors are displacement, velocity, force, etc.
+- A vector can be represented by a directed line segment, such as AB, with an arrow indicating the direction. The length of the segment is the magnitude of the vector, and the arrow points from the initial point A to the terminal point B.
+- A vector can also be written in terms of its components, such as (x, y, z) in three-dimensional space, where x, y, and z are the projections of the vector along the x, y, and z axes, respectively.
+- A scalar is a quantity that has only magnitude and no direction. Examples of scalars are mass, speed, temperature, etc.
+- A scalar can be multiplied with a vector to produce another vector, such as 2AB, which has the same direction as AB but twice the magnitude.
+- A linear combination of vectors is an expression of the form a1v1 + a2v2 + ... + anvn, where a1, a2, ..., an are scalars and v1, v2, ..., vn are vectors.
+- A linear combination of vectors can be represented by a single vector, such as u = a1v1 + a2v2 + ... + anvn, which is the resultant of adding the vectors v1, v2, ..., vn scaled by the coefficients a1, a2, ..., an.
+- A set of vectors {v1, v2, ..., vn} is said to be linearly dependent if there exists a nontrivial linear combination of them that equals the zero vector, such as a1v1 + a2v2 + ... + anvn = 0, where not all of a1, a2, ..., an are zero.
+- A set of vectors {v1, v2, ..., vn} is said to be linearly independent if the only linear combination of them that equals the zero vector is the trivial one, such as a1v1 + a2v2 + ... + anvn = 0, where all of a1, a2, ..., an are zero.
+- Linear dependence and independence are properties of a set of vectors, not of individual vectors. It does not make sense to say that a vector is linearly dependent or independent by itself.
+- A set of vectors that contains the zero vector is always linearly dependent, since the zero vector can be written as a nontrivial linear combination of any other vector, such as 0v1 + 1v2 = 0, where v1 and v2 are any vectors.
+- A set of vectors that contains only one nonzero vector is always linearly independent, since the only way to write the nonzero vector as a linear combination of itself is by using the coefficient 1, such as 1v1 = v1, where v1 is any nonzero vector.
+- A set of vectors that contains more vectors than the dimension of the vector space is always linearly dependent, since there are more unknowns than equations in the linear combination equation. For example, in a two-dimensional space, any set of three or more vectors is linearly dependent, since there are three or more coefficients but only two components in the equation.
+- A set of vectors that spans the vector space is always linearly independent, since any vector in the space can be written as a unique linear combination of the spanning set. For example, in a three-dimensional space, any set of three vectors that are not coplanar (lie in the same plane) is linearly independent, since any vector in the space can be written as a unique linear combination of the three vectors.
+- To check if a set of vectors is linearly dependent or independent, one can use the following methods:
+  - Write the vectors as the columns of a matrix and perform row operations to reduce the matrix to its row echelon form. If the matrix has a row of zeros, then the set of vectors is linearly dependent. If the matrix has no row of zeros, then the set of vectors is linearly independent.
+  - Write the vectors as the rows of a matrix and calculate the determinant of the matrix. If the determinant is zero, then the set of vectors is linearly dependent. If the determinant is nonzero, then the set of vectors is linearly independent.
+  - Write the linear combination equation a1v1 + a2v2 + ... + anvn = 0 and solve for the coefficients a1, a2, ..., an. If there is

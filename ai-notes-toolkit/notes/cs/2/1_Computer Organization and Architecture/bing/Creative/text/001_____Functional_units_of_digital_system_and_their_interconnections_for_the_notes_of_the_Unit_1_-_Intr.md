@@ -1,0 +1,19 @@
+### Functional units of digital system and their interconnections
+
+- A digital system is a system that processes and stores data in binary form, using electronic devices such as transistors, logic gates, and memory cells.
+- A digital system consists of several functional units that perform different tasks, such as input, output, processing, and storage.
+- The functional units of a digital system are connected by buses, which are sets of wires or lines that carry data, address, and control signals between the units.
+- The main functional units of a digital system are:
+
+  - Input unit: This unit takes the input from the user or an external device and converts it into binary code that can be processed by the system. Examples of input devices are keyboards, mouse, scanners, microphones, etc.  
+  - Output unit: This unit displays the results of the processing or sends them to an external device. Examples of output devices are monitors, printers, speakers, etc.  
+  - Memory unit: This unit stores the data and instructions that are needed for the processing. It can be divided into primary memory and secondary memory. Primary memory is fast but volatile, meaning it loses its contents when the power is off. Examples of primary memory are RAM, ROM, cache, etc. Secondary memory is slow but non-volatile, meaning it retains its contents even when the power is off. Examples of secondary memory are hard disk, CD, DVD, etc.  
+  - Central Processing Unit (CPU): This unit performs all the arithmetic and logical operations on the data and controls the execution of the instructions. It consists of two main components:   
+    - Arithmetic and Logic Unit (ALU): This unit performs the basic arithmetic operations such as addition, subtraction, multiplication, and division, and the basic logical operations such as AND, OR, NOT, XOR, etc. It also performs comparisons and shifts.  
+    - Control Unit (CU): This unit fetches the instructions from the memory, decodes them, and generates the appropriate control signals to coordinate the activities of the other functional units. It also handles the interrupts and exceptions that may occur during the execution.  
+  - Register unit: This unit consists of a set of small and fast memory cells that store the data and instructions that are currently being used by the CPU. Registers can be classified into general-purpose registers and special-purpose registers. General-purpose registers can store any type of data and can be used by the programmer. Special-purpose registers store specific types of data and are used by the CPU internally. Examples of special-purpose registers are program counter, instruction register, accumulator, status register, etc.  
+
+- The interconnection of the functional units can be done in different ways, depending on the architecture and design of the system. Some common types of interconnection are:  
+  - Single bus: In this type, all the functional units are connected to a single bus, which carries the data, address, and control signals. This type is simple and cheap, but it has low performance and scalability, as the bus can become a bottleneck when multiple units try to access it simultaneously.  
+  - Multiple bus: In this type, there are separate buses for data, address, and control signals, or for different functional units. This type can improve the performance and scalability of the system, as it reduces the contention and interference on the buses. However, it also increases the cost and complexity of the system, as it requires more wires and logic circuits.  
+  - Crossbar switch: In this type, there is a matrix of switches that can connect any functional unit to any other functional unit. This type can provide the highest performance and scalability, as it allows parallel and independent communication between the units. However, it also has the highest cost and complexity, as it requires a large number of switches and control logic.

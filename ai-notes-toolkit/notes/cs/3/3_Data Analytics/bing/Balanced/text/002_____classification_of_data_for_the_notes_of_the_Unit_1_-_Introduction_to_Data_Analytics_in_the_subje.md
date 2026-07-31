@@ -1,0 +1,11 @@
+### Classification of Data
+
+Classification of data is the process of organizing data into categories or groups based on some criteria, such as characteristics, attributes, or values. Classification of data helps to make data easier to locate, retrieve, analyze, and protect. Classification of data also helps to comply with the legal and ethical standards of data handling.
+
+There are different ways to classify data, depending on the purpose and the nature of the data. Some of the common methods of data classification are:
+
+- **Qualitative classification**: This method classifies data according to the qualities or attributes of the data, such as gender, color, religion, intelligence, etc. Qualitative data are usually non-numerical and descriptive. For example, classifying students by their favorite subjects is a qualitative classification of data.
+- **Quantitative classification**: This method classifies data according to the quantities or values of the data, such as height, weight, income, age, etc. Quantitative data are usually numerical and measurable. For example, classifying students by their test scores is a quantitative classification of data.
+- **Chronological classification**: This method classifies data according to the time or date of the data, such as year, month, day, hour, etc. Chronological data are usually related to events or occurrences that happen over time. For example, classifying sales data by the month of sale is a chronological classification of data.
+- **Geographical classification**: This method classifies data according to the location or place of the data, such as country, state, city, district, etc. Geographical data are usually related to the spatial distribution of the data. For example, classifying population data by the country of residence is a geographical classification of data.
+- **Security classification**: This method classifies data according to the level of sensitivity or confidentiality of the data, such as public, private, internal, restricted, secret, top secret, etc. Security data are usually related to the risk of exposure or misuse of the data. For example, classifying military data by the code word classification is a security classification of data.

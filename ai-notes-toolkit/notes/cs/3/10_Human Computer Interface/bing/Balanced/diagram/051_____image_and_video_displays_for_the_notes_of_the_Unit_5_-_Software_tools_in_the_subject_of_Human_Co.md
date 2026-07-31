@@ -1,0 +1,12 @@
+### Image and Video Displays for the Notes of the Unit 5 - Software Tools in the Subject of Human Computer Interface
+
+- Image and video displays are graphical, visual, informational and interactive representations for use by humans in human-computer interaction (HCI) .
+- Image and video processing tools for HCI are used to capture, analyze, manipulate, synthesize and display images and videos in various applications and scenarios .
+- Image and video displays can be classified into two categories: close view and distant view .
+  - Close view displays are used in applications that require direct interaction with the user, such as desktop computer applications or mobile telephone interfaces. Examples of close view displays are monitors, touchscreens, tablets, smartphones, etc.
+  - Distant view displays are used in applications that require indirect interaction with the user, such as smart-rooms scenarios or augmented reality games. Examples of distant view displays are projectors, holograms, head-mounted displays, etc.
+- Image and video displays have different characteristics and requirements, such as resolution, refresh rate, color depth, contrast, brightness, viewing angle, etc. These affect the quality and performance of the displays, as well as the user experience and satisfaction .
+- Image and video quality assessment (IQA/VQA) and quality of experience (QoE) are methods to measure and evaluate the quality of the displays and the user perception of the displays. IQA/VQA and QoE can be subjective or objective, depending on the criteria and metrics used .
+- Display-human/user interface design and analysis are the processes of designing and evaluating the displays and the interfaces that enable the interaction between the user and the computer. Display-human/user interface design and analysis involve the principles of HCI, such as usability, accessibility, aesthetics, feedback, etc.  .
+- Visual performance measurement and assessment are the methods to measure and evaluate the human visual system and its response to the displays and the interfaces. Visual performance measurement and assessment involve the aspects of visual perception, such as attention, recognition, memory, etc. .
+- Human factors and ergonomics for displays are the disciplines that study the physical, cognitive and emotional aspects of the human interaction with the displays and the interfaces. Human factors and ergonomics for displays aim to optimize the comfort, safety, efficiency and satisfaction of the user  .

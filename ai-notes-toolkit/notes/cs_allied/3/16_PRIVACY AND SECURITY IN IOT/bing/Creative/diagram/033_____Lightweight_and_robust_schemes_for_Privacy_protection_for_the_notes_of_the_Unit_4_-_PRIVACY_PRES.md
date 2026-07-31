@@ -1,0 +1,14 @@
+### Lightweight and robust schemes for privacy protection for the notes of the Unit 4 - PRIVACY PRESERVATION AND TRUST MODELS FOR IOT in the subject of PRIVACY AND SECURITY IN IOT
+
+- Privacy protection is a crucial requirement for IoT applications and services, especially for those involving sensitive personal data, such as mobile wireless body sensor networks (WBSN) and participatory sensing.
+- Lightweight and robust schemes for privacy protection aim to achieve the following objectives:
+  - Preserve the anonymity and unlinkability of the IoT devices and users from the adversaries and untrusted third parties.
+  - Provide secure and efficient authentication and authorization mechanisms for the IoT devices and users to access the IoT services and resources.
+  - Resist various attacks, such as replay, impersonation, man-in-the-middle, and compromise attacks, and ensure the integrity and confidentiality of the IoT data.
+  - Minimize the computation and communication overheads of the IoT devices and users, and adapt to the resource-constrained and dynamic IoT environments.
+- Some examples of lightweight and robust schemes for privacy protection in IoT are:
+  - A smart lightweight privacy preservation scheme for IoT-based UAV applications, which uses a lightweight privacy-preserving scheme (L-PPS) based on hash and XOR operations to provide robust authentication and authorization between the IoT devices and the UAVs with a valid authentication period.
+  - A lightweight privacy-preserving scheme using homomorphic encryption in IoT, which uses a homomorphic encryption scheme based on the learning with errors (LWE) problem to enable the data owners to encrypt their data and delegate the computation tasks to the untrustworthy cloud servers, while preserving the privacy of the data and the results.
+  - A lightweight and compromise-resilient authentication scheme for IoTs, which uses a lightweight hash and XOR based authentication scheme (LCA) to provide mutual authentication and session key establishment between the IoT devices and the server, and to resist compromise attacks even if the secret keys of some devices are leaked.
+  - Lightweight and robust schemes for privacy protection in key personal IoT applications, such as mobile WBSN and participatory sensing, which use group signature and pseudonym techniques to achieve anonymous and unlinkable authentication and data transmission, and to protect the privacy of the users' biometric and location data.
+  - A lightweight NFC protocol for privacy protection in mobile IoT, which uses a lightweight symmetric-key based protocol (LNFC) to provide mutual authentication and secure data exchange between the NFC-enabled mobile devices and the IoT devices, and to protect the privacy of the device identifiers and the data contents.

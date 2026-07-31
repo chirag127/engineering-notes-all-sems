@@ -1,0 +1,21 @@
+## Unit 5 - NP-Completeness and Approximation Algorithms with Examples Such as Travelling Salesman Problem, Graph Coloring, n-Queen Problem, Hamiltonian Cycles and Sum of Subsets.
+
+- NP-Completeness is a concept that relates to the complexity of decision problems, which are problems that have a yes or no answer. A decision problem is NP-complete if it satisfies two conditions:
+  - It is in NP, which means that there is a polynomial-time algorithm that can verify a given solution to the problem.
+  - It is NP-hard, which means that any other problem in NP can be reduced to it in polynomial time, using a transformation that preserves the yes or no answer.
+- NP-complete problems are believed to be very hard to solve, as no polynomial-time algorithm is known for any of them, and it is widely conjectured that none exists. If one NP-complete problem can be solved in polynomial time, then all NP problems can be solved in polynomial time, which would imply that P = NP, a major open question in computer science.
+- Some examples of NP-complete problems are:
+  - Travelling Salesman Problem (TSP): Given a set of cities and the distances between them, find the shortest tour that visits each city exactly once and returns to the starting point.
+  - Graph Coloring: Given a graph and a number k, determine whether the vertices of the graph can be assigned k different colors such that no two adjacent vertices have the same color.
+  - n-Queen Problem: Given a chessboard of size n x n, place n queens on the board such that no two queens attack each other, i.e., no two queens share the same row, column, or diagonal.
+  - Hamiltonian Cycle: Given a graph, determine whether there is a cycle that visits each vertex exactly once and returns to the starting point.
+  - Sum of Subsets: Given a set of positive integers and a target sum, determine whether there is a subset of the set that adds up to the target sum.
+
+- Approximation Algorithms are a way of dealing with NP-completeness for optimization problems, which are problems that seek to find the best solution among many possible ones, according to some objective function. An approximation algorithm does not guarantee the optimal solution, but rather a solution that is close to the optimal one, within some factor or bound  .
+- The goal of an approximation algorithm is to come as close as possible to the optimal solution in polynomial time, by sacrificing some accuracy for efficiency. The quality of an approximation algorithm is measured by its approximation ratio, which is the ratio between the value of the solution obtained by the algorithm and the value of the optimal solution. The smaller the approximation ratio, the better the algorithm.
+- Some examples of approximation algorithms are:
+  - TSP: A 2-approximation algorithm is to find a minimum spanning tree of the given graph, and then traverse the tree in a depth-first order, skipping any visited vertices. This produces a tour that is at most twice as long as the optimal one.
+  - Graph Coloring: A simple approximation algorithm is to assign colors to the vertices in any order, using the smallest available color for each vertex. This produces a coloring that uses at most one more color than the optimal one.
+  - n-Queen Problem: A heuristic approximation algorithm is to place queens on the main diagonal of the board, and then try to move them to different positions that do not cause conflicts, using a local search technique. This may produce a feasible solution, but it is not guaranteed to do so.
+  - Hamiltonian Cycle: A 2-approximation algorithm is to find a minimum spanning tree of the given graph, and then double each edge of the tree. This produces a cycle that visits each vertex exactly twice, and has a length that is at most twice as long as the optimal one.
+  - Sum of Subsets: A greedy approximation algorithm is to sort the given set in decreasing order, and then select the elements one by one, as long as the partial sum does not exceed the target sum. This produces a subset that is as close as possible to the target sum, but it may not be the optimal one.

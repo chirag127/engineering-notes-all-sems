@@ -1,0 +1,13 @@
+# On the notion of equality for the notes of the Unit 3 - Modelling and Aggregating Social Network Data in the subject of SOCIAL NETWORK ANALYTICS
+
+- Equality is a social and ethical value that implies that all individuals or groups have the same rights, opportunities, and status in a society.
+- Social network analysis (SNA) is a method of studying social structures and interactions through the use of networks and graph theory .
+- SNA can be used to measure and compare the level of equality or inequality in different social networks, based on various criteria such as centrality, diversity, homophily, segregation, and cohesion  .
+- Centrality is a measure of how important or influential a node (individual or group) is in a network, based on the number and quality of its connections. Higher centrality implies higher power and access to resources, while lower centrality implies marginalization and exclusion.
+- Diversity is a measure of how heterogeneous or diverse a network is, based on the attributes and characteristics of its nodes and links. Higher diversity implies more variety and richness of perspectives, while lower diversity implies more uniformity and conformity.
+- Homophily is a tendency of nodes to form ties with similar others, based on shared attributes or preferences. Higher homophily implies more similarity and affinity, while lower homophily implies more difference and diversity .
+- Segregation is a measure of how separated or isolated different groups are in a network, based on the density and distribution of their ties. Higher segregation implies more division and inequality, while lower segregation implies more integration and equality .
+- Cohesion is a measure of how connected or unified a network is, based on the strength and frequency of its ties. Higher cohesion implies more solidarity and cooperation, while lower cohesion implies more fragmentation and conflict.
+
+- Equality in social networks can be seen as a balance between the different criteria mentioned above, depending on the context and the goals of the analysis. For example, a network that is highly diverse, low in homophily, low in segregation, and high in cohesion can be considered more equal than a network that is low in diversity, high in homophily, high in segregation, and low in cohesion.
+- However, equality in social networks is not a fixed or objective state, but a dynamic and subjective process that can change over time and across situations. Therefore, SNA can be used as a tool to monitor and evaluate the effects of social policies, interventions, and innovations on the level of equality or inequality in different social networks.

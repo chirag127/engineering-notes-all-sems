@@ -1,0 +1,10 @@
+### Complemented for the notes of the Unit 3 - Lattices in the subject of Discrete Structures & Theory of Logic
+
+- A **lattice** is a partially ordered set (poset) in which every pair of elements has a unique least upper bound (lub) and a unique greatest lower bound (glb).
+- A **bounded lattice** is a lattice that has a minimum element (denoted by 0) and a maximum element (denoted by 1).
+- A **complemented lattice** is a bounded lattice in which every element has a complement, that is, an element such that their lub is 1 and their glb is 0.
+- A **distributive lattice** is a lattice that satisfies the distributive laws: for all x, y, z in the lattice, x ∧ (y ∨ z) = (x ∧ y) ∨ (x ∧ z) and x ∨ (y ∧ z) = (x ∨ y) ∧ (x ∨ z), where ∧ denotes the glb and ∨ denotes the lub.
+- A **Boolean algebra** is a distributive complemented lattice. It is also a Boolean ring, that is, a ring with two operations (+ and ·) such that for all x, y, z in the ring, x + y = y + x, x · y = y · x, x + (y + z) = (x + y) + z, x · (y · z) = (x · y) · z, x · (y + z) = (x · y) + (x · z), x + (y · z) = (x + y) · (x + z), x + x = 0, and x · x = x. The operations + and · correspond to the symmetric difference and the intersection of sets, respectively.
+- A **Boolean function** is a function from a set of n Boolean variables to a single Boolean value. It can be represented by a truth table, a Boolean expression, or a Boolean circuit.
+- A **Boolean expression** is a combination of Boolean variables, constants (0 and 1), and operators (∧, ∨, ¬, →, ↔, ⊕, etc.). It can be simplified using Boolean algebra laws and rules, such as De Morgan's laws, absorption, idempotence, etc.
+- A **Boolean circuit** is a directed acyclic graph (DAG) with nodes labeled by Boolean variables, constants, or operators, and edges representing the flow of information. The output of the circuit is the value of the node with no outgoing edges. The size of the circuit is the number of nodes, and the depth of the circuit is the length of the longest path from an input node to the output node.

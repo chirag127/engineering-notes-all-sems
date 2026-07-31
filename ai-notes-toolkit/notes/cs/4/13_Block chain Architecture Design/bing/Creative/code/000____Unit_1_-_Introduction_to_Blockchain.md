@@ -1,0 +1,21 @@
+# Unit 1 - Introduction to Blockchain
+
+- Blockchain is a distributed ledger technology that allows multiple parties to share and verify data without relying on a central authority or intermediary.
+- Blockchain consists of a network of nodes that communicate and reach consensus on the state of the ledger, which is composed of blocks that store transactions or other data.
+- Blockchain has several features that make it suitable for various applications, such as:
+  - **Transparency**: All transactions or data on the blockchain are visible to all participants and can be verified by anyone.
+  - **Immutability**: Once a block is added to the blockchain, it cannot be altered or deleted, ensuring the integrity and reliability of the data.
+  - **Security**: Blockchain uses cryptographic techniques to protect the data from unauthorized access or tampering, and to ensure the identity and authenticity of the participants.
+  - **Decentralization**: Blockchain does not depend on a single entity or point of failure, but rather on the collective power and agreement of the network.
+  - **Incentivization**: Blockchain can provide incentives for the participants to contribute to the network, such as rewards, fees, or tokens.
+- Blockchain can be classified into different types based on the level of access and governance, such as:
+  - **Public blockchain**: Anyone can join and participate in the network, and the consensus is achieved by a majority of the nodes, such as Bitcoin or Ethereum.
+  - **Private blockchain**: Only authorized entities can join and participate in the network, and the consensus is achieved by a predefined set of nodes, such as Hyperledger Fabric or Corda.
+  - **Consortium blockchain**: A group of entities can join and participate in the network, and the consensus is achieved by a subset of nodes, such as R3 or Quorum.
+  - **Hybrid blockchain**: A combination of public and private blockchains, where some data or transactions are shared publicly, while others are kept private, such as Dragonchain or Kadena.
+- Blockchain can be used for various applications across different domains, such as:
+  - **Finance**: Blockchain can enable faster, cheaper, and more secure transactions, payments, remittances, and settlements, as well as new forms of digital assets, such as cryptocurrencies, tokens, or stablecoins.
+  - **Supply chain**: Blockchain can improve the traceability, transparency, and efficiency of the supply chain, as well as reduce fraud, waste, and errors, by providing a shared and immutable record of the provenance, movement, and condition of the goods.
+  - **Healthcare**: Blockchain can enhance the security, privacy, and interoperability of the health data, as well as facilitate the management, sharing, and verification of the medical records, prescriptions, and claims.
+  - **Identity**: Blockchain can provide a decentralized and self-sovereign identity system, where the users can control and manage their own identity and credentials, and prove their identity and attributes without relying on third parties.
+  - **Voting**: Blockchain can enable a more transparent, secure, and verifiable voting system, where the voters can cast their votes electronically, and the results can be audited and validated by anyone.

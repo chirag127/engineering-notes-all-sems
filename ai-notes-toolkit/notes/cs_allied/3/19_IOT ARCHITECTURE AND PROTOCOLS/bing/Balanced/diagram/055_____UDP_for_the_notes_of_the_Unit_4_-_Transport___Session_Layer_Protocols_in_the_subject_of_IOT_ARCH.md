@@ -1,0 +1,7 @@
+### UDP
+
+- UDP stands for User Datagram Protocol. It is a communications protocol that is primarily used to establish low-latency and loss-tolerating connections between applications on the internet .
+- UDP speeds up transmissions by enabling the transfer of data before an agreement is provided by the receiving party . This means that UDP does not form a firm connection with the destination before sending the data, and does not guarantee the delivery, order, or integrity of the data .
+- UDP is a simple message-oriented transport layer protocol that is documented in RFC 768. It has a header of 8 bytes, which contains the source port, destination port, length, and checksum fields. The payload can be up to 65,507 bytes long.
+- UDP is suitable for time-sensitive applications like gaming, streaming media, or DNS lookups, where low latency is more important than the occasional dropped data . UDP can also be used for multicast and broadcast transmissions, where one sender can reach multiple receivers.
+- UDP has some disadvantages, such as lack of reliability, congestion control, flow control, and error recovery mechanisms. UDP also does not provide any security features, such as encryption or authentication. Therefore, UDP may not be the best choice for applications that require high reliability, security, or quality of service.

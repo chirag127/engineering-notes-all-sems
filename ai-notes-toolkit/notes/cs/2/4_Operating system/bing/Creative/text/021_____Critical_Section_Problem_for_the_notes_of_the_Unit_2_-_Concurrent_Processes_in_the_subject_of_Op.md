@@ -1,0 +1,25 @@
+### Critical Section Problem for the notes of the Unit 2 - Concurrent Processes in the subject of Operating system
+
+- The critical section problem is one of the classic problems in operating systems that arises when multiple processes or threads need to access shared resources simultaneously  .
+- The shared resources may be any resource in a computer like a memory location, data structure, CPU or any IO device.
+- The critical section refers to the segment of code or the program which tries to access or modify the value of the variables in a shared resource  .
+- The section above the critical section is called the entry section. The process that is entering the critical section must pass the entry section.
+- The section below the critical section is called the exit section. The process that is leaving the critical section must pass the exit section.
+- The critical section cannot be executed by more than one process at the same time; operating system faces the difficulties in allowing and disallowing the processes to enter the critical section.
+- The problems caused by the critical section are:
+  - Race condition: A situation where the outcome of the execution depends on the order or timing of the processes accessing the shared resource.
+  - Deadlock: A situation where two or more processes are waiting for each other to release the shared resource and none of them can proceed.
+  - Starvation: A situation where a process is indefinitely delayed from entering the critical section due to the scheduling of other processes.
+- The solutions to the critical section problem must satisfy the following requirements :
+  - Mutual exclusion: Only one process can be in the critical section at a time.
+  - Progress: A process that is not in the critical section should not prevent other processes from entering the critical section.
+  - Bounded waiting: A process that is waiting to enter the critical section should get a chance to do so within a finite number of attempts.
+- Some of the algorithms or methods to solve the critical section problem are:
+  - Lock variables: A simple boolean variable that indicates whether the critical section is occupied or not.
+  - Test and set instruction: A hardware instruction that atomically reads and writes a memory location.
+  - Swap instruction: A hardware instruction that atomically exchanges the values of two memory locations.
+  - Peterson's algorithm: A software-based solution that uses two boolean flags and a turn variable to coordinate the processes.
+  - Bakery algorithm: A software-based solution that uses a numbering scheme to assign priorities to the processes.
+  - Semaphore: A synchronization primitive that uses a counter and two atomic operations (wait and signal) to control the access to the critical section.
+  - Monitor: A high-level abstraction that encapsulates the shared data and the synchronization methods in a single module.
+  - Message passing: A communication mechanism that uses send and receive operations to exchange messages between processes.

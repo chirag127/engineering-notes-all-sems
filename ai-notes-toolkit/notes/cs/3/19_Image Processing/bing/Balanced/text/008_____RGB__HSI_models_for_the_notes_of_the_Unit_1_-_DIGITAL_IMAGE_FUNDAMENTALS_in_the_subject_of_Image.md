@@ -1,0 +1,14 @@
+### RGB, HSI models for the notes of the Unit 1 - DIGITAL IMAGE FUNDAMENTALS in the subject of Image Processing
+
+- RGB and HSI are two color models used in digital image processing to represent and manipulate color images.
+- RGB stands for red, green, and blue, which are the primary colors of light. The RGB color model is additive, meaning that different colors are obtained by adding different proportions of red, green, and blue light.
+- HSI stands for hue, saturation, and intensity, which are the perceptual attributes of color. The HSI color model is based on a cylindrical coordinate system, where hue is the angle, saturation is the distance from the center, and intensity is the height.
+- The RGB color model is more suitable for hardware devices, such as monitors, scanners, and cameras, that use light sources to produce colors. The HSI color model is more suitable for human vision, image analysis, and image processing, as it separates the color information from the brightness information.
+- The RGB color model can be represented by a 3D cube, where each axis corresponds to one of the primary colors. The origin of the cube is black, and the opposite vertex is white. The other six vertices are the primary and secondary colors: red, green, blue, cyan, magenta, and yellow. Any color inside the cube can be obtained by a linear combination of the three primary colors.
+- The HSI color model can be represented by a 3D cone, where the circular base corresponds to the hue and saturation, and the vertical axis corresponds to the intensity. The hue is measured in degrees from 0 to 360, where 0 is red, 120 is green, and 240 is blue. The saturation is measured in percentage from 0 to 100, where 0 is gray, and 100 is pure color. The intensity is measured in percentage from 0 to 100, where 0 is black, and 100 is white. Any color inside the cone can be obtained by a combination of the three attributes.
+- The RGB color model and the HSI color model can be converted to each other by using mathematical formulas. For example, to convert an RGB pixel to an HSI pixel, the following steps can be followed:
+  - Calculate the intensity as the average of the red, green, and blue components: I = (R + G + B) / 3
+  - Calculate the saturation as the ratio of the difference between the maximum and minimum components to the intensity: S = 1 - (min(R, G, B) / I)
+  - Calculate the hue as the angle between the red and green components, with the blue component as the reference: H = arccos(((R - G) + (R - B)) / (2 * sqrt((R - G)^2 + (R - B) * (G - B))))
+  - If the blue component is greater than the green component, then subtract the hue from 360 degrees: H = 360 - H
+- The conversion from HSI to RGB is more complicated and involves conditional statements and trigonometric functions. The formulas can be found in the following reference.

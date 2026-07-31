@@ -1,0 +1,11 @@
+## Unit 5 - Software tools
+
+- Software tools are programs or applications that help developers or users to perform various tasks related to software development, testing, deployment, or maintenance.
+- Some examples of software tools are:
+  - Editors: These are tools that allow users to create, modify, or view text files, such as source code, documentation, or configuration files. Some examples of editors are Notepad, Vim, Emacs, Visual Studio Code, etc.
+  - Compilers: These are tools that translate source code written in a high-level programming language into executable code that can run on a specific platform. Some examples of compilers are GCC, Clang, Java, C#, etc.
+  - Debuggers: These are tools that help developers to find and fix errors or bugs in their programs. They allow users to inspect the state of the program, such as variables, memory, registers, etc., and to control the execution flow, such as setting breakpoints, stepping, etc. Some examples of debuggers are GDB, LLDB, Visual Studio, Eclipse, etc.
+  - Testing tools: These are tools that help developers or testers to verify the functionality, performance, security, or usability of their software. They can automate the execution of test cases, generate test data, measure code coverage, etc. Some examples of testing tools are JUnit, Selenium, PyTest, Postman, etc.
+  - Version control tools: These are tools that help developers to manage the changes made to their source code or other files. They allow users to track the history of revisions, compare different versions, merge conflicts, etc. Some examples of version control tools are Git, SVN, Mercurial, etc.
+  - Build tools: These are tools that help developers to automate the process of compiling, linking, packaging, or deploying their software. They can handle dependencies, configuration, optimization, etc. Some examples of build tools are Make, CMake, Maven, Gradle, etc.
+  - Documentation tools: These are tools that help developers to create, maintain, or publish documentation for their software. They can extract information from source code, generate formatted output, etc. Some examples of documentation tools are Doxygen, Sphinx, Javadoc, etc.

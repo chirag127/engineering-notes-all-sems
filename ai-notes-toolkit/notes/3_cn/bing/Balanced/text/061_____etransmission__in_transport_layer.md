@@ -1,0 +1,10 @@
+### etransmission in transport layer
+
+- The transport layer is the fourth layer in the OSI model and the third layer in the TCP/IP model. It provides end-to-end communication services for applications, such as reliable data transfer, flow control, congestion control, and error detection and correction.
+- The transport layer uses protocols such as TCP and UDP to segment the data from the application layer into smaller units called segments or datagrams, and to add headers that contain information such as source and destination port numbers, sequence numbers, and checksums.
+- The transport layer is responsible for ensuring that the data is transmitted reliably and efficiently across the network. It uses various mechanisms to achieve this, such as:
+  - Acknowledgements: The receiver sends back a message to the sender to confirm the receipt of a segment or datagram. This helps the sender to keep track of the data that has been delivered and to avoid sending duplicate data.
+  - Retransmission: The sender re-sends a segment or datagram that has not been acknowledged by the receiver within a certain time interval. This helps to recover from data loss due to network errors or congestion .
+  - Flow control: The sender adjusts the rate of data transmission according to the feedback from the receiver and the network conditions. This helps to prevent the sender from overwhelming the receiver or the network with too much data.
+  - Congestion control: The sender reduces the rate of data transmission when the network is congested, and increases it when the network is less congested. This helps to avoid or alleviate network congestion and improve the overall performance of the network.
+- The transport layer enables different applications to communicate with each other using port numbers. A port number is a 16-bit number that identifies a specific application or service on a host. The transport layer header contains the source and destination port numbers, which are used by the network layer to deliver the data to the correct application or service.

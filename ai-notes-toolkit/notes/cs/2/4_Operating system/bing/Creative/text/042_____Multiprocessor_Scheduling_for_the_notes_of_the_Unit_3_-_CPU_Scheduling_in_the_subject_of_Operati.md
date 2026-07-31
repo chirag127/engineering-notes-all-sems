@@ -1,0 +1,24 @@
+### Multiprocessor Scheduling
+
+- Multiprocessor scheduling is the process of allocating processes or threads to multiple processors in a system that has more than one processor but shares the same memory, bus, and input/output devices  .
+- The main objectives of multiprocessor scheduling are to achieve high performance, high throughput, high processor utilization, load balancing, and fairness .
+- There are two main approaches to multiprocessor scheduling: symmetric multiprocessing and asymmetric multiprocessing .
+  - Symmetric multiprocessing (SMP) is where each processor is self-scheduling and can run any process or thread in the system. All processes may be in a common ready queue, or each processor may have its own private queue for ready processes .
+    - Advantages of SMP are simplicity, scalability, and flexibility .
+    - Disadvantages of SMP are contention for shared resources, cache coherence problems, and load imbalance .
+  - Asymmetric multiprocessing (AMP) is where one processor is designated as the master processor and is responsible for scheduling the other processors, which are called slave processors. The master processor can also run user processes or threads, or it can be dedicated to scheduling only .
+    - Advantages of AMP are reduced contention for shared resources, improved cache coherence, and better load balancing .
+    - Disadvantages of AMP are complexity, lack of scalability, and dependency on the master processor .
+- There are several types of multiprocessor scheduling algorithms, such as partitioned scheduling, global scheduling, clustered scheduling, and gang scheduling  .
+  - Partitioned scheduling is where each process or thread is assigned to a specific processor and cannot migrate to another processor. The assignment can be done statically or dynamically  .
+    - Advantages of partitioned scheduling are simplicity, locality, and predictability  .
+    - Disadvantages of partitioned scheduling are fragmentation, load imbalance, and difficulty of finding an optimal assignment  .
+  - Global scheduling is where each process or thread can run on any processor and can migrate from one processor to another. The migration can be done based on various criteria, such as load, priority, affinity, or fairness  .
+    - Advantages of global scheduling are flexibility, load balancing, and adaptability  .
+    - Disadvantages of global scheduling are overhead, contention, and cache invalidation  .
+  - Clustered scheduling is where the processors are grouped into clusters, and each cluster has its own local scheduler. The processes or threads can migrate within a cluster, but not across clusters. The migration can be done based on the same criteria as global scheduling  .
+    - Advantages of clustered scheduling are reduced overhead, improved locality, and balanced load  .
+    - Disadvantages of clustered scheduling are increased complexity, inter-cluster communication, and suboptimal performance  .
+  - Gang scheduling is where a set of related processes or threads, called a gang, are scheduled together on a set of processors, called a slot. The gang and the slot have the same size and are allocated and deallocated as a unit. The scheduling can be done based on various criteria, such as synchronization, communication, or performance  .
+    - Advantages of gang scheduling are coordination, efficiency, and responsiveness  .
+    - Disadvantages of gang scheduling are fragmentation, overhead, and difficulty of finding an optimal gang and slot  .

@@ -1,0 +1,26 @@
+### Control blocks for the notes of the Unit 3 - REAL TIME KERNEL BASICS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Control blocks are data structures that store information about various components of a real time kernel, such as tasks, timers, messages, interrupts, etc.
+- Control blocks are usually created and maintained by the kernel to manage the execution and communication of the real time tasks and other kernel services.
+- Control blocks are typically stored in a protected memory area that is inaccessible to the normal user tasks, to prevent corruption or manipulation of the kernel data.
+- One of the most important control blocks in a real time kernel is the task control block (TCB), which contains information about each task in the system, such as:
+  - Task ID: a unique identifier for the task
+  - Task priority: a numerical value that determines the order of execution of the tasks
+  - Task state: a flag that indicates whether the task is idle, running, ready, blocked, or terminated
+  - Task stack: a memory area that stores the local variables and return addresses of the task
+  - Task context: a set of registers that store the current values of the program counter, stack pointer, and other registers of the task
+  - Task attributes: a set of parameters that define the behavior and properties of the task, such as deadline, period, execution time, etc.
+- The TCB is created by the kernel when a task is created, and is updated by the kernel when the task changes its state, priority, or attributes. The TCB is also used by the kernel to perform context switching, which is the process of saving the current state of the running task and restoring the state of the next task to be executed .
+- Another important control block in a real time kernel is the timer control block (TCB), which contains information about the timers in the system, such as:
+  - Timer ID: a unique identifier for the timer
+  - Timer type: a flag that indicates whether the timer is periodic or one-shot
+  - Timer value: a numerical value that represents the remaining time or the expiration time of the timer
+  - Timer callback: a pointer to a function that is executed when the timer expires
+  - Timer attributes: a set of parameters that define the behavior and properties of the timer, such as priority, mode, etc.
+- The TCB is created by the kernel when a timer is created, and is updated by the kernel when the timer is started, stopped, or reset. The TCB is also used by the kernel to perform timer management, which is the process of keeping track of the active timers and executing the corresponding callbacks when the timers expire.
+- Other types of control blocks that may be used by a real time kernel are:
+  - Message control block (MCB), which contains information about the messages that are sent and received by the tasks, such as message ID, message type, message size, message data, message queue, etc.
+  - Interrupt control block (ICB), which contains information about the interrupts that are handled by the kernel, such as interrupt number, interrupt handler, interrupt priority, interrupt mask, etc.
+  - Semaphore control block (SCB), which contains information about the semaphores that are used for synchronization and mutual exclusion, such as semaphore ID, semaphore value, semaphore type, semaphore queue, etc.
+  - Mutex control block (MCB), which contains information about the mutexes that are used for mutual exclusion, such as mutex ID, mutex owner, mutex priority, mutex queue, etc.
+  - Event control block (ECB), which contains information about the events that are used for signaling and synchronization, such as event ID, event mask, event type, event queue, etc.

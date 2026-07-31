@@ -1,0 +1,27 @@
+## Hours
+
+- An hour is a unit of time that is equal to 60 minutes or 3600 seconds.
+- The symbol for hour is h or hr.
+- Hours are commonly used to measure the duration of events, activities, or processes.
+- Hours are also used to divide the day into 24 equal parts, called the 24-hour clock or military time.
+- The 24-hour clock starts at 00:00, which is midnight, and ends at 23:59, which is one minute before the next midnight.
+- The 24-hour clock is widely used in many countries and domains, such as the military, aviation, astronomy, computing, and medicine.
+- Another way to divide the day is by using the 12-hour clock or civilian time.
+- The 12-hour clock splits the day into two periods, called AM (ante meridiem) and PM (post meridiem), which mean before noon and after noon respectively.
+- The 12-hour clock starts at 12:00 AM, which is midnight, and ends at 11:59 PM, which is one minute before the next midnight.
+- The 12-hour clock is more common in informal settings and some countries, such as the United States, Canada, and Australia.
+- To convert between the 24-hour clock and the 12-hour clock, one can use the following rules:
+  - If the hour is between 0 and 12, then the 24-hour clock and the 12-hour clock are the same, except that 0 is written as 12 AM in the 12-hour clock.
+  - If the hour is between 13 and 23, then the 24-hour clock is the same as the 12-hour clock plus 12, and the 12-hour clock is the same as the 24-hour clock minus 12, with the PM suffix added.
+  - For example, 15:00 in the 24-hour clock is the same as 3:00 PM in the 12-hour clock, and vice versa.
+- Hours can also be used to measure the time difference between two locations, called the time zone.
+- A time zone is a region that follows a uniform standard time, usually based on the longitude of the region.
+- The reference point for time zones is the Coordinated Universal Time (UTC), which is the primary time standard for the world.
+- UTC is based on the atomic clock, which is the most accurate way to measure time.
+- UTC is also the same as Greenwich Mean Time (GMT), which is the mean solar time at the Royal Observatory in Greenwich, London.
+- Time zones are usually expressed as UTC plus or minus a certain number of hours, depending on how far the region is from the prime meridian, which is the zero-degree longitude line that passes through Greenwich.
+- For example, the time zone of New York is UTC-5, which means that New York is 5 hours behind UTC, and the time zone of Tokyo is UTC+9, which means that Tokyo is 9 hours ahead of UTC.
+- Some time zones also have daylight saving time (DST), which is the practice of advancing the clock by one hour during the summer months, to make better use of the daylight.
+- DST is not observed by all countries or regions, and the start and end dates of DST may vary by location.
+- To avoid confusion, some time zones use a specific name or abbreviation to indicate whether they are observing DST or not.
+- For example, the time zone of New York is called Eastern Standard Time (EST) when it is not observing DST, and Eastern Daylight Time (EDT) when it is observing DST.

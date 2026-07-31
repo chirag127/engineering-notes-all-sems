@@ -1,0 +1,21 @@
+### History of ML
+
+Machine learning (ML) is a branch of artificial intelligence (AI) that deals with the creation and study of systems that can learn from data and improve their performance without explicit programming. ML has its roots in the mathematical modeling of neural networks, pattern recognition, statistics, optimization, and computational learning theory. Here are some of the key milestones in the history of ML:
+
+- In 1943, Walter Pitts and Warren McCulloch published a paper that attempted to mathematically map out thought processes and decision making in human cognition, based on ideas about the work of the human nervous system.
+- In 1950, Alan Turing proposed a test to measure the intelligence of a machine, based on its ability to imitate human conversation.
+- In 1952, Arthur Samuel of IBM developed a computer program for playing checkers that could learn from its own experience and improve its performance over time. He coined the term "machine learning" in 1959 .
+- In 1957, Frank Rosenblatt of Cornell University created the perceptron, a simple model of a neuron that could learn to classify patterns using a learning rule inspired by Donald Hebb's theory of synaptic plasticity .
+- In 1967, Peter Hart, Nils Nilsson, and Bertram Raphael introduced the nearest neighbor algorithm, a simple but effective method for classification and regression based on the similarity of data points.
+- In 1974, John Holland proposed the genetic algorithm, a method for optimization and search based on the principles of natural selection and genetic recombination.
+- In 1979, David Rumelhart, James McClelland, and Geoffrey Hinton developed the backpropagation algorithm, a method for training multilayer neural networks by adjusting the weights of the connections according to the error gradient.
+- In 1986, Leo Breiman, Jerome Friedman, Richard Olshen, and Charles Stone introduced the classification and regression tree (CART) algorithm, a method for constructing decision trees from data using recursive partitioning and pruning techniques.
+- In 1992, Vladimir Vapnik and Alexey Chervonenkis proposed the support vector machine (SVM) algorithm, a method for classification and regression based on the idea of finding the optimal hyperplane that separates the data into different classes.
+- In 1995, Ross Quinlan developed the C4.5 algorithm, an improved version of the ID3 algorithm for inducing decision trees from data using information gain and entropy measures.
+- In 1997, Tom Mitchell published the book "Machine Learning", which provided a comprehensive and accessible introduction to the field and its applications.
+- In 2001, Ian Goodfellow, Yoshua Bengio, and Aaron Courville published the book "Deep Learning", which presented a comprehensive and up-to-date overview of the theory and practice of deep neural networks and their applications.
+- In 2006, Geoffrey Hinton, Simon Osindero, and Yee-Whye Teh introduced the concept of deep belief networks, a type of generative model that can learn multiple layers of features from data using a greedy layer-wise training algorithm.
+- In 2009, Fei-Fei Li, Jia Deng, and Kai Li created ImageNet, a large-scale database of annotated images that became a benchmark for image recognition and classification tasks.
+- In 2012, Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) using a deep convolutional neural network (CNN) that achieved a significant improvement over the previous state-of-the-art methods.
+- In 2014, Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio introduced the generative adversarial network (GAN) algorithm, a method for generating realistic images from random noise using a game-theoretic framework.
+- In 2015, Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio proposed the attention mechanism, a method for improving the performance of recurrent neural networks (RNNs) for sequence-to-sequence tasks such as machine translation and speech recognition by allowing the model to focus on different parts of

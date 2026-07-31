@@ -1,0 +1,8 @@
+# Unit 1 - INTRODUCTION
+## Arm Devices
+
+- Arm is the world’s leading semiconductor IP company. They develop and license IP that is at the heart of billions of devices worldwide, and provide development tools that accelerate product development, from sensors to smartphones to servers.
+- Arm graphics and camera technology drives the ultimate visual experience across a wide range of devices, including mass-market to high-performance smartphones, Android OS-based tablets, and digital televisions (DTV).
+- An Arm-based device may be designed to incorporate the processor, perhaps even making adaptations to its architecture and functionality. For that reason, rather than a "central processing unit" (CPU), an Arm processor is instead called a system-on-a-chip (SoC).
+- Due to their low costs, minimal power consumption, and lower heat generation than their competitors, ARM processors are desirable for light, portable, battery-powered devices, including smartphones, laptops and tablet computers, and other embedded systems.
+- ARM (stylised in lowercase as arm, formerly an acronym for Advanced RISC Machines and originally Acorn RISC Machine) is a family of reduced instruction set computer (RISC) instruction set architectures for computer processors, configured for various environments.

@@ -1,0 +1,11 @@
+### Second order linear differential equations with variable coefficients
+
+- A second order linear differential equation is an equation of the form `a2(x)y'' + a1(x)y' + a0(x)y = r(x)`, where `a2(x)`, `a1(x)`, `a0(x)`, and `r(x)` are real-valued functions and `a2(x)` is not identically zero.
+- A second order linear differential equation is called homogeneous if `r(x) = 0` for every value of `x`, and nonhomogeneous otherwise.
+- A second order linear differential equation is called with variable coefficients if `a2(x)`, `a1(x)`, and `a0(x)` are not constant functions, and with constant coefficients otherwise.
+- The general solution of a second order linear differential equation with variable coefficients is given by `y = c1y1 + c2y2 + yp`, where `c1` and `c2` are arbitrary constants, `y1` and `y2` are linearly independent solutions of the corresponding homogeneous equation, and `yp` is a particular solution of the nonhomogeneous equation.
+- The method of finding the general solution depends on the form and complexity of the coefficients and the nonhomogeneous term. Some common methods are:
+  - The method of reduction of order, which reduces a second order equation to a first order equation by assuming a solution of the form `y = v(x)y1`, where `y1` is a known solution of the homogeneous equation.
+  - The method of variation of parameters, which assumes a solution of the form `y = v1(x)y1 + v2(x)y2`, where `y1` and `y2` are known solutions of the homogeneous equation, and `v1(x)` and `v2(x)` are unknown functions to be determined by substituting into the original equation.
+  - The method of power series, which assumes a solution of the form `y = sum_{n=0}^infty a_n x^n`, where `a_n` are unknown coefficients to be determined by substituting into the original equation and equating the coefficients of the same powers of `x`.
+  - The method of Frobenius, which is a generalization of the method of power series that allows for solutions of the form `y = x^r sum_{n=0}^infty a_n x^n`, where `r` is a constant and `a_n` are unknown coefficients to be determined by substituting into the original equation and applying the indicial equation.

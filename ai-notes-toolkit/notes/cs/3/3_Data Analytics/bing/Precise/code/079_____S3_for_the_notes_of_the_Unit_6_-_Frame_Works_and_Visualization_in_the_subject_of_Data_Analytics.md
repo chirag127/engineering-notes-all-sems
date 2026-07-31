@@ -1,0 +1,7 @@
+### S3 for the notes of the Unit 6 - Frame Works and Visualization in the subject of Data Analytics
+
+1. **Amazon S3** is a storage platform that provides an optimal foundation for a data lake because of its virtually unlimited scalability, from gigabytes to petabytes of content. It provides ‘11 nines’ (99.999999999%) durability.
+2. **Data Analysis** is the process of discovering useful information, informing conclusion, and supporting decision-making. It involves ingesting, transforming, and enriching raw, semi-structured data, in multiple formats, using Amazon S3, AWS Glue, Amazon Athena, and AWS Lambda.
+3. **Data Visualization** is a crucial tool for everyone who works with data. It helps to empower audiences with actionable information by breaking down data into an easily digestible visual format.
+4. **Amazon Athena** integrates with the AWS Glue Data Catalog, a metadata store for data in Amazon S3, which includes information such as the table schema. It can be used to visualize Amazon S3 data using Amazon Managed Grafana.
+5. **Amazon QuickSight** is a fast, cloud-powered BI service that enables you to create visualizations, perform analysis as needed, and quickly get business insights from your data. It offers native integration with AWS data sources such as Amazon Redshift, Amazon S3, and Amazon RDS.

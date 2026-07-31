@@ -1,0 +1,12 @@
+### Clients for the notes of the Unit 5 - Overview of Cloud Computing in the subject of High Performance Computing
+
+- A cloud client is a hardware device or software used to access a cloud service .
+- A cloud service is a type of computing service that is delivered over the internet and provides scalable and on-demand resources such as computing cycles, data storage, applications, and platforms .
+- A cloud client can be classified into three types based on the level of functionality and dependency on the cloud service:
+  - Thick client: A thick client is a device or software that has its own operating system, applications, and data, and can function independently of the cloud service. It can also use the cloud service for additional features or backup. Examples of thick clients are personal computers, laptops, and smartphones.
+  - Thin client: A thin client is a device or software that has minimal functionality and relies heavily on the cloud service for its operation. It usually has a basic operating system, a web browser, and a network connection. Examples of thin clients are Chromebooks, tablets, and smart TVs.
+  - Zero client: A zero client is a device or software that has no functionality and is entirely dependent on the cloud service for its operation. It usually has no operating system, no local storage, and no user interface. It only acts as a display and input device for the cloud service. Examples of zero clients are monitors, keyboards, and mice.
+- A cloud client can also be categorized based on the type of cloud service it accesses:
+  - Software as a Service (SaaS) client: A SaaS client is a device or software that accesses a cloud service that provides ready-to-use applications over the internet. Examples of SaaS clients are web browsers, email clients, and online office suites.
+  - Platform as a Service (PaaS) client: A PaaS client is a device or software that accesses a cloud service that provides a platform for developing, testing, and deploying applications over the internet. Examples of PaaS clients are integrated development environments, code editors, and testing tools.
+  - Infrastructure as a Service (IaaS) client: An IaaS client is a device or software that accesses a cloud service that provides computing resources such as servers, storage, and networks over the internet. Examples of IaaS clients are virtual machines, storage clients, and network clients.

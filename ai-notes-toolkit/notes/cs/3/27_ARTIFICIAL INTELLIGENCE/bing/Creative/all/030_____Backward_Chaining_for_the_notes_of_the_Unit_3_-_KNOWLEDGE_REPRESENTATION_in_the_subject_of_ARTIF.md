@@ -1,0 +1,27 @@
+# Backward Chaining
+
+- Backward chaining is a concept in artificial intelligence that involves backtracking from the endpoint or goal to steps that led to the endpoint.
+- It is a goal-driven inference method that starts from the goal and moves backward to comprehend the steps that were taken to attain this goal.
+- It is used in automated theorem provers, inference engines, proof assistants, and other artificial intelligence applications.
+- It is based on the modus ponens inference rule, which states that if P implies Q and P is true, then Q is true.
+- It is one of the two most commonly used methods of reasoning with inference rules and logical implications – the other is forward chaining.
+- The main steps of backward chaining are:
+  - Identify the goal or conclusion that needs to be proved.
+  - Find a rule that has the goal as its consequent (the part after the implication symbol).
+  - For each antecedent (the part before the implication symbol) of the rule, check if it is already known to be true, or if it can be proved by another rule.
+  - If all the antecedents are true, then the goal is true and the proof is complete.
+  - If any of the antecedents cannot be proved, then the goal cannot be proved and the proof fails.
+- An example of backward chaining is:
+  - Goal: John is a criminal.
+  - Rule 1: If someone is a tax evader, then they are a criminal.
+  - Rule 2: If someone earns more than $100,000 and does not pay taxes, then they are a tax evader.
+  - Rule 3: John earns more than $100,000.
+  - Rule 4: John does not pay taxes.
+  - Backward chaining process:
+    - To prove John is a criminal, we need to find a rule that has criminal as its consequent. Rule 1 matches this criterion.
+    - To use Rule 1, we need to prove John is a tax evader. We need to find a rule that has tax evader as its consequent. Rule 2 matches this criterion.
+    - To use Rule 2, we need to prove John earns more than $100,000 and does not pay taxes. We need to find rules that have these as their consequents. Rule 3 and Rule 4 match these criteria.
+    - Rule 3 and Rule 4 are facts that are already known to be true, so we do not need to prove them further.
+    - Since we have proved all the antecedents of Rule 2, we can conclude that John is a tax evader.
+    - Since we have proved the antecedent of Rule 1, we can conclude that John is a criminal.
+    - The proof is complete and the goal is achieved.

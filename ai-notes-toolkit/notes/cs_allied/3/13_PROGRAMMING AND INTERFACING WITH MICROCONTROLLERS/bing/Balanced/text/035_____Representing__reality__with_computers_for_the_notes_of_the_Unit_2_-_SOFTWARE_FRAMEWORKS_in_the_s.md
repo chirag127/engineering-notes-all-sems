@@ -1,0 +1,13 @@
+### Representing “reality” with computers
+
+- Computers are devices that process information using binary digits (bits), which can only have two values: 0 or 1.
+- To represent reality with computers, we need to encode different types of data (such as numbers, text, images, sound, etc.) into sequences of bits that can be stored, transmitted, and manipulated by computers.
+- Some common methods of encoding data are:
+  - Binary numbers: using powers of 2 to represent decimal numbers. For example, 13 can be written as 1101 in binary, which means 1 * 2^3 + 1 * 2^2 + 0 * 2^1 + 1 * 2^0.
+  - Hexadecimal numbers: using 16 symbols (0-9 and A-F) to represent groups of 4 bits. For example, 1101 in binary can be written as D in hexadecimal, which is easier to read and write.
+  - ASCII: using 7 bits to represent 128 characters, such as letters, digits, punctuation, and control codes. For example, A can be written as 01000001 in binary or 41 in hexadecimal.
+  - Unicode: using more bits to represent more characters from different languages and scripts. For example, the Chinese character 中 can be written as 01001110 00101101 in binary or 4E2D in hexadecimal.
+  - Bitmap images: using bits to represent the color and brightness of each pixel in a grid. For example, a black and white image of 4 pixels can be written as 0001 0010 0100 1000 in binary or 1248 in hexadecimal, where each bit corresponds to a pixel (0 for black, 1 for white).
+  - JPEG images: using a compression algorithm to reduce the number of bits needed to represent an image, by discarding some information that is not noticeable to the human eye. For example, a JPEG image of 4 pixels can be written as 1110 0001 0010 0000 in binary or E120 in hexadecimal, which is smaller than the bitmap image but may lose some quality.
+  - MP3 sound: using a compression algorithm to reduce the number of bits needed to represent a sound wave, by discarding some frequencies that are not audible to the human ear. For example, a MP3 sound of 4 samples can be written as 1100 0101 0011 0000 in binary or C530 in hexadecimal, which is smaller than the original sound wave but may lose some fidelity.
+  - MIDI sound: using bits to represent the instructions for synthesizing a sound, such as the pitch, duration, and instrument of each note. For example, a MIDI sound of 4 notes can be written as 1001 0000 0100 0100 1001 0000 0100 0100 1001 0000 0100 0100 1001 0000 0100 0100 in binary or 9044904490449044 in hexadecimal, which is smaller than the MP3 sound but may sound artificial.

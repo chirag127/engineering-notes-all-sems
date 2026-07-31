@@ -1,0 +1,9 @@
+#### c) Get the status of a bulb at a remote place (on the LAN) through web.
+
+To get the status of a bulb at a remote place (on the LAN) through web, the following steps are required:
+
+- The bulb should be connected to a microcontroller that can communicate with the LAN using a wired or wireless interface. The microcontroller should also have a web server that can handle HTTP requests and responses.
+- The microcontroller should be able to read the state of the bulb (on or off) using a digital input pin or a sensor, and store it in a variable or a memory location.
+- The web server should be able to serve a web page that displays the status of the bulb, and also accept requests to change the status of the bulb. The web page should use HTML, CSS, and JavaScript to create a user interface and interact with the web server.
+- The user should be able to access the web page using a web browser on a device that is connected to the same LAN as the microcontroller. The user should enter the IP address or the hostname of the microcontroller in the web browser's address bar, and then see the web page with the status of the bulb.
+- The user should be able to click on a button or a link on the web page to toggle the status of the bulb. The web page should send an HTTP request to the web server with the desired status of the bulb, and then update the web page with the new status of the bulb. The web server should receive the HTTP request, and then change the state of the bulb using a digital output pin or a relay. The web server should also send an HTTP response to the web page with the updated status of the bulb.

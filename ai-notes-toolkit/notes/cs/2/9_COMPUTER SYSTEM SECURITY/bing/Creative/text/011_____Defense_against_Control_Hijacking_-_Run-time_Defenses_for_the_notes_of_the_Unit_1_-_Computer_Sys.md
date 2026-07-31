@@ -1,0 +1,17 @@
+### Defense against Control Hijacking - Run-time Defenses
+
+Control hijacking is a type of attack that exploits a vulnerability in a program to alter its execution flow and execute malicious code. Control hijacking can be performed by overwriting code pointers, such as return addresses, function pointers, or exception handlers, with the address of the attacker's payload. The payload can be injected into the program's memory, or stored in an existing memory region, such as the stack, the heap, or the data segment.
+
+To defend against control hijacking, several run-time defenses have been proposed, such as:
+
+- **Stack canaries**: A stack canary is a random value that is placed on the stack before the return address. The canary is checked before returning from a function, and if it is corrupted, the program aborts. This can prevent overwriting the return address with a buffer overflow. However, stack canaries can be bypassed by brute-forcing the canary value, or by finding another code pointer to overwrite.
+
+- **Non-executable memory**: Non-executable memory is a memory protection mechanism that prevents the execution of code stored in certain memory regions, such as the stack or the heap. This can prevent the execution of injected code by the attacker. However, non-executable memory can be bypassed by using existing code in the program, such as library functions or gadgets, to execute the payload. This technique is known as return-oriented programming (ROP).
+
+- **Address space layout randomization (ASLR)**: ASLR is a technique that randomizes the base address of the program's code, data, stack, and heap segments at each execution. This can make it harder for the attacker to predict the address of the payload or the existing code. However, ASLR can be bypassed by leaking the address of a memory region, or by using a memory disclosure vulnerability.
+
+- **Code pointer integrity (CPI)**: CPI is a technique that ensures that only valid code pointers can be used to transfer control. CPI separates code pointers from other data, and stores them in a protected memory region, called the safe region. CPI also checks the validity of code pointers before using them, and aborts the program if an invalid pointer is detected. CPI can prevent arbitrary control hijacking, but it may incur a high performance overhead.
+
+- **Control flow integrity (CFI)**: CFI is a technique that ensures that the control flow of the program follows a predefined control flow graph (CFG). CFI instruments the program with checks that verify the target of each control transfer instruction, such as a call, a return, or a jump. CFI can prevent control hijacking that deviates from the CFG, but it may not prevent attacks that follow a valid path in the CFG. CFI also requires a precise and sound CFG, which may be hard to obtain for complex programs.
+
+These are some of the run-time defenses against control hijacking. They have different strengths and weaknesses, and they can be combined to achieve a higher level of security. However, none of them can provide complete protection against all types of control hijacking attacks, and they may have limitations in terms of compatibility, usability, or efficiency. Therefore, it is important to understand the trade-offs and challenges of each defense, and to apply them appropriately according to the threat model and the security requirements of the program.

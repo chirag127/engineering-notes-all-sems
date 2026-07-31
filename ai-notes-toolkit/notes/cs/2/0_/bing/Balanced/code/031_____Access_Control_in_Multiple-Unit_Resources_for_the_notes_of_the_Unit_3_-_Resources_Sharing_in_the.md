@@ -1,0 +1,11 @@
+### Access Control in Multiple-Unit Resources
+
+- Multiple-unit resources are resources that have more than one unit of the same type, such as printers, disks, or CPUs.
+- Access control in multiple-unit resources is the problem of ensuring that jobs that request a unit of a resource are granted one in a timely and fair manner, without causing deadlocks or priority inversions.
+- Access control in multiple-unit resources can be classified into two categories: static and dynamic.
+  - Static access control assigns a fixed number of units of a resource to each job or task, based on its worst-case resource demand. Static access control is simple and predictable, but may waste resources or fail to meet the demand of some jobs.
+  - Dynamic access control allows jobs to request and release units of a resource at run-time, based on their actual resource demand. Dynamic access control is more flexible and efficient, but may introduce complexity and unpredictability in the system.
+- Some of the protocols for dynamic access control in multiple-unit resources are:
+  - The Priority Inheritance Protocol (PIP): This protocol allows a job that is blocked by a lower-priority job that holds a unit of a resource to inherit the priority of the blocked job, until it releases the resource. This protocol prevents priority inversion, but may cause deadlock or chain blocking.
+  - The Priority Ceiling Protocol (PCP): This protocol assigns a priority ceiling to each resource, which is the highest priority of any job that may request that resource. A job can lock a resource only if its priority is higher than the priority ceiling of all the resources currently locked by other jobs. This protocol prevents deadlock and bounds the blocking time of each job, but may cause unnecessary blocking or resource underutilization.
+  - The Stack Resource Policy (SRP): This protocol maintains a stack of the jobs that have locked or requested a resource, ordered by their original priority. A job can lock a resource only if its original priority is higher than the original priority of the job at the top of the stack. This protocol prevents deadlock and bounds the blocking time of each job, and also allows resource nesting and preemption.

@@ -1,0 +1,21 @@
+# Cursors
+
+- A cursor is a pointer to a context area that contains information about the execution of a SQL statement  .
+- A cursor can hold one or more rows returned by a SQL statement.
+- The set of rows that a cursor holds is called the active set.
+- PL/SQL has two types of cursors: implicit cursors and explicit cursors.
+- Implicit cursors are automatically created by Oracle whenever a SQL statement is executed .
+- Implicit cursors are also called SQL cursors, and can be accessed by the SQL% attributes, such as SQL%ROWCOUNT, SQL%FOUND, SQL%NOTFOUND, and SQL%ISOPEN.
+- Explicit cursors are user-defined cursors that are declared and controlled by the programmer .
+- Explicit cursors are used to fetch multiple rows from a SQL statement .
+- Explicit cursors are declared using the CURSOR keyword, and can have parameters and return types .
+- Explicit cursors are opened using the OPEN statement, which allocates the context area and identifies the active set .
+- Explicit cursors are fetched using the FETCH statement, which retrieves the next row from the active set and assigns it to the variables or record .
+- Explicit cursors are closed using the CLOSE statement, which frees the context area and releases the resources .
+- Explicit cursors can also have attributes, such as %ROWCOUNT, %FOUND, %NOTFOUND, and %ISOPEN, which provide information about the state of the cursor .
+- Explicit cursors can be used with cursor FOR loops, which simplify the process of opening, fetching, and closing the cursor .
+- PL/SQL also supports dynamic queries, which are SQL statements that are constructed at run time using variables or parameters.
+- Dynamic queries are executed using the EXECUTE IMMEDIATE statement, which parses, binds, and executes the SQL statement.
+- Dynamic queries can also use bind variables and return values, which are specified using the USING and INTO clauses of the EXECUTE IMMEDIATE statement.
+- Dynamic queries can also use dynamic cursors, which are declared using the REF CURSOR type, and can be opened and fetched using the OPEN FOR and FETCH statements.
+- Dynamic cursors can be passed as parameters to subprograms, and can be used with cursor FOR loops.

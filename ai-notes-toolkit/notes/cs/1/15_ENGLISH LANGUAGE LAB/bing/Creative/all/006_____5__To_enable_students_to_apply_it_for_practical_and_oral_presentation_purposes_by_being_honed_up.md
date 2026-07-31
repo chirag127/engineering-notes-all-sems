@@ -1,0 +1,22 @@
+# 5. To enable students to apply it for practical and oral presentation purposes by being honed up in presentation skills and voice-dynamics.
+
+- This is a learning objective for a course on communication skills.
+- The objective aims to help students use their communication skills effectively in real-life situations, such as giving presentations, speeches, or interviews.
+- To achieve this objective, students need to develop their presentation skills and voice-dynamics, which are essential components of oral communication.
+- Presentation skills refer to the ability to plan, prepare, and deliver a clear, engaging, and persuasive message to an audience, using appropriate language, structure, visual aids, and body language.
+- Voice-dynamics refer to the ability to use one's voice effectively to convey meaning, emotion, and interest, by varying the pitch, tone, volume, speed, and pauses of one's speech.
+- Some of the benefits of honing up one's presentation skills and voice-dynamics are:
+  - It can boost one's confidence and self-esteem, as well as reduce anxiety and nervousness.
+  - It can enhance one's credibility and professionalism, as well as create a positive impression on the audience.
+  - It can improve one's communication and interpersonal skills, as well as foster rapport and trust with the audience.
+  - It can increase one's chances of achieving one's goals, such as persuading, informing, educating, or entertaining the audience.
+- Some of the strategies to hone up one's presentation skills and voice-dynamics are:
+  - Analyze the purpose, audience, and context of the presentation, and tailor the message accordingly.
+  - Research the topic thoroughly, and select the most relevant and credible information to support the message.
+  - Organize the information logically, and use a clear introduction, body, and conclusion, as well as transitions and signposts to guide the audience.
+  - Choose appropriate visual aids, such as slides, charts, graphs, images, or videos, to enhance the message and capture the audience's attention.
+  - Practice the presentation several times, and seek feedback from others to improve the content, delivery, and timing.
+  - Use a confident and friendly tone, and avoid using filler words, such as "um", "uh", or "like".
+  - Vary the pitch, tone, volume, speed, and pauses of one's speech, to emphasize key points, express emotions, and create interest and suspense.
+  - Use eye contact, facial expressions, gestures, and posture to reinforce the message and connect with the audience.
+  - Anticipate and address possible questions, objections, or feedback from the audience, and handle them politely and professionally.

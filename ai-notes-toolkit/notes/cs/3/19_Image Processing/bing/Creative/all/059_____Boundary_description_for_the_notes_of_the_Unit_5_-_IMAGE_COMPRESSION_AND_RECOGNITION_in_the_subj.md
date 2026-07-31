@@ -1,0 +1,10 @@
+# Boundary description for the notes of the Unit 5 - IMAGE COMPRESSION AND RECOGNITION in the subject of Image Processing
+
+- Image compression is the process of reducing the amount of data required to represent an image, while preserving the quality and information content as much as possible.
+- Image recognition is the process of identifying and classifying objects, faces, scenes, or activities in an image, using various techniques such as feature extraction, machine learning, or deep learning.
+- The notes of the Unit 5 - IMAGE COMPRESSION AND RECOGNITION cover the following topics:
+
+  - Fundamentals of image compression: need, types, and measures of image compression; lossless and lossy compression; entropy coding; run-length coding; Huffman coding; arithmetic coding; Lempel-Ziv-Welch (LZW) coding; predictive coding; differential pulse code modulation (DPCM); delta modulation (DM).
+  - Transform-based image compression: discrete cosine transform (DCT); discrete wavelet transform (DWT); JPEG standard; JPEG2000 standard; fractal compression.
+  - Image recognition techniques: feature extraction; edge detection; corner detection; blob detection; histogram of oriented gradients (HOG); scale-invariant feature transform (SIFT); speeded up robust features (SURF); local binary patterns (LBP); template matching; principal component analysis (PCA); linear discriminant analysis (LDA); support vector machines (SVM); artificial neural networks (ANN); convolutional neural networks (CNN); deep learning frameworks.
+  - Image recognition applications: face detection and recognition; optical character recognition (OCR); scene classification; object detection and recognition; activity recognition; image captioning; image retrieval; image segmentation; image synthesis; image super-resolution; image inpainting; image enhancement; image style transfer.

@@ -1,0 +1,30 @@
+### Using FTP Client
+
+- FTP stands for File Transfer Protocol, which is a standard network protocol for transferring files between a client and a server over the Internet.
+- FTP client is a software application that allows the user to upload, download, delete, rename, or move files and directories on a remote server using FTP commands.
+- FTP client can be used for web hosting purposes, such as uploading web pages, images, scripts, or other files to a web server, or downloading them for backup or editing.
+- Some examples of FTP clients are FileZilla, WinSCP, Cyberduck, and CuteFTP.
+- To use FTP client, the user needs to have the following information:
+  - The hostname or IP address of the FTP server
+  - The username and password for accessing the FTP server
+  - The port number for the FTP connection (usually 21)
+  - The mode of transfer (binary or ASCII)
+  - The directory or path where the files are located on the server or the client
+- The steps for using FTP client are as follows:
+  - Launch the FTP client and enter the connection details (hostname, username, password, port, etc.)
+  - Establish the connection with the FTP server and navigate to the desired directory or path on the server or the client
+  - Select the files or directories that need to be transferred and drag and drop them to the other side or use the upload or download buttons
+  - Monitor the progress of the transfer and check for any errors or warnings
+  - Disconnect from the FTP server when the transfer is complete
+- Some advantages of using FTP client are:
+  - It is fast and reliable for transferring large or multiple files over the Internet
+  - It supports resume and pause functions for interrupted transfers
+  - It allows the user to manage the files and directories on the server easily and securely
+  - It supports various encryption and authentication methods for enhanced security
+  - It can be integrated with other web development tools or applications
+- Some disadvantages of using FTP client are:
+  - It requires the user to have the FTP server credentials and permissions
+  - It can be vulnerable to cyberattacks or data breaches if the connection is not encrypted or protected
+  - It can consume a lot of bandwidth and resources for transferring files
+  - It can be affected by network latency or congestion
+  - It can be incompatible with some file formats or systems

@@ -1,0 +1,21 @@
+### Desktop Grids
+
+- Desktop grids are a type of distributed computing environment that make use of desktop computers connected via the Internet.
+- Desktop grids are not used only for voluntary computing projects, but also for enterprise grids, where the desktop computers belong to an organization and are used for its internal or external purposes.
+- Desktop grids can provide a large amount of computing power and storage capacity by harnessing the idle resources of desktop computers, which are often underutilized.
+- Desktop grids can be classified into two categories: public desktop grids and private desktop grids.
+  - Public desktop grids are open to anyone who wants to join and contribute their computing resources to a common project, such as scientific research or social causes. Examples of public desktop grids are BOINC, SETI@home, Folding@home, etc.
+  - Private desktop grids are restricted to a specific group of users or organizations, such as a company, a university, or a government agency. Examples of private desktop grids are Condor, XtremWeb, Entropia, etc.
+- Desktop grids can also be categorized based on the level of control and trust between the participants: centralized desktop grids and decentralized desktop grids.
+  - Centralized desktop grids have a single authority that manages the distribution and execution of tasks, the collection and validation of results, and the allocation of rewards or incentives. The authority can be a server, a cluster, or a cloud. Centralized desktop grids require a high level of trust from the users, who have to accept the authority's policies and decisions.
+  - Decentralized desktop grids have no single authority, but rely on peer-to-peer communication and coordination among the users. The users can choose which tasks to execute, which results to accept, and which rewards or incentives to offer or receive. Decentralized desktop grids require a low level of trust from the users, who can verify the correctness and fairness of the system.
+- Desktop grids can offer several benefits, such as:
+  - Cost-effectiveness: Desktop grids can reduce the need for expensive dedicated hardware and infrastructure, and can leverage the existing network and power supply of desktop computers.
+  - Scalability: Desktop grids can easily grow or shrink according to the demand and availability of computing resources, and can handle large-scale and dynamic workloads.
+  - Fault-tolerance: Desktop grids can tolerate the failures and fluctuations of desktop computers, and can recover from them by replicating or rescheduling tasks.
+  - Social impact: Desktop grids can enable the participation and collaboration of a large and diverse community of users, and can support various domains and applications that benefit the society and the environment.
+- Desktop grids can also face several challenges, such as:
+  - Security: Desktop grids can be vulnerable to malicious attacks or unauthorized access, such as data theft, data corruption, data manipulation, denial of service, etc.
+  - Privacy: Desktop grids can expose the personal or sensitive information of the users, such as their identity, location, preferences, behavior, etc.
+  - Performance: Desktop grids can suffer from the heterogeneity and unpredictability of desktop computers, such as their varying capabilities, availability, reliability, etc.
+  - Incentives: Desktop grids can have difficulty in motivating and retaining the users, who may have different or conflicting interests, expectations, or goals.

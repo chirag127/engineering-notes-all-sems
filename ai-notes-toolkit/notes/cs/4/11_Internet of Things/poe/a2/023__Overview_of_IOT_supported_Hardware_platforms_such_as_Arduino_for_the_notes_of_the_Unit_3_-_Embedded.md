@@ -1,0 +1,10 @@
+ Here is the formal content in Markdown format without emojis or external links for the given topic:
+
+### Overview of IOT supported Hardware platforms such as Arduino for the notes of the Unit 3 - Embedded Platforms for IoT in the subject of Internet of Things
+
+1. Arduino: Arduino is an open-source hardware and software platform based on easy-to-use hardware and software. It consists of boards with microcontrollers that are programmable using the Arduino IDE. Arduino boards are capable of sensing the environment by receiving input from sensors and affecting their surroundings by controlling lights, motors etc. This makes Arduino a popular platform for IoT projects and prototypes.
+2. Raspberry Pi: Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse. It is capable of doing everything you'd expect a desktop computer to do like browsing the internet, spreadsheets etc. It can also be used for electronics projects and controlling devices. Its small size and low cost make it a popular choice for IoT applications.
+3. ESP8266: ESP8266 is a low-cost Wi-Fi microchip with full TCP/IP stack and microcontroller capability. It is capable of hosting an application or offloading all Wi-Fi networking functions from another application processor. Its small size, low cost and Wi-Fi capability make it useful for IoT projects and prototypes that require wireless connectivity.
+4. Intel Edison: Intel Edison is a small, highly integrated system-on-chip platform for determining and connecting internet-connected devices. It combines a Quark microcontroller with Bluetooth and Wi-Fi connectivity and a set of I/O ports. This makes it suitable for wearable devices and rapid prototyping of IoT devices as it supports multiple operating systems including Linux and Windows 10 IoT Core.
+
+The content is written in a formal tone with points and without emojis or external links as instructed. Please let me know if you would like me to modify or expand the content in any way.

@@ -1,0 +1,27 @@
+## Unit 5 - Pointers: Introduction, Declaration, Applications, Introduction to Dynamic Memory Allocation (Malloc, Calloc, Realloc, Free), String and String functions , Use of Pointers in Self-Referential Structures, Notion of Linked List (No Implementation)
+
+- A pointer is a variable that stores the address of another variable in memory.
+- The syntax for declaring a pointer is `type *name;`, where `type` is the data type of the variable that the pointer points to, and `name` is the identifier of the pointer.
+- The `&` operator is used to get the address of a variable, and the `*` operator is used to access the value stored at the address pointed by a pointer.
+- Pointers can be used for various applications, such as:
+  - Passing arguments by reference to functions, which allows the functions to modify the original values of the arguments.
+  - Returning multiple values from functions, by using pointers as return types or parameters.
+  - Creating dynamic data structures, such as arrays, linked lists, trees, etc., by using pointers to allocate and deallocate memory at runtime.
+  - Implementing polymorphism and inheritance in object-oriented programming, by using pointers to base classes and derived classes.
+- Dynamic memory allocation is the process of allocating and freeing memory at runtime, as per the program's requirements.
+- The standard library functions for dynamic memory allocation are:
+  - `malloc(size)`: allocates `size` bytes of memory and returns a pointer to the first byte, or `NULL` if the allocation fails.
+  - `calloc(n, size)`: allocates memory for `n` elements of `size` bytes each, initializes all bytes to zero, and returns a pointer to the first element, or `NULL` if the allocation fails.
+  - `realloc(ptr, size)`: changes the size of the memory block pointed by `ptr` to `size` bytes, and returns a pointer to the new memory block, or `NULL` if the allocation fails. The contents of the original memory block are preserved up to the minimum of the old and new sizes.
+  - `free(ptr)`: deallocates the memory block pointed by `ptr`, and returns nothing. The pointer `ptr` must have been returned by a previous call to `malloc`, `calloc`, or `realloc`.
+- A string is a sequence of characters terminated by a null character (`'\0'`).
+- The standard library functions for string manipulation are:
+  - `strlen(str)`: returns the length of the string `str`, excluding the null character.
+  - `strcpy(dest, src)`: copies the string `src` to the string `dest`, including the null character, and returns `dest`.
+  - `strcat(dest, src)`: appends the string `src` to the end of the string `dest`, and returns `dest`.
+  - `strcmp(str1, str2)`: compares the strings `str1` and `str2` lexicographically, and returns a negative, zero, or positive value, depending on whether `str1` is less than, equal to, or greater than `str2`.
+  - `strchr(str, c)`: returns a pointer to the first occurrence of the character `c` in the string `str`, or `NULL` if `c` is not found.
+  - `strstr(str1, str2)`: returns a pointer to the first occurrence of the string `str2` in the string `str1`, or `NULL` if `str2` is not found.
+- A self-referential structure is a structure that contains a pointer to an object of the same type as itself.
+- A self-referential structure can be used to create a linked list, which is a linear data structure that consists of a sequence of nodes, each containing some data and a pointer to the next node in the list.
+- The notion of a linked list is that it can grow or shrink dynamically, without wasting or reallocating memory, and that it can perform insertion and deletion operations at any position in constant time, by changing the pointers of the nodes.

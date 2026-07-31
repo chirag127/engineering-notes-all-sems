@@ -1,0 +1,30 @@
+### Overview for the notes of the Unit 1 - Introduction in the subject of Database Management System
+
+- A database is a collection of related data that can be stored, manipulated, and retrieved by a computer system.
+- A database management system (DBMS) is a software system that provides the functionality to create, maintain, and manipulate databases.
+- A DBMS consists of three components: data, data dictionary, and database engine.
+- Data is the actual information stored in the database, such as names, addresses, phone numbers, etc.
+- Data dictionary is the metadata that describes the structure, format, and constraints of the data in the database.
+- Database engine is the core component that performs the operations on the data, such as insertion, deletion, modification, retrieval, etc.
+- A DBMS can be classified into different types based on the data model, the logical structure that defines how the data is organized and manipulated.
+- Some common data models are: hierarchical, network, relational, object-oriented, and NoSQL.
+- A hierarchical data model organizes the data in a tree-like structure, where each node has one parent and zero or more children.
+- A network data model organizes the data in a graph-like structure, where each node can have multiple parents and multiple children.
+- A relational data model organizes the data in a tabular structure, where each row represents a record and each column represents an attribute.
+- An object-oriented data model organizes the data in a class-based structure, where each object is an instance of a class and has attributes and methods.
+- A NoSQL data model organizes the data in a non-tabular structure, such as key-value pairs, documents, graphs, or columns.
+- A DBMS can also be classified into different types based on the level of abstraction, the degree of hiding the implementation details from the users.
+- Some common levels of abstraction are: physical, logical, and view.
+- A physical level of abstraction describes how the data is physically stored and accessed in the database, such as the file format, the indexing method, the disk allocation, etc.
+- A logical level of abstraction describes what data is stored in the database and the relationships among the data, such as the data model, the schema, the constraints, etc.
+- A view level of abstraction describes how the data is presented to the users and the applications, such as the queries, the reports, the forms, etc.
+- A DBMS can also be classified into different types based on the distribution, the degree of sharing the data among multiple sites or nodes.
+- Some common types of distribution are: centralized, decentralized, and distributed.
+- A centralized DBMS stores and manages the data in a single site or node, such as a single server or a single computer.
+- A decentralized DBMS stores and manages the data in multiple independent sites or nodes, such as a network of servers or computers.
+- A distributed DBMS stores and manages the data in multiple interconnected sites or nodes, such as a cloud of servers or computers.
+- A DBMS can also be classified into different types based on the concurrency, the degree of allowing multiple users or applications to access and modify the data simultaneously.
+- Some common types of concurrency are: serial, concurrent, and parallel.
+- A serial DBMS processes the requests one by one, in a sequential order, such as a single-user or a single-threaded system.
+- A concurrent DBMS processes the requests concurrently, in an interleaved order, such as a multi-user or a multi-threaded system.
+- A parallel DBMS processes the requests in parallel, in a simultaneous order, such as a cluster or a grid system.

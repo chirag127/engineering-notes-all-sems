@@ -1,0 +1,9 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is a summary of the Burrows-Wheeler Transform for the notes of the Unit 3 - Coding a sequence in the subject of Data Compression.
+
+# The Burrows-Wheeler Transform
+
+- The Burrows-Wheeler Transform (BWT) is a reversible algorithm that transforms a sequence of symbols into another sequence of symbols that is more suitable for compression.
+- The BWT works by sorting all the cyclic rotations of the input sequence in lexicographic order and taking the last symbol of each rotation as the output sequence. The output sequence is usually followed by an index that indicates the position of the original sequence in the sorted list of rotations.
+- The BWT has the property of creating long runs of identical symbols in the output sequence, especially if the input sequence has low entropy or high redundancy. This makes the output sequence easier to compress with run-length encoding or other entropy coding methods.
+- The BWT can be reversed by using the index and the output sequence to reconstruct the sorted list of rotations and then finding the original sequence among them. This can be done efficiently by using a data structure called the suffix array, which stores the starting positions of the sorted rotations in the input sequence.
+- The BWT is widely used in data compression, especially for text and DNA sequences. It is also the basis of the bzip2 compression algorithm, which combines the BWT with run-length encoding and Huffman coding. The BWT can achieve high compression ratios and fast decompression speeds.

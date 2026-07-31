@@ -1,0 +1,12 @@
+### MAC 802.15.4
+
+- MAC 802.15.4 is a standard for low-rate wireless personal area networks (LR-WPANs) that defines the physical layer (PHY) and medium access control (MAC) sublayer specifications  .
+- MAC 802.15.4 supports low-data-rate wireless connectivity with fixed, portable, and moving devices with no battery or very limited battery consumption requirements .
+- MAC 802.15.4 provides the basis of other higher-layer standards, such as ZigBee, WirelessHart, 6LoWPAN and MiWi.
+- MAC 802.15.4 supports multiple PHY options, such as frequency-hopping spread spectrum (FHSS), direct-sequence spread spectrum (DSSS), orthogonal frequency-division multiplexing (OFDM), and high-rate pulse ultra-wideband (HRP UWB) .
+- MAC 802.15.4 defines two types of devices: full-function devices (FFDs) and reduced-function devices (RFDs). FFDs can operate as coordinators or ordinary devices, while RFDs can only operate as ordinary devices.
+- MAC 802.15.4 defines two types of networks: star and peer-to-peer. In a star network, a single FFD acts as a central coordinator and communicates with multiple RFDs or FFDs. In a peer-to-peer network, any FFD can act as a coordinator and communicate with other FFDs or RFDs.
+- MAC 802.15.4 defines two types of MAC frames: data frames and control frames. Data frames carry network-layer data or MAC commands, while control frames carry MAC information such as acknowledgments, beacons, and association requests.
+- MAC 802.15.4 defines a MAC header and a MAC footer for each MAC frame. The MAC header contains fields such as frame control, sequence number, addressing information, and security information. The MAC footer contains a cyclic redundancy check (CRC) for error detection.
+- MAC 802.15.4 supports two types of channel access methods: slotted and unslotted. In slotted mode, the channel is divided into fixed-length time slots and the devices synchronize with the coordinator using beacons. In unslotted mode, the devices access the channel randomly using carrier sense multiple access with collision avoidance (CSMA/CA).
+- MAC 802.15.4 supports two types of security modes: unsecured and secured. In unsecured mode, the MAC frames are transmitted without any encryption or authentication. In secured mode, the MAC frames are encrypted and authenticated using symmetric-key cryptography and a security suite.

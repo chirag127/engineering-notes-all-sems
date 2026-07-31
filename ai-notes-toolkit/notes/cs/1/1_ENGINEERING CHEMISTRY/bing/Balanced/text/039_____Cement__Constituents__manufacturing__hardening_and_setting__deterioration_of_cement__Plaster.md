@@ -1,0 +1,22 @@
+### Cement; Constituents, manufacturing, hardening and setting, deterioration of cement, Plaster
+
+- Cement is a binding material that sets, hardens, and adheres to other materials to bind them together.
+- The main constituents of cement are calcium, silicon, aluminum, iron and other ingredients that are combined in different proportions depending on the type and grade of cement.
+- The manufacturing of cement involves four main stages: raw material preparation, clinker production, clinker grinding, and cement packing.
+- Raw material preparation involves crushing, grinding, and blending of limestone, clay, shale, iron ore, and other materials to obtain a homogeneous mixture of the required composition.
+- Clinker production involves heating the raw material mixture in a rotary kiln at about 1400°C to form nodules of clinker, which are small lumps of sintered material that contain the main cement compounds.
+- Clinker grinding involves cooling and grinding the clinker with gypsum and other additives to obtain the final product of cement.
+- Cement packing involves filling the cement into bags or silos for storage or transportation.
+- Hardening and setting of cement are the processes of gaining strength and rigidity after mixing with water.
+- The hardening and setting of cement are due to the formation of interlocking crystals reinforced by rigid gels formed by the hydration and hydrolysis of the constituent compounds.
+- The initial and final setting times are of practical importance, as they determine the length of time in which cement mixes remain plastic and workable, and the length of time after which they can resist external loads.
+- The setting and hardening of cement are influenced by several factors, such as the water-cement ratio, the temperature, the type and amount of gypsum, the presence of admixtures, and the curing conditions.
+- Deterioration of cement is the loss of quality or performance of cement due to various causes, such as chemical attack, corrosion of embedded metals, physical damage, or environmental factors .
+- Chemical attack is the reaction of cement with some natural or artificial agents, such as acids, sulfates, chlorides, carbon dioxide, or seawater, that can alter or dissolve the cement compounds or the hardened paste .
+- Corrosion of embedded metals is the oxidation of steel reinforcement or other metal components in contact with cement, which can cause cracking, spalling, or loss of bond strength of the cement.
+- Physical damage is the result of mechanical forces, such as abrasion, impact, or fatigue, that can wear out or fracture the cement or the hardened paste.
+- Environmental factors are the conditions of temperature, humidity, or exposure to sunlight, fire, or frost, that can affect the hydration, shrinkage, expansion, or cracking of the cement or the hardened paste.
+- Plaster is a thin layer of cement or other material applied to a surface for protection, decoration, or leveling.
+- Plaster can be made of different materials, such as lime, gypsum, or Portland cement, mixed with water and sand or other aggregates.
+- Plaster can be applied to various surfaces, such as walls, ceilings, floors, or sculptures, using different tools and techniques, such as trowels, brushes, or sprays.
+- Plaster can have different properties and functions, such as insulation, fire resistance, sound absorption, or aesthetic appeal.

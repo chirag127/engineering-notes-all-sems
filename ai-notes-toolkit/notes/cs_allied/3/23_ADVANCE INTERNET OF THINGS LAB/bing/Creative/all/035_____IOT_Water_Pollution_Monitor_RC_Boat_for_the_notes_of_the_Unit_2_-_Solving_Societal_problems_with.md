@@ -1,0 +1,25 @@
+# IOT Water Pollution Monitor RC Boat
+
+- IOT Water Pollution Monitor RC Boat is a project that aims to measure and transmit water quality data using an RC boat equipped with sensors and an IOT module  .
+- The project is motivated by the need to monitor and maintain the cleanliness of water bodies, which are essential for human and environmental health  .
+- The project consists of the following components:
+  - An RC boat with a motorized propeller system, a battery, and a waterproof casing    .
+  - A set of sensors to measure water quality parameters, such as pH, turbidity, temperature, dissolved oxygen, etc    .
+  - An IOT module, such as Arduino or NodeMCU, to collect and process the sensor data, and to communicate with an online server via Wi-Fi or GSM    .
+  - An online server, such as ThingSpeak or Firebase, to store and display the water quality data in real-time    .
+  - An RC remote to control the movement and direction of the boat    .
+- The project works as follows:
+  - The RC boat is driven into the water area for sample collection through the original remote control unit.
+  - The boat carries relevant sensors to measure the water quality parameters and transmit them to the IOT module    .
+  - The IOT module collects and processes the sensor data, and sends them to the online server via Wi-Fi or GSM    .
+  - The online server stores and displays the water quality data in real-time, and allows for further analysis and visualization    .
+- The project has the following advantages:
+  - It is a low-cost and easy-to-implement solution for water pollution monitoring    .
+  - It is a remote-operated and wireless system that can cover large and inaccessible water areas    .
+  - It is a real-time and online system that can provide timely and accurate water quality data    .
+  - It is a scalable and adaptable system that can be modified and extended with different sensors and modules    .
+- The project has the following challenges and limitations:
+  - It requires a stable and reliable network connection for data transmission    .
+  - It depends on the battery life and durability of the boat and the sensors    .
+  - It may face interference and noise from the water environment and other sources    .
+  - It may not be able to detect all types of water pollutants and contaminants    .

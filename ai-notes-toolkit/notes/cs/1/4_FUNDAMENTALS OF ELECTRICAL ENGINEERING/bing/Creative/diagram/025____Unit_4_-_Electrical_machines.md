@@ -1,0 +1,10 @@
+## Unit 4 - Electrical machines
+
+Electrical machines are devices that convert electrical energy into mechanical energy or vice versa. They are classified into two main categories: **generators** and **motors**.
+
+- Generators are machines that convert mechanical energy into electrical energy. They use the principle of electromagnetic induction, which states that a changing magnetic field induces an electric current in a conductor. Generators can be further divided into **alternators** and **dynamos**.
+  - Alternators produce alternating current (AC) by rotating a coil of wire in a magnetic field. The frequency of the AC output depends on the speed of rotation and the number of poles in the coil. Alternators are used in power plants, automobiles, and other applications that require AC power.
+  - Dynamos produce direct current (DC) by rotating a coil of wire in a magnetic field and using a commutator to switch the direction of the current every half cycle. Dynamos are used in bicycles, flashlights, and other applications that require DC power.
+- Motors are machines that convert electrical energy into mechanical energy. They use the principle of electromagnetism, which states that a current-carrying conductor experiences a force when placed in a magnetic field. Motors can be further divided into **AC motors** and **DC motors**.
+  - AC motors operate on alternating current and use induction, synchronous, or universal methods to create a rotating magnetic field that interacts with the rotor. AC motors are used in fans, pumps, compressors, and other applications that require variable speed and torque.
+  - DC motors operate on direct current and use permanent magnets, electromagnets, or both to create a constant magnetic field that interacts with the rotor. DC motors are used in toys, electric vehicles, robots, and other applications that require precise speed and position control.

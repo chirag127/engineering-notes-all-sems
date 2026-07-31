@@ -1,0 +1,13 @@
+### Sparse Matrices and their representations
+
+- A sparse matrix is a matrix that has a large number of zero elements and a small number of non-zero elements.
+- Sparse matrices arise in many applications, such as finite element methods, graph theory, network analysis, image processing, etc.
+- Storing and manipulating sparse matrices efficiently is important for saving space and time.
+- There are different ways of representing sparse matrices, depending on the structure and sparsity pattern of the matrix.
+- Some common representations are:
+
+  - **Coordinate list (COO)**: This representation stores the row index, column index, and value of each non-zero element in three separate arrays. The order of the elements can be arbitrary. This representation is simple and easy to construct, but it does not allow fast access or modification of the matrix elements.
+  - **Compressed sparse row (CSR)**: This representation stores the non-zero elements of each row in a contiguous array, along with an array of column indices and an array of row pointers. The row pointers indicate the starting and ending positions of each row in the value array. This representation allows fast row-wise operations and matrix-vector multiplication, but it does not allow fast column-wise operations or modification of the matrix elements.
+  - **Compressed sparse column (CSC)**: This representation is similar to CSR, but it stores the non-zero elements of each column in a contiguous array, along with an array of row indices and an array of column pointers. The column pointers indicate the starting and ending positions of each column in the value array. This representation allows fast column-wise operations and matrix-vector multiplication, but it does not allow fast row-wise operations or modification of the matrix elements.
+  - **Dictionary of keys (DOK)**: This representation stores the non-zero elements of the matrix in a dictionary, where the keys are tuples of row and column indices and the values are the element values. This representation allows fast access and modification of the matrix elements, but it does not allow fast matrix operations or storage efficiency.
+  - **Block compressed row (BCR)**: This representation divides the matrix into blocks of fixed size, and stores each block in a CSR format. This representation can reduce the storage space and improve the performance of matrix operations, especially for matrices with regular block structures. However, it requires additional parameters to specify the block size and shape.

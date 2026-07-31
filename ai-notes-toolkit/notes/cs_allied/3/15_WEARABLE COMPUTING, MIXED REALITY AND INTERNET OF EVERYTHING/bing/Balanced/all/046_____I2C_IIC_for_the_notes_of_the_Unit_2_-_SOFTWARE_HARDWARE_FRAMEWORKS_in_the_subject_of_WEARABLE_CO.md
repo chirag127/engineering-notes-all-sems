@@ -1,0 +1,22 @@
+# I2C/IIC
+
+- I2C stands for Inter-Integrated Circuit. It is a serial communication protocol for exchanging data between multiple devices on a single bus.
+- It was originally designed by Philips Semiconductor in 1982 and is now widely used for short-distance communication in embedded systems, sensors, microcontrollers, etc.
+- It is a half-duplex, bi-directional, two-wire bus system that uses a clock line (SCL) and a data line (SDA) to transmit and receive data between masters and slaves.
+- A master is a device that initiates and controls the communication, while a slave is a device that responds to the master's commands.
+- Multiple masters and slaves can share the same bus, but only one master can be active at a time.
+- Each device on the bus has a unique address that is used to identify it during communication.
+- The communication consists of the following steps:
+  - The master sends a start condition, which is a high-to-low transition on the SDA line while the SCL line is high.
+  - The master sends the address of the slave it wants to communicate with, along with a read/write bit to indicate the direction of the data transfer.
+  - The slave acknowledges the address by pulling the SDA line low during the ninth clock pulse.
+  - The master and the slave exchange data by sending or receiving 8-bit data packets, each followed by an acknowledge bit from the receiver.
+  - The master sends a stop condition, which is a low-to-high transition on the SDA line while the SCL line is high, to end the communication.
+- The advantages of I2C are:
+  - It is simple and easy to implement, requiring only two wires and no additional hardware.
+  - It supports multiple masters and slaves, allowing flexible and scalable communication.
+  - It has a low power consumption and a high noise immunity, making it suitable for low-power and noisy environments.
+- The disadvantages of I2C are:
+  - It has a low data rate, typically up to 400 kbps, which limits its use for high-speed applications.
+  - It has a limited bus length, depending on the capacitance and resistance of the wires, which affects the signal quality and reliability.
+  - It has a complex arbitration and collision detection mechanism, which increases the software overhead and the possibility of errors.

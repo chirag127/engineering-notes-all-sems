@@ -1,0 +1,21 @@
+# Walk Through for the notes of the Unit 4 - Software Testing in the subject of Software Engineering
+
+- Software testing is the process of verifying and validating that a software product meets the requirements and expectations of the stakeholders.
+- Software testing can be classified into two types: static testing and dynamic testing.
+  - Static testing is the analysis of the software artifacts, such as code, design, documentation, etc., without executing them.
+  - Dynamic testing is the execution of the software with various inputs, outputs, and conditions to check its behavior and performance.
+- Software testing can also be categorized into four levels: unit testing, integration testing, system testing, and acceptance testing.
+  - Unit testing is the testing of individual components or modules of the software in isolation.
+  - Integration testing is the testing of the interactions and interfaces between the components or modules of the software.
+  - System testing is the testing of the software as a whole, including its functionality, reliability, usability, security, etc.
+  - Acceptance testing is the testing of the software by the end-users or customers to ensure that it meets their needs and expectations.
+- Software testing can also be performed in different modes: white-box testing, black-box testing, and gray-box testing.
+  - White-box testing is the testing of the software based on the knowledge of its internal structure and logic.
+  - Black-box testing is the testing of the software based on the knowledge of its external behavior and specifications.
+  - Gray-box testing is the testing of the software based on the partial knowledge of its internal structure and logic.
+- Software testing can also follow different approaches: manual testing and automated testing.
+  - Manual testing is the testing of the software by human testers who execute the test cases and observe the results.
+  - Automated testing is the testing of the software by using tools and scripts that execute the test cases and compare the results with the expected outcomes.
+- Software testing can also employ different techniques: functional testing and non-functional testing.
+  - Functional testing is the testing of the software to verify that it performs the functions and features that it is supposed to do.
+  - Non-functional testing is the testing of the software to verify that it meets the quality attributes and standards that it is supposed to have.

@@ -1,0 +1,14 @@
+#### 1. Start Raspberry Pi and try various Linux commands in command terminal window: ls, cd, touch, mv, rm, man
+
+- Raspberry Pi is a small, low-cost computer that can run Linux operating systems such as Raspbian, Ubuntu, or Debian.
+- To start Raspberry Pi, you need to connect it to a power source, a monitor, a keyboard, and a mouse. You also need to insert a microSD card with a Linux operating system installed on it.
+- Once Raspberry Pi boots up, you will see a graphical user interface (GUI) or a command line interface (CLI) depending on the operating system you are using.
+- To open a command terminal window, you can either click on the terminal icon on the GUI or press Ctrl+Alt+T on the keyboard.
+- In the command terminal window, you can type various Linux commands to perform different tasks. Some of the common Linux commands are:
+
+  - `ls`: This command lists the files and directories in the current working directory. You can use various options with this command to change the output format, such as `-l` for long listing, `-a` for showing hidden files, or `-h` for human-readable sizes.
+  - `cd`: This command changes the current working directory to the one specified as an argument. You can use `.` to refer to the current directory, `..` to refer to the parent directory, or `~` to refer to the home directory. For example, `cd ..` will move you one level up from the current directory.
+  - `touch`: This command creates a new, empty file with the name specified as an argument. If the file already exists, it updates its modification time. For example, `touch test.txt` will create a new file named test.txt or update its modification time if it already exists.
+  - `mv`: This command moves or renames a file or directory. You need to specify the source and the destination as arguments. For example, `mv test.txt new.txt` will rename the file test.txt to new.txt, and `mv test.txt Documents/` will move the file test.txt to the Documents directory.
+  - `rm`: This command removes a file or directory. You need to specify the name of the file or directory as an argument. You can use the `-r` option to remove a directory and its contents recursively, and the `-f` option to force the removal without prompting for confirmation. For example, `rm test.txt` will remove the file test.txt, and `rm -rf Documents/` will remove the Documents directory and all its contents.
+  - `man`: This command displays the manual page for a given command or topic. You need to specify the name of the command or topic as an argument. For example, `man ls` will show the manual page for the ls command, and `man man` will show the manual page for the man command. You can use the arrow keys, Page Up, Page Down, Home, End, or Space to scroll through the manual page, and Q to quit.

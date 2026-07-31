@@ -1,0 +1,14 @@
+### Rayleigh’s criterion of resolution for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+
+Rayleigh’s criterion of resolution is an important concept in wave optics that defines the minimum distance between two points or objects that can be resolved by an optical system. This criterion is named after Lord Rayleigh, a British scientist who first proposed it in 1896. It is widely used in the field of optics to determine the resolving power of telescopes, microscopes, and other optical instruments.
+
+Here are some key points to understand Rayleigh’s criterion of resolution:
+
+- The criterion is based on the concept of diffraction, which is the bending of waves around obstacles or through small openings. When two objects are very close together, their diffracted wavefronts overlap and interfere with each other, making it difficult to distinguish them as separate objects.
+- Rayleigh’s criterion states that two point sources of light can be just resolved when the central maximum of one diffraction pattern coincides with the first minimum of the other diffraction pattern. In other words, the distance between the two sources must be such that the diffraction patterns overlap but do not merge completely.
+- The distance between the two sources that can be resolved is given by the formula D = 1.22λ/N.A., where λ is the wavelength of light, N.A. is the numerical aperture of the lens or optical system, and D is the minimum distance between the sources that can be resolved. This formula is also known as the Rayleigh criterion formula.
+- The numerical aperture of an optical system is a measure of its ability to gather and focus light. It is defined as N.A. = n sinθ, where n is the refractive index of the medium between the lens and the object, and θ is the half-angle of the cone of light that enters the lens. The higher the numerical aperture, the better the resolving power of the system.
+- Rayleigh’s criterion applies to any optical system that uses a circular aperture, such as a telescope or microscope. However, it is important to note that this criterion is based on idealized conditions and does not take into account factors such as aberrations, noise, or the presence of other objects in the field of view.
+- In practice, the resolving power of an optical system is often limited by the quality of the lenses, the wavelength of light used, and other factors. Therefore, it is important to consider the limitations of Rayleigh’s criterion when designing or evaluating optical systems.
+
+By understanding Rayleigh’s criterion of resolution, one can gain insight into the limitations and capabilities of optical systems in wave optics. This concept is important in many fields of science and engineering, including astronomy, microscopy, and telecommunications.

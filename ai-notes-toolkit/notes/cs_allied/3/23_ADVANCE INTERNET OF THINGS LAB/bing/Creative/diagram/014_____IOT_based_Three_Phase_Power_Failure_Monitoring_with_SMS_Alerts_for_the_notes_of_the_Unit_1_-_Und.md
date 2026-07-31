@@ -1,0 +1,23 @@
+### IOT based Three Phase Power Failure Monitoring with SMS Alerts
+
+- This is a system that monitors the status of a three-phase power supply and alerts the authorized person via SMS in case of a phase loss or failure.
+- A phase loss occurs when one of the three phases of a three-phase system gets disconnected or damaged, resulting in a reduced or unbalanced voltage supply. This can cause serious damage to the connected loads and equipment.
+- The system consists of the following components:
+  - A microcontroller unit (MCU) that controls the logic and communication of the system.
+  - A GSM module that enables the SMS functionality and connects the system to the cellular network.
+  - A LCD display that shows the voltage values of the three phases and the status of the system.
+  - Three voltage sensors that measure the voltage of each phase and send the data to the MCU.
+  - Three relays that switch on or off the power supply to the loads based on the phase status.
+  - A buzzer that sounds an alarm when a phase failure is detected.
+- The system works as follows:
+  - The MCU continuously reads the voltage values of the three phases from the sensors and displays them on the LCD.
+  - The MCU also compares the voltage values with a predefined threshold and determines if any phase is missing or below the normal range.
+  - If a phase failure is detected, the MCU activates the corresponding relay to cut off the power supply to the load connected to that phase, to prevent damage or overload.
+  - The MCU also sends an SMS to the authorized person, informing them of the phase failure and the location of the system.
+  - The buzzer also sounds an alarm to alert the nearby personnel of the problem.
+  - The system can be configured by sending SMS commands to the GSM module, such as setting the threshold voltage, the phone number of the authorized person, and the location of the system.
+- The advantages of this system are:
+  - It can prevent costly and hazardous consequences of phase failure, such as equipment damage, fire, or electrocution.
+  - It can provide real-time and remote monitoring of the power supply status and notify the concerned authority in case of a problem.
+  - It can reduce the downtime and maintenance costs of the power system and the connected loads.
+  - It can improve the efficiency and reliability of the power system and the connected loads.

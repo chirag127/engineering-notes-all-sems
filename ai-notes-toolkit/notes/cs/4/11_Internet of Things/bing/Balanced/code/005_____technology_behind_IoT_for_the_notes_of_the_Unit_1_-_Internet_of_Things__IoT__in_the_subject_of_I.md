@@ -1,0 +1,10 @@
+# Technology behind IoT
+
+The Internet of Things (IoT) is the concept of connecting any device that has an on/off switch to the Internet and to other connected devices. IoT devices can collect and share data about their usage and the environment around them, enabling various applications and services. Some examples of IoT devices are smart home systems, wearable devices, industrial sensors, smart city solutions, and connected vehicles.
+
+The technology behind IoT devices consists of several components, such as:
+
+- **Hardware**: This includes the physical devices that have sensors, actuators, processors, memory, communication modules, and power sources. Hardware components enable IoT devices to sense, actuate, compute, store, communicate, and operate. Some examples of hardware technologies used in IoT are CPUs, MCUs, GPUs, security chips, FPGA, and edge gateways.
+- **Connectivity**: This refers to the technology that allows IoT devices to connect to the Internet and to each other. Connectivity can be wired or wireless, depending on the use case and the environment. Some examples of connectivity technologies used in IoT are GSM cellular networks, Wi-Fi, Ethernet, Bluetooth, Zigbee, LoRa, eSIM, mesh networks, 5G, and Wi-Fi 6  .
+- **Software**: This includes the software applications and platforms that run on IoT devices, on the cloud, or on the edge. Software components enable IoT devices to perform functions, process data, interact with users, and integrate with other systems. Some examples of software technologies used in IoT are operating systems, middleware, protocols, APIs, analytics, artificial intelligence, and cloud computing  .
+- **Security**: This refers to the technology that protects IoT devices, data, and networks from unauthorized access, manipulation, or damage. Security components include encryption, authentication, authorization, firewall, antivirus, and blockchain. Security is essential for IoT systems to ensure data privacy, integrity, and availability  .

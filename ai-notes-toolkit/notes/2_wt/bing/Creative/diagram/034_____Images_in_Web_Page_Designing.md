@@ -1,0 +1,21 @@
+### Images in Web Page Designing
+
+- Images are visual elements that can enhance the appearance and functionality of a web page.
+- Images can be used for various purposes, such as:
+  - Illustrating the content or the theme of the web page.
+  - Providing information or instructions to the users.
+  - Creating visual interest or attraction for the users.
+  - Establishing the identity or the brand of the web page or the website.
+  - Linking to other web pages or external resources.
+- Images can be of different types, such as:
+  - Bitmap images: These are composed of pixels, which are small dots of color. Bitmap images have a fixed resolution and size, and can lose quality when scaled or edited. Examples of bitmap image formats are JPEG, PNG, GIF, BMP, etc.
+  - Vector images: These are composed of mathematical shapes, such as lines, curves, polygons, etc. Vector images have a flexible resolution and size, and can be scaled or edited without losing quality. Examples of vector image formats are SVG, EPS, PDF, etc.
+- Images can be embedded or linked in a web page using the `<img>` tag, which has the following attributes:
+  - `src`: This specifies the source or the URL of the image file.
+  - `alt`: This specifies the alternative text or the description of the image, which is displayed when the image cannot be loaded or is not visible to the users.
+  - `width`: This specifies the width of the image in pixels or percentage.
+  - `height`: This specifies the height of the image in pixels or percentage.
+  - `title`: This specifies the title or the tooltip of the image, which is displayed when the users hover over the image.
+  - `align`: This specifies the alignment of the image relative to the surrounding text, such as left, right, top, bottom, middle, etc.
+- Images can also be styled or manipulated using CSS or JavaScript, such as changing the color, opacity, border, filter, animation, etc. of the image.
+- Images can also be responsive or adaptive, which means they can adjust their size or layout according to the screen size or the device of the users. This can be achieved using CSS media queries, breakpoints, or frameworks, such as Bootstrap, Foundation, etc.

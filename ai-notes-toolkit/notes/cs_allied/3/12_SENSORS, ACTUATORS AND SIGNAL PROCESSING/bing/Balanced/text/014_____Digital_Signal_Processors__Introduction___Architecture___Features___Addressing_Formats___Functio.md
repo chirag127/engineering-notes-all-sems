@@ -1,0 +1,29 @@
+### Digital Signal Processors: Introduction – Architecture – Features – Addressing Formats – Functional modes – Introduction to Commercial Processors
+
+- **Introduction**: Digital Signal Processing is the process of representing signals in a discrete mathematical sequence of numbers and analyzing, modifying, and extracting the information contained in the signal by carrying out algorithmic operations and processing on the signal. Digital Signal Processors (DSP) are specialized microprocessors that can perform these operations very quickly and efficiently.
+- **Architecture**: The architecture of a DSP is designed to support repetitive and numerically intensive tasks. Most DSPs include a powerful data path and also the capacity to move large amounts of data to memory quickly. Some common features of DSP architectures are:
+  - **Harvard architecture**: This means that the DSP has separate buses for data and instructions, allowing parallel access and execution.
+  - **Pipelining**: This means that the DSP can execute multiple instructions simultaneously by dividing them into stages and overlapping them in time.
+  - **Multiple functional units**: This means that the DSP can perform different types of operations (such as arithmetic, logic, shift, etc.) in parallel by having dedicated hardware units for each function.
+  - **Specialized instructions**: This means that the DSP can perform complex operations (such as multiply-accumulate, circular addressing, bit-reversal, etc.) in a single instruction cycle, reducing the number of instructions and cycles needed.
+- **Features**: The features of a DSP depend on the specific application and design goals, but some common features are :
+  - **High speed**: The DSP can execute millions of instructions per second, enabling real-time processing of signals.
+  - **Low power consumption**: The DSP can operate at low voltages and frequencies, reducing the power consumption and heat dissipation.
+  - **High accuracy**: The DSP can use fixed-point or floating-point arithmetic, depending on the precision and dynamic range required by the application.
+  - **Programmability**: The DSP can be programmed using assembly language or high-level languages, allowing flexibility and portability of the code.
+  - **Peripherals**: The DSP can interface with various external devices, such as analog-to-digital converters, digital-to-analog converters, memory, sensors, actuators, etc., using different communication protocols and standards.
+- **Addressing Formats**: The addressing formats of a DSP determine how the operands of an instruction are accessed and stored in memory or registers. Some common addressing formats are:
+  - **Direct addressing**: This means that the operand is specified by its address in memory or register.
+  - **Indirect addressing**: This means that the operand is specified by the contents of a register that holds its address in memory or register.
+  - **Immediate addressing**: This means that the operand is specified by a constant value in the instruction itself.
+  - **Indexed addressing**: This means that the operand is specified by adding an offset value to the contents of a register that holds its base address in memory or register.
+  - **Circular addressing**: This means that the operand is specified by adding an offset value to the contents of a register that holds its base address in memory or register, and wrapping around the address space if the result exceeds the boundary.
+  - **Bit-reversed addressing**: This means that the operand is specified by reversing the bits of the address in memory or register, and using the result as the actual address.
+- **Functional modes**: The functional modes of a DSP determine how the instructions are fetched and executed by the processor. Some common functional modes are:
+  - **Sequential mode**: This means that the instructions are executed one after another in the order they appear in memory or register.
+  - **Parallel mode**: This means that the instructions are executed simultaneously by different functional units, as long as they do not have data or control dependencies.
+  - **Conditional mode**: This means that the execution of an instruction depends on the outcome of a previous instruction or a status flag.
+  - **Branch mode**: This means that the execution of an instruction causes a jump to a different location in memory or register, changing the flow of control.
+  - **Interrupt mode**: This means that the execution of an instruction is interrupted by an external event or signal, and a service routine is executed to handle the event or signal.
+- **Introduction to Commercial Processors**: There are many commercial processors available in the market that are designed for different applications and performance levels. Some examples are:
+  - **TI TMS320C6000 DSP**: This is a family of very long instruction word (V

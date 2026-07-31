@@ -1,0 +1,22 @@
+### Stylometric Techniques for the notes of the Unit 3 - Cyber Investigation in the subject of CYBER FORENSIC ANALYTICS
+
+- Stylometry is the statistical analysis of the linguistic features of a text, such as word choice, syntax, punctuation, spelling, etc., to identify the unique writing style of an author.
+- Stylometry can be used for various applications, such as literary studies, historical studies, social studies, information retrieval, and forensic cases and studies.
+- In cyber forensics, stylometry can be used to attribute the authorship of digital texts, such as emails, blogs, social media posts, online reviews, etc., by comparing them with known samples of the suspected authors    .
+- Stylometry can also be used to detect plagiarism, deception, or impersonation in digital texts, by identifying changes or inconsistencies in the writing style within or across the documents .
+- Stylometry can be performed using various techniques, such as:
+  - Lexical features: These are the features related to the choice and frequency of words, such as vocabulary richness, word length, word n-grams, function words, etc.  .
+  - Syntactic features: These are the features related to the structure and grammar of sentences, such as sentence length, sentence complexity, punctuation, part-of-speech tags, syntactic n-grams, etc.  .
+  - Content-based features: These are the features related to the topic and meaning of the text, such as keywords, semantic fields, named entities, sentiment, etc.  .
+  - Idiosyncratic features: These are the features related to the personal habits and preferences of the author, such as spelling errors, abbreviations, emoticons, slang, etc.  .
+- Stylometry can be performed using various methods, such as:
+  - Distance-based methods: These are the methods that measure the similarity or dissimilarity between two texts based on some distance metric, such as cosine, Euclidean, Manhattan, etc. .
+  - Machine learning methods: These are the methods that use supervised or unsupervised learning algorithms to classify or cluster texts based on their stylometric features, such as decision trees, support vector machines, neural networks, etc.  .
+  - Parameter minimization methods: These are the methods that reduce the number of stylometric features to a minimum set that can distinguish between authors, such as genetic algorithms, principal component analysis, etc. .
+- Stylometry can face various challenges, such as:
+  - Text length: The length of the text can affect the reliability and accuracy of the stylometric analysis, as shorter texts may not contain enough features to capture the author's style .
+  - Text genre: The genre of the text can influence the writing style of the author, as different genres may have different conventions, expectations, and audiences .
+  - Text topic: The topic of the text can affect the choice and frequency of words and phrases, as different topics may require different vocabulary and terminology .
+  - Text language: The language of the text can determine the availability and applicability of the stylometric features and methods, as different languages may have different linguistic characteristics and resources .
+  - Text quality: The quality of the text can impact the stylometric analysis, as noisy, incomplete, or corrupted texts may introduce errors or biases in the feature extraction and comparison .
+  - Author variation: The variation of the author's writing style can pose a challenge for the stylometric analysis, as the author may change or adapt their style over time, across genres, topics, or audiences, or intentionally to hide or mimic their identity .

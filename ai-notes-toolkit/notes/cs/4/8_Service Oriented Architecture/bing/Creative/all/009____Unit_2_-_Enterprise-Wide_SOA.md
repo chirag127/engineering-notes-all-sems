@@ -1,0 +1,21 @@
+## Unit 2 - Enterprise-Wide SOA
+
+- SOA stands for Service-Oriented Architecture, which is a design paradigm for building distributed systems that are loosely coupled, interoperable, and reusable.
+- Enterprise-Wide SOA is the application of SOA principles and practices across an entire organization, rather than within a single department or project.
+- Enterprise-Wide SOA aims to achieve the following benefits:
+  - Business agility: the ability to respond quickly and effectively to changing market conditions, customer demands, and regulatory requirements.
+  - IT alignment: the alignment of IT systems and services with the business goals, processes, and policies of the organization.
+  - Cost reduction: the reduction of IT complexity, duplication, and maintenance costs by reusing and sharing common services and components.
+  - Quality improvement: the improvement of IT performance, reliability, and security by enforcing standards, policies, and governance mechanisms.
+- Enterprise-Wide SOA requires the following challenges to be addressed:
+  - Organizational change: the need to change the culture, mindset, and behavior of the stakeholders involved in the SOA initiative, such as business users, IT developers, and managers.
+  - Governance: the need to establish and enforce the rules, roles, and responsibilities for the design, development, deployment, and management of SOA services and components.
+  - Service identification: the need to identify the appropriate granularity, scope, and functionality of the services that will support the business processes and requirements of the organization.
+  - Service design: the need to design the services in a way that ensures their reusability, interoperability, modularity, and loose coupling.
+  - Service implementation: the need to implement the services using the appropriate technologies, platforms, and standards that support the SOA principles and practices.
+  - Service testing: the need to test the services for their functionality, performance, reliability, and security.
+  - Service deployment: the need to deploy the services in a way that ensures their availability, scalability, and manageability.
+  - Service discovery: the need to enable the consumers of the services to find and access the services that meet their needs and expectations.
+  - Service composition: the need to compose the services into higher-level business processes and applications that deliver value to the end users.
+  - Service monitoring: the need to monitor the services for their usage, performance, reliability, and security, and to detect and resolve any issues or problems.
+  - Service evolution: the need to evolve the services in response to changing business and IT needs and expectations, and to ensure their backward and forward compatibility.

@@ -1,0 +1,9 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the content for the topic of Non Deterministic Finite Automaton (NFA) for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages.
+
+### Non Deterministic Finite Automaton (NFA)
+
+- A non deterministic finite automaton (NFA) is a mathematical model of computation that consists of a finite set of states, a finite set of input symbols, a transition function that maps a state and an input symbol to a set of states, an initial state, and a set of final or accepting states.
+- An NFA can be represented by a directed graph, where the nodes are the states, the edges are labeled by the input symbols, and the initial and final states are marked by special symbols.
+- An NFA accepts an input string if there exists a path from the initial state to a final state that follows the labels of the input string. An NFA can have multiple paths for the same input string, and it can also have transitions that do not consume any input symbol (called epsilon transitions).
+- An NFA is more expressive than a deterministic finite automaton (DFA), which is a special case of an NFA where the transition function maps a state and an input symbol to a single state, and there are no epsilon transitions. Every NFA can be converted to an equivalent DFA using the subset construction algorithm, but the resulting DFA may have exponentially more states than the original NFA.
+- An NFA can be used to model various problems that involve non-determinism, such as regular expressions, lexical analysis, pattern matching, and string search. An NFA can also be used to prove the decidability and closure properties of regular languages, which are the languages that can be recognized by finite automata.

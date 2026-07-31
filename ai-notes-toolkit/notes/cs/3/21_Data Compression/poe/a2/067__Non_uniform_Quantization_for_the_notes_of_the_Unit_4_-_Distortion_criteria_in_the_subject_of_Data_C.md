@@ -1,0 +1,11 @@
+ Here is the formal content in Markdown format without any emojis or external links for the topic "Non uniform Quantization for the notes of the Unit 4 - Distortion criteria in the subject of Data Compression":
+
+### Non uniform Quantization
+
+1. Quantization is the process of mapping a large set of input values to a smaller set of output values. This is done to compress the data and reduce its precision.
+2. In uniform quantization, the range of input values is divided into equal sized regions and each region is assigned a representative output value. This can lead to inefficient utilization of the output range and poor distortion performance for some input probability distributions.
+3. In non-uniform quantization, the input range is divided into regions of unequal size. The region boundaries and output values are determined in a way to optimize the distortion performance for a given probability distribution of the input. This results in a more efficient utilization of the output range leading to lower distortion.
+4. The most common non-uniform quantizers are theμ-law and A-law quantizers used in audio compression standards like G.711. They have a logarithmic division of the input range into regions of increasing size with increasing amplitude. This effectively handles the decreasing sensitivity of human perception to signal changes with increasing amplitude.
+5. Other popular non-uniform quantizers include the Lloyd-Max quantizer which is optimized for a Gaussian input distribution and the generalized Lloyd algorithm which can optimize the quantizer for other input distributions. Non-uniform quantization leads to a variable rate output as opposed to the fixed rate of uniform quantization.
+
+The content summarizes the key points about non-uniform quantization. It explains what quantization is, the difference between uniform and non-uniform quantization, the advantages of non-uniform quantization and some examples of non-uniform quantizers. The points are written in a formal tone with no emojis or external links as requested. Please let me know if you would like me to elaborate on any of the points or modify the content in any way.

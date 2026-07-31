@@ -1,0 +1,22 @@
+### Contactless IOT Doorbell for the notes of the Unit 2 - Solving Societal problems with the help of IOT in the subject of ADVANCE INTERNET OF THINGS LAB
+
+- A contactless IOT doorbell is a device that uses internet of things (IOT) technology to detect and alert the house owner about the presence of a visitor without requiring any physical contact.
+- A contactless IOT doorbell can also provide additional features such as temperature scanning, face recognition, voice interaction, security camera, online alerts, and remote control.
+- A contactless IOT doorbell can help solve societal problems such as preventing the spread of infectious diseases like Covid-19, enhancing the safety and security of the house, and improving the convenience and comfort of the house owner.
+- A contactless IOT doorbell can be implemented using various hardware and software components such as:
+  - A microcontroller such as NodeMCU, Arduino, or Raspberry Pi to control the logic and communication of the device.
+  - A sensor such as MLX90614, DHT11, or PIR to measure the temperature, humidity, or motion of the visitor.
+  - A camera module such as Pi Camera or OV7670 to capture the image or video of the visitor.
+  - A speaker or buzzer to produce sound or voice feedback for the visitor or the house owner.
+  - A display or LED to show the status or information of the device or the visitor.
+  - A wireless module such as Wi-Fi, Bluetooth, or GSM to connect the device to the internet or the mobile phone of the house owner.
+  - A cloud service such as Firebase, Blynk, or AWS to store and process the data from the device and provide online access and alerts for the house owner.
+  - A mobile app or web app to allow the house owner to view and control the device remotely from anywhere.
+- A contactless IOT doorbell can be designed and developed using various steps such as:
+  - Identifying the problem and the requirements of the device.
+  - Selecting the appropriate hardware and software components for the device.
+  - Connecting and testing the hardware components using a breadboard or a PCB.
+  - Programming and uploading the code for the microcontroller using an IDE such as Arduino or Python.
+  - Configuring and testing the cloud service and the mobile app or web app using a platform such as Firebase or Blynk.
+  - Assembling and installing the device at the desired location.
+  - Evaluating and improving the performance and functionality of the device.

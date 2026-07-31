@@ -1,0 +1,10 @@
+### SCALA
+
+Scala is a general-purpose, multi-paradigm programming language that integrates features of both object-oriented and functional programming. It runs on the Java Virtual Machine (JVM) and is compatible with existing Java code and libraries. Scala was designed to address some of the limitations and complexities of Java, such as verbosity, null pointers, and concurrency issues. Some of the main features of Scala are:
+
+- It is a statically typed language, which means that the types of variables and expressions are checked at compile time, preventing some runtime errors and improving performance.
+- It supports multiple inheritance through traits, which are abstract types that can contain fields and methods. Traits can be mixed in with classes to form new types, avoiding the diamond problem of multiple inheritance.
+- It supports pattern matching, which is a powerful way of deconstructing and processing complex data structures, such as lists, tuples, case classes, and algebraic data types. Pattern matching can also be used to implement custom control structures and handle exceptions.
+- It supports higher-order functions, which are functions that can take other functions as parameters or return them as results. Higher-order functions enable concise and expressive code, such as map, filter, reduce, and fold operations on collections.
+- It supports lazy evaluation, which means that expressions are only evaluated when they are needed, avoiding unnecessary computation and memory allocation. Lazy evaluation can be achieved by using the lazy keyword or by using streams, which are lazy collections that can represent infinite sequences.
+- It supports concurrency and parallelism through the actor model, which is a way of designing systems that consist of independent and asynchronous entities that communicate by sending messages. Actors can be created and managed by using the Akka library, which provides features such as fault tolerance, load balancing, and distributed computing.

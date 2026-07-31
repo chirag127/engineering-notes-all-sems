@@ -1,0 +1,12 @@
+## (D) Experiments available on virtual lab
+
+- A virtual lab is a simulated environment that allows users to perform experiments or activities without the need for physical equipment, materials, or space.
+- Virtual labs can be used for various purposes, such as education, research, training, testing, or entertainment.
+- Virtual labs can offer many benefits, such as accessibility, safety, cost-effectiveness, flexibility, interactivity, and feedback.
+- There are many types of experiments available on virtual labs, depending on the subject, level, and goal of the user. Some examples are:
+
+  - Physics: Users can explore topics such as mechanics, optics, electricity, magnetism, thermodynamics, waves, and quantum physics. For instance, users can measure the acceleration due to gravity, observe the interference of light, build circuits, create magnetic fields, study heat transfer, analyze sound waves, and simulate the double-slit experiment.
+  - Chemistry: Users can learn about topics such as atomic structure, chemical bonding, reactions, equilibrium, kinetics, thermodynamics, electrochemistry, and organic chemistry. For instance, users can build molecules, balance equations, calculate pH, determine reaction rates, measure enthalpy changes, perform titrations, and synthesize organic compounds.
+  - Biology: Users can investigate topics such as cell structure, genetics, evolution, ecology, anatomy, physiology, microbiology, and biotechnology. For instance, users can observe cells under a microscope, perform DNA extraction, analyze genetic variation, explore ecosystems, dissect organs, examine bacteria, and manipulate DNA.
+  - Mathematics: Users can practice topics such as arithmetic, algebra, geometry, trigonometry, calculus, statistics, and logic. For instance, users can solve equations, graph functions, prove theorems, apply trigonometric identities, find derivatives and integrals, analyze data, and solve puzzles.
+  - Computer Science: Users can learn about topics such as programming, data structures, algorithms, databases, networks, artificial intelligence, and cybersecurity. For instance, users can write code, implement data structures, design algorithms, query databases, simulate networks, create agents, and test security.

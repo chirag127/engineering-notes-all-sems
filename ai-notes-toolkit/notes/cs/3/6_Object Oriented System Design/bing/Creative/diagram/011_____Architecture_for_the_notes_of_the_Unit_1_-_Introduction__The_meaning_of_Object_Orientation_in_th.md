@@ -1,0 +1,33 @@
+### Architecture for the notes of the Unit 1 - Introduction: The meaning of Object Orientation in the subject of Object Oriented System Design
+
+- Object Oriented Architecture is a design paradigm based on the division of responsibilities for an application or system into individual reusable and self-sufficient objects .
+- An object is an entity that encapsulates data and behavior, and communicates with other objects through messages .
+- Object Oriented Architecture aims to achieve the following benefits :
+  - Modularity: The system is composed of well-defined and loosely coupled modules that can be developed and tested independently.
+  - Abstraction: The system hides the implementation details and exposes only the essential features and functionality to the users and other modules.
+  - Encapsulation: The system protects the data and behavior of each object from unauthorized access and modification by other objects.
+  - Inheritance: The system allows the reuse of existing code and behavior by creating new classes that inherit from existing ones.
+  - Polymorphism: The system allows the same message to be interpreted differently by different objects, depending on their types and states.
+  - Reusability: The system enables the reuse of existing objects and code in different contexts and applications.
+- Object Oriented Architecture follows some principles and guidelines to ensure the quality and maintainability of the system:
+  - SOLID: The first five principles of Object Oriented Design by Robert C. Martin, which are:
+    - Single Responsibility Principle: Each class or module should have one and only one reason to change.
+    - Open/Closed Principle: Each class or module should be open for extension but closed for modification.
+    - Liskov Substitution Principle: Each subclass or derived class should be substitutable for its base or parent class.
+    - Interface Segregation Principle: Each class or module should depend on the smallest possible interface that provides the required functionality.
+    - Dependency Inversion Principle: Each class or module should depend on abstractions rather than concretions.
+  - Design Patterns: The reusable solutions to common problems in Object Oriented Design, such as:
+    - Creational Patterns: The patterns that deal with the creation and initialization of objects, such as Factory, Singleton, Builder, Prototype, etc.
+    - Structural Patterns: The patterns that deal with the composition and arrangement of objects, such as Adapter, Bridge, Composite, Decorator, Facade, etc.
+    - Behavioral Patterns: The patterns that deal with the interaction and communication of objects, such as Observer, Strategy, Command, Iterator, Mediator, etc.
+- Object Oriented Architecture involves defining the context and the architecture of the system :
+  - Context: The context of the system has a static and a dynamic part. The static context of the system is designed using a simple block diagram of the whole system which is expanded into a hierarchy of subsystems. The dynamic context of the system is designed using use cases and scenarios that describe the functional requirements and the interactions of the system with the users and other systems.
+  - Architecture: The architecture of the system is designed using various models and diagrams that represent the structure and behavior of the system and its components. Some of the common models and diagrams are:
+    - Class Diagram: A diagram that shows the classes, their attributes and methods, and the relationships among them, such as inheritance, association, aggregation, composition, etc.
+    - Object Diagram: A diagram that shows the instances of classes and their values and links at a specific point in time.
+    - Sequence Diagram: A diagram that shows the sequence of messages exchanged among objects in a scenario or a use case.
+    - Collaboration Diagram: A diagram that shows the interactions among objects in a scenario or a use case, along with their structural relationships.
+    - State Diagram: A diagram that shows the states and transitions of an object or a system in response to events.
+    - Activity Diagram: A diagram that shows the flow of actions and control in a system or a process.
+    - Component Diagram: A diagram that shows the components and their dependencies in a system or a subsystem.
+    - Deployment Diagram: A diagram that shows the physical nodes and their connections in a system or a subsystem.

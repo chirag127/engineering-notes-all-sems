@@ -1,0 +1,47 @@
+## Unit 5 - Hyperledger Fabric (B)
+
+- In this unit, you will learn about the following topics:
+  - The architecture and components of Hyperledger Fabric
+  - The process of creating and joining a Fabric network
+  - The roles and responsibilities of Fabric participants
+  - The types and features of Fabric smart contracts
+  - The lifecycle and endorsement policies of Fabric chaincode
+  - The mechanisms and tools for Fabric security and privacy
+- Hyperledger Fabric is a permissioned, modular, and extensible blockchain platform that supports distributed ledger solutions for various business domains.
+- Hyperledger Fabric has a unique architecture that separates the transaction execution from the transaction ordering, allowing for scalability, flexibility, and confidentiality.
+- Hyperledger Fabric consists of the following components:
+  - Peer nodes: The nodes that execute transactions, maintain the ledger state, and host chaincode.
+  - Ordering nodes: The nodes that order transactions into blocks and broadcast them to the peer nodes.
+  - Certificate authorities: The entities that issue and manage digital certificates for Fabric participants.
+  - Membership service providers: The components that validate the identity and permissions of Fabric participants.
+  - Channels: The private communication channels that isolate transactions and ledger data among a subset of Fabric participants.
+  - Chaincode: The smart contracts that define the business logic and rules for transactions on the Fabric network.
+  - Clients: The applications or users that interact with the Fabric network by invoking or querying chaincode, or by performing administrative tasks.
+- To create and join a Fabric network, you need to perform the following steps:
+  - Generate the cryptographic material and configuration files for the Fabric participants using tools such as cryptogen and configtxgen.
+  - Start the ordering nodes and peer nodes using tools such as docker-compose or Kubernetes.
+  - Create a genesis block and a system channel for the ordering service using the configtxgen tool.
+  - Create and join application channels for the peer nodes using the peer CLI tool or the Fabric SDKs.
+  - Install and instantiate chaincode on the peer nodes using the peer CLI tool or the Fabric SDKs.
+- Fabric participants have different roles and responsibilities depending on their type and function. Some of the common roles are:
+  - Endorsers: The peer nodes that endorse transactions by executing chaincode and signing the results.
+  - Committers: The peer nodes that validate transactions and update the ledger state.
+  - Leaders: The peer nodes that coordinate the endorsement and validation of transactions for a channel.
+  - Orderers: The ordering nodes that batch transactions into blocks and maintain the order of transactions for a channel.
+  - Administrators: The clients that perform administrative tasks such as creating channels, installing chaincode, or updating policies.
+  - Clients: The clients that submit transactions or queries to the Fabric network.
+- Fabric smart contracts are chaincode that define the business logic and rules for transactions on the Fabric network. Fabric supports two types of chaincode:
+  - System chaincode: The chaincode that provides system functionality such as configuration, lifecycle, or endorsement policies.
+  - Application chaincode: The chaincode that provides application functionality such as asset transfer, voting, or supply chain management.
+- Fabric chaincode has a lifecycle that consists of four phases:
+  - Install: The phase where the chaincode is installed on the peer nodes that will execute it.
+  - Approve: The phase where the chaincode is approved by the organizations that participate in a channel.
+  - Commit: The phase where the chaincode is committed to the channel ledger and becomes active.
+  - Invoke: The phase where the chaincode is invoked by the clients to perform transactions or queries.
+- Fabric chaincode has an endorsement policy that specifies the set of peer nodes that must endorse a transaction before it can be committed to the ledger. The endorsement policy can be defined using expressions such as `AND`, `OR`, or `OutOf`, or using signature policies that reference the identity or role of the endorsers.
+- Fabric provides various mechanisms and tools for security and privacy, such as:
+  - Cryptography: The use of digital certificates, signatures, and encryption to ensure the authenticity, integrity, and confidentiality of transactions and data.
+  - Identity management: The use of certificate authorities and membership service providers to issue and validate the identity and permissions of Fabric participants.
+  - Access control: The use of policies and ACLs to regulate the access and visibility of channels, chaincode, and data among Fabric participants.
+  - Private data: The use of private data collections and side databases to store and share sensitive data among a subset of Fabric participants.
+  - Channels: The use of channels to isolate transactions and ledger data among a subset of Fabric participants.

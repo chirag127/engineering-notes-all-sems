@@ -1,0 +1,17 @@
+# CO 2 Demonstrate the behavior of AC circuits connected to single phase AC supply and measure power in single phase as well as three phase electrical circuits. K4
+
+- An AC circuit is a circuit that carries alternating current, which is the current that changes its direction and magnitude periodically.
+- A single phase AC supply is a type of AC supply that has only one sinusoidal voltage and current waveform, with a constant frequency and amplitude.
+- A single phase AC circuit can be connected to a single phase AC supply in different ways, such as series, parallel, or series-parallel combinations, depending on the load impedance and the desired voltage and current levels.
+- The behavior of a single phase AC circuit can be analyzed using the following concepts:
+  - Phasor diagrams: These are graphical representations of the voltage and current waveforms as rotating vectors, with their magnitudes and angles relative to a reference axis.
+  - Complex numbers: These are mathematical expressions of the form a + jb, where a and b are real numbers, and j is the imaginary unit that satisfies j^2 = -1. Complex numbers can be used to represent phasors in rectangular or polar forms, and can be manipulated using algebraic rules.
+  - Impedance: This is the ratio of the phasor voltage to the phasor current in an AC circuit, and it is a complex number that has a real part (resistance) and an imaginary part (reactance). Impedance can be calculated using Ohm's law, Kirchhoff's laws, or equivalent circuits.
+  - Power factor: This is the cosine of the angle between the phasor voltage and the phasor current in an AC circuit, and it measures how efficiently the circuit converts the input power to the output power. Power factor can be improved by adding capacitors or inductors to the circuit to cancel the reactive power.
+- The power in a single phase AC circuit can be measured using a wattmeter, which is a device that measures the product of the voltage and the current in an AC circuit. A wattmeter consists of two coils, one connected in series with the load (current coil), and the other connected across the supply (voltage coil). The wattmeter reading is proportional to the power factor of the circuit, and it can be corrected by multiplying it by the power factor.
+- A three phase AC supply is a type of AC supply that has three sinusoidal voltage and current waveforms, with the same frequency and amplitude, but with a phase difference of 120 degrees between each pair. A three phase AC supply can be connected to a three phase AC circuit in two ways, either star (Y) or delta (Δ), depending on the load impedance and the desired voltage and current levels.
+- The power in a three phase AC circuit can be measured using one, two, or three wattmeters, depending on the type of connection and the availability of a neutral wire. The following formulas can be used to calculate the total power from the wattmeter readings:
+  - For a balanced star connection with a neutral wire, use one wattmeter and the formula P = W1
+  - For a balanced star connection without a neutral wire, use two wattmeters and the formula P = W1 + W2
+  - For a balanced delta connection, use two wattmeters and the formula P = W1 + W2
+  - For an unbalanced star or delta connection, use three wattmeters and the formula P = W1 + W2 + W3

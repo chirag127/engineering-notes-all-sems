@@ -1,0 +1,9 @@
+## Unit 10 - SCALA
+
+- Scala is a **general-purpose**, **high-level**, **multi-paradigm** programming language that supports both **object-oriented** and **functional** programming  .
+- Scala is designed to be **concise**, **expressive** and **interoperable** with Java . It can run on the **Java Virtual Machine (JVM)** and interoperate with Java libraries . It can also compile to **JavaScript** and run on web browsers.
+- Scala has a **strong** and **static** type system that helps to avoid bugs and enforce **type safety** . It also supports **type inference**, which allows the compiler to infer the types of variables and parameters from the context .
+- Scala has many features that support functional programming, such as **immutable** data structures, **higher-order** functions, **pattern matching**, **lazy evaluation**, **currying**, **tail recursion** and **monads**  .
+- Scala also supports object-oriented programming, such as **classes**, **objects**, **traits**, **inheritance**, **polymorphism**, **abstract types** and **generics**  .
+- Scala has a **unified** syntax that allows functions and variables to be defined in the same way, and expressions and statements to be used interchangeably . It also has a **concise** syntax that allows the use of **syntactic sugar**, such as **string interpolation**, **case classes**, **for-comprehensions** and **implicit conversions** .
+- Scala has a **powerful** and **extensible** compiler that supports **macros**, **annotations**, **implicit parameters**, **type classes** and **dependent types** . It also has a **modular** and **scalable** library that provides **collections**, **actors**, **parsers**, **testing frameworks** and **DSLs**  .

@@ -1,0 +1,11 @@
+### Types of Interrupts and Exceptions
+
+Interrupts and exceptions are events that disrupt the normal flow of execution of a program by the processor. They can be classified into different types based on their source, cause, and handling    .
+
+- **Interrupts** are requests from external devices or controllers to the processor for attention. They can be further divided into:
+  - **Hardware interrupts** are signals sent by hardware devices such as keyboard, mouse, disk, network card, etc. to notify the processor that they need some service or input/output operation. Hardware interrupts are usually asynchronous, meaning they can occur at any time during the execution of a program. Hardware interrupts can be masked or disabled by the processor to avoid interruption.
+  - **Software interrupts** are instructions executed by the program to invoke some service or function from the operating system or the BIOS. Software interrupts are usually synchronous, meaning they occur at a specific point in the program execution. Software interrupts cannot be masked or disabled by the processor. Examples of software interrupts are system calls, breakpoints, etc.
+- **Exceptions** are events that occur within the processor due to some error or abnormal condition. They can be further divided into:
+  - **Faults** are recoverable exceptions that are caused by errors in the program or the input data. Faults can be corrected by the processor or the operating system and the program can resume execution from the point where the fault occurred. Examples of faults are divide by zero, page fault, alignment check, etc.
+  - **Traps** are intentional exceptions that are used for debugging or testing purposes. Traps are similar to software interrupts, but they occur after the execution of the instruction that caused them. Traps can be handled by the processor or the operating system and the program can resume execution from the next instruction. Examples of traps are overflow, single-step, breakpoint, etc.
+  - **Aborts** are unrecoverable exceptions that are caused by severe errors in the hardware or the system. Aborts cannot be corrected by the processor or the operating system and the program cannot resume execution. Aborts usually result in termination of the program or the system. Examples of aborts are machine check, double fault, parity error, etc.

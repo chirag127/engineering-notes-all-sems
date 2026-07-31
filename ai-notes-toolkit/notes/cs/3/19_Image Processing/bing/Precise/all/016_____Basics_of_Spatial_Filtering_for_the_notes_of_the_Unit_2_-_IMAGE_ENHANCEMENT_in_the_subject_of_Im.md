@@ -1,0 +1,11 @@
+# Basics of Spatial Filtering
+
+Spatial filtering is a technique used in image processing to enhance or modify an image by manipulating its pixel values. It is a neighborhood operation that works by moving a filter mask over the image and computing a new value for the center pixel of the mask at each position. The new pixel value is calculated based on the values of the neighboring pixels and the coefficients of the filter mask.
+
+There are two main types of spatial filtering: linear and nonlinear. Linear filtering involves taking a weighted average of the pixel values in the neighborhood of the center pixel, where the weights are determined by the filter mask. Nonlinear filtering, on the other hand, involves using a nonlinear function to compute the new pixel value based on the values of the neighboring pixels.
+
+Some common linear filters used in image processing include the mean filter, which replaces the center pixel with the average of the neighboring pixel values, and the Gaussian filter, which uses a Gaussian function to weight the neighboring pixel values. Nonlinear filters include the median filter, which replaces the center pixel with the median of the neighboring pixel values, and the max and min filters, which replace the center pixel with the maximum or minimum of the neighboring pixel values, respectively.
+
+Spatial filtering can be used for a variety of image enhancement tasks, such as smoothing, sharpening, and edge detection. Smoothing filters, such as the mean and Gaussian filters, are used to reduce noise and smooth out the image. Sharpening filters, such as the Laplacian filter, are used to enhance the edges and details in the image. Edge detection filters, such as the Sobel and Prewitt filters, are used to highlight the edges in the image.
+
+In summary, spatial filtering is a powerful technique used in image processing to enhance or modify an image by manipulating its pixel values. It involves moving a filter mask over the image and computing a new value for the center pixel at each position based on the values of the neighboring pixels and the coefficients of the filter mask. Spatial filtering can be used for a variety of image enhancement tasks, such as smoothing, sharpening, and edge detection.

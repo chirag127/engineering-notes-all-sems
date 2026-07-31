@@ -1,0 +1,23 @@
+# INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION
+
+- Data analytics is the process of collecting, organizing, analyzing, and interpreting data to gain insights and support decision making.
+- Data visualization is the process of presenting data in graphical or pictorial forms to communicate information effectively and efficiently.
+- Data analytics and visualization are closely related and often used together to explore, understand, and communicate data.
+- Data analytics and visualization can be applied to various domains and contexts, such as business, science, education, health, social media, etc.
+- Data analytics and visualization can help to:
+  - Identify patterns, trends, outliers, and anomalies in data
+  - Compare and contrast data from different sources or groups
+  - Discover relationships and correlations among data variables
+  - Test hypotheses and evaluate outcomes of actions or interventions
+  - Communicate findings and recommendations to stakeholders or audiences
+- Data analytics and visualization require different skills and tools, such as:
+  - Data collection and preparation: selecting, cleaning, transforming, and integrating data from various sources and formats
+  - Data analysis: applying statistical, mathematical, or computational methods to data to answer questions or solve problems
+  - Data visualization: choosing appropriate visual forms, such as charts, graphs, maps, etc., to represent data and convey messages
+  - Data interpretation and communication: interpreting the results of data analysis and visualization, and communicating them clearly and persuasively
+- Data analytics and visualization are dynamic and iterative processes, which involve:
+  - Defining the problem or question to be addressed
+  - Exploring the data and generating hypotheses
+  - Analyzing the data and creating visualizations
+  - Evaluating the results and refining the analysis or visualization
+  - Communicating the results and drawing conclusions

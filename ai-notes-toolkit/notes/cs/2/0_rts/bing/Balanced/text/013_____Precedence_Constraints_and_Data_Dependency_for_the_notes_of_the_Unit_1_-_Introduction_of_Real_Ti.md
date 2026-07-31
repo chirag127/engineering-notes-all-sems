@@ -1,0 +1,7 @@
+### Precedence Constraints and Data Dependency
+
+- Precedence constraints and data dependency are two types of constraints that may affect the execution order of jobs in real time systems.
+- Precedence constraints are imposed by the logical or temporal dependencies among jobs, such as control flow or synchronization. For example, a job J1 may need to finish before another job J2 can start, or a job J3 may need to wait for a signal from another job J4.
+- Data dependency is imposed by the communication or sharing of data among jobs, such as input/output or shared memory. For example, a job J5 may need to read some data produced by another job J6, or a job J7 may need to write some data to a shared buffer accessed by another job J8.
+- Precedence constraints and data dependency can be represented by a directed graph G = (J, <), where J is the set of jobs and < is the set of edges. Each edge (Ji, Jk) indicates that Ji is a predecessor of Jk, and Jk is a successor of Ji. This graph is called the precedence graph.
+- Precedence constraints and data dependency can affect the feasibility and optimality of scheduling algorithms for real time systems. For example, some scheduling algorithms may assume that jobs are independent, which may not be true if there are precedence constraints or data dependency. Some scheduling algorithms may need to consider the precedence graph or the data dependency graph to ensure that jobs are executed in a correct and consistent order.

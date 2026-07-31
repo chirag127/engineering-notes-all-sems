@@ -1,0 +1,9 @@
+### Time Alignment And Normalization
+
+Time alignment and normalization are important techniques in speech analysis, particularly in the field of natural language processing. These techniques are used to align and normalize speech signals in order to improve the accuracy of speech recognition and other speech processing tasks.
+
+1. **Time Alignment:** Time alignment refers to the process of synchronizing two or more speech signals in time. This is typically done by identifying corresponding points in the signals, such as the onset of a particular phoneme, and aligning the signals so that these points occur at the same time. Time alignment can be performed manually, by visually inspecting the signals and adjusting their alignment, or automatically, using algorithms that can identify corresponding points in the signals and align them accordingly.
+
+2. **Normalization:** Normalization refers to the process of adjusting the amplitude or energy of a speech signal to a standard level. This is typically done to account for variations in the loudness of speech due to factors such as the distance between the speaker and the microphone, or the speaker's vocal effort. Normalization can be performed by scaling the amplitude of the signal, or by applying more sophisticated techniques such as spectral subtraction or cepstral mean normalization.
+
+Time alignment and normalization are important for improving the accuracy of speech recognition and other speech processing tasks, as they help to reduce the variability of the speech signal and make it easier to compare and analyze different signals. These techniques are commonly used in natural language processing and are an important part of the speech analysis process.

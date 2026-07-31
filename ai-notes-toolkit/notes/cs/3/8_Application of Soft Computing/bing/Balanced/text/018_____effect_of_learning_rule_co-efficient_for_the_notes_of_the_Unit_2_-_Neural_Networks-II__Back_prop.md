@@ -1,0 +1,14 @@
+### Effect of learning rule coefficient for the notes of the Unit 2 - Neural Networks-II (Back propagation networks) in the subject of Application of Soft Computing
+
+- The learning rule coefficient, also known as the learning rate, is a parameter that controls how much the weights of a neural network are updated in each iteration of the backpropagation algorithm .
+- The learning rate affects the speed and accuracy of the learning process. A high learning rate can lead to faster convergence, but also to overshooting the optimal solution and oscillating around it. A low learning rate can lead to slower convergence, but also to more precise and stable solutions .
+- The optimal learning rate depends on the problem domain, the network architecture, the error function, and the training data. There is no universal rule for choosing the best learning rate, but some common methods are  :
+  - Trial and error: trying different values of the learning rate and observing the learning curve and the error rate.
+  - Grid search: performing a systematic search over a range of values of the learning rate and selecting the one that minimizes the error or maximizes the performance metric.
+  - Adaptive methods: adjusting the learning rate dynamically based on the feedback from the learning process, such as the gradient magnitude, the error change, or the validation accuracy. Some examples of adaptive methods are momentum, RMSProp, Adam, and AdaGrad.
+- Some factors that can influence the choice of the learning rate are  :
+  - The size of the training data: a larger dataset may require a smaller learning rate to avoid overfitting and generalization errors.
+  - The complexity of the network: a more complex network may have more local minima and saddle points in the error surface, which may require a smaller learning rate to avoid getting stuck in suboptimal solutions.
+  - The initialization of the weights: a random initialization of the weights may result in a large initial error, which may require a smaller learning rate to avoid divergence and instability.
+  - The normalization of the inputs: a normalization of the inputs can help to reduce the variance and scale of the gradients, which may allow for a larger learning rate and faster convergence.
+- A special case of the learning rule coefficient is the convergence coefficient, which is used in a stochastic automata learning rule for selecting the best coefficient in each step of the learning phase. This approach can improve the performance and robustness of the backpropagation algorithm by adapting the learning rate to the local characteristics of the error surface.

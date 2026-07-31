@@ -1,0 +1,9 @@
+### Energy sources for the notes of the Unit 1 - ENERGY HARVESTING SYSTEMS in the subject of KOT 062 ENERGY HARVESTING TECHNOLOGIES AND POWERMANAGEMENT FOR IOT DEVICES KCS
+
+- Energy harvesting is the process by which energy is derived from external sources (e.g., solar power, thermal energy, wind energy, salinity gradients, and kinetic energy, also known as ambient energy), and then stored for use by small, wireless autonomous devices, like sensors, microcontrollers, and actuators.
+- Energy sources for energy harvesting include:
+  - Motion/mechanical energy: This is the energy from vibrations, movements, rotations, or deformations of materials or structures. It can be converted into electricity using piezoelectric, electromagnetic, or electrostatic mechanisms .
+  - Light energy: This is the energy from natural or artificial light sources. It can be converted into electricity using photovoltaic (PV) cells, which are made of materials that convert light into an electrical current .
+  - Thermal energy: This is the energy from temperature differences or heat flows between two points or materials. It can be converted into electricity using thermoelectric, thermionic, or pyroelectric mechanisms .
+  - RF energy: This is the energy from radio frequency (RF) waves, such as those from TV, radio, or cellular signals. It can be converted into electricity using RF energy harvesters, which are devices that transform RF energy into electrical energy .
+  - Chemical energy: This is the energy from chemical reactions or processes, such as those from batteries, fuel cells, or biodegradable materials. It can be converted into electricity using electrochemical, enzymatic, or microbial mechanisms .

@@ -1,0 +1,13 @@
+### File system protection and security
+
+- File system protection and security are the mechanisms that prevent unauthorized access, modification, or deletion of files and directories in an operating system.
+- File system protection and security can be achieved by using various methods, such as:
+  - Access control lists (ACLs): A list of users and their permissions for each file or directory. The operating system checks the ACL before allowing any access to the file or directory. For example, Windows File Protection (WFP) uses ACLs to protect critical system files from being overwritten by other programs .
+  - Encryption: A process of transforming the data in a file or directory into an unreadable form using a secret key. Only authorized users who have the key can decrypt and access the data. For example, Windows 11 supports BitLocker encryption to protect the data on the hard drive from unauthorized access.
+  - Authentication: A process of verifying the identity of a user who requests access to a file or directory. The user may need to provide a password, a biometric feature, or a token to prove their identity. For example, Windows 11 supports Windows Hello authentication to unlock the device using face, fingerprint, or PIN.
+  - Auditing: A process of recording and monitoring the activities of users who access files and directories. The audit logs can be used to detect and investigate any suspicious or malicious actions. For example, Windows 11 supports Windows Event Log to collect and store audit events.
+- File system protection and security are important for maintaining the integrity, confidentiality, and availability of the data and the system. They can prevent or mitigate various types of security breaches, such as:
+  - Trojan horses: Programs that appear to be harmless but contain malicious code that can harm the system or the data. For example, a Trojan horse may overwrite a system file with a corrupted version.
+  - Viruses: Programs that attach themselves to other programs and replicate themselves to infect more files. For example, a virus may delete or encrypt the data in a file.
+  - Worms: Programs that spread themselves over a network and consume the system resources. For example, a worm may cause a denial-of-service attack by flooding the network with traffic.
+  - Buffer overflows: Attacks that exploit a vulnerability in a program that does not check the size of the input data. For example, a buffer overflow may allow an attacker to execute arbitrary code on the system.

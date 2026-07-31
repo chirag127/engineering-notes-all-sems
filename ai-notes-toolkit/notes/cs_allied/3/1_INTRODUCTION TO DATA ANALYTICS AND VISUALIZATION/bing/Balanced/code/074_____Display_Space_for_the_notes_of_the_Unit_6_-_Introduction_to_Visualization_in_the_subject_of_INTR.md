@@ -1,0 +1,22 @@
+### Display Space for the notes of the Unit 6 - Introduction to Visualization in the subject of INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION
+
+- Data visualization is the graphical representation of data for understanding and communication.
+- Data visualization can be used for two primary purposes: exploration and presentation .
+  - Exploration: You are trying to explore and understand patterns and trends within your data. This can help you generate hypotheses, discover insights, and guide your analysis.
+  - Presentation: You are trying to communicate your findings and conclusions to others. This can help you persuade, inform, or educate your audience.
+- Data visualization can be classified into two main types: information visualization and scientific visualization.
+  - Information visualization: Visualization of abstract data, such as numbers, text, or networks. This can include charts, graphs, maps, diagrams, etc.
+  - Scientific visualization: Visualization of physical data, such as images, volumes, or surfaces. This can include medical imaging, computer graphics, simulations, etc.
+- Data visualization requires three different skills: substantive knowledge, statistical skill, and artistic sense.
+  - Substantive knowledge: You need to understand the context and meaning of your data, and the questions you want to answer or the messages you want to convey.
+  - Statistical skill: You need to know how to manipulate, analyze, and interpret your data, and how to choose appropriate visual methods and techniques.
+  - Artistic sense: You need to know how to design effective and appealing visuals, and how to apply principles of analytic design, such as clarity, simplicity, accuracy, etc.
+- Data visualization can be created using various tools and software, such as R, Python, Excel, Tableau, etc. One of the most popular and powerful tools for data visualization in Python is Matplotlib.
+  - Matplotlib is a library that provides a low-level interface for creating various types of plots and charts, such as line plots, bar charts, scatter plots, histograms, etc.
+  - Matplotlib can be customized and extended to create more complex and interactive visualizations, such as animations, dashboards, or web applications.
+  - Matplotlib can also be used in combination with other libraries, such as Seaborn, Pandas, or Plotly, to enhance its functionality and aesthetics.
+- Data visualization is not only about turning data into visual objects, but also about solving problems with data, where visualization is the means to an overarching goal. Therefore, data visualization should be guided by the following steps:
+  - Define your goal: What is the purpose of your visualization? Who is your audience? What is your message?
+  - Choose your data: What data do you need to achieve your goal? How will you obtain, clean, and transform your data?
+  - Select your format: What type of visualization will best suit your data and your goal? How will you map your data to visual elements, such as shapes, colors, sizes, etc.?
+  - Refine your design: How will you improve the readability, attractiveness, and effectiveness of your visualization? How will you apply principles of analytic design, such as contrast, alignment, balance, etc.?

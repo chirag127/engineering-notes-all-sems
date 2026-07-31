@@ -1,0 +1,8 @@
+### XML in Web Page Designing
+
+- XML stands for Extensible Markup Language. It is a language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.
+- XML is not a programming language, but a meta-language that can be used to create other languages for specific purposes. For example, HTML is a markup language that uses XML syntax to define the structure and content of web pages.
+- XML can be used to design web pages in various ways, such as:
+  - Separating data from presentation: XML can store the data of a web page in a separate file, while the presentation (such as layout, colors, fonts, etc.) can be defined in another file using a style sheet language like CSS or XSL. This allows for easier maintenance, reusability, and accessibility of the web page.
+  - Exchanging data between different platforms and applications: XML can be used to transfer data between different web servers, browsers, databases, and software applications, regardless of their operating systems, languages, or formats. XML data can be parsed and processed by any XML-aware application, using standard tools and protocols like DOM, SAX, XPath, XQuery, SOAP, etc.
+  - Creating dynamic and interactive web pages: XML can be used to create web pages that can change their content or appearance based on user input, preferences, or actions. For example, XML can be used to create web forms, menus, tables, charts, maps, etc. that can be updated or manipulated by the user or by scripts. XML can also be used to create web pages that can communicate with other web pages or web services, using technologies like AJAX, REST, JSON, etc.

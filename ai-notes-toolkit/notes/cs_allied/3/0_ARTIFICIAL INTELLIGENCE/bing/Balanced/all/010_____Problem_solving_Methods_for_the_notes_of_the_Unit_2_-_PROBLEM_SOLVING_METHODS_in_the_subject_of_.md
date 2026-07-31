@@ -1,0 +1,22 @@
+# Problem Solving Methods for the notes of the Unit 2 - PROBLEM SOLVING METHODS in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Problem solving methods are techniques that can be used to find solutions to problems in artificial intelligence (AI).
+- Problem solving methods can be classified into different types, such as search-based, logic-based, knowledge-based, and learning-based methods.
+- Search-based methods use algorithms that explore a space of possible solutions, such as states, actions, or paths, and find the optimal or satisfactory one.
+- Logic-based methods use formal systems of reasoning, such as propositional logic, predicate logic, or modal logic, to represent and manipulate knowledge and draw valid conclusions.
+- Knowledge-based methods use structures that store and organize domain-specific information, such as facts, rules, schemas, or frames, and use inference mechanisms to apply them to problems.
+- Learning-based methods use data and feedback to improve the performance or adaptability of an AI system, such as by inducing rules, generalizing patterns, or optimizing parameters.
+- Some examples of problem solving methods are:
+  - Uninformed search methods, such as breadth-first search, depth-first search, or uniform-cost search, that do not use any domain-specific knowledge and explore the search space blindly.
+  - Informed search methods, such as greedy search, A* search, or hill-climbing search, that use heuristic functions to guide the search towards the goal state.
+  - Constraint satisfaction methods, such as backtracking search, forward checking, or arc consistency, that find solutions that satisfy a set of constraints on variables and values.
+  - Game-playing methods, such as minimax, alpha-beta pruning, or Monte Carlo tree search, that find optimal moves in competitive or adversarial situations.
+  - Propositional logic methods, such as resolution, natural deduction, or truth tables, that manipulate and evaluate logical sentences composed of atomic propositions and connectives.
+  - Predicate logic methods, such as unification, modus ponens, or resolution, that manipulate and evaluate logical sentences composed of predicates, variables, constants, and quantifiers.
+  - Modal logic methods, such as Kripke semantics, possible worlds, or modal operators, that extend predicate logic with notions of necessity, possibility, belief, or obligation.
+  - Rule-based methods, such as forward chaining, backward chaining, or conflict resolution, that use a set of if-then rules to infer new facts or actions from a given set of facts or goals.
+  - Frame-based methods, such as inheritance, default values, or slot-filling, that use a hierarchical structure of frames to represent complex objects and their properties and relations.
+  - Inductive learning methods, such as decision trees, rule induction, or Bayesian learning, that infer general rules or hypotheses from specific examples or observations.
+  - Deductive learning methods, such as explanation-based learning, relevance-based learning, or theory revision, that refine or revise existing rules or hypotheses based on new examples or observations.
+  - Reinforcement learning methods, such as Q-learning, SARSA, or policy iteration, that learn optimal policies or actions based on rewards or penalties from the environment.
+  - Neural network methods, such as perceptrons, backpropagation, or convolutional neural networks, that use a network of interconnected nodes or units to learn complex functions or patterns from data.

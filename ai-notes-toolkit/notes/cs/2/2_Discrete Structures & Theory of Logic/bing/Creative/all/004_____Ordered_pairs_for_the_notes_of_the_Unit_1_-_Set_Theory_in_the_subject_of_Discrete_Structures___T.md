@@ -1,0 +1,7 @@
+# Ordered pairs for the notes of the Unit 1 - Set Theory in the subject of Discrete Structures & Theory of Logic
+
+- An ordered pair is a pair of two objects that are written inside brackets and separated by a comma, such as (a, b)  .
+- The order of the objects in the pair is significant, meaning that (a, b) is different from (b, a) unless a = b  .
+- In contrast, an unordered pair is a pair of two objects that are written inside braces and do not have a specific order, such as {a, b}. An unordered pair is equal to another unordered pair if they have the same objects, regardless of their order, such as {a, b} = {b, a} .
+- Ordered pairs are used in coordinate geometry to represent a point on a coordinate plane, where the first object is the x-coordinate (abscissa) and the second object is the y-coordinate (ordinate)  . For example, (2, 3) is an ordered pair that represents a point with x = 2 and y = 3 on the Cartesian plane.
+- Ordered pairs are also used in set theory to represent an element of a relation or a Cartesian product . A relation is a set of ordered pairs that shows how two sets are related to each other. A Cartesian product is a set of ordered pairs that contains all possible combinations of the elements of two sets. For example, if A = {1, 2} and B = {3, 4}, then the Cartesian product of A and B is A × B = {(1, 3), (1, 4), (2, 3), (2, 4)}.

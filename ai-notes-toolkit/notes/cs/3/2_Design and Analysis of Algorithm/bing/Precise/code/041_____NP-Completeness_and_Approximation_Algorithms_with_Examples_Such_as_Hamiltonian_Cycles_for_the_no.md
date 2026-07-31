@@ -1,0 +1,11 @@
+### NP-Completeness and Approximation Algorithms with Examples Such as Hamiltonian Cycles
+
+NP-Completeness is a concept in computational complexity theory that deals with the classification of computational problems based on their inherent difficulty. A problem is considered NP-Complete if it is both in the class NP (Nondeterministic Polynomial time) and is also NP-Hard. This means that the problem can be verified in polynomial time, but there is no known polynomial time algorithm to solve it.
+
+Approximation algorithms are used to find approximate solutions to NP-Complete problems. These algorithms provide a solution that is close to the optimal solution, but not necessarily the exact solution. Approximation algorithms are useful when finding the exact solution is computationally infeasible.
+
+One example of an NP-Complete problem is the Hamiltonian Cycle problem. A Hamiltonian Cycle is a cycle in a graph that visits every vertex exactly once and returns to the starting vertex. The problem of finding a Hamiltonian Cycle in a graph is NP-Complete, meaning that there is no known polynomial time algorithm to solve it.
+
+There are several approximation algorithms that can be used to find approximate solutions to the Hamiltonian Cycle problem. One such algorithm is the Christofides algorithm, which finds a Hamiltonian Cycle in a complete graph with non-negative edge weights. The algorithm works by first finding a minimum spanning tree of the graph, then finding a perfect matching on the set of vertices with odd degree in the tree, and finally combining the tree and the matching to form an Eulerian circuit. This circuit can then be converted into a Hamiltonian Cycle by skipping repeated vertices.
+
+This is just one example of how approximation algorithms can be used to find approximate solutions to NP-Complete problems. Other examples include the Travelling Salesman Problem, Graph Coloring, n-Queen Problem, and Sum of Subsets. These problems can all be solved using approximation algorithms to find solutions that are close to the optimal solution, but not necessarily the exact solution.

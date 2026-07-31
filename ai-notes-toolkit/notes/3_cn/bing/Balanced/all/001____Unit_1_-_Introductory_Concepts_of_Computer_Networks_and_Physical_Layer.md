@@ -1,0 +1,38 @@
+## Unit 1 - Introductory Concepts of Computer Networks and Physical Layer
+
+- A computer network is any group of interconnected computing devices capable of sending or receiving data.
+- A computing device is not just a computer—it's any device that can run a program, such as a tablet, phone, or smart sensor.
+- Computer networks can be classified based on their size, topology, architecture, and protocols.
+- Some common types of computer networks are:
+  - Local Area Network (LAN): A network that connects devices within a small geographic area, such as a home, office, or school.
+  - Wide Area Network (WAN): A network that connects devices across a large geographic area, such as a city, country, or the world.
+  - Metropolitan Area Network (MAN): A network that connects devices within a metropolitan area, such as a city or a campus.
+  - Personal Area Network (PAN): A network that connects devices within a personal range, such as a Bluetooth headset or a smartwatch.
+  - Wireless Network: A network that uses wireless technologies, such as radio waves, infrared, or microwaves, to transmit data.
+- The Open Systems Interconnection (OSI) model is a conceptual framework that defines the functions of a network system in seven layers.
+- The seven layers of the OSI model are:
+  - Physical Layer: The lowest layer that deals with the physical and electrical aspects of data transmission, such as cables, connectors, signals, and encoding  .
+  - Data Link Layer: The layer that provides reliable and error-free data transfer between adjacent nodes, such as switches, bridges, and MAC addresses.
+  - Network Layer: The layer that provides logical addressing and routing of data packets across different networks, such as routers, IP addresses, and protocols.
+  - Transport Layer: The layer that provides end-to-end data delivery and control, such as TCP, UDP, ports, and flow control.
+  - Session Layer: The layer that establishes, maintains, and terminates sessions between applications, such as authentication, synchronization, and dialog control.
+  - Presentation Layer: The layer that formats and transforms data for different applications, such as encryption, compression, and character sets.
+  - Application Layer: The highest layer that provides user interface and services, such as HTTP, FTP, SMTP, and DNS.
+- A mnemonic to remember the seven layers of the OSI model is: **Please Do Not Throw Sausage Pizza Away**.
+- The physical layer is responsible for movements of individual bits from one node to the next.
+- The physical layer coordinates the functions required to carry a bit stream over a physical medium.
+- The physical layer deals with the mechanical and electrical specifications of the interface and the transmission medium.
+- Some of the functions of the physical layer are:
+  - Bit synchronization: The process of aligning the sender and receiver clocks to ensure correct bit timing.
+  - Bit rate: The number of bits transmitted per second.
+  - Bandwidth: The range of frequencies available for data transmission.
+  - Modulation: The process of changing the characteristics of a carrier signal according to the data signal.
+  - Multiplexing: The process of combining multiple data streams into one channel.
+  - Transmission mode: The direction of data flow between two devices, such as simplex, half-duplex, or full-duplex.
+- Some of the devices and components used in the physical layer are:
+  - Power plugs: The connectors that supply power to the devices.
+  - Connectors: The devices that attach the cables to the devices, such as RJ-45, BNC, or USB.
+  - Receivers: The devices that receive the signals from the transmission medium, such as antennas, photodetectors, or amplifiers.
+  - Cable types: The types of wires or fibers that carry the signals, such as coaxial, twisted pair, or optical fiber.
+  - Repeaters: The devices that regenerate and amplify the signals to extend the transmission range.
+  - Hubs: The devices that broadcast the signals to all connected devices.

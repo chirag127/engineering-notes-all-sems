@@ -1,0 +1,12 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on the topic of Hospital Management System for the Unit 12 - Mini project (Design & Development of Data and Application) for the subject of Database Management Systems Lab. Here is the content in markdown format:
+
+### Hospital Management System
+
+- A hospital management system is a software application that helps to manage the daily operations and activities of a hospital, such as patient registration, appointment scheduling, billing, medical records, laboratory tests, pharmacy, etc.
+- A hospital management system can improve the quality and efficiency of health care services, reduce costs and errors, enhance patient satisfaction and safety, and support decision making and planning.
+- A hospital management system can be designed and developed using various data and application tools, such as database management systems, programming languages, web frameworks, user interface design, etc.
+- A database management system (DBMS) is a software system that provides a systematic way to create, store, manipulate, and access data in a database. A database is a collection of related data organized in a structured way, such as tables, records, fields, etc.
+- A hospital management system can use a relational database management system (RDBMS), such as MySQL, Oracle, SQL Server, etc., to store and manage the data of the hospital. A relational database is based on the relational model, which represents data as relations (tables) with attributes (columns) and tuples (rows).
+- A hospital management system can use a programming language, such as Java, Python, C#, etc., to implement the business logic and functionality of the system. A programming language is a set of rules and syntax that allows a programmer to write instructions for a computer to perform a task.
+- A hospital management system can use a web framework, such as Django, Flask, Spring, etc., to develop the web application and interface of the system. A web framework is a software library that provides a set of tools and components to simplify the development of web applications, such as web servers, templates, routing, authentication, etc.
+- A hospital management system can use a user interface design, such as HTML, CSS, JavaScript, Bootstrap, etc., to create the front-end and layout of the system. A user interface design is the process of designing and developing the visual and interactive elements of a system, such as buttons, menus, forms, etc., that allow the user to interact with the system.

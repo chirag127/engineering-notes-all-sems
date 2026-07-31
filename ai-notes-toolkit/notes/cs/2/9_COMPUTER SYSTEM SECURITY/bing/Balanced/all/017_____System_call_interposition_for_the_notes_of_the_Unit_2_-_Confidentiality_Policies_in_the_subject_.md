@@ -1,0 +1,21 @@
+# System call interposition
+
+- System call interposition (SCI) is a technique for monitoring and regulating the behavior of applications by intercepting their calls to the operating system functions .
+- SCI can be used to implement security policies that restrict the access of applications to system resources, such as files, network, processes, etc.  .
+- SCI can also be used to detect and prevent malicious activities, such as code injection, privilege escalation, data exfiltration, etc.  .
+- SCI works by replacing the original system call handlers with interposed functions that check the arguments and return values of the system calls against a predefined policy  .
+- The policy can be specified by the user, the administrator, or the security tool that implements SCI  .
+- The interposed functions can either approve or reject the system call, or modify its behavior, such as logging, auditing, sandboxing, etc.  .
+- SCI can be implemented at different levels of the system, such as user space, kernel space, or virtual machine monitor (VMM)  .
+- User space SCI is implemented by using dynamic linking or binary rewriting techniques to redirect the system calls to the interposed functions  .
+- Kernel space SCI is implemented by modifying the system call table or using kernel modules to hook the system calls to the interposed functions  .
+- VMM-based SCI is implemented by using the virtualization features of the VMM to trap and emulate the system calls and invoke the interposed functions  .
+- SCI has some advantages and disadvantages depending on the level of implementation   .
+- User space SCI is easy to deploy and has low performance overhead, but it is vulnerable to code injection and bypass attacks  .
+- Kernel space SCI is more secure and transparent, but it requires kernel modification and has high performance overhead  .
+- VMM-based SCI is the most secure and transparent, but it requires hardware support and has the highest performance overhead  .
+- SCI is a powerful and flexible technique for enhancing the security of computer systems, but it also poses some challenges and limitations  .
+- Defining a correct and comprehensive policy is difficult and requires a deep understanding of the application logic and the system behavior   .
+- Handling complex and dynamic system calls, such as ioctl, mmap, and execve, is challenging and may introduce errors or vulnerabilities  .
+- Maintaining the compatibility and portability of SCI across different platforms and architectures is not trivial and may require adaptation or reimplementation  .
+- Balancing the trade-off between security and performance is not easy and may depend on the application requirements and the system resources   .

@@ -1,0 +1,11 @@
+# Stereochemistry: Optical isomerism in compounds without chiral carbon, Geometrical
+
+- Stereochemistry is the branch of chemistry that studies the spatial arrangement of atoms and groups in molecules and how it affects their physical and chemical properties.
+- Optical isomerism is a type of stereoisomerism that occurs when molecules have the same molecular formula and connectivity, but differ in the way they rotate plane-polarized light.
+- Optical isomers are also called enantiomers or chiral molecules. They are non-superimposable mirror images of each other.
+- Chiral molecules usually have one or more chiral centers, which are atoms that are bonded to four different groups. The most common chiral centers are carbon atoms, but other elements such as nitrogen, sulfur, and phosphorus can also be chiral centers .
+- However, not all optical isomers have chiral centers. Some optical isomers can arise from the geometrical arrangement of atoms or groups around a central atom, such as in coordination compounds.
+- Geometrical isomerism is another type of stereoisomerism that occurs when molecules have the same molecular formula and connectivity, but differ in the relative position of atoms or groups around a double bond, a ring, or a metal atom.
+- Geometrical isomers are also called cis-trans isomers or E-Z isomers. They have different physical and chemical properties due to the restricted rotation around the bond or ring.
+- Geometrical isomers can be optical isomers if they have a plane of symmetry that divides the molecule into two mirror halves. For example, the cis and trans isomers of 1,2-dichloroethene are optical isomers, because the cis isomer has a plane of symmetry, while the trans isomer does not.
+- Another example of optical isomerism without chiral centers is the complex [Ni(gly)2], where gly is the glycinate ion (NH2CH2COO-). This complex can exist as two optical isomers, depending on the arrangement of the glycinate ligands around the nickel atom. The two isomers are called delta and lambda, and they rotate plane-polarized light in opposite directions.

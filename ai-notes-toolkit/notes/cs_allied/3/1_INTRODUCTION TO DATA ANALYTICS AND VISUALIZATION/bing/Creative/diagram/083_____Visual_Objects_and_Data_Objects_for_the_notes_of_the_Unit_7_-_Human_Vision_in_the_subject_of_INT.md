@@ -1,0 +1,10 @@
+### Visual Objects and Data Objects
+
+- Visual objects are any identifiable, separate, and distinct parts of the visual world that have certain visual attributes, such as shape, color, size, position, orientation, texture, etc.  
+- Data objects are any abstract entities that have certain data values, such as numbers, strings, dates, categories, etc.  
+- Visual objects can be used to represent data objects by mapping data values to visual features and grouping these features into visual objects. This can help us organize and understand related data more easily.  
+- For example, a bar chart can use visual objects (bars) to represent data objects (quantities) by mapping data values (numbers) to visual features (lengths) and grouping these features into visual objects (bars). 
+- Visual objects can also have different levels of granularity, such as points, lines, areas, volumes, etc. The level of granularity can affect how we perceive and compare data values. 
+- For example, a pie chart can use visual objects (slices) to represent data objects (proportions) by mapping data values (percentages) to visual features (angles and areas) and grouping these features into visual objects (slices). However, angles and areas are harder to perceive and compare than lengths, so a pie chart may not be as effective as a bar chart for showing data values. 
+- Visual objects can also interact with each other and with the user, such as by highlighting, filtering, zooming, panning, etc. These interactions can help us explore and manipulate data more dynamically and intuitively. 
+- For example, a scatter plot can use visual objects (points) to represent data objects (pairs of values) by mapping data values (numbers) to visual features (positions) and grouping these features into visual objects (points). The user can interact with the visual objects by selecting, dragging, or hovering over them, which can reveal more information or change the appearance of the plot.

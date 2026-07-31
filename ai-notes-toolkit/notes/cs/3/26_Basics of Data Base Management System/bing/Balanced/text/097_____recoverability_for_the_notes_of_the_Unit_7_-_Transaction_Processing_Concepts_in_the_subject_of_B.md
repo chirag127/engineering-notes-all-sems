@@ -1,0 +1,21 @@
+### Recoverability
+
+- Recoverability is the ability of a database system to restore the database to a consistent state after a failure or an abort of a transaction.
+- A transaction is a logical unit of work that consists of a sequence of operations on the database, such as read, write, insert, delete, etc.
+- A transaction must satisfy the ACID properties: atomicity, consistency, isolation, and durability.
+- Atomicity means that either all the operations of a transaction are executed or none of them are.
+- Consistency means that a transaction preserves the integrity constraints and business rules of the database.
+- Isolation means that a transaction does not interfere with other concurrent transactions.
+- Durability means that the effects of a committed transaction are permanent and survive any system failure.
+- A failure is any event that causes the database system to stop normal operation, such as power outage, disk crash, software bug, etc.
+- An abort is the intentional termination of a transaction before it commits, usually due to some error or violation of a constraint.
+- A recovery mechanism is a component of the database system that ensures recoverability by restoring the database to a consistent state after a failure or an abort.
+- A recovery mechanism typically uses a combination of the following techniques:
+  - Logging: recording the changes made by transactions in a persistent log file before applying them to the database.
+  - Checkpointing: periodically writing the contents of the main memory buffers to the disk to reduce the amount of work to be done during recovery.
+  - Undoing: reversing the effects of uncommitted transactions that may have left the database in an inconsistent state.
+  - Redoing: reapplying the effects of committed transactions that may have been lost due to a failure.
+- A recovery mechanism must ensure that the following properties are satisfied:
+  - No committed transaction is lost: the effects of any transaction that committed before the failure are reflected in the database after the recovery.
+  - No uncommitted transaction is reflected: the effects of any transaction that did not commit before the failure are not reflected in the database after the recovery.
+  - No cascading aborts: the abort of one transaction does not cause the abort of another transaction that may have read some data written by the first transaction.

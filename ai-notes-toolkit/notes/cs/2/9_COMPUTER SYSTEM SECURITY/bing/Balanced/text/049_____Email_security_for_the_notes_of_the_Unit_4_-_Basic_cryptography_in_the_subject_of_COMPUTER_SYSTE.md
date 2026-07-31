@@ -1,0 +1,10 @@
+### Email security
+
+Email security is the process of protecting email accounts, content, and communication from unauthorized access, loss, or compromise. Email is often used to spread malware, spam, and phishing attacks. Attackers use deceptive messages to entice recipients to part with sensitive information, open malicious attachments, or click on links that install malware on the user's device. Email security is important for both personal and business communication, as it can protect the privacy and confidentiality of the sender and the receiver, as well as the integrity and availability of the email data.
+
+Some of the basic concepts of email security are:
+
+- **Encryption**: Encryption is the process of transforming plain text into ciphertext, which is unreadable by anyone who does not have the key to decrypt it. Encryption can be applied to the email content, the email attachments, or the email connection. Encryption can prevent eavesdropping, tampering, or interception of the email data by unauthorized parties.
+- **Authentication**: Authentication is the process of verifying the identity of the sender or the receiver of an email. Authentication can be done by using passwords, security questions, biometrics, or digital signatures. Authentication can prevent spoofing, impersonation, or repudiation of the email communication.
+- **Filtering**: Filtering is the process of screening incoming or outgoing emails for unwanted or malicious content, such as spam, viruses, or phishing. Filtering can be done by using rules, keywords, blacklists, whitelists, or machine learning algorithms. Filtering can prevent the delivery or receipt of harmful or irrelevant emails that can compromise the security or performance of the email system.
+- **Backup**: Backup is the process of creating and storing copies of email data in a separate location, such as a cloud service, an external hard drive, or a flash drive. Backup can help recover email data in case of accidental deletion, corruption, or loss due to hardware failure, natural disaster, or cyberattack. Backup can ensure the availability and continuity of the email communication.

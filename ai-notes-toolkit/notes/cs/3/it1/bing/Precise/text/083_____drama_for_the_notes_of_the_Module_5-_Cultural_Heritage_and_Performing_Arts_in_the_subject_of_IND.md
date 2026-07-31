@@ -1,0 +1,7 @@
+### Drama in Indian Traditions, Culture and Society
+
+1. Traditional theatres are performed during different social and religious occasions in India. It is also known as rural or village theatre. It reflects the common men's social and cultural attitudes and perceptions.
+2. Indian Folk Dramas have grown over the centuries and are a part of the life and culture of the rural people. Folk plays in the form of songs, dances and dramas have nourished a rich tradition.
+3. Modern Indian theatre was a product of certain Indian social developments. The processes of modernization and Renaissance in the Indian society, brought about Socio – cultural changes and these changes were reflected in the field of art and literature.
+4. Indian drama was highly uninfluenced by other cultures and was a trendsetter with different forms of drama that other cultures picked up on. Themes of Indian drama plays include gods and....
+5. Drama in India started officially with The Persecuted, written by Krishna Mohan Banerjee in the year 1813. There was a need to differentiate the true culture of India from the Western representation of the same by Englishmen in their literary works. This particular play presents the conflict between the east and the west.

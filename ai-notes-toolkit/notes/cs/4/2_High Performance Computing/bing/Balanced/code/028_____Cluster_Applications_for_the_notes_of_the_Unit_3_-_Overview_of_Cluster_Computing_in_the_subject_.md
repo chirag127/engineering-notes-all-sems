@@ -1,0 +1,17 @@
+### Cluster Applications
+
+Cluster computing is a popular approach to achieve high performance computing (HPC) for various scientific and engineering applications. It involves connecting multiple computers or nodes into a network to share resources and workloads. Cluster computing has various applications in different domains and industries. Some of the common cluster applications are:
+
+- **Computational modeling and simulation**: Cluster computing can be used to solve complex computational problems that require high computing power and parallel processing. For example, cluster computing can be used to model and simulate the climate, the human genome, the vehicle dynamics, the fluid dynamics, etc .
+- **Data analysis and processing**: Cluster computing can be used to analyze and process large amounts of data that are generated from various sources. For example, cluster computing can be used to perform data mining, machine learning, image processing, natural language processing, etc .
+- **Web services and cloud computing**: Cluster computing can be used to provide reliable and scalable web services and cloud computing platforms that can handle high volumes of requests and data. For example, cluster computing can be used to host web servers, databases, applications, etc .
+- **High-performance components**: Cluster computing can also be used to optimize the performance of the other computing resources in the cluster, such as the networking, the memory, the storage and the file systems. These components are high-speed, high-throughput and low-latency components that can keep pace with the nodes and enhance the computing power and performance of the cluster.
+
+Cluster computing has many advantages, such as:
+
+- **Cost-effectiveness**: Cluster computing can reduce the cost of acquiring and maintaining expensive supercomputers or specialized hardware. Cluster computing can use commodity hardware or existing infrastructure to build a cluster .
+- **Scalability**: Cluster computing can easily scale up or down the computing resources according to the demand and the workload. Cluster computing can add or remove nodes from the cluster without affecting the performance or the availability of the cluster .
+- **Reliability**: Cluster computing can increase the reliability and the availability of the computing services by providing fault tolerance and load balancing mechanisms. Cluster computing can detect and recover from node failures, network failures, or software failures, and distribute the workload among the available nodes .
+- **Performance**: Cluster computing can improve the performance and the efficiency of the computing tasks by exploiting the parallelism and the concurrency of the cluster. Cluster computing can divide the tasks into smaller subtasks and execute them simultaneously on multiple nodes, reducing the execution time and the communication overhead .
+
+Cluster computing is a powerful and versatile technique for high performance computing that can be applied to various domains and industries. Cluster computing can provide cost-effective, scalable, reliable and high-performance computing solutions for various scientific and engineering applications.

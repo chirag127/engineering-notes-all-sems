@@ -1,0 +1,22 @@
+# Basic indexing methods for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+
+- Indexing is a technique to optimize the performance of a database by reducing the number of disk accesses required to process a query.
+- A database index is a data structure that helps to quickly locate and access the data in a database table.
+- Indexes are created using one or more columns of a table, providing a fast way to look up data based on the values in those columns.
+- Indexing in database is defined based on its indexing attributes. Two main types of indexing methods are:
+  - Primary indexing
+  - Secondary indexing
+- Primary indexing is defined on an ordered data file, where the data file is ordered on a key field.
+  - The key field is usually the primary key or a candidate key of the table.
+  - A primary index consists of two fields: the first field is the same as the key field, and the second field is a pointer to the data block that contains the record with that key value.
+  - Primary indexing can be further divided into two types:
+    - Dense indexing: an index entry is created for every search key value in the database.
+    - Sparse indexing: an index entry is created only for some records, usually the first record of each data block.
+- Secondary indexing is defined on a field that is not the key field of the ordered data file, and may have duplicate values.
+  - A secondary index also consists of two fields: the first field is the secondary key field, and the second field is a pointer to the record or a list of pointers to the records with that key value.
+  - Secondary indexing is always dense, as every search key value has an index entry.
+- Indexing can improve the efficiency of query processing, as it can reduce the number of data blocks that need to be scanned.
+- However, indexing also has some drawbacks, such as:
+  - Increased storage space: indexes require additional space to store the index entries and pointers.
+  - Increased maintenance cost: indexes need to be updated whenever the data file is modified, such as insertion, deletion, or update of records.
+  - Increased complexity: indexes add more complexity to the database design and implementation, as they need to be chosen carefully and managed properly.

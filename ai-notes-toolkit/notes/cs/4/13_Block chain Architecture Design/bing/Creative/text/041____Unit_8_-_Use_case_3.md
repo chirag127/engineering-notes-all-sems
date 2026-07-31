@@ -1,0 +1,23 @@
+## Unit 8 - Use case 3
+
+- Use case 3 is about designing and implementing a chatbot that can answer questions about a company's products and services.
+- The chatbot should be able to:
+  - Greet the user and introduce itself.
+  - Understand the user's intent and extract relevant information from the user's message.
+  - Provide accurate and relevant answers to the user's questions based on the company's knowledge base.
+  - Handle multiple turns of conversation and maintain the context.
+  - Handle errors and exceptions gracefully and provide helpful feedback to the user.
+  - End the conversation politely and thank the user for their interest.
+- The chatbot should not:
+  - Provide personal opinions or recommendations that are not based on the company's data or policies.
+  - Disclose sensitive or confidential information about the company or the user.
+  - Engage in off-topic or inappropriate conversations with the user.
+  - Use slang, jargon, or informal language that may confuse or offend the user.
+- The chatbot should follow the best practices of chatbot design, such as:
+  - Use clear and concise language that is easy to understand and follow.
+  - Use natural and friendly tone that matches the company's brand and voice.
+  - Use appropriate punctuation, capitalization, and grammar.
+  - Use emojis, images, or other rich media to enhance the user experience and engagement.
+  - Provide feedback and confirmation to the user's actions and requests.
+  - Provide options and suggestions to the user to guide them through the conversation.
+  - Provide fallback and help messages when the chatbot cannot understand or answer the user's message.

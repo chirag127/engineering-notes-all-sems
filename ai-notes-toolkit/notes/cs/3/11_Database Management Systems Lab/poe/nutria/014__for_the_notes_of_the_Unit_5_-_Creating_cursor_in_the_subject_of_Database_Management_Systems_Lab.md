@@ -1,0 +1,9 @@
+
+### Unit 5 - Creating Cursor in Database Management Systems Lab
+1. A cursor is a pointer to a specific row in a database table. It allows the user to traverse through the table and perform various operations such as updating, deleting, and inserting records. 
+2. A cursor is created by issuing a DECLARE statement in Transact-SQL. This statement specifies the name of the cursor, the query to be used to populate the cursor, and the type of cursor. 
+3. The type of cursor determines how the data is retrieved from the database. There are two types of cursors: forward-only and scrollable. The forward-only cursor can only be used to traverse through the table in a forward direction, while the scrollable cursor can move both forward and backward. 
+4. Once the cursor is created, it can be used to retrieve data from the database. The FETCH statement is used to retrieve data from the cursor. This statement can be used to retrieve one row at a time or multiple rows at a time. 
+5. After the data is retrieved, the cursor can be used to update, delete, or insert records. The UPDATE, DELETE, and INSERT statements can be used to modify the data in the database. 
+6. When the cursor is no longer needed, it should be closed using the CLOSE statement. This statement releases any resources associated with the cursor and prevents memory leaks. 
+7. Cursors can be used to improve the performance of database applications by reducing the number of round trips to the database. They can also be used to improve the security of an application by limiting the amount of data that is retrieved from the database.

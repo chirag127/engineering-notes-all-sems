@@ -1,0 +1,12 @@
+## Unit 4 - ARTIFICIAL NEURAL NETWORKS
+
+- Artificial neural networks (ANNs) are **computing systems** inspired by the **biological neural networks** that constitute animal brains.
+- ANNs are composed of **nodes** or **artificial neurons** that are connected by **weights** and have **thresholds** or **activation functions** .
+- ANNs can **learn** from data and **approximate** functions that are generally unknown .
+- ANNs are a subset of **machine learning** and are at the heart of **deep learning** algorithms.
+- ANNs can be classified into different **types** based on their **structure**, **learning method**, **function** or **application**.
+- Some common types of ANNs are:
+  - **Feedforward neural networks**: The nodes are arranged in **layers** and the information flows only in one direction, from the **input layer** to the **output layer**. There can be one or more **hidden layers** between the input and output layers. Examples of feedforward neural networks are **perceptrons**, **multilayer perceptrons**, **radial basis function networks**, etc.
+  - **Recurrent neural networks**: The nodes are also arranged in layers, but the information can flow in **both directions**, creating **loops** or **feedbacks**. This allows the network to have **memory** and **dynamics**. Examples of recurrent neural networks are **Hopfield networks**, **Elman networks**, **long short-term memory networks**, etc.
+  - **Convolutional neural networks**: The nodes are arranged in layers, but the connections are **sparse** and **local**, meaning that each node is connected only to a small region of the previous layer. This reduces the number of parameters and allows the network to **extract features** from **spatial** or **temporal** data. Examples of convolutional neural networks are **LeNet**, **AlexNet**, **ResNet**, etc.
+  - **Self-organizing neural networks**: The nodes are arranged in a **lattice** or a **map**, and the network learns to **cluster** or **classify** the input data based on their **similarity** or **distance**. The network does not have a predefined output layer, but rather **adapts** its structure to the data. Examples of self-organizing neural networks are **Kohonen networks**, **neural gas**, **growing neural gas**, etc.

@@ -1,0 +1,15 @@
+# Implementation of Tree Structures, Binary Tree, Tree Traversal, Binary Search Tree, Insertion and Deletion in BST for the notes of the Data Structure using C Lab in the subject of Data Structure using C
+
+- A **tree structure** is a hierarchical data structure that consists of a root node and zero or more child nodes. Each child node can have its own subtree. A tree structure can be used to represent various kinds of data, such as files and folders, organizational charts, family trees, etc.
+- A **binary tree** is a special kind of tree structure where each node can have at most two child nodes, called the left child and the right child. A binary tree can be empty, or it can have a root node and two subtrees, which are also binary trees.
+- **Tree traversal** is the process of visiting each node in a tree structure exactly once, in a specific order. There are three common ways to traverse a binary tree: inorder, preorder, and postorder.
+  - **Inorder traversal** visits the left subtree, then the root node, and then the right subtree. This produces the nodes in sorted order for a binary search tree. 
+  - **Preorder traversal** visits the root node, then the left subtree, and then the right subtree. This can be used to create a copy of the tree or to print a prefix expression of the tree. 
+  - **Postorder traversal** visits the left subtree, then the right subtree, and then the root node. This can be used to delete the tree or to print a postfix expression of the tree. 
+- A **binary search tree (BST)** is a binary tree that satisfies the following property: for any node, the values of all the nodes in the left subtree are smaller than the node's value, and the values of all the nodes in the right subtree are greater than the node's value. A BST can be used to implement efficient search, insertion, and deletion operations. 
+  - **Search** in a BST is done by comparing the value to be searched with the root node's value. If they are equal, the search is successful. If the value is smaller, the search continues in the left subtree. If the value is larger, the search continues in the right subtree. The search is done in O(h) time, where h is the height of the tree.
+  - **Insertion** in a BST is done by finding the appropriate position for the new node in the tree. The new node is always inserted as a leaf node. The insertion is done in O(h) time, where h is the height of the tree.
+  - **Deletion** in a BST is done by finding the node to be deleted and replacing it with a suitable node. There are three cases to consider:
+    - If the node to be deleted has no children, it can be simply removed from the tree.
+    - If the node to be deleted has one child, it can be replaced by its child node.
+    - If the node to be deleted has two children, it can be replaced by either the inorder predecessor (the largest node in the left subtree) or the inorder successor (the smallest node in the right subtree). The predecessor or successor node can then be deleted from its original position.

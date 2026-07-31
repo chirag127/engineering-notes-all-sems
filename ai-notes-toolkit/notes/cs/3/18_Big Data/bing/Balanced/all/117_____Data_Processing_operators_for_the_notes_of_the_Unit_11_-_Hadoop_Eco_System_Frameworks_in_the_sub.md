@@ -1,0 +1,28 @@
+# Data Processing Operators for the Notes of the Unit 11 - Hadoop Eco System Frameworks in the Subject of Big Data
+
+- Hadoop is a framework that uses distributed storage and parallel processing to store and manage big data.
+- Hadoop consists of three components: Hadoop Distributed File System (HDFS), MapReduce, and YARN.
+- HDFS is a distributed file system that stores data across multiple nodes in a cluster.
+- MapReduce is a programming model that allows parallel processing of large data sets using key-value pairs.
+- YARN is a resource manager that allocates and schedules tasks on the cluster nodes.
+- Hadoop also has a rich ecosystem of tools and frameworks that extend its functionality and support various data processing tasks.
+- Some of the popular tools and frameworks in the Hadoop ecosystem are: Pig, Hive, Spark, HBase, Sqoop, Flume, Kafka, etc.
+- Pig is a high-level procedural language for querying large data sets using Hadoop and MapReduce.
+- Pig provides various data processing operators that can be used to manipulate and transform data in a relation.
+- A relation is a bag of tuples, where a tuple is an ordered set of fields.
+- A Pig Latin statement is an operator that takes a relation as input and produces another relation as output.
+- Some of the common data processing operators in Pig are: LOAD, STORE, FILTER, FOREACH, GROUP, JOIN, COGROUP, ORDER, LIMIT, DISTINCT, etc .
+- The LOAD operator is used to load data from a file or a script into a relation.
+- The STORE operator is used to store the data in a relation into a file or a script.
+- The FILTER operator is used to select a subset of tuples from a relation based on a condition.
+- The FOREACH operator is used to generate a new relation by applying transformations to each tuple in a relation.
+- The GROUP operator is used to group the tuples in a relation by one or more fields.
+- The JOIN operator is used to join two or more relations by matching tuples on common fields.
+- The COGROUP operator is used to group the tuples in two or more relations by common fields and create a nested relation for each group.
+- The ORDER operator is used to sort the tuples in a relation by one or more fields.
+- The LIMIT operator is used to limit the number of tuples in a relation to a specified value.
+- The DISTINCT operator is used to remove duplicate tuples from a relation.
+- The STREAM operator is used to transform data in a relation using an external program or script.
+- The data processing operators in Pig can be chained together to form complex data pipelines.
+- The data processing operators in Pig can also be customized by using user-defined functions (UDFs) written in Java, Python, or other languages.
+- The data processing operators in Pig are translated into MapReduce jobs by the Pig compiler and executed on the Hadoop cluster.

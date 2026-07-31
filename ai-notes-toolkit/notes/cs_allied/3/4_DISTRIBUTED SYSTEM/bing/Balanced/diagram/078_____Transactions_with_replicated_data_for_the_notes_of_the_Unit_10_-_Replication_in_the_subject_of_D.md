@@ -1,0 +1,13 @@
+### Transactions with replicated data
+
+- Transactions are a sequence of operations that are executed atomically, consistently, isolated, and durably (ACID properties) on a database system.
+- Replication is a technique to distribute data across multiple servers or locations, so that users can access data relevant to their activities without interfering with the work of others.
+- Transactions with replicated data are transactions that involve data items that have multiple copies on different servers or locations.
+- The main challenges of transactions with replicated data are:
+  - How to ensure atomicity and consistency of transactions across multiple servers or locations, especially in the presence of failures or network partitions.
+  - How to ensure isolation and concurrency control of transactions that access or update the same data items on different servers or locations.
+  - How to balance the trade-offs between availability, performance, and consistency of replicated data.
+- The main approaches to transactions with replicated data are:
+  - Primary-copy approach: One copy of each data item is designated as the primary copy, and all transactions must access or update the primary copy. The primary copy is responsible for propagating the updates to the other copies (replicas). This approach ensures strong consistency and serializability of transactions, but it may suffer from low availability and performance if the primary copy fails or is unreachable .
+  - Replicated-commit approach: All copies of each data item are treated equally, and transactions can access or update any copy. A distributed commit protocol, such as two-phase commit, is used to ensure atomicity and consistency of transactions across all copies. This approach improves availability and performance, but it may incur high communication and coordination overhead, and it may block or abort transactions in case of failures or network partitions .
+  - Quorum-based approach: A subset of copies of each data item, called a quorum, is required to participate in a transaction. A read quorum is the minimum number of copies that must be read to ensure a consistent read, and a write quorum is the minimum number of copies that must be updated to ensure a consistent write. The quorum sizes are determined by the replication factor (the number of copies of each data item) and the desired consistency level. This approach allows for flexible trade-offs between availability, performance, and consistency, but it may require complex quorum management and conflict resolution .

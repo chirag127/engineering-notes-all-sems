@@ -1,0 +1,10 @@
+### Issues in PoS tagging
+
+Part-of-speech (PoS) tagging is the task of assigning a word category (such as noun, verb, adjective, etc.) to each word in a text based on its definition and context. PoS tagging is useful for many natural language processing (NLP) applications, such as syntactic parsing, semantic analysis, information extraction, machine translation, and text summarization.
+
+However, PoS tagging is not a trivial task, as it faces several challenges and difficulties, such as:
+
+- **Ambiguity**: Many words can have more than one possible PoS tag depending on the context and the meaning of the word. For example, the word "book" can be a noun or a verb, and the word "down" can be a preposition, an adverb, or an adjective. A PoS tagger needs to resolve this ambiguity by using linguistic rules or statistical models that take into account the surrounding words and their tags.
+- **Unknown words**: A PoS tagger may encounter words that are not in its vocabulary or training data, such as new words, proper names, acronyms, foreign words, or typos. A PoS tagger needs to handle these unknown words by using heuristics, such as morphological analysis, capitalization, suffixes, prefixes, or fallback strategies, such as assigning the most frequent or the most likely tag.
+- **Variation**: Different languages, domains, genres, and styles may have different PoS tag sets, conventions, and frequencies. A PoS tagger needs to adapt to these variations by using appropriate resources, such as dictionaries, corpora, or ontologies, and by tuning its parameters, such as smoothing, regularization, or thresholding.
+- **Evaluation**: A PoS tagger needs to be evaluated on its accuracy, efficiency, and robustness. However, these criteria may depend on the application, the data, and the tag set. Moreover, there may be disagreements or inconsistencies among human annotators or among different PoS tag standards. A PoS tagger needs to be evaluated by using reliable and representative benchmarks, such as gold-standard corpora, inter-annotator agreement, or error analysis.

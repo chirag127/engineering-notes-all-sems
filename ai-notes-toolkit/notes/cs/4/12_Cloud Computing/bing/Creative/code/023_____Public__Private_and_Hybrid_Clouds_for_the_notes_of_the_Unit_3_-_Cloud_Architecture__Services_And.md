@@ -1,0 +1,30 @@
+### Public, Private and Hybrid Clouds
+
+- Cloud computing is the delivery of computing services over the internet, such as servers, storage, databases, networking, software, analytics, and intelligence.
+- There are three main types of cloud deployment models: public, private, and hybrid clouds. Each one has its own advantages and disadvantages, depending on the needs and preferences of the organization.
+- **Public cloud** is cloud computing that’s delivered via the internet and shared across organizations. Anyone can subscribe to and access public cloud services, such as Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP). Some of the benefits of public cloud are:
+  - Lower costs, as the cloud provider is responsible for the maintenance and security of the infrastructure and software.
+  - Higher scalability and elasticity, as the cloud provider can offer virtually unlimited resources on demand.
+  - Greater innovation and flexibility, as the cloud provider can offer a wide range of services and features that can be easily integrated and customized.
+- Some of the drawbacks of public cloud are:
+  - Less control and visibility, as the organization has to rely on the cloud provider for the management and governance of the cloud environment.
+  - Higher security and compliance risks, as the organization has to share the same physical and logical resources with other cloud users, which may expose sensitive data or applications to potential threats or breaches.
+  - Higher latency and network dependency, as the organization has to access the cloud services over the internet, which may affect the performance and availability of the cloud applications.
+- **Private cloud** is cloud computing that is dedicated solely to your organization. It can be hosted on-premises or off-premises by a third-party provider, such as IBM Cloud, Oracle Cloud, or VMware Cloud. Some of the benefits of private cloud are:
+  - Higher control and visibility, as the organization can customize and optimize the cloud environment according to its own policies and requirements.
+  - Higher security and compliance, as the organization can isolate and protect its data and applications from external access or interference.
+  - Higher performance and reliability, as the organization can leverage dedicated and optimized resources for its cloud applications.
+- Some of the drawbacks of private cloud are:
+  - Higher costs, as the organization is responsible for the capital and operational expenses of the cloud infrastructure and software.
+  - Lower scalability and elasticity, as the organization has to provision and manage the cloud resources in advance, which may limit its ability to respond to changing demands or needs.
+  - Lower innovation and flexibility, as the organization has to update and maintain the cloud services and features by itself, which may reduce its competitiveness and agility.
+- **Hybrid cloud** is any environment that uses both public and private clouds. It can enable the organization to leverage the best of both worlds, by combining the benefits of public and private clouds, such as:
+  - Cost efficiency, by using public cloud for less critical or variable workloads, and private cloud for more critical or stable workloads.
+  - Scalability and elasticity, by using public cloud for peak or bursty demands, and private cloud for baseline or predictable demands.
+  - Innovation and flexibility, by using public cloud for new or experimental services and features, and private cloud for legacy or core services and features.
+  - Security and compliance, by using public cloud for less sensitive or regulated data and applications, and private cloud for more sensitive or regulated data and applications.
+  - Performance and reliability, by using public cloud for global or distributed access, and private cloud for local or centralized access.
+- Some of the challenges of hybrid cloud are:
+  - Complexity and integration, as the organization has to manage and coordinate multiple cloud environments, platforms, and providers, which may increase the technical and operational overhead and risk.
+  - Compatibility and interoperability, as the organization has to ensure that the data and applications can seamlessly move and communicate across different cloud environments, platforms, and providers, which may require additional tools and standards.
+  - Governance and optimization, as the organization has to monitor and control the usage and performance of the cloud resources across different cloud environments, platforms, and providers, which may require additional policies and metrics.

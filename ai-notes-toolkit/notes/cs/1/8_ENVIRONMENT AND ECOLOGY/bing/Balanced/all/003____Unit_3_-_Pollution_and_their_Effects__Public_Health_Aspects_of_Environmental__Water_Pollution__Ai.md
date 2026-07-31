@@ -1,0 +1,21 @@
+# Unit 3 - Pollution and their Effects; Public Health Aspects of Environmental; Water Pollution, Air Pollution, Soil Pollution, Noise Pollution, Solid waste management.
+
+- Pollution is the introduction of harmful substances or energy into the environment, causing adverse effects on living organisms and the natural systems.
+- Pollution can be classified into different types, depending on the source, the medium, and the effect of the pollutants. Some of the common types are water pollution, air pollution, soil pollution, noise pollution, and solid waste pollution.
+- Water pollution is the contamination of water bodies, such as rivers, lakes, oceans, and groundwater, by human activities or natural processes, affecting the quality and availability of water for various uses.
+- Some of the causes of water pollution are industrial effluents, agricultural runoff, sewage and wastewater, oil spills, acid rain, and marine debris.
+- Some of the effects of water pollution are reduced biodiversity, eutrophication, algal blooms, waterborne diseases, and disruption of aquatic ecosystems.
+- Air pollution is the presence of harmful substances or particles in the atmosphere, such as gases, dust, smoke, and fumes, that can affect the health and well-being of humans and other living organisms.
+- Some of the sources of air pollution are fossil fuel combustion, vehicle emissions, industrial processes, biomass burning, volcanic eruptions, and wildfires.
+- Some of the effects of air pollution are respiratory diseases, cardiovascular diseases, asthma, lung cancer, and premature death  .
+- Soil pollution is the degradation of soil quality and fertility, caused by the accumulation of toxic substances or chemicals in the soil, such as pesticides, fertilizers, heavy metals, and radioactive waste.
+- Some of the causes of soil pollution are improper disposal of solid waste, agricultural activities, mining activities, deforestation, and urbanization.
+- Some of the effects of soil pollution are reduced soil productivity, loss of soil biodiversity, contamination of food crops, and health risks for humans and animals.
+- Noise pollution is the excessive or unwanted sound that can cause annoyance, stress, hearing loss, and sleep disturbance for humans and other living organisms.
+- Some of the sources of noise pollution are traffic, construction, industrial machinery, aircraft, loud music, and fireworks.
+- Some of the effects of noise pollution are hypertension, cardiovascular diseases, cognitive impairment, psychological disorders, and reduced wildlife diversity.
+- Solid waste pollution is the accumulation of non-biodegradable or hazardous materials in the environment, such as plastic, paper, metal, glass, and electronic waste.
+- Some of the causes of solid waste pollution are overconsumption, population growth, urbanization, and lack of proper waste management.
+- Some of the effects of solid waste pollution are landfills, incineration, recycling, composting, and waste-to-energy.
+- Pollution control is the prevention, reduction, or elimination of pollution, using various methods and technologies, such as air pollution control, wastewater treatment, solid-waste management, hazardous-waste management, and recycling.
+- Pollution control aims to protect the environment and human health from the harmful effects of pollution, and to conserve the natural resources and ecosystems for future generations.

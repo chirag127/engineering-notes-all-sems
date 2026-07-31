@@ -1,0 +1,8 @@
+# Jainism in India
+
+- Jainism is an Indian religion that teaches the path to enlightenment is through nonviolence and reducing harm to living things as much as possible.
+- Jainism is one of the world’s oldest religions, originating in India at least 2,500 years ago. The spiritual goal of Jainism is to become liberated from the endless cycle of rebirth and to achieve an all-knowing state called moksha.
+- Jainism has always existed and will always exist, according to Jain doctrine. It is considered one of the three most ancient Indian religious traditions still in existence and an integral part of South Asian religious culture, along with Hinduism and Buddhism.
+- Jains are the only religious group in India where a majority say they are members of a higher General Category caste. Most Indians (68%) are members of lower castes (Scheduled Castes, Scheduled Tribes or Other Backwards Classes), compared with 20% of Jains who identify with these communities.
+- Jainism is practiced by about 4.5 million people in India, which is less than 1% of the total population. The states with the highest proportion of Jains are Maharashtra, Rajasthan, Gujarat, and Madhya Pradesh.
+- Jainism has two main sects: Digambara and Svetambara, which differ in their views on asceticism, scriptures, and the status of women. Both sects follow the five main vows of ahimsa (nonviolence), satya (truthfulness), asteya (non-stealing), brahmacharya (celibacy or chastity), and aparigraha (non-attachment or non-possessiveness).

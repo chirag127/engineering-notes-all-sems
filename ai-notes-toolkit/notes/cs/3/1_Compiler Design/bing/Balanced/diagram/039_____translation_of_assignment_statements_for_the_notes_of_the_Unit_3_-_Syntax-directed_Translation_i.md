@@ -1,0 +1,24 @@
+### Translation of Assignment Statements
+
+- An assignment statement is a statement that assigns a value to a variable or a data structure.
+- In compiler design, translation of assignment statements involves generating intermediate code or target code that implements the semantics of the assignment statement in the source language.
+- Translation of assignment statements can be done using syntax-directed translation, which is a method of translating a source program into an intermediate representation based on the syntax and semantics of the source language.
+- Syntax-directed translation uses a context-free grammar (CFG) to define the syntax of the source language and associates semantic rules or actions with each production of the CFG.
+- Semantic rules or actions are functions that manipulate attributes of the grammar symbols, such as types, values, locations, etc.
+- Attributes can be classified into two types: synthesized attributes and inherited attributes.
+- Synthesized attributes are attributes that are computed from the attributes of the children of a node in the parse tree or the abstract syntax tree (AST).
+- Inherited attributes are attributes that are computed from the attributes of the parent or siblings of a node in the parse tree or the AST.
+- Syntax-directed translation can be implemented using two methods: syntax-directed definition (SDD) and translation scheme.
+- Syntax-directed definition (SDD) is a notation that specifies the semantic rules or actions for each production of the CFG using attribute grammars.
+- Attribute grammars are extensions of CFGs that annotate each grammar symbol with a set of attributes and each production with a set of semantic rules or actions.
+- Translation scheme is a notation that embeds the semantic rules or actions within the right-hand side of the productions of the CFG using semantic actions.
+- Semantic actions are fragments of code that are executed when a production is recognized by the parser.
+- Translation of assignment statements can be done using either SDD or translation scheme, depending on the complexity and requirements of the source language and the target language.
+- Translation of assignment statements can also involve type checking, which is the process of verifying that the operands and the result of the assignment statement have compatible types.
+- Type checking can be done using either static or dynamic methods, depending on the type system of the source language and the target language.
+- Static type checking is done at compile time, using the type information available in the source program and the symbol table.
+- Dynamic type checking is done at run time, using the type information available in the intermediate code or the target code.
+- Translation of assignment statements can also involve type conversion, which is the process of converting the value of an operand or the result of the assignment statement from one type to another type, if they are not compatible.
+- Type conversion can be done using either implicit or explicit methods, depending on the type system of the source language and the target language.
+- Implicit type conversion is done automatically by the compiler, using predefined rules or conventions.
+- Explicit type conversion is done by the programmer, using type cast operators or functions.

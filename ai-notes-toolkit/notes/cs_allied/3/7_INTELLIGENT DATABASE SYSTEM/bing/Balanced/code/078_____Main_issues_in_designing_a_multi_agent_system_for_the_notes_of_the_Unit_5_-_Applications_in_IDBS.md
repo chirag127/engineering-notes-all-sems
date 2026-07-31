@@ -1,0 +1,10 @@
+### Main issues in designing a multi-agent system
+
+A multi-agent system (MAS) is a computerized system composed of multiple interacting intelligent agents that can solve problems that are difficult or impossible for an individual agent or a monolithic system to solve. Designing a MAS involves several issues and challenges, such as:
+
+- **Specifying the system requirements and goals**: The designer needs to identify the main objectives and functionalities of the MAS, as well as the constraints and assumptions that apply to the problem domain and the solution approach.
+- **Identifying the roles and responsibilities of the agents**: The designer needs to define the types and characteristics of the agents that will participate in the MAS, as well as their tasks, capabilities, preferences, and interactions .
+- **Designing the agent architecture and behavior**: The designer needs to choose the appropriate agent model and architecture for each agent type, as well as the algorithms and protocols that will govern their behavior and coordination .
+- **Designing the communication and coordination mechanisms**: The designer needs to specify the communication language and protocol that the agents will use to exchange information and negotiate, as well as the coordination strategies and mechanisms that will enable them to achieve common or conflicting goals  .
+- **Designing the system architecture and deployment**: The designer needs to decide how the agents will be distributed and deployed in the shared environment, as well as how the system will be monitored and controlled .
+- **Evaluating the system performance and resilience**: The designer needs to test and validate the system functionality and quality, as well as its ability to cope with uncertainties, failures, and disturbances in the environment and among the agents .

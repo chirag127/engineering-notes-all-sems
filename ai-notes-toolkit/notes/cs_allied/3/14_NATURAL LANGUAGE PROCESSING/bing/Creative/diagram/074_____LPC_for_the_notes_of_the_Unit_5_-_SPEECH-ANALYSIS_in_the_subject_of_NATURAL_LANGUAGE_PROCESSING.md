@@ -1,0 +1,16 @@
+### LPC for the notes of the Unit 5 - SPEECH-ANALYSIS in the subject of NATURAL LANGUAGE PROCESSING
+
+- LPC stands for Linear Predictive Coding, which is a method used mostly in audio signal processing and speech processing for representing the spectral envelope of a digital signal of speech in compressed form, using the information of a linear predictive model .
+- LPC is the most widely used method in speech coding and speech synthesis, as it can model the human vocal tract and produce natural sounding speech with low bit rates.
+- LPC analyzes the speech signal by estimating the formants, which are the resonant frequencies of the vocal tract, and removing their effects from the speech signal, leaving behind the residual signal, which contains the pitch and the noise components .
+- The process of removing the formants is called inverse filtering, and the residual signal after the subtraction of the filtered modeled signal is called the residue.
+- The linear predictive model assumes that the current sample of the speech signal can be approximated as a linear combination of the previous samples, and the coefficients of this linear combination are called the linear prediction coefficients .
+- The linear prediction coefficients can be obtained by minimizing the mean squared error between the original signal and the predicted signal, using methods such as autocorrelation, covariance, or Burg's algorithm .
+- The linear prediction coefficients can also be converted to other equivalent representations, such as the reflection coefficients, the line spectral frequencies, or the cepstral coefficients, which have different properties and applications .
+- The LPC analysis can be performed on either the time domain or the frequency domain of the speech signal, depending on the application and the computational complexity .
+- The LPC synthesis is the process of reconstructing the speech signal from the LPC parameters, such as the linear prediction coefficients, the residual signal, and the pitch period .
+- The LPC synthesis can be done by using a synthesis filter, which is the inverse of the analysis filter, and adding the residual signal to the output of the filter .
+- The LPC synthesis can also be modified to produce different effects, such as changing the pitch, the formants, or the voice quality of the speech signal .
+- The LPC coding is the process of encoding and decoding the speech signal using the LPC parameters, which can reduce the bit rate and the bandwidth requirements of the speech signal, while preserving the intelligibility and the naturalness of the speech .
+- The LPC coding can be classified into different types, such as waveform coding, vocoding, or hybrid coding, depending on the way the residual signal is encoded and decoded .
+- The LPC coding can also be combined with other techniques, such as vector quantization, adaptive differential pulse code modulation, or code excited linear prediction, to improve the performance and the quality of the speech coding .

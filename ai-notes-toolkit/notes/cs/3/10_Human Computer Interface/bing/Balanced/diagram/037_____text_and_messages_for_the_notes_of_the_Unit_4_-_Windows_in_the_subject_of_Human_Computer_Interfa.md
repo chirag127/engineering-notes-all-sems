@@ -1,0 +1,22 @@
+### Text and Messages
+
+- Text and messages are one of the ways that users can interact with computers using natural language.
+- Text and messages can be used for different purposes, such as:
+  - Sending and receiving information, such as emails, chats, and instant messages .
+  - Asking and answering questions, such as in conversational user interfaces, chatbots, and virtual assistants .
+  - Giving and receiving feedback, such as in error messages, warnings, and notifications.
+- Text and messages have some advantages and disadvantages, such as:
+  - Advantages:
+    - They can be asynchronous, meaning that users can communicate at their own pace and time.
+    - They can be persistent, meaning that users can review and refer to the previous messages.
+    - They can be expressive, meaning that users can use different languages, symbols, and emojis to convey their emotions and intentions.
+  - Disadvantages:
+    - They can be ambiguous, meaning that users may misunderstand or misinterpret the meaning of the messages.
+    - They can be impersonal, meaning that users may lack the social cues and context that are present in face-to-face communication .
+    - They can be overwhelming, meaning that users may receive too many messages or information that are irrelevant or distracting.
+- Text and messages require some design considerations, such as:
+  - Clarity, meaning that the messages should be concise, accurate, and easy to understand.
+  - Consistency, meaning that the messages should follow the same style, tone, and format throughout the interface.
+  - Courtesy, meaning that the messages should be polite, respectful, and positive.
+  - Context, meaning that the messages should be relevant, appropriate, and timely for the user's situation and task.
+  - Control, meaning that the messages should give the user some options or actions to perform.

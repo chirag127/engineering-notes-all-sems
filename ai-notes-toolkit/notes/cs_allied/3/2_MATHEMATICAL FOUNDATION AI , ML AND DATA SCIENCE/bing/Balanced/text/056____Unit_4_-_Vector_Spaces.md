@@ -1,0 +1,32 @@
+## Unit 4 - Vector Spaces
+
+- A vector space is a set of objects called vectors, which can be added together and multiplied by scalars, satisfying certain axioms.
+- A scalar is a real or complex number that can be used to scale a vector, i.e. change its magnitude or direction.
+- The axioms of a vector space are:
+  - Closure under addition: For any two vectors u and v in the vector space, u + v is also in the vector space.
+  - Closure under scalar multiplication: For any scalar c and any vector u in the vector space, c * u is also in the vector space.
+  - Commutativity of addition: For any two vectors u and v in the vector space, u + v = v + u.
+  - Associativity of addition: For any three vectors u, v and w in the vector space, (u + v) + w = u + (v + w).
+  - Additive identity: There exists a vector 0 in the vector space such that for any vector u, u + 0 = u.
+  - Additive inverse: For any vector u in the vector space, there exists a vector -u such that u + (-u) = 0.
+  - Distributivity of scalar multiplication over vector addition: For any scalar c and any two vectors u and v in the vector space, c * (u + v) = (c * u) + (c * v).
+  - Distributivity of vector addition over scalar multiplication: For any two scalars a and b and any vector u in the vector space, (a + b) * u = (a * u) + (b * u).
+  - Multiplicative identity: There exists a scalar 1 such that for any vector u, 1 * u = u.
+- Examples of vector spaces are:
+  - The set of all n-tuples of real or complex numbers, denoted by R^n or C^n, with the usual operations of component-wise addition and scalar multiplication.
+  - The set of all polynomials of degree less than or equal to n, denoted by P_n, with the usual operations of polynomial addition and scalar multiplication.
+  - The set of all continuous functions on a given interval, denoted by C[a, b], with the usual operations of function addition and scalar multiplication.
+  - The set of all matrices of a given size, denoted by M_mn, with the usual operations of matrix addition and scalar multiplication.
+- A subspace of a vector space is a subset of the vector space that is itself a vector space under the same operations.
+- A subspace must satisfy three conditions:
+  - It must contain the zero vector of the original vector space.
+  - It must be closed under vector addition, i.e. if u and v are in the subspace, then u + v is also in the subspace.
+  - It must be closed under scalar multiplication, i.e. if u is in the subspace and c is any scalar, then c * u is also in the subspace.
+- Examples of subspaces are:
+  - The set of all vectors in R^n that have the first component equal to zero, denoted by W = {(0, x_2, ..., x_n) | x_2, ..., x_n are real numbers}.
+  - The set of all polynomials of degree less than or equal to n that have no constant term, denoted by U = {a_n x^n + ... + a_1 x | a_n, ..., a_1 are real or complex numbers}.
+  - The set of all continuous functions on [a, b] that have zero integral, denoted by V = {f(x) | f is continuous on [a, b] and ∫_a^b f(x) dx = 0}.
+  - The set of all symmetric matrices of size n x n, denoted by S = {A | A is a n x n matrix and A^T = A}.
+- A linear combination of a set of vectors {v_1, v_2, ..., v_k} in a vector space is a vector of the form c_1 v_1 + c_2 v_2 + ... + c_k v_k, where c_1, c_2, ..., c_k are scalars.
+- A span of a set of vectors {v_1, v_2, ..., v_k} in a vector space is the set of all linear combinations of those vectors, denoted by span{v_1, v_2, ..., v_k}.
+- A span of a set of vectors is always a subspace of the vector space that contains the vectors.

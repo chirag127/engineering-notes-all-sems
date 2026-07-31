@@ -1,0 +1,33 @@
+### Unit 2 - Tissues in animal and plants, Morphology, anatomy and functions of different parts of plants: Root, stem, leaf, inflorescence, flower, fruit and seed.
+
+- Tissues are groups of similar cells that work together to perform a specific function.
+- There are four main types of animal tissues: connective, nervous, muscle, and epithelial tissues.
+  - Connective tissue: supports and binds other tissues, such as blood, cartilage, bone, and adipose tissue .
+  - Nervous tissue: allows rapid communication between different parts of the body, such as neurons and glial cells .
+  - Muscle tissue: can contract to allow movement of body parts, such as skeletal, cardiac, and smooth muscle .
+  - Epithelial tissue: covers the surfaces of the body and lines the cavities and ducts, such as skin, mucous membranes, and glands .
+- There are three main tissue systems in plants: epidermis, ground tissue, and vascular tissue.
+  - Epidermis: the outermost layer of cells that protects the plant from water loss, infection, and damage .
+  - Ground tissue: the bulk of the plant body that fills the space between the epidermis and the vascular tissue, such as parenchyma, collenchyma, and sclerenchyma .
+  - Vascular tissue: the tissue that transports water and nutrients throughout the plant, such as xylem and phloem .
+- Morphology is the study of the external form and structure of plants, such as the shape, size, color, and arrangement of plant parts.
+- Anatomy is the study of the internal structure and organization of plants, such as the tissues, cells, and organelles that make up plant organs.
+- The main parts of a plant are the root, stem, leaf, inflorescence, flower, fruit, and seed. Each part has a specific function and structure.
+  - Root: the part of the plant that anchors it to the soil, absorbs water and minerals, and stores food.
+    - The root has three main regions: the root cap, the root tip, and the root hairs.
+    - The root cap protects the root tip from damage and secretes mucilage to lubricate the soil.
+    - The root tip contains the apical meristem, a region of actively dividing cells that produces new root tissues.
+    - The root hairs are extensions of the epidermal cells that increase the surface area for absorption.
+  - Stem: the part of the plant that supports the leaves, flowers, and fruits, and transports water and nutrients between the root and the shoot.
+    - The stem has three main tissues: the epidermis, the cortex, and the vascular cylinder.
+    - The epidermis is the outer layer of cells that protects the stem and may have hairs, glands, or spines.
+    - The cortex is the middle layer of cells that provides mechanical support and storage.
+    - The vascular cylinder is the innermost layer of cells that contains the xylem and phloem.
+  - Leaf: the part of the plant that is the main site of photosynthesis, transpiration, and gas exchange.
+    - The leaf has three main parts: the petiole, the blade, and the veins.
+    - The petiole is the stalk that connects the leaf to the stem.
+    - The blade is the flat and broad part of the leaf that contains the mesophyll, a layer of photosynthetic cells.
+    - The veins are the vascular bundles that transport water and nutrients to and from the leaf.
+  - Inflorescence: the part of the plant that is a group or cluster of flowers arranged on a stem.
+    - There are different types of inflorescences, such as raceme, spike, corymb, umbel, head, and panicle.
+    - The type of inflorescence depends on the arrangement, number, and size of the flowers[^2^

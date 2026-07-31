@@ -1,0 +1,25 @@
+### Council of Ministers
+
+- The Council of Ministers is the principal executive organ of the Government of India, which functions as the senior decision making body of the executive branch.
+- It is chaired by the Prime Minister and consists of the heads of each of the executive government ministries.
+- The Council of Ministers exercises executive authority in India and is responsible for implementing the laws and policies enacted by the Parliament.
+- The Council of Ministers is appointed by the President of India on the advice of the Prime Minister.
+- The Council of Ministers is collectively responsible to the Lok Sabha, the lower house of the Parliament, and must enjoy its confidence.
+- The Council of Ministers is made up of five categories of ministers, in descending order of rank:
+  - Prime Minister: Leader of the executive of the Government of India.
+  - Deputy Prime Minister (if any): Presides as Prime Minister in his absence or as the senior most cabinet minister.
+  - Cabinet Ministers: Heads of the important ministries and members of the Cabinet, the core decision making body of the Council of Ministers.
+  - Ministers of State (with independent charge): Heads of the less important ministries and not members of the Cabinet, but can attend its meetings when invited.
+  - Ministers of State: Junior ministers who assist the Cabinet Ministers or the Ministers of State (with independent charge) and do not have independent charge of any ministry.
+- The current Council of Ministers, as of December 2021, has 77 members, including the Prime Minister, 30 Cabinet Ministers, 45 Ministers of State, and one Minister of State (without independent charge) .
+- Some of the important ministries and their heads are:
+  - Ministry of Home Affairs: Amit Shah (Cabinet Minister)
+  - Ministry of Defence: Rajnath Singh (Cabinet Minister)
+  - Ministry of External Affairs: Subrahmanyam Jaishankar (Cabinet Minister)
+  - Ministry of Finance: Nirmala Sitharaman (Cabinet Minister)
+  - Ministry of Education: Dharmendra Pradhan (Cabinet Minister)
+  - Ministry of Health and Family Welfare: Mansukh Mandaviya (Cabinet Minister)
+  - Ministry of Railways: Ashwini Vaishnaw (Cabinet Minister)
+  - Ministry of Information and Broadcasting: Anurag Thakur (Cabinet Minister)
+  - Ministry of Petroleum and Natural Gas: Hardeep Singh Puri (Cabinet Minister)
+  - Ministry of Culture: G. Kishan Reddy (Cabinet Minister)

@@ -1,0 +1,23 @@
+# MVD for the notes of the Unit 4 - Data Base Design & Normalization in the subject of Basics of Data Base Management System
+
+- MVD stands for multivalued dependency, which is a type of constraint between two sets of attributes in a relation.
+- A multivalued dependency occurs when a single value of one attribute is associated with multiple values of another attribute, and vice versa.
+- For example, if a relation R has attributes A, B, and C, and A --> --> B means that for each value of A, there are multiple values of B, and A --> --> C means that for each value of A, there are multiple values of C, then R has a multivalued dependency A --> --> B, C.
+- A multivalued dependency is a special case of a join dependency, which is a constraint that requires a relation to be equal to the join of its projections.
+- A join dependency is denoted by JD(R1, R2, ..., Rn), where R is a relation and R1, R2, ..., Rn are its projections.
+- A multivalued dependency is a binary join dependency, which means it involves only two projections.
+- For example, A --> --> B, C is equivalent to JD(R1, R2), where R1 has attributes A and B, and R2 has attributes A and C.
+- A relation is in fourth normal form (4NF) if it has no multivalued dependencies.
+- 4NF is a refinement of the third normal form (3NF), which requires a relation to have no transitive dependencies.
+- A transitive dependency is a functional dependency of the form A --> B and B --> C, which implies A --> C.
+- A functional dependency is a constraint that for each value of one attribute, there is exactly one value of another attribute.
+- For example, if a relation R has attributes A, B, and C, and A --> B and B --> C, then R has a transitive dependency A --> C.
+- To achieve 4NF, a relation with multivalued dependencies should be decomposed into smaller relations that preserve the dependencies and the information.
+- For example, if a relation R has attributes A, B, and C, and A --> --> B, C, then R can be decomposed into R1(A, B) and R2(A, C), which are both in 4NF.
+- Normalization is the process of designing a database schema that reduces redundancy and anomalies, and ensures data integrity and consistency.
+- Normalization helps to avoid problems such as update, insertion, and deletion anomalies, which can cause data inconsistency and loss.
+- Normalization also helps to improve query performance and maintainability, by reducing the size and complexity of the relations.
+- Normalization is based on a series of normal forms, such as 1NF, 2NF, 3NF, 4NF, and 5NF, each of which has a set of rules and criteria to check and enforce.
+- The higher the normal form, the more normalized the relation is, and the less redundancy and anomalies it has.
+- However, normalization also has some drawbacks, such as increased number of relations and joins, loss of semantic information, and possible performance degradation.
+- Therefore, normalization should be balanced with other design considerations, such as user requirements, application needs, and system constraints.

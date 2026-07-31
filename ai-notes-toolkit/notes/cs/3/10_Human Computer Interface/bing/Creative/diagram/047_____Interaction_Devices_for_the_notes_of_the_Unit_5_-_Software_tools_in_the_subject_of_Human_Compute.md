@@ -1,0 +1,21 @@
+### Interaction Devices
+
+Interaction devices are the hardware and software components that enable the communication and exchange of information between humans and computers. Interaction devices can be classified into three categories:
+
+- Input devices: These are the devices that allow users to enter data, commands, or queries into the computer system. Examples of input devices are keyboards, mice, touchscreens, scanners, microphones, cameras, etc.
+- Output devices: These are the devices that display or present the results, feedback, or responses from the computer system to the users. Examples of output devices are monitors, speakers, printers, projectors, etc.
+- Input/output devices: These are the devices that combine both input and output functions in a single device. Examples of input/output devices are touchscreens, head-mounted displays, smartwatches, etc.
+
+Interaction devices can also be categorized based on the modality of interaction, such as:
+
+- Graphical user interface (GUI): This is the most common and widely used type of interaction device, where users interact with the computer system through graphical elements, such as icons, menus, buttons, windows, etc. GUIs are usually controlled by input devices such as keyboards and mice, and displayed on output devices such as monitors.
+- Voice user interface (VUI): This is a type of interaction device where users interact with the computer system through speech or voice commands. VUIs are usually controlled by input devices such as microphones, and displayed on output devices such as speakers. Examples of VUIs are voice assistants, such as Siri, Alexa, or Google Assistant.
+- Gesture user interface (GUI): This is a type of interaction device where users interact with the computer system through body movements, such as hand gestures, facial expressions, or eye movements. GUIs are usually controlled by input devices such as cameras, sensors, or motion trackers, and displayed on output devices such as monitors, projectors, or head-mounted displays. Examples of GUIs are gesture recognition systems, such as Kinect, Leap Motion, or Face ID.
+- Haptic user interface (HUI): This is a type of interaction device where users interact with the computer system through touch or tactile feedback. HUIs are usually controlled by input devices such as touchscreens, joysticks, or gloves, and displayed on output devices such as vibrators, force feedback devices, or wearable devices. Examples of HUIs are haptic feedback systems, such as rumble controllers, haptic gloves, or haptic vests.
+- Brain-computer interface (BCI): This is a type of interaction device where users interact with the computer system through brain signals or neural activity. BCI are usually controlled by input devices such as electrodes, implants, or headsets, and displayed on output devices such as monitors, speakers, or stimulators. Examples of BCI are brain-computer communication systems, such as EEG, fMRI, or ECoG.
+
+The choice of interaction devices depends on various factors, such as:
+
+- The task or goal of the user: Different tasks may require different types of interaction devices, depending on the complexity, accuracy, speed, or feedback needed. For example, typing a document may be easier with a keyboard than with a voice interface, while navigating a map may be easier with a touchscreen than with a mouse.
+- The context or environment of the user: Different contexts may require different types of interaction devices, depending on the availability, accessibility, or suitability of the devices. For example, using a voice interface may be more convenient than using a graphical interface in a hands-free or eyes-free situation, while using a haptic interface may be more immersive than using a graphical interface in a virtual reality or augmented reality situation.
+- The preference or ability of the user: Different users may prefer or be able to use different types of interaction devices, depending on their personal preferences, skills, or limitations. For example, some users may prefer using a gesture interface over a voice interface, while some users may have difficulties using a graphical interface due to visual impairments or disabilities.

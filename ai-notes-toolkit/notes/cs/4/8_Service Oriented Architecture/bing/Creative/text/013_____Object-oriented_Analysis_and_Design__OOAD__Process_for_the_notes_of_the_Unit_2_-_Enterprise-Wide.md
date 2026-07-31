@@ -1,0 +1,12 @@
+### Object-oriented Analysis and Design (OOAD) Process
+
+- Object-oriented analysis and design (OOAD) is a technical approach for analyzing and designing an application, system, or business by applying object-oriented programming, as well as using visual modeling throughout the software development process to guide stakeholder communication and product quality.
+- OOAD consists of two main activities: object-oriented analysis (OOA) and object-oriented design (OOD).
+- OOA is the process of identifying and modeling the functional requirements of the software, while remaining independent of any implementation details. OOA uses object-oriented concepts and techniques, such as abstraction, encapsulation, inheritance, and polymorphism, to model the problem domain and the system behavior .
+- OOD is the process of designing the software architecture and components that will satisfy the functional requirements and the non-functional requirements, such as performance, reliability, security, etc. OOD uses object-oriented concepts and techniques, such as classes, objects, methods, interfaces, associations, and patterns, to design the system structure and interactions .
+- OOAD follows an iterative and incremental approach, where the analysis and design activities are performed in cycles, each producing a partial or complete version of the software. OOAD also uses visual modeling languages, such as Unified Modeling Language (UML), to represent the analysis and design artifacts, such as use cases, class diagrams, sequence diagrams, etc .
+- The main benefits of OOAD are:
+  - It facilitates communication and collaboration among stakeholders, such as developers, customers, users, testers, etc., by using a common and understandable notation and terminology.
+  - It enhances the quality and maintainability of the software, by promoting modularity, reusability, cohesion, and low coupling among the software components.
+  - It supports the adaptation and evolution of the software, by allowing changes and refinements in the analysis and design models without affecting the existing functionality.
+  - It enables the application of software engineering principles and best practices, such as abstraction, encapsulation, inheritance, polymorphism, design patterns, etc., to improve the software design and implementation.

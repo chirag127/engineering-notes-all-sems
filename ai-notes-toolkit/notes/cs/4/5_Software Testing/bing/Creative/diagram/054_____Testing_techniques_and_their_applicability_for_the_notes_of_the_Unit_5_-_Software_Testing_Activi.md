@@ -1,0 +1,19 @@
+### Testing techniques and their applicability
+
+Testing techniques are the methods applied to evaluate a system or a component with a purpose to find if it satisfies the given requirements. Testing of a system helps to identify gaps, errors, or any kind of missing requirements differing from the actual requirements. Testing techniques can be classified into two main categories: static testing and dynamic testing.
+
+Static testing is a technique that involves the examination of the software artifacts without executing them. Static testing can be done manually or with the help of tools. Static testing techniques include reviews, inspections, walkthroughs, audits, and static analysis. Static testing can help to detect defects early in the software development life cycle, improve the quality of the software, reduce the cost of rework, and enhance the security and reliability of the software.
+
+Dynamic testing is a technique that involves the execution of the software or a component under test with some input data and observing the output. Dynamic testing can be done at different levels of testing, such as unit testing, integration testing, system testing, and acceptance testing. Dynamic testing techniques include functional testing, non-functional testing, and structural testing. Dynamic testing can help to verify the functionality, performance, usability, security, and compatibility of the software or a component.
+
+Some of the common testing techniques and their applicability are:
+
+- Unit testing: Validating that each software unit performs as expected. A unit is the smallest testable component of an application, such as a method, a function, or a class. Unit testing can help to find defects at an early stage, improve the code quality, facilitate the integration of the units, and support the refactoring and maintenance of the code. Unit testing can be done manually or with the help of tools, such as JUnit, NUnit, TestNG, etc.
+- Integration testing: Ensuring that software components or functions operate together. Integration testing can help to find defects in the interfaces and interactions between the components or functions, verify the data flow and communication among the components or functions, and validate the functionality and performance of the integrated system. Integration testing can be done using different approaches, such as top-down, bottom-up, sandwich, or big-bang. Integration testing can be done manually or with the help of tools, such as SoapUI, Postman, Selenium, etc.
+- System testing: Verifying whether the whole system works as intended. System testing can help to find defects in the system as a whole, verify the compliance of the system with the functional and non-functional requirements, and validate the usability, reliability, and security of the system. System testing can be done using different types of testing, such as functional testing, non-functional testing, regression testing, etc. System testing can be done manually or with the help of tools, such as JMeter, LoadRunner, QTP, etc.
+- Acceptance testing: Confirming that the system meets the expectations and needs of the end-users or stakeholders. Acceptance testing can help to find defects in the user interface, user experience, and business logic of the system, verify the satisfaction of the user or stakeholder requirements, and validate the readiness of the system for deployment or delivery. Acceptance testing can be done using different types of testing, such as user acceptance testing, alpha testing, beta testing, etc. Acceptance testing can be done manually or with the help of tools, such as Cucumber, SpecFlow, FitNesse, etc.
+
+: Testing Techniques : Types, Advantages and Disadvantages - ElProCus
+: Software Testing Techniques - GeeksforGeeks
+: Application Testing | Complete Guide to Application Testing - EDUCBA
+: The different types of testing in software | Atlassian

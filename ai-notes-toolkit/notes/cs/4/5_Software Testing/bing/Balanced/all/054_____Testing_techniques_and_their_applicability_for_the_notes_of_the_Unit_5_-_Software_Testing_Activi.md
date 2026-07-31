@@ -1,0 +1,13 @@
+# Testing techniques and their applicability
+
+Testing techniques are the methods applied to evaluate a system or a component with a purpose to find if it satisfies the given requirements. Testing of a system helps to identify gaps, errors, or any kind of missing requirements differing from the actual requirements.
+
+There are different types of testing techniques, each with its own advantages and disadvantages, and applicability to different scenarios. Some of the common testing techniques are:
+
+- **Unit testing**: Validating that each software unit performs as expected. A unit is the smallest testable component of an application. Unit testing is very low level and close to the source of an application. It consists in testing individual methods and functions of the classes, components, or modules used by your software. Unit testing is generally quite cheap to automate and can run very quickly by a continuous integration server. Unit testing is applicable to any software development methodology and helps to ensure the quality and functionality of the code.
+
+- **Integration testing**: Ensuring that software components or functions operate together. Integration testing is the process of combining and testing multiple units or modules as a group. Integration testing can be done in different ways, such as top-down, bottom-up, or sandwich approach. Integration testing is applicable to software systems that have multiple components or modules that interact with each other, and helps to detect interface errors and compatibility issues.
+
+- **System testing**: Verifying whether the whole system meets the specified requirements. System testing is the testing of the complete and integrated software system, including both functional and non-functional aspects. System testing can be done in different ways, such as functional testing, performance testing, security testing, usability testing, etc. System testing is applicable to software systems that have complex functionalities and features, and helps to ensure the reliability and usability of the system.
+
+- **Acceptance testing**: Verifying whether the system works as intended for the end users. Acceptance testing is the final phase of testing, where the system is tested by the intended users or customers, or their representatives. Acceptance testing can be done in different ways, such as alpha testing, beta testing, or user acceptance testing. Acceptance testing is applicable to software systems that have specific user requirements and expectations, and helps to ensure the satisfaction and acceptance of the system by the users.

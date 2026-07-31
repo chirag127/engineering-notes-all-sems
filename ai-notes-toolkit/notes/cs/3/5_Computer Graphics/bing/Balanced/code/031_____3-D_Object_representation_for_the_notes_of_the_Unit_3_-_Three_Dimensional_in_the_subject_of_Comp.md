@@ -1,0 +1,8 @@
+### 3-D Object Representation
+
+- 3-D object representation is the process of developing a mathematical coordinate-based representation of any surface of an object in three dimensions via specialized software .
+- 3-D object representation is essential for computer graphics applications such as rendering, animation, simulation, and gaming.
+- 3-D object representation can be classified into two main categories: boundary representations and space-partitioning representations.
+- Boundary representations (B-reps) describe a 3-D object as a set of surfaces that separates the object interior from the environment. The most commonly used B-reps are polygons, which are planar regions bounded by edges and vertices . Polygons can be arranged in various ways to form complex shapes, such as triangle meshes, quad meshes, and polygonal meshes.
+- Space-partitioning representations describe the interior properties of a 3-D object by dividing the 3-D space into regions, such as voxels, octrees, and BSP trees. Space-partitioning representations are useful for modeling solid objects, volumetric data, and collision detection.
+- 3-D object representation can also be based on other methods, such as parametric curves and surfaces, implicit surfaces, subdivision surfaces, and procedural models . These methods can offer more flexibility, smoothness, and realism than polygonal models, but they may also require more computation and storage .

@@ -1,0 +1,24 @@
+### ISO 9000 Models
+
+- ISO 9000 is a family of standards that provide guidelines and tools for quality management and quality assurance in various domains, including software engineering .
+- ISO 9000 is based on seven quality management principles that help organizations ensure that their products or services are aligned with customer needs. The seven principles are:
+  - Customer focus: understanding and meeting customer requirements and expectations.
+  - Leadership: establishing a clear vision, direction and culture for the organization.
+  - Engagement of people: involving and empowering people at all levels of the organization.
+  - Process approach: managing activities and resources as interrelated processes that create value.
+  - Improvement: continually evaluating and enhancing the performance and effectiveness of the organization.
+  - Evidence-based decision making: using data and information to support decisions and actions.
+  - Relationship management: building and maintaining mutually beneficial relationships with internal and external stakeholders.
+- ISO 9001 is the most widely used standard in the ISO 9000 family. It specifies the requirements for a quality management system that an organization can use to demonstrate its ability to consistently provide products or services that meet customer and regulatory requirements.
+- ISO 9001 can be applied to any organization, regardless of its size, type or field of activity. It can also be used for certification purposes, although this is not mandatory.
+- ISO/IEC/IEEE 90003 is a specific standard that provides guidance for the application of ISO 9001 to computer software. It covers the acquisition, supply, development, operation and maintenance of software and related support services .
+- ISO/IEC/IEEE 90003 is designed as a checklist that helps organizations to implement and improve their software quality management system. It also helps auditors and customers to evaluate the software quality management system of an organization .
+- ISO/IEC/IEEE 90003 covers the following topics:
+  - Scope: defines the applicability and limitations of the standard.
+  - Normative references: lists the standards and documents that are indispensable for the application of the standard.
+  - Terms and definitions: explains the key terms and concepts used in the standard.
+  - Quality management system: describes the general requirements for establishing, documenting, implementing, maintaining and improving a software quality management system.
+  - Management responsibility: outlines the roles and responsibilities of top management, such as establishing a quality policy, setting quality objectives, ensuring customer satisfaction, conducting management reviews and providing resources.
+  - Resource management: addresses the provision and management of human, physical, financial and information resources that are needed for the software quality management system.
+  - Product realization: covers the planning, design, development, testing, verification, validation, delivery, installation, acceptance and maintenance of software products and services.
+  - Measurement, analysis and improvement: deals with the monitoring, measurement, analysis and improvement of the software quality management system, including internal audits, customer feedback, corrective and preventive actions and continual improvement .

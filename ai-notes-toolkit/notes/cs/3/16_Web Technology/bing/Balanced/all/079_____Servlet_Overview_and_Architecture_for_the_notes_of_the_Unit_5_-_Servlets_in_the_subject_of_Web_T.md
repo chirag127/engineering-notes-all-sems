@@ -1,0 +1,29 @@
+# Servlet Overview and Architecture
+
+- A servlet is a Java class that extends the functionality of a web server and handles requests from web clients.
+- A servlet can generate dynamic web content, such as HTML, XML, JSON, etc., based on the input parameters, database queries, or business logic.
+- A servlet can also process data from web forms, cookies, HTTP headers, or sessions.
+- A servlet is managed by a servlet container, which is a component of a web server or an application server that provides the runtime environment and services for servlets.
+- A servlet container is responsible for loading, initializing, invoking, and destroying servlets, as well as handling communication between servlets and web clients.
+- A servlet container also implements the servlet API, which is a set of interfaces and classes that define the contract between servlets and the container.
+- The servlet API consists of two packages: javax.servlet and javax.servlet.http.
+- The javax.servlet package contains the core interfaces and classes for servlets, such as Servlet, ServletConfig, ServletContext, ServletRequest, ServletResponse, etc.
+- The javax.servlet.http package contains the HTTP-specific interfaces and classes for servlets, such as HttpServlet, HttpServletRequest, HttpServletResponse, HttpSession, etc.
+- A servlet can be configured using annotations or deployment descriptors, which are XML files that specify the servlet name, URL mapping, initialization parameters, security constraints, etc.
+- A servlet can be mapped to one or more URL patterns, which define how the web server routes the requests to the servlet.
+- A servlet can also be part of a web application, which is a collection of servlets, JSPs, HTML files, images, etc., that share a common context and resources.
+- A web application is deployed as a WAR file, which is a compressed archive that contains the web components and the deployment descriptor (web.xml).
+- A servlet follows a request-response model, which means that for each request from a web client, the servlet container creates a new thread and invokes the servlet's service method.
+- The service method determines the HTTP method (GET, POST, etc.) of the request and calls the corresponding doXXX method (doGet, doPost, etc.) of the servlet.
+- The doXXX method processes the request and generates a response, which is sent back to the web client by the servlet container.
+- The servlet can access the request and response objects, which are instances of HttpServletRequest and HttpServletResponse, respectively.
+- The request object provides information about the request, such as the parameters, headers, cookies, session, etc.
+- The response object provides methods to set the status code, headers, cookies, content type, etc., and to write the output data to the web client.
+- The servlet can also access the servlet context and the servlet config objects, which are instances of ServletContext and ServletConfig, respectively.
+- The servlet context object represents the web application and provides methods to access the shared resources, such as attributes, parameters, listeners, etc.
+- The servlet config object represents the servlet and provides methods to access the initialization parameters and the servlet context.
+- The servlet can also communicate with other servlets or web components using the request dispatcher or the servlet context objects, which provide methods to forward or include the request and response to another resource.
+- The servlet can also use filters, listeners, and annotations to enhance its functionality and performance.
+- A filter is a Java class that intercepts the request and response and performs some pre-processing or post-processing tasks, such as logging, compression, encryption, authentication, etc.
+- A listener is a Java class that implements a specific interface and responds to certain events in the servlet life cycle, such as initialization, destruction, attribute change, session creation, etc.
+- An annotation is a Java feature that provides metadata about the servlet, such as the name, URL mapping, initialization parameters, etc., and can be used instead of or along with the deployment descriptor.

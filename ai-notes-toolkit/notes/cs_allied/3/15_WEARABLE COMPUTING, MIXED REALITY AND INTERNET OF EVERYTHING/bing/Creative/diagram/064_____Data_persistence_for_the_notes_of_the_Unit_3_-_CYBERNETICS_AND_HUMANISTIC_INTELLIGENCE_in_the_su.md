@@ -1,0 +1,28 @@
+### Data persistence for the notes of the Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Data persistence is the longevity of data after the application that created it has been closed.
+- In order for data persistence to happen, the data must be written to non-volatile storage, a type of memory that can retain that information long-term, even if the application is no longer running.
+- Data persistence is important for various reasons, such as:
+  - Preserving the state and history of the application and its users
+  - Enabling data analysis and reporting
+  - Providing backup and recovery options
+  - Supporting scalability and performance
+  - Complying with legal and regulatory requirements
+- Data persistence can be achieved by different methods and technologies, such as:
+  - Files: storing data in structured or unstructured formats on a file system
+  - Databases: storing data in tables, records, and fields using a relational or non-relational model
+  - Data warehouses: storing data in a centralized repository for analytical purposes
+  - Data lakes: storing data in a distributed and raw format for flexible processing
+  - Cloud storage: storing data in a remote and scalable service accessed via the internet
+- Data persistence can also be classified by the level of persistence, such as:
+  - User-level persistence: storing data that is specific to a user or a session, such as preferences, settings, or history
+  - Application-level persistence: storing data that is shared by all users and sessions, such as configuration, rules, or metadata
+- Data persistence can also be influenced by the device state, such as:
+  - Pure in-memory storage: offering the least amount of persistence, as data is lost when the device is turned off or crashes
+  - In-memory storage with periodic snapshots: offering some persistence, as data is saved to non-volatile storage at regular intervals
+  - Disk-based storage with update-in-place writes: offering high persistence, as data is updated on non-volatile storage whenever it changes
+  - Disk-based storage with append-only writes: offering the highest persistence, as data is never overwritten or deleted on non-volatile storage
+- Data persistence is relevant for the topic of cybernetics and humanistic intelligence, as it relates to the following aspects:
+  - The interaction and feedback between humans and machines, and how data persistence can enhance or hinder the communication and adaptation
+  - The design and evaluation of wearable computing, mixed reality, and internet of everything systems, and how data persistence can affect the functionality, usability, and security of these systems
+  - The ethical and social implications of data persistence, and how data persistence can impact the privacy, autonomy, and identity of humans and machines

@@ -1,0 +1,21 @@
+### Unit 11 - Automatic Backup of Files and Recovery of Files in Database Management Systems Lab
+
+- Automatic backup is a process of creating copies of data and files at regular intervals without manual intervention. It can help protect data from loss, corruption, or disaster.
+- Recovery is a process of restoring data and files from backups to a database or system in case of failure, damage, or deletion. It can help resume normal operations and minimize downtime.
+- Automatic backup and recovery of files in database management systems have the following benefits:
+  - They can ensure that the data is consistent and up-to-date with the recovery point objectives (RPOs) agreed by management.
+  - They can reduce the risk of human error or negligence that may cause data loss or corruption.
+  - They can improve disaster recovery and business continuity by enabling fast and reliable restoration of data and system functionality.
+  - They can save time and resources by automating the backup and recovery tasks and reducing the manual effort and intervention required.
+- Automatic backup and recovery of files in database management systems have the following challenges:
+  - They require careful planning and configuration to suit the needs and requirements of the database and the organization.
+  - They may consume significant storage space and network bandwidth depending on the frequency, type, and size of the backups.
+  - They may encounter errors or failures due to hardware, software, or network issues that may affect the backup or recovery process.
+  - They may need regular monitoring and testing to ensure that the backups are valid and the recovery is successful.
+- Automatic backup and recovery of files in database management systems depend on the following factors:
+  - The recovery model of the database, which determines the backup and restore requirements and the amount of transaction log data that is retained and backed up.
+  - The backup type, which determines the scope and level of the backup, such as full, differential, incremental, or partial backup.
+  - The backup destination, which determines the location and format of the backup, such as disk, tape, cloud, or file.
+  - The backup schedule, which determines the frequency and timing of the backup, such as daily, weekly, monthly, or on-demand.
+  - The recovery point, which determines the target state or time of the database or system to be restored from the backup, such as the most recent state, a specific point-in-time, or a specific backup.
+  - The recovery method, which determines the steps and procedures to restore the data and files from the backup, such as restore, roll forward, roll back, or recover.

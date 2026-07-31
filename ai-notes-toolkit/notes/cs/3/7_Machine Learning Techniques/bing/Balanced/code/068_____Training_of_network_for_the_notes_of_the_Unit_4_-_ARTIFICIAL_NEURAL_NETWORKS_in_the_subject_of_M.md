@@ -1,0 +1,26 @@
+### Training of network for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+
+- Training a neural network means finding the appropriate weights of the neural connections that minimize the error between the actual output and the desired output of the network .
+- Training a neural network involves using an optimization algorithm, such as gradient descent, to update the weights iteratively based on the feedback from a loss function that measures the discrepancy between the actual output and the desired output .
+- Training a neural network requires the following steps :
+  - Initialize the weights randomly
+  - Split the dataset into batches of a fixed size
+  - Send the batches one by one to the network
+  - Calculate the forward pass, which is the output of the network with the current weights
+  - Compare the calculated output to the expected output using a loss function
+  - Adjust the weights using the learning rate and the backward pass, which is the propagation of the error gradient from the output layer to the input layer
+  - Repeat the process until the loss function reaches a minimum or a convergence criterion is met
+- Training a neural network is hard because :
+  - The weights of the intermediate layers are highly interdependent, so a small change in one weight can affect all the outputs
+  - The error surface is non-convex and contains local minima, flat spots, and is highly multidimensional, so finding the global minimum is challenging
+  - The network can overfit the training data, which means it memorizes the specific patterns of the training data and fails to generalize to new data
+  - The network can underfit the training data, which means it fails to capture the complexity and variability of the data and produces high error
+- Training a neural network can be improved by using some best practices, such as:
+  - Choosing an appropriate network architecture, which means selecting the number and type of layers, the number and size of neurons, and the activation functions
+  - Choosing an appropriate loss function, which means selecting a function that reflects the objective and the type of the output, such as mean squared error for regression or cross-entropy for classification
+  - Choosing an appropriate optimization algorithm, which means selecting an algorithm that can efficiently and effectively update the weights, such as stochastic gradient descent, Adam, or RMSprop
+  - Choosing an appropriate learning rate, which means selecting a value that controls the size of the weight updates, such as using a constant, adaptive, or decayed learning rate
+  - Choosing an appropriate batch size, which means selecting a value that balances the speed and accuracy of the training, such as using a small, medium, or large batch size
+  - Choosing an appropriate regularization technique, which means applying a method that reduces overfitting and improves generalization, such as dropout, weight decay, or batch normalization
+  - Choosing an appropriate initialization technique, which means applying a method that sets the initial weights to values that facilitate the training, such as Xavier, He, or orthogonal initialization
+  - Choosing an appropriate data preprocessing technique, which means applying a method that transforms the input data to a suitable format and range for the network, such as normalization, standardization, or augmentation

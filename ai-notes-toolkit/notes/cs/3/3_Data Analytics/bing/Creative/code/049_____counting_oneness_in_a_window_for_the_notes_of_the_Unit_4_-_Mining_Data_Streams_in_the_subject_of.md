@@ -1,0 +1,24 @@
+### Counting oneness in a window
+
+- Counting oneness in a window is a problem of estimating the number of 1's in the last k bits of a data stream, where k is a large number that cannot fit in memory.
+- One possible solution is to use the DGIM algorithm, which uses O(log2 N) bits to represent a window of N bits, and allows us to estimate the number of 1's in the window with an error of no more than 50% .
+- The DGIM algorithm works as follows:
+  - Each bit of the stream has a timestamp, the position in which it arrives. The first bit has timestamp 1, the second has timestamp 2, and so on.
+  - We also store the total number of bits ever seen in the stream (i.e., the most recent timestamp) modulo N, then we can determine from a timestamp modulo N where in the current window the bit with that timestamp is.
+  - We divide the window into buckets, each consisting of:
+    - The timestamp of its right (most recent) end.
+    - The number of 1's in the bucket.
+  - The buckets have the following properties:
+    - There are at most two buckets with the same number of 1's.
+    - The buckets are sorted by their timestamps, from left to right.
+    - The number of 1's in a bucket is a power of 2.
+  - Whenever a new bit arrives, we do the following:
+    - If the bit is 0, we ignore it.
+    - If the bit is 1, we create a new bucket with timestamp equal to the current timestamp and number of 1's equal to 1.
+    - We check if there are three buckets with the same number of 1's. If so, we merge the two oldest buckets into one, by adding their numbers of 1's and taking the larger timestamp.
+    - We discard any buckets that are outside the current window of N bits.
+  - To estimate the number of 1's in the last k bits, we do the following:
+    - We find the oldest bucket that is completely within the last k bits, and call it B.
+    - We sum up the numbers of 1's in all the buckets that are newer than B, and call it S.
+    - We add to S half of the number of 1's in B, and call it E.
+    - We return E as the estimate of the number of 1's in the last k bits.

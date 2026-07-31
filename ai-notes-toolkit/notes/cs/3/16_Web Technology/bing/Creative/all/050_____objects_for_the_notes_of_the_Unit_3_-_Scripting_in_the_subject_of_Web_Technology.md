@@ -1,0 +1,13 @@
+# Objects in Scripting Languages
+
+- An object is a programming entity that represents a real-world entity or concept, such as a person, a car, a book, or a bank account.
+- An object has two main characteristics: data and behavior. Data are the attributes or properties of the object, such as its name, color, size, or balance. Behavior are the actions or methods that the object can perform, such as speak, move, read, or withdraw.
+- Objects are created from templates called classes, which define the common data and behavior for all objects of that type. For example, a class called Person can define the data (name, age, gender, etc.) and behavior (speak, walk, eat, etc.) for all persons.
+- Objects are also called instances of a class, because they are specific examples or occurrences of the class. For example, Alice and Bob are two different objects or instances of the class Person, with their own data and behavior.
+- Scripting languages are high-level programming languages that are designed for rapid development and execution of scripts, which are small programs that automate tasks or interact with other programs or systems.
+- Scripting languages are often interpreted, meaning that they are translated and executed line by line at runtime, rather than compiled, meaning that they are translated into machine code before execution.
+- Scripting languages are also often dynamically typed, meaning that they do not require explicit declaration of the data types of variables or parameters, and they can change the type of a variable at runtime.
+- Some examples of scripting languages are JavaScript, Python, Ruby, PHP, and Perl.
+- Scripting languages support object-oriented programming (OOP), which is a programming paradigm that organizes data and behavior into objects and classes, and allows objects to inherit data and behavior from other classes or objects.
+- Scripting languages differ from traditional object-oriented languages, such as Java or C++, in the way they implement objects and classes. In scripting languages, objects are more flexible and dynamic, and can be modified or extended at runtime, without requiring a predefined class structure.
+- Some scripting languages, such as JavaScript, use prototype-based inheritance, which means that objects inherit directly from other objects, rather than from classes. In prototype-based inheritance, objects can be created from existing objects, and can add or remove properties or methods at runtime.

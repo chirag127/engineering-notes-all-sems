@@ -1,0 +1,12 @@
+# CO-3 Measure the hardness and alkalinity of the water. K3
+
+- Hardness and alkalinity are two important parameters of water quality that affect its suitability for various purposes.
+- Hardness is the measure of the concentration of calcium and magnesium ions in water, which can form insoluble deposits or scale on pipes, boilers, and other equipment. Hardness can also affect the taste, lather formation, and detergent efficiency of water.
+- Alkalinity is the measure of the capacity of water to neutralize acids, which is mainly due to the presence of bicarbonates, carbonates, and hydroxides of calcium, magnesium, and other metals. Alkalinity can also affect the pH, corrosion, and buffering capacity of water.
+- The hardness and alkalinity of water can be measured by titration methods using standard solutions of known concentration and indicators that change color at specific pH values.
+- The common methods for measuring hardness and alkalinity are:
+
+  - EDTA titration method for total hardness and calcium hardness. EDTA is a chelating agent that forms a complex with calcium and magnesium ions, and the end point is detected by a metal indicator such as Eriochrome Black T or Calcon, which changes color from red to blue when all the metal ions are complexed.
+  - Soap titration method for total hardness. Soap is a sodium salt of a fatty acid that forms a precipitate with calcium and magnesium ions, and the end point is detected by the formation of a stable lather or foam on the surface of the water sample.
+  - Phenolphthalein and methyl orange titration methods for total alkalinity and bicarbonate alkalinity. Phenolphthalein is an indicator that changes color from colorless to pink at pH 8.3, and methyl orange is an indicator that changes color from yellow to red at pH 4.3. The total alkalinity is the amount of acid required to lower the pH of the water sample to 4.3, and the bicarbonate alkalinity is the amount of acid required to lower the pH of the water sample to 8.3. The difference between the total alkalinity and the bicarbonate alkalinity is the carbonate alkalinity, which is due to the presence of carbonate ions in water.
+  - Phenolphthalein titration method for hydroxide alkalinity. Phenolphthalein is an indicator that changes color from colorless to pink at pH 8.3, and the hydroxide alkalinity is the amount of acid required to lower the pH of the water sample to 8.3. The hydroxide alkalinity is due to the presence of hydroxide ions in water, which are usually formed by the dissociation of calcium and magnesium hydroxides.

@@ -1,0 +1,23 @@
+# Protocols for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+- A blockchain protocol is a set of underlying rules that define how a blockchain will work.
+- Based on the underlying rules of the protocol, it is possible to build a business ecosystem.
+- Usually, protocol's rules comprise everything from how tokens can be issued, how value is created, and how interactions happen on top of the protocol.
+- Blockchain protocols are a set of protocols used to govern the blockchain network.
+- The rules define the interface of the network, interaction between the computers, incentives, kind of data, etc.
+- The protocols aim to address the four principles:
+  - Decentralization: The network should not be controlled by a single entity or a group of entities.
+  - Security: The network should be able to resist attacks and ensure the integrity and validity of the data.
+  - Scalability: The network should be able to handle a large number of transactions and users without compromising performance or security.
+  - Consensus: The network should be able to reach an agreement on the state of the data among all the participants.
+- Blockchain protocols are also known as consensus methods, as they are different systems that are implemented to reach consensus and validate transactions within a blockchain network.
+- Some of them require investors to purchase physical mining equipment, while others require no physical hardware, and just the holding of coins.
+- There are different types of blockchain protocols, such as  :
+  - Proof-of-Work (PoW): This is the most common and oldest protocol, used by Bitcoin and Ethereum. It requires miners to solve complex mathematical problems to create new blocks and earn rewards. It is secure but consumes a lot of energy and is not very scalable.
+  - Proof-of-Stake (PoS): This is an alternative protocol that does not require mining, but instead relies on validators who stake their coins to participate in the network. They are randomly selected to create new blocks and earn rewards. It is more energy-efficient and scalable than PoW, but it may introduce centralization risks and security trade-offs.
+  - Proof-of-Authority (PoA): This is a protocol that assigns a set of trusted validators who have the authority to create new blocks and validate transactions. They are usually chosen based on their reputation, identity, or stake in the network. It is fast and scalable, but it sacrifices decentralization and security.
+  - Proof-of-Burn (PoB): This is a protocol that requires users to burn or destroy their coins to gain the right to create new blocks and earn rewards. It is similar to PoW, but it does not consume energy or require mining equipment. It is secure and decentralized, but it may be wasteful and inefficient.
+  - Proof-of-Capacity (PoC): This is a protocol that requires users to allocate a portion of their hard disk space to store data that is used to create new blocks and validate transactions. It is similar to PoW, but it does not consume energy or require mining equipment. It is secure and decentralized, but it may be vulnerable to attacks or hardware failures.
+  - Proof-of-Elapsed-Time (PoET): This is a protocol that requires users to wait for a random amount of time before they can create new blocks and earn rewards. It is similar to PoS, but it does not require staking or validators. It is energy-efficient and scalable, but it may be slow and unpredictable.
+  - Delegated Proof-of-Stake (DPoS): This is a protocol that allows users to delegate their stake to a group of elected representatives who create new blocks and validate transactions. It is similar to PoS, but it introduces a voting mechanism and a governance system. It is fast and scalable, but it may introduce centralization risks and corruption.
+  - Byzantine Fault Tolerance (BFT): This is a protocol that ensures that the network can reach consensus even if some of the nodes are faulty or malicious. It requires a minimum number of honest nodes to agree on the state of the data. It is secure and fast, but it may not be very scalable or decentralized.

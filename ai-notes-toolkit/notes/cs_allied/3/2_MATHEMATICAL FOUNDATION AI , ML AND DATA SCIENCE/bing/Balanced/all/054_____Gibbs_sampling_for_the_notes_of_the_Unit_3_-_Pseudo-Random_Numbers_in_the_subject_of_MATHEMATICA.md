@@ -1,0 +1,8 @@
+# Gibbs sampling
+
+- Gibbs sampling is a Markov chain Monte Carlo (MCMC) algorithm for obtaining a sequence of observations which are approximated from a specified multivariate probability distribution, when direct sampling is difficult.
+- Gibbs sampling is commonly used as a means of statistical inference, especially Bayesian inference. It is a randomized algorithm (i.e. an algorithm that makes use of random numbers), and is an alternative to deterministic algorithms for statistical inference such as the expectation-maximization algorithm (EM).
+- Gibbs sampling, in its basic incarnation, is a special case of the Metropolis–Hastings algorithm. The point of Gibbs sampling is that given a multivariate distribution, it is simpler to sample from a conditional distribution than to marginalize by integrating over a joint distribution.
+- Gibbs sampling is a way of sampling from a probability distribution of two or more dimensions or multivariate distribution. It’s a method of Markov Chain Monte Carlo which means that it is a type of dependent sampling algorithm.
+- Gibbs sampling works by iteratively sampling from the conditional distribution of each variable given the current values of the other variables. This way, each variable is updated in turn, and the samples form a Markov chain that converges to the desired distribution.
+- Gibbs sampling can be applied to a variety of problems, such as Bayesian hierarchical models, latent variable models, Bayesian networks, and topic models.

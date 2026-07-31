@@ -1,0 +1,11 @@
+### Access Control in Multiple-Unit Resources
+
+- Multiple-unit resources are resources that can be used by more than one job at a time, such as memory, disk, or network bandwidth.
+- Each unit of a multiple-unit resource is used in a non-preemptive and mutually exclusive manner; resources are serially reusable.
+- Access to multiple-unit resources is controlled using locks. Jobs attempt to lock a resource before starting to use it, and unlock the resource afterwards; the time the resource is locked is the critical section.
+- The challenge of access control in multiple-unit resources is to avoid deadlock and priority inversion, while ensuring schedulability and resource utilization.
+- There are different protocols for access control in multiple-unit resources, such as:
+  - Priority Inheritance Protocol (PIP): A job that locks a resource inherits the priority of the highest-priority job that is blocked on that resource. The priority is restored when the resource is unlocked.
+  - Priority Ceiling Protocol (PCP): Each resource is assigned a priority ceiling, which is the highest priority of any job that can lock that resource. A job can lock a resource only if its priority is higher than the priority ceiling of all locked resources. A job that locks a resource inherits the priority ceiling of that resource. The priority is restored when the resource is unlocked.
+  - Stack Resource Policy (SRP): Each job is assigned a preemption level, which is fixed and independent of its priority. A job can lock a resource only if its preemption level is higher than the preemption level of all jobs that have locked any resource. A job that locks a resource inherits the preemption level of the lowest-level job that has locked any resource. The preemption level is restored when the resource is unlocked.
+- The advantages and disadvantages of these protocols depend on the characteristics of the system, such as the number of resources, the number of units per resource, the length of critical sections, and the priority assignment scheme.

@@ -1,0 +1,26 @@
+### Data models and the relational data model
+
+- A data model is a way of representing the structure, organization, and relationships of data in a database system.
+- Data models help to abstract the data from the physical storage and provide a logical view of the data for the users and applications.
+- Data models also define the rules and constraints for data integrity, security, and consistency.
+- There are different types of data models, such as hierarchical, network, relational, object-oriented, and dimensional.
+- The relational data model is the most widely used data model in database systems.
+- The relational data model was proposed by E.F. Codd in 1970.
+- The relational data model is based on the concept of mathematical relations, which are sets of tuples (rows) with attributes (columns).
+- The relational data model represents data as tables, where each table is a relation with a unique name and a set of attributes.
+- The tables are also called relations, and the attributes are also called columns or fields.
+- The tuples are also called rows or records, and each tuple has a value for each attribute in the table.
+- The values in a table are atomic, meaning they cannot be further divided into smaller parts.
+- The order of the tuples and the attributes in a table is irrelevant, meaning they can be arranged in any way without affecting the meaning of the data.
+- The tables in a relational data model have relationships with each other, which are defined by using primary keys and foreign keys.
+- A primary key is a set of one or more attributes that uniquely identifies each tuple in a table.
+- A foreign key is a set of one or more attributes in a table that references the primary key of another table.
+- The relationships between tables can be one-to-one, one-to-many, or many-to-many, depending on the cardinality of the primary and foreign keys.
+- The relational data model supports the operations of data definition, data manipulation, and data control.
+- Data definition operations are used to create, modify, and delete the tables and their attributes, constraints, and indexes.
+- Data manipulation operations are used to insert, update, delete, and query the data in the tables.
+- Data control operations are used to grant, revoke, and enforce the access rights and privileges for the users and applications on the tables and their data.
+- The relational data model is based on the principles of data independence, data integrity, and data consistency.
+- Data independence means that the data can be accessed and manipulated without knowing the details of how and where the data is physically stored.
+- Data integrity means that the data is accurate, complete, and valid according to the rules and constraints defined in the data model.
+- Data consistency means that the data is coherent and synchronized across the tables and the transactions that modify the data.

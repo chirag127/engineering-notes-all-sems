@@ -1,0 +1,10 @@
+### Principle of operation of alternator and synchronous motor
+
+- An **alternator** or **synchronous generator** is a device that converts mechanical energy into electrical energy by producing alternating current (AC).
+- A **synchronous motor** is a device that converts electrical energy into mechanical energy by rotating at a constant speed that is synchronized with the frequency of the AC supply.
+- Both devices work on the **principle of electromagnetic induction**, i.e., when the flux linking a conductor changes, an EMF is induced in the conductor.
+- In an alternator, the armature winding is fixed on the stator and the field winding is rotated by a prime mover (such as a turbine or an engine). The rotating field winding creates a rotating magnetic field that induces an AC voltage in the armature winding.
+- In a synchronous motor, the field winding is fixed on the rotor and the armature winding is connected to a three-phase AC supply. The AC supply creates a rotating magnetic field that interacts with the field winding and causes the rotor to rotate at the same speed as the magnetic field.
+- The speed of rotation of both devices depends on the number of poles (p) and the frequency of the AC supply (f). The speed (N) is given by the formula: N = 120f/p revolutions per minute (rpm).
+- The advantages of alternators are that they can produce high voltages and currents, they can be easily paralleled, and they have good voltage regulation. The disadvantages are that they require a separate DC source for excitation, they have high initial cost and maintenance, and they have low efficiency at low loads.
+- The advantages of synchronous motors are that they have high efficiency, power factor, and torque, they can operate at constant speed and can be used for power factor correction. The disadvantages are that they require a separate DC source for excitation, they have high initial cost and maintenance, and they have difficulty in starting and synchronizing.

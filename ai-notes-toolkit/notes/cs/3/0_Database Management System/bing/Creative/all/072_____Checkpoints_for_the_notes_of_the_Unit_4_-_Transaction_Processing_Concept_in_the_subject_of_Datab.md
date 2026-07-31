@@ -1,0 +1,39 @@
+# Checkpoints for the notes of the Unit 4 - Transaction Processing Concept in the subject of Database Management System
+
+- A transaction is a logical unit of work that represents a real-world event of data processing.
+- A transaction has four properties: atomicity, consistency, isolation, and durability (ACID).
+- Atomicity means that a transaction either executes all or none of its operations.
+- Consistency means that a transaction preserves the integrity constraints of the database.
+- Isolation means that a transaction executes as if it is the only one in the system, without interference from other transactions.
+- Durability means that the effects of a committed transaction are permanent and survive any system failures.
+- A transaction can have one of the following states: active, partially committed, committed, failed, or aborted.
+- A transaction begins in the active state, where it executes its operations.
+- A transaction enters the partially committed state when it issues a commit request, indicating that it has completed its operations successfully.
+- A transaction enters the committed state when the commit request is confirmed by the system, and the changes made by the transaction are recorded in the database.
+- A transaction enters the failed state when it encounters an error or aborts due to some reason, such as a deadlock or a violation of an integrity constraint.
+- A transaction enters the aborted state when it is rolled back by the system, undoing any changes it has made to the database.
+- A transaction can be rolled back either partially or fully, depending on how much of its operations have been executed and recorded in the database.
+- A transaction can be restarted after being aborted, if the reason for the abort is transient and can be resolved.
+- A transaction can be serialized if its operations can be ordered in such a way that the outcome of executing them is equivalent to executing them one at a time.
+- A schedule is a sequence of operations from a set of concurrent transactions.
+- A schedule is serializable if it is equivalent to a serial schedule, where the transactions are executed one after the other in some order.
+- A schedule is conflict serializable if it can be transformed into a serial schedule by swapping non-conflicting operations, where two operations conflict if they belong to different transactions and access the same data item, and at least one of them is a write operation.
+- A schedule is view serializable if it is equivalent to a serial schedule in terms of the read and write operations on each data item, regardless of the order of non-conflicting operations.
+- A schedule is recoverable if no transaction commits before all the transactions whose changes it has read have committed.
+- A schedule is cascadeless if no transaction reads a data item before the transaction that has written it has committed.
+- A schedule is strict if no transaction reads or writes a data item before the transaction that has written it has committed.
+- A concurrency control protocol is a set of rules that govern how concurrent transactions can access and modify the data in the database, without violating the ACID properties.
+- A locking protocol is a concurrency control protocol that uses locks to control the access of transactions to data items.
+- A lock is a variable associated with a data item that indicates the status of the item with respect to possible operations that can be applied to it.
+- A lock can have one of the following modes: shared (S), exclusive (X), or none (N).
+- A shared lock allows a transaction to read a data item, but not to write it.
+- An exclusive lock allows a transaction to read and write a data item, but not to share it with other transactions.
+- A lock can be granted to a transaction if it is compatible with the current lock mode of the data item, according to a lock compatibility matrix.
+- A lock can be released by a transaction when it no longer needs to access the data item, or when it commits or aborts.
+- A two-phase locking (2PL) protocol is a locking protocol that requires a transaction to obtain all the locks it needs before releasing any lock.
+- A 2PL protocol can be classified into the following types: basic, conservative, strict, and rigorous.
+- A basic 2PL protocol does not impose any restrictions on when a transaction can acquire or release locks, as long as it follows the 2PL rule.
+- A conservative 2PL protocol requires a transaction to request all the locks it needs in advance, before it begins execution, and to hold them until it commits or aborts.
+- A strict 2PL protocol requires a transaction to hold all its exclusive locks until it commits or aborts, but allows it to release its shared locks earlier.
+- A rigorous 2PL protocol requires a transaction to hold all its locks, both shared and exclusive, until it commits or aborts.
+- A deadlock is a situation where two or more transactions are waiting

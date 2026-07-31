@@ -1,0 +1,21 @@
+### Social Network Analysis
+
+- Social network analysis (SNA) is the process of investigating social structures through the use of networks and graph theory.
+- SNA measures and maps the flow of relationships and relationship changes between knowledge-possessing entities.
+- SNA is based on theoretical constructs of sociology and mathematical foundations of graph theory.
+- SNA can be used to analyze patterns of relationships among people in groups, and examine the social structure and interdependencies (or work patterns) of individuals or organizations.
+- SNA can also be used to study how social networks influence health, behavior, communication, innovation, diffusion, and other outcomes.
+- SNA involves the following steps:
+  - Define the research question and the scope of the network.
+  - Collect data on the nodes (actors) and the ties (relationships) in the network.
+  - Represent the network using graphs, matrices, or other visualizations.
+  - Analyze the network using various metrics and methods, such as centrality, density, clustering, community detection, etc.
+  - Interpret the results and draw conclusions based on the research question and the network characteristics.
+- SNA can be applied to various domains and contexts, such as:
+  - Social media and online communities
+  - Organizational and team performance
+  - Public health and epidemiology
+  - Political and social movements
+  - Knowledge and information diffusion
+  - Innovation and creativity
+  - Personal and professional networks

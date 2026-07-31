@@ -1,0 +1,10 @@
+### Triple DES
+
+- Triple DES (3DES or TDES) is a symmetric-key block cipher, which applies the DES cipher algorithm three times to each data block .
+- It is a simple method of increasing the key size of DES to protect against brute-force attacks, without the need to design a new block cipher algorithm.
+- The key size of 3DES is 168 bits, which is equivalent to three 56-bit DES keys. However, due to a vulnerability called the meet-in-the-middle attack, the effective security of 3DES is only 112 bits.
+- 3DES uses a Feistel network, which is a structure that divides the data block into two halves and applies a round function to one half using a subkey, then XORs the output with the other half. This process is repeated for a number of rounds, then the halves are swapped.
+- The round function of 3DES is the same as DES, which consists of an expansion, a substitution, a permutation, and a key mixing. The expansion increases the size of the half-block from 32 bits to 48 bits, the substitution replaces 6-bit blocks with 4-bit blocks using S-boxes, the permutation rearranges the bits, and the key mixing XORs the result with a subkey.
+- 3DES has three keying options: keying option 1 uses three independent keys (K1, K2, K3) for encryption, decryption, and encryption respectively; keying option 2 uses two independent keys (K1, K2) for encryption, decryption, and encryption respectively, and K1=K3; keying option 3 uses one key (K) for encryption, decryption, and encryption respectively, and K1=K2=K3.
+- 3DES has five modes of operation: electronic codebook (ECB), cipher block chaining (CBC), cipher feedback (CFB), output feedback (OFB), and counter (CTR). Each mode has different advantages and disadvantages in terms of security, efficiency, and error propagation.
+- 3DES is considered to be secure and widely used, but it is also slow and outdated compared to newer block ciphers such as AES. It is being phased out by some standards and organizations, such as NIST and PCI DSS.

@@ -1,0 +1,13 @@
+### Modern Data Analytic Tools
+
+- Data analytic tools are software applications that enable users to collect, process, analyze, and visualize data from various sources.
+- Data analytic tools can help users to gain insights, make decisions, solve problems, and communicate findings related to data.
+- Some of the modern data analytic tools that are widely used in 2023 are:
+
+  - **Python**: Python is a general-purpose programming language that supports multiple paradigms, such as object-oriented, functional, and procedural. Python has a rich set of libraries and frameworks for data analysis, such as NumPy, pandas, SciPy, scikit-learn, TensorFlow, PyTorch, and matplotlib .
+  - **R**: R is a programming language and environment for statistical computing and graphics. R has a comprehensive collection of packages and tools for data manipulation, visualization, modeling, and machine learning, such as tidyverse, ggplot2, Shiny, caret, and mlr .
+  - **SAS**: SAS is a software suite for advanced analytics, business intelligence, data management, and predictive analytics. SAS offers a variety of products and solutions for data integration, quality, mining, forecasting, reporting, and visualization, such as SAS Enterprise Guide, SAS Visual Analytics, SAS Enterprise Miner, and SAS Forecast Server .
+  - **Excel**: Excel is a spreadsheet application that allows users to organize, calculate, and analyze data using formulas, functions, charts, and tables. Excel also supports data analysis features, such as Power Query, Data Model, Power Pivot, and Power View, that enable users to connect, transform, model, and visualize data from various sources .
+  - **Power BI**: Power BI is a cloud-based business analytics service that provides interactive dashboards and reports for data visualization and exploration. Power BI can connect to hundreds of data sources, such as databases, files, web services, and online platforms, and allows users to create, share, and collaborate on data stories .
+  - **Tableau**: Tableau is a data visualization and analytics platform that helps users to see and understand data. Tableau can connect to various data sources, such as files, databases, cloud services, and web data, and allows users to create, publish, and share interactive dashboards and reports .
+  - **Apache Spark**: Apache Spark is an open-source distributed computing framework that provides fast and scalable data processing, analysis, and machine learning. Spark supports multiple programming languages, such as Scala, Python, Java, and R, and offers various libraries and modules for data manipulation, streaming, graph, and machine learning, such as Spark SQL, Spark Streaming, GraphX, and MLlib .

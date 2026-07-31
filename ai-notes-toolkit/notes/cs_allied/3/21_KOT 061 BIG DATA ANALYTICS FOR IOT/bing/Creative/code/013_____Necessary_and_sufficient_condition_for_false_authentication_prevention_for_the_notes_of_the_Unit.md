@@ -1,0 +1,11 @@
+### Necessary and sufficient condition for false authentication prevention for the notes of the Unit 2 - RFID FALSE AUTHENTICATIONS in the subject of KOT 061 BIG DATA ANALYTICS FOR IOT KCS
+
+- False authentication is a situation where a legitimate tag is wrongly rejected by a reader, or an illegitimate tag is wrongly accepted by a reader, in an RFID system .
+- False authentication can compromise the security and privacy of RFID applications, such as supply chain management, access control, and healthcare .
+- To prevent false authentication, a necessary and sufficient condition is to ensure that the reader and the tag share a secret key that is unique and unpredictable, and that they use a secure authentication protocol that can resist various attacks, such as replay, impersonation, and desynchronization .
+- A possible solution to achieve this condition is to use a semaphore-based approach, which involves adding several steps of semaphore operations to the protocol pattern .
+- A semaphore is a predefined memory inside a tag, just as the memory for storing responses. It can be used to indicate the status of the tag, such as busy or idle, and to synchronize the communication between the reader and the tag .
+- The semaphore-based solution can prevent false authentication by ensuring that the tag only responds to one reader at a time, and that the reader verifies the tag's identity and status before sending any commands or queries .
+- The semaphore-based solution can also prevent other attacks, such as tag cloning, tag tracking, and denial of service, by using a random number generator and a hash function to generate and update the secret key and the semaphore value .
+- The semaphore-based solution is compatible with the C1G2 (class 1 generation 2) passive RFID tags, which are widely used in RFID applications .
+- The semaphore-based solution has low computation and communication overhead, and does not require any additional hardware or software modifications to the existing RFID system .

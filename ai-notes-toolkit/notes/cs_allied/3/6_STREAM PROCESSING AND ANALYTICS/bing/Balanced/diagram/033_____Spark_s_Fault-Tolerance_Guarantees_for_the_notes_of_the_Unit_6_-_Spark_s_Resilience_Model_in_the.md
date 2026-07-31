@@ -1,0 +1,16 @@
+### Spark’s Fault-Tolerance Guarantees
+
+- Spark is a distributed computing framework that can process large-scale data in parallel on multiple nodes.
+- Fault tolerance is the ability of a system to continue functioning correctly even if some of its components fail or become unavailable.
+- Spark achieves fault tolerance by using a resilient distributed dataset (RDD) abstraction, which is a collection of partitioned data that can be recomputed from the original data source or from intermediate results in case of failures.
+- Spark also supports checkpointing, which is the process of saving the state of an RDD to a reliable storage system (such as HDFS or S3) periodically, so that it can be recovered faster in case of failures.
+- Spark Streaming is an extension of Spark that enables processing of live data streams from various sources (such as Kafka, Flume, or sockets) in a scalable and fault-tolerant manner.
+- Spark Streaming divides the input data stream into batches of fixed time intervals (such as 1 second or 5 seconds) and treats each batch as an RDD, which can be processed using the same Spark API as batch data.
+- Spark Streaming provides two levels of fault tolerance guarantees: worker fault tolerance and driver fault tolerance.
+- Worker fault tolerance means that if a worker node fails or becomes unavailable, the data that was assigned to that node can be recomputed from the original data source or from the checkpointed data, and the processing can continue without data loss or duplication.
+- Driver fault tolerance means that if the driver node (which coordinates the streaming computation) fails or becomes unavailable, the streaming context can be restarted from the checkpointed data and the processing can resume from where it left off, without data loss or duplication.
+- Spark Streaming achieves worker fault tolerance by using RDDs, which are inherently fault tolerant, and by using reliable receivers, which are special types of Spark Streaming sources that can store the received data in a reliable storage system (such as HDFS or S3) before sending it to Spark for processing.
+- Spark Streaming achieves driver fault tolerance by using write-ahead logs (WALs), which are files that record the metadata of the received data (such as the batch time, the partition id, and the offset) in a reliable storage system (such as HDFS or S3) before sending it to Spark for processing.
+- WALs enable Spark Streaming to recover the input data from the reliable storage system in case of driver failures, and to ensure exactly-once semantics for all transformations, even if some data gets reprocessed due to worker failures.
+- To enable checkpointing and WALs in Spark Streaming, the user needs to specify a checkpoint directory when creating the streaming context, and set the configuration parameter `spark.streaming.receiver.writeAheadLog.enable` to `true`.
+- Checkpointing and WALs introduce some overhead in terms of disk space and network bandwidth, but they provide strong guarantees of fault tolerance and data consistency in Spark Streaming.

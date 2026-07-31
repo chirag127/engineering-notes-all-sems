@@ -1,0 +1,29 @@
+# Optimal Decisions in Games
+
+- In a normal search problem, the optimal solution would be a sequence of actions leading to a goal state-a terminal state that is a win .
+- In a game, the optimal solution would be a strategy-a contingency plan that specifies the move for every possible situation on the board.
+- A strategy is optimal if it guarantees the best possible outcome against any strategy of the opponent.
+- Given a game tree, the optimal strategy can be determined from the minimax value of each node, which we write as MINIMAX(n) .
+- The minimax value of a node is the utility (for MAX) of being in the corresponding state, assuming that both players play optimally from there to the end of the game .
+- The minimax value of a terminal node is just the utility of the terminal state .
+- The minimax value of a non-terminal node can be computed recursively from the minimax values of its children .
+- If the node is a MAX node, the minimax value is the maximum of the minimax values of its children .
+- If the node is a MIN node, the minimax value is the minimum of the minimax values of its children .
+- The minimax algorithm is a depth-first, exhaustive search that computes the minimax values of all the nodes in the game tree .
+- The minimax algorithm can be improved by using alpha-beta pruning, which eliminates branches of the game tree that are provably irrelevant .
+- Alpha-beta pruning maintains two values, alpha and beta, that represent the lower and upper bounds of the possible minimax values of the nodes along the path to the root .
+- Alpha is the value of the best (highest-value) choice found so far for MAX .
+- Beta is the value of the best (lowest-value) choice found so far for MIN .
+- Alpha-beta pruning can prune a branch when the value of the current node is worse than the value of a previously explored node on the same level .
+- Alpha-beta pruning does not affect the final result of the minimax algorithm, but it can reduce the number of nodes that need to be examined .
+- The effectiveness of alpha-beta pruning depends on the order in which the nodes are examined .
+- The best case for alpha-beta pruning is when the best moves are examined first, which leads to a quadratic reduction in the number of nodes .
+- The worst case for alpha-beta pruning is when the best moves are examined last, which leads to no pruning at all .
+- The average case for alpha-beta pruning is somewhere between the best and the worst case, which leads to a square-root reduction in the number of nodes .
+- The order of the nodes can be improved by using heuristics, such as move ordering, killer heuristic, history heuristic, etc .
+- Heuristics can also be used to evaluate non-terminal nodes, such as using a static evaluation function that estimates the utility of a board position .
+- A static evaluation function can be based on various features of the board, such as material, mobility, king safety, etc .
+- A static evaluation function can be combined with the minimax algorithm to form a depth-limited search, which cuts off the search at a certain depth and applies the evaluation function to the leaf nodes .
+- A depth-limited search can be further improved by using iterative deepening, which gradually increases the depth limit and reuses the information from previous iterations .
+- Iterative deepening can also be used to implement a time-limited search, which stops the search when a certain amount of time has elapsed .
+- A time-limited search can be combined with aspiration windows, which narrow the range of alpha and beta values based on the previous iteration's result[^2

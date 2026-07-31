@@ -1,0 +1,11 @@
+# Non-convex optimization for deep networks
+
+- Non-convex optimization (NCO) is the study of finding the global minimum of a function that is not convex, i.e., it may have multiple local minima and maxima, saddle points, and flat regions.
+- NCO is relevant for deep learning because many problems of interest, such as training deep neural networks and learning latent variable models, are non-convex   .
+- NCO is challenging because traditional convex optimization methods, such as gradient descent, may get stuck in suboptimal local minima or saddle points, and finding the global minimum is often NP-hard .
+- NCO techniques for deep learning include:
+  - Relaxing non-convex problems to convex ones and using convex optimization methods to solve the relaxed problems . For example, using nuclear norm as a convex surrogate for rank minimization.
+  - Using stochastic optimization methods, such as stochastic gradient descent (SGD), mini-batching, stochastic variance-reduced gradient (SVRG), and momentum, to escape from local minima or saddle points and explore the function landscape . For example, using SGD with momentum to accelerate the convergence and reduce the oscillations.
+  - Using initialization and regularization techniques, such as random initialization, dropout, batch normalization, and weight decay, to avoid bad local minima or saddle points and improve the generalization performance . For example, using dropout to reduce overfitting and increase the diversity of the solutions.
+  - Using neural networks as meta-optimizers, i.e., using neural networks to learn how to optimize non-convex problems. For example, using a recurrent neural network to generate the update rules for a non-convex optimization problem.
+- NCO theory for deep learning aims to provide convergence guarantees, complexity bounds, and generalization bounds for NCO algorithms applied to deep learning problems . For example, proving that SGD converges to a global minimum of a non-convex function under certain assumptions .

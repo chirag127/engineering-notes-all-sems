@@ -1,0 +1,9 @@
+### Unit-1 Applied Grammar and Usage: 8
+
+This unit covers the following topics:
+
+- **Adverbs**: words that modify verbs, adjectives, or other adverbs. They often answer the questions how, when, where, why, or to what extent. Examples: quickly, yesterday, here, because, very.
+- **Adverbial phrases and clauses**: groups of words that function as adverbs. They can be prepositional phrases, infinitive phrases, participial phrases, or subordinate clauses. Examples: in a hurry, to finish the project, running late, after she left.
+- **Adverb placement**: the position of adverbs in a sentence can affect the meaning and clarity of the sentence. Generally, adverbs should be placed as close as possible to the words they modify, but there are some exceptions and variations depending on the type and function of the adverb. Examples: He ran quickly. (adverb of manner) / He quickly ran. (adverb of time) / Quickly, he ran. (adverb of emphasis)
+- **Comparative and superlative adverbs**: forms of adverbs that indicate the degree or intensity of a quality or action. Comparative adverbs are used to compare two things or actions, while superlative adverbs are used to compare three or more things or actions. Examples: faster, more slowly, best, least carefully.
+- **Adverb errors**: common mistakes that involve the use or formation of adverbs. They include using adjectives instead of adverbs, using double negatives, using incorrect comparative or superlative forms, or using redundant or misplaced adverbs. Examples: She sings good. (wrong) / She sings well. (correct) / He didn't do nothing. (wrong) / He did nothing. (correct) / She ran more faster. (wrong) / She ran faster. (correct) / He only ate one cookie. (ambiguous) / He ate only one cookie. (clear)

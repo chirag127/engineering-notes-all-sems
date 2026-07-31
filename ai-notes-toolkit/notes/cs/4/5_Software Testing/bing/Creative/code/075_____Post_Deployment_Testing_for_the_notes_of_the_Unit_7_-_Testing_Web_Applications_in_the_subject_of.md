@@ -1,0 +1,30 @@
+### Post Deployment Testing for the notes of the Unit 7 - Testing Web Applications in the subject of Software Testing
+
+- Post deployment testing is a type of testing in which the software is tested after it is being deployed to production.
+- The main objectives of post deployment testing are to verify the functionality, performance, security, usability, and compatibility of the software in the real environment.
+- Post deployment testing can be divided into two phases: post deployment verification and post deployment monitoring .
+- Post deployment verification is the process of checking the software features, functionality, and quality against the test plans and test cases that were executed before deployment.
+- Post deployment verification can include the following activities :
+  - Smoke testing: A quick and basic testing of the software to ensure that it is working and accessible.
+  - Sanity testing: A more detailed testing of the software to ensure that it meets the acceptance criteria and the business requirements.
+  - Regression testing: A testing of the software to ensure that no new defects or issues have been introduced after deployment.
+  - User acceptance testing: A testing of the software by the end users or the stakeholders to ensure that it meets their expectations and needs.
+  - Performance testing: A testing of the software to ensure that it can handle the expected load, stress, and volume of the production environment.
+  - Security testing: A testing of the software to ensure that it is secure from unauthorized access, data breaches, and cyberattacks.
+  - Usability testing: A testing of the software to ensure that it is user-friendly, intuitive, and easy to use.
+  - Compatibility testing: A testing of the software to ensure that it is compatible with different browsers, devices, platforms, and systems.
+- Post deployment monitoring is the process of collecting and analyzing the feedback, metrics, and data from the software and the users after deployment.
+- Post deployment monitoring can include the following activities :
+  - Feedback collection: A process of gathering the opinions, suggestions, complaints, and ratings from the users and the stakeholders about the software.
+  - Feedback analysis: A process of identifying the strengths, weaknesses, opportunities, and threats of the software based on the feedback.
+  - Metrics collection: A process of measuring the key performance indicators (KPIs) of the software, such as availability, reliability, response time, throughput, error rate, etc.
+  - Metrics analysis: A process of evaluating the performance, quality, and efficiency of the software based on the metrics.
+  - Data collection: A process of capturing the user behavior, preferences, actions, and interactions with the software.
+  - Data analysis: A process of deriving insights, trends, patterns, and correlations from the data.
+  - Reporting: A process of presenting and communicating the results and findings of the feedback, metrics, and data analysis to the relevant stakeholders.
+  - Improvement: A process of implementing the changes, enhancements, fixes, and optimizations to the software based on the reporting and analysis.
+- Post deployment testing is an essential part of the software development life cycle (SDLC) and the continuous integration and continuous delivery (CI/CD) pipeline  .
+- Post deployment testing helps to ensure the quality, reliability, and customer satisfaction of the software in the production environment .
+- Post deployment testing also helps to identify and resolve any issues, defects, or risks that may arise after deployment .
+- Post deployment testing requires a close collaboration and coordination among the developers, testers, operations, and users .
+- Post deployment testing can be automated, manual, or a combination of both, depending on the scope, complexity, and frequency of the testing  .

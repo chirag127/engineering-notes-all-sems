@@ -1,0 +1,25 @@
+### Introductory Concepts of Computer Networks
+
+- A computer network is a system of interconnected devices that can communicate and share data or resources with each other.
+- The devices in a network can be computers, servers, routers, switches, printers, scanners, cameras, etc.
+- The devices are connected by physical or wireless media, such as cables, optical fibers, radio waves, etc.
+- The network can be classified by its size, topology, architecture, or protocol.
+- The size of a network refers to the number and distance of the devices in the network. Some common network sizes are:
+  - Local Area Network (LAN): A network that covers a small geographic area, such as a home, office, or building.
+  - Metropolitan Area Network (MAN): A network that covers a large city or metropolitan area, such as a campus or a city.
+  - Wide Area Network (WAN): A network that covers a large geographic area, such as a country or a continent.
+- The topology of a network refers to the shape or layout of the connections between the devices in the network. Some common network topologies are:
+  - Bus: A network where all the devices are connected to a single cable or backbone.
+  - Star: A network where all the devices are connected to a central device, such as a hub or a switch.
+  - Ring: A network where all the devices are connected in a circular fashion, forming a closed loop.
+  - Mesh: A network where each device is connected to every other device, forming a web of connections.
+  - Tree: A network where the devices are connected in a hierarchical structure, forming a tree-like shape.
+- The architecture of a network refers to the design or model of the network, such as how the devices are organized, how the data is transmitted, and how the network is managed. Some common network architectures are:
+  - Peer-to-peer (P2P): A network where each device can act as both a client and a server, and can communicate directly with any other device in the network.
+  - Client-server: A network where some devices act as servers, providing services or resources to other devices, and some devices act as clients, requesting services or resources from the servers.
+  - Hybrid: A network that combines the features of both P2P and client-server architectures, such as having some centralized servers and some distributed peers.
+- The protocol of a network refers to the set of rules or standards that govern the communication and data exchange between the devices in the network. Some common network protocols are:
+  - Transmission Control Protocol/Internet Protocol (TCP/IP): A suite of protocols that defines how data is divided, addressed, routed, and delivered over the Internet or other networks.
+  - Hypertext Transfer Protocol (HTTP): A protocol that defines how web browsers and web servers communicate and exchange web pages and other resources over the Internet.
+  - File Transfer Protocol (FTP): A protocol that defines how files are transferred between devices over a network.
+  - Simple Mail Transfer Protocol (SMTP): A protocol that defines how email messages are sent and received over a network.

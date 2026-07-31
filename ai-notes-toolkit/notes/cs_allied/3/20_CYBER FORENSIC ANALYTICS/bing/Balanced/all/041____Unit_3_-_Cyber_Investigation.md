@@ -1,0 +1,26 @@
+## Unit 3 - Cyber Investigation
+
+- Cyber investigation is the process of collecting, analyzing and presenting digital evidence from electronic devices, networks and online platforms to support legal or administrative actions.
+- Cyber investigation can be conducted for various purposes, such as:
+  - Solving cybercrimes, such as hacking, phishing, fraud, identity theft, cyberstalking, cyberbullying, etc.
+  - Gathering intelligence, such as monitoring threats, identifying suspects, tracking activities, etc.
+  - Protecting assets, such as securing systems, data, networks, devices, etc.
+  - Enhancing performance, such as optimizing processes, improving efficiency, increasing productivity, etc.
+- Cyber investigation can be performed by different actors, such as:
+  - Law enforcement agencies, such as police, FBI, Interpol, etc.
+  - Government agencies, such as NSA, CIA, DHS, etc.
+  - Private sector entities, such as corporations, banks, law firms, etc.
+  - Individuals, such as researchers, journalists, activists, etc.
+- Cyber investigation involves various steps, such as:
+  - Planning, such as defining objectives, scope, resources, methods, etc.
+  - Preparation, such as obtaining legal authorization, acquiring tools, establishing communication, etc.
+  - Collection, such as identifying, locating, accessing, acquiring, preserving, documenting, etc. digital evidence.
+  - Analysis, such as examining, interpreting, correlating, verifying, validating, etc. digital evidence.
+  - Presentation, such as reporting, summarizing, visualizing, explaining, etc. digital evidence and findings.
+  - Follow-up, such as updating, archiving, destroying, etc. digital evidence and records.
+- Cyber investigation requires various skills, such as:
+  - Technical skills, such as knowledge of operating systems, networks, protocols, applications, encryption, etc.
+  - Analytical skills, such as logic, reasoning, critical thinking, problem-solving, etc.
+  - Communication skills, such as writing, speaking, listening, etc.
+  - Legal skills, such as knowledge of laws, regulations, ethics, etc.
+  - Interpersonal skills, such as teamwork, collaboration, negotiation, etc.

@@ -1,0 +1,7 @@
+### Fuzzy If-Then Rules
+
+- Fuzzy if-then rules are expressions of the form "If x is A then y is B", where A and B are linguistic variables defined by fuzzy sets on universes of discourse X and Y respectively.
+- The if part of a fuzzy rule is called the antecedent, which specifies the membership function for each input variable. The then part of a fuzzy rule is called the consequent, which specifies the membership function for each output variable.
+- Fuzzy if-then rules can be interpreted as fuzzy implications or fuzzy relations. A fuzzy implication is a function that maps a fuzzy set A to a fuzzy set B, such that the degree of membership of B is at least as high as the degree of membership of A. A fuzzy relation is the Cartesian product of fuzzy sets, such that the degree of membership of the relation is the minimum of the degrees of membership of the fuzzy sets.
+- Fuzzy if-then rules can be used to model the knowledge and reasoning of human experts in various domains, such as control, classification, diagnosis, decision making, etc. Fuzzy rules can capture the imprecision, uncertainty, and vagueness of natural language and human cognition.
+- Fuzzy if-then rules can be combined and inferred using different methods, such as the compositional rule of inference, the max-min inference, the max-product inference, the Mamdani inference, the Sugeno inference, etc. These methods differ in how they compute the output membership function from the input membership function and the fuzzy relation.

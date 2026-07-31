@@ -1,0 +1,11 @@
+### DHCP
+- DHCP stands for Dynamic Host Configuration Protocol.
+- It is a network management protocol used on Internet Protocol (IP) networks.
+- DHCP is used for automatically assigning IP addresses to devices on a network.
+- The protocol operates based on the client-server model.
+- When a device connects to a network, it sends a broadcast message requesting an IP address.
+- A DHCP server on the network receives the request and assigns an available IP address to the device.
+- The server also provides other network configuration information to the device, such as the subnet mask, default gateway, and DNS server addresses.
+- DHCP helps to simplify the management of IP addresses on a network, as it eliminates the need for manual configuration.
+- It also helps to ensure that IP addresses are used efficiently, as addresses that are no longer in use can be automatically reassigned to other devices.
+- DHCP is an important protocol in the context of the Internet of Things (IoT), as it enables the automatic configuration of IP addresses for large numbers of IoT devices.

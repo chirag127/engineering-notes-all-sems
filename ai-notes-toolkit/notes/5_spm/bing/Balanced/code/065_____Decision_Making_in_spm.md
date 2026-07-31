@@ -1,0 +1,21 @@
+### Decision Making in SPM
+
+- SPM stands for Software Product Management, which is the discipline of managing software products throughout their lifecycle, from inception to retirement.
+- Decision making is the process of choosing among alternatives based on available information, preferences, and criteria.
+- Decision making in SPM is crucial for the success of software products, as it affects the quality, functionality, usability, and profitability of the products.
+- Decision making in SPM can be classified into three levels: strategic, tactical, and operational.
+  - Strategic decisions are related to the overall vision, mission, and goals of the software product, such as defining the target market, value proposition, and business model.
+  - Tactical decisions are related to the planning and execution of the software product development, such as defining the product roadmap, release plan, and lifecycle management.
+  - Operational decisions are related to the technical aspects of the software product, such as choosing the product architecture, infrastructure, and deployment methods.
+- Decision making in SPM can also be influenced by various factors, such as the type of product, the size and complexity of the project, the stakeholders involved, the available resources, the uncertainty and risk, and the time pressure.
+- Decision making in SPM can be based on different sources of information, such as data, research, intuition, and experience.
+  - Data and research are objective and evidence-based information that can be collected and analyzed to support decision making. For example, data on customer needs, market trends, competitor analysis, and product performance can be used to guide strategic and tactical decisions.
+  - Intuition and experience are subjective and personal information that can be derived from the decision maker's own knowledge, judgment, and feelings. For example, intuition and experience can be used to cope with uncertainty, ambiguity, and complexity in operational decisions.
+- Decision making in SPM can be performed by different agents, such as individuals, groups, or algorithms.
+  - Individual decision making is when the decision maker acts alone, based on his or her own information, preferences, and criteria. For example, a product manager may make individual decisions on the product features, design, and pricing.
+  - Group decision making is when the decision maker acts with others, based on the information, preferences, and criteria of the group members. For example, a product team may make group decisions on the product roadmap, release plan, and quality assurance.
+  - Algorithmic decision making is when the decision maker acts with the help of a computer program, based on the information, preferences, and criteria of the algorithm. For example, a product manager may use an algorithm to optimize the product portfolio, prioritize the product backlog, or allocate the product resources.
+- Decision making in SPM can be evaluated by different measures, such as the effectiveness, efficiency, and satisfaction of the decision outcomes.
+  - Effectiveness is the degree to which the decision outcomes meet the desired objectives and criteria. For example, a decision outcome can be effective if it increases the customer satisfaction, market share, and revenue of the software product.
+  - Efficiency is the degree to which the decision outcomes are achieved with the optimal use of resources and time. For example, a decision outcome can be efficient if it reduces the cost, effort, and duration of the software product development.
+  - Satisfaction is the degree to which the decision outcomes are acceptable and pleasing to the decision maker and the stakeholders. For example, a decision outcome can be satisfying if it aligns with the values, expectations, and preferences of the product manager, the product team, and the customers.

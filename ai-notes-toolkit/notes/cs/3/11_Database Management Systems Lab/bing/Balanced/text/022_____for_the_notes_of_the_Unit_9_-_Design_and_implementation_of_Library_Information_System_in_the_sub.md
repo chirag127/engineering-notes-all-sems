@@ -1,0 +1,11 @@
+### Unit 9 - Design and implementation of Library Information System
+
+- A library information system is an online application that automates the library services, such as ordering, cataloging, searching, reserving, and issuing books and other media.
+- A library information system can improve the efficiency and effectiveness of the library operations, as well as provide better access and convenience for the library users.
+- A library information system can be designed and implemented using various technologies, such as web services, JSP, SQL Server, UML, etc.
+- A library information system can be divided into three layers: presentation layer, business logic layer, and data access layer.
+- The presentation layer is responsible for providing the user interface and interacting with the users. It can use web technologies, such as HTML, CSS, JavaScript, etc., to create dynamic and user-friendly web pages.
+- The business logic layer is responsible for implementing the core functionality and logic of the library services, such as validating user inputs, processing user requests, enforcing business rules, etc. It can use programming languages, such as Java, C#, PHP, etc., to create web services or servlets that communicate with the presentation layer and the data access layer.
+- The data access layer is responsible for accessing and manipulating the data stored in the database. It can use database technologies, such as SQL, stored procedures, triggers, etc., to create queries and transactions that interact with the database server.
+- A library information system can be modeled and designed using UML, which is a standard modeling language for software engineering. UML can be used to create diagrams, such as use case diagrams, class diagrams, sequence diagrams, etc., that represent the requirements, structure, behavior, and interactions of the system.
+- A library information system can be implemented using an iterative and incremental approach, which is a software development methodology that divides the project into smaller and manageable units, called iterations. Each iteration consists of four phases: planning, analysis, design, and implementation. In each iteration, the system is tested and improved until it meets the user needs and expectations.

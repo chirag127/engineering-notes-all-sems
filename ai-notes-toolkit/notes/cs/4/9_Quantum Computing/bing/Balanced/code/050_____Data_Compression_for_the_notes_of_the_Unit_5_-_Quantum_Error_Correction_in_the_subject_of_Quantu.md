@@ -1,0 +1,9 @@
+### Data Compression for the notes of the Unit 5 - Quantum Error Correction in the subject of Quantum Computing
+
+- Data compression is the process of reducing the amount of information needed to store or transmit data.
+- Quantum data compression is the quantum analogue of data compression, where quantum information contained in a set of quantum bits (qubits) is reduced to a smaller set of qubits, without losing any information.
+- Quantum data compression is possible because of the quantum no-cloning theorem, which states that an unknown quantum state cannot be copied exactly. Therefore, there may be some redundancy in the quantum data that can be eliminated by compression.
+- Quantum data compression can be divided into two types: lossless and lossy. Lossless quantum data compression preserves the exact quantum information, while lossy quantum data compression allows some distortion or error in the quantum information.
+- Lossless quantum data compression can be achieved by using quantum error correction codes, which encode a set of logical qubits into a larger set of physical qubits, such that any errors in the physical qubits can be detected and corrected. By compressing the syndrome data, which is the information about the errors, the logical qubits can be recovered from a smaller set of physical qubits.
+- Lossy quantum data compression can be achieved by using quantum state merging, which is a protocol that allows two parties to share a quantum state by sending fewer qubits than the original state. Quantum state merging can be seen as a generalization of quantum teleportation, where the sender and the receiver share some entanglement before the protocol.
+- Quantum data compression has applications in quantum communication, quantum cryptography, quantum metrology, and quantum machine learning. Quantum data compression can reduce the resource requirements and enhance the performance of these tasks.

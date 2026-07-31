@@ -1,0 +1,11 @@
+### Page replacement algorithms
+
+- Page replacement algorithms are techniques used by an operating system to manage the memory allocation and deallocation of the physical memory (RAM) of a computer.
+- Page replacement algorithms determine how the victim page (the page to be replaced) is selected when a page fault occurs. The aim is to minimize the page fault rate.
+- A page fault happens when a running program accesses a memory page that is mapped into the virtual address space but not loaded in physical memory.
+- Some common page replacement algorithms are:
+  - First In First Out (FIFO): This is the simplest page replacement algorithm. In this algorithm, the operating system maintains a queue of all the pages in memory. The oldest page is at the front of the queue and the newest page is at the rear of the queue. When a page fault occurs, the page at the front of the queue is replaced by the new page and the new page is added to the rear of the queue.
+  - Optimal Page replacement: This is the best page replacement algorithm as this algorithm replaces the page that will not be used for the longest duration of time in the future. However, this algorithm is not feasible in practice as the operating system cannot predict the future page references of a program .
+  - Least Recently Used (LRU): This is a practical approximation of the optimal page replacement algorithm. In this algorithm, the operating system keeps track of the last time each page was accessed. When a page fault occurs, the page that was least recently used is replaced by the new page .
+  - Clock: This is a variation of the LRU algorithm that uses a circular list of pages with a pointer that moves through the list. Each page has a use bit that is set to 1 when the page is accessed and reset to 0 by the pointer. When a page fault occurs, the pointer scans the list and replaces the first page it finds with a use bit of 0. If all the pages have a use bit of 1, the pointer resets them to 0 and continues the scan until it finds a page with a use bit of 0.
+- The performance of a page replacement algorithm depends on the page reference pattern of the program and the number of frames available in memory. Different algorithms may have different page fault rates for the same program and the same number of frames.

@@ -1,0 +1,21 @@
+# Implementation of Syntax-Directed Translators
+
+- Syntax-directed translation is a method of compiler implementation where the source language translation is completely driven by the parser.
+- A syntax-directed translation scheme is a context-free grammar in which attributes are related to the grammar symbol and semantic actions enclosed within braces ({ }).
+- Semantic actions are the subroutines that are called by the parser at the suitable time for translation.
+- Semantic actions can perform tasks such as generating intermediate code, building symbol tables, checking types, etc.
+- Syntax-directed translation can be divided into two subsets: synthesized and inherited attributes of grammar.
+- Synthesized attributes are those that are computed at a node from the attribute values of its children.
+- Inherited attributes are those that are computed at a node from the attribute values of its parent and siblings.
+- The general approach to syntax-directed translation is to construct a parse tree or syntax tree and compute the values of attributes at the nodes of the tree by visiting them in some order.
+- In many cases, translation can be done during parsing without building an explicit tree.
+- Syntax-directed translation schemes can be classified into two types: S-attributed and L-attributed.
+- S-attributed schemes are those that use only synthesized attributes.
+- L-attributed schemes are those that use both synthesized and inherited attributes, but the inherited attributes can be evaluated in a left-to-right traversal of the tree.
+- S-attributed schemes can be implemented by a bottom-up parser, such as a shift-reduce parser.
+- L-attributed schemes can be implemented by a top-down parser, such as a recursive-descent parser.
+- Syntax-directed translation schemes can also be classified into two types: postfix and prefix.
+- Postfix schemes are those that have semantic actions after the right-hand side of the production.
+- Prefix schemes are those that have semantic actions before the right-hand side of the production.
+- Postfix schemes can be implemented by a bottom-up parser, such as a shift-reduce parser.
+- Prefix schemes can be implemented by a top-down parser, such as a recursive-descent parser.

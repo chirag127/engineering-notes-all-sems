@@ -1,0 +1,13 @@
+### Advantages of HV
+
+HV stands for high voltage, which is a term used to describe electrical power transmission systems that operate at voltages above 100 kV (kilovolts). HV systems are used to transmit large amounts of power over long distances, such as from power plants to cities or across continents. HV systems can also be used to connect different power grids or to interconnect renewable energy sources.
+
+Some of the advantages of HV systems are:
+
+- **Reduced power loss**: HV systems reduce the power loss due to the resistance of the transmission wires, as the power loss is proportional to the square of the current. By increasing the voltage, the current is reduced for the same power, and hence the power loss is reduced. For example, a power loss of only about 3% for every 1000 km can be achieved with HV systems, depending on the system construction and voltage level.
+- **Reduced wire size and cost**: HV systems also reduce the size and cost of the transmission wires, as the wire size is inversely proportional to the voltage. By increasing the voltage, the wire size can be reduced for the same current, and hence the wire cost can be reduced. For example, a HV system can use a thin conductor to transmit bulk power over a long distance.
+- **Improved voltage regulation**: HV systems improve the voltage regulation and reduce the voltage drop along the transmission line, as the voltage drop is proportional to the current. By increasing the voltage, the voltage drop is reduced for the same power, and hence the voltage regulation is improved. For example, a HV system can maintain a constant voltage at the load end, regardless of the load variations.
+- **Increased power efficiency**: HV systems increase the power efficiency at high loads, as the power efficiency is inversely proportional to the power loss. By reducing the power loss, the power efficiency is increased for the same power output. For example, a HV system can deliver more power to the load with less power input from the source.
+- **Less fossil fuel dependency**: HV systems can also reduce the dependency on fossil fuels, as they can connect different power grids or interconnect renewable energy sources. By connecting different power grids, HV systems can balance the power supply and demand, and reduce the need for backup power plants. By interconnecting renewable energy sources, HV systems can increase the share of clean and green energy in the power mix, and reduce the greenhouse gas emissions.
+
+These are some of the advantages of HV systems for the notes of the Unit 2 - Introduction to IC Engines and Electric Vehicles in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING. I hope this helps you to learn and prepare for your exams.👍

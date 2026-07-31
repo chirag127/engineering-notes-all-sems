@@ -1,0 +1,27 @@
+# Software Project Management
+
+- Software project management is a proper way of planning and leading software projects.
+- Software projects are planned, implemented, monitored, and controlled within variables such as time, quality, and cost.
+- Software project management is a subset of project management, which is the application of knowledge, skills, tools, and techniques to achieve specific goals and meet specific success criteria.
+- Software project management involves the following activities:
+  - Gathering client requirements
+  - Building software products
+  - Testing their functionalities and usability
+  - Preparing documentation
+  - Delivering and maintaining the software
+- Software project management requires the use of project management software, which is software used for project planning, scheduling, resource allocation, and change management.
+- Software project management also requires the role of a software project manager, who is a liaison between the development team and the other stakeholders in a software project.
+- Software project managers are responsible for:
+  - Communicating project status
+  - Managing changes and risks
+  - Requesting additional resources
+  - Ensuring quality standards
+  - Resolving conflicts and issues
+- Software project management follows a software development life cycle (SDLC), which is a framework that defines the phases and processes of software development.
+- Software project management can adopt different SDLC models, such as:
+  - Waterfall model
+  - Agile model
+  - Spiral model
+  - Iterative model
+  - V-model
+- Software project management is a complex and dynamic discipline that requires constant adaptation and improvement to meet the changing needs and expectations of the software industry and the clients.

@@ -1,0 +1,16 @@
+### Definition and terminology for the notes of the Unit 7 - Graphs in the subject of Discrete Structures & Theory of Logic
+
+- A **graph** is a mathematical structure that consists of a set of **vertices** (also called **nodes**) and a set of **edges** (also called **arcs**) that connect pairs of vertices.
+- A graph can be represented by a diagram, where vertices are drawn as points or circles, and edges are drawn as lines or curves connecting the vertices.
+- A graph can also be represented by an **adjacency matrix**, where each row and column corresponds to a vertex, and the entry at row i and column j is 1 if there is an edge from vertex i to vertex j, and 0 otherwise.
+- A graph can also be represented by an **adjacency list**, where each vertex is associated with a list of its adjacent vertices.
+- A graph is **simple** if it has no **loops** (edges that connect a vertex to itself) and no **multiple edges** (more than one edge between the same pair of vertices).
+- A graph is **directed** if each edge has a direction, indicating the source and the destination of the edge. A directed edge is also called an **arc**. A directed graph is also called a **digraph**.
+- A graph is **undirected** if each edge has no direction, meaning that it can be traversed in either direction. An undirected edge is also called a **line**.
+- A graph is **weighted** if each edge has a numerical value associated with it, called the **weight** of the edge. A weighted graph can be used to model situations where there is a cost or a distance associated with each connection.
+- A graph is **complete** if there is an edge between every pair of vertices. A complete graph with n vertices has n(n-1)/2 edges if it is undirected, and n(n-1) edges if it is directed.
+- A graph is **bipartite** if its vertices can be divided into two disjoint sets, such that every edge connects a vertex from one set to a vertex from the other set. A bipartite graph can be colored with two colors, such that no two adjacent vertices have the same color.
+- A graph is **connected** if there is a path between any two vertices. A path is a sequence of vertices and edges, such that each edge connects the previous vertex to the next vertex in the sequence. The **length** of a path is the number of edges in the path.
+- A graph is **disconnected** if it is not connected. A disconnected graph consists of two or more **components**, which are connected subgraphs of the graph.
+- A graph is **cyclic** if it has a cycle. A cycle is a path that starts and ends at the same vertex, and does not repeat any other vertex or edge. The **length** of a cycle is the number of edges in the cycle.
+- A graph is **acyclic** if it has no cycles. An acyclic graph is also called a **forest**. A forest consists of one or more **trees**, which are connected acyclic graphs. A tree has n-1 edges, where n is the number of vertices in the tree. A tree is also called a **spanning tree** of a graph if it contains all the vertices of the graph and is a subgraph of the graph.

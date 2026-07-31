@@ -1,0 +1,9 @@
+# Concepts for the notes of the Unit 2 - Basic Structural Modeling in the subject of Object Oriented System Design
+
+- Basic structural modeling is the process of identifying and describing the static structure of a system in terms of its classes, objects, attributes, operations, and relationships.
+- Basic structural modeling uses three types of diagrams to represent the system: class diagrams, object diagrams, and CRC cards.
+- Class diagrams show the classes of the system, their attributes, operations, and associations. They also show the inheritance, aggregation, and composition relationships among classes.
+- Object diagrams show the instances of classes and their values, links, and roles. They are used to illustrate specific scenarios or snapshots of the system at a given point in time.
+- CRC cards are simple tools for identifying and assigning the responsibilities and collaborations of classes. They are used to facilitate brainstorming and communication among developers and stakeholders.
+- Basic structural modeling follows some rules and guidelines for creating and naming the elements of the system. For example, classes should have singular, noun-like names; attributes should have descriptive, adjective-like names; operations should have verb-like names; and associations should have names that indicate the nature and direction of the relationship.
+- Basic structural modeling also follows some principles and patterns for designing the system. For example, the principle of cohesion states that a class should have a single, well-defined purpose; the principle of coupling states that classes should have minimal and simple interactions with other classes; and the principle of abstraction states that a class should hide its implementation details and expose only its essential features. Some common patterns for structural modeling are the singleton pattern, the factory pattern, and the facade pattern.

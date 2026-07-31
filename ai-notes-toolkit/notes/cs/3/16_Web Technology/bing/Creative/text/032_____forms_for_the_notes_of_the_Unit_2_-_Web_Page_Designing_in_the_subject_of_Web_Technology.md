@@ -1,0 +1,23 @@
+### Forms
+- Forms are HTML elements that allow users to enter data or interact with a web page.
+- Forms consist of one or more form controls, such as text fields, checkboxes, radio buttons, buttons, etc.
+- Forms are enclosed by the `<form>` tag, which has attributes such as `action`, `method`, `name`, `id`, etc.
+- The `action` attribute specifies the URL of the server-side script that will process the form data.
+- The `method` attribute specifies the HTTP method to use when sending the form data, such as `GET` or `POST`.
+- The `name` attribute assigns a name to the form, which can be used to identify it in scripts or stylesheets.
+- The `id` attribute assigns a unique identifier to the form, which can be used to access it in scripts or stylesheets.
+- Each form control has a `<label>` element associated with it, which provides a descriptive text for the control.
+- The `<label>` element has a `for` attribute that matches the `id` attribute of the corresponding form control.
+- Each form control also has a `name` attribute that assigns a name to the control, which is used to identify the data when it is sent to the server.
+- Some form controls also have a `value` attribute that specifies the initial or default value of the control.
+- Some form controls also have a `type` attribute that specifies the type of the control, such as `text`, `password`, `email`, `number`, `checkbox`, `radio`, `submit`, etc.
+- Some form controls also have a `required` attribute that indicates that the control must be filled in before the form can be submitted.
+- Some form controls also have a `placeholder` attribute that provides a hint or example of what to enter in the control.
+- Some form controls also have a `disabled` attribute that prevents the user from interacting with the control.
+- Some form controls also have a `checked` attribute that indicates that the control is selected by default, such as checkboxes or radio buttons.
+- Some form controls also have a `selected` attribute that indicates that the option is selected by default, such as in a `<select>` element.
+- A `<select>` element creates a drop-down list of options, which are enclosed by `<option>` elements.
+- A `<textarea>` element creates a multi-line text input area, which can have attributes such as `rows` and `cols` to specify the size of the area.
+- A `<button>` element creates a clickable button, which can have attributes such as `type` and `value` to specify the function and label of the button.
+- A `<fieldset>` element groups related form controls together, which can have a `<legend>` element to provide a caption for the group.
+- A `<input type="hidden">` element creates a hidden form control, which can have a `name` and `value` attribute to store data that is not visible to the user, but is sent to the server.

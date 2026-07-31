@@ -1,0 +1,11 @@
+### Consensus protocols for Permissioned Blockchains
+
+- A consensus protocol enables all the parties of the blockchain network to come to a common agreement (consensus) on the present data state of the ledger .
+- In a permissioned blockchain, all the participating nodes are known and chosen, but consensus is still required because we can’t assume that every node is trustworthy .
+- Choosing the right consensus protocol for permissioned blockchain depends on factors like the extent of decentralization required, the number of permissions that must be granted to all the participants to carry out important tasks on the network, the speed and scalability of the network, and the security and fault tolerance of the protocol .
+- Some of the common consensus protocols for permissioned blockchains are:
+
+  - **Delegated Proof of Stake (DPoS)**: This protocol allows the network participants to vote for a set of delegates, who are responsible for validating transactions and maintaining the ledger. The delegates are rewarded for their service and can be replaced by the voters if they misbehave or underperform .
+  - **Delegated Byzantine Fault Tolerance (dBFT)**: This protocol uses a leader-follower model, where a leader node is randomly selected to propose a new block, and a group of follower nodes (called validators) are chosen to endorse the block. The block is accepted if it receives a two-thirds majority of endorsements. If the leader node is faulty or malicious, the validators can switch to a new leader .
+  - **Proof of Elapsed Time (PoET)**: This protocol relies on a trusted execution environment (TEE) to ensure that each node has a fair chance of proposing a new block. The TEE generates a random waiting time for each node, and the node with the shortest waiting time gets to propose the block. The TEE also verifies that the node did not cheat by altering the waiting time .
+  - **Proof of Authority (PoA)**: This protocol assigns the role of validating transactions and creating blocks to a set of pre-approved nodes (called authorities), who are trusted by the network. The authorities do not receive any rewards for their service, but they stake their reputation on the network. The protocol is fast and scalable, but it sacrifices some degree of decentralization.

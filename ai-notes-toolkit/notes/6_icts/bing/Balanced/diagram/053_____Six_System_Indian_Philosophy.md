@@ -1,0 +1,12 @@
+### Six System Indian Philosophy
+
+The six systems of Indian philosophy are:
+
+- **Nyaya**: A school that deals with logic and epistemology. It was founded by Akshapada Gautama in the 2nd century BCE. It proposes four sources of valid knowledge: perception, inference, comparison, and testimony. It also analyzes the nature of arguments, fallacies, and proofs .
+- **Vaisheshika**: A school that explains the nature of reality in terms of atoms and their combinations. It was founded by Kanada Kashyapa in the 6th century BCE. It proposes six categories of existence: substance, quality, action, generality, particularity, and inherence. It also discusses the concepts of causation, liberation, and ethics .
+- **Samkhya**: A school that provides a dualistic framework of purusha (consciousness) and prakriti (matter). It was founded by Kapila in the 6th century BCE. It enumerates 25 principles of reality, including the three gunas (qualities) of sattva (goodness), rajas (activity), and tamas (inertia). It also explains the process of evolution, bondage, and liberation of the purushas .
+- **Yoga**: A school that prescribes a practical method of attaining liberation through physical and mental discipline. It was founded by Patanjali in the 2nd century BCE. It is based on the Samkhya philosophy, but adds the concept of Ishvara (God) as the supreme purusha. It outlines eight limbs of yoga: yama (restraints), niyama (observances), asana (postures), pranayama (breath control), pratyahara (withdrawal of senses), dharana (concentration), dhyana (meditation), and samadhi (absorption) .
+- **Purva Mimamsa**: A school that focuses on the interpretation and application of the Vedas, the sacred scriptures of Hinduism. It was founded by Jaimini in the 3rd century BCE. It advocates the performance of rituals and duties as the means of attaining happiness and heaven. It also analyzes the nature of language, meaning, and authority .
+- **Uttara Mimamsa or Vedanta**: A school that expounds the philosophical essence of the Upanishads, the concluding part of the Vedas. It was founded by Badarayana in the 4th century BCE. It proposes various theories of the relationship between Brahman (the supreme reality), Atman (the individual self), and the world. It also discusses the concepts of maya (illusion), karma (action), and moksha (liberation) .
+
+These are the six systems of Indian philosophy. They represent different perspectives and approaches to understanding the truth. They also influenced each other and other schools of thought in India and beyond.

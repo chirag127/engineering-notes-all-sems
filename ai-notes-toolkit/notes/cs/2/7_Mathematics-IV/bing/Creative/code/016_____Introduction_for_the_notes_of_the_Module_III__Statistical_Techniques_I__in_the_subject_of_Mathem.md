@@ -1,0 +1,30 @@
+### Introduction for the notes of the Module III: Statistical Techniques I: in the subject of Mathematics-IV KCS
+
+- In this module, we will learn about some basic concepts and methods of statistics, which are useful for analyzing and interpreting data.
+- Statistics is the science of collecting, organizing, summarizing, and drawing conclusions from data.
+- Data are the facts or measurements that describe some phenomenon of interest.
+- There are two types of data: qualitative and quantitative.
+- Qualitative data are data that can be classified into categories or groups, such as gender, color, or type of car.
+- Quantitative data are data that can be measured or counted, such as height, weight, or speed.
+- There are two levels of measurement for quantitative data: discrete and continuous.
+- Discrete data are data that can only take certain values, such as the number of students in a class, or the number of heads in a coin toss.
+- Continuous data are data that can take any value within a range, such as the temperature, or the time of arrival of a bus.
+- There are two main branches of statistics: descriptive and inferential.
+- Descriptive statistics are methods of summarizing and displaying data using tables, graphs, and numerical measures, such as mean, median, mode, standard deviation, etc.
+- Inferential statistics are methods of drawing conclusions or making predictions about a population based on a sample of data from that population, using techniques such as hypothesis testing, confidence intervals, regression, etc.
+- A population is the entire set of individuals or objects of interest in a statistical study.
+- A sample is a subset of the population that is selected for observation or measurement.
+- A parameter is a numerical characteristic of a population, such as the population mean, population standard deviation, population proportion, etc.
+- A statistic is a numerical characteristic of a sample, such as the sample mean, sample standard deviation, sample proportion, etc.
+- The goal of inferential statistics is to use the sample statistics to estimate or test the population parameters, and to measure the uncertainty or error involved in doing so.
+- In this module, we will focus on the following topics:
+  - Measures of central tendency, which are numerical values that describe the center or typical value of a data set, such as mean, median, and mode.
+  - Measures of dispersion, which are numerical values that describe the spread or variability of a data set, such as range, variance, standard deviation, and coefficient of variation.
+  - Measures of relative standing, which are numerical values that describe the position or rank of a data value in a data set, such as percentiles, quartiles, and z-scores.
+  - Measures of association, which are numerical values that describe the strength and direction of the relationship between two variables, such as correlation and regression coefficients.
+  - Probability, which is the measure of the likelihood or chance of an event or outcome occurring, such as the probability of rolling a six on a fair die, or the probability of getting a head in a coin toss.
+  - Probability distributions, which are mathematical models that describe the possible values and probabilities of a random variable, such as the binomial distribution, the normal distribution, the Poisson distribution, etc.
+  - Sampling distributions, which are the distributions of the sample statistics obtained from repeated sampling from a population, such as the sampling distribution of the sample mean, the sample proportion, etc.
+  - Central limit theorem, which is a fundamental result in statistics that states that the sampling distribution of the sample mean (or any other sample statistic) approaches a normal distribution as the sample size increases, regardless of the shape of the population distribution.
+  - Estimation, which is the process of using the sample statistics to estimate the population parameters, such as the point estimate, the interval estimate, and the margin of error.
+  - Hypothesis testing, which is the process of using the sample statistics to test a claim or statement about the population parameters, such as the null hypothesis, the alternative hypothesis, the test statistic, the p-value, and the conclusion.

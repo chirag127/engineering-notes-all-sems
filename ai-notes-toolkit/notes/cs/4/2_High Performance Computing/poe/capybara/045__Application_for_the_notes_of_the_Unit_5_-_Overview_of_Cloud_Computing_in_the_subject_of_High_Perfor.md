@@ -1,0 +1,13 @@
+### Application for the notes of the Unit 5 - Overview of Cloud Computing in the subject of High Performance Computing
+
+Cloud computing is a rapidly growing field and has become an important part of high-performance computing. To succeed in this field, it is essential to have a good understanding of the basics of cloud computing. Here are some points that will help you in your studies:
+
+- Introduction to Cloud Computing: It is important to understand what cloud computing is and how it works. The introduction to cloud computing will help you understand the basic concepts of cloud computing, such as the cloud infrastructure, service models, deployment models, and cloud characteristics.
+- Cloud Infrastructure: Cloud infrastructure refers to the hardware and software components that are needed to support cloud computing. You will learn about the different components of cloud infrastructure, such as servers, storage, networks, and virtualization.
+- Service Models: There are different service models in cloud computing, such as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). Understanding these models is important to know how cloud computing services are delivered.
+- Deployment Models: There are different deployment models in cloud computing, such as Public Cloud, Private Cloud, Hybrid Cloud, and Community Cloud. You will learn about the differences between these models and how they are used in different situations.
+- Advantages and Disadvantages of Cloud Computing: Understanding the advantages and disadvantages of cloud computing is important to know how to use it effectively. You will learn about the benefits of cloud computing, such as cost savings, scalability, and accessibility, as well as the disadvantages, such as security and privacy concerns.
+- Cloud Computing Security: Security is a major concern in cloud computing. You will learn about the different security measures that are implemented in cloud computing, such as encryption, firewalls, and access controls.
+- Cloud Computing Standards and Best Practices: There are different standards and best practices in cloud computing that are used to ensure the quality of cloud computing services. You will learn about the different organizations that set standards for cloud computing, such as NIST and ISO, as well as the best practices that are followed in cloud computing.
+
+In conclusion, understanding the basics of cloud computing is essential for anyone who wants to pursue a career in high-performance computing. By studying the above points, you will have a good understanding of the basics of cloud computing and be well-prepared for your exams.

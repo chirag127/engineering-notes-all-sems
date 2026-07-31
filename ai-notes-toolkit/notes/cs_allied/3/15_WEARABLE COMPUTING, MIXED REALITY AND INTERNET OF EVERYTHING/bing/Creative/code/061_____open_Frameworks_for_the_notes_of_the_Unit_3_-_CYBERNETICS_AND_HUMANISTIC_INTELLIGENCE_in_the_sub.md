@@ -1,0 +1,21 @@
+### Open Frameworks for the notes of the Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Cybernetics is the science of communication and control in living organisms and machines.
+- Humanistic Intelligence is the intelligence that arises because of a human being in the feedback loop of a computational process, where the human and computer are inextricably intertwined.
+- Wearable computing, mixed reality and internet of everything are examples of technologies that enable humanistic intelligence and cybernetics.
+- Open frameworks are software platforms that allow developers to create applications and systems that use these technologies in a flexible and modular way.
+- Some examples of open frameworks are:
+  - openFrameworks: a C++ toolkit for creative coding that supports graphics, sound, video, computer vision, networking, etc.
+  - Processing: a Java-based language and environment for creating interactive graphics, animations, games, etc.
+  - Arduino: a hardware and software platform for building electronic devices that can sense and control the physical world
+  - Unity: a cross-platform game engine and development environment that supports 2D, 3D, VR, AR, etc.
+- The advantages of using open frameworks are:
+  - They are free and open source, which means anyone can use, modify and share them.
+  - They are community-driven, which means they have a large and active user base that provides support, feedback and contributions.
+  - They are cross-platform, which means they can run on different operating systems and devices.
+  - They are extensible, which means they can be integrated with other libraries, frameworks and tools.
+  - They are expressive, which means they allow developers to create diverse and innovative applications and systems.
+- The challenges of using open frameworks are:
+  - They require a certain level of programming skills and knowledge, which may not be accessible to everyone.
+  - They may have compatibility issues, bugs, or limitations, which may affect the performance and quality of the applications and systems.
+  - They may have ethical, social, or legal implications, which may raise questions about the responsibility and accountability of the developers and users.

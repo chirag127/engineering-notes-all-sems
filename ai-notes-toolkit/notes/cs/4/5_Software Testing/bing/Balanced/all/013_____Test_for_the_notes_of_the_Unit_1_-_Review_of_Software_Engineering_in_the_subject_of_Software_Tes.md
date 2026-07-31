@@ -1,0 +1,22 @@
+# Test for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- The test will cover the following topics:
+  - Software engineering definition and objectives
+  - Software engineering process models and life cycle phases
+  - Software engineering activities and tasks
+  - Software engineering roles and responsibilities
+  - Software engineering standards and quality assurance
+  - Software engineering challenges and trends
+- The test will consist of multiple choice, true/false, and short answer questions.
+- The test will have a total of 20 questions and a duration of 40 minutes.
+- The test will be graded based on the following criteria:
+  - Correctness and completeness of the answers
+  - Clarity and conciseness of the explanations
+  - Relevance and accuracy of the examples
+  - Application and analysis of the concepts
+- The test will require the following preparation:
+  - Review the notes and slides of the unit 1
+  - Study the key terms and definitions of the unit 1
+  - Practice the exercises and problems of the unit 1
+  - Solve the sample test questions of the unit 1
+  - Revise the main points and objectives of the unit 1

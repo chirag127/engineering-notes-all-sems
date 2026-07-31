@@ -1,0 +1,6 @@
+# Definition of Cloud
+
+- Cloud computing is the **practice of using a network of remote servers hosted on the internet** to store, manage, and process data, rather than a local server or a personal computer.
+- Cloud computing is also the **delivery of computing services**—including servers, storage, databases, networking, software, analytics, and intelligence—over the internet (“the cloud”) to offer **faster innovation, flexible resources, and economies of scale**.
+- Cloud computing is the **on-demand availability of computing resources as services** over the internet. It eliminates the need for enterprises to procure, configure, or manage resources themselves, and allows them to **pay only for what they use**.
+- Cloud computing is based on some form of **virtualized IT infrastructure**— servers, operating system software, networking, and other infrastructure that’s abstracted, using special software, so that it can be **pooled and divided irrespective of physical hardware boundaries**.

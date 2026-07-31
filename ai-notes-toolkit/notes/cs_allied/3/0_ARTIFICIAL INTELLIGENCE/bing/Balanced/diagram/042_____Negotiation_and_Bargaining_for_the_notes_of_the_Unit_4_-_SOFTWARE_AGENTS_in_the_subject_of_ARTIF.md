@@ -1,0 +1,30 @@
+### Negotiation and Bargaining
+
+- Negotiation is a process of reaching an agreement between two or more parties that have conflicting interests or preferences .
+- Bargaining is a subset of negotiation that focuses on the exchange of offers and counteroffers to determine the terms of the agreement.
+- Negotiation and bargaining can be applied to various domains, such as business, politics, law, diplomacy, and personal relationships .
+- Negotiation and bargaining can involve human-human, human-agent, or agent-agent interactions, where agents are software programs that can represent human interests or goals  .
+- Negotiation and bargaining can be classified into different types, such as:
+  - Distributive negotiation: a zero-sum game where the parties compete over a fixed amount of resources and try to maximize their own share .
+  - Integrative negotiation: a positive-sum game where the parties cooperate to create value and find a mutually beneficial solution .
+  - Multi-issue negotiation: a complex negotiation where the parties have to deal with multiple interrelated issues and trade-offs .
+  - Multi-party negotiation: a complex negotiation where more than two parties are involved and have to coordinate their actions and preferences .
+- Negotiation and bargaining can be influenced by various factors, such as:
+  - Strategy: the plan or approach that a party adopts to achieve its goals in the negotiation .
+  - Tactics: the specific actions or moves that a party uses to implement its strategy in the negotiation .
+  - Information: the knowledge or data that a party has or acquires about the negotiation situation, the other parties, and the possible outcomes .
+  - Communication: the verbal or non-verbal messages that a party sends or receives during the negotiation .
+  - Emotion: the affective state or feeling that a party experiences or expresses during the negotiation .
+  - Ethics: the moral principles or values that guide the behavior of a party in the negotiation .
+- Negotiation and bargaining can be supported or enhanced by artificial intelligence (AI) techniques, such as:
+  - Machine learning: the ability of a system to learn from data and improve its performance over time .
+  - Natural language processing: the ability of a system to understand and generate natural language texts or speech .
+  - Game theory: the mathematical study of strategic interactions among rational agents .
+  - Decision theory: the mathematical study of optimal choices under uncertainty and preferences .
+  - Argumentation: the logical reasoning and persuasion process that involves making and evaluating arguments .
+- AI-based negotiation and bargaining systems can offer various benefits, such as:
+  - Reducing the time, cost, stress, and cognitive effort required by human negotiators .
+  - Increasing the efficiency, effectiveness, and fairness of the negotiation outcomes .
+  - Overcoming the human limitations and biases in information processing and decision making .
+  - Providing guidance, advice, or feedback to human negotiators before or during the negotiation .
+  - Representing human interests or goals autonomously or semi-autonomously in the negotiation .

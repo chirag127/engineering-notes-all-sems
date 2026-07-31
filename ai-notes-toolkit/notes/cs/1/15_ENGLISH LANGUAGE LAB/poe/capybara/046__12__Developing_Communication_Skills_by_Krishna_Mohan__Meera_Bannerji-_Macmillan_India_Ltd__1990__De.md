@@ -1,0 +1,13 @@
+### 12. Developing Communication Skills by Krishna Mohan, Meera Bannerji- Macmillan India Ltd. 1990, Delhi.
+
+Developing communication skills is an essential part of personal and professional growth. The ability to communicate effectively is crucial in all aspects of life, from personal relationships to business interactions. The book "Developing Communication Skills" by Krishna Mohan and Meera Bannerji provides valuable insights on how to enhance one's communication skills. Here are some of the key points from the book:
+
+- Communication is a two-way process that involves both sending and receiving information. To be an effective communicator, one needs to be able to articulate their thoughts clearly and listen actively to others.
+- Effective communication requires an understanding of the audience. One needs to tailor their communication style to suit the needs and preferences of the listener. This involves considering factors such as age, gender, culture, and education level.
+- Non-verbal communication plays a significant role in conveying messages. Body language, facial expressions, and tone of voice can all influence how a message is received. It's important to be aware of these non-verbal cues and use them to enhance the message being conveyed.
+- The ability to write well is also an important part of communication. Writing is a way to communicate ideas and information clearly and concisely. The book provides tips on how to write effectively, including using simple language, organizing ideas logically, and proofreading for errors.
+- Communication is not just about transmitting information; it's also about building relationships. Effective communicators establish rapport with their listeners by showing empathy, being authentic, and using humor when appropriate.
+- Conflict is an inevitable part of life, and effective communication can help resolve conflicts. The book provides strategies for managing conflicts, including active listening, identifying common ground, and proposing solutions that benefit both parties.
+- Technology has transformed the way we communicate, and the book provides guidance on how to communicate effectively in the digital age. This includes tips on email etiquette, social media communication, and video conferencing.
+
+In conclusion, "Developing Communication Skills" by Krishna Mohan and Meera Bannerji is an excellent resource for anyone looking to enhance their communication skills. By following the tips and strategies outlined in the book, readers can become more effective communicators in all aspects of life.

@@ -1,0 +1,13 @@
+# Procedures of GA for the notes of the Unit 5 - Genetic Algorithm(GA) in the subject of Application of Soft Computing
+
+Genetic Algorithm (GA) is a search-based optimization technique based on the principles of Genetics and Natural Selection. It is frequently used to find optimal or near-optimal solutions to difficult problems which otherwise would take a lifetime to solve. It is frequently used to solve optimization problems, in research, and in machine learning.
+
+The basic procedures of GA are as follows:
+
+- **Initialization**: Generate an initial population of size N, where each individual is a possible solution to the problem. The individuals are usually represented by binary strings, but other encodings are also possible.
+- **Evaluation**: Calculate the fitness or objective value of each individual in the population, according to some predefined criterion. The fitness reflects how well the individual solves the problem.
+- **Selection**: Select a subset of individuals from the current population to produce offspring for the next generation. The selection is usually based on the fitness, such that fitter individuals have a higher chance of being selected. There are different methods of selection, such as roulette wheel, tournament, rank-based, etc.
+- **Crossover**: Apply a recombination operator to pairs of selected individuals to create new individuals. The crossover operator exchanges some parts of the parent individuals to produce offspring that inherit some features from both parents. There are different types of crossover operators, such as one-point, two-point, uniform, etc.
+- **Mutation**: Apply a mutation operator to some individuals in the offspring population to introduce some variations. The mutation operator alters some parts of the individual randomly, such as flipping a bit in a binary string. The mutation rate is usually low, to avoid losing good solutions.
+- **Replacement**: Replace the current population with the offspring population, or some combination of both. The replacement strategy determines how the new generation is formed from the old and the new individuals. There are different methods of replacement, such as elitism, generational, steady-state, etc.
+- **Termination**: Check if a termination condition is met, such as reaching a maximum number of generations, finding an optimal or satisfactory solution, or reaching a time limit. If the termination condition is met, stop the algorithm and return the best solution found. Otherwise, go back to the evaluation step and repeat the process.

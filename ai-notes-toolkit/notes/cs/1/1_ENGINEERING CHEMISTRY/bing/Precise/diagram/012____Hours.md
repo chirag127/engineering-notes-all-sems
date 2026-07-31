@@ -1,0 +1,22 @@
+## Hours
+
+- An hour is a unit of time conventionally defined as 1/24th of a day and scientifically reckoned as 3,599–3,601 seconds, depending on conditions.
+- The hour was initially established in the ancient Near East as a variable measure of 1/12 of the night or daytime.
+- The seasonal, temporal, or unequal hour was established in the ancient Near East as 1/12 of the night or daytime.
+- Such hours varied by season, latitude, and weather.
+- It was subsequently divided into 60 minutes, each of 60 seconds.
+- Its East Asian equivalent was the shi, which was 1/12 of the nominal night.
+- The use of the hour in timekeeping has increased steadily since the Middle Ages.
+- Equal or clock time, which is used today, was only gradually adopted as the default time standard.
+- The use of various means to keep time, such as water clocks, sundials, and marked candles, eventually led to mechanical clocks.
+- The invention of the mechanical clock in the 14th century initiated a change in timekeeping methods from continuous processes, such as the motion of the gnomon's shadow on a sundial or the flow of liquid in a water clock, to periodic oscillatory processes, such as the swing of a pendulum or the vibration of a quartz crystal, which had the potential for more accuracy.
+- The timekeeping element in every modern clock is a harmonic oscillator, a physical object that vibrates or oscillates repetitively at a precisely constant frequency.
+- This object can be a pendulum, a tuning fork, a quartz crystal, or the vibration of electrons in atoms as they emit microwaves.
+- Analog clocks usually indicate time using angles.
+- Digital clocks display a numeric representation of time.
+- Two numeric display formats are commonly used on digital clocks: 24-hour notation and 12-hour notation.
+- Most digital clocks use electronic mechanisms and LCD, LED, or VFD displays.
+- For convenience, distance, telephony or blindness, auditory clocks present the time as sounds.
+- There are also clocks for the blind that have displays that can be read by using the sense of touch.
+- Some of these are similar to normal analog displays, but are constructed so the hands can be felt without damaging them.
+- The evolution of the technology of clocks continues today. The study of timekeeping is known as horology.

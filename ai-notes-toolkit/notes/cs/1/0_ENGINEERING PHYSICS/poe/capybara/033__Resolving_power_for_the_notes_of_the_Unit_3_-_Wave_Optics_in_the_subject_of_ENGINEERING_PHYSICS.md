@@ -1,0 +1,13 @@
+### Resolving power for the notes of the Unit 3 - Wave Optics in the subject of ENGINEERING PHYSICS
+
+Wave optics is a branch of physics that deals with the study of the behavior of light as a wave. Resolving power is an important concept in wave optics that determines the ability of an optical system to distinguish between two closely spaced objects. Here are some important points to understand the concept of resolving power:
+
+- Resolving power is defined as the minimum distance between two closely spaced objects that can be distinguished by an optical system.
+- The resolving power of an optical system is dependent on several factors such as the wavelength of light used, the numerical aperture of the optical system, and the size of the aperture.
+- The Rayleigh criterion is a widely accepted criterion that defines the resolving power of an optical system. According to this criterion, two objects can be distinguished if the central maximum of one object coincides with the first minimum of the other object's diffraction pattern.
+- The resolving power of an optical system can be improved by increasing the numerical aperture of the system or by using light of shorter wavelength.
+- The resolving power of an optical system can be calculated using the following formula: Resolving power = 1.22*(wavelength/numerical aperture)
+- The concept of resolving power is important in several applications such as microscopy, astronomy, and photography. In microscopy, it is important to have a high resolving power to observe the fine details of the specimen being studied. In astronomy, the resolving power of telescopes determines the ability to observe distant objects. In photography, the resolving power determines the sharpness of the image.
+- The concept of resolving power is closely related to the concept of diffraction limit. The diffraction limit is defined as the minimum size of the spot to which light can be focused by an optical system. The resolving power of an optical system cannot be better than its diffraction limit.
+
+In conclusion, understanding the concept of resolving power is essential in the study of wave optics. The resolving power of an optical system determines its ability to distinguish between two closely spaced objects and is dependent on several factors such as the wavelength of light used and the numerical aperture of the system. The Rayleigh criterion is a widely accepted criterion for defining the resolving power of an optical system, and the concept of resolving power is important in several applications such as microscopy, astronomy, and photography.

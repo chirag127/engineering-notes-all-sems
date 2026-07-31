@@ -1,0 +1,27 @@
+### 7. English Grammar & Composition by Wren & Martin, S.Chand & Co. Ltd., New Delhi.
+
+- This is a comprehensive book on English grammar and composition for students of different levels of education.
+- The book covers the following topics:
+  - Parts of speech and their usage
+  - Sentence structure and types
+  - Phrases and clauses
+  - Agreement of the verb with the subject
+  - Tenses and their forms
+  - Voice and mood of verbs
+  - Modals and auxiliaries
+  - Non-finite verbs and gerunds
+  - Participles and infinitives
+  - Direct and indirect speech
+  - Punctuation and capitalization
+  - Synonyms and antonyms
+  - Homonyms and homophones
+  - Word formation and spelling
+  - Figures of speech and idioms
+  - Comprehension and precis writing
+  - Essay and letter writing
+  - Expansion of passages and outlines
+  - Paraphrasing and summarizing
+  - Vocabulary and usage
+- The book provides clear explanations, examples, exercises, and answers for each topic.
+- The book also includes appendices on irregular verbs, prefixes and suffixes, foreign words and phrases, and common errors in English.
+- The book is suitable for self-study as well as classroom learning. It is a useful reference for students preparing for various competitive exams.

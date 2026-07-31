@@ -1,0 +1,21 @@
+### Hadoop I/O: compression
+
+- Data compression is a technique to reduce the size of data files by applying some algorithms that encode the data more efficiently.
+- Data compression can improve the performance of Hadoop applications by reducing the amount of I/O and network traffic, which are often the bottlenecks in large-scale data processing.
+- Data compression can also save disk space and reduce the cost of storage.
+- However, data compression also has some drawbacks, such as:
+  - It consumes CPU resources to compress and decompress data, which may affect the speed of computation.
+  - It may not be compatible with some data formats or operations, such as random access or sorting.
+  - It may introduce some overhead in the file format or the compression codec, which may reduce the compression ratio or increase the complexity of the code.
+- Therefore, data compression in Hadoop is usually a tradeoff between I/O and speed of computation, and it should be used with care and testing.
+- Hadoop supports data compression at different levels, such as:
+  - File level: compressing the whole file as a single unit, such as using gzip or bzip2. This is suitable for archival or backup purposes, but not for processing, as it does not allow splitting or random access.
+  - Block level: compressing each block of a file separately, such as using LZO or Snappy. This is suitable for processing, as it allows splitting and random access, but it may not achieve the best compression ratio, as each block is compressed independently.
+  - Record level: compressing each record or field of a file separately, such as using Avro or SequenceFile. This is suitable for processing, as it allows splitting and random access, and it can achieve a high compression ratio, as it can exploit the structure and semantics of the data.
+- Hadoop provides a set of interfaces and classes for data compression, such as:
+  - CompressionCodec: an interface that defines the methods for compressing and decompressing data streams.
+  - Compressor and Decompressor: interfaces that define the methods for compressing and decompressing data buffers.
+  - CompressionInputStream and CompressionOutputStream: abstract classes that implement the InputStream and OutputStream interfaces for compressed data streams.
+  - CompressionCodecFactory: a class that provides methods for finding and creating compression codecs based on file extensions or configuration properties.
+  - DefaultCodec, GzipCodec, BZip2Codec, Lz4Codec, SnappyCodec, ZStandardCodec: classes that implement the CompressionCodec interface for different compression algorithms.
+  - Avro and SequenceFile: classes that implement the file formats for record-level compression.

@@ -1,0 +1,20 @@
+## Unit 5 - Distributed Resource Management
+
+- Distributed resource management (DRM) is an evolving discipline consisting of a set of software, hardware, network tools, procedures and policies for enabling distributed enterprise systems to operate effectively in production.
+- Distributed enterprise systems are systems that span multiple locations, platforms, and domains, and that rely on distributed computing technologies such as cloud computing, grid computing, peer-to-peer computing, and edge computing.
+- DRM aims to achieve the following objectives:
+  - Optimize the utilization of distributed resources, such as computing power, storage, bandwidth, and energy, by allocating them to the tasks that need them most.
+  - Ensure the quality of service (QoS) of distributed applications, such as performance, availability, reliability, security, and scalability, by monitoring and controlling the resources and the network conditions.
+  - Support the dynamic and heterogeneous nature of distributed environments, by adapting to the changes in resource availability, demand, and configuration, and by enabling interoperability and integration among different resource types and providers.
+  - Facilitate the management of distributed resources, by providing a unified and transparent view of the resources and their status, and by automating the resource discovery, scheduling, provisioning, and configuration processes.
+- DRM can be applied to various domains and scenarios, such as:
+  - Distributed energy resource management system (DERMS), which is the combination of hardware and software that allows real-time communication and control across the batteries, solar panels, and other edge devices that normally lie behind-the-meter and outside grid operators’ direct control.
+  - Distributed data management system (DDMS), which is the system that handles the storage, processing, and analysis of large-scale and distributed data sets, such as big data, data streams, and data lakes.
+  - Distributed application management system (DAMS), which is the system that manages the deployment, execution, and coordination of distributed applications, such as web services, microservices, and serverless functions.
+- DRM can be implemented in a centralized or decentralized manner, depending on the scale, complexity, and requirements of the distributed system. Centralized DRM relies on a single or a few central servers or controllers that have the global knowledge and authority of the resources and the tasks, and that make the resource management decisions for the whole system. Decentralized DRM distributes the resource management functions among multiple nodes or agents that have local or partial knowledge and authority of the resources and the tasks, and that make the resource management decisions based on local or collective information and rules.
+- DRM faces several challenges and issues, such as:
+  - Resource heterogeneity and diversity, which refers to the differences and variations in the types, capabilities, and characteristics of the resources, such as CPU, memory, disk, network, energy, etc.
+  - Resource dynamism and uncertainty, which refers to the changes and fluctuations in the availability, demand, and configuration of the resources, due to factors such as failures, faults, maintenance, load, mobility, etc.
+  - Resource scalability and elasticity, which refers to the ability to handle the increase or decrease in the number and size of the resources, and to adjust the resource allocation and provisioning accordingly.
+  - Resource interoperability and integration, which refers to the ability to communicate and cooperate among different resource types and providers, and to use common standards and protocols for resource discovery, scheduling, provisioning, and configuration.
+  - Resource security and privacy, which refers to the protection of the resources and the data from unauthorized access, modification, or disclosure, and to the compliance with the regulations and policies for resource usage and sharing.

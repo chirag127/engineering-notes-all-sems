@@ -1,0 +1,7 @@
+### DoS for the notes of the Unit 2 - Cyber Forensics in the subject of CYBER FORENSIC ANALYTICS
+
+- DoS stands for Denial-of-Service, which is a type of cyber-attack that occurs when an attacker prevents an authorized user from accessing their personal data or files by temporarily or permanently interrupting the normal operations of a computer or network.
+- DoS attacks can be launched from a single or multiple sources, and can target different layers of the network protocol stack, such as the application layer, the transport layer, or the network layer.
+- DoS attacks can have various motivations, such as extortion, sabotage, vandalism, protest, or competition. Some examples of DoS attacks are SYN flood, UDP flood, ICMP flood, HTTP flood, and DNS amplification.
+- Cyber forensics is the process of collecting, preserving, analyzing, and presenting digital evidence related to cyber crimes or incidents. Cyber forensics can help in the investigation and prosecution of cyber criminals, as well as in the prevention and mitigation of future attacks.
+- Cyber forensics can be applied to DoS attacks to identify the source and nature of the attack, to distinguish it from legitimate traffic, and to employ appropriate countermeasures to block it. Some of the techniques used in DoS attack forensics are packet capture and analysis, network flow analysis, log analysis, and traceback methods.

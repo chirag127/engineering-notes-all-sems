@@ -1,0 +1,27 @@
+## Permutation
+
+- A permutation is an arrangement of objects in a specific order.
+- The order of the objects matters in a permutation.
+- For example, the permutations of the letters A, B, and C are ABC, ACB, BAC, BCA, CAB, and CBA. Changing the order of the letters produces different permutations.
+- The number of permutations of n distinct objects is n factorial, denoted by n!.
+- n! = n * (n-1) * (n-2) * ... * 3 * 2 * 1
+- For example, the number of permutations of 3 distinct objects is 3! = 3 * 2 * 1 = 6.
+- If some of the objects are repeated, the number of permutations is reduced by dividing by the factorial of the number of repetitions.
+- For example, the number of permutations of the letters A, A, and B is 3! / 2! = 3, because there are 2 repetitions of A. The permutations are AAB, ABA, and BAA.
+- A permutation of r objects from a set of n objects is called a permutation of n objects taken r at a time, denoted by P(n, r).
+- P(n, r) = n! / (n-r)!
+- For example, the number of permutations of 2 letters from the set {A, B, C, D} is P(4, 2) = 4! / (4-2)! = 12. The permutations are AB, AC, AD, BA, BC, BD, CA, CB, CD, DA, DB, and DC.
+- A permutation can also be considered as a mapping or a function that assigns each object to a position.
+- For example, the permutation ABC can be represented as a mapping that assigns A to the first position, B to the second position, and C to the third position.
+- A permutation can also be represented as a cycle, which shows how the objects are moved from one position to another.
+- For example, the permutation ABC can be represented as a cycle (A B C), which means that A is moved to the position of B, B is moved to the position of C, and C is moved to the position of A.
+- A permutation can be composed with another permutation by applying the mappings or cycles of both permutations in succession.
+- For example, the composition of the permutations ABC and BAC is BCA, because applying ABC first and then BAC results in BCA.
+- The composition of permutations is not commutative, meaning that the order of the permutations matters.
+- For example, the composition of the permutations ABC and BAC is not the same as the composition of the permutations BAC and ABC, which is CAB.
+- The identity permutation is the permutation that does not change the order of the objects, denoted by I.
+- For example, the identity permutation of the letters A, B, and C is ABC, which can be represented as a mapping that assigns A to A, B to B, and C to C, or as a cycle (A)(B)(C), which means that no object is moved.
+- The inverse of a permutation is the permutation that reverses the effect of the original permutation, denoted by P^-1.
+- For example, the inverse of the permutation ABC is CBA, which can be represented as a mapping that assigns A to C, B to B, and C to A, or as a cycle (A C)(B), which means that A and C are swapped and B is unchanged.
+- The inverse of a permutation can be obtained by reversing the order of the mappings or cycles of the original permutation.
+- For example, the inverse of the permutation (A B C)(D E) is (E D)(C B A), which can be obtained by reversing the order of the cycles and the order of the elements within each cycle.

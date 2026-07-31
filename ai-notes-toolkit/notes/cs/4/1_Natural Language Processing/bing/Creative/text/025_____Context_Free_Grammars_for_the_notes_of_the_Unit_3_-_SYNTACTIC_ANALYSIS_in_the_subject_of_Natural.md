@@ -1,0 +1,24 @@
+### Context Free Grammars
+
+- A context-free grammar (CFG) is a list of rules that define the set of all well-formed sentences in a language.
+- Each rule has a left-hand side, which identifies a syntactic category, and a right-hand side, which defines its alternative component parts, reading from left to right.
+- A syntactic category is a label for a group of words or phrases that share some common properties, such as noun, verb, adjective, etc.
+- A context-free grammar is called so because the rules can be applied regardless of the surrounding context of the words or phrases.
+- A context-free grammar can be formally defined as a 4-tuple (N, Σ, R, S), where:
+  - N is a finite set of non-terminal symbols, which represent syntactic categories.
+  - Σ is a finite set of terminal symbols, which represent words or punctuation marks.
+  - R is a finite set of production rules, which specify how to rewrite a non-terminal symbol as a sequence of terminal or non-terminal symbols.
+  - S is a special non-terminal symbol, called the start symbol, which represents the whole sentence.
+- A context-free grammar can be used to generate or parse sentences in a language.
+- To generate a sentence, we start with the start symbol and apply the rules recursively until we obtain a sequence of terminal symbols.
+- To parse a sentence, we start with the sequence of terminal symbols and apply the rules in reverse until we obtain the start symbol.
+- A context-free grammar can be represented by a parse tree, which is a graphical representation of the derivation of a sentence.
+- A parse tree shows the hierarchical structure of a sentence and the application of the rules.
+- A context-free grammar can be used to model the constituent structure of natural language, which is the way words and phrases are grouped together to form larger units of meaning.
+- A context-free grammar can also be used to define the high level structure of a programming language, which is the way programs are composed of statements, expressions, variables, etc.
+- A context-free grammar is a powerful and expressive formalism, but it has some limitations.
+- Natural languages are not strictly context-free, because they have some dependencies and constraints that cannot be captured by context-free rules.
+- For example, pronouns are more likely to occur in the object rather than the subject of a sentence, and the number and gender of a noun must agree with its modifiers.
+- To handle these phenomena, we may need to use more complex grammars, such as mildly context-sensitive grammars or tree-adjoining grammars.
+- Context-free grammars are also computationally expensive to parse, because the number of possible derivations for a sentence can grow exponentially with its length.
+- To reduce the complexity, we may need to use some heuristics or approximations, such as probabilistic context-free grammars or chart parsing.

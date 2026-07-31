@@ -1,0 +1,24 @@
+# Keyboard and function keys
+
+- A keyboard is a device input device for data entry that uses an organization of keys/buttons that serves as a mechanical device for a computer .
+- Each key in a keyboard corresponds to a single written symbol or character.
+- The main types of keyboard keys are functional, alphanumeric, formatting, special, and numeric among many others.
+- The functional keyboard keys range from F1 to F12 and they are found at the top of the keyboard .
+- They are used for specific functions which are mostly programmed for them.
+- The functionality of these keys differs from program to program.
+- Some common functions of the functional keys are:
+  - F1: Used for Help in the Window Operating system.
+  - F2: Used for renaming a selected file or folder.
+  - F3: Used for opening the search feature in most programs.
+  - F4: Used for opening the address bar in Internet Explorer and other browsers.
+  - F5: Used for refreshing the current window or webpage .
+  - F6: Used for moving the cursor to the address bar in most browsers.
+  - F7: Used for checking the spelling and grammar in Microsoft Word and other programs.
+  - F8: Used for accessing the boot menu in Windows when starting the computer.
+  - F9: Used for sending and receiving email in Microsoft Outlook.
+  - F10: Used for activating the menu bar in most programs.
+  - F11: Used for toggling the full-screen mode in most browsers and other programs.
+  - F12: Used for opening the Save As dialog box in Microsoft Word and other programs.
+- Some keyboards have an F Lock key that can toggle between the standard commands and alternate commands of the functional keys.
+- Some keyboards have an Fn key that can modify the function of other keys, such as the arrow keys, Home, End, Page Up, Page Down, Delete, and Insert.
+- The Fn key can also be used to match the physical layout of a numeric keypad by pressing and holding Fn while pressing keyboard letters M, J, K, L, U, I, O, P, /, ;, and 0.

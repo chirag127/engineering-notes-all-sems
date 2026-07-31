@@ -1,0 +1,9 @@
+### Key Constraints for the Notes of the Unit 3 - Relational Database Concepts in the Subject of Basics of Data Base Management System
+
+- A key is a set of one or more attributes that uniquely identifies a tuple or a row in a relation or a table.
+- A key constraint is a rule that enforces some restriction on the values of a key in a relation or a table.
+- There are different types of key constraints, such as:
+  - Primary key constraint: A primary key is a key that uniquely identifies each tuple in a relation. A relation can have only one primary key. A primary key cannot have null values. A primary key constraint enforces that the values of the primary key are unique and not null in a relation.
+  - Foreign key constraint: A foreign key is a key that refers to the primary key of another relation. A foreign key can have null values. A foreign key constraint enforces that the values of the foreign key either match the values of the primary key of the referenced relation or are null.
+  - Unique key constraint: A unique key is a key that uniquely identifies each tuple in a relation, but is not the primary key. A relation can have more than one unique key. A unique key can have null values, but only one null value per unique key. A unique key constraint enforces that the values of the unique key are unique or null in a relation.
+  - Check constraint: A check constraint is a rule that enforces some condition on the values of one or more attributes in a relation. A check constraint can be used to restrict the range, format, or domain of the attribute values. For example, a check constraint can enforce that the values of an attribute are positive, or that they follow a certain pattern, or that they belong to a predefined set of values.

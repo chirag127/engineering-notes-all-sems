@@ -1,0 +1,19 @@
+#### c) Flash an LED at a given on time and off time cycle, where the two times are taken from a file.
+
+- To flash an LED at a given on time and off time cycle, we need to use a microcontroller, an LED, a resistor, a breadboard, some jumper wires, and a text file that contains the on time and off time values in milliseconds.
+- The microcontroller is a device that can execute a program that controls the output pins. We can use any microcontroller that has a digital output pin, such as Arduino, Raspberry Pi, or ESP32.
+- The LED is a light-emitting diode that can turn on or off depending on the voltage applied to its terminals. We need to connect one terminal of the LED to the output pin of the microcontroller, and the other terminal to the ground through a resistor. The resistor limits the current that flows through the LED and prevents it from burning out.
+- The breadboard is a board that has holes that are connected internally by metal strips. We can use it to make temporary connections between the components without soldering them.
+- The jumper wires are wires that have metal pins at both ends. We can use them to connect the components on the breadboard or to the microcontroller pins.
+- The text file is a file that has two numbers separated by a comma. The first number is the on time and the second number is the off time for the LED. For example, if the file has 1000,500, it means the LED should be on for 1000 milliseconds and off for 500 milliseconds. We need to store this file in the same folder as the program that we will write for the microcontroller.
+- The program for the microcontroller is a set of instructions that tells the microcontroller what to do. We can write the program in any programming language that is compatible with the microcontroller, such as C, Python, or Arduino. The program should do the following steps:
+  - Define a variable to store the output pin number that is connected to the LED. For example, if we use pin 13 on Arduino, we can write `int ledPin = 13;`.
+  - Define two variables to store the on time and off time values that are read from the file. For example, we can write `int onTime = 0;` and `int offTime = 0;`.
+  - Set the output pin mode to output. For example, if we use Arduino, we can write `pinMode(ledPin, OUTPUT);` in the setup function.
+  - Open the text file and read the two numbers from it. For example, if we use Arduino, we can write `File file = SD.open("times.txt");` to open the file, and then use `file.parseInt()` to read the numbers and store them in the variables. We also need to close the file after reading it by writing `file.close();`.
+  - Use a loop to repeat the following steps indefinitely. For example, if we use Arduino, we can write `void loop() {` to start the loop and `}` to end it.
+    - Turn on the LED by writing a high voltage to the output pin. For example, if we use Arduino, we can write `digitalWrite(ledPin, HIGH);`.
+    - Wait for the on time duration by using a delay function. For example, if we use Arduino, we can write `delay(onTime);`.
+    - Turn off the LED by writing a low voltage to the output pin. For example, if we use Arduino, we can write `digitalWrite(ledPin, LOW);`.
+    - Wait for the off time duration by using a delay function. For example, if we use Arduino, we can write `delay(offTime);`.
+- The result is that the LED will flash at the given on time and off time cycle, as specified by the file. We can change the file contents to change the cycle. For example, if we change the file to 500,1000, the LED will be on for 500 milliseconds and off for 1000 milliseconds.

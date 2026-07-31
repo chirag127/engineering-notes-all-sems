@@ -1,0 +1,30 @@
+# Overview of Open source RTOS for Embedded systems (Free RTOS/ ChibiosRT) and application development
+
+- An RTOS (Real-Time Operating System) is a software platform that provides deterministic and predictable execution of tasks on embedded devices.
+- An open source RTOS is an RTOS that is freely available under a license that allows users to modify, distribute and use the software without restrictions.
+- Some of the benefits of using an open source RTOS are:
+  - Cost savings: no need to pay for licenses or royalties.
+  - Flexibility: users can customize the software to fit their specific needs and preferences.
+  - Innovation: users can benefit from the collective knowledge and contributions of the open source community.
+  - Compatibility: users can avoid vendor lock-in and ensure interoperability with other open source software and hardware.
+- Some of the challenges of using an open source RTOS are:
+  - Quality: users may encounter bugs, errors or vulnerabilities in the software that are not fixed or patched by the developers.
+  - Support: users may have difficulty finding documentation, tutorials or technical assistance for the software.
+  - Liability: users may not have any legal protection or warranty for the software in case of malfunction or damage.
+- Two examples of open source RTOS for embedded systems are FreeRTOS and ChibiOS/RT.
+- FreeRTOS is a market-leading RTOS for microcontrollers and small microprocessors that was created in 2003 by Richard Barry.
+  - It is a minimalistic RTOS that supports multiple architectures and provides methods for multiple threads or tasks, mutexes, semaphores and software timers.
+  - It also offers a tickless mode for low power applications and supports thread priorities.
+  - It can be statically or dynamically allocated with five schemes of memory management.
+  - It is distributed under the MIT open source license and includes a kernel and a growing set of software libraries and tools.
+- ChibiOS/RT is a compact and fast RTOS for embedded devices that was developed by Giovanni Di Sirio.
+  - It is a feature-complete RTOS that supports multiple architectures and provides a rich set of services, such as threads, timers, queues, semaphores, mutexes, events, messages, memory pools and heaps .
+  - It also offers a modular approach, a HAL (Hardware Abstraction Layer), a portable debugger, a shell and a test suite .
+  - It is released under a mix of the GNU General Public License version 3 (GPL3) and the Apache License 2.0, depending on the module. Commercial licenses are also available from ChibiOS.
+- Application development for embedded systems using an open source RTOS involves the following steps:
+  - Choosing an RTOS that suits the requirements and constraints of the project, such as performance, memory, power, functionality and compatibility.
+  - Downloading and installing the RTOS software and the necessary tools, such as compilers, debuggers and IDEs (Integrated Development Environments).
+  - Configuring the RTOS software and the hardware platform, such as setting the clock frequency, the stack size, the heap size and the peripheral drivers.
+  - Writing the application code using the RTOS APIs (Application Programming Interfaces) and libraries, such as creating and managing tasks, synchronizing and communicating between tasks, and using timers and interrupts.
+  - Building, testing and debugging the application code using the tools provided by the RTOS software and the hardware platform, such as breakpoints, watchpoints, tracepoints and logs.
+  - Deploying and running the application code on the target device and monitoring its behavior and performance.

@@ -1,0 +1,17 @@
+### Sorting Algorithms-Non-Recursive
+
+- A sorting algorithm is a method of arranging a collection of values in a certain order, such as ascending or descending.
+- A non-recursive sorting algorithm is one that does not use recursion, which is a technique of calling a function within itself to solve a smaller subproblem.
+- Non-recursive sorting algorithms typically use loops, such as for or while, to iterate over the values and compare and swap them as needed.
+- Some examples of non-recursive sorting algorithms are:
+  - **Selection sort**: This algorithm finds the smallest value in the array and swaps it with the first position, then repeats the process for the remaining values until the array is sorted.
+  - **Insertion sort**: This algorithm iterates over the array from left to right, and inserts each value into its correct position in the sorted part of the array, shifting the larger values to the right as needed.
+  - **Bubble sort**: This algorithm compares adjacent pairs of values in the array and swaps them if they are out of order, then repeats the process until no swaps are needed.
+  - **Shell sort**: This algorithm sorts the array by using a gap sequence that decreases over time, and performs insertion sort on the subarrays formed by the gaps.
+  - **Heap sort**: This algorithm builds a heap, which is a special type of binary tree, from the array, and repeatedly extracts the maximum value from the heap and places it at the end of the array, until the heap is empty and the array is sorted.
+  - **Quick sort**: This algorithm chooses a pivot value from the array, and partitions the array into two subarrays, one with values less than or equal to the pivot, and one with values greater than the pivot, then sorts the subarrays recursively or iteratively.
+- Non-recursive sorting algorithms have different advantages and disadvantages, such as time complexity, space complexity, stability, and simplicity. Some factors to consider when choosing a non-recursive sorting algorithm are:
+  - The size of the array: Smaller arrays can be sorted faster by simple algorithms, such as insertion sort or bubble sort, while larger arrays may benefit from more efficient algorithms, such as heap sort or quick sort.
+  - The order of the array: If the array is already sorted or nearly sorted, some algorithms, such as insertion sort or bubble sort, can perform faster than others, while if the array is in reverse order or randomly ordered, some algorithms, such as heap sort or quick sort, can perform better than others.
+  - The distribution of the values: If the values in the array are uniformly distributed, some algorithms, such as quick sort or shell sort, can perform faster than others, while if the values in the array are skewed or have many duplicates, some algorithms, such as heap sort or merge sort, can perform better than others.
+  - The stability of the algorithm: If the values in the array have additional information, such as keys or indices, that need to be preserved, some algorithms, such as insertion sort or merge sort, are stable, meaning they maintain the relative order of equal values, while some algorithms, such as heap sort or quick sort, are unstable, meaning they may change the relative order of equal values.

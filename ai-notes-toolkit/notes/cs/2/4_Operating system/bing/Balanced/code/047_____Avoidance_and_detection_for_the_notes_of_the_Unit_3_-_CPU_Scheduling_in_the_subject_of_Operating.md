@@ -1,0 +1,12 @@
+### Avoidance and detection for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+
+- CPU scheduling is the process of allocating CPU time to different processes based on their priority, resource requirements, and system state.
+- Deadlock is a situation where a set of processes are blocked and cannot proceed because they are waiting for some resources that are held by other processes in the same set.
+- Deadlock avoidance and detection are two methods to prevent or resolve deadlocks in an operating system.
+- Deadlock avoidance is a proactive approach that tries to ensure that the system will never enter a deadlock state by carefully allocating resources to processes and checking the system state before granting requests.
+- Deadlock detection is a reactive approach that tries to identify and recover from a deadlock state by periodically scanning the system for cycles of waiting processes and resources and applying some recovery actions.
+- Some of the algorithms and techniques used for deadlock avoidance and detection are:
+
+  - Banker's algorithm: A deadlock avoidance algorithm that simulates the allocation of resources to processes and checks if the system is in a safe state, where all processes can finish their execution without causing a deadlock. The algorithm requires the processes to declare their maximum resource needs in advance and denies any request that would lead to an unsafe state. 
+  - Wait-for graph: A deadlock detection algorithm that represents the system's processes and resources as a directed graph, where an edge from a process to a resource means that the process is waiting for that resource, and an edge from a resource to a process means that the resource is allocated to that process. A cycle in the graph indicates a deadlock. The algorithm periodically checks the graph for cycles and applies some recovery actions, such as aborting or preempting some processes, to break the cycle. 
+  - Distributed deadlock detection: A deadlock detection algorithm for distributed systems, where processes and resources are located on different nodes connected by a network. The algorithm uses either a centralized or a decentralized approach to collect information about the processes and resources on each node and construct a global wait-for graph to detect cycles. The algorithm requires some coordination and communication among the nodes to ensure the consistency and accuracy of the global graph.

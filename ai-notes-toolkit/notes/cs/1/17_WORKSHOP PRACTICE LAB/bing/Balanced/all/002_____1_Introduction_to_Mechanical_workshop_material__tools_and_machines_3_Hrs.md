@@ -1,0 +1,8 @@
+### 1 Introduction to Mechanical workshop material, tools and machines 3 Hrs
+
+- Mechanical workshop is a place where various types of materials, tools and machines are used to perform different operations such as cutting, shaping, drilling, welding, etc.
+- The main objectives of mechanical workshop are to provide practical knowledge and skills to the students, to familiarize them with the common tools and machines used in engineering, and to develop their creativity and problem-solving abilities.
+- The basic materials used in mechanical workshop are metals, alloys, plastics, wood, etc. Each material has its own properties, advantages and disadvantages, and applications.
+- The common tools used in mechanical workshop are classified into two categories: hand tools and power tools. Hand tools are operated manually by human force, such as hammers, screwdrivers, files, etc. Power tools are operated by electric or pneumatic motors, such as drills, grinders, saws, etc.
+- The common machines used in mechanical workshop are classified into two categories: conventional machines and CNC machines. Conventional machines are operated by manual controls, such as lathes, milling machines, shapers, etc. CNC machines are operated by computerized controls, such as CNC lathes, CNC milling machines, CNC routers, etc.
+- The safety rules and precautions are very important in mechanical workshop, as there are many hazards and risks involved in working with materials, tools and machines. Some of the general safety rules are: wear appropriate personal protective equipment, follow the instructions and guidelines, keep the work area clean and organized, use the right tool or machine for the right job, report any accidents or defects, etc.

@@ -1,0 +1,13 @@
+### Greedy Methods with Examples
+
+Greedy methods are a class of algorithms that make local optimal choices at each step, hoping to find a global optimal solution. Greedy methods do not always guarantee the best solution, but they are often efficient and easy to implement. Greedy methods are suitable for problems where the optimal substructure and the greedy choice property hold.
+
+- Optimal substructure means that an optimal solution to the problem can be constructed from optimal solutions to its subproblems.
+- Greedy choice property means that a globally optimal solution can be obtained by making a locally optimal (greedy) choice at each step, without considering the future consequences.
+
+Some examples of greedy methods are:
+
+- Fractional knapsack problem: Given a set of items, each with a weight and a value, and a knapsack with a maximum capacity, find the maximum value that can be obtained by filling the knapsack with fractions of items. The greedy method is to sort the items by their value-to-weight ratio, and then take the items with the highest ratio until the knapsack is full or no more items are left.
+- Prim's algorithm: Given a connected, undirected, weighted graph, find a minimum spanning tree (MST), which is a subset of edges that connects all the vertices with the minimum total weight. The greedy method is to start from an arbitrary vertex, and then repeatedly add the edge with the minimum weight that connects a vertex in the MST to a vertex outside the MST, until all the vertices are included.
+- Dijkstra's algorithm: Given a weighted, directed graph and a source vertex, find the shortest path from the source to every other vertex. The greedy method is to maintain a set of visited vertices and a priority queue of unvisited vertices, and then repeatedly extract the vertex with the minimum distance from the source from the queue, mark it as visited, and update the distances of its adjacent vertices in the queue, until the queue is empty or the destination is reached.
+- Activity selection problem: Given a set of activities, each with a start and finish time, find the maximum number of activities that can be performed by a single person or resource, assuming that only one activity can be performed at a time. The greedy method is to sort the activities by their finish time, and then select the first activity, and then repeatedly select the next activity that starts after the finish of the previous activity, until no more activities can be selected.

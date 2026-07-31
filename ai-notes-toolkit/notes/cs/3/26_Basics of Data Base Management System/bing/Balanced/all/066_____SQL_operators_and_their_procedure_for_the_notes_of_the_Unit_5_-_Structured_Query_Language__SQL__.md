@@ -1,0 +1,12 @@
+# SQL Operators and Their Procedure
+
+SQL operators are symbols or keywords that are used to perform operations on values or expressions in SQL statements. They can be used to specify conditions, filter results, compare values, perform calculations, concatenate strings, and more. SQL operators can be classified into six types:
+
+- Arithmetic operators: These operators are used to perform mathematical operations on numerical data, such as addition, subtraction, multiplication, division, and modulus. For example, `SELECT 10 + 5;` returns 15.
+- Comparison operators: These operators are used to compare two values or expressions and return a Boolean value (true or false). For example, `SELECT 10 > 5;` returns true.
+- Logical operators: These operators are used to combine two or more conditions and return a Boolean value. They can be used to implement logical operations such as AND, OR, and NOT. For example, `SELECT 10 > 5 AND 10 < 15;` returns true.
+- Bitwise operators: These operators are used to perform bit-level operations on binary data, such as AND, OR, XOR, NOT, and shift. For example, `SELECT 10 & 5;` returns 0, which is the result of performing a bitwise AND operation on the binary representations of 10 and 5.
+- String operators: These operators are used to manipulate character data, such as concatenation, extraction, conversion, and pattern matching. For example, `SELECT 'Hello' + 'World';` returns HelloWorld, which is the result of concatenating two strings.
+- Set operators: These operators are used to combine the results of two or more queries into a single result set, based on set theory. They can be used to implement operations such as union, intersection, difference, and symmetric difference. For example, `SELECT name FROM table1 UNION SELECT name FROM table2;` returns the names that are present in either table1 or table2, or both.
+
+The procedure for using SQL operators depends on the type of operator and the context of the SQL statement. Generally, operators are used in conjunction with SQL clauses such as SELECT, WHERE, ON, HAVING, GROUP BY, and ORDER BY. The syntax and semantics of each operator may vary depending on the database system and the data types involved. Therefore, it is important to consult the documentation of the specific database system for more details and examples.

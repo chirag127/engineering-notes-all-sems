@@ -1,0 +1,24 @@
+### Transaction Processing for the notes of the Unit 4 - Enterprise Java Bean in the subject of Web Technology
+
+- Transaction processing is the execution of a series of operations on a set of data, such as a database, in a reliable, consistent, and atomic manner.
+- Atomicity means that either all the operations in a transaction are completed successfully, or none of them are applied at all.
+- Enterprise JavaBeans (EJB) is a technology that supports distributed transactional component-based applications written in Java.
+- EJB components are server-side business objects that can be accessed remotely by clients or other components.
+- EJB components can use two types of transaction management: container-managed transactions (CMT) or bean-managed transactions (BMT).
+- Container-managed transactions are transactions that are automatically managed by the EJB container, which is the runtime environment that hosts the EJB components.
+- The EJB container can start, commit, or roll back transactions based on the transaction attributes of the EJB methods, which are specified by the developer using annotations or deployment descriptors.
+- The transaction attributes define the transactional behavior of an EJB method, such as whether it requires, supports, or suspends a transaction.
+- Bean-managed transactions are transactions that are explicitly managed by the EJB component using the javax.transaction.UserTransaction interface.
+- The EJB component can use the methods of the UserTransaction interface to begin, commit, or roll back transactions programmatically.
+- Bean-managed transactions are only allowed for stateful or stateless session beans, which are EJB components that represent a single client or a single request, respectively.
+- Entity beans, which are EJB components that represent persistent data in a database, cannot use bean-managed transactions.
+- EJB components can also use the Java Transaction API (JTA), which is a Java EE API that enables Java applications and application servers to perform distributed transactions across XA resources.
+- XA resources are any resources that support the X/Open Distributed Transaction Processing (DTP) model, such as databases, message queues, or transaction monitors.
+- JTA is modeled around the XA architecture, which uses a two-phase commit protocol to ensure the atomicity of distributed transactions.
+- JTA provides two interfaces: the javax.transaction.UserTransaction interface for application-level transaction management, and the javax.transaction.TransactionManager interface for system-level transaction management.
+- The UserTransaction interface is similar to the one used for bean-managed transactions, but it can also be used by non-EJB components, such as servlets or JavaServer Pages (JSP).
+- The TransactionManager interface is used by the EJB container or the application server to control the transactions of multiple components and resources.
+- EJB components can also use the Java Persistence API (JPA), which is a Java EE API that provides an object-relational mapping (ORM) framework for managing relational data in Java applications.
+- JPA allows EJB components to use plain Java objects, called entities, to represent and manipulate data in a database, without using SQL statements directly.
+- JPA also supports transactions, which can be either container-managed or bean-managed, depending on the type of the EJB component and the configuration of the persistence unit, which is a logical grouping of entities and their related settings.
+- JPA transactions are integrated with JTA transactions, so that the persistence context, which is the set of entities and their state, is synchronized with the transaction context, which is the set of resources and their state.

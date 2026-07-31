@@ -1,0 +1,24 @@
+### Commercial relational approaches for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+
+- A relational approach is a data modeling technique that uses tables to represent entities and relationships in a database. Each table has a set of attributes (columns) and a primary key that uniquely identifies each tuple (row). Foreign keys are used to reference other tables and enforce referential integrity.
+- A semantic approach is a data modeling technique that uses concepts, properties, and relationships to represent entities and associations in a database. Each concept has a set of properties (attributes) and a unique identifier. Relationships are used to link concepts and express their meaning and constraints.
+- The main difference between the relational and semantic approaches is that the semantic approach captures more of the meaning and context of the data, while the relational approach focuses more on the structure and integrity of the data.
+- Some of the advantages of the semantic approach over the relational approach are:
+  - It allows for more natural and expressive queries, using terms and concepts that are closer to the user's domain of interest.
+  - It supports more complex and dynamic data, such as hierarchies, networks, and graphs, that are difficult to model and query in the relational approach.
+  - It enables more interoperability and integration of data from different sources and domains, by using common vocabularies and ontologies that define the semantics of the data.
+  - It facilitates more intelligent and automated data analysis, such as reasoning, inference, and discovery, by using logic and rules that capture the knowledge and constraints of the data.
+- Some of the challenges and limitations of the semantic approach compared to the relational approach are:
+  - It requires more effort and expertise to design and implement a semantic data model, as it involves defining the concepts, properties, and relationships of the data, as well as the vocabularies and ontologies that govern them.
+  - It may suffer from performance and scalability issues, as it involves more complex and costly operations, such as graph traversal, pattern matching, and inference, that are not well supported by traditional database systems.
+  - It may face more ambiguity and inconsistency issues, as it relies on the interpretation and understanding of the semantics of the data, which may vary across different users and contexts.
+- Some of the examples of commercial relational approaches are:
+  - SQL (Structured Query Language): A standard and widely used language for defining, manipulating, and querying relational data.
+  - RDBMS (Relational Database Management System): A software system that implements the relational model and provides various features and functions for storing, managing, and accessing relational data, such as Oracle, MySQL, PostgreSQL, etc.
+  - ORM (Object-Relational Mapping): A technique that maps objects and classes in an object-oriented programming language to tables and columns in a relational database, such as Hibernate, SQLAlchemy, Django, etc.
+- Some of the examples of commercial semantic approaches are:
+  - RDF (Resource Description Framework): A standard and widely used framework for representing and exchanging semantic data using triples, which are statements that consist of a subject, a predicate, and an object.
+  - SPARQL (SPARQL Protocol and RDF Query Language): A standard and widely used language for querying and manipulating RDF data using graph patterns, filters, and modifiers.
+  - RDF(S) (RDF Schema): A standard and widely used vocabulary for defining the concepts, properties, and relationships of RDF data, as well as the constraints and rules that apply to them.
+  - OWL (Web Ontology Language): A standard and widely used language for defining and reasoning about the semantics of RDF data, using more expressive and complex constructs, such as classes, properties, individuals, axioms, and restrictions.
+  - SDBMS (Semantic Database Management System): A software system that implements the semantic model and provides various features and functions for storing, managing, and accessing semantic data, such as AllegroGraph, Stardog, GraphDB, etc.

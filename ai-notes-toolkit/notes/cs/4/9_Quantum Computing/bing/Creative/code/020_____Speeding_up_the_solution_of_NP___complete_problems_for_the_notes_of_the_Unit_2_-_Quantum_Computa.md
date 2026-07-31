@@ -1,0 +1,9 @@
+# Speeding up the solution of NP-complete problems
+
+- NP-complete problems are problems that are both in NP and NP-hard, meaning that they are verifiable in polynomial time and that any other NP problem can be reduced to them in polynomial time.
+- Quantum computing is a paradigm of computation that uses quantum mechanical phenomena, such as superposition and entanglement, to perform operations on data.
+- Quantum computing has the potential to speed up the solution of some NP-complete problems, but not all of them. It is widely believed that quantum computers cannot solve NP-complete problems in polynomial time, but it has never been proven .
+- Quantum computing can offer some advantages over classical computing for solving NP-complete problems, such as:
+  - Quantum search: Quantum search is a technique that uses quantum superposition and interference to find a marked item in an unsorted database with a quadratic speedup over classical search. Quantum search can be used to solve NP-complete problems by searching over the space of possible solutions and verifying them in polynomial time.
+  - Quantum annealing: Quantum annealing is a technique that uses quantum fluctuations to find the global minimum of a cost function that encodes an optimization problem. Quantum annealing can be used to solve NP-complete problems by mapping them to Ising models or quadratic unconstrained binary optimization (QUBO) problems and finding the lowest energy configuration of the system.
+  - Quantum verification: Quantum verification is a technique that uses quantum entanglement and measurement to verify the correctness of a solution to an NP problem without revealing the solution itself. Quantum verification can be used to solve NP-complete problems by outsourcing the computation to a powerful quantum server and verifying the result with a simple quantum client .

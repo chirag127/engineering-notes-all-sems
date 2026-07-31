@@ -1,0 +1,19 @@
+# More on confinement techniques
+
+Confinement techniques are methods to prevent unauthorized information flow from a process or a system to another entity. They are used to enforce the principle of least privilege, which states that a process or a system should only have the minimum access rights necessary to perform its function. Confinement techniques can be classified into two categories: static and dynamic.
+
+## Static confinement techniques
+
+Static confinement techniques are applied before or during the execution of a process or a system. They rely on predefined policies and mechanisms to restrict the access and communication of the process or system. Some examples of static confinement techniques are:
+
+- Access control: This technique regulates the access of a process or system to resources, such as files, directories, devices, or network sockets. Access control can be based on the identity, role, or attributes of the process or system, or on the security labels of the resources. Access control can be implemented using various models, such as discretionary access control (DAC), mandatory access control (MAC), or role-based access control (RBAC).
+- Encryption: This technique protects the confidentiality of data stored or transmitted by a process or system. Encryption transforms the data into an unreadable form using a secret key, and only authorized parties can decrypt the data using the same or a different key. Encryption can be applied to data at rest, such as files or databases, or to data in transit, such as network packets or messages.
+- Sandboxing: This technique isolates a process or system from the rest of the system or network. Sandboxing creates a restricted environment for the process or system, where it can only access a limited set of resources and perform a limited set of operations. Sandboxing can be implemented using various mechanisms, such as virtual machines, containers, or software libraries.
+
+## Dynamic confinement techniques
+
+Dynamic confinement techniques are applied during or after the execution of a process or system. They rely on monitoring and analyzing the behavior and output of the process or system to detect and prevent unauthorized information flow. Some examples of dynamic confinement techniques are:
+
+- Auditing: This technique records the actions and events of a process or system for later review or analysis. Auditing can be used to detect and investigate security incidents, such as data breaches, unauthorized access, or policy violations. Auditing can also be used to verify the compliance of a process or system with security policies and regulations.
+- Intrusion detection and prevention: This technique detects and responds to malicious or anomalous activities of a process or system. Intrusion detection and prevention can be based on signatures, which are predefined patterns of known attacks, or on anomalies, which are deviations from normal or expected behavior. Intrusion detection and prevention can be implemented using various methods, such as network-based, host-based, or application-based.
+- Information flow control: This technique tracks and regulates the flow of information within and between processes or systems. Information flow control can be based on security labels, which are metadata attached to data or processes that indicate their security level or classification. Information flow control can enforce various policies, such as noninterference, which prevents high-security information from influencing low-security information, or noninference, which prevents low-security information from inferring high-security information.

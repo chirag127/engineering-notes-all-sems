@@ -1,0 +1,9 @@
+### Features of RTOS
+
+- A real-time operating system (RTOS) is an operating system with two key features: **predictability** and **determinism**. This means that it will execute tasks quickly and efficiently, responding as expected every time.
+- An RTOS is **small**, **fast**, **responsive**, and **deterministic**. It occupies very less memory and consumes fewer resources.
+- An RTOS is distinct from a time-sharing operating system, such as Unix, which manages the sharing of system resources with a scheduler, data buffers, or fixed task prioritization in a multitasking or multiprogramming environment. An RTOS needs to have **processing time requirements** that are fully understood and bound rather than just kept as a minimum.
+- An RTOS can use different **scheduling algorithms** to manage the tasks, such as co-operative scheduling, pre-emptive scheduling, or hybrid scheduling. The choice of the algorithm depends on the application and the system requirements.
+- An RTOS can provide various **services** to the tasks, such as inter-task communication, synchronization, memory management, timer management, interrupt handling, and device drivers. These services help the tasks to perform their functions and interact with the hardware and other tasks.
+- An RTOS can support different **types** of tasks, such as periodic, aperiodic, or sporadic tasks. The type of the task determines its frequency, deadline, and priority.
+- An RTOS can also support different **modes** of operation, such as normal mode, idle mode, or power-saving mode. The mode of operation affects the performance and the power consumption of the system.

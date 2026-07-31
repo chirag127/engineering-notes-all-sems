@@ -1,0 +1,8 @@
+### Priority category for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+
+- Regression testing is the process of retesting the modified parts of a software system and ensuring that no new defects have been introduced due to the changes.
+- Regression testing is important because it helps to maintain the quality and functionality of the software after any changes, such as bug fixes, enhancements, or configuration updates.
+- Regression testing can be classified into three priority categories based on the impact and frequency of the changes: high, medium, and low.
+- High priority regression testing is performed when the changes are critical or affect the core functionality of the software. For example, changes in the user interface, the database, or the security features. High priority regression testing should be done as soon as possible and with a high level of coverage and rigor.
+- Medium priority regression testing is performed when the changes are significant but not essential or affect the peripheral functionality of the software. For example, changes in the performance, the compatibility, or the usability features. Medium priority regression testing should be done within a reasonable time frame and with a moderate level of coverage and rigor.
+- Low priority regression testing is performed when the changes are minor or affect the cosmetic aspects of the software. For example, changes in the spelling, the formatting, or the color scheme. Low priority regression testing can be done at a later stage and with a low level of coverage and rigor.

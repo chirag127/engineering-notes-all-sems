@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the Unit 3 - Link layer in the subject of Computer Networks. Here is a possible outline for your notes:
+
+### Framing
+- Framing is the process of dividing a stream of bits into smaller units called frames for transmission over a link layer medium.
+- Frames are delimited by special bit patterns called frame headers and frame trailers, which contain information such as source and destination addresses, error detection codes, and control flags.
+- There are different methods of framing, such as character count, flag bytes, bit stuffing, and physical layer coding violations.
+- Character count method uses a field in the frame header to indicate the number of characters in the frame. This method is simple but unreliable, as any error in the count field or the frame content can cause frame synchronization loss.
+- Flag bytes method uses a special byte pattern, such as 01111110, to mark the beginning and end of a frame. This method is more robust, but requires a mechanism to prevent the flag pattern from appearing in the frame content, such as bit stuffing or byte stuffing.
+- Bit stuffing method inserts an extra 0 bit after every five consecutive 1 bits in the frame content, and removes it at the receiver. This ensures that the flag pattern 01111110 can only appear at the frame boundaries, and not within the frame.
+- Byte stuffing method replaces any occurrence of the flag byte or the escape byte in the frame content with a two-byte sequence, consisting of the escape byte followed by the original byte XORed with a predefined value. This allows the receiver to distinguish between the flag bytes and the escaped bytes, and recover the original frame content.
+- Physical layer coding violations method uses the properties of the physical layer encoding scheme, such as Manchester encoding or 4B/5B encoding, to create illegal or unused code words that can serve as frame delimiters. This method avoids the overhead of bit stuffing or byte stuffing, but requires coordination between the link layer and the physical layer.

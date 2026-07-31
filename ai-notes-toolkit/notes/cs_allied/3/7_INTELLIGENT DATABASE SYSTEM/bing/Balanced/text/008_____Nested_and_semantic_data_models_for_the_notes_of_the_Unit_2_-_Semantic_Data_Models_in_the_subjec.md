@@ -1,0 +1,12 @@
+### Nested and semantic data models
+
+- Nested data models are a way of representing hierarchical data structures, such as trees or graphs, in a relational database. Nested data models use nested sets, nested lists, or nested relations to store the parent-child relationships among the data elements. 
+- Semantic data models are a way of describing the meaning and structure of data in a domain, using concepts, attributes, and relationships. Semantic data models use high-level abstractions, such as entities, types, classes, or ontologies, to capture the semantics of the data. 
+- Nested and semantic data models are related in the following ways:
+  - Both nested and semantic data models aim to overcome the limitations of the traditional relational data model, such as the impedance mismatch, the lack of expressiveness, and the need for complex queries and joins.  
+  - Both nested and semantic data models can support complex data types, such as nested data, JSON, XML, or RDF, that are common in modern data sources, such as web, social media, or IoT.  
+  - Both nested and semantic data models can benefit from a semantic layer, which is a logical abstraction that provides a consistent and unified view of the data across multiple sources and formats. A semantic layer can simplify data access, integration, analysis, and visualization for the end users.  
+- Nested and semantic data models are different in the following ways:
+  - Nested data models focus on the representation and storage of hierarchical data structures, while semantic data models focus on the description and understanding of the data meaning and context.  
+  - Nested data models are more suitable for applications that require fast and efficient traversal of the data hierarchy, such as navigation, search, or aggregation. Semantic data models are more suitable for applications that require rich and flexible querying and reasoning of the data semantics, such as knowledge discovery, inference, or recommendation.  
+  - Nested data models are more dependent on the physical implementation and the database system, while semantic data models are more independent and portable across different platforms and technologies.

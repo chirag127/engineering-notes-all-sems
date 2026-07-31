@@ -1,0 +1,41 @@
+### XMPP
+
+- XMPP stands for **Extensible Messaging and Presence Protocol** .
+- It is an **open communication protocol** designed for **instant messaging (IM)**, **presence information**, and **contact list maintenance** .
+- It is based on **XML (Extensible Markup Language)**, which enables the **near-real-time exchange of structured data** between two or more network entities .
+- It is a **decentralized protocol**, meaning that anyone can run their own XMPP server and communicate with other servers.
+- It is a **living standard**, meaning that engineers actively extend and improve it.
+- It supports a variety of features and applications, such as:
+  - **IoT (Internet of Things)**: XMPP can be used to connect and control devices and sensors over the internet.
+  - **WebRTC (Web Real-Time Communication)**: XMPP can be used to establish peer-to-peer audio and video calls in the browser.
+  - **Online Gaming**: XMPP can be used to create multiplayer games and chat rooms.
+  - **Realtime Social**: XMPP can be used to create social networks and microblogging platforms.
+- It uses a **client-server architecture**, meaning that users connect to an XMPP server using an XMPP client.
+- It uses a **stream-oriented** approach, meaning that data is sent and received as a continuous stream of XML elements.
+- It uses a **stanza-based** model, meaning that data is structured into three types of XML elements: **message**, **presence**, and **iq** (information/query).
+  - **Message**: used to send and receive text, media, or other data.
+  - **Presence**: used to indicate the availability and status of a user or a resource.
+  - **Iq**: used to request and provide information or perform actions.
+- It uses a **JID (Jabber Identifier)** to identify users and resources.
+  - A JID consists of three parts: **localpart@domainpart/resourcepart**.
+  - The **localpart** is the username of the user.
+  - The **domainpart** is the domain name of the server.
+  - The **resourcepart** is an optional identifier for a specific device or session.
+  - Example: alice@example.com/laptop.
+- It uses a **SASL (Simple Authentication and Security Layer)** to authenticate users and secure the communication.
+- It uses a **TLS (Transport Layer Security)** to encrypt the data and prevent eavesdropping.
+- It uses a **DNS (Domain Name System)** to discover and connect to XMPP servers.
+- It uses a **SRV (Service) record** to specify the hostname and port number of the XMPP server.
+- It uses a **BOSH (Bidirectional-streams Over Synchronous HTTP)** to enable XMPP communication over HTTP.
+- It uses a **WebSocket** to enable XMPP communication over a full-duplex TCP connection.
+- It uses a **XEP (XMPP Extension Protocol)** to define additional features and functionalities .
+  - A XEP is a document that describes a protocol extension, a best practice, or an informational note.
+  - There are over 300 XEPs that cover various aspects of XMPP, such as:
+    - **Roster**: used to manage the contact list of a user.
+    - **MUC (Multi-User Chat)**: used to create and join chat rooms.
+    - **PubSub (Publish-Subscribe)**: used to distribute and receive data from multiple sources.
+    - **Jingle**: used to initiate and manage peer-to-peer sessions, such as voice and video calls.
+    - **Carbons**: used to synchronize messages across multiple devices.
+    - **OMEMO**: used to provide end-to-end encryption for messages.
+    - **PEP (Personal Eventing Protocol)**: used to publish and subscribe to personal events, such as mood, location, or avatar.
+    - **HTTP File Upload**: used to

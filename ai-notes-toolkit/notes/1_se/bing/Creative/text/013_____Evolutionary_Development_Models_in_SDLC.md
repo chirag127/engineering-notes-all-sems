@@ -1,0 +1,12 @@
+### Evolutionary Development Models in SDLC
+
+- Evolutionary development models are a type of software development life cycle (SDLC) models that aim to deliver a working software product in successive versions, each with more features and capabilities than the previous one .
+- Evolutionary development models are suitable for projects that have unclear or changing requirements, need frequent feedback from customers or users, or involve complex or innovative technologies .
+- Evolutionary development models can be classified into two types: **incremental** and **iterative** .
+  - Incremental development models divide the software product into smaller modules or components, each of which can be developed and delivered separately. The modules are integrated into a complete system as they are completed .
+  - Iterative development models repeat the same development cycle (such as analysis, design, implementation, testing, and deployment) for each version of the software product, adding more functionality and refining the design with each iteration .
+- Some examples of evolutionary development models are **prototyping**, **spiral**, **agile**, and **object-oriented** models   .
+  - Prototyping models create a simplified or partial version of the software product to demonstrate its feasibility, functionality, or usability to the customers or users, and then use their feedback to improve the final product .
+  - Spiral models combine the linear and sequential phases of the waterfall model with the iterative and risk-driven approach of the prototyping model. The spiral model consists of four quadrants: planning, risk analysis, engineering, and evaluation .
+  - Agile models emphasize collaboration, communication, and flexibility in software development. Agile models follow a set of principles and values that guide the development process and the interactions among the stakeholders. Some examples of agile methods are Scrum, Extreme Programming (XP), and Kanban .
+  - Object-oriented models use the concepts of objects, classes, inheritance, polymorphism, and encapsulation to model the software product. Object-oriented models are suitable for evolutionary development because they allow for modularization, reuse, and abstraction .

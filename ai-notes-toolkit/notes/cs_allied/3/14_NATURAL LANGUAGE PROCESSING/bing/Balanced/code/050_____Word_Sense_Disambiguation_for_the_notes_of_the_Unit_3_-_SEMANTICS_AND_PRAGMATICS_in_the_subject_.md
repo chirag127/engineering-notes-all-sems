@@ -1,0 +1,10 @@
+### Word Sense Disambiguation
+
+- Word sense disambiguation (WSD) is the problem of determining which "sense" (meaning) of a word is activated by the use of the word in a particular context, a process which appears to be largely unconscious in people.
+- WSD is a subfield of natural language processing (NLP) that deals with identifying the intended meaning of a word from a set of possible senses, based on the context in which the word appears.
+- WSD is important for many NLP applications, such as machine translation, information retrieval, text summarization, question answering, sentiment analysis, etc.
+- WSD is challenging because of the lexical ambiguity, syntactic or semantic, that is inherent in natural language. Lexical ambiguity is the phenomenon of a word having more than one meaning or sense.
+- For example, the word "bank" can have different meanings depending on the context: a financial institution, a river shore, a verb meaning to tilt or turn, etc.
+- WSD can be classified into two types: supervised and unsupervised. Supervised WSD uses labeled data, such as sense-annotated corpora, to train machine learning models that can predict the correct sense of a word given its context. Unsupervised WSD does not use labeled data, but relies on clustering, similarity measures, or knowledge bases to group words into senses based on their usage patterns.
+- WSD also depends on the choice of sense inventory, which is the collection of abbreviations and acronyms with their meanings for a particular domain or language. Different sense inventories may have different levels of granularity, coverage, and consistency. Some examples of sense inventories are WordNet, BabelNet, Wikipedia, etc.
+- WSD is an active and open research problem in NLP, as there is no definitive solution or evaluation method for it. Some of the current challenges and directions for WSD are: improving the quality and availability of sense-annotated data, developing domain-specific and cross-lingual WSD methods, integrating WSD with other NLP tasks, and exploring the cognitive and linguistic aspects of WSD.

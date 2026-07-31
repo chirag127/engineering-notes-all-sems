@@ -1,0 +1,9 @@
+# Shankaracharya and Advaita Vedanta
+
+- Shankaracharya, also known as Adi Shankara, was an Indian philosopher and theologian who expounded the doctrine of Advaita Vedanta, the non-dualistic school of Hindu philosophy .
+- He was born in the 8th century CE in Kaladi, a village in Kerala, and renounced the worldly pleasures at a very young age. He travelled across India, debating and defeating various schools of thought, such as Buddhism, Jainism, Mimamsa, and Nyaya.
+- He established four mathas (monastic centers) in the four corners of India, namely Sringeri in the south, Dwarka in the west, Puri in the east, and Badrinath in the north . He also appointed four disciples as the heads of these mathas, who continued his lineage and teachings.
+- He wrote commentaries on the Upanishads, the Brahma Sutras, and the Bhagavad Gita, which are considered the foundational texts of Advaita Vedanta . He also composed various hymns, such as the Bhaja Govindam, the Nirvana Shatakam, and the Saundarya Lahari .
+- Advaita Vedanta is the philosophy that asserts the identity of the individual self (atman) and the supreme reality (brahman), which is the source of all existence . It denies the reality of any distinction or duality between the self and brahman, or between brahman and the world .
+- Advaita Vedanta relies on three sources of knowledge: the scriptures (shruti), the reasoning (yukti), and the direct experience (anubhava) . It uses the method of sublation (badha) to negate all the false notions of the self and the world, and to reveal the true nature of brahman as the only reality .
+- Advaita Vedanta had a significant influence on the development of Indian culture, philosophy, and spirituality. It challenged and assimilated various rival schools of thought, and inspired many saints, poets, and reformers . It also became the dominant school of Hindu philosophy in the medieval and modern periods.

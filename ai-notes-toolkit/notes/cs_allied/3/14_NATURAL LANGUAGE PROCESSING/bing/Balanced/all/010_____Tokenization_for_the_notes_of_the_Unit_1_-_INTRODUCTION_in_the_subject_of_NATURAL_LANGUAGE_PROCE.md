@@ -1,0 +1,25 @@
+# Tokenization for the notes of the Unit 1 - INTRODUCTION in the subject of NATURAL LANGUAGE PROCESSING
+
+- Tokenization is the process of breaking down a piece of text into small units called tokens   .
+- A token may be a word, part of a word or just characters like punctuation.
+- Tokenization is used in natural language processing to split paragraphs and sentences into smaller units that can be more easily assigned meaning.
+- Tokenization is a crucial step in many NLP tasks, such as part-of-speech tagging, text classification, sentiment analysis, topic modeling, and machine translation .
+- One of the main advantages of tokenization is that it can help to improve the accuracy of these tasks by providing more context for each word.
+- Tokenization is also useful for text-to-speech and speech-to-text applications, where it helps to split up speech into words or sentences.
+- Tokenization is not a simple task, as different languages have different grammatical constructs, which are often difficult to write down as rules.
+- Some of the challenges of tokenization include:
+  - Handling abbreviations, contractions, and compound words.
+  - Dealing with punctuation, symbols, and numbers.
+  - Handling different writing systems and scripts.
+  - Accounting for variations in spelling, capitalization, and word order.
+- Some of the types of tokenization include:
+  - Word tokenization: splitting text into words based on whitespace and punctuation .
+  - Sentence tokenization: splitting text into sentences based on punctuation and linguistic cues .
+  - Subword tokenization: splitting words into smaller units based on morphology, frequency, or semantics .
+  - Character tokenization: splitting text into individual characters .
+- Some of the tools and libraries for tokenization include:
+  - NLTK: a popular Python library for natural language processing that provides various tokenizers.
+  - SpaCy: a fast and modern Python library for natural language processing that provides various tokenizers.
+  - Stanford CoreNLP: a Java-based framework for natural language processing that provides various tokenizers.
+  - GPT-3: a powerful deep learning model for natural language generation that uses byte pair encoding (BPE) as a subword tokenization method.
+  - BERT: a state-of-the-art deep learning model for natural language understanding that uses wordpiece as a subword tokenization method.

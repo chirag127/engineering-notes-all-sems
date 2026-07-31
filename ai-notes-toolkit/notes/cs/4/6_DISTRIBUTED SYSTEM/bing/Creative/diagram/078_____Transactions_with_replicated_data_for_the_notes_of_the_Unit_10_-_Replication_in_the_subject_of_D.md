@@ -1,0 +1,21 @@
+### Transactions with replicated data
+
+- Transactions are a sequence of operations that are executed atomically, consistently, isolatedly, and durably (ACID properties) on a database system.
+- Replication is the process of copying data and storing it in different locations, such as multiple servers or nodes in a distributed system.
+- Transactions with replicated data are transactions that involve accessing or updating data that is replicated across multiple locations.
+- The main challenges of transactions with replicated data are:
+  - How to ensure consistency and correctness of the replicated data after transactions, especially when there are concurrent or conflicting transactions .
+  - How to handle failures or network partitions that may affect the availability and reliability of the replicated data and transactions .
+- The main benefits of transactions with replicated data are:
+  - Improved performance and scalability of the database system, as transactions can access or update data from the nearest or least loaded location .
+  - Enhanced fault tolerance and availability of the database system, as transactions can continue to operate even if some locations are down or unreachable .
+- The main types of replication schemes for transactions with replicated data are:
+  - Synchronous replication: transactions wait for acknowledgments from all locations before committing, ensuring strong consistency but increasing latency and reducing availability .
+  - Asynchronous replication: transactions commit without waiting for acknowledgments from all locations, ensuring high availability but risking data inconsistency or loss .
+  - Quorum-based replication: transactions commit based on a quorum of acknowledgments from a subset of locations, balancing consistency and availability .
+- The main types of concurrency control protocols for transactions with replicated data are:
+  - Primary-copy protocol: one location is designated as the primary copy for each data item, and transactions must access or update the primary copy first, ensuring serializability but creating a bottleneck and a single point of failure .
+  - Majority protocol: transactions must access or update a majority of locations for each data item, ensuring serializability but increasing communication and reducing availability .
+  - Voting protocol: transactions must obtain votes from a subset of locations for each data item, ensuring serializability but requiring a voting algorithm and a coordinator .
+  - Timestamp protocol: transactions are assigned timestamps and must access or update data items in timestamp order, ensuring serializability but requiring synchronization and conflict resolution .
+  - Certification protocol: transactions are executed optimistically and certified at commit time, ensuring serializability but requiring validation and aborting .

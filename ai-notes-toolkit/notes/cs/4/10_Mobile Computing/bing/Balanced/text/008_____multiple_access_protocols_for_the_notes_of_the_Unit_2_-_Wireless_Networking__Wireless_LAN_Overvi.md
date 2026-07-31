@@ -1,0 +1,15 @@
+### Multiple Access Protocols
+
+- Multiple access protocols are used to coordinate the access of multiple nodes or users to a shared network channel, such as a wireless LAN or a satellite network.
+- Multiple access protocols can be classified into three categories: random access, controlled access, and channelization.
+- Random access protocols allow nodes to transmit data whenever they have data to send, without any coordination with other nodes. However, this may result in collisions, which degrade the network performance and waste the channel bandwidth.
+- Controlled access protocols require nodes to obtain permission before transmitting data, either from a central controller or from other nodes. This reduces the probability of collisions, but introduces some delay and overhead in the channel access.
+- Channelization protocols divide the channel into smaller sub-channels, either in time, frequency, or code domain, and assign them to different nodes. This prevents collisions, but requires synchronization and coordination among nodes.
+
+- Some common multiple access protocols that may be used in wireless networks are:
+
+  - Carrier-sense multiple access with collision avoidance (CSMA/CA), used in IEEE 802.11 / WiFi, potentially using a distributed coordination function. This protocol allows nodes to sense the channel before transmitting data, and to back off if the channel is busy. It also uses an acknowledgment mechanism to confirm the successful reception of data, and a random backoff algorithm to resolve collisions.
+  - ALOHA and slotted ALOHA, used in ALOHAnet. These protocols allow nodes to transmit data at any time, without sensing the channel. Slotted ALOHA divides the time into discrete slots, and requires nodes to transmit data only at the beginning of a slot, which improves the channel utilization.
+  - Reservation ALOHA (R-ALOHA) and Mobile Slotted Aloha (MS-ALOHA). These protocols are extensions of ALOHA and slotted ALOHA, which use a reservation mechanism to allocate slots to nodes that have data to send. This reduces the collision probability and increases the channel efficiency.
+  - Code-division multiple access (CDMA), used in cellular networks and satellite networks. This protocol assigns a unique code to each node, and allows nodes to transmit data simultaneously on the same channel, using different codes. The receiver can recover the data from a specific node by using the corresponding code. This increases the channel capacity and provides resistance to interference and multipath fading.
+  - Orthogonal frequency-division multiple access (OFDMA) and orthogonal frequency-division multiplexing (OFDM), used in 4G and 5G cellular networks and WiMAX. These protocols divide the channel into multiple orthogonal sub-carriers, and assign them to different nodes or data streams. This improves the spectral efficiency and mitigates the effects of frequency-selective fading and inter-symbol interference.

@@ -1,0 +1,7 @@
+# Transducers for Piezoelectric Energy Harvesting
+
+- A transducer is a device that converts one form of energy into another. In the context of piezoelectric energy harvesting, a transducer converts mechanical energy (such as vibration, pressure, or strain) into electrical energy (such as voltage or current).
+- The principle of piezoelectric energy harvesting is based on the direct piezoelectric effect, which is the property of some materials to generate an electric field when a mechanical force is applied.
+- Piezoelectric transducers can be made of different shapes and materials, depending on the application and the desired performance. Some common shapes are cantilever beams, cylindrical rods, plates, and rings. Some common materials are ceramics, polymers, and composites.
+- The performance of a piezoelectric energy harvester depends on several factors, such as the frequency and amplitude of the mechanical excitation, the impedance matching between the transducer and the load, the geometry and material properties of the transducer, and the environmental conditions.
+- Piezoelectric energy harvesting can be used for a variety of applications, such as powering wireless sensors, wearable devices, biomedical implants, and microelectromechanical systems (MEMS). Some examples of piezoelectric energy harvesting sources are human motion, ambient vibration, wind, water, and traffic  .

@@ -1,0 +1,23 @@
+#### Input formats in map reduce
+
+- Input formats are classes that define how the input data is split into input splits and how to read the records from the input splits.
+- Input splits are logical chunks of the input data that are assigned to different mappers for parallel processing.
+- Input formats also provide a `RecordReader` implementation that is responsible for extracting key-value pairs from the input split.
+- There are two types of input formats: `FileInputFormat` and `InputFormat`.
+- `FileInputFormat` is an abstract class that extends `InputFormat` and provides common functionality for reading files as input.
+- `FileInputFormat` handles common tasks such as:
+  - Validating input paths and filtering out hidden files and directories.
+  - Computing the size of the input data and the number of input splits.
+  - Creating `FileSplit` objects that represent the input splits.
+  - Providing a default `RecordReader` implementation that reads lines of text from files.
+- `FileInputFormat` has several subclasses that provide specific functionality for different types of files, such as:
+  - `TextInputFormat`: Reads plain text files and splits them by newline characters. The key is the byte offset of the line and the value is the line of text.
+  - `KeyValueTextInputFormat`: Reads plain text files and splits them by newline characters. The key and the value are separated by a configurable delimiter (default is tab).
+  - `SequenceFileInputFormat`: Reads binary files in the `SequenceFile` format, which is a common format for storing key-value pairs. The key and the value are the same as the ones stored in the file.
+  - `NLineInputFormat`: Reads plain text files and splits them by a configurable number of lines (default is 1). The key is the byte offset of the first line and the value is the block of lines.
+  - `FixedLengthInputFormat`: Reads binary files and splits them by a fixed number of bytes. The key is the byte offset of the record and the value is the record.
+- `InputFormat` is an interface that defines the methods for creating input splits and record readers. It can be implemented by custom classes that handle non-file input sources, such as databases, web services, etc.
+- Some examples of custom input formats are:
+  - `DBInputFormat`: Reads data from a relational database using JDBC. The key is the primary key of the table and the value is a `DBWritable` object that represents a row.
+  - `XMLInputFormat`: Reads XML documents and splits them by a configurable start and end tag. The key is the byte offset of the start tag and the value is the XML element.
+  - `MultipleInputs`: A utility class that allows using multiple input formats in the same map reduce job. It can be used to join or merge data from different sources.

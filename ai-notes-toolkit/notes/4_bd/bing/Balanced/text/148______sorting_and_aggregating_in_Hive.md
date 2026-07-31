@@ -1,0 +1,10 @@
+#### Sorting and Aggregating in Hive
+
+- Sorting data in Hive can be achieved by using a standard `ORDER BY` clause, but it has a drawback. `ORDER BY` produces a result that is totally sorted, as expected, but to do so it sets the number of reducers to one, making it very inefficient for large datasets.
+- A better alternative for sorting data in Hive is to use the `SORT BY` clause, which sorts the data within each reducer. This produces a partially sorted result that is faster and more scalable than `ORDER BY`.
+- Another option for sorting data in Hive is to use the `DISTRIBUTE BY` clause, which distributes the data among reducers based on a column or expression. This can be combined with `SORT BY` to sort the data within each reducer after distributing it.
+- Aggregating data in Hive can be done by using built-in aggregate functions, such as `MAX`, `MIN`, `AVG`, `SUM`, `COUNT`, etc. These functions are usually used with the `GROUP BY` clause, which groups the data by one or more columns or expressions.
+- If there is no `GROUP BY` clause specified, the aggregate functions aggregate over the whole table by default. Besides aggregate functions, all other columns that are selected must also be included in the `GROUP BY` clause.
+- Hive also supports advanced aggregation by using `GROUPING SETS`, `ROLLUP`, `CUBE`, analytic functions, and windowing. These features allow for more complex and flexible aggregation queries, such as subtotals, grand totals, moving averages, rankings, etc.
+- To order the aggregated results by a column or expression, the `ORDER BY` clause can be used after the `GROUP BY` clause. To order the results within each group, the `SORT BY` clause can be used instead.
+- To concatenate strings in a group, the `collect_list` or `collect_set` functions can be used. These functions return an array of strings from the group, which can be further processed by using `array_sort`, `array_join`, or other array functions.

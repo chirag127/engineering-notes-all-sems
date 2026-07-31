@@ -1,0 +1,25 @@
+### AWT controls
+
+- AWT stands for Abstract Window Toolkit, which is a set of APIs for developing graphical user interfaces or web applications in Java .
+- AWT controls are components that allow a user to interact with the application in various ways, such as buttons, text fields, checkboxes, lists, etc .
+- AWT controls are subclasses of the java.awt.Component class, which provides common functionality for all components, such as size, position, visibility, event handling, etc .
+- AWT controls are organized in a hierarchy, where the top-level class is java.awt.Container, which can contain other components and arrange them using layout managers .
+- AWT controls can be divided into two categories: heavyweight and lightweight .
+  - Heavyweight controls are those that are associated with a native peer, which is a platform-dependent object that handles the rendering and input events of the component .
+  - Lightweight controls are those that are implemented entirely in Java, without a native peer, and rely on the parent container for rendering and input events .
+- Some of the commonly used AWT controls are  :
+  - java.awt.Button: A component that represents a push button that can trigger an action when clicked.
+  - java.awt.Label: A component that displays a single line of text, usually as a caption or a title.
+  - java.awt.TextField: A component that allows the user to enter a single line of text.
+  - java.awt.TextArea: A component that allows the user to enter multiple lines of text.
+  - java.awt.Checkbox: A component that represents a toggle button that can be checked or unchecked.
+  - java.awt.CheckboxGroup: A component that groups a set of checkboxes, such that only one can be checked at a time.
+  - java.awt.Choice: A component that displays a drop-down list of items, from which the user can select one.
+  - java.awt.List: A component that displays a scrollable list of items, from which the user can select one or more.
+  - java.awt.Scrollbar: A component that represents a horizontal or vertical scroll bar that can be used to adjust the visible portion of another component.
+  - java.awt.Canvas: A component that provides a blank area for custom drawing or displaying graphics.
+  - java.awt.Panel: A component that is a generic container that can hold other components and use a layout manager to arrange them.
+  - java.awt.Window: A component that represents a top-level window that has no border, title, or menu bar.
+  - java.awt.Frame: A component that represents a top-level window that has a border, title, and menu bar.
+  - java.awt.Dialog: A component that represents a pop-up window that can be modal or non-modal.
+  - java.awt.FileDialog: A component that represents a file chooser dialog that allows the user to select a file or directory.

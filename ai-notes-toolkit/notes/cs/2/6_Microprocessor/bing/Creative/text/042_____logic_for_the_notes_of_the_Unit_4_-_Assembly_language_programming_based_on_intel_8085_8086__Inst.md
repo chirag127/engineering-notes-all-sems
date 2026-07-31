@@ -1,0 +1,24 @@
+### Logic for the notes of the Unit 4 - Assembly language programming based on intel 8085/8086
+
+- Assembly language is a low-level programming language that uses mnemonics to represent machine instructions.
+- Assembly language programming with 8085 microprocessor involves the following steps:
+  - Write the program in assembly language using an editor or an assembler.
+  - Convert the assembly language program to machine code using an assembler.
+  - Load the machine code into the memory of the microprocessor using a loader or a monitor program.
+  - Execute the program by starting the microprocessor.
+- Assembly language programming with 8086 microprocessor is similar to 8085, except that 8086 has a 16-bit architecture and supports more instructions and addressing modes.
+- The basic elements of assembly language programming are :
+  - Registers: These are small and fast memory locations inside the microprocessor that store data and control information. 8085 has eight 8-bit registers (A, B, C, D, E, H, L, and F) and 8086 has fourteen 16-bit registers (AX, BX, CX, DX, SI, DI, BP, SP, CS, DS, SS, ES, IP, and FLAGS).
+  - Instructions: These are the commands that tell the microprocessor what to do. Each instruction has an opcode (a binary code that identifies the operation) and operands (the data or addresses involved in the operation). For example, MOV A, B is an instruction that copies the contents of register B to register A.
+  - Addressing modes: These are the ways of specifying the operands for an instruction. 8085 supports five addressing modes (immediate, register, direct, register indirect, and implied) and 8086 supports twelve addressing modes (immediate, register, direct, register indirect, based, indexed, based indexed, based indexed with displacement, relative, intrasegment direct, intersegment direct, and intersegment indirect).
+  - Labels: These are symbolic names that represent memory locations or constants. They are used to make the program more readable and easier to modify. For example, LOOP: is a label that marks the beginning of a loop.
+  - Directives: These are commands that tell the assembler how to process the program. They do not generate any machine code, but they affect the assembly process. For example, .MODEL SMALL is a directive that specifies the memory model for the program.
+  - Macros: These are sequences of instructions that are given a name and can be used repeatedly in the program. They are used to simplify the program and avoid repetition. For example, SUM MACRO A, B, C is a macro that adds the values of A, B, and C and stores the result in A.
+- The types of instructions in assembly language programming are :
+  - Data transfer instructions: These are instructions that move data between registers, memory, and I/O devices. For example, IN A, 01H is a data transfer instruction that reads a byte from the I/O port 01H and stores it in register A.
+  - Arithmetic instructions: These are instructions that perform arithmetic operations such as addition, subtraction, multiplication, and division. For example, ADD A, B is an arithmetic instruction that adds the contents of register B to register A and stores the result in A.
+  - Logic instructions: These are instructions that perform logical operations such as AND, OR, XOR, NOT, and compare. For example, AND A, B is a logic instruction that performs a bitwise AND operation on the contents of register A and B and stores the result in A.
+  - Branch instructions: These are instructions that change the sequence of execution of the program based on some condition. For example, JNZ LOOP is a branch instruction that jumps to the label LOOP if the zero flag is not set.
+  - Looping instructions: These are instructions that repeat a block of code a fixed number of times or until a condition is met. For example, DJNZ R, LOOP is a looping instruction that decrements the register R and jumps to the label LOOP if R is not zero.
+  - Counting instructions: These are instructions that increment or decrement a register or a memory location by one. For example, INC A is a counting instruction that increments the register A by one.
+  - Indexing instructions: These are instructions that use an index register to access an array of data in memory. For example, MOV A, [BX] is an indexing instruction that copies the byte

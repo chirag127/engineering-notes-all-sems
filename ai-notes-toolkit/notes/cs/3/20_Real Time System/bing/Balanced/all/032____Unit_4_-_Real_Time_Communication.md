@@ -1,0 +1,21 @@
+## Unit 4 - Real Time Communication
+
+- Real time communication (RTC) is the exchange of information between two or more parties without significant delay.
+- RTC can be synchronous or asynchronous, depending on the degree of coordination and synchronization required by the communication scenario.
+- Synchronous RTC is when the parties communicate at the same time, such as in a phone call, a video conference, or a chat session.
+- Asynchronous RTC is when the parties communicate at different times, such as in an email, a voice message, or a forum post.
+- RTC can be one-to-one, one-to-many, or many-to-many, depending on the number and role of the participants.
+- One-to-one RTC is when two parties communicate directly with each other, such as in a private chat or a phone call.
+- One-to-many RTC is when one party communicates with multiple parties, such as in a broadcast, a webinar, or a lecture.
+- Many-to-many RTC is when multiple parties communicate with each other, such as in a group chat, a video conference, or a multiplayer game.
+- RTC can be text-based, voice-based, video-based, or a combination of these, depending on the type and quality of the information exchanged.
+- Text-based RTC is when the parties communicate using written words, such as in a chat, an email, or a forum.
+- Voice-based RTC is when the parties communicate using spoken words, such as in a phone call, a voice message, or a podcast.
+- Video-based RTC is when the parties communicate using visual images, such as in a video call, a video message, or a live stream.
+- RTC can be facilitated by various technologies, platforms, and protocols, depending on the requirements and preferences of the parties involved.
+- Some examples of RTC technologies are: telephones, radios, televisions, computers, smartphones, tablets, smartwatches, webcams, microphones, speakers, headphones, etc.
+- Some examples of RTC platforms are: Skype, Zoom, WhatsApp, Telegram, Discord, Slack, Facebook, Twitter, Instagram, YouTube, Twitch, etc.
+- Some examples of RTC protocols are: Session Initiation Protocol (SIP), Real-time Transport Protocol (RTP), Web Real-Time Communication (WebRTC), etc.
+- RTC can have various benefits and challenges, depending on the context and purpose of the communication.
+- Some benefits of RTC are: immediacy, interactivity, engagement, feedback, collaboration, social presence, etc.
+- Some challenges of RTC are: latency, bandwidth, reliability, security, privacy, etiquette, etc.

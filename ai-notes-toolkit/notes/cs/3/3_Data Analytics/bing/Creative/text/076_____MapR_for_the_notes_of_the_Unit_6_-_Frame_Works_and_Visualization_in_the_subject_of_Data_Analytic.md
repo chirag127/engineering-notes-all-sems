@@ -1,0 +1,7 @@
+### MapR
+
+- MapR is a distributed data platform for AI and analytics that enables enterprises to apply data modeling to their business processes with the goal of increasing revenue, reducing costs and mitigating risks.
+- MapR is a complete enterprise distribution for Apache Hadoop, which is a framework for processing large-scale data sets using clusters of commodity hardware. MapR improves Hadoop's reliability, performance, and ease of use.
+- MapR offers a unified data platform that supports multiple data models, such as files, tables, streams, and graphs, and multiple processing engines, such as MapReduce, Spark, Hive, and Drill. MapR also provides enterprise-grade features, such as security, high availability, disaster recovery, and data protection.
+- MapR Ecosystem Packs (MEP) are collections of open source components that are tested and certified to work with MapR. MEPs enable users to access the latest innovations in the Hadoop ecosystem without compromising the stability and reliability of their data platform. MEPs are released periodically and can be installed on top of an existing MapR cluster.
+- MapR also offers a cloud-native data platform, called MapR Data Platform for Kubernetes, that enables users to deploy, manage, and scale data applications on any Kubernetes environment. This platform leverages the MapR Data Fabric, which is a global namespace that spans across edge, on-premises, and cloud locations, and provides consistent data access, security, and governance.

@@ -1,0 +1,9 @@
+#### Introduction to Patterns, pattern allowances, ingredients of moulding sand and melting furnaces. Foundry tools and their purposes Demo of mould preparation and Aluminum casting Practice – Study and Preparation of mould for Plastic
+
+- A **pattern** is a replica of the object to be cast, used to prepare the cavity into which molten material will be poured during the casting process.
+- **Pattern allowances** are the adjustments made to the pattern to compensate for various factors such as shrinkage, machining, distortion and draft.
+- **Moulding sand** is the material used to make the mould cavity. It consists of four main ingredients: silica sand, clay, water and additives. The properties of moulding sand depend on the type and amount of each ingredient.
+- **Melting furnaces** are the devices used to heat and melt the metal to be cast. There are different types of furnaces depending on the fuel, design and capacity. Some common examples are cupola, electric arc, induction and crucible furnaces.
+- **Foundry tools** are the instruments used to perform various operations in the foundry, such as moulding, melting, pouring, cleaning and finishing. Some common examples are rammer, trowel, sprue cutter, ladle, skimmer and chisel.
+- **Demo of mould preparation and aluminum casting** is a practical demonstration of how to make a mould using a pattern and moulding sand, and how to pour molten aluminum into the mould cavity to produce a casting.
+- **Practice – Study and preparation of mould for plastic** is a practical exercise of how to make a mould using a pattern and moulding sand, and how to pour molten plastic into the mould cavity to produce a casting. The plastic used can be thermoplastic or thermosetting. The moulding sand can be green sand, dry sand or resin sand. The moulding method can be hand moulding or machine moulding. The casting process can be gravity casting, pressure casting or injection moulding.

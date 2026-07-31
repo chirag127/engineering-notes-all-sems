@@ -1,0 +1,29 @@
+##### 6. To determine the wavelength of He-Ne laser light using single slit diffraction.
+
+- The aim of this experiment is to measure the wavelength of a He-Ne laser light source by observing the diffraction pattern produced by a single slit of known width.
+- The principle of this experiment is based on the Huygens-Fresnel principle, which states that every point on a wavefront can be considered as a source of secondary spherical wavelets, and the wavefront at any later time is the envelope of these wavelets. When a wavefront encounters a slit, the wavelets from different parts of the slit interfere with each other, producing a diffraction pattern on a screen.
+- The apparatus required for this experiment are a He-Ne laser, a single slit, a screen, a meter scale, and a micrometer screw gauge.
+- The procedure of this experiment is as follows:
+  - Set up the apparatus as shown in the figure below, with the laser, the slit, and the screen aligned on a horizontal line. Adjust the distance between the slit and the screen to be about 1 m. Make sure the laser beam is perpendicular to the slit and the screen.
+  - Measure the width of the slit using the micrometer screw gauge and record it as a.
+  - Turn on the laser and observe the diffraction pattern on the screen. You should see a central bright spot (called the zeroth-order maximum) and alternating bright and dark fringes on either side (called the higher-order maxima and minima).
+  - Measure the distance between the slit and the screen using the meter scale and record it as D.
+  - Measure the distance between the central bright spot and the first bright spot on either side using the meter scale and record it as y.
+  - Repeat the measurements for different values of a and D and record the data in a table.
+- The theory of this experiment is as follows:
+  - According to the Huygens-Fresnel principle, the wavelets from the slit interfere constructively at the points where the path difference between them is an integral multiple of the wavelength, and interfere destructively at the points where the path difference is an odd multiple of half the wavelength. This results in a diffraction pattern of bright and dark fringes on the screen.
+  - The path difference between the wavelets from the two edges of the slit can be calculated using the geometry of the figure below, where θ is the angle of diffraction and λ is the wavelength of the laser light.
+  - The path difference is given by a sin θ, where a is the width of the slit.
+  - For constructive interference, the path difference must be equal to nλ, where n is an integer. This gives the condition for the maxima as a sin θ = nλ, where n = 0, 1, 2, ...
+  - For destructive interference, the path difference must be equal to (n + 1/2)λ, where n is an integer. This gives the condition for the minima as a sin θ = (n + 1/2)λ, where n = 0, 1, 2, ...
+  - The angle of diffraction θ can be approximated by the ratio of the distance between the fringes and the central spot to the distance between the slit and the screen, i.e., θ ≈ y/D, where y is the distance between the fringes and the central spot and D is the distance between the slit and the screen.
+  - Substituting this approximation into the condition for the maxima, we get a y/D = nλ, where n = 0, 1, 2, ...
+  - Rearranging this equation, we get λ = a y/nD, where n = 1, 2, 3, ...
+  - This equation can be used to calculate the wavelength of the laser light from the measured values of a, y, and D.
+- The calculation of this experiment is as follows:
+  - For each set of measurements, use the equation λ = a y/nD to calculate the wavelength of the laser light, where n = 1 for the first bright spot on either side of the central spot.
+  - Take the average of the calculated values of λ and record it as the final result.
+  - Estimate the percentage error in the final result by comparing it with the accepted value of the wavelength of He-Ne laser light, which is 632.8 nm.
+- The conclusion of this experiment is as follows:
+  - The wavelength of He-Ne laser light can be determined by observing the diffraction pattern produced by a single slit of known width.
+  - The experimental value of the wavelength of He-

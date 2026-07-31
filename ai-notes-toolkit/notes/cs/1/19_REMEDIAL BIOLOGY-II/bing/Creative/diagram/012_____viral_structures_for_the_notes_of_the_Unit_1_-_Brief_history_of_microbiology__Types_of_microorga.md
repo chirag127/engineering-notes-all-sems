@@ -1,0 +1,11 @@
+### Viral Structures
+
+- Viruses are non-living infectious particles that can only replicate inside living cells.
+- Viruses have a simple structure that consists of three main components:
+  - **Nucleic acid**: The genetic material of the virus, either DNA or RNA, that contains the information for protein synthesis and replication. The nucleic acid can be single-stranded or double-stranded, linear or circular, segmented or non-segmented  .
+  - **Capsid**: The protein coat that surrounds and protects the nucleic acid. The capsid is composed of subunits called capsomeres, which can have different shapes and arrangements. The capsid determines the shape and size of the virus  .
+  - **Envelope**: Some viruses have an additional layer outside the capsid, made of lipids and proteins derived from the host cell membrane. The envelope helps the virus to attach to and enter the host cell, and also to evade the host immune system. The envelope may have spikes or glycoproteins on its surface that are specific for the virus  .
+- Viruses can be classified into different types based on their nucleic acid, capsid, and envelope characteristics. Some examples of viral types are   :
+  - **Helical viruses**: These viruses have a capsid that forms a hollow cylinder or helix around the nucleic acid. The capsid can be rigid or flexible. Some helical viruses have an envelope, such as influenza virus and rabies virus, while others do not, such as tobacco mosaic virus and Ebola virus.
+  - **Icosahedral viruses**: These viruses have a capsid that forms a regular polyhedron with 20 triangular faces and 12 vertices. The capsid can accommodate a large amount of nucleic acid. Some icosahedral viruses have an envelope, such as herpes virus and human immunodeficiency virus (HIV), while others do not, such as poliovirus and adenovirus.
+  - **Complex viruses**: These viruses have a capsid that is neither helical nor icosahedral, but has a more complex structure. The capsid may have additional features, such as tails, fibers, or spikes. Some complex viruses have an envelope, such as poxvirus and coronavirus, while others do not, such as bacteriophage and mimivirus.

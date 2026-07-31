@@ -1,0 +1,11 @@
+# The syntactic specification of programming languages
+
+- The syntax of a programming language defines the rules that determine what strings of characters (sentences or statements) belong to the language and how they are structured .
+- The syntax of a programming language is usually specified by a combination of the following three components:
+  - Lexemes and tokens: Lexemes are the smallest meaningful units of the source code, such as identifiers, keywords, literals, operators, and separators. Tokens are the classes of lexemes that share some common properties, such as syntax and semantics. For example, the lexeme `int` belongs to the token `keyword`, and the lexeme `x` belongs to the token `identifier` .
+  - Context-free grammars: A context-free grammar (CFG) is a set of production rules that describe how to generate valid sentences or statements from a finite set of symbols (terminals and non-terminals). A terminal symbol is a token that cannot be further decomposed, such as a keyword or an operator. A non-terminal symbol is a symbol that can be replaced by a sequence of other symbols, such as an expression or a statement. A production rule has the form `A -> B`, where `A` is a non-terminal symbol and `B` is a sequence of terminal and non-terminal symbols. For example, the production rule `statement -> if (expression) statement else statement` defines how to generate a valid `if-else` statement from an `if` keyword, an `expression`, and two `statement`s .
+  - Parse trees: A parse tree is a graphical representation of the syntactic structure of a sentence or statement, according to a given CFG. A parse tree shows how a sentence or statement is derived from the start symbol (usually `S`) of the CFG, by applying the production rules recursively. A parse tree has the following properties :
+    - The root node is labeled with the start symbol of the CFG.
+    - The leaf nodes are labeled with terminal symbols of the CFG.
+    - The internal nodes are labeled with non-terminal symbols of the CFG.
+    - The children of an internal node are labeled with the symbols that appear on the right-hand side of the production rule that replaces the parent node.

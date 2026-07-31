@@ -1,0 +1,10 @@
+# Unit 2 - Hardware for IoT
+
+The hardware for IoT refers to the physical devices and components that enable the connectivity, communication, and functionality of IoT applications. The hardware for IoT can be classified into four main categories:
+
+- Sensors: Sensors are the devices that collect data from the environment and convert it into electrical signals. Sensors can measure various physical phenomena, such as temperature, humidity, light, sound, motion, pressure, etc. Sensors are the most critical hardware in IoT applications and are used to gather information from the surroundings . Sensors usually consist of power management modules, RF modules, energy modules, and sensing modules.
+- Microcontrollers: Microcontrollers are small computers that execute a specific task or program. They are embedded in IoT devices and control the logic, processing, and communication of the device. Microcontrollers can be programmed using various languages, such as C, Python, Arduino, etc. Microcontrollers are the devices in a single integrated circuit devoted to executing a single task and running an application.
+- Communication modules: Communication modules are the devices that enable the wireless or wired transmission and reception of data between IoT devices and the network. Communication modules can use different protocols and technologies, such as WiFi, Bluetooth, ZigBee, LoRa, cellular, etc. Communication modules manage the signal processing, modulation, encryption, and authentication of the data.
+- Other IoT hardware: Other IoT hardware includes the devices and components that support the functionality, security, and usability of IoT applications. These can include actuators, displays, cameras, batteries, memory, storage, etc. These devices can vary depending on the specific requirements and features of the IoT application.
+
+The hardware for IoT can be combined and integrated into various IoT platforms and prototyping kits, such as Raspberry Pi, Arduino, ESP32, etc. These platforms and kits provide the hardware and software tools to develop, test, and deploy IoT applications easily and quickly .

@@ -1,0 +1,22 @@
+### Data type for the notes of the Unit 1 - Introduction in the subject of Web Technology
+
+- A data type is a classification of data that defines what values and operations can be performed on it.
+- Web technology is the use of various tools and techniques to create, store, transmit, and display data on the web.
+- There are different types of web data, such as:
+  - Open web data: Publicly accessible data extracted from sources on the open web, such as news sites, blogs, message boards, forums, review sites, and Q&A pages .
+  - Dark web data: Data obtained from websites within a hidden network, or “Dark Web,” only accessible with a specially designed web browser like TOR .
+  - Structured data: Data that is organized in a predefined format, such as tables, lists, or graphs.
+  - Unstructured data: Data that has no fixed format or structure, such as text, images, audio, or video.
+- There are different data formats used in web development, such as:
+  - XML: Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.
+  - JSON: JSON or JavaScript Object Notation is a format for structuring data that is derived from JavaScript, but used by many programming languages. JSON builds universal data structures that can be transferred between different environments and even across languages.
+  - HTML: HyperText Markup Language (HTML) is a markup language that defines the structure and content of web pages.
+  - CSS: Cascading Style Sheets (CSS) is a style sheet language that describes how HTML elements are displayed on the web.
+  - CGI: Common Gateway Interface (CGI) is a standard for running external programs from a web server and passing data between them.
+  - HTTP: Hypertext Transfer Protocol (HTTP) is a protocol that defines how messages are formatted and transmitted between web clients and servers.
+- There are different programming languages and technologies that help create applications for the web, such as:
+  - Perl: Perl is a general-purpose, interpreted, dynamic programming language that is widely used for web development, especially for text processing and data manipulation.
+  - C#: C# is a multi-paradigm, compiled, object-oriented programming language that is designed for developing applications that run on the .NET Framework, a software platform for building web, desktop, and mobile applications.
+  - Java: Java is a general-purpose, compiled, object-oriented programming language that is designed to run on any platform that supports the Java Virtual Machine, a software layer that executes Java bytecode.
+  - Visual Basic: Visual Basic is a multi-paradigm, interpreted, event-driven programming language that is designed for developing applications that run on the Windows operating system, especially for creating graphical user interfaces.
+  - PHP: PHP is a general-purpose, interpreted, scripting language that is widely used for web development, especially for creating dynamic web pages and interacting with databases.

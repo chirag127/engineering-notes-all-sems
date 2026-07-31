@@ -1,0 +1,14 @@
+# Various Phases of Data Analytics Lifecycle
+
+- Data analytics lifecycle is a series of steps that guide the process of transforming data into insights and actions for business or project goals  .
+- The data analytics lifecycle can be based on different models, such as CRISP-DM, KDD, or TDSP, but they generally share some common phases .
+- The following are some of the typical phases of data analytics lifecycle, along with their descriptions and examples:
+
+  - **Business Understanding**: This phase involves defining the problem or opportunity, identifying the stakeholders and objectives, and establishing the success criteria and metrics . For example, a business might want to increase customer retention by understanding the factors that influence churn and loyalty.
+  - **Data Understanding**: This phase involves collecting, exploring, and assessing the quality and availability of the data that is relevant to the problem or opportunity . For example, a data analyst might use descriptive statistics, visualizations, and data profiling tools to examine the data sources, variables, distributions, and missing values.
+  - **Data Preparation**: This phase involves cleaning, transforming, integrating, and formatting the data to make it ready for analysis . For example, a data engineer might apply data quality rules, impute missing values, normalize or standardize data, join or merge data sets, and create new features or variables.
+  - **Data Analysis**: This phase involves applying analytical techniques, such as statistics, machine learning, or data mining, to discover patterns, relationships, and insights from the data . For example, a data scientist might use clustering, classification, regression, or association analysis to segment customers, predict churn, estimate lifetime value, or identify cross-selling opportunities.
+  - **Data Validation**: This phase involves evaluating the results of the data analysis, testing the assumptions and hypotheses, and verifying the accuracy and reliability of the insights . For example, a data analyst might use cross-validation, confusion matrix, ROC curve, or p-value to measure the performance, accuracy, and significance of the analytical models or findings.
+  - **Data Communication**: This phase involves presenting and communicating the insights and recommendations to the stakeholders, using appropriate formats, such as reports, dashboards, or stories . For example, a data analyst might use charts, tables, or narratives to convey the key findings, implications, and actions to the business decision-makers or customers.
+
+- The data analytics lifecycle is not a linear or rigid process, but rather an iterative and flexible one, that can be adapted to different scenarios, data sets, and goals . For example, a data analyst might need to revisit the previous phases to refine the problem, collect more data, or apply different techniques, based on the feedback or new information.

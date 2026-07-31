@@ -1,0 +1,11 @@
+# MAC 802.15.4
+
+- MAC 802.15.4 is a standard for low-rate wireless personal area networks (LR-WPANs) that defines the physical layer (PHY) and medium access control (MAC) sublayer specifications  .
+- MAC 802.15.4 supports low-data-rate wireless connectivity with fixed, portable, and moving devices with no battery or very limited battery consumption requirements .
+- MAC 802.15.4 provides the basis of other higher-layer standards, such as ZigBee, WirelessHart, 6LoWPAN and MiWi .
+- MAC 802.15.4 supports multiple PHY options, such as frequency-hopping spread spectrum (FHSS), direct-sequence spread spectrum (DSSS), orthogonal frequency-division multiplexing (OFDM), and high-rate pulse ultra-wideband (HRP UWB)  .
+- MAC 802.15.4 supports two types of devices: full-function devices (FFDs) and reduced-function devices (RFDs). FFDs can operate in any topology and communicate with any other device, while RFDs can only operate in star or peer-to-peer topologies and communicate only with FFDs .
+- MAC 802.15.4 supports two types of networks: star and peer-to-peer. In a star network, a single FFD acts as a coordinator and controls the access to the medium for all other devices. In a peer-to-peer network, multiple FFDs can act as coordinators and form a mesh network .
+- MAC 802.15.4 supports two types of MAC operations: beacon-enabled and non-beacon-enabled. In a beacon-enabled mode, the coordinator periodically broadcasts beacons to synchronize the devices and define the superframe structure. In a non-beacon-enabled mode, the devices use a carrier sense multiple access with collision avoidance (CSMA-CA) mechanism to access the medium .
+- MAC 802.15.4 supports two types of MAC services: data service and management service. The data service provides reliable or unreliable data transfer between devices. The management service provides functions such as device association and disassociation, network formation and maintenance, device discovery, channel access, and security .
+- MAC 802.15.4 supports two types of MAC security: symmetric-key and asymmetric-key. The symmetric-key security uses a shared secret key between the devices to provide confidentiality, integrity, and authentication. The asymmetric-key security uses public and private keys to provide digital signatures and certificates .

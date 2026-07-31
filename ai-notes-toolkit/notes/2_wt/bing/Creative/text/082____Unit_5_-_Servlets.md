@@ -1,0 +1,25 @@
+## Unit 5 - Servlets
+
+- A servlet is a Java class that runs on a web server and handles HTTP requests and responses.
+- A servlet can perform various tasks, such as generating dynamic web content, processing user input, interacting with databases, and implementing business logic.
+- A servlet is managed by a servlet container, which is a component of a web server that provides the runtime environment and services for servlets.
+- A servlet container is responsible for loading, initializing, executing, and destroying servlets, as well as managing their life cycle and communication.
+- A servlet container also handles the mapping of URLs to servlets, the creation and management of sessions, the security and authentication of users, and the configuration of servlets.
+- The most widely used servlet container is Apache Tomcat, which is an open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language, and Java WebSocket technologies.
+- To create a servlet, one needs to extend the `javax.servlet.http.HttpServlet` class and override its methods, such as `doGet`, `doPost`, `doPut`, `doDelete`, etc., to handle different types of HTTP requests.
+- A servlet can also implement the `javax.servlet.Servlet` interface directly, but this is less common and requires more coding.
+- A servlet can access the request and response objects, which are instances of the `javax.servlet.http.HttpServletRequest` and `javax.servlet.http.HttpServletResponse` classes, respectively.
+- The request object contains information about the client's request, such as the request method, the request URI, the request parameters, the request headers, the request body, the cookies, the session, etc.
+- The response object contains information about the server's response, such as the status code, the response headers, the response body, the cookies, etc.
+- A servlet can use the request and response objects to read and write data, set headers and cookies, redirect or forward requests, send errors, etc.
+- A servlet can also use the `javax.servlet.ServletContext` and `javax.servlet.ServletConfig` objects, which are shared by all servlets in the same web application and by each servlet instance, respectively.
+- The servlet context object contains information about the web application, such as the context path, the initialization parameters, the attributes, the resources, the log, etc.
+- The servlet config object contains information about the servlet, such as the servlet name, the initialization parameters, the servlet context, etc.
+- A servlet can use the servlet context and servlet config objects to access and modify the web application and servlet settings, communicate with other servlets, access web resources, etc.
+- A servlet can also use the `javax.servlet.Filter` and `javax.servlet.Listener` interfaces, which are components that can intercept and modify requests and responses, and monitor and react to events in the servlet container, respectively.
+- A filter is a Java class that implements the `javax.servlet.Filter` interface and overrides its `init`, `doFilter`, and `destroy` methods.
+- A filter can perform various tasks, such as logging, compression, encryption, authentication, authorization, caching, etc., before or after a request is processed by a servlet or another filter.
+- A filter can be mapped to a specific URL pattern, a servlet name, or a request attribute, and can be configured with initialization parameters and order of execution.
+- A listener is a Java class that implements one or more of the `javax.servlet.Listener` subinterfaces, such as `ServletContextListener`, `HttpSessionListener`, `ServletRequestListener`, etc., and overrides their methods.
+- A listener can perform various tasks, such as initializing and destroying resources, tracking and managing sessions, logging and auditing events, etc., when a servlet context, a session, a request, or an attribute is created, modified, or destroyed.
+- A listener can be registered with the servlet container using annotations or deployment descriptors, and can access the servlet context and the event objects.

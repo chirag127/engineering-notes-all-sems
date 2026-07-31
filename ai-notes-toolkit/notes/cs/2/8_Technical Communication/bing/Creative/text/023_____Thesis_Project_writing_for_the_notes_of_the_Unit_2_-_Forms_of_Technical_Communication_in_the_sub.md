@@ -1,0 +1,17 @@
+### Thesis/Project Writing for the Notes of the Unit 2 - Forms of Technical Communication in the Subject of Technical Communication
+
+- A thesis or a project is a form of technical communication that introduces, explains, and evaluates a research topic in a specific field of study .
+- A thesis or a project typically consists of the following sections:
+  - Introduction: This section provides the background, purpose, scope, and significance of the research topic. It also states the research question or problem, the main objectives, and the hypothesis or thesis statement.
+  - Literature Review: This section reviews the existing literature on the research topic and identifies the gaps, controversies, and debates in the field. It also establishes the theoretical framework and the relevance of the research topic to the field of technical communication.
+  - Methodology: This section describes the research method employed and the rationale for choosing it. It also explains the data collection and analysis procedures, the instruments and tools used, the ethical considerations, and the limitations and challenges of the method.
+  - Results: This section presents and summarizes the findings of the data analysis. It also compares and contrasts the results with the literature review and the hypothesis or thesis statement.
+  - Discussion: This section interprets and evaluates the results in relation to the research question or problem, the objectives, and the hypothesis or thesis statement. It also discusses the implications, contributions, and limitations of the research.
+  - Conclusion: This section summarizes the main points of the research and provides recommendations for future research or practice. It also restates the significance and the originality of the research.
+  - References: This section lists the sources cited in the research according to a specific citation style (e.g., APA, MLA, IEEE, etc.).
+  - Appendices: This section includes any additional or supplementary materials that support the research (e.g., tables, figures, charts, graphs, questionnaires, interview transcripts, etc.).
+- A thesis or a project requires a high level of technical communication skills, such as:
+  - Design: This skill involves creating documents and resources that are clear, concise, coherent, consistent, and attractive for the intended audience and purpose . It also involves using appropriate fonts, colors, layouts, graphics, and multimedia to enhance the readability and usability of the research.
+  - Management: This skill involves planning, organizing, coordinating, and controlling the research process and the document production. It also involves setting realistic goals and deadlines, managing time and resources, collaborating with others, and revising and editing the research.
+  - Writing: This skill involves producing text that conveys information in a suitable format for the intended audience and purpose. It also involves using correct grammar, spelling, punctuation, vocabulary, and style to ensure the accuracy and credibility of the research.
+  - Other techniques: These techniques include conducting literature reviews, formulating research questions or problems, developing hypotheses or thesis statements, choosing and applying research methods, collecting and analyzing data, presenting and discussing results, drawing conclusions and making recommendations, and citing and referencing sources .

@@ -1,0 +1,14 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some notes on the topic of timing constraints for the unit 1 - introduction of real time system in the subject of real time system.
+
+# Timing Constraints
+
+- A real time system is a system that must respond to events within certain time bounds, called timing constraints.
+- Timing constraints can be classified into two types: hard and soft.
+- Hard timing constraints are those that must be met for the system to function correctly. If a hard timing constraint is violated, the system may fail or cause severe consequences. For example, a pacemaker must deliver electrical pulses to the heart within a precise interval, otherwise the patient may die.
+- Soft timing constraints are those that can be violated occasionally without compromising the system functionality, but may degrade the system performance or quality of service. For example, a video streaming application may drop some frames or reduce the resolution if the network bandwidth is insufficient, but the user can still watch the video.
+- Timing constraints can be specified in different ways, such as deadlines, periodicity, jitter, latency, and response time.
+- A deadline is the latest time by which a task or an event must be completed or processed. A deadline can be absolute or relative. An absolute deadline is a fixed point in time, such as 10:00 AM. A relative deadline is an offset from the occurrence of an event, such as 5 seconds after receiving a request.
+- A periodic task or event is one that occurs or must be executed at regular intervals, such as every 10 milliseconds. The interval between two consecutive occurrences or executions is called the period. A periodic task or event may have a deadline equal to or less than its period.
+- Jitter is the variation in the arrival time or execution time of a task or an event. Jitter can cause uncertainty and unpredictability in the system behavior. For example, if a sensor sends data to a processor with a jitter of 1 millisecond, the processor may receive the data at different times within a 1 millisecond window.
+- Latency is the delay between the occurrence of an event and the start of its processing. Latency can be caused by factors such as communication, scheduling, and synchronization. For example, if a camera captures an image and sends it to a processor, the latency is the time between the image capture and the processor receiving the image.
+- Response time is the delay between the occurrence of an event and the completion of its processing. Response time can be measured as the sum of latency and execution time. For example, if a processor receives an image from a camera, processes it, and displays it on a screen, the response time is the time between the image capture and the image display.

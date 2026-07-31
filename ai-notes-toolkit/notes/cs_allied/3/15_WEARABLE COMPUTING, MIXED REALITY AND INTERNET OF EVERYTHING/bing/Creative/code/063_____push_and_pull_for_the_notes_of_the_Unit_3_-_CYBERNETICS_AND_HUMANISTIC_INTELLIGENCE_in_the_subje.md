@@ -1,0 +1,12 @@
+### Push and Pull for the notes of the Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Push and pull are two different approaches to managing information flow and control in cybernetic systems.
+- A push system initiates production or action as a reaction to present demand, while a pull system initiates production or action in anticipation of future demand.
+- In a push system, information or commands are sent from a central source to the receivers, while in a pull system, information or commands are requested by the receivers from a central source.
+- Push and pull systems have different advantages and disadvantages depending on the context and the goals of the system.
+- Some examples of push and pull systems are:
+
+  - Push vs. pull in GitOps: GitOps is a way of automating the deployment and management of applications using Git as a single source of truth. A push GitOps agent runs outside the Kubernetes cluster and pushes changes to the cluster based on the Git repository, while a pull GitOps agent runs inside the cluster and pulls changes from the Git repository.
+  - Push vs. pull in marketing: Marketing strategies can be classified as push or pull depending on whether they aim to create demand or satisfy demand. Push marketing involves promoting a product or service to a target audience, while pull marketing involves attracting customers who are already interested in a product or service.
+  - Push vs. pull in security: Security measures can be implemented as push or pull depending on whether they are proactive or reactive. Push security involves taking preventive actions to reduce the risk of attacks, while pull security involves responding to incidents and mitigating the impact of attacks.
+  - Push vs. pull in visibility: Visibility is the degree to which users can perceive and understand the workings of an algorithmic system. Visibility can be co-defined through the constant push and pull between digital users and the platform. Push visibility involves users actively seeking to influence or manipulate the algorithm, while pull visibility involves users passively receiving or accepting the algorithm's outcomes.

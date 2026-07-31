@@ -1,0 +1,7 @@
+# Unit 4 - Hyperledger Fabric (A)
+
+- Hyperledger Fabric is a **modular blockchain framework** that acts as a foundation for developing **blockchain-based products, solutions, and applications** using plug-and-play components that are aimed for use within **private enterprises**.
+- Hyperledger Fabric is an **open source project** from the Linux Foundation and is the **de facto standard** for enterprise blockchain platforms .
+- Hyperledger Fabric is intended for developing **enterprise-grade applications and industry solutions** with a **modular architecture** that allows components, such as **consensus and membership services**, to be **plug-and-play**.
+- Hyperledger Fabric delivers a **uniquely elastic and extensible architecture**, distinguishing it from alternative blockchain solutions. It supports **smart contracts**, **channels**, **endorsement policies**, **private data collections**, and **chaincode lifecycle management**.
+- Hyperledger Fabric is designed to be **highly configurable and customizable**, enabling **innovation, versatility, and optimization**. It can support various use cases across different industries, such as **finance, banking, healthcare, IoT, supply chain, manufacturing, and technology** .

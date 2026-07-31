@@ -1,0 +1,28 @@
+### Branching operations
+
+- Branching operations are instructions that allow the microprocessor to change the sequence of the program, either unconditionally or under certain conditions  .
+- Branching operations can be classified into three types: jump, call and return, and restart  .
+- Jump instructions transfer the program control to a specified memory location by loading the 16-bit address of the target location into the program counter (PC) register  .
+- Jump instructions can be unconditional or conditional. Unconditional jump instructions always transfer the control to the target location, while conditional jump instructions transfer the control only if a certain flag condition is met  .
+- The unconditional jump instruction is JMP, which has the format JMP addr, where addr is the 16-bit target address  .
+- The conditional jump instructions are JC, JNC, JZ, JNZ, JP, JM, JPE, and JPO, which have the format Jcond addr, where cond is the flag condition and addr is the 16-bit target address  .
+- The flag conditions are as follows  :
+  - JC: jump if carry flag (CF) is 1
+  - JNC: jump if carry flag (CF) is 0
+  - JZ: jump if zero flag (ZF) is 1
+  - JNZ: jump if zero flag (ZF) is 0
+  - JP: jump if parity flag (PF) is 1
+  - JM: jump if sign flag (SF) is 1
+  - JPE: jump if parity flag (PF) is 1 and sign flag (SF) is 0
+  - JPO: jump if parity flag (PF) is 0 and sign flag (SF) is 0
+- Call and return instructions are used to implement subroutines, which are sections of code that perform a specific task and can be called from different parts of the program  .
+- Call instructions transfer the program control to a subroutine by pushing the address of the next instruction (PC+1) onto the stack and loading the 16-bit address of the subroutine into the PC register  .
+- Call instructions can be unconditional or conditional. Unconditional call instruction is CALL, which has the format CALL addr, where addr is the 16-bit address of the subroutine  .
+- The conditional call instructions are CC, CNC, CZ, CNZ, CP, CM, CPE, and CPO, which have the format Ccond addr, where cond is the flag condition and addr is the 16-bit address of the subroutine  .
+- The flag conditions are the same as for the jump instructions  .
+- Return instructions transfer the program control back to the calling program by popping the address from the stack and loading it into the PC register  .
+- Return instructions can be unconditional or conditional. Unconditional return instruction is RET, which has no operands  .
+- The conditional return instructions are RC, RNC, RZ, RNZ, RP, RM, RPE, and RPO, which have no operands and have the same flag conditions as for the jump and call instructions  .
+- Restart instructions are special types of call instructions that transfer the program control to a fixed memory location by pushing the address of the next instruction (PC+1) onto the stack and loading the 8-bit address of the target location into the PC register  .
+- Restart instructions are RST n, where n is a number from 0 to 7, and the target address is 8*n  .
+- Restart instructions are used to invoke service routines that are stored in the lower 64 bytes of the memory [^

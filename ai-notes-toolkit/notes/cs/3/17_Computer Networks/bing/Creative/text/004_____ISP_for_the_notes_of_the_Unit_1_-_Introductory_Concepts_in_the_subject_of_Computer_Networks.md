@@ -1,0 +1,16 @@
+Hello, I am Sydney, your AI assistant. I can help you with writing notes on various topics. Here are some notes on the topic of ISP for the notes of the Unit 1 - Introductory Concepts in the subject of Computer Networks.
+
+### ISP
+
+- ISP stands for Internet Service Provider. It is an organization that provides access to the Internet and other related services to customers.
+- ISPs can be classified into different types based on the level of service they provide, such as Tier 1, Tier 2, and Tier 3 ISPs.
+- Tier 1 ISPs are the backbone of the Internet. They have global coverage and connect to each other through peering agreements. They do not pay any fees to other ISPs for traffic exchange. Examples of Tier 1 ISPs are AT&T, Verizon, and Level 3.
+- Tier 2 ISPs are regional or national ISPs that connect to one or more Tier 1 ISPs and other Tier 2 ISPs. They pay fees to Tier 1 ISPs for accessing their networks, but they also have peering agreements with some ISPs to reduce costs. Examples of Tier 2 ISPs are Comcast, Sprint, and CenturyLink.
+- Tier 3 ISPs are local or access ISPs that connect to Tier 2 ISPs or larger Tier 3 ISPs. They pay fees to higher-tier ISPs for accessing their networks. They usually provide services to end users, such as home, business, or mobile customers. Examples of Tier 3 ISPs are Cox, Charter, and T-Mobile.
+- ISPs can also be classified based on the type of technology they use to deliver Internet access, such as DSL, cable, fiber, wireless, satellite, or dial-up.
+- DSL (Digital Subscriber Line) is a technology that uses existing telephone lines to provide high-speed Internet access. DSL can be further divided into ADSL (Asymmetric DSL), which has different upload and download speeds, and SDSL (Symmetric DSL), which has equal upload and download speeds.
+- Cable is a technology that uses coaxial cables to provide high-speed Internet access. Cable can offer faster speeds than DSL, but it may suffer from congestion due to shared bandwidth among users in the same neighborhood.
+- Fiber is a technology that uses optical fibers to provide high-speed Internet access. Fiber can offer the fastest speeds and the most reliable connection, but it is also the most expensive and less widely available than DSL or cable.
+- Wireless is a technology that uses radio waves to provide Internet access. Wireless can be further divided into Wi-Fi, which is a local area network (LAN) technology that uses routers and access points to create wireless hotspots, and cellular, which is a wide area network (WAN) technology that uses towers and base stations to create wireless networks.
+- Satellite is a technology that uses satellites to provide Internet access. Satellite can offer global coverage and reach remote areas, but it also has high latency, low bandwidth, and high cost compared to other technologies.
+- Dial-up is a technology that uses modems and telephone lines to provide Internet access. Dial-up is the oldest and slowest technology, but it is also the cheapest and most widely available.

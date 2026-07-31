@@ -1,0 +1,23 @@
+### Stored Procedures
+
+- Stored procedures are Java methods that are published to SQL and stored in the database for general use.
+- Stored procedures can perform complex tasks, improve performance, and enhance security.
+- To create and use a stored procedure in Java DB, you need to follow these steps:
+  - Create a public static Java method in a Java class that performs the required task of the stored procedure.
+  - Create the stored procedure in the database that calls the Java method using the `CREATE PROCEDURE` statement.
+  - Call the stored procedure from your Java application using the `CallableStatement` interface.
+- To call a stored procedure from a JDBC application, you need to follow these steps:
+  - Register the JDBC driver and establish a connection to the database using the `DriverManager` class.
+  - Create a `CallableStatement` object using the `Connection` object and the stored procedure name or SQL statement.
+  - Set the input and output parameters using the `setXXX` and `registerOutParameter` methods of the `CallableStatement` object.
+  - Execute the stored procedure using the `execute` or `executeUpdate` methods of the `CallableStatement` object.
+  - Retrieve the output parameters or result sets using the `getXXX` methods of the `CallableStatement` object.
+  - Close the `CallableStatement` and `Connection` objects using the `close` methods.
+- To call a stored procedure from a JPA application, you need to follow these steps:
+  - Annotate your entity class with the `@NamedStoredProcedureQuery` annotation that specifies the name, parameters, and result classes of the stored procedure.
+  - Create an `EntityManager` object using the `EntityManagerFactory` object and the persistence unit name.
+  - Create a `StoredProcedureQuery` object using the `EntityManager` object and the stored procedure name.
+  - Set the input parameters using the `setParameter` method of the `StoredProcedureQuery` object.
+  - Execute the stored procedure using the `execute` method of the `StoredProcedureQuery` object.
+  - Retrieve the output parameters or result sets using the `getOutputParameterValue` or `getResultList` methods of the `StoredProcedureQuery` object.
+  - Close the `EntityManager` object using the `close` method.

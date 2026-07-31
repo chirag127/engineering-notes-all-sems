@@ -1,0 +1,21 @@
+# Spark Streaming Sinks
+
+- Spark Streaming Sinks are the components that store the output of a streaming query to an external storage system.
+- Spark Structured Streaming supports different types of sinks depending on the output mode and the type of query.
+- The output mode specifies how the sink should handle the new data and the updated data in each micro-batch.
+- The output mode can be one of the following:
+  - Append mode: Only the new rows in the streaming DataFrame/Dataset are written to the sink.
+  - Update mode: Only the rows that were updated in the streaming DataFrame/Dataset are written to the sink.
+  - Complete mode: All the rows in the streaming DataFrame/Dataset are written to the sink.
+- The type of query can be one of the following:
+  - Streaming aggregations: The query performs some aggregation operations on the streaming data, such as count, sum, average, etc.
+  - Event-time windows: The query groups the streaming data by a time window based on the event time column, such as window start time, window end time, etc.
+  - Stream-to-batch joins: The query joins the streaming data with a static DataFrame/Dataset, such as a lookup table or a historical data set.
+  - Stream-to-stream joins: The query joins two streaming DataFrames/Datasets, such as a stream of clicks and a stream of impressions.
+- The supported sinks for Spark Structured Streaming are:
+  - Console sink: Displays the content of the streaming DataFrame/Dataset to the standard output. This is useful for debugging purposes. It supports all output modes and query types.
+  - File sink: Writes the content of the streaming DataFrame/Dataset to a file system, such as HDFS, S3, or local file system. It supports only append mode and requires the query to have a watermark if it has any streaming aggregations or event-time windows.
+  - Kafka sink: Writes the content of the streaming DataFrame/Dataset to a Kafka topic. It supports only append mode and requires the query to have a watermark if it has any streaming aggregations or event-time windows.
+  - Foreach sink: Applies a custom function to each row of the streaming DataFrame/Dataset. This is useful for integrating with external systems that are not supported by Spark natively, such as databases, APIs, etc. It supports all output modes and query types, but the custom function must handle the semantics of each output mode.
+  - ForeachBatch sink: Applies a custom function to each micro-batch of the streaming DataFrame/Dataset. This is useful for applying batch operations on the streaming data, such as writing to a relational database, performing complex transformations, etc. It supports all output modes and query types, but the custom function must handle the semantics of each output mode.
+  - Memory sink: Stores the content of the streaming DataFrame/Dataset in memory as a table. This is useful for testing and debugging purposes. It supports only complete mode and requires the query to have a watermark if it has any streaming aggregations or event-time windows.

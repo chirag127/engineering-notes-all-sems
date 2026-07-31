@@ -1,0 +1,9 @@
+### Quantum counting
+
+Quantum counting is a quantum algorithm for efficiently counting the number of solutions for a given search problem. The algorithm is based on the quantum phase estimation algorithm and on Grover's search algorithm. Counting problems are common in diverse fields such as statistical estimation, statistical physics, networking, etc.
+
+Some key points about quantum counting are:
+
+- Quantum counting can estimate the number of solutions with an error of at most $\epsilon$ using $O(\sqrt{N}\log(1/\epsilon))$ queries to the oracle, where $N$ is the size of the search space and the oracle is a unitary operator that marks the solutions.
+- Quantum counting uses a quantum circuit that consists of two registers: a counting register and a search register. The counting register is initialized to the equal superposition of all possible states, and the search register is initialized to the zero state. The circuit then applies the quantum phase estimation algorithm on the Grover operator, which is a combination of the oracle and the Grover diffusion operator. The Grover operator amplifies the amplitude of the marked states in the search register, and induces a phase shift in the counting register that depends on the number of solutions. The circuit then measures the counting register and obtains an estimate of the phase shift, which can be used to calculate the number of solutions.
+- Quantum counting can be generalized to amplitude amplification, which is a technique that can boost the success probability of any quantum algorithm that uses an oracle. Amplitude amplification can also be used to speed up the Grover search algorithm, reducing the number of queries from $O(\sqrt{N})$ to $O(\sqrt{N/M})$, where $M$ is the number of solutions. Amplitude amplification can also be used to implement quantum algorithms for other problems, such as element distinctness, collision finding, and minimum finding.

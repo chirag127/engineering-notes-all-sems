@@ -1,0 +1,14 @@
+# 2. Run some python programs on Pi like:
+
+- Python is a popular programming language that can be used to create various applications on the Raspberry Pi, such as games, web servers, robots, etc.
+- To run a python program on the Pi, you need to have a python interpreter installed on your system. The Pi comes with two versions of python: python 2 and python 3. You can check which version you have by typing `python --version` or `python3 --version` in the terminal.
+- To write a python program, you can use any text editor of your choice, such as nano, vim, or IDLE. You can also use an integrated development environment (IDE) such as Thonny, which provides a graphical user interface (GUI) for writing and debugging python code.
+- To save a python program, you need to give it a name with the `.py` extension, such as `hello.py`. You can save it in any directory of your choice, such as the home directory (`/home/pi`) or the desktop (`/home/pi/Desktop`).
+- To run a python program, you need to open a terminal and navigate to the directory where you saved your program. Then, you can type `python hello.py` or `python3 hello.py` depending on which version of python you want to use. You should see the output of your program on the terminal.
+- Alternatively, you can run a python program by double-clicking on its icon on the desktop or the file manager. This will open a new terminal window and run the program. However, this method may not work for some programs that require user input or additional arguments.
+- Some examples of python programs that you can run on the Pi are:
+
+  - A program that prints "Hello, world!" on the terminal. This is the simplest python program that you can write. It consists of one line of code: `print("Hello, world!")`.
+  - A program that asks the user for their name and greets them. This program uses the `input` function to get the user's name and the `print` function to display a message. It consists of two lines of code: `name = input("What is your name? ")` and `print("Hello, " + name + "!")`.
+  - A program that calculates the area of a circle given its radius. This program uses the `math` module to access the value of pi and the `float` function to convert the user's input to a decimal number. It consists of three lines of code: `import math`, `radius = float(input("Enter the radius of the circle: "))`, and `area = math.pi * radius ** 2`.
+  - A program that generates a random number between 1 and 10 and asks the user to guess it. This program uses the `random` module to generate a random number and the `while` loop to repeat the guessing process until the user gets it right. It consists of six lines of code: `import random`, `number = random.randint(1, 10)`, `guess = 0`, `while guess != number:`, `    guess = int(input("Guess a number between 1 and 10: "))`, and `    print("You got it!")`.

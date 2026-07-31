@@ -1,0 +1,14 @@
+# LPC for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+
+- LPC stands for Linear Predictive Coding, which is a method used mostly in audio signal processing and speech processing for representing the spectral envelope of a digital signal of speech in compressed form, using the information of a linear predictive model .
+- LPC is the most widely used method in speech coding and speech synthesis, as it can model the human vocal tract and produce natural sounding speech with low bit rates.
+- LPC analyzes the speech signal by estimating the formants, which are the resonant frequencies of the vocal tract, and removing their effects from the speech signal, and estimating the intensity and frequency of the remaining buzz, which is the source of voiced sounds.
+- The process of removing the formants is called inverse filtering, and the remaining signal after the subtraction of the filtered modeled signal is called the residue.
+- The residue contains the information about the pitch and the glottal pulses, which are the periodic vibrations of the vocal folds.
+- The inverse filtering can be done by using a linear prediction model, which assumes that each sample of the speech signal can be approximated by a linear combination of the previous samples .
+- The linear prediction model can be represented by a difference equation, which can be converted into a transfer function, which can be used to compute the reflection coefficients, which are the parameters that describe the shape of the vocal tract .
+- The reflection coefficients can be converted into other equivalent representations, such as the LPC coefficients, the line spectral frequencies, or the cepstral coefficients, which can be used for different purposes, such as speech recognition, speaker identification, or speech enhancement .
+- The LPC coefficients can be used to reconstruct the spectral envelope of the speech signal, which can be combined with the residue to synthesize the speech signal .
+- The synthesis can be done by using a source-filter model, which assumes that the speech signal can be modeled by a source of excitation, such as a periodic pulse train for voiced sounds or a white noise for unvoiced sounds, and a filter that represents the vocal tract .
+- The source-filter model can be implemented by using a synthesis filter, which is the inverse of the analysis filter, and a pitch-synchronous overlap-add (PSOLA) method, which can modify the pitch and duration of the speech signal .
+- LPC analysis and synthesis can be used for various applications, such as speech compression, speech encryption, speech modification, speech enhancement, speech coding, and speech synthesis  .

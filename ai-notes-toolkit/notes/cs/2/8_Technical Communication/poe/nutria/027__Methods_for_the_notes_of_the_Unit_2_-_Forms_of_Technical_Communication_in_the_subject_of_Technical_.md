@@ -1,0 +1,7 @@
+
+### Methods for the Notes of Unit 2 - Forms of Technical Communication
+1. Technical documents: Technical documents are written to provide detailed information about a product, process, or procedure. Examples of technical documents include user manuals, technical reports, and product specifications.
+2. Technical presentations: Technical presentations are used to present complex topics in an easily understandable format. They are often used to demonstrate a product or process, and may include visual aids such as slides or diagrams.
+3. Technical proposals: Technical proposals are written to provide potential clients with an overview of a project plan and its associated costs. They are often used to secure funding for a project or to demonstrate the feasibility of a proposed solution.
+4. Technical drawings: Technical drawings are used to illustrate a product or process in a precise and detailed manner. They are often used in engineering and manufacturing to ensure accuracy and consistency.
+5. Technical specifications: Technical specifications are written to define the requirements for a product, process, or procedure. They are often used to ensure that a product meets certain standards or to ensure that a process is being followed correctly.

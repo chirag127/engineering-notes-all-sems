@@ -1,0 +1,7 @@
+### Basics concept of Quantum Dots
+
+- Quantum dots are **nanoscale particles** of semiconducting material that can be embedded in cells or organisms for various experimental purposes, such as labeling proteins.
+- Quantum dots have **optical and electronic properties** that differ from those of larger particles as a result of **quantum mechanics** . They are a central topic in **nanotechnology** and **materials science**.
+- Quantum dots can be **defined** by lithographically patterned gate electrodes, or by etching on two-dimensional electron gases in semiconductor heterostructures. They can also be **synthesized** by chemical methods, such as colloidal synthesis.
+- Quantum dots show **quantum effects** because they are so little. This means that electrons inside the dot are **trapped** and can only occupy **defined energy levels**. The energy levels depend on the **size** and **shape** of the dot, as well as the **material** it is made of .
+- Quantum dots can **emit** or **absorb** light of different wavelengths depending on their energy levels. This makes them useful for **optoelectronic devices**, such as solar cells, LEDs, lasers, and sensors . They can also be used for **biomedical applications**, such as imaging, drug delivery, and gene therapy .

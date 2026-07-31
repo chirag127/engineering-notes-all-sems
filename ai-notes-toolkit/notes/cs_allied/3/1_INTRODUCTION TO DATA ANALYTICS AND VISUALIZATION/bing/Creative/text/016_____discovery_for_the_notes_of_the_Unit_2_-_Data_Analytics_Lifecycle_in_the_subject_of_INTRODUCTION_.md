@@ -1,0 +1,10 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some notes on the topic of discovery for the unit 2 - Data Analytics Lifecycle in the subject of Introduction to Data Analytics and Visualization.
+
+### Discovery
+- Discovery is the first phase of the data analytics lifecycle, where the analyst identifies the business problem, the data sources, the stakeholders, and the objectives of the analysis.
+- Discovery involves the following steps:
+  - Define the business problem: The analyst should understand the context, scope, and goals of the problem, and formulate it as a clear and concise question that can be answered with data.
+  - Identify the data sources: The analyst should identify the relevant and available data sources that can provide the information needed to answer the problem. The data sources can be internal or external, structured or unstructured, and may require different methods of access and integration.
+  - Assess the data quality: The analyst should evaluate the quality of the data sources, such as their completeness, accuracy, consistency, timeliness, and reliability. The analyst should also identify any potential issues or limitations with the data, such as missing values, outliers, errors, biases, or privacy concerns.
+  - Explore the data: The analyst should perform some preliminary analysis of the data, such as descriptive statistics, visualizations, or simple models, to gain some insights and understanding of the data. The analyst should also look for any patterns, trends, correlations, or anomalies in the data that can inform the problem.
+  - Communicate with the stakeholders: The analyst should communicate with the stakeholders, such as the business owners, domain experts, or decision makers, to validate the problem definition, the data sources, and the initial findings. The analyst should also solicit feedback and suggestions from the stakeholders, and adjust the problem or the data accordingly.

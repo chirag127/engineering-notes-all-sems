@@ -1,0 +1,25 @@
+#### Network structure with reference to Computer Networks
+
+- A computer network is a structure that makes available to a data processing user at one place some data processing function or service performed at another place.
+- A computer network consists of two or more devices that can communicate with each other and share data, files, resources, or services.
+- A computer network can be classified by its size, topology, architecture, or protocol.
+- The size of a computer network refers to the geographical area it covers and the number of devices it connects. Some common network sizes are:
+  - LAN (local area network): A LAN connects computers over a relatively short distance, such as within a building or a campus. A LAN typically uses wired media, such as Ethernet cables, to transmit data.
+  - WLAN (wireless local area network): A WLAN is just like a LAN but connections between devices on the network are wireless, such as Wi-Fi or Bluetooth.
+  - MAN (metropolitan area network): A MAN connects computers over a larger area, such as a city or a region. A MAN typically uses a combination of wired and wireless media, such as fiber-optic cables and microwave links, to transmit data.
+  - WAN (wide area network): A WAN connects computers over a very large area, such as a country or a continent. A WAN typically uses public or leased telecommunication networks, such as the Internet, to transmit data.
+- The topology of a computer network refers to the physical or logical arrangement of the devices and the links that connect them. Some common network topologies are:
+  - Bus: A bus network has a single cable that connects all the devices on the network. Data is broadcasted to all the devices and only the intended recipient accepts it. A bus network is simple and cheap, but it has low performance and reliability.
+  - Star: A star network has a central device, such as a switch or a hub, that connects all the other devices on the network. Data is sent from one device to the central device, which then forwards it to the destination device. A star network is easy to install and manage, but it depends on the central device for its functionality.
+  - Ring: A ring network has a circular arrangement of devices that are connected by a single cable. Data is transmitted in one direction around the ring, passing through each device until it reaches the destination. A ring network is efficient and reliable, but it has high latency and difficulty in adding or removing devices.
+  - Mesh: A mesh network has multiple paths between any pair of devices on the network. Data is routed along the best available path, using algorithms or protocols. A mesh network is robust and fault-tolerant, but it has high cost and complexity.
+  - Tree: A tree network has a hierarchical structure of devices that are connected by branches. Data is transmitted from the root device to the leaf devices, or vice versa, following the tree structure. A tree network is scalable and flexible, but it has high maintenance and security issues.
+- The architecture of a computer network refers to the way network devices and services are structured and organized to serve the connectivity needs of client devices. Some common network architectures are:
+  - Client-server: A client-server network has a central device, such as a server, that provides services to other devices, such as clients, on the network. Clients request services from the server, and the server responds to the requests. A client-server network is efficient and secure, but it requires a lot of resources and administration.
+  - Peer-to-peer: A peer-to-peer network has no central device or authority, and each device on the network can act as both a client and a server. Devices communicate and share resources directly with each other, without any intermediaries. A peer-to-peer network is simple and decentralized, but it has low security and scalability.
+  - Hybrid: A hybrid network combines the features of both client-server and peer-to-peer networks, depending on the situation and the application. A hybrid network can have both servers and peers, and devices can switch roles as needed. A hybrid network is flexible and adaptable, but it has high complexity and compatibility issues.
+- The protocol of a computer network refers to the set of rules and standards that govern how devices communicate and exchange data on the network. Some common network protocols are:
+  - TCP/IP: TCP/IP is the predominant model for today’s Internet structure and presents this standard layer configuration for communication links:
+    - Network access layer: Defines how the data gets physically transferred.
+    - Internet layer: Packages the data into understandable packets so it can be sent and received.
+    - Transport layer: Allows

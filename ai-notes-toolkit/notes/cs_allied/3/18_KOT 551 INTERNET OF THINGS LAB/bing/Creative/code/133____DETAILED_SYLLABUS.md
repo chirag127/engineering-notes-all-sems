@@ -1,0 +1,10 @@
+## DETAILED SYLLABUS
+
+A detailed syllabus is a document that outlines the topics, objectives, assignments, assessments, and policies of a course. It serves as a guide for both instructors and students to plan and manage their learning activities. A detailed syllabus typically includes the following sections:
+
+- **Course information**: This section provides basic information about the course, such as the course title, code, number, credits, prerequisites, instructor name and contact details, office hours, meeting times and locations, and course website or platform.
+- **Course description**: This section gives an overview of the main themes, goals, and expectations of the course. It may also include the course rationale, learning outcomes, and alignment with program or institutional outcomes.
+- **Course materials**: This section lists the required and recommended texts, readings, resources, and materials for the course. It may also include information on how to access or purchase them, and any special equipment or software needed.
+- **Course schedule**: This section presents the tentative plan of topics, activities, assignments, and assessments for each week or unit of the course. It may also indicate the due dates, deadlines, and weightings of each component, and any changes or updates that may occur during the course.
+- **Course policies**: This section specifies the rules and expectations for student behavior, participation, attendance, communication, collaboration, academic integrity, grading, feedback, late submissions, extensions, revisions, appeals, accommodations, and other relevant issues. It may also include information on how to seek help or support, and how to resolve conflicts or problems.
+- **Course evaluation**: This section explains the methods and criteria used to assess student learning and performance in the course. It may also include information on how to prepare for and complete each assessment, and how to access and interpret the feedback and grades.

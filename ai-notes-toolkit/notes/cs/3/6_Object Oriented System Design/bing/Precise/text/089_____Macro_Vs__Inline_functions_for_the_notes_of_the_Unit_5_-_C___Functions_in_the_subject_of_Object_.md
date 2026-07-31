@@ -1,0 +1,8 @@
+### Macro Vs. Inline functions for the notes of the Unit 5 - C++ Functions in the subject of Object Oriented System Design
+
+- **Macro functions** are preprocessor directives that are expanded by the preprocessor before the program is compiled. They are defined using the `#define` directive and can take arguments like regular functions.
+- **Inline functions** are regular functions that are defined with the `inline` keyword. The compiler may choose to expand the function inline, meaning that the function call is replaced with the function code, similar to a macro.
+- The main difference between macro and inline functions is that macro functions are expanded by the preprocessor, while inline functions are expanded by the compiler.
+- Macro functions do not perform type checking, while inline functions do. This means that macro functions can be less safe to use, as they may produce unexpected results if used with the wrong types of arguments.
+- Inline functions can be more efficient than macro functions, as the compiler can optimize the function code when it is expanded inline. However, this is not always the case, as the compiler may choose not to expand the function inline.
+- In general, it is recommended to use inline functions over macro functions, as they are safer and can be more efficient. However, there may be cases where macro functions are more appropriate, such as when defining constants or when working with low-level code.

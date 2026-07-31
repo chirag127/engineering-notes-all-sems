@@ -1,0 +1,10 @@
+### Oculus Rift
+
+- Oculus Rift is a **virtual reality headset** that connects to a gaming PC or laptop and allows the user to experience immersive and interactive 3D environments .
+- Oculus Rift was invented by **Palmer Luckey**, who later founded Oculus VR with **Brendan Iribe** . The company was acquired by **Meta Platforms** (formerly Facebook) in 2014.
+- Oculus Rift was launched in 2016 after a successful **Kickstarter campaign** in 2012 that raised over $2.4 million from more than 9,500 backers.
+- Oculus Rift consists of a pair of **goggles** with a resolution of 1080x1200 per eye and a refresh rate of 90 Hz, and a pair of **touch controllers** that track the user's hand movements and gestures . It also requires two external **sensors** that track the user's head and body position in a 3D space .
+- Oculus Rift uses **Oculus software** to access a library of VR apps, games, and experiences, as well as to find friends and socialize with other VR users. Some of the most popular VR titles for Oculus Rift include **Beat Saber, Half-Life: Alyx, Superhot VR, Asgard's Wrath, and Lone Echo**.
+- Oculus Rift is compatible with **Windows 10** and requires a PC with a minimum of **Intel i3-6100 / AMD Ryzen 3 1200, FX4350 or greater, 8 GB+ RAM, NVIDIA GTX 1050 Ti / AMD Radeon RX 470 or greater, and a compatible HDMI 1.3 video output**.
+- Oculus Rift is no longer in production as of 2020, and has been replaced by **Oculus Rift S**, which has a higher resolution, a single cable connection, and a built-in tracking system that does not require external sensors . Oculus Rift S is also being phased out by **Oculus Quest 2**, which is a standalone VR headset that does not require a PC connection.
+- Oculus Rift is an example of **cybernetics and humanistic intelligence**, as it enhances the human perception and interaction with the virtual world, and creates a feedback loop between the user and the system. Oculus Rift also demonstrates the concepts of **wearable computing, mixed reality, and internet of everything**, as it is a wearable device that blends the real and the virtual, and connects to the internet and other devices.

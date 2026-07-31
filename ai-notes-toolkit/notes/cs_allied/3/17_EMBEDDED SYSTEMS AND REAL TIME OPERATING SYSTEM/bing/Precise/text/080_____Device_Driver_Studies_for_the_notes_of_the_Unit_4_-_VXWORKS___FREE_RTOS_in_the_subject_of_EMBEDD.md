@@ -1,0 +1,8 @@
+### Device Driver Studies for the notes of the Unit 4 - VXWORKS / FREE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+1. VxWorks is the only RTOS to support C++17, Boost, Rust, Python, pandas, and more, as well as an edge-optimized, OCI-compliant container engine .
+2. FreeRTOS-Plus-IO provides a Linux/POSIX like open (), read (), write (), ioctl () type interface to peripheral driver libraries. It sits between a peripheral driver library and a user application to provide a single, common, interface to all supported peripherals across all supported platforms .
+3. VxWorks 653 is a safe, secure, and reliable real-time operating system (RTOS) that delivers an open virtualization platform with robust time and space partitioning on the latest Arm®, Intel®, and PowerPC multi-core processor platforms .
+4. In VxWorks, all interactions with devices are performed through the IO sub-system. VxWorks treats all devices as files .
+5. Wind River VxWorks platforms meet this challenge with an embedded platform solution that combines VxWorks, the industry’s leading commercial-grade real-time operating system (RTOS); Wind River Workbench, the premier open device software development suite; and essential security, device management, and connectivity middleware .
+6. Board Support Packages (BSPs) play a crucial role in the VxWorks boot sequence. Linux Device Driver and Board Support Package Development: Acquire the skills necessary to develop, deploy, and debug your own customized Linux device drivers and BSPs in the Wind River Linux environment .

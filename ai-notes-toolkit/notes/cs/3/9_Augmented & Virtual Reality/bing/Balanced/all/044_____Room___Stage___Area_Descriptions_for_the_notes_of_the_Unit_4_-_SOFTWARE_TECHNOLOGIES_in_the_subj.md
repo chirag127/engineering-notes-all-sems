@@ -1,0 +1,13 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic of Room / Stage / Area Descriptions for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality. Here is some content that you can use for your study material:
+
+# Room / Stage / Area Descriptions
+
+- Room / Stage / Area Descriptions are the ways of defining the physical or virtual spaces where Augmented Reality (AR) or Virtual Reality (VR) applications are deployed or experienced.
+- They are important for designing, developing, and testing AR or VR applications, as they provide information about the size, shape, layout, features, and constraints of the spaces.
+- They can also help users to navigate, interact, and collaborate with the AR or VR environments, as they provide cues, landmarks, and feedback about the spaces.
+- There are different types of Room / Stage / Area Descriptions, depending on the purpose, scope, and level of detail of the AR or VR application. Some examples are:
+
+  - **Scene Graphs**: A scene graph is a data structure that represents the hierarchical organization of the objects and components in a 3D scene. It can be used to describe the spatial relationships, transformations, attributes, and behaviors of the objects and components. Scene graphs are commonly used in 3D graphics engines and frameworks, such as Unity, Unreal Engine, or OpenGL.
+  - **Spatial Maps**: A spatial map is a representation of the physical environment that is captured and reconstructed by a device or a system, such as a camera, a depth sensor, or a LiDAR. It can be used to describe the geometry, topology, and semantics of the physical environment. Spatial maps are commonly used in AR applications that require spatial awareness and alignment, such as Microsoft HoloLens, Google ARCore, or Apple ARKit.
+  - **Floor Plans**: A floor plan is a diagram that shows the layout of a room or a building from a top-down perspective. It can be used to describe the dimensions, boundaries, doors, windows, furniture, and other features of the room or the building. Floor plans are commonly used in VR applications that simulate or recreate real-world spaces, such as Google Street View, Matterport, or SketchUp.
+  - **Zone Maps**: A zone map is a representation of the functional or thematic areas within a space. It can be used to describe the purpose, content, and interaction of the areas. Zone maps are commonly used in VR applications that create or generate virtual spaces, such as Minecraft, Roblox, or Second Life.

@@ -1,0 +1,21 @@
+#### Map Reduce types in map reduce
+
+Map Reduce is a programming model for processing large-scale data sets in parallel and distributed environments. It consists of two phases: map and reduce. In the map phase, a user-defined function is applied to each input record to produce intermediate key-value pairs. In the reduce phase, another user-defined function is applied to all the values associated with the same key to produce the final output.
+
+There are different types of map reduce operations, depending on the nature of the input, output, and intermediate data. Some of the common types are:
+
+- Identity map reduce: This is the simplest type of map reduce, where the map function does not change the input records and the reduce function simply concatenates the values for each key. This type of map reduce can be used to copy or partition data across different machines or storage systems.
+
+- Filtering map reduce: This type of map reduce filters out some input records based on a condition. The map function applies the condition to each input record and emits only those that satisfy it. The reduce function simply concatenates the values for each key. This type of map reduce can be used to remove unwanted or invalid data, or to select a subset of data based on some criteria.
+
+- Aggregation map reduce: This type of map reduce performs some aggregation operation on the values for each key, such as sum, count, average, min, max, etc. The map function emits key-value pairs where the value is the input record or some attribute of it. The reduce function applies the aggregation function to the values for each key and emits the result. This type of map reduce can be used to compute statistics, metrics, or summaries of data.
+
+- Join map reduce: This type of map reduce performs a join operation on two or more input data sets, based on a common key. The map function emits key-value pairs where the key is the join attribute and the value is the input record or some part of it. The reduce function receives all the values for each key and performs the join logic, such as inner join, outer join, etc. This type of map reduce can be used to combine data from different sources or tables, or to perform relational operations.
+
+- Group by map reduce: This type of map reduce performs a group by operation on the input data, based on one or more attributes. The map function emits key-value pairs where the key is the group by attribute(s) and the value is the input record or some part of it. The reduce function receives all the values for each key and performs some operation on them, such as aggregation, sorting, etc. This type of map reduce can be used to organize data into groups, or to perform analytical queries.
+
+- Sorting map reduce: This type of map reduce sorts the input data based on one or more attributes. The map function emits key-value pairs where the key is the sort attribute(s) and the value is the input record or some part of it. The reduce function receives all the values for each key and emits them in sorted order. This type of map reduce can be used to order data, or to perform ranking or top-k queries.
+
+- Inverted index map reduce: This type of map reduce creates an inverted index of the input data, which is a data structure that maps terms or keywords to the records that contain them. The map function emits key-value pairs where the key is a term or keyword and the value is the input record or some identifier of it. The reduce function receives all the values for each key and emits a list of them. This type of map reduce can be used to support text search, information retrieval, or document analysis.
+
+- Word count map reduce: This is a classic example of map reduce, where the goal is to count the number of occurrences of each word in a large collection of documents. The map function emits key-value pairs where the key is a word and the value is one. The reduce function receives all the values for each key and sums them up to get the word count. This type of map reduce can be used to analyze the frequency or distribution of words, or to perform natural language processing.

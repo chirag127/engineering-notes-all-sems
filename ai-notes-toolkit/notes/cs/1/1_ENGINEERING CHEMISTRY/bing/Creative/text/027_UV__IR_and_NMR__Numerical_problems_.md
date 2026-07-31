@@ -1,0 +1,12 @@
+# UV, IR and NMR, Numerical problems
+
+- UV, IR and NMR are spectroscopic techniques that can be used to determine the structure of organic molecules by measuring their interaction with electromagnetic radiation.
+- UV spectroscopy measures the absorption of ultraviolet light by molecules that have conjugated pi bonds, such as alkenes, aromatic compounds and carbonyl groups. The wavelength and intensity of the absorption can provide information about the degree of conjugation, the presence of functional groups and the extent of substitution.
+- IR spectroscopy measures the absorption of infrared light by molecules that have polar covalent bonds, such as C-H, O-H, N-H and C=O. The frequency and intensity of the absorption can provide information about the type and number of functional groups and the molecular environment of the atoms.
+- NMR spectroscopy measures the absorption of radio waves by nuclei that have a magnetic moment, such as 1H and 13C. The frequency and intensity of the absorption can provide information about the number and type of neighboring nuclei, the chemical shift and the coupling constants of the nuclei.
+- Numerical problems involve using the data from the spectroscopic techniques to deduce the structure of unknown organic molecules. The steps involved are:
+  - Determine the molecular formula from the mass spectrum or other information.
+  - Calculate the degree of unsaturation from the molecular formula to know the number of rings and pi bonds in the molecule.
+  - Look at the IR absorption bands at wavenumbers above 1500 cm-1 to determine what functional groups are likely in the molecule. Remember that these functional groups must be consistent with the degree of unsaturation.
+  - Look at the NMR to determine the connectivity of the molecule. Use the chemical shift, the integration and the splitting pattern of the signals to assign the protons and carbons to different groups. Look for clues such as symmetry, equivalence, aromaticity and heteroatoms.
+  - Combine the information from the IR and NMR to propose a possible structure for the molecule. Check if the structure is consistent with the UV spectrum if available. Use other techniques such as MS/MS, 2D NMR or IR correlation tables to confirm or reject the structure.

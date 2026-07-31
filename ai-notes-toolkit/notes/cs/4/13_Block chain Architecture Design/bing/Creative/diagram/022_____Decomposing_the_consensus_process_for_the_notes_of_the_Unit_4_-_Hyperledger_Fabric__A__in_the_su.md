@@ -1,0 +1,15 @@
+### Decomposing the consensus process for the notes of the Unit 4 - Hyperledger Fabric (A) in the subject of Block chain Architecture Design
+
+- Consensus in Hyperledger Fabric is a process where the nodes in the network provide a guaranteed ordering of the transactions and validate those blocks of transactions that need to be committed to the ledger.
+- Consensus in Hyperledger Fabric must ensure the following properties in the network:
+  - Agreement: All honest nodes must agree on the same order of transactions and the same state of the ledger.
+  - Validity: Only valid transactions that satisfy the endorsement policy and other rules must be committed to the ledger.
+  - Integrity: No node can tamper with or forge a transaction or a block.
+  - Finality: Once a transaction is committed to the ledger, it cannot be reversed or changed.
+- Consensus in Hyperledger Fabric is broken out into three phases: Endorsement, Ordering, and Validation .
+  - Endorsement: This phase is driven by policy (m out of n signatures) upon which participants endorse a transaction. The endorsing peers execute the transaction proposal and produce a signed response, called an endorsement. The client collects the endorsements and creates a transaction envelope to be sent to the ordering service .
+  - Ordering: This phase will get the endorsed transaction and agrees to the order to be committed to the ledger. The ordering service is a cluster of nodes that provides a fault-tolerant, atomic broadcast of transactions to all the peers in the network. The ordering service batches the transactions into blocks and delivers them to the peers .
+  - Validation: This phase will validate the transactions and ensure that they satisfy the endorsement policy and other rules. The validation is performed by the committing peers, which check the signatures, the read-write sets, and the version numbers of the transactions. The committing peers also mark any invalid transactions as such and do not update the state of the ledger with them. The valid transactions are then appended to the ledger .
+- Hyperledger Fabric follows a modular approach wherein different consensus techniques can be plugged in as per the requirement. Currently, Hyperledger Fabric uses Solo and Kafka to reach consensus, which requires a node to validate a batch of transactions and add them as a new block to the blockchain.
+  - Solo: This is a simple consensus mechanism that is used for development and testing purposes. It involves a single ordering node that delivers the blocks to the peers. It does not provide any fault tolerance or scalability.
+  - Kafka: This is a production-ready consensus mechanism that is based on Apache Kafka, a distributed messaging system. It involves a set of ordering nodes that form a cluster and use the Kafka protocol to order the transactions. It provides crash fault tolerance and scalability, but not Byzantine fault tolerance.

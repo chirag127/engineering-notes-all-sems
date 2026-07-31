@@ -1,0 +1,43 @@
+#### 4. CNC Fundamentals and Programming, By P. M. Agrawal, V. J. Patel, Charotar Publication
+
+- This text-book explains the fundamentals of NC/CNC machine tools, operations and part programming which form essential portion of course on Computer Aided Manufacturing (CAM)    .
+- This book also covers advanced topics such as Macro programming, DNC and Computer Aided Part Programming (CAPP) in detail   .
+- The book is divided into 12 chapters, which are as follows:
+
+  - Chapter 1: Introduction to NC/CNC Machine Tools
+    - This chapter introduces the concept, history, advantages, disadvantages and applications of NC/CNC machine tools.
+    - It also explains the classification, structure, components and working principle of NC/CNC machine tools.
+    - It also discusses the coordinate systems, axes and motion control modes of NC/CNC machine tools.
+  - Chapter 2: NC/CNC Machine Tool Systems
+    - This chapter describes the various elements of NC/CNC machine tool systems, such as machine tool, controller, feedback devices, drive system, tooling and accessories.
+    - It also explains the functions, features and specifications of NC/CNC controllers.
+    - It also covers the types, characteristics and selection of feedback devices, drive system, tooling and accessories for NC/CNC machine tools.
+  - Chapter 3: NC/CNC Machine Tool Operations
+    - This chapter explains the various operations that can be performed on NC/CNC machine tools, such as turning, milling, drilling, boring, tapping, threading, shaping, planning, slotting, broaching, grinding, etc.
+    - It also describes the process parameters, tool geometry, cutting conditions, tool wear, tool life and surface finish for each operation.
+    - It also discusses the programming considerations, codes and formats for each operation.
+  - Chapter 4: NC/CNC Part Programming
+    - This chapter introduces the concept, methods, steps and formats of NC/CNC part programming.
+    - It also explains the types, functions and formats of NC/CNC codes, such as preparatory codes, miscellaneous codes, address codes, modal codes, etc.
+    - It also covers the programming techniques, such as absolute and incremental programming, canned cycles, subroutines, loops, branching, etc.
+  - Chapter 5: Manual Part Programming for Turning
+    - This chapter illustrates the manual part programming for turning operations on NC/CNC lathes, using examples and exercises.
+    - It also explains the programming codes, formats, calculations and conventions for turning operations.
+    - It also covers the programming for various turning features, such as straight, taper, contour, groove, thread, etc.
+  - Chapter 6: Manual Part Programming for Milling
+    - This chapter illustrates the manual part programming for milling operations on NC/CNC milling machines, using examples and exercises.
+    - It also explains the programming codes, formats, calculations and conventions for milling operations.
+    - It also covers the programming for various milling features, such as pocket, profile, slot, hole, etc.
+  - Chapter 7: Manual Part Programming for Drilling
+    - This chapter illustrates the manual part programming for drilling operations on NC/CNC drilling machines, using examples and exercises.
+    - It also explains the programming codes, formats, calculations and conventions for drilling operations.
+    - It also covers the programming for various drilling features, such as hole, counterbore, countersink, ream, tap, etc.
+  - Chapter 8: Macro Programming
+    - This chapter introduces the concept, advantages, disadvantages and applications of macro programming for NC/CNC machine tools.
+    - It also explains the types, functions and formats of macro codes, such as macro call, macro variable, macro expression, macro statement, macro program, etc.
+    - It also covers the macro programming techniques, such as parameterization, conditional execution, arithmetic operations, logical operations, etc.
+  - Chapter 9: Direct Numerical Control (DNC)
+    - This chapter introduces the concept, advantages, disadvantages and applications of direct numerical control (DNC) for NC/CNC machine tools.
+    - It also explains the types, components and functions of DNC systems, such as DNC network, DNC server, DNC software, DNC interface, etc.
+    - It also covers the DNC modes, such as tape mode, drip feed mode, buffer mode, etc.
+  - Chapter 10: Computer A

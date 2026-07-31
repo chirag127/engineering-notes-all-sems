@@ -1,0 +1,14 @@
+# Map Reduce Features
+
+MapReduce is a programming model and a software framework for processing large datasets in parallel on multiple nodes of a cluster or a grid. It is typically used with Apache Hadoop or other big data platforms. MapReduce consists of two phases: map and reduce. The map phase applies a user-defined function to each input record and produces a set of intermediate key-value pairs. The reduce phase aggregates the intermediate values associated with the same key and produces the final output.
+
+Some of the features of MapReduce are:
+
+- **Highly scalable**: MapReduce can handle petabytes of data by distributing and storing them across thousands of servers. It can also scale up or down depending on the data volume and processing requirements .
+- **Versatile**: MapReduce can access and process various types of data sources, such as structured, unstructured, or semi-structured data. It can also support different kinds of data analysis, such as batch processing, stream processing, or interactive querying .
+- **Secure**: MapReduce can provide data security and privacy by encrypting the data in transit and at rest. It can also support authentication and authorization mechanisms to control the access to the data and the resources .
+- **Affordable**: MapReduce can reduce the cost of data processing by using commodity hardware and open-source software. It can also optimize the resource utilization and the network bandwidth by minimizing the data movement and the communication overhead .
+- **Fast-paced**: MapReduce can speed up the data processing by exploiting the parallelism and the locality of the data. It can also handle the failures and the faults of the nodes by providing fault tolerance and recovery mechanisms  .
+- **Based on a simple programming model**: MapReduce provides a simple and intuitive programming model that abstracts the complexity of the distributed computing. The user only needs to specify the map and the reduce functions, and the framework takes care of the rest  .
+- **Parallel processing-compatible**: MapReduce can support parallel processing of the data by dividing the input data into smaller chunks and assigning them to different map tasks. It can also perform a shuffle and sort operation to group the intermediate key-value pairs by key and send them to different reduce tasks  .
+- **Reliable**: MapReduce can ensure the reliability and the accuracy of the data processing by providing mechanisms for data replication, checksum verification, and error detection. It can also handle the skewness and the imbalance of the data and the workload by providing load balancing and partitioning techniques   .

@@ -1,0 +1,14 @@
+### Requirement Engineering Process
+
+The requirement engineering process is a critical step in the software development life cycle as it helps to ensure that the software system being developed meets the needs and expectations of stakeholders, and that it is developed on time, within budget, and to the required quality.
+
+The requirement engineering process is an iterative process that involves several steps, including :
+
+- **Requirements inception or elicitation** – Developers and stakeholders meet; the latter are inquired about the objectives, expectations, constraints, and risks of the software system. Various techniques can be used to elicit requirements, such as interviews, questionnaires, workshops, observation, prototyping, etc.
+- **Requirements analysis and negotiation** – Requirements are identified (including new ones if the development is incremental), classified (functional, non-functional, quality, etc.), prioritized, and analyzed for consistency, completeness, feasibility, and testability. Conflicts and trade-offs among requirements are resolved through negotiation with stakeholders.
+- **System modeling** – Some engineering fields (or specific projects) may require a graphical or mathematical representation of the software system and its behavior, structure, and properties. This can be done using various modeling languages and tools, such as UML, SysML, etc.
+- **Requirements specification** – Requirements are documented in a formal or informal way, depending on the project context and standards. A common format for requirements specification is the Software Requirements Specification (SRS) document, which contains a detailed and structured description of the software system's functionality, quality, constraints, assumptions, dependencies, etc.
+- **Requirements validation** – Requirements are verified and validated to ensure that they are correct, complete, consistent, feasible, and testable. This can be done through various techniques, such as reviews, inspections, walkthroughs, prototyping, testing, etc.
+- **Requirements management** – Requirements are managed throughout the software development life cycle, as they may change due to evolving stakeholder needs, new technologies, feedback, etc. Requirements management involves tracking, controlling, and communicating changes to requirements, as well as tracing requirements to work items, design elements, test cases, etc.
+
+The requirement engineering process is essential for producing a high-quality software system that satisfies the stakeholder needs and expectations, and that can be developed and maintained efficiently and effectively.

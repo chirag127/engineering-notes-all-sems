@@ -1,0 +1,9 @@
+### Disk imaging
+
+- Disk imaging is the process of creating an exact copy of a storage device, such as a hard drive, SSD, CD, DVD, or USB flash drive.
+- Disk imaging is used for various purposes, such as backup, recovery, forensic analysis, data migration, or duplication.
+- Disk imaging can be done at different levels of abstraction, such as physical, logical, or file system level.
+- Physical disk imaging creates a bit-by-bit copy of the entire storage device, including the unused and deleted sectors, the partition table, the boot sector, and the metadata. Physical disk imaging is useful for preserving the original state of the device and recovering deleted or corrupted data.
+- Logical disk imaging creates a copy of the data stored in a specific partition or volume, without the unused or deleted sectors, the partition table, the boot sector, or the metadata. Logical disk imaging is useful for reducing the size of the image and focusing on the relevant data.
+- File system disk imaging creates a copy of the files and folders stored in a specific partition or volume, without the unused or deleted sectors, the partition table, the boot sector, the metadata, or the file system structure. File system disk imaging is useful for extracting the data in a readable format and transferring it to a different file system.
+- Disk imaging can be performed using various tools, such as dd, FTK Imager, EnCase, or Clonezilla. Some tools can create compressed, encrypted, or split images, or verify the integrity of the images using hash values. Some tools can also mount the images as virtual drives, or restore the images to a new device.

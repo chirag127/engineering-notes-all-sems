@@ -1,0 +1,15 @@
+## Unit 1 - EMBEDDED OS INTERNALS
+
+- An embedded operating system (OS) is a specialized software that runs on a dedicated hardware device and provides a platform for running applications.
+- Embedded OSes are designed to meet the specific requirements of the device, such as performance, reliability, power efficiency, security, and real-time responsiveness.
+- Embedded OSes are typically used in devices such as smartphones, tablets, smart TVs, routers, cameras, cars, drones, and IoT devices.
+- Embedded OSes can be classified into two categories: general-purpose embedded OSes and real-time embedded OSes.
+- General-purpose embedded OSes are based on existing desktop or server OSes, such as Linux, Windows, or Android, and are modified to suit the device's needs. They offer a rich set of features and services, such as file systems, networking, graphics, multimedia, and security, but may have higher resource consumption and lower predictability.
+- Real-time embedded OSes are designed to handle time-critical tasks and guarantee deterministic behavior. They have minimal overhead and offer low-level access to the hardware. They often use a microkernel or a monolithic kernel architecture, and support preemptive or cooperative multitasking. Examples of real-time embedded OSes are FreeRTOS, QNX, VxWorks, and RTLinux.
+- Embedded OSes have several components, such as bootloaders, kernels, device drivers, libraries, middleware, and applications.
+- Bootloaders are the first software that runs when the device is powered on. They initialize the hardware, load the kernel into memory, and transfer control to it.
+- Kernels are the core of the OS that manage the system resources, such as CPU, memory, and I/O devices. They provide services such as process management, scheduling, synchronization, memory management, interrupt handling, and system calls.
+- Device drivers are software modules that communicate with the hardware devices and abstract their functionality for the kernel and the applications. They use standard interfaces and protocols to access the device registers, memory, and ports.
+- Libraries are collections of reusable functions and data structures that provide common functionality, such as math, string, and I/O operations. They can be static or dynamic, and can be linked with the applications at compile time or run time.
+- Middleware are software layers that provide higher-level services and abstractions for the applications, such as networking, graphics, multimedia, databases, and security. They can be implemented as libraries, frameworks, or daemons.
+- Applications are the software programs that run on the device and provide the user interface and the functionality. They can be native or web-based, and can use the OS services and the middleware to interact with the hardware and the network.

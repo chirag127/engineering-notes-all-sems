@@ -1,0 +1,15 @@
+### Handling HTTP post Requests in Servlets
+
+- HTTP post requests are used to send data to the server, such as form inputs, file uploads, or JSON data.
+- To handle HTTP post requests in servlets, you need to override the `doPost` method of the `HttpServlet` class.
+- The `doPost` method takes two parameters: a `HttpServletRequest` object and a `HttpServletResponse` object.
+- The `HttpServletRequest` object contains the request information, such as the request URL, headers, parameters, body, and attributes.
+- The `HttpServletResponse` object contains the response information, such as the status code, headers, body, and cookies.
+- To read the request parameters, you can use the `getParameter` or `getParameterValues` methods of the `HttpServletRequest` object. These methods return the values of the parameters as strings or arrays of strings, respectively.
+- To read the request body, you can use the `getInputStream` or `getReader` methods of the `HttpServletRequest` object. These methods return the input stream or the reader of the request body, respectively.
+- To write the response body, you can use the `getOutputStream` or `getWriter` methods of the `HttpServletResponse` object. These methods return the output stream or the writer of the response body, respectively.
+- To set the response status code, you can use the `setStatus` method of the `HttpServletResponse` object. This method takes an integer value as the status code, such as 200 for OK, 404 for Not Found, or 500 for Internal Server Error.
+- To set the response headers, you can use the `setHeader` or `addHeader` methods of the `HttpServletResponse` object. These methods take two strings as the header name and value, respectively. The `setHeader` method replaces any existing header with the same name, while the `addHeader` method adds a new header without replacing any existing one.
+- To set the response cookies, you can use the `addCookie` method of the `HttpServletResponse` object. This method takes a `Cookie` object as the parameter. The `Cookie` object contains the cookie name, value, domain, path, expiry, and other attributes.
+- To redirect the response to another URL, you can use the `sendRedirect` method of the `HttpServletResponse` object. This method takes a string as the URL to redirect to. This method sets the status code to 302 and the Location header to the URL.
+- To forward the request and response to another servlet or JSP, you can use the `getRequestDispatcher` method of the `HttpServletRequest` object. This method takes a string as the path to the servlet or JSP to forward to. This method returns a `RequestDispatcher` object, which has a `forward` method that takes the request and response objects as the parameters. This method does not change the URL or the status code of the response.

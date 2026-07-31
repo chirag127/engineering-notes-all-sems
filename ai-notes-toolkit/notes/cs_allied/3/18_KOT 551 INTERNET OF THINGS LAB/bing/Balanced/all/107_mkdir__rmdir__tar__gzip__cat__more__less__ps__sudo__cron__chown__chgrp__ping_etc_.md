@@ -1,0 +1,21 @@
+# Linux Commands
+
+Linux commands are instructions that can be executed in a terminal or a shell to perform various tasks. Some of the common Linux commands are:
+
+- **mkdir**: This command creates one or more directories. The syntax is `mkdir [options] [directory names]`. For example, `mkdir newDir` creates a directory called newDir. To create multiple directories at once, we can use `mkdir newDir1 newDir2 newDir3`. To see the output of the command, we can use the `-v` option, which prints the name of each created directory. For example, `mkdir -v newDir` prints `mkdir: created directory 'newDir'`.
+
+- **rmdir**: This command removes one or more empty directories. The syntax is `rmdir [options] [directory names]`. For example, `rmdir newDir` removes the directory called newDir, if it is empty. To remove multiple directories at once, we can use `rmdir newDir1 newDir2 newDir3`. To see the output of the command, we can use the `-v` option, which prints the name of each removed directory. For example, `rmdir -v newDir` prints `rmdir: removed directory 'newDir'`.
+
+- **tar**: This command creates or extracts compressed archive files. The syntax is `tar [options] [archive file] [files or directories]`. For example, `tar -cvf archive.tar file1 file2 dir1` creates a compressed archive file called archive.tar that contains file1, file2 and dir1. The options `-c`, `-v` and `-f` mean create, verbose and file, respectively. To extract an archive file, we can use the `-x` option instead of the `-c` option. For example, `tar -xvf archive.tar` extracts the contents of archive.tar.
+
+- **gzip**: This command compresses or decompresses files using the gzip algorithm. The syntax is `gzip [options] [files]`. For example, `gzip file1` compresses file1 and renames it to file1.gz. To decompress a file, we can use the `-d` option. For example, `gzip -d file1.gz` decompresses file1.gz and renames it to file1.
+
+- **cat**: This command concatenates and displays files. The syntax is `cat [options] [files]`. For example, `cat file1 file2` displays the contents of file1 and file2. To create a new file with the contents of another file, we can use the redirection operator `>`. For example, `cat file1 > file3` creates a new file called file3 with the contents of file1. To append the contents of a file to another file, we can use the `>>` operator. For example, `cat file2 >> file3` appends the contents of file2 to file3.
+
+- **more**: This command displays the contents of a file one screen at a time. The syntax is `more [options] [file]`. For example, `more file1` displays the contents of file1 and pauses after each screen. To move to the next screen, we can press the spacebar. To quit the command, we can press q.
+
+- **less**: This command is similar to the more command but provides more features. The syntax is `less [options] [file]`. For example, `less file1` displays the contents of file1 and allows us to move backward and forward in the file using the arrow keys or the page up and page down keys. To quit the command, we can press q.
+
+- **ps**: This command displays information about the processes running on the system. The syntax is `ps [options]`. For example, `ps` displays the process ID, terminal, CPU time and command name of the processes owned by the current user. To see all the processes on the system, we can use the `-e` option. To see more information about the processes, we can use the `-f` option, which shows the user ID, parent process ID, start time and more.
+
+- **sudo**: This command executes a command as another user, usually the superuser or root. The syntax is `sudo [options] [command]`. For example, `sudo apt-get update` executes the apt-get update command as the root user, which updates the list

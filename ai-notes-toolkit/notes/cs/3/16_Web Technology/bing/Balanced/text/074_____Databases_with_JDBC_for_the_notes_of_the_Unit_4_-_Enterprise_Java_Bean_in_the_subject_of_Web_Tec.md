@@ -1,0 +1,24 @@
+### Databases with JDBC
+
+- JDBC stands for Java Database Connectivity, which is a standard Java API for connecting to relational databases from Java applications.
+- JDBC provides a common interface for sending SQL statements to any database that supports JDBC, such as MySQL, Oracle, SQL Server, etc.
+- JDBC consists of two components: a JDBC driver and a JDBC API.
+- A JDBC driver is a software module that implements the JDBC interface for a specific database. It enables Java applications to communicate with the database using the native protocol of the database.
+- A JDBC API is a set of classes and interfaces that define the methods and constants for accessing and manipulating data in a database. It includes classes such as Connection, Statement, ResultSet, PreparedStatement, etc.
+- The steps for connecting to a database with JDBC are as follows:
+  - Install or locate the database you want to access.
+  - Include the JDBC library in your Java project.
+  - Ensure the JDBC driver you need is on your classpath.
+  - Use the JDBC library to obtain a connection to the database.
+  - Use the connection object to create and execute SQL statements.
+  - Process the results returned by the statements.
+  - Close the connection and release the resources.
+- JDBC supports different types of statements, such as simple statements, prepared statements, and callable statements.
+  - A simple statement is used to execute a single SQL statement that does not have any parameters. It is created using the createStatement() method of the connection object.
+  - A prepared statement is used to execute a precompiled SQL statement that can have one or more parameters. It is created using the prepareStatement() method of the connection object. It can improve the performance and security of the SQL statements by avoiding SQL injection attacks.
+  - A callable statement is used to execute a stored procedure or a function in the database. It is created using the prepareCall() method of the connection object. It can have input, output, and input/output parameters.
+- JDBC supports different types of result sets, such as forward-only, scrollable, and updatable.
+  - A forward-only result set is the default type of result set that can only be traversed in the forward direction. It is created using the executeQuery() method of the statement object.
+  - A scrollable result set is a type of result set that can be traversed in both forward and backward directions, as well as jump to a specific row. It is created using the executeQuery() method of the statement object with a specific type and concurrency mode.
+  - An updatable result set is a type of result set that allows the modification of the data in the database through the result set. It is created using the executeQuery() method of the statement object with a specific type and concurrency mode.
+- JDBC also supports transactions, batch updates, metadata, and advanced features such as streaming, caching, connection pooling, etc.

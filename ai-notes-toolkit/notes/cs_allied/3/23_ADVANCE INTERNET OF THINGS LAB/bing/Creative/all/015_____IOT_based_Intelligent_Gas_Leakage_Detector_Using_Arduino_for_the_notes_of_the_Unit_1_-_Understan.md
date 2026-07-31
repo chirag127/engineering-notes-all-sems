@@ -1,0 +1,23 @@
+# IOT based Intelligent Gas Leakage Detector Using Arduino
+
+- Internet of Things (IoT) is the networking of physical things that can communicate with the help of sensors, electronics, software, and connectivity.
+- IOT based Intelligent Gas Leakage Detector Using Arduino is a project that can sense the presence of LPG gas in the air and send data to an IOT module.
+- The main components of this project are:
+  - Arduino Uno: A microcontroller board that can be programmed to control the sensors and the IOT module.
+  - MQ5 gas sensor: A sensor that can detect LPG gas and output a voltage proportional to the gas concentration.
+  - ESP8266: A Wi-Fi module that can connect to the internet and send data to a cloud platform or a web server.
+  - Buzzer: A device that can produce a sound when the gas level exceeds a threshold.
+  - LED: A light-emitting diode that can indicate the status of the system.
+- The working principle of this project is as follows:
+  - The MQ5 gas sensor is connected to the analog input of the Arduino Uno and the buzzer and the LED are connected to the digital output pins.
+  - The ESP8266 is connected to the Arduino Uno through the serial communication pins and is configured to connect to a Wi-Fi network and a cloud platform or a web server.
+  - The Arduino Uno reads the voltage from the MQ5 gas sensor and converts it to a gas concentration value using a calibration formula.
+  - The Arduino Uno compares the gas concentration value with a predefined threshold and activates the buzzer and the LED if the value exceeds the threshold.
+  - The Arduino Uno also sends the gas concentration value and the status of the buzzer and the LED to the ESP8266, which then transmits the data to the cloud platform or the web server using the HTTP protocol.
+  - The cloud platform or the web server can display the data on a web page or a mobile app and can also send alerts or notifications to the user or the authorities in case of a gas leakage.
+- The advantages of this project are:
+  - It can prevent accidents and fire hazards caused by gas leakage.
+  - It can monitor the gas level remotely and in real-time using the internet.
+  - It can alert the user or the authorities in case of a gas leakage using the buzzer, the LED, or the cloud platform or the web server.
+  - It can be easily implemented and customized using the Arduino platform and the ESP8266 module.
+  - It can be powered by a battery or a solar panel for low-cost and eco-friendly operation.

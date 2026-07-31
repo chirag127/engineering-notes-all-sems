@@ -1,0 +1,27 @@
+# Energy production mechanism
+
+- Energy production is the process of converting energy from one form to another in living systems.
+- Energy comes to living systems through electrons occupying high energy states, either from food (respiratory chains) or from light (photosynthesis).
+- Energy is exchanged between living systems and their surroundings as they use energy from the sun to perform photosynthesis or consume energy-storing molecules and release energy to the environment by doing work and releasing heat.
+- Energy is subject to physical laws, such as the first law of thermodynamics, which states that energy cannot be created or destroyed, only transformed, and the second law of thermodynamics, which states that the entropy (disorder) of the universe tends to increase.
+- The primary energy-releasing pathways of metabolism involve the breakdown and synthesis of carbohydrates, lipids, and amino acids.
+- Carbohydrates are the most important energy source for most living organisms, as they can be easily broken down into glucose, which is then oxidized to produce ATP (adenosine triphosphate), the main energy currency of the cell.
+- Lipids and proteins can also be used as energy sources, but they require more steps to be converted into glucose or other intermediates that can enter the metabolic pathways.
+- The main metabolic pathway for energy production from glucose is glycolysis, which occurs in the cytoplasm of the cell and produces two molecules of pyruvate, two molecules of ATP, and two molecules of NADH (nicotinamide adenine dinucleotide) per molecule of glucose.
+- Pyruvate can then enter the mitochondria, where it is converted into acetyl-CoA, which enters the citric acid cycle (also known as the Krebs cycle or the tricarboxylic acid cycle), which produces more ATP, NADH, and FADH2 (flavin adenine dinucleotide).
+- The electrons from NADH and FADH2 are then transferred to the electron transport chain, which is located in the inner membrane of the mitochondria, where they power the synthesis of ATP by oxidative phosphorylation.
+- The final electron acceptor in the electron transport chain is oxygen, which is reduced to water.
+- The total amount of ATP produced from one molecule of glucose by aerobic respiration (involving oxygen) is about 36 to 38.
+- In some organisms, such as bacteria, archaea, and some eukaryotes, anaerobic respiration (not involving oxygen) can also occur, using different electron acceptors, such as nitrate, sulfate, or carbon dioxide.
+- In some conditions, such as low oxygen availability, pyruvate can be converted into lactate or ethanol by fermentation, which regenerates NAD+ from NADH, allowing glycolysis to continue, but producing less ATP than aerobic respiration.
+- Energy production from light is carried out by photosynthesis, which occurs in the chloroplasts of plants, algae, and some bacteria.
+- Photosynthesis consists of two stages: the light reactions and the Calvin cycle.
+- The light reactions use light energy to split water molecules and produce ATP and NADPH, which are then used to power the Calvin cycle.
+- The Calvin cycle uses carbon dioxide and the energy from ATP and NADPH to synthesize glucose and other organic molecules, which can then be used for energy storage or biosynthesis.
+- The energy stored in organic molecules can be passed to other organisms in the ecosystem when those organisms eat plants (or eat other organisms that have previously eaten plants).
+- Metabolic diversity refers to the variety of ways that different organisms can obtain and use energy from different sources and in different environments.
+- Metabolic pathways of energy use are the specific sequences of biochemical reactions that convert energy from one form to another in living systems.
+- Integration of metabolism is the coordination and regulation of metabolic pathways to maintain homeostasis and respond to environmental changes.
+- Metabolic pathways are regulated by various factors, such as enzyme activity, substrate availability, feedback inhibition, allosteric modulation, hormonal signals, and gene expression.
+- Metabolic pathways are interconnected and interdependent, as the products of one pathway can be the substrates of another, or the intermediates of multiple pathways.
+- Metabolic pathways can be classified

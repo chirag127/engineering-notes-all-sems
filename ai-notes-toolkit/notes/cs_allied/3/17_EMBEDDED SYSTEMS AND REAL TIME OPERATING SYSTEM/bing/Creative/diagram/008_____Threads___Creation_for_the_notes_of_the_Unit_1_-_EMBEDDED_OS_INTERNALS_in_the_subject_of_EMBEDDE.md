@@ -1,0 +1,12 @@
+### Threads – Creation
+
+- A thread is a separate execution path within a program that can run concurrently with other threads.
+- A thread shares the same memory and resources as the program that created it, which enables multiple threads to collaborate and work efficiently within a single program.
+- Threads can be created and managed by the operating system (kernel-supported threads) or by the user-level program (user-level threads).
+- Kernel-supported threads are supported by the operating system, which stores multiple thread control blocks (TCBs) per process and is involved in dispatching and switching between threads (even between threads in the same process).
+- User-level threads are created and managed by the user-level program, which uses its own data structures and libraries to implement threads. The operating system is unaware of the user-level threads and treats them as a single process.
+- Some operating systems, such as Windows, MacOS X, Linux, and some embedded operating systems, provide libraries or frameworks to create and manage user-level threads, such as Qt or pthreads .
+- To create a thread, the program needs to specify the function or code that the thread will execute, as well as any parameters or arguments that the thread needs. The program also needs to allocate memory and resources for the thread, such as stack, registers, and priority.
+- The operating system or the user-level library then creates a TCB for the thread, which contains information such as thread ID, state, context, and scheduling information. The TCB is stored in a ready list or a queue, waiting for the operating system or the user-level scheduler to assign a processor to the thread.
+- When the thread is assigned a processor, it starts executing the function or code that was specified by the program. The thread can communicate with other threads in the same program through shared memory or message passing. The thread can also perform system calls or library calls to access operating system services or resources.
+- When the thread finishes its execution or is preempted by another thread, it saves its context in the TCB and returns the processor to the operating system or the user-level scheduler. The thread can then be resumed later by restoring its context from the TCB and continuing its execution. The thread can also terminate itself or be terminated by the program or the operating system.

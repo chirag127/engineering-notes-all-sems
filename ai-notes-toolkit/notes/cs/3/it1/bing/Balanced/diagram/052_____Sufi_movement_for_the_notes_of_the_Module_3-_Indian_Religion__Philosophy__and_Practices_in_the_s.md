@@ -1,0 +1,10 @@
+### Sufi movement
+
+- Sufism is a mystical form of Islam that emphasizes the personal experience of God and the spiritual union with Him.
+- Sufis are also known as Tasawwuf, meaning "purification of the self" or "wool-clad ones" (because of their simple attire).
+- Sufis follow a spiritual leader called Sheikh, Pir or Murshid, who guides them in their quest for God. They also have a disciple called Murid, who pledges allegiance to the Sheikh. The successor of the Sheikh is called Khalifah.
+- Sufis practice various methods of devotion, such as meditation, chanting, music, poetry, dance, and service to humanity. They also believe in the concept of Wahdat al-Wujud, meaning "unity of being", which implies that everything in the universe is a manifestation of God.
+- Sufism originated in Persia in the 8th century and spread to other parts of the Muslim world, including India. The Sufi movement in India began in the 13th century and reached its peak in the 15th and 16th centuries.
+- The Sufi movement in India was influenced by the Vedantic philosophy and Buddhism of India, as well as the Bhakti movement of Hinduism. The Sufis had a tolerant and syncretic approach to religion, and they respected the diversity of faiths and cultures in India.
+- The Sufi movement in India was divided into various orders or Silsilas, such as Chishti, Suhrawardi, Qadiri, Naqshbandi, and Shattari. Each order had its own distinctive features and practices, but they all shared the common goal of attaining God's love and grace.
+- The Sufi movement in India had a significant impact on the social, cultural, and political aspects of Indian society. The Sufis played a role in the spread of Islam in India, especially among the lower castes and classes. They also contributed to the development of literature, art, music, and architecture in India, and fostered a spirit of harmony and brotherhood among the people.

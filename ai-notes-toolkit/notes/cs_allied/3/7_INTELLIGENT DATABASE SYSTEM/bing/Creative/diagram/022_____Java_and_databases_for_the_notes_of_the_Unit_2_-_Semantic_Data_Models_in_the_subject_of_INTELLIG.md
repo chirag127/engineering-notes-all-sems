@@ -1,0 +1,24 @@
+### Java and databases
+
+- Java is a popular programming language that can be used to create applications that interact with databases.
+- Databases are systems that store, organize, and manipulate data in a structured way, such as tables, records, and fields.
+- Java uses something called **JDBC (Java Database Connectivity)** to connect to databases . There's a **JDBC API**, which is the programming part, and a **JDBC Driver Manager**, which your programmes use to connect to the database.
+- JDBC API provides classes and interfaces that allow Java programs to execute SQL statements, retrieve results, and handle errors. Some of the main classes and interfaces are:
+  - **Driver**: An interface that defines how to connect to a database.
+  - **Connection**: An interface that represents a connection to a database.
+  - **Statement**: An interface that represents a SQL statement that can be executed on a database.
+  - **ResultSet**: An interface that represents the result of a query or an update.
+  - **SQLException**: A class that represents an error that occurs during database access.
+- JDBC Driver Manager is a class that manages the loading and registration of JDBC drivers. It also provides methods to obtain a connection to a database using a driver.
+- To use JDBC, you need to have a suitable driver for the database you want to access. There are different types of drivers, such as:
+  - **Type 1**: A driver that uses a bridge to connect to another data access API, such as ODBC.
+  - **Type 2**: A driver that uses a native library to connect to a database-specific API.
+  - **Type 3**: A driver that uses a middleware server to connect to a database-independent API.
+  - **Type 4**: A driver that uses a pure Java implementation to connect to a database-specific protocol.
+- Some of the common databases that Java can connect to using JDBC are:
+  - **Oracle Database**: A relational database management system (RDBMS) that supports SQL, PL/SQL, and Java EE technologies. It also provides an embedded JVM (OJVM) that allows Java code to run inside the database.
+  - **Java DB**: A lightweight, embedded RDBMS that is based on Apache Derby. It is packaged with the GlassFish application server and JDK 6. It supports SQL and JDBC API.
+  - **MySQL**: An open-source RDBMS that is widely used for web applications. It supports SQL, stored procedures, triggers, and views.
+  - **PostgreSQL**: An open-source RDBMS that is known for its extensibility and compliance with SQL standards. It supports SQL, stored procedures, triggers, views, and user-defined types and functions.
+  - **MongoDB**: A document-oriented database that stores data in JSON-like format. It supports dynamic schemas, aggregation, indexing, and replication.
+- Java and databases are arguably some of the most essential pieces of knowledge for any developer, as these two topics form the foundations of most software engineering applications. By using Java and databases, you can create scalable, reliable, and secure applications that can handle large amounts of data.

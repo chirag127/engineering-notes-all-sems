@@ -1,0 +1,30 @@
+### Semantic models for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+
+- A semantic data model is a method of structuring data in order to represent it in a specific logical way.
+- It is a conceptual data model that includes semantic information that adds a basic meaning to the data and the relationships that lie between them.
+- It is a high-level semantics-based database description and structuring formalism (database model) for databases.
+- It is designed to capture more of the meaning of an application environment than is possible with contemporary database models.
+- A semantic data model works basically by creating relationships between data when the data is organized.
+- This allows the data to have meaning without human intervention or additional processing.
+- The data is organized into three essential parts—the first data element or object, the relationship, and then the second data element or object.
+- The semantic data model provides users with significantly more useful abstractions than the SQL data model and queries.
+- These abstractions are more composable and reusable than queries.
+- The semantic data model helps data management manage and oversee the company's overall data, thus increasing decision-making capabilities.
+- There are four primary goals of semantic data models:
+  - Data resource planning: The semantic data model can be used in the initial stages of project planning to provide the necessary data resources.
+  - Data integration: The semantic data model can be used to integrate data from different sources and formats, and to resolve semantic conflicts and inconsistencies.
+  - Data analysis: The semantic data model can be used to support various types of data analysis, such as querying, reasoning, inference, and discovery.
+  - Data communication: The semantic data model can be used to communicate data and its meaning to different stakeholders, such as users, developers, and managers.
+- There are various types of semantic data models, such as:
+  - Upper ontologies: These are general and abstract models that capture the common concepts and relations across domains, such as time, space, event, etc.
+  - Design patterns: These are reusable and modular models that capture the best practices and common solutions for specific problems or scenarios, such as part-whole, classification, etc.
+  - Standard and reference models: These are authoritative and normative models that define the standards and specifications for a domain or an industry, such as healthcare, finance, etc.
+  - Public models and datasets: These are open and accessible models and datasets that provide useful and relevant information for a domain or an application, such as Wikipedia, DBpedia, etc.
+- Semantic data model development is the process of creating and maintaining semantic data models for a given application or domain.
+- Semantic data model development involves the following activities:
+  - Setting the stage: This involves defining the scope, purpose, and requirements of the semantic data model, and identifying the stakeholders and sources of information.
+  - Deciding what to build: This involves selecting the type, level, and granularity of the semantic data model, and choosing the appropriate modeling language and tool.
+  - Building it: This involves creating the semantic data model by defining the concepts, relations, attributes, and constraints, and populating it with data instances.
+  - Ensuring it’s good: This involves evaluating and validating the semantic data model by checking its quality, consistency, completeness, and correctness, and applying various metrics and methods.
+  - Making it useful: This involves using and applying the semantic data model for various data-related tasks, such as integration, analysis, and communication, and leveraging its semantic features and capabilities.
+  - Making it last: This involves maintaining and evolving the semantic data model by updating, revising, and extending it according to the changes and needs of the application or domain.

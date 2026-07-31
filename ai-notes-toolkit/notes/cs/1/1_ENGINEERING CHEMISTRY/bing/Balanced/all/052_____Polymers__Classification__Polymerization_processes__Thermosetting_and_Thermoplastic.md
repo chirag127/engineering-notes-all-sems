@@ -1,0 +1,13 @@
+# Polymers; Classification, Polymerization processes, Thermosetting and Thermoplastic
+
+- Polymers are large molecules composed of repeating units called monomers, which are linked by covalent bonds.
+- Polymers can be classified based on their origin, structure, molecular forces, and properties.
+- Based on their origin, polymers can be natural (such as cellulose, starch, silk, wool, etc.) or synthetic (such as nylon, polyethylene, polystyrene, etc.).
+- Based on their structure, polymers can be linear (such as polyethylene, PVC, etc.), branched (such as amylopectin, low-density polyethylene, etc.), or cross-linked (such as vulcanized rubber, bakelite, etc.).
+- Based on their molecular forces, polymers can be elastomers (such as rubber, latex, etc.), fibres (such as nylon, polyester, etc.), thermoplastics (such as polyethylene, polystyrene, etc.), or thermosets (such as epoxy, phenolic, etc.).
+- Based on their properties, polymers can be homopolymers (made of one type of monomer, such as polyethylene, polystyrene, etc.) or copolymers (made of two or more types of monomers, such as nylon, polyethylene terephthalate, etc.).
+- Polymerization is the process of forming polymers from monomers. There are two main types of polymerization: addition and condensation.
+- Addition polymerization is the process of forming polymers by adding monomers to a growing chain without losing any atoms or molecules. The monomers must have a double or triple bond that can be broken to form new bonds with other monomers. For example, ethylene can undergo addition polymerization to form polyethylene.
+- Condensation polymerization is the process of forming polymers by combining monomers with the elimination of a small molecule, such as water, ammonia, or hydrogen chloride. The monomers must have two functional groups that can react with each other to form a new bond and release a small molecule. For example, ethylene glycol and terephthalic acid can undergo condensation polymerization to form polyethylene terephthalate and water.
+- Thermosetting polymers are polymers that can be cured or hardened by heat, pressure, or chemical agents. They have a highly cross-linked structure that prevents them from melting or flowing when heated. They are rigid, strong, and resistant to heat and chemicals. They cannot be recycled or reshaped. Examples of thermosetting polymers are epoxy, phenolic, and urea-formaldehyde.
+- Thermoplastic polymers are polymers that can be softened or melted by heat and reshaped or remolded by cooling. They have a linear or branched structure that allows them to flow when heated. They are flexible, ductile, and recyclable. Examples of thermoplastic polymers are polyethylene, polystyrene, and PVC.

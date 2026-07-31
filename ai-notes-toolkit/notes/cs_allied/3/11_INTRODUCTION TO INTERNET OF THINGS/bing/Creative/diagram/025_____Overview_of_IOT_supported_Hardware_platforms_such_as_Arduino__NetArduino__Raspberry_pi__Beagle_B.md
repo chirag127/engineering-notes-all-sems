@@ -1,0 +1,15 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material on the topic of hardware for IoT. Here is an overview of some of the IoT supported hardware platforms such as Arduino, NetArduino, Raspberry pi, Beagle Bone, Intel Galileo boards and ARM cortex.
+
+### Overview of IoT supported hardware platforms
+
+- Arduino: Arduino is an open-source platform that consists of a microcontroller board and a software development environment. Arduino boards can be programmed using a simple C/C++ language and can interface with various sensors, actuators, and communication modules. Arduino boards are widely used for prototyping and developing IoT applications due to their low cost, ease of use, and large community support. Some of the popular Arduino boards are Arduino Uno, Arduino Nano, Arduino Mega, and Arduino Due.
+
+- Netduino: Netduino is a platform that is compatible with Arduino but runs on the .NET Micro Framework. Netduino boards can be programmed using C# and Visual Studio and can leverage the features of the .NET framework such as multithreading, networking, and cryptography. Netduino boards can also use the same shields and accessories as Arduino boards. Some of the Netduino boards are Netduino 3, Netduino Plus 2, and Netduino Go.
+
+- Raspberry Pi: Raspberry Pi is a single-board computer that runs on Linux operating system and can perform various tasks such as web browsing, media playback, and gaming. Raspberry Pi can also be used as an IoT device by connecting sensors, actuators, and communication modules through its GPIO pins or USB ports. Raspberry Pi can be programmed using various languages such as Python, Java, C, and Node.js. Some of the Raspberry Pi models are Raspberry Pi 4, Raspberry Pi 3, and Raspberry Pi Zero.
+
+- BeagleBone: BeagleBone is another single-board computer that runs on Linux operating system and can be used for IoT applications. BeagleBone has more GPIO pins and higher processing power than Raspberry Pi and can support real-time operations. BeagleBone can be programmed using various languages such as Python, C, C++, and JavaScript. Some of the BeagleBone models are BeagleBone Black, BeagleBone Green, and BeagleBone Blue.
+
+- Intel Galileo: Intel Galileo is a platform that is based on the Intel Quark SoC and is compatible with Arduino. Intel Galileo boards can run Linux operating system and can be programmed using Arduino IDE or Intel XDK. Intel Galileo boards can also support various sensors, actuators, and communication modules through its GPIO pins, PCI Express slot, or USB ports. Some of the Intel Galileo boards are Intel Galileo Gen 1, Intel Galileo Gen 2, and Intel Edison.
+
+- ARM Cortex: ARM Cortex is a family of microcontroller cores that are designed for low-power and high-performance applications. ARM Cortex cores can be found in various IoT devices such as smartphones, smartwatches, and smart home devices. ARM Cortex cores can be programmed using various languages such as C, C++, and Assembly. Some of the ARM Cortex cores are ARM Cortex-M, ARM Cortex-R, and ARM Cortex-A.

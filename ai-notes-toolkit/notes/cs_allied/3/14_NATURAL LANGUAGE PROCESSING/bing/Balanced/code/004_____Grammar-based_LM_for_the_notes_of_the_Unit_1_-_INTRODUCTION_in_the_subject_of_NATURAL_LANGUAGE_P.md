@@ -1,0 +1,7 @@
+### Grammar-based LM
+
+- Grammar-based language models (GLMs) are a type of language models that use the rules and structures of a natural language to generate and evaluate sentences.
+- GLMs can be formal or probabilistic, depending on whether they use deterministic or stochastic methods to define the grammar and the parsing of a sentence.
+- Formal GLMs are based on the syntax and semantics of a language, and they check whether a sentence is well-formed and meaningful according to the grammar rules. Examples of formal GLMs are context-free grammars (CFGs) and context-sensitive grammars (CSGs).
+- Probabilistic GLMs are based on the frequency and likelihood of a sentence or a word sequence occurring in a given corpus or text data. They assign a probability to a sentence or a word sequence based on the observed occurrences in the corpus. Examples of probabilistic GLMs are n-gram models and probabilistic context-free grammars (PCFGs).
+- GLMs are useful for natural language processing (NLP) tasks that require the generation or evaluation of natural language sentences, such as speech recognition, machine translation, spelling correction, text summarization, and natural language generation.

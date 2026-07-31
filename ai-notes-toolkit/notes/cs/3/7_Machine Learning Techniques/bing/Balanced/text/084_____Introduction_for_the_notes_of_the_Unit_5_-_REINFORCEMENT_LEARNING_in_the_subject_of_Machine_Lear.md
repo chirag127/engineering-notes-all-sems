@@ -1,0 +1,21 @@
+### Introduction for the notes of the Unit 5 - REINFORCEMENT LEARNING in the subject of Machine Learning Techniques
+
+- Reinforcement learning (RL) is a branch of machine learning that deals with learning from actions and rewards.
+- RL is inspired by the way humans and animals learn from trial and error, and from feedback such as praise or punishment.
+- RL differs from supervised learning, where the learner is given labeled examples, and from unsupervised learning, where the learner is given unlabeled data.
+- In RL, the learner (also called the agent) interacts with an environment, which provides the agent with observations, actions, and rewards.
+- The agent's goal is to learn a policy, which is a function that maps observations to actions, that maximizes the expected cumulative reward over time.
+- The agent does not have access to the environment's dynamics, which are the rules that govern how the environment changes in response to the agent's actions and other factors.
+- The agent has to explore the environment and learn from its own experience, which may involve delayed and noisy feedback, uncertainty, and risk.
+- RL is applicable to a wide range of problems, such as robotics, games, control, optimization, recommendation, and natural language processing.
+- RL can be formulated as a Markov decision process (MDP), which is a mathematical framework that captures the essential features of sequential decision making under uncertainty.
+- An MDP consists of a set of states, a set of actions, a transition function, a reward function, and a discount factor.
+- A state is a representation of the agent's observation of the environment at a given time step.
+- An action is a choice that the agent can make at each state.
+- A transition function is a probability distribution that specifies how the environment changes from one state to another, given an action.
+- A reward function is a function that assigns a numerical value to each state-action pair, indicating the immediate feedback that the agent receives.
+- A discount factor is a parameter that controls how much the agent values future rewards compared to immediate rewards.
+- The agent's objective is to find an optimal policy, which is a policy that maximizes the expected return, which is the sum of discounted rewards over an episode, which is a sequence of states, actions, and rewards that ends when the agent reaches a terminal state or a maximum time step.
+- There are different types of RL algorithms, such as value-based methods, policy-based methods, and actor-critic methods, that use different approaches to estimate and optimize the policy and/or the value function, which is a function that estimates the expected return for each state or state-action pair.
+- RL algorithms can also be classified as model-based or model-free, depending on whether they use a model of the environment's dynamics or not, and as on-policy or off-policy, depending on whether they use the same policy for learning and acting or not.
+- RL algorithms can face various challenges, such as exploration-exploitation trade-off, credit assignment problem, curse of dimensionality, partial observability, and non-stationarity, that require different techniques and solutions, such as epsilon-greedy, Monte Carlo methods, temporal difference learning, function approximation, deep neural networks, policy gradient, Q-learning, SARSA, experience replay, and multi-agent learning.

@@ -1,0 +1,16 @@
+### Global Data-Flow Analysis for the notes of the Unit 5 - Code Generation in the subject of Compiler Design
+
+- Global data-flow analysis is a technique to efficiently optimize the code by collecting and distributing information about the program to each block of the flow graph  .
+- A flow graph is a representation of the control flow of a program, where each node is a basic block (a sequence of instructions with no jumps or branches) and each edge is a possible transfer of control.
+- Data-flow analysis determines the information regarding the definition and use of data in the program, such as which variables are live (have a value that may be used later) or dead (have a value that will never be used) at each program point.
+- Data-flow analysis can be classified into two types: forward and backward.
+  - Forward analysis starts from the entry node of the flow graph and propagates the information along the edges to the exit node. It is used to compute reaching definitions (which definitions of a variable may reach a given point) or available expressions (which expressions are already computed and available at a given point).
+  - Backward analysis starts from the exit node of the flow graph and propagates the information along the edges to the entry node. It is used to compute live variables (which variables are live at a given point) or very busy expressions (which expressions will always be used along any path from a given point).
+- Data-flow analysis can be performed using a set of equations that relate the information at the entry and exit of each basic block. These equations are based on the following concepts :
+  - Gen: the set of information that is generated (or defined) by a basic block, regardless of the information at the entry of the block.
+  - Kill: the set of information that is killed (or invalidated) by a basic block, regardless of the information at the entry of the block.
+  - In: the set of information that is true at the entry of a basic block, based on the information at the exit of its predecessors.
+  - Out: the set of information that is true at the exit of a basic block, based on the information at the entry of the block and the gen and kill sets.
+  - Meet: the operator that combines the information from multiple predecessors or successors of a basic block, depending on whether the analysis is forward or backward. It is usually the union or the intersection of the sets.
+- Data-flow analysis can be solved using an iterative algorithm that initializes the in and out sets of each basic block to empty or universal sets, and then repeatedly updates them using the equations until a fixed point is reached .
+- Data-flow analysis can be used to perform various optimizations, such as constant propagation (replacing variables with constant values), dead code elimination (removing instructions that have no effect), common subexpression elimination (reusing the result of a previously computed expression), loop invariant code motion (moving code that does not depend on the loop variable outside the loop), and register allocation (assigning variables to registers to minimize memory accesses).

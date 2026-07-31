@@ -1,0 +1,24 @@
+## Unit 4 - Design dynamic web page using server site programming Ex. ASP/JSP/PHP
+
+- A dynamic web page is a web page whose content and appearance can change according to user input, time, or other factors.
+- A server-side dynamic web page is a web page whose construction is controlled by an application server processing server-side scripts.
+- Server-side scripts are programs that run on the web server and generate HTML output to be sent to the web browser.
+- Server-side scripts can use parameters, databases, cookies, sessions, and other mechanisms to customize the web page for each user or request.
+- Server-side scripts can be written in various programming languages, such as ASP, JSP, PHP, Python, Ruby, C#, and JavaScript (NodeJS) .
+- Server-side scripts can also interact with other web technologies, such as HTML, CSS, JavaScript, AJAX, XML, JSON, etc., to create dynamic and interactive web pages .
+- Some advantages of server-side dynamic web pages are:
+  - They can provide personalized and relevant content to users.
+  - They can reduce the network traffic and bandwidth by sending only the necessary HTML output.
+  - They can improve the security and privacy of the web application by hiding the source code and data from the web browser.
+  - They can perform complex and intensive tasks that are not possible or efficient on the client side.
+- Some disadvantages of server-side dynamic web pages are:
+  - They require more processing power and memory on the web server.
+  - They can increase the load time and latency of the web page by requiring more communication between the web server and the web browser.
+  - They can be more difficult to debug and test than static web pages.
+  - They can be more vulnerable to server-side attacks, such as SQL injection, cross-site scripting, etc..
+- Some examples of server-side dynamic web pages are:
+  - Online shopping websites that display different products and prices based on user preferences and location.
+  - Social media websites that update the user's feed and notifications in real time.
+  - Online banking websites that allow the user to check their balance and transactions securely.
+  - Online learning websites that provide interactive quizzes and feedback to the user.
+  - Online gaming websites that create and manage multiplayer sessions and scores.

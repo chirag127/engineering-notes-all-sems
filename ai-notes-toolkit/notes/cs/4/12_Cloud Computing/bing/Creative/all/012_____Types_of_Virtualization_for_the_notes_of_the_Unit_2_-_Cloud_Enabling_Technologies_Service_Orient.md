@@ -1,0 +1,17 @@
+# Types of Virtualization for the notes of the Unit 2 - Cloud Enabling Technologies Service Oriented Architecture in the subject of Cloud Computing
+
+Virtualization is the process of creating a virtual representation of physical resources, such as servers, storage, network, and applications, in order to optimize the utilization and management of IT resources. Virtualization enables cloud computing, which is the delivery of IT services over the internet on demand. There are different types of virtualization in cloud computing, each with its own benefits and challenges. Some of the common types are:
+
+- **Server virtualization**: Server virtualization is the process of partitioning a physical server into multiple virtual servers, each with its own operating system and applications. Server virtualization allows multiple workloads to run on the same hardware, reducing the need for physical servers and improving the efficiency and availability of IT resources. Server virtualization also enables scalability, load balancing, and disaster recovery in cloud computing.   
+
+- **Storage virtualization**: Storage virtualization is the process of abstracting the physical storage devices and presenting them as a single logical storage pool. Storage virtualization allows multiple storage devices to be managed as one, simplifying the administration and allocation of storage resources. Storage virtualization also enables data replication, backup, and migration in cloud computing.   
+
+- **Network virtualization**: Network virtualization is the process of combining the physical network resources and creating multiple virtual networks, each with its own policies and protocols. Network virtualization allows multiple network segments to share the same physical infrastructure, reducing the cost and complexity of network management. Network virtualization also enables security, isolation, and performance optimization in cloud computing.   
+
+- **Data virtualization**: Data virtualization is the process of integrating data from different sources and presenting them as a unified view. Data virtualization allows users to access and query data without knowing the details of the underlying data sources, such as location, format, or schema. Data virtualization also enables data integration, transformation, and quality in cloud computing. 
+
+- **Application virtualization**: Application virtualization is the process of decoupling the application from the operating system and delivering it as a service over the network. Application virtualization allows users to run applications without installing them on their devices, reducing the compatibility and security issues. Application virtualization also enables portability, scalability, and availability in cloud computing.  
+
+- **Operating system virtualization**: Operating system virtualization is the process of running multiple operating systems on the same hardware, either in parallel or in isolation. Operating system virtualization allows users to run different applications and environments on the same device, increasing the flexibility and productivity. Operating system virtualization also enables testing, development, and migration in cloud computing.  
+
+These are some of the types of virtualization in cloud computing that can help you understand the concepts and benefits of cloud enabling technologies and service oriented architecture. I hope this was helpful.🙂

@@ -1,0 +1,11 @@
+# Lossless Compression
+
+Lossless compression is a class of data compression that allows the original data to be perfectly reconstructed from the compressed data with no loss of information. Lossless compression is possible because most real-world data exhibits statistical redundancy, which means that some data elements or patterns are repeated more often than others and can be encoded more efficiently.
+
+Some examples of lossless compression are:
+
+- Run-length encoding (RLE): This method replaces consecutive identical data elements with a single element and a count of how many times it occurs. For example, the string "AAAAABBBBCCCC" can be compressed as "5A4B4C".
+- Huffman coding: This method assigns variable-length codes to data elements based on their frequencies of occurrence. The most frequent elements are assigned the shortest codes, and the least frequent elements are assigned the longest codes. For example, if the letter "e" occurs more often than the letter "z" in a text file, it will be assigned a shorter code than "z".
+- Lempel-Ziv-Welch (LZW) algorithm: This method builds a dictionary of data elements and their codes as it processes the data. The dictionary is initialized with the basic symbols of the data, and then new symbols are added as combinations of existing symbols. For example, if the data contains the word "compression", the dictionary will start with the letters "c", "o", "m", "p", "r", "e", "s", "i", "n" and their codes, and then add the symbols "co", "om", "mp", "pr", "re", "es", "si", "in", "on" and their codes as they are encountered in the data.
+
+Lossless compression is useful for applications that require exact preservation of the original data, such as text, audio, or image files. Lossless compression can achieve compression ratios of up to 50% for text files and up to 20% for audio or image files. However, lossless compression cannot compress data beyond its entropy, which is a measure of the minimum amount of information needed to represent the data. Therefore, lossless compression is not suitable for data that has high entropy or low redundancy, such as encrypted or random data.

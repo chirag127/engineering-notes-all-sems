@@ -1,0 +1,15 @@
+# Program Control
+
+Program control is the process of directing the execution of instructions in a computer program. Program control can be achieved by using different types of instructions, such as:
+
+- **Arithmetic and logic instructions**: These instructions perform operations on data, such as addition, subtraction, multiplication, division, and, or, not, etc. These instructions can also set or test some flags in the processor, such as zero, carry, overflow, etc. These flags can be used to control the flow of the program based on some conditions.
+- **Data transfer instructions**: These instructions move data between registers, memory, and input/output devices. These instructions can also load or store data from or to memory, or transfer data between different addressing modes, such as immediate, direct, indirect, register, etc.
+- **Input/output instructions**: These instructions communicate with external devices, such as keyboards, monitors, printers, disks, etc. These instructions can read or write data from or to the devices, or check their status or control signals.
+- **Program control instructions**: These instructions change the sequence of execution of the program, such as branching, jumping, calling, returning, etc. These instructions can be conditional or unconditional, depending on whether they depend on some flags or not. These instructions can also be relative or absolute, depending on whether they use an offset or an address to specify the destination of the control transfer.
+
+Program control instructions are essential for implementing various programming constructs, such as loops, if-else statements, switch-case statements, functions, procedures, etc. Program control instructions can also be used to implement interrupts, exceptions, and traps, which are mechanisms to handle abnormal or unexpected events during the execution of the program.
+
+Program control can be implemented by using different types of control units in the processor, such as:
+
+- **Hardwired control unit**: This type of control unit uses a fixed logic circuit to generate the control signals for each instruction. The logic circuit is designed based on the instruction format, the operation code, and the micro-operations. The advantage of this type of control unit is that it is fast and simple. The disadvantage is that it is inflexible and difficult to modify or expand.
+- **Microprogrammed control unit**: This type of control unit uses a memory to store the control signals for each instruction as words, called micro-instructions. The micro-instructions are executed by a microprogram, which is a sequence of micro-instructions that perform a specific instruction. The advantage of this type of control unit is that it is flexible and easy to modify or expand. The disadvantage is that it is slower and more complex than the hardwired control unit.

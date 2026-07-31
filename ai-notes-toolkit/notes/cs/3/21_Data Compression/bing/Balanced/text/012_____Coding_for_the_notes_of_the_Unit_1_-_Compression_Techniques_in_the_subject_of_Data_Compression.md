@@ -1,0 +1,13 @@
+### Coding for the notes of the Unit 1 - Compression Techniques in the subject of Data Compression
+
+- Coding is the process of assigning symbols or codes to the data elements or symbols in the source alphabet, such as characters, pixels, or samples.
+- Coding can be used for data compression, which is the reduction of the size of data without significant loss of information or quality.
+- Data compression can be classified into two types: lossless and lossy.
+  - Lossless compression preserves the exact information of the original data, and allows perfect reconstruction of the original data after decompression. Examples of lossless compression techniques are Huffman coding, arithmetic coding, run-length encoding (RLE), and Lempel-Ziv-Welch (LZW) coding.
+  - Lossy compression discards some information of the original data, and allows only approximate reconstruction of the original data after decompression. Examples of lossy compression techniques are transform coding, quantization, and vector quantization.
+- Coding can also be classified into two types: fixed-length coding and variable-length coding.
+  - Fixed-length coding assigns codes of equal length to all the data elements or symbols in the source alphabet. For example, ASCII code uses 8 bits to represent each character.
+  - Variable-length coding assigns codes of different lengths to the data elements or symbols in the source alphabet, depending on their probabilities or frequencies of occurrence. For example, Huffman coding assigns shorter codes to more frequent symbols and longer codes to less frequent symbols, resulting in optimal compression for a given source alphabet.
+- Coding can also be classified into two types: entropy coding and predictive coding.
+  - Entropy coding exploits the statistical properties of the data elements or symbols in the source alphabet, such as their probabilities or frequencies of occurrence, to assign codes that minimize the average code length. Examples of entropy coding techniques are Huffman coding, arithmetic coding, and LZW coding.
+  - Predictive coding exploits the correlation or redundancy among the data elements or symbols in the source alphabet, such as their spatial or temporal relationships, to predict the next data element or symbol based on the previous ones, and encode the difference or error between the actual and predicted data element or symbol. Examples of predictive coding techniques are differential coding, delta modulation, and motion compensation.

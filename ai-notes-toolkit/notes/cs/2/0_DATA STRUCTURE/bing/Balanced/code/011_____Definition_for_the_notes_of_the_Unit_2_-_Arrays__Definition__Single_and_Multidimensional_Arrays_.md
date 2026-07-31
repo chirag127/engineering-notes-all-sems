@@ -1,0 +1,23 @@
+# Definition for the notes of the Unit 2 - Arrays: Definition, Single and Multidimensional Arrays, Representation of Arrays: Row Major Order, and Column Major Order, Derivation of Index Formulae for 1-D,2-D,3-D and n-D Array Application of arrays, Sparse Matrices and their representations. Linked lists: Array Implementation and Pointer Implementation of Singly Linked Lists, Doubly Linked List, Circularly Linked List, Operations on a Linked List. Insertion, Deletion, Traversal, Polynomial Representation and Addition Subtraction & Multiplications of Single variable & Two variables Polynomial. in the subject of DATA STRUCTURE
+
+- An array is a data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key.
+- An array is a collection of homogeneous elements stored in a contiguous memory location for better access and easier calculation by the system.
+- Arrays are zero indexed: an array with n elements is indexed from 0 to n-1.
+- Array elements can be of any type, including an array type.
+- Array types are reference types derived from the abstract base type Array.
+- All arrays implement IList, and IEnumerable.
+- Single-dimensional arrays also implement IList<T> and IEnumerable<T>.
+- An array is stored such that the position of each element can be computed from its index tuple by a mathematical formula.
+- There are different types of arrays, such as single-dimensional, multidimensional, jagged, and dynamic arrays .
+- A single-dimensional array is a linear array that has only one row and n columns, where n is the size of the array .
+- A multidimensional array is an array that has more than one dimension, such as a matrix or a tensor .
+- A jagged array is an array of arrays, where each sub-array can have a different size.
+- A dynamic array is an array that can change its size at run time, by allocating or deallocating memory as needed.
+- Arrays can be represented in different ways, such as row major order and column major order.
+- Row major order is a way of storing an array in memory, where the elements of a row are stored consecutively, followed by the elements of the next row, and so on.
+- Column major order is a way of storing an array in memory, where the elements of a column are stored consecutively, followed by the elements of the next column, and so on.
+- The index formula for a single-dimensional array is: `index = base + (i * size)`, where `base` is the starting address of the array, `i` is the index of the element, and `size` is the size of each element.
+- The index formula for a two-dimensional array in row major order is: `index = base + ((i * n) + j) * size`, where `base` is the starting address of the array, `i` and `j` are the row and column indices of the element, `n` is the number of columns, and `size` is the size of each element.
+- The index formula for a two-dimensional array in column major order is: `index = base + ((j * m) + i) * size`, where `base` is the starting address of the array, `i` and `j` are the row and column indices of the element, `m` is the number of rows, and `size` is the size of each element.
+- The index formula for a three-dimensional array in row major order is: `index = base + (((i * n) + j) * p + k) * size`, where `base` is the starting address of the array, `i`, `j`, and `k` are the indices of the element along the three dimensions, `n` and `p` are the number of columns and planes, and `size` is the size of each element.
+- The index formula for a three-dimensional array in column major order is: `index = base + (((k * m) + i) * n + j) * size`, where `base` is the starting address of the array, `i`, `j`, and `k` are the indices of the element along the

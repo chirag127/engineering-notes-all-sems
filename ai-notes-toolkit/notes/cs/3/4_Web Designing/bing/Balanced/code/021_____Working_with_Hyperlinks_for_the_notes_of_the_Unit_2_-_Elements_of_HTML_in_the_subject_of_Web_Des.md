@@ -1,0 +1,37 @@
+### Working with Hyperlinks
+
+- Hyperlinks are the essential feature of the web that allow users to navigate from one document to another.
+- Hyperlinks are created using the `<a>` element, which stands for anchor.
+- The `<a>` element has an attribute called `href`, which specifies the destination of the link.
+- The content of the `<a>` element is the text or image that the user can click on to follow the link.
+- Example: `<a href="https://www.example.com">Visit Example.com</a>`
+- Hyperlinks can point to different types of resources, such as web pages, images, videos, audio files, etc.
+- Hyperlinks can also point to specific parts of a document using fragment identifiers, which are preceded by a hash sign (#).
+- Example: `<a href="https://www.example.com/#section1">Go to Section 1</a>`
+- Hyperlinks can have different behaviors depending on the value of the `target` attribute, which specifies where the linked resource should open.
+- The `target` attribute can have one of the following values:
+  - `_self`: the default value, which opens the linked resource in the same window or tab as the current document.
+  - `_blank`: opens the linked resource in a new window or tab.
+  - `_parent`: opens the linked resource in the parent window or tab of the current document, if it is nested inside another document.
+  - `_top`: opens the linked resource in the topmost window or tab of the current document, if it is nested inside multiple documents.
+  - A name of a window or tab: opens the linked resource in the specified window or tab, if it exists, or creates a new one with that name.
+- Example: `<a href="https://www.example.com" target="_blank">Open Example.com in a new tab</a>`
+- Hyperlinks can also have different styles depending on the state of the link, such as unvisited, visited, active, or hovered.
+- The style of hyperlinks can be modified using CSS properties, such as `color`, `text-decoration`, `font-weight`, etc.
+- Example: `a:link {color: blue; text-decoration: underline;}`
+- Hyperlinks can also have different semantics depending on the value of the `rel` attribute, which specifies the relationship between the current document and the linked resource.
+- The `rel` attribute can have one or more of the following values, separated by spaces:
+  - `alternate`: indicates that the linked resource is an alternative representation of the current document, such as a different language or format.
+  - `author`: indicates that the linked resource is the author of the current document.
+  - `bookmark`: indicates that the linked resource is a bookmark or a permanent URL for the current document.
+  - `canonical`: indicates that the linked resource is the preferred or authoritative version of the current document, if there are multiple versions with the same content.
+  - `external`: indicates that the linked resource is outside the current website or domain.
+  - `help`: indicates that the linked resource provides help or documentation for the current document.
+  - `license`: indicates that the linked resource is the license or terms of use for the current document.
+  - `nofollow`: indicates that the linked resource should not be followed or indexed by search engines or bots.
+  - `noopener`: indicates that the linked resource should not have access to the current document's window or tab, if it is opened in a new window or tab.
+  - `noreferrer`: indicates that the linked resource should not send the current document's URL as the referrer, if it is opened in a new window or tab.
+  - `prev`: indicates that the linked resource is the previous document in a sequence or a navigation path.
+  - `next`: indicates that the linked resource is the next document in a sequence or a navigation path.
+  - `tag`: indicates that the linked resource is a tag or a keyword for the current document.
+- Example: `<a href="https://www.example.com" rel="external nofollow">Do not follow this link</a>`

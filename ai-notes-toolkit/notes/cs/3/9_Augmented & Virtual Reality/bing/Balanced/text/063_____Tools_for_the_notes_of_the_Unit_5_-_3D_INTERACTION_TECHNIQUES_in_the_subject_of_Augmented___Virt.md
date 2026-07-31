@@ -1,0 +1,24 @@
+### Tools for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+
+- 3D interaction techniques are methods for interacting with 3D environments and objects using various input devices and modalities.
+- 3D interaction techniques can be classified into four main categories: navigation, selection and manipulation, system control, and symbolic input .
+- Navigation techniques allow the user to move around the 3D environment, change the viewpoint, and explore the virtual world. Some examples of navigation techniques are:
+  - Flying: the user can move freely in any direction using a joystick, a mouse, or a gesture.
+  - Walking: the user can move on the ground plane using a treadmill, a joystick, or a gesture.
+  - Steering: the user can specify a direction or a destination using a pointing device, a gaze, or a gesture, and the system automatically moves the user along that path.
+  - Teleporting: the user can instantly jump to a different location by selecting a target or a landmark using a pointing device, a gaze, or a gesture.
+- Selection and manipulation techniques allow the user to interact with 3D objects, such as picking them up, moving them, rotating them, scaling them, or changing their properties. Some examples of selection and manipulation techniques are:
+  - Ray-casting: the user can select an object by pointing a ray from the hand or the head to the object using a controller, a mouse, or a gesture.
+  - Go-go: the user can select an object by extending the arm and grabbing the object using a controller or a gesture, and the system amplifies the arm movement to reach distant objects.
+  - HOMER: the user can select an object by pointing a ray from the hand to the object using a controller or a gesture, and the system brings the object to the hand, allowing the user to manipulate it.
+  - Virtual hand: the user can select and manipulate an object by using a virtual representation of the hand that mimics the real hand movement and orientation using a controller, a glove, or a gesture.
+- System control techniques allow the user to access menus, buttons, sliders, and other widgets to control the system settings, modes, and functions. Some examples of system control techniques are:
+  - Pinch glove: the user can use a glove with sensors to perform pinching gestures with the fingers to activate buttons or sliders.
+  - 3D widgets: the user can use 3D representations of widgets that are attached to the hand, the head, or the world, and interact with them using a controller, a mouse, or a gesture.
+  - Voice command: the user can use speech recognition to issue verbal commands to the system.
+  - Gaze-based: the user can use eye tracking to select and activate widgets by looking at them.
+- Symbolic input techniques allow the user to enter text, numbers, symbols, or drawings in the 3D environment. Some examples of symbolic input techniques are:
+  - Virtual keyboard: the user can use a virtual representation of a keyboard that can be interacted with using a controller, a mouse, a gesture, or a gaze.
+  - Handwriting recognition: the user can use a controller, a mouse, or a gesture to write or draw on a virtual surface, and the system recognizes the input.
+  - Speech input: the user can use speech recognition to enter text or numbers by speaking.
+  - Gesture input: the user can use predefined or custom gestures to enter symbols or commands using a controller, a glove, or a gesture.

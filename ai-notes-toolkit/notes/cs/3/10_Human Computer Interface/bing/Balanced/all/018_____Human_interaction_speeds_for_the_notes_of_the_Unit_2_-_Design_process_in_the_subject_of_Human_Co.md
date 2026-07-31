@@ -1,0 +1,13 @@
+# Human interaction speeds
+
+Human interaction speeds are the rates at which people can perform various tasks using different communication methods. They are important to consider in the design process of human-computer interfaces, as they affect the usability, efficiency and satisfaction of the users.
+
+Some of the common human interaction speeds are:
+
+- Reading: The average adult reading speed for English prose text in the United States is around 250 to 300 words per minute. This reading speed can be substantially increased when using rapid serial visual presentation (RSVP), which displays words one at a time in the same location on the screen.
+- Listening: People can comfortably hear words that are spoken at from 150 to 160 words per minute. However, the comprehension and retention of the information may vary depending on the complexity and familiarity of the content, the accent and tone of the speaker, and the background noise and distractions.
+- Speaking: People can speak at an average rate of 125 words per minute, with a range of 100 to 175 words per minute depending on the language, topic and context. Speaking is usually slower than reading or listening, as it involves more cognitive and motor processes, such as planning, organizing, articulating and monitoring the speech.
+- Keying: People can type on a keyboard at an average speed of 40 words per minute, with a range of 10 to 120 words per minute depending on the skill, experience and familiarity of the typist, the layout and quality of the keyboard, and the nature and format of the text. Keying is usually faster than handwriting, as it involves less physical movement and fewer errors and corrections.
+- Handwriting: People can write by hand at an average speed of 31 words per minute, with a range of 10 to 50 words per minute depending on the skill, experience and familiarity of the writer, the type and quality of the pen and paper, and the nature and format of the text. Handwriting is usually slower than keying, as it involves more physical movement and more errors and corrections.
+
+These human interaction speeds are not fixed or absolute, as they can vary depending on individual differences, environmental factors, task characteristics and feedback mechanisms. Therefore, designers should always test and evaluate their interfaces with real users and real tasks, and optimize them for the optimal human interaction speeds.

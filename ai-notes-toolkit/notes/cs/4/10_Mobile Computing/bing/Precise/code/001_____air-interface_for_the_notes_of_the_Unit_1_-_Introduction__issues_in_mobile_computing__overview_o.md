@@ -1,0 +1,11 @@
+### Air-Interface
+- Air-interface refers to the radio frequency portion of the circuit between the mobile device and the active base station.
+- It is the transmission link between the mobile station and the base station in a cellular network.
+- The air-interface is a critical component of any cellular system as it determines the quality of the communication between the mobile device and the network.
+- The air-interface is responsible for carrying voice, data, and control signals between the mobile device and the network.
+- The air-interface is defined by a set of technical standards that specify the radio frequency, modulation scheme, and channel coding used to transmit information over the air.
+- In the context of mobile computing, the air-interface is an important factor in determining the performance and reliability of mobile data services.
+- The air-interface is constantly evolving to support higher data rates, improved coverage, and more efficient use of the radio spectrum.
+- The cellular concept is a key element of the air-interface, as it allows multiple users to share the same radio frequency spectrum by dividing the coverage area into small cells.
+- The Global System for Mobile Communications (GSM) is a widely used standard for the air-interface in mobile networks. It uses a combination of time division multiple access (TDMA) and frequency division multiple access (FDMA) to support multiple users on the same radio channel.
+- The air-interface is a critical component of any mobile network, and ongoing research and development efforts are focused on improving its performance and capabilities.

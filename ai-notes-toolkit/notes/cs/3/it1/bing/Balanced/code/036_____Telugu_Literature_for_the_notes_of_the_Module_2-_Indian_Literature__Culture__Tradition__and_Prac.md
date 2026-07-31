@@ -1,0 +1,19 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some notes on the topic of Telugu Literature for Module 2- Indian Literature, Culture, Tradition, and Practices.
+
+### Telugu Literature
+
+- Telugu literature is the body of works written in the Telugu language, one of the classical languages of India. It is also the third most spoken language in India after Hindi and Bengali.
+- Telugu literature has a rich and diverse history, spanning over a thousand years. It is influenced by various literary traditions, such as Sanskrit, Prakrit, Tamil, Kannada, Persian, Arabic, and English.
+- Telugu literature can be broadly divided into four periods: Ancient (up to 11th century CE), Medieval (11th to 15th century CE), Early Modern (16th to 19th century CE), and Modern (20th century onwards).
+- Some of the major genres of Telugu literature include poetry, prose, drama, folklore, and literary criticism. Some of the prominent forms of poetry are padya (metrical verse), gadya (prose poetry), champu (mixed prose and verse), and dwipada (couplet).
+- Some of the notable Telugu literary works and authors are:
+
+  - Nannaya, Tikkana, and Errana, who composed the Telugu version of the Mahabharata, called Andhra Mahabharatamu, in the 11th to 14th centuries CE. They are considered the Kavitrayam (trinity of poets) of Telugu literature.
+  - Srinatha, who wrote several works on various themes, such as Haravilasamu (a courtly romance), Sringara Naishadhamu (a retelling of the Nala-Damayanti story), and Bhimesvara Puranamu (a religious epic), in the 14th and 15th centuries CE. He is regarded as the Kavi Sarvabhauma (emperor of poets) of Telugu literature.
+  - Annamacharya, who composed over 32,000 devotional songs (called sankeertanas) in praise of Lord Venkateswara, the presiding deity of Tirumala, in the 15th and 16th centuries CE. He is revered as the Pada Kavita Pitamaha (grandfather of song poetry) of Telugu literature.
+  - Krishnadevaraya, who was the most famous ruler of the Vijayanagara Empire and a patron of Telugu literature. He wrote Amuktamalyada (a poetic biography of Andal, a Tamil saint-poetess), Jambavati Kalyanamu (a drama on the marriage of Krishna and Jambavati), and Ushaparinayamu (a drama on the love story of Usha and Aniruddha), in the 16th century CE. He is honored as the Abhinava Bhoja (the modern Bhoja, a legendary king and poet) of Telugu literature.
+  - Pingali Suranna, who wrote Kalapurnodayamu (The Rise of the Full Moon), a unique work that combines prose, poetry, and drama, in the 16th century CE. He is acclaimed as the Andhra Kavita Pitamaha (grandfather of Telugu poetry) of Telugu literature.
+  - Kshetrayya, who composed over 4,000 erotic and devotional songs (called padams) on the theme of madhura bhakti (sweet devotion) to Lord Krishna, in the 17th century CE. He is celebrated as the Padakavita Pitamaha (grandfather of padam poetry) of Telugu literature.
+  - Tyagaraja, who composed over 24,000 musical compositions (called kritis) on various aspects of Carnatic music and devotion to Lord Rama, in the 18th and 19th centuries CE. He is regarded as one of the Trinity of Carnatic music, along with Muthuswami Dikshitar and Syama Sastri.
+  - Gurajada Apparao, who wrote Kanyasulkamu (Bride-Price), a social drama that criticizes the evils of the caste system and child marriage, in 1892 CE. He is considered the father of modern Telugu literature and the pioneer of Telugu realism.
+  - Viswanatha Satyanarayana, who wrote Ramayana Kalpavrikshamu (The Wish-Fulfilling Tree of Ramayana), a poetic retelling of the Ramayana from multiple perspectives, in 1951 CE. He is regarded as the K

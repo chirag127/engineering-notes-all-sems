@@ -1,0 +1,30 @@
+### Database testing for the notes of the Unit 7 - Testing Web Applications in the subject of Software Testing
+
+- Database testing is a type of software testing that checks the schema, tables, triggers, etc. of the database under test.
+- Database testing also checks data integrity and consistency, which means the data is accurate, complete, and reliable.
+- Database testing is important for web applications because it protects the web app from vulnerabilities like data loss, saves aborted transaction data, and prevents unauthorized access to information.
+- Database testing may involve creating complex queries to load/stress test the database and check its responsiveness.
+- Database testing can be done using various tools, such as MS-Access, MS SQL Server, SQL Server, Oracle, Oracle Financial, MySQL, PostgreSQL, DB2, Toad, Admirer, etc.
+- Database testing can be divided into four categories: structural testing, functional testing, non-functional testing, and security testing.
+- Structural testing checks the structure of the database, such as tables, columns, indexes, views, etc.
+- Functional testing checks the functionality of the database, such as stored procedures, triggers, functions, etc.
+- Non-functional testing checks the performance, reliability, scalability, availability, etc. of the database.
+- Security testing checks the access control, encryption, authentication, authorization, etc. of the database.
+- Some of the common database testing techniques are: data validity testing, data integrity testing, data manipulation testing, data comparison testing, data quality testing, etc.
+- Data validity testing checks if the data entered into the database is valid and conforms to the business rules.
+- Data integrity testing checks if the data is consistent and maintains its integrity across different tables and transactions.
+- Data manipulation testing checks if the data can be inserted, updated, deleted, and retrieved correctly using SQL queries.
+- Data comparison testing checks if the data in the database matches the data in the source or the expected data.
+- Data quality testing checks if the data is accurate, complete, relevant, and timely.
+- Some of the common database testing challenges are: complex data models, large data volumes, data dependencies, data security, data migration, etc.
+- Complex data models make it difficult to understand the relationships and constraints among different tables and columns.
+- Large data volumes make it time-consuming and resource-intensive to perform database testing.
+- Data dependencies make it challenging to isolate and test individual components of the database.
+- Data security make it risky to expose sensitive data to unauthorized users or testers.
+- Data migration make it prone to data loss, corruption, or inconsistency during the transfer of data from one database to another.
+- Some of the best practices for database testing are: use test data management tools, use automation tools, use SQL queries, use data validation tools, use data comparison tools, etc.
+- Test data management tools help to create, manage, and maintain test data for database testing.
+- Automation tools help to execute database testing faster, easier, and more efficiently.
+- SQL queries help to manipulate and verify data in the database.
+- Data validation tools help to check the validity and quality of data in the database.
+- Data comparison tools help to compare data in the database with the source or the expected data.

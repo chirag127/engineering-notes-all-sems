@@ -1,0 +1,28 @@
+# Downward Communication
+
+- Downward communication is the act of relaying important information in a company or organization from higher levels to lower levels.
+- It is a communication process in which information or the chain of command passes from the upper hierarchy level to the lower level.
+- It is also known as top-down communication or vertical communication.
+- The main objectives of downward communication are:
+  - To provide instructions, directions, orders and feedback to the subordinates.
+  - To inform the subordinates about the goals, policies, procedures and rules of the organization.
+  - To motivate, inspire and influence the subordinates to perform better and achieve the desired results.
+  - To create a sense of unity, loyalty and commitment among the subordinates.
+  - To ensure coordination and cooperation among the different levels and departments of the organization.
+- Some examples of downward communication are :
+  - Memos, letters, reports, newsletters and bulletins from the management to the employees.
+  - Performance appraisals, salary slips, promotions and demotions from the supervisors to the subordinates.
+  - Meetings, conferences, presentations and speeches from the leaders to the followers.
+  - Training, coaching, mentoring and counseling from the experts to the novices.
+  - Announcements, notices, posters and signs from the authorities to the public.
+- Some advantages of downward communication are:
+  - It helps to clarify the expectations and responsibilities of the subordinates.
+  - It helps to establish authority and control in the organization.
+  - It helps to maintain discipline and order in the organization.
+  - It helps to enhance the efficiency and productivity of the subordinates.
+  - It helps to improve the quality of decision making and problem solving in the organization.
+- Some disadvantages of downward communication are:
+  - It may create a communication gap or distortion between the sender and the receiver due to filtering, noise, misunderstanding or misinterpretation.
+  - It may cause resentment, frustration or alienation among the subordinates due to lack of feedback, participation or recognition.
+  - It may reduce the creativity and innovation of the subordinates due to overdependence on the superiors or fear of criticism.
+  - It may increase the rigidity and bureaucracy of the organization due to excessive centralization or formalization.

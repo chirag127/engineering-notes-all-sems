@@ -1,0 +1,25 @@
+### Typical Real Time Applications
+
+A real-time application (RTA) is an application that has strict time constraints on its functionality and performance. RTAs must respond to events or inputs within a predictable and specific time frame, otherwise they may fail or cause undesirable consequences. RTAs are often used in domains such as digital control, command and control, signal processing, tracking, real-time databases, and multimedia. Some examples of RTAs are:
+
+- **Video conferencing**: This is an application that allows users to communicate with each other using audio and video streams over the Internet. Video conferencing requires high bandwidth, low latency, and synchronization of the streams to ensure a smooth and realistic interaction. Video conferencing is a soft real-time application, meaning that occasional delays or errors are tolerable, but may affect the quality of the service.
+
+- **Voice over Internet Protocol (VoIP)**: This is an application that enables users to make phone calls over the Internet using digital packets instead of analog signals. VoIP requires low bandwidth, low latency, and high reliability to ensure a clear and uninterrupted conversation. VoIP is also a soft real-time application, meaning that occasional delays or errors are tolerable, but may affect the quality of the service.
+
+- **Online gaming**: This is an application that allows users to play games with other users over the Internet. Online gaming requires high bandwidth, low latency, and synchronization of the game state to ensure a fair and enjoyable experience. Online gaming is a soft real-time application, meaning that occasional delays or errors are tolerable, but may affect the quality of the service.
+
+- **Community storage applications**: These are applications that allow users to store and share data over the Internet using distributed and decentralized networks of nodes. Community storage applications require high bandwidth, low latency, and high availability to ensure a fast and reliable access to the data. Community storage applications are soft real-time applications, meaning that occasional delays or errors are tolerable, but may affect the quality of the service.
+
+- **Some e-commerce applications**: These are applications that allow users to buy and sell goods and services over the Internet. Some e-commerce applications require high bandwidth, low latency, and high security to ensure a smooth and safe transaction. Some e-commerce applications are soft real-time applications, meaning that occasional delays or errors are tolerable, but may affect the quality of the service.
+
+- **Real-time operating system (RTOS)**: This is an operating system that supports the execution of real-time applications by providing features such as preemptive scheduling, priority-based dispatching, inter-process communication, and resource management. RTOS must ensure that the real-time applications meet their deadlines and performance requirements. RTOS is a hard real-time application, meaning that any delay or error is unacceptable and may cause a system failure.
+
+- **Instant messaging (IM) applications**: These are applications that allow users to send and receive text, audio, video, or other types of messages over the Internet. IM applications require low bandwidth, low latency, and high reliability to ensure a timely and accurate delivery of the messages. IM applications are soft real-time applications, meaning that occasional delays or errors are tolerable, but may affect the quality of the service.
+
+- **Team collaboration applications**: These are applications that allow users to work together on a common project or task over the Internet. Team collaboration applications require high bandwidth, low latency, and synchronization of the project or task state to ensure a productive and efficient collaboration. Team collaboration applications are soft real-time applications, meaning that occasional delays or errors are tolerable, but may affect the quality of the service.
+
+- **Digital control**: This is an application that uses a computer to control a physical system or process, such as a robot, a vehicle, or a plant. Digital control requires high bandwidth, low latency, and high accuracy to ensure a stable and optimal control. Digital control is a hard real-time application, meaning that any delay or error is unacceptable and may cause a system failure or instability.
+
+- **Optimal control**: This is an application that uses a computer to find the best control strategy for a physical system or process, such as a rocket, a missile, or a power plant. Optimal control requires high bandwidth, low latency, and high precision to ensure a optimal and robust control. Optimal control is a hard real-time application, meaning that any delay or error is unacceptable and may cause a system failure or suboptimality.
+
+- **Command and control**: This is an application that uses a computer to coordinate and direct the actions of multiple agents

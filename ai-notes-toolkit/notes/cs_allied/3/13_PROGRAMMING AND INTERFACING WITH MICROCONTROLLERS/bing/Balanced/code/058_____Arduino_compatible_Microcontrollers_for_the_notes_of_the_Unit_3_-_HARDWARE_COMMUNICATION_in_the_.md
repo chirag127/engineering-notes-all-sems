@@ -1,0 +1,17 @@
+### Arduino compatible Microcontrollers
+
+- Arduino compatible microcontrollers are microcontrollers that can be programmed using the Arduino Integrated Development Environment (IDE) or compatible software tools.
+- Arduino compatible microcontrollers can be based on different architectures, such as AVR, ARM, PIC, MSP430, STM32, etc.
+- Arduino compatible microcontrollers can have different features, such as memory size, clock speed, input/output pins, communication interfaces, analog/digital converters, sensors, etc.
+- Arduino compatible microcontrollers can have different form factors, such as breadboard-friendly, surface-mount, module, shield, etc.
+- Arduino compatible microcontrollers can have different applications, such as Internet of Things, robotics, wearables, art, education, etc.
+
+Some examples of Arduino compatible microcontrollers are:
+
+- ATmega328P: This is the microcontroller used in the Arduino Uno board, which is one of the most popular and beginner-friendly Arduino boards. It is an 8-bit microcontroller with 32 KB of flash memory, 2 KB of RAM, 23 I/O pins, 6 analog inputs, UART, SPI, I2C, etc.  
+- ATtiny85: This is a low-cost and low-power microcontroller that can be used as a minimal Arduino alternative. It is an 8-bit microcontroller with 8 KB of flash memory, 512 bytes of RAM, 6 I/O pins, 4 analog inputs, PWM, etc. It can be programmed using a USBtinyISP programmer or an Arduino board as an ISP. 
+- MSP430 LaunchPad: This is a development board for the MSP430 microcontroller family from Texas Instruments. It is a low-cost and low-power microcontroller with 16-bit architecture, up to 256 KB of flash memory, up to 16 KB of RAM, up to 60 I/O pins, analog inputs, UART, SPI, I2C, etc. It can be programmed using the Energia IDE, which is based on the Arduino IDE. 
+- Nanode: This is a development board for the ATmega328 microcontroller that is designed for Internet-connected projects. It has an Ethernet interface, a microSD card slot, 32 KB of flash memory, 2 KB of RAM, 14 I/O pins, 6 analog inputs, UART, SPI, I2C, etc. It can be programmed using the Arduino IDE or compatible software tools. 
+- Pinguino PIC32: This is a development board for the PIC32 microcontroller family from Microchip. It is a prototyping tool that is compatible with Arduino shields and libraries. It has a 32-bit architecture, up to 512 KB of flash memory, up to 128 KB of RAM, up to 85 I/O pins, analog inputs, UART, SPI, I2C, USB, etc. It can be programmed using the Pinguino IDE, which is based on the Arduino IDE. 
+- STM32 Discovery: This is a development board for the STM32 microcontroller family from STMicroelectronics. It is a high-performance microcontroller with 32-bit architecture, up to 2 MB of flash memory, up to 256 KB of RAM, up to 168 I/O pins, analog inputs, UART, SPI, I2C, USB, CAN, Ethernet, etc. It can be programmed using the Arduino IDE or compatible software tools, such as the STM32duino project. 
+- Teensy 2.0: This is a development board for the ATmega32U4 microcontroller, which has a built-in USB interface. It is a small and powerful microcontroller with 32 KB of flash memory, 2.5 KB of RAM, 25 I/O pins, 12 analog inputs, UART, SPI, I2C, PWM, etc. It can be programmed using the Arduino IDE or compatible software tools, such as the Teensyduino project.

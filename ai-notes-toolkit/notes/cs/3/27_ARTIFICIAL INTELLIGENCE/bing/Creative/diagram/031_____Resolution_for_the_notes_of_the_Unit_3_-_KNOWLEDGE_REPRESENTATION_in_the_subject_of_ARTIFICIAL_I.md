@@ -1,0 +1,15 @@
+### Resolution for the notes of the Unit 3 - KNOWLEDGE REPRESENTATION in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Knowledge representation (KR) is a field of artificial intelligence that focuses on designing computer representations that capture information about the world that can be used for solving complex problems.
+- KR is also the study of how the beliefs, intentions, and value judgments of an intelligent agent can be expressed in a transparent, symbolic notation suitable for automated reasoning.
+- KR aims to achieve the following objectives:
+  - Representational accuracy: KR system should have the ability to represent all kinds of required knowledge.
+  - Inferential adequacy: KR system should have the ability to manipulate the representational structures to produce new knowledge corresponding to the implicit information in the structure.
+  - Inferential efficiency: KR system should be able to derive the intended conclusions from the knowledge base in a reasonable amount of time and space.
+  - Acquisitional efficiency: KR system should be able to acquire new knowledge from the external sources or the user in a convenient and natural way.
+- Some of the common techniques for KR are:
+  - Logic-based: KR system uses formal logic, such as propositional logic, predicate logic, modal logic, etc., to represent and reason with knowledge. Logic-based KR systems have the advantages of clarity, consistency, and soundness, but they also have the limitations of expressivity, complexity, and brittleness.
+  - Semantic networks: KR system uses graphs, where nodes represent concepts or entities, and edges represent relations or properties, to represent and reason with knowledge. Semantic networks have the advantages of visual appeal, flexibility, and inheritance, but they also have the limitations of ambiguity, redundancy, and inefficiency.
+  - Frames: KR system uses structures, where each frame represents a concept or an entity, and each frame has slots that store attributes or values, to represent and reason with knowledge. Frames have the advantages of modularity, hierarchy, and default values, but they also have the limitations of complexity, inconsistency, and incompleteness.
+  - Production rules: KR system uses rules, where each rule has a condition part and an action part, to represent and reason with knowledge. Production rules have the advantages of simplicity, modifiability, and parallelism, but they also have the limitations of opacity, conflict, and inefficiency.
+  - Ontologies: KR system uses formal specifications of the concepts, relations, and constraints in a domain of interest, to represent and reason with knowledge. Ontologies have the advantages of interoperability, reusability, and standardization, but they also have the limitations of complexity, inconsistency, and incompleteness.

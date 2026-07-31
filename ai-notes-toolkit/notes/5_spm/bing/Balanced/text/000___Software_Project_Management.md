@@ -1,0 +1,35 @@
+# Software Project Management
+
+- Software project management is a proper way of planning and leading software projects.
+- Software projects are planned, implemented, monitored, and controlled within variables such as time, quality, and cost.
+- Software project management is a subset of project management, which is the application of knowledge, skills, tools, and techniques to achieve specific goals and meet specific success criteria.
+- Software project management involves the following activities:
+  - Gathering client requirements
+  - Building software products
+  - Testing their functionalities and usability
+  - Preparing documentation
+  - Delivering and maintaining the software
+- Software project management requires the use of project management software, which is software used for project planning, scheduling, resource allocation, and change management.
+- Software project management also requires the role of a software project manager, who is a liaison between the development team and the other stakeholders in a software project.
+- Software project managers are responsible for:
+  - Communicating project status
+  - Managing changes and risks
+  - Requesting additional resources
+  - Ensuring quality standards
+  - Resolving conflicts and issues
+- Software project management follows a life cycle, which is a series of phases that a software project goes through from initiation to closure.
+- Software project management life cycle models include:
+  - Waterfall model: a linear and sequential approach that follows a fixed set of steps and deliverables
+  - Agile model: an iterative and incremental approach that adapts to changing requirements and feedback
+  - Spiral model: a risk-driven approach that combines elements of waterfall and agile models
+  - V-model: a verification and validation approach that maps each development stage to a corresponding testing stage
+  - Prototyping model: an experimental approach that creates a working model of the software before developing the final product
+- Software project management best practices include:
+  - Defining the project scope and objectives clearly
+  - Estimating the project cost and duration realistically
+  - Allocating the project resources efficiently
+  - Developing a project plan and schedule
+  - Monitoring and controlling the project progress and performance
+  - Managing the project quality and risks
+  - Communicating and collaborating with the project team and stakeholders
+  - Reviewing and evaluating the project outcomes and lessons learned

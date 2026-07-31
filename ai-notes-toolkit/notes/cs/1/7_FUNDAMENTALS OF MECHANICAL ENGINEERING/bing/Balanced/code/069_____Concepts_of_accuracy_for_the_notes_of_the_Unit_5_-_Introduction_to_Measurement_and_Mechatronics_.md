@@ -1,0 +1,11 @@
+### Concepts of accuracy for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+
+- Accuracy is the degree of closeness between a measurement and its true value . It defines the limits of the errors made when the instrument is used in normal operating conditions.
+- Accuracy is influenced by various factors, such as the resolution, sensitivity, linearity, repeatability, and calibration of the measuring instrument  .
+- Resolution is the smallest change in the measured quantity that can be detected by the instrument . It is simply how fine the measuring instrument is set to read out.
+- Sensitivity is the ratio of the change in the output signal to the change in the input signal of the instrument. It indicates how responsive the instrument is to the measured quantity.
+- Linearity is the degree to which the output signal of the instrument is proportional to the input signal over the entire range of measurement . It describes how well the instrument follows a straight line relationship between the input and output signals.
+- Repeatability is the degree to which repeated measurements under the same conditions show the same results. It indicates the consistency and reliability of the instrument.
+- Calibration is the process of comparing the output signal of the instrument with a known standard of the measured quantity and adjusting the instrument accordingly to eliminate or reduce the errors. It ensures the accuracy and traceability of the instrument.
+- Accuracy can be expressed in different ways, such as absolute error, relative error, percentage error, or uncertainty. Absolute error is the difference between the measured value and the true value. Relative error is the ratio of the absolute error to the true value. Percentage error is the relative error multiplied by 100%. Uncertainty is the range of possible values within which the true value lies with a certain level of confidence.
+- Accuracy can be improved by using appropriate instruments, methods, and techniques for measurement, by minimizing the sources of errors, by calibrating the instruments regularly, and by applying suitable corrections or compensations for the errors.

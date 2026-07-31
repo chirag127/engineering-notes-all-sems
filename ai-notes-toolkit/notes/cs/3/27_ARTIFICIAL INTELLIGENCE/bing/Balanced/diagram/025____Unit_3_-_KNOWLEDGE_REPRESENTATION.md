@@ -1,0 +1,11 @@
+## Unit 3 - KNOWLEDGE REPRESENTATION
+
+- Knowledge representation is the process of encoding information about a domain in a form that can be used by an intelligent agent to reason and act.
+- Knowledge representation involves choosing a language or a data structure to represent the relevant aspects of the domain, such as objects, properties, relations, events, actions, goals, etc.
+- Knowledge representation also involves designing inference mechanisms or algorithms that can manipulate the representations to derive new knowledge, answer queries, solve problems, or plan actions.
+- Some examples of knowledge representation languages or data structures are:
+  - Logic: A formal system of symbols and rules that can express statements and arguments in a precise and unambiguous way. Logic can be used to represent facts, rules, constraints, and goals, and to perform deductive reasoning.
+  - Semantic networks: A graph-based structure that consists of nodes and links, where nodes represent concepts or entities, and links represent relations or attributes. Semantic networks can be used to represent hierarchical, associative, or causal knowledge, and to perform inductive or analogical reasoning.
+  - Frames: A structure that consists of a collection of slots and values, where slots represent attributes or features, and values represent data or pointers to other frames. Frames can be used to represent objects, classes, instances, or schemas, and to perform inheritance or default reasoning.
+  - Production rules: A structure that consists of a condition and an action, where the condition specifies a pattern to match against the current state of the world, and the action specifies a change to make to the state of the world. Production rules can be used to represent procedural or conditional knowledge, and to perform forward or backward chaining reasoning.
+  - Scripts: A structure that consists of a sequence of actions or events, where each action or event has preconditions and effects, and may have roles or variables. Scripts can be used to represent stereotypical or episodic knowledge, and to perform script-based or plan-based reasoning.

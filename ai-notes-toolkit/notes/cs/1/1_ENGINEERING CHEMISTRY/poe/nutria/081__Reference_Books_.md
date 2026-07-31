@@ -1,0 +1,7 @@
+
+## Reference Books: 
+- **The Norton Anthology of English Literature**: This anthology is a comprehensive collection of English literature from the medieval period to the present day. It includes works from major authors such as William Shakespeare, John Milton, and Jane Austen. 
+- **The Oxford Companion to English Literature**: This comprehensive reference book provides a comprehensive guide to English literature, from the Anglo-Saxon period to the present day. It includes biographies of authors, critical analysis of works, and an overview of the development of English literature. 
+- **The Cambridge History of English Literature**: This book provides an in-depth look at the history of English literature from the medieval period to the present day. It includes a discussion of major authors, genres, and themes, as well as an analysis of the social and cultural context in which English literature was produced. 
+- **The Norton Anthology of American Literature**: This anthology is a comprehensive collection of American literature from colonial times to the present day. It includes works from major authors such as Walt Whitman, Emily Dickinson, and Toni Morrison. 
+- **The Oxford Companion to American Literature**: This comprehensive reference book provides a comprehensive guide to American literature, from the colonial period to the present day. It includes biographies of authors, critical analysis of works, and an overview of the development of American literature.

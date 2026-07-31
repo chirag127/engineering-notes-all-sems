@@ -1,0 +1,21 @@
+## Unit 2 - DEEP NETWORKS
+
+- Deep networks are artificial neural networks that have multiple hidden layers between the input and output layers.
+- Deep networks can learn complex and non-linear patterns from large amounts of data, such as images, speech, text, etc.
+- Deep networks are composed of basic building blocks called neurons, which are connected by weights and biases.
+- Each neuron computes a weighted sum of its inputs, adds a bias term, and applies a non-linear activation function, such as sigmoid, tanh, ReLU, etc.
+- The activation function determines the output of the neuron, which can be interpreted as its level of activation or firing.
+- The weights and biases of the network are the parameters that are learned during the training process, using an optimization algorithm such as gradient descent.
+- The training process involves feeding the network with input data and comparing its output with the desired output, also known as the target or label.
+- The difference between the network output and the target is measured by a loss function, such as mean squared error, cross-entropy, etc.
+- The loss function quantifies the error or cost of the network, which is minimized by adjusting the weights and biases in the direction of the negative gradient of the loss function.
+- The gradient of the loss function is computed using a technique called backpropagation, which propagates the error signal from the output layer to the input layer, through the hidden layers.
+- Backpropagation requires the activation functions to be differentiable, which means they have a well-defined derivative or slope at any point.
+- The derivative of the activation function determines how much the neuron output changes with respect to its input, which affects the learning rate and the stability of the network.
+- Some common challenges and limitations of deep networks are:
+  - Overfitting: the network learns the noise or specific details of the training data, rather than the general patterns, and performs poorly on new or unseen data.
+  - Underfitting: the network fails to learn the relevant patterns from the training data, and performs poorly on both the training and test data.
+  - Vanishing gradient: the gradient of the loss function becomes very small or zero in the lower layers of the network, which prevents them from learning or updating their weights and biases.
+  - Exploding gradient: the gradient of the loss function becomes very large or infinite in the upper layers of the network, which causes them to have unstable or divergent weights and biases.
+  - Computational complexity: the network requires a lot of memory and processing power to store and manipulate the large number of parameters and data.
+  - Interpretability: the network is often seen as a black box, which makes it difficult to understand how it works or why it makes certain decisions.

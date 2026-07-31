@@ -1,0 +1,52 @@
+# FUNDAMENTALS OF ELECTRICAL ENGINEERING
+## Unit 1 - DC Circuits
+### Electrical circuit elements (R, L and C) for the notes of the Unit 1 - DC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Concept of active and passive elements for the notes of the Unit 1 - DC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### voltage and current sources for the notes of the Unit 1 - DC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### concept of linearity for the notes of the Unit 1 - DC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### unilateral and bilateral elements for the notes of the Unit 1 - DC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Kirchhoff‟s laws for the notes of the Unit 1 - DC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Mesh and nodal methods of analysis for the notes of the Unit 1 - DC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+## Unit 2 - Steady State Analysis of Single Phase AC Circuits
+### Representation of Sinusoidal waveforms – Average and effective values for the notes of the Unit 2 - Steady State Analysis of Single Phase AC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Form and peak factors for the notes of the Unit 2 - Steady State Analysis of Single Phase AC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Analysis of single phase AC Circuits consisting R-L-C combination (Series and Parallel) for the notes of the Unit 2 - Steady State Analysis of Single Phase AC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Apparent, active & reactive power for the notes of the Unit 2 - Steady State Analysis of Single Phase AC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Power factor for the notes of the Unit 2 - Steady State Analysis of Single Phase AC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Concept of Resonance in series & parallel circuits for the notes of the Unit 2 - Steady State Analysis of Single Phase AC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### bandwidth and quality factor for the notes of the Unit 2 - Steady State Analysis of Single Phase AC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Three phase balanced circuits for the notes of the Unit 2 - Steady State Analysis of Single Phase AC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### voltage and current relations in star and delta connections for the notes of the Unit 2 - Steady State Analysis of Single Phase AC Circuits in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+## Unit 3 - Transformers
+### Magnetic circuits for the notes of the Unit 3 - Transformers in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### ideal and practical transformer for the notes of the Unit 3 - Transformers in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### equivalent circuit for the notes of the Unit 3 - Transformers in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### losses in transformers for the notes of the Unit 3 - Transformers in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### regulation and efficiency for the notes of the Unit 3 - Transformers in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+## Unit 4 - Electrical machines
+### DC machines for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Principle & Construction for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Types for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### EMF equation of generator and torque equation of motor for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### applications of DC motors (simple numerical problems) for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Three Phase Induction Motor for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Principle & Construction for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Types for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Slip-torque characteristics for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Applications (Numerical problems related to slip only) for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Single Phase Induction motor for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Principle of operation and introduction to methods of starting for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### applications for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Three Phase Synchronous Machines for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Principle of operation of alternator and synchronous motor for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### their applications for the notes of the Unit 4 - Electrical machines in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+## Unit 5 - Electrical Installations
+### Introduction of Switch Fuse Unit (SFU) for the notes of the Unit 5 - Electrical Installations in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### MCB for the notes of the Unit 5 - Electrical Installations in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### ELCB for the notes of the Unit 5 - Electrical Installations in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### MCCB for the notes of the Unit 5 - Electrical Installations in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### ACB for the notes of the Unit 5 - Electrical Installations in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Types of Wires for the notes of the Unit 5 - Electrical Installations in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Cables and Bus-bars for the notes of the Unit 5 - Electrical Installations in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Fundamentals of earthing and lightning protection for the notes of the Unit 5 - Electrical Installations in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING
+### Types of Batteries for the notes of the Unit 5 - Electrical Installations in the subject of FUNDAMENTALS OF ELECTRICAL ENGINEERING KCS

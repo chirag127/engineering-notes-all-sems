@@ -1,0 +1,9 @@
+##### Transmission Grating
+
+- A transmission grating is a type of diffraction grating that transmits light rather than reflecting it.
+- A transmission grating consists of a series of parallel slits or grooves on a transparent substrate that diffract light into different directions according to the wavelength and the angle of incidence.
+- A transmission grating can be used to disperse light into a spectrum for spectral analysis, wavelength filtering, or beam shaping applications.
+- A transmission grating can be classified into two types: surface relief gratings and volume Bragg gratings.
+- A surface relief grating is a transmission grating that has a periodic modulation of the surface height of the substrate. The groove spacing and depth determine the diffraction efficiency and dispersion of the grating.
+- A volume Bragg grating is a transmission grating that has a periodic modulation of the refractive index inside the substrate. The refractive index modulation can be created by exposing the substrate to an interference pattern of two laser beams or by doping the substrate with photosensitive materials. The refractive index modulation and the thickness of the substrate determine the diffraction efficiency and dispersion of the grating.
+- A transmission grating has some advantages over a reflection grating, such as low polarization sensitivity, compact and in-line configuration, and high diffraction efficiency for certain wavelengths. However, a transmission grating also has some disadvantages, such as higher absorption and scattering losses, lower spectral resolution, and higher sensitivity to alignment errors and environmental factors.

@@ -1,0 +1,21 @@
+# Software Project Audit
+
+- A software project audit is a formal review of a software project to check its quality, progress or adherence to plans, standards and regulations.
+- A software project audit is conducted by either internal teams or by one or more independent auditors .
+- A software project audit aims to maximize the success of a project by detecting its potential risks and weaknesses.
+- A software project audit also evaluates the performance of every single team member in the IT department.
+- A software project audit may be conducted for many reasons, such as:
+  - To verify the compliance of the software product, process, or set of processes with specifications, standards, contractual agreements, or other criteria.
+  - To identify the strengths and weaknesses of the software development organization and its processes.
+  - To assess the quality and effectiveness of the software product and its documentation.
+  - To measure the productivity and efficiency of the software development team and its tools.
+  - To provide feedback and recommendations for improvement to the software development organization and its stakeholders.
+  - To ensure the alignment of the software project with the business objectives and expectations of the customers and users.
+- A software project audit may be performed at any stage of the software development life cycle, but it is usually done at key milestones or checkpoints .
+- A software project audit may follow a predefined methodology or framework, such as the Capability Maturity Model Integration (CMMI), the ISO 9000 series, or the Software Engineering Institute's (SEI) Software Process Assessment (SPA).
+- A software project audit may involve various activities, such as :
+  - Planning the audit, including defining the scope, objectives, criteria, and schedule of the audit
+  - Selecting the audit team, including the lead auditor, the auditors, and the technical experts
+  - Collecting and analyzing the audit evidence, such as documents, records, interviews, observations, surveys, tests, and metrics
+  - Reporting the audit findings, including the nonconformities, observations, and opportunities for improvement
+  - Following up the audit, including verifying the corrective and preventive actions taken by the audited organization

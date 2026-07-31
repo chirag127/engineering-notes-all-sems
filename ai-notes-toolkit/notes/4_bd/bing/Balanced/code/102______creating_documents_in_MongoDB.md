@@ -1,0 +1,11 @@
+#### Creating documents in MongoDB
+
+- MongoDB is a document-oriented database that stores data in collections of JSON-like documents.
+- A document is a set of key-value pairs, where the value can be any of the supported data types, such as strings, numbers, arrays, objects, booleans, dates, etc.
+- To create documents in MongoDB, you can use one of the following methods:
+  - `insertOne()`: This method inserts a single document into a collection. If the collection does not exist, it will be created automatically. The syntax is: `db.collection.insertOne(document)`, where `document` is the document to insert. This method returns a result object that contains the `_id` field of the inserted document.
+  - `insertMany()`: This method inserts an array of documents into a collection. If the collection does not exist, it will be created automatically. The syntax is: `db.collection.insertMany(documents)`, where `documents` is the array of documents to insert. This method returns a result object that contains an array of `_id` fields of the inserted documents.
+  - `insert()`: This method inserts one or more documents into a collection. If the collection does not exist, it will be created automatically. The syntax is: `db.collection.insert(documents)`, where `documents` can be either a single document or an array of documents to insert. This method returns a result object that contains an array of `_id` fields of the inserted documents.
+- Each document in MongoDB requires a unique `_id` field that acts as a primary key. If you do not specify the `_id` field, MongoDB will automatically generate an `ObjectId` for it. An `ObjectId` is a 12-byte hexadecimal value that consists of a 4-byte timestamp, a 5-byte random value, and a 3-byte incrementing counter.
+- You can create documents in MongoDB using the MongoDB CRUD Operators in a MongoDB Playground, which is a VS Code extension that allows you to run MongoDB commands and scripts.
+- You can also create documents in MongoDB using the MongoDB Shell, which is an interactive JavaScript interface to MongoDB. You can access the MongoDB Shell by typing `mongo` in your terminal.

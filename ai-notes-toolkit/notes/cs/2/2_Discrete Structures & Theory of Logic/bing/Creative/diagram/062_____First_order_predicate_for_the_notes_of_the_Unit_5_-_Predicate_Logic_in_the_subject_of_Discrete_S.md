@@ -1,0 +1,11 @@
+### First order predicate logic
+
+- First order predicate logic is a formal language in which propositions are expressed in terms of predicates, variables and quantifiers .
+- A predicate is a symbol that represents a property or relation of one or more objects . For example, `P(x)` means that `x` has the property `P`, and `R(x,y)` means that `x` and `y` are related by `R`.
+- A variable is a symbol that can stand for any object in a given domain . For example, `x` and `y` are variables that can represent any person, animal, number, etc.
+- A quantifier is a symbol that specifies how many objects in the domain satisfy a given predicate . For example, `∀x P(x)` means that `P` is true for all objects `x`, and `∃x P(x)` means that `P` is true for some object `x`.
+- A formula is a well-formed expression that can be true or false depending on the values of the variables and predicates . For example, `∀x (P(x) → Q(x))` is a formula that means that if `P` is true for any object `x`, then `Q` is also true for that object `x`.
+- The syntax of first order predicate logic defines the rules for forming valid formulas from predicates, variables, quantifiers, and logical connectives . For example, `P(x) ∧ Q(y)` is a valid formula, but `P(x) Q(y)` is not.
+- The semantics of first order predicate logic defines the rules for assigning truth values to formulas based on the interpretation of the predicates, variables, and quantifiers . For example, `∀x P(x)` is true if and only if `P` is true for every object in the domain, and `∃x P(x)` is true if and only if `P` is true for at least one object in the domain.
+- First order predicate logic is also known as first-order logic, quantificational logic, and first-order predicate calculus .
+- First order predicate logic is the standard for the formalization of mathematics into axioms, and is studied in the foundations of mathematics. For example, Peano arithmetic and Zermelo–Fraenkel set theory are axiomatizations of number theory and set theory, respectively, into first order predicate logic.

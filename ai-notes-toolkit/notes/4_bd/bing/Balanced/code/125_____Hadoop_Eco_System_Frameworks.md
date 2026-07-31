@@ -1,0 +1,20 @@
+### Hadoop Eco System Frameworks
+
+Hadoop is a framework that enables processing of large data sets which reside in the form of clusters. Being a framework, Hadoop is made up of several modules that are supported by a large ecosystem of technologies.
+
+The Hadoop ecosystem is a collection of tools, libraries, and frameworks that help you build applications on top of Apache Hadoop. Hadoop provides massive parallelism with low latency and high throughput, which makes it well-suited for big data problems.
+
+Some of the major components of the Hadoop ecosystem are:
+
+- **HDFS**: Hadoop Distributed File System is a distributed file system that has the capability to store a large stack of data sets. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage .
+- **MapReduce**: MapReduce is a programming model and an associated implementation for processing and generating large data sets with a parallel, distributed algorithm on a cluster. It consists of two phases: map and reduce. The map phase takes an input pair and produces a set of intermediate key/value pairs. The reduce phase merges all intermediate values associated with the same intermediate key.
+- **YARN**: Yet Another Resource Negotiator is a framework for job scheduling and cluster resource management. It allows multiple data processing engines such as MapReduce, Spark, and Hive to run on the same cluster and share resources dynamically .
+- **Hadoop Common**: Hadoop Common is a set of common utilities and libraries that support other Hadoop modules. It provides the basic functionality such as configuration, I/O, serialization, and authentication.
+- **Hive**: Hive is a data warehouse software that facilitates reading, writing, and managing large data sets residing in distributed storage using SQL. It provides a query language called HiveQL, which is based on SQL and allows users to perform analytics and data mining on structured and semi-structured data .
+- **Pig**: Pig is a platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs. The salient property of Pig programs is that their structure is amenable to substantial parallelization, which in turns enables them to handle very large data sets.
+- **Spark**: Spark is a fast and general engine for large-scale data processing. It offers high-level APIs in Java, Scala, Python and R, and an optimized engine that supports general execution graphs. It also supports a rich set of higher-level tools including Spark SQL for SQL and structured data processing, MLlib for machine learning, GraphX for graph processing, and Spark Streaming for stream processing.
+- **HBase**: HBase is a distributed, scalable, big data store. It is an open-source, non-relational, versioned database that runs on top of HDFS. It provides random, real-time read/write access to your big data. It is modeled after Google's Bigtable and is written in Java.
+- **Sqoop**: Sqoop is a tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases. It can import data from external sources into HDFS, Hive, or HBase, and export data from Hadoop to external sources.
+- **Flume**: Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows. It is robust and fault tolerant with tunable reliability mechanisms and many failover and recovery mechanisms. It uses a simple extensible data model that allows for online analytic application.
+
+These are some of the most commonly used frameworks in the Hadoop ecosystem. There are many other frameworks that provide different functionalities and features for various use cases and scenarios. The Hadoop ecosystem is constantly evolving and growing to meet the needs of the big data community .

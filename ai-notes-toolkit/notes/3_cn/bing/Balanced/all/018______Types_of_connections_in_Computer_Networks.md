@@ -1,0 +1,10 @@
+#### Types of connections in computer networks
+
+- A connection in a computer network is a link between two or more devices that allows them to communicate and share data, resources, and applications.
+- There are different types of connections in computer networks, depending on the size, scope, and function of the network. Some of the common types are:
+
+  - **Point-to-point connection**: This type of connection allows one device to communicate with one other device. For example, two phones may pair with each other using Bluetooth to exchange files or make calls. A point-to-point connection is usually established by a cable or a wireless signal. A point-to-point connection is simple, secure, and efficient, but it does not scale well for large networks. 
+  - **Broadcast/multicast connection**: This type of connection allows a device to send one message out to the network and have copies of that message delivered to multiple recipients. For example, a radio station may broadcast its program to many listeners, or a video conference may multicast its stream to many participants. A broadcast/multicast connection is usually established by a wireless signal or a shared medium, such as a coaxial cable. A broadcast/multicast connection is useful for disseminating information to a large group, but it may cause congestion and interference in the network. 
+  - **Multipoint connection**: This type of connection allows one device to connect and deliver messages to multiple devices in parallel. For example, a router may connect to several computers and forward packets to them based on their destination addresses. A multipoint connection is usually established by a switch or a hub, which are devices that can split and join signals. A multipoint connection is flexible and scalable, but it may require more hardware and management. 
+
+- A mnemonic to remember the types of connections in computer networks is **PBM** (Point-to-point, Broadcast/multicast, Multipoint). You can also think of them as **one-to-one, one-to-many, and many-to-many** connections.

@@ -1,0 +1,30 @@
+### Prototype Model
+
+- A prototype is a working version of a software system that has some functionality, but is not complete or fully tested.
+- A prototype model is a software development approach that involves creating and evaluating prototypes before developing the final system.
+- The prototype model can be used to:
+  - Validate the user requirements and expectations
+  - Demonstrate the feasibility and usability of the system
+  - Reduce the risks and uncertainties of the project
+  - Obtain feedback and suggestions from the stakeholders
+- The prototype model consists of the following phases:
+  - Communication: The developers communicate with the customers and users to understand their needs and expectations.
+  - Quick design: The developers design a quick and rough prototype that satisfies some of the user requirements.
+  - Modeling: The developers implement the prototype using tools and techniques that allow rapid development and modification.
+  - Deployment: The developers deploy the prototype to the customers and users for evaluation and feedback.
+  - Refinement: The developers refine and improve the prototype based on the feedback and suggestions received from the customers and users.
+  - Repeat: The developers repeat the previous phases until the prototype meets the user requirements and expectations or until the project budget or time is exhausted.
+  - Final system: The developers finalize the system by incorporating the prototype features and fixing any errors or defects.
+- The prototype model has the following advantages:
+  - It improves the communication and collaboration between the developers and the customers and users.
+  - It allows the customers and users to participate in the development process and provide their inputs and opinions.
+  - It helps the developers to understand the user requirements and expectations better and avoid any misunderstandings or ambiguities.
+  - It enables the developers to test and validate the system functionality and usability early and frequently.
+  - It reduces the chances of failure and rework by identifying and resolving any issues or problems in the system.
+  - It increases the customer and user satisfaction and confidence in the system.
+- The prototype model has the following disadvantages:
+  - It may increase the cost and time of the project by requiring multiple iterations and revisions of the prototype.
+  - It may compromise the quality and reliability of the system by focusing more on the prototype features and less on the system standards and specifications.
+  - It may create unrealistic expectations and dependencies on the prototype by the customers and users.
+  - It may be difficult to manage and control the changes and modifications in the prototype and the system.
+  - It may be challenging to integrate and transition from the prototype to the final system.

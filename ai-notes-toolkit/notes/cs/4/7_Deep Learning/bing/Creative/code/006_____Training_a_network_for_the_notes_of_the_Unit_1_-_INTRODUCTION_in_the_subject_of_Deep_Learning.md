@@ -1,0 +1,12 @@
+### Training a network for the notes of the Unit 1 - INTRODUCTION in the subject of Deep Learning
+
+- Deep learning is a subfield of machine learning that deals with algorithms inspired by the structure and function of the brain.
+- Deep learning is a subset of machine learning, which is a part of artificial intelligence (AI). Artificial intelligence is the ability of a machine to imitate intelligent human behavior.
+- Machine learning allows a system to learn and improve from experience automatically. Deep learning is a specific type of machine learning that uses multiple layers of artificial neural networks to learn from data .
+- Artificial neural networks are computational models that consist of interconnected units called neurons. Each neuron can perform a simple operation on its inputs and pass the output to the next layer .
+- The layers of a neural network can be divided into three types: input layer, hidden layer, and output layer. The input layer receives the raw data, the hidden layer performs the feature extraction and representation learning, and the output layer produces the final prediction or classification .
+- Deep learning can be applied to a variety of domains, such as image classification, speech recognition, natural language processing, computer vision, and natural language generation .
+- To train a deep neural network, we need a large amount of labeled data, a suitable network architecture, a loss function, and an optimization algorithm.
+- The labeled data is the set of input-output pairs that we want the network to learn from. The network architecture is the design of the layers, neurons, and connections in the network. The loss function is the measure of how well the network performs on the data. The optimization algorithm is the method of updating the network parameters to minimize the loss function.
+- One of the most common optimization algorithms for deep learning is the stochastic gradient descent (SGD) or its variants. SGD updates the network parameters by taking small steps in the direction of the negative gradient of the loss function. The gradient is computed using a subset of the data called a mini-batch.
+- To evaluate the performance of a deep neural network, we need to use a separate set of data called the test set, which is not used for training. We can also use a validation set, which is a subset of the training set, to tune the hyperparameters of the network, such as the learning rate, the number of layers, and the number of neurons.

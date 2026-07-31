@@ -1,0 +1,15 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on the topic of real-world map reduce for the unit 3 - map reduce in the subject of big data.
+
+### Real-world Map Reduce
+
+- Map reduce is a framework that was developed to process massive amounts of data efficiently. For example, if we have 1 million records in a dataset, and it is stored in a relational representation - it is very expensive to derive values and perform any sort of transformations on these.
+- Map reduce works by breaking down the data into smaller chunks, and applying a map function to each chunk in parallel. The map function transforms the data into key-value pairs, where the key is a common attribute or a grouping criterion, and the value is some information or computation related to the key. The map function can also filter out unwanted data or perform some preprocessing steps.
+- The output of the map function is then shuffled and sorted by the key, and sent to the reduce function. The reduce function takes the key-value pairs with the same key, and aggregates them into a single output value. The reduce function can perform some analysis, summarization, or aggregation on the values. The output of the reduce function is then written to the final output file or database.
+- Map reduce can be used for various real-world applications, such as:
+
+  - Word count: The map function can tokenize the text into words, and emit each word as a key with a value of 1. The reduce function can sum up the values for each word, and output the word and its frequency.
+  - Inverted index: The map function can take a document and its ID, and emit each word in the document as a key with the document ID as a value. The reduce function can concatenate the document IDs for each word, and output the word and its list of document IDs.
+  - Sentiment analysis: The map function can take a tweet and its ID, and emit the tweet ID as a key with the sentiment score as a value. The sentiment score can be computed using some natural language processing techniques. The reduce function can average the sentiment scores for each tweet ID, and output the tweet ID and its average sentiment score.
+  - Page rank: The map function can take a web page and its ID, and emit the page ID as a key with the list of outgoing links as a value. The reduce function can compute the page rank for each page ID, based on the incoming links and the page rank of the source pages. The page rank algorithm can be iterated using multiple map reduce jobs until convergence.
+
+- Map reduce can be implemented using various platforms, such as Hadoop, Spark, Google Cloud Dataflow, etc. These platforms provide distributed storage, parallel processing, fault tolerance, and scalability for map reduce applications. They also provide some libraries and tools to simplify the development and execution of map reduce jobs.

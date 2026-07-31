@@ -1,0 +1,16 @@
+# Determination of calorific values and analysis of coal
+
+- Calorific value is a measure of the amount of energy produced from a unit weight of coal when it is combusted in oxygen.
+- Calorific value can be determined by different methods, such as bomb calorimetry, thermal analysis, and laser-induced breakdown spectroscopy (LIBS).
+- Bomb calorimetry is the standard method for measuring the calorific value of coal. It involves burning a measured sample of coal in a sealed vessel under high pressure and temperature, and measuring the heat released by the combustion .
+- Thermal analysis is a technique that measures the changes in physical and chemical properties of a material as a function of temperature or time. It can be used to determine the calorific value of coal by measuring the heat flow or temperature difference between the coal sample and a reference material during heating or cooling.
+- LIBS is a technique that uses a high-energy laser pulse to vaporize a small amount of material and generate a plasma. The plasma emits light that can be analyzed by a spectrometer to identify the elemental composition of the material. LIBS can be used to determine the calorific value of coal by correlating the intensity of certain spectral lines with the energy content of the coal.
+- Analysis of coal involves determining the composition and properties of coal, such as moisture, ash, volatile matter, fixed carbon, sulfur, carbon, hydrogen, nitrogen, and oxygen. These parameters affect the quality, performance, and environmental impact of coal.
+- Analysis of coal can be performed by different methods, such as proximate analysis, ultimate analysis, specific gravity, hardness, grindability, coking properties, and ash fusion temperature.
+- Proximate analysis measures the moisture, ash, volatile matter, and fixed carbon content of coal. It gives an indication of the heating value, combustion behavior, and reactivity of coal.
+- Ultimate analysis measures the elemental composition of coal, such as carbon, hydrogen, nitrogen, sulfur, and oxygen. It gives an indication of the energy content, environmental impact, and coal classification of coal.
+- Specific gravity measures the ratio of the density of coal to the density of water. It gives an indication of the coal rank, quality, and purity.
+- Hardness measures the resistance of coal to abrasion or breakage. It gives an indication of the coal handling, storage, and grinding characteristics.
+- Grindability measures the ease of pulverizing coal to a desired size. It gives an indication of the coal milling, combustion, and efficiency characteristics.
+- Coking properties measure the ability of coal to form coke, which is a solid fuel derived from the heating of coal in the absence of air. It gives an indication of the coal suitability for metallurgical and industrial applications.
+- Ash fusion temperature measures the temperature at which the ash from coal softens, melts, and flows. It gives an indication of the coal slagging, fouling, and corrosion characteristics.

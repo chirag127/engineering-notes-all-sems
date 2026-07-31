@@ -1,0 +1,25 @@
+# Capital Markets
+
+Capital markets are financial markets where long-term debt or equity-backed securities are bought and sold. Capital markets channel the wealth of savers to those who can put it to long-term productive use, such as companies or governments making long-term investments.
+
+## Blockchain Use Cases in Capital Markets
+
+Blockchain is a distributed ledger technology (DLT) that enables peer-to-peer transactions without intermediaries, using cryptography and consensus mechanisms to ensure data integrity and security. Blockchain has the potential to transform various aspects of capital markets, such as issuance, trading, clearing, settlement, custody, and asset servicing, by streamlining processes, reducing costs, increasing transparency, and enhancing security.
+
+Some of the use cases of blockchain in capital markets are:
+
+- **Issuance**: Blockchain can enable the issuance of digital tokens that represent equity, debt, or other assets, such as real estate, art, or commodities. These tokens can be issued on public, private, or permissioned blockchains, depending on the regulatory and governance requirements. Blockchain can also facilitate the automation of compliance and reporting functions, such as KYC, AML, and disclosure, through smart contracts and digital identity solutions .
+
+- **Sales and trading**: Blockchain can enable the trading of digital tokens or traditional securities on decentralized exchanges (DEXs) or peer-to-peer platforms, without the need for intermediaries, such as brokers, dealers, or clearing houses. Blockchain can also enable the execution of complex transactions, such as swaps, options, or futures, through smart contracts that encode the terms and conditions of the contracts and trigger payments or deliveries automatically .
+
+- **Collateral management**: Blockchain can enable the optimization of collateral management, which is the process of securing and managing the assets that back the obligations of counterparties in financial transactions. Blockchain can provide a shared and trusted view of the collateral positions, availability, and valuation across multiple parties, reducing operational risks, settlement delays, and liquidity constraints. Blockchain can also enable the automation of collateral allocation, margin calls, and substitutions, through smart contracts .
+
+- **Exchanges**: Blockchain can enable the creation of new types of exchanges that leverage the features of DLT, such as transparency, immutability, and programmability. For example, blockchain can enable the creation of prediction markets, where participants can bet on the outcome of future events, such as elections, sports, or weather, using digital tokens. Blockchain can also enable the creation of decentralized autonomous organizations (DAOs), which are self-governing entities that operate according to predefined rules and incentives, without human intervention .
+
+- **Clearing and settlement**: Blockchain can enable the near-instantaneous clearing and settlement of financial transactions, by eliminating the need for intermediaries, such as central counterparties (CCPs), custodians, or settlement agents. Blockchain can also enable the delivery versus payment (DvP) of securities, where the transfer of securities and cash occurs simultaneously and irrevocably, reducing counterparty risk and settlement risk. Blockchain can also enable the tokenization of fiat currencies or other assets, such as gold or oil, to facilitate cross-border and cross-asset settlements .
+
+- **Stablecoins**: Stablecoins are digital tokens that are pegged to a stable asset, such as a fiat currency, a commodity, or a basket of assets, to minimize the volatility of their price. Stablecoins can be used as a medium of exchange, a unit of account, or a store of value, in various blockchain applications and platforms. Stablecoins can also facilitate the interoperability between different blockchains, by acting as a bridge currency or a collateral asset .
+
+- **Post-trade services and infrastructure**: Blockchain can enable the improvement of post-trade services and infrastructure, such as reconciliation, reporting, auditing, and regulatory compliance, by providing a single source of truth and a verifiable audit trail of all transactions. Blockchain can also enable the automation of post-trade processes, such as corporate actions, dividends, voting, and tax reporting, through smart contracts and digital identity solutions .
+
+- **Asset servicing**: Blockchain can enable the enhancement of asset servicing, which is the process of providing various services to the owners or issuers of securities, such as custody, administration, valuation, and performance measurement. Blockchain can provide a secure and transparent way of storing, transferring, and managing digital assets, as well as enabling the automation of asset servicing functions, such as dividend distribution, proxy voting, and tax withholding,

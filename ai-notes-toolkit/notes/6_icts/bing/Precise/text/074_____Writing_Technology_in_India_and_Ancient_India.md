@@ -1,0 +1,6 @@
+### Writing Technology in India and Ancient India
+
+- The Indic writing systems include the syllabic Kharosthi and semialphabetic Brahmi scripts of ancient India. No systems of writing subsequently developed from the Kharosthi script.
+- Many phones and computers in India are not specifically designed with Indic script keyboards and instead use the Roman alphabet keyboards common in the West. Transliteration software renders this moot. The increased use of Indic-language scripts has also lead to newer and more artistic fonts for Indian languages.
+- While India’s scripts are ancient, technology and modernity are changing their usage patterns, and are in fact allowing them to thrive as never before in standardized and widely used forms.
+- Ancient Indian scripts have been used in the history of the Indian subcontinent as writing systems. The Indian subcontinent consists of various separate linguistic communities, each of which share a common language and culture. The people of the ancient India wrote in many scripts which largely have common roots.

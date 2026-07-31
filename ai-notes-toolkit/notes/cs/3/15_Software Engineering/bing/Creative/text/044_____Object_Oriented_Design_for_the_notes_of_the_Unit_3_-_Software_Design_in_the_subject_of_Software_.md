@@ -1,0 +1,27 @@
+### Object Oriented Design for the notes of the Unit 3 - Software Design in the subject of Software Engineering
+
+- Object Oriented Design (OOD) is the process of planning a system of interacting objects for the purpose of solving a software problem.
+- OOD transforms the analysis model created using Object Oriented Analysis (OOA) into a design model that serves as a blueprint for software construction.
+- OOD is based on the object oriented paradigm, which is a common approach to modeling applications, systems, and business domains by using the concepts of classes, objects, inheritance, polymorphism, and encapsulation.
+- OOD aims to achieve the following benefits:
+  - Reusability: The objects and classes can be reused in different contexts and applications, reducing the development time and cost.
+  - Extensibility: The system can be easily extended by adding new classes and objects, without affecting the existing ones.
+  - Maintainability: The system can be easily modified and updated, as the changes are localized to specific classes and objects.
+  - Reliability: The system can be tested and verified at the level of individual classes and objects, ensuring the quality and correctness of the software.
+- OOD follows some principles and guidelines to ensure the quality and effectiveness of the design, such as:
+  - SOLID: The acronym for the first five principles of object oriented design, which are:
+    - Single Responsibility Principle: A class should have only one reason to change, meaning that it should have only one responsibility or functionality.
+    - Open/Closed Principle: A class should be open for extension, but closed for modification, meaning that it should allow adding new features without altering the existing ones.
+    - Liskov Substitution Principle: A subclass should be substitutable for its superclass, meaning that it should adhere to the contract and behavior of its superclass.
+    - Interface Segregation Principle: A class should not be forced to depend on methods that it does not use, meaning that it should have multiple, specific interfaces rather than a single, general one.
+    - Dependency Inversion Principle: A class should depend on abstractions, not concretions, meaning that it should rely on interfaces or abstract classes rather than concrete classes.
+  - GRASP: The acronym for the general responsibility assignment software patterns, which are:
+    - Creator: A class that creates an object should be responsible for its initialization and lifetime management.
+    - Information Expert: A class that has the most information about a certain domain concept should be responsible for the actions related to that concept.
+    - Low Coupling: A class should have minimal dependencies on other classes, reducing the impact of changes and improving the modularity and reusability of the system.
+    - High Cohesion: A class should have a clear and focused purpose, meaning that its methods and attributes should be closely related and relevant to its functionality.
+    - Controller: A class that mediates the communication between the user interface and the domain layer, coordinating the system behavior and delegating the work to other classes.
+    - Polymorphism: A class that defines a common interface for a set of subclasses, allowing them to be used interchangeably and dynamically based on their actual type.
+    - Pure Fabrication: A class that does not represent a domain concept, but is created to achieve low coupling, high cohesion, or reuse.
+    - Indirection: A class that acts as an intermediary between two or more classes, decoupling them and reducing their direct interaction.
+    - Protected Variations: A class that isolates the points of variability or instability in the system, protecting the other classes from the effects of changes.

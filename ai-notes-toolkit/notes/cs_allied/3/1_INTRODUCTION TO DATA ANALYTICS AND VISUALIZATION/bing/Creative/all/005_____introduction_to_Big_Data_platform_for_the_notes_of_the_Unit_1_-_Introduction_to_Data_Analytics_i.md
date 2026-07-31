@@ -1,0 +1,22 @@
+# Introduction to Big Data Platform
+
+- A big data platform is an integrated computing solution that combines numerous software systems, tools, and hardware for big data management.
+- Big data refers to the large volume, variety, and velocity of data that exceeds the capacity of traditional data processing systems.
+- A big data platform works to wrangle this amount of information, storing it in a manner that is organized and understandable enough to extract useful insights.
+- A big data platform typically consists of the following components:
+  - Data sources: The origin of the data, such as sensors, web logs, social media, etc.
+  - Data ingestion: The process of collecting, transferring, and loading the data into the platform, such as using batch or streaming methods.
+  - Data storage: The system that stores the data in a scalable and reliable way, such as using distributed file systems, databases, or data warehouses.
+  - Data processing: The system that transforms, analyzes, and queries the data, such as using MapReduce, Spark, SQL, or machine learning algorithms.
+  - Data visualization: The system that presents the data in a meaningful and interactive way, such as using dashboards, charts, or graphs.
+- Some examples of big data platforms are :
+  - Amazon Web Services (AWS): A cloud computing platform that offers various services for big data, such as S3, EMR, Redshift, Athena, etc.
+  - Google Cloud Platform (GCP): A cloud computing platform that offers various services for big data, such as BigQuery, Dataflow, Dataproc, etc.
+  - Microsoft Azure: A cloud computing platform that offers various services for big data, such as HDInsight, Data Lake, Synapse, etc.
+  - Hadoop: An open-source framework that allows distributed processing of large data sets across clusters of computers, using components such as HDFS, MapReduce, Hive, etc.
+  - Spark: An open-source framework that allows fast and general-purpose processing of large data sets in memory, using components such as Spark SQL, Spark Streaming, MLlib, etc.
+- The benefits of using a big data platform are :
+  - Scalability: A big data platform can handle the increasing volume and variety of data by adding more nodes or resources to the system.
+  - Performance: A big data platform can process the data faster and more efficiently by using parallel and distributed computing techniques.
+  - Flexibility: A big data platform can support different types and formats of data, such as structured, unstructured, or semi-structured data, and different methods of processing, such as batch or streaming.
+  - Insight: A big data platform can provide valuable information and knowledge from the data, such as trends, patterns, correlations, or predictions, that can help in decision making and problem solving.

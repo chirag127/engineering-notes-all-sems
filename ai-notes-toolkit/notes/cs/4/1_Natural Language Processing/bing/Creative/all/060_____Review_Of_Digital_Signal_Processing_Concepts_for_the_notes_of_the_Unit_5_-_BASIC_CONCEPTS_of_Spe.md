@@ -1,0 +1,14 @@
+# Review Of Digital Signal Processing Concepts
+
+Digital signal processing (DSP) is the use of digital processing, such as by computers or more specialized digital signal processors, to perform a wide variety of signal processing operations. The digital signals processed in this manner are a sequence of numbers that represent samples of a continuous variable in a domain such as time, space, or frequency.
+
+Some of the basic concepts and algorithms of DSP are:
+
+- **Data digitizing**: This is the process of converting continuous signals to finite discrete digital signals by sampling, quantizing, and encoding. Sampling is the process of taking periodic measurements of the signal at a fixed rate. Quantizing is the process of approximating the sampled values to a finite set of levels. Encoding is the process of assigning binary codes to the quantized levels .
+- **Noise elimination**: This is the process of removing unwanted components from the signal that may interfere with the desired information. Noise can be random or deterministic, and can be reduced by using filters, adaptive algorithms, or statistical methods .
+- **Quality improvement**: This is the process of enhancing the signal by increasing or decreasing certain signal amplitudes, such as by using equalizers, compressors, or expanders. Quality improvement can also involve modifying the signal spectrum, such as by using Fourier transform, discrete cosine transform, or wavelet transform .
+- **Security enhancement**: This is the process of ensuring the confidentiality and integrity of the signal during transmission by encoding the data using encryption, modulation, or coding techniques. Security enhancement can also involve detecting and correcting errors that may occur due to noise or interference, such as by using error detection and correction codes, or cyclic redundancy check codes .
+- **Data storage**: This is the process of saving the digital signal in a memory device, such as a hard disk, a flash drive, or a cloud server. Data storage can involve compressing the signal to reduce the space required, or encrypting the signal to protect the data .
+- **Data access**: This is the process of retrieving the digital signal from the storage device, such as by using a file system, a database, or a network protocol. Data access can involve decompressing the signal to restore the original quality, or decrypting the signal to access the information .
+
+These are some of the basic concepts and algorithms of DSP that are used for various applications, such as speech processing, image processing, audio processing, video processing, biomedical signal processing, radar signal processing, and communication systems  .

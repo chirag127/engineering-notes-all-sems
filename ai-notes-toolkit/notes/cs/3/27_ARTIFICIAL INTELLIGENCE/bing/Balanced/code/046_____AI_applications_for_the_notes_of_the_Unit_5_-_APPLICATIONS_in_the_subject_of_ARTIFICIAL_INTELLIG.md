@@ -1,0 +1,27 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on AI applications for the Unit 5 - APPLICATIONS in the subject of ARTIFICIAL INTELLIGENCE KCS. Here is the content I have generated for you in markdown format:
+
+# AI applications
+
+## Introduction
+
+Artificial intelligence (AI) is the branch of computer science that deals with creating machines or software that can perform tasks that normally require human intelligence, such as reasoning, learning, planning, decision making, natural language processing, computer vision, speech recognition, etc. AI applications are the systems or programs that use AI techniques to solve real-world problems or provide services to users. AI applications can be classified into different categories based on the domain, the task, the technique, or the level of intelligence they exhibit.
+
+## Categories of AI applications
+
+### Based on the domain
+
+AI applications can be categorized based on the domain or the field of knowledge they operate in, such as:
+
+- **Healthcare**: AI applications in healthcare aim to improve the diagnosis, treatment, and prevention of diseases, as well as to enhance the quality and efficiency of healthcare services. Examples of AI applications in healthcare are:
+
+  - **Medical diagnosis systems**: These are systems that use AI techniques, such as expert systems, neural networks, or machine learning, to analyze the symptoms, medical history, and test results of a patient, and to provide a diagnosis or a recommendation for treatment. For example, MYCIN was an early expert system that could diagnose bacterial infections and suggest antibiotics. IBM Watson Health is a platform that uses natural language processing and machine learning to analyze medical data and provide insights for doctors and researchers.
+  - **Medical imaging systems**: These are systems that use AI techniques, such as computer vision, deep learning, or image processing, to analyze medical images, such as X-rays, MRI scans, or ultrasound images, and to detect, classify, or segment abnormalities, such as tumors, lesions, or fractures. For example, CAD (computer-aided diagnosis) systems can assist radiologists in detecting breast cancer or lung nodules from mammograms or chest X-rays. DeepMind Health is a project that uses deep learning to improve the accuracy and speed of medical imaging analysis.
+  - **Drug discovery systems**: These are systems that use AI techniques, such as machine learning, data mining, or natural language processing, to discover new drugs or optimize existing drugs, by analyzing large amounts of biological, chemical, or clinical data. For example, Atomwise is a company that uses deep learning to predict the binding affinity of molecules to proteins, and to design new drugs for various diseases. IBM Watson Drug Discovery is a platform that uses natural language processing and machine learning to extract insights from scientific literature and data, and to generate hypotheses for drug discovery.
+
+- **Education**: AI applications in education aim to enhance the learning outcomes, engagement, and personalization of education, as well as to support the teachers and students in the learning process. Examples of AI applications in education are:
+
+  - **Intelligent tutoring systems**: These are systems that use AI techniques, such as expert systems, machine learning, or natural language processing, to provide adaptive and personalized instruction, feedback, and guidance to students, based on their learning goals, preferences, and performance. For example, Cognitive Tutor is a system that uses cognitive models to teach mathematics to students, and to provide them with problems, hints, and explanations. Knewton is a platform that uses machine learning to create adaptive learning courses for various subjects and levels.
+  - **Educational data mining and learning analytics systems**: These are systems that use AI techniques, such as data mining, machine learning, or natural language processing, to analyze large amounts of educational data, such as student records, grades, assessments, or interactions, and to provide insights, predictions, or recommendations for improving the learning process and outcomes. For example, EDM (educational data mining) systems can discover patterns, relationships, or trends in the data, such as student behaviors, learning styles, or difficulties. LA (learning analytics) systems can use the data to measure, monitor, or optimize the learning process, such as student engagement, progress, or performance.
+  - **Natural language processing systems**: These are systems that use AI techniques, such as natural language processing, natural language generation, or natural language understanding, to process, generate, or understand natural language, such as text or speech, in the context of education. For example, NLP systems can be used to create or grade assignments, essays, or tests, to provide feedback or explanations, to summarize or paraphrase texts, to generate questions or answers, to translate or transcribe languages, or to facilitate communication or collaboration among students or teachers.
+
+- **Entertainment**: AI applications in entertainment aim to create, enhance,

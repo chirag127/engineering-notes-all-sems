@@ -1,0 +1,9 @@
+## Unit 3 - Quantum Computers
+
+- A quantum computer is a computer that exploits quantum mechanical phenomena. At small scales, physical matter exhibits properties of both particles and waves, and quantum computing leverages this behavior using specialized hardware.
+- Quantum computers use quantum bits or qubits as the basic units of information. Unlike classical bits that can only be in one of two states (0 or 1), qubits can be in superposition of both states simultaneously, meaning they can store more information and perform more operations.
+- Quantum computers can also take advantage of another quantum phenomenon called entanglement, which is a special correlation between two or more qubits that allows them to share information and influence each other, even when they are physically separated.
+- Quantum computers can potentially solve problems that are too complex for classical computers, such as factoring large numbers, simulating quantum systems, optimizing complex functions, and breaking encryption schemes.
+- Quantum computers are still in the early stages of development and face many challenges, such as maintaining coherence and fidelity of qubits, scaling up the number and quality of qubits, and creating efficient and reliable quantum algorithms and error correction methods.
+- Quantum computers are elegant machines, smaller and requiring less energy than supercomputers. An IBM Quantum processor is a wafer not much bigger than the one found in a laptop.
+- Quantum computing is a rapidly-emerging technology that harnesses the laws of quantum mechanics to solve problems too complex for classical computers. Today, IBM Quantum makes real quantum hardware -- a tool scientists only began to imagine three decades ago -- available to hundreds of thousands of developers.

@@ -1,0 +1,12 @@
+### WORD LEVEL ANALYSIS
+
+Word level analysis is the process of analyzing natural language at the level of individual words or tokens. It involves identifying the basic units of meaning and structure in a text, such as morphemes, words, parts of speech, and punctuation marks. Word level analysis can help us to understand the lexical and syntactic properties of natural language, as well as to perform tasks such as text normalization, tokenization, stemming, lemmatization, and spell checking.
+
+Some of the techniques and tools used for word level analysis are:
+
+- **Regular expressions**: A regular expression (RE) is a language for specifying text search strings. RE helps us to match or find other strings or sets of strings, using a specialized syntax held in a pattern. RE can be used to perform tasks such as finding and replacing text, extracting information, validating input, and splitting text into tokens.
+- **Morphological analysis**: Morphological analysis deals with the identification and analysis of the smallest units of meaning in a word, called morphemes. A morpheme can be a root, a prefix, a suffix, or an infix. Morphological analysis can help us to determine the meaning, category, and inflection of a word, as well as to generate new words from existing ones.
+- **Part-of-speech tagging**: Part-of-speech (POS) tagging is the process of assigning a grammatical category to each word in a text, such as noun, verb, adjective, adverb, etc. POS tagging can help us to understand the syntactic role and function of words in a sentence, as well as to perform tasks such as parsing, named entity recognition, and sentiment analysis.
+- **Word embeddings**: Word embeddings are numerical representations of words that capture their semantic and syntactic similarities and differences. Word embeddings are learned from large corpora of text using neural network models, such as word2vec, GloVe, and fastText. Word embeddings can help us to perform tasks such as word similarity, analogy, clustering, and classification.
+
+Word level analysis is an essential component of natural language processing, as it provides the foundation for higher-level analysis and applications. Word level analysis can help us to extract useful information and insights from natural language, as well as to generate new and creative text.

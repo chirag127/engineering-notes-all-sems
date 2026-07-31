@@ -1,0 +1,12 @@
+### Basic idea of domain bacteria
+
+- Domain bacteria is one of the three domains of life, along with domain archaea and domain eukarya.
+- Domain bacteria includes the prokaryotes people encounter on an everyday basis. Prokaryotes are organisms that lack a membrane-bound nucleus and other organelles.
+- Most bacterial species are heterotrophic; that is, they acquire their food from organic matter. The largest number of bacteria are saprobic, meaning that they feed on dead or decaying organic matter. A few bacterial species are parasitic; these bacteria live within host organisms and cause disease.
+- Domain bacteria can be classified into five main phyla: proteobacteria, cyanobacteria, firmicutes, actinobacteria, and spirochaetes.
+- Proteobacteria are the largest and most diverse group of bacteria. They include many common pathogens, such as E. coli, Salmonella, and H. pylori, as well as many beneficial bacteria, such as nitrogen-fixing bacteria and bioluminescent bacteria.
+- Cyanobacteria are also known as blue-green algae. They are capable of photosynthesis and produce oxygen as a by-product. They are important for the evolution of life on Earth, as they are believed to be the first organisms to perform oxygenic photosynthesis.
+- Firmicutes are mostly Gram-positive bacteria, meaning that they have a thick cell wall that retains a purple dye in a staining technique. They include many bacteria that live in the human gut, such as Lactobacillus and Clostridium, as well as some pathogens, such as Staphylococcus and Streptococcus.
+- Actinobacteria are also mostly Gram-positive bacteria, but they have a high GC content in their DNA, meaning that they have more guanine and cytosine bases than adenine and thymine bases. They include many soil bacteria, such as Streptomyces and Mycobacterium, which produce antibiotics and cause tuberculosis, respectively.
+- Spirochaetes are bacteria that have a spiral shape and a flagellum that allows them to move in a corkscrew fashion. They include some bacteria that cause syphilis, Lyme disease, and leptospirosis.
+- Domain bacteria play a vital role in the production of industrial chemicals and pharmaceuticals, such as ethanol, acetone, penicillin, insulin, and human growth hormone. They also help in bioremediation, which is the use of microorganisms to degrade or detoxify pollutants in the environment .

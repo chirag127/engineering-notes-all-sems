@@ -1,0 +1,10 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the content for the topic of Database System vs File System for the notes of the Unit 1 - Introduction in the subject of Database Management System.
+
+### Database System vs File System
+
+- A database system is a software that manages the storage, retrieval, and manipulation of data in a structured and organized way. A file system is a software that manages the storage, retrieval, and manipulation of data in files and directories on a disk or other storage device.
+- A database system provides a logical view of data that is independent of the physical storage and implementation details. A file system provides a physical view of data that is dependent on the file format and directory structure.
+- A database system supports multiple users and concurrent access to the same data. A file system supports single or limited users and sequential access to the same data.
+- A database system ensures data consistency, integrity, security, and recovery using various techniques such as transactions, constraints, encryption, backup, and recovery. A file system does not ensure these features and relies on the application or the user to implement them.
+- A database system supports various data models, such as relational, hierarchical, network, object-oriented, etc., and various query languages, such as SQL, QBE, etc., to manipulate the data. A file system supports only one data model, which is the file, and does not support any query language to manipulate the data.
+- A database system requires more resources, such as memory, disk space, CPU, etc., and more maintenance, such as installation, configuration, tuning, etc., than a file system. A file system requires less resources and maintenance than a database system.

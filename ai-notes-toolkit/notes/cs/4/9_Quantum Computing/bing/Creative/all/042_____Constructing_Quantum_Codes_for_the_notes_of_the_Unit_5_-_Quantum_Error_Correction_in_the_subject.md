@@ -1,0 +1,13 @@
+# Constructing Quantum Codes
+
+Quantum codes are methods of encoding quantum information in such a way that errors caused by noise or decoherence can be detected and corrected. Quantum codes are essential for reliable quantum computation and communication. There are different ways of constructing quantum codes, some of which are based on classical error-correcting codes, and some of which are specific to quantum systems. Here are some of the main methods of constructing quantum codes:
+
+- **CSS construction**: This is a method of constructing quantum codes from two classical linear codes, one of which is a subcode of the dual of the other. The resulting quantum code can correct both bit-flip and phase-flip errors. The CSS construction was proposed by Calderbank, Shor and Steane  . An example of a CSS code is the quantum Hamming code, which is based on the classical Hamming code .
+
+- **Stabilizer codes**: These are a special class of CSS codes that can be described by a set of commuting operators called stabilizers. The stabilizers are the generators of an Abelian group that acts on the quantum code space. Stabilizer codes are easy to manipulate and analyze, and can be constructed from various classical codes, such as Reed-Muller codes, Reed-Solomon codes, BCH codes, etc.  .
+
+- **Quantum LDPC codes**: These are quantum codes that have a low-density parity-check matrix, which means that each row and column of the matrix has a small number of nonzero entries. Quantum LDPC codes can be constructed from classical LDPC codes using the CSS construction or other methods. Quantum LDPC codes have good error-correcting performance and low decoding complexity .
+
+- **Quantum MDS codes**: These are quantum codes that have the maximum possible distance for a given length and dimension. The distance of a quantum code is the minimum number of qubits that need to be changed to transform one codeword into another. Quantum MDS codes are optimal for correcting errors, but they are hard to construct. Some methods of constructing quantum MDS codes are based on classical MDS codes, such as Reed-Solomon codes, generalized Reed-Solomon codes, etc. .
+
+- **Quantum spherical codes**: These are quantum codes that are defined on spheres, which are subsets of the Hilbert space of quantum states that have a constant norm. Quantum spherical codes can be seen as quantum analogues of the classical spherical codes, which are sets of points on a sphere that are as far apart as possible. Quantum spherical codes can be applied to bosonic coding, which is a way of encoding quantum information in the states of bosonic systems, such as harmonic oscillators, photons, etc. .

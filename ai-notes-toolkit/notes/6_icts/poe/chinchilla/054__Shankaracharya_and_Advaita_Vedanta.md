@@ -1,0 +1,12 @@
+### Shankaracharya and Advaita Vedanta
+
+Shankaracharya is an Indian philosopher and theologian who lived in the 8th century CE. He is considered to be one of the most important figures in the development of Hinduism, and his teachings have had a profound influence on Indian philosophy and religion. One of his most important contributions is the development of Advaita Vedanta, a school of thought that emphasizes the unity of all things and the ultimate reality of the universe.
+
+Here are some key points about Shankaracharya and Advaita Vedanta:
+
+- Shankaracharya was born in Kerala, India, in the 8th century CE. He is believed to have lived for only 32 years, but during that time, he wrote numerous commentaries on the Hindu scriptures and established four monasteries in different parts of India.
+- Advaita Vedanta is a school of Hindu philosophy that emphasizes the oneness of all things and the ultimate reality of the universe. According to Advaita Vedanta, the ultimate reality is Brahman, a divine consciousness that is present in all beings.
+- The Advaita Vedanta philosophy teaches that the world is an illusion, and that the only true reality is Brahman. The concept of Maya, or illusion, is central to this philosophy. According to Advaita Vedanta, Maya is the power that creates the illusion of the world and separates individuals from the ultimate reality of Brahman.
+- Shankaracharya's commentaries on the Hindu scriptures, particularly the Upanishads, are considered to be some of the most important works in Indian philosophy. He argued that the teachings of the Upanishads were a form of nondualism, which means that there is no fundamental separation between the individual soul (Atman) and Brahman.
+- Shankaracharya also developed the concept of Jivanmukti, which is the state of liberation while still living. According to this concept, individuals can achieve liberation from the cycle of rebirth and attain unity with Brahman while still alive.
+- Advaita Vedanta is still an important school of Hindu philosophy today, and Shankaracharya's teachings continue to influence scholars and practitioners of Hinduism. His commentaries on the Upanishads and other Hindu scriptures are still widely read and studied, and his monasteries continue to be important centers of learning and spiritual practice.

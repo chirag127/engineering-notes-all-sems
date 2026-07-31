@@ -1,0 +1,13 @@
+### Locality of reference for the notes of the Unit 4 - Memory Management in the subject of Operating system
+
+- Locality of reference is the tendency of a computer program to access the same set of memory locations for a particular time period .
+- Locality of reference is based on the observation that programs usually exhibit two types of locality: temporal and spatial  .
+- Temporal locality means that a memory location that is accessed once is likely to be accessed again soon. For example, a loop variable or a frequently used function.
+- Spatial locality means that a memory location that is accessed once is likely to have its nearby locations accessed soon. For example, an array or a sequential code.
+- Locality of reference is important for memory management because it can improve the performance and efficiency of the system by reducing the number of page faults and cache misses .
+- Page faults occur when a program tries to access a page that is not present in the main memory. Cache misses occur when a program tries to access a data that is not present in the cache memory.
+- To exploit the locality of reference, the system can use various techniques such as caching, paging, prefetching, and buffering to keep the frequently and recently accessed data in the faster and smaller memory levels .
+- Caching is the process of storing a copy of a data in a cache memory, which is faster and closer to the processor than the main memory. The cache memory can store the most frequently or recently accessed data, and check if the requested data is already in the cache before accessing the main memory.
+- Paging is the process of dividing the main memory and the virtual memory into fixed-size units called pages. The pages that are currently needed by the program are loaded into the main memory, and the pages that are not needed are swapped out to the virtual memory. The system maintains a page table that maps the logical addresses to the physical addresses of the pages.
+- Prefetching is the process of fetching the data that is likely to be accessed soon from the main memory or the virtual memory to the cache memory or the main memory in advance. Prefetching can reduce the latency and the number of page faults and cache misses by anticipating the future data requests.
+- Buffering is the process of temporarily storing the data in a buffer, which is a memory area that can hold multiple data items. Buffering can improve the performance and efficiency of the system by reducing the number of memory accesses and allowing the data to be processed in batches.

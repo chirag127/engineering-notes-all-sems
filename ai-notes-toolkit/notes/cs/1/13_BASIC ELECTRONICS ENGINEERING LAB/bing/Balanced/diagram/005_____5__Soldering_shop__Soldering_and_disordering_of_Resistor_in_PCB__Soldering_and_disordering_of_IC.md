@@ -1,0 +1,21 @@
+### 5. Soldering shop: Soldering and disordering of Resistor in PCB. Soldering and disordering of IC in PCB. Soldering and disordering of Capacitor in PCB
+
+Soldering is the process of joining two or more metal parts by melting and flowing a filler metal (solder) into the joint. Soldering is commonly used to attach electronic components to printed circuit boards (PCBs). Disorder or desoldering is the process of removing solder and components from a PCB for repair or reuse.
+
+The following are some steps and tips for soldering and disordering of resistor, IC and capacitor in PCB:
+
+- Soldering and disordering of resistor in PCB:
+
+  - Resistor is a passive component that limits the current flow in a circuit. Resistor has two leads that are soldered to the solder pads on the PCB.
+  - To solder a resistor, first clean the solder pads and the leads of the resistor with a flux or a soldering tip cleaner. Then, heat up the soldering iron and apply a small amount of solder to the tip. Place the resistor on the PCB and align the leads with the solder pads. Touch the tip of the soldering iron to one of the leads and the solder pad, and melt enough solder to form a smooth and shiny joint. Repeat the same for the other lead. Avoid applying too much solder or heat, as this may damage the resistor or the PCB.
+  - To disorder a resistor, first heat up the soldering iron and apply some solder to the tip. Then, touch the tip of the soldering iron to one of the solder joints and melt the solder. Use a solder sucker or a desoldering braid to remove the molten solder from the joint. Repeat the same for the other joint. Gently pull the resistor out of the PCB. Clean the solder pads with a flux or a soldering tip cleaner.
+
+- Soldering and disordering of IC in PCB:
+
+  - IC or integrated circuit is a component that contains many electronic devices on a single chip. IC has many pins that are soldered to the solder pads on the PCB. IC may come in different packages, such as through-hole or surface-mount. IC may also have a socket that allows easy insertion and removal of the chip.
+  - To solder a through-hole IC, first clean the solder pads and the pins of the IC with a flux or a soldering tip cleaner. Then, heat up the soldering iron and apply a small amount of solder to the tip. Insert the IC into the socket or the PCB and align the pins with the solder pads. Touch the tip of the soldering iron to one of the pins and the solder pad, and melt enough solder to form a smooth and shiny joint. Repeat the same for the other pins. Avoid applying too much solder or heat, as this may damage the IC or the PCB.
+  - To solder a surface-mount IC, first clean the solder pads and the pins of the IC with a flux or a soldering tip cleaner. Then, heat up the soldering iron and apply a small amount of solder to the tip. Position the IC on the PCB and align the pins with the solder pads. Tack or affix the IC in place by soldering one or two pins on opposite corners. Then, solder the rest of the pins by dragging the tip of the soldering iron along the pins and the solder pads. Avoid applying too much solder or heat, as this may cause solder bridges or damage the IC or the PCB.
+  - To disorder a through-hole IC, first heat up the soldering iron and apply some solder to the tip. Then, touch the tip of the soldering iron to one of the solder joints and melt the solder. Use a solder sucker or a desoldering braid to remove the molten solder from the joint. Repeat the same for the other joints. Gently pull the IC out of the socket or the PCB. Clean the solder pads with a flux or a soldering tip cleaner.
+  - To disorder a surface-mount IC, first heat up the soldering iron and apply some solder to the tip. Then, touch the tip of the soldering iron to one of the solder joints and melt the solder. Use a solder sucker or a desoldering braid to remove the molten solder from the joint. Repeat the same for the other joints. Use a pair of tweezers or a small screwdriver to lift the IC off the PCB. Clean the solder pads with a flux or a soldering tip cleaner.
+
+- Soldering and disordering of capacitor in PCB:

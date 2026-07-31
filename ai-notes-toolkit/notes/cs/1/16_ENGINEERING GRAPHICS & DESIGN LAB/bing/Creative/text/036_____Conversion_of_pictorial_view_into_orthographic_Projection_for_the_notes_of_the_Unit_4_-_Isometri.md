@@ -1,0 +1,10 @@
+### Conversion of pictorial view into orthographic projection
+
+- Pictorial view is a 3-D view of an object that shows how it looks in reality. It can be perspective, isometric or oblique.
+- Orthographic projection is a method of representing an object by using two or more 2-D views that show different sides of the object. It can be multiview or axonometric .
+- To convert a pictorial view into an orthographic projection, the following steps can be followed:
+  - Identify the principal view of the object, which is the view that shows the most features and details. Usually, it is the front view, but it can also be the top or side view depending on the object .
+  - Draw the principal view on a plane of projection, such as a sheet of paper, using the same scale and dimensions as the pictorial view. Use straight lines, curves, circles and arcs to represent the edges, faces and curves of the object. Use hidden lines to show the features that are not visible from the principal view.
+  - Draw the other views of the object on adjacent planes of projection, such as the top, bottom, left and right views. Use the same scale and dimensions as the principal view. Align the views with the principal view using projection lines, which are perpendicular to the planes of projection. Use the same conventions as the principal view for hidden lines, curves and circles .
+  - Label the views with letters or numbers, such as F for front, T for top, L for left, etc. Indicate the viewing direction with arrows. Use a title block to provide information about the drawing, such as the name of the object, the scale, the date, the author, etc .
+  - Check the accuracy and completeness of the orthographic projection. Make sure that the views are consistent, clear and unambiguous. Use dimensions, symbols, notes and annotations to provide additional information if needed .

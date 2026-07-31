@@ -1,0 +1,20 @@
+### Types of Cloud
+
+Cloud computing is the delivery of computing services over the internet, such as servers, storage, databases, networking, software, analytics, and intelligence. Cloud computing can be classified into two main categories: deployment models and service models.
+
+#### Deployment Models
+
+Deployment models refer to how the cloud infrastructure is located and who has access to it. There are four common types of deployment models:
+
+- **Public cloud**: The cloud infrastructure is owned and operated by a third-party cloud service provider, such as Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP). The cloud services are available to anyone over the internet, and the users share the same pool of resources. Public cloud is suitable for applications that require scalability, flexibility, and cost-efficiency, such as web hosting, e-commerce, or social media.
+- **Private cloud**: The cloud infrastructure is dedicated to a single organization or a group of organizations that share common goals and policies. The cloud services are not accessible to the public, and the users have more control and security over the resources. Private cloud can be hosted on-premises or off-premises by a cloud service provider or a third-party vendor. Private cloud is suitable for applications that require high performance, compliance, or customization, such as financial services, health care, or government.
+- **Hybrid cloud**: The cloud infrastructure is a combination of public and private clouds, connected by a secure network. The cloud services can be moved between the clouds depending on the workload, cost, or performance requirements. Hybrid cloud is suitable for applications that require flexibility, scalability, and security, such as disaster recovery, data backup, or seasonal demand.
+- **Community cloud**: The cloud infrastructure is shared by a specific community of users who have common interests, needs, or concerns. The cloud services are accessible only to the members of the community, and the users have a shared responsibility for the governance and management of the resources. Community cloud can be hosted on-premises or off-premises by a cloud service provider or a third-party vendor. Community cloud is suitable for applications that require collaboration, compliance, or social responsibility, such as research, education, or non-profit.
+
+#### Service Models
+
+Service models refer to how the cloud services are delivered and consumed by the users. There are three main types of service models:
+
+- **Software-as-a-Service (SaaS)**: The cloud service provider delivers software applications over the internet, which the users can access through a web browser or a mobile app. The users do not need to install, maintain, or update the software, and they pay only for the usage or subscription. SaaS is suitable for applications that require standard functionality, accessibility, and convenience, such as email, office suite, or customer relationship management (CRM).
+- **Platform-as-a-Service (PaaS)**: The cloud service provider delivers a platform that enables the users to develop, test, deploy, and manage their own software applications without worrying about the underlying infrastructure, such as servers, operating systems, or databases. The users can use the tools, libraries, and frameworks provided by the platform, and they pay only for the resources they consume. PaaS is suitable for applications that require rapid development, scalability, and innovation, such as web applications, mobile applications, or data analytics.
+- **Infrastructure-as-a-Service (IaaS)**: The cloud service provider delivers the basic computing resources, such as servers, storage, network, and virtualization, over the internet, which the users can provision and configure according to their needs. The users have full control and responsibility over the infrastructure, and they pay only for the resources they use. IaaS is suitable for applications that require high performance, customization, or flexibility, such as high-performance computing (HPC), big data, or gaming.

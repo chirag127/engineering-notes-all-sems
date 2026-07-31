@@ -1,0 +1,11 @@
+### Contactless IOT Doorbell for the notes of the Unit 3 - Problem Analysis and Designing a Solution in the subject of ADVANCE INTERNET OF THINGS LAB
+
+- A contactless IOT doorbell is a device that can detect the presence of a visitor at the door without requiring any physical contact, such as pressing a button or ringing a bell.
+- A contactless IOT doorbell can also perform additional functions, such as measuring the temperature of the visitor, recognizing the face of the visitor, sending alerts to the homeowner, and providing voice assistance to the visitor.
+- A contactless IOT doorbell can be useful for preventing the spread of infectious diseases, such as Covid-19, by avoiding direct contact between the visitor and the homeowner, and by screening the visitor for fever symptoms.
+- A contactless IOT doorbell can also enhance the security and convenience of the homeowner, by allowing them to monitor the activity outside the door, to communicate with the visitor remotely, and to sound an alarm in case of suspicious behavior.
+- A contactless IOT doorbell can be designed using various components, such as a microcontroller, a camera, a speaker, a temperature sensor, a motion sensor, a wireless module, and a power supply.
+- A contactless IOT doorbell can be connected to the internet using a wireless module, such as Wi-Fi, Bluetooth, or GSM, and can use an online database, such as Firebase, to store and retrieve the data from the device.
+- A contactless IOT doorbell can also use a mobile app or a web app to provide a user interface for the homeowner and the visitor, and to display the data from the device, such as the temperature, the face, and the alerts.
+- A contactless IOT doorbell can use various algorithms and techniques, such as face recognition, voice recognition, image processing, machine learning, and cloud computing, to perform the functions of the device.
+- A contactless IOT doorbell can be evaluated based on various criteria, such as accuracy, reliability, usability, scalability, security, and cost.

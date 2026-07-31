@@ -1,0 +1,13 @@
+### Feasibility Study in Software Requirement Specification (SRS)
+
+A feasibility study is an essential part of the software requirement specification (SRS) process. It is a preliminary study that determines the viability of the proposed system or software project. The primary goal of the feasibility study is to identify and analyze the technical, economic, and operational feasibility of the project. Here are some key points to consider in the feasibility study:
+
+- Technical Feasibility: This aspect of feasibility study assesses the technical requirements of the software project. It includes evaluating the hardware and software resources required to develop the system, the technical skills of the development team, and the compatibility of the proposed system with existing technologies. The technical feasibility analysis ensures that the proposed system is technically feasible to develop and operate.
+
+- Economic Feasibility: This aspect of feasibility study evaluates the economic viability of the software project. It includes conducting a cost-benefit analysis, determining the return on investment (ROI), and assessing the financial risks associated with the project. The economic feasibility analysis helps in determining whether the project is financially feasible to develop and operate.
+
+- Operational Feasibility: This aspect of feasibility study examines the organizational and operational requirements of the software project. It includes assessing the impact of the proposed system on the existing business processes, evaluating the user acceptance of the system, and identifying the training and support requirements for the system users. The operational feasibility analysis helps in determining whether the proposed system is operationally feasible to develop and operate.
+
+- Legal and Ethical Feasibility: This aspect of feasibility study evaluates the legal and ethical implications of the software project. It includes assessing the compliance of the proposed system with applicable laws, regulations, and ethical guidelines. The legal and ethical feasibility analysis helps in determining whether the proposed system is legally and ethically feasible to develop and operate.
+
+In conclusion, a feasibility study is a critical component of the software requirement specification process. It helps in determining the viability of the proposed system or software project, identifying potential risks and challenges, and making informed decisions about the project's development and operation. A well-conducted feasibility study can help in ensuring the success of the software project and achieving the desired outcomes.

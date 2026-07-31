@@ -1,0 +1,23 @@
+## Unit 4 - Symbol Tables
+
+- A symbol table is a data structure that stores information about the identifiers (symbols) used in a program, such as variables, constants, functions, etc.
+- A symbol table is typically used by a compiler or an interpreter to perform various tasks, such as:
+  - Checking the validity and scope of identifiers
+  - Resolving name conflicts and references
+  - Generating intermediate or machine code
+  - Optimizing the code
+- A symbol table usually consists of a set of entries, each containing the following information about an identifier:
+  - Name: the textual representation of the identifier
+  - Type: the data type or category of the identifier
+  - Attributes: additional information, such as the value, address, size, scope, visibility, etc. of the identifier
+  - Link: a pointer to another entry or a subtable, if the identifier is a composite or a structured type
+- A symbol table can be implemented using various data structures, such as:
+  - Linear lists: a simple and sequential representation, but inefficient for searching and updating
+  - Binary trees: a hierarchical and ordered representation, but requires balancing and reorganization
+  - Hash tables: a random and distributed representation, but requires a good hash function and collision resolution
+  - Trie: a tree-like representation, but efficient for prefix-based searching and insertion
+- A symbol table can be organized in various ways, depending on the structure and scope of the program, such as:
+  - Global symbol table: a single table that contains all the identifiers in the program, but may cause name conflicts and memory wastage
+  - Local symbol table: a separate table for each block or function in the program, but may require multiple passes and linking
+  - Nested symbol table: a hierarchical table that reflects the nesting of blocks or functions in the program, but may require complex lookup and insertion algorithms
+  - Chained symbol table: a linked list of tables that follows the static or dynamic scope rules of the program, but may require traversal and duplication

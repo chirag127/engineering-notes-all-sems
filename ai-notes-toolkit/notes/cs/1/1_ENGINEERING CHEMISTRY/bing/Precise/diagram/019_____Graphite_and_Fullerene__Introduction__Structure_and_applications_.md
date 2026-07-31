@@ -1,0 +1,9 @@
+### Graphite and Fullerene; Introduction, Structure and applications
+
+Graphite and Fullerene are two allotropes of carbon. Graphite has a layered structure in which hexagonal rings are connected to each other. The fullerene structure is similar to graphite, but a pentagonal ring may also exist in the fullerene structure. The most abundant form of fullerene is Buckminster fullerene (C 60), which has 60 carbon atoms arranged in a spherical structure .
+
+Graphene is a single layer of graphite and has properties that make it useful in electronics and composites. Like graphite, graphene conducts electricity well because it has delocalised electrons that are free to move across its surface .
+
+Fullerenes have a similar structure to graphite, which is made up of a sheet of connected hexagonal rings, but they have pentagonal (or sometimes heptagonal) rings that prevent the sheet from being planar. Buckyballs and buckytubes are terms used to describe them depending on their shape. Cylindrical fullerenes are referred to as nanotubes .
+
+The discovery of C 60 has led to a paradigm shift in the understanding of graphite, in particular graphene sheets on a small scale. It is now known that the most stable form of a carbon aggregate, containing tens to several thousands of atoms, is a closed buckyball or nanotube .

@@ -1,0 +1,14 @@
+# Access Control in Multiple-Unit Resources
+
+- A multiple-unit resource is a resource that can be used by more than one job at a time, such as a printer, a disk, or a network interface.
+- A multiple-unit resource can be modeled as having many units, each used mutually exclusively and non-preemptively by a job. For example, a printer with four trays can be modeled as having four units of the resource.
+- Access to multiple-unit resources is controlled using locks. A job must lock a unit of the resource before using it, and unlock it after using it. The time the resource is locked is the critical section of the job.
+- The challenge of access control in multiple-unit resources is to ensure that the jobs are scheduled in a way that avoids deadlock, priority inversion, and unnecessary blocking.
+- There are different protocols for access control in multiple-unit resources, such as:
+  - The **Priority Inheritance Protocol (PIP)**: A job that locks a unit of a resource inherits the priority of the highest-priority job that is blocked on that resource. The job releases the inherited priority when it unlocks the resource.
+  - The **Priority Ceiling Protocol (PCP)**: Each unit of a resource is assigned a priority ceiling, which is the highest priority of any job that can lock that unit. A job can lock a unit of a resource only if its priority is higher than the priority ceilings of all the units of the resources that are currently locked. A job that locks a unit of a resource inherits the priority ceiling of that unit. The job releases the inherited priority when it unlocks the resource.
+  - The **Stack Resource Policy (SRP)**: Each job has a preemption level, which is assigned statically and does not change during execution. A job can lock a unit of a resource only if its preemption level is higher than the preemption levels of all the jobs that have locked any unit of any resource. A job that locks a unit of a resource pushes the preemption level of that unit onto a stack. The preemption level of the unit is the highest preemption level of any job that can lock that unit. The job pops the preemption level of the unit from the stack when it unlocks the resource.
+- These protocols have different properties and trade-offs, such as:
+  - The PIP is simple to implement, but it can cause long blocking times and unbounded priority inversion.
+  - The PCP and the SRP can prevent deadlock and bound the blocking time and the priority inversion of any job. However, they require more information about the resource usage of the jobs and the priority ceilings or the preemption levels of the resources.
+  - The PCP and the SRP are not equivalent. The PCP can cause more blocking than the SRP, but the SRP can cause more preemptions than the PCP. The choice of the protocol depends on the characteristics of the system and the application.

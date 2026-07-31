@@ -1,0 +1,9 @@
+### Run Length Encoding
+
+- Run length encoding (RLE) is a simple and lossless compression technique that reduces the size of an image by replacing consecutive identical pixels with a single code that indicates the pixel value and the number of repetitions.
+- RLE is suitable for images that have large areas of uniform color or intensity, such as line drawings, cartoons, or text documents.
+- RLE can be applied to either binary or grayscale images, but the compression ratio depends on the image characteristics and the coding scheme used.
+- RLE can be performed in either row-wise or column-wise direction, depending on the image orientation and the pixel distribution.
+- RLE can be classified into two types: fixed-length and variable-length coding.
+  - Fixed-length coding uses a fixed number of bits to represent the pixel value and the run length. For example, if each pixel value is 8 bits and the run length is 4 bits, then each run can be encoded with 12 bits. The advantage of fixed-length coding is that it is easy to implement and decode, but the disadvantage is that it may waste bits if the run length is shorter than the maximum value allowed by the code.
+  - Variable-length coding uses a variable number of bits to represent the pixel value and the run length, depending on the frequency of occurrence. For example, a common scheme is to use one bit to indicate whether the pixel value is the same as the previous one or not, and then use a variable number of bits to encode the run length if the pixel value is different. The advantage of variable-length coding is that it can achieve higher compression ratios for images with long runs, but the disadvantage is that it is more complex to implement and decode, and it may require additional bits to indicate the end of the code.

@@ -1,0 +1,21 @@
+# Dynamic HTML
+
+- Dynamic HTML, or DHTML, is a term that was used by some browser vendors to describe the combination of HTML, style sheets and client-side scripts (JavaScript, VBScript, or any other supported scripts) that enabled the creation of interactive and animated documents.
+- Dynamic HTML is not a markup or programming language but it is a term that combines the features of various web development technologies for creating the web pages dynamic and interactive.
+- The main components of Dynamic HTML are:
+  - HTML: It is the markup language that defines the structure and content of the web page.
+  - CSS: It is the style sheet language that defines the presentation and layout of the web page.
+  - JavaScript: It is the scripting language that defines the behavior and logic of the web page.
+  - DOM: It is the Document Object Model that represents the web page as a tree of objects that can be accessed and manipulated by JavaScript.
+- Dynamic HTML allows JavaScript to change all the HTML elements, attributes, and styles in the web page by using the DOM methods and properties.
+- Dynamic HTML also allows JavaScript to respond to user events, such as mouse clicks, keyboard inputs, and window resizing, by using the DOM event handlers.
+- Dynamic HTML can be used to create various effects and features on the web page, such as:
+  - Animations: It can be used to move, resize, rotate, or fade HTML elements by changing their CSS properties over time.
+  - Drag and drop: It can be used to enable the user to drag and drop HTML elements from one location to another by using the mouse events and the CSS position property.
+  - Form validation: It can be used to check the user input in the form fields and display error messages or feedback by using the DOM methods and the CSS display property.
+  - Dynamic content: It can be used to load and display new content on the web page without reloading the whole page by using the XMLHttpRequest object or the fetch API.
+- Dynamic HTML can be created by using various tools and frameworks, such as:
+  - jQuery: It is a JavaScript library that simplifies the DOM manipulation, event handling, and Ajax requests.
+  - Bootstrap: It is a CSS framework that provides responsive and mobile-friendly layouts, components, and utilities for the web page.
+  - Angular: It is a JavaScript framework that provides a declarative and data-driven approach for creating dynamic web applications.
+  - React: It is a JavaScript library that provides a component-based and stateful approach for creating dynamic user interfaces.

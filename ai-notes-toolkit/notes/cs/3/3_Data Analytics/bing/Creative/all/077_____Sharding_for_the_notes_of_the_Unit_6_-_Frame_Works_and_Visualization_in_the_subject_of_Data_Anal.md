@@ -1,0 +1,11 @@
+# Sharding
+
+Sharding is a database partitioning technique that splits a large database into smaller, more manageable parts called shards. Sharding can improve the performance, scalability, and availability of a database system by distributing the data and the workload across multiple servers or nodes. Sharding can also reduce the risk of data loss or corruption by replicating the shards on different servers or locations.
+
+Some of the key concepts and benefits of sharding are:
+
+- **Shard key**: A shard key is a column or a set of columns that determines how the data is partitioned and distributed across the shards. A good shard key should have high cardinality (many possible values), low skew (even distribution of values), and low correlation (no dependency between values).
+- **Shard mapping**: A shard mapping is a mechanism that maps each shard key value to a specific shard. A shard mapping can be stored in a separate database, a configuration file, or a metadata service. A shard mapping can be static (fixed and predefined) or dynamic (changing and adaptive).
+- **Shard placement**: A shard placement is a strategy that decides where to store each shard. A shard placement can be based on various factors, such as performance, availability, security, cost, or locality. A shard placement can be horizontal (splitting the data by rows) or vertical (splitting the data by columns).
+- **Shard balancing**: A shard balancing is a process that adjusts the shard placement and the shard mapping to optimize the database system. A shard balancing can be triggered by various events, such as data growth, data deletion, data migration, server failure, server addition, or server removal. A shard balancing can be manual (performed by the administrator) or automatic (performed by the system).
+- **Shard replication**: A shard replication is a technique that creates copies of the shards on different servers or locations. A shard replication can improve the availability, reliability, and durability of the database system by providing backup and failover options. A shard replication can be synchronous (updating the copies at the same time as the original) or asynchronous (updating the copies after a delay from the original).

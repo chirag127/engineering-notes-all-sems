@@ -1,0 +1,13 @@
+## Unit 4 - Electrical machines
+
+- Electrical machines are devices that convert electrical energy into mechanical energy or vice versa.
+- Electrical machines can be classified into three main categories: generators, motors and transformers.
+- Generators are machines that convert mechanical energy into electrical energy. They use the principle of electromagnetic induction to produce voltage and current in a coil of wire that rotates in a magnetic field.
+- Motors are machines that convert electrical energy into mechanical energy. They use the principle of electromagnetic force to create torque and rotation in a coil of wire that interacts with a magnetic field.
+- Transformers are machines that transfer electrical energy from one circuit to another without changing the frequency. They use the principle of mutual induction to induce voltage and current in a secondary coil of wire that is linked to a primary coil of wire by a magnetic core.
+- Electrical machines can be further classified based on the type of current they use: direct current (DC) or alternating current (AC).
+- DC machines are machines that operate with a constant polarity of voltage and current. They require a commutator to reverse the direction of current in the coil of wire as it rotates in the magnetic field. Examples of DC machines are DC generators and DC motors.
+- AC machines are machines that operate with a varying polarity of voltage and current. They do not require a commutator as the alternating magnetic field induces alternating current in the coil of wire. Examples of AC machines are AC generators, AC motors and transformers.
+- Electrical machines can also be classified based on the type of magnetic field they use: permanent magnet or electromagnet.
+- Permanent magnet machines are machines that use permanent magnets to create a constant magnetic field. They have the advantage of being simple, reliable and efficient, but the disadvantage of being limited in power and speed. Examples of permanent magnet machines are permanent magnet generators and permanent magnet motors.
+- Electromagnet machines are machines that use electromagnets to create a variable magnetic field. They have the advantage of being adjustable, powerful and versatile, but the disadvantage of being complex, costly and lossy. Examples of electromagnet machines are electromagnet generators, electromagnet motors and transformers.

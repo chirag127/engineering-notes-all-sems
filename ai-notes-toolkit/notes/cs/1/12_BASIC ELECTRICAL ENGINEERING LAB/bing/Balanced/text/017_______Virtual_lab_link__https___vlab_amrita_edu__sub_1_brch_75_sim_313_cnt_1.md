@@ -1,0 +1,40 @@
+##### Virtual lab
+
+- A virtual lab is a computer-based simulation of a real laboratory that allows students to perform experiments and learn concepts remotely.
+- Virtual labs can provide access to equipment, data, and procedures that may be otherwise unavailable, costly, or hazardous in physical labs.
+- Virtual labs can also enhance the learning experience by providing interactive feedback, visualization, and guidance to students.
+- One example of a virtual lab is the Amrita Vishwa Vidyapeetham Virtual Lab, which offers online simulations of experiments in various disciplines of science and engineering.
+- The Amrita Vishwa Vidyapeetham Virtual Lab has the following objectives:
+  - To provide remote access to labs in various disciplines of science and engineering.
+  - To enthuse students to conduct experiments by arousing their curiosity.
+  - To help them in learning basic and advanced concepts through remote experimentation.
+  - To provide a complete learning management system around the virtual labs where the students can avail the various tools for learning, including additional web-resources, video-lectures, animated demonstrations and self evaluation.
+  - To share costly equipment and resources, which are otherwise available to limited number of users due to constraints on time and geographical distances.
+- The Amrita Vishwa Vidyapeetham Virtual Lab consists of the following domains:
+  - Physical Sciences
+  - Chemical Sciences
+  - Life Sciences
+  - Computer Science and Engineering
+  - Electrical Engineering
+  - Electronics and Communications
+  - Mechanical Engineering
+  - Biomedical and Biotechnology Engineering
+  - Civil Engineering
+  - Earth and Environmental Sciences
+- Each domain contains several labs that cover different topics and experiments related to that domain. For example, the Physical Sciences domain contains the following labs:
+  - Optics Virtual Lab
+  - Laser and Optics Virtual Lab
+  - Modern Physics Virtual Lab
+  - Electricity and Magnetism Virtual Lab
+  - Heat and Thermodynamics Virtual Lab
+  - Oscillations and Waves Virtual Lab
+  - Solid State Physics Virtual Lab
+  - Nuclear and Particle Physics Virtual Lab
+- Each lab contains a set of experiments that can be accessed through a web browser. Each experiment has the following components:
+  - Theory: This section provides the theoretical background and concepts related to the experiment.
+  - Procedure: This section provides the step-by-step instructions on how to perform the experiment using the simulation interface.
+  - Simulator: This section provides the interactive simulation of the experiment, where the user can manipulate the parameters and observe the results.
+  - Quiz: This section provides a set of multiple choice questions to test the user's understanding of the experiment.
+  - References: This section provides the links to additional resources and information related to the experiment.
+  - Feedback: This section allows the user to provide feedback and suggestions to improve the virtual lab.
+- The link provided in the topic is for one of the experiments in the Optics Virtual Lab, which is about the reflection of light by a plane mirror. The user can learn about the laws of reflection, the image formation by a plane mirror, and the concept of virtual image by performing this experiment.

@@ -1,0 +1,12 @@
+# Resource sharing and the web challenges in distributed systems
+
+Resource sharing is the process of making the resources of a distributed system available to the users and applications in a transparent and efficient way. The resources can be hardware, software, or data. The web is an example of a large-scale distributed system that enables resource sharing across the internet.
+
+Some of the challenges for resource sharing and the web in distributed systems are:
+
+- **Transparency**: The ability to hide the details of the distribution of components and resources from the users and applications, so that the system appears as a whole rather than as a collection of independent parts. Transparency can be achieved at different levels, such as access, location, migration, replication, concurrency, failure, and performance .
+- **Scalability**: The ability to cope with the growth of the system in terms of users, resources, and geographical span, without degrading the performance or functionality of the system. Scalability can be achieved by using techniques such as caching, replication, load balancing, partitioning, and decentralization .
+- **Heterogeneity**: The ability to deal with the diversity of the hardware, software, network, and data formats in the system, and to provide interoperability and compatibility among them. Heterogeneity can be achieved by using standards, protocols, middleware, and adapters .
+- **Security**: The ability to protect the system and its resources from unauthorized access, modification, or damage, and to provide confidentiality, integrity, availability, and accountability. Security can be achieved by using mechanisms such as encryption, authentication, authorization, auditing, and firewalls .
+- **Reliability**: The ability to ensure the correct and consistent functioning of the system and its resources, despite the failures of components, networks, or services. Reliability can be achieved by using techniques such as fault tolerance, redundancy, recovery, and consensus  .
+- **Performance**: The ability to provide efficient and timely service to the users and applications, and to optimize the utilization of the system resources. Performance can be measured by metrics such as throughput, latency, bandwidth, and availability. Performance can be improved by using techniques such as parallelism, concurrency, caching, compression, and scheduling  .

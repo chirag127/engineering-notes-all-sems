@@ -1,0 +1,24 @@
+### Halestead’s Software Science
+
+- Halestead’s Software Science is a set of software metrics introduced by Maurice Howard Halestead in 1977.
+- The premise of software science is that any programming task consists of selecting and arranging a finite number of program "tokens," which are basic syntactic units distinguishable by a compiler.
+- By counting the tokens and determining which are operators and operands, the following base measures can be collected:
+  - n1 = Number of distinct operators
+  - n2 = Number of distinct operands
+  - N1 = Total number of operators
+  - N2 = Total number of operands
+- Based on these base measures, Halestead derived the following expressions for overall program length, potential minimum volume, actual volume, difficulty, effort, and development time   :
+  - Program length (N) = N1 + N2
+  - Estimated program length (N^) = n1 * log2(n1) + n2 * log2(n2)
+  - Program volume (V) = N * log2(n1 + n2)
+  - Potential minimum volume (V^) = n1 * log2(n1) + n2 * log2(n2)
+  - Difficulty (D) = (n1 / 2) * (N2 / n2)
+  - Effort (E) = D * V
+  - Development time (T) = E / 18 seconds
+- Halestead’s Software Science can be used to measure the complexity, quality, and maintainability of software programs.
+- Halestead’s Software Science is independent of the programming language and the algorithm used, but it depends on the coding style and the level of abstraction.
+- Halestead’s Software Science has some limitations, such as:
+  - It does not consider the logical structure or the control flow of the program.
+  - It does not account for the semantic meaning or the functionality of the program.
+  - It assumes that all operators and operands are equally difficult to understand and implement.
+  - It is sensitive to the choice of operators and operands, which may vary across different languages and compilers.

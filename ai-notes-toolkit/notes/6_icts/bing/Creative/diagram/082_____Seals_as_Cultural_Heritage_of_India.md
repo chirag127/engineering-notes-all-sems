@@ -1,0 +1,13 @@
+### Seals as Cultural Heritage of India
+
+- Seals are small objects made of stone, metal, or other materials that have a carved or engraved design on one side and are used to stamp or seal documents, containers, or other items.
+- Seals have been used in India since ancient times, especially during the Indus Valley Civilization (2500-1900 BCE), which was one of the earliest urban civilizations in the world.
+- Seals of the Indus Valley Civilization are mostly square or rectangular in shape, and measure about 2-3 cm on each side. They are made of steatite, a soft stone that can be easily carved, and coated with alkali and baked to make them harder and more durable.
+- Seals of the Indus Valley Civilization usually depict an animal, such as a bull, a buffalo, a rhinoceros, an elephant, a tiger, or a unicorn, along with a few symbols or signs that are considered to be part of an undeciphered script  . Some seals also show human figures, such as a yogi or a goddess.
+- Seals of the Indus Valley Civilization were used for various purposes, such as identifying the owner or sender of goods, sealing clay vessels or wooden boxes, marking clay tablets or cloth, or as amulets or tokens of authority  .
+- Seals of the Indus Valley Civilization reflect the culture, religion, trade, and art of the people who made and used them. They show the diversity and richness of the animal life in the region, the sophistication and skill of the craftsmen, the complexity and mystery of the script, and the possible beliefs and rituals of the society  .
+- Seals of the Indus Valley Civilization are valuable sources of information and evidence for the history and archaeology of ancient India. They are also part of the cultural heritage and identity of modern India, as they represent one of the oldest and most advanced civilizations of the world  .
+- Seals of the Indus Valley Civilization are not the only seals that are part of the cultural heritage of India. Seals of different shapes, sizes, materials, and designs have been used in India throughout history, by various dynasties, kingdoms, empires, religions, and communities.
+- Seals of India have also been influenced by and exchanged with other cultures and regions, such as Persia, Greece, Rome, China, and Southeast Asia, reflecting the diversity and dynamism of Indian culture and history .
+- Seals of India are still used today, especially by government officials, religious institutions, and educational organizations, as symbols of authority, authenticity, and identity.
+- Seals of India are part of the traditions and cultural heritage of India, as they show the continuity and change of Indian civilization over time, and the connections and interactions of India with the rest of the world  .

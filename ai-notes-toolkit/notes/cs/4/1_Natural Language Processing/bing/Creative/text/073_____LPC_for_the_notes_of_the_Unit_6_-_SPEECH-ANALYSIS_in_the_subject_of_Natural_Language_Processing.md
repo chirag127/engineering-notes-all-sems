@@ -1,0 +1,12 @@
+### LPC for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing
+
+- LPC stands for Linear Predictive Coding, which is a method used mostly in audio signal processing and speech processing for representing the spectral envelope of a digital signal of speech in compressed form, using the information of a linear predictive model .
+- LPC analyzes the speech signal by estimating the formants, which are the resonant frequencies of the vocal tract, and removing their effects from the speech signal, resulting in a residual signal that contains the pitch and the glottal excitation.
+- The process of removing the formants is called inverse filtering, and the residual signal after the subtraction of the filtered modeled signal is called the residue.
+- LPC can be used for speech coding, speech synthesis, speech recognition, and speaker identification .
+- LPC is based on the assumption that a speech sample can be approximated by a linear combination of past samples, and that the coefficients of this linear combination can be obtained by minimizing the mean squared error between the actual and the predicted samples .
+- LPC uses an autoregressive model to represent the spectral envelope of the speech signal, which means that the current sample is expressed as a weighted sum of past samples plus an error term .
+- The coefficients of the autoregressive model are called the linear prediction coefficients, and they can be computed by solving a system of linear equations called the Yule-Walker equations .
+- The linear prediction coefficients can also be converted to other equivalent representations, such as the reflection coefficients, the line spectral frequencies, or the cepstral coefficients, which have different properties and applications .
+- LPC can be implemented in two steps: analysis and synthesis. In the analysis step, the linear prediction coefficients and the residual signal are extracted from the speech signal. In the synthesis step, the speech signal is reconstructed from the linear prediction coefficients and the residual signal.
+- LPC can achieve high compression ratios and low bit rates for speech coding, as well as natural and intelligible speech synthesis, by exploiting the redundancy and the structure of the speech signal .

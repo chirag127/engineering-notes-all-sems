@@ -1,0 +1,9 @@
+# Applications for the notes of the Unit 3 - Coding a sequence in the subject of Data Compression
+
+- Coding a sequence is the process of assigning a unique code to each symbol in a sequence, such that the code can be used to reconstruct the original sequence without any loss of information.
+- Coding a sequence is useful for data compression, which is the reduction of the size of data without affecting its meaning or quality.
+- Data compression has many applications in various fields, such as:
+  - **Communication**: Data compression can reduce the bandwidth and storage requirements of transmitting and receiving data over networks, such as the Internet, email, or mobile phones. For example, text messages, images, audio, and video can be compressed to save space and time.
+  - **Storage**: Data compression can increase the capacity and efficiency of storing data on devices, such as hard disks, flash drives, or memory cards. For example, compressed files, such as ZIP, RAR, or 7Z, can store more data in less space than uncompressed files.
+  - **Encryption**: Data compression can enhance the security and privacy of data by making it harder to decipher or tamper with. For example, encrypted files, such as AES, RSA, or PGP, can use compression to reduce the size and complexity of the data before applying encryption algorithms.
+  - **Analysis**: Data compression can facilitate the processing and understanding of data by removing redundant or irrelevant information. For example, data mining, machine learning, or natural language processing can use compression to extract meaningful patterns or features from large or noisy data sets.

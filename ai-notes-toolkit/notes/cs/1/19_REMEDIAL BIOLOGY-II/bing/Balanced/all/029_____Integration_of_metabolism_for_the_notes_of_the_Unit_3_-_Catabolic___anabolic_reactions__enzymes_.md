@@ -1,0 +1,21 @@
+# Integration of metabolism
+
+- Metabolism is the sum of all the chemical reactions that take place in a living cell to maintain its structure and function.
+- Metabolism can be divided into two major types: catabolism and anabolism.
+  - Catabolism is the breakdown of complex molecules into simpler ones, releasing energy in the process.
+  - Anabolism is the synthesis of complex molecules from simpler ones, requiring energy in the process.
+- Metabolism is regulated by various factors, such as enzymes, hormones, nutrients, and environmental conditions .
+  - Enzymes are biological catalysts that speed up the rate of metabolic reactions by lowering the activation energy.
+  - Hormones are chemical messengers that coordinate the metabolic activities of different tissues and organs.
+  - Nutrients are the sources of energy and building blocks for metabolic reactions.
+  - Environmental conditions, such as temperature, pH, and oxygen availability, affect the activity and stability of enzymes and other metabolic components.
+- Metabolism is integrated by the interconnection and coordination of different metabolic pathways .
+  - A metabolic pathway is a series of connected chemical reactions that feed one another, converting one or more starting molecules into products.
+  - Metabolic pathways can be broadly divided into two categories based on their effects:
+    - Catabolic pathways are those that break down molecules and release energy, such as glycolysis, lipid catabolism, and protein catabolism.
+    - Anabolic pathways are those that build up molecules and require energy, such as gluconeogenesis, lipid synthesis, and protein synthesis.
+  - Metabolic pathways are interconnected by common intermediates, such as acetyl-CoA, pyruvate, and oxaloacetate, that can be used for different purposes depending on the metabolic needs of the cell .
+  - Metabolic pathways are coordinated by feedback mechanisms, such as allosteric regulation, covalent modification, and hormonal control, that ensure the balance between energy production and consumption, and between biosynthesis and degradation  .
+- Metabolism is diverse and adaptable, as different organisms and tissues can use different sources and pathways of energy depending on their environment and function .
+  - Energy production can occur through different mechanisms, such as substrate-level phosphorylation, oxidative phosphorylation, and photophosphorylation, depending on the availability of oxygen and light .
+  - Energy use can occur through different pathways, such as the pentose phosphate pathway, the citric acid cycle, and the urea cycle, depending on the need for reducing power, biosynthetic precursors, and nitrogen disposal .

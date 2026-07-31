@@ -1,0 +1,12 @@
+# Origins and challenges of NLP
+
+- Natural language processing (NLP) is a field of computer science, artificial intelligence (also called machine learning), and linguistics concerned with the interactions between computers and human (natural) languages.
+- The origins of NLP can be traced back to the early attempts to automate the translation of natural languages, such as the Georgetown experiment in 1954, which translated 60 Russian sentences into English using a vocabulary of 250 words and six grammar rules.
+- The history of NLP also comes from many other sources, such as linguistics, psychology, philosophy, logic, mathematics, and cognitive science. Some of the influential figures in the development of NLP include Noam Chomsky, Alan Turing, Marvin Minsky, John McCarthy, and Richard Montague .
+- The main challenges of NLP are due to the complexity, diversity, ambiguity, and dynamism of natural languages. Some of the specific challenges are :
+  - Sparsity: Natural languages have a large vocabulary and many possible ways of expressing the same meaning, which makes it difficult to collect enough data for training and testing NLP systems.
+  - Diversity: Natural languages vary across different domains, genres, styles, registers, dialects, and languages, which requires NLP systems to adapt to different contexts and audiences.
+  - Ambiguity: Natural languages have many sources of ambiguity, such as lexical, syntactic, semantic, pragmatic, and discourse ambiguity, which makes it hard for NLP systems to interpret the intended meaning of natural language inputs and outputs.
+  - Dynamism: Natural languages evolve over time, with new words, meanings, usages, and conventions emerging and changing, which challenges NLP systems to keep up with the latest trends and innovations.
+- The most visible advances in NLP have been in applications such as speech recognition, machine translation, text summarization, information extraction, sentiment analysis, question answering, chatbots, and natural language generation. These applications use machine learning algorithms and NLP techniques such as tokenization, stemming, lemmatization, part-of-speech tagging, parsing, word embeddings, language models, and neural networks.
+- NLP is still an emerging technology, and there are many open problems and opportunities for engineers and industries to deal with the challenges of implementing NLP systems and to create new and improved applications that can process, understand, and generate natural language like humans do .

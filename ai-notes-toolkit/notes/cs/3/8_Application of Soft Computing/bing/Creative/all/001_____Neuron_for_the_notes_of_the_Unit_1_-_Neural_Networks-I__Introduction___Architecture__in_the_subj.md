@@ -1,0 +1,8 @@
+# Neuron
+
+- A neuron is the basic working unit of the nervous system that transmits and receives nerve impulses .
+- A neuron consists of a cell body, which contains a nucleus and other organelles, and cytoplasmic processes, which are highly specialized extensions of the cell body .
+- The cytoplasmic processes of a neuron include dendrites and axons. Dendrites are usually multiple and branched, and they receive incoming signals from other neurons or sensory receptors. Axons are usually single and long, and they carry outgoing signals to other neurons, muscles, or glands  .
+- Neurons communicate with each other through synapses, which are specialized junctions where the axon terminals of one neuron contact the dendrites or cell body of another neuron. At the synapse, the electrical signal of the presynaptic neuron is converted into a chemical signal by the release of neurotransmitters, which bind to the receptors of the postsynaptic neuron and trigger a new electrical signal .
+- Neurons are classified into three types based on their function: sensory neurons, motor neurons, and interneurons. Sensory neurons carry information from the external or internal environment to the central nervous system (CNS). Motor neurons carry commands from the CNS to the muscles or glands. Interneurons connect other neurons within the CNS and process information .
+- Neurons are also classified into different types based on their structure, such as unipolar, bipolar, multipolar, and pseudounipolar neurons. These terms refer to the number and arrangement of the dendrites and axons of a neuron.

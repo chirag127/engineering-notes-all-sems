@@ -1,0 +1,10 @@
+### Cryptographic Controls Built into IoT Messaging and Communication Protocols
+
+In the world of IoT, communication between devices and networks is vital. However, the security and privacy of this communication cannot be compromised. Cryptography is an essential tool that enables secure communication, and IoT messaging and communication protocols heavily rely on it. Here are some cryptographic controls built into IoT messaging and communication protocols:
+
+- **Encryption**: Encryption is a process of converting plain text into cipher text, making it unreadable to unauthorized parties. In IoT messaging and communication protocols, encryption is used to secure data in transit. Advanced Encryption Standard (AES) is widely used in IoT protocols like MQTT and CoAP.
+- **Authentication**: Authentication is the process of verifying the identity of the communicating parties. In IoT, authentication is essential to ensure that only authorized devices have access to sensitive data. Message Queuing Telemetry Transport (MQTT) uses Transport Layer Security (TLS) for authentication.
+- **Integrity**: Integrity is the assurance that data has not been tampered with during transit. In IoT messaging and communication protocols, integrity is ensured through message authentication codes (MACs), which are attached to messages to detect any changes in transit. Constrained Application Protocol (CoAP) uses Datagram Transport Layer Security (DTLS) to ensure integrity.
+- **Key Management**: Key management is the process of generating, distributing, storing, and revoking keys used for encryption and decryption. In IoT, key management is crucial to prevent unauthorized access to sensitive data. Key management in IoT messaging and communication protocols is generally accomplished using public key infrastructure (PKI).
+
+In conclusion, cryptographic controls play a crucial role in securing IoT messaging and communication protocols. Encryption, authentication, integrity, and key management are some of the cryptographic controls built into these protocols. Understanding these controls is essential for ensuring the privacy and security of IoT devices and networks.

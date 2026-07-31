@@ -1,0 +1,14 @@
+### IoT IAM infrastructure
+
+- IoT IAM infrastructure refers to the systems and processes that enable the identification, authentication, authorization, and management of IoT devices and users.
+- IoT IAM infrastructure is essential for ensuring the security, privacy, and trustworthiness of IoT applications and data.
+- IoT IAM infrastructure typically consists of the following components :
+  - **IoT device identity**: A unique identifier that represents an IoT device and its attributes, such as manufacturer, type, serial number, location, etc. IoT device identity can be assigned by the device owner, the device manufacturer, or a third-party authority.
+  - **IoT device certificate**: A digital certificate that binds an IoT device identity to a public key, which can be used to verify the device's identity and encrypt data. IoT device certificates can be issued by a trusted certificate authority (CA) or a self-signed certificate authority (SCA).
+  - **Public key infrastructure (PKI)**: A system that manages the creation, distribution, revocation, and validation of IoT device certificates. PKI can be centralized, decentralized, or hybrid, depending on the trust model and scalability requirements of the IoT application.
+  - **IoT device registry**: A database that stores and manages the IoT device identities, certificates, and metadata. IoT device registry can be used to perform device discovery, provisioning, configuration, and monitoring.
+  - **IoT user identity**: A unique identifier that represents an IoT user and their attributes, such as name, role, permissions, etc. IoT user identity can be assigned by the user, the IoT service provider, or a third-party authority.
+  - **IoT user credential**: A piece of information that proves an IoT user's identity, such as a password, a token, a biometric, etc. IoT user credential can be stored on the user's device, on the IoT service provider's server, or on a third-party server.
+  - **IoT user authentication**: A process that verifies an IoT user's identity and credential, and grants them access to the IoT service or device. IoT user authentication can be based on one or more factors, such as something the user knows, has, or is.
+  - **IoT user authorization**: A process that determines what actions and resources an IoT user can access, based on their identity, role, and permissions. IoT user authorization can be based on policies, rules, or attributes, and can be enforced by the IoT service provider, the IoT device, or a third-party authority.
+  - **IoT user management**: A system that enables the creation, modification, deletion, and audit of IoT user identities, credentials, and permissions. IoT user management can be performed by the IoT service provider, the IoT device owner, or a third-party authority.

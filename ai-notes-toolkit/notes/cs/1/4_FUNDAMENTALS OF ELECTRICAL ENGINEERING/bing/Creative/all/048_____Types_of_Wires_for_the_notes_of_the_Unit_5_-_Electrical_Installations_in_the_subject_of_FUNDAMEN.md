@@ -1,0 +1,19 @@
+# Types of Wires
+
+Wires are conductors that carry electric current from a source to a load. They are usually made of metal, such as copper or aluminum, and have different sizes, shapes, and insulation materials. The type of wire used for a particular application depends on the voltage, current, environment, and installation method.
+
+Some of the common types of wires used in electrical engineering are:
+
+- **Cleat wiring**: This is a temporary wiring system that uses porcelain or plastic cleats to hold wires on wooden boards or walls. The wires are usually insulated with rubber or cotton and are suitable for low voltage and low current applications. Cleat wiring is cheap and easy to install, but it is not durable, safe, or aesthetically pleasing .
+
+- **Wooden casing and capping wiring**: This is a semi-permanent wiring system that uses wooden casing (a rectangular box) and capping (a strip) to enclose wires on walls or ceilings. The wires are usually insulated with rubber or PVC and are suitable for low and medium voltage and current applications. Wooden casing and capping wiring is more durable and safer than cleat wiring, but it is also more expensive and prone to fire and termite damage .
+
+- **CTS or TRS or PVC sheath wiring**: This is a permanent wiring system that uses cables with tough rubber sheath (TRS) or polyvinyl chloride (PVC) sheath to cover wires. The cables are usually run on wooden battens or clipped to walls or ceilings. The wires are usually insulated with rubber or PVC and are suitable for low and medium voltage and current applications. CTS or TRS or PVC sheath wiring is more durable, safe, and flexible than wooden casing and capping wiring, but it is also more expensive and may deteriorate due to heat and moisture .
+
+- **Lead sheathed or metal sheathed wiring**: This is a permanent wiring system that uses cables with lead or metal sheath to cover wires. The cables are usually run in metal conduits or pipes that are buried in walls or floors. The wires are usually insulated with rubber or PVC and are suitable for high voltage and current applications. Lead sheathed or metal sheathed wiring is more durable, safe, and resistant to fire, moisture, and corrosion than CTS or TRS or PVC sheath wiring, but it is also more expensive and difficult to install .
+
+- **Conduit wiring**: This is a permanent wiring system that uses metal or plastic pipes (conduits) to enclose wires. The conduits are usually fixed on walls or ceilings or embedded in concrete. The wires are usually insulated with rubber or PVC and are suitable for low, medium, and high voltage and current applications. Conduit wiring is more durable, safe, and neat than lead sheathed or metal sheathed wiring, but it is also more expensive and requires skilled labor .
+
+- **Low-voltage wiring**: This is a wiring system that uses wires with low voltage (50 volts or less) to power devices such as landscape lighting, sprinkler systems, doorbells, speakers, and thermostats. The wires are usually made of copper or aluminum and have different gauges (sizes) and colors. Low-voltage wiring is easy to install and does not require a conduit, but it may be affected by interference and voltage drop.
+
+- **Hot, neutral, and grounding wires**: These are the three types of wires that are used in most household and commercial wiring systems. Hot wires are black or red and carry electric current from the source to the load. Neutral wires are white or light gray and carry electric current back to the source. Grounding wires are bare copper or green and connect the circuit to the earth for safety. The combination of these wires determines the voltage and phase of the circuit.

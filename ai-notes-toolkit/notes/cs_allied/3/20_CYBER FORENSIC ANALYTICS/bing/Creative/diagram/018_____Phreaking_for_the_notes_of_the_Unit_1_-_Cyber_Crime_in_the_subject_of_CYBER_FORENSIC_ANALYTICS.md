@@ -1,0 +1,11 @@
+### Phreaking
+
+Phreaking is a term that refers to the activity of hacking into telecommunication systems, especially to obtain free calls or to manipulate the system in some way. Phreaking can be considered a form of cybercrime, as it involves unauthorized access, fraud, and damage to the telecommunication infrastructure.
+
+Some of the main points to know about phreaking are:
+
+- Phreaking originated in the 1960s and 1970s, when phone hackers discovered that they could use certain tones and devices to bypass the phone company's billing and routing mechanisms. They used whistles, blue boxes, black boxes, and red boxes to generate the tones and signals that controlled the phone switches.
+- Phreaking was also motivated by curiosity and exploration, as phreakers wanted to learn about the inner workings of the phone system and to access hidden features and services, such as conference calls, test lines, and overseas operators.
+- Phreaking was influenced by the hacker culture and the counterculture of the time, as phreakers saw themselves as rebels and outlaws who challenged the authority and monopoly of the phone companies. Some of the famous phreakers include John Draper (also known as Captain Crunch), Mark Bernay, and Steve Wozniak and Steve Jobs (the founders of Apple).
+- Phreaking declined in the 1980s and 1990s, as the phone companies switched to digital and encrypted systems that made phreaking more difficult and risky. However, phreaking did not disappear completely, as some phreakers adapted to the new technologies and found new ways to exploit the phone system, such as cloning cell phones, hacking voicemail, and spoofing caller ID.
+- Phreaking is still relevant today, as the telecommunication system is constantly evolving and expanding, and as new vulnerabilities and opportunities emerge. Phreaking can pose a threat to the security and privacy of the users and the providers of the phone system, as well as to the national and international communication infrastructure. Phreaking can also be used for malicious purposes, such as harassment, extortion, espionage, and terrorism.

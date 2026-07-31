@@ -1,0 +1,13 @@
+### Proof of Work (PoW) for the notes of the Unit 2 - Consensus in the subject of Block chain Architecture Design
+
+- Proof of work (PoW) is a decentralized system used to verify the accuracy of transactions on the blockchain network   .
+- Proof of work removes the need for a central authority like a bank, business, or government agency to monitor and manage transactions and their corresponding accounts .
+- Proof of work lets blockchain networks operate by consensus rules rather than “trust”.
+- Proof of work mechanisms consume a lot of energy, prompting blockchain developers to create alternative verification systems.
+- Proof of work involves the following steps :
+  - When a block is closed, the hash must be verified before a new block can be opened. A hash is a unique string of numbers and letters that identifies a block and its data.
+  - When a miner—the program on a node that works to solve the hash—begins mining, it generates a hash from publicly available information, such as the previous block’s hash, the timestamp, and the transactions in the current block. It also adds a random number called a nonce to the hash.
+  - The miner then checks if the generated hash meets a certain difficulty level, which is determined by the network. The difficulty level is a measure of how hard it is to find a hash that satisfies the network’s requirements. The higher the difficulty level, the more computing power and time it takes to find a valid hash.
+  - If the generated hash does not meet the difficulty level, the miner changes the nonce and tries again, repeating the process until it finds a valid hash or another miner beats it to the solution.
+  - When a miner finds a valid hash, it broadcasts it to the network, along with the nonce and the block data. The other nodes then verify the hash, the nonce, and the block data. If they agree that the hash is valid, they add the block to their copy of the blockchain and start working on the next block. The miner that found the valid hash is rewarded with newly created cryptocurrency and transaction fees.
+  - If two or more miners find valid hashes at the same time, a temporary fork occurs in the blockchain, where different nodes have different versions of the blockchain. The network resolves the fork by following the longest chain rule, which means that the version of the blockchain with the most blocks is considered the valid one. The other versions are discarded and the miners who worked on them have to start over. This ensures that there is only one version of the blockchain at any given time.

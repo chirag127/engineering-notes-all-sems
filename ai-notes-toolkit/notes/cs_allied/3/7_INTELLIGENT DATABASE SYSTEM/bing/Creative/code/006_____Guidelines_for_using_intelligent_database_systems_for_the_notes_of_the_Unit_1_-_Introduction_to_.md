@@ -1,0 +1,10 @@
+### Guidelines for using intelligent database systems
+
+An intelligent database system (IDBS) is a system that manages information, rather than simple data, and presents it in such a way that is natural and informative for users . It also incorporates artificial intelligence techniques, such as knowledge representation, reasoning, learning, and natural language processing, to provide more functionality and usability for the users .
+
+Some of the guidelines for using IDBS are:
+
+- Identify the information needs and goals of the users, and design the IDBS accordingly. The IDBS should provide relevant, accurate, and timely information to the users, and support their decision making and problem solving processes .
+- Choose the appropriate data sources and data models for the IDBS. The IDBS should be able to integrate and access data from multiple and heterogeneous sources, such as relational, object-oriented, or semantic databases, as well as external sources, such as web services or social media. The data models should capture the semantics and structure of the information, and allow for flexible and expressive queries .
+- Implement the intelligent features and functionalities of the IDBS. The IDBS should provide intelligent interfaces, such as natural language or graphical interfaces, that allow the users to interact with the information in a natural and intuitive way. The IDBS should also provide intelligent mechanisms, such as inference, deduction, induction, or abduction, that enable the IDBS to reason about the information and derive new or implicit information. The IDBS should also provide intelligent services, such as recommendation, personalization, or adaptation, that tailor the information to the preferences and needs of the users  .
+- Evaluate and improve the performance and usability of the IDBS. The IDBS should be tested and validated to ensure that it meets the requirements and expectations of the users, and that it provides reliable and consistent information. The IDBS should also be monitored and updated to reflect the changes and dynamics of the information and the users .

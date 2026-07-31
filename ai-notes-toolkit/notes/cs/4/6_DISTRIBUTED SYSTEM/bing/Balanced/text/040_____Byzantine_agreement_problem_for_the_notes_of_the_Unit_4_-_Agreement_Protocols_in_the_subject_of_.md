@@ -1,0 +1,14 @@
+### Byzantine agreement problem
+
+- The Byzantine agreement problem is a fundamental problem in fault tolerant distributed computing that requires a set of parties in a distributed environment to agree on a value even if some of the parties are corrupted.
+- The problem was first defined by Lamport and inspired by a hypothetical scenario of several divisions of the Byzantine army camped outside an enemy city, each division commanded by its own general. The generals can communicate with one another only by messenger. After observing the enemy, they must decide upon a common plan of action.
+- The problem is challenging because some of the generals may be traitors who try to prevent the loyal generals from reaching agreement. The traitors may send conflicting messages to different generals, or lie about their own observations or preferences. The loyal generals need a secure way to come to agreement on a plan (known as consensus) and carry out their chosen plan (known as coordination).
+- A solution to the Byzantine agreement problem must satisfy the following properties:
+  - **Termination**: Every loyal general eventually decides on a value.
+  - **Agreement**: All loyal generals decide on the same value.
+  - **Validity**: If all loyal generals have the same initial value, then they all decide on that value.
+- A number of solutions to the Byzantine agreement problem exist, depending on the assumptions made about the communication model, the number of traitors, the synchrony of the system, and the type of the messages. Some of the well-known solutions are:
+  - **Oral messages**: This solution assumes that messages are signed and authenticated, but can be forged by traitors. It requires that the number of traitors is less than one third of the total number of generals. It uses a recursive algorithm that involves sending and relaying messages among the generals.
+  - **Signed messages**: This solution assumes that messages are signed and authenticated, and cannot be forged by traitors. It requires that the number of traitors is less than half of the total number of generals. It uses a simpler algorithm that involves sending and comparing messages among the generals.
+  - **Randomized messages**: This solution assumes that messages are signed and authenticated, but can be forged by traitors. It does not have a bound on the number of traitors, but it only guarantees a probabilistic consensus. It uses a randomized algorithm that involves sending and flipping coins among the generals.
+  - **Broadcast messages**: This solution assumes that messages are broadcasted to all generals, and that there is a designated source general who initiates the communication. It requires that the source general is loyal, and that the number of traitors is less than half of the total number of generals. It uses a simple algorithm that involves sending and echoing messages among the generals.

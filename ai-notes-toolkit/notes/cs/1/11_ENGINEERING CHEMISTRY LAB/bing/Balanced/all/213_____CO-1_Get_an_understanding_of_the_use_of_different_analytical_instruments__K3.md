@@ -1,0 +1,12 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic.
+
+### CO-1 Get an understanding of the use of different analytical instruments. K3
+
+- Analytical instruments are devices that are used to measure, analyze, or monitor physical, chemical, or biological properties of samples.
+- Different analytical instruments have different applications, advantages, and limitations depending on the type of sample, the property of interest, and the level of accuracy and precision required.
+- Some examples of analytical instruments are:
+
+  - Spectrometers: These are instruments that measure the interaction of electromagnetic radiation (such as light, infrared, ultraviolet, X-rays, etc.) with matter. They can be used to identify the chemical composition, structure, or concentration of substances in a sample. For example, a mass spectrometer can measure the mass-to-charge ratio of ions in a sample and provide information about the molecular weight and structure of the compounds present.
+  - Chromatographs: These are instruments that separate the components of a mixture based on their different affinities for a stationary phase (such as a solid or a liquid) and a mobile phase (such as a gas or a liquid). They can be used to separate, identify, or quantify the components of a complex mixture. For example, a gas chromatograph can separate the volatile components of a sample and detect them using a detector such as a flame ionization detector or a thermal conductivity detector.
+  - Electrochemical instruments: These are instruments that measure the electrical properties of a sample or the effect of an electrical potential or current on a sample. They can be used to determine the concentration, activity, or redox state of ions or molecules in a sample. For example, a pH meter can measure the acidity or alkalinity of a solution by measuring the voltage difference between a reference electrode and an indicator electrode.
+  - Microscopes: These are instruments that use lenses or other devices to magnify the image of a sample. They can be used to observe the morphology, structure, or behavior of cells, tissues, or materials. For example, a scanning electron microscope can produce high-resolution images of the surface of a sample by scanning it with a beam of electrons and detecting the secondary electrons emitted by the sample.

@@ -1,0 +1,30 @@
+# Regular Languages and Computers
+
+- A regular language is a formal language that can be defined by a regular expression, in the strict sense in theoretical computer science.
+- A regular expression is a sequence of symbols that specifies a pattern of characters to be matched in a text.
+- A formal language is a set of strings over a finite alphabet.
+- An alphabet is a finite set of symbols, such as {0, 1} or {a, b, c, ..., z}.
+- A string is a finite sequence of symbols from an alphabet, such as 0101 or hello.
+- A regular language can be recognized by a finite automaton, which is a mathematical model of computation that has a finite number of states and transitions between them .
+- A finite automaton can be deterministic or nondeterministic, depending on whether it has at most one transition for each state and input symbol or not.
+- A deterministic finite automaton (DFA) can be represented by a 5-tuple (Q, Σ, δ, q0, F), where:
+  - Q is a finite set of states
+  - Σ is a finite alphabet
+  - δ is a transition function that maps Q × Σ to Q
+  - q0 is the initial state
+  - F is a subset of Q that contains the final or accepting states
+- A nondeterministic finite automaton (NFA) can be represented by a 5-tuple (Q, Σ, δ, q0, F), where:
+  - Q is a finite set of states
+  - Σ is a finite alphabet
+  - δ is a transition function that maps Q × Σ to P(Q), where P(Q) is the power set of Q
+  - q0 is the initial state
+  - F is a subset of Q that contains the final or accepting states
+- A finite automaton accepts a string if there is a sequence of transitions from the initial state to a final state that corresponds to the symbols of the string.
+- A finite automaton recognizes a language if it accepts all and only the strings that belong to the language.
+- A language is regular if and only if it can be recognized by a finite automaton.
+- Regular languages have many applications in computer science, such as :
+  - Parsing and designing programming languages
+  - Searching and matching text patterns
+  - Encoding and compressing data
+  - Modeling and verifying finite-state systems
+  - Solving combinatorial problems with regular constraints

@@ -1,0 +1,12 @@
+## Unit 8 - Concurrency Control Techniques
+
+Concurrency control techniques are methods of managing the simultaneous execution of transactions in a shared database. They aim to preserve the database consistency, enforce the isolation of different transactions, and resolve the conflicts that occur due to the read-write operations of transactions .
+
+The need for concurrency control arises because multiple transactions may access and modify the same data items concurrently, which may lead to inconsistency, lost updates, uncommitted dependencies, or incorrect summary.
+
+Some of the common concurrency control techniques are:
+
+- **Two-phase locking protocol**: This technique uses locks to secure the permission to read or write a data item. A transaction goes through two phases: a locking or growing phase, where it acquires locks on data items, and an unlocking or shrinking phase, where it releases locks on data items. The transaction cannot request any new locks after it releases any lock. This protocol ensures serializability, but may cause deadlocks or starvation .
+- **Timestamp ordering protocol**: This technique assigns a unique timestamp to each transaction based on its arrival time. The timestamp determines the order of execution of the transactions. A transaction can read or write a data item only if its timestamp is compatible with the read and write timestamps of the data item. This protocol avoids deadlocks, but may cause aborts or cascading aborts.
+- **Multi-version concurrency control**: This technique maintains multiple versions of each data item, each with a different timestamp. A transaction can read the version of a data item that is compatible with its timestamp, without locking or waiting. A transaction can write a new version of a data item only if its timestamp is greater than the write timestamp of the data item. This protocol allows more concurrency and reduces aborts, but requires more storage space and overhead.
+- **Validation concurrency control**: This technique divides the execution of a transaction into three phases: a read phase, where the transaction reads data items without locking, a validation phase, where the transaction checks for conflicts with other transactions, and a write phase, where the transaction writes the modified data items. This protocol avoids locking and deadlocks, but may cause aborts or delays.

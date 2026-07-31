@@ -1,0 +1,22 @@
+## Unit 2 - Electromagnetic Field Theory
+
+- Electromagnetic field theory is the study of the physical phenomena associated with electric and magnetic fields, and their interactions with matter and radiation.
+- The basic concepts of electromagnetic field theory are:
+  - Electric charge: a fundamental property of matter that causes it to experience a force in an electric field.
+  - Electric current: a flow of electric charge through a conductor or a space.
+  - Electric field: a region of space where an electric charge experiences a force.
+  - Magnetic field: a region of space where a magnetic material or a moving electric charge experiences a force.
+  - Electromagnetic induction: the phenomenon of generating an electric current in a conductor by changing the magnetic field around it.
+  - Electromagnetic wave: a disturbance of electric and magnetic fields that propagates through space and carries energy and momentum.
+- The mathematical description of electromagnetic field theory is based on:
+  - Maxwell's equations: a set of four partial differential equations that relate the electric and magnetic fields to their sources and to each other.
+  - Lorentz force law: a vector equation that gives the force on a charged particle moving in an electric and magnetic field.
+  - Poynting vector: a vector that represents the direction and magnitude of the energy flux of an electromagnetic field.
+  - Electromagnetic potential: a scalar and a vector function that can be used to simplify the calculation of electric and magnetic fields.
+- The applications of electromagnetic field theory include:
+  - Electric circuits: devices that use electric currents and voltages to perform various functions, such as lighting, heating, computing, and communication.
+  - Antennas: devices that convert electric currents into electromagnetic waves, or vice versa, for transmitting and receiving information.
+  - Electromagnetic compatibility: the ability of electrical and electronic systems to operate without interference from each other or from external sources of electromagnetic noise.
+  - Electromagnetic radiation: the emission and absorption of electromagnetic waves by matter, which can have various effects, such as heating, ionization, fluorescence, and photoelectricity.
+  - Optics: the branch of physics that deals with the behavior and properties of light, which is an electromagnetic wave.
+  - Relativity: the theory that describes the effects of motion and gravity on space and time, which are related to the electric and magnetic fields by the Lorentz transformation.

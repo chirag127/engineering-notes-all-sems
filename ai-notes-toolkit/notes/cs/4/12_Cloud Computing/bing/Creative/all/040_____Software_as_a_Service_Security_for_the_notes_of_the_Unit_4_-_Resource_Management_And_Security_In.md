@@ -1,0 +1,11 @@
+# Software‐as‐a‐Service Security
+
+Software‐as‐a‐Service (SaaS) is a licensing model in which access to software is provided on a subscription basis, where the software is located on external servers rather than on servers located in-house. SaaS security refers to the practices and policies implemented by the providers of SaaS to ensure the privacy and security of customer data in cloud-based applications and other information assets. 
+
+Some of the topics that are relevant for SaaS security are:
+
+- **Build agile security capabilities**: SaaS providers should have a robust solution in place, including a secure development life cycle and a secure stack for hosting their application in production. They should also monitor and respond to security incidents and vulnerabilities in a timely manner.
+- **Adopt a multilevel model for addressing security-related customer inquiries**: SaaS providers should provide different levels of security assurance to their customers, depending on their needs and expectations. For example, they can offer self-service tools, security certifications, third-party audits, and customized security assessments.
+- **Aggressively facilitate integrations**: SaaS providers should enable their customers to integrate their SaaS applications with their existing security tools and processes, such as identity and access management, data loss prevention, encryption, and logging.
+- **Help customers address data privacy**: SaaS providers should comply with the relevant data privacy regulations and standards, such as the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA). They should also provide transparency and control over how they collect, store, process, and share customer data.
+- **Security as a Service (SECaaS)**: SECaaS is a cloud delivered model for outsourcing cybersecurity services. It can provide SaaS customers with additional security capabilities and benefits, such as scalability, cost-effectiveness, and expertise. Some examples of SECaaS are cloud-based firewalls, antivirus, encryption, and threat detection.

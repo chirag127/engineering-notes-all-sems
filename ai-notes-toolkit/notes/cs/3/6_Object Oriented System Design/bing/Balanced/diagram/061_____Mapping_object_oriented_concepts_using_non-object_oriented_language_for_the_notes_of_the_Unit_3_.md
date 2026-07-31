@@ -1,0 +1,9 @@
+### Mapping object oriented concepts using non-object oriented language
+
+- Object oriented concepts are the principles and techniques that enable the design and development of software systems using objects, classes, inheritance, polymorphism, encapsulation, abstraction, and dynamic binding.
+- Non-object oriented languages are the programming languages that do not inherently support modules containing data and associated processing (objects). Examples of non-object oriented languages are C, Pascal, Fortran, etc.
+- Mapping object oriented concepts using non-object oriented language means implementing the features of object oriented programming using the syntax and semantics of a non-object oriented language.
+- This can be done by using various techniques such as:
+  - Structs and function pointers: Structs are data structures that can hold multiple variables of different types. Function pointers are variables that can store the address of a function. By combining structs and function pointers, one can create objects that have data and methods, and simulate inheritance and polymorphism.
+  - Macros and typedefs: Macros are preprocessor directives that can replace a text with another text during compilation. Typedefs are keywords that can create aliases for existing types. By using macros and typedefs, one can create new types and names that resemble classes and objects, and hide the implementation details.
+  - Modules and interfaces: Modules are collections of related functions and variables that can be imported and used by other programs. Interfaces are specifications of the expected behavior and functionality of a module. By using modules and interfaces, one can achieve abstraction and encapsulation, and separate the interface from the implementation.

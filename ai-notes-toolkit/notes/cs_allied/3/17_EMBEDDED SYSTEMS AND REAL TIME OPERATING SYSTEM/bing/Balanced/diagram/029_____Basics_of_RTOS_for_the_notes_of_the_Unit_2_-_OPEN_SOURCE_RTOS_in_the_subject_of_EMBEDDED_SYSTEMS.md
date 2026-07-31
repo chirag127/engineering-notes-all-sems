@@ -1,0 +1,26 @@
+### Basics of RTOS
+
+- A real-time operating system (RTOS) is a software system that provides the necessary hard real-time computing capabilities, and it does so in an embedded environment.
+- A real-time operating system is different from a general-purpose operating system, such as Windows or Linux, because it has to meet strict timing constraints and ensure deterministic behavior.
+- A real-time operating system consists of several components, such as:
+  - A kernel, which is the core of the RTOS that manages the hardware resources, creates and schedules the tasks, and handles the interrupts.
+  - A memory management unit, which allocates and deallocates the memory for the tasks and the kernel.
+  - A communication mechanism, which enables the tasks to exchange data and synchronize with each other.
+  - A file system, which provides access to persistent storage devices.
+  - A device driver, which interfaces with the peripheral devices and provides input/output functions.
+  - A network stack, which enables the RTOS to communicate with other systems over the network.
+- A real-time operating system can be classified into three types, based on the degree of time sensitivity of the tasks:
+  - Hard real-time operating system: These operating systems guarantee that critical tasks be completed within a range of predefined time limits. Any delay or failure can result in catastrophic consequences. For example, a missile control system or a pacemaker.
+  - Soft real-time operating system: These operating systems provide some relaxation in the time limit. The tasks are still expected to meet the deadlines, but occasional delays or failures are tolerable. For example, a video streaming system or a voice recognition system.
+  - Firm real-time operating system: These operating systems have to complete the tasks within the deadlines, but if they miss the deadlines, the tasks are discarded and no longer useful. For example, a stock trading system or a sensor data processing system.
+- A real-time operating system can be implemented using different approaches, such as:
+  - Preemptive multitasking: This approach allows the RTOS to interrupt a running task and switch to a higher priority task when an event occurs. This ensures that the critical tasks are always executed first and the system responsiveness is high. However, this also introduces the overhead of context switching and the complexity of synchronization and mutual exclusion.
+  - Cooperative multitasking: This approach requires the tasks to voluntarily yield the CPU to other tasks when they are idle or waiting for an event. This reduces the overhead of context switching and the complexity of synchronization and mutual exclusion. However, this also reduces the system responsiveness and the predictability of the task execution.
+  - Hybrid multitasking: This approach combines the preemptive and cooperative multitasking approaches, and allows the tasks to choose the best option for their needs. For example, a task can use preemptive multitasking for time-critical operations and cooperative multitasking for non-critical operations.
+- A real-time operating system can be designed using different architectures, such as:
+  - Monolithic architecture: This architecture integrates all the components of the RTOS into a single executable image, which runs in the same address space. This provides high performance and low memory footprint. However, this also reduces the modularity and the reliability of the system.
+  - Microkernel architecture: This architecture separates the kernel from the other components of the RTOS, and runs them in different address spaces. This provides high modularity and high reliability, as the components can be updated or replaced independently. However, this also increases the performance overhead and the memory footprint, as the components have to communicate through inter-process communication mechanisms.
+  - Exokernel architecture: This architecture minimizes the functionality of the kernel, and exposes the hardware resources to the tasks directly. This allows the tasks to implement their own policies and mechanisms for managing the resources, and provides high flexibility and efficiency. However, this also increases the complexity and the security risks of the system.
+- A real-time operating system can be developed using different tools and platforms, such as:
+  - Open source RTOS: These are RTOS that are freely available and can be modified and distributed by anyone. Some examples of open source RTOS are FreeRTOS, Zephyr, and Linux with real-time extensions.
+  - Commercial RTOS: These are RTOS that are developed and sold by companies, and usually come with technical support and documentation. Some examples of commercial RTOS are VxWorks, QNX, and Azure RTOS

@@ -1,0 +1,22 @@
+## CO 5 Develop confidence for self-education and ability for life-long learning needed for Computer language.
+
+- Computer language is a set of symbols and rules that are used to communicate with a computer or a machine.
+- Learning computer language is essential for developing various applications, software, and systems that can solve problems and perform tasks.
+- Computer language is constantly evolving and changing, as new technologies and paradigms emerge and old ones become obsolete or deprecated.
+- Therefore, it is important to develop confidence for self-education and ability for life-long learning needed for computer language, as it will help to:
+  - Keep up with the latest trends and developments in the field of computer science and engineering.
+  - Adapt to the changing requirements and expectations of the employers, clients, and users.
+  - Enhance the skills and knowledge of computer language and related topics.
+  - Explore new possibilities and opportunities for innovation and creativity.
+  - Avoid becoming stagnant or irrelevant in the competitive and dynamic market.
+- Some of the strategies and methods to develop confidence for self-education and ability for life-long learning needed for computer language are:
+  - Reading books, articles, blogs, and journals that cover various aspects of computer language and its applications.
+  - Taking online courses, tutorials, and workshops that teach computer language and its concepts, syntax, and features.
+  - Practicing and experimenting with computer language by writing, debugging, and testing code on various platforms and environments.
+  - Joining online communities, forums, and groups that discuss and share information, resources, and tips on computer language and its issues and challenges.
+  - Participating in competitions, hackathons, and projects that involve using computer language to solve problems and create solutions.
+  - Seeking feedback, guidance, and mentorship from experts, peers, and instructors who have experience and expertise in computer language and its domains.
+  - Reflecting on the learning outcomes, achievements, and difficulties of learning computer language and identifying the strengths, weaknesses, and areas of improvement.
+  - Setting realistic and achievable goals and plans for learning computer language and tracking the progress and performance.
+  - Reviewing and updating the knowledge and skills of computer language regularly and periodically.
+  - Developing a positive attitude and mindset towards learning computer language and overcoming the fear of failure and frustration.

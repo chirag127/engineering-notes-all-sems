@@ -1,0 +1,30 @@
+### Ontological Engineering
+
+- Ontological engineering is a field that studies the methods and methodologies for building ontologies, which are formal representations of the concepts, data and entities in a domain and the relations between them .
+- Ontological engineering aims to improve the automated processing of information that is not interpretable by software agents by adding rich semantics to the resources, such as video files.
+- Ontological engineering involves a set of tasks related to the ontology development process, the ontology life cycle, the methods and methodologies for building ontologies, and the tool suites and languages that support them .
+- The ontology development process consists of the following phases:
+  - Ontology specification: defining the purpose, scope, requirements and users of the ontology.
+  - Ontology conceptualization: identifying the main concepts, properties and relations in the domain and organizing them into a conceptual model.
+  - Ontology formalization: encoding the conceptual model into a formal language, such as OWL or RDF, that can be processed by software agents.
+  - Ontology implementation: creating the ontology file or database and populating it with instances of the concepts and relations.
+  - Ontology evaluation: assessing the quality, validity, usability and performance of the ontology against the requirements and the users' needs.
+  - Ontology documentation: describing the ontology structure, content, design decisions and usage guidelines.
+  - Ontology maintenance: updating, revising and evolving the ontology as the domain knowledge changes or new requirements emerge.
+- The ontology life cycle is the sequence of activities that an ontology undergoes from its creation to its retirement. It includes the following stages:
+  - Ontology birth: the initial development of the ontology based on the specification and conceptualization phases.
+  - Ontology operation: the use of the ontology by software agents or human users for various tasks, such as information retrieval, reasoning, classification, etc.
+  - Ontology evolution: the modification of the ontology to accommodate new knowledge, correct errors, improve performance, etc.
+  - Ontology merge: the integration of two or more ontologies into a single one that covers a broader domain or a more specific subdomain.
+  - Ontology reuse: the application of an existing ontology to a new domain or task, with or without adaptation.
+  - Ontology versioning: the management of different versions of the ontology that reflect its history and changes.
+  - Ontology death: the termination of the ontology when it is no longer needed or useful.
+- The methods and methodologies for building ontologies are the systematic approaches that guide the ontology development process and provide best practices, principles, techniques and tools for each phase. Some examples of ontology engineering methodologies are:
+  - Methontology: a comprehensive methodology that covers all the phases of the ontology development process and provides a set of intermediate products, such as glossaries, dictionaries, taxonomies, etc.
+  - On-To-Knowledge: a methodology that focuses on the ontology implementation and evaluation phases and provides a set of tools, such as OntoEdit, KAON and Text-To-Onto, for ontology editing, management and learning.
+  - NeOn: a methodology that emphasizes the ontology reuse and reengineering phases and provides a set of scenarios, such as ontology localization, ontology modularization and ontology alignment, for ontology adaptation and integration.
+- The tool suites and languages that support ontological engineering are the software applications and formalisms that facilitate the ontology development, operation, evolution, merge, reuse, versioning and death. Some examples of ontology engineering tools and languages are:
+  - Protégé: a widely used tool for ontology editing, visualization, debugging and reasoning, that supports various ontology languages, such as OWL, RDF and RDFS.
+  - OBO-Edit: a tool for ontology editing and browsing, that supports the OBO language, which is commonly used for biomedical ontologies.
+  - OWL: a standard ontology language that is based on description logic and enables expressive and computable representation of concepts, properties and relations.
+  - RDF: a standard data model and language that enables the representation of resources and their attributes and relations using triples of subject, predicate and object.

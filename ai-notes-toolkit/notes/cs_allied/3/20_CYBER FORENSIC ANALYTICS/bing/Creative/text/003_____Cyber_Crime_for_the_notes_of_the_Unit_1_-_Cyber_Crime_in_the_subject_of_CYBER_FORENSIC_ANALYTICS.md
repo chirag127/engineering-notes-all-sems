@@ -1,0 +1,12 @@
+### Cyber Crime
+
+Cyber crime is the use of a computer or a networked device to commit illegal or harmful acts, such as fraud, identity theft, cyber stalking, hacking, or denial-of-service attacks. Cyber crime can affect individuals, organizations, or governments, and can cause financial, reputational, or physical damage. Cyber crime can also violate the privacy and security of personal or corporate data.
+
+Some of the main types of cyber crime are:
+
+- **Cyber attacks**: These are deliberate attempts to disrupt, damage, or destroy computer systems or networks, or to access or manipulate data without authorization. Cyber attacks can be motivated by various reasons, such as political, ideological, or personal. Some examples of cyber attacks are virus infections, ransomware, distributed denial-of-service (DDoS) attacks, or phishing.
+- **Cyber fraud**: This is the use of deception or manipulation to obtain money, goods, or services from unsuspecting victims online. Cyber fraud can take many forms, such as online banking fraud, credit card fraud, online auction fraud, or email scams.
+- **Cyber theft**: This is the theft of intellectual property, trade secrets, or confidential information from online sources. Cyber theft can also involve the theft of personal identities, such as names, passwords, or social security numbers, to commit other crimes or to impersonate someone else.
+- **Cyber harassment**: This is the use of online communication to harass, threaten, or intimidate someone. Cyber harassment can include cyber stalking, cyber bullying, cyber hate, or cyber defamation. Cyber harassment can cause emotional distress, fear, or harm to the victim's reputation or safety.
+
+Cyber crime is a serious and growing problem that requires awareness, prevention, and security measures from all stakeholders, such as individuals, organizations, governments, and law enforcement agencies. Cyber crime can be prevented by using strong passwords, antivirus software, firewalls, encryption, and other security tools, as well as by being cautious and vigilant when using the internet or sharing personal or sensitive information online. Cyber crime can be reported to the relevant authorities, such as the police, the internet service provider, or the website administrator, if one suspects or experiences any cyber crime activity. Cyber crime can also be investigated and prosecuted by using various cyber forensic techniques, such as digital evidence collection, analysis, and presentation.

@@ -1,0 +1,22 @@
+### Digital device for the notes of the Unit 2 - Cyber Forensics in the subject of CYBER FORENSIC ANALYTICS
+
+- A digital device is any device that can store or process digital data, such as a computer, smartphone, tablet, camera, etc.
+- Cyber forensics is a branch of forensic science that deals with recovering, investigating, examining, and analyzing digital evidence related to cybercrime or cybersecurity incidents.
+- Digital evidence is information stored or transmitted in binary form that may be relied on in court or for legal purposes.
+- There are different types of digital forensics, depending on the source and nature of the digital evidence, such as:
+  - Network forensics: detecting and monitoring network traffic to capture crucial evidence, such as IP addresses, packets, protocols, etc.
+  - Disk forensics: collecting evidence from digital storage devices such as USBs, CDs, hard drives, and DVDs, such as files, folders, metadata, deleted data, etc.
+  - Wireless forensics: extracting evidence from wireless networking devices, such as routers, access points, wireless cards, etc., such as SSIDs, MAC addresses, encryption keys, etc.
+  - Database forensics: investigating databases and their relevant metadata to collect evidence, such as queries, transactions, logs, schemas, etc.
+  - Mobile forensics: analyzing evidence from mobile devices, such as smartphones, tablets, GPS, etc., such as contacts, messages, call logs, apps, location data, etc.
+  - Cloud forensics: accessing and examining evidence from cloud-based services, such as email, social media, online storage, etc., such as user accounts, activity logs, data backups, etc.
+- The process of digital forensics typically involves four phases:
+  - Preservation: securing and isolating the digital device or evidence from any alteration, damage, or loss.
+  - Acquisition: creating a copy or an image of the digital device or evidence for analysis, using specialized tools and techniques.
+  - Analysis: examining and interpreting the digital evidence, using various methods and software, to identify relevant information and establish facts.
+  - Reporting: documenting and presenting the findings and conclusions of the analysis, using clear and concise language and evidence.
+- The challenges of digital forensics include:
+  - The large and increasing volume and variety of digital data and devices.
+  - The dynamic and evolving nature of digital data and devices, such as encryption, deletion, obfuscation, etc.
+  - The legal and ethical issues of digital forensics, such as privacy, consent, jurisdiction, chain of custody, etc.
+  - The technical and human factors of digital forensics, such as skills, training, standards, quality, etc.

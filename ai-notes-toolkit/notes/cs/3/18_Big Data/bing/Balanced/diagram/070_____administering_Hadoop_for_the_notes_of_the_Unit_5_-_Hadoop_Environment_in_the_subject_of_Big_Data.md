@@ -1,0 +1,23 @@
+### Administering Hadoop
+
+- Hadoop administration is the process of managing and maintaining the Hadoop clusters and the Hadoop ecosystem components such as HDFS, MapReduce, YARN, Hive, HBase, etc.
+- Hadoop administration involves the following tasks:
+  - Installing and configuring Hadoop and its components on the cluster nodes.
+  - Monitoring the cluster performance, health, and resource utilization.
+  - Troubleshooting and resolving any issues or failures in the cluster or the applications running on it.
+  - Adding or removing nodes from the cluster and balancing the data across them.
+  - Securing the cluster and the data with authentication, authorization, encryption, and backup mechanisms.
+  - Tuning the cluster and the applications for optimal performance and efficiency.
+  - Updating and upgrading the Hadoop software and its components as needed.
+- Hadoop administration requires the following skills and knowledge:
+  - A good understanding of the Hadoop architecture and the Hadoop ecosystem components and their functionalities.
+  - A good knowledge of the Linux operating system and its commands and tools.
+  - A good knowledge of the Java programming language and the Hadoop APIs.
+  - A good knowledge of the network and distributed systems concepts and protocols.
+  - A good knowledge of the data management and processing techniques and tools such as SQL, NoSQL, ETL, etc.
+  - A good knowledge of the security and backup mechanisms and tools such as Kerberos, SSL, SSH, etc.
+  - A good knowledge of the performance tuning and optimization techniques and tools such as JMX, Ganglia, Nagios, etc.
+- Hadoop administration can be learned from various sources such as:
+  - The official Hadoop documentation which provides the information on how to set up, configure, and manage a Hadoop cluster and its components.
+  - The Hadoop: The Definitive Guide book which covers the Hadoop architecture, the Hadoop ecosystem components, and the Hadoop administration tasks and best practices in detail.
+  - The online courses and tutorials on Hadoop administration such as the ones offered by EDUCBA, Intellipaat, and Koenig Solutions which provide the theoretical and practical knowledge on Hadoop administration with hands-on exercises and projects.

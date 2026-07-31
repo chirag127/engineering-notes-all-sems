@@ -1,0 +1,10 @@
+### Investigating Computer Intrusions
+
+- Computer intrusions are unauthorized or illegal access or damage to a computer system or network by an attacker who exploits a vulnerability or uses a technical capability.
+- Investigating computer intrusions requires strong technical skills and effective case management, often involving a team of digital investigators and forensic examiners.
+- The main steps of investigating computer intrusions are:
+  - Identify and preserve the evidence of the intrusion, such as logs, files, network traffic, backup tapes, etc. Make sure to keep the evidence in a secure and encrypted area, and avoid using the compromised system to communicate about the intrusion.
+  - Analyze the evidence to determine the scope, impact, and source of the intrusion, such as the attacker's identity, location, motive, methods, tools, and targets. Use appropriate forensic tools and techniques to examine the evidence and reconstruct the intrusion scenario.
+  - Report and document the findings and recommendations of the investigation, such as the timeline, summary, details, and evidence of the intrusion, as well as the countermeasures, remediation, and prevention strategies. Follow the legal and ethical standards and procedures for reporting and documenting the investigation.
+  - Coordinate and cooperate with other stakeholders, such as law enforcement, security experts, network administrators, and victims. Share relevant information and intelligence, and seek assistance and support when needed. Follow the chain of custody and evidence handling protocols.
+- Some of the agencies that investigate computer intrusions are the FBI, the Secret Service, and the Department of Homeland Security. They are responsible for investigating computer-related crimes involving both criminal acts and national security issues.

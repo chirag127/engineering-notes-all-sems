@@ -1,0 +1,11 @@
+### Transformation-based tagging
+- Transformation-based tagging is a rule-based algorithm for automatic tagging of parts of speech (POS) to the given text .
+- It is also called Brill tagging, after its inventor Eric Brill .
+- It is an instance of transformation-based learning (TBL), which is a machine learning paradigm that learns from a set of examples and a set of transformation rules .
+- The basic idea of transformation-based tagging is to start with a default tag for each word and then iteratively apply transformation rules to correct the errors .
+- The transformation rules are of the form: change the tag of a word from X to Y if condition Z is met .
+- The condition Z can be based on the word itself, its surrounding words, or its surrounding tags .
+- The transformation rules are learned from a training corpus by finding the rule that reduces the most errors at each iteration .
+- The order of the rules is important, as each rule may affect the applicability of the subsequent rules .
+- The advantages of transformation-based tagging are that it is fast, simple, and interpretable .
+- The disadvantages are that it may overfit the training data, it may not generalize well to unseen data, and it may not capture complex dependencies between words and tags .

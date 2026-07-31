@@ -1,0 +1,21 @@
+### Managing Interactive Processes in SPM
+
+- Software Project Management (SPM) is a proper way of planning and leading software projects. It is a part of project management in which software projects are planned, implemented, monitored, and controlled.
+- Managing interactive processes in SPM involves the following steps:
+  - Establishing the project scope, objectives, and constraints.
+  - Defining the project activities, deliverables, and milestones.
+  - Estimating the resources, time, and cost required for each activity.
+  - Allocating and scheduling the resources and tasks among the project team members.
+  - Monitoring and controlling the project progress, quality, and risks.
+  - Communicating and collaborating with the stakeholders and the team members.
+  - Reviewing and evaluating the project outcomes and lessons learned.
+- Managing interactive processes in SPM requires the use of various tools and techniques, such as:
+  - Work breakdown structure (WBS): A hierarchical decomposition of the project scope into manageable components.
+  - Gantt chart: A graphical representation of the project schedule, showing the start and end dates of each activity and their dependencies.
+  - Critical path method (CPM): A technique to identify the longest sequence of activities that determines the project duration and the slack time of each activity.
+  - Earned value management (EVM): A method to measure the project performance by comparing the actual work done, the planned work, and the budget.
+  - Risk management: A process to identify, analyze, prioritize, and mitigate the potential threats and opportunities that may affect the project.
+  - Iteration planning: A process to adapt the project plan as the project unfolds by making alterations based on feedback, changes, and uncertainties.
+  - Strategic portfolio management (SPM): A process to align the project strategy to the organizational goals and optimize the allocation of resources and investments across multiple projects.
+  - Sales performance management (SPM): A process to automate and improve the operational and analytical functions of the sales process, such as incentive compensation, quota planning, territory management, and forecasting.
+  - Surgical asset tracking software (SPM): A software to track and manage the surgical instruments and equipment throughout the reprocessing cycle, ensuring compliance and efficiency.

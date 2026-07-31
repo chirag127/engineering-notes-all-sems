@@ -1,0 +1,21 @@
+### Search Strategies for Artificial Intelligence
+
+- Search strategies are methods to find solutions to problems in artificial intelligence (AI) by exploring the search space systematically or heuristically  .
+- Search space is the set of all possible states and actions that can be reached from the initial state by applying the problem rules  .
+- Search algorithms are the implementations of search strategies that use data structures and operations to manipulate the search space and find the optimal or suboptimal solution   .
+- Search algorithms can be classified into two categories: uninformed and informed    .
+- Uninformed search algorithms do not use any domain-specific knowledge or heuristic function to guide the search. They only use the problem definition and the goal test to expand the nodes    .
+- Informed search algorithms use a heuristic function that estimates the cost or distance from a node to the goal. They expand the nodes that have the lowest estimated cost or distance    .
+- The basic uninformed search algorithms are     :
+  - Breadth-first search: It expands the nodes in the order of their distance from the root node. It uses a queue to store the nodes to be expanded.
+  - Depth-first search: It expands the nodes in the order of their depth from the root node. It uses a stack to store the nodes to be expanded.
+  - Uniform-cost search: It expands the nodes in the order of their path cost from the root node. It uses a priority queue to store the nodes to be expanded.
+  - Depth-limited search: It is a variant of depth-first search that limits the maximum depth of the search tree to avoid infinite loops.
+  - Iterative deepening depth-first search: It is a combination of breadth-first search and depth-limited search that gradually increases the depth limit until the goal is found or the search space is exhausted.
+  - Bidirectional search: It is a technique that runs two simultaneous searches: one from the initial state and one from the goal state, and stops when they meet in the middle.
+- The basic informed search algorithms are    :
+  - Greedy search (best first search): It expands the node that appears to be closest to the goal according to the heuristic function. It uses a priority queue to store the nodes to be expanded.
+  - A* search: It expands the node that has the lowest total estimated cost, which includes the path cost from the root node and the heuristic cost to the goal node. It uses a priority queue to store the nodes to be expanded.
+  - Hill climbing search: It is a local search algorithm that moves from the current node to the best neighbor node according to the heuristic function, until no improvement is possible or a goal is reached.
+  - Simulated annealing search: It is a probabilistic local search algorithm that allows some bad moves to escape from local optima, but decreases the probability of such moves as the search progresses.
+  - Genetic algorithm: It is a population-based search algorithm that mimics the natural process of evolution. It generates new solutions by applying genetic operators such as selection, crossover, and mutation.

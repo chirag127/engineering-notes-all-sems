@@ -1,0 +1,13 @@
+# Output Formats for Map Reduce
+
+OutputFormat is a component of MapReduce that defines how the output files of a job are written, stored and formatted. OutputFormat also provides the RecordWriter implementation that is responsible for writing the key-value pairs emitted by the reducer to the output files .
+
+There are several types of OutputFormat in MapReduce, each with different characteristics and use cases. Some of the common types are   :
+
+- TextOutputFormat: This is the default OutputFormat that writes key-value pairs as plain text files, separated by a tab character. This format is easy to read and process by humans and other tools, but it may not be efficient for large or complex data.
+- SequenceFileOutputFormat: This OutputFormat writes key-value pairs as binary files in a sequence file format. A sequence file is a flat file that consists of binary key-value pairs, which can be compressed and split. This format is suitable for storing large or complex data that needs to be processed by MapReduce or other Hadoop tools.
+- SequenceFileAsBinaryOutputFormat: This is a variant of SequenceFileOutputFormat that writes the key-value pairs as raw bytes, without any serialization or deserialization. This format is useful for transferring data between MapReduce jobs that use different data types or formats.
+- MapFileOutputFormat: This OutputFormat writes key-value pairs as binary files in a map file format. A map file is a directory that contains two files: a data file that stores the values, and an index file that stores the keys and their offsets in the data file. This format allows random access to the values by their keys, which can be useful for lookup or join operations.
+- MultipleOutputs: This is a utility class that allows writing to multiple OutputFormats from a single MapReduce job. This can be useful for partitioning the output data based on some criteria, such as the key or the value, or for writing to different destinations, such as HDFS or local file system.
+- LazyOutputFormat: This is a wrapper class that prevents the creation of empty output files. By default, MapReduce creates one output file per reducer, even if the reducer does not emit any key-value pairs. This can result in a large number of empty files, which can affect the performance and storage efficiency of the system. LazyOutputFormat avoids this problem by creating the output files only when they are needed.
+- DBOutputFormat: This OutputFormat writes the key-value pairs to a relational database table, using JDBC. This can be useful for exporting the output data to an external database system, such as MySQL or Oracle. The table schema and the connection parameters need to be specified in the job configuration.

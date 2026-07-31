@@ -1,0 +1,29 @@
+# Threads - Creation
+
+- A thread is a separate execution path within a program that can run concurrently with other threads.
+- A thread is also known as a lightweight process that shares the same memory and resources as the program that created it.
+- Threads can be created and managed by the operating system (kernel-supported threads) or by the program (user-level threads).
+- The advantages of using threads are:
+  - Improved performance and responsiveness of the program
+  - Better utilization of the CPU and other resources
+  - Easier communication and synchronization among threads
+  - Simplified program structure and modularity
+- The challenges of using threads are:
+  - Ensuring the re-entrancy and thread-safety of the code
+  - Avoiding race conditions and deadlocks among threads
+  - Managing the overhead and complexity of thread creation and switching
+  - Choosing the appropriate thread model and library for the target platform
+- In embedded systems, threads are often used to handle multiple tasks or events that require concurrent or parallel execution.
+- Embedded systems may use no OS, RTOS, or general-purpose OS, depending on the requirements and constraints of the system.
+- The thread model and library may vary depending on the OS and the programming language used for the embedded system.
+- Some examples of thread models and libraries are:
+  - POSIX threads (pthreads) - a standard API for creating and manipulating threads in C and C++ programs
+  - Java threads - a built-in feature of the Java language that allows creating and managing threads as subclasses of the Thread class
+  - Qt threads - a cross-platform framework for creating and managing threads as subclasses of the QThread class in C++ programs
+  - FreeRTOS threads - a lightweight and portable API for creating and manipulating threads (also called tasks) in embedded systems using the FreeRTOS kernel
+- The general steps for creating a thread are:
+  - Define the function or method that the thread will execute
+  - Create an instance of the thread object or structure and pass the function or method as a parameter
+  - Start the thread by calling a specific function or method of the thread object or structure
+  - Optionally, join or detach the thread to synchronize or terminate its execution
+- The syntax and details of creating a thread may differ depending on the thread model and library used.

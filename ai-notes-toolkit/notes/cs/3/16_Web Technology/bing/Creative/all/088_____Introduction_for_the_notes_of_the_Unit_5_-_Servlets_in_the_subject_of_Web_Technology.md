@@ -1,0 +1,22 @@
+# Introduction for the notes of the Unit 5 - Servlets in the subject of Web Technology
+
+- Servlets are Java programs that run on a web server and handle HTTP requests and responses.
+- Servlets can be used to create dynamic web pages, process user input, interact with databases, and implement web services.
+- Servlets are compiled into bytecode and executed by a Java Virtual Machine (JVM) on the web server.
+- Servlets are portable across different web servers and platforms, as long as they support the Java Servlet API.
+- Servlets are more efficient, secure, and scalable than CGI scripts, which are external programs that run on the web server and communicate with the web browser via standard input and output streams.
+- Servlets have a life cycle that consists of three phases: initialization, service, and destruction.
+- Initialization: The web server loads the servlet class and creates an instance of the servlet. The servlet's init() method is called to perform any initialization tasks.
+- Service: The web server invokes the servlet's service() method to handle each HTTP request that is mapped to the servlet. The service() method can delegate the request to other methods, such as doGet() or doPost(), depending on the HTTP method (GET, POST, etc.).
+- Destruction: The web server removes the servlet instance from memory and calls its destroy() method to perform any cleanup tasks.
+- Servlets can be configured and managed using annotations, web.xml deployment descriptor, or a combination of both.
+- Annotations are special comments that provide metadata about the servlet, such as its name, URL pattern, initialization parameters, etc. Annotations are processed by the web server at deployment time and do not require a web.xml file.
+- Web.xml is an XML file that contains information about the web application, such as servlets, filters, listeners, security, etc. Web.xml is located in the WEB-INF directory of the web application and is read by the web server at deployment time.
+- Servlets can access various objects and information through the ServletContext, ServletConfig, HttpServletRequest, and HttpServletResponse interfaces.
+- ServletContext represents the web application and provides methods to access its initialization parameters, attributes, resources, and log files.
+- ServletConfig represents the servlet and provides methods to access its name, initialization parameters, and ServletContext.
+- HttpServletRequest represents the HTTP request and provides methods to access its headers, parameters, attributes, cookies, session, etc.
+- HttpServletResponse represents the HTTP response and provides methods to set its status code, headers, cookies, content type, etc. It also provides a PrintWriter object to write the response body.
+- Servlets can use cookies and sessions to store and track information about the clients.
+- Cookies are small pieces of data that are sent by the web server to the web browser and stored on the client's machine. Cookies can be used to store preferences, authentication, shopping cart, etc. Cookies can be read and modified by the web server and the web browser.
+- Sessions are objects that are created by the web server and associated with a unique identifier (session ID) that is sent to the web browser as a cookie or a URL parameter. Sessions can be used to store information about the client's state, such as login status, user profile, etc. Sessions can be accessed and modified by the web server only.

@@ -1,0 +1,9 @@
+### Images in Web Page Designing
+
+Images are visual elements that can enhance the appearance and functionality of a web page. Images can convey information, create interest, illustrate concepts, provide feedback, and support navigation. However, images also have some drawbacks, such as increasing the loading time, requiring alternative text for accessibility, and potentially distracting the user from the main content. Therefore, web designers should use images wisely and follow some best practices, such as:
+
+- Choosing the appropriate image format for the purpose and quality of the image. Common image formats for web pages are JPEG, PNG, GIF, and SVG.
+- Optimizing the image size and resolution to reduce the file size and bandwidth usage. This can be done by using compression tools, resizing tools, and responsive images techniques.
+- Providing meaningful and descriptive alternative text (alt text) for images that are not purely decorative. Alt text is a text that describes the image content or function for users who cannot see the image, such as screen readers, search engines, and browsers with images disabled.
+- Aligning and positioning the images properly with respect to the text and other elements on the page. This can be done by using CSS properties, such as float, display, margin, and padding.
+- Adding captions, titles, and links to images when appropriate to provide additional information or context for the user. Captions are text that appear below the image, titles are text that appear when the user hovers over the image, and links are clickable areas that direct the user to another page or resource.

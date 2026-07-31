@@ -1,0 +1,12 @@
+### Graph Based Models for Real Time Kernel Basics
+
+In the study of Real Time Operating Systems, one of the most important concepts to understand is the use of Graph Based Models. These models are used to represent the structure of the system, including the relationships between different components and how they interact with one another. Here are some key points to keep in mind when studying Graph Based Models for Real Time Kernel Basics:
+
+- A Graph Based Model is a visual representation of a system, consisting of nodes and edges that connect them. Nodes represent components of the system, while edges represent the relationships between them.
+- In Real Time Kernel Basics, Graph Based Models are commonly used to model the scheduling of tasks and the allocation of resources. By representing these processes visually, it becomes easier to understand and optimize the system's performance.
+- One common type of Graph Based Model used in Real Time Kernel Basics is the Directed Acyclic Graph (DAG). This is a graph in which the edges only flow in one direction and there are no cycles (i.e., no path that would allow you to return to a node you have already visited). DAGs are particularly useful for representing task dependencies and scheduling.
+- Another type of Graph Based Model used in Real Time Kernel Basics is the Resource Allocation Graph (RAG). This is a graph that represents the allocation of resources to different tasks in the system. Nodes represent tasks, while edges represent the resources needed by those tasks. By analyzing the RAG, it becomes possible to optimize resource allocation and avoid deadlocks.
+- When studying Graph Based Models for Real Time Kernel Basics, it is important to also understand the concept of priority inheritance. This is a technique used to prevent priority inversion, which occurs when a low-priority task holds a resource that a high-priority task needs to complete. Priority inheritance involves temporarily elevating the priority of the low-priority task to prevent this from happening.
+- Finally, it is worth noting that Graph Based Models are not the only tool used in Real Time Kernel Basics. Other concepts, such as state machines and finite automata, are also important for understanding how Real Time Operating Systems function.
+
+By mastering the use of Graph Based Models, it becomes possible to create more efficient and reliable Real Time Operating Systems. Whether you are designing a new system from scratch or optimizing an existing one, a strong understanding of these models is essential.

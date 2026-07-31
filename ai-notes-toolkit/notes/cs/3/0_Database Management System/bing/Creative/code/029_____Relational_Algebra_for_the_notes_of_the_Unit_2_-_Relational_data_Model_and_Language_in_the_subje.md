@@ -1,0 +1,22 @@
+### Relational Algebra
+
+Relational algebra is a theory that uses algebraic structures for modeling data, and defining queries on it with a well founded semantics. The main application of relational algebra is to provide a theoretical foundation for relational databases, particularly query languages for such databases, chief among which is SQL.
+
+Relational algebra is considered as a procedural query language, where the user tells the system to carry out a set of operations to obtain the desired results. Relational databases store tabular data represented as relations. Queries over relational databases often likewise return tabular data represented as relations.
+
+Relational algebra operations can be classified into two categories: basic and derived. Basic operations are the ones that are fundamental and cannot be derived from other operations. Derived operations are the ones that can be expressed in terms of the basic operations.
+
+Some of the basic operations are:
+
+- **SELECT** (σ): The SELECT operation is used for selecting a subset of the tuples according to a given selection condition. For example, σ<sub>age > 20</sub>(Student) selects all the tuples from the Student relation where the age attribute is greater than 20.
+- **PROJECT** (π): The PROJECT operation is used for selecting a subset of the attributes from a relation. For example, π<sub>name, course</sub>(Student) selects only the name and course attributes from the Student relation.
+- **UNION** (∪): The UNION operation is used for combining two relations that have the same set of attributes. For example, Student ∪ Teacher returns a relation that contains all the tuples from both Student and Teacher relations.
+- **SET DIFFERENCE** (-): The SET DIFFERENCE operation is used for finding the tuples that are present in one relation but not in another relation that have the same set of attributes. For example, Student - Teacher returns a relation that contains all the tuples from Student relation that are not present in Teacher relation.
+- **CARTESIAN PRODUCT** (×): The CARTESIAN PRODUCT operation is used for combining two relations by forming all possible pairs of tuples from both relations. For example, Student × Course returns a relation that contains all the possible combinations of tuples from Student and Course relations.
+
+Some of the derived operations are:
+
+- **RENAME** (ρ): The RENAME operation is used for changing the name of a relation or an attribute. For example, ρ<sub>Enrolled(name, course)</sub>(Student) changes the name of the Student relation to Enrolled, and the attributes name and course to name and course respectively.
+- **INTERSECTION** (∩): The INTERSECTION operation is used for finding the tuples that are common in two relations that have the same set of attributes. For example, Student ∩ Teacher returns a relation that contains all the tuples that are present in both Student and Teacher relations. This operation can be derived from the SET DIFFERENCE operation as follows: Student ∩ Teacher = Student - (Student - Teacher).
+- **JOIN** (⋈): The JOIN operation is used for combining two relations based on a common attribute or a condition. For example, Student ⋈<sub>Student.course = Course.code</sub> Course returns a relation that contains all the tuples from Student and Course relations that have the same value for the course and code attributes respectively. This operation can be derived from the CARTESIAN PRODUCT, SELECT and PROJECT operations as follows: Student ⋈<sub>Student.course = Course.code</sub> Course = π<sub>Student.name, Student.course, Course.title</sub>(σ<sub>Student.course = Course.code</sub>(Student × Course)).
+- **DIVISION** (÷): The DIVISION operation is used for finding the tuples from a relation that are associated with all the tuples from another relation. For example, Student ÷ Course returns a relation that contains all the tuples from Student relation that are enrolled in all the courses from Course relation. This operation can be derived from the CARTESIAN PRODUCT, SET DIFFERENCE and PROJECT operations as follows: Student ÷ Course = π<sub>Student.name</sub>(Student) - π<sub>Student.name</sub>((π<sub>Student.name, Student.course</sub>(Student) × Course)

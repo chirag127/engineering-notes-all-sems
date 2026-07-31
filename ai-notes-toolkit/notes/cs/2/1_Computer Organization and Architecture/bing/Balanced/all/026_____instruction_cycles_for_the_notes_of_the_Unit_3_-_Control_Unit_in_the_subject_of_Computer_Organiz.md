@@ -1,0 +1,8 @@
+# Instruction Cycles
+
+- Instruction cycles are the basic operations of the CPU that consist of three steps: fetch, decode, and execute  .
+- Fetch: The CPU retrieves the instruction from the memory unit and stores it in the instruction register . The program counter is incremented to point to the next instruction .
+- Decode: The CPU analyzes the instruction and determines what actions are required . The instruction may specify the operands (data) and the operation (function) to be performed on them .
+- Execute: The CPU performs the operation on the operands, which may involve transferring data between registers, memory, and input/output devices, or performing arithmetic or logical operations . The result may be stored in a register or memory location .
+- The instruction cycle is repeated until the program is completed or an interrupt occurs . An interrupt is a signal that causes the CPU to stop the current instruction cycle and switch to another task .
+- The instruction cycle may vary depending on the type and complexity of the instruction, the CPU architecture, and the presence of pipelining or parallelism  . Pipelining is a technique that allows the CPU to fetch the next instruction while executing the current one, thus increasing the speed and efficiency of the CPU  . Parallelism is a technique that allows the CPU to execute multiple instructions simultaneously, thus increasing the throughput and performance of the CPU  .

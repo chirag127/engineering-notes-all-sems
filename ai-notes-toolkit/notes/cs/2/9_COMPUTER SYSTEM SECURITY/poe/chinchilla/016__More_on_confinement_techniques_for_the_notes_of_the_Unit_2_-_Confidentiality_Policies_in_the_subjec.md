@@ -1,0 +1,15 @@
+### More on Confinement Techniques for the Notes of the Unit 2 - Confidentiality Policies in the Subject of COMPUTER SYSTEM SECURITY
+
+In computer system security, confinement techniques are used to prevent unauthorized access to sensitive information by restricting the flow of information within the system. It is an essential aspect of confidentiality policies, and to understand it better, we need to dive deeper into the following points:
+
+1. Access Control: Access control is a mechanism that restricts access to resources based on user identity, role, or privilege. It is a fundamental confinement technique that helps ensure that only authorized users can access sensitive information. Access control can be implemented using various methods such as mandatory access control (MAC), discretionary access control (DAC), and role-based access control (RBAC).
+
+2. Sandboxing: Sandboxing is a technique that creates a virtual environment for running untrusted code. It is used to prevent malicious software from accessing sensitive information or resources. Sandboxing isolates the application from the rest of the system, ensuring that it cannot access or modify any other files or processes on the system.
+
+3. Virtualization: Virtualization is a technique that creates multiple virtual environments on a single physical machine. Each virtual environment is isolated from the others, and they can run different operating systems or applications. Virtualization is used to prevent applications from interfering with one another, and it provides an additional layer of security by isolating each virtual environment.
+
+4. Containerization: Containerization is similar to virtualization, but it is more lightweight and efficient. It is used to create isolated environments for running applications or services. Each container shares the same kernel as the host operating system, but it has its own isolated file system, network, and resources. Containerization is used to prevent applications from interfering with each other and to provide a more efficient way of deploying and managing applications.
+
+5. Data Encryption: Data encryption is a technique that transforms data into an unreadable format using a cryptographic algorithm. It is used to protect sensitive information from unauthorized access or interception. Data encryption can be implemented at various levels, such as disk encryption, file encryption, and network encryption.
+
+In conclusion, confinement techniques are essential for maintaining confidentiality in computer system security. Access control, sandboxing, virtualization, containerization, and data encryption are some of the most common confinement techniques used in computer system security. By understanding these techniques, we can better protect sensitive information and ensure that it is only accessible to authorized users.

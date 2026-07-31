@@ -1,0 +1,15 @@
+### Types of computer graphics
+
+Computer graphics are the visual representation of data and information using computers and software. Computer graphics can be used for various purposes, such as creating images, animations, simulations, games, user interfaces, and more.
+
+Computer graphics can be broadly classified into two main categories: raster graphics and vector graphics  . Additionally, computer graphics can also be categorized based on the dimensionality of the images: two dimensional (2D) and three dimensional (3D) graphics . Let us examine each of these types in detail.
+
+- Raster graphics: Raster graphics are made up of pixels, which are small squares of color arranged in a grid. Each pixel contains information about its color and brightness. Raster graphics are also known as bitmap images, as they map each pixel to a specific location on the screen. Raster graphics are commonly used for digital photographs, paintings, and scanned images. The quality of raster graphics depends on the resolution, which is the number of pixels per inch (ppi). The higher the resolution, the more detailed and sharp the image. However, raster graphics also have some drawbacks, such as being memory-intensive, losing quality when scaled up or down, and being difficult to edit or manipulate   .
+
+- Vector graphics: Vector graphics are made up of paths, which are defined by mathematical equations that describe the shape, direction, and color of the lines and curves. Vector graphics are also known as object-oriented graphics, as they represent each image element as an object that can be modified independently. Vector graphics are commonly used for logos, icons, diagrams, fonts, and illustrations. The quality of vector graphics does not depend on the resolution, as they can be scaled up or down without losing clarity or detail. Vector graphics also have some advantages, such as being memory-efficient, easy to edit or manipulate, and supporting transparency and animation   .
+
+- 2D graphics: 2D graphics are images that have only two dimensions: width and height. 2D graphics can be either raster or vector, depending on how they are created and stored. 2D graphics are widely used for web design, graphic design, user interfaces, and games. 2D graphics can create the illusion of depth, perspective, and motion by using techniques such as shading, lighting, shadows, gradients, and animation  .
+
+- 3D graphics: 3D graphics are images that have three dimensions: width, height, and depth. 3D graphics are usually created using vector graphics, as they can represent complex shapes and surfaces more easily. 3D graphics are widely used for computer-aided design (CAD), virtual reality, augmented reality, simulations, and games. 3D graphics can create realistic and immersive scenes by using techniques such as modeling, rendering, lighting, shading, texturing, and animation  .
+
+These are the main types of computer graphics that you should know for the Unit 1 - Introduction and Line Generation in the subject of Computer Graphics. I hope this helps you to understand the topic better. If you have any questions, please feel free to ask me.🙂

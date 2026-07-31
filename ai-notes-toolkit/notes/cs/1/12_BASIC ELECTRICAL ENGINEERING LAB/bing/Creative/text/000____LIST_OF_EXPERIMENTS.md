@@ -1,0 +1,12 @@
+## LIST OF EXPERIMENTS
+
+- An experiment is a scientific procedure that aims to test a hypothesis, answer a question, or discover something new.
+- Experiments usually involve manipulating one or more variables and measuring their effects on other variables.
+- Experiments can be classified into different types based on their purpose, design, and execution.
+- Some common types of experiments are:
+
+  - Controlled experiments: These are experiments where the researcher controls all the variables except the one being tested, which is called the independent variable. The researcher then measures the effect of the independent variable on the dependent variable, which is the outcome of interest. Controlled experiments are often conducted in laboratories, where the conditions can be controlled and standardized.
+  - Natural experiments: These are experiments where the researcher does not manipulate any variables, but instead observes the effects of a natural event or phenomenon on the dependent variable. Natural experiments are often conducted in the field, where the conditions are more realistic and complex, but also more difficult to control and measure.
+  - Quasi-experiments: These are experiments where the researcher manipulates the independent variable, but does not randomly assign the participants to different groups or conditions. Quasi-experiments are often used when randomization is not possible or ethical, such as in educational or social settings. Quasi-experiments are less rigorous than controlled experiments, but more realistic than natural experiments.
+  - Field experiments: These are experiments where the researcher manipulates the independent variable in a natural setting, such as a school, a workplace, or a community. Field experiments are more realistic than laboratory experiments, but also more challenging to control and measure. Field experiments can be either randomized or quasi-experimental, depending on how the participants are assigned to different groups or conditions.
+  - Survey experiments: These are experiments where the researcher uses a survey or questionnaire to measure the dependent variable, and manipulates the independent variable by varying the wording, order, or format of the questions. Survey experiments are often used to study the effects of framing, priming, or social desirability on people's attitudes, beliefs, or behaviors. Survey experiments are relatively easy and cheap to conduct, but also prone to biases and errors.

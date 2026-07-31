@@ -1,0 +1,9 @@
+### Auditory Displays for 3D User Interfaces
+
+- Auditory displays are devices that present information through the human auditory system, which is especially useful when supplying location and spatial information to the users.
+- Auditory displays can complement or substitute visual displays, depending on the task and the environment. For example, auditory displays can provide feedback, warnings, cues, or ambient sounds in situations where visual attention is limited or overloaded.
+- Auditory displays can be classified into two main types: 3D sound and sonification.
+  - 3D sound is the generation of sound that simulates the natural perception of sound in three-dimensional space. 3D sound can be achieved by using spatial audio techniques, such as binaural, ambisonic, or wave field synthesis, that manipulate the sound signals to create the illusion of sound sources at different locations and distances .
+  - Sonification is the transformation of certain types of information into sound. Sonification can be used to represent data, events, states, or processes that are not inherently auditory, such as temperature, speed, or network activity. Sonification can be useful for monitoring, exploring, or communicating complex or abstract information .
+- Auditory displays can enhance 3D user interfaces for virtual environments by providing more immersive, realistic, and informative experiences. Auditory displays can also support 3D user interaction by providing feedback, guidance, or affordances for navigation, manipulation, or collaboration .
+- Auditory displays and auditory user interfaces require careful design, evaluation, and integration with other modalities, such as vision, touch, or gesture. Some of the challenges and issues involved in auditory display design include sound quality, spatial accuracy, sound symbolism, sound aesthetics, sound mapping, sound attention, sound privacy, and sound fatigue .

@@ -1,0 +1,8 @@
+### Council of Ministers in Ancient India
+
+- The council of ministers was a body of advisers who assisted the king in the administration of the state.
+- The council of ministers was known by different names, such as Mantri-pariṣad, Mantri-maṇḍala, or Mantri-gaṇa  .
+- The council of ministers was composed of various types of ministers, such as the Prime Minister (Mantrimukhya or Mahāmantrī), the Chief Justice (Prādhyāpaka or Prādhyakṣa), the Treasurer (Sannidhāta or Kośādhyakṣa), the Commander-in-Chief (Senāpati or Senānī), the Foreign Minister (Dūta or Sandhivigrahika), and others.
+- The council of ministers was selected by the king based on their qualifications, character, and loyalty. The ministers were expected to be well-versed in the scriptures, law, politics, economics, and military affairs. They were also expected to be honest, brave, intelligent, and devoted to the king and the welfare of the people .
+- The council of ministers had various functions, such as advising the king on important matters, executing the king's orders, supervising the administration of various departments, maintaining law and order, collecting revenue, conducting diplomacy, and leading the army .
+- The council of ministers was not a mere rubber stamp of the king, but had some degree of autonomy and influence. The ministers could express their opinions freely and frankly, and sometimes even oppose the king's views. The king was expected to consult the council of ministers before taking any major decision, and respect their consensus. The council of ministers could also act as a check and balance on the king's power, and prevent him from becoming tyrannical or negligent .

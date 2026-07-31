@@ -1,0 +1,21 @@
+### Introduction for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- A distributed system is a collection of independent and geographically dispersed processes that communicate and coordinate their actions by passing messages.
+- Agreement protocols are algorithms that enable the processes in a distributed system to reach a common decision or a consistent state, despite the presence of failures or uncertainties.
+- Agreement protocols are essential for ensuring the reliability, consistency, fault-tolerance, and security of distributed systems.
+- Some examples of agreement problems are:
+  - Consensus: All processes agree on a single value from a set of proposed values.
+  - Atomic commit: All processes agree on whether to commit or abort a distributed transaction.
+  - Byzantine agreement: All processes agree on a single value from a set of proposed values, even if some processes are faulty or malicious.
+  - Leader election: All processes agree on which process is the leader or coordinator of the system.
+  - Mutual exclusion: All processes agree on which process has exclusive access to a shared resource.
+- Agreement protocols are challenging to design and implement because of the following issues:
+  - Asynchrony: The processes and the communication channels in a distributed system may have arbitrary delays or unpredictable behaviors, making it hard to synchronize or order events.
+  - Failures: The processes and the communication channels in a distributed system may fail or crash, making it hard to detect or recover from errors.
+  - Uncertainty: The processes and the communication channels in a distributed system may have incomplete or inconsistent information, making it hard to verify or trust the messages.
+- Agreement protocols are often based on the following techniques:
+  - Message passing: The processes exchange messages to communicate and coordinate their actions.
+  - Quorums: The processes form subsets of processes that have enough information or authority to make decisions.
+  - Replication: The processes maintain copies of the same data or state to ensure consistency and availability.
+  - Voting: The processes use majority or weighted votes to resolve conflicts or choose values.
+  - Cryptography: The processes use encryption, signatures, or hashes to ensure the confidentiality, integrity, or authenticity of the messages.

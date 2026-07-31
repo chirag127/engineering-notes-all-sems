@@ -1,0 +1,8 @@
+# Power factor
+
+- Power factor is a dimensionless quantity that measures how effectively the electrical power is converted into useful work in an AC circuit. 
+- Power factor is defined as the ratio of real power (P) to apparent power (S) in an AC circuit. Real power is the power that performs useful work, such as turning a motor or lighting a bulb. Apparent power is the product of the voltage and current in the circuit, regardless of the phase difference between them.  
+- Power factor can be expressed as: PF = P / S, where P is the real power in watts (W) or kilowatts (kW), and S is the apparent power in volt-amperes (VA) or kilovolt-amperes (kVA).  
+- Power factor can also be calculated as the cosine of the angle θ by which the current waveform lags or leads the voltage waveform in an AC circuit. This angle is called the phase angle and it depends on the type and amount of reactive components (such as capacitors and inductors) in the circuit. 
+- Power factor can have a value between 0 and 1. A power factor of 1 means that the voltage and current are in phase and all the apparent power is converted into real power. This is the ideal case for maximum efficiency and minimum losses. A power factor of 0 means that the voltage and current are 90 degrees out of phase and no real power is delivered to the load. This is the worst case for efficiency and losses.  
+- Power factor can be improved by adding or removing reactive components in the circuit to reduce the phase angle and bring the voltage and current closer to being in phase. This is called power factor correction and it can reduce the apparent power and the losses in the circuit.

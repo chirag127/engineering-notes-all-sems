@@ -1,0 +1,13 @@
+# PCA for the notes of the Unit 3 - BI – DATA PREPARTTION in the subject of BUSINESS INTELLIGENCE AND ANALYTICS KCS
+
+- PCA stands for Principal Component Analysis, which is a dimensionality reduction technique that transforms a large set of variables into a smaller one that still contains most of the information in the large set.
+- PCA is useful for BI and analytics because it can help to reduce the complexity and noise in the data, and reveal the underlying patterns and relationships among the variables.
+- PCA works by finding the linear combinations of the original variables that have the largest variance, and are orthogonal to each other. These linear combinations are called principal components (PCs), and they form a new coordinate system for the data .
+- The first PC is the one that explains the most variance in the data, the second PC is the one that explains the most variance among the remaining variables, and so on. The number of PCs is equal to or less than the number of original variables .
+- PCA can be performed by using the eigendecomposition or the singular value decomposition (SVD) of the covariance or correlation matrix of the data. The eigenvectors or singular vectors correspond to the PCs, and the eigenvalues or singular values correspond to the amount of variance explained by each PC .
+- PCA can be visualized by using a scatter plot of the scores (the projections of the data points on the PCs) or a biplot (a plot that shows both the scores and the loadings, which are the coefficients of the linear combinations of the original variables) .
+- PCA can be used for various purposes, such as data exploration, feature extraction, noise reduction, data compression, anomaly detection, and clustering .
+- PCA has some limitations and assumptions, such as linearity, orthogonality, scale dependence, and interpretation .
+- Data preparation is an essential step before applying PCA or any other BI and analytics technique. Data preparation involves tasks such as data cleaning, data integration, data transformation, data reduction, and data quality assessment .
+- Data preparation can help to improve the accuracy, efficiency, and reliability of the BI and analytics results, and to avoid errors, biases, and inconsistencies in the data .
+- Data preparation can be done by using various tools and methods, such as SQL, Python, R, Excel, ETL, data warehouses, data lakes, and data pipelines .

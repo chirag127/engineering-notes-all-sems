@@ -1,0 +1,23 @@
+### User Centered Wayfinding Support
+
+- Wayfinding is the process of navigating and orienting oneself in an unfamiliar environment.
+- User centered wayfinding support is the design of wayfinding systems that consider the needs, preferences, and abilities of different users.
+- Wayfinding systems can include signs, maps, landmarks, sounds, colors, and other cues that help users find their way.
+- User centered wayfinding support is important for 3D interaction techniques because:
+  - 3D environments can be complex, large, and unfamiliar to users.
+  - 3D interaction techniques can affect the user's field of view, presence, and spatial knowledge.
+  - User centered wayfinding support can enhance the user's experience, performance, and satisfaction in 3D environments .
+- Some examples of user centered wayfinding support for 3D interaction techniques are:
+  - Providing a small FOV to focus the user's attention on the relevant information and reduce distractions.
+  - Providing a large FOV to increase the user's sense of presence and optical flow in the periphery.
+  - Providing a dynamic FOV that adapts to the user's speed, direction, and task.
+  - Providing a map or a compass to show the user's location and orientation in the 3D environment.
+  - Providing landmarks or other distinctive features to help the user recognize and remember the 3D environment.
+  - Providing auditory or haptic feedback to guide the user's navigation and exploration.
+  - Providing color coding or other visual cues to indicate the user's progress and destination.
+  - Providing multiple modes of wayfinding support to accommodate different user preferences and abilities .
+- User centered wayfinding support should be evaluated using a user-centered approach that involves:
+  - Identifying the wayfinding challenges and goals of the users and the 3D environment .
+  - Collecting evidence from user observations, interviews, surveys, and tests to assess the effectiveness and usability of the wayfinding system .
+  - Applying the findings to inform the design and improvement of the wayfinding system .
+  - Testing and iterating the wayfinding system until it meets the user's needs and expectations .

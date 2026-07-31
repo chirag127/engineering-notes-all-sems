@@ -1,0 +1,27 @@
+# Data Broadcasting for Wireless Networking
+
+- Data broadcasting is a group communication, where a sender sends data to receivers simultaneously .
+- Data broadcasting can be used for efficient information dissemination in wireless networks, where clients have local and dynamic data demands.
+- Data broadcasting can be implemented using different techniques, such as push, pull, or hybrid.
+- Push-based broadcasting is where the server periodically transmits data items to the clients, without any explicit requests from them.
+- Pull-based broadcasting is where the clients send requests to the server for specific data items, and the server responds by transmitting them.
+- Hybrid broadcasting is a combination of push and pull, where the server transmits some data items periodically, and some on demand.
+- Data broadcasting can benefit from network coding or cooperation, which are techniques to improve the throughput and reliability of wireless transmissions.
+- Network coding is where the server combines multiple data items into a single coded packet, which can be decoded by multiple clients.
+- Cooperation is where the clients help each other by relaying data items that they have received to other clients who need them.
+- Data broadcasting can also leverage smart antennas, which are antennas that can adjust their radiation patterns to focus on specific directions or clients.
+- Smart antennas can improve the performance of wireless push systems by reducing interference and increasing coverage.
+- Data broadcasting can be applied to various wireless networks, such as wireless LANs, Bluetooth, or cellular networks .
+- Wireless LANs are local area networks that use radio frequency (RF) connections between nodes in the network .
+- IEEE 802.11 is a set of standards that define the physical and medium access control (MAC) layers of wireless LANs .
+- MAC issues in wireless LANs include how to share the wireless medium among multiple nodes, how to avoid or resolve collisions, how to handle hidden and exposed terminals, and how to save energy .
+- Bluetooth is a short-range wireless technology that enables wireless communication between devices, such as phones, laptops, headsets, or printers .
+- Bluetooth uses a frequency-hopping spread spectrum (FHSS) technique, where the devices change their frequency of transmission in a pseudo-random manner to avoid interference .
+- Bluetooth devices form ad hoc networks called piconets, where one device acts as a master and up to seven devices act as slaves .
+- Multiple piconets can be interconnected to form a scatternet, where some devices act as bridges between different piconets .
+- Wireless is a term that refers to any communication that does not use wires or cables, such as radio, cellular, satellite, or infrared .
+- Wireless networks can be classified into different types, such as wireless personal area networks (WPANs), wireless local area networks (WLANs), wireless metropolitan area networks (WMANs), or wireless wide area networks (WWANs) .
+- WPANs are networks that cover a small area, such as a room or a car, and use technologies such as Bluetooth or ZigBee .
+- WLANs are networks that cover a larger area, such as a building or a campus, and use technologies such as IEEE 802.11 or Wi-Fi .
+- WMANs are networks that cover a city or a region, and use technologies such as IEEE 802.16 or WiMAX .
+- WWANs are networks that cover a country or a continent, and use technologies such as cellular or satellite .

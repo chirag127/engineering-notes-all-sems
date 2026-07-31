@@ -1,0 +1,13 @@
+### Intrusion detection for the notes of the Unit 5 - Internet Infrastructure in the subject of COMPUTER SYSTEM SECURITY
+
+- An **intrusion detection system (IDS)** is a device or software application that monitors a network or systems for malicious activity or policy violations.
+- An IDS can send alerts to IT and security teams when it detects any security risks and threats, and can also take preventive actions such as blocking traffic or isolating compromised hosts.
+- An IDS can be either **network-based** or **host-based**.
+  - A **network-based IDS (NIDS)** is deployed at strategic points within an organization’s network and analyzes the traffic that passes through it. A NIDS can detect attacks that target the network infrastructure or multiple hosts, such as denial-of-service (DoS) attacks, port scanning, or network worms.
+  - A **host-based IDS (HIDS)** is installed on individual devices that are connected to the network and monitors the activity on that device. A HIDS can detect attacks that target a specific host, such as malware infection, unauthorized access, or data theft.
+- An IDS can use different techniques to detect intrusions, such as **signature-based**, **anomaly-based**, or **behavior-based**.
+  - A **signature-based IDS** compares the network traffic or system activity with a database of known attack patterns or signatures. A signature-based IDS can detect known attacks with high accuracy, but cannot detect new or unknown attacks.
+  - An **anomaly-based IDS** establishes a baseline of normal network traffic or system behavior and flags any deviation from it as a potential intrusion. An anomaly-based IDS can detect new or unknown attacks, but may generate false positives or negatives due to changes in legitimate traffic or behavior.
+  - A **behavior-based IDS** learns from the historical data of network traffic or system activity and builds a model of normal and malicious behavior. A behavior-based IDS can adapt to the changing environment and detect complex or stealthy attacks, but may require a large amount of data and computational resources to train and update the model.
+- An IDS can be combined with an **intrusion prevention system (IPS)** to form an **intrusion detection and prevention system (IDPS)**. An IDPS not only detects intrusions, but also responds to them by blocking, dropping, or rerouting the malicious traffic or activity.
+- Some examples of IDS or IDPS solutions are **Trend Micro TippingPoint Next-Generation Intrusion Prevention System (NGIPS)**, **Cisco Firepower Next-Generation IPS (NGIPS)**, **Check Point Intrusion Prevention System (IPS)**, and **Snort** .

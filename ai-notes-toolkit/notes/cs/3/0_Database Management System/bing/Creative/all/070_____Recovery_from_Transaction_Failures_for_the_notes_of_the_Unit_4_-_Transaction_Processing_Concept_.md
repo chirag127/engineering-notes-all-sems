@@ -1,0 +1,17 @@
+# Recovery from Transaction Failures
+
+- A transaction failure is an event that causes a transaction to abort or terminate before completing all its operations.
+- A transaction failure can be caused by various reasons, such as system crash, power failure, user error, deadlock, concurrency control violation, or integrity constraint violation.
+- To recover from transaction failure, the atomicity and durability of transactions as a whole must be maintained. That is, either all the operations are executed or none, and the effects of committed transactions are preserved even in the presence of failures.
+- There are three states of database recovery in DBMS:
+  - Consistent state: A state where the database satisfies all the integrity constraints and reflects a correct state of the real world.
+  - Inconsistent state: A state where the database violates some integrity constraints or does not reflect a correct state of the real world.
+  - Intermediate state: A state where the database is in the process of executing a transaction and has not reached a consistent state yet.
+- There are two types of database recovery in DBMS:
+  - Crash recovery: This type of recovery occurs when the DBMS or the system crashes due to hardware or software failure. The DBMS must restore the database to a consistent state by undoing the effects of incomplete transactions and redoing the effects of committed transactions.
+  - Media recovery: This type of recovery occurs when the database is damaged due to physical errors, such as disk failure, fire, or theft. The DBMS must restore the database to a consistent state by using backup copies of the database and the transaction log.
+- There are various recovery techniques in DBMS that use different methods to record and restore the changes made by transactions. Some of the common recovery techniques are  :
+  - Deferred update: This technique delays the actual update of the database until the transaction commits. It uses a transaction log to record the changes made by transactions. To recover from a failure, the DBMS scans the log forward and redoes the updates of committed transactions.
+  - Immediate update: This technique allows the actual update of the database before the transaction commits. It also uses a transaction log to record the changes made by transactions. To recover from a failure, the DBMS scans the log backward and undoes the updates of uncommitted transactions, and then scans the log forward and redoes the updates of committed transactions.
+  - Shadow paging: This technique uses two copies of the database: the current page table and the shadow page table. The current page table points to the pages that are being updated by transactions, while the shadow page table points to the pages that are not updated yet. To recover from a failure, the DBMS discards the current page table and uses the shadow page table as the database.
+  - Checkpointing: This technique periodically saves the state of the database and the transaction log to a stable storage. A checkpoint is a point in time when the database and the log are consistent. To recover from a failure, the DBMS only needs to scan the log from the last checkpoint and apply the appropriate actions.

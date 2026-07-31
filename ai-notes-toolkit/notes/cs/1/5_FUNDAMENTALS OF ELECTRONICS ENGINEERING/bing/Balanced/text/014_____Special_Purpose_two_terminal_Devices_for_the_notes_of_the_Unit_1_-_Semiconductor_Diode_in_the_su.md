@@ -1,0 +1,13 @@
+### Special Purpose Two Terminal Devices
+
+Two terminal devices are electronic components that have only two terminals or leads, such as resistors, capacitors, diodes, etc. They are usually passive devices that do not require external power to operate, but some of them can also be active devices that can amplify or switch signals, such as transistors, thyristors, etc.
+
+Some of the two terminal devices have special properties or functions that make them useful for specific applications. These are called special purpose two terminal devices. Some examples of these devices are:
+
+- **Zener diode**: A zener diode is a type of diode that can operate in the reverse breakdown region, where it exhibits a constant voltage drop across it regardless of the current flowing through it. This makes it useful for voltage regulation, reference, and protection circuits. 
+- **Light emitting diode (LED)**: An LED is a type of diode that emits light when a forward current passes through it. The color and intensity of the light depend on the material and structure of the diode. LEDs are widely used for indicators, displays, lighting, and communication. 
+- **Photo diode**: A photo diode is a type of diode that generates a current when exposed to light. The amount of current depends on the intensity and wavelength of the light. Photo diodes are used for light detection, measurement, and conversion. 
+- **Varactor diode**: A varactor diode is a type of diode that has a variable capacitance depending on the reverse voltage applied to it. The capacitance decreases as the voltage increases. Varactor diodes are used for tuning, frequency modulation, and filtering circuits. 
+- **Tunnel diode**: A tunnel diode is a type of diode that has a very high conductivity in the forward direction due to quantum tunneling effect. It also has a negative resistance region, where the current decreases as the voltage increases. Tunnel diodes are used for high frequency oscillators, amplifiers, and switches. 
+- **Schottky diode**: A schottky diode is a type of diode that has a metal-semiconductor junction instead of a p-n junction. It has a lower forward voltage drop and a faster switching speed than a conventional diode. Schottky diodes are used for rectification, clamping, and logic circuits. 
+- **Silicon controlled rectifier (SCR)**: An SCR is a type of thyristor that has four layers of alternating p and n type materials. It has three terminals: anode, cathode, and gate. It acts as a switch that can be turned on by a gate pulse and turned off by reducing the anode current. SCRs are used for power control, conversion, and protection.

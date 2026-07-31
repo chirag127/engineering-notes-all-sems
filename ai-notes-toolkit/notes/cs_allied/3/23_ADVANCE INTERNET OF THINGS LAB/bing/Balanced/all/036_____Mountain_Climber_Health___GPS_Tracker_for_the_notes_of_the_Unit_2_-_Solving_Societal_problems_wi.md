@@ -1,0 +1,17 @@
+# Mountain Climber Health & GPS Tracker
+
+- Mountain climbing is a challenging and risky activity that requires physical fitness, mental strength, and proper equipment.
+- Mountain climbers face various hazards such as altitude sickness, hypothermia, frostbite, avalanches, rock falls, and wildlife attacks.
+- To ensure the safety and well-being of mountain climbers, it is essential to monitor their health and location in real time and provide timely assistance in case of emergencies.
+- Internet of Things (IoT) is a technology that enables the interconnection and communication of devices, sensors, and systems over the internet.
+- IoT can be used to create a smart mountain climber health and GPS tracker system that can provide the following benefits:
+
+  - Live heartbeat monitoring: A wearable device such as a smartwatch or a chest strap can measure the heart rate of the climber and send the data to a cloud server via a wireless network. The server can display the live vitals of the climber on a web or mobile application and alert the rescue team if the heart rate exceeds or falls below a predefined threshold.
+  - Upper and lower limit settings: The climber or the rescue team can set the upper and lower limits for the heart rate, blood pressure, oxygen saturation, body temperature, and other vital parameters. The system can compare the measured values with the limits and trigger an alarm if any parameter goes out of range.
+  - IoT live vitals display: The system can display the live vitals of the climber on a web or mobile application that can be accessed by the climber, the rescue team, or the family members. The system can also show the historical data and trends of the vitals for analysis and diagnosis.
+  - GPS location tracking: A GPS module can be attached to the climber's backpack or helmet to track the location and altitude of the climber. The GPS data can be sent to the cloud server and displayed on a map on the web or mobile application. The system can also show the route and distance covered by the climber and alert the rescue team if the climber deviates from the planned path or stops moving for a long time.
+  - Added SMS alert in case of limit crossings: The system can send an SMS alert to the rescue team or the family members if any vital parameter crosses the limit or if the GPS location indicates a potential danger. The SMS alert can include the climber's name, ID, location, and the parameter that triggered the alarm.
+  - Automatic operation: The system can operate automatically without requiring any manual intervention from the climber or the rescue team. The system can also be powered by a battery or a solar panel to ensure uninterrupted operation.
+
+- The smart mountain climber health and GPS tracker system can be implemented using various IoT devices, sensors, and platforms such as Arduino, Raspberry Pi, ESP8266, Bluetooth, Wi-Fi, GSM, GPS, heart rate sensor, blood pressure sensor, temperature sensor, oxygen sensor, etc.
+- The system can help to solve the societal problem of mountain climbing accidents and fatalities by providing real-time health and location monitoring, early warning, and emergency response. The system can also enhance the experience and enjoyment of mountain climbing by providing feedback and guidance.

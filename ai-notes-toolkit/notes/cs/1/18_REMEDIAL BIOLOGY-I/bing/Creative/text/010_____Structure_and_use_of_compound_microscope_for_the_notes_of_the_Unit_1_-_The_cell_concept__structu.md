@@ -1,0 +1,39 @@
+### Structure and use of compound microscope
+
+- A compound microscope is an instrument that magnifies objects otherwise too small to be seen, producing an image in which the object appears larger.
+- A compound microscope has two or more convex lenses, one objective is used at a time, it produces 2-dimensional images, and its typical magnification is between 40x and 1000x.
+- A compound microscope is mainly used for studying the structural details of cell, tissue, or sections of organs.
+- The parts of a compound microscope can be classified into two: non-optical parts and optical parts .
+- Non-optical parts include:
+  - Base: the foot of the microscope that supports the whole instrument.
+  - Pillar: the vertical part that connects the base and the arm.
+  - Arm: the curved part that holds the upper parts of the microscope and is used to carry the microscope.
+  - Stage: the platform where the specimen is placed for observation.
+  - Mechanical stage: a device that holds and moves the specimen slide on the stage.
+  - Stage clips: metal clips that hold the specimen slide in place.
+  - Coarse adjustment knob: a large knob that moves the stage up and down to bring the specimen into focus.
+  - Fine adjustment knob: a smaller knob that moves the stage slightly to sharpen the focus.
+  - Condenser: a lens system that concentrates light on the specimen.
+  - Iris diaphragm: a device that regulates the amount of light passing through the condenser.
+  - Light source: an electric lamp that provides illumination for the microscope.
+- Optical parts include:
+  - Eyepiece or ocular lens: the lens that is closest to the eye and magnifies the image formed by the objective lens.
+  - Body tube: the cylindrical part that connects the eyepiece and the nosepiece.
+  - Nosepiece or revolving turret: the rotating part that holds the objective lenses and allows changing them.
+  - Objective lenses: the lenses that are closest to the specimen and have different magnifications (4x, 10x, 40x, 100x).
+- The total magnification of a compound microscope is the product of the magnification of the eyepiece and the objective lens.
+- The working principle of a compound microscope is as follows:
+  - Light from the source passes through the condenser and the iris diaphragm and reaches the specimen.
+  - The specimen absorbs some light and reflects or transmits the rest.
+  - The objective lens collects the light from the specimen and forms a magnified real image of the specimen inside the body tube.
+  - The eyepiece further magnifies the image and forms a virtual image that can be seen by the eye.
+- To use a compound microscope, the following steps are recommended:
+  - Plug in the microscope and turn on the light source.
+  - Place the specimen slide on the mechanical stage and secure it with the stage clips.
+  - Rotate the nosepiece to select the lowest power objective lens (4x).
+  - Use the coarse adjustment knob to move the stage up until the specimen is in focus.
+  - Use the fine adjustment knob to sharpen the focus.
+  - Adjust the iris diaphragm to control the amount of light.
+  - Observe the specimen and draw or record the image.
+  - Rotate the nosepiece to select a higher power objective lens (10x, 40x, or 100x) and repeat the steps 4 to 7.
+  - When finished, remove the specimen slide, turn off the light source, and store the microscope properly.

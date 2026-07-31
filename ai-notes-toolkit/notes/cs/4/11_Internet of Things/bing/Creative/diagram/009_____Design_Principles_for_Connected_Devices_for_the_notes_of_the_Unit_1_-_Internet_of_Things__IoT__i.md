@@ -1,0 +1,16 @@
+### Design Principles for Connected Devices
+
+- Design principles are fundamental pieces of advice for you to make easy-to-use, pleasurable designs. They represent the accumulated wisdom of researchers and practitioners in design and related fields.
+- Design principles for connected devices are especially important in the context of the Internet of Things (IoT), where devices interact with each other and with humans in complex and dynamic networks .
+- Some of the design principles for connected devices are:
+
+  - **Calm technology**: A system that does not compete for attention but has a high utility when given attention, this type of technology is referred to as calm technology. Calm technology aims to reduce the cognitive load and distraction of users, and to enhance their awareness and control of the system.
+  - **Interoperability**: The ability of devices to communicate and cooperate with each other across different platforms, protocols and standards. Interoperability enables devices to integrate into more use cases and to provide more value to users and stakeholders.
+  - **Security**: The protection of devices, data and networks from unauthorized access, modification or damage. Security is essential for ensuring the privacy, safety and trust of users and stakeholders, and for preventing malicious attacks that could compromise the functionality and reliability of the system.
+  - **User-centered design**: The process of designing devices with the needs, preferences and expectations of the users in mind. User-centered design involves understanding the context, goals and tasks of the users, and involving them in the design and evaluation of the devices.
+  - **Scalability**: The ability of devices to handle increasing amounts of data, traffic and complexity without degrading the performance or quality of the system. Scalability is important for ensuring the robustness and efficiency of the system, and for accommodating the growth and evolution of the IoT.
+  - **Sustainability**: The consideration of the environmental, social and economic impacts of devices throughout their life cycle. Sustainability involves minimizing the energy consumption, waste generation and resource depletion of devices, and maximizing their durability, reusability and recyclability.
+  - **Ethics**: The application of moral principles and values to the design and use of devices. Ethics involves respecting the rights, dignity and autonomy of users and stakeholders, and avoiding harm, deception and discrimination.
+  - **Aesthetics**: The visual, auditory and tactile qualities of devices that influence the emotional and cognitive responses of users. Aesthetics involves creating devices that are attractive, pleasing and engaging, and that reflect the identity and culture of the users and stakeholders.
+
+- These design principles are not exhaustive or mutually exclusive, but rather complementary and interrelated. They can help guide the design decisions and trade-offs that are involved in creating connected devices for the IoT.

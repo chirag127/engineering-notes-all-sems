@@ -1,0 +1,11 @@
+### Sliding Window Protocols
+
+Sliding window protocols are data link layer protocols for reliable and sequential delivery of data frames. The sliding window is also used in Transmission Control Protocol. In this protocol, multiple frames can be sent by a sender at a time before receiving an acknowledgment from the receiver .
+
+The sliding window technique allows the sender and the receiver to maintain a window of frames that are in transit. The window size is determined by the available buffer space and the bandwidth-delay product of the channel. The window slides forward as the sender transmits new frames and the receiver acknowledges the received frames .
+
+There are two types of sliding window protocols: stop-and-wait ARQ and sliding window ARQ. The stop-and-wait ARQ protocol uses a window size of one, which means the sender can only send one frame at a time and must wait for an acknowledgment before sending the next frame. The sliding window ARQ protocol uses a window size of more than one, which means the sender can send multiple frames without waiting for acknowledgments. The sliding window ARQ protocol can be further divided into two subtypes: go-back-N ARQ and selective repeat ARQ .
+
+The go-back-N ARQ protocol requires the sender to retransmit all the frames in the window if a single frame is lost or corrupted. The receiver discards any out-of-order frames and only sends cumulative acknowledgments for the last correctly received frame. The selective repeat ARQ protocol requires the sender to retransmit only the lost or corrupted frames. The receiver buffers the out-of-order frames and sends individual acknowledgments for each frame. The selective repeat ARQ protocol has better performance than the go-back-N ARQ protocol, but it requires more buffer space and complexity .
+
+The sliding window protocols are used to improve the efficiency and reliability of data transmission in networks. They can adapt to the varying conditions of the channel and avoid congestion and wastage of resources. They can also provide flow control and error control mechanisms to ensure the quality of service .

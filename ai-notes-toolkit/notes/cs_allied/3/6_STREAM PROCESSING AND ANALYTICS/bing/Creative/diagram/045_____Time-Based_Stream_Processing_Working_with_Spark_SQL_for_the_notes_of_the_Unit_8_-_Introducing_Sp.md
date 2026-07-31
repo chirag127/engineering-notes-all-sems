@@ -1,0 +1,22 @@
+### Time-Based Stream Processing with Spark SQL
+
+- Time-based stream processing is a technique to process data streams that have a temporal dimension, such as events, sensor readings, or logs.
+- Time-based stream processing can handle both real-time and historical data, and can perform various operations such as filtering, aggregation, windowing, joining, and complex event processing.
+- Spark SQL is a module of Apache Spark that provides a unified interface for structured and semi-structured data processing using SQL or DataFrame/Dataset APIs.
+- Spark SQL supports time-based stream processing through its Structured Streaming feature, which is built on the Spark SQL engine and leverages its optimizations and compatibility with various data sources and formats.
+- Structured Streaming allows users to express their streaming computations as standard batch-like queries on streaming DataFrames/Datasets, and the Spark SQL engine will incrementally and continuously execute them as new data arrives.
+- Structured Streaming supports various types of time-based operations, such as:
+  - Event-time processing: handling out-of-order and late-arriving data based on the logical timestamps embedded in the data, rather than the processing time.
+  - Watermarking: specifying a threshold of how late the data is expected to be, and allowing the engine to discard old state and data that are no longer relevant.
+  - Time windows: grouping and aggregating data based on fixed or sliding time intervals, such as every 5 minutes or every hour.
+  - Triggers: controlling the frequency and latency of the streaming query execution, such as processing data as soon as possible, or every 10 seconds, or once a day.
+  - Stream-to-stream and stream-to-batch joins: joining streaming data with other streams or static datasets, with various join conditions and constraints.
+- Structured Streaming also provides various output modes and sinks to write the results of the streaming queries to external systems, such as:
+  - Append mode: only writing the new rows appended to the result table since the last trigger.
+  - Update mode: only writing the rows that were updated in the result table since the last trigger.
+  - Complete mode: writing the entire result table after every trigger.
+  - Memory sink: writing the results to an in-memory table that can be queried interactively using SQL or DataFrame/Dataset APIs.
+  - File sink: writing the results to files in a specified directory, with various options such as format, partitioning, and checkpointing.
+  - Kafka sink: writing the results to Kafka topics, with various options such as key, value, and headers.
+  - Console sink: writing the results to the standard output, mainly for debugging purposes.
+  - Custom sink: writing the results to a user-defined sink using the ForeachWriter interface.

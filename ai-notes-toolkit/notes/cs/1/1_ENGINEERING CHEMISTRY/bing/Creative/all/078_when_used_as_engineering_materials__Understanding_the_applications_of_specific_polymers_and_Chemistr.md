@@ -1,0 +1,20 @@
+# Polymers: Engineering Materials, Applications and Chemistry
+
+Polymers are long chain macromolecules built from repeated smaller chemical structures or monomers. They are found widely in the natural world (e.g. proteins, rubber, cellulose) and, increasingly the past century, in synthetic form (e.g. plastics). Polymers have many attractive properties, such as monodispersity, biocompatibility, controlled composition and chain length, and tunable chemical properties. Polymers can be endowed with functions by using certain special preparation methods or by introducing functional groups or fillers into material.
+
+Some of the applications of polymers in engineering are:
+
+- In aircraft, aerospace, and sports equipment: Polymers can be used to make lightweight, strong, and durable materials that can withstand high stress and temperature. Examples are carbon fiber reinforced polymers, epoxy resins, and polyimides.
+- In 3D printing plastics: Polymers can be used to create complex shapes and structures with high precision and accuracy. Examples are acrylonitrile butadiene styrene, polylactic acid, and nylon.
+- In biopolymers and biomolecules: Polymers can be used to mimic natural biological structures and functions, such as molecular recognition, drug delivery, biosensor devices, tissue engineering, and cosmetics. Examples are proteins, DNA, cellulose, and chitosan .
+- In holography: Polymers can be used to create holographic images and displays that can store and manipulate information. Examples are photopolymers, liquid crystal polymers, and polymer dispersed liquid crystals.
+- In water purification: Polymers can be used to remove contaminants and pollutants from water sources, such as heavy metals, organic compounds, and microorganisms. Examples are polyacrylamide, polyvinyl alcohol, and polyethyleneimine.
+- In printed circuit board substrates: Polymers can be used to provide electrical insulation and mechanical support for electronic components and circuits. Examples are polyimide, epoxy, and polytetrafluoroethylene.
+- In green chemicals: Polymers and biopolymers can be used to create environmentally friendly and sustainable materials that can reduce the dependence on fossil fuels and minimize the waste generation. Examples are polylactic acid, polyhydroxyalkanoates, and starch .
+
+The chemistry of polymers involves the synthesis, characterization, and modification of polymer structures and properties. Some of the important concepts and methods in polymer chemistry are:
+
+- Polymerization: The process of forming polymers from monomers by covalent bonding. There are two main types of polymerization: chain polymerization and step polymerization. Chain polymerization involves the initiation, propagation, and termination of a growing polymer chain by a radical, cationic, or anionic mechanism. Step polymerization involves the condensation or addition of monomers with functional groups that react with each other to form a polymer chain.
+- Copolymerization: The process of forming polymers from two or more different types of monomers. There are four main types of copolymers: random, alternating, block, and graft. Random copolymers have a random distribution of monomers along the polymer chain. Alternating copolymers have a regular alternation of monomers along the polymer chain. Block copolymers have long sequences of one type of monomer followed by another type of monomer along the polymer chain. Graft copolymers have branches of one type of monomer attached to the backbone of another type of monomer along the polymer chain.
+- Polymer characterization: The process of determining the structure, composition, molecular weight, and physical properties of polymers. Some of the common techniques for polymer characterization are: spectroscopy, chromatography, microscopy, thermal analysis, mechanical testing, and rheology.
+- Polymer modification: The process of changing the structure, composition, or properties of polymers by chemical or physical means. Some of the common methods for polymer modification are: crosslinking, degradation, functionalization, blending, and compounding.

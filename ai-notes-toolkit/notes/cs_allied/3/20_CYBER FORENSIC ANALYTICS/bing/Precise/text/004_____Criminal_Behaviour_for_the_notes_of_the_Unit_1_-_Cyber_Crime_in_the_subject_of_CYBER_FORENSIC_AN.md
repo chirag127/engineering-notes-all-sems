@@ -1,0 +1,6 @@
+### Criminal Behaviour for the notes of the Unit 1 - Cyber Crime in the subject of CYBER FORENSIC ANALYTICS
+
+- Cyber forensics is a process of extracting data as proof for a crime (that involves electronic devices) while following proper investigation rules to nab the culprit by presenting the evidence to the court. Cyber forensics is also known as computer forensics.
+- Cyber forensics helps in collecting important digital evidence to trace the criminal. Electronic equipment stores massive amounts of data that a normal person fails to see. For example: in a smart house, for every word we speak, actions performed by smart devices, collect huge data which is crucial in cyber forensics.
+- Given that many state computer forensics labs have significant backlogs or deal with other priorities, some local police departments should consider forming a cybercrime unit. Even if just one or two people, part- or full-time, such a team could help identify, collect, analyze, and present evidence from digital devices.
+- A deeper understanding of cyber criminals’ TTPs (Tactics, Techniques, and Procedures) will help the community and organizations understand how to prepare, respond, and mitigate most threats. Once you begin to understand cyber criminals’ TTPs you can then start to map them back to your specific security stack.

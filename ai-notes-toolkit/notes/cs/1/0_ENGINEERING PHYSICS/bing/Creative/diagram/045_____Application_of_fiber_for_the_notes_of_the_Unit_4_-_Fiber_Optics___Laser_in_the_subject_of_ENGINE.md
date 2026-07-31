@@ -1,0 +1,11 @@
+### Application of fiber optics
+
+Fiber optics is the science and technology of transmitting data, voice, and images by the passage of light through thin, transparent fibers. Fiber optic cables have many advantages over copper wires, such as higher bandwidth, lower attenuation, immunity to electromagnetic interference, and lighter weight. Fiber optics has many applications in various fields, such as:
+
+- **Communication**: Fiber optics is widely used in telecommunications, such as long-distance telephone lines, internet, cable TV, and local area networks. Fiber optics can carry more information over longer distances and at faster speeds than copper wires .
+- **Medical**: Fiber optics is used in various medical instruments and procedures, such as endoscopy, laparoscopy, laser surgery, dentistry, and biomedical sensors. Fiber optics can provide high-resolution images, flexible and minimally invasive access, and precise delivery of light and energy .
+- **Defence and Aerospace**: Fiber optics is used for data transmission and sensing in high-level security and harsh environments, such as aircraft, satellites, rockets, missiles, submarines, tanks, and radars. Fiber optics can offer high reliability, durability, and immunity to electromagnetic interference and jamming .
+- **Industrial**: Fiber optics is used for various industrial applications, such as process control, automation, inspection, measurement, and welding. Fiber optics can provide high accuracy, sensitivity, and safety in harsh and hazardous conditions .
+- **Broadcasting**: Fiber optics is used for transmitting audio and video signals for radio, television, and cinema. Fiber optics can offer high quality, low noise, and long distance transmission.
+- **Lighting and Decorations**: Fiber optics is used for creating various lighting and decorative effects, such as illumination, display, art, and architecture. Fiber optics can offer flexible, colorful, and energy-efficient lighting solutions .
+- **Mechanical Inspections**: Fiber optics is used for inspecting and testing various mechanical systems and structures, such as pipelines, bridges, tunnels, and buildings. Fiber optics can provide remote, real-time, and non-destructive monitoring and evaluation .

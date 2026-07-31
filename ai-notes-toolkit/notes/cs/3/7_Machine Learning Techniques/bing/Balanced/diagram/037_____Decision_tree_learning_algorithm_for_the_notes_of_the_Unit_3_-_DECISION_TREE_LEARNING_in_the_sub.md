@@ -1,0 +1,28 @@
+### Decision tree learning algorithm
+
+- A decision tree is a **supervised learning algorithm** that is used for both **classification** and **regression** tasks .
+- It has a **hierarchical, tree structure**, which consists of a **root node**, **branches**, **internal nodes** and **leaf nodes** .
+- The root node is the **topmost node** that represents the **entire dataset**.
+- The branches are the **connections** between the nodes.
+- The internal nodes are the **decision nodes** that **split** the data based on some **attribute** or **feature** .
+- The leaf nodes are the **terminal nodes** that represent the **final outcome** or **class** of the data .
+- The goal of a decision tree is to **create a model** that **predicts** the value of a target variable based on the input variables.
+- The decision tree learning algorithm is a **recursive** and **greedy** algorithm that **builds** the tree from the root node to the leaf nodes.
+- The basic algorithm used in decision trees is known as the **ID3** (by Quinlan) algorithm.
+- The ID3 algorithm works as follows:
+  - Start with the root node that contains the entire dataset.
+  - Find the **best attribute** in the dataset using **Attribute Selection Measure (ASM)**, such as **information gain** or **gini index**.
+  - Divide the dataset into **subsets** that contain possible values for the best attribute.
+  - Make the best attribute the **decision node** and link it to the subsets.
+  - Repeat the process for each subset until all the data is classified or no more attributes are available.
+- The advantages of decision trees are :
+  - They are **easy to understand** and **interpret**.
+  - They can handle both **numeric** and **categorical** data.
+  - They can deal with **missing values** and **outliers**.
+  - They are **robust** to noise and **nonlinear** relationships.
+  - They can be **combined** with other algorithms to form **ensembles**, such as **random forests** or **boosting**.
+- The disadvantages of decision trees are :
+  - They can be **overfitting** and **complex** if not pruned or limited.
+  - They can be **unstable** and **sensitive** to small changes in the data or the parameters.
+  - They can be **biased** if some classes or attributes dominate the data.
+  - They can have a **high variance** and a **low bias**, which means they can capture the noise in the data rather than the signal.

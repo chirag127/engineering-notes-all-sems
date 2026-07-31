@@ -1,0 +1,35 @@
+### Data models and the relational data model
+
+- A data model is a way of representing the structure, organization, and constraints of data in a database system.
+- A data model can be conceptual, logical, or physical, depending on the level of abstraction and detail.
+- A conceptual data model describes the entities, attributes, and relationships in the domain of interest, without specifying how they are stored or implemented.
+- A logical data model defines the structure and integrity constraints of the data, such as data types, domains, keys, and normalization rules.
+- A physical data model describes how the data are physically stored and accessed, such as file structures, indexes, and access methods.
+- A relational data model is a type of logical data model that uses relations (tables) to represent data and their relationships.
+- A relation consists of a set of attributes (columns) and a set of tuples (rows) that satisfy certain properties, such as:
+  - Each attribute has a name and a domain (a set of possible values).
+  - Each tuple is unique and has a value for each attribute.
+  - The order of attributes and tuples is irrelevant.
+  - There are no missing or null values.
+- A relation can be defined by a relation schema, which specifies the name of the relation and the name and domain of each attribute, and a relation instance, which is a set of tuples that conform to the schema.
+- A relation can also be defined by a predicate, which is a logical expression that defines the meaning and constraints of the relation.
+- A relational database is a collection of relations that are logically connected by keys and foreign keys.
+- A key is a set of one or more attributes that uniquely identifies each tuple in a relation.
+- A foreign key is a set of attributes in one relation that references the key of another relation.
+- A relational database can be defined by a database schema, which is a set of relation schemas and integrity constraints, and a database instance, which is a set of relation instances that conform to the schema.
+- A relational database can also be defined by a database predicate, which is a conjunction of relation predicates and integrity constraints.
+- A relational database can be manipulated by a relational algebra, which is a set of operators that take one or more relations as input and produce a new relation as output.
+- Some common relational algebra operators are:
+  - Selection: selects a subset of tuples from a relation that satisfy a given condition.
+  - Projection: selects a subset of attributes from a relation and eliminates duplicates.
+  - Union: combines two relations with the same schema and eliminates duplicates.
+  - Intersection: returns the common tuples of two relations with the same schema.
+  - Difference: returns the tuples of one relation that are not in another relation with the same schema.
+  - Cartesian product: combines every tuple of one relation with every tuple of another relation.
+  - Join: combines two relations based on a matching condition on their attributes.
+  - Division: returns the tuples of one relation that are associated with every tuple of another relation.
+- A relational database can also be manipulated by a relational calculus, which is a declarative language that uses variables, quantifiers, and logical connectives to express queries over relations.
+- A relational calculus query is a formula that defines the tuples that belong to the result relation.
+- There are two types of relational calculus: tuple relational calculus and domain relational calculus.
+- Tuple relational calculus uses tuple variables that range over the tuples of a relation and specifies the conditions that the tuples must satisfy.
+- Domain relational calculus uses domain variables that range over the values of the attributes and specifies the conditions that the values must satisfy.

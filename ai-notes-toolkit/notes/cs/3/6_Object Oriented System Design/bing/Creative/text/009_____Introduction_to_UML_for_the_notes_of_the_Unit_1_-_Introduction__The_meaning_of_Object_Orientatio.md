@@ -1,0 +1,8 @@
+### Introduction to UML for the notes of the Unit 1 - Introduction: The meaning of Object Orientation in the subject of Object Oriented System Design
+
+- UML stands for **Unified Modeling Language** , which is a language used in the field of software engineering that represents the components of the **Object-Oriented Programming** concepts .
+- Object-Oriented Programming is a paradigm that organizes data and behavior into **objects**, which are instances of **classes**. Classes define the **structure** and **functions** of an object, and objects can interact with each other through **messages**.
+- UML is a way to define the **whole software architecture or structure** using mostly graphical notations . UML can express the **design** of software projects, as well as the **behavior** and **state** of the system.
+- UML is a collection of **best engineering practices** that have proven successful in the modeling of large and complex systems. UML can help to **decompose** large systems and **modularize** them into smaller and manageable units.
+- UML has different types of diagrams, such as **structural diagrams**, **behavioral diagrams**, and **interaction diagrams**, that can show different aspects of the system . UML diagrams can help to **visualize**, **specify**, **construct**, and **document** the system.
+- UML is a **standard** language that can be used by different tools and platforms, and can be **extended** and **customized** to suit specific needs . UML can help to **communicate** and **collaborate** with different stakeholders, such as developers, customers, and managers.

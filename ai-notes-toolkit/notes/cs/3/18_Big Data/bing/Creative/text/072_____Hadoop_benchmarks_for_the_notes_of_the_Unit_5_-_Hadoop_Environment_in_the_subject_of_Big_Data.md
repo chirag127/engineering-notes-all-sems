@@ -1,0 +1,13 @@
+### Hadoop benchmarks
+
+Hadoop benchmarks are programs or tools that measure the performance of Hadoop clusters in terms of various metrics, such as throughput, latency, scalability, resource utilization, etc. Hadoop benchmarks can help users to evaluate the suitability of Hadoop for different applications, to compare different Hadoop configurations or implementations, to identify bottlenecks or inefficiencies, and to optimize the performance of Hadoop clusters.
+
+Some of the common Hadoop benchmarks are:
+
+- **TestDFSIO**: This benchmark tests the read and write performance of HDFS by generating a number of files and using one map task per file. It reports the average IO rate, IO rate standard deviation, and the throughput of the HDFS cluster.
+- **TeraSort**: This benchmark tests the performance of both HDFS and MapReduce by sorting a large amount of data (1 terabyte or more) using a three-step MapReduce program. The three steps are: TeraGen, which generates the input data; TeraSort, which sorts the data using a custom partitioner and a custom comparator; and TeraValidate, which verifies the correctness of the output data. It reports the execution time and the MapReduce statistics of each step.
+- **nnbench**: This benchmark tests the performance of the NameNode by creating, renaming, and deleting a large number of files in HDFS. It reports the average execution time, the number of operations, and the throughput of the NameNode.
+- **mrbench**: This benchmark tests the performance of the MapReduce framework by running a simple MapReduce job that does nothing but sleep for a fixed amount of time. It reports the execution time, the number of map and reduce tasks, and the MapReduce statistics of the job.
+- **hbase.PerformanceEvaluation**: This benchmark tests the performance of HBase, a distributed column-oriented database built on top of HDFS, by performing various operations, such as random reads, random writes, sequential reads, sequential writes, etc. It reports the average latency, the number of operations, and the throughput of the HBase cluster.
+
+There are also other Hadoop benchmarks, such as HiBench, which is a comprehensive benchmark suite that covers a wide range of Hadoop workloads, such as micro-benchmarks, synthetic workloads, web search, machine learning, graph analytics, etc; and Big Data Benchmark, which is a benchmark suite that compares the performance of different big data systems, such as Hadoop, Spark, Hive, Impala, etc., on a common data set and query set.

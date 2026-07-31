@@ -1,0 +1,21 @@
+### I/O Systems
+
+- I/O systems are the components that enable an embedded system to interact with the external world, such as sensors, actuators, displays, keyboards, etc.
+- I/O systems can be classified into two types: parallel and serial.
+- Parallel I/O systems use multiple wires to transfer data simultaneously, while serial I/O systems use one or a few wires to transfer data sequentially.
+- Parallel I/O systems are faster but require more hardware resources, while serial I/O systems are slower but require less hardware resources.
+- Some examples of parallel I/O systems are GPIO (General Purpose Input/Output), LCD (Liquid Crystal Display), and memory buses.
+- Some examples of serial I/O systems are UART (Universal Asynchronous Receiver/Transmitter), SPI (Serial Peripheral Interface), I2C (Inter-Integrated Circuit), and USB (Universal Serial Bus).
+- I/O systems can also be classified into two modes: polling and interrupt.
+- Polling mode is when the embedded system continuously checks the status of the I/O device to determine if there is any data to read or write.
+- Interrupt mode is when the embedded system is notified by the I/O device when there is any data to read or write, using a signal called an interrupt.
+- Polling mode is simpler but consumes more CPU time, while interrupt mode is more complex but consumes less CPU time.
+- I/O systems can also be classified into two types: synchronous and asynchronous.
+- Synchronous I/O systems are those that operate at a fixed rate or frequency, such as timers, PWM (Pulse Width Modulation), and ADC (Analog to Digital Converter).
+- Asynchronous I/O systems are those that operate at a variable rate or frequency, such as keyboards, mice, and sensors.
+- Synchronous I/O systems are easier to program but require more hardware resources, while asynchronous I/O systems are harder to program but require less hardware resources.
+- I/O systems are essential for embedded systems and real time operating systems (RTOS) to perform their specific functions in a much larger system.
+- RTOS are operating systems that provide a worst case time estimate for critical situations and guarantee to finish a task in a defined period.
+- RTOS are used in embedded systems that work within strict time constraints and require high reliability, such as medical devices, industrial machines, and automotive systems.
+- RTOS can be provided under a paid license or an open source license, depending on the vendor and the user's needs.
+- Some examples of RTOS are FreeRTOS, VxWorks, QNX, and Embedded Linux.

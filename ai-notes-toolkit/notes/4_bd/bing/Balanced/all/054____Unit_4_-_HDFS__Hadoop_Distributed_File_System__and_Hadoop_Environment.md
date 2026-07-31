@@ -1,0 +1,32 @@
+## Unit 4 - HDFS (Hadoop Distributed File System) and Hadoop Environment
+
+- HDFS is a distributed file system that handles large data sets running on commodity hardware.
+- It is used to scale a single Apache Hadoop cluster to hundreds (and even thousands) of nodes.
+- It is one of the major components of Apache Hadoop, the others being MapReduce and YARN.
+- HDFS employs a NameNode and DataNode architecture to implement a distributed file system that provides high-performance access to data across highly scalable Hadoop clusters .
+- HDFS has many similarities with existing distributed file systems, but also has some unique features, such as:
+  - Fault tolerance: HDFS can tolerate hardware failures by replicating data blocks across multiple DataNodes.
+  - High throughput: HDFS can support high data transfer rates by streaming data in parallel from multiple DataNodes.
+  - Large files: HDFS can store very large files, typically in the range of gigabytes to terabytes.
+  - Simple coherency model: HDFS follows a write-once-read-many access model, which simplifies data coherency and consistency.
+  - Portability: HDFS can run on various platforms and operating systems, as it is implemented in Java.
+- HDFS consists of two types of nodes: NameNode and DataNode .
+  - NameNode: It is the master node that manages the namespace and the metadata of the file system, such as file permissions, locations, and replication factors .
+  - DataNode: It is the worker node that stores the actual data blocks of the files in the local disk and serves read and write requests from the clients .
+- HDFS stores files as a sequence of blocks, each of a fixed size (default 128 MB) .
+  - Each block is replicated across multiple DataNodes for fault tolerance, based on a replication factor (default 3) .
+  - The NameNode maintains a mapping of file names to blocks, and blocks to DataNodes .
+  - The DataNodes periodically send heartbeat and block report messages to the NameNode, to indicate their availability and the list of blocks they are storing .
+- HDFS supports two types of clients: HDFS shell and HDFS API.
+  - HDFS shell: It is a command-line interface that allows users to interact with HDFS using commands such as `hdfs dfs -ls`, `hdfs dfs -put`, `hdfs dfs -get`, etc.
+  - HDFS API: It is a Java-based programming interface that allows applications to access HDFS programmatically using classes such as `FileSystem`, `Path`, `FileStatus`, etc.
+- HDFS follows a master-slave architecture, where the NameNode is the single point of failure .
+  - To overcome this limitation, HDFS supports two modes of high availability: active-standby and federated .
+  - Active-standby: In this mode, there are two NameNodes, one active and one standby, that share a common storage for the namespace and the metadata .
+  - Federated: In this mode, there are multiple independent NameNodes, each managing a subset of the namespace, and the clients can access any of them .
+- HDFS is designed for batch processing of large and static data sets, rather than interactive or real-time processing of small and dynamic data sets.
+  - To support the latter use cases, HDFS can be integrated with other file systems or frameworks, such as HBase, Hive, Spark, etc.
+- HDFS is the foundation of the Hadoop environment, which consists of various components and tools for data storage, processing, analysis, and visualization.
+  - Some of the common components and tools in the Hadoop environment are:
+    - MapReduce: It is a programming model and a framework for parallel processing of large data sets using a map and a reduce function.
+    - YARN: It is a resource management and scheduling system for Hadoop clusters, which allocates

@@ -1,0 +1,28 @@
+### The Quantization Problem
+
+- Quantization is a process of mapping a large set of input values to a smaller set of output values, with a controlled amount of distortion or error.
+- Quantization is a key technique for lossy data compression, as it reduces the number of bits needed to represent the data.
+- The quantization problem is to find the optimal way of quantizing a given source, such that the distortion is minimized for a given bit rate, or the bit rate is minimized for a given distortion.
+- The quantization problem can be formulated as an optimization problem, where the objective function is the distortion-rate function, which measures the trade-off between the distortion and the bit rate of the quantizer.
+- The quantization problem can be solved in different ways, depending on the type and structure of the quantizer, the source statistics, and the distortion measure.
+- Some of the common types of quantizers are:
+  - Uniform quantizer: the input range is divided into equal-sized intervals, and each interval is mapped to a fixed output value.
+  - Non-uniform quantizer: the input range is divided into variable-sized intervals, and each interval is mapped to a fixed output value. The intervals are usually designed to match the source probability density function, such that the more probable values have smaller intervals and lower distortion.
+  - Scalar quantizer: the input and output values are scalars, i.e., one-dimensional numbers.
+  - Vector quantizer: the input and output values are vectors, i.e., multi-dimensional numbers. The vector quantizer can exploit the correlation among the vector components and achieve higher compression efficiency.
+- Some of the common methods of designing quantizers are:
+  - Lloyd algorithm: an iterative algorithm that finds the optimal set of output values (also called codebook or representatives) for a given set of input values (also called training set or samples), based on the minimum mean squared error (MMSE) criterion.
+  - Zador algorithm: an extension of the Lloyd algorithm that finds the optimal set of output values and the optimal partition of the input range for a given source probability density function, based on the MMSE criterion.
+  - K-means algorithm: a clustering algorithm that partitions the input values into K groups, such that each group is assigned to the output value that is the centroid (mean) of the group.
+  - LBG algorithm: an extension of the K-means algorithm that finds the optimal codebook size and the optimal codebook for a given distortion level, using a splitting and merging technique.
+- Some of the common distortion measures are:
+  - Mean squared error (MSE): the average of the squared difference between the input and output values.
+  - Signal-to-noise ratio (SNR): the ratio of the average power of the input signal to the average power of the quantization error.
+  - Peak signal-to-noise ratio (PSNR): the ratio of the maximum possible power of the input signal to the average power of the quantization error, usually expressed in decibels (dB).
+  - Mean absolute error (MAE): the average of the absolute difference between the input and output values.
+  - Mean absolute percentage error (MAPE): the average of the absolute difference between the input and output values, divided by the input value, expressed as a percentage.
+- Some of the common applications of quantization are:
+  - Image compression: quantization is used to reduce the number of bits needed to represent the pixel values of an image, such as in JPEG and PNG formats.
+  - Audio compression: quantization is used to reduce the number of bits needed to represent the sample values of an audio signal, such as in MP3 and AAC formats.
+  - Speech compression: quantization is used to reduce the number of bits needed to represent the parameters of a speech model, such as in G.711 and G.729 formats.
+  - Video compression: quantization is used to reduce the number of bits needed to represent the motion vectors and the transform coefficients of a video sequence, such as in MPEG and H.264 formats.

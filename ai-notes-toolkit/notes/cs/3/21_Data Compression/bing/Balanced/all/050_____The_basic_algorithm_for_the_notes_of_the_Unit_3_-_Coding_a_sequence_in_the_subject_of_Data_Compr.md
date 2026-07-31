@@ -1,0 +1,28 @@
+# The basic algorithm for the notes of the Unit 3 - Coding a sequence in the subject of Data Compression
+
+- Data compression is the process of encoding information using fewer bits than the original representation.
+- Coding a sequence is a technique of data compression that assigns codes to sequences of input bytes, rather than individual bytes .
+- Coding a sequence can achieve better compression ratio than coding individual bytes, especially for data that contains repeated patterns .
+- One example of coding a sequence is the LZW (Lempel–Ziv–Welch) algorithm, which is widely used in GIF images, Unix compress, and ZIP files .
+- The basic steps of the LZW algorithm are :
+  - Initialize a code table with 256 entries, corresponding to the 256 possible byte values.
+  - Read the first byte from the input and store it as the current sequence.
+  - While there are more bytes to read from the input:
+    - Read the next byte and append it to the current sequence.
+    - If the current sequence is already in the code table, continue reading the next byte.
+    - Otherwise, output the code for the current sequence (without the last byte) and add a new entry to the code table for the current sequence with the next available code.
+    - Set the current sequence to the last byte read.
+  - Output the code for the current sequence and end the compression.
+- Another example of coding a sequence is the Huffman coding algorithm, which is a lossless bit compression technique that assigns variable-length codes to input symbols based on their frequencies.
+- The basic steps of the Huffman coding algorithm are:
+  - Create a frequency table that counts the occurrences of each symbol in the input data.
+  - Build a Huffman tree that represents the optimal prefix codes for each symbol, using the following procedure:
+    - Create a leaf node for each symbol and add it to a priority queue based on its frequency.
+    - While there is more than one node in the queue:
+      - Remove the two nodes with the lowest frequency from the queue.
+      - Create a new internal node with these two nodes as children and the sum of their frequencies as the new frequency.
+      - Add the new node to the queue.
+    - The remaining node in the queue is the root of the Huffman tree.
+  - Traverse the Huffman tree and assign codes to each symbol by appending 0 or 1 depending on the left or right branch taken.
+  - Encode the input data by replacing each symbol with its corresponding code from the Huffman tree.
+  - Output the encoded data and the Huffman tree (or a header that can reconstruct the tree) and end the compression.

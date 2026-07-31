@@ -1,0 +1,21 @@
+## Unit 4 - C++ Basics
+
+- C++ is a general-purpose, object-oriented, compiled programming language that supports multiple paradigms such as procedural, generic, and functional programming.
+- C++ is an extension of the C language, which means that most of the syntax and features of C are also valid in C++. However, C++ also introduces new concepts and keywords that are not present in C, such as classes, inheritance, polymorphism, templates, exceptions, and namespaces.
+- C++ programs consist of one or more source files, which are text files that contain the code written by the programmer. The source files have the extension `.cpp` or `.cxx`. The source files are compiled by a compiler, which is a program that translates the source code into executable code that can run on a specific platform. The executable code is usually stored in a file with the extension `.exe` or `.out`.
+- A C++ program can also use header files, which are text files that contain declarations of functions, classes, variables, constants, and macros that are used by the source files. The header files have the extension `.h` or `.hpp`. The header files are included in the source files using the `#include` directive, which tells the compiler to copy the contents of the header file into the source file at the point of inclusion. For example, `#include <iostream>` includes the header file `iostream`, which provides input and output facilities for C++ programs.
+- A C++ program starts its execution from the `main` function, which is a special function that is called by the operating system when the program is run. The `main` function has the following syntax:
+
+```cpp
+int main()
+{
+    // statements
+    return 0;
+}
+```
+
+- The `int` keyword indicates that the `main` function returns an integer value, which is usually 0 to indicate successful termination or a non-zero value to indicate an error. The `return` statement specifies the value to be returned by the function. The curly braces `{}` enclose the body of the function, which consists of one or more statements that perform the tasks of the program. The statements are terminated by a semicolon `;`.
+- C++ supports various types of data that can be manipulated by the program, such as integers, floating-point numbers, characters, strings, booleans, arrays, pointers, references, and user-defined types. Each type of data has a name, a size, and a range of values that it can store. For example, the type `int` can store integer values of 4 bytes (32 bits) in size, ranging from -2,147,483,648 to 2,147,483,647. The type `double` can store floating-point values of 8 bytes (64 bits) in size, ranging from approximately -1.7E308 to 1.7E308.
+- C++ supports various operators that can be used to perform arithmetic, logical, relational, bitwise, and assignment operations on the data. For example, the operator `+` can be used to add two numbers, the operator `&&` can be used to perform logical AND operation on two boolean values, the operator `==` can be used to compare two values for equality, the operator `<<` can be used to perform left shift operation on a bit pattern, and the operator `=` can be used to assign a value to a variable.
+- C++ supports various control structures that can be used to alter the flow of execution of the program, such as conditional statements, loops, and jumps. For example, the `if` statement can be used to execute a block of code only if a certain condition is true, the `for` loop can be used to execute a block of code repeatedly for a fixed number of times, and the `break` statement can be used to exit a loop prematurely.
+- C++ supports various input and output facilities that can be used to interact with the user, the console, the files, and other devices. For example, the `cin` object can be used to read data from the standard input (usually the keyboard), the `cout` object can be used to write data to the standard output (usually the screen), and the `fstream` class can be used to create and manipulate files. The `<<` and `>>` operators can be used to perform formatted input and output operations on these objects. For example, `cin >> x` reads a value from the standard input and stores it in the variable `x`, and `cout << "Hello, world!" << endl` writes the string "Hello, world!" followed by a newline character to the standard output.

@@ -1,0 +1,12 @@
+### Error
+- An error is a human action that produces an incorrect or unexpected result.
+- In the context of software engineering, an error refers to a mistake made by a developer while designing or coding a software program.
+- Errors can occur at any stage of the software development process, including requirements gathering, design, coding, testing, and maintenance.
+- Common causes of errors in software development include miscommunication, lack of understanding, incorrect assumptions, and human mistakes.
+- Errors can result in software defects, which can cause the software to behave in unexpected ways or fail to meet its intended purpose.
+- To prevent errors, software development teams can implement various practices such as code reviews, testing, and continuous integration.
+- It is important to identify and correct errors early in the development process to minimize their impact and reduce the cost of fixing them.
+- In the context of software testing, an error is a discrepancy between the expected and actual behavior of a software program.
+- Error detection and correction are important aspects of software testing, as they help to ensure the quality and reliability of the software.
+- There are various techniques and tools available for detecting and diagnosing errors in software, including manual testing, automated testing, and debugging.
+- Once an error has been identified, it can be corrected by modifying the software code or design to eliminate the cause of the error.

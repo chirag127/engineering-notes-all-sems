@@ -1,0 +1,22 @@
+##### Function Point (FP) Based Measures in Software Design
+
+- Function point (FP) is a unit of measurement used to quantify the amount of business functionality being delivered by a software application.
+- Function point measures software from the user's point of view, that is, on the basis of what the user requests and receives in return.
+- Function point analysis (FPA) is a technique used to analyze the functionality delivered by software and unadjusted function point (UFP) is the unit of measurement.
+- Function point analysis has the following objectives:
+  - To measure the functionality that the user requests and receives.
+  - To measure the software development and maintenance independently of technology used for implementation.
+  - To provide a normalized method for measuring the various functions of a software application.
+- Function point analysis involves the following steps:
+  - Identify the type and number of external inputs, outputs, inquiries, logical internal files, and external interface files of the software.
+  - Assign a complexity level (low, average, or high) to each type of component based on the number of data element types and record element types involved.
+  - Multiply the number of components by the corresponding complexity weight to obtain the unadjusted function point (UFP) count for each type of component.
+  - Sum up the UFP counts of all the types of components to get the total UFP count.
+  - Apply the complexity adjustment factor (CAF) to the total UFP count based on 14 general system characteristics that affect the functionality of the software. The CAF is calculated as 0.65 + (0.01 * sum of degree of influence), where the degree of influence ranges from 0 to 5 for each characteristic.
+  - Multiply the total UFP count by the CAF to get the adjusted function point (AFP) count, which is the final measure of the software functionality.
+- Function point based measures can be used for the following purposes :
+  - To estimate the cost and effort of software development and maintenance.
+  - To compare the productivity and quality of different software projects and teams.
+  - To identify the areas in need of optimization and improvement.
+  - To analyze the development performance benchmarks over time.
+  - To communicate the value and scope of software to the stakeholders.

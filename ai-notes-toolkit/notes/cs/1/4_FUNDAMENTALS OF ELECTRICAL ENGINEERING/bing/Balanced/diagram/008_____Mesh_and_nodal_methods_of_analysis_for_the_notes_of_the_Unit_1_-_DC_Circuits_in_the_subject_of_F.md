@@ -1,0 +1,13 @@
+### Mesh and Nodal Methods of Analysis
+
+- Mesh and nodal methods are two systematic techniques for analyzing electrical circuits by applying Kirchhoff's laws.
+- Mesh analysis is based on Kirchhoff's voltage law (KVL), which states that the sum of voltages around any closed loop in a circuit is zero.
+- Nodal analysis is based on Kirchhoff's current law (KCL), which states that the sum of currents entering and leaving any node in a circuit is zero.
+- Both methods can be used to find the unknown voltages and currents in a circuit, but they differ in the following aspects:
+
+  - In mesh analysis, the unknown variables are the loop currents, which are the currents flowing around each independent loop in the circuit. The number of loop currents is equal to the number of independent loops, which can be found by using the formula L = B - N + 1, where L is the number of loops, B is the number of branches, and N is the number of nodes.
+  - In nodal analysis, the unknown variables are the node voltages, which are the voltages at each node with respect to a reference node (usually chosen as the ground node). The number of node voltages is equal to the number of nodes minus one, since the reference node has a fixed voltage of zero.
+  - In mesh analysis, the equations are obtained by applying KVL to each loop and writing the voltage drops across each component in terms of the loop currents. The equations are then solved simultaneously to find the loop currents. The voltages across each component can then be calculated using Ohm's law.
+  - In nodal analysis, the equations are obtained by applying KCL to each node (except the reference node) and writing the currents entering and leaving each node in terms of the node voltages. The equations are then solved simultaneously to find the node voltages. The currents through each component can then be calculated using Ohm's law.
+  - Mesh analysis is more suitable for circuits that have more loops than nodes, and that have mostly series components. Nodal analysis is more suitable for circuits that have more nodes than loops, and that have mostly parallel components.
+  - Mesh analysis can handle both independent and dependent sources, as well as resistors, capacitors, and inductors. Nodal analysis can also handle these elements, but it requires some modifications when dealing with dependent sources or voltage sources. For example, a dependent source can be treated as an independent source with an additional equation relating its value to the controlling variable. A voltage source can be replaced by a current source in parallel with a resistor, or by introducing a supernode that combines two or more nodes connected by voltage sources.

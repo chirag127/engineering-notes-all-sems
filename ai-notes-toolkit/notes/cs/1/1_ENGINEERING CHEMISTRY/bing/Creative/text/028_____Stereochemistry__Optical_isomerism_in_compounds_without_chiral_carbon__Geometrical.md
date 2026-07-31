@@ -1,0 +1,16 @@
+### Stereochemistry: Optical isomerism in compounds without chiral carbon, Geometrical
+
+- Stereochemistry is the study of the three-dimensional structure and properties of molecules.
+- Optical isomerism is a form of stereoisomerism that occurs when molecules have the same molecular formula and connectivity, but differ in the way they rotate plane-polarized light.
+- Optical isomers are also called enantiomers or mirror-image isomers. They have non-superimposable mirror images of each other.
+- Optical isomers usually have one or more chiral centers, which are atoms that are bonded to four different groups. The most common example of a chiral center is a carbon atom with four different substituents.
+- However, some compounds can exhibit optical isomerism without having any chiral centers. These compounds have other sources of chirality, such as:
+  - Chiral axes: These are linear arrangements of atoms that cannot be superimposed on their mirror images. For example, allenes (compounds with two adjacent double bonds) have chiral axes if the four groups attached to the double bonds are different.
+  - Chiral planes: These are planar arrangements of atoms that cannot be superimposed on their mirror images. For example, some cyclic compounds have chiral planes if the groups attached to the ring are different and arranged in a non-symmetrical way.
+  - Helical chirality: This occurs when a molecule has a helical shape that cannot be superimposed on its mirror image. For example, some biopolymers, such as DNA and proteins, have helical chirality.
+- Geometrical isomerism is another form of stereoisomerism that occurs when molecules have the same molecular formula and connectivity, but differ in the spatial arrangement of groups around a double bond or a ring.
+- Geometrical isomers are also called cis-trans isomers or E-Z isomers. They have different physical and chemical properties, such as melting point, boiling point, polarity, and reactivity.
+- Geometrical isomerism is caused by the restricted rotation around a double bond or a ring, which prevents the interconversion of isomers. The groups attached to the double bond or the ring are fixed in their positions relative to each other.
+- Geometrical isomers can be classified as:
+  - Cis-trans isomers: These are isomers that have two identical groups on the same side (cis) or opposite sides (trans) of the double bond or the ring. For example, 2-butene has two cis-trans isomers: cis-2-butene and trans-2-butene.
+  - E-Z isomers: These are isomers that have two different groups on each side of the double bond or the ring. The E-Z notation is based on the Cahn-Ingold-Prelog priority rules, which assign higher priority to the groups with higher atomic number or higher substituent number. The E-Z isomers are named as E (entgegen, meaning opposite) if the higher priority groups are on opposite sides, or Z (zusammen, meaning together) if the higher priority groups are on the same side. For example, 2-pentene has two E-Z isomers: E-2-pentene and Z-2-pentene.

@@ -1,0 +1,11 @@
+#### To study and use of different types of tools, equipment, devices & machines used in fitting, sheet metal and welding section.
+
+- Fitting is the process of assembling or joining two or more parts by cutting, filing, drilling, tapping, etc. to make them fit together accurately and securely.
+- Sheet metal is the process of forming metal sheets into various shapes and sizes by cutting, bending, punching, riveting, etc.
+- Welding is the process of joining two or more metal parts by applying heat, pressure, or electricity to create a strong and permanent bond.
+
+Some of the common tools, equipment, devices, and machines used in these processes are:
+
+- **Fitting tools**: These include measuring tools (such as steel rule, caliper, micrometer, etc.), marking tools (such as scriber, punch, divider, etc.), cutting tools (such as hacksaw, chisel, file, etc.), drilling tools (such as drill bit, drill chuck, drill press, etc.), tapping tools (such as tap, tap wrench, tap holder, etc.), and fastening tools (such as hammer, screwdriver, spanner, etc.).
+- **Sheet metal tools**: These include measuring tools (such as steel rule, caliper, micrometer, etc.), marking tools (such as scriber, punch, divider, etc.), cutting tools (such as shears, snips, nibbler, etc.), bending tools (such as bending brake, folding machine, etc.), punching tools (such as punch, die, press, etc.), riveting tools (such as rivet, rivet set, rivet gun, etc.), and finishing tools (such as file, sandpaper, etc.).
+- **Welding tools**: These include measuring tools (such as steel rule, caliper, micrometer, etc.), marking tools (such as scriber, punch, divider, etc.), clamping tools (such as clamp, vice, jig, etc.), welding machines (such as arc welder, gas welder, spot welder, etc.), welding electrodes (such as metal rod, wire, flux, etc.), welding torches (such as oxy-acetylene torch, plasma torch, etc.), welding accessories (such as welding helmet, gloves, apron, etc.), and cleaning tools (such as wire brush, chipping hammer, grinder, etc.).

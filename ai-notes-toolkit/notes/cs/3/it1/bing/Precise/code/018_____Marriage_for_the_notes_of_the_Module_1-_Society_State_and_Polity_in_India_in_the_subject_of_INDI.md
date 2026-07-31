@@ -1,0 +1,7 @@
+### Marriage in India
+
+- Marrying within one's caste remains an essential feature of marriage in India. In a 2014 survey of more than 70,000 people, fewer than 10% of urban Indians said that anyone in their family had married outside their caste and not many more outside their jati or sub-caste.
+- Civil ceremonies and religious weddings are both recognised as legally valid in India. Civil ceremonies are performed at the marriage registrar’s office. Religious weddings are common in India. For most religions, the marriage certificates issued by the religious authority are sufficient to recognise the marriage.
+- The Special Marriage Act of 1954 dictates a 30-day requirement for residency in India, which means that at least one party of the wedding has to be living in India for at least 30 days before applying to get married. You’ll have to prove it from a certificate issued by the local police station.
+- At a minimum, you’ll need the following documents in advance of your wedding day: Proof of Residency and Address in India for at least 30 days prior to the application, for at least one of the parties; A valid passport for both parties; Original birth certificate for both parties; Visa or Ration Card.
+- The average age of marriage for women in India has increased to 21 years, according to the 2011 Census of India. In 2009, about 7% of women got married before the age of 18. Arranged marriages have long been the norm in Indian society.

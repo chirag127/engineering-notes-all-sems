@@ -1,0 +1,26 @@
+### Distributed Data Storage for the notes of the Unit 4 - Transaction Processing Concept in the subject of Database Management System
+
+- A distributed data store is a system that stores and processes data on multiple machines.
+- A distributed transaction is a set of operations on data that is performed across two or more data repositories (especially databases) .
+- A distributed database is a collection of data stored at different sites of a computer network.
+- The advantages of distributed data storage include:
+  - Higher availability and reliability of data
+  - Improved performance and scalability of the system
+  - Reduced communication and processing costs
+  - Increased autonomy and security of local sites
+- The challenges of distributed data storage include:
+  - Data consistency and concurrency control
+  - Distributed query processing and optimization
+  - Distributed transaction management and recovery
+  - Distributed schema design and data allocation
+- The concepts of distributed transaction processing include:
+  - Atomicity: A distributed transaction must either commit or abort as a whole
+  - Consistency: A distributed transaction must preserve the integrity constraints of the data
+  - Isolation: A distributed transaction must not interfere with other concurrent transactions
+  - Durability: The effects of a committed distributed transaction must be permanent
+- The techniques of distributed transaction processing include:
+  - Two-phase commit protocol: A protocol that ensures atomicity of distributed transactions by using a coordinator and participants
+  - Distributed locking: A mechanism that ensures isolation of distributed transactions by using locks on data items
+  - Distributed timestamp ordering: A mechanism that ensures isolation of distributed transactions by using logical timestamps on data items
+  - Distributed deadlock detection: A mechanism that detects and resolves deadlocks among distributed transactions by using wait-for graphs or timeouts
+  - Distributed recovery: A mechanism that ensures durability of distributed transactions by using logs and checkpoints

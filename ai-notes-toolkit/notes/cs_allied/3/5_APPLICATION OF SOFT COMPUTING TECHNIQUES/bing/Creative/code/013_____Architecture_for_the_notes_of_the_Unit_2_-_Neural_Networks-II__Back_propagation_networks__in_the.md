@@ -1,0 +1,29 @@
+# Architecture for the notes of the Unit 2 - Neural Networks-II (Back propagation networks) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+
+- A back propagation network is a type of artificial neural network that uses a supervised learning algorithm to produce a desired output .
+- The algorithm adjusts the weights of the connections between the nodes in the network according to a feedback signal that indicates the error rate of a forward propagation .
+- The goal of back propagation is to minimize the error or loss function by fine-tuning the weights of the network .
+- A back propagation network consists of three main components :
+  - An input layer that receives the input data and passes it to the hidden layer.
+  - A hidden layer that performs some nonlinear transformations on the input data and passes it to the output layer.
+  - An output layer that produces the output data and compares it with the target data to calculate the error or loss.
+- The back propagation algorithm consists of two main phases :
+  - A forward phase that propagates the input data through the network and computes the output data and the error or loss.
+  - A backward phase that propagates the error or loss backward through the network and updates the weights of the connections using a learning rate parameter.
+- The back propagation algorithm can be summarized as follows :
+  - Initialize the weights of the network randomly or with some heuristic method.
+  - Repeat until convergence or a maximum number of iterations:
+    - For each input-output pair in the training data:
+      - Perform the forward phase and calculate the output data and the error or loss.
+      - Perform the backward phase and update the weights of the network using the learning rate parameter.
+    - Optionally, perform some validation or testing on the network to evaluate its performance and avoid overfitting.
+- The back propagation algorithm can be applied to various types of neural networks, such as feedforward, recurrent, convolutional, and deep neural networks.
+- The back propagation algorithm has some advantages and disadvantages :
+  - Advantages:
+    - It is a general and powerful method for training neural networks.
+    - It can handle complex and nonlinear problems and learn from large amounts of data.
+    - It can be combined with other optimization techniques, such as gradient descent, momentum, or stochastic gradient descent.
+  - Disadvantages:
+    - It can be slow and computationally expensive, especially for large and deep networks.
+    - It can suffer from local minima, vanishing gradients, or exploding gradients problems, which affect the convergence and stability of the algorithm.
+    - It can be sensitive to the choice of the learning rate parameter, the initial weights, and the network architecture.

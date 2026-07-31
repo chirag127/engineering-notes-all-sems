@@ -1,0 +1,23 @@
+### Electronic discussion networks
+
+- Electronic discussion networks are online platforms that enable users to communicate and exchange information on a certain topic or interest.
+- Electronic discussion networks can be either email-based or web-based. Email-based networks use mailing lists to distribute messages to all members of a group, while web-based networks use bulletin boards, forums, or blogs to post messages and comments.
+- Electronic discussion networks can serve various purposes, such as:
+  - facilitating learning and teaching
+  - enhancing critical thinking and argumentation skills
+  - fostering collaboration and community building
+  - supporting information retrieval and dissemination
+  - enabling social network analysis
+- Electronic discussion networks can be characterized by different features, such as:
+  - size and scope of the network
+  - frequency and volume of messages
+  - level of moderation and regulation
+  - degree of interactivity and reciprocity
+  - nature and quality of content
+  - type and structure of relationships
+- Electronic discussion networks can be analyzed using various methods and techniques, such as:
+  - content analysis
+  - social network analysis
+  - sentiment analysis
+  - topic modeling
+  - visualization

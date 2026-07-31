@@ -1,0 +1,7 @@
+### Cambridge English Empower by Cambridge University Press
+
+- Cambridge English Empower is a general English course for adult and young adult learners that combines course content from Cambridge University Press with validated assessment from the experts at Cambridge English Language Assessment.
+- The course syllabus is informed by English Profile and the Cambridge English Corpus and is carefully benchmarked to the Common European Framework of Reference (CEFR), ensuring that students encounter the most relevant and useful language at the right point in their learning.
+- The course provides a unique mix of engaging classroom materials, validated and reliable assessment, and personalised online practice. It also offers specific skills development in areas such as reading, writing, listening, speaking, grammar and vocabulary.
+- The course is divided into six levels: Starter (A1), Elementary (A2), Pre-intermediate (A2+), Intermediate (B1), Upper Intermediate (B2) and Advanced (C1). Each level consists of a Student's Book with Online Assessment and Practice, a Workbook with Online Practice, a Teacher's Book, a Class Audio CD and a Presentation Plus DVD-ROM.
+- The course also includes a range of supplementary materials, such as a Grammar Reference and Practice Book, a Vocabulary Reference and Practice Book, a Writing Reference and Practice Book, a Pronunciation Reference and Practice Book, and a Test Generator CD-ROM.

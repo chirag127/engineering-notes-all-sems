@@ -1,0 +1,23 @@
+# First order predicate logic
+
+- First order predicate logic is a formal language in which propositions are expressed in terms of predicates, variables and quantifiers.
+- Predicates are symbols that represent properties or relations of objects in a domain of discourse.
+- Variables are symbols that can take the place of any object in the domain of discourse.
+- Quantifiers are symbols that indicate how many objects in the domain of discourse satisfy a given predicate.
+- The two most common quantifiers are the universal quantifier (∀) and the existential quantifier (∃).
+- The universal quantifier (∀) means "for all" or "for every" and the existential quantifier (∃) means "there exists" or "there is at least one".
+- A formula in first order predicate logic consists of a predicate applied to one or more terms, where a term can be a variable, a constant, or a function applied to other terms.
+- For example, P(x) is a formula where P is a predicate and x is a variable, and Q(a) is a formula where Q is a predicate and a is a constant.
+- A formula can also be modified by logical connectives, such as negation (¬), conjunction (∧), disjunction (∨), implication (→), and equivalence (↔).
+- For example, ¬P(x) is the negation of P(x), P(x) ∧ Q(x) is the conjunction of P(x) and Q(x), and P(x) → Q(x) is the implication from P(x) to Q(x).
+- A formula can also be prefixed by one or more quantifiers, which bind the variables in the scope of the quantifier.
+- For example, ∀x P(x) means that P(x) is true for every x in the domain of discourse, and ∃x Q(x) means that there is some x in the domain of discourse such that Q(x) is true.
+- A formula without any free variables (i.e., variables that are not bound by any quantifier) is called a sentence.
+- A sentence can be either true or false in a given interpretation, which assigns a domain of discourse, a meaning to each constant, a function to each function symbol, and a set to each predicate symbol.
+- For example, if the domain of discourse is the set of natural numbers, the constant 0 means zero, the function symbol S means the successor function, and the predicate symbol E means the evenness relation, then the sentence ∀x E(x) → E(S(S(x))) is true, but the sentence ∃x E(x) ∧ ¬E(S(x)) is false.
+- The syntax and semantics of first order predicate logic are defined by a set of rules that specify how to form well-formed formulas and how to evaluate their truth values in a given interpretation.
+- The rules of syntax are based on the symbols of the language, such as predicates, variables, quantifiers, and logical connectives, and the rules of semantics are based on the notions of domain of discourse, interpretation, and satisfaction.
+- The main advantage of first order predicate logic over propositional logic is that it can express more complex and nuanced propositions that involve properties and relations of objects, and that it can quantify over the objects in the domain of discourse.
+- The main disadvantage of first order predicate logic is that it is undecidable, meaning that there is no algorithm that can determine whether a given sentence is valid or not, where a sentence is valid if it is true in every interpretation.
+- First order predicate logic is widely used in mathematics, philosophy, linguistics, and computer science, as it can formalize various concepts, theories, and arguments in these fields.
+- For example, Peano arithmetic and Zermelo–Fraenkel set theory are axiomatizations of number theory and set theory, respectively, into first order predicate logic.

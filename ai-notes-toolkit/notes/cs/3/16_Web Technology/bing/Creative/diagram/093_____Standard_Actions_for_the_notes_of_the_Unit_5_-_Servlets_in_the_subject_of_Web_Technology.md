@@ -1,0 +1,15 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on web technology. Here is the content for the topic of standard actions in servlets.
+
+### Standard Actions
+
+- Standard actions are predefined tags that perform some common tasks in servlets.
+- Standard actions start with `<jsp:` and end with `/>`.
+- Some of the standard actions are:
+
+  - `<jsp:include>`: This action includes the content of another resource (such as a JSP page, an HTML file, or a servlet) at the request time. It has two attributes: `page` and `flush`. The `page` attribute specifies the relative URL of the resource to be included. The `flush` attribute is a boolean value that indicates whether the output buffer should be flushed before including the resource. The default value is `false`.
+  - `<jsp:forward>`: This action forwards the request to another resource (such as a JSP page, an HTML file, or a servlet) at the request time. It has one attribute: `page`. The `page` attribute specifies the relative URL of the resource to be forwarded to. The action terminates the current page and discards any output generated so far.
+  - `<jsp:param>`: This action adds a parameter to the query string of the request. It can be used inside `<jsp:include>` or `<jsp:forward>` actions. It has two attributes: `name` and `value`. The `name` attribute specifies the name of the parameter. The `value` attribute specifies the value of the parameter.
+  - `<jsp:plugin>`: This action generates the necessary HTML code to include a Java applet or a JavaBean component in the web page. It has two attributes: `type` and `code`. The `type` attribute specifies the type of the plugin: `applet` or `bean`. The `code` attribute specifies the name of the class file that implements the plugin. The action can also have other optional attributes, such as `codebase`, `width`, `height`, `align`, `archive`, etc.
+  - `<jsp:useBean>`: This action creates or locates a JavaBean component and associates it with a scripting variable. It has three attributes: `id`, `class`, and `scope`. The `id` attribute specifies the name of the scripting variable. The `class` attribute specifies the fully qualified name of the class that implements the bean. The `scope` attribute specifies the scope of the bean: `page`, `request`, `session`, or `application`. The default value is `page`.
+  - `<jsp:setProperty>`: This action sets the value of one or more properties of a JavaBean component. It has two attributes: `name` and `property`. The `name` attribute specifies the name of the scripting variable that references the bean. The `property` attribute specifies the name of the property to be set. The value of the property can be specified by another attribute, such as `value`, `param`, or `body`.
+  - `<jsp:getProperty>`: This action gets the value of a property of a JavaBean component and writes it to the output stream. It has two attributes: `name` and `property`. The `name` attribute specifies the name of the scripting variable that references the bean. The `property` attribute specifies the name of the property to be retrieved.

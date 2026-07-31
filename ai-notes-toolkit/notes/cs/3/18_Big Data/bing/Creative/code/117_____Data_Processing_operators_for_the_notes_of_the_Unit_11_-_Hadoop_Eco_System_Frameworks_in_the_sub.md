@@ -1,0 +1,39 @@
+### Data Processing Operators for the Notes of the Unit 11 - Hadoop Eco System Frameworks in the Subject of Big Data
+
+- Hadoop is a framework that uses distributed storage and parallel processing to store and manage big data.
+- Hadoop consists of three components: Hadoop Distributed File System (HDFS), MapReduce, and YARN.
+- HDFS is a distributed file system that stores data across multiple nodes in a cluster.
+- MapReduce is a programming model that allows parallel processing of large data sets using key-value pairs.
+- YARN is a resource manager that allocates and schedules tasks on the cluster nodes.
+- Hadoop can handle any type of data: structured, semi-structured, and unstructured.
+- Hadoop utilizes the data locality concept to process the data on the nodes on which they are stored rather than moving the data over the network.
+- Hadoop also supports various data processing operators that can be used to transform, filter, join, group, sort, and aggregate data .
+- Some of the data processing operators are:
+  - LOAD: loads data from a file or a directory into a relation.
+  - STORE: stores a relation into a file or a directory.
+  - FILTER: selects tuples from a relation that satisfy a given condition.
+  - FOREACH: applies an expression to every tuple in a relation and generates a new relation.
+  - JOIN: combines two relations based on a common attribute.
+  - GROUP: groups the tuples in a relation by one or more attributes.
+  - ORDER: sorts the tuples in a relation by one or more attributes.
+  - LIMIT: limits the number of tuples in a relation to a specified value.
+  - STREAM: transforms data in a relation using an external program or script.
+  - SPLIT: splits a relation into two or more relations based on a condition.
+  - UNION: combines two or more relations into one relation.
+  - DISTINCT: removes duplicate tuples from a relation.
+  - COGROUP: groups the tuples in two or more relations by a common attribute and creates a nested relation.
+  - CROSS: produces the cross product of two relations.
+  - CUBE: performs a multidimensional grouping and aggregation of a relation.
+  - FLATTEN: unnests a nested relation into a flat relation.
+  - RANK: assigns a rank to each tuple in a relation based on an attribute or an expression.
+  - SAMPLE: randomly selects a fraction of tuples from a relation.
+- These operators can be used in a high-level procedural language called Pig Latin, which is a part of the Hadoop ecosystem.
+- Pig Latin statements are executed by the Pig engine, which translates them into MapReduce jobs and runs them on the Hadoop cluster.
+- Pig Latin can also be extended by using user-defined functions (UDFs), which can be written in Java, Python, Ruby, or other languages.
+- Another data processing framework that is part of the Hadoop ecosystem is Apache Spark, which is a fast and general-purpose engine for large-scale data processing.
+- Spark can run on Hadoop, Mesos, Kubernetes, standalone, or in the cloud.
+- Spark supports various data processing operators such as map, filter, reduce, join, groupBy, sortBy, aggregate, and more.
+- Spark also provides various libraries for SQL, streaming, machine learning, graph processing, and more.
+- Spark programs can be written in Scala, Java, Python, R, or SQL.
+- Spark can also be extended by using user-defined functions (UDFs), which can be written in any of the supported languages.
+- Spark can also interact with other Hadoop components such as HDFS, YARN, Hive, HBase, and more.

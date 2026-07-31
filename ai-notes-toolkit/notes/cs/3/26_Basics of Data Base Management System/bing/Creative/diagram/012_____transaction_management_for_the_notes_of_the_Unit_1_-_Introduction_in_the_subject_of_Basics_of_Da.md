@@ -1,0 +1,22 @@
+### Transaction Management
+
+Transaction management is a logical unit of processing in a DBMS which entails one or more database access operations. It is a way of ensuring that the data in the database remains consistent and correct even in the presence of concurrent access, system failures, or errors. Transactions are used to manage concurrency, isolation, atomicity, and durability of the database operations.
+
+Some of the key concepts and terms related to transaction management are:
+
+- **Transaction**: A transaction is a set of logically related operations that form a unit of work. For example, transferring money from one account to another involves two operations: debiting the source account and crediting the destination account. These two operations should be executed as a single transaction to ensure data integrity.
+- **ACID properties**: ACID stands for Atomicity, Consistency, Isolation, and Durability. These are the properties that a transaction should satisfy to ensure the reliability of the database.
+  - **Atomicity**: Atomicity means that a transaction should either execute all of its operations or none of them. If any operation fails, the transaction should be aborted and the database should be restored to its previous state before the transaction started. This ensures that the database is not left in an inconsistent state due to partial execution of a transaction.
+  - **Consistency**: Consistency means that a transaction should preserve the integrity constraints and business rules of the database. For example, if a transaction transfers money from one account to another, the total balance of the two accounts should remain the same before and after the transaction. This ensures that the database is not corrupted by invalid data due to a transaction.
+  - **Isolation**: Isolation means that a transaction should not interfere with or be affected by other concurrent transactions. For example, if two transactions are updating the same record, they should not overwrite each other's changes or see each other's uncommitted data. This ensures that the database is not affected by concurrency anomalies such as lost updates, dirty reads, or unrepeatable reads.
+  - **Durability**: Durability means that a transaction should persist its effects on the database even in the event of a system failure or crash. For example, if a transaction commits its changes to the database, they should not be lost or undone due to a power outage or a disk failure. This ensures that the database is not reverted to an outdated state due to a transaction.
+- **Transaction states**: A transaction can be in one of the following states during its execution:
+  - **Active**: The transaction is in progress and has not yet committed or aborted.
+  - **Partially committed**: The transaction has executed its final operation but has not yet made its changes permanent in the database.
+  - **Committed**: The transaction has successfully completed and its changes are durable in the database.
+  - **Failed**: The transaction has encountered an error or a violation of a constraint and cannot continue its execution.
+  - **Aborted**: The transaction has been rolled back and its changes are undone from the database.
+- **Transaction management system**: A transaction management system is a component of the DBMS that is responsible for ensuring the ACID properties of transactions. It consists of the following subcomponents:
+  - **Transaction manager**: The transaction manager is the interface between the application and the transaction management system. It provides functions to start, commit, abort, and monitor transactions. It also coordinates the execution of transactions across multiple sites in a distributed database system.
+  - **Concurrency control manager**: The concurrency control manager is the subcomponent that controls the concurrent execution of transactions. It implements protocols and mechanisms to prevent or resolve conflicts among transactions that access the same data. It also ensures the isolation and serializability of transactions.
+  - **Recovery manager**: The recovery manager is the subcomponent that handles the recovery of transactions in the event of a system failure or crash. It implements techniques to undo the effects of aborted transactions and redo the effects of committed transactions. It also ensures the atomicity and durability of transactions.

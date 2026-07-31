@@ -1,0 +1,8 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the conclusion for the notes of the Unit 3 - Knowledge-Based Systems- AI Context in the subject of Intelligent Database System:
+
+### Conclusion
+
+- Knowledge-based systems are computer systems that use artificial intelligence techniques to solve complex problems that require human expertise and knowledge.
+- Knowledge-based systems consist of two main components: a knowledge base and an inference engine. The knowledge base stores the facts and rules that represent the domain knowledge, while the inference engine applies logical reasoning to infer new facts and conclusions from the knowledge base.
+- Knowledge-based systems can be classified into two types: rule-based systems and frame-based systems. Rule-based systems use IF-THEN rules to represent knowledge, while frame-based systems use frames and slots to represent knowledge. Both types of systems have advantages and disadvantages depending on the application domain and the complexity of the problem.
+- Knowledge-based systems can be integrated with database systems to create intelligent database systems that can provide more advanced functionalities, such as natural language processing, data mining, expert systems, and semantic web. Intelligent database systems can enhance the data quality, usability, and accessibility of the database systems.

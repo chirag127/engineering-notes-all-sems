@@ -1,0 +1,21 @@
+# Basis for the notes of the Unit 4 - Vector Spaces in the subject of MATHEMATICAL FOUNDATION AI , ML AND DATA SCIENCE
+
+- A vector space is a set of objects called vectors that can be added and multiplied by scalars (usually real or complex numbers) in a way that satisfies certain axioms. 
+- A vector space has two operations: vector addition and scalar multiplication. Vector addition is a way of combining two vectors to get a new vector, and scalar multiplication is a way of scaling a vector by a number. 
+- A vector space must satisfy the following axioms for any vectors u, v, w in the vector space and any scalars a, b:  
+  - Commutativity of addition: u + v = v + u
+  - Associativity of addition: (u + v) + w = u + (v + w)
+  - Existence of additive identity: There exists a vector 0 such that u + 0 = u for all u
+  - Existence of additive inverse: For every vector u, there exists a vector -u such that u + (-u) = 0
+  - Distributivity of scalar multiplication over vector addition: a(u + v) = au + av
+  - Distributivity of scalar multiplication over scalar addition: (a + b)u = au + bu
+  - Associativity of scalar multiplication: (ab)u = a(bu)
+  - Existence of multiplicative identity: There exists a scalar 1 such that 1u = u for all u
+- A vector space is also called a linear space because the operations of vector addition and scalar multiplication are linear, meaning that they preserve the properties of linearity, such as superposition and homogeneity. 
+- A vector space can have different dimensions, depending on how many independent vectors are needed to span the whole space. A vector space with n dimensions is called an n-dimensional vector space, and can be denoted by mathbb {R}^n Rn or mathbb {C}^n Cn, depending on whether the scalars are real or complex numbers.  
+- Some examples of vector spaces are:   
+  - The Euclidean space mathbb {R}^n Rn, where vectors are n-tuples of real numbers, such as (1, 2, 3) or (4, -5, 6). This is the most common and familiar example of a vector space, and it can be used to model physical quantities such as displacement, velocity, force, etc.
+  - The complex space mathbb {C}^n Cn, where vectors are n-tuples of complex numbers, such as (1 + i, 2 - i, 3 + 2i) or (4 - 3i, -5 + i, 6 - i). This vector space can be used to model phenomena such as quantum mechanics, signal processing, electrical engineering, etc.
+  - The space of polynomials of degree at most n, denoted by P_n, where vectors are polynomials with real or complex coefficients, such as 2x^2 + 3x - 4 or x^3 - i. This vector space can be used to model functions, curves, interpolation, etc.
+  - The space of matrices of size m x n, denoted by M_{m,n}, where vectors are matrices with real or complex entries, such as [[1, 2], [3, 4]] or [[i, -1], [2, i]]. This vector space can be used to model linear transformations, systems of equations, cryptography, etc.
+  - The space of functions from a set X to a field F, denoted by F^X, where vectors are functions that map elements of X to elements of F, such as f(x) = sin(x) or g(x) = e^x. This vector space can be used to model infinite-dimensional spaces, differential equations, Fourier analysis, etc.

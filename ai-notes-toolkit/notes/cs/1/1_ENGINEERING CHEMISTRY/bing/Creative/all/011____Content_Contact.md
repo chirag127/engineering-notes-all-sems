@@ -1,0 +1,7 @@
+## Content Contact
+
+- Content contact is a term used in communication studies to describe the degree of interaction and engagement between a media user and a media text.
+- Content contact can be measured by various indicators, such as the amount of time spent on a media text, the frequency of exposure, the level of attention and involvement, the emotional and cognitive responses, and the degree of identification and parasocial interaction with the media characters or sources.
+- Content contact can vary depending on the type, genre, format, and quality of the media text, as well as the personal characteristics, preferences, motivations, and expectations of the media user.
+- Content contact can have various effects on the media user, such as influencing their attitudes, beliefs, values, behaviors, and social relationships. Content contact can also affect the media user's satisfaction, enjoyment, learning, and empowerment.
+- Content contact can be influenced by various factors, such as the media environment, the social context, the cultural background, and the technological affordances of the media text and the media user. Content contact can also be influenced by the media user's active and selective use of the media text, such as choosing, interpreting, evaluating, and responding to the media text.

@@ -1,0 +1,10 @@
+## Unit 1 - INTRODUCTION
+
+- This unit introduces the basic concepts and principles of artificial intelligence (AI).
+- AI is the study of how to create machines and systems that can perform tasks that normally require human intelligence, such as reasoning, learning, perception, decision making, and natural language processing.
+- AI can be classified into two main categories: weak AI and strong AI.
+  - Weak AI, also known as narrow AI, is the type of AI that can perform specific tasks or solve specific problems, but does not have general intelligence or understanding of the world. Examples of weak AI include speech recognition, face recognition, chess playing, and web search engines.
+  - Strong AI, also known as artificial general intelligence (AGI), is the type of AI that can perform any intellectual task that a human can, and has human-like consciousness and self-awareness. Examples of strong AI include HAL 9000 from 2001: A Space Odyssey, Data from Star Trek, and Samantha from Her. Strong AI is still a hypothetical and controversial concept, and there is no consensus on whether it is possible or desirable to create it.
+- AI can also be classified into two main approaches: symbolic AI and sub-symbolic AI.
+  - Symbolic AI, also known as classical AI or rule-based AI, is the approach that uses symbols and rules to represent and manipulate knowledge and reasoning. Symbolic AI relies on logic, search, and knowledge representation and reasoning (KRR) techniques to solve problems. Examples of symbolic AI include expert systems, logic programming, and ontologies.
+  - Sub-symbolic AI, also known as connectionist AI or neural network-based AI, is the approach that uses numerical values and mathematical operations to model and simulate complex phenomena and processes. Sub-symbolic AI relies on learning, optimization, and statistical methods to solve problems. Examples of sub-symbolic AI include artificial neural networks, evolutionary algorithms, and reinforcement learning.

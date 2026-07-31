@@ -1,0 +1,7 @@
+### 5. Students will be able build up personal traits that will make the transition from institution
+
+1. **Time management:** Students can develop the ability to prioritize tasks and manage their time effectively, which will be useful when transitioning from an academic institution to a professional setting.
+2. **Communication skills:** Effective communication is essential in any professional setting. Students can work on developing their verbal and written communication skills, as well as their ability to listen actively and respond appropriately.
+3. **Adaptability:** The ability to adapt to new situations and environments is crucial when transitioning from an academic institution to a professional setting. Students can work on developing their adaptability by being open to new experiences and being willing to learn from them.
+4. **Problem-solving:** The ability to analyze a situation, identify potential solutions, and implement the most effective one is a valuable skill in any professional setting. Students can work on developing their problem-solving skills by engaging in activities that challenge their critical thinking and decision-making abilities.
+5. **Teamwork:** Collaboration and teamwork are essential in most professional settings. Students can work on developing their ability to work effectively in a team by participating in group projects and activities, and by learning to communicate and cooperate with others.

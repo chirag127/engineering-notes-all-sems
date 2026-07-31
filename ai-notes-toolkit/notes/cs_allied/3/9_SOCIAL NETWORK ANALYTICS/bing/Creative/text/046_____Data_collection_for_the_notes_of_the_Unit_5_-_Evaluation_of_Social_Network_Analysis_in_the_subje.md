@@ -1,0 +1,10 @@
+### Data collection for social network analysis
+
+- Social network analysis (SNA) is a method of studying the structure and dynamics of social relationships among a set of actors, such as individuals, groups, or organizations.
+- Data collection for SNA involves identifying the actors and the ties that connect them, as well as any attributes or characteristics of the actors or the ties.
+- There are two main types of data collection for SNA: socio-centric and ego-centric.
+  - Socio-centric data collection focuses on a well-defined and bounded network, such as a classroom, a community, or an organization. For this type of data collection, all actors and ties in the network are enumerated and surveyed.
+  - Ego-centric data collection focuses on a focal actor and his or her personal network, such as friends, family, or colleagues. For this type of data collection, the focal actor is asked to name and describe his or her ties with other actors, who may or may not be part of a larger network.
+- The most common method of data collection for SNA is web-based surveys, which allow the researcher to customize the questions and the format of the data. Web-based surveys can be used for both socio-centric and ego-centric data collection, depending on the design of the survey.
+- Other methods of data collection for SNA include interviews, observation, archival records, social media, and sensors. These methods can provide complementary or alternative sources of data, depending on the research question and the availability of data.
+- Data collection for SNA requires careful planning and ethical considerations, such as obtaining informed consent, protecting privacy and confidentiality, and ensuring validity and reliability of the data. Data collection for SNA also involves challenges and trade-offs, such as sampling, response rate, network boundary, and data quality.

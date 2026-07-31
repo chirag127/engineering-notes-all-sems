@@ -1,0 +1,9 @@
+#### Network performance and transmission impairments in Computer Networks
+
+- Network performance is the measure of how well a network can deliver data and services to its users. It can be evaluated by various metrics, such as throughput, delay, jitter, packet loss, availability, reliability, etc.
+- Transmission impairments are the factors that degrade the quality of a signal as it travels through a medium. They can cause distortion, attenuation, noise, interference, etc. Some common transmission impairments are:
+  - Attenuation: The loss of signal strength due to the resistance of the medium, the distance traveled, or the presence of obstacles. It can be measured in decibels (dB) and can be compensated by amplifiers or repeaters.
+  - Distortion: The alteration of the shape or frequency of a signal due to the characteristics of the medium or the devices. It can cause errors or misinterpretation of the data. It can be reduced by using filters or equalizers.
+  - Noise: The unwanted or random signals that are added to the original signal due to the thermal agitation of electrons, electromagnetic radiation, or other sources. It can affect the signal-to-noise ratio (SNR) and the bit error rate (BER) of the transmission. It can be minimized by using shielding, modulation, or error correction techniques.
+  - Interference: The overlapping or superposition of signals from different sources that use the same frequency or channel. It can cause collisions or congestion in the network. It can be avoided by using orthogonal or non-overlapping channels, frequency division multiplexing (FDM), or code division multiple access (CDMA).
+  - Crosstalk: The coupling or leakage of signals from one wire or channel to another due to the electromagnetic induction or capacitance. It can cause unwanted signals or noise in the adjacent wires or channels. It can be reduced by using twisted pair cables, coaxial cables, or optical fibers.

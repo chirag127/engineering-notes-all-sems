@@ -1,0 +1,9 @@
+# Distributed Stream Processing
+
+Distributed Stream Processing is a programming paradigm in computer science that views data streams, or sequences of events in time, as the central input and output objects of computation. It is also known as event stream processing, data stream processing, or distributed stream processing .
+
+Distributed stream processing systems involve the use of geographically distributed architectures for processing large data streams in real time to increase efficiency and reliability of the data ingestion, data processing, and the display of data for analysis .
+
+Distributed stream processing engines are gaining popularity over the last years. Stream processing is a technology that can query continuous streams of data in real-time and perform operations on the received data. It also goes by the name event-processing, Complex Event Processing, real-time-analytics or stream analytics .
+
+Stream processing is needed to develop adaptive and responsive applications, help enterprises improve real-time business analytics, facilitate faster decisions, accelerate decision-making, improve decision-making with increased context, improve the user experience, and create new applications that use a variety of data sources .

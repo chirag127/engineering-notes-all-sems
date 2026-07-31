@@ -1,0 +1,31 @@
+## Name of the Lab for the notes of the subject of Database Management Systems Mapping with Virtual Lab Lab
+
+- The name of the lab for the notes of the subject of Database Management Systems Mapping with Virtual Lab Lab is **Database Management Systems Lab**.
+- The objective of this lab is to provide students with hands-on experience in designing, creating, querying, and manipulating databases using various tools and techniques.
+- The lab covers the following topics:
+  - Introduction to database concepts and terminology
+  - Data modeling using entity-relationship diagrams
+  - Relational algebra and relational calculus
+  - Structured Query Language (SQL)
+  - Database design using normalization
+  - Transaction management and concurrency control
+  - Database security and integrity
+  - Data warehousing and data mining
+- The lab uses the following software and hardware:
+  - Oracle Database 12c
+  - MySQL Workbench
+  - Microsoft SQL Server Management Studio
+  - Microsoft Access
+  - A computer with internet connection and web browser
+- The lab consists of the following experiments:
+  - Experiment 1: Creating and querying a database using Oracle Database 12c
+  - Experiment 2: Creating and querying a database using MySQL Workbench
+  - Experiment 3: Creating and querying a database using Microsoft SQL Server Management Studio
+  - Experiment 4: Creating and querying a database using Microsoft Access
+  - Experiment 5: Data modeling using entity-relationship diagrams
+  - Experiment 6: Relational algebra and relational calculus
+  - Experiment 7: Database design using normalization
+  - Experiment 8: Transaction management and concurrency control
+  - Experiment 9: Database security and integrity
+  - Experiment 10: Data warehousing and data mining
+- The lab is mapped with the virtual lab lab, which is an online platform that provides access to various database tools and resources. The virtual lab lab allows students to perform the experiments remotely and interactively, without the need of installing any software or hardware. The virtual lab lab also provides feedback and evaluation for the experiments. The virtual lab lab can be accessed at https://vlabs.ac.in/dbms-lab/.

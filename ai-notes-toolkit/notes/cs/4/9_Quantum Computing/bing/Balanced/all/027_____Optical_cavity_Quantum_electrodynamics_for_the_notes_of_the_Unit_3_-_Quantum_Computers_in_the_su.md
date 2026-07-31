@@ -1,0 +1,11 @@
+# Optical cavity quantum electrodynamics
+
+- Optical cavity quantum electrodynamics (QED) is the study of the interaction between light confined in a reflective cavity and atoms or other particles, under conditions where the quantum nature of photons is significant.
+- Optical cavity QED can be used to implement quantum logic gates, quantum state engineering, quantum metrology, and quantum information processing.
+- The simplest model in optical cavity QED deals with a single two-level atom interacting with a single mode of the radiation field. This ideal situation is implemented in optical cavity QED experiments, using high quality microwave or optical cavities as photon boxes.
+- The interaction between a quantum emitter and a single optical cavity mode can lead to a number of key experimental phenomena in quantum optics, such as:
+  - Enhancement of spontaneous emission: The rate of spontaneous emission of an atom can be modified by placing it in a cavity, depending on the coupling strength and the detuning between the atom and the cavity.
+  - Photon blockade effect: The presence of a single photon in the cavity can prevent the entry of a second photon, creating a nonlinear response and a non-classical state of light.
+  - Vacuum-induced transparency: The transmission of a weak probe field through a cavity can be controlled by a strong coupling field, resulting in a transparency window due to the interference between the cavity and the atom.
+- Optical cavity QED can also be extended to study the interaction between light and matter in chiral systems, where the direction of light propagation affects the coupling strength. This can lead to novel effects such as directional emission, non-reciprocal transmission, and topological phases of light.
+- Optical cavity QED is related to circuit QED, which uses superconducting qubits and microwave resonators to achieve strong coupling between light and matter. Circuit QED can be seen as a scalable and tunable platform for optical cavity QED, with potential applications in quantum computing and simulation.

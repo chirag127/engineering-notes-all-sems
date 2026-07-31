@@ -1,0 +1,17 @@
+### Instruction sets for the notes of the Unit 3 - Architecture of 8086 microprocessor: register organization, bus interface unit, execution unit, memory addressing, and memory segmentation. Operating modes. Instruction sets, instruction format, Types of instructions. Interrupts: hardware and software interrupts.
+
+- The 8086 microprocessor is a 16-bit microprocessor with a 16-bit internal and external data bus. It can access up to 1 MB of memory with 20 address lines .
+- The architecture of the 8086 microprocessor consists of two independent sections or units, the Bus Interface Unit (BIU) and Execution Unit (EU)  .
+- The Bus Interface Unit (BIU) interfaces 8086 with the external world. It handles all the data transfer functions. It consists of four 16-bit registers: segment registers, instruction pointer, and queue  .
+  - The segment registers are used to divide the memory into four segments: code, data, stack, and extra. Each segment register holds the base address of one segment  .
+  - The instruction pointer holds the offset address of the next instruction to be executed within the code segment  .
+  - The queue is a 6-byte buffer that prefetches instructions from the memory and stores them for the EU to execute  .
+- The Execution Unit (EU) executes the instructions fetched by the BIU. It consists of four 16-bit registers: general-purpose registers, flag register, and ALU  .
+  - The general-purpose registers are AX, BX, CX, and DX. They can be used as 16-bit registers or as 8-bit registers by using their high (H) or low (L) parts. They can store data, addresses, or operands  .
+  - The flag register is a 16-bit register that indicates the status of the EU after an operation. It has nine active flags: carry, parity, auxiliary carry, zero, sign, trap, interrupt, direction, and overflow  .
+  - The ALU is the arithmetic and logic unit that performs arithmetic and logical operations on the operands. It can operate on 8-bit or 16-bit operands  .
+- The memory addressing of the 8086 microprocessor is based on the concept of segmentation. The memory is divided into four segments: code, data, stack, and extra. Each segment has a base address and a limit of 64 KB. The physical address of a memory location is calculated by adding the base address of the segment and the offset address of the location. The physical address is 20 bits long and is formed by shifting the segment address four bits to the left and adding the offset address  .
+- The memory segmentation of the 8086 microprocessor allows the programmer to organize the program and data in a modular way. The code segment contains the executable instructions of the program. The data segment contains the variables and constants used by the program. The stack segment contains the stack data structure that stores the return addresses and parameters of the subroutines. The extra segment can be used for additional data or code  .
+- The operating modes of the 8086 microprocessor are the minimum mode and the maximum mode. The minimum mode is used when the 8086 is the only processor in the system. The maximum mode is used when the 8086 is interfaced with a coprocessor such as the 8087 or another processor such as the 8089  .
+  - In the minimum mode, the 8086 generates all the control signals for the memory and I/O devices. The control signals are M/IO, RD, WR, INTA, DT/R, DEN, and ALE  .
+  - In the maximum mode, the 8086 generates a set of status signals that are decoded by an external bus controller such as the 8288. The status signals

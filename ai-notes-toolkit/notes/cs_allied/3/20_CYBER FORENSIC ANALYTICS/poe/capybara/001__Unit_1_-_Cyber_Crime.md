@@ -1,0 +1,10 @@
+## Unit 1 - Cyber Crime
+
+In this unit, we will be discussing different types of cyber crimes and their impact on individuals and society. Here are some key points to remember:
+
+- Cyber crime refers to criminal activities that are carried out using computers, networks, and the internet. It includes a wide range of illegal activities such as hacking, phishing, identity theft, cyber stalking, and cyberbullying.
+- Cyber crime can have serious consequences for individuals and organizations. It can result in financial loss, damage to reputation, and even physical harm in some cases.
+- One of the most common types of cyber crime is phishing. This involves sending fraudulent emails or messages to trick people into revealing their personal information, such as login credentials or credit card details. It is important to always be cautious when receiving unsolicited messages and to verify the legitimacy of the sender before responding.
+- Another type of cyber crime is hacking, which involves gaining unauthorized access to computer systems or networks. This can be done for a variety of reasons, such as stealing sensitive data or disrupting operations. It is important to ensure that your computer systems and networks are secure and to use strong passwords to prevent unauthorized access.
+- Cyber stalking and cyberbullying are also serious forms of cyber crime. These involve using technology to harass, threaten, or intimidate others. It is important to educate yourself on how to stay safe online and to report any incidents of cyber stalking or cyberbullying to the appropriate authorities.
+- In order to combat cyber crime, it is important to stay informed and to take steps to protect yourself and your organization. This includes using strong passwords, keeping software up to date, and being cautious when sharing personal information online. It is also important to report any incidents of cyber crime to the appropriate authorities to help prevent further harm.

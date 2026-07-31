@@ -1,0 +1,26 @@
+## Unit 4 - Memory
+
+- Memory is the mental process of encoding, storing and retrieving information.
+- Encoding is the process of transforming sensory input into a form that can be stored in the brain.
+- Storing is the process of maintaining encoded information over time.
+- Retrieving is the process of accessing stored information when needed.
+- There are different types of memory, such as sensory memory, short-term memory and long-term memory.
+- Sensory memory is the brief and temporary storage of sensory information, such as visual, auditory or tactile stimuli.
+- Short-term memory is the limited and temporary storage of information that can be manipulated and processed.
+- Long-term memory is the relatively permanent and unlimited storage of information that can be organized and categorized.
+- There are different models of memory, such as the multi-store model, the working memory model and the levels of processing model.
+- The multi-store model proposes that memory consists of three separate stores: sensory memory, short-term memory and long-term memory, and that information flows between them in a linear and sequential way.
+- The working memory model proposes that short-term memory is not a single store, but a complex system of components that can perform various functions, such as the central executive, the phonological loop, the visuo-spatial sketchpad and the episodic buffer.
+- The levels of processing model proposes that memory depends on the depth and elaboration of processing, rather than the type of store. The deeper and more meaningful the processing, the better the memory.
+- There are different types of long-term memory, such as declarative memory and procedural memory.
+- Declarative memory is the memory of facts and events that can be consciously recalled and verbally expressed, such as semantic memory and episodic memory.
+- Semantic memory is the memory of general knowledge and concepts, such as the meaning of words, the capital of a country or the rules of a game.
+- Episodic memory is the memory of personal experiences and events, such as what you did yesterday, your first day of school or your birthday party.
+- Procedural memory is the memory of skills and habits that can be performed automatically and unconsciously, such as riding a bike, playing an instrument or tying a shoelace.
+- There are different factors that can affect memory, such as encoding specificity, interference, forgetting and retrieval cues.
+- Encoding specificity is the principle that memory is enhanced when the conditions of encoding and retrieval are similar, such as the context, the mood or the state of the person.
+- Interference is the phenomenon that memory can be impaired by the presence of other information, such as proactive interference and retroactive interference.
+- Proactive interference is when old information interferes with the recall of new information, such as when you forget a new phone number because you remember the old one.
+- Retroactive interference is when new information interferes with the recall of old information, such as when you forget an old password because you have learned a new one.
+- Forgetting is the loss or decay of memory over time, due to various reasons, such as lack of rehearsal, retrieval failure or brain damage.
+- Retrieval cues are stimuli that can help trigger the recall of stored information, such as words, images, sounds or emotions.

@@ -1,0 +1,12 @@
+### Structure of mitochondria
+
+- Mitochondria are small, rod-shaped organelles found in both plant and animal cells  that are involved in cellular respiration and energy production .
+- Mitochondria have a double membrane structure, consisting of an outer membrane and an inner membrane    . The outer membrane is smooth and surrounds the organelle, while the inner membrane is folded into projections called cristae .
+- The space between the two membranes is called the intermembrane space, and the space enclosed by the inner membrane is called the matrix   . The matrix contains mitochondrial DNA, ribosomes, enzymes, and other molecules  .
+- The cristae increase the surface area of the inner membrane, which is where the electron transport chain and oxidative phosphorylation take place  . These are the final steps of cellular respiration, which produce most of the ATP from the breakdown of glucose and other organic molecules  .
+- The inner membrane also contains transport proteins that regulate the movement of substances across the membrane, such as pyruvate, ADP, ATP, and protons  .
+- Mitochondria can vary in size, shape, and number depending on the cell type and function  . Cells that require more energy, such as muscle cells, can have hundreds or thousands of mitochondria, while some cells, such as red blood cells, lack mitochondria entirely  .
+- Mitochondria are semi-autonomous organelles, meaning that they can replicate and grow independently of the cell cycle . They also have their own circular DNA, which is inherited maternally and encodes some of the proteins and RNAs needed for mitochondrial function .
+- Mitochondria are believed to have evolved from ancient bacteria that were engulfed by ancestral eukaryotic cells in a process called endosymbiosis . This explains why mitochondria have a double membrane, their own DNA, and a similar size and shape to bacteria .
+- Mitochondria are essential for cellular metabolism, energy production, and homeostasis . They also play roles in apoptosis (programmed cell death), calcium signaling, heat generation, and hormone synthesis .
+- Mitochondrial dysfunction can cause various diseases and disorders, such as diabetes, Alzheimer's, Parkinson's, cancer, and aging  . Some of these diseases are caused by mutations in the mitochondrial DNA, while others are caused by environmental factors or interactions with the nuclear DNA  .

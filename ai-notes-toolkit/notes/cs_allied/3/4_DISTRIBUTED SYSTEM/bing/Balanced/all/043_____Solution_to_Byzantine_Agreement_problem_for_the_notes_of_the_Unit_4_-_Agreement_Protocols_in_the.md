@@ -1,0 +1,13 @@
+# Solution to Byzantine Agreement problem
+
+- The Byzantine Agreement problem is a fundamental challenge in fault-tolerant distributed computing, where a set of processes need to agree on a common value despite the presence of some faulty or malicious processes that may send conflicting or incorrect messages.
+- The problem is also known as the Byzantine Generals problem, which is an analogy to a scenario where several divisions of the Byzantine army are camped outside an enemy city, each division commanded by its own general. The generals can communicate with one another only by messenger. After observing the enemy, they must decide upon a common plan of action, such as attack or retreat. However, some of the generals may be traitors and try to sabotage the plan by sending false messages or no messages at all.
+- The solution to the problem relies on an algorithm that can guarantee that:
+  - All loyal processes decide upon the same value, and
+  - A small number of faulty processes cannot cause the loyal processes to adopt a bad value.
+- One of the most well-known solutions to the Byzantine Agreement problem is the **Oral Messages Algorithm** proposed by Lamport et al. in 1982. The algorithm works as follows:
+  - Assume there are n processes, of which at most f are faulty. The algorithm can tolerate f < n/3.
+  - Each process has an initial value, which is either 0 or 1. One of the processes is designated as the commander, and the rest are lieutenants. The commander sends its initial value to all lieutenants.
+  - For each round i from 1 to f+1, each lieutenant acts as a relay and sends the value it received from the commander or the previous round to all other lieutenants. Each lieutenant then computes a majority value based on the values it received from all other lieutenants and itself. This majority value becomes the input for the next round.
+  - After f+1 rounds, each lieutenant decides on the final majority value as its output.
+- The Oral Messages Algorithm can ensure that if the commander is loyal, then all loyal lieutenants will decide on the same value as the commander. If the commander is faulty, then all loyal lieutenants will decide on the same value, which may or may not be the same as the commander's value. The algorithm can also ensure that a small number of faulty lieutenants cannot influence the decision of the loyal ones, as long as f < n/3. This is because in each round, a loyal lieutenant will receive at least n-f-1 > 2f messages from other loyal lieutenants, which will form a majority over the f messages from faulty lieutenants. Therefore, the majority value computed by a loyal lieutenant will always be the same as the majority value of the other loyal lieutenants.

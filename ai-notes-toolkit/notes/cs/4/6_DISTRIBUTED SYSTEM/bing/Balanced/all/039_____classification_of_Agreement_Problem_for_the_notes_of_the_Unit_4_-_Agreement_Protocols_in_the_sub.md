@@ -1,0 +1,13 @@
+# Classification of Agreement Problem in Distributed Systems
+
+An agreement problem in a distributed system is a problem where a set of processes need to agree on a common value or decision, despite the possibility of failures or malicious behavior of some processes. Agreement problems are fundamental to achieving fault tolerance and consistency in distributed systems.
+
+There are different types of agreement problems, depending on the assumptions and requirements of the system. Some of the well-known agreement problems are:
+
+- **Byzantine agreement problem**: A single value, which is to be agreed on, is initialized by an arbitrary process and all non-faulty processes have to agree on that value. The processes may be subject to Byzantine failures, which means they can behave arbitrarily or maliciously, sending conflicting or incorrect messages to other processes. The goal is to ensure that all non-faulty processes agree on the same value, and that value is the initial value of some non-faulty process.   
+
+- **Consensus problem**: A generalization of the Byzantine agreement problem, where each process can propose its own value and all non-faulty processes have to agree on a common value. The value agreed on must be one of the proposed values. The processes may be subject to crash failures, which means they can stop executing at any point, but cannot send incorrect messages. The goal is to ensure that all non-faulty processes agree on the same value, and that value is one of the proposed values.   
+
+- **Interactive consistency problem**: A variation of the Byzantine agreement problem, where each process has its own value and all non-faulty processes have to agree on a vector of values, one for each process. The vector agreed on must satisfy two properties: (1) the value for each non-faulty process is its own initial value, and (2) the value for each faulty process is the same for all non-faulty processes. The processes may be subject to Byzantine failures, as in the Byzantine agreement problem. The goal is to ensure that all non-faulty processes agree on the same vector of values, and that vector satisfies the two properties.  
+
+These agreement problems are related to each other and have different applications in distributed systems. For example, Byzantine agreement can be used to implement reliable broadcast, where a message sent by a process is received by all non-faulty processes. Consensus can be used to implement atomic commit, where a set of processes need to decide whether to commit or abort a transaction. Interactive consistency can be used to implement group membership, where a set of processes need to agree on who is in the group and who is not.

@@ -1,0 +1,8 @@
+### Introduction to Internet services
+
+- Internet services are the applications or functions that allow us to access, exchange, or obtain information over the internet, which is a global system of interconnected computer networks.
+- Internet services can be classified into four main categories: communication services, information retrieval services, web services, and video conferencing services.
+- Communication services enable us to communicate with individuals or groups using various methods, such as email, instant messaging, chat, voice over IP, and social media.
+- Information retrieval services allow us to search, access, and download data or files from the internet, such as text, graphics, sound, and software. Some examples of information retrieval services are search engines, online databases, and file transfer protocol.
+- Web services are software applications that run on the internet and provide functionality or data to other applications or users. Web services use standard protocols, such as HTTP and XML, to communicate and exchange data. Some examples of web services are online shopping, online banking, and online gaming.
+- Video conferencing services enable us to have real-time audio and video communication with one or more people over the internet. Video conferencing services use specialized software and hardware to capture, transmit, and display video and audio signals. Some examples of video conferencing services are Skype, Zoom, and Google Meet.

@@ -1,0 +1,22 @@
+### Perform forward engineering in java for the notes of the Unit 1 - Introduction of Software Engineering Lab in the subject of Software Engineering Lab
+
+- Forward engineering is a method of creating or making an application with the help of the given requirements  .
+- Forward engineering is also known as Renovation and Reclamation .
+- Forward engineering requires high proficiency skills and more time to construct or develop an application .
+- Forward engineering is prescriptive in nature and follows a systematic process of design, development, testing and deployment.
+- Forward engineering is the opposite of reverse engineering, which is the process of extracting the requirements and design from an existing application   .
+- In Java, forward engineering can be performed by using various tools and frameworks that support code generation from high-level models, such as UML diagrams, ER diagrams, etc .
+- Some examples of forward engineering tools and frameworks for Java are:
+  - Eclipse Modeling Framework (EMF), which provides a common platform for modeling and code generation.
+  - Java Emitter Templates (JET), which is a template engine that can generate Java code from any kind of model.
+  - No Magic Product Suite, which is a set of tools that support UML modeling, code generation, reverse engineering and synchronization.
+- The steps to perform forward engineering in Java are:
+  - Define the requirements and specifications of the application.
+  - Create a high-level model of the application using UML diagrams or other modeling techniques.
+  - Choose a suitable tool or framework that supports code generation from the model.
+  - Configure the code generation settings, such as the target language, the output directory, the naming conventions, etc.
+  - Generate the Java code from the model using the tool or framework.
+  - Review and modify the generated code if necessary.
+  - Compile and run the application.
+  - Test and debug the application.
+  - Deploy the application.

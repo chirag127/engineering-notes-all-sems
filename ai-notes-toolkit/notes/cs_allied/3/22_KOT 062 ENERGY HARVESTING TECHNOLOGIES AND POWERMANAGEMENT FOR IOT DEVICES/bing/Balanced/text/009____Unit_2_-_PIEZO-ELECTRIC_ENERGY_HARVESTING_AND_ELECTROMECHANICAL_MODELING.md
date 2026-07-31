@@ -1,0 +1,13 @@
+## Unit 2 - Piezoelectric Energy Harvesting and Electromechanical Modeling
+
+- Piezoelectric energy harvesting is the process of converting mechanical energy into electrical energy using piezoelectric materials, which are materials that generate electric charge when subjected to mechanical stress or strain.
+- Piezoelectric energy harvesters are devices that utilize piezoelectric materials to scavenge energy from ambient vibrations, such as wind, traffic, human motion, etc.
+- Piezoelectric energy harvesters can be used to power low-power electronic devices, such as wireless sensors, microcontrollers, LED lights, etc., without the need for batteries or external power sources.
+- Electromechanical modeling of piezoelectric energy harvesters is the mathematical description of the coupled dynamics of the mechanical and electrical domains of the system, which can be used to analyze, design, and optimize the performance of the device.
+- Electromechanical modeling of piezoelectric energy harvesters can be classified into two main approaches: lumped-parameter modeling and distributed-parameter modeling.
+- Lumped-parameter modeling assumes that the piezoelectric energy harvester can be represented by a finite number of discrete elements, such as masses, springs, dampers, capacitors, etc., connected by ideal nodes. This approach is simple and convenient, but may not capture the effects of higher modes, geometric nonlinearities, or complex boundary conditions.
+- Distributed-parameter modeling considers the piezoelectric energy harvester as a continuous system, such as a beam, plate, or shell, with spatially varying properties and fields. This approach is more accurate and general, but may require more computational effort and mathematical complexity.
+- Depending on the type and configuration of the piezoelectric energy harvester, different distributed-parameter models can be used, such as Euler-Bernoulli beam theory, Timoshenko beam theory, Kirchhoff plate theory, Mindlin plate theory, etc.
+- Distributed-parameter models can be derived using various methods, such as Hamilton's principle, Lagrange's equation, variational methods, finite element methods, etc.
+- Distributed-parameter models can be solved using various techniques, such as modal analysis, Galerkin's method, Rayleigh-Ritz method, etc.
+- Distributed-parameter models can be validated using experimental data, such as natural frequencies, mode shapes, voltage output, power output, etc.

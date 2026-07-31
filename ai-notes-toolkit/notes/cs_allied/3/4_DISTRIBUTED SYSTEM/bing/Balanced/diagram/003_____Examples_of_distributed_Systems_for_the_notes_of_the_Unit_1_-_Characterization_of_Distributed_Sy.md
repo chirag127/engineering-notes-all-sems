@@ -1,0 +1,10 @@
+### Examples of Distributed Systems
+
+A distributed system is a collection of independent computers that communicate and coordinate their actions by passing messages. The computers in a distributed system may be physically close or geographically dispersed, and they may be connected by a network or a bus. Distributed systems can provide higher performance, reliability, scalability, and availability than centralized systems.
+
+Some examples of distributed systems are:
+
+- **Telecommunication networks**: Telephone networks are an early example of a peer-to-peer network, where each node can initiate or receive calls. Cellular and telephone networks are forms and examples of distributed networks. They use protocols such as TCP/IP, HTTP, and SMTP to exchange data and messages.  
+- **Real-time systems**: Many industries use real-time systems distributed in various areas, locally and globally. For example, air traffic control systems, power grid systems, industrial control systems, and online gaming systems are all examples of real-time distributed systems. They require fast and accurate communication and synchronization among the nodes, and they often use specialized hardware and software to meet the timing constraints.  
+- **Distributed database systems**: A distributed database has locations across multiple servers, physical locations, or both. The data can be replicated or partitioned, and the system can provide concurrency control, transaction management, and fault tolerance. Examples of distributed database systems are Google's Bigtable, Amazon's Dynamo, and MongoDB.  
+- **Distributed computing platforms**: A distributed computing platform is a system that allows multiple computers to work together on a common task, such as scientific computing, data analysis, or web crawling. The platform can provide load balancing, fault tolerance, and parallelism. Examples of distributed computing platforms are Apache Hadoop, Apache Spark, and Google's MapReduce.

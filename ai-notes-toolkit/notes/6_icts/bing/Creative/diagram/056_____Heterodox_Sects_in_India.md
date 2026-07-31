@@ -1,0 +1,11 @@
+### Heterodox Sects in India
+
+- Heterodox sects are those that do not accept the authority of the Vedas, the sacred scriptures of Hinduism, and challenge the orthodox Brahmanical traditions.
+- Heterodox sects emerged in the 6th century BCE as part of the Sramana movement, which was a reaction to the ritualistic and hierarchical Vedic religion.
+- Heterodox sects advocated a path of renunciation, asceticism, and ethical conduct for the attainment of liberation from the cycle of rebirth.
+- Some of the major heterodox sects in India are:
+
+  - Jainism: Founded by Mahavira, the 24th Tirthankara, Jainism teaches the doctrine of ahimsa (non-violence), anekantavada (non-absolutism), and aparigraha (non-attachment). Jains believe in the existence of soul and karma, and practice strict rules of vegetarianism, fasting, and non-injury to all living beings. Jainism has two main sects: Digambara (sky-clad) and Svetambara (white-clad).
+  - Buddhism: Founded by Siddhartha Gautama, the Buddha, Buddhism teaches the Four Noble Truths and the Eightfold Path for the cessation of suffering and the attainment of nirvana. Buddhists do not believe in the existence of a permanent soul or a creator god, and emphasize the impermanence and interdependence of all phenomena. Buddhism has many branches, such as Theravada, Mahayana, Vajrayana, and Zen.
+  - Ajivika: Founded by Makkhali Gosala, Ajivika is a materialist and deterministic sect that denies the existence of free will, soul, karma, and rebirth. Ajivikas believe that everything is predetermined by the cosmic force of niyati (fate), and that human actions have no moral consequences. Ajivika is considered to be an extinct sect, as no authentic texts or followers survive today.
+  - Carvaka: Also known as Lokayata, Carvaka is a radical materialist and atheist sect that rejects the existence of anything beyond the four elements of earth, water, fire, and air. Carvakas deny the validity of inference, testimony, and analogy as sources of knowledge, and rely only on perception and logic. Carvakas advocate a hedonistic and pragmatic way of life, and ridicule the concepts of soul, karma, rebirth, and liberation.

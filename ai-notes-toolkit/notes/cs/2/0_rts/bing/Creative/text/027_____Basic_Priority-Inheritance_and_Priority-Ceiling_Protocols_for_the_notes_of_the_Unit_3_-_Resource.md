@@ -1,0 +1,12 @@
+### Basic Priority-Inheritance and Priority-Ceiling Protocols for the notes of the Unit 3 - Resources Sharing in the subject of Real Time System
+
+- Priority-Inheritance Protocol (PIP) and Priority-Ceiling Protocol (PCP) are two critical resource sharing protocols for real-time systems that use preemptive scheduling and mutual exclusion.
+- PIP and PCP aim to reduce the blocking time of high-priority tasks due to low-priority tasks holding shared resources, and to prevent deadlocks and priority inversions.
+- PIP works by temporarily raising the priority of a low-priority task that holds a shared resource to the highest priority of any task that is blocked by it. This way, the low-priority task can finish using the resource and release it to the blocked task sooner.
+- PCP works by assigning a ceiling priority to each shared resource, which is the highest priority of any task that can access that resource. A task can only lock a resource if its priority is higher than the ceiling priority of all the resources that are currently locked. This way, the low-priority tasks are prevented from locking resources that may be needed by high-priority tasks.
+- The main differences between PIP and PCP are:
+
+  - PIP is greedy while PCP is not. PIP lets a task lock a resource whenever it is free, while PCP may deny a task from locking a resource even if it is free, if the task's priority is lower than the ceiling priority of any locked resource.
+  - PIP requires minimum support from the operating system, while PCP requires maximum support. PIP only needs to change the priority of a task when it locks or unlocks a resource, while PCP needs to keep track of the ceiling priority of all the locked resources and compare it with the priority of the requesting task.
+  - PIP cannot prevent deadlocks, while PCP can. PIP may cause a circular wait among tasks that lock multiple resources, while PCP avoids this by enforcing a strict order of locking resources based on their ceiling priorities.
+  - PIP may cause unbounded priority inversion, while PCP guarantees bounded priority inversion. PIP may allow a low-priority task to hold a resource for a long time if it is preempted by other tasks that are not blocked by it, while PCP limits the blocking time of a high-priority task by the maximum execution time of a lower-priority task that can lock any resource needed by the high-priority task.

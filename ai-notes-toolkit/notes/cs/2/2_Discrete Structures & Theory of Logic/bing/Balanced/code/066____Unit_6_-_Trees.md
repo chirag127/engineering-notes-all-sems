@@ -1,0 +1,46 @@
+## Unit 6 - Trees
+
+- A tree is a nonlinear data structure that consists of nodes connected by edges.
+- A tree has the following properties:
+  - There is one node called the root, which has no parent.
+  - Every node other than the root has exactly one parent node.
+  - There is a unique path from the root to every node.
+  - A node with no children is called a leaf node.
+  - A node with at least one child is called an internal node.
+  - The height of a node is the number of edges on the longest path from the node to a leaf.
+  - The depth of a node is the number of edges on the path from the node to the root.
+  - The level of a node is the depth of the node plus one.
+  - The height of a tree is the height of the root node.
+  - The size of a tree is the number of nodes in the tree.
+- A tree can be represented in different ways, such as:
+  - A linked list of nodes, where each node has a data field and a pointer to its parent and children.
+  - An array, where the index of a node is its level-order position and the parent-child relationship is determined by a formula.
+  - A nested list, where each element is either a data value or a sublist representing a subtree.
+- Some common types of trees are:
+  - Binary tree: A tree where each node has at most two children, called the left child and the right child.
+  - Binary search tree: A binary tree where the data values are ordered such that for any node, the values in the left subtree are less than or equal to the value of the node, and the values in the right subtree are greater than or equal to the value of the node.
+  - Balanced binary tree: A binary tree where the height difference between the left and right subtrees of any node is at most one.
+  - Complete binary tree: A binary tree where all the levels are completely filled except possibly the last level, and the last level has all the nodes as left as possible.
+  - Full binary tree: A binary tree where every node has either zero or two children.
+  - Perfect binary tree: A binary tree where all the levels are completely filled and all the nodes have two children.
+  - Heap: A complete binary tree where the data values satisfy the heap property, which is either:
+    - Max-heap: The value of any node is greater than or equal to the values of its children.
+    - Min-heap: The value of any node is less than or equal to the values of its children.
+  - Trie: A tree where each node represents a prefix of a string and the children of a node are the possible characters that can follow the prefix. The data values are usually stored at the leaf nodes or at the nodes that mark the end of a string.
+  - B-tree: A balanced tree where each node has a variable number of children and data values, and the number of children and data values are within a specified range. The data values are ordered within each node and across the nodes at the same level.
+  - Expression tree: A binary tree where the leaf nodes represent operands and the internal nodes represent operators. The value of the tree is the result of evaluating the expression.
+  - Decision tree: A tree where each node represents a decision or a question, and the children of a node are the possible outcomes or answers. The data values are usually stored at the leaf nodes or at the nodes that mark the end of a decision path.
+- Some common operations on trees are:
+  - Traversal: Visiting all the nodes of a tree in a specific order, such as:
+    - Preorder: Visit the root, then the left subtree, then the right subtree.
+    - Inorder: Visit the left subtree, then the root, then the right subtree.
+    - Postorder: Visit the left subtree, then the right subtree, then the root.
+    - Level-order: Visit the nodes level by level, from left to right.
+  - Search: Finding a node with a given data value or satisfying a given condition.
+  - Insertion: Adding a new node to the tree at a suitable position.
+  - Deletion: Removing a node from the tree and adjusting the structure of the tree accordingly.
+  - Modification: Changing the data value or the structure of a node or a subtree.
+  - Copy: Creating a new tree that is identical to the given tree.
+  - Comparison: Checking if two trees are identical or similar in some way.
+  - Evaluation: Computing the value of a tree based on some rules or functions.
+  - Pruning: Removing some nodes or subtrees from a tree based

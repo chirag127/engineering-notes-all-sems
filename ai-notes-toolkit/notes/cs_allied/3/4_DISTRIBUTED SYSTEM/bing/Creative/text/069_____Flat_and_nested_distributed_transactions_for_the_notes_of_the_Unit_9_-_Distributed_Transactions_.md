@@ -1,0 +1,8 @@
+### Flat and Nested Distributed Transactions
+
+- A **flat or nested transaction** that accesses objects handled by different servers is referred to as a **distributed transaction** .
+- When a distributed transaction reaches its end, in order to maintain the **atomicity** property of the transaction, it is mandatory that all of the servers involved in the transaction either **commit** the transaction or **abort** it .
+- Distributed transactions can be structured in two different ways: **flat transactions** and **nested transactions** .
+- A **flat transaction** has a single initiating point (**Begin**) and a single end point (**Commit** or **Abort**). They are usually very simple and are generally used for short activities rather than larger ones .
+- A **nested transaction** is a transaction that consists of a number of **subtransactions**, each of which can be committed or aborted independently. A nested transaction has a **root transaction** and several **branch transactions**. The root transaction can only commit if all of its branch transactions have committed. Nested transactions are useful for complex and long-running activities that require partial results to be saved .
+- The **distributed transaction** takes a **bottom-up** approach while the **nested transaction** takes a **top-down** approach to decompose a complex transaction into subtransactions. Distributed transactions provided global integrity constraints over multiple resources. These resources soon started to be heterogeneous as well.

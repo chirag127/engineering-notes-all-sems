@@ -1,0 +1,22 @@
+## Unit 1 - Introduction to IDBS
+
+- IDBS stands for Integrated Database Systems, which is a course that covers the concepts and techniques of designing, implementing, and managing database systems.
+- A database is a collection of data that is organized so that it can be easily accessed, managed, and updated.
+- A database system is a software system that provides the functionality to create, manipulate, and query databases.
+- A database system consists of two main components: the database and the database management system (DBMS).
+- The database is the actual data stored in a structured format, such as tables, records, and fields.
+- The DBMS is the software that controls the access and manipulation of the database, such as creating, deleting, updating, and querying data.
+- The DBMS also provides other features, such as security, concurrency control, backup and recovery, and data integrity.
+- There are different types of database systems, such as relational, hierarchical, network, object-oriented, and NoSQL databases, each with its own advantages and disadvantages.
+- The most widely used type of database system is the relational database system, which organizes data into tables, where each table has a set of columns (attributes) and rows (tuples).
+- The relational model is based on the concept of mathematical relations, and supports operations such as selection, projection, join, union, and difference.
+- The relational model also defines a set of integrity constraints, such as primary keys, foreign keys, and referential integrity, that ensure the consistency and validity of the data.
+- The relational model can be represented using a graphical notation called the entity-relationship (ER) model, which depicts the entities, attributes, and relationships in a database schema.
+- The ER model can be converted into a relational schema, which specifies the tables, columns, and constraints in a database.
+- The relational schema can be implemented using a specific DBMS, such as MySQL, Oracle, or SQL Server, which provide a standard language called SQL (Structured Query Language) to interact with the database.
+- SQL is a declarative language that allows users to specify what data they want to retrieve or manipulate, without specifying how to do it.
+- SQL consists of several sublanguages, such as DDL (Data Definition Language), DML (Data Manipulation Language), DCL (Data Control Language), and DQL (Data Query Language), each with its own commands and syntax.
+- SQL also supports various functions, operators, and clauses, such as aggregate functions, arithmetic operators, logical operators, comparison operators, and the WHERE, GROUP BY, HAVING, and ORDER BY clauses, to perform complex queries and calculations on the data.
+- SQL also supports various data types, such as numeric, character, date, time, and boolean, to store different kinds of data in the database.
+- SQL also supports various constraints, such as NOT NULL, UNIQUE, CHECK, and DEFAULT, to enforce the integrity and validity of the data.
+- SQL also supports various indexes, such as primary index, secondary index, clustered index, and non-clustered index, to improve the performance and efficiency of the database operations.

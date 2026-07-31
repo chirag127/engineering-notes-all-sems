@@ -1,0 +1,11 @@
+# Points and lines for the notes of the Unit 1 - Introduction and Line Generation in the subject of Computer Graphics
+
+- A point is the simplest graphical element that can be displayed on a screen. It is represented by a pair of coordinates (x, y) that specify its position on a two-dimensional plane.
+- A line is a sequence of points that are connected by straight or curved segments. It is represented by two endpoints (x1, y1) and (x2, y2) that specify the start and end of the line, or by a slope-intercept equation y = mx + b that specifies the direction and position of the line.
+- Lines are used to draw shapes, curves, boundaries, and other graphical elements. They are also the basis for many algorithms in computer graphics, such as clipping, rasterization, and anti-aliasing.
+- There are different methods to generate lines on a screen, depending on the type of display device and the desired quality and efficiency of the output. Some of the common methods are:
+
+  - DDA algorithm: This algorithm uses the concept of digital differential analyzer to incrementally calculate the intermediate points along a line. It is simple and fast, but it may produce round-off errors and unevenly spaced points.
+  - Bresenham's algorithm: This algorithm uses the concept of decision variables to determine the next point along a line. It is more accurate and efficient than the DDA algorithm, as it avoids floating-point arithmetic and produces evenly spaced points.
+  - Midpoint algorithm: This algorithm uses the concept of midpoint to determine the next point along a line. It is similar to Bresenham's algorithm, but it can handle lines with any slope and can be extended to draw circles and ellipses.
+  - Wu's algorithm: This algorithm uses the concept of anti-aliasing to smooth the jagged edges of a line. It assigns different intensities to the pixels along a line, based on their distance from the ideal line. It is more complex and slower than the previous algorithms, but it produces higher quality output.

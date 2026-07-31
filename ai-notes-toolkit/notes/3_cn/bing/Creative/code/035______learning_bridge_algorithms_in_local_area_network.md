@@ -1,0 +1,11 @@
+#### Learning bridge algorithms in local area network
+
+A bridge is a device that connects two or more local area networks (LANs) and forwards packets based on their destination address. Bridge algorithms are the methods that bridges use to learn the addresses of the devices connected to the LANs and to decide which packets to forward or discard.
+
+There are two main types of bridge algorithms: Spanning Tree (ST) and Source Routing (SR). Both are specified by the IEEE 802 standards committee .
+
+Spanning Tree (ST) algorithm creates a loop-free logical topology of the interconnected LANs by selecting a root bridge and disabling some of the links that cause cycles. The root bridge periodically broadcasts special packets called Bridge Protocol Data Units (BPDUs) that contain information about the bridge ID and the path cost to the root. Other bridges receive the BPDUs and update their forwarding tables and port states accordingly. The ST algorithm ensures that there is only one path between any two LANs and that the path is the least-cost one.
+
+Source Routing (SR) algorithm relies on the source device to specify the route of the packet through the interconnected LANs. The source device appends a special field to the packet header that contains the sequence of bridges that the packet should traverse. The bridges use this field to forward the packet to the next bridge or the destination LAN. The source device learns the routes by sending special packets called Route Discovery Frames (RDFs) that are broadcasted to all bridges and devices. The bridges and devices reply with Route Reply Frames (RRFs) that contain the route information.
+
+Both ST and SR algorithms have advantages and disadvantages. ST algorithm is simpler and more robust, but it may not use all the available links and it may take a long time to converge after a topology change. SR algorithm is more efficient and flexible, but it requires more memory and processing power at the source device and it may cause congestion and collisions at the bridges. A performance comparison of the two algorithms can be found in  .

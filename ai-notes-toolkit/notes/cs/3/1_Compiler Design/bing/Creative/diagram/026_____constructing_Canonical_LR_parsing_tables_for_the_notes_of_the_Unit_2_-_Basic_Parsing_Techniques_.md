@@ -1,0 +1,22 @@
+### Constructing Canonical LR Parsing Tables
+
+- A CLR parsing table is a table used by a CLR parser to determine its parsing actions based on the current state and the next input symbol. CLR stands for Canonical LR, which is a type of LR parser that uses the canonical collection of LR(1) items to construct the table .
+- An LR(1) item is a pair of a production and a lookahead symbol, which indicates what the parser expects to see after deriving the production. For example, the item [A -> a.B, c] means that the parser has seen a and expects to see B followed by c.
+- The canonical collection of LR(1) items is a set of sets of LR(1) items, where each set represents a possible state of the parser. The initial state contains the item [S' -> .S, $], where S' is the augmented start symbol, S is the original start symbol, and $ is the end-of-input marker. The other states are obtained by applying two operations: closure and goto .
+- The closure operation adds all the items that can be derived from the current items by expanding the nonterminal symbols after the dot. For example, if the grammar has the production B -> b, then the closure of [A -> a.B, c] is {[A -> a.B, c], [B -> .b, c]} .
+- The goto operation moves the dot one position to the right for a given symbol and returns the closure of the resulting items. For example, the goto of {[A -> a.B, c], [B -> .b, c]} on b is {[B -> b., c]} .
+- The canonical collection of LR(1) items is obtained by starting from the initial state and applying the goto operation on all the symbols that appear after the dot in any item, until no new states are generated .
+- The CLR parsing table has two parts: an action table and a goto table. The action table specifies what the parser should do (shift, reduce, accept, or error) for each state and input symbol. The goto table specifies the next state for each state and nonterminal symbol .
+- The action table is constructed as follows :
+  - If [A -> a., b] is an item in state I and a is a terminal symbol, then set action[I, a] to shift and the state resulting from goto(I, a).
+  - If [A -> a., b] is an item in state I and a is the end-of-input marker, then set action[I, a] to accept.
+  - If [A -> a., b] is an item in state I and A is not the augmented start symbol, then set action[I, b] to reduce by the production A -> a for all b in the lookahead set of the item.
+  - If any entry in the action table is multiply defined, then the grammar is not CLR(1) and the table cannot be constructed.
+- The goto table is constructed as follows :
+  - If A is a nonterminal symbol and goto(I, A) is defined, then set goto[I, A] to the state resulting from goto(I, A).
+- The CLR parser uses a stack to store the states and a buffer to store the input symbols. It starts with the initial state on the stack and the input string followed by the end-of-input marker on the buffer. It repeatedly performs the following steps until it accepts or reports an error :
+  - Let s be the state on top of the stack and a be the symbol at the front of the buffer.
+  - If action[s, a] is shift t, then push t onto the stack and remove a from the buffer.
+  - If action[s, a] is reduce by A -> b, then pop |b| states from the stack, let t be the state now on top of the stack, push goto[t, A] onto the stack, and output A -> b.
+  - If action[s, a] is accept, then stop and report success.
+  - If action[s, a] is error, then stop and report failure.

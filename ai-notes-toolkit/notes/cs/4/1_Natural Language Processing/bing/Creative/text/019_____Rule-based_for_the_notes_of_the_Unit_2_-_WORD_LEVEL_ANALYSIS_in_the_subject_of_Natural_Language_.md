@@ -1,0 +1,9 @@
+### Rule-based word level analysis
+
+- Rule-based word level analysis is a method of natural language processing (NLP) that relies on predefined rules and patterns to extract and manipulate information from text data.
+- Rule-based word level analysis can be used for tasks such as tokenization, part-of-speech tagging, stemming, lemmatization, and named entity recognition .
+- Rule-based word level analysis involves syntactic and semantic analysis, which are used to break down human language into machine-readable chunks and to understand the meaning and context of words .
+- Rule-based word level analysis can be represented by parse trees, which show the syntactic structure and dependency relationships between words.
+- Rule-based word level analysis is based on computational linguistics, which is the branch of computer science that models human language using formal grammars and logic.
+- Rule-based word level analysis has some advantages and disadvantages compared to machine learning-based word level analysis. Some advantages are that rule-based word level analysis is more transparent, interpretable, and consistent, and that it does not require large amounts of annotated data for training. Some disadvantages are that rule-based word level analysis is more labor-intensive, domain-specific, and brittle, and that it cannot handle ambiguity, variability, and complexity of natural language well.
+- Rule-based word level analysis can be combined with word-level statistics-based processing, which is a method of NLP that relies on probabilistic models and numerical features to capture the regularities and patterns of language. The combination of the two methods can improve the performance and robustness of NLP systems.

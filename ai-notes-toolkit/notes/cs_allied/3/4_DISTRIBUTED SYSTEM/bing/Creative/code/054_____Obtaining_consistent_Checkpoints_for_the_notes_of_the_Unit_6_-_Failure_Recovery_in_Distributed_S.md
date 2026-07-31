@@ -1,0 +1,21 @@
+### Obtaining consistent Checkpoints for the notes of the Unit 6 - Failure Recovery in Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Failure recovery in distributed systems is the process of restoring the system to a consistent and correct state after a failure occurs.
+- A failure in a distributed system can be caused by various factors, such as hardware faults, software bugs, network errors, malicious attacks, power outages, etc.
+- A failure can affect one or more components of the system, such as processes, nodes, links, or data.
+- A failure can have different consequences, such as data loss, data corruption, performance degradation, service unavailability, or inconsistency.
+- To recover from a failure, the system needs to detect the failure, identify the cause and location of the failure, isolate the failed components, and restore the system to a consistent and correct state.
+- One of the common techniques for failure recovery in distributed systems is checkpointing .
+- Checkpointing is the process of periodically saving the state of the system or its components to a stable storage, such as a disk or a cloud service.
+- Checkpointing can be done at different levels, such as process level, node level, or system level.
+- Checkpointing can be done in different ways, such as synchronous, asynchronous, coordinated, or uncoordinated.
+- Checkpointing can help the system to recover from a failure by restoring the system or its components to the last saved state, and then replaying the events that occurred after the checkpoint.
+- However, checkpointing also has some challenges, such as how to ensure the consistency and correctness of the checkpoints, how to minimize the overhead and latency of checkpointing, how to coordinate the checkpointing among multiple components, and how to handle concurrent or dependent events.
+- To obtain consistent checkpoints, the system needs to ensure that the checkpoints reflect a global state of the system that is reachable and valid.
+- A global state of the system is a collection of the local states of all the components and the messages in transit among them.
+- A global state is reachable if it can be obtained by executing the system from some initial state.
+- A global state is valid if it does not violate any invariant or constraint of the system.
+- To ensure the consistency and correctness of the checkpoints, the system can use different algorithms, such as the Chandy-Lamport algorithm, the Lai-Yang algorithm, or the Manetho algorithm.
+- These algorithms use different techniques, such as message logging, vector clocks, or dependency graphs, to capture the causal and temporal relationships among the events and states of the system.
+- These algorithms can also handle different types of failures, such as crash failures, omission failures, or Byzantine failures.
+- These algorithms can also trade off between different factors, such as the frequency and size of the checkpoints, the amount and type of the logged messages, the complexity and scalability of the coordination, and the recovery time and performance.

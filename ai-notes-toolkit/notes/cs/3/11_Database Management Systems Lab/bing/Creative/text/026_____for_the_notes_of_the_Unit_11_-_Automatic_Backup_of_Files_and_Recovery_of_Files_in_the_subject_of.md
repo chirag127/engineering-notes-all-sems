@@ -1,0 +1,22 @@
+### Unit 11 - Automatic Backup of Files and Recovery of Files in Database Management Systems Lab
+
+- Automatic backup is a process of creating copies of data and files at regular intervals without manual intervention. It can help protect data from loss, corruption, or disaster. 
+- Recovery is a process of restoring data and files from a backup to a database or a system. It can help resume normal operations after a failure, error, or disaster. 
+- Database management systems (DBMS) are software applications that store, manipulate, and access data in a structured way. DBMS often support backup and recovery features to ensure data availability, integrity, and security. 
+- Some of the benefits of automatic backup and recovery of files in DBMS are:
+  - It can reduce the risk of data loss due to human errors, hardware failures, malicious attacks, or natural disasters. 
+  - It can improve the recovery point objective (RPO), which is the maximum acceptable amount of data loss measured in time. 
+  - It can improve the recovery time objective (RTO), which is the maximum acceptable amount of time to restore the system after a disruption. 
+  - It can simplify the backup and recovery operations and reduce the workload of the database administrators (DBAs). 
+  - It can support different backup and recovery scenarios, such as online or offline backup, full or incremental backup, point-in-time recovery, or recovery to a specific backup or snapshot.  
+- Some of the challenges of automatic backup and recovery of files in DBMS are:
+  - It can consume a lot of storage space, network bandwidth, and system resources. 
+  - It can affect the performance and availability of the database and the system during the backup and recovery processes. 
+  - It can require extensive configuration and customization to suit the specific needs and requirements of the database and the system. 
+  - It can encounter errors or failures due to various factors, such as corrupted backups, incompatible formats, missing files, or insufficient permissions. 
+- Some of the best practices of automatic backup and recovery of files in DBMS are:
+  - Define a backup and recovery strategy that aligns with the business objectives and the service level agreements (SLAs). 
+  - Choose a suitable backup and recovery method and tool that matches the characteristics and features of the database and the system.  
+  - Test and verify the backup and recovery processes and procedures regularly and periodically. 
+  - Monitor and manage the backup and recovery activities and events and report any issues or anomalies. 
+  - Document and update the backup and recovery policies and guidelines and communicate them to the relevant stakeholders.

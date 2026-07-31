@@ -1,0 +1,25 @@
+### Routing in network layer
+
+- Routing is the process of finding the best possible path from the source host to the destination host in a network.
+- Routing is performed by a special device known as a router, which works at the network layer in the OSI model and internet layer in TCP/IP model.
+- A router forwards the packets based on the information available in the packet header and forwarding table.
+- Forwarding is the process of moving a packet from one interface of a router to another interface based on the destination address of the packet.
+- Routing and forwarding are two different functions of the network layer, but they are closely related.
+- Routing algorithms are used to determine the best route for a packet, and they can be classified into two types: static and dynamic .
+  - Static routing algorithms use fixed tables that are manually configured or rarely changed. They are simple, fast, and reliable, but they cannot adapt to network changes or failures.
+  - Dynamic routing algorithms use protocols that automatically update the routing tables based on network conditions, such as traffic, congestion, or link failures. They are more flexible and robust, but they require more computation and communication overhead.
+- Some examples of dynamic routing protocols are RIP, OSPF, EIGRP, BGP, etc.
+- Routing can also be classified into two types: unicast and multicast.
+  - Unicast routing is the process of sending a packet from one source to one destination. It is the most common type of routing in the internet.
+  - Multicast routing is the process of sending a packet from one source to multiple destinations. It is used for applications that require efficient data distribution, such as video conferencing, online gaming, or streaming.
+- Some examples of multicast routing protocols are DVMRP, PIM, MOSPF, etc.
+- Routing can also be classified into two types: intra-domain and inter-domain.
+  - Intra-domain routing is the process of routing packets within a single network or autonomous system (AS). It is also known as interior gateway routing.
+  - Inter-domain routing is the process of routing packets between different networks or autonomous systems (ASes). It is also known as exterior gateway routing.
+- Some examples of intra-domain routing protocols are RIP, OSPF, EIGRP, etc.
+- Some examples of inter-domain routing protocols are BGP, EGP, etc.
+- Routing is one of the main functions of the network layer, which is the third layer in the OSI model and the second layer in the TCP/IP model .
+- The network layer is responsible for handling the routing and sending of data between different networks.
+- The network layer also provides other services, such as packetizing, addressing, error control, congestion control, etc .
+- The network layer uses protocols such as IP, ICMP, ARP, RARP, etc.
+- The network layer is also known as the internet layer in the TCP/IP model.

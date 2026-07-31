@@ -1,0 +1,27 @@
+### Planar graphs
+
+- A planar graph is a graph that can be drawn on a plane without any edges crossing .
+- A plane graph is a planar graph with a specific way of drawing it on the plane.
+- A planar graph can have different plane graphs, depending on how it is drawn.
+- A plane graph divides the plane into regions called faces.
+- The number of faces of a plane graph depends on how it is drawn, not on the planar graph itself.
+- A planar graph has some properties that relate the number of vertices, edges and faces, such as Euler's formula.
+- Euler's formula states that for any connected plane graph, the number of vertices (V), edges (E) and faces (F) satisfy the equation V - E + F = 2.
+- A planar graph is also called a 2D graph, since it can be drawn on a two-dimensional surface.
+- A planar graph is a special case of a surface graph, which is a graph that can be drawn on a surface without any edges crossing.
+- A surface graph can be drawn on a sphere, a torus, a Klein bottle, or any other surface.
+- A surface graph has a property called the genus, which is the number of holes in the surface.
+- A planar graph has a genus of zero, since it can be drawn on a sphere, which has no holes.
+- A non-planar graph is a graph that cannot be drawn on a plane without any edges crossing.
+- A non-planar graph can be drawn on a surface with a positive genus, such as a torus or a Klein bottle.
+- A non-planar graph has some properties that relate the number of vertices, edges and faces, such as the Euler characteristic.
+- The Euler characteristic is a generalization of Euler's formula, which states that for any connected surface graph, the number of vertices (V), edges (E) and faces (F) satisfy the equation V - E + F = 2 - 2g, where g is the genus of the surface.
+- A non-planar graph has a negative Euler characteristic, since it has a positive genus.
+- There are some criteria to determine whether a graph is planar or not, such as Kuratowski's theorem and Wagner's theorem.
+- Kuratowski's theorem states that a graph is planar if and only if it does not contain a subgraph that is homeomorphic to K5 (the complete graph on five vertices) or K3,3 (the complete bipartite graph on six vertices).
+- Wagner's theorem states that a graph is planar if and only if it does not have K5 or K3,3 as a minor.
+- A subgraph is a graph that is obtained by deleting some vertices and edges from a graph.
+- A homeomorphic graph is a graph that is obtained by replacing some edges with paths of two or more edges.
+- A minor is a graph that is obtained by deleting some vertices and edges and contracting some edges from a graph.
+- An edge contraction is an operation that merges two adjacent vertices into one and deletes the edge between them.
+- A planar graph has some applications in computer science, such as graph drawing, map coloring, network design, and VLSI design.

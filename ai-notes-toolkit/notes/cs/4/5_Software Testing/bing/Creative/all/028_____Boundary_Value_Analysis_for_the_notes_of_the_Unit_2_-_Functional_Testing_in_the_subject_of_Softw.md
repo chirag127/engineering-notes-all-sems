@@ -1,0 +1,28 @@
+# Boundary Value Analysis for the notes of the Unit 2 - Functional Testing in the subject of Software Testing
+
+- Boundary value analysis (BVA) is a software testing technique in which tests are designed to include representatives of boundary values in a range.
+- Boundary values are the values at the edges or limits of an equivalence class, such as the minimum, maximum, or just inside or outside the boundaries.
+- The idea behind BVA is that the behavior of the software is more likely to be incorrect at the boundaries than within the equivalence classes.
+- BVA can help to find errors and bugs that may occur due to incorrect handling of boundary conditions, such as off-by-one errors, overflow errors, or boundary violations.
+- BVA can be applied to both input and output values of the software, as well as internal values such as loop counters, array indices, or flags.
+- BVA can be used in combination with equivalence partitioning (EP) to test the boundaries between the equivalence classes.
+- BVA can be performed using the following steps:
+  - Identify the equivalence classes and their boundaries for the input and output values of the software.
+  - Select test cases that cover the minimum and maximum values of each equivalence class, as well as values just above and below the boundaries.
+  - Execute the test cases and verify the expected results.
+  - Repeat the process for internal values if applicable.
+- BVA can be illustrated using the following example:
+  - Suppose the software accepts an integer input between 1 and 1000, and outputs the square of the input.
+  - The equivalence classes and their boundaries are:
+    - Valid class: 1 to 1000, with boundaries 1 and 1000.
+    - Invalid class: less than 1 or greater than 1000, with boundaries 0 and 1001.
+  - The test cases using BVA are:
+    - Test case 1: input = 1, output = 1 (minimum valid value).
+    - Test case 2: input = 1000, output = 1000000 (maximum valid value).
+    - Test case 3: input = 0, output = error message (minimum invalid value).
+    - Test case 4: input = 1001, output = error message (maximum invalid value).
+    - Test case 5: input = 2, output = 4 (just above the minimum valid value).
+    - Test case 6: input = 999, output = 998001 (just below the maximum valid value).
+    - Test case 7: input = -1, output = error message (just below the minimum invalid value).
+    - Test case 8: input = 1002, output = error message (just above the maximum invalid value).
+- BVA can help to improve the quality and coverage of software testing by focusing on the most critical and error-prone areas of the software.

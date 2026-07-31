@@ -1,0 +1,30 @@
+### Architectural Design for the notes of the Unit 3 - Software Design in the subject of Software Engineering
+
+- Architectural design is the process of defining a collection of hardware and software components and their interfaces to establish the framework for the development of a computer system.
+- Architectural design is of crucial importance in software engineering during which the essential requirements like reliability, cost, and performance are dealt with.
+- Architectural design is about decomposing the system into interacting components. It is expressed as a block diagram defining an overview of the system structure, features of the components, and how these components communicate with each other to share data.
+- Architectural design is influenced by the following factors:
+  - The type of system being developed, such as embedded, distributed, real-time, etc.
+  - The quality attributes of the system, such as performance, security, usability, etc.
+  - The business and technical constraints of the system, such as budget, schedule, standards, etc.
+  - The availability of reusable components or frameworks that can be integrated into the system.
+- Architectural design involves the following steps:
+  - Identify the major components of the system and their responsibilities.
+  - Define the relationships and interactions among the components.
+  - Specify the interfaces and protocols for communication and coordination among the components.
+  - Evaluate the architectural design for quality attributes and trade-offs.
+  - Document the architectural design using appropriate notations and diagrams.
+- Architectural design can be represented using different views or perspectives, such as:
+  - Logical view: shows the functional decomposition of the system into modules, classes, or objects.
+  - Process view: shows the concurrency and synchronization aspects of the system, such as threads, processes, or tasks.
+  - Development view: shows the organization and configuration of the system components in the development environment, such as files, folders, or packages.
+  - Physical view: shows the deployment and distribution of the system components in the runtime environment, such as nodes, devices, or networks.
+  - Scenario view: shows the dynamic behavior of the system components in response to specific events or use cases.
+- Architectural design can be guided by different patterns or styles, such as:
+  - Layered architecture: organizes the system components into hierarchical layers, each of which provides a set of services to the upper layers and relies on the services of the lower layers.
+  - Client-server architecture: divides the system components into two types, clients and servers, where clients request services from servers and servers provide services to clients.
+  - Peer-to-peer architecture: allows the system components to act as both clients and servers, where they can request and provide services to each other without a central coordinator.
+  - Pipe and filter architecture: models the system components as filters that process data streams and pass them to other filters through pipes.
+  - Broker architecture: introduces a broker component that mediates the communication and coordination among the other components, which are unaware of each other's existence or location.
+  - Model-view-controller architecture: separates the system components into three types, model, view, and controller, where model represents the data and logic of the system, view represents the user interface of the system, and controller handles the user input and updates the model and view accordingly.
+  - Microservices architecture: decomposes the system components into small, independent, and loosely coupled services that communicate with each other through lightweight protocols.

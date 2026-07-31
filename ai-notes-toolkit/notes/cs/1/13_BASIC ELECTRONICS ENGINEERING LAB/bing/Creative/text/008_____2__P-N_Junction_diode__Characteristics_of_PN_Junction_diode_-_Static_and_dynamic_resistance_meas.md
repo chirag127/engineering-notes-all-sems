@@ -1,0 +1,35 @@
+### 2. P-N Junction diode: Characteristics of PN Junction diode - Static and dynamic resistance measurement from graph.
+
+- A P-N junction diode is a semiconductor device that consists of a P-type and an N-type region joined together by a metallurgical junction.
+- The P-type region has a high concentration of holes (positive charge carriers) and the N-type region has a high concentration of electrons (negative charge carriers).
+- The junction forms a depletion region, where the charge carriers are depleted due to diffusion and recombination, creating an electric field that opposes further diffusion.
+- The depletion region acts as a potential barrier that prevents the flow of current in the absence of an external voltage.
+- When an external voltage is applied across the diode, the current flow depends on the polarity and magnitude of the voltage.
+- If the P-type region is connected to the positive terminal of the voltage source and the N-type region is connected to the negative terminal, the diode is said to be forward biased.
+- In this case, the external voltage reduces the potential barrier and allows the charge carriers to cross the junction, creating a forward current.
+- The forward current increases exponentially with the increase in the forward voltage, until the diode reaches saturation.
+- If the P-type region is connected to the negative terminal of the voltage source and the N-type region is connected to the positive terminal, the diode is said to be reverse biased.
+- In this case, the external voltage increases the potential barrier and prevents the charge carriers from crossing the junction, creating a negligible reverse current.
+- The reverse current remains almost constant with the increase in the reverse voltage, until the diode reaches breakdown.
+- The breakdown is a phenomenon where the diode starts to conduct a large reverse current due to the generation of electron-hole pairs by the high electric field in the depletion region.
+- The characteristics of a P-N junction diode can be represented by a graph of current (I) versus voltage (V), called the I-V curve or the V-I curve.
+- The I-V curve shows the behavior of the diode in different regions of operation: forward bias, reverse bias, and breakdown.
+- The static resistance of a diode is the ratio of the applied voltage to the resulting current at a given point on the I-V curve.
+- The static resistance can be calculated by using the formula: R = V/I
+- The static resistance of a diode varies with the applied voltage and the polarity of the bias.
+- The static resistance of a diode is low in the forward bias region and high in the reverse bias region.
+- The dynamic resistance of a diode is the ratio of the change in voltage to the change in current at a given point on the I-V curve.
+- The dynamic resistance can be calculated by using the formula: r = ΔV/ΔI
+- The dynamic resistance of a diode is a measure of how the diode responds to small changes in the applied voltage around a given operating point.
+- The dynamic resistance of a diode is inversely proportional to the slope of the I-V curve at that point.
+- The dynamic resistance of a diode is also low in the forward bias region and high in the reverse bias region, but it decreases with the increase in the forward voltage and increases with the increase in the reverse voltage.
+- The static and dynamic resistance of a diode can be measured from the graph of the I-V curve by using a ruler and a calculator.
+- To measure the static resistance of a diode at a given point on the I-V curve, the following steps can be followed:
+  - Locate the point on the graph and note down the corresponding values of voltage (V) and current (I).
+  - Use the formula R = V/I to calculate the static resistance of the diode at that point.
+  - For example, if the point has a voltage of 0.6 V and a current of 10 mA, the static resistance of the diode at that point is R = 0.6/0.01 = 60 Ω.
+- To measure the dynamic resistance of a diode at a given point on the I-V curve, the following steps can be followed:
+  - Locate the point on the graph and draw a tangent line to the curve at that point.
+  - Choose two points on the tangent line that are close to the original point and note down the corresponding values of voltage (V1 and V2) and current (I1 and I2).
+  - Use the formula r = ΔV/ΔI to calculate the dynamic resistance of the diode at that point, where ΔV = V2 - V1 and ΔI = I2 - I1.
+  - For example, if the point has a voltage of

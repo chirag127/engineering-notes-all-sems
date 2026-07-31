@@ -1,0 +1,26 @@
+### Performance Metrics in Scheduling Models for Open Source RTOS
+
+- Performance metrics are the criteria used to evaluate and compare the performance of real-time operating systems (RTOS) in terms of their ability to meet the timing constraints and resource requirements of real-time applications.
+- Some of the common performance metrics for RTOS scheduling models are :
+  - **Memory**: The amount of ROM and RAM needed by the RTOS kernel and the application, and how it is affected by the configuration and options of the RTOS.
+  - **Latency**: The delay between an event occurrence and the response of the RTOS to that event, such as interrupt latency, context switch latency, and task dispatch latency.
+  - **Throughput**: The number of tasks or operations that can be completed by the RTOS in a given time interval, such as task execution rate, task completion rate, and task utilization rate.
+  - **Jitter**: The variation in the timing of the RTOS events, such as task arrival time, task start time, task finish time, and task deadline.
+  - **Reliability**: The ability of the RTOS to handle errors and faults without compromising the system functionality and performance, such as fault tolerance, fault recovery, and fault prevention.
+  - **Scalability**: The ability of the RTOS to adapt to the changes in the system workload and resources, such as task priority, task dependency, task synchronization, and task migration.
+- Open source RTOS are RTOS that are freely available and modifiable by the users, and that have a community of developers and users that contribute to their improvement and maintenance.
+- Some of the advantages of open source RTOS are :
+  - **Cost**: Open source RTOS are free of charge and do not require any license fees or royalties to use them.
+  - **Flexibility**: Open source RTOS can be customized and modified according to the specific needs and preferences of the users and the applications.
+  - **Quality**: Open source RTOS are subject to peer review and testing by a large and diverse community of developers and users, which can enhance their quality and reliability.
+  - **Innovation**: Open source RTOS can benefit from the collective creativity and expertise of the community, which can lead to new features and improvements.
+- Some of the disadvantages of open source RTOS are :
+  - **Support**: Open source RTOS may not have a dedicated or reliable support service, and the users may have to rely on the community or their own skills to solve any issues or problems.
+  - **Documentation**: Open source RTOS may not have a comprehensive or consistent documentation, and the users may have to search for the relevant information from various sources or learn by trial and error.
+  - **Compatibility**: Open source RTOS may not be compatible with some hardware platforms or software tools, and the users may have to deal with the integration and interoperability issues.
+  - **Security**: Open source RTOS may have some vulnerabilities or bugs that can compromise the security and privacy of the system and the data, and the users may have to update and patch the RTOS regularly.
+- Some of the examples of open source RTOS are :
+  - **FreeRTOS**: A popular and widely used open source RTOS that supports multiple architectures and platforms, and that provides a simple and lightweight kernel with basic features such as preemptive or cooperative multitasking, task priority, task synchronization, and memory management.
+  - **Linux**: A general-purpose open source operating system that can be configured and modified to run as an RTOS, and that provides a rich and powerful kernel with advanced features such as interrupt handling, scheduling algorithms, inter-process communication, device drivers, and file systems.
+  - **Zephyr**: A new and emerging open source RTOS that aims to support the Internet of Things (IoT) applications, and that provides a scalable and modular kernel with features such as event-driven programming, power management, network protocols, and security mechanisms.
+  - **RIOT**: Another open source RTOS that targets the IoT applications, and that provides a flexible and efficient kernel with features such as real-time capabilities, multi-threading, message passing, timers, and sensors support.

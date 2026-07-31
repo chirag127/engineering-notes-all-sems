@@ -1,0 +1,9 @@
+### Testing for Functionality
+
+- Testing for functionality is the process of verifying that a software system performs the functions that it is intended to do, according to the requirements and specifications.
+- Testing for functionality can be done at different levels of software development, such as unit testing, integration testing, system testing, and acceptance testing.
+- Testing for functionality can involve different types of techniques, such as black-box testing, white-box testing, and grey-box testing.
+- Black-box testing is a technique that focuses on the inputs and outputs of the software system, without considering its internal structure or logic. Black-box testing can be done by using test cases derived from the requirements, specifications, or user scenarios.
+- White-box testing is a technique that examines the internal structure and logic of the software system, by using the source code or design documents. White-box testing can be done by using test cases derived from the code coverage, control flow, or data flow criteria.
+- Grey-box testing is a technique that combines both black-box and white-box testing, by using some knowledge of the internal structure and logic of the software system, along with the inputs and outputs. Grey-box testing can be done by using test cases derived from the interface, boundary, or error conditions.
+- Testing for functionality can help to detect and correct functional errors, such as incorrect calculations, incorrect data processing, incorrect user interface, or incorrect system integration. Testing for functionality can also help to ensure that the software system meets the expectations and needs of the users and stakeholders.

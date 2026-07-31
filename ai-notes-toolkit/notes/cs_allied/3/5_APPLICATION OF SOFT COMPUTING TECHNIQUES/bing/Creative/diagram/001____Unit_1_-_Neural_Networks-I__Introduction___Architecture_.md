@@ -1,0 +1,12 @@
+## Unit 1 - Neural Networks-I (Introduction & Architecture)
+
+- Neural networks are computational models that are inspired by the structure and function of biological neurons and the brain.
+- Neural networks can learn from data and perform tasks such as classification, regression, clustering, dimensionality reduction, generative modeling, etc.
+- Neural networks consist of artificial neurons or nodes that are connected by weighted links. Each node can receive inputs from other nodes or external sources, and produce an output based on a nonlinear activation function.
+- Neural networks are organized into layers, which can be input, output, or hidden layers. The input layer receives the data, the output layer produces the final result, and the hidden layers perform intermediate computations.
+- Neural networks can have different architectures, depending on the number, type, and arrangement of layers and nodes. Some common architectures are:
+
+  - Feedforward neural networks: The nodes are arranged in successive layers, and the connections are directed from the input layer to the output layer. There are no cycles or feedback loops in the network. Feedforward neural networks are the simplest and most widely used type of neural networks.
+  - Recurrent neural networks: The nodes are arranged in layers, but the connections can form cycles or feedback loops within or across layers. Recurrent neural networks can store and process temporal or sequential information, such as natural language or speech.
+  - Convolutional neural networks: The nodes are arranged in three-dimensional layers, and the connections are local and sparse. Convolutional neural networks can exploit the spatial structure and locality of images or other high-dimensional data, and perform feature extraction and detection.
+  - Generative adversarial networks: The network consists of two sub-networks, a generator and a discriminator, that compete with each other in a game-like scenario. The generator tries to produce realistic samples from a latent space, and the discriminator tries to distinguish between real and fake samples. Generative adversarial networks can generate novel and diverse data, such as images or text.

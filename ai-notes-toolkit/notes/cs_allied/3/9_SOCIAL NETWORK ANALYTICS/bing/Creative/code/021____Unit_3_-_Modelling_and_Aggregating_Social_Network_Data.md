@@ -1,0 +1,22 @@
+## Unit 3 - Modelling and Aggregating Social Network Data
+
+In this unit, you will learn how to:
+
+- Represent social networks as graphs and matrices
+- Analyze the structure and properties of social networks using graph theory and linear algebra
+- Apply centrality measures, clustering algorithms, and community detection methods to identify important nodes and groups in social networks
+- Aggregate social network data using summary statistics, histograms, and boxplots
+- Visualize social network data using network diagrams, heatmaps, and chord diagrams
+
+Some of the key concepts and techniques covered in this unit are:
+
+- Graphs: A graph is a mathematical object that consists of a set of nodes (or vertices) and a set of edges (or links) that connect pairs of nodes. Graphs can be used to model social networks, where nodes represent actors (such as individuals, organizations, or countries) and edges represent relationships (such as friendship, collaboration, or trade).
+- Matrices: A matrix is a rectangular array of numbers arranged in rows and columns. Matrices can be used to store and manipulate graph data, such as the adjacency matrix (which indicates whether two nodes are connected by an edge) and the degree matrix (which counts the number of edges incident to each node).
+- Graph theory: Graph theory is a branch of mathematics that studies the properties and patterns of graphs. Some of the graph theory concepts and methods relevant to social network analysis are: degree, path, cycle, connected component, diameter, shortest path, distance, eccentricity, radius, betweenness, closeness, and eigenvector centrality; degree distribution, clustering coefficient, assortativity, and transitivity; spanning tree, minimum cut, and maximum flow; and graph partitioning, modularity, and Louvain method.
+- Linear algebra: Linear algebra is a branch of mathematics that deals with vector spaces, matrices, and linear equations. Some of the linear algebra concepts and techniques useful for social network analysis are: vector, scalar, dot product, norm, and angle; matrix multiplication, transpose, inverse, and determinant; eigenvalue, eigenvector, and spectral decomposition; and singular value decomposition and principal component analysis.
+- Summary statistics: Summary statistics are numerical values that describe the main features of a data set, such as the mean, median, mode, standard deviation, variance, skewness, and kurtosis. Summary statistics can be used to measure the central tendency, dispersion, and shape of the distribution of social network data, such as the degree, centrality, and clustering of nodes.
+- Histograms: A histogram is a graphical display of the frequency or relative frequency of data values in intervals or bins. Histograms can be used to visualize the distribution of social network data, such as the degree, centrality, and clustering of nodes.
+- Boxplots: A boxplot is a graphical display of the five-number summary of a data set, which consists of the minimum, first quartile, median, third quartile, and maximum. Boxplots can be used to compare the distribution of social network data across different groups or categories, such as the degree, centrality, and clustering of nodes by node attribute or network type.
+- Network diagrams: A network diagram is a graphical representation of a graph, where nodes are drawn as points or shapes and edges are drawn as lines or curves. Network diagrams can be used to illustrate the structure and patterns of social networks, such as the connectivity, centrality, and clustering of nodes and the density, reciprocity, and homophily of edges.
+- Heatmaps: A heatmap is a graphical display of a matrix, where the values in the matrix are represented by colors or shades. Heatmaps can be used to visualize the adjacency matrix of a graph, where the colors indicate the presence or absence of edges between nodes or the weight or strength of edges between nodes.
+- Chord diagrams: A chord diagram is a graphical display of a matrix, where the rows and columns of the matrix are arranged along a circle and the values in the matrix are represented by arcs or chords connecting the corresponding rows and columns. Chord diagrams can be used to visualize the flow or exchange of resources or information between nodes in a network, such as the trade or communication between countries or the citation or collaboration between authors.

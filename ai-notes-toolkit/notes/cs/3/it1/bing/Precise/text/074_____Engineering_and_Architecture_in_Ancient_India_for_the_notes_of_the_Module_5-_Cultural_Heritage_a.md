@@ -1,0 +1,7 @@
+### Engineering and Architecture in Ancient India
+
+- In Ancient India, Architecture and Civil Engineering was known as **Sthapatya-Kala**, literal translation of which means the Art of Constructing (something).
+- During the Periods of Kushan Empire and Maurya Empires, the Indian Architecture and Civil Engineering reached to Regions like Baluchistan and Afghanistan.
+- Architects and Engineers from Ancient India has derived principles of construction and architecture based on experience, observation of natural phenomena and considering social and cultural aspect of India.
+- Indians were familiar with **Sthapaty Kala** i.e., art of construction. The knowledge of civil engineering and architecture acquired by Harappan people is undisputed. The knowledge of construction and its use once again caught momentum in later vedic period and finally culminated into second urban revolution in sixth century B.C..
+- Hindu temple architecture in the Indian subcontinent continued to develop in North India and South India. **Nagara style** developed in North India where a Hindu temple incorporated **Shikhara** as its predominant architectural element whereas in southern India **Vimana** was used instead.

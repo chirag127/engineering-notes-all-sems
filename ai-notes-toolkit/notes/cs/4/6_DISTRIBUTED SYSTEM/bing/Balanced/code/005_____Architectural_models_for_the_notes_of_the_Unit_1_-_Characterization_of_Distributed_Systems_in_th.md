@@ -1,0 +1,16 @@
+### Architectural models for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Architectural models are system models that describe the organization of components across the network and their interrelationship.
+- Architectural models can help to understand the trade-offs and challenges of distributed systems, such as scalability, performance, reliability, security, and consistency.
+- Some common architectural models for distributed systems are:
+
+  - Client-server architecture: A model where one or more servers provide services to multiple clients that request and consume them. The servers and clients can be distributed across different machines and communicate over a network. This model forms the base for multi-tier architectures, where different layers of servers provide different functionalities, such as presentation, application, and data.
+  - Broker architecture: A model where a broker component acts as an intermediary between clients and servers, hiding the details of communication and location from both parties. The broker can provide services such as naming, routing, load balancing, security, and fault tolerance. An example of a broker architecture is the Common Object Request Broker Architecture (CORBA), which allows objects written in different languages and running on different platforms to interact.
+  - Service-oriented architecture (SOA): A model where services are loosely coupled and can be composed and reused to create complex applications. Services are self-contained, self-describing, and platform-independent units of functionality that communicate using standard protocols, such as SOAP or REST. An example of a service-oriented architecture is the web, where web services can be accessed through URLs and exchanged using XML or JSON.
+  - Peer-to-peer architecture: A model where nodes in the network act as both clients and servers, sharing resources and collaborating without a central authority. Peer-to-peer architectures can be classified into structured and unstructured, depending on how the nodes are organized and how they locate each other. An example of a peer-to-peer architecture is BitTorrent, which allows users to download and upload files in a distributed manner.
+  - Distributed ledger architecture: A model where a shared and synchronized database is maintained by a network of nodes that follow a consensus protocol to validate transactions and prevent double-spending. Distributed ledgers can be public or private, depending on who can access and participate in the network. An example of a distributed ledger architecture is blockchain, which underlies cryptocurrencies such as Bitcoin and Ethereum.
+
+: https://www.thecode11.com/2022/06/architectural-model-in-distributed-system.html
+: https://www.se.rit.edu/~se442/slides/class/02-SystemModels-Architecture.pdf
+: https://www.tutorialspoint.com/software_architecture_design/distributed_architecture.htm
+: https://www.techtarget.com/searchnetworking/tip/A-guide-to-distributed-network-architectures

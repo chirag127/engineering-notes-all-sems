@@ -1,0 +1,13 @@
+### Temporal Consistency
+
+- Temporal consistency is a property of real-time systems that ensures that the data stored in the database reflects the current state of the physical environment.
+- Temporal consistency is different from logical consistency, which is a property of conventional database systems that ensures that the data stored in the database satisfies the integrity constraints and the transaction isolation levels.
+- Temporal consistency is important for real-time systems because they need to process data that is time-sensitive and relevant to the current situation. If the data is outdated or inaccurate, it may lead to incorrect decisions or actions that may have serious consequences.
+- Temporal consistency can be measured by the temporal validity and the temporal accuracy of the data.
+  - Temporal validity is the degree to which the data stored in the database is within a predefined freshness interval from the current time. Data that is older than the freshness interval is considered invalid and should not be used by real-time transactions.
+  - Temporal accuracy is the degree to which the data stored in the database matches the actual value of the physical entity that it represents. Data that has a large deviation from the actual value is considered inaccurate and may cause errors or failures in real-time transactions.
+- Temporal consistency can be maintained by using various techniques, such as periodic updates, triggered updates, imprecise computation, and temporal caching  .
+  - Periodic updates are updates that are performed at regular intervals to refresh the data stored in the database. This technique can ensure temporal validity, but it may incur high overhead and may not capture the changes in the physical environment in a timely manner.
+  - Triggered updates are updates that are performed when a certain condition is met, such as a change in the physical entity or a request from a real-time transaction. This technique can ensure temporal accuracy, but it may cause contention and conflicts among concurrent transactions.
+  - Imprecise computation is a technique that allows real-time transactions to use data that is not temporally consistent, but has a bounded error. This technique can reduce the overhead and the contention of maintaining temporal consistency, but it may compromise the quality and the correctness of the results.
+  - Temporal caching is a technique that stores the data that is frequently accessed by real-time transactions in a local memory, and updates it periodically or on demand. This technique can improve the performance and the availability of the data, but it may introduce inconsistency and coherence issues among different caches.

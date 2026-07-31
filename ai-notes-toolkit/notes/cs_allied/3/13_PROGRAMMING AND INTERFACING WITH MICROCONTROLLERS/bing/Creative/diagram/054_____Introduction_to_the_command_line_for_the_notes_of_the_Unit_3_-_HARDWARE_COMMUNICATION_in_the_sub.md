@@ -1,0 +1,23 @@
+### Introduction to the command line
+
+- The command line is a text-based interface that allows users to interact with the operating system and other programs by typing commands.
+- The command line can also be called a terminal, a console, a shell, or a command prompt, depending on the context and the operating system.
+- The command line offers several advantages over graphical user interfaces (GUIs), such as:
+  - Faster and more efficient execution of tasks that can be automated or scripted.
+  - Greater control and flexibility over the system and its configuration.
+  - Access to more features and options that may not be available or exposed in GUIs.
+  - Ability to work remotely and securely over a network connection.
+- The command line also has some disadvantages, such as:
+  - Steeper learning curve and higher complexity for beginners and casual users.
+  - Higher risk of errors and damage if commands are typed incorrectly or without proper understanding.
+  - Less user-friendly and intuitive than GUIs, especially for graphical or multimedia applications.
+- The command line consists of three main components:
+  - The prompt, which indicates that the command line is ready to accept input from the user. The prompt usually shows the current user, the current directory, and a symbol such as $ or >.
+  - The command, which is the name of the program or utility that the user wants to run, followed by any arguments or options that modify its behavior. The command and its arguments are separated by spaces.
+  - The output, which is the result or feedback of the command execution. The output can be displayed on the screen, redirected to a file, or piped to another command for further processing.
+- The command line follows a syntax and a set of rules that define how commands are interpreted and executed. Some of the common rules are:
+  - Commands are case-sensitive, meaning that upper and lower case letters are treated differently. For example, ls and LS are different commands.
+  - Commands can be abbreviated or aliased to save typing and improve efficiency. For example, ls -l can be shortened to ll if an alias is defined.
+  - Commands can be combined or chained using operators such as ;, &&, ||, |, and >. For example, ls -l | grep txt > files.txt will list all the files in the current directory that contain txt in their name and save the output to a file called files.txt.
+  - Commands can be recalled or edited using keyboard shortcuts such as arrow keys, Ctrl+R, and Tab. For example, pressing the up arrow key will show the previous command entered by the user.
+  - Commands can be customized and extended using variables, functions, and scripts. For example, PATH is a variable that stores the directories where the command line looks for executable files.

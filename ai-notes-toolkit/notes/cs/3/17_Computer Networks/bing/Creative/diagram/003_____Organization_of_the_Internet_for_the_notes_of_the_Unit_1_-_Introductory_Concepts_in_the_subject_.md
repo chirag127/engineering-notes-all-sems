@@ -1,0 +1,12 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on the topic of organization of the internet for the unit 1 - introductory concepts in the subject of computer networks.
+
+### Organization of the Internet
+
+- The internet is the world's largest computer network, which is a group of interconnected computing devices capable of sending or receiving data.
+- The internet consists of many smaller networks, such as local area networks (LANs), wide area networks (WANs), and metropolitan area networks (MANs), that are connected by routers, switches, and other devices.
+- The internet uses a set of protocols, such as the internet protocol (IP), the transmission control protocol (TCP), and the hypertext transfer protocol (HTTP), to enable communication and data exchange among different devices and applications.
+- The internet is organized into different layers, such as the physical layer, the data link layer, the network layer, the transport layer, the application layer, and the presentation layer, that perform different functions and have different standards and protocols.
+- The internet is also organized into different domains, such as the top-level domains (TLDs), the second-level domains (SLDs), and the subdomains, that indicate the type and location of the websites and servers.
+- The internet is controlled and regulated by various organizations, such as the Institute of Electrical and Electronics Engineers (IEEE), the Internet Corporation for Assigned Names and Numbers (ICANN), the Internet Engineering Task Force (IETF), and the World Wide Web Consortium (W3C), that develop and maintain the standards, protocols, and policies for the internet .
+- The internet is accessed and navigated by different users, such as individuals, businesses, governments, and educational institutions, that use different devices, such as computers, tablets, phones, and smart sensors, and different services, such as internet service providers (ISPs), web browsers, search engines, and social media platforms, to connect to and interact with the internet .
+- The internet is shaped by different factors, such as the network architecture, the network topology, the network hardware, the network software, the transmission media, the network security, and the network performance, that determine how the internet is designed, implemented, and operated.

@@ -1,0 +1,11 @@
+### Sources of the IoT
+
+The Internet of Things (IoT) is the network of physical objects that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet. The sources of the IoT are the devices and sensors that generate data and communicate with each other or with the cloud. Some of the sources of the IoT are:
+
+- **Temperature, flow, pressure and humidity sensors**: These sensors are used to monitor various environmental parameters, such as the temperature of a room, the flow of water, the pressure of a gas, or the humidity of the air. They can be used for applications such as smart home, smart agriculture, smart city, or smart industry.
+- **Video surveillance cameras**: These cameras are used to capture and transmit video data over the internet. They can be used for applications such as security, traffic management, or facial recognition.
+- **Manufacturing machinery and devices**: These devices are used to control and optimize the production processes in factories. They can be used for applications such as predictive maintenance, quality control, or energy efficiency.
+- **Wearable devices**: These devices are worn by humans or animals and can measure various biometric data, such as heart rate, blood pressure, or activity level. They can be used for applications such as health care, fitness, or entertainment.
+- **Smartphones and tablets**: These devices are used to access and interact with the internet and other IoT devices. They can be used for applications such as navigation, social media, or gaming.
+
+These are some of the examples of the sources of the IoT, but there are many more. The IoT is constantly evolving and new sources of data are being added every day. The IoT has the potential to deliver social and economic benefits to various sectors and regions, such as sustainable agriculture, water quality and use, healthcare, industrialization, and environmental management, among others.

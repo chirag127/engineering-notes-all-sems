@@ -1,0 +1,24 @@
+# Scripts for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+
+- Augmented reality (AR) and virtual reality (VR) are immersive technologies that create realistic and interactive experiences for users.
+- AR and VR require different software technologies to develop applications that can run on various devices and platforms.
+- Some of the software technologies that are commonly used for AR and VR development are:
+
+  - **Programming languages**: These are the languages that developers use to write the code for the logic, functionality, and user interface of the AR and VR applications. Some of the popular programming languages for AR and VR are:
+
+    - **C#**: C# is a general-purpose, object-oriented language that is widely used for developing AR and VR applications with Unity, a cross-platform game engine that supports various AR and VR platforms and devices.
+    - **C++**: C++ is a low-level, compiled language that offers high performance and control over the hardware. C++ is used for developing AR and VR applications with Unreal Engine, a powerful game engine that provides advanced graphics and features for immersive experiences.
+    - **JavaScript**: JavaScript is a scripting language that runs on web browsers and can be used for creating web-based AR and VR applications. JavaScript can be used with frameworks such as A-Frame, Three.js, and Babylon.js that provide 3D rendering and interaction capabilities for AR and VR.
+    - **Java**: Java is a high-level, platform-independent language that can be used for developing AR and VR applications for Android devices. Java can be used with Android Studio, an integrated development environment (IDE) that provides tools and libraries for creating AR and VR applications with Google ARCore and Google VR SDK.
+    - **Swift**: Swift is a modern, expressive language that can be used for developing AR and VR applications for iOS devices. Swift can be used with Xcode, an IDE that provides tools and libraries for creating AR and VR applications with Apple ARKit and Apple Metal.
+
+  - **Game engines**: These are software frameworks that provide the core functionalities and features for creating AR and VR applications, such as rendering, physics, audio, input, networking, and scripting. Some of the popular game engines for AR and VR are:
+
+    - **Unity**: Unity is a cross-platform game engine that supports various AR and VR platforms and devices, such as Oculus, HTC Vive, Microsoft HoloLens, Google Cardboard, and more. Unity provides a graphical user interface (GUI) for designing and testing AR and VR applications, as well as a scripting system that allows developers to use C# or JavaScript for coding. Unity also offers various assets and packages for AR and VR development, such as Unity AR Foundation, Unity XR Interaction Toolkit, Unity MARS, and more.
+    - **Unreal Engine**: Unreal Engine is a powerful game engine that provides advanced graphics and features for creating immersive AR and VR experiences, such as ray tracing, dynamic lighting, realistic physics, and more. Unreal Engine supports various AR and VR platforms and devices, such as Oculus, HTC Vive, Microsoft HoloLens, Magic Leap, and more. Unreal Engine provides a visual scripting system called Blueprint that allows developers to create logic and functionality without coding, as well as a C++ API for more control and customization. Unreal Engine also offers various assets and plugins for AR and VR development, such as Unreal Engine VR Template, Unreal Engine AR Template, Unreal Engine Mixed Reality Capture, and more.
+    - **WebXR**: WebXR is a web standard that enables web browsers to support AR and VR applications. WebXR provides a JavaScript API that allows developers to access the features and capabilities of the AR and VR devices, such as tracking, rendering, input, and output. WebXR can be used with frameworks such as A-Frame, Three.js, and Babylon.js that provide 3D rendering and interaction capabilities for AR and VR.
+
+  - **Software development kits (SDKs)**: These are collections of tools and libraries that provide specific functionalities and features for developing AR and VR applications for a particular platform or device. Some of the popular SDKs for AR and VR are:
+
+    - **Google ARCore**: Google ARCore is an SDK that enables AR development for Android and iOS devices. Google ARCore provides features such as environmental understanding, motion tracking, light estimation, and cloud anchors that allow developers to create AR applications that can interact with the real world.
+    - **Google VR SDK**: Google VR SDK is an SDK that enables VR development for Android and

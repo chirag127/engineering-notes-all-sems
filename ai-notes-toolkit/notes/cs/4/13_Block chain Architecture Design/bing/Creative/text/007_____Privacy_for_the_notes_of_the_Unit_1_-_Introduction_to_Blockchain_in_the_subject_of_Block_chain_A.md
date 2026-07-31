@@ -1,0 +1,31 @@
+### Privacy for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+- Privacy is the ability to control the access and use of one's personal information.
+- Privacy in blockchains is rather complicated as it contradicts with some highly praised properties of blockchain such as immutability.
+- Immutability is considered a cornerstone of blockchains’ security and, therefore, an indisputable property according to which transactional blockchain data cannot be edited nor deleted.
+- However, immutability may pose challenges for privacy compliance, such as the right to be forgotten or the right to rectification under the General Data Protection Regulation (GDPR).
+- A key aspect of privacy in blockchains is the use of private and public keys .
+- Blockchain systems use asymmetric cryptography to secure transactions between users .
+- In these systems, each user has a public and private key .
+- These keys are random strings of numbers and are cryptographically related .
+- The public key is used to identify the user on the blockchain and to verify the authenticity of the transactions .
+- The private key is used to sign the transactions and to decrypt the data that is encrypted with the public key .
+- The private key should be kept secret and never shared with anyone .
+- The public key can be seen as a pseudonym that protects the real identity of the user .
+- However, pseudonymity is not the same as anonymity, and there are ways to link the public key to the real identity of the user, such as through network analysis, metadata, or third-party services .
+- Therefore, privacy in blockchains is not guaranteed by default and requires additional measures to enhance it .
+- There are different types of blockchains that offer different levels of privacy, such as public, private, or hybrid blockchains.
+- Public blockchains are open to anyone who wishes to join and participate in the network, such as Bitcoin or Ethereum.
+- Public blockchains are transparent and decentralized, but they also expose the transaction history and the balance of each user to anyone who can access the blockchain.
+- Private blockchains are restricted to a specific group of authorized participants, such as a consortium or an organization.
+- Private blockchains are more centralized and less transparent, but they also offer more control and privacy over the data and the transactions.
+- Hybrid blockchains are a combination of public and private blockchains, where some parts of the data or the transactions are public and some are private.
+- Hybrid blockchains aim to balance the trade-offs between transparency and privacy, security and scalability, and trust and efficiency.
+- There are also various techniques and tools that can enhance privacy in blockchains, such as encryption, zero-knowledge proofs, ring signatures, mixers, or privacy coins .
+- Encryption is the process of transforming data into an unreadable form that can only be decrypted with the corresponding key .
+- Encryption can be used to protect the confidentiality and the integrity of the data and the transactions on the blockchain .
+- Zero-knowledge proofs are a cryptographic method that allows one party to prove to another party that a statement is true without revealing any information beyond the validity of the statement .
+- Zero-knowledge proofs can be used to verify the correctness and the validity of the transactions on the blockchain without disclosing the details of the transactions, such as the sender, the receiver, or the amount .
+- Ring signatures are a cryptographic technique that allows a user to sign a message on behalf of a group of users without revealing which user in the group is the actual signer .
+- Ring signatures can be used to obfuscate the identity of the sender of a transaction on the blockchain by mixing the public keys of the sender with the public keys of other users in the network .
+- Mixers are services that pool and mix the transactions of different users on the blockchain to break the link between the sender and the receiver of the transactions[^2^

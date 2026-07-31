@@ -1,0 +1,10 @@
+#### Instance Methods in Networking
+
+- Instance methods are methods that belong to an object of a class and can access its instance variables and other instance methods directly.  
+- Instance methods are not stored on a per-instance basis, even with virtual methods. They are stored once in the class definition and shared by all instances of the class. 
+- Instance methods can also access class variables and class methods directly, which means they can use static members of the class without creating an object. 
+- Instance methods can be overridden by subclasses, which means they can provide different implementations for the same method name and parameters. This allows for polymorphism and dynamic binding. 
+- Instance methods are useful for performing operations that are specific to a particular object or that require the object's state. For example, an instance method of a network socket class might send or receive data using the socket's connection. 
+- Instance methods are invoked by using the dot (.) operator on an object reference, followed by the method name and arguments. For example, `socket.send(data)` would invoke the send method of the socket object with the data argument. 
+- Instance methods can be public, protected, private, or default, depending on the access modifier used in the method declaration. Public methods are accessible from any class, protected methods are accessible from subclasses and classes in the same package, private methods are accessible only from the same class, and default methods are accessible from classes in the same package. 
+- Instance methods can be abstract, final, synchronized, or native, depending on the modifier used in the method declaration. Abstract methods are methods that have no implementation and must be overridden by subclasses, final methods are methods that cannot be overridden by subclasses, synchronized methods are methods that are executed in a thread-safe manner, and native methods are methods that are implemented in a language other than Java.

@@ -1,0 +1,9 @@
+### 3-D Clipping
+
+- 3-D clipping is the process of removing objects or parts of objects that are outside the viewing volume or the region of interest in a 3-D scene.
+- The main purpose of 3-D clipping is to reduce the computational effort and improve the rendering performance by discarding invisible or irrelevant objects .
+- 3-D clipping can be done in two basic steps:
+  - Discard objects that are completely outside the viewing volume, such as objects that are behind the camera, outside the field of view, or too far away. This can be done by comparing the object's bounding box or sphere with the dimensions of the view volume, either before or after projection .
+  - Clip objects that intersect with any of the clipping planes that define the viewing volume, such as the near and far planes, or the left, right, top and bottom planes. This can be done by using algorithms similar to the 2-D case, such as the Cohen-Sutherland or the Liang-Barsky algorithms, but extended to handle three dimensions  .
+- 3-D clipping can be implemented using outcodes, which are binary codes that indicate whether a vertex is inside or outside each of the clipping planes. For example, a vertex with outcode 000000 is inside all the planes, while a vertex with outcode 100001 is outside the left and far planes. Outcodes can be used to perform trivial accept or reject tests, as well as to find the intersection points between the edges and the clipping planes.
+- 3-D clipping can also be done in homogeneous coordinates, which are four-dimensional vectors that represent points or directions in 3-D space. Homogeneous coordinates can be used to perform perspective projection and clipping in a single step, by using a 4x4 matrix that maps the viewing volume to a unit cube. Points that are inside the unit cube are visible, while points that are outside are clipped.

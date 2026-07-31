@@ -1,0 +1,7 @@
+### Concepts of accuracy for the notes of the Unit 5 - Introduction to Measurement and Mechatronics in the subject of FUNDAMENTALS OF MECHANICAL ENGINEERING
+
+- Accuracy is the degree of closeness between a measurement and its true value . It defines the limits of the errors made when the instrument is used in normal operating conditions.
+- Accuracy is influenced by various factors, such as the quality of the instrument, the calibration of the instrument, the environmental conditions, the operator skill, and the measurement procedure .
+- Accuracy can be expressed in different ways, such as Sub Divisional Error (SDE), Linearity, Slope, Total Linearity, or Percentage of Reading . These terms describe how the measurement deviates from the true value or from a reference standard.
+- Accuracy can be improved by using high-quality instruments, performing regular calibration, controlling the environmental conditions, following the standard operating procedures, and minimizing the human errors .
+- Accuracy is different from precision, resolution, and sensitivity, which are other important concepts in measurement and mechatronics . Precision is the degree to which repeated measurements under the same conditions show the same results. Resolution is the smallest change in the input that can be detected by the instrument. Sensitivity is the ratio of the change in the output to the change in the input of the instrument.

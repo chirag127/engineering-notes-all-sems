@@ -1,0 +1,16 @@
+# Types of Evidence in Cyber Forensics
+
+Cyber forensics is the process of collecting, preserving, analyzing and presenting digital evidence in a court of law. Digital evidence can be any data or information that is stored, transmitted or processed by electronic devices, such as computers, mobile phones, cameras, networks, etc. 
+
+There are different types of digital evidence that can be used in cyber forensics, depending on the nature, source and format of the data. Some of the common types of digital evidence are:
+
+- **Logs**: Logs are records of events or activities that occur on a system or a network. They can include operating system logs, application logs, web server logs, firewall logs, router logs, etc. Logs can provide information about the actions, identities, locations and timestamps of the users or devices involved in an incident .
+- **Video footage and images**: Video footage and images are visual data that can capture the scenes, objects, persons or actions related to an incident. They can be obtained from cameras, CCTV, drones, satellites, etc. Video footage and images can provide evidence of the occurrence, context, location and time of an incident.
+- **Archives**: Archives are collections of files or data that are compressed, encrypted or stored in a specific format. They can include zip files, rar files, iso files, etc. Archives can contain valuable information that is hidden or protected from unauthorized access.
+- **Active data**: Active data is the data that is readily accessible and visible on a device or a network. It can include files, folders, documents, emails, messages, contacts, calendars, etc. Active data can provide evidence of the content, purpose, ownership and usage of the data .
+- **Metadata**: Metadata is the data that describes or provides information about other data. It can include file names, file sizes, file types, file creation dates, file modification dates, file access dates, file permissions, etc. Metadata can provide evidence of the origin, history, characteristics and relationships of the data .
+- **Residual data**: Residual data is the data that is not easily accessible or visible on a device or a network. It can include deleted files, temporary files, swap files, cache files, cookies, history, etc. Residual data can provide evidence of the previous or hidden activities, preferences, habits and traces of the users or devices .
+- **Volatile data**: Volatile data is the data that is stored in the memory or the cache of a device or a network. It can include processes, services, connections, ports, registry keys, etc. Volatile data can provide evidence of the current or recent state, configuration and performance of the system or the network .
+- **Replicant data**: Replicant data is the data that is copied, duplicated or backed up from the original source. It can include backups, clones, images, snapshots, etc. Replicant data can provide evidence of the integrity, consistency and availability of the data .
+
+These are some of the types of digital evidence that can be used in cyber forensics. However, there may be other types of digital evidence that are specific to certain cases, devices or applications. Therefore, a cyber forensics examiner should be familiar with the different types of digital evidence and their sources, formats, characteristics and limitations.

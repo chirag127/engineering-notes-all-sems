@@ -1,0 +1,14 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic of Forms for the notes of the Unit 3 - Technical Presentation in the subject of Technical Communication. Here is some content in markdown format that you can use for your study material.
+
+### Forms for the notes of the Unit 3 - Technical Presentation in the subject of Technical Communication
+
+- Notes are brief records of information that help the speaker to deliver a presentation effectively and confidently.
+- Notes can be written in different forms, depending on the purpose, audience, and style of the presentation.
+- Some common forms of notes are:
+
+  - **Outline**: A list of main points and subpoints that show the structure and logic of the presentation. An outline can be written in full sentences or keywords, and can use symbols, numbers, or letters to indicate the hierarchy of the points. An outline can help the speaker to organize the content and avoid omitting or repeating information.
+  - **Script**: A written version of the entire speech that includes the introduction, body, conclusion, transitions, and references. A script can be useful for formal or complex presentations that require precise wording and accuracy. However, a script can also make the speaker sound monotonous or unnatural, and can be difficult to memorize or read without losing eye contact with the audience.
+  - **Index cards**: Small cards that contain brief notes or cues for each part of the presentation. Index cards can be used to remind the speaker of the main ideas, examples, statistics, or quotations that support the points. Index cards can also include the time, date, and location of the presentation, the name and background of the audience, and the objectives and key messages of the speech. Index cards can help the speaker to maintain a conversational tone and adapt to the feedback from the audience.
+  - **Slides**: Visual aids that display the key information and graphics that complement the presentation. Slides can be created using software such as PowerPoint, Keynote, or Google Slides, and can be projected on a screen or a wall. Slides can help the speaker to illustrate the points, attract the attention, and enhance the understanding of the audience. However, slides should not contain too much text or clutter, and should not distract or overwhelm the audience.
+
+- The choice of the form of notes depends on the preferences and needs of the speaker, as well as the expectations and characteristics of the audience. The speaker should use the form of notes that best suits the presentation and practice with it before the actual delivery. The speaker should also have a backup plan in case of technical problems or unexpected situations.

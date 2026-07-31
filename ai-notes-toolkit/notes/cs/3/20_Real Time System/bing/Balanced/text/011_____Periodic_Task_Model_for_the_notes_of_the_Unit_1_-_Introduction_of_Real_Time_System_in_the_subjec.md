@@ -1,0 +1,7 @@
+### Periodic Task Model
+
+- The periodic task model is a well-known deterministic workload model that characterizes accurately many traditional hard real-time applications, such as digital control, real-time monitoring, and constant bit-rate voice/video transmission .
+- A periodic task is one that repeats itself after a fixed time interval, called the period. A periodic task is denoted by four tuples: Ti = < Φi, Pi, ei, Di > Where, Φi – is the phase of the task, Pi – is the period of the task, ei – is the worst-case execution time of the task, and Di – is the relative deadline of the task.
+- The periodic task model assumes that each task has a known and constant period, execution time, and deadline, and that each task releases its first job at its phase, and then releases a new job at the start of each period .
+- The periodic task model can be extended by adding a jitter Ji for each task τi, to allow the flexibility that the actual release time of a job may be at most Ji time units earlier or later than the exact start time of the period.
+- The periodic task model can be used to analyze the schedulability of a set of tasks under different scheduling algorithms, such as rate-monotonic, earliest-deadline-first, or fixed-priority . The schedulability analysis can be based on utilization, response time, or demand bound functions.

@@ -1,0 +1,24 @@
+## Unit 1 - Introductory Concepts of Computer Networks and Physical Layer
+
+- A computer network is a collection of devices that can communicate with each other using a common set of rules or protocols.
+- The main components of a computer network are hosts, links, switches, routers, and the Internet.
+- Hosts are devices that run applications and generate or consume data, such as computers, smartphones, servers, etc.
+- Links are physical media that connect hosts and switches, such as cables, wireless channels, etc.
+- Switches are devices that forward data within a local area network (LAN), such as Ethernet switches, Wi-Fi access points, etc.
+- Routers are devices that forward data across different networks, such as the Internet, using IP addresses.
+- The Internet is a global network of networks that connects billions of hosts using the Internet Protocol (IP).
+- A computer network can be classified by its size, topology, architecture, or performance.
+- The size of a network refers to the number and distance of hosts and links, such as personal area network (PAN), local area network (LAN), metropolitan area network (MAN), or wide area network (WAN).
+- The topology of a network refers to the shape or layout of the links and switches, such as bus, ring, star, tree, or mesh.
+- The architecture of a network refers to the design or organization of the protocols and layers, such as peer-to-peer (P2P), client-server, or hybrid.
+- The performance of a network refers to the quality or efficiency of the data transmission, such as bandwidth, latency, jitter, or reliability.
+- A computer network can be modeled using a layered approach, such as the Open Systems Interconnection (OSI) model or the Transmission Control Protocol/Internet Protocol (TCP/IP) model.
+- The OSI model consists of seven layers: physical, data link, network, transport, session, presentation, and application.
+- The TCP/IP model consists of four layers: network access, internet, transport, and application.
+- The physical layer is the lowest layer of the OSI model and the network access layer of the TCP/IP model.
+- The physical layer is responsible for transmitting bits over a link using electrical, optical, or radio signals.
+- The physical layer defines the characteristics of the link, such as the type, speed, frequency, modulation, encoding, or multiplexing of the signals.
+- The physical layer also defines the standards or specifications for the connectors, cables, and interfaces of the devices, such as RJ-45, USB, HDMI, etc.
+- The physical layer can be divided into two sublayers: the physical medium dependent (PMD) sublayer and the physical medium independent (PMI) sublayer.
+- The PMD sublayer deals with the actual transmission and reception of the signals over the medium, such as copper, fiber, or air.
+- The PMI sublayer deals with the encoding and decoding of the signals, such as Manchester, NRZ, or QAM.

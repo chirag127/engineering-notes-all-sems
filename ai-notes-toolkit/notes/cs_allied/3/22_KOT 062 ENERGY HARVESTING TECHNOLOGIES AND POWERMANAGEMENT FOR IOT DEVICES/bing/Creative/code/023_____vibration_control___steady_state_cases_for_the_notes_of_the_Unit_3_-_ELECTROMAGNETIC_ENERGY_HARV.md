@@ -1,0 +1,17 @@
+### Vibration Control and Steady State Cases for Electromagnetic Energy Harvesting
+
+- Electromagnetic energy harvesting is the concept of converting vibration energy into electrical energy using electromagnetic induction.
+- Electromagnetic energy harvesters consist of a coil and a magnet that move relative to each other under external vibrations, generating an induced voltage across the coil terminals.
+- Vibration control is the process of reducing or eliminating unwanted vibrations in a system or structure, which can cause noise, fatigue, damage, or performance degradation.
+- Vibration control can be integrated with energy harvesting to achieve both vibration isolation and energy conversion in a single device .
+- Vibration control can be achieved by using passive, active, or semi-active methods, depending on the type and source of vibration, the desired performance, and the cost and complexity of the system.
+- Passive vibration control methods use mechanical elements such as springs, dampers, or isolators to reduce the vibration transmission or amplitude without requiring external power or feedback.
+- Active vibration control methods use sensors, actuators, and controllers to apply a counteracting force or displacement to the system, canceling out the vibration using external power and feedback.
+- Semi-active vibration control methods use variable mechanical elements such as magneto-rheological or electro-rheological fluids, shape memory alloys, or piezoelectric materials to adjust the stiffness or damping of the system according to the vibration level, requiring less power and feedback than active methods.
+- Steady state cases for electromagnetic energy harvesting refer to the situations where the vibration frequency and amplitude are constant and the energy harvester reaches a stable output.
+- Steady state cases can be analyzed using linear or nonlinear models, depending on the characteristics of the energy harvester, such as the geometry, the material, the magnetic field, and the load resistance.
+- Linear models assume that the energy harvester behaves as a linear oscillator with a constant natural frequency and damping ratio, and that the induced voltage is proportional to the relative velocity of the coil and the magnet.
+- Nonlinear models account for the effects of nonlinearities such as magnetic saturation, magnetic coupling, hysteresis, or bistability, which can alter the natural frequency, damping ratio, and induced voltage of the energy harvester.
+- Nonlinear models can exhibit complex phenomena such as frequency up-conversion, frequency down-conversion, chaotic behavior, or multiple stable states, which can enhance or reduce the energy harvesting performance.
+- Steady state cases can be evaluated using different performance metrics, such as the output power, the power density, the efficiency, the bandwidth, or the quality factor of the energy harvester.
+- Steady state cases can be optimized by tuning the parameters of the energy harvester, such as the mass, the spring constant, the damping coefficient, the coil resistance, the magnet size, or the gap distance, to match the vibration frequency and amplitude, and to maximize the output power .

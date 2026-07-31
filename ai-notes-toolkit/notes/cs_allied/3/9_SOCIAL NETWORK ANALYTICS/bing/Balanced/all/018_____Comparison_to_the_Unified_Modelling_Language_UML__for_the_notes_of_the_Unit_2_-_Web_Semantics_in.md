@@ -1,0 +1,7 @@
+# Comparison to the Unified Modelling Language (UML)
+
+- UML is a graphical language for modeling software systems, whereas Web Semantics is a field of study that aims to make web data more meaningful and interoperable .
+- UML provides a standard way to visualize the design of a system, including its classes, objects, behaviors, and interactions . Web Semantics uses languages such as RDF, OWL, and SPARQL to represent and query web data in a structured and logical way.
+- UML is mainly used for software engineering, whereas Web Semantics is mainly used for knowledge engineering. UML focuses on the structure and behavior of software systems, whereas Web Semantics focuses on the meaning and inference of web data.
+- UML has different types of diagrams, such as use case, class, sequence, activity, and state diagrams, to capture different aspects of a system . Web Semantics has different types of ontologies, such as domain, application, and upper ontologies, to capture different levels of abstraction and generality of web data.
+- UML is more suitable for modeling static and dynamic aspects of software systems, whereas Web Semantics is more suitable for modeling semantic and logical aspects of web data. UML is more expressive and flexible, whereas Web Semantics is more formal and rigorous.

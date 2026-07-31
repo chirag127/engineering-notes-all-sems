@@ -1,0 +1,22 @@
+#### Spanning Tree Algorithms in Local Area Network
+
+- Spanning Tree Protocol (STP) is a network protocol that ensures a loop-free topology for any bridged Ethernet local area network.
+- STP was originally standardized as IEEE 802.1D but the functionality of spanning tree has been extended to incorporate new capabilities and is now defined in IEEE 802.1Q-2014.
+- The basic function of STP is to prevent bridge loops and the broadcast radiation that results from them.
+- STP creates a tree structure of layer-2 network segments, with a single root bridge at the top of the tree.
+- The root bridge is the bridge with the lowest bridge ID, which is a combination of the bridge priority and the MAC address.
+- All other bridges in the network will adjust their port roles and states based on the information received from the root bridge.
+- The port roles in STP are root port, designated port, and blocked port.
+- The root port is the port on a non-root bridge that has the lowest path cost to the root bridge.
+- The designated port is the port on a network segment that has the lowest path cost to the root bridge.
+- The blocked port is a port that is not a root port or a designated port and does not forward traffic.
+- STP uses the exchange of Bridge Protocol Data Units (BPDUs) between bridges to determine the root bridge and the port roles and states.
+- The convergence time of STP can be slow, taking up to 50 seconds to transition a port from blocking to forwarding state.
+- Rapid Spanning Tree Protocol (RSTP) is an evolution of STP that provides faster convergence times.
+- RSTP is standardized as IEEE 802.1w and is backward compatible with STP.
+- RSTP introduces new port roles and states, such as alternate port, backup port, and discarding state.
+- RSTP can achieve convergence times of less than 1 second in most network topologies.
+- Multiple Spanning Tree Protocol (MSTP) is an extension of RSTP that allows multiple spanning trees to be created for different VLANs.
+- MSTP is standardized as IEEE 802.1s and is backward compatible with RSTP and STP.
+- MSTP allows for more efficient use of network resources by allowing traffic from different VLANs to be forwarded on different paths.
+- MSTP can also improve network resiliency by providing multiple paths for traffic in the event of a network failure.

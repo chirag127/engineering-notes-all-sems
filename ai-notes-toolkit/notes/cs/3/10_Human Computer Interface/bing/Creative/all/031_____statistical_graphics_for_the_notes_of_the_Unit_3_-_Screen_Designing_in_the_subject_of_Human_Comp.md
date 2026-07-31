@@ -1,0 +1,21 @@
+# Statistical Graphics
+
+- Statistical graphics are graphics used in the field of statistics for data visualization.
+- They allow the results of statistical analysis to be displayed in some sort of pictorial form, such as graphs, charts, maps, etc.
+- They can be used for different purposes, such as:
+  - Presentation: to communicate data and findings to an audience.
+  - Exploration: to discover patterns, trends, outliers, and relationships in data.
+  - Analysis: to support statistical inference, hypothesis testing, and model fitting.
+  - Computation: to facilitate numerical calculations and algorithms.
+- Some examples of common statistical graphics are:
+  - Bar graph: to compare the frequencies or proportions of different categories.
+  - Pie chart: to show the relative sizes of parts of a whole.
+  - Line graph: to show the change of a variable over time or another continuous variable.
+  - Scatterplot: to show the relationship between two numerical variables.
+  - Statistical map: to show the spatial distribution of a variable or a phenomenon.
+- Some principles of good statistical graphics are:
+  - Clarity: to convey the message clearly and accurately.
+  - Simplicity: to avoid unnecessary complexity and clutter.
+  - Relevance: to focus on the most important and relevant information.
+  - Consistency: to use the same graphical elements and conventions throughout.
+  - Integrity: to avoid misleading or distorting the data.

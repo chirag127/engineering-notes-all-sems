@@ -1,0 +1,21 @@
+### Basis for the notes of the Unit 4 - Vector Spaces in the subject of MATHEMATICAL FOUNDATION AI , ML AND DATA SCIENCE
+
+- A vector space is a set of objects called vectors that can be added and multiplied by scalars (usually real or complex numbers) in a way that satisfies certain axioms .
+- The axioms of a vector space are:
+  - Closure under addition: For any two vectors u and v in the vector space, their sum u + v is also in the vector space.
+  - Commutativity of addition: For any two vectors u and v in the vector space, u + v = v + u.
+  - Associativity of addition: For any three vectors u, v and w in the vector space, (u + v) + w = u + (v + w).
+  - Existence of additive identity: There exists a vector 0 in the vector space such that for any vector u in the vector space, u + 0 = u.
+  - Existence of additive inverse: For any vector u in the vector space, there exists a vector -u in the vector space such that u + (-u) = 0.
+  - Closure under scalar multiplication: For any vector u in the vector space and any scalar c, the product cu is also in the vector space.
+  - Distributivity of scalar multiplication over vector addition: For any two vectors u and v in the vector space and any scalar c, c(u + v) = cu + cv.
+  - Distributivity of scalar multiplication over scalar addition: For any vector u in the vector space and any two scalars c and d, (c + d)u = cu + du.
+  - Compatibility of scalar multiplication: For any vector u in the vector space and any two scalars c and d, c(du) = (cd)u.
+  - Existence of multiplicative identity: There exists a scalar 1 such that for any vector u in the vector space, 1u = u.
+- A vector space is an abstract concept that can be used to model many different phenomena in mathematics, physics, engineering, and computer science .
+- Some examples of vector spaces are:
+  - The Euclidean space R^n, where vectors are n-tuples of real numbers and scalar multiplication and addition are performed componentwise .
+  - The space of polynomials of degree at most n, where vectors are polynomials and scalar multiplication and addition are performed using the usual rules of algebra.
+  - The space of functions from a set X to a field F, where vectors are functions and scalar multiplication and addition are performed pointwise.
+  - The space of matrices of a fixed size, where vectors are matrices and scalar multiplication and addition are performed elementwise.
+  - The space of solutions of a homogeneous linear system of equations, where vectors are solutions and scalar multiplication and addition are performed using the usual rules of algebra.

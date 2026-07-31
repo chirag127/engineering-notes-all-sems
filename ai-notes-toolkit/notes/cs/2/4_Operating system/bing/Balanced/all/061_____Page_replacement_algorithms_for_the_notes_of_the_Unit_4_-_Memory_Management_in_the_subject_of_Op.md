@@ -1,0 +1,12 @@
+# Page replacement algorithms
+
+- Page replacement algorithms refer to the techniques used by an operating system to manage the memory allocation and deallocation of the physical memory (RAM) of a computer.
+- Page replacement algorithms are needed when a page fault occurs, which means that a running program accesses a memory page that is mapped into the virtual address space but not loaded in physical memory.
+- The aim of page replacement algorithms is to minimize the page fault rate, which is the number of page faults per unit of time.
+- Some of the common page replacement algorithms are:
+
+  - First In First Out (FIFO): This is the simplest page replacement algorithm. In this algorithm, the operating system maintains a queue of all the pages in memory. When a page fault occurs, the page at the front of the queue is replaced by the new page and the new page is added at the end of the queue .
+  - Optimal Page replacement: This is the best page replacement algorithm as this algorithm replaces the page that will not be used for the longest duration of time in the future. However, this algorithm is not feasible in practice as it requires the knowledge of the future page references .
+  - Least Recently Used (LRU): This is a practical approximation of the optimal page replacement algorithm. In this algorithm, the operating system keeps track of the last time each page was accessed. When a page fault occurs, the page that was least recently used is replaced by the new page .
+  - Clock: This is a variation of the LRU algorithm that uses a circular list of pages with a pointer that moves through the list. Each page has a use bit that is set to 1 when the page is accessed and reset to 0 by the pointer. When a page fault occurs, the pointer scans the list and replaces the first page with a use bit of 0. If all the pages have a use bit of 1, the pointer resets them to 0 and continues the scan.
+  - Second Chance: This is another variation of the LRU algorithm that uses a FIFO queue of pages with a reference bit for each page. The reference bit is set to 1 when the page is accessed and reset to 0 by the operating system at regular intervals. When a page fault occurs, the page at the front of the queue is inspected. If its reference bit is 0, it is replaced by the new page. If its reference bit is 1, it is given a second chance and moved to the end of the queue. The process is repeated until a page with a reference bit of 0 is found.

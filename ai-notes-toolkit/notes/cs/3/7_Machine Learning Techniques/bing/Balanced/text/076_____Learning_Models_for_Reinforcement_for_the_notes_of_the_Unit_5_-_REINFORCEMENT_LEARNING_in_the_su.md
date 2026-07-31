@@ -1,0 +1,9 @@
+### Learning Models for Reinforcement Learning
+
+Reinforcement learning is a type of machine learning that enables an agent to learn from its own actions and rewards in an environment. The agent aims to maximize the cumulative reward over time by exploring and exploiting the optimal actions for each state of the environment.
+
+There are two main types of learning models for reinforcement learning: model-based and model-free.
+
+- Model-based reinforcement learning: In this approach, the agent learns a model of the environment, which is a function that predicts the next state and reward given the current state and action. The agent can use the model to plan ahead and choose the best action for each state. Model-based reinforcement learning can be more data-efficient and generalizable than model-free methods, but it requires a good model that can capture the dynamics and uncertainties of the environment. Some examples of model-based reinforcement learning algorithms are Dyna, Monte Carlo Tree Search, and Model-Based Policy Optimization.
+
+- Model-free reinforcement learning: In this approach, the agent does not learn a model of the environment, but directly learns a value function or a policy function that maps states to actions or values. The agent relies on trial-and-error learning and feedback from the environment to update its value function or policy function. Model-free reinforcement learning can be more flexible and robust than model-based methods, but it may require more data and computation to converge to the optimal solution. Some examples of model-free reinforcement learning algorithms are Q-learning, SARSA, and Deep Q-Networks .

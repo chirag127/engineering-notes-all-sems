@@ -1,0 +1,8 @@
+### Unix and windows access control summary
+
+- Access control is the mechanism that determines who can access what resources in a system.
+- Unix and Windows have different access control models and mechanisms.
+- Unix uses access control lists (ACLs) on each file and directory. An ACL consists of three sets of mode bits that specify the permissions for the owner, the group, and the others (world) respectively. The permissions are read, write, and execute.
+- Windows uses security descriptors on each object (file, directory, registry key, etc.). A security descriptor consists of an owner, a group, a discretionary access control list (DACL), and a system access control list (SACL). A DACL contains access control entries (ACEs) that specify the permissions for each security principal (user or group). A SACL contains audit entries that specify the events to be logged for each security principal.
+- Unix and Windows have different ways of assigning owners and groups to objects. Unix uses the user identifier (UID) and the group identifier (GID) of the process that creates the object. Windows uses the security identifier (SID) of the user who is logged on or the user who runs the process that creates the object.
+- Unix and Windows have different ways of resolving conflicts between permissions. Unix uses a simple algorithm that checks the mode bits from left to right and stops at the first match. Windows uses a complex algorithm that evaluates the ACEs in order and applies the allow or deny rules.

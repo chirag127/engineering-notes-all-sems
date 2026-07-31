@@ -1,0 +1,10 @@
+### Big Data technology components
+
+Big data technology is a collection of tools, frameworks, and techniques that enable the processing, storage, analysis, and visualization of large and complex data sets. Some of the main components of big data technology are:
+
+- **Data sources**: These are the origins of the data, such as sensors, web logs, social media, transactions, etc. Data sources can be structured, semi-structured, or unstructured, and can vary in volume, velocity, variety, and veracity.
+- **Data ingestion**: This is the process of acquiring, transferring, and loading the data from the sources to the destination systems, such as databases, data warehouses, data lakes, etc. Data ingestion can be batch, streaming, or hybrid, depending on the frequency and latency of the data flow.
+- **Data storage**: This is the component that provides the physical or logical space for storing the data in a persistent or transient manner. Data storage can be relational, non-relational, or hybrid, depending on the schema, query, and scalability requirements of the data.
+- **Data processing**: This is the component that performs the transformation, manipulation, aggregation, and computation of the data using various programming models, such as MapReduce, Spark, Flink, etc. Data processing can be batch, streaming, or hybrid, depending on the timeliness and complexity of the data analysis.
+- **Data analysis**: This is the component that applies various analytical techniques, such as statistics, machine learning, data mining, natural language processing, etc., to extract insights, patterns, and knowledge from the data. Data analysis can be descriptive, predictive, or prescriptive, depending on the purpose and scope of the data exploration.
+- **Data visualization**: This is the component that presents the data and the analysis results in a graphical or interactive form, such as charts, dashboards, maps, etc., to facilitate the understanding, communication, and decision making of the data. Data visualization can be static, dynamic, or interactive, depending on the level of interactivity and customization of the data display.

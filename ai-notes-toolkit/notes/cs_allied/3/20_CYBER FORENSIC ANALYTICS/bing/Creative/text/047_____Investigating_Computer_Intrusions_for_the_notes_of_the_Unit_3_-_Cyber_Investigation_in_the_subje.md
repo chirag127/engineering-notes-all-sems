@@ -1,0 +1,26 @@
+### Investigating Computer Intrusions
+
+- A computer intrusion is an unauthorized or illegal access or damage to a computer system or network by an attacker.
+- A computer intrusion investigation is the process of identifying, analyzing, and responding to a computer intrusion incident.
+- The main objectives of a computer intrusion investigation are to:
+  - Determine the scope and impact of the intrusion
+  - Collect and preserve evidence of the intrusion
+  - Identify the source and motive of the intrusion
+  - Recover from the intrusion and prevent future intrusions
+- The main steps of a computer intrusion investigation are:
+  - Preparation: Establish a team, a plan, and a protocol for the investigation
+  - Detection: Use intrusion detection systems, logs, alerts, and other tools to detect signs of an intrusion
+  - Containment: Isolate the affected systems or networks to prevent further damage or spread of the intrusion
+  - Analysis: Examine the evidence and trace the activities of the intruder to determine the methods, tools, and objectives of the intrusion
+  - Eradication: Remove any malicious code, files, or backdoors left by the intruder
+  - Recovery: Restore the normal operations and functionality of the systems or networks
+  - Reporting: Document the findings, recommendations, and lessons learned from the investigation
+  - Follow-up: Implement the recommendations, monitor the systems or networks, and cooperate with law enforcement if needed   
+- A computer forensic investigator is a professional who specializes in conducting computer intrusion investigations and retrieving digital evidence from computers and other devices.
+- A computer forensic investigator needs to have skills and knowledge in:
+  - Computer systems and networks
+  - Cybersecurity and encryption
+  - Intrusion detection and analysis tools
+  - Digital forensics tools and techniques
+  - Legal and ethical issues in computer forensics
+  - Communication and report writing

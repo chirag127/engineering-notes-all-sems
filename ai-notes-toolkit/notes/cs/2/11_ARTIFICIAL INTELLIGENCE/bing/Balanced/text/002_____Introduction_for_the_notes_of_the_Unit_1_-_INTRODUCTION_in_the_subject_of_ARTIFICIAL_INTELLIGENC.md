@@ -1,0 +1,17 @@
+### Introduction for the notes of the Unit 1 - INTRODUCTION in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Artificial intelligence (AI) is the branch of computer science that deals with creating machines or software that can perform tasks that normally require human intelligence, such as reasoning, learning, planning, decision making, natural language processing, computer vision, speech recognition, etc.
+- AI can be classified into different types based on the degree of human-like intelligence and the scope of the problem domain. Some of the common types are:
+  - Weak AI or Narrow AI: This type of AI can only perform a specific task or a narrow range of tasks within a predefined domain. For example, a chess-playing program, a face recognition system, a spam filter, etc.
+  - Strong AI or General AI: This type of AI can perform any intellectual task that a human can do across any domain. For example, a hypothetical AI agent that can understand natural language, solve complex problems, exhibit emotions, etc. This type of AI is still a goal of research and not yet achieved.
+  - Artificial Superintelligence (ASI): This type of AI can surpass human intelligence and capabilities in all domains. For example, a hypothetical AI agent that can invent new technologies, create new forms of art, manipulate matter and energy, etc. This type of AI is also a goal of research and not yet achieved.
+- AI can also be classified into different types based on the approach or the technique used to achieve the desired goal. Some of the common types are:
+  - Symbolic AI or Classical AI: This type of AI uses symbols and rules to represent and manipulate knowledge. For example, a logic-based system, a rule-based system, an expert system, etc.
+  - Sub-symbolic AI or Connectionist AI: This type of AI uses numerical values and mathematical models to represent and manipulate knowledge. For example, a neural network, a fuzzy system, a genetic algorithm, etc.
+  - Hybrid AI: This type of AI combines both symbolic and sub-symbolic approaches to leverage the strengths and overcome the limitations of each. For example, a neuro-symbolic system, a neuro-fuzzy system, a genetic programming system, etc.
+- AI can also be classified into different types based on the level of autonomy or the degree of human intervention required. Some of the common types are:
+  - Reactive AI: This type of AI can only react to the current situation or stimulus without any memory or learning. For example, a simple reflex agent, a thermostat, a traffic light, etc.
+  - Deliberative AI: This type of AI can plan and reason about the current and future situations or goals using memory and knowledge. For example, a goal-based agent, a utility-based agent, a chess-playing program, etc.
+  - Interactive AI: This type of AI can interact with other agents or humans using communication and social skills. For example, a chatbot, a virtual assistant, a social robot, etc.
+  - Adaptive AI: This type of AI can learn from its own experience and improve its performance over time. For example, a reinforcement learning agent, a self-driving car, a recommender system, etc.
+  - Creative AI: This type of AI can generate novel and valuable outputs or solutions using imagination and innovation. For example, a music composition system, a painting generation system, a poetry generation system, etc.

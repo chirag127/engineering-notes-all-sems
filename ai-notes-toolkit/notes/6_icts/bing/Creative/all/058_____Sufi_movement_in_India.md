@@ -1,0 +1,14 @@
+# Sufi movement in India
+
+- Sufism is a mystical branch of Islam that emphasizes the direct experience of God through love, devotion, and ethical conduct.
+- Sufism originated in the Middle East and Central Asia in the early centuries of Islam, and spread to India through the travels and teachings of Sufi saints or sheikhs.
+- Sufism in India was influenced by various religious and cultural traditions, such as Hinduism, Buddhism, and Vedanta, and developed a rich and diverse literature in various languages, such as Persian, Arabic, Urdu, and Hindi.
+- Sufism in India was also a socio-religious movement that challenged the orthodoxy and rigidity of the Muslim ruling class and the Hindu caste system, and advocated for a more inclusive and egalitarian society based on humanism and universal brotherhood.
+- Sufism in India was organized into various orders or silsilas, each with its own founder, lineage, doctrine, and practices. Some of the prominent silsilas in India were:
+
+  - Chishti silsila: Founded by Khwaja Moinuddin Chishti in the 12th century, it was the most popular and influential silsila in India, especially in northern and central India. It emphasized love, service, and music as the means of attaining God. Some of the famous Chishti saints were Khwaja Qutbuddin Bakhtiyar Kaki, Khwaja Fariduddin Ganjshakar, Khwaja Nizamuddin Auliya, and Amir Khusrau.
+  - Suhrawardi silsila: Founded by Sheikh Shihabuddin Suhrawardi in the 12th century, it was a more orthodox and scholarly silsila that focused on the Quran, the Hadith, and the Sharia. It was popular in Bengal and Bihar, and some of its notable saints were Sheikh Bahauddin Zakariya, Sheikh Ruknuddin, and Sheikh Shamsuddin Sabzwari.
+  - Qadiri silsila: Founded by Sheikh Abdul Qadir Jilani in the 12th century, it was a more charismatic and miraculous silsila that emphasized the power and grace of God. It was popular in Kashmir and Deccan, and some of its prominent saints were Sheikh Hamiduddin Nagauri, Sheikh Nasiruddin Chiragh Dehlavi, and Sheikh Abdul Haq Muhaddis Dehlavi.
+  - Naqshbandi silsila: Founded by Sheikh Baha-ud-Din Naqshband in the 14th century, it was a more sober and silent silsila that stressed on the inner contemplation and remembrance of God. It was popular in Delhi and Punjab, and some of its famous saints were Sheikh Ahmad Sirhindi, Sheikh Mujaddid Alf Sani, and Sheikh Shah Waliullah.
+
+- Sufism in India had a significant impact on the religious, cultural, and social life of the people. It fostered a spirit of tolerance, harmony, and syncretism among different faiths and sects. It also inspired various forms of art, literature, music, and architecture, such as the Sufi poetry, the qawwali, the dargah, and the Indo-Islamic style. Sufism in India also contributed to the spread of Islam and the emergence of various regional and national movements, such as the Bhakti movement, the Sikhism, the Mughal empire, and the Indian independence movement.

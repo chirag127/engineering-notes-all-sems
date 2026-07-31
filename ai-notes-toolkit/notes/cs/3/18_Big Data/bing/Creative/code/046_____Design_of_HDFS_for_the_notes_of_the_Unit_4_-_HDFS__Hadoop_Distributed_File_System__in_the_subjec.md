@@ -1,0 +1,9 @@
+### Design of HDFS
+
+HDFS is a distributed file system that is designed to store very large files across multiple nodes in a cluster. It is part of the Apache Hadoop ecosystem and is based on the Google File System. HDFS has the following design features:
+
+- **Fault tolerance**: HDFS can tolerate failures of nodes, disks, and network by replicating data blocks across multiple nodes. It also has mechanisms to detect and recover from failures, such as checksums, heartbeats, and block reports.
+- **Scalability**: HDFS can scale to thousands of nodes and petabytes of data by distributing the workload and the metadata across the cluster. It also supports horizontal scaling, which means adding more nodes to the cluster without changing the existing ones.
+- **Streaming access**: HDFS is optimized for streaming data access rather than random access. It supports high throughput of data by using large data blocks (typically 128 MB or 256 MB) and sequential reads and writes. It also avoids seek operations by using pipelined data transfers.
+- **Simplicity**: HDFS is designed to handle a limited number of file types and operations, such as append, read, and write. It does not support POSIX semantics, such as locking, permissions, and atomicity. It also does not support random writes or updates to existing files.
+- **Coherency**: HDFS maintains a single namespace for the entire cluster, which is managed by a master node called the NameNode. The NameNode keeps track of the metadata of the files and directories, such as the location, size, and replication factor of the data blocks. The NameNode also coordinates the data transfers and the replication among the slave nodes called the DataNodes.

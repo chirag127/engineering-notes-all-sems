@@ -1,0 +1,23 @@
+# Software Configuration Management in SPM
+
+- Software Configuration Management (SCM) is a process to systematically manage, organize, and control the changes in the documents, codes, and other entities during the Software Development Life Cycle (SDLC)  .
+- The primary goal of SCM is to increase productivity with minimal mistakes by ensuring that all the software components are consistent and compatible .
+- SCM involves the following activities:
+  - Identification: defining and naming the software items and their versions  .
+  - Control: establishing and enforcing rules and procedures for changing the software items  .
+  - Status accounting: recording and reporting the status and history of the software items  .
+  - Audit: verifying that the software items are complete, consistent, and correct  .
+  - Review: evaluating and approving the software items and their changes  .
+- Software Configuration Management Planning (SCMP) is the process of planning the SCM activities for a software project  .
+- The outcome of the SCMP process is the SCM plan, which may be updated or revised during the project  .
+- The SCM plan can follow a public standard like the IEEE 828 or an organization-specific standard  .
+- The SCM plan typically includes the following information  :
+  - Scope and objectives of SCM
+  - Roles and responsibilities of SCM personnel
+  - Software items and their identification scheme
+  - SCM tools and techniques
+  - SCM procedures and policies
+  - SCM schedule and resources
+  - SCM reporting and documentation
+  - SCM audit and review criteria
+  - SCM risk management and contingency plan

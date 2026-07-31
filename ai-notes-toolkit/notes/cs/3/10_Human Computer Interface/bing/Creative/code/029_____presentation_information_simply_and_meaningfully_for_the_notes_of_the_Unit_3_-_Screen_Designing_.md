@@ -1,0 +1,21 @@
+### Presentation Information Simply and Meaningfully for the Notes of the Unit 3 - Screen Designing in the Subject of Human Computer Interface
+
+- Screen design is the process of creating graphical user interfaces (GUIs) that are easy to use, effective, and appealing for human-computer interaction (HCI) .
+- Screen design involves the following aspects :
+  - Layout: the arrangement of elements on the screen, such as text, images, icons, buttons, menus, etc.
+  - Typography: the choice and use of fonts, sizes, colors, and styles for text.
+  - Color: the selection and combination of colors for the screen elements, background, and foreground.
+  - Graphics: the creation and use of images, icons, logos, charts, diagrams, etc. to convey information or enhance aesthetics.
+  - Animation: the use of motion, transitions, and effects to create dynamic and interactive screen elements.
+  - Sound: the use of audio, such as music, speech, or sound effects, to complement or replace visual information or feedback.
+- Screen design should follow some general principles to present information simply and meaningfully for HCI :
+  - Clarity: the screen should be clear and understandable, avoiding ambiguity, confusion, or clutter.
+  - Consistency: the screen should be consistent with the user's expectations, the system's functionality, and the design standards or conventions.
+  - Feedback: the screen should provide feedback to the user about the system's status, actions, and results, using appropriate visual or auditory cues.
+  - Affordance: the screen should indicate the possible actions or interactions that the user can perform with the screen elements, using cues such as shape, size, color, or labels.
+  - Visibility: the screen should show the relevant information and options to the user, hiding or minimizing the irrelevant or infrequent ones.
+  - Simplicity: the screen should be simple and concise, avoiding unnecessary or redundant information or elements.
+  - Structure: the screen should be structured and organized, using logical and meaningful grouping, alignment, and hierarchy of elements.
+  - Navigation: the screen should facilitate the user's navigation and orientation, using clear and consistent labels, menus, buttons, links, etc.
+  - Accessibility: the screen should be accessible and usable by a wide range of users, regardless of their abilities, preferences, or devices, using appropriate fonts, colors, contrast, size, etc.
+  - Aesthetics: the screen should be aesthetically pleasing and engaging, using appropriate colors, graphics, animation, sound, etc.

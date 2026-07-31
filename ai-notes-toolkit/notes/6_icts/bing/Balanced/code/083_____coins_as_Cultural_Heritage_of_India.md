@@ -1,0 +1,31 @@
+### Coins as Cultural Heritage of India
+
+- Coins are one of the most important sources of information about the history, culture, religion, economy, and politics of ancient and medieval India.
+- Coins reflect the artistic skills, technological innovations, political aspirations, and religious beliefs of the people who minted and used them.
+- Coins also provide evidence of trade, commerce, and cultural contacts between India and other regions of the world.
+- The origin of coinage in India can be traced back to the first millennium BCE, when punch-marked coins made of silver and copper were used as a medium of exchange.
+- These coins were called karshapanas or panas, and were issued by various janapadas or republics that existed in northern India.
+- The earliest coins were irregular in shape and size, and had symbols or marks punched on them by dies or stamps.
+- Some of the common symbols were sun, moon, star, tree, elephant, bull, lion, fish, etc.
+- The punch-marked coins were followed by cast coins, which were made by pouring molten metal into moulds.
+- These coins were more regular in shape and size, and had inscriptions or legends on them.
+- Some of the cast coins were issued by the Mauryan empire, which was the first imperial power in India.
+- The Mauryan coins had the symbol of a lion or an elephant on one side, and the name of the king or the mint on the other side.
+- The Mauryan coins also had the symbol of a chakra or a wheel, which represented the concept of dharma or law and order.
+- The cast coins were also issued by the Indo-Greek, Indo-Scythian, and Indo-Parthian rulers, who invaded and ruled parts of north-western India from the 2nd century BCE to the 2nd century CE.
+- These coins had bilingual legends in Greek and Kharoshthi or Brahmi scripts, and depicted the portraits and symbols of the foreign rulers and their deities.
+- Some of the Indo-Greek coins also showed the images of Indian gods and goddesses, such as Shiva, Lakshmi, Vasudeva, etc.
+- The cast coins were replaced by die-struck coins, which were made by striking a metal blank with a pair of dies or punches.
+- These coins were more refined and artistic, and had more elaborate designs and legends on them.
+- Some of the die-struck coins were issued by the Kushan empire, which ruled over northern India and Central Asia from the 1st to the 3rd century CE.
+- The Kushan coins had the portraits and names of the Kushan kings on one side, and the images and names of various gods and goddesses on the other side.
+- The Kushan coins also had legends in Greek, Kharoshthi, Brahmi, and Bactrian scripts, and showed the influence of Greek, Roman, Iranian, and Indian cultures.
+- The Kushan coins were followed by the Gupta coins, which were issued by the Gupta dynasty, which is considered as the golden age of Indian history and culture.
+- The Gupta coins had the portraits and names of the Gupta kings on one side, and the images and names of Hindu gods and goddesses on the other side.
+- The Gupta coins also had legends in Sanskrit and Brahmi scripts, and depicted the achievements and attributes of the Gupta rulers and their patronage of arts, sciences, and religions.
+- The Gupta coins were the most beautiful and sophisticated coins of ancient India, and influenced the coinage of later dynasties and kingdoms.
+- The coinage of India continued to evolve and diversify in the medieval period, when various regional powers and foreign invaders ruled over different parts of the country.
+- Some of the prominent coin-issuing dynasties and kingdoms of medieval India were the Satavahanas, the Pallavas, the Chalukyas, the Rashtrakutas, the Cholas, the Pandyas, the Hoysalas, the Vijayanagara empire, the Delhi Sultanate, the Bahmani kingdom, the Deccan Sultanates, the Mughal empire, the Maratha empire, the Sikh empire, etc.
+- The coinage of medieval India reflected the diversity and complexity of the political, social, cultural, and religious scenario of the country.
+- The coins of medieval India were made of various metals, such as gold, silver, copper, bronze, lead, tin, etc.
+- The coins of medieval India had various shapes, such as circular, square, rectangular, hexagonal, octagonal

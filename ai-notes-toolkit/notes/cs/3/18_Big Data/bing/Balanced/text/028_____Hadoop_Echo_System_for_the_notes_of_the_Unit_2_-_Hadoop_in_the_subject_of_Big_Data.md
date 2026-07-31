@@ -1,0 +1,12 @@
+### Hadoop Ecosystem
+
+- The Hadoop ecosystem is a collection of software components and tools that work together to enable large-scale data processing and analysis on top of the Hadoop framework .
+- The Hadoop framework consists of two core components: Hadoop Distributed File System (HDFS) and Hadoop MapReduce. HDFS is a distributed file system that stores data across multiple nodes in a cluster. MapReduce is a programming model that allows parallel processing of data using key-value pairs.
+- The Hadoop ecosystem also includes various other components that provide different functionalities and features, such as data ingestion, data transformation, data querying, data management, data visualization, etc. Some of the most popular components are  :
+  - Apache Hive: A data warehouse system that allows SQL-like queries and analysis of large datasets stored in HDFS. Hive supports data summarization, aggregation, and complex joins.
+  - Apache Pig: A scripting language that allows data transformation and manipulation using a high-level syntax. Pig can run on top of MapReduce or Apache Tez, which is a framework for executing complex data flows.
+  - Apache Spark: A fast and general-purpose engine for large-scale data processing. Spark can run on top of Hadoop or standalone, and supports batch, streaming, interactive, and machine learning applications. Spark also provides libraries for SQL, graph, and ML.
+  - Apache HBase: A distributed and scalable NoSQL database that provides random access and consistent updates to large amounts of structured and semi-structured data. HBase is based on the Google Bigtable model and can integrate with HDFS and MapReduce.
+  - Apache Oozie: A workflow scheduler that allows the coordination and execution of multiple Hadoop jobs. Oozie supports both time-based and data-based triggers, and can integrate with various Hadoop components such as Hive, Pig, and Spark.
+  - Apache Sqoop: A tool that allows the transfer of data between Hadoop and relational databases. Sqoop can import data from various sources such as MySQL, Oracle, PostgreSQL, etc. and export data from HDFS to these sources.
+  - Apache Zookeeper: A service that provides distributed coordination and configuration management for Hadoop clusters. Zookeeper maintains a hierarchical namespace of data nodes, and ensures high availability and consistency of the cluster state.

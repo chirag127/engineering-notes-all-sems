@@ -1,0 +1,25 @@
+### Consensus problem for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- The consensus problem is the problem of getting a set of nodes in a distributed system to agree on something - it might be a value, a course of action or a decision.
+- Achieving consensus allows a distributed system to act as a single entity, with every individual node aware of and in agreement with the actions of the whole of the network.
+- Consensus is a general agreement on a decision made by the majority of those involved.
+- Consensus is needed in a distributed system to ensure overall system reliability on top of unreliable system components.
+- Consensus is also needed to coordinate actions, synchronize state, and detect failures among the nodes in a distributed system.
+- Some examples of consensus problems in distributed systems are:
+  - Leader election: choosing a node to act as the coordinator or the primary among a group of nodes.
+  - Atomic commit: ensuring that a transaction is either committed or aborted by all the nodes involved.
+  - Distributed lock: granting exclusive access to a shared resource among competing nodes.
+  - Configuration management: maintaining a consistent view of the system parameters and state among the nodes.
+- There are many ways in which processes in a distributed system can reach a consensus. However, there is usually a constant struggle between security and performance.
+- The more we want our algorithm to be secure against ways in which failure can happen, the less performant it tends to become.
+- Some of the factors that affect the security and performance of consensus algorithms are:
+  - The number of nodes involved.
+  - The communication model (synchronous or asynchronous).
+  - The failure model (crash, omission, or Byzantine).
+  - The availability and consistency guarantees.
+- Some of the common consensus algorithms in distributed systems are:
+  - Two-phase commit (2PC): a simple and efficient algorithm that requires two rounds of communication between a coordinator and the participants.
+  - Three-phase commit (3PC): an extension of 2PC that adds a pre-commit phase to avoid blocking in case of coordinator failure.
+  - Paxos: a family of algorithms that use a quorum-based approach to tolerate crash failures and network partitions.
+  - Raft: a simplified version of Paxos that uses a leader-based approach to ensure safety and liveness.
+  - Byzantine fault tolerance (BFT): a class of algorithms that can tolerate arbitrary failures and malicious behavior of some nodes.

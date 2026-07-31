@@ -1,0 +1,33 @@
+#### Elementary Data Link Protocols in link layer in Computer Networks
+
+- Data link layer protocols are designed to perform the basic functions of the data link layer, such as framing, error control and flow control.
+- Framing is the process of dividing the bit-streams from the physical layer into data frames whose size ranges from a few hundred to a few thousand bytes.
+- Error control is the process of detecting and correcting errors that may occur during transmission or reception of data frames.
+- Flow control is the process of regulating the rate of data transmission between the sender and the receiver to avoid congestion or buffer overflow.
+- Elementary data link layer protocols are divided into three categories, as follows:
+  - Protocol 1: Unrestricted simplex protocol
+    - This protocol allows the sender to transmit data frames continuously without any feedback from the receiver.
+    - The receiver does not send any acknowledgment or control frames to the sender.
+    - This protocol is suitable for simplex channels, where data transmission is only in one direction.
+    - This protocol does not provide any error control or flow control mechanisms.
+  - Protocol 2: Simplex stop-and-wait protocol
+    - This protocol allows the sender to transmit one data frame at a time and wait for an acknowledgment from the receiver before sending the next frame.
+    - The receiver sends an acknowledgment frame to the sender after receiving and processing each data frame.
+    - This protocol is suitable for half-duplex channels, where data transmission can occur in both directions, but not simultaneously.
+    - This protocol provides error control by using sequence numbers and retransmission of lost or damaged frames.
+    - This protocol provides flow control by using a stop-and-wait mechanism, where the sender cannot send more than one frame at a time.
+  - Protocol 3: Simplex protocol for noisy channels
+    - This protocol is an improvement of protocol 2, which can handle noisy channels, where data frames or acknowledgment frames may be lost or corrupted.
+    - This protocol uses timers and timeouts to detect lost or delayed frames or acknowledgments.
+    - This protocol uses negative acknowledgments (NAKs) to indicate corrupted frames or acknowledgments.
+    - This protocol uses piggybacking to combine data frames and acknowledgment frames into one frame, to reduce the overhead and improve the efficiency.
+    - This protocol is suitable for half-duplex or full-duplex channels, where data transmission can occur in both directions, either alternately or simultaneously.
+    - This protocol provides error control and flow control by using sequence numbers, retransmission, timers, timeouts, NAKs and piggybacking.
+- Some examples of data link layer protocols are:
+  - Synchronous Data Link Control (SDLC): A bit-oriented protocol that uses flags, bit stuffing and cyclic redundancy check (CRC) for framing and error control.
+  - High-Level Data Link Control (HDLC): A bit-oriented protocol that is based on SDLC, but uses different frame types and control fields for different functions.
+  - Serial Line Internet Protocol (SLIP): A character-oriented protocol that uses end-of-frame markers and checksum for framing and error control.
+  - Point-to-Point Protocol (PPP): A byte-oriented protocol that uses flags, byte stuffing and CRC for framing and error control, and also supports multiple network layer protocols.
+  - Link Control Protocol (LCP): A protocol that is used to establish, configure, test and terminate the data link connection in PPP.
+  - Link Access Procedure (LAP): A protocol that is used to provide error control and flow control for data link layer protocols, such as LAPB and LAPD.
+  - Network Control Protocol (NCP): A protocol that is used to negotiate and configure the network layer protocols in PPP, such as IP, IPX and AppleTalk.

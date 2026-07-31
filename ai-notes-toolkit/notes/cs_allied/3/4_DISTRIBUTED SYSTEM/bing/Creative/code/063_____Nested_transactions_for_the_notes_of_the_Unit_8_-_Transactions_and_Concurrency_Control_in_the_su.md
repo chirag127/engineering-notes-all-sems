@@ -1,0 +1,9 @@
+### Nested transactions for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+- A transaction is a unit of work that performs some operations on a database or a system, and satisfies the ACID properties (Atomicity, Consistency, Isolation, Durability).
+- A nested transaction is a transaction that is composed of subtransactions, each of which may have its own begin and end points, and may be executed by different servers or processes in a distributed system.
+- Nested transactions allow for more flexibility and concurrency in distributed systems, as they can support partial commits, partial aborts, and partial retries of subtransactions, without affecting the atomicity and consistency of the whole transaction.
+- Nested transactions can be classified into two types: flat nested transactions and closed nested transactions.
+- Flat nested transactions are nested transactions that have a single commit point and a single abort point, and are treated as a single transaction by the concurrency control and recovery mechanisms. They are usually used for short and simple operations that do not require much coordination among subtransactions.
+- Closed nested transactions are nested transactions that have multiple commit points and multiple abort points, and are treated as independent transactions by the concurrency control and recovery mechanisms. They are usually used for long and complex operations that require more coordination among subtransactions, and can benefit from partial results and compensating actions.
+- Nested transactions can be implemented using various techniques, such as two-phase commit, nested two-phase commit, multilevel transactions, and serialization graphs. These techniques aim to ensure the correctness and efficiency of nested transactions in distributed systems, by resolving conflicts, detecting deadlocks, and recovering from failures.

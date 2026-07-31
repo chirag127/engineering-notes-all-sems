@@ -1,0 +1,12 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on the topic of running the Pig Latin scripts to find word count for the Big Data and Analytics Lab.
+
+## Run the Pig Latin Scripts to find Word Count
+
+- Pig Latin is a high-level scripting language that allows users to write complex data transformations using a simple syntax. Pig Latin scripts can run on Apache Hadoop, a framework for distributed processing of large data sets.
+- To find the word count of a text file using Pig Latin, we need to follow these steps:
+  - Load the text file into a relation using the `LOAD` operator. A relation is a bag of tuples, where each tuple is a collection of fields. For example, `A = LOAD 'input.txt' USING TextLoader() AS (line:chararray);` loads the text file into a relation A with one field named line.
+  - Split each line into words using the `TOKENIZE` function. This function returns a bag of words for each input tuple. For example, `B = FOREACH A GENERATE TOKENIZE(line) AS words;` creates a relation B with one field named words, which is a bag of words for each line.
+  - Flatten the bags of words into individual tuples using the `FLATTEN` operator. This operator flattens a nested bag into a set of tuples. For example, `C = FOREACH B GENERATE FLATTEN(words) AS word;` creates a relation C with one field named word, which is a single word for each tuple.
+  - Group the tuples by word using the `GROUP` operator. This operator groups the tuples by a common field and creates a new relation with two fields: the group field and a bag of all tuples in that group. For example, `D = GROUP C BY word;` creates a relation D with two fields: word and C, where C is a bag of tuples with the same word.
+  - Count the number of tuples in each group using the `COUNT` function. This function returns the number of tuples in a bag. For example, `E = FOREACH D GENERATE group, COUNT(C) AS count;` creates a relation E with two fields: group and count, where count is the number of tuples with the same word.
+  - Store the result into a file using the `STORE` operator. This operator writes the relation to a file or directory. For example, `STORE E INTO 'output.txt' USING PigStorage(',');` writes the relation E into a file named output.txt using a comma as a delimiter.

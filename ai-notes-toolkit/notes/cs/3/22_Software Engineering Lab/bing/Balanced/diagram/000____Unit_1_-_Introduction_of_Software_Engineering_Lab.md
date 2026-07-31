@@ -1,0 +1,52 @@
+## Unit 1 - Introduction of Software Engineering Lab
+
+- Software engineering is the application of engineering principles and practices to the development and maintenance of software systems.
+- Software engineering lab is a practical course that aims to provide students with hands-on experience in software engineering activities, such as requirements analysis, design, implementation, testing, and maintenance.
+- The objectives of software engineering lab are:
+  - To familiarize students with the software development life cycle and various software engineering models and methodologies.
+  - To enable students to apply software engineering principles and techniques to real-world problems and scenarios.
+  - To enhance students' skills in software engineering tools and technologies, such as programming languages, IDEs, testing frameworks, version control systems, etc.
+  - To develop students' teamwork and communication skills in software engineering projects.
+- The expected outcomes of software engineering lab are:
+  - Students will be able to understand and apply the concepts and principles of software engineering to various software projects.
+  - Students will be able to perform software engineering tasks, such as requirements elicitation, specification, design, coding, testing, debugging, and documentation, using appropriate tools and methods.
+  - Students will be able to work effectively in a software engineering team and communicate their ideas and results clearly and professionally.
+  - Students will be able to evaluate and improve the quality and reliability of software products and processes.
+- The syllabus of software engineering lab covers the following topics:
+  - Introduction to software engineering and software development life cycle
+  - Software engineering models and methodologies, such as waterfall, agile, spiral, etc.
+  - Software requirements engineering, including requirements elicitation, analysis, specification, validation, and management
+  - Software design, including design principles, patterns, models, and methods
+  - Software implementation, including coding standards, style, and conventions
+  - Software testing, including testing levels, types, techniques, and tools
+  - Software maintenance, including corrective, adaptive, perfective, and preventive maintenance
+  - Software quality assurance, including quality attributes, metrics, standards, and reviews
+  - Software configuration management, including version control, change management, and release management
+  - Software project management, including project planning, estimation, scheduling, monitoring, and risk management
+- The software engineering lab consists of 12 lab sessions, each of which focuses on a specific software engineering topic and activity. The lab sessions are as follows:
+  - Lab 1: Introduction to software engineering and software development life cycle
+  - Lab 2: Software engineering models and methodologies
+  - Lab 3: Software requirements engineering - elicitation and analysis
+  - Lab 4: Software requirements engineering - specification and validation
+  - Lab 5: Software design - principles and patterns
+  - Lab 6: Software design - models and methods
+  - Lab 7: Software implementation - coding standards, style, and conventions
+  - Lab 8: Software testing - levels and types
+  - Lab 9: Software testing - techniques and tools
+  - Lab 10: Software maintenance - types and techniques
+  - Lab 11: Software quality assurance - attributes, metrics, and standards
+  - Lab 12: Software configuration management and project management
+- The software engineering lab also involves a mini project, in which students work in groups to develop a software system following the software engineering process. The mini project consists of the following phases:
+  - Phase 1: Project proposal and feasibility study
+  - Phase 2: Requirements specification and design document
+  - Phase 3: Implementation and testing report
+  - Phase 4: Maintenance and quality assurance report
+  - Phase 5: Project presentation and demonstration
+- The software engineering lab is evaluated based on the following criteria:
+  - Lab performance: 40%
+  - Lab records: 20%
+  - Mini project: 30%
+  - Viva voce: 10%
+- The software engineering lab requires the following prerequisites and resources:
+  - Prerequisites: Basic knowledge of programming languages, such as C, C++, Java, etc., and software engineering concepts and principles.
+  - Resources: A computer system with internet access and software engineering tools, such as IDEs, testing frameworks, version control systems, etc.

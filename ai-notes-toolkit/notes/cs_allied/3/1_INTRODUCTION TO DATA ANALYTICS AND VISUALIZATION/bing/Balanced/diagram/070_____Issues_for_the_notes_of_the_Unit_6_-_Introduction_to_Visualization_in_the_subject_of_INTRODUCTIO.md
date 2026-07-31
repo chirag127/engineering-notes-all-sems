@@ -1,0 +1,16 @@
+### Issues for the notes of the Unit 6 - Introduction to Visualization in the subject of INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION
+
+- Data visualization is the process of transforming data into graphical or pictorial representations that can communicate information effectively and efficiently to the audience.
+- Data visualization can have many benefits, such as revealing patterns, trends, outliers, correlations, and causalities in the data, as well as enhancing the understanding, memory, and engagement of the viewers.
+- However, data visualization can also have many issues, such as misleading, confusing, or deceiving the audience, as well as violating the ethical, aesthetic, or technical principles of good design    .
+- Some of the common issues for data visualization are:
+
+  - Correlation is not causation: Correlations make us see false relationships that may not exist or imply causality that is not supported by evidence.
+  - Similarities now do not mean similarities forever: A relationship happening within our observational set does not imply a relationship always, as the data may change over time or under different conditions.
+  - Axes make all the difference: The size and number of axes can change the way we interpret data, as they can create distortions, exaggerations, or omissions of the data values .
+  - Abusing the Law of Large Numbers (LLN): The LLN states that as the sample size increases, the sample mean approaches the population mean, but this does not mean that any large sample is representative of the population, as there may be biases, errors, or outliers in the data.
+  - Choosing the wrong format: The nature of the data usually dictates the format of the visualization, such as whether the data is qualitative or quantitative, discrete or continuous, nominal or ordinal, etc. Choosing the wrong format can lead to confusion, misinterpretation, or loss of information .
+  - Misleading color contrast: Color is among the most persuasive design elements, as it can elicit strong emotional responses and convey meanings and associations. However, high degrees of color contrast may cause viewers to believe that value disparities are greater than they really are, or that certain values are more important or relevant than others.
+  - Overloading the visualization: Adding too much information, detail, or complexity to the visualization can make it cluttered, noisy, or overwhelming, which can reduce the readability, clarity, and effectiveness of the message .
+  - Ignoring the context: The context of the data, such as the source, quality, accuracy, reliability, validity, and limitations of the data, as well as the purpose, audience, and medium of the visualization, should be considered and communicated in the visualization, as they can affect the interpretation, evaluation, and use of the data .
+  - Violating the ethical principles: Data visualization should respect the ethical principles of honesty, transparency, accountability, and responsibility, which means that the data and the visualization should not be manipulated, distorted, fabricated, or omitted to mislead, deceive, or harm the audience or the data subjects .

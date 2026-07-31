@@ -1,0 +1,34 @@
+## Unit 1 - The cell concept, structure of prokaryotic, eukaryotic cells, plant cells and animal cells, Structure and function of cell membrane, cell organelles and their function, Basics of cell signaling, Structure and use of compound microscope, Basic chemical constituents of living body
+
+- The cell concept is the idea that all living organisms are composed of one or more cells, and that cells are the basic units of structure and function in life.
+- Prokaryotic cells are cells that lack a nucleus and other membrane-bound organelles. They are usually unicellular and have a simple structure. Examples of prokaryotes are bacteria and archaea.
+- Eukaryotic cells are cells that have a nucleus and other membrane-bound organelles. They are usually multicellular and have a complex structure. Examples of eukaryotes are animals, plants, fungi and protists.
+- Plant cells are eukaryotic cells that have some specific features, such as a cell wall, a large central vacuole, chloroplasts and plasmodesmata. Plant cells are involved in photosynthesis, storage, support and communication.
+- Animal cells are eukaryotic cells that lack a cell wall, a large central vacuole, chloroplasts and plasmodesmata. Animal cells are involved in movement, digestion, respiration, reproduction and sensation.
+- The cell membrane is a thin, flexible layer that surrounds the cell and regulates the movement of substances in and out of the cell. It is composed of a phospholipid bilayer with embedded proteins, carbohydrates and cholesterol. The cell membrane has various functions, such as protection, transport, recognition, communication and adhesion.
+- Cell organelles are specialized structures within the cell that perform specific functions. Some examples of cell organelles are:
+  - Nucleus: The control center of the cell that contains the genetic material (DNA) and regulates gene expression.
+  - Mitochondria: The powerhouses of the cell that produce energy (ATP) by cellular respiration.
+  - Ribosomes: The sites of protein synthesis that translate mRNA into amino acids.
+  - Endoplasmic reticulum: A network of membranes that transport and modify proteins and lipids.
+  - Golgi apparatus: A stack of flattened membranes that sort and package proteins and lipids for secretion or delivery to other organelles.
+  - Lysosomes: The digestive system of the cell that break down macromolecules and recycle cellular components.
+  - Cytoskeleton: A network of protein filaments that provide shape, support and movement to the cell and its organelles.
+  - Cilia and flagella: Hair-like or whip-like structures that extend from the cell surface and enable locomotion or movement of fluids.
+- Cell signaling is the process by which cells communicate with each other or with the environment by using chemical or electrical signals. Cell signaling can be classified into four types:
+  - Autocrine signaling: When a cell produces and responds to its own signal.
+  - Paracrine signaling: When a cell produces a signal that affects nearby cells.
+  - Endocrine signaling: When a cell produces a signal that travels through the bloodstream and affects distant cells.
+  - Synaptic signaling: When a nerve cell produces a signal that crosses a synapse and affects another nerve cell or a target cell.
+- A compound microscope is a device that uses two or more lenses to magnify an object. The basic parts of a compound microscope are:
+  - Eyepiece: The lens that the user looks through to see the magnified image.
+  - Objective lens: The lens that is closest to the object and collects light from it.
+  - Stage: The platform that holds the object to be observed.
+  - Light source: The source of illumination that passes through the object and the lenses.
+  - Coarse and fine adjustment knobs: The knobs that move the stage or the objective lens to focus the image.
+  - Diaphragm: The device that controls the amount of light that reaches the object and the lenses.
+- The basic chemical constituents of living body are:
+  - Water: The most abundant and essential molecule in living organisms that provides a medium for biochemical reactions, transport, temperature regulation and lubrication.
+  - Carbohydrates: The molecules that provide energy and structural support to living organisms. They are composed of monosaccharides (simple sugars), disaccharides (double sugars) and polysaccharides (complex sugars).
+  - Lipids: The molecules that store energy, form cell membranes, and act as hormones and signaling molecules. They are composed of fatty acids and glycerol, and include fats, oils, phospholipids, steroids and waxes.
+  -

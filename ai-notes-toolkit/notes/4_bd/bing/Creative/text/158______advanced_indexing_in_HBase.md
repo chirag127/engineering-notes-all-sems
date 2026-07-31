@@ -1,0 +1,14 @@
+#### Advanced Indexing in HBase
+
+- HBase is a column-oriented NoSQL database that runs on top of Hadoop and is modelled after Google's BigTable.
+- HBase has only one primary index that is lexicographically sorted on the row key. This means that access to records by any other attribute requires scanning over potentially all the rows in the table, which is inefficient and costly.
+- Secondary indexing is a technique to create additional indexes on other attributes of the table, such as column family, column qualifier, or value. Secondary indexes can improve the performance of queries that filter or sort by those attributes.
+- However, secondary indexing in HBase is not a built-in feature and requires additional design and implementation considerations. Some of the challenges are:
+  - How to maintain consistency between the primary table and the secondary indexes, especially in the face of concurrent updates, failures, and compactions  ?
+  - How to distribute and balance the load of the secondary indexes across the cluster, avoiding hotspots and bottlenecks  ?
+  - How to support complex queries that involve multiple secondary indexes, such as joins, aggregations, and range scans ?
+- There are different approaches to implement secondary indexing in HBase, each with its own trade-offs and limitations  . Some of the common ones are:
+  - Client-side indexing: The client application is responsible for creating and updating the secondary indexes as separate HBase tables, and querying them using filters or coprocessors . This approach is simple and flexible, but it requires extra logic and coordination in the client, and it may cause inconsistency or stale data if the updates are not atomic or synchronous .
+  - Server-side indexing: The HBase server uses coprocessors or observers to intercept the updates on the primary table and propagate them to the secondary indexes  . This approach is more efficient and consistent, but it requires custom code on the server, and it may introduce performance overhead or scalability issues if the indexes are not well designed or distributed  .
+  - External indexing: An external system or service, such as Solr, Elasticsearch, or Lily HBase Indexer, is used to create and maintain the secondary indexes, and provide a query interface to the client . This approach is more powerful and scalable, but it requires additional infrastructure and integration, and it may introduce latency or complexity in the data pipeline .
+- Secondary indexing in HBase is an active area of research and development, and there are several proposals and projects to improve and standardize it  . For example, HBASE-9203 is a Jira entry that outlines a design for a built-in secondary indexing framework in HBase. Apache Phoenix is a SQL layer on top of HBase that supports secondary indexing using global or local indexes.

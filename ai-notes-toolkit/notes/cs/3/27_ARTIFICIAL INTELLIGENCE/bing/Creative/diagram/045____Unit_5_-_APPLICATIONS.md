@@ -1,0 +1,68 @@
+## Unit 5 - APPLICATIONS
+
+- This unit covers some of the applications of artificial intelligence in various domains, such as natural language processing, computer vision, robotics, games, and decision making.
+- The objectives of this unit are to:
+  - Understand the basic concepts and techniques of natural language processing, such as tokenization, parsing, semantics, and dialogue systems.
+  - Learn how computer vision enables machines to perceive and understand visual information, such as images, videos, and scenes.
+  - Explore the challenges and opportunities of robotics, such as navigation, manipulation, coordination, and human-robot interaction.
+  - Analyze how artificial intelligence can enhance the design and play of games, such as chess, Go, and video games.
+  - Examine how artificial intelligence can support decision making in complex and uncertain situations, such as planning, scheduling, diagnosis, and recommendation systems.
+
+- The topics covered in this unit are:
+
+  - Natural language processing
+    - Tokenization and normalization
+    - Morphological analysis and part-of-speech tagging
+    - Syntactic analysis and parsing
+    - Semantic analysis and representation
+    - Pragmatic analysis and discourse
+    - Natural language generation
+    - Dialogue systems and chatbots
+    - Information extraction and retrieval
+    - Machine translation and multilingual processing
+    - Text summarization and sentiment analysis
+    - Question answering and natural language understanding
+  - Computer vision
+    - Image processing and representation
+    - Feature extraction and detection
+    - Object recognition and classification
+    - Face detection and recognition
+    - Scene understanding and segmentation
+    - Optical character recognition and document analysis
+    - Image synthesis and generation
+    - Video analysis and tracking
+    - Activity recognition and event detection
+    - Computer vision for robotics and augmented reality
+  - Robotics
+    - Robot anatomy and kinematics
+    - Robot sensors and actuators
+    - Robot localization and mapping
+    - Robot navigation and path planning
+    - Robot motion control and coordination
+    - Robot manipulation and grasping
+    - Robot learning and adaptation
+    - Robot communication and collaboration
+    - Robot ethics and social impact
+    - Human-robot interaction and social robotics
+  - Games
+    - Game theory and rationality
+    - Minimax search and alpha-beta pruning
+    - Heuristic evaluation and game tree search
+    - Monte Carlo tree search and reinforcement learning
+    - Artificial neural networks and deep learning
+    - Board games and puzzle games
+    - Card games and dice games
+    - Video games and interactive fiction
+    - Game design and development
+    - Game AI and player modeling
+  - Decision making
+    - Decision theory and utility theory
+    - Probability theory and Bayesian networks
+    - Markov decision processes and dynamic programming
+    - Reinforcement learning and Q-learning
+    - Planning and search algorithms
+    - Scheduling and resource allocation
+    - Diagnosis and troubleshooting
+    - Recommendation systems and personalization
+    - Multi-agent systems and distributed AI
+    - Expert systems and knowledge-based systems

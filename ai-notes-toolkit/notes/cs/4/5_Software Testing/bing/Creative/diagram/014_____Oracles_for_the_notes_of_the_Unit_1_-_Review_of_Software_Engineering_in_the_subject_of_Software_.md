@@ -1,0 +1,24 @@
+### Oracles
+
+- An oracle is a mechanism for determining whether a test has passed or failed  .
+- An oracle compares the output of the system under test, for a given test-case input, to the expected output   .
+- An oracle can be a human, a document, a program, or another system that provides the expected output   .
+- An oracle can specify the expected output for all possible inputs, or only for specific inputs .
+- An oracle can also specify constraints or properties that the output should satisfy, rather than exact values .
+- An oracle can be derived from various sources, such as requirements, specifications, design, domain knowledge, or intuition  .
+- An oracle can be complete, partial, inconsistent, or nonexistent  .
+- A complete oracle can determine the correctness of any output  .
+- A partial oracle can determine the correctness of some outputs, but not all  .
+- An inconsistent oracle can give different or contradictory results for the same output  .
+- A nonexistent oracle means that there is no way to determine the correctness of any output  .
+- Oracles are important for software testing, because they provide the basis for evaluating the quality of the system under test  .
+- Oracles are also challenging for software testing, because they can be difficult to obtain, implement, or apply  .
+- Oracles can be affected by errors, ambiguities, incompleteness, or inconsistencies in the sources from which they are derived  .
+- Oracles can also introduce errors, biases, or limitations in the testing process  .
+- Oracles can be classified into different types, such as specification-based, program-based, implicit, explicit, heuristic, or metamorphic  .
+- Specification-based oracles use the specifications of the system under test as the source of expected output  .
+- Program-based oracles use another program that implements the same functionality as the system under test as the source of expected output  .
+- Implicit oracles use the inherent properties or behavior of the system under test as the source of expected output  .
+- Explicit oracles use the explicitly stated or predefined expected output as the source of expected output  .
+- Heuristic oracles use the general rules or principles that guide the testing process as the source of expected output  .
+- Metamorphic oracles use the relations or transformations between different test cases and their outputs as the source of expected output  .

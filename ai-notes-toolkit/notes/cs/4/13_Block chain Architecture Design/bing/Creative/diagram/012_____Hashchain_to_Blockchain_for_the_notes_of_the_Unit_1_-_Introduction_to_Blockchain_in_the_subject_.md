@@ -1,0 +1,21 @@
+### Hashchain to Blockchain
+
+- A hash chain is a data structure that applies a cryptographic hash function to a piece of data repeatedly, producing a sequence of hash values.
+- A hash function is a mathematical function that maps an input of any size to an output of a fixed size, called a hash or a digest.
+- A hash chain can be used to produce many one-time keys from a single key or password, or to record the chronology of data's existence.
+- A blockchain is a data structure that consists of a chain of blocks, where each block contains a header and a body.
+- The block header contains metadata, such as the previous block's hash, the timestamp, the nonce, and the difficulty.
+- The block body contains transactions, which are records of transfers of value or information between parties.
+- A blockchain is similar to a hash chain, as they both utilize a cryptographic hash function for creating a link between two nodes.
+- However, a blockchain is more than a hash chain, as it also incorporates a consensus mechanism, a peer-to-peer network, and a distributed ledger.
+- A consensus mechanism is a set of rules and processes that allow the nodes in the network to agree on the state of the ledger and the validity of transactions.
+- A peer-to-peer network is a system of interconnected nodes that communicate and exchange data without a central authority or intermediary.
+- A distributed ledger is a database that is shared and synchronized among multiple nodes, ensuring that each node has the same copy of the data.
+- A blockchain is a type of distributed ledger that uses a hash chain to ensure the integrity and immutability of the data.
+- A blockchain can be used for various applications, such as cryptocurrency, smart contracts, supply chain, identity, voting, and more.
+- A hashgraph is another type of distributed ledger that uses a directed acyclic graph (DAG) instead of a hash chain to store and access information.
+- A DAG is a data structure that consists of nodes and edges, where each node represents an event and each edge represents a causal relationship between events.
+- A hashgraph uses a consensus algorithm called gossip about gossip, which allows the nodes to reach an agreement on the order and validity of events by exchanging information about what they have heard from other nodes.
+- A hashgraph claims to have advantages over a blockchain, such as higher scalability, faster speed, lower energy consumption, and higher security.
+- However, a hashgraph also has some drawbacks, such as being patented, centralized, and less transparent than a blockchain.
+- A hashgraph and a blockchain are both examples of distributed ledger technologies (DLTs) that aim to provide a decentralized, trustless, and secure way of storing and transferring data.

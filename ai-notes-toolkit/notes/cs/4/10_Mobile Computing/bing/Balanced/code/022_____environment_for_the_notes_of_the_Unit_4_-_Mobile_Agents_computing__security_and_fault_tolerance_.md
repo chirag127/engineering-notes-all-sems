@@ -1,0 +1,12 @@
+### Environment for Mobile Agents
+
+- A mobile agent is a software entity that can migrate from one node to another in a network, carrying its code and state, and executing autonomously .
+- A mobile agent environment is the software infrastructure that supports the creation, migration, communication, and execution of mobile agents .
+- A mobile agent environment typically consists of the following components :
+  - An agent platform: the computational environment in which an agent operates. It provides the basic services and resources for agent creation, migration, communication, and security. The platform where an agent originates is referred to as the home platform, and normally is the most trusted environment for an agent.
+  - An agent transport service: the mechanism that enables an agent to move from one platform to another. It is responsible for transferring the agent's code and state, and ensuring the integrity and authenticity of the agent during transit .
+  - An agent communication service: the mechanism that enables an agent to communicate with other agents, users, and systems. It is based on a communication language and protocol that define the syntax and semantics of agent messages .
+  - An agent security service: the mechanism that protects the agent and the platform from malicious attacks. It includes authentication, authorization, encryption, integrity, confidentiality, and non-repudiation techniques .
+- A mobile agent environment can be classified into two types based on the degree of heterogeneity of the platforms :
+  - A homogeneous environment: where all the platforms share the same operating system, hardware, and agent system. This type of environment simplifies the agent migration and execution, but limits the portability and interoperability of the agents .
+  - A heterogeneous environment: where the platforms may have different operating systems, hardware, and agent systems. This type of environment requires the use of a common agent language or a translation mechanism to enable the agent migration and execution across different platforms. It enhances the portability and interoperability of the agents, but increases the complexity and overhead of the agent system .

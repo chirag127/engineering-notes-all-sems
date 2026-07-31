@@ -1,0 +1,14 @@
+### I2C/IIC
+
+I2C, which stands for Inter-Integrated Circuit, and IIC, which stands for I2C Inter-Integrated Circuit, are two terms used interchangeably to describe the same communication protocol. The I2C/IIC protocol is a two-wire communication protocol developed by Philips Semiconductors (now NXP Semiconductors) in the early 1980s. It is commonly used to connect low-speed peripherals to microcontrollers, such as sensors, EEPROMs, and other devices.
+
+Here are some important points to understand about the I2C/IIC protocol:
+
+- Two-wire communication: The I2C/IIC protocol uses only two wires for communication: the Serial Data Line (SDA) and the Serial Clock Line (SCL). This makes it a simple and cost-effective way to interface multiple devices with a microcontroller.
+- Master/slave architecture: In an I2C/IIC communication, there is always one master device that initiates the communication and one or more slave devices that respond to the master's requests. The master device generates the clock signal and controls the communication sequence.
+- Addressing: Each slave device on the I2C/IIC bus has a unique 7-bit address that is used by the master device to communicate with it. This allows multiple devices to be connected to the same bus without interfering with each other.
+- Clock speed: The maximum clock speed of the I2C/IIC bus depends on the specific devices connected to it, but typically ranges from a few kilohertz to a few megahertz. Slower clock speeds are more reliable over longer distances, while faster clock speeds allow for faster data transfer.
+- Data transfer: The I2C/IIC protocol supports two types of data transfer: byte-level transfer and bit-level transfer. In byte-level transfer, the master device sends or receives a byte of data to or from a slave device. In bit-level transfer, the master device sends or receives a single bit of data to or from a slave device, which can be useful for controlling individual bits of a device's register.
+- Acknowledgment: Once a byte of data has been transferred, the receiving device sends an acknowledgment (ACK) or non-acknowledgment (NACK) signal back to the master device to indicate whether the transfer was successful or not. This allows for reliable communication between devices.
+
+In summary, the I2C/IIC protocol is a simple and cost-effective way to interface multiple low-speed peripherals with a microcontroller. Its two-wire communication, master/slave architecture, addressing, clock speed, data transfer, and acknowledgment make it a reliable and efficient communication protocol for a wide range of applications.

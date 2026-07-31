@@ -1,0 +1,28 @@
+### Resultant of force system- concurrent and non-concurrent coplanar forces
+
+- A force system is a set of forces acting on a rigid body.
+- A force system is said to be **coplanar** if the lines of action of all the forces lie in the same plane.
+- A force system is said to be **concurrent** if the lines of action of all the forces intersect at a common point.
+- A force system is said to be **non-concurrent** if the lines of action of all the forces do not intersect at a common point.
+- The **resultant** of a force system is a single force that has the same effect as the original force system on the rigid body.
+- The resultant of a force system can be determined by using the principle of equilibrium, vector addition, or the method of components.
+- The resultant of a coplanar concurrent force system can be found by adding the x and y components of all the forces and then finding the magnitude and direction of the resultant vector.
+- The resultant of a coplanar non-concurrent force system can be found by finding the resultant force and the resultant moment of the force system.
+- The resultant force of a coplanar non-concurrent force system can be found by adding the x and y components of all the forces as in the concurrent case.
+- The resultant moment of a coplanar non-concurrent force system can be found by taking the sum of the moments of all the forces about any point in the plane.
+- The resultant of a non-coplanar concurrent force system can be found by adding the x, y, and z components of all the forces and then finding the magnitude and direction of the resultant vector.
+- The resultant of a non-coplanar non-concurrent force system can be found by finding the resultant force and the resultant moment of the force system.
+- The resultant force of a non-coplanar non-concurrent force system can be found by adding the x, y, and z components of all the forces as in the concurrent case.
+- The resultant moment of a non-coplanar non-concurrent force system can be found by taking the sum of the moments of all the forces about any point in space.
+- A special case of a coplanar non-concurrent force system is a **couple**, which is a system of two equal and opposite forces whose lines of action are not collinear.
+- A couple has a zero resultant force but a nonzero resultant moment.
+- The resultant moment of a couple is called a **pure moment** and is independent of the point of reference.
+- The magnitude of the pure moment of a couple is equal to the product of the magnitude of one of the forces and the perpendicular distance between the lines of action of the two forces.
+- The direction of the pure moment of a couple is perpendicular to the plane containing the two forces and follows the right-hand rule.
+- A special case of a non-coplanar non-concurrent force system is a **wrench**, which is a system of forces that has a resultant force and a resultant moment that are parallel to each other.
+- A wrench can be replaced by a single force and a single moment that are parallel to each other and have the same magnitude and direction as the resultant force and moment of the wrench.
+- The single force and moment that replace a wrench are called the **resultant wrench**.
+- The magnitude of the resultant wrench is equal to the magnitude of the resultant force of the wrench.
+- The direction of the resultant wrench is parallel to the direction of the resultant force and moment of the wrench.
+- The point of application of the resultant wrench can be found by using the principle of transmissibility, which states that a force can be moved along its line of action without changing its effect on the rigid body.
+- The point of application of the resultant wrench is the point where the line of action of the resultant force intersects the line of action of the resultant moment.

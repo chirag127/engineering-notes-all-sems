@@ -1,0 +1,49 @@
+# ENGINEERING MATHEMATICS-II
+## Unit 1 - Ordinary Differential Equation of Higher Order
+### Linear differential equation of nth order with constant coefficients for the notes of the Unit 1 - Ordinary Differential Equation of Higher Order in the subject of ENGINEERING MATHEMATICS-II
+### Simultaneous linear differential equations for the notes of the Unit 1 - Ordinary Differential Equation of Higher Order in the subject of ENGINEERING MATHEMATICS-II
+### Second order linear differential equations with variable coefficients for the notes of the Unit 1 - Ordinary Differential Equation of Higher Order in the subject of ENGINEERING MATHEMATICS-II
+### Solution by changing independent variable for the notes of the Unit 1 - Ordinary Differential Equation of Higher Order in the subject of ENGINEERING MATHEMATICS-II
+### Method of variation of parameters for the notes of the Unit 1 - Ordinary Differential Equation of Higher Order in the subject of ENGINEERING MATHEMATICS-II
+### Cauchy-Euler equation for the notes of the Unit 1 - Ordinary Differential Equation of Higher Order in the subject of ENGINEERING MATHEMATICS-II
+### Application of differential equations in solving engineering problems for the notes of the Unit 1 - Ordinary Differential Equation of Higher Order in the subject of ENGINEERING MATHEMATICS-II
+## Unit 2 - Laplace Transform
+### Laplace transform for the notes of the Unit 2 - Laplace Transform in the subject of ENGINEERING MATHEMATICS-II
+### Existence theorem for the notes of the Unit 2 - Laplace Transform in the subject of ENGINEERING MATHEMATICS-II
+### Properties of Laplace Transform for the notes of the Unit 2 - Laplace Transform in the subject of ENGINEERING MATHEMATICS-II
+### Laplace transform of derivates and integrals for the notes of the Unit 2 - Laplace Transform in the subject of ENGINEERING MATHEMATICS-II
+### Unit step function for the notes of the Unit 2 - Laplace Transform in the subject of ENGINEERING MATHEMATICS-II
+### Laplace transform of periodic function for the notes of the Unit 2 - Laplace Transform in the subject of ENGINEERING MATHEMATICS-II
+### Inverse Laplace transform for the notes of the Unit 2 - Laplace Transform in the subject of ENGINEERING MATHEMATICS-II
+### Convolution theorem for the notes of the Unit 2 - Laplace Transform in the subject of ENGINEERING MATHEMATICS-II
+### Application of Laplace Transform to solve ordinary differential equations and simultaneous differential equations for the notes of the Unit 2 - Laplace Transform in the subject of ENGINEERING MATHEMATICS-II
+## Unit 3 - Sequence and Series
+### Definition of Sequence and series with examples for the notes of the Unit 3 - Sequence and Series in the subject of ENGINEERING MATHEMATICS-II
+### Convergence of series for the notes of the Unit 3 - Sequence and Series in the subject of ENGINEERING MATHEMATICS-II
+### Tests for convergence of series for the notes of the Unit 3 - Sequence and Series in the subject of ENGINEERING MATHEMATICS-II
+### Ratio test for the notes of the Unit 3 - Sequence and Series in the subject of ENGINEERING MATHEMATICS-II
+### D’ Alembert’s test for the notes of the Unit 3 - Sequence and Series in the subject of ENGINEERING MATHEMATICS-II
+### Raabe’s test for the notes of the Unit 3 - Sequence and Series in the subject of ENGINEERING MATHEMATICS-II
+### Comparison test for the notes of the Unit 3 - Sequence and Series in the subject of ENGINEERING MATHEMATICS-II
+### Fourier series for the notes of the Unit 3 - Sequence and Series in the subject of ENGINEERING MATHEMATICS-II
+### Half range Fourier sine and cosine series for the notes of the Unit 3 - Sequence and Series in the subject of ENGINEERING MATHEMATICS-II
+## Unit 4 - Complex Variable–Differentiation
+### Functions of complex variable for the notes of the Unit 4 - Complex Variable–Differentiation in the subject of ENGINEERING MATHEMATICS-II
+### Limit for the notes of the Unit 4 - Complex Variable–Differentiation in the subject of ENGINEERING MATHEMATICS-II
+### Continuity and differentiability for the notes of the Unit 4 - Complex Variable–Differentiation in the subject of ENGINEERING MATHEMATICS-II
+### Analytic functions for the notes of the Unit 4 - Complex Variable–Differentiation in the subject of ENGINEERING MATHEMATICS-II
+### Cauchy- Riemann equations (Cartesian and Polar form) for the notes of the Unit 4 - Complex Variable–Differentiation in the subject of ENGINEERING MATHEMATICS-II
+### Harmonic function for the notes of the Unit 4 - Complex Variable–Differentiation in the subject of ENGINEERING MATHEMATICS-II
+### Method to find Analytic functions for the notes of the Unit 4 - Complex Variable–Differentiation in the subject of ENGINEERING MATHEMATICS-II
+### Milne’s Thompson Method for the notes of the Unit 4 - Complex Variable–Differentiation in the subject of ENGINEERING MATHEMATICS-II
+### Conformal mapping for the notes of the Unit 4 - Complex Variable–Differentiation in the subject of ENGINEERING MATHEMATICS-II
+### Mobius transformation and their properties for the notes of the Unit 4 - Complex Variable–Differentiation in the subject of ENGINEERING MATHEMATICS-II
+## Unit 5 - Complex Variable –Integration
+### Complex integration for the notes of the Unit 5 - Complex Variable –Integration in the subject of ENGINEERING MATHEMATICS-II
+### Cauchy- Integral theorem for the notes of the Unit 5 - Complex Variable –Integration in the subject of ENGINEERING MATHEMATICS-II
+### Cauchy integral formula for the notes of the Unit 5 - Complex Variable –Integration in the subject of ENGINEERING MATHEMATICS-II
+### Taylor’s and Laurent’s series for the notes of the Unit 5 - Complex Variable –Integration in the subject of ENGINEERING MATHEMATICS-II
+### singularities and its classification for the notes of the Unit 5 - Complex Variable –Integration in the subject of ENGINEERING MATHEMATICS-II
+### zeros of analytic functions for the notes of the Unit 5 - Complex Variable –Integration in the subject of ENGINEERING MATHEMATICS-II
+### Residues for the notes of the Unit 5 - Complex Variable –Integration in the subject of ENGINEERING MATHEMATICS-II
+### Cauchy’s Residue theorem and its application for the notes of the Unit 5 - Complex Variable –Integration in the subject of ENGINEERING MATHEMATICS-II KCS

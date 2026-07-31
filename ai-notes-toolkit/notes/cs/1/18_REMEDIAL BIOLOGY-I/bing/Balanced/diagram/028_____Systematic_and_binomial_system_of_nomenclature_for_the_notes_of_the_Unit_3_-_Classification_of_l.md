@@ -1,0 +1,22 @@
+### Systematic and Binomial System of Nomenclature
+
+- Systematic is the branch of biology that deals with the identification, naming, and classification of living organisms based on their similarities and differences.
+- Binomial nomenclature is the system of scientifically naming organisms developed by Carl Linnaeus, a Swedish botanist, in the 18th century .
+- Binomial nomenclature is required in biology to unify the naming system throughout life sciences and, as a result, offer a single unique name identifier for a species across languages.
+- Binomial nomenclature is made up of two names: the genus name and the species name. For example, the scientific name of human is Homo sapiens, where Homo is the genus name and sapiens is the species name .
+- The rules of binomial nomenclature are as follows  :
+  - The genus name is always capitalized and the species name is always lowercase.
+  - The scientific name is always written in italics or underlined.
+  - The scientific name can be abbreviated by using the first letter of the genus name followed by a period and the full species name. For example, H. sapiens for Homo sapiens.
+  - The scientific name is based on Latin or Greek words, or derived from the names of places, people, or characteristics of the organism.
+  - The scientific name is unique and universal, and does not change with time or location.
+- Binomial nomenclature is part of a broader system of classification called taxonomy, which groups organisms into hierarchical categories based on their evolutionary relationships .
+- The main categories of taxonomy are: domain, kingdom, phylum, class, order, family, genus, and species. For example, the human belongs to the domain Eukarya, the kingdom Animalia, the phylum Chordata, the class Mammalia, the order Primates, the family Hominidae, the genus Homo, and the species sapiens .
+- The five kingdom classification is a system of grouping organisms into five major kingdoms: Monera, Protista, Fungi, Plantae, and Animalia. This system is based on the level of cellular organization, the mode of nutrition, and the presence or absence of a cell wall.
+- The major groups and principles of classification in each kingdom are as follows:
+  - Monera: This kingdom includes all the prokaryotic organisms, such as bacteria and cyanobacteria. They are classified based on their shape, size, cell wall structure, mode of nutrition, and metabolic activities.
+  - Protista: This kingdom includes all the eukaryotic organisms that are not plants, animals, or fungi, such as protozoa, algae, and slime molds. They are classified based on their mode of locomotion, mode of nutrition, and life cycle.
+  - Fungi: This kingdom includes all the eukaryotic organisms that are heterotrophic and have a cell wall made of chitin, such as mushrooms, molds, and yeasts. They are classified based on their structure, reproduction, and spore formation.
+  - Plantae: This kingdom includes all the eukaryotic organisms that are autotrophic and have a cell wall made of cellulose, such as mosses, ferns, and flowering plants. They are classified based on their level of tissue differentiation, vascular system, seed formation, and flower structure.
+  - Animalia: This kingdom includes all the eukaryotic organisms that are heterotrophic and lack a cell wall, such as sponges, worms, insects, and vertebrates. They are classified based on their level of tissue differentiation, body symmetry, coelom formation, and embryonic development.
+- The concept of animal and plant classification is to group the organisms into categories that reflect their evolutionary history, similarities, and differences, and to provide a common language for naming and studying them .

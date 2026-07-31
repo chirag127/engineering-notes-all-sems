@@ -1,0 +1,21 @@
+### Virtualization of CPU
+
+- CPU virtualization is a technique that creates multiple versions of various system resources, including your CPU, server, storage, etc. 
+- CPU virtualization involves a single CPU acting as if it were multiple separate CPUs. The most common reason for doing this is to run multiple different operating systems on one machine. 
+- CPU virtualization emphasizes performance and runs directly on the available CPUs whenever possible. 
+- CPU virtualization can be achieved by using software or hardware methods. 
+- Software-based CPU virtualization uses a hypervisor, which is a software layer that runs between the hardware and the operating systems. The hypervisor creates and manages virtual machines, which are isolated environments that run different operating systems. 
+- Hardware-based CPU virtualization uses special features in the CPU that allow the hypervisor to run more efficiently and securely. Some examples of these features are Intel VT-x and AMD-V. 
+- CPU virtualization has many benefits, such as:
+  - Increased utilization of CPU resources and reduced power consumption. 
+  - Improved scalability and flexibility of the system. 
+  - Enhanced security and isolation of the virtual machines. 
+  - Easier migration and backup of the virtual machines. 
+  - Support for legacy applications and operating systems. 
+- CPU virtualization also has some challenges, such as:
+  - Overhead and performance degradation due to the hypervisor. 
+  - Compatibility and licensing issues with some operating systems and applications. 
+  - Complexity and cost of managing and maintaining the virtualized environment. 
+  - Security risks and vulnerabilities of the hypervisor and the virtual machines. 
+- To enable CPU virtualization, you need to check if your CPU supports the feature and enable it in the BIOS settings.  
+- You also need to install a hypervisor and create virtual machines according to your needs and preferences.

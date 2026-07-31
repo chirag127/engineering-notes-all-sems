@@ -1,0 +1,11 @@
+### Precedence Constraints and Data Dependency
+
+- Precedence constraints and data dependency are two types of constraints that may affect the execution order of jobs in real time systems.
+- Precedence constraints are imposed by the logical or temporal dependencies among jobs, such as control flow or synchronization. For example, a job J1 may need to finish before another job J2 can start, or a job J3 may need to wait for a signal from another job J4.
+- Data dependency is imposed by the communication or sharing of data among jobs, such as input/output or shared memory. For example, a job J5 may need to read some data produced by another job J6, or a job J7 may need to write some data to a shared buffer accessed by another job J8.
+- Precedence constraints and data dependency can be represented by a directed graph G = (J, <), where J is the set of jobs and < is the relation that defines the order of execution. This graph is called the precedence graph or the dependency graph.
+- A job J1 is a predecessor of another job J2 (and J2 is a successor of J1) if J2 cannot begin execution until the execution of J1 completes. A job J3 is an immediate predecessor of another job J4 (and J4 is an immediate successor of J3) if there is a direct edge from J3 to J4 in the graph G.
+- A job J5 is independent of another job J6 if there is no path from J5 to J6 or from J6 to J5 in the graph G. Independent jobs can execute in any order without violating the constraints.
+- A job J7 is dependent on another job J8 if there is a path from J7 to J8 or from J8 to J7 in the graph G. Dependent jobs must execute in a specific order to satisfy the constraints.
+- A path from J1 to J2 in the graph G is a sequence of jobs J1, J2, ..., Jn such that J1 is an immediate predecessor of J2, J2 is an immediate predecessor of J3, and so on, until Jn-1 is an immediate predecessor of Jn. A path from J1 to J2 represents a transitive dependency between J1 and J2.
+- A cycle in the graph G is a path from J1 to J2 that also includes J1 as the last job. A cycle in the graph G represents a circular dependency among the jobs in the cycle. A cycle in the graph G may prevent the execution of the jobs in the cycle or cause a deadlock.

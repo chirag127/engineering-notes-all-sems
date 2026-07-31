@@ -1,0 +1,29 @@
+### IOT based Three Phase Power Failure Monitoring with SMS Alerts
+
+- This is a system that monitors the power supply of a three-phase system and alerts the authorized person via SMS in case of a power failure in any of the phases   .
+- A three-phase system is a type of electrical power distribution that uses three alternating currents of the same frequency and amplitude, but with a phase difference of 120 degrees.
+- A power failure in a three-phase system can cause serious damage to the connected equipment and appliances, as well as affect the performance and efficiency of the system   .
+- The system consists of the following components:
+  - A microcontroller that controls the logic and communication of the system  .
+  - A GSM module that sends and receives SMS messages to and from the authorized person   .
+  - A LCD display that shows the status and voltage of each phase   .
+  - A voltage sensor that measures the voltage of each phase and sends it to the microcontroller  .
+  - A relay that switches on and off the power supply of each phase according to the microcontroller's commands  .
+- The system works as follows:
+  - The system is powered by a 12V DC supply and is connected to the three-phase system  .
+  - The voltage sensor measures the voltage of each phase and sends it to the microcontroller  .
+  - The microcontroller compares the voltage of each phase with a predefined threshold and determines if there is a power failure in any of the phases  .
+  - If there is a power failure in any of the phases, the microcontroller sends a SMS message to the authorized person with the details of the failure   .
+  - The microcontroller also switches off the power supply of the affected phase using the relay to prevent further damage  .
+  - The LCD display shows the status and voltage of each phase   .
+  - The system can also be configured and controlled by the authorized person using SMS commands, such as setting the threshold voltage, switching on and off the power supply of each phase, and requesting the status and voltage of each phase   .
+- The system has the following advantages:
+  - It can prevent damage and loss of equipment and appliances due to power failure   .
+  - It can improve the performance and efficiency of the three-phase system by avoiding single phasing and unbalanced load   .
+  - It can provide real-time monitoring and control of the three-phase system using SMS messages   .
+  - It can reduce the maintenance and repair costs of the three-phase system by detecting and resolving the power failure quickly   .
+- The system has the following limitations:
+  - It requires a GSM network and a SIM card to send and receive SMS messages   .
+  - It may not work properly in areas with poor GSM signal or network congestion   .
+  - It may incur SMS charges depending on the network provider and the number of messages sent and received   .
+  - It may not be compatible with some types of three-phase systems or voltage sensors  .

@@ -1,0 +1,12 @@
+## Unit 3 - Distributed Deadlock Detection
+
+- A **deadlock** is a condition where a set of processes request resources that are held by other processes in the set, and none of the processes can proceed until they obtain the requested resources.
+- A **distributed deadlock** is a deadlock that involves processes and resources located on different machines in a distributed system.
+- **Deadlock detection** is a strategy to deal with deadlocks by examining the status of the process-resource interactions for the presence of cyclic wait.
+- **Deadlock detection** in distributed systems requires addressing two basic issues: 
+  - **Detection** of existing deadlocks by using a distributed technique or by constructing a global wait-for graph from local wait-for graphs at a deadlock detector.
+  - **Resolution** of detected deadlocks by aborting one or more deadlocked processes or preempting some resources from them.
+- There are three main approaches to **deadlock detection** in distributed systems:
+  - **Centralized approach**: A single node is designated as the deadlock detector and collects the local wait-for graphs from all the nodes periodically. It then constructs the global wait-for graph and checks for cycles. This approach is simple but suffers from a single point of failure and a high communication overhead.
+  - **Hierarchical approach**: The nodes are organized into a hierarchy of clusters, and each cluster has a coordinator node that acts as the deadlock detector for that cluster. The coordinator nodes communicate with each other to construct the global wait-for graph and check for cycles. This approach reduces the communication overhead but increases the complexity and the delay in detection.
+  - **Distributed approach**: Each node maintains its own local wait-for graph and initiates a distributed algorithm to detect cycles in the global wait-for graph. There are two main algorithms for this approach: the **path-pushing algorithm** and the **edge-chasing algorithm**. The path-pushing algorithm propagates the paths of waiting processes along the edges of the local wait-for graphs, and detects a cycle when a process receives its own path. The edge-chasing algorithm sends probe messages along the edges of the local wait-for graphs, and detects a cycle when a probe message returns to its originator. Both algorithms are decentralized and fault-tolerant, but they differ in the amount and the frequency of message exchange.

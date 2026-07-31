@@ -1,0 +1,9 @@
+### The features of open academia
+
+Open academia is a term that refers to the use of open source technologies and platforms to facilitate academic publishing, dissemination, and collaboration. Some of the features of open academia are:
+
+- **Short articles**: Open academia allows for the rapid publication of short-form articles, such as brief reports, case studies, "orphaned" findings, and ideas dropped from previously-published work. These articles can be peer-reviewed or not, depending on the journal or platform.
+- **Lightning-fast publishing**: Open academia reduces the time and cost of publishing by using online platforms and tools, such as Open Journal Systems, that enable authors to submit, edit, and publish their articles without intermediaries or delays.
+- **Broad dissemination**: Open academia increases the visibility and accessibility of academic articles by making them free to read and download by anyone with an internet connection. Open academia also promotes the sharing and citation of articles through social networking utilities, such as Academia.edu , that connect researchers with similar interests and expertise.
+- **Author-friendly**: Open academia gives more control and flexibility to authors over their own work, such as choosing the license, format, and style of their articles, and retaining the copyright and ownership of their content. Open academia also supports the diversity and inclusion of authors from different backgrounds, disciplines, and regions.
+- **Highly configurable**: Open academia allows for the customization and adaptation of the publishing systems and platforms to suit the needs and preferences of different academic societies, journals, and communities. Open academia also enables the integration and interoperability of various open source technologies and standards, such as XML, OAI-PMH, and DOI.

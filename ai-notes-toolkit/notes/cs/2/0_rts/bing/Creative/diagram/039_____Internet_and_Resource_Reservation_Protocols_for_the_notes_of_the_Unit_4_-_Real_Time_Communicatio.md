@@ -1,0 +1,9 @@
+### Internet and Resource Reservation Protocols
+
+- Resource Reservation Protocol (RSVP) is a transport layer protocol that is used to reserve resources in a network to provide quality of service (QoS) for Internet applications  .
+- RSVP operates over IPv4 or IPv6 and supports both multicast and unicast data flows.
+- RSVP is receiver-initiated, meaning that the receiver of a data flow initiates and maintains the resource reservation along the path from the sender to the receiver .
+- RSVP uses two types of messages: PATH and RESV. PATH messages are sent by the sender to the receiver, carrying information about the sender's characteristics and QoS requirements. RESV messages are sent by the receiver to the sender, carrying the receiver's QoS requests and reservation specifications .
+- RSVP is designed to be scalable, robust, and flexible. It can coexist with other protocols and applications that do not use RSVP. It can adapt to dynamic network conditions and changes in QoS requirements. It can support different QoS models and reservation styles .
+- RSVP is used in conjunction with the integrated services (IntServ) model, which defines a set of QoS services that can be requested by applications and delivered by the network. IntServ uses RSVP as the signaling protocol to establish and maintain QoS reservations.
+- RSVP can also be integrated with the differentiated services (DiffServ) model, which classifies and prioritizes traffic into different service classes based on the type of service (ToS) or differentiated services code point (DSCP) field in the IP header. DiffServ uses RSVP to signal the QoS requirements of the traffic and to map the traffic to the appropriate service class.

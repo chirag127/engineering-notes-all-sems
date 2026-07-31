@@ -1,0 +1,7 @@
+### More Control Hijacking Attacks: Integer Overflow
+
+- Control hijacking attacks are a type of attack where the attacker changes the control flow of a program to execute arbitrary code on the target machine  .
+- Integer overflow is a condition where an arithmetic operation results in a value that is larger than the maximum or smaller than the minimum value that can be represented by the data type of the operand.
+- Integer overflow can lead to control hijacking attacks if the overflowed value is used to allocate memory, index an array, or perform a loop condition.
+- For example, suppose a program allocates a buffer of size n bytes, where n is an unsigned integer that is read from user input. If n is very large, it may overflow and wrap around to a small value, resulting in a buffer that is too small to hold the input. The attacker can then write past the buffer boundary and overwrite the return address or other critical data, hijacking the control flow of the program.
+- To prevent integer overflow attacks, programmers should use data types that can handle the expected range of values, check for overflow conditions before performing arithmetic operations, and validate user input before using it in memory allocation or array indexing.

@@ -1,0 +1,24 @@
+### Nested transactions for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+- A transaction is a sequence of operations that satisfies the ACID properties (Atomicity, Consistency, Isolation, Durability).
+- A nested transaction is a transaction that is composed of subtransactions, each of which may have its own begin and end points, and may be executed concurrently or sequentially.
+- A nested transaction that accesses objects handled by different servers is referred to as a distributed transaction.
+- Nested transactions in distributed systems have several advantages, such as:
+  - They allow for more concurrency and parallelism, as subtransactions can execute independently and commit or abort without affecting the parent transaction.
+  - They provide more flexibility and modularity, as subtransactions can be reused, nested, or aborted without affecting the parent transaction.
+  - They facilitate error recovery and fault tolerance, as subtransactions can be retried, compensated, or aborted without affecting the parent transaction.
+  - They enable partial results and feedback, as subtransactions can return intermediate results or status to the parent transaction.
+- Nested transactions in distributed systems have several challenges, such as:
+  - They require more coordination and communication among the servers involved in the transaction, as subtransactions may depend on each other or conflict with each other.
+  - They introduce more complexity and overhead in the transaction management, as subtransactions may have different levels of isolation, consistency, and durability.
+  - They raise more issues in the transaction commit and abort protocols, as subtransactions may have different outcomes or dependencies.
+- Nested transactions in distributed systems can be structured in two different ways: flat transactions and nested transactions.
+  - A flat transaction has a single initiating point (Begin) and a single end point (Commit or abort). They are usually very simple and are generally used for short activities rather than larger ones.
+  - A nested transaction has multiple initiating points and end points, corresponding to the subtransactions. They are usually more complex and are generally used for long or composite activities that involve multiple servers or objects.
+- Nested transactions in distributed systems can be implemented using different protocols, such as:
+  - Two-phase commit (2PC): A protocol that ensures atomicity and consistency of a distributed transaction by coordinating the commit or abort decision among all the servers involved in the transaction. It consists of two phases: a prepare phase and a commit phase.
+  - Three-phase commit (3PC): A protocol that extends 2PC by adding a pre-commit phase that ensures that all the servers are ready to commit before the final commit phase. It improves the fault tolerance and availability of the distributed transaction, as it avoids blocking in case of failures or network partitions.
+  - Presumed abort (PA): A protocol that optimizes 2PC by reducing the number of messages and disk writes required for the commit or abort decision. It assumes that a transaction will abort unless it receives a commit request from the coordinator, and it does not require an acknowledgment from the servers for the abort decision.
+  - Presumed commit (PC): A protocol that optimizes 2PC by reducing the number of messages and disk writes required for the commit or abort decision. It assumes that a transaction will commit unless it receives an abort request from the coordinator, and it does not require an acknowledgment from the servers for the commit decision.
+  - Nested two-phase commit (N2PC): A protocol that extends 2PC to support nested transactions by allowing subtransactions to commit or abort independently of the parent transaction. It consists of two phases: a local commit phase and a global commit phase.
+  - Saga: A protocol that supports nested transactions by allowing subtransactions to commit independently of the parent transaction, and compensating for any subtransaction that aborts by executing a compensating subtransaction that reverses its effects. It ensures eventual consistency and durability of the distributed transaction, but not atomicity or isolation.

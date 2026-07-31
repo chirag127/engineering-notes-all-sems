@@ -1,0 +1,25 @@
+### Spark on YARN
+
+- Spark is a distributed computing framework that can run on various cluster managers, such as YARN, Mesos, Kubernetes, or standalone mode.
+- YARN (Yet Another Resource Negotiator) is a cluster manager that is part of the Hadoop ecosystem and can manage the resources and scheduling of various applications running on a Hadoop cluster.
+- Spark on YARN allows Spark applications to run on a Hadoop cluster and leverage the benefits of both frameworks, such as scalability, fault tolerance, security, and data access.
+- To run Spark on YARN, the following steps are required:
+  - Install and configure Hadoop and Spark on the cluster nodes.
+  - Set the environment variables `HADOOP_CONF_DIR` and `YARN_CONF_DIR` to point to the directories containing the Hadoop and YARN configuration files, respectively.
+  - Use the `spark-submit` command with the `--master` option set to `yarn` to launch the Spark application on the YARN cluster.
+  - Optionally, use the `--deploy-mode` option to specify whether the Spark driver should run on the cluster (`cluster` mode) or on the client machine (`client` mode).
+  - Optionally, use the `--num-executors`, `--executor-cores`, and `--executor-memory` options to specify the number, cores, and memory of the Spark executors to be allocated on the cluster.
+  - Optionally, use the `--queue` option to specify the YARN queue to which the Spark application should be submitted.
+  - Optionally, use the `--conf` option to set any other Spark or YARN configuration properties.
+- Spark on YARN supports two deployment modes: `cluster` and `client`.
+  - In `cluster` mode, the Spark driver runs on a random node in the YARN cluster and communicates with the Spark executors and the YARN resource manager. The Spark application runs as a YARN application and the client can monitor its status and logs through the YARN web UI or the Spark history server.
+  - In `client` mode, the Spark driver runs on the client machine and communicates with the Spark executors and the YARN resource manager. The Spark application runs as a YARN application but the client needs to stay alive and connected to the cluster for the duration of the application. The client can monitor the status and logs of the application through the Spark web UI or the Spark history server.
+- Spark on YARN has some advantages and disadvantages compared to other cluster managers.
+  - Advantages:
+    - It can leverage the existing Hadoop infrastructure and security features, such as Kerberos authentication, HDFS encryption, and ACLs.
+    - It can access data stored in HDFS or other Hadoop-compatible file systems, such as S3 or Azure Blob Storage.
+    - It can coexist with other Hadoop applications and share the cluster resources efficiently and dynamically.
+    - It can benefit from the improvements and optimizations of the YARN resource manager, such as node labels, preemption, and resource reservation.
+  - Disadvantages:
+    - It adds some overhead and complexity to the Spark application deployment and management, such as the need to configure and synchronize the Hadoop and Spark versions and settings.
+    - It may suffer from some performance issues or limitations due to the YARN resource allocation and scheduling policies, such as the delay in launching the Spark executors, the lack of fine-grained control over the executor placement, and the difficulty in handling dynamic resource allocation and scaling.

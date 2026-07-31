@@ -1,0 +1,26 @@
+### Unit 5 - Introduction to Computer Aided Design
+
+- Computer Aided Design (CAD) is a manufacturing process that allows us to digitally create 2D drawings or 3D models of future products.
+- CAD helps designers and engineers visualize a product’s construction, before fabricating it.
+- CAD also enables the analysis and optimization of the product’s performance, functionality, and quality.
+- CAD software can be classified into two categories: 2D CAD and 3D CAD.
+  - 2D CAD software allows the creation of flat drawings of products, such as floor plans, elevations, and sections.
+  - 3D CAD software allows the creation of solid models of products, which can be viewed from any angle, and can be manipulated, modified, and assembled.
+- Some examples of CAD software are AutoCAD, SolidWorks, Creo Parametric, CATIA, and Inventor.
+- The benefits of using CAD software are:
+  - Increased accuracy and consistency of the drawings and models.
+  - Reduced errors and rework in the design process.
+  - Improved communication and collaboration among the design team and stakeholders.
+  - Enhanced creativity and innovation in the design process.
+  - Faster and easier modification and revision of the design.
+  - Reduced time and cost of the design process.
+- The challenges of using CAD software are:
+  - The need for specialized training and skills to use the software effectively.
+  - The need for adequate hardware and software resources to run the software smoothly.
+  - The need for compatibility and interoperability among different CAD software and formats.
+  - The need for data security and protection of the intellectual property rights of the design.
+- The objectives of an engineering graphics course using CAD software are:
+  - To teach the fundamentals of engineering graphics using solid modeling as opposed to a user course in the specific solid modeling software.
+  - To provide the students with an opportunity to use solid modeling as an engineering tool for conceptual design, detailed design and engineering analysis.
+  - To reinforce the students' analytic geometry and vector skills.
+  - To expose the students to various applications and domains of engineering design using CAD software.

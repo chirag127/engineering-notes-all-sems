@@ -1,0 +1,18 @@
+### MPEG
+
+- MPEG stands for Moving Picture Experts Group, a group of experts that develops standards for digital video and audio compression.
+- MPEG formats are designed to compress and transmit moving images and sound with high quality and efficiency.
+- MPEG compression algorithms exploit both spatial and temporal redundancy in video data to reduce the amount of bits required to represent them.
+- Spatial redundancy refers to the similarity of neighboring pixels within a frame, while temporal redundancy refers to the similarity of successive frames in a video sequence.
+- MPEG compression methods use the following steps :
+  - Mode selection: The input frame is divided into 16x16 pixel blocks called macroblocks, which can be encoded in different modes depending on the content and motion of the block.
+  - Motion estimation and compensation: For each macroblock, the encoder searches for a matching block in the previous and/or future frames, and calculates the motion vector that represents the displacement of the block. The motion vector is encoded and transmitted, along with the difference between the current block and the predicted block.
+  - Discrete cosine transform (DCT): The difference block is transformed from the spatial domain to the frequency domain using the DCT, which converts the pixel values into a set of coefficients that represent the amplitude and phase of cosine waves of different frequencies.
+  - Quantization: The DCT coefficients are scaled and rounded to integer values, which reduces the precision and the number of bits needed to represent them. The quantization step is the main source of loss in MPEG compression, as some information is discarded during this process.
+  - Zig-zag scan and run-length encoding: The quantized coefficients are scanned in a zig-zag order, which groups the low-frequency coefficients (which tend to have larger values) at the beginning and the high-frequency coefficients (which tend to have smaller or zero values) at the end. The coefficients are then encoded using run-length encoding, which replaces sequences of zeros with a pair of values that indicate the length and the value of the run.
+  - Variable-length coding (VLC): The run-length encoded coefficients and the motion vectors are encoded using VLC, which assigns shorter codes to more frequent symbols and longer codes to less frequent symbols. This reduces the average number of bits per symbol and increases the compression ratio.
+- MPEG formats also use chroma subsampling to reduce the color information in the video, as the human eye is more sensitive to brightness than to color. Chroma subsampling separates the brightness (luma) and the color (chroma) components of the video, and reduces the resolution of the chroma components.
+- MPEG has several versions, each with different features and applications. Some of the most common ones are:
+  - MPEG-1: The first MPEG standard, which supports video and audio compression at up to 1.5 Mbps. It is mainly used for video CDs and digital audio broadcasting.
+  - MPEG-2: An extension of MPEG-1, which supports higher bit rates and resolutions, as well as interlaced video and multiple audio channels. It is mainly used for digital TV, DVD and Blu-ray discs.
+  - MPEG-4: A more advanced and versatile standard, which supports object-based coding, scalability, error resilience, and various types of media (such as video, audio, text, graphics, etc.). It is mainly used for streaming, multimedia messaging, and interactive applications.

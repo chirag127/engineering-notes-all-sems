@@ -1,0 +1,6 @@
+### Prevention for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+
+1. **Prevention of Starvation**: Starvation is a situation where a process is ready to execute but never gets a chance to run on the CPU. To prevent starvation, the scheduler can use aging, where the priority of a process increases as it waits in the ready queue.
+2. **Prevention of Deadlock**: Deadlock is a situation where two or more processes are blocked, waiting for resources held by each other. To prevent deadlock, the scheduler can use resource allocation techniques such as the Banker's algorithm.
+3. **Prevention of Priority Inversion**: Priority inversion is a situation where a high-priority process is blocked, waiting for a low-priority process to release a resource. To prevent priority inversion, the scheduler can use priority inheritance, where the priority of the low-priority process is temporarily raised to that of the high-priority process.
+4. **Prevention of Thrashing**: Thrashing is a situation where the system spends more time swapping pages in and out of memory than executing processes. To prevent thrashing, the scheduler can use the working set model, where the number of pages allocated to a process is based on its recent memory usage.

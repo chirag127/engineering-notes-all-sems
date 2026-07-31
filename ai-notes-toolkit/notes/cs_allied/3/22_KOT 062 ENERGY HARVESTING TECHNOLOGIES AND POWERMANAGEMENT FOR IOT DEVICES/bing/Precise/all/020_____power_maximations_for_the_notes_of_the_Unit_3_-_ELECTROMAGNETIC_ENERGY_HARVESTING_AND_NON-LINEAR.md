@@ -1,0 +1,5 @@
+# Power Maximizations for the Notes of the Unit 3 - Electromagnetic Energy Harvesting and Non-Linear Techniques in the Subject of KOT 062 Energy Harvesting Technologies and Power Management for IoT Devices KCS
+
+1. Electromagnetic transducers can be used for the harvesting of kinetic (vibration) energy. The fundamental principles of electromagnetism describe how the voltage is linked to the product of the flux linkage gradient and the velocity.
+2. A rotational energy harvesting system can comprise a sprung mass coupled to an electrical generator through a motion transmission system. The Ball screw is a conventional mechanism that converts linear motion to the rotational one.
+3. Motion-driven electromagnetic energy harvesting systems have been used to provide self-powering for a wide range of technologies, such as remote sensors and actuators, mobile electronics, wearable devices, etc.

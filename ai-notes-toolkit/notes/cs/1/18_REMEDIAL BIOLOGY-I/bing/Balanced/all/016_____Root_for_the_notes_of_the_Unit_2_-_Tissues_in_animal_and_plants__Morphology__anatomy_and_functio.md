@@ -1,0 +1,35 @@
+# Root
+
+- The root is the descending portion of the plant axis that is usually underground.
+- The root with its branches is known as the root system.
+- There are two types of root systems: taproot system and fibrous root system.
+- The taproot system consists of a main root that grows vertically downward and gives rise to lateral roots.
+- The fibrous root system consists of many fine roots that arise from the stem base or nodes.
+- The root has four main functions:
+  - Absorption of water and minerals from the soil
+  - Providing a proper anchorage to the plant parts
+  - Storing reserve food material
+  - Synthesis of plant growth regulators
+- The root has three main regions: root cap, root meristem, and root hair zone.
+- The root cap is a protective structure that covers the root tip and secretes mucilage.
+- The root meristem is a region of actively dividing cells that produces new root tissues.
+- The root hair zone is a region of elongated epidermal cells that increase the surface area for absorption.
+- The root has a radial, or concentric, arrangement of tissues within the root that determines patterns and rates of nutrient transport from the soil to the vascular tissue.
+- The root has four main types of tissues: epidermis, cortex, endodermis, and stele.
+- The epidermis is the outermost layer of cells that protects the root and absorbs water and minerals.
+- The cortex is a layer of parenchyma cells that stores food and conducts water and minerals.
+- The endodermis is a layer of cells that surrounds the stele and regulates the passage of water and minerals into the vascular tissue.
+- The stele is the central cylinder of vascular tissue that consists of xylem and phloem.
+- The xylem is the tissue that conducts water and minerals upward.
+- The phloem is the tissue that conducts food downward.
+- The root may have some modifications for special functions, such as:
+  - Adventitious roots: roots that arise from any part of the plant other than the radicle, such as stem or leaf.
+  - Aerial roots: roots that grow above the ground, such as in orchids and banyan trees.
+  - Prop roots: roots that grow from the stem base and support the plant, such as in maize and sugarcane.
+  - Stilt roots: roots that grow obliquely from the stem base and support the plant, such as in pandanus and screw pine.
+  - Buttress roots: roots that grow from the stem base and form large, woody projections that support the plant, such as in tropical trees.
+  - Pneumatophores: roots that grow vertically upward from the soil and have pores for gas exchange, such as in mangroves.
+  - Haustoria: roots that penetrate the host plant and absorb nutrients, such as in parasitic plants.
+  - Storage roots: roots that store food, such as in carrot and radish.
+  - Nodulated roots: roots that have nodules containing nitrogen-fixing bacteria, such as in legumes.
+  - Mycorrhizal roots: roots that have a symbiotic association with fungi, such as in orchids and pine trees.

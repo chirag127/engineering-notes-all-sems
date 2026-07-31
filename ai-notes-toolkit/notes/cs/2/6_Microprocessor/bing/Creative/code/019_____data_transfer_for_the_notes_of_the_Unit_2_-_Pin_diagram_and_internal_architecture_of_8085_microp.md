@@ -1,0 +1,23 @@
+### Data Transfer for the Notes of the Unit 2 - Pin Diagram and Internal Architecture of 8085 Microprocessor, Registers, ALU, Control & Status, Interrupt and Machine Cycle. Instruction Sets. Addressing Modes. Instruction Formats Instruction Classification: Data Transfer, Arithmetic Operations, Logical Operations, Branching Operations, Machine Control and Assembler Directives.
+
+- Data transfer is the process of moving data from one location to another in the microprocessor.
+- Data transfer can be done in different ways, such as parallel, serial, or direct memory access (DMA).
+- Data transfer instructions are the instructions that transfer data in the microprocessor without modifying it.
+- Data transfer instructions can be classified into the following types  :
+  - MOV: This instruction copies the contents of the source register or memory location to the destination register or memory location.
+  - MVI: This instruction loads an 8-bit immediate data to the specified register or memory location.
+  - LDA: This instruction loads the accumulator with the contents of the memory location specified by a 16-bit address.
+  - STA: This instruction stores the contents of the accumulator to the memory location specified by a 16-bit address.
+  - LHLD: This instruction loads the register pair HL with the contents of the memory locations specified by a 16-bit address and its next location.
+  - SHLD: This instruction stores the contents of the register pair HL to the memory locations specified by a 16-bit address and its next location.
+  - LXI: This instruction loads a 16-bit immediate data to the specified register pair.
+  - LDAX: This instruction loads the accumulator with the contents of the memory location whose address is in the specified register pair.
+  - STAX: This instruction stores the contents of the accumulator to the memory location whose address is in the specified register pair.
+  - XCHG: This instruction exchanges the contents of the register pairs HL and DE.
+  - PCHL: This instruction loads the program counter with the contents of the register pair HL.
+  - SPHL: This instruction loads the stack pointer with the contents of the register pair HL.
+  - XTHL: This instruction exchanges the contents of the register pair HL and the top of the stack.
+  - PUSH: This instruction pushes the contents of the specified register pair onto the stack.
+  - POP: This instruction pops the contents of the top of the stack to the specified register pair.
+  - IN: This instruction reads an 8-bit data from the specified input port and stores it in the accumulator.
+  - OUT: This instruction writes an 8-bit data from the accumulator to the specified output port.

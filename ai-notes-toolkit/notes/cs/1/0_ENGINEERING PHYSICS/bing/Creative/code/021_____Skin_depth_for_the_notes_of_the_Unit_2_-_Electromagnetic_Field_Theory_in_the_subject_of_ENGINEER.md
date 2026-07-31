@@ -1,0 +1,11 @@
+### Skin depth
+
+Skin depth is a measure of how deep an electromagnetic wave can penetrate into a conducting material before it is significantly attenuated. It depends on the frequency of the wave, the electrical conductivity of the material, and the magnetic permeability of the material. 
+
+Some points to note about skin depth are:
+
+- Skin depth is inversely proportional to the square root of the frequency, the conductivity, and the permeability. This means that higher frequency waves, more conductive materials, and more permeable materials have smaller skin depths and are more quickly damped.
+- Skin depth is defined as the distance over which the magnitude of the electric or magnetic field is reduced by a factor of 1/e (about 37%) of the value at the surface. Alternatively, it can be defined as the distance at which the power in the wave is reduced by a factor of (1/e)^2 (about 13.5%) of the value at the surface.
+- Skin depth can be calculated using the following formula: δ = 1/√(πfμσ), where δ is the skin depth, f is the frequency of the wave, μ is the magnetic permeability of the material, and σ is the electrical conductivity of the material. The units of skin depth are meters.
+- Skin depth is important for applications such as eddy current testing, induction heating, and radio transmission. For example, in eddy current testing, a coil of wire is used to generate an alternating magnetic field that induces eddy currents in a conductive material. The depth of penetration of the eddy currents depends on the skin depth of the material, which affects the sensitivity and resolution of the testing method. 
+- Skin depth is also related to the skin effect, which is the tendency of alternating currents to flow near the surface of a conductor rather than uniformly throughout its cross-section. The skin effect increases the effective resistance and impedance of the conductor, and reduces its power transmission efficiency. To minimize the skin effect, conductors with large cross-sections can be made of thin wires or strands (such as Litz wire) that are insulated from each other. This increases the surface area of the conductor and reduces the current density in each strand.

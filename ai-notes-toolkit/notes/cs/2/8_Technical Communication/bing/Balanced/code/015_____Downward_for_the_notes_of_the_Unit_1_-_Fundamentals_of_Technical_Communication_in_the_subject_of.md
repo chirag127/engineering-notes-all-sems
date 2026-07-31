@@ -1,0 +1,29 @@
+### Downward Communication
+
+- Downward communication is the act of relaying important information in a company or organization from higher levels to lower levels.
+- It is a communication process in which information or the chain of command passes from the upper hierarchy level to the lower level.
+- It is also known as top-down communication or vertical communication.
+- The main objectives of downward communication are:
+  - To provide instructions, directions, orders and feedback to the subordinates.
+  - To inform the subordinates about the goals, policies, procedures and rules of the organization.
+  - To motivate, inspire and influence the subordinates to perform better and achieve the desired results.
+  - To create a sense of unity, loyalty and commitment among the subordinates.
+  - To ensure coordination and cooperation among the different levels and departments of the organization.
+- Some examples of downward communication are :
+  - Memos, letters, reports, newsletters and bulletins from the management to the employees.
+  - Meetings, conferences, presentations and speeches by the leaders or managers to the staff.
+  - Performance appraisals, feedback, recognition and rewards from the supervisors to the workers.
+  - Job descriptions, manuals, guidelines and standard operating procedures from the experts to the novices.
+  - Training, coaching, mentoring and counseling from the seniors to the juniors.
+- Some advantages of downward communication are:
+  - It helps to clarify the expectations, roles and responsibilities of the subordinates.
+  - It facilitates the implementation and execution of the plans and policies of the organization.
+  - It enhances the efficiency, productivity and quality of the work and services.
+  - It fosters a positive organizational culture and climate based on trust, respect and transparency.
+  - It reduces the chances of errors, misunderstandings and conflicts among the subordinates.
+- Some disadvantages of downward communication are:
+  - It may create a communication gap or barrier between the upper and lower levels of the organization.
+  - It may lead to distortion, filtering or manipulation of the information by the intermediaries or the receivers.
+  - It may cause resentment, frustration or demoralization among the subordinates if they feel ignored, neglected or imposed upon.
+  - It may limit the creativity, innovation and initiative of the subordinates if they are not given enough autonomy or participation.
+  - It may result in information overload or overload if the subordinates receive too much or too frequent information.

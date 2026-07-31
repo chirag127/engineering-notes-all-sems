@@ -1,0 +1,21 @@
+# Analysis of Time Series
+
+- A time series is a series of data points indexed in time order. It is a sequence of discrete-time data that is collected at regular or irregular intervals over a period of time.
+- Time series analysis is the process of analyzing a time series to extract meaningful statistics and other characteristics of the data. It is also used to forecast future values based on past and present observations  .
+- Time series analysis can be useful for various purposes, such as:
+  - Understanding the patterns and trends in the data, such as seasonality, cycles, trends, and outliers.
+  - Identifying the factors that influence the data, such as external events, interventions, or shocks.
+  - Evaluating the performance and effectiveness of policies, interventions, or strategies.
+  - Testing hypotheses and causal relationships between variables.
+  - Developing and validating models that can explain and predict the data.
+- Time series analysis can be performed using different methods and techniques, depending on the type and nature of the data, the objectives and questions of the analysis, and the assumptions and limitations of the models. Some of the common methods and techniques are :
+  - Descriptive analysis: This involves summarizing and visualizing the data using statistics, graphs, and charts. It can help to explore the data and identify its features and patterns.
+  - Decomposition: This involves breaking down the data into its components, such as trend, seasonality, cycle, and residual. It can help to isolate and measure the effects of each component on the data.
+  - Smoothing: This involves reducing the noise and variability in the data using techniques such as moving averages, exponential smoothing, or lowess. It can help to reveal the underlying patterns and trends in the data.
+  - Differencing: This involves transforming the data by subtracting the values of previous periods from the current values. It can help to make the data stationary, which means that its mean, variance, and autocorrelation do not change over time.
+  - Autocorrelation and cross-correlation: This involves measuring the correlation between the values of the data at different time lags. It can help to detect the dependence and relationship between the data and itself or other variables.
+  - Stationarity tests: This involves testing whether the data is stationary or not using techniques such as unit root tests, autocorrelation function, or partial autocorrelation function. It can help to determine the appropriate models and methods for the data.
+  - Model selection and estimation: This involves choosing and fitting the best model for the data using techniques such as regression, ARIMA, VAR, or state-space models. It can help to explain and predict the data using the estimated parameters and coefficients of the model.
+  - Model diagnostics and validation: This involves checking and evaluating the quality and accuracy of the model using techniques such as residual analysis, goodness-of-fit tests, or forecast error measures. It can help to identify and correct the problems and limitations of the model.
+  - Model comparison and selection: This involves comparing and selecting the best model among different models using techniques such as information criteria, likelihood ratio tests, or forecast accuracy measures. It can help to choose the most suitable and reliable model for the data.
+  - Forecasting: This involves using the model to predict the future values of the data based on the past and present observations. It can help to provide insights and guidance for decision making and planning.

@@ -1,0 +1,12 @@
+### Organizational Behavior in SPM
+
+Organizational behavior (OB) is the systematic study and application of knowledge about how individuals and groups act within the organizations where they work. OB is important for software project management (SPM) because it helps managers understand, predict, and influence the behavior of their team members and stakeholders. Some of the topics that OB covers are:
+
+- Motivation: the process that initiates, guides, and maintains goal-oriented behaviors. Motivation affects the performance, satisfaction, and retention of software developers and other project participants.
+- Communication: the exchange of information and meaning among people through verbal and nonverbal channels. Communication is essential for coordination, collaboration, and conflict resolution in software projects.
+- Managing groups and teams: the process of forming, developing, and leading groups of people who work interdependently to achieve a common goal. Groups and teams can enhance creativity, innovation, and problem-solving in software projects, but they also face challenges such as groupthink, social loafing, and diversity issues .
+- Conflict resolution: the process of managing and resolving disagreements and disputes among people who have different interests, goals, or values. Conflict can be constructive or destructive for software projects, depending on how it is handled and resolved.
+- Power and politics: the ability to influence others and the use of tactics to achieve one's goals in a social context. Power and politics can affect the decision-making, resource allocation, and stakeholder management in software projects .
+- Making decisions: the process of choosing among alternatives based on criteria and preferences. Decision-making is a critical skill for software project managers, who have to deal with uncertainty, complexity, and multiple objectives.
+
+To understand and apply OB in SPM, managers need to be aware of the factors that influence behavior at different levels: individual, group, and organizational. These factors include personality, values, attitudes, emotions, perception, learning, culture, structure, and leadership . By using OB concepts and theories, managers can improve the effectiveness and efficiency of their software projects and the well-being of their project participants.

@@ -1,0 +1,13 @@
+### Specification methods for software tools in human computer interface
+
+Specification methods are techniques that can be used to describe the requirements, design, and behavior of software systems, including human-computer interfaces (HCI). Specification methods can help to ensure the correctness, completeness, and consistency of software systems, as well as to facilitate communication and collaboration among stakeholders.
+
+There are different types of specification methods, depending on the level of abstraction, the degree of formality, and the underlying formal model. Some examples of specification methods for software tools in HCI are:
+
+- **Sketches and mockups**: These are simple and quick methods of drawing or prototyping the user interface (UI) of a software system. They can be used to explore different design alternatives, to elicit feedback from users and clients, and to communicate the main features and functionality of the UI. Sketches and mockups are informal and low-fidelity methods, meaning that they do not provide much detail or accuracy, and they are not executable or testable.
+
+- **Wireframes and storyboards**: These are more detailed and structured methods of representing the UI of a software system. They can be used to specify the layout, navigation, and interaction of the UI elements, as well as to illustrate the user scenarios and tasks that the system supports. Wireframes and storyboards are semi-formal and medium-fidelity methods, meaning that they provide more detail and accuracy than sketches and mockups, but they are still not executable or testable.
+
+- **Grammars and state transition diagrams**: These are formal and high-fidelity methods of specifying the syntax and semantics of the UI of a software system. They can be used to define the rules and constraints that govern the user input and output, as well as to model the states and transitions of the system and the UI. Grammars and state transition diagrams are based on mathematical models, such as context-free grammars and finite state machines, and they can be verified, validated, and executed by software tools  .
+
+- **User interface description languages (UIDLs)**: These are languages that can be used to specify the UI of a software system in a declarative and platform-independent way. They can be used to describe the structure, style, and behavior of the UI elements, as well as to support the generation, adaptation, and evaluation of the UI. UIDLs can be based on different paradigms, such as markup languages, logic languages, or constraint languages, and they can be interpreted or compiled by software tools.

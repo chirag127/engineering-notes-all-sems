@@ -1,0 +1,23 @@
+## Unit 10 - Replication
+
+- Replication is a biological process of duplicating or producing an exact copy, such as a polynucleotide strand (DNA) .
+- DNA replication is one of the most vital biological processes in all living things. It is a molecular process taking place in dividing cells by which the DNA creates a copy of itself .
+- Replication is essential for the transmission of genetic information from one generation to the next, the maintenance of genetic stability, and the repair of DNA damage .
+- Replication is also important for research statistics, as it refers to the duplication of a laboratory or experimental procedure, which can help to reduce errors and increase reliability .
+- Replication can be classified into two types: biological replicates and technical replicates .
+  - Biological replicates are parallel measurements of biologically distinct samples that capture random biological variation, which can be a subject of study or a source of noise itself .
+  - Technical replicates are repeated measurements of the same sample under identical conditions, which can help to assess the precision and reproducibility of the experimental method .
+- Replication can also be categorized into three modes: semiconservative, conservative, and dispersive .
+  - Semiconservative replication is the most common mode of DNA replication, in which each strand of the original DNA molecule serves as a template for the synthesis of a new complementary strand, resulting in two identical DNA molecules, each consisting of one old and one new strand .
+  - Conservative replication is a hypothetical mode of DNA replication, in which the original DNA molecule remains intact and a new copy is synthesized from entirely new nucleotides, resulting in one old and one new DNA molecule .
+  - Dispersive replication is another hypothetical mode of DNA replication, in which the original DNA molecule is randomly broken into fragments and each fragment serves as a template for the synthesis of a new strand, resulting in two mixed DNA molecules, each consisting of old and new segments .
+- Replication can also be distinguished by the direction of synthesis: leading strand and lagging strand .
+  - Leading strand is the strand of DNA that is synthesized continuously in the same direction as the movement of the replication fork, which is the point where the DNA helix is unwound and separated into two single strands .
+  - Lagging strand is the strand of DNA that is synthesized discontinuously in the opposite direction of the replication fork, in short segments called Okazaki fragments, which are later joined by an enzyme called DNA ligase .
+- Replication involves several enzymes and proteins that work together to ensure the accuracy and efficiency of the process .
+  - Helicase is the enzyme that opens up the DNA at the replication fork by breaking the hydrogen bonds between the complementary bases .
+  - Single-strand binding proteins are the proteins that coat the DNA around the replication fork to prevent rewinding of the DNA and protect it from degradation .
+  - Topoisomerase is the enzyme that works at the region ahead of the replication fork to prevent supercoiling, which is the twisting of the DNA due to the unwinding .
+  - Primase is the enzyme that synthesizes a short RNA primer, which is a sequence of nucleotides that provides a starting point for DNA polymerase, the enzyme that adds new nucleotides to the growing DNA strand .
+  - DNA polymerase is the enzyme that catalyzes the formation of phosphodiester bonds between the nucleotides, following the base-pairing rules of A with T and G with C .
+  - DNA ligase is the enzyme that joins the Okazaki fragments on the lagging strand by forming phosphodiester bonds between them .

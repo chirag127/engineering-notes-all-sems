@@ -1,0 +1,8 @@
+### Blobby Objects
+
+- Blobby objects are a type of implicit modeling technique that can represent non-rigid and fluid-like objects in computer graphics .
+- Blobby objects are defined by a set of points, called **metaballs**, that have a scalar field associated with them. The scalar field represents the influence or intensity of each metaball.
+- The surface of a blobby object is determined by an **isovalue**, which is a threshold that defines the boundary of the object. The isovalue can be constant or variable, depending on the desired shape and smoothness of the object.
+- The scalar field of a metaball can be computed by various functions, such as Gaussian, Wyvill, or Blinn functions. The scalar field of a blobby object is the sum of the scalar fields of all the metaballs that compose it.
+- Blobby objects can be rendered by various methods, such as ray tracing, polygonization, or marching cubes. Ray tracing is a technique that traces rays of light from the eye to the object and computes the color and shading of each pixel. Polygonization is a technique that approximates the surface of the object by a mesh of polygons. Marching cubes is a technique that divides the space into cubes and determines the intersection of the surface and the edges of each cube.
+- Blobby objects can be used to model organic shapes, such as water droplets, clouds, fire, smoke, or soft bodies. Blobby objects can also be animated by changing the position, size, or intensity of the metaballs over time .

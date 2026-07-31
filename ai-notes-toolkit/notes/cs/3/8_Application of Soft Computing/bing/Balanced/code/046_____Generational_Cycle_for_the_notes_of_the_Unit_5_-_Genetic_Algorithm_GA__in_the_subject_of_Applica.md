@@ -1,0 +1,12 @@
+### Generational Cycle for the notes of the Unit 5 - Genetic Algorithm(GA) in the subject of Application of Soft Computing
+
+- A genetic algorithm (GA) is a bio-inspired optimization technique that mimics the natural process of evolution and selection .
+- A GA works on the evolutionary generational cycle to generate high-quality solutions for a given problem .
+- The generational cycle consists of the following steps   :
+  - Initialization: A random population of candidate solutions (also called chromosomes or individuals) is created. Each solution is encoded as a binary string or a tree structure, depending on the problem domain.
+  - Evaluation: Each solution is assigned a fitness value based on how well it solves the problem. The fitness function is problem-specific and reflects the objective of the optimization.
+  - Selection: A subset of solutions is chosen to form the mating pool for the next generation. The selection process is biased towards the fitter solutions, meaning that they have a higher chance of being selected. There are different methods of selection, such as roulette wheel, tournament, rank-based, etc.
+  - Crossover: Pairs of solutions from the mating pool are randomly selected and recombined to produce new solutions (also called offspring or children). Crossover is a genetic operator that exchanges parts of the parent solutions to create diversity in the population. There are different methods of crossover, such as one-point, two-point, uniform, subtree, etc.
+  - Mutation: Each solution in the offspring population is randomly modified by flipping some bits or changing some nodes. Mutation is another genetic operator that introduces small changes in the solutions to explore new regions of the search space. There are different methods of mutation, such as bit-flip, point, subtree, etc.
+  - Replacement: The offspring population replaces the current population, or a part of it, to form the next generation. The replacement process can be elitist, meaning that the best solutions from the current population are preserved, or non-elitist, meaning that the entire population is replaced.
+  - Termination: The generational cycle is repeated until a stopping criterion is met, such as reaching a maximum number of generations, finding an optimal or near-optimal solution, or reaching a convergence threshold.

@@ -1,0 +1,27 @@
+# Git/GitHub for the notes of the Unit 3 - HARDWARE COMMUNICATION in the subject of PROGRAMMING AND INTERFACING WITH MICROCONTROLLERS
+
+- Git is a distributed version control system that allows you to track and manage the changes in your source code. It also enables collaboration among multiple developers working on the same project  .
+- GitHub is a code hosting platform that uses Git as its underlying technology. It allows you to create, store, and share your repositories online. It also provides various features such as issue tracking, code review, pull requests, and more  .
+- A repository is a collection of files and folders that are associated with a project. It contains the entire history of the project, including all the commits, branches, and tags .
+- A commit is a snapshot of the state of your repository at a given point in time. It records the changes you have made to your files and folders, along with a message that describes the purpose of the commit .
+- A branch is a parallel version of your repository that allows you to work on different features or tasks without affecting the main branch, usually called the master branch. You can create, switch, merge, and delete branches as you wish .
+- A pull request is a request to merge the changes from one branch to another. It allows you to review and discuss the proposed changes with other collaborators before integrating them into the target branch .
+- To use Git and GitHub, you need to install Git on your computer and create a GitHub account. You can then configure your username and email address for Git, and generate and add an SSH key to your GitHub account for secure authentication .
+- To create a repository on GitHub, you can either import an existing one from your computer or another platform, or create a new one from scratch. You can then clone the repository to your computer using the git clone command, or push your local repository to GitHub using the git push command  .
+- To make changes to your repository, you need to follow these steps:
+  - Create a new branch for your feature or task using the git branch command, or the git checkout -b command to create and switch to the new branch at the same time .
+  - Make the necessary changes to your files and folders, and save them.
+  - Add the changed files to the staging area using the git add command. The staging area is a temporary area where you can review and organize your changes before committing them .
+  - Commit the changes to your branch using the git commit command, along with a meaningful message that describes the changes .
+  - Push the changes to your remote repository on GitHub using the git push command .
+- To merge the changes from one branch to another, you need to follow these steps:
+  - Switch to the target branch using the git checkout command .
+  - Pull the latest changes from the remote repository using the git pull command, to make sure your local branch is up to date .
+  - Merge the source branch into the target branch using the git merge command. If there are any conflicts, you need to resolve them manually and commit the merge .
+  - Alternatively, you can create a pull request on GitHub to request the merge. You can then review and discuss the changes with other collaborators, and approve or reject the merge .
+- To learn more about Git and GitHub, you can visit the following tutorials and resources:
+  - [GitHub Tutorial - JavaTpoint](https://www.javatpoint.com/github) 
+  - [Hello World - GitHub Docs](https://docs.github.com/en/get-started/quickstart/hello-world) 
+  - [Git Tutorial - W3Schools](https://www.w3schools.com/git/default.asp) 
+  - [Getting started with Git - GitHub Docs](https://docs.github.com/en/get-started/getting-started-with-git) 
+  - [Getting started with GitHub documentation - GitHub Docs](https://

@@ -1,0 +1,30 @@
+### Formal Technical Reviews (Peer Reviews) for the notes of the Unit 4 - Software Testing in the subject of Software Engineering
+
+- A formal technical review (FTR) is a software quality assurance activity performed by software engineers and others  .
+- The objectives of FTR are :
+  - To uncover errors in function, logic, or implementation for any representation of the software, such as requirements, design, code, test cases, etc.
+  - To verify that the software meets the specified requirements and conforms to the standards and guidelines.
+  - To improve the quality of the software product and the software process by identifying and eliminating defects early in the software development life cycle.
+  - To provide feedback and suggestions for improvement to the software developers and managers.
+  - To serve as a training ground for junior engineers to learn from the different approaches and techniques of software engineering.
+- The FTR process involves the following steps  :
+  - Planning: The review leader selects the review team, assigns roles and responsibilities, schedules the review meeting, and distributes the review materials to the reviewers.
+  - Preparation: The reviewers study the review materials and identify potential issues, questions, and comments. They also prepare a checklist of items to be verified during the review.
+  - Review meeting: The review team meets to discuss the review materials and reach a consensus on the findings and recommendations. The review leader moderates the meeting and ensures that the review objectives are met and the review rules are followed. The review scribe records the issues and actions identified during the meeting.
+  - Rework: The software developers address the issues and actions raised during the review meeting and make the necessary corrections and improvements to the software product.
+  - Follow-up: The review leader verifies that the rework has been done satisfactorily and closes the review. The review leader also prepares a review report that summarizes the review results and lessons learned.
+- The FTR team consists of the following roles  :
+  - Review leader: The person who plans, organizes, and conducts the review. The review leader is usually a senior software engineer or a software quality assurance engineer.
+  - Reviewer: The person who evaluates the review materials and provides feedback and suggestions. The reviewer is usually a peer of the software developer or a domain expert.
+  - Review scribe: The person who records the issues and actions identified during the review meeting. The review scribe is usually a junior software engineer or a software quality assurance engineer.
+  - Software developer: The person who produces the review materials and performs the rework. The software developer is usually the author or the owner of the software product.
+  - Software manager: The person who oversees the software development and the review process. The software manager is usually the project manager or the software engineering manager.
+- The FTR guidelines are the following  :
+  - The review should be focused on the review objectives and the review materials, not on the personalities or the opinions of the review participants.
+  - The review should be constructive and respectful, not destructive or confrontational. The review participants should provide positive and negative feedback, as well as suggestions for improvement.
+  - The review should be collaborative and cooperative, not competitive or adversarial. The review participants should work together to identify and resolve the issues and actions, not to blame or criticize each other.
+  - The review should be timely and efficient, not delayed or prolonged. The review participants should prepare well for the review, follow the review agenda and the review rules, and avoid unnecessary discussions and distractions.
+- The benefits of FTR are the following    :
+  - FTR improves the quality of the software product by detecting and eliminating defects early in the software development life cycle, reducing the cost and effort of rework and testing.
+  - FTR improves the quality of the software process by establishing and enforcing the standards and guidelines, promoting the best practices and the lessons learned, and facilitating the communication and coordination among the software stakeholders.
+  - FTR improves the skills and knowledge of the software engineers by providing them with feedback and suggestions, exposing them to different perspectives and approaches, and enabling them to learn from each other.

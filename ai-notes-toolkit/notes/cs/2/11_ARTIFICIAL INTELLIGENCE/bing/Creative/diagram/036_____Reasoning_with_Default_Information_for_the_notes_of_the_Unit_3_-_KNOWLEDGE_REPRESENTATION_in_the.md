@@ -1,0 +1,16 @@
+### Reasoning with Default Information
+
+- Default reasoning is a form of nonmonotonic reasoning where plausible conclusions are inferred based on general rules which may have exceptions (defaults).
+- It is nonmonotonic in the sense that additional information may force us to withdraw earlier conclusions, namely whenever the additional information shows that the case at hand is exceptional.
+- For example, a default rule may state that birds can fly, but an exception may be penguins. If we only know that Tweety is a bird, we can infer by default that Tweety can fly. But if we later learn that Tweety is a penguin, we have to retract our previous conclusion.
+- Default reasoning requires two facilities, one that forces conclusions to be retracted in light of new refuting evidence and another that protects conclusions from retraction in light of new but irrelevant evidence.
+- Commonsense reasoning evidently involves two types of default rules: expectation-evoking and explanation-evoking.
+- Expectation-evoking rules are those that generate predictions or expectations about the world, such as "birds can fly" or "people are honest". They can be overridden by more specific or contradictory information.
+- Explanation-evoking rules are those that generate explanations or justifications for observed facts, such as "if a person is late, he or she is stuck in traffic" or "if a person is smiling, he or she is happy". They can be revised by more plausible or convincing explanations.
+- There are various logical models of default reasoning in artificial intelligence, such as default logic, circumscription, autoepistemic logic, and nonmonotonic modal logic.
+- Default logic is a formalism that represents default rules as conditional statements of the form "if A is true, then normally B is true". It also defines a notion of extension, which is a consistent set of formulas that includes all the consequences of applying the default rules.
+- Circumscription is a formalism that minimizes the extension of certain predicates, based on the assumption that they are abnormal or exceptional. It also allows for prioritizing different circumscription policies, in case of conflicts.
+- Autoepistemic logic is a formalism that models the reasoning of an agent who can reflect on its own knowledge and beliefs. It introduces a modal operator that expresses what the agent believes, and defines a notion of stable expansion, which is a consistent set of formulas that includes all the consequences of applying the belief operator.
+- Nonmonotonic modal logic is a general framework that extends classical modal logic with nonmonotonic features, such as default rules, exceptions, and preferences. It also allows for combining different modalities, such as knowledge, belief, obligation, and permission.
+- Default reasoning is useful for dealing with incomplete, uncertain, or inconsistent information, which is common in artificial intelligence applications. It also helps to model human commonsense reasoning, which often relies on default assumptions and heuristics .
+- However, default reasoning also faces some challenges, such as the existence, uniqueness, and computation of extensions or expansions, the representation and resolution of conflicts or inconsistencies, and the comparison and evaluation of different formalisms and approaches  .

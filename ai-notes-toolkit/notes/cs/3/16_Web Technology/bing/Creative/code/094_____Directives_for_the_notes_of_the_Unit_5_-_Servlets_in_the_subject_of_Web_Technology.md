@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes for the Unit 5 - Servlets in the subject of Web Technology. Here are some directives for the notes:
+
+- The notes should cover the following topics:
+  - Introduction to servlets: what are servlets, why are they used, how do they work, what are the advantages and disadvantages of servlets, what are the components of servlets, what are the types of servlets, etc.
+  - Servlet life cycle: what are the stages of servlet life cycle, how are servlets initialized, invoked, and destroyed, what are the methods of servlet interface, what are the annotations and deployment descriptors for servlets, etc.
+  - Servlet request and response: what are the objects of servlet request and response, how to get and set the request and response parameters, headers, attributes, etc., how to handle cookies and sessions, how to redirect and forward requests, etc.
+  - Servlet filters and listeners: what are servlet filters and listeners, why are they used, how to create and configure them, what are the methods of filter and listener interfaces, what are the types and scopes of listeners, etc.
+  - Servlet context and config: what are servlet context and config, how to get and set the context and config parameters, what are the methods of servlet context and config interfaces, how to share data among servlets using context and config, etc.
+- The notes should be concise, clear, and well-organized. They should use bullet points, tables, diagrams, code snippets, and examples to illustrate the concepts and syntax of servlets. They should also highlight the key points and terms using bold, italic, or underline formatting.
+- The notes should follow the markdown syntax for formatting and styling. They should use headings, subheadings, lists, code blocks, links, images, etc. to structure the notes. They should also use proper indentation, spacing, and punctuation for readability and consistency.
+- The notes should cite the sources of information using footnotes or references. They should also acknowledge any external resources or materials used for the notes, such as books, websites, videos, etc. They should use a consistent citation style, such as APA, MLA, or Harvard.

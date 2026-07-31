@@ -1,0 +1,9 @@
+### Divide and Conquer with Examples Such as Convex Hull
+
+Divide and Conquer is an algorithmic paradigm that solves a problem by dividing it into smaller subproblems and solving them recursively. The subproblems are then combined to form the solution to the original problem. This approach is used in many algorithms such as sorting, matrix multiplication, convex hull, and searching.
+
+One example of the application of the divide and conquer approach is in the computation of the convex hull of a set of points. The convex hull of a set of points is the smallest convex polygon that contains all the points. The problem can be solved using the divide and conquer approach by dividing the set of points into two smaller sets, computing the convex hulls of these sets, and then merging the two hulls to form the convex hull of the original set.
+
+The divide and conquer approach can be applied to many other problems as well. For example, sorting algorithms such as quicksort and mergesort use the divide and conquer approach to sort a list of elements. Matrix multiplication can also be performed using the divide and conquer approach by dividing the matrices into smaller submatrices and performing the multiplication on these submatrices. Searching algorithms such as binary search also use the divide and conquer approach to search for an element in a sorted list.
+
+In summary, the divide and conquer approach is a powerful algorithmic paradigm that can be applied to solve many problems by dividing them into smaller subproblems and solving them recursively. This approach is used in many algorithms such as sorting, matrix multiplication, convex hull, and searching.

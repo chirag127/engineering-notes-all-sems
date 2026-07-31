@@ -1,0 +1,15 @@
+### Basics of RTOS
+
+RTOS stands for Real-Time Operating System. It is a type of operating system that is designed to handle real-time applications that have strict timing requirements. An RTOS provides the following features:
+
+- **Determinism**: An RTOS ensures that tasks are executed within a predefined time limit, regardless of the system load or other factors. This is important for applications that need to respond to external events or signals in a timely manner, such as industrial control, robotics, or multimedia.
+- **Multitasking**: An RTOS allows multiple tasks to run concurrently on the same processor, and provides a mechanism to switch between them. This enables the system to perform different functions simultaneously, such as user interface, communication, and computation.
+- **Scheduling**: An RTOS uses a scheduler to assign priorities to tasks and allocate CPU time to them. The scheduler can be either preemptive or cooperative, depending on the RTOS. A preemptive scheduler can interrupt a running task to execute a higher priority task, while a cooperative scheduler requires tasks to voluntarily yield the CPU to other tasks.
+- **Synchronization**: An RTOS provides mechanisms to coordinate the access to shared resources among tasks, such as semaphores, mutexes, message queues, and events. These mechanisms prevent data corruption, deadlock, and starvation, and ensure the consistency and integrity of the system.
+- **Memory management**: An RTOS manages the allocation and deallocation of memory for tasks and data structures. Depending on the RTOS, memory management can be either static or dynamic. Static memory management assigns fixed memory blocks to tasks and data structures at compile time, while dynamic memory management allocates and frees memory at run time.
+
+Some examples of RTOS are:
+
+- **Azure RTOS**: A commercial RTOS developed by Microsoft that supports various architectures and platforms. It consists of several components, such as ThreadX (the kernel), NetX (the TCP/IP stack), FileX (the file system), GUIX (the graphical user interface), and USBX (the USB host/device stack).
+- **FreeRTOS**: An open source RTOS that is widely used in embedded systems. It is designed to be portable, scalable, and simple to use. It supports various architectures and platforms, and provides a rich set of features, such as task management, timers, queues, semaphores, mutexes, event groups, and software timers.
+- **Linux**: A general-purpose operating system that can also be configured as an RTOS. Linux supports various architectures and platforms, and offers a large number of features, such as file systems, networking, security, and graphical user interface. Linux can achieve real-time performance by using patches, such as PREEMPT_RT, or by using a co-kernel, such as Xenomai or RTAI.

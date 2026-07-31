@@ -1,0 +1,13 @@
+### Hardware to Hardware Communication
+
+Hardware to hardware communication is the process of transferring data between different devices or components that form a network or a system. Hardware communication can be done by using various methods, such as:
+
+- **Interrupt request (IRQ)**: This is a signal sent by a hardware device to the CPU to request its attention and service. The CPU can stop its current task and process the interrupt request, or it can ignore it if it has a higher priority task. The interrupt controller is a hardware device that manages the interrupt requests and sends them to the CPU.
+
+- **Hardware-to-hardware communication, with a twist**: This is a method of using an intermediate software device, such as an OPC server or an HMI, to link data between different hardware devices. The software device can read data from one hardware device, display it on the screen, and write it to another hardware device. This method can be useful for integrating different types of hardware devices or protocols.
+
+- **Network hardware**: This is a category of hardware devices that form the core of any network, such as routers, switches, gateways, servers, and user devices. The network hardware devices use various protocols and standards to communicate with each other and transfer data over the network. The network architecture defines the structure and design of the network and the communication mechanisms between the network hardware devices.
+
+- **UART (Universal Asynchronous Receiver/Transmitter)**: This is a hardware communication protocol that allows serial data transmission between two devices. UART uses a pair of wires, one for transmitting data and one for receiving data, and a common ground. UART does not require a clock signal to synchronize the data transmission, but it uses a predefined baud rate and data format. UART is widely used in embedded systems, microcontrollers, and computers as a device-to-device communication protocol.
+
+- **Hardware-software interface**: This is the interface that defines the communication between the hardware and the software components of a system. The hardware-software interface can include the hardware registers, the memory map, the instruction set, the interrupts, the input/output ports, and the communication protocols. The hardware-software interface can be implemented by using a hardware module, such as a bus interface unit, that contains buffers, controllers, and converters to facilitate the data exchange between the hardware and the software.

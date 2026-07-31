@@ -1,0 +1,28 @@
+### Software Measurement and Metrics in Software Design
+
+- Software measurement and metrics are used to quantify and evaluate the quality, complexity, performance, reliability, usability, and maintainability of software products, processes, and projects.
+- Software measurement is the process of collecting data about software attributes, such as size, complexity, functionality, defects, etc.
+- Software metrics are functions that map software measurements to numerical values that can be compared, analyzed, and interpreted.
+- Software measurement and metrics can help software engineers and managers to:
+  - Plan and estimate software projects
+  - Monitor and control software development and maintenance activities
+  - Assess and improve software processes and products
+  - Communicate and report software status and progress
+  - Identify and mitigate software risks and issues
+- There are three main types of software metrics:
+  - Product metrics: These metrics measure the characteristics of the software product, such as functionality, quality, complexity, etc. Examples of product metrics are lines of code, cyclomatic complexity, defect density, etc.
+  - Process metrics: These metrics measure the characteristics of the software development and maintenance process, such as efficiency, effectiveness, productivity, etc. Examples of process metrics are defect detection rate, defect removal efficiency, schedule variance, etc.
+  - Project metrics: These metrics measure the characteristics of the software project, such as cost, duration, scope, resources, etc. Examples of project metrics are effort, schedule, budget, staff, etc.
+- Software measurement and metrics should follow some general principles, such as:
+  - Define clear and specific goals and objectives for measurement and metrics
+  - Select appropriate and relevant metrics that align with the goals and objectives
+  - Collect accurate and consistent data for measurement and metrics
+  - Analyze and interpret the data using appropriate statistical methods and tools
+  - Present and communicate the results in a clear and understandable way
+  - Use the results to support decision making and improvement actions
+- Software measurement and metrics can be classified into different categories, such as:
+  - Internal and external metrics: Internal metrics measure the internal attributes of the software product or process, such as code quality, complexity, etc. External metrics measure the external attributes of the software product or process, such as usability, reliability, etc.
+  - Direct and indirect metrics: Direct metrics measure the software attributes directly, such as lines of code, defects, etc. Indirect metrics measure the software attributes indirectly, such as productivity, quality, etc.
+  - Absolute and relative metrics: Absolute metrics measure the software attributes in absolute terms, such as number of defects, hours of effort, etc. Relative metrics measure the software attributes in relative terms, such as defect density, effort per function point, etc.
+  - Static and dynamic metrics: Static metrics measure the software attributes without executing the software, such as code complexity, size, etc. Dynamic metrics measure the software attributes by executing the software, such as response time, throughput, etc.
+  - Base and derived metrics: Base metrics measure the software attributes directly from the data, such as lines of code, defects, etc. Derived metrics measure the software attributes by applying mathematical formulas or functions to the base metrics, such as defect density, cyclomatic complexity, etc.

@@ -1,0 +1,14 @@
+### Conclusions for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+
+- Intelligent database systems (IDBS) are systems that integrate database management systems (DBMS) with artificial intelligence (AI) techniques to provide enhanced functionality, performance, and usability.
+- IDBS can be classified into three categories based on the level of integration between DBMS and AI: loosely coupled, tightly coupled, and fully integrated.
+- Loosely coupled IDBS are systems that use separate DBMS and AI components that communicate through a common interface. They are easy to implement and maintain, but have limited interoperability and efficiency.
+- Tightly coupled IDBS are systems that embed AI techniques into the DBMS or vice versa. They have better interoperability and efficiency, but are more complex and difficult to implement and maintain.
+- Fully integrated IDBS are systems that merge DBMS and AI into a single unified system. They have the highest level of interoperability and efficiency, but are very challenging to design and develop.
+- IDBS have various applications in different domains, such as decision support, knowledge discovery, natural language processing, multimedia, spatial and temporal data, and web data.
+- Decision support IDBS are systems that assist users in making complex and uncertain decisions by providing relevant information, analysis, and recommendations. They use techniques such as expert systems, fuzzy logic, neural networks, and genetic algorithms.
+- Knowledge discovery IDBS are systems that discover useful and novel patterns, rules, and trends from large and complex data sets. They use techniques such as data mining, machine learning, and data visualization.
+- Natural language processing IDBS are systems that enable users to interact with databases using natural language queries and responses. They use techniques such as natural language understanding, natural language generation, and speech recognition and synthesis.
+- Multimedia IDBS are systems that store, retrieve, and manipulate multimedia data, such as images, audio, video, and text. They use techniques such as content-based retrieval, feature extraction, and compression.
+- Spatial and temporal IDBS are systems that handle data that have spatial and temporal dimensions, such as geographic information systems (GIS) and time series databases. They use techniques such as spatial and temporal indexing, querying, and reasoning.
+- Web data IDBS are systems that deal with data that are distributed, heterogeneous, and dynamic on the web. They use techniques such as web crawling, web mining, web querying, and web services.

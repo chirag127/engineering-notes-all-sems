@@ -1,0 +1,332 @@
+A stateless session bean is a type of enterprise bean that performs independent operations and does not have any associated client state . It may preserve its instance state, which is the state of the bean's fields and properties . A stateless session bean can be accessed by multiple clients concurrently, and the container can create, reuse, or destroy instances as needed .
+
+A possible diagram for a stateless session bean in enterprise java bean is:
+
+```
++-----------------+     +-----------------+     +-----------------+
+|    Client A     |     |    Client B     |     |    Client C     |
++-----------------+     +-----------------+     +-----------------+
+|                 |     |                 |     |                 |
+|  invoke method  |     |  invoke method  |     |  invoke method  |
+|     on bean     |     |     on bean     |     |     on bean     |
+|                 |     |                 |     |                 |
++--------+--------+     +--------+--------+     +--------+--------+
+         |                      |                      |
+         |                      |                      |
+         |                      |                      |
+         |                      |                      |
+         |                      |                      |
+         |                      |                      |
+         |                      |                      |
+         |                      |                      |
+         |                      |                      |
+         |                      |                      |
+         |                      |                      |
+         |                      |                      |
+         |                      |                      |
+         |                      |                      |
+         |                      |                      |
+         |                      |                      |
+         |                      |                      |
+         +----------------------|----------------------+
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+                               |
+
+```

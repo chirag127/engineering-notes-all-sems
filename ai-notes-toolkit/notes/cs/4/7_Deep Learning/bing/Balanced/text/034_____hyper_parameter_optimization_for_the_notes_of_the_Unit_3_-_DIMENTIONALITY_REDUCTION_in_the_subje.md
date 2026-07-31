@@ -1,0 +1,15 @@
+### Hyperparameter optimization for deep learning
+
+- Hyperparameter optimization is the problem of choosing a set of optimal hyperparameters for a learning algorithm. A hyperparameter is a parameter whose value is used to control the learning process. By contrast, the values of other parameters (typically node weights) are learned.
+- Hyperparameter optimization is important for deep learning because it can improve the performance, efficiency and generalization of the models. However, it is also challenging because of the high dimensionality, non-convexity and stochasticity of the objective functions.
+- Some common hyperparameters for deep learning include learning rate, batch size, number of layers, number of units, activation functions, regularization, dropout, etc. These hyperparameters can affect the speed, accuracy and stability of the training and inference processes.
+- Some common methods for hyperparameter optimization include grid search, random search, Bayesian optimization, gradient-based optimization, evolutionary optimization, etc. These methods can be classified into two categories: black-box methods and white-box methods.
+- Black-box methods do not require any information about the internal structure or gradient of the objective function. They only evaluate the performance of different hyperparameter settings based on some metrics, such as validation accuracy or loss. Examples of black-box methods are grid search, random search, Bayesian optimization, etc.
+- White-box methods use some information about the internal structure or gradient of the objective function to guide the search process. They can exploit the correlation or sensitivity of the hyperparameters to the objective function. Examples of white-box methods are gradient-based optimization, evolutionary optimization, etc.
+- Some advantages and disadvantages of different methods are:
+
+  - Grid search: simple and easy to implement, but inefficient and impractical for high-dimensional spaces.
+  - Random search: more efficient and flexible than grid search, but still requires a large number of evaluations and does not exploit any prior knowledge or feedback.
+  - Bayesian optimization: uses a probabilistic model to capture the relationship between the hyperparameters and the objective function, and uses an acquisition function to balance exploration and exploitation. It can achieve better results with fewer evaluations, but it may be computationally expensive and sensitive to the choice of the model and the acquisition function.
+  - Gradient-based optimization: uses the gradient of the objective function with respect to the hyperparameters to update them. It can be fast and effective, but it may require differentiable objective functions and hyperparameters, and it may suffer from local optima and noise.
+  - Evolutionary optimization: uses a population of candidate solutions that evolve through mutation, crossover and selection. It can handle complex and non-differentiable objective functions, and explore a large and diverse search space, but it may require a large population size and a long convergence time.

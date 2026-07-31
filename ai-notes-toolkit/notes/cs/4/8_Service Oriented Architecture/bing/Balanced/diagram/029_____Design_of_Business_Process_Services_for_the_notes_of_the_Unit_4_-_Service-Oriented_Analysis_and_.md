@@ -1,0 +1,29 @@
+### Design of Business Process Services
+
+- Business process services are the components of a service-oriented architecture (SOA) that implement the business logic and workflows of a service.
+- Business process design is the act of creating a new process or workflow from scratch, or improving an existing one, to achieve a specific goal or outcome.
+- Business process design consists of the following steps:
+  - Identifying and defining the problem or opportunity that the service aims to address
+  - Identifying the inputs, outputs, parties, and procedures involved in the service
+  - Mapping out the process using a graphical notation such as Business Process Model and Notation (BPMN)
+  - Testing the process using simulation, verification, or validation techniques
+- Business process design should consider the following elements of service design:
+  - Value proposition: the benefits and outcomes that the service delivers to the customers and stakeholders
+  - Service concept: the core idea and vision of the service
+  - Service system: the resources, capabilities, and interactions that enable the service delivery
+  - Service experience: the perceptions, emotions, and behaviors of the customers and users during the service encounter
+  - Service blueprint: the detailed specification of the service components, processes, and touchpoints
+- Business process design should also follow the principles of business process management (BPM), which is a way to evaluate, model, improve, and optimize business processes .
+  - BPM involves the following phases:
+    - Discovery: analyzing the current state of the process and identifying the pain points and improvement opportunities
+    - Modeling: designing the future state of the process and defining the key performance indicators (KPIs) and metrics
+    - Implementation: deploying the new or improved process and integrating it with the existing systems and applications
+    - Monitoring: measuring and tracking the performance and outcomes of the process and detecting any issues or deviations
+    - Optimization: analyzing the feedback and data from the monitoring phase and applying changes or enhancements to the process
+- Business process design should leverage the benefits of SOA, such as reusability, interoperability, scalability, and agility, by following the best practices of service-oriented analysis and design (SOAD), such as:
+  - Identifying and defining the service candidates based on the business requirements and goals
+  - Applying the service-orientation principles, such as loose coupling, abstraction, autonomy, discoverability, and composability, to the service design
+  - Modeling the service contracts, interfaces, and messages using a standard notation such as Web Services Description Language (WSDL) or OpenAPI Specification (OAS)
+  - Designing the service composition and orchestration using a standard notation such as Business Process Execution Language (BPEL) or Business Process Model and Notation (BPMN)
+  - Applying the service design patterns, such as service façade, service layer, service registry, and service bus, to the service architecture
+  - Applying the service quality attributes, such as reliability, availability, security, and performance, to the service implementation and testing

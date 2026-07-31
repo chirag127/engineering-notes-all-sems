@@ -1,0 +1,19 @@
+# Mathematics in India and Ancient India
+
+Mathematics in India and ancient India is a rich and diverse field of study that spans several millennia and cultures. Here are some main points to know about it:
+
+- Mathematics in ancient India was called **Ganita**, which means the science of calculation. It was mainly used for numerical computation and geometric measurement, as well as for astronomy, astrology, and other sciences .
+- Mathematics in ancient India was considered as one of the highest sciences, and was placed at the head of all Vedas and shastras (sacred texts and treatises). It was also seen as a way of attaining spiritual knowledge and liberation.
+- The earliest evidence of mathematical knowledge in ancient India comes from the **Indus Valley Civilization** (c. 2500-1900 BCE), which had a sophisticated urban culture and used a decimal system, a standard unit of length, and a system of weights and measures .
+- The **Vedic period** (c. 1500-500 BCE) saw the development of the **Sulba Sutras**, which are appendices to the Vedas that deal with the construction of altars and fire sacrifices. The Sulba Sutras contain geometric formulas, such as the Pythagorean theorem, the value of pi, and the approximation of square roots .
+- The **Classical period** (c. 500 BCE-1200 CE) witnessed the flourishing of mathematics in India, with many influential mathematicians and schools of thought. Some of the notable contributions of this period include:
+
+  - The **Bakhshali Manuscript**, which is the oldest surviving Indian mathematical text, dating from the 3rd or 4th century CE. It contains topics such as arithmetic, algebra, fractions, quadratic equations, and square roots .
+  - The **Aryabhatiya**, which is a treatise by **Aryabhata** (c. 476-550 CE), one of the most famous Indian mathematicians and astronomers. It covers topics such as decimal notation, zero, trigonometry, algebra, and the calculation of pi, as well as astronomical phenomena such as eclipses, planetary motions, and the circumference of the earth .
+  - The **Brahmasphutasiddhanta**, which is a work by **Brahmagupta** (c. 598-668 CE), another prominent Indian mathematician and astronomer. It contains topics such as arithmetic, algebra, geometry, trigonometry, and the rules for zero and negative numbers, as well as astronomical calculations and observations .
+  - The **Siddhanta Siromani**, which is a compendium by **Bhaskara II** (c. 1114-1185 CE), also known as Bhaskaracharya, who is considered as the greatest Indian mathematician of the medieval period. It contains topics such as arithmetic, algebra, geometry, trigonometry, calculus, and the solution of indeterminate equations, as well as astronomical models and measurements .
+
+- The **Medieval period** (c. 1200-1800 CE) saw the decline of mathematics in India, due to the political and social turmoil caused by the invasions and conquests of foreign powers. However, some mathematical works were still produced, such as the **Lilavati** and the **Bijaganita**, which are parts of the Siddhanta Siromani that were translated and popularized by **Narahari** (c. 14th century CE), a mathematician and poet. These works deal with topics such as arithmetic, algebra, geometry, and the solution of linear and quadratic equations .
+- The **Modern period** (c. 1800-present) saw the revival and integration of mathematics in India, with the influence of Western mathematics and the emergence of new fields and applications. Some of the notable mathematicians and achievements of this period include:
+
+  - **Srinivasa Ramanujan** (1887-1920), who was a self-taught genius and one of the greatest mathematicians of the 20th century. He made remarkable contributions to number theory, infinite series, modular forms, partitions, and other areas, and discovered thousands of formulas and theorems, many of which are still being proved and

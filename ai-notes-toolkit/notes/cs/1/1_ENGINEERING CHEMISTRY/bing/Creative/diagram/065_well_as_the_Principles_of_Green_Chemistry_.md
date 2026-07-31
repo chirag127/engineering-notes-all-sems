@@ -1,0 +1,22 @@
+# Green Chemistry
+
+Green chemistry is the approach in chemical sciences that efficiently uses renewable raw materials, eliminating waste and avoiding the use of toxic and hazardous reagents and solvents in the manufacture and application of chemical products . Green chemistry is also known as sustainable chemistry because it aims to reduce or eliminate the environmental and health impacts of chemical processes and products.
+
+## Principles of Green Chemistry
+
+Green chemistry is based on a set of 12 principles that guide the design and implementation of chemical products and processes that are environmentally benign  . The 12 principles are:
+
+- **Prevention**: It is better to prevent waste than to treat or clean up waste after it has been created.
+- **Atom Economy**: Synthetic methods should be designed to maximize the incorporation of all materials used in the process into the final product.
+- **Less Hazardous Chemical Syntheses**: Wherever practicable, synthetic methods should be designed to use and generate substances that possess little or no toxicity to human health and the environment.
+- **Designing Safer Chemicals**: Chemical products should be designed to affect their desired function while minimizing their toxicity.
+- **Safer Solvents and Auxiliaries**: The use of auxiliary substances (e.g., solvents, separation agents, etc.) should be made unnecessary wherever possible and innocuous when used.
+- **Design for Energy Efficiency**: Energy requirements of chemical processes should be recognized for their environmental and economic impacts and should be minimized. If possible, synthetic methods should be conducted at ambient temperature and pressure.
+- **Use of Renewable Feedstocks**: A raw material or feedstock should be renewable rather than depleting whenever technically and economically practicable.
+- **Reduce Derivatives**: Unnecessary derivatization (use of blocking groups, protection/ deprotection, temporary modification of physical/chemical processes) should be minimized or avoided if possible, because such steps require additional reagents and can generate waste.
+- **Catalysis**: Catalytic reagents (as selective as possible) are superior to stoichiometric reagents.
+- **Design for Degradation**: Chemical products should be designed so that at the end of their function they break down into innocuous degradation products and do not persist in the environment.
+- **Real-time Analysis for Pollution Prevention**: Analytical methodologies need to be further developed to allow for real-time, in-process monitoring and control prior to the formation of hazardous substances.
+- **Inherently Safer Chemistry for Accident Prevention**: Substances and the form of a substance used in a chemical process should be chosen to minimize the potential for chemical accidents, including releases, explosions, and fires.
+
+These principles provide a framework for designing and evaluating chemical products and processes that are more compatible with the goals of green chemistry. By applying these principles, chemists can contribute to the development of more sustainable and environmentally friendly solutions for various challenges in science, industry, and society.

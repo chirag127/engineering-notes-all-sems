@@ -1,0 +1,13 @@
+### Morphological processing- erosion and dilation
+
+- Morphological processing is a technique of image processing that uses erosion and dilation operations to modify the shape and size of objects in an image .
+- Erosion is an operation that removes pixels from the boundaries of objects in an image, making them smaller and thinner. Erosion can be used to eliminate noise, separate objects, and smooth boundaries.
+- Dilation is an operation that adds pixels to the boundaries of objects in an image, making them larger and thicker. Dilation can be used to fill gaps, connect objects, and enhance features.
+- Both erosion and dilation depend on the size and shape of the structuring element, which is a small binary image that defines the neighborhood of each pixel. The structuring element can be a square, a circle, a cross, or any other shape that suits the application.
+- Erosion and dilation can be combined to perform more complex morphological operations, such as opening, closing, gradient, top hat, and black hat .
+- Opening is an operation that consists of erosion followed by dilation, using the same structuring element for both operations. Opening can be used to remove small objects, smooth contours, and break thin connections.
+- Closing is an operation that consists of dilation followed by erosion, using the same structuring element for both operations. Closing can be used to fill small holes, fuse narrow breaks, and eliminate small gaps.
+- Gradient is an operation that computes the difference between the dilation and the erosion of an image, using the same structuring element for both operations. Gradient can be used to highlight the edges and boundaries of objects in an image.
+- Top hat (or white hat) is an operation that computes the difference between the original image and its opening, using the same structuring element for both operations . Top hat can be used to enhance bright objects on a dark background .
+- Black hat is an operation that computes the difference between the closing and the original image, using the same structuring element for both operations . Black hat can be used to enhance dark objects on a bright background .
+- Morphological processing is useful for image segmentation, which is the process of dividing an image into meaningful regions or objects. Morphological processing can help to separate overlapping or touching objects, remove unwanted regions, and extract features of interest.

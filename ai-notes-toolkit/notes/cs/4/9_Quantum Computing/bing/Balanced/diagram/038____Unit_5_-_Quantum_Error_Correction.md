@@ -1,0 +1,10 @@
+## Unit 5 - Quantum Error Correction
+
+- Quantum error correction (QEC) is a set of methods to protect quantum information—that is, quantum states—from unwanted environmental interactions (decoherence) and other forms of noise .
+- Quantum information is stored in a quantum error-correcting code, which is a subspace in a larger Hilbert space. The code is designed to detect and correct errors that affect a subset of qubits, while preserving the encoded quantum information.
+- Quantum error correction is essential to achieve fault tolerant quantum computing that can reduce the effects of noise on stored quantum information, faulty quantum gates, faulty quantum measurements, and faulty classical processing .
+- Quantum error correction protocols will play a central role in the realisation of quantum computing; the choice of error correction code will influence the full quantum computing stack, from the layout of qubits at the physical level to gate compilation strategies at the software level.
+- A long quantum computation will require many cycles of quantum error correction. Each cycle would consist of gates acting on encoded qubits (performing the computation), followed by syndrome measurements from which errors can be inferred, and corrections.
+- There are different types of quantum error-correcting codes, such as stabilizer codes, topological codes, subsystem codes, and concatenated codes. Each type has its own advantages and disadvantages in terms of error correction performance, resource requirements, and implementation challenges.
+- Some examples of quantum error-correcting codes are the Shor code, the Steane code, the surface code, the Bacon-Shor code, and the toric code.
+- Quantum error correction is an active area of research, with many open problems and challenges, such as finding optimal codes, improving the threshold for fault tolerance, reducing the overhead of error correction, and developing practical architectures and algorithms for quantum computing .

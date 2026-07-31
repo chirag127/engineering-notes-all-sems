@@ -1,0 +1,8 @@
+### Background for the notes of the Unit 4 - Feature Extraction in the subject of IMAGE ANALYTICS
+
+- Feature extraction is the process of transforming raw image data into a more compact and meaningful representation that can be used for further analysis, such as classification, segmentation, or retrieval.
+- Feature extraction aims to reduce the dimensionality and redundancy of the image data, while preserving the relevant information and discriminating power of the features.
+- Feature extraction can be performed at different levels of abstraction, such as pixel-level, region-level, or object-level, depending on the application and the desired output.
+- Feature extraction can be categorized into two main types: low-level and high-level features.
+  - Low-level features are derived directly from the pixel values of the image, such as color, texture, shape, or edges. They are usually invariant to translation, rotation, and scaling of the image, but sensitive to noise, illumination, and occlusion. They are useful for describing the local properties and appearance of the image regions, but not the semantic meaning or the global structure of the image.
+  - High-level features are derived from the low-level features or the image regions, such as keypoints, descriptors, histograms, or graphs. They are usually invariant to noise, illumination, and occlusion, but sensitive to translation, rotation, and scaling of the image. They are useful for describing the global properties and structure of the image, as well as the semantic meaning and the relationships between the image regions or objects.

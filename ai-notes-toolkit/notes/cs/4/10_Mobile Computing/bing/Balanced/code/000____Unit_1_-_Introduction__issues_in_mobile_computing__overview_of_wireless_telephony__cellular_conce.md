@@ -1,0 +1,27 @@
+## Unit 1 - Introduction, issues in mobile computing, overview of wireless telephony: cellular concept, GSM:
+
+- Mobile computing is the use of portable devices that can access and process data over wireless networks.
+- Mobile computing enables users to communicate, access information, and perform tasks anytime and anywhere, without being constrained by physical location or wired connections.
+- Mobile computing involves various challenges and issues, such as:
+  - Mobility: the ability to move freely and seamlessly across different networks and environments.
+  - Connectivity: the quality and availability of wireless connections and services.
+  - Power consumption: the limited battery life and energy efficiency of mobile devices.
+  - Security: the protection of data and privacy in wireless and open networks.
+  - User interface: the design and usability of mobile applications and devices.
+  - Scalability: the ability to handle a large number of mobile users and devices.
+  - Interoperability: the compatibility and integration of different mobile platforms and standards.
+- Wireless telephony is the transmission and reception of voice and data over radio waves, without the use of wires or cables.
+- Wireless telephony enables users to make and receive phone calls, send and receive text messages, access the internet, and use other mobile services.
+- Wireless telephony is based on the cellular concept, which divides a geographical area into smaller regions called cells, each served by a base station that communicates with mobile stations (such as mobile phones) within its range.
+- The cellular concept allows for frequency reuse, which means that the same radio frequencies can be used by different cells that are sufficiently far apart, without causing interference.
+- The cellular concept also enables handover, which means that a mobile station can switch from one base station to another as it moves across cells, without interrupting the communication.
+- GSM (Global System for Mobile communication) is a standard developed by the European Telecommunications Standards Institute (ETSI) to describe the protocols for second-generation (2G) digital cellular networks used by mobile devices such as mobile phones and tablets.
+- GSM uses a combination of frequency division multiple access (FDMA) and time division multiple access (TDMA) to allocate radio channels to multiple users simultaneously.
+- GSM operates on four different frequency bands: 850 MHz, 900 MHz, 1800 MHz, and 1900 MHz.
+- GSM provides various services, such as:
+  - Voice calls: the transmission and reception of speech over GSM networks.
+  - Short message service (SMS): the exchange of text messages of up to 160 characters between GSM users.
+  - Multimedia message service (MMS): the exchange of multimedia messages, such as images, audio, and video, between GSM users.
+  - General packet radio service (GPRS): the delivery of data packets over GSM networks, enabling internet access and other data services.
+  - Enhanced data rates for GSM evolution (EDGE): an enhancement of GPRS that increases the data transmission speed and capacity of GSM networks.
+  - Global roaming: the ability of GSM users to use their mobile devices in other countries and regions that support GSM networks.

@@ -1,0 +1,10 @@
+# Architectural View of Internet of Things (IoT)
+
+- Internet of Things (IoT) is a paradigm in which objects equipped with sensors, actuators, and processors communicate with each other to serve a meaningful purpose.
+- IoT architecture is a complicated organization comprising many structural elements working in tandem. Their concerted efforts ensure the coordinated performance of any kind of IoT system, be it for industrial, business or personal use.
+- IoT architecture can be broken down into four layers:
+  - Device layer: This layer consists of the physical objects or things that are connected to the internet and can sense, actuate, and/or compute data. Examples are sensors, actuators, microcontrollers, RFID tags, etc.
+  - Network layer: This layer provides the communication infrastructure and protocols for data transmission between the devices and the cloud. Examples are Wi-Fi, Bluetooth, cellular, LoRaWAN, MQTT, CoAP, etc.
+  - Cloud layer: This layer provides the storage, processing, and analysis of the data collected from the devices. It also hosts the applications and services that enable the IoT functionality. Examples are cloud platforms, databases, analytics tools, machine learning models, etc.
+  - Application layer: This layer provides the user interface and interaction for the IoT system. It allows the users to access, monitor, and control the devices and the data. Examples are web browsers, mobile apps, dashboards, voice assistants, etc.
+- Depending on the application areas and requirements of IoT, different architectures may be proposed with different numbers and names of layers. For example, a three-layer architecture consists of perception, network, and application layers, while a five-layer architecture consists of perception, transport, processing, application, and business layers.

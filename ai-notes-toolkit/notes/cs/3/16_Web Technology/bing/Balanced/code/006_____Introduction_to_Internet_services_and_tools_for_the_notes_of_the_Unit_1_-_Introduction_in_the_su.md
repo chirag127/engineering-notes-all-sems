@@ -1,0 +1,22 @@
+### Introduction to Internet Services and Tools
+
+- Internet services are the applications or functions that allow users to access, exchange, or create information over the internet.
+- Internet tools are the software or hardware that enable users to perform various tasks using internet services.
+- Some examples of internet services are:
+  - Email: A service that allows users to send and receive electronic messages over the internet.
+  - Web: A service that allows users to access and view web pages or documents hosted on web servers over the internet.
+  - FTP: A service that allows users to upload and download files from remote computers over the internet.
+  - Telnet: A service that allows users to log in and execute commands on remote computers over the internet.
+  - Chat: A service that allows users to communicate with other users in real time over the internet.
+  - Streaming: A service that allows users to watch or listen to media content over the internet without downloading it.
+  - E-commerce: A service that allows users to buy or sell goods or services over the internet.
+  - Cloud computing: A service that allows users to access or store data or software on remote servers over the internet.
+- Some examples of internet tools are:
+  - Browser: A software that allows users to access and view web pages or documents over the internet.
+  - Email client: A software that allows users to send and receive email messages over the internet.
+  - FTP client: A software that allows users to upload and download files from remote computers over the internet.
+  - Telnet client: A software that allows users to log in and execute commands on remote computers over the internet.
+  - Chat client: A software that allows users to communicate with other users in real time over the internet.
+  - Media player: A software that allows users to watch or listen to media content over the internet.
+  - Shopping cart: A software that allows users to buy or sell goods or services over the internet.
+  - Cloud service: A software that allows users to access or store data or software on remote servers over the internet.

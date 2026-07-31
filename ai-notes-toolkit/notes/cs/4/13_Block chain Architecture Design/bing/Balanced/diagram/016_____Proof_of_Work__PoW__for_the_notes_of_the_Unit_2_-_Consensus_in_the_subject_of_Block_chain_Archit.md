@@ -1,0 +1,12 @@
+### Proof of Work (PoW) for the notes of the Unit 2 - Consensus in the subject of Block chain Architecture Design
+
+- Proof of work (PoW) is a **decentralized system** used to **verify the accuracy** of transactions on the blockchain network    .
+- Proof of work **removes the need** for a central authority like a bank, business, or government agency to monitor and manage transactions and their corresponding accounts .
+- Proof of work **lets blockchain networks operate by consensus rules** rather than “trust.” This means that the majority of the nodes in the network must agree on the validity of the transactions before they are added to the blockchain.
+- Proof of work **involves solving complex mathematical problems** that are hard to compute but easy to verify  . These problems are based on **hash functions**, which are one-way functions that produce a unique output for a given input .
+- The input for the hash function is the **block header**, which contains information such as the previous block's hash, the timestamp, the nonce, and the Merkle root of the transactions in the block .
+- The output of the hash function is the **block hash**, which must satisfy a certain **difficulty criterion** to be accepted by the network . The difficulty criterion is a **target value** that determines how many leading zeros the block hash must have.
+- The **nonce** is a random number that is changed by the **miners**, who are the programs on the nodes that work to solve the hash  . The miners try different nonce values until they find one that produces a valid block hash .
+- The process of finding a valid block hash is called **mining**, and it requires a lot of **computational power** and **energy consumption**  . The first miner who finds a valid block hash **broadcasts** it to the network, and the other nodes **verify** it by checking the hash and the transactions .
+- If the block hash is valid, the block is **added** to the blockchain, and the miner is **rewarded** with newly created coins and transaction fees  . This incentivizes the miners to participate in the network and secure it  .
+- Proof of work is a **robust and secure** mechanism that prevents **double-spending**, **tampering**, and **sybil attacks** on the blockchain network  . However, it also has some **drawbacks**, such as **scalability issues**, **environmental concerns**, and **centralization risks**  .

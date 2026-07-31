@@ -1,0 +1,13 @@
+### Multimodal System Control Techniques
+
+Multimodal system control techniques are methods of using different input channels, such as speech, gesture, eye gaze, or touch, to control the system or application settings in a 3D user interface. These techniques can enhance the user experience and performance by allowing more natural and flexible ways of interacting with the 3D environment. Some of the advantages of using multimodal system control techniques are:
+
+- Decoupling: Using an input channel that differs from the main input channel used for interaction with the environment can decrease user cognitive load. For example, using speech to switch between different modes or tools while using hand gestures to manipulate objects in 3D space can reduce the need for complex menus or buttons.
+- Error reduction and correction: The use of multiple input channels can be very effective when the input is ambiguous or noisy, especially with recognition-based input like speech or gestures. For example, using eye gaze to disambiguate speech commands or using speech to correct gesture errors can improve the accuracy and robustness of the system.
+- Expressiveness and efficiency: The use of multiple input channels can enable more expressive and efficient ways of communicating with the system. For example, using speech and gesture together can convey more information than using either modality alone, such as specifying the location, size, shape, and color of an object in 3D space.
+
+Some of the challenges of using multimodal system control techniques are:
+
+- Integration and fusion: The system needs to integrate and fuse the input from different modalities in a coherent and consistent way. For example, the system needs to determine the temporal and spatial relationships between speech and gesture input, and resolve any conflicts or redundancies between them.
+- Feedback and guidance: The system needs to provide appropriate feedback and guidance to the user about the available input channels and the system state. For example, the system needs to indicate the recognition status and results of the input, and provide cues and hints for using the input channels effectively.
+- Adaptation and personalization: The system needs to adapt and personalize the input channels and the system behavior to the user's preferences, abilities, and context. For example, the system needs to adjust the sensitivity and thresholds of the input channels, and provide different levels of assistance and feedback based on the user's skill and experience.

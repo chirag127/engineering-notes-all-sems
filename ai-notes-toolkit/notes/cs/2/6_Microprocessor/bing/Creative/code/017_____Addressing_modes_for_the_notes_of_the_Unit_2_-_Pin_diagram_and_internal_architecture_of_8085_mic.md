@@ -1,0 +1,14 @@
+### Addressing modes for the notes of the Unit 2 - Pin diagram and internal architecture of 8085 microprocessor, registers, ALU, Control & status, interrupt and machine cycle. Instruction sets. Addressing modes. Instruction formats Instruction Classification: data transfer, arithmetic operations, logical operations, branching operations, machine control and assembler directives. in the subject of Microprocessor KCS
+
+- Addressing modes are the ways of specifying the data to be operated by an instruction.
+- The 8085 microprocessor supports five addressing modes: immediate, register, register indirect, direct, and implied.
+- Immediate addressing mode: the operand is given in the instruction itself. For example, MVI A, 07H means load the accumulator with the value 07H .
+- Register addressing mode: the operand is stored in one of the registers. For example, MOV B, C means copy the contents of register C to register B .
+- Register indirect addressing mode: the operand is stored in a memory location whose address is given by a register pair. For example, MOV A, M means copy the contents of the memory location pointed by the register pair HL to the accumulator .
+- Direct addressing mode: the operand is stored in a memory location whose address is given in the instruction. For example, LDA 2000H means load the accumulator with the contents of the memory location 2000H .
+- Implied addressing mode: the operand is implied by the instruction. For example, CMA means complement the accumulator .
+- Interrupts are signals that cause the microprocessor to temporarily stop its current execution and perform a predefined subroutine. The 8085 microprocessor has five hardware interrupts: INTR, RST 5.5, RST 6.5, RST 7.5, and TRAP.
+- Machine cycle is the time required by the microprocessor to complete an operation of accessing memory or I/O devices. The 8085 microprocessor has six basic machine cycles: opcode fetch, memory read, memory write, I/O read, I/O write, and interrupt acknowledge.
+- Instruction set is the collection of all the instructions that a microprocessor can execute. The 8085 microprocessor has 246 instructions, which can be classified into five categories: data transfer, arithmetic, logical, branching, and machine control.
+- Instruction format is the way an instruction is encoded in binary form. The 8085 microprocessor has three types of instruction formats: one-byte, two-byte, and three-byte. The first byte of an instruction is called the opcode, which specifies the operation to be performed. The second and third bytes, if present, are called the operands, which specify the data or the address of the data.
+- Assembler directives are commands that are used to control the assembly process of a program. They are not executed by the microprocessor, but are interpreted by the assembler. Some of the common assembler directives are: ORG, EQU, DB, DW, DS, END, etc.

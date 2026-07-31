@@ -1,0 +1,24 @@
+### Dynamic Source Routing (DSR)
+
+- Dynamic Source Routing (DSR) is a routing protocol for wireless mesh networks .
+- It is an on-demand protocol that does not require periodic table updates or link state advertisements.
+- It uses source routing, which means that the sender of a packet determines the complete sequence of nodes through which the packet has to pass .
+- The sender explicitly lists this route in the packet's header, identifying each forwarding hop by the address of the next node to which to transmit the packet on its way to the destination host.
+- DSR has two main mechanisms: route discovery and route maintenance .
+- Route discovery is the process by which a sender node finds a route to a destination node when it has a packet to send .
+- Route discovery involves broadcasting a route request packet, which is forwarded by intermediate nodes until it reaches the destination or a node that knows a route to the destination .
+- The route request packet contains the address of the sender, the address of the destination, and a unique identification number .
+- The route reply packet contains the route from the sender to the destination, and is sent back to the sender either by reversing the route request packet or by piggybacking on a route request packet going in the opposite direction .
+- Route maintenance is the process by which a sender node detects and repairs link failures along an active route .
+- Route maintenance involves sending route error packets, which inform the sender and other nodes that a link has broken and that they should discard any routes that contain that link .
+- Route maintenance also involves using route caches, which store routes that have been learned or overheard by a node .
+- Route caches can be used to avoid route discovery, to find alternative routes, or to reply to route requests .
+- DSR has some advantages and disadvantages over other routing protocols .
+- Advantages include:
+  - No need for periodic messages, which reduces the network overhead and saves bandwidth and energy .
+  - Ability to support multiple routes to a destination, which increases the reliability and load balancing .
+  - Ability to adapt quickly to topology changes, which improves the performance in highly dynamic networks .
+- Disadvantages include:
+  - Large packet headers, which increase the transmission delay and consume more bandwidth .
+  - Potential for stale routes, which may cause routing loops or packet losses .
+  - Lack of scalability, which limits the applicability to large networks .

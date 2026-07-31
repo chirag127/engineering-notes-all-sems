@@ -1,0 +1,27 @@
+### Software Version Control
+
+- Software version control (SVC) is a management strategy to track and store changes to a software development document or set of files that follow the development project from beginning to end-of-life .
+- SVC is a component of software configuration management, which is the process of controlling the evolution of a software system.
+- SVC helps software teams to:
+  - Manage changes to source code over time and avoid conflicts or errors .
+  - Collaborate and coordinate their work more effectively .
+  - Recover previous versions of the code in case of bugs, errors, or failures .
+  - Track the history and progress of the software development project .
+- SVC systems are software tools that implement SVC by taking snapshots of the files and saving them permanently so they can be recalled later if needed .
+- SVC systems can be classified into two main types:
+  - Centralized version control systems (CVCS), which use a single server to store all the versions of the files and require the developers to connect to the server to access or modify the files . Examples of CVCS are Subversion (SVN) and Team Foundation Version Control (TFVC) .
+  - Distributed version control systems (DVCS), which allow the developers to have a local copy of the entire repository on their machines and synchronize their changes with other developers through a network . Examples of DVCS are Git and Mercurial .
+- SVC systems use different terms and concepts to describe the changes and versions of the files, such as:
+  - Revision, which is a snapshot of the files at a certain point in time .
+  - Branch, which is a divergent line of development from the main line (also called trunk or master) .
+  - Merge, which is the process of combining the changes from different branches into one branch .
+  - Tag, which is a label or name given to a specific revision for identification or reference purposes .
+  - Commit, which is the action of saving the changes to the repository .
+  - Push, which is the action of sending the changes from the local repository to the remote repository .
+  - Pull, which is the action of fetching the changes from the remote repository to the local repository .
+- SVC systems use different strategies and workflows to manage the changes and versions of the files, such as:
+  - Lock-modify-unlock, which requires the developers to lock the files before modifying them and unlock them after committing the changes, to prevent concurrent modifications .
+  - Copy-modify-merge, which allows the developers to modify the files without locking them and merge the changes later, to enable concurrent modifications .
+  - Feature branch, which creates a separate branch for each feature or task and merges it back to the main branch after completion .
+  - Gitflow, which defines a standard set of branches and rules for merging them, such as develop, feature, release, hotfix, and master .
+  - Forking, which creates a copy of the repository for each developer or team and merges the changes through pull requests .

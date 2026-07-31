@@ -1,0 +1,11 @@
+### Language for the notes of the Unit 2 - SOFTWARE HARDWARE FRAMEWORKS in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Software hardware frameworks are systems that combine software and hardware components to enable the development and deployment of applications that involve wearable computing, mixed reality and internet of everything.
+- Wearable computing is the use of wearable devices that can sense, process and communicate information, such as smartwatches, fitness trackers, smart glasses and head-mounted displays.
+- Mixed reality is the blending of physical and digital worlds, where virtual and real objects coexist and interact in real time, such as augmented reality and virtual reality.
+- Internet of everything is the extension of the internet of things, which refers to the interconnection of embedded devices within everyday objects and environments, to include people, processes and data, such as smart homes, smart cities and smart health.
+- Some examples of software hardware frameworks that enable ubiquitous mixed reality applications are:
+  - MIRELA: a high-level language and a rapid prototyping framework dedicated to systems where virtual and digital objects coexist in the same environment and interact in real time. Its semantics is given in the form of networks of timed automata, which can be checked using symbolic methods.
+  - UbiVis: a framework that tackles challenges emerging from using different hardware for the current mixed reality experience, such as hardware related challenges and solutions for displaying virtual content in collaborative MR-applications.
+  - Azure IoT: a cloud and edge computing platform that provides services and tools for building, managing and securing IoT solutions, such as digital twins, mixed reality and autonomous systems.
+  - XRI: a mixed-reality internet-of-things architectural framework that aims to provide a unified and scalable approach for integrating heterogeneous IoT devices and MR applications, using a common data model and a distributed event-driven architecture.

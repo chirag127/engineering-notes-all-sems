@@ -1,0 +1,10 @@
+### Water Management in India and Ancient India
+
+Water is a vital resource for human existence and development. India has a rich and diverse history of water management, dating back to the ancient civilizations of Harappa and Vedic India. Some of the key aspects of water management in India and ancient India are:
+
+- **Hydrological knowledge**: Ancient Indians had a good understanding of the hydrological cycle, the seasonal variations of rainfall, the types of rivers and streams, and the methods of measuring and forecasting water availability. They also had a scientific approach to water quality, using natural materials and plants to purify and treat water .
+- **Hydraulic structures**: Ancient Indians built various types of hydraulic structures, such as dams, reservoirs, canals, wells, tanks, and stepwells, to store, divert, distribute, and regulate water for various purposes, such as irrigation, domestic use, religious rituals, and urban planning. Some of these structures are still in use today, and some have been revived to cope with the current water crisis .
+- **Water conservation**: Ancient Indians practiced various methods of water conservation, such as rainwater harvesting, watershed management, groundwater recharge, and water recycling. They also had a strong sense of water ethics, respecting water as a sacred and precious resource, and avoiding wastage and pollution .
+- **Water governance**: Ancient Indians had a well-organized system of water governance, involving both state and community institutions. They had laws and regulations to ensure equitable and sustainable use of water, and to resolve water conflicts. They also had a participatory and cooperative approach to water management, involving various stakeholders, such as farmers, priests, engineers, and rulers .
+
+Water management in India and ancient India is a fascinating and relevant topic, as it shows the wisdom and innovation of the past, and the challenges and opportunities of the present and future.

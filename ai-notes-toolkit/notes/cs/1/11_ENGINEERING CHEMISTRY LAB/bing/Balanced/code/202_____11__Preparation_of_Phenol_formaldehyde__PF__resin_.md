@@ -1,0 +1,8 @@
+### 11. Preparation of Phenol formaldehyde (PF) resin
+
+- Phenol formaldehyde (PF) resin is a type of thermosetting resin that is obtained by the polymerization of phenol and formaldehyde.
+- Phenol and formaldehyde react in a step-growth polymerization reaction that can be either acid- or base-catalyzed .
+- The ratio of phenol to formaldehyde affects the structure and properties of the resin. A 1:1 ratio produces linear chains, while a higher ratio of formaldehyde produces cross-linked networks .
+- The reaction can be carried out in one or two stages. In the one-stage process, phenol and formaldehyde are mixed with a catalyst and heated under reflux until the desired degree of polymerization is reached. In the two-stage process, phenol and formaldehyde are first reacted in a low-molecular-weight resin (called a novolak) that is then cured with a hardener (such as hexamethylenetetramine) to form the final resin .
+- The properties of PF resin depend on the type and amount of catalyst, the reaction temperature and time, the phenol to formaldehyde ratio, and the curing conditions. PF resin is thermally stable, chemically resistant, and has high mechanical strength and hardness .
+- PF resin is widely used in the production of wood-based composites, such as plywood, particleboard, and medium-density fiberboard. It is also used in molding compounds, laminates, coatings, adhesives, and electrical insulation .

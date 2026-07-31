@@ -1,0 +1,23 @@
+#### Object Oriented Design in Software Design
+
+- Object oriented design (OOD) is the process of planning a system of interacting objects for the purpose of solving a software problem.
+- An object is an entity that contains data and procedures (also known as methods or functions) that operate on the data.
+- Objects communicate with each other by sending and receiving messages, which are usually implemented as method calls.
+- OOD is based on the principles of abstraction, encapsulation, inheritance, and polymorphism.
+  - Abstraction is the process of hiding the details of an object and exposing only its essential features.
+  - Encapsulation is the process of bundling the data and methods of an object together and restricting access to them from outside the object.
+  - Inheritance is the process of creating new classes (also known as subclasses or derived classes) from existing classes (also known as superclasses or base classes) by reusing their data and methods and adding new ones.
+  - Polymorphism is the ability of an object to behave differently depending on its type or context.
+- OOD aims to achieve the following benefits:
+  - Modularity: The system is divided into smaller and independent units (also known as modules or components) that can be developed, tested, and maintained separately.
+  - Reusability: The modules can be reused in different systems or applications, reducing the cost and time of development.
+  - Extensibility: The system can be easily modified or extended by adding new modules or modifying existing ones without affecting the rest of the system.
+  - Maintainability: The system can be easily understood, debugged, and updated as the requirements change or errors are found.
+- OOD follows some guidelines or principles to achieve these benefits, such as the SOLID principles:
+  - Single-responsibility principle: Each module should have one and only one responsibility or reason to change.
+  - Open-closed principle: Each module should be open for extension but closed for modification.
+  - Liskov substitution principle: Each subclass should be substitutable for its superclass without breaking the system.
+  - Interface segregation principle: Each module should depend on the smallest possible interface that provides the required functionality.
+  - Dependency inversion principle: Each module should depend on abstractions rather than concretions.
+- OOD can be applied to different types of software systems or applications, such as web applications, desktop applications, mobile applications, embedded systems, etc.
+- OOD can be performed using different methods or tools, such as UML diagrams, design patterns, frameworks, etc.

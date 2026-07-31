@@ -1,0 +1,8 @@
+### Computer Graphics for the notes of the Unit 1 - VIRTUAL REALITY AND VIRTUAL ENVIRONMENTS in the subject of Augmented & Virtual Reality
+
+1. **Computer Graphics** is the field of visual computing, where one utilizes computers both to generate visual images synthetically and to integrate or alter visual and spatial information sampled from the real world.
+2. **Virtual Reality (VR)** is a computer-generated simulation of a three-dimensional environment that can be interacted with in a seemingly real or physical way by a person using special electronic equipment, such as a helmet with a screen inside or gloves fitted with sensors.
+3. **Virtual Environments** are computer-generated, interactive, three-dimensional environments in which a user is immersed. They are designed to simulate real-world or imaginary environments and can be experienced through sensory stimuli provided by a VR system.
+4. **Augmented Reality (AR)** is a technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view. It enhances the user's perception of reality by combining virtual elements with the real world.
+5. **Applications of VR and AR** include gaming, education, training, healthcare, and entertainment. They are also used in fields such as architecture, engineering, and urban planning to visualize and simulate designs before they are built.
+6. **Hardware and Software** for VR and AR include head-mounted displays, motion controllers, and tracking systems for hardware, and game engines, development tools, and programming languages for software.

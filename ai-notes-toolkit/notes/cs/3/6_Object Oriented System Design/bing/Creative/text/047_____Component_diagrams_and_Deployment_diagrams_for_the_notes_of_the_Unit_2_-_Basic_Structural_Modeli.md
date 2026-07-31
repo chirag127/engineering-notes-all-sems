@@ -1,0 +1,8 @@
+### Component diagrams and Deployment diagrams
+
+- Component diagrams and deployment diagrams are two types of structural diagrams in UML that show the static structure of a system.
+- Component diagrams describe the components of a system and how they are related. Components are modular units of a system that provide a specific functionality or service.
+- Deployment diagrams show the physical configuration of the hardware and software elements that make up a system. Deployment diagrams depict the nodes or devices in a system and the artifacts or software units that are deployed on them.
+- Component diagrams and deployment diagrams are closely related, as components are deployed to nodes indirectly through artifacts. Artifacts are the physical manifestation or implementation of components, such as executable files, libraries, or databases.
+- Component diagrams and deployment diagrams can be used to model the architecture of a system at different levels of abstraction, such as specification level or instance level. Specification level diagrams show the general design of a system, while instance level diagrams show the specific configuration of a system at run time.
+- Component diagrams and deployment diagrams can be used to visualize the logical and physical aspects of a system, such as the components that provide the business logic, the nodes that provide the execution environment, and the middleware that connects them. They can also be used to identify the dependencies, communication, and distribution of a system.

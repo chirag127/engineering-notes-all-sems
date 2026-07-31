@@ -1,0 +1,12 @@
+### Uniform Quantizer for the notes of the Unit 4 - Distortion criteria in the subject of Data Compression
+
+In the field of data compression, quantization is a fundamental technique used to reduce the number of bits required to represent a signal. The process of quantization involves mapping continuous values to a finite set of discrete values. In this context, a uniform quantizer is a type of quantizer that divides the signal range into a fixed number of equally spaced levels. Here are some important points to consider when studying uniform quantizers in the context of data compression:
+
+- A uniform quantizer maps each input value to the closest quantization level. The quantization error is the difference between the input value and the quantized value. 
+- The quantization error depends on the step size of the quantizer. A smaller step size results in a smaller quantization error, but requires more bits to represent each quantization level. 
+- The number of bits required to represent a uniform quantizer depends on the number of quantization levels. For example, a 4-bit uniform quantizer can represent 2^4=16 quantization levels. 
+- The signal-to-noise ratio (SNR) is a measure of the quality of the quantized signal. In the context of uniform quantizers, the SNR is a function of the number of bits used to represent each quantization level. As the number of bits increases, the SNR improves. 
+- The distortion introduced by a uniform quantizer can be measured using the mean squared error (MSE) criterion. The MSE is the average of the squared quantization errors over all input values. 
+- In practice, uniform quantizers are often used in combination with other techniques, such as entropy coding, to achieve higher compression ratios. 
+
+In summary, uniform quantizers are a fundamental tool used in data compression to reduce the number of bits required to represent a signal. By dividing the signal range into a fixed number of equally spaced levels, uniform quantizers introduce a quantization error that can be measured using the MSE criterion. By understanding the properties of uniform quantizers, we can design effective compression algorithms that balance compression ratio and signal quality.

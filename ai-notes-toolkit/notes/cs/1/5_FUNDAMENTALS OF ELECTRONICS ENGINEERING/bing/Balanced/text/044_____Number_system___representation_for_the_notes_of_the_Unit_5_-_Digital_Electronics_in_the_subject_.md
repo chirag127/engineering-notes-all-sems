@@ -1,0 +1,33 @@
+### Number System and Representation for the Notes of the Unit 5 - Digital Electronics in the Subject of Fundamentals of Electronics Engineering
+
+- A number system is a way of representing information using symbols or digits.
+- The base or radix of a number system is the total number of symbols or digits used in the number system.
+- The most common number systems in digital electronics are decimal, binary, octal, and hexadecimal.
+- Decimal number system uses 10 symbols or digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9. It is the standard system for human arithmetic and communication.
+- Binary number system uses 2 symbols or digits: 0 and 1. It is the simplest and most fundamental system for digital electronics and computers. Each digit or bit can represent two states: on or off, true or false, high or low, etc.
+- Octal number system uses 8 symbols or digits: 0, 1, 2, 3, 4, 5, 6, and 7. It is a convenient way of grouping binary bits into three-bit groups or octets. Each octal digit represents three binary digits.
+- Hexadecimal number system uses 16 symbols or digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, and F. It is another convenient way of grouping binary bits into four-bit groups or nibbles. Each hexadecimal digit represents four binary digits.
+- To convert a number from one base to another, there are two methods: division-remainder method and multiplication method.
+- Division-remainder method is used to convert a number from a higher base to a lower base. The steps are:
+  - Divide the number by the base of the target system.
+  - Write down the remainder as the rightmost digit of the result.
+  - Repeat the process with the quotient until it becomes zero.
+  - Write down the final quotient as the leftmost digit of the result.
+  - The result is the number in the target system.
+- Multiplication method is used to convert a number from a lower base to a higher base. The steps are:
+  - Multiply the number by the base of the target system.
+  - Write down the integer part of the product as the leftmost digit of the result.
+  - Repeat the process with the fractional part of the product until it becomes zero or reaches the desired precision.
+  - Write down the final fractional part as the rightmost digit of the result.
+  - The result is the number in the target system.
+- To convert a number from binary to octal or hexadecimal, or vice versa, there is a shortcut method: grouping method. The steps are:
+  - Group the binary digits from right to left into three-bit groups for octal or four-bit groups for hexadecimal.
+  - Write down the corresponding octal or hexadecimal digit for each group.
+  - The result is the number in the target system.
+- To convert a number from octal to hexadecimal, or vice versa, there is another shortcut method: intermediate binary method. The steps are:
+  - Convert the number from octal to binary using the grouping method.
+  - Convert the binary number to hexadecimal using the grouping method.
+  - The result is the number in the target system.
+- In digital electronics, there are two ways of representing numbers: fixed point and floating point.
+- Fixed point representation uses a fixed number of bits to represent the integer and fractional parts of a number. It is simple and fast, but has limited range and precision.
+- Floating point representation uses a variable number of bits to represent the sign, exponent, and mantissa of a number. It is complex and slow, but has greater range and precision.

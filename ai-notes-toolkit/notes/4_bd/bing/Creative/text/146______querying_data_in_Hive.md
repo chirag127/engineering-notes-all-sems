@@ -1,0 +1,21 @@
+#### Querying data in Hive
+
+- Hive is a data warehouse system that allows users to query and analyze large-scale data using a SQL-like language called HiveQL.
+- HiveQL is a declarative language that abstracts the complexity of MapReduce, the underlying framework for distributed data processing in Hadoop.
+- Hive supports various data formats, such as text, JSON, ORC, Parquet, Avro, etc., and can access data stored in HDFS, HBase, or other external sources.
+- Hive provides a schema-on-read approach, which means that the data schema is inferred at the time of query execution, rather than at the time of data ingestion.
+- Hive allows users to create tables, partitions, buckets, views, indexes, and functions to organize and manipulate data.
+- Hive also supports user-defined functions (UDFs), user-defined aggregate functions (UDAFs), and user-defined table functions (UDTFs) to extend the functionality of HiveQL.
+- To query data in Hive, users need to use the Hive shell, the Hive web interface (HWI), or the HiveServer2 (HS2) service, which provides a JDBC/ODBC interface for external applications.
+- A typical Hive query consists of the following components:
+  - A SELECT clause that specifies the columns or expressions to be returned.
+  - A FROM clause that specifies the table or view to be queried.
+  - A WHERE clause that specifies the filtering conditions for the rows to be returned.
+  - A GROUP BY clause that specifies the grouping criteria for the rows to be aggregated.
+  - A HAVING clause that specifies the filtering conditions for the groups to be returned.
+  - An ORDER BY clause that specifies the sorting order for the rows to be returned.
+  - A LIMIT clause that specifies the maximum number of rows to be returned.
+- Hive also supports subqueries, joins, unions, set operations, window functions, analytical functions, and common table expressions (CTEs) to perform complex queries on data.
+- Hive provides various built-in functions and operators to perform arithmetic, logical, string, date, and other operations on data.
+- Hive also supports various query optimization techniques, such as predicate pushdown, column pruning, partition pruning, map-side join, bucket map join, sort-merge join, etc., to improve the query performance and reduce the resource consumption.
+- Hive also supports various query execution modes, such as local mode, mapreduce mode, and tez mode, to choose the appropriate execution engine for the query.

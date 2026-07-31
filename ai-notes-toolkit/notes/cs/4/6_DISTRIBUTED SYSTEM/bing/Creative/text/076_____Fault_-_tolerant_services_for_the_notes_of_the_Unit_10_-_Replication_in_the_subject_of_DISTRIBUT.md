@@ -1,0 +1,13 @@
+### Fault-Tolerant Services by Replication in Distributed Systems
+
+- Fault-tolerance is the ability of a system to continue providing correct service despite the occurrence of failures, such as server crashes, network partitions, or malicious attacks.
+- Replication is a technique that creates and maintains multiple copies of the same entity (such as data, service, or object) in a distributed system, so that the system can tolerate some degree of failures without losing availability or consistency.
+- Replication can be classified into two main categories: passive replication and active replication.
+  - Passive replication (or primary-backup replication) is a technique that assigns a single replica (the primary) to handle all the requests from the clients, while the other replicas (the backups) only update their state based on the messages from the primary. If the primary fails, one of the backups takes over as the new primary.
+  - Active replication (or state machine replication) is a technique that assigns all the replicas to handle the requests from the clients in the same order, using a consensus protocol to agree on the order. All the replicas execute the same operations and produce the same results, so that any replica can respond to the clients.
+- The correctness criterion for replicated services is linearizability, which means that the service should behave as if there is a single copy of the entity and every operation appears to take effect atomically at some point between its invocation and response.
+- The challenges of implementing fault-tolerant replication in distributed systems include:
+  - How to ensure that the replicas are consistent with each other, despite the possibility of failures or network delays.
+  - How to handle concurrent and conflicting requests from different clients, and ensure that the replicas agree on a total order of the requests.
+  - How to balance the trade-offs between availability, consistency, and performance, and cope with the limitations of the CAP theorem, which states that it is impossible for a distributed system to simultaneously provide all three of the following guarantees: consistency, availability, and partition tolerance.
+  - How to deal with Byzantine faults, which are arbitrary or malicious behaviors of some replicas or clients, such as sending incorrect or conflicting messages, or colluding with each other to compromise the system.

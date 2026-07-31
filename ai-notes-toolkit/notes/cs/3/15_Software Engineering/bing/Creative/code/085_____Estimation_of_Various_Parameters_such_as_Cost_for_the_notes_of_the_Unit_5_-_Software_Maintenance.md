@@ -1,0 +1,23 @@
+### Estimation of Various Parameters such as Cost for the notes of the Unit 5 - Software Maintenance and Software Project Management in the subject of Software Engineering
+
+Software estimation is the process of predicting the effort, time, and cost required to complete a software project. Software estimation is essential for planning, managing, and controlling software projects. Software estimation techniques are methods or tools that help software engineers or managers to estimate the size, effort, duration, and cost of a software project.
+
+Some of the common software estimation techniques are:
+
+- **Delphi Technique**: This technique involves a group of experts who provide their estimates independently and anonymously. The estimates are then collected and analyzed by a moderator, who discards the extreme values and calculates the average or median of the remaining estimates. The process is repeated until the experts reach a consensus or a predefined criterion is met. This technique is useful when there is uncertainty or lack of information about the project.  
+
+- **Work Breakdown Structure (WBS)**: This technique involves breaking down a large and complex project into smaller and manageable components or tasks, each with a defined scope, deliverable, and responsibility. The size, effort, duration, and cost of each task are then estimated using historical data, expert judgment, analogy, or other methods. The estimates of the tasks are then aggregated to obtain the estimates of the project. This technique is useful when the project scope and requirements are clear and stable.  
+
+- **Three Point Estimation**: This technique involves estimating three values for each task or activity: the most optimistic (O), the most likely (L), and the most pessimistic (P). The optimistic estimate assumes that everything goes well and there are no risks or issues. The pessimistic estimate assumes that everything goes wrong and there are many risks or issues. The likely estimate assumes that there are some risks or issues, but they can be managed or resolved. The three estimates are then combined using a weighted average formula, such as the PERT (Program Evaluation and Review Technique) formula, to obtain a single estimate. This technique is useful when there is variability or uncertainty in the project.  
+
+- **Functional Point Method**: This technique involves measuring the size of a software project based on the functionality or features that it provides to the users. The functionality or features are classified into five types: external inputs, external outputs, external inquiries, internal logical files, and external interface files. Each type of functionality is assigned a complexity level (low, average, or high) and a corresponding weight. The total number of function points (FP) is calculated by multiplying the number of each type of functionality by its weight and summing them up. The effort, duration, and cost of the project are then estimated by multiplying the FP by a productivity factor, which depends on the project characteristics, such as the development environment, the team skills, the quality requirements, etc. This technique is useful when the project functionality or features are well-defined and measurable.  
+
+- **Story Point Method**: This technique involves estimating the size of a software project based on the user stories or requirements that describe the desired functionality or features from the user's perspective. User stories are usually written in the format of "As a <role>, I want to <action>, so that <benefit>". Each user story is assigned a story point, which is a unit of measure that represents the relative complexity, effort, and uncertainty of implementing the user story. The story points are estimated by the development team using a technique called planning poker, where each team member provides their estimate using a set of cards with predefined values, such as the Fibonacci sequence (1, 2, 3, 5, 8, 13, etc.). The team then discusses the estimates and agrees on a final value. The total number of story points (SP) is calculated by adding up the story points of all the user stories. The effort, duration, and cost of the project are then estimated by dividing the SP by a velocity factor, which is the average number of story points that the team can complete in a given time period, such as a sprint or an iteration. This technique is useful when the project follows an agile or iterative development approach.  
+
+: https://www.geeksforgeeks.org/software-engineering-project-size-estimation-techniques/
+
+: https://www.softwaretestingclass.com/software-estimation-techniques/
+
+: https://www.geeksforgeeks.org/software-testing-estimation-techniques/
+
+: https

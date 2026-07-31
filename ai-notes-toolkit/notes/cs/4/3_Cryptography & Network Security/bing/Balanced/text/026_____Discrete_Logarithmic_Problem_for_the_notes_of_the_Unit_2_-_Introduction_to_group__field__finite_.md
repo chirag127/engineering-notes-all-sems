@@ -1,0 +1,11 @@
+### Discrete Logarithm Problem
+
+- The discrete logarithm problem is defined as: given a group G, a generator g of the group and an element h of G, to find the discrete logarithm to the base g of h in the group G.
+- The discrete logarithm problem is not always hard. The hardness of finding discrete logarithms depends on the groups.
+- The discrete logarithm problem is considered to be computationally intractable. That is, no efficient classical algorithm is known for computing discrete logarithms in general.
+- A general algorithm for computing log<sub>g</sub>h in finite groups G is to raise g to larger and larger powers k until the desired h is found. This is called the **brute-force** or **exhaustive search** algorithm.
+- The brute-force algorithm has a time complexity of O(|G|) and a space complexity of O(1), where |G| is the order of the group.
+- There are some **specialized algorithms** for computing discrete logarithms in certain groups, such as the **Pohlig-Hellman algorithm**, the **Shanks' baby-step giant-step algorithm**, the **Pollard's rho algorithm**, the **index calculus algorithm**, and the **number field sieve algorithm**.
+- The specialized algorithms have different time and space complexities depending on the group structure and parameters. For example, the number field sieve algorithm has a time complexity of L<sub>p</sub>(1/3, (64/9)<sup>1/3</sup>) and a space complexity of L<sub>p</sub>(1/3, (32/9)<sup>1/3</sup>), where L<sub>p</sub>(a,c) = exp((c+o(1))(log p)<sup>a</sup>(log log p)<sup>1-a</sup>) and p is the prime modulus of the group.
+- The discrete logarithm problem is the basis of many **cryptographic protocols** and schemes, such as the **Diffie-Hellman key exchange**, the **ElGamal encryption and signature schemes**, the **Digital Signature Algorithm (DSA)**, and the **Elliptic Curve Cryptography (ECC)** .
+- The security of these cryptographic protocols and schemes relies on the assumption that the discrete logarithm problem is hard to solve in the underlying groups, such as the **multiplicative group of integers modulo a large prime** or the **group of points on an elliptic curve** .

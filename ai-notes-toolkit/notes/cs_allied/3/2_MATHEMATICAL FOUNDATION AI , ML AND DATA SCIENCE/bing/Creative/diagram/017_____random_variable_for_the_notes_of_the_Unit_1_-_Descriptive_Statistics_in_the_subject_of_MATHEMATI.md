@@ -1,0 +1,16 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is some content on the topic of random variable for the notes of the Unit 1 - Descriptive Statistics in the subject of MATHEMATICAL FOUNDATION AI , ML AND DATA SCIENCE.
+
+### Random Variable
+
+- A random variable is a variable that takes on different values depending on the outcome of a random experiment.
+- A random variable can be either discrete or continuous, depending on whether it has a finite or infinite number of possible values.
+- A discrete random variable can only take on a countable number of values, such as 0, 1, 2, ..., or heads, tails, etc. For example, the number of heads in 10 coin tosses is a discrete random variable.
+- A continuous random variable can take on any value in a given interval, such as 0 to 1, or -infinity to infinity. For example, the height of a person is a continuous random variable.
+- A random variable can be denoted by a capital letter, such as X, Y, Z, etc. The possible values of a random variable can be denoted by a lowercase letter, such as x, y, z, etc.
+- The probability distribution of a random variable describes how likely each possible value is to occur. The probability distribution can be represented by a table, a formula, a graph, or a function.
+- The probability distribution of a discrete random variable can be represented by a probability mass function (PMF), which gives the probability of each possible value. The PMF must satisfy two conditions: (1) the probability of each value must be between 0 and 1, and (2) the sum of the probabilities of all values must be 1.
+- The probability distribution of a continuous random variable can be represented by a probability density function (PDF), which gives the probability of a value in a small interval. The PDF must satisfy two conditions: (1) the probability of any value must be non-negative, and (2) the integral of the PDF over the entire range of values must be 1.
+- The cumulative distribution function (CDF) of a random variable gives the probability of a value less than or equal to a given value. The CDF can be obtained from the PMF or the PDF by adding up the probabilities of all values less than or equal to the given value. The CDF must satisfy three properties: (1) it is non-decreasing, (2) it approaches 0 as the value approaches -infinity, and (3) it approaches 1 as the value approaches infinity.
+- The expected value or mean of a random variable is the average or center of the probability distribution. It can be calculated by multiplying each possible value by its probability and adding them up. The expected value can be denoted by E(X) or μ.
+- The variance of a random variable is a measure of how spread out the probability distribution is. It can be calculated by subtracting the expected value from each possible value, squaring the result, multiplying by the probability, and adding them up. The variance can be denoted by Var(X) or σ^2.
+- The standard deviation of a random variable is the square root of the variance. It can be denoted by SD(X) or σ. The standard deviation is useful for comparing the variability of different random variables or distributions.

@@ -1,0 +1,30 @@
+### Concept of animal and plant classification
+
+- Animal and plant classification is the process of grouping living organisms into categories based on their similarities and differences.
+- Classification helps to organize the diversity of life and to understand the evolutionary relationships among different groups of organisms.
+- The most widely used system of classification is the Linnaean taxonomy, which was developed by Carl Linnaeus in the 18th century.
+- Linnaean taxonomy assigns each organism a binomial name, consisting of a genus and a species, and places it in a hierarchical structure of ranks, such as kingdom, phylum, class, order, family, genus, and species.
+- For example, the binomial name of the human is Homo sapiens, and it belongs to the kingdom Animalia, the phylum Chordata, the class Mammalia, the order Primates, the family Hominidae, the genus Homo, and the species sapiens.
+- Linnaean taxonomy is based on morphological and anatomical features, such as body shape, size, structure, and function.
+- However, Linnaean taxonomy has some limitations, such as not reflecting the evolutionary history and genetic diversity of organisms, and not accommodating new discoveries and classifications of microorganisms.
+- Therefore, alternative systems of classification have been proposed, such as the five kingdom classification, the three domain system, and the phylogenetic system.
+- The five kingdom classification was proposed by Robert Whittaker in 1969, and it divides all living organisms into five major groups: Monera, Protista, Fungi, Plantae, and Animalia.
+- Monera includes prokaryotic organisms, such as bacteria and cyanobacteria, that lack a nucleus and membrane-bound organelles.
+- Protista includes eukaryotic organisms, such as protozoa, algae, and slime molds, that are unicellular or colonial and do not fit into the other kingdoms.
+- Fungi includes eukaryotic organisms, such as mushrooms, molds, and yeasts, that are heterotrophic and decompose organic matter.
+- Plantae includes eukaryotic organisms, such as mosses, ferns, and flowering plants, that are autotrophic and produce their own food by photosynthesis.
+- Animalia includes eukaryotic organisms, such as sponges, worms, insects, fish, and mammals, that are heterotrophic and ingest their food.
+- The five kingdom classification is based on the level of cellular organization, the mode of nutrition, and the presence or absence of a cell wall.
+- However, the five kingdom classification has some limitations, such as not reflecting the phylogenetic relationships among the kingdoms, and not accounting for the diversity and complexity of prokaryotes and protists.
+- Therefore, alternative systems of classification have been proposed, such as the three domain system, and the phylogenetic system.
+- The three domain system was proposed by Carl Woese in 1977, and it divides all living organisms into three major groups: Bacteria, Archaea, and Eukarya.
+- Bacteria includes prokaryotic organisms that have a cell wall made of peptidoglycan, and that are mostly found in moderate environments.
+- Archaea includes prokaryotic organisms that have a cell wall made of other substances, and that are mostly found in extreme environments, such as hot springs, salt lakes, and deep sea vents.
+- Eukarya includes eukaryotic organisms that have a nucleus and membrane-bound organelles, and that are further divided into four kingdoms: Protista, Fungi, Plantae, and Animalia.
+- The three domain system is based on the molecular analysis of ribosomal RNA, which is a universal and conserved molecule in all living cells.
+- The three domain system reflects the evolutionary history and genetic diversity of organisms, and recognizes the distinctness of archaea from bacteria.
+- However, the three domain system has some limitations, such as not resolving the relationships among the domains, and not accommodating the horizontal gene transfer among prokaryotes.
+- Therefore, alternative systems of classification have been proposed, such as the phylogenetic system.
+- The phylogenetic system is based on the reconstruction of the evolutionary history and relationships of organisms using molecular and morphological data.
+- The phylogenetic system uses cladistics, which is a method of grouping organisms based on their shared derived characteristics, rather than their overall similarities or differences.
+- The phylogenetic system represents the groups of organisms as clades, which are branches of a phylogenetic tree that include a common ancestor and

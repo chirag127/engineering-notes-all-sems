@@ -1,0 +1,11 @@
+### Introduction to Convolutional Neural Network
+
+- A convolutional neural network (CNN) is a type of feed-forward neural network that uses a mathematical operation called **convolution** in place of general matrix multiplication in at least one of its layers .
+- Convolution is a process of applying a **filter** (also called a **kernel**) to an input, such as an image, to produce an output, such as a feature map. The filter slides over the input and performs element-wise multiplication and summation to produce the output  .
+- The filter can be seen as a way of extracting **features** from the input, such as edges, corners, shapes, etc. The filter can be learned during training or predefined  .
+- A CNN typically consists of three types of layers: **convolutional layers**, **pooling layers**, and **fully-connected layers**  .
+- A convolutional layer is the core building block of a CNN, and it is where the majority of computation occurs. It requires a set of filters, a stride (how much the filter moves over the input), and a padding (how much zeros are added to the input borders) as parameters  .
+- A pooling layer is a way of reducing the size and complexity of the feature maps produced by the convolutional layer. It applies a **pooling function**, such as max, average, or min, to a region of the feature map and outputs the result. Pooling layers help to make the CNN more robust to noise and translation  .
+- A fully-connected layer is a layer that connects every node in the previous layer to every node in the next layer, similar to a regular neural network. It is usually placed at the end of the CNN to perform classification or regression tasks based on the extracted features  .
+- A CNN can have multiple convolutional and pooling layers, stacked on top of each other, to form a deep and complex network. The deeper the network, the more abstract and high-level features it can learn from the input  .
+- A CNN is specifically designed to process pixel data and is widely used in image recognition and processing, such as face detection, object detection, segmentation, etc  .

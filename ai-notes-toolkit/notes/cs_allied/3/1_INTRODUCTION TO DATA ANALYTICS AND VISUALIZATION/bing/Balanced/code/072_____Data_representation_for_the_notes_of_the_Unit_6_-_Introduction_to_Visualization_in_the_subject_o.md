@@ -1,0 +1,22 @@
+### Data representation for the notes of the Unit 6 - Introduction to Visualization in the subject of INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION
+
+- Data representation is the process of transforming data into a format that can be easily understood and analyzed by humans or machines.
+- Data visualization is a specific type of data representation that uses graphical elements, such as charts, graphs, maps, and infographics, to display data in a visual way.
+- Data visualization can help data analysts and decision makers to:
+  - Explore and discover patterns, trends, and outliers in data sets.
+  - Communicate and present data insights and findings to others.
+  - Engage and persuade audiences with data stories and narratives.
+- Data visualization can be classified into different types based on the purpose, audience, and data characteristics, such as:
+  - Descriptive visualization: shows what has happened or what is happening in the data, such as historical trends, current status, or comparisons.
+  - Exploratory visualization: helps to find new insights or generate hypotheses from the data, such as correlations, clusters, or anomalies.
+  - Inferential visualization: supports making conclusions or predictions from the data, such as causal relationships, statistical tests, or forecasts.
+  - Prescriptive visualization: suggests actions or recommendations based on the data, such as optimization, simulation, or decision making.
+- Data visualization can also be categorized into different techniques based on the visual elements, such as:
+  - Pie chart: shows the proportion of each category in a whole, using circular sectors.
+  - Bar chart: shows the comparison of values across categories, using rectangular bars.
+  - Histogram: shows the distribution of values in a continuous variable, using bins and frequencies.
+  - Line chart: shows the change of values over time or another dimension, using connected points.
+  - Scatter plot: shows the relationship between two variables, using dots.
+  - Map: shows the spatial distribution of data, using geographic regions or coordinates.
+  - Infographic: shows the combination of data and text, using icons, images, or diagrams.
+  - Dashboard: shows the summary of multiple data visualizations, using interactive widgets or controls.

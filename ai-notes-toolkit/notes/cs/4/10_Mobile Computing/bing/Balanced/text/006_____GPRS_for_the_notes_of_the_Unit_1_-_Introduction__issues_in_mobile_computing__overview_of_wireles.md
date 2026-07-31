@@ -1,0 +1,25 @@
+### GPRS for the notes of the Unit 1 - Introduction, issues in mobile computing, overview of wireless telephony: cellular concept, GSM: in the subject of Mobile Computing
+
+- GPRS stands for General Packet Radio Service .
+- It is a packet oriented wireless data communication service for mobile communications on 2G and 3G cellular communication systems .
+- It is non-voice, high speed packet switching technology intended for GSM networks .
+- It enables moderately high-speed data transfers using packet-based technologies .
+- It offers more data transmission options for GSM-based devices, as GSM networks at the time could only use Short Message Service (SMS), for example, to transmit a small amount of data .
+- It supports data functions across cellular internet connections.
+- It establishes a connected mobile environment for IoT applications.
+- It has advantages such as:
+  - Higher data rates than circuit-switched services .
+  - More efficient use of network resources and bandwidth .
+  - Always-on connectivity and faster access to data services .
+  - Billing based on data volume rather than connection time .
+- It has disadvantages such as:
+  - Limited coverage and availability in some areas .
+  - Variable and unpredictable performance depending on network congestion and signal quality .
+  - Security and privacy risks due to data transmission over public networks .
+- It has applications such as:
+  - Web browsing and email on mobile devices  .
+  - Multimedia messaging service (MMS) and instant messaging (IM) on mobile devices  .
+  - Location-based services and navigation on mobile devices  .
+  - Wireless application protocol (WAP) and internet protocol (IP) access on mobile devices  .
+  - Remote monitoring and control of IoT devices.
+  - Mobile commerce and banking on mobile devices  .

@@ -1,0 +1,7 @@
+### Implementation of Queue using Array
+
+- A queue is a linear data structure that follows the **FIFO (First In First Out)** principle, meaning that the element that is inserted first is removed first.
+- A queue can be implemented using an array by maintaining two variables: **front** and **rear**. The front variable points to the index of the first element in the queue, and the rear variable points to the index of the last element in the queue.
+- To insert an element into the queue, we need to check if the queue is full or not. If the queue is full, we cannot insert any more elements and we display an overflow message. If the queue is not full, we increment the rear variable by one and store the element at the rear index of the array.
+- To delete an element from the queue, we need to check if the queue is empty or not. If the queue is empty, we cannot delete any element and we display an underflow message. If the queue is not empty, we store the element at the front index of the array in a temporary variable, increment the front variable by one, and return the temporary variable as the deleted element.
+- To display the elements of the queue, we need to iterate from the front index to the rear index of the array and print the elements at each index.

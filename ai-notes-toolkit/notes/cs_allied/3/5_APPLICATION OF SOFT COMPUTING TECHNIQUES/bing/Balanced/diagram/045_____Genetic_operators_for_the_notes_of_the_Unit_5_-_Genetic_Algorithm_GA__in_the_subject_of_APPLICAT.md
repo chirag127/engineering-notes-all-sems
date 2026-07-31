@@ -1,0 +1,9 @@
+### Genetic operators
+
+Genetic operators are the mechanisms that guide the genetic algorithm towards a solution to a given problem. They are inspired by the natural processes of selection, reproduction and mutation. There are three main types of genetic operators:
+
+- **Selection**: This operator chooses the individuals from the current population that will be used to create the next generation. The selection is based on the fitness of the individuals, which measures how well they solve the problem. The higher the fitness, the higher the chance of being selected. There are different methods of selection, such as roulette wheel, tournament, rank-based, etc.
+- **Crossover**: This operator combines two or more selected individuals to produce new offspring. The crossover is based on the exchange of genetic information between the parents. The offspring inherit some traits from each parent, and may have better fitness than them. There are different methods of crossover, such as one-point, two-point, uniform, arithmetic, etc.
+- **Mutation**: This operator introduces random changes in the genetic information of some individuals. The mutation is based on the alteration of one or more genes in the chromosome. The mutation can create new variations in the population, and may help to escape from local optima. There are different methods of mutation, such as bit-flip, swap, insert, delete, etc.
+
+These operators are applied iteratively until a termination criterion is met, such as reaching a maximum number of generations, a desired fitness level, or a convergence of the population. The genetic algorithm can find near-optimal solutions to complex optimization problems that are difficult to solve by other methods.

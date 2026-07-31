@@ -1,0 +1,30 @@
+## Unit 2 - Stream-Processing Model
+
+- A stream-processing model is a way of designing and implementing software systems that can handle continuous and unbounded streams of data.
+- A stream is a sequence of data items that arrives over time, such as sensor readings, web clicks, tweets, etc.
+- A stream-processing system is composed of one or more sources that produce streams, one or more sinks that consume streams, and one or more operators that transform streams.
+- A stream-processing system can have different goals, such as:
+  - Filtering: selecting only the relevant data items from a stream
+  - Aggregation: computing summary statistics or metrics over a stream
+  - Joining: combining data items from multiple streams based on some criteria
+  - Windowing: dividing a stream into finite segments based on time or count
+  - Complex event processing: detecting patterns or anomalies in a stream
+- A stream-processing system can have different properties, such as:
+  - Scalability: the ability to handle increasing volumes of data
+  - Fault-tolerance: the ability to recover from failures or errors
+  - Consistency: the degree to which the system produces correct and deterministic results
+  - Latency: the delay between the arrival of a data item and its processing
+  - Throughput: the rate at which the system can process data items
+- A stream-processing system can use different techniques, such as:
+  - Parallelism: distributing the workload across multiple processors or machines
+  - Partitioning: dividing a stream into substreams based on some criteria
+  - Replication: creating copies of a stream or an operator for redundancy or load balancing
+  - State management: storing and updating the information needed to process a stream
+  - Checkpointing: periodically saving the state of the system to a persistent storage
+  - Backpressure: regulating the flow of data between sources, operators, and sinks
+- A stream-processing system can use different frameworks or platforms, such as:
+  - Apache Kafka: a distributed messaging system that provides high-throughput and low-latency streams
+  - Apache Spark: a distributed computing system that supports batch and stream processing
+  - Apache Flink: a distributed computing system that specializes in stream processing
+  - Apache Storm: a distributed computing system that enables real-time stream processing
+  - Apache Beam: a unified programming model that abstracts the details of different stream-processing frameworks

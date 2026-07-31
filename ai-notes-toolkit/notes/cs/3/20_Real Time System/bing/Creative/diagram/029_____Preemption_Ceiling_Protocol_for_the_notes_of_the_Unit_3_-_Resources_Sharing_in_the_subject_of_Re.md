@@ -1,0 +1,21 @@
+### Preemption Ceiling Protocol
+
+- Preemption ceiling protocol is a synchronization protocol for shared resources to avoid unbounded priority inversion and mutual deadlock due to wrong nesting of critical sections.
+- Preemption ceiling protocol assigns a ceiling priority to each shared resource, which is the highest priority of any task that can access that resource.
+- A task can lock a resource only if its current priority is higher than the ceiling priority of all the resources currently locked by other tasks.
+- When a task locks a resource, its priority is raised to the ceiling priority of that resource, and it cannot be preempted by any other task until it releases the resource.
+- Preemption ceiling protocol ensures that a task can be blocked by at most one lower priority task, and that the blocking time is bounded by the worst-case execution time of the critical section of the lower priority task.
+- Preemption ceiling protocol can be implemented in two ways: static preemption ceiling protocol and dynamic preemption ceiling protocol.
+- Static preemption ceiling protocol assigns a fixed ceiling priority to each resource based on the system design, and does not change it at run time.
+- Dynamic preemption ceiling protocol assigns a ceiling priority to each resource based on the current priority of the task that locks it, and updates it whenever the resource is locked or released.
+- Dynamic preemption ceiling protocol can avoid paying the time or storage overhead of static preemption ceiling protocol for a class of dynamic-priority systems, which includes deadline-driven systems.
+- Preemption ceiling protocol can be integrated with preemption threshold scheduling (PTS), which is a scheduling policy that allows a task to specify a threshold priority below which it cannot be preempted.
+- PTS can provide benefits such as increased schedulability, reduced context switches, and decreased memory requirements.
+- However, PTS may lead to long priority inversion since object-oriented real-time systems require synchronization considerations to maintain consistent object states.
+- To solve this problem, dual ceiling protocol (DCP) has been proposed, which combines preemption ceiling protocol and PTS in a way that preserves the advantages of both.
+- DCP assigns two ceiling priorities to each resource: a preemption ceiling and a threshold ceiling.
+- A task can lock a resource only if its current priority is higher than the preemption ceiling of all the resources currently locked by other tasks, and its threshold priority is higher than the threshold ceiling of the resource.
+- When a task locks a resource, its priority is raised to the preemption ceiling of the resource, and its threshold priority is lowered to the threshold ceiling of the resource.
+- DCP ensures that a task can be blocked by at most one lower priority task, and that the blocking time is bounded by the worst-case execution time of the critical section of the lower priority task with the highest threshold priority.
+- DCP also ensures that a task can be preempted by at most one higher priority task, and that the preemption time is bounded by the worst-case execution time of the critical section of the higher priority task with the lowest preemption priority.
+- DCP can achieve better schedulability and responsiveness than PTS and preemption ceiling protocol alone.

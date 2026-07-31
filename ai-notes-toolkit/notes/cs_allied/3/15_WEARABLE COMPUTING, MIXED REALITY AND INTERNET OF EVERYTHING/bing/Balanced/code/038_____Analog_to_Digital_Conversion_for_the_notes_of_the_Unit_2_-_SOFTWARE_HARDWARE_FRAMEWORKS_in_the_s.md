@@ -1,0 +1,22 @@
+### Analog to Digital Conversion
+
+- Analog to digital conversion (ADC) is an electronic process that converts a continuous analog signal, such as a sound or light, into a discrete digital signal, such as a binary code.
+- ADC is essential for interfacing digital systems, such as microcontrollers, with the analog world, such as sensors, actuators, and communication channels .
+- ADC involves sampling, quantization, and encoding of the analog signal.
+  - Sampling is the process of taking periodic snapshots of the analog signal at a fixed rate, called the sampling frequency.
+  - Quantization is the process of approximating the sampled signal values to a finite set of discrete levels, called the quantization levels.
+  - Encoding is the process of assigning a binary code to each quantization level, resulting in a digital representation of the sampled signal.
+- ADC has several parameters that affect its performance and accuracy, such as resolution, range, linearity, offset, gain, noise, and speed .
+  - Resolution is the number of bits used to encode each sample, which determines the number of quantization levels and the smallest change in the analog signal that can be detected by the ADC.
+  - Range is the span of the analog signal values that can be converted by the ADC, which depends on the reference voltage and the resolution of the ADC.
+  - Linearity is the degree to which the output of the ADC is proportional to the input of the analog signal, which affects the distortion and accuracy of the conversion.
+  - Offset is the difference between the expected and the actual output of the ADC when the input is zero, which causes a constant error in the conversion.
+  - Gain is the ratio of the output span to the input span of the ADC, which affects the scaling and sensitivity of the conversion.
+  - Noise is the unwanted variation in the output of the ADC due to external or internal sources, which reduces the signal-to-noise ratio and the accuracy of the conversion.
+  - Speed is the rate at which the ADC can convert the analog signal, which depends on the sampling frequency and the conversion time of the ADC.
+- ADC can be classified into different types based on the method of conversion, such as successive approximation, flash, sigma-delta, dual-slope, and pipeline ADCs .
+  - Successive approximation ADCs use a binary search algorithm to compare the input signal with a series of reference voltages and generate the output bits one by one.
+  - Flash ADCs use a parallel array of comparators to compare the input signal with all the reference voltages simultaneously and generate the output bits in one step.
+  - Sigma-delta ADCs use a feedback loop to modulate the input signal into a high-frequency pulse train and then filter and decimate the pulse train to obtain the output bits.
+  - Dual-slope ADCs use an integrator to measure the time required for the input signal to reach a reference voltage and then use a counter to generate the output bits based on the time measurement.
+  - Pipeline ADCs use a cascade of stages, each consisting of a sub-ADC, a sub-DAC, and a sample-and-hold circuit, to convert the input signal in a pipelined manner and generate the output bits in parallel.

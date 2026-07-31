@@ -1,0 +1,7 @@
+# Planning process for the notes of the Unit 1 - Introduction in the subject of Web Designing
+
+- Define the objectives and scope of the notes. What are the main topics and subtopics that need to be covered? What are the learning outcomes and expectations for the students?
+- Identify the target audience and their needs. Who are the students who will use the notes? What are their prior knowledge, skills, and interests? How will the notes cater to their different learning styles and preferences?
+- Research and gather relevant information and resources. What are the sources of information that can be used to create the notes? How will the information be verified, organized, and cited? What are the tools and media that can be used to present the information effectively?
+- Design and structure the notes. How will the notes be divided into sections and subsections? What are the headings, subheadings, and keywords that will be used? How will the notes use visual elements, such as images, diagrams, tables, and charts, to enhance the understanding of the information?
+- Write and revise the notes. How will the notes use clear and concise language, grammar, and punctuation? How will the notes use examples, analogies, and scenarios to illustrate the concepts and principles? How will the notes use questions, exercises, and activities to engage the students and check their understanding?

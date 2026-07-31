@@ -1,0 +1,13 @@
+### Managing Interactive Processes in SPM
+
+- Software Project Management (SPM) is a proper way of planning and leading software projects. It is a part of project management in which software projects are planned, implemented, monitored, and controlled.
+- Interactive processes are those that involve communication and collaboration among the project stakeholders, such as the project manager, the project team, the client, the users, and the sponsors.
+- Managing interactive processes in SPM involves the following activities:
+  - Identifying and engaging the stakeholders: This involves identifying who are the key people or groups that have an interest or influence on the project, and establishing a good relationship with them. Stakeholder analysis, stakeholder register, and stakeholder engagement plan are some of the tools and techniques used for this activity.
+  - Planning and managing the communication: This involves determining the information needs and preferences of the stakeholders, and defining the methods, frequency, and channels of communication. Communication management plan, communication matrix, and communication technology are some of the tools and techniques used for this activity.
+  - Managing the expectations and feedback: This involves ensuring that the stakeholders have a clear and realistic understanding of the project scope, objectives, deliverables, and risks, and that they provide timely and constructive feedback on the project progress and performance. Scope statement, project charter, project status report, and feedback surveys are some of the tools and techniques used for this activity.
+  - Resolving conflicts and issues: This involves identifying, analyzing, and resolving any disagreements or problems that arise among the stakeholders, and preventing them from escalating or affecting the project outcome. Conflict management styles, negotiation techniques, issue log, and escalation process are some of the tools and techniques used for this activity.
+  - Building and maintaining trust and rapport: This involves creating and sustaining a positive and cooperative atmosphere among the stakeholders, and fostering a sense of commitment and ownership for the project. Team building activities, recognition and rewards, stakeholder satisfaction measurement, and relationship management skills are some of the tools and techniques used for this activity.
+
+: https://www.geeksforgeeks.org/software-engineering-software-project-management-spm/
+: https://www.pmi.org/learning/library/managing-interactive-processes-project-management-10476

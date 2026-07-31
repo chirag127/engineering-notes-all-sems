@@ -1,0 +1,10 @@
+### Digital vs. Analog circuits
+
+- Analog circuits operate on analog signals, which are continuous valued signals that vary smoothly over time and can have any magnitude within a certain range .
+- Digital circuits operate on digital signals, which are discrete valued signals that exist at only two levels, usually called zeros and ones, and change abruptly at fixed intervals of time .
+- The design of an analog circuit is difficult, since every component must be positioned by hand for designing the circuits, and the performance of the circuit depends on the accuracy and tolerance of the components, the temperature, the noise, and the interference from other sources .
+- The design of a digital circuit is easier, since the circuit can be represented by a set of logic gates, which can be implemented using transistors, and the performance of the circuit is less affected by the variations in the components, the temperature, the noise, and the interference from other sources .
+- Analog circuits are used for applications that require high precision, high bandwidth, and high sensitivity, such as audio and video processing, radio and television broadcasting, and sensor interfacing .
+- Digital circuits are used for applications that require high speed, high reliability, and high flexibility, such as data processing, communication, encryption, and computation .
+- Analog circuits can be converted to digital circuits using analog-to-digital converters (ADCs), and digital circuits can be converted to analog circuits using digital-to-analog converters (DACs) .
+- Analog circuits and digital circuits can be combined to form mixed-signal circuits, which can perform both analog and digital functions, such as signal conditioning, filtering, amplification, modulation, demodulation, and sampling .

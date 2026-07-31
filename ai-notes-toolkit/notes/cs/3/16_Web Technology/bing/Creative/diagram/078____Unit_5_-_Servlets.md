@@ -1,0 +1,21 @@
+## Unit 5 - Servlets
+
+- Servlets are Java classes that run on a web server and handle HTTP requests and responses.
+- Servlets can be used to create dynamic web pages, process user input, interact with databases, and implement web services.
+- Servlets are managed by a servlet container, which is a component of a web server that provides the runtime environment and services for servlets.
+- Servlets follow a request-response model, where the servlet container receives an HTTP request from a client (such as a web browser), invokes the appropriate servlet, and sends back an HTTP response to the client.
+- Servlets have a life cycle that consists of three phases: initialization, service, and destruction.
+  - Initialization: The servlet container loads the servlet class, creates an instance of the servlet, and calls its `init()` method to perform any initialization tasks.
+  - Service: The servlet container calls the servlet's `service()` method to process each HTTP request. The `service()` method can delegate the request to other methods, such as `doGet()` or `doPost()`, depending on the HTTP method (GET, POST, etc.).
+  - Destruction: The servlet container calls the servlet's `destroy()` method to perform any cleanup tasks, and then removes the servlet instance from memory.
+- Servlets can be configured and mapped to specific URL patterns using annotations or deployment descriptors (XML files).
+- Servlets can access various objects and information from the servlet container, such as the servlet context, the servlet config, the request, the response, and the session.
+  - Servlet context: An object that represents the web application and provides access to application-wide resources and parameters.
+  - Servlet config: An object that provides access to servlet-specific initialization parameters and the servlet context.
+  - Request: An object that encapsulates the HTTP request data, such as the request method, the request parameters, the request headers, and the request body.
+  - Response: An object that encapsulates the HTTP response data, such as the status code, the response headers, and the response body.
+  - Session: An object that maintains state information across multiple requests from the same client, using cookies or URL rewriting.
+- Servlets can communicate with other servlets or web components using various techniques, such as request dispatching, redirecting, or filtering.
+  - Request dispatching: A mechanism that allows a servlet to forward the request to another servlet or web component within the same web application, or to include the output of another servlet or web component in its response.
+  - Redirecting: A mechanism that allows a servlet to send a response that instructs the client to make a new request to a different URL, which can be within the same web application or an external web site.
+  - Filtering: A mechanism that allows a servlet to intercept and modify the request or the response before or after it reaches the target servlet or web component, using filter objects that implement the `Filter` interface.

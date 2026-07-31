@@ -1,0 +1,20 @@
+# Classification of Agreement Problem in Distributed Systems
+
+An agreement problem in a distributed system is a problem where a set of processes need to agree on a common value or decision, despite the possibility of failures, communication delays, or malicious behavior. Agreement problems are fundamental to achieving fault tolerance and consistency in distributed systems.
+
+There are different types of agreement problems, depending on the assumptions and requirements of the system. Some of the well-known agreement problems are:
+
+- **Byzantine agreement problem**: A single value, which is to be agreed on, is initialized by an arbitrary process and all non-faulty processes have to agree on that value. The processes may be subject to Byzantine failures, which means they can behave arbitrarily or maliciously, and send conflicting or incorrect messages to other processes. The goal is to ensure that all non-faulty processes agree on the same value, and that value is the initial value of some non-faulty process. This problem is also known as the Byzantine generals problem .
+
+- **Consensus problem**: A generalization of the Byzantine agreement problem, where each process can propose its own initial value, and all non-faulty processes have to agree on a common value. The value agreed on must be one of the proposed values. The processes may be subject to different types of failures, such as crash failures, omission failures, or Byzantine failures. The goal is to ensure that all non-faulty processes agree on the same value, and that value satisfies some validity condition .
+
+- **Interactive consistency problem**: A variation of the Byzantine agreement problem, where each process has its own initial value, and all non-faulty processes have to agree on a vector of values, one for each process. The vector agreed on must satisfy two conditions: (1) the value for each process is the initial value of that process, if it is non-faulty, or an arbitrary value, if it is faulty; and (2) all non-faulty processes agree on the same vector. This problem is also known as the Byzantine generals problem with signed messages .
+
+These problems are related to each other, and can be solved using similar techniques, such as message passing, cryptography, or voting. However, they also have different levels of difficulty and impossibility results, depending on the system model, the number of processes, the number of faulty processes, the type of failures, the synchrony of the system, and the type of communication channels. For example, the Byzantine agreement problem is impossible to solve in a purely asynchronous system with one-third or more of the processes being faulty. The consensus problem is impossible to solve in a purely asynchronous system with even one faulty process, if the communication channels are unreliable. The interactive consistency problem is impossible to solve in a synchronous system with one-half or more of the processes being faulty.
+
+Therefore, the classification of agreement problems in distributed systems is important to understand the trade-offs and limitations of different solutions, and to design appropriate protocols and algorithms for different scenarios and applications. Some of the applications of agreement problems in distributed systems are:
+
+- **Atomic commitment**: A protocol that ensures that a set of processes either all commit to a transaction or all abort it, in a consistent and atomic manner.
+- **Atomic broadcast**: A protocol that ensures that a set of processes deliver the same messages in the same order, despite failures or delays.
+- **Group membership**: A protocol that maintains a consistent view of the processes that are part of a group, and detects and handles failures or joins and leaves of processes.
+- **State machine replication**: A technique that replicates the same deterministic state machine on multiple processes, and ensures that they execute the same commands in the same order, and produce the same outputs and states, despite failures or asynchrony.

@@ -1,0 +1,11 @@
+### Classical Problem in Concurrency
+
+Concurrency is a fundamental concept in operating systems, where multiple processes can execute simultaneously and interact with each other. However, this can lead to several problems, such as race conditions, deadlocks, and starvation. To understand and solve these problems, several classical problems in concurrency have been proposed and studied.
+
+1. **Producer-Consumer Problem**: This problem involves two processes, the producer and the consumer, who share a common buffer of fixed size. The producer generates data and puts it into the buffer, while the consumer takes data from the buffer and consumes it. The problem is to ensure that the producer does not add data to the buffer when it is full, and the consumer does not take data from the buffer when it is empty.
+
+2. **Readers-Writers Problem**: This problem involves multiple processes that share a common resource, such as a file or database. Some processes, called readers, only read the resource, while others, called writers, can both read and write to the resource. The problem is to ensure that multiple readers can access the resource simultaneously, but only one writer can access the resource at a time, and no reader can access the resource while a writer is writing to it.
+
+3. **Dining Philosophers Problem**: This problem involves multiple processes, called philosophers, who sit around a circular table with a fork between each pair of philosophers. Each philosopher alternates between thinking and eating. To eat, a philosopher needs to pick up the two forks next to them. The problem is to ensure that no two philosophers pick up the same fork at the same time, and no philosopher starves, i.e., is unable to eat for an indefinite amount of time.
+
+These classical problems in concurrency illustrate the challenges and complexities of designing and implementing concurrent systems, and provide a foundation for understanding and solving more advanced problems in concurrency. They are typically solved using synchronization mechanisms, such as semaphores, monitors, and message passing. These mechanisms allow processes to coordinate their actions and access shared resources in a controlled and safe manner.

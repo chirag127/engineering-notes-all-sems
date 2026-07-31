@@ -1,0 +1,13 @@
+### Decidability
+
+Decidability refers to the ability to determine whether a given input belongs to a particular language or not. In the context of formal languages and automata theory, decidability is a fundamental concept that has important implications for computer science and mathematics. The following points discuss the key aspects of decidability:
+
+- A language is said to be decidable if there exists a Turing machine that can determine whether any given input string belongs to the language or not. In other words, the Turing machine must halt and accept the input string if it belongs to the language, and halt and reject it otherwise.
+- Decidability is a property of a language, not a particular machine or algorithm. Therefore, if a language is decidable, then any Turing machine or algorithm that can decide it is valid.
+- The complement of a decidable language is also decidable. This is because if a language L is decidable, then there exists a Turing machine M that can decide it. The complement of L is simply the set of all strings that are not in L. Therefore, we can construct a Turing machine that simulates M and accepts if M rejects, and vice versa.
+- The intersection and union of two decidable languages are also decidable. This is because if L1 and L2 are decidable, then we can construct a Turing machine that simulates the Turing machines that decide each of them, and accepts if both accept, or rejects otherwise.
+- The set of all valid regular expressions is decidable. This means that given any regular expression, we can determine whether it is a valid regular expression or not.
+- The set of all context-free grammars is not decidable. This means that there does not exist a Turing machine that can determine whether any given input is a valid context-free grammar or not. This is known as the undecidability of the context-free language problem.
+- The halting problem is also undecidable. This means that there does not exist a Turing machine that can determine whether any given input program will halt or not. This is a fundamental result in computer science and has important implications for the limits of computation.
+
+In conclusion, decidability is a fundamental concept in formal languages and automata theory that has important implications for computer science and mathematics. Understanding the properties of decidable and undecidable languages is essential for developing efficient algorithms and solving computational problems.

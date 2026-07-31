@@ -1,0 +1,21 @@
+# Terminologies in Testing
+
+- Testing is the process of verifying and validating that a software product or system meets the specified requirements and expectations of the stakeholders.
+- Testing can be performed at different levels and types, depending on the objectives, scope, and context of the testing process.
+- Testing can also use different techniques and methods, depending on the test design, test execution, and test analysis activities.
+- Testing can be formal or informal, planned or unplanned, manual or automated, depending on the degree of rigor, documentation, and tool support involved.
+- Testing can be influenced by various factors, such as the software development life cycle, the test life cycle, the test environment, the test organization, and the test maturity.
+- Testing can have various benefits, such as improving the quality, reliability, and usability of the software product or system, reducing the risks, costs, and time of development and maintenance, and increasing the customer satisfaction and confidence.
+
+Some of the common terminologies used in testing are:
+
+- **SDLC (Software Development Life Cycle)**: It is an international standard for software life-cycle processes. It defines all the tasks required for developing and maintaining software. It consists of several phases, such as planning, analysis, design, implementation, testing, deployment, and maintenance. Each phase has its own inputs, outputs, activities, and deliverables.  
+- **Test Level**: It is a specific instantiation of a test process. It corresponds to a specific phase or stage of the SDLC, such as unit testing, integration testing, system testing, or acceptance testing. Each test level has its own objectives, scope, test basis, test objects, test techniques, test environment, test cases, test procedures, and test results.  
+- **Test Type**: It is a group of test activities that are aimed at testing a specific characteristic of a software product or system, such as functionality, performance, usability, security, or reliability. Each test type has its own test objectives, test techniques, test tools, and test metrics.  
+- **Test Design Technique**: It is a method or procedure used to derive and select test cases based on the test objectives, test basis, and test criteria. It can be classified into three categories: specification-based, structure-based, and experience-based. Each test design technique has its own advantages, disadvantages, and applicability.  
+- **STLC (Software Test Life Cycle)**: It is a systematic approach for testing software. It consists of several phases, such as test planning, test analysis, test design, test implementation, test execution, test evaluation, and test closure. Each phase has its own inputs, outputs, activities, and deliverables. It is aligned with the SDLC and the test levels.  
+- **Informal Testing**: It is a type of testing that is performed without any formal planning, documentation, or procedure. It is usually done by the developers, testers, or users during the development or maintenance process. It is also known as ad hoc testing, exploratory testing, or error guessing. It can be useful for finding defects, gaining insights, and providing feedback.  
+- **Test Planning**: It is the activity of defining the test objectives, scope, strategy, approach, resources, schedule, risks, and deliverables for a test project or a test level. It is documented in a test plan, which is a high-level document that guides the test process.  
+- **Test Documentation**: It is the set of documents that describe the test process, the test items, the test cases, the test procedures, the test data, the test results, the test reports, and the test incidents. It provides evidence of the test activities and the test outcomes. It can be used for communication, coordination, control, and evaluation purposes.   
+- **Test Case**: It is a set of input values, execution preconditions, expected results, and execution postconditions, developed for a particular test objective, such as to exercise a particular program path or to verify compliance with a specific requirement. It is the smallest unit of testing.  
+- **Test Procedure**: It is a set of test cases that are executed in a specific order. It is also known as a test script or a test scenario. It can be manual

@@ -1,0 +1,6 @@
+### Visualizing Progress in SPM
+
+1. One way to visualize progress in SPM is by using a Gantt chart. A Gantt chart is a type of bar chart that illustrates a project schedule. It shows the start and finish dates of the various tasks and activities that make up the project.
+2. Another way to visualize progress in SPM is by using a burn-up chart. A burn-up chart is a graphical representation of the work completed and the work remaining in a project. It shows the total amount of work, the amount of work completed, and the amount of work remaining.
+3. A third way to visualize progress in SPM is by using a cumulative flow diagram. A cumulative flow diagram is a graphical representation of the flow of work through a system. It shows the number of items in each stage of the process over time, and can help identify bottlenecks and other issues in the process.
+4. A fourth way to visualize progress in SPM is by using a Kanban board. A Kanban board is a visual management tool that helps teams track the flow of work. It shows the status of each task and activity, and can help teams identify and address issues in the process.

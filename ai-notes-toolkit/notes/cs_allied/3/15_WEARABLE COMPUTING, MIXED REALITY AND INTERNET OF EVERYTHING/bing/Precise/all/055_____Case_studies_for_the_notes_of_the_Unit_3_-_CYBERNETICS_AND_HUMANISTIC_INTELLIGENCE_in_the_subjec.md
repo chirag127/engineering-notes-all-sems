@@ -1,0 +1,9 @@
+# Case studies for the notes of the Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+1. **Case Study 1: The Use of Wearable Computing in Healthcare** - Wearable computing devices, such as smartwatches and fitness trackers, have been increasingly used in the healthcare industry to monitor patients' health and improve patient outcomes. These devices can track vital signs, such as heart rate and blood pressure, and can also be used to remind patients to take their medication or to perform physical therapy exercises.
+
+2. **Case Study 2: The Use of Mixed Reality in Education** - Mixed reality technology, which combines elements of virtual and augmented reality, has been used in education to enhance the learning experience for students. For example, students can use mixed reality headsets to explore virtual environments and interact with virtual objects, providing a more immersive and engaging learning experience.
+
+3. **Case Study 3: The Internet of Everything in Smart Cities** - The Internet of Everything (IoE) refers to the interconnectedness of people, processes, data, and things, and has been used in the development of smart cities. In a smart city, various systems and devices, such as traffic lights, public transportation, and waste management, are connected and can communicate with each other to improve the efficiency and sustainability of the city.
+
+These are just a few examples of how wearable computing, mixed reality, and the Internet of Everything are being used in various industries. These technologies have the potential to greatly improve our lives and the world around us.

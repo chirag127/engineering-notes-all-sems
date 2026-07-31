@@ -1,0 +1,12 @@
+### Terminology used with Graph
+
+A graph is an abstract data structure that consists of a set of vertices (or nodes) and a set of edges that connect pairs of vertices. Graphs are used to model various real-world phenomena, such as networks, maps, social media, etc.
+
+Some basic terminologies of graphs are   :
+
+- **Vertex**: A vertex is one of the fundamental units of a graph. It can have a name, which is called the key, and additional information, which is called the payload. Vertices are also sometimes called nodes or points.
+- **Edge**: An edge is another fundamental unit of a graph. It connects two vertices to show that there is a relationship between them. Edges may be one-way or two-way. If the edges in a graph are all one-way, we say that the graph is a directed graph, or a digraph. If the edges are all two-way, we say that the graph is an undirected graph.
+- **Weight**: A weight is a numerical value assigned to an edge, which is often used to represent the cost, length, or any other attribute of the connection. A graph with weighted edges is called a weighted graph. A graph without weights is called an unweighted graph.
+- **Path**: A path is a sequence of vertices that are connected by edges. A path may be simple, meaning that no vertex is repeated, or it may be complex, meaning that some vertices are repeated. The length of a path is the number of edges from the first vertex to the last vertex. A path that starts and ends at the same vertex is called a cycle.
+- **Connected**: A graph is connected if there is a path from any vertex to any other vertex in the graph. A graph that is not connected is called a disconnected graph. A connected component of a graph is a subgraph that is connected and is not a part of any larger connected subgraph.
+- **Degree**: The degree of a vertex is the number of edges that are incident to (or connected to) the vertex. In a directed graph, we can distinguish between the in-degree, which is the number of incoming edges, and the out-degree, which is the number of outgoing edges. The sum of the in-degrees of all vertices in a graph is equal to the sum of the out-degrees, and is also equal to twice the number of edges in the graph.

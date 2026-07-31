@@ -1,0 +1,12 @@
+### Level of Significance for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+
+- The level of significance is a concept used frequently in statistics to determine whether the null hypothesis must be accepted or rejected  .
+- The null hypothesis is a statement that assumes there is no difference or relationship between two or more variables in the population.
+- The level of significance is defined as the fixed probability of wrong elimination of null hypothesis when in fact, it is true . It is mainly a Type I error probability that is predetermined by the statistician before the collection of data, together with the outcomes of error.
+- The level of significance is usually denoted by the Greek letter alpha (α) and is expressed as a percentage or a decimal .
+- The level of significance is also known as the significance level or the alpha level.
+- The level of significance is the measurement of the statistical significance of the results. Statistical significance means that the results are unlikely to occur by chance under the null hypothesis.
+- The level of significance is used to calculate the p-value, which is the probability of obtaining the observed results or more extreme results under the null hypothesis .
+- The p-value is compared with the level of significance to make a decision about the null hypothesis . If the p-value is less than or equal to the level of significance, the null hypothesis is rejected and the alternative hypothesis is accepted. If the p-value is greater than the level of significance, the null hypothesis is not rejected and the alternative hypothesis is not accepted .
+- The level of significance is usually set to 0.05 or 5%, which means that the results must have a 5% or lower chance of occurring under the null hypothesis to be considered statistically significant . The level of significance can be lowered for a more conservative test, which means that an effect has to be larger to be considered statistically significant.
+- The level of significance is chosen by the researcher based on the context and the consequences of making a Type I error. A lower level of significance means a higher evidentiary standard and a lower risk of rejecting a true null hypothesis. A higher level of significance means a lower evidentiary standard and a higher risk of rejecting a true null hypothesis.

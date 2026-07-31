@@ -1,0 +1,169 @@
+# Big Data
+## Unit 1 - Introduction to Big Data
+### Types of digital data in big data
+### history of Big Data innovation
+### introduction to Big Data platform
+### drivers for Big Data
+### Big Data Architecture
+### Big data characteristics
+### 5 Vs of Big Data
+### Big Data technology components
+### Big Data importance
+### Big Data applications
+### Big Data features – security, compliance, auditing and protection
+#### security of Big Data
+#### compliance of Big Data
+#### auditing of Big Data
+#### protection of Big Data
+### Big Data privacy
+### Big Data ethics
+### Big Data Analytics
+### Challenges of conventional systems compared to Big Data
+### intelligent data analysis in Big Data
+### nature of data in Big Data
+### analytic processes and tools for Big Data
+### analysis vs reporting in Big Data
+### modern data analytic tools for Big Data
+## Unit 2 - Hadoop and Map Reduce
+### Hadoop
+#### History of Hadoop
+#### Apache Hadoop
+#### Hadoop Distributed File System
+#### components of Hadoop
+#### data format co
+#### analyzing data with Hadoop
+#### scaling out with Hadoop
+#### Hadoop streaming
+#### Hadoop pipes
+#### Hadoop Echo System
+### Map Reduce
+#### Map Reduce framework and basics
+#### how Map Reduce works
+#### developing a Map Reduce application
+#### unit tests with MR unit
+#### test data and local tests in map reduce
+#### anatomy of a Map Reduce job run
+#### failures in map reduce
+#### job scheduling in map reduce
+#### shuffle and sort in map reduce
+#### task execution in map reduce
+#### Map Reduce types in map reduce
+#### input formats in map reduce
+#### output formats in map reduce
+#### Map Reduce features
+#### Real-world Map Reduce
+## Unit 4 - HDFS (Hadoop Distributed File System) and Hadoop Environment
+### HDFS
+#### Design of HDFS
+#### HDFS concepts
+#### benefits of HDFS
+#### challenges of HDFS
+#### file sizes in HDFS
+#### block sizes in HDFS
+#### block abstraction in HDFS
+#### data replication in HDFS
+#### how does HDFS store
+#### read operations in HDFS
+#### write operations in HDFS
+#### Java interfaces to HDFS
+#### command line interface to HDFS
+#### Hadoop file system interfaces
+#### data flow in HDFS
+#### data ingest with Flume and Scoop in HDFS
+#### Hadoop archives in HDFS
+#### Hadoop I/O
+##### compression in Hadoop io
+##### serialization in Hadoop io
+##### Avro and file based data structures in Hadoop io
+## Hadoop Environment
+#### Setting up a Hadoop cluster in Hadoop Environment
+#### cluster specification in Hadoop Environment
+#### cluster setup and installation in Hadoop Environment
+#### Hadoop configuration in Hadoop Environment
+#### security in Hadoop in Hadoop Environment
+#### administering Hadoop in Hadoop Environment
+#### HDFS monitoring & maintenance in Hadoop Environment
+#### Hadoop benchmarks in Hadoop Environment
+#### Hadoop in the cloud in Hadoop Environment
+## Unit 3 - Hadoop Eco System and YARN , no SQL databases , MongoDB , Spark , Scala
+### Hadoop Eco System and YARN
+#### Hadoop ecosystem components
+#### schedulers in Hadoop ecosystem
+#### fair and capacity in Hadoop ecosystem
+#### Hadoop 2.0 New Features - NameNode high availability
+#### HDFS federation in Hadoop ecosystem
+#### MRv2 in Hadoop ecosystem
+#### YARN
+#### Running MRv1 in YARN
+### NoSQL Databases
+#### Introduction to NoSQL databases
+### MongoDB
+#### Introduction to MongoDB
+#### data types in MongoDB
+#### creating documents in MongoDB
+#### updating documents in MongoDB
+#### deleting documents in MongoDB
+#### querying documents in MongoDB
+#### indexing in MongoDB
+#### aggregation in MongoDB
+#### capped collections in MongoDB
+### Spark
+#### Installing spark
+#### spark applications
+#### jobs in spark
+#### stages and tasks in spark
+#### Resilient Distributed Databases in spark
+#### anatomy of a Spark job run
+#### Spark on YARN
+### SCALA
+#### Introduction to Scala
+#### classes and objects in Scala
+#### basic types and operators in Scala
+#### built-in control structures in Scala
+#### functions and closures in Scala
+#### inheritance in Scala
+## Hadoop Eco System Frameworks , Pig , Hive and HBase
+### Hadoop Eco System Frameworks
+#### Applications on Big Data using Pig
+#### Applications on Big Data using Hive
+#### Applications on Big Data using HBase
+### Pig
+#### Pig - Introduction to PIG
+#### Execution Modes of Pig
+#### Comparison of Pig with Databases
+#### Grunt in Pig
+#### Pig Latin
+#### User Defined Functions in Pig
+#### Data Processing operators in Pig
+### Hive
+#### Apache Hive architecture
+#### Installing Hive
+#### Hive shell
+#### Hive services
+#### Hive metastore
+#### comparison of Hive with traditional databases
+#### HiveQL
+#### tables in Hive
+#### querying data in Hive
+#### user defined functions in Hive
+#### sorting and aggregating in Hive
+#### Map Reduce scripts in Hive
+#### joins and subqueries in Hive
+### HBase
+#### HBase concepts
+#### HBase clients
+#### HBase example
+#### HBase vs RDBMS
+#### advanced usage of HBase
+#### schema design in HBase
+#### advanced indexing in HBase
+### Zookeeper
+#### Zookeeper concepts
+#### how Zookeeper helps in monitoring a cluster
+#### how to build applications with Zookeeper
+### IBM Big Data strategy
+#### IBM Big Data strategy
+#### introduction to Infosphere
+#### introduction to BigInsights
+#### introduction to Big Sheets
+#### introduction to Big SQL

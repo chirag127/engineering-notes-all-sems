@@ -1,0 +1,21 @@
+## Experiment 15 - Network packet analysis using tools like Wireshark, tcpdump, etc
+
+- Network packet analysis is the process of capturing, inspecting, and interpreting the data packets that are exchanged between devices on a network.
+- Network packet analysis tools are software applications that can capture, filter, decode, and analyze the packet data, as well as provide various statistics and visualizations of the network traffic.
+- Some of the benefits of network packet analysis are:
+  - Troubleshooting network problems and performance issues
+  - Detecting and preventing network attacks and intrusions
+  - Monitoring and enforcing network policies and compliance
+  - Understanding network behavior and usage patterns
+  - Optimizing network resources and bandwidth
+- Some of the challenges of network packet analysis are:
+  - Handling large volumes and high speeds of network traffic
+  - Protecting the privacy and security of the packet data
+  - Selecting the appropriate tools and techniques for different network scenarios
+  - Interpreting the packet data correctly and accurately
+- Some of the common network packet analysis tools are:
+  - Wireshark: a free and open-source packet analyzer that allows you to examine network data transmissions in real-time . It supports hundreds of protocols and has a graphical user interface (GUI) as well as a command-line interface (CLI).
+  - tcpdump: an open-source and powerful command-line packet analyzer tool that captures protocols such as TCP, UDP, and ICMP (Internet Control Message Protocol). It can run on various operating systems and can filter and save the packet data to a file.
+  - Colasoft Capsa: a real-time portable network analyzer, monitoring, and diagnostics tool for both wired and wireless networks. It has a GUI that can display network traffic information according to category and provide an estimate of the risk level associated with this traffic.
+  - Paessler PRTG: a network monitoring and analysis tool that can capture and store network packets for later analysis. It has a web-based interface that can show various metrics and graphs of the network performance and health.
+  - Arkime: a web-based packet capture and analysis tool that can store and index large amounts of network data. It has a powerful search and filtering functionality that can help you find and analyze the relevant packets.

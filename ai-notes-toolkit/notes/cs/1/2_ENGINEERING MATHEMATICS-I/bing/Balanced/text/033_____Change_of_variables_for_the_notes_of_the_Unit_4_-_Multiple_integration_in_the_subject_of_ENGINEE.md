@@ -1,0 +1,13 @@
+### Change of variables for the notes of the Unit 4 - Multiple integration in the subject of ENGINEERING MATHEMATICS-I
+
+- The change of variables in multiple integrals is a technique that allows us to simplify the integration of a function over a complex region by transforming it to a function over a simpler region.
+- The change of variables in multiple integrals is based on the idea of planar transformations, which are functions that map one region to another by changing their variables.
+- For example, if we have a region R in the xy-plane and a region R' in the uv-plane, we can define a planar transformation by the equations x = x(u, v) and y = y(u, v), where x and y are functions of u and v.
+- The planar transformation maps each point (u, v) in R' to a point (x, y) in R, and vice versa. The inverse transformation is given by the equations u = u(x, y) and v = v(x, y), where u and v are functions of x and y.
+- The change of variables formula for multiple integrals states that if we have a function f(x, y) defined on R, and a planar transformation x = x(u, v) and y = y(u, v) that maps R' onto R, then we can write the double integral of f(x, y) over R as the double integral of f(x(u, v), y(u, v)) times the absolute value of the Jacobian determinant of the transformation over R'. The Jacobian determinant is given by J(u, v) = | ∂ x ∂ u ∂ x ∂ v ∂ y ∂ u ∂ y ∂ v |, which measures how the transformation affects the area elements.
+- The change of variables formula for multiple integrals can be written as:
+
+  ∫ ∫ R f ( x , y ) d A = ∫ ∫ R ′ f ( x ( u , v ) , y ( u , v ) ) | J ( u , v ) | d u d v
+
+- The change of variables formula for multiple integrals can be extended to higher dimensions, such as triple integrals over regions in the xyz-space, by using transformations that involve three variables, such as x = x(u, v, w), y = y(u, v, w), and z = z(u, v, w), and by using the Jacobian determinant of the transformation, which is a 3 x 3 matrix in this case.
+- The change of variables in multiple integrals can be useful for evaluating integrals that are difficult or impossible to do in the original variables, such as integrals that involve trigonometric, exponential, or logarithmic functions, or integrals that have non-rectangular or curved boundaries. By choosing a suitable transformation, we can simplify the integrand, the region of integration, or both, and make the integration easier or possible.

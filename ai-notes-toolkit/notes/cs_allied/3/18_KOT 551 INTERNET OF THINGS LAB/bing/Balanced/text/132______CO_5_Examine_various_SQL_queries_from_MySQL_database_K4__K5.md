@@ -1,0 +1,30 @@
+#### CO 5 Examine various SQL queries from MySQL database K4, K5
+
+- SQL stands for Structured Query Language, which is a standard language for accessing and manipulating data in relational databases.
+- MySQL is one of the most popular open-source relational database management systems (RDBMS) that supports SQL.
+- A SQL query is a statement that requests data from one or more tables or views in a database.
+- SQL queries can perform various operations on data, such as selecting, inserting, updating, deleting, joining, sorting, filtering, grouping, aggregating, etc.
+- SQL queries follow a basic syntax that consists of clauses, keywords, operators, expressions, and identifiers.
+- Some of the common clauses in SQL queries are:
+  - SELECT: specifies the columns or expressions to retrieve from the tables or views.
+  - FROM: specifies the tables or views to query from.
+  - WHERE: specifies the conditions to filter the rows from the tables or views.
+  - GROUP BY: groups the rows by one or more columns or expressions and applies aggregate functions to them.
+  - HAVING: specifies the conditions to filter the groups from the GROUP BY clause.
+  - ORDER BY: sorts the rows by one or more columns or expressions in ascending or descending order.
+  - LIMIT: limits the number of rows to return from the query.
+- Some of the common keywords in SQL queries are:
+  - DISTINCT: eliminates duplicate rows from the query result.
+  - AS: assigns an alias to a column or expression in the query.
+  - AND, OR, NOT: logical operators that combine multiple conditions in the WHERE or HAVING clause.
+  - IN, BETWEEN, LIKE, IS NULL: comparison operators that test the values of a column or expression against a set, a range, a pattern, or a null value.
+  - *, /, +, -: arithmetic operators that perform calculations on numeric values or expressions.
+  - COUNT, SUM, AVG, MIN, MAX: aggregate functions that return a single value from a group of rows.
+  - CONCAT, SUBSTRING, UPPER, LOWER: string functions that manipulate character values or expressions.
+- Some of the common identifiers in SQL queries are:
+  - table_name: the name of a table or view in the database.
+  - column_name: the name of a column in a table or view.
+  - alias: a temporary name given to a column or expression in the query.
+  - parameter: a placeholder for a value that is supplied at runtime.
+- SQL queries can be executed using various tools or applications that connect to the MySQL database, such as MySQL Workbench, MySQL Shell, phpMyAdmin, etc.
+- SQL queries can also be embedded in other programming languages, such as PHP, Python, Java, etc., to interact with the MySQL database.

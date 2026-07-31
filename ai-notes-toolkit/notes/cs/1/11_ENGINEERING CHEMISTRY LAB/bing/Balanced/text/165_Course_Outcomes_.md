@@ -1,0 +1,10 @@
+# Course Outcomes:
+
+- A course outcome is a statement that describes what a student should be able to do or demonstrate after completing a course.
+- Course outcomes are usually derived from the course objectives, which are the broad goals of the course.
+- Course outcomes are more specific, measurable, and observable than course objectives.
+- Course outcomes should align with the course content, activities, and assessments, as well as the program outcomes and the institutional mission and vision.
+- Course outcomes should be written using action verbs that indicate the level of cognitive, affective, or psychomotor skills expected from the students.
+- Course outcomes should be clear, concise, and consistent, and should avoid vague or ambiguous terms.
+- Course outcomes should be communicated to the students at the beginning of the course, and should be used as a guide for their learning and self-evaluation.
+- Course outcomes should be reviewed and revised periodically to ensure their relevance, validity, and effectiveness.

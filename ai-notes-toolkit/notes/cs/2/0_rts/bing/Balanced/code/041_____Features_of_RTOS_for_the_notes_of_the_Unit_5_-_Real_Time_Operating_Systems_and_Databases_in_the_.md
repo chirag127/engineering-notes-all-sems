@@ -1,0 +1,22 @@
+### Features of RTOS
+
+A real-time operating system (RTOS) is an operating system that can guarantee a certain level of performance and reliability for time-critical applications. Some of the features of an RTOS are:
+
+- **Predictability and determinism**: An RTOS can respond to events and tasks within a known and bounded time frame, without unpredictable delays or variations. This is also called 'jitter'.
+- **Small and fast**: An RTOS is designed to be lightweight and efficient, with minimal overhead and memory footprint. It can execute tasks quickly and with low latency.
+- **Preemptive scheduling**: An RTOS can interrupt a lower-priority task to run a higher-priority task when an event occurs, ensuring that the most urgent tasks are always handled first. The priority of each task is assigned by the programmer.
+- **Cooperative scheduling**: An RTOS can also allow tasks to voluntarily yield the processor to other tasks when they are not in need of it, or when they are waiting for an external resource. This can improve the overall utilization of the system.
+- **Concurrency and synchronization**: An RTOS can support multiple tasks running simultaneously on the same or different processors, and provide mechanisms to coordinate and communicate among them. For example, semaphores, mutexes, message queues, and events are some of the common synchronization primitives in an RTOS.
+- **Real-time clock and timers**: An RTOS can provide accurate and precise timing functions, such as a real-time clock that keeps track of the current date and time, and timers that can trigger tasks or events at specific intervals or deadlines.
+- **Interrupt handling**: An RTOS can handle hardware and software interrupts, which are signals that indicate the occurrence of an event that requires immediate attention. An RTOS can prioritize and dispatch interrupts to the appropriate tasks or handlers, and resume the normal execution after the interrupt is serviced.
+- **Device drivers and I/O**: An RTOS can provide interfaces to interact with various input and output devices, such as sensors, actuators, displays, keyboards, and network adapters. An RTOS can also provide device drivers, which are software modules that control the operation of a specific device. Device drivers can be integrated into the kernel or loaded as separate modules.
+- **Memory management**: An RTOS can manage the allocation and deallocation of memory for tasks and data structures, and ensure that the memory is used efficiently and safely. An RTOS can also provide different types of memory, such as static, dynamic, or shared memory, depending on the needs of the application.
+- **File system and data storage**: An RTOS can provide a file system, which is a way of organizing and accessing data on a storage device, such as a hard disk, a flash memory, or a network server. An RTOS can also support different types of file systems, such as FAT, NTFS, or NFS, depending on the compatibility and performance requirements of the application.
+- **Networking and communication**: An RTOS can provide networking and communication capabilities, such as TCP/IP, UDP, HTTP, MQTT, or Bluetooth, to enable data exchange and interaction among different devices, systems, or users. An RTOS can also support different types of networks, such as wired, wireless, or cellular, depending on the availability and reliability of the connection.
+- **Security and reliability**: An RTOS can provide security and reliability features, such as encryption, authentication, error detection and correction, fault tolerance, and backup and recovery, to protect the data and the system from unauthorized access, corruption, or failure. An RTOS can also support different levels of security and reliability, such as hard, firm, or soft, depending on the criticality and consequences of the application. 
+
+These are some of the common features of an RTOS, but they may vary depending on the specific implementation and configuration of the RTOS. An RTOS can also provide other features, such as graphical user interface, power management, debugging and testing tools, and application programming interfaces, to enhance the functionality and usability of the system.  
+
+: Real-time operating system - Wikipedia
+: What Is A Real-Time Operating Systems (RTOS) | Wind River
+: Real Time Operating Systems | What, Concepts & Features

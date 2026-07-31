@@ -1,0 +1,39 @@
+### Working with Forms and controls
+
+- A form is a section of an HTML document that allows users to enter and submit data to a web server.
+- A form consists of one or more input elements, such as text fields, checkboxes, radio buttons, drop-down lists, buttons, etc.
+- A form also has a special element called `<form>` that defines the form's attributes, such as the action, method, name, and enctype.
+- The action attribute specifies the URL of the web server that will process the form data.
+- The method attribute specifies the HTTP request method to use when submitting the form data. The most common methods are GET and POST.
+- The name attribute assigns a name to the form, which can be used to identify it in scripts or stylesheets.
+- The enctype attribute specifies the encoding type of the form data. The default value is `application/x-www-form-urlencoded`, which means that the data is encoded as name-value pairs separated by ampersands (&). Another common value is `multipart/form-data`, which means that the data is encoded as a series of parts, each with a name and a value, separated by a boundary. This is used for uploading files or binary data.
+- To create an input element, use the `<input>` tag, which has various attributes to define its type, name, value, size, maxlength, placeholder, required, disabled, readonly, checked, etc.
+- The type attribute specifies the type of input element, such as `text`, `password`, `email`, `number`, `date`, `time`, `color`, `range`, `checkbox`, `radio`, `file`, `submit`, `reset`, `button`, etc.
+- The name attribute assigns a name to the input element, which is used to identify the data when submitting the form.
+- The value attribute specifies the initial or default value of the input element.
+- The size attribute specifies the width of the input element in characters.
+- The maxlength attribute specifies the maximum number of characters that the user can enter in the input element.
+- The placeholder attribute specifies a hint or a sample value that is displayed in the input element when it is empty.
+- The required attribute indicates that the input element must be filled in before submitting the form.
+- The disabled attribute indicates that the input element is disabled and cannot be edited or submitted.
+- The readonly attribute indicates that the input element is read-only and cannot be edited, but can be submitted.
+- The checked attribute indicates that the input element is selected or checked by default, such as a checkbox or a radio button.
+- To create a drop-down list, use the `<select>` tag, which has attributes such as name, size, multiple, disabled, etc.
+- The name attribute assigns a name to the drop-down list, which is used to identify the data when submitting the form.
+- The size attribute specifies the number of options that are visible in the drop-down list.
+- The multiple attribute indicates that the user can select more than one option from the drop-down list.
+- The disabled attribute indicates that the drop-down list is disabled and cannot be edited or submitted.
+- To create an option for the drop-down list, use the `<option>` tag, which has attributes such as value, selected, disabled, etc.
+- The value attribute specifies the value of the option, which is sent to the web server when the form is submitted.
+- The selected attribute indicates that the option is selected by default in the drop-down list.
+- The disabled attribute indicates that the option is disabled and cannot be selected or submitted.
+- To create a group of related input elements, such as checkboxes or radio buttons, use the `<fieldset>` tag, which has attributes such as name, disabled, etc.
+- The name attribute assigns a name to the group of input elements, which can be used to identify them in scripts or stylesheets.
+- The disabled attribute indicates that the group of input elements is disabled and cannot be edited or submitted.
+- To create a legend or a caption for the group of input elements, use the `<legend>` tag, which has no attributes.
+- To create a label for an input element, use the `<label>` tag, which has attributes such as for, form, etc.
+- The for attribute specifies the id of the input element that the label is associated with.
+- The form attribute specifies the id of the form that the label belongs to.
+- To create a text area for entering multiple lines of text, use the `<textarea>` tag, which has attributes such as name, rows, cols, placeholder, required, disabled, readonly, etc.
+- The name attribute assigns a name to the text area, which is used to identify the data when submitting the form.
+- The rows attribute specifies the number of visible text lines in the text area

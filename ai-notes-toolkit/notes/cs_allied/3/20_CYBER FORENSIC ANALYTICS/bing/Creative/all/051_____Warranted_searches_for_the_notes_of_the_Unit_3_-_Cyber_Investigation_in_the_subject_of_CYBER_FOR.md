@@ -1,0 +1,11 @@
+# Warranted Searches
+
+- A warranted search is a search of a computer or electronic media that is authorized by a search warrant issued by a judge or magistrate based on probable cause .
+- Probable cause means that there is a reasonable belief that the computer or electronic media contains or is contraband, evidence of a crime, fruits of crime, or an instrumentality of a crime .
+- A search warrant must specify the crime(s) to which the evidence pertains, the place to be searched, and the items to be seized. Overly broad language (such as authorization to seize “all records” or “all computers”) can result in the warrant being invalidated.
+- A search warrant may also authorize the use of special techniques or methods to access or analyze the data, such as decryption, password cracking, or remote access.
+- A search warrant may be issued for a specific location, such as a residence or a business, or for a specific device, such as a laptop or a smartphone. A search warrant may also be issued for a network or a cloud service provider, if there is probable cause to believe that the data is stored or transmitted there.
+- A search warrant may be executed by law enforcement officers or by specially trained digital forensics experts, who can use specialized tools and software to collect, preserve, and analyze the data.
+- A search warrant may be subject to certain limitations or conditions, such as the time frame for the search, the scope of the search, the notification of the owner or user, or the reporting of the results.
+- A search warrant may be challenged by the owner or user of the computer or electronic media, who can argue that the warrant was invalid, that the probable cause was insufficient, that the search exceeded the scope of the warrant, or that the data was obtained or handled improperly.
+- A search warrant may be modified or extended by the judge or magistrate, if there is a need to do so, such as when new evidence is discovered, when the search is delayed or interrupted, or when the data is encrypted or inaccessible.

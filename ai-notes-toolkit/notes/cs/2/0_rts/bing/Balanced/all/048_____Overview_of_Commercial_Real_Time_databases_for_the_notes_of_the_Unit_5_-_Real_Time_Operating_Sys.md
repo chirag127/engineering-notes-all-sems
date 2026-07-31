@@ -1,0 +1,23 @@
+# Overview of Commercial Real Time Databases
+
+- A real time database is a database system that uses real time processing to handle workloads whose state is constantly changing.
+- Real time databases are useful for applications that require timely and consistent responses, such as accounting, banking, law, medical records, multi-media, process control, reservation systems, and scientific data analysis.
+- Real time databases can be classified into two types: hard real time and soft real time.
+  - Hard real time databases guarantee that transactions meet their deadlines, otherwise the system may fail. They are suitable for critical systems, such as air traffic control, nuclear power plants, and military systems.
+  - Soft real time databases allow some transactions to miss their deadlines, but try to minimize the number and severity of such violations. They are suitable for non-critical systems, such as online gaming, e-commerce, and social media.
+- Some of the attributes of live real time databases are:
+  - Concurrency control: The ability to handle multiple transactions accessing the same data without compromising data integrity or performance.
+  - Data freshness: The degree to which the data reflects the current state of the real world.
+  - Data distribution: The ability to store and access data across multiple nodes or locations for scalability, availability, and fault tolerance.
+  - Data replication: The ability to create and maintain copies of data for backup, load balancing, or data locality.
+  - Data consistency: The degree to which the data is coherent and accurate across all nodes or copies.
+  - Data durability: The ability to preserve data in the event of system failures or crashes.
+  - Data security: The ability to protect data from unauthorized access, modification, or deletion.
+  - Data recovery: The ability to restore data to a previous or desired state after a failure or error.
+  - Data analysis: The ability to perform queries, reports, or analytics on the data to derive insights or support decision making.
+- Some of the examples of commercial real time databases are:
+  - Google Cloud Firestore: A scalable, serverless, NoSQL document database for web, mobile, and IoT applications. It offers real time synchronization, offline support, and ACID transactions.
+  - Google Cloud Bigtable: A highly performant, fully managed NoSQL database service for large analytical and operational workloads. It offers high availability, low latency, and strong consistency.
+  - Google Cloud Spanner: A fully managed, relational database service that combines the benefits of SQL and NoSQL databases. It offers global scalability, strong consistency, and high availability.
+  - Google Cloud SQL: A fully managed, relational database service that supports MySQL, PostgreSQL, and SQL Server. It offers high performance, security, and reliability.
+  - Google Cloud Memorystore: A fully managed, in-memory data store service that supports Redis and Memcached. It offers low latency, high throughput, and scalability.

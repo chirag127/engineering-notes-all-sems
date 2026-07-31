@@ -1,0 +1,26 @@
+### Blockchain Cryptography
+
+- Blockchain cryptography is a method of securing data and transactions in a distributed ledger that is shared among the nodes of a computer network  .
+- Blockchain cryptography uses two main concepts: **hashing** and **public-key cryptography** .
+- **Hashing** is a process of transforming any input data into a fixed-length output, called a **hash** or a **digest**, using a mathematical function, called a **hash function** .
+- Hash functions have the following properties :
+  - They are **deterministic**, meaning that the same input always produces the same output.
+  - They are **one-way**, meaning that it is easy to compute the output from the input, but hard to find the input from the output.
+  - They are **collision-resistant**, meaning that it is hard to find two different inputs that produce the same output.
+- Hashing is used in blockchain to link blocks together, to verify the integrity of data, and to create digital signatures .
+- Each block in a blockchain contains a hash of the previous block, a timestamp, and transaction data. This creates a **chain of hashes** that connects all the blocks and makes it hard to tamper with the data without breaking the links.
+- To verify the integrity of data, a blockchain uses a data structure called a **Merkle tree**, where data nodes are represented by leaves and hashes of pairs of nodes are represented by internal nodes. The root of the tree, called the **Merkle root**, is a hash of all the data in the tree and is stored in the block header. To verify a data node, one only needs to check the hashes along the path from the node to the root.
+- To create digital signatures, a blockchain uses **public-key cryptography**, also known as **asymmetric cryptography**  .
+- Public-key cryptography is a system of encryption and decryption that uses two different keys: a **public key** and a **private key**  .
+- The public key can be shared with anyone, while the private key is kept secret by the owner  .
+- The public key and the private key are mathematically related, but it is hard to derive the private key from the public key  .
+- Public-key cryptography can be used for two purposes: **encryption** and **digital signatures**  .
+- **Encryption** is a process of transforming data into an unreadable form, called a **ciphertext**, using a key, such that only the holder of the corresponding key can decrypt the ciphertext back into the original data, called a **plaintext**  .
+- In public-key encryption, the sender encrypts the plaintext with the receiver's public key, and the receiver decrypts the ciphertext with their own private key  .
+- This ensures that only the intended receiver can read the message, and no one else can, not even the sender  .
+- **Digital signatures** are a way of proving the authenticity and integrity of a message, using a hash function and a private key  .
+- In digital signatures, the sender hashes the message and then encrypts the hash with their own private key, creating a **signature**  .
+- The sender then attaches the signature to the message and sends both to the receiver  .
+- The receiver then verifies the signature by decrypting it with the sender's public key, obtaining the hash, and then hashing the message and comparing the hashes  .
+- This ensures that the message has not been altered and that it came from the sender, and no one else can forge the signature  .
+- Digital signatures are used in blockchain to secure transactions between two nodes in a

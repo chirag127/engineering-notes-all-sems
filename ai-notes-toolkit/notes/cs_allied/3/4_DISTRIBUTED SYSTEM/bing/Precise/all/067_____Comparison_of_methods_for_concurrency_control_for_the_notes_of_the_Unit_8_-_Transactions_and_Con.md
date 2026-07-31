@@ -1,0 +1,13 @@
+# Comparison of methods for concurrency control
+
+Concurrency control is a critical component of distributed systems, as it ensures that multiple transactions can be executed simultaneously without interfering with one another. There are several methods for achieving concurrency control, each with its own advantages and disadvantages.
+
+1. **Locking**: Locking is a widely used method for concurrency control. It involves placing locks on data items to prevent multiple transactions from accessing the same data simultaneously. Locking can be implemented using different levels of granularity, such as row-level, page-level, or table-level locking. The main advantage of locking is its simplicity and ease of implementation. However, locking can lead to contention and deadlocks, which can reduce system performance.
+
+2. **Timestamp ordering**: Timestamp ordering is another method for concurrency control. It assigns a unique timestamp to each transaction and uses these timestamps to determine the order in which transactions are executed. Transactions with earlier timestamps are given priority over transactions with later timestamps. The main advantage of timestamp ordering is that it avoids deadlocks. However, it can lead to increased contention and reduced system performance.
+
+3. **Optimistic concurrency control**: Optimistic concurrency control is a method that allows transactions to execute concurrently without locking. Instead, it uses a validation phase to ensure that transactions do not interfere with one another. If a conflict is detected, one of the conflicting transactions is rolled back and restarted. The main advantage of optimistic concurrency control is that it can provide high levels of concurrency and system performance. However, it can be more complex to implement than other methods.
+
+4. **Multiversion concurrency control**: Multiversion concurrency control is a method that maintains multiple versions of data items. Transactions can read older versions of data items without locking, which can reduce contention and improve system performance. However, multiversion concurrency control can be more complex to implement than other methods and can require additional storage space to maintain multiple versions of data items.
+
+In summary, there are several methods for achieving concurrency control in distributed systems, each with its own advantages and disadvantages. The choice of method will depend on the specific requirements of the system, such as the level of concurrency required and the complexity of the implementation.

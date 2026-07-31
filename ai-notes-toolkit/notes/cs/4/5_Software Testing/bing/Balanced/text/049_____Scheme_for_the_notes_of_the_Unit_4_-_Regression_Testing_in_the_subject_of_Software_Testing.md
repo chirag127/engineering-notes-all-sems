@@ -1,0 +1,36 @@
+### Scheme for the notes of the Unit 4 - Regression Testing in the subject of Software Testing
+
+- Introduction to regression testing
+  - Definition and objectives of regression testing
+  - Types of regression testing: retest-all, selective, test case prioritization, test suite minimization
+  - Challenges and benefits of regression testing
+- Regression test selection techniques
+  - Coverage-based techniques: statement, branch, path, data flow, etc.
+  - Dependence-based techniques: program dependence graph, slicing, etc.
+  - Modification-based techniques: impact analysis, firewall, etc.
+  - Model-based techniques: state machine, UML, etc.
+  - Heuristic-based techniques: safe, basic, etc.
+  - Hybrid techniques: combining two or more of the above techniques
+- Regression test prioritization techniques
+  - Coverage-based techniques: total, additional, etc.
+  - Fault-based techniques: fault severity, fault proneness, etc.
+  - History-based techniques: test case age, test case execution time, etc.
+  - Cost-based techniques: test case cost, test case benefit, etc.
+  - Model-based techniques: state machine, UML, etc.
+  - Hybrid techniques: combining two or more of the above techniques
+- Regression test suite minimization techniques
+  - Coverage-based techniques: greedy, HGS, etc.
+  - Fault-based techniques: FEP, FEP+, etc.
+  - History-based techniques: test case age, test case execution time, etc.
+  - Cost-based techniques: test case cost, test case benefit, etc.
+  - Model-based techniques: state machine, UML, etc.
+  - Hybrid techniques: combining two or more of the above techniques
+- Regression testing tools and frameworks
+  - Commercial tools: IBM Rational Functional Tester, HP QuickTest Professional, etc.
+  - Open source tools: Selenium, JUnit, TestNG, etc.
+  - Frameworks: Keyword-driven, Data-driven, Hybrid, etc.
+- Regression testing in agile and DevOps environments
+  - Principles and practices of agile and DevOps
+  - Challenges and benefits of regression testing in agile and DevOps
+  - Strategies and techniques for regression testing in agile and DevOps
+  - Tools and frameworks for regression testing in agile and DevOps

@@ -1,0 +1,17 @@
+### Framework for Management and Control in SPM
+
+- SPM stands for Software Project Management, which is the process of planning, organizing, leading, and controlling software projects.
+- A framework for management and control in SPM is a set of guidelines, tools, and techniques that help software project managers to monitor and control the project's progress, quality, cost, and risks.
+- A framework for management and control in SPM typically consists of the following elements :
+  - Creating a framework: This involves defining the project scope, objectives, deliverables, milestones, tasks, resources, and schedule, as well as establishing the project baseline and the performance measurement criteria.
+  - Collecting the data: This involves gathering and analyzing the project data, such as the actual work done, the actual cost incurred, the actual quality achieved, and the actual risks encountered, and comparing them with the planned values.
+  - Visualizing the progress: This involves using various tools and techniques, such as charts, graphs, dashboards, and reports, to present the project data in a clear and concise way, and to highlight the deviations, trends, and issues.
+  - Cost monitoring: This involves tracking and controlling the project budget, and ensuring that the project is within the approved cost limits, or taking corrective actions if necessary.
+  - Earned value: This involves using a technique that integrates the project scope, schedule, and cost, and measures the project performance in terms of the value earned by the project, and the variance from the planned value.
+  - Prioritizing monitoring: This involves focusing on the most critical and important aspects of the project, such as the key deliverables, the major milestones, the high-risk areas, and the stakeholder expectations, and allocating the appropriate resources and attention to them.
+  - Getting the project back to target: This involves identifying and resolving the project issues, problems, and changes, and implementing the corrective and preventive actions to bring the project back on track, or to adjust the project plan if needed.
+  - Change control: This involves managing and controlling the changes that occur during the project, such as the changes in the requirements, scope, schedule, cost, quality, or risks, and ensuring that they are properly evaluated, approved, communicated, and implemented.
+  - Managing contracts: This involves managing and controlling the contracts that are involved in the project, such as the contracts with the customers, suppliers, vendors, or subcontractors, and ensuring that they are properly defined, negotiated, executed, and closed.
+  - Types of contract: This involves choosing the appropriate type of contract for the project, such as the fixed-price, cost-reimbursable, time-and-material, or incentive-based contracts, and understanding the advantages and disadvantages of each type.
+  - Stages in contract placement: This involves following the steps in the contract placement process, such as the solicitation, evaluation, selection, award, administration, and termination of the contracts.
+  - Typical terms of a contract: This involves understanding the common terms and clauses of a contract, such as the scope of work, the deliverables, the payment terms, the warranties, the liabilities, the penalties, the dispute resolution, and the termination conditions.

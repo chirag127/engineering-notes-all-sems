@@ -1,0 +1,8 @@
+# Ton of Refrigeration
+
+- A ton of refrigeration (TR or TOR), also called a refrigeration ton (RT), is a unit of power used in some countries (especially in North America) to describe the heat-extraction capacity of refrigeration and air conditioning equipment .
+- One ton of refrigeration is equal to the amount of heat required to melt one ton (2000 pounds) of ice in 24 hours. This is equivalent to 12,000 British thermal units per hour (BTU/h) or 3.517 kilowatts (kW) of power .
+- The origin of the term ton of refrigeration dates back to the 19th century, when ice was the main source of cooling. The amount of ice needed to cool a given space was estimated by the weight of ice that melted in that space in one day .
+- The ton of refrigeration is not a standard unit in the International System of Units (SI). The SI unit of power is the watt (W), which is equal to one joule of energy per second. One ton of refrigeration is approximately 3.5 kW or 3,500 W .
+- The ton of refrigeration is still widely used in the refrigeration and air conditioning industry, especially in North America. It is often used to rate the cooling capacity of chillers, compressors, evaporators, condensers, and other components of refrigeration systems .
+- The ton of refrigeration can also be expressed in terms of refrigerant flow rate, pressure, temperature, and enthalpy. For example, one ton of refrigeration can be achieved by circulating 12,000 BTU/h of refrigerant with a specific enthalpy difference of 10 BTU/lb.

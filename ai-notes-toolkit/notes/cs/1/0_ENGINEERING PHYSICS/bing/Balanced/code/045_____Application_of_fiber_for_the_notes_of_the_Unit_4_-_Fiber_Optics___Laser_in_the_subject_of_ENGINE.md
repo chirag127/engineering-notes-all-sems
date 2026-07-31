@@ -1,0 +1,10 @@
+### Application of fiber optics
+
+Fiber optics are thin, flexible strands of glass or plastic that can transmit light signals over long distances with minimal loss or interference. Fiber optics have many applications in various fields, such as:
+
+- **Communication**: Fiber optics are widely used for voice, data, and video transmission, as they offer high bandwidth, low attenuation, immunity to electromagnetic interference, and security. Fiber optics are used for telephone lines, internet cables, cable TV, and optical wireless communication.
+- **Medical**: Fiber optics are used for various medical purposes, such as endoscopy, laser surgery, dentistry, and biomedical sensing. Fiber optics can provide high-resolution images, precise illumination, and minimally invasive procedures.
+- **Defence**: Fiber optics are used for data transmission in high-level data security fields of military and aerospace applications. Fiber optics are used for wiring in aircraft, hydrophones for SONARs and seismic applications, and optical sensors for surveillance and navigation.
+- **Industries**: Fiber optics are used for various industrial applications, such as process control, automation, inspection, and measurement. Fiber optics can provide reliable, accurate, and fast data transmission in harsh environments, such as high temperature, pressure, or vibration.
+- **Broadcasting**: Fiber optics are used for transmitting audio and video signals for broadcasting, such as radio, television, and live events. Fiber optics can offer high-quality, low-noise, and long-distance transmission of signals.
+- **Lighting and Decorations**: Fiber optics are used for various lighting and decorative purposes, such as architectural lighting, stage lighting, museum lighting, and fiber optic art. Fiber optics can create colorful, flexible, and safe lighting effects.

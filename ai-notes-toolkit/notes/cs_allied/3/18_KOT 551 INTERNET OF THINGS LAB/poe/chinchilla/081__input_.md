@@ -1,0 +1,13 @@
+#### Input
+
+In the field of computer science, input refers to the information that is entered into a computer or other electronic device. It can come from a variety of sources, including keyboard input, mouse input, voice input, and data from external devices such as cameras or sensors. Understanding input and how it is processed is a fundamental concept in computer science, and is essential for building effective software applications.
+
+Here are some important points to keep in mind about input:
+
+- Input can take many different forms, but it all represents some type of information that is being provided to a computer or other electronic device.
+- The most common types of input are keyboard input and mouse input. Keyboard input involves pressing keys on a keyboard to enter text or other commands, while mouse input involves moving a cursor on a screen and clicking on various elements to interact with them.
+- Voice input is becoming increasingly popular, particularly with the rise of virtual assistants like Siri, Alexa, and Google Assistant. Voice input involves speaking to a device and having it interpret your words as commands or text input.
+- Other types of input include data from external devices such as cameras or sensors. For example, a security camera might provide input to a computer program that analyzes the video feed and alerts the user if it detects anything suspicious.
+- Input is typically processed by software applications, which use algorithms and other techniques to interpret and analyze the information provided. For example, a word processing program might analyze keyboard input to detect spelling and grammar errors, while a video editing program might analyze camera input to identify and isolate specific objects or people in a video.
+- Input can be either structured or unstructured. Structured input is well-defined and follows a specific format, such as a database record or a spreadsheet. Unstructured input, on the other hand, is less well-defined and can take many different forms, such as text entered into a search engine or images captured by a camera.
+- Understanding how input is processed is essential for building effective software applications that can handle a wide range of input types and formats. By understanding the different types of input and how they are processed, developers can create software that is more robust, reliable, and effective.

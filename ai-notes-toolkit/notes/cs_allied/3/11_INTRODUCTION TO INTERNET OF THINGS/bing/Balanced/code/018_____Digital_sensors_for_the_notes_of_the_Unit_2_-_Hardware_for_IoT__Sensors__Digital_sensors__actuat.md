@@ -1,0 +1,28 @@
+### Digital sensors for IoT
+
+- Digital sensors are pieces of hardware that detect changes in an environment and collect data in a digital format .
+- They are the pieces of an IoT ecosystem that bridge the digital world to the physical world .
+- Digital sensors may detect things like temperature, pressure, motion, light, sound, humidity, and gas .
+- Digital sensors interact directly with an IoT microcontroller, which can process, store, and transmit the data to a network or a cloud service.
+- Digital sensors are further differentiated based on the work they perform, such as:
+  - Active sensors: These sensors require an external power source to operate and generate an output signal.
+  - Passive sensors: These sensors do not require an external power source and generate an output signal based on the variation of a physical parameter.
+  - Contact sensors: These sensors require physical contact with the object or phenomenon to be measured.
+  - Non-contact sensors: These sensors do not require physical contact and can measure the object or phenomenon remotely.
+  - Discrete sensors: These sensors have a binary output, such as on/off, open/closed, or presence/absence.
+  - Continuous sensors: These sensors have a continuous output that varies proportionally to the measured parameter.
+- Digital sensors are used in various applications of IoT, such as:
+  - Consumer devices: These sensors enable smart home devices, wearable devices, fitness trackers, gaming consoles, and personal assistants .
+  - Industry 4.0: These sensors enable smart manufacturing, industrial automation, predictive maintenance, asset tracking, and quality control .
+  - Medical applications: These sensors enable remote patient monitoring, telemedicine, health diagnostics, and drug delivery .
+  - Environmental applications: These sensors enable air quality monitoring, weather forecasting, disaster management, and smart agriculture .
+  - Security applications: These sensors enable biometric authentication, facial recognition, intrusion detection, and surveillance .
+- Digital sensors are often integrated with other components of IoT, such as actuators, radio frequency identification (RFID) technology, wireless sensor networks, and participatory sensing technology.
+- Actuators are devices that convert electrical signals into physical actions, such as motors, valves, switches, and relays.
+- RFID technology is a system that uses radio waves to identify and track objects, such as tags, readers, and antennas.
+- Wireless sensor networks are networks of spatially distributed sensors that communicate wirelessly and cooperatively to monitor physical or environmental conditions.
+- Participatory sensing technology is a system that uses mobile devices and human participation to collect and share data about the environment or social phenomena.
+- Embedded platforms for IoT are hardware platforms that support the development and deployment of IoT applications, such as Arduino, Netduino, Raspberry Pi, BeagleBone, Intel Galileo, and ARM Cortex.
+- Embedded platforms for IoT typically consist of a microcontroller, a memory, a communication module, and input/output interfaces.
+- Embedded platforms for IoT offer various advantages, such as low cost, low power consumption, small size, flexibility, and compatibility.
+- Embedded platforms for IoT also face some challenges, such as security, scalability, interoperability, and reliability.

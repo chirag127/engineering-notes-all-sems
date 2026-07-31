@@ -1,0 +1,22 @@
+### Resolution
+
+- Resolution is a method of inference that can be applied to propositional logic and first-order logic.
+- Resolution is based on the principle of proof by contradiction, which states that a sentence is true if and only if its negation is unsatisfiable.
+- Resolution uses a single inference rule, called the resolution rule, which operates on pairs of clauses that contain complementary literals.
+- A literal is an atomic sentence or its negation. A clause is a disjunction of literals.
+- The resolution rule states that if two clauses contain complementary literals, then they can be resolved by eliminating those literals and forming a new clause with the remaining literals.
+- For example, the clauses (P ∨ Q) and (¬P ∨ R) can be resolved by eliminating the complementary literals P and ¬P, resulting in the new clause (Q ∨ R).
+- The resolution rule is sound and complete, meaning that it can derive all and only the logical consequences of a given set of clauses.
+- Resolution can be used to test the satisfiability of a set of clauses by trying to derive the empty clause, which represents a contradiction.
+- If the empty clause can be derived, then the set of clauses is unsatisfiable. If the empty clause cannot be derived, then the set of clauses is satisfiable.
+- Resolution can also be used to test the validity of a sentence by negating it and converting it to conjunctive normal form (CNF), which is a conjunction of clauses.
+- If the negated sentence in CNF is unsatisfiable, then the original sentence is valid. If the negated sentence in CNF is satisfiable, then the original sentence is invalid.
+- Resolution can be extended to first-order logic by using unification, which is a process of finding substitutions for variables that make two terms identical.
+- Unification allows resolution to operate on clauses that contain variables and predicates, as well as constants and propositional symbols.
+- For example, the clauses (P(x) ∨ Q(y)) and (¬P(a) ∨ R(b)) can be resolved by unifying x with a and eliminating the complementary literals P(x) and ¬P(a), resulting in the new clause (Q(y) ∨ R(b))[x/a].
+- Unification can also handle clauses that contain functions, such as (P(f(x)) ∨ Q(y)) and (¬P(g(a)) ∨ R(b)).
+- In this case, unification can find the substitution [x/g(a), y/f(g(a))] that makes P(f(x)) and ¬P(g(a)) identical, and then apply the resolution rule to obtain the new clause (Q(f(g(a))) ∨ R(b))[x/g(a), y/f(g(a))].
+- Unification is also sound and complete, meaning that it can find all and only the substitutions that make two terms identical.
+- However, resolution in first-order logic is not complete, meaning that it cannot derive all the logical consequences of a given set of clauses.
+- This is because there may be infinitely many possible substitutions for the variables in the clauses, and resolution cannot enumerate them all.
+- Therefore, resolution in first-order logic is only a semi-decision procedure, which means that it can prove that a sentence is valid or unsatisfiable, but it cannot prove that a sentence is invalid or satisfiable.

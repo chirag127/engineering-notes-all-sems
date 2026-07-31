@@ -1,0 +1,10 @@
+#### Fair and Capacity in Hadoop Ecosystem
+
+- Hadoop is a batch processing ecosystem that can handle large-scale data analysis using distributed computing.
+- Hadoop has a distributed storage layer called HDFS (Hadoop Distributed File System) that splits the incoming data into blocks and stores them across multiple nodes in a cluster.
+- Hadoop also has a distributed processing layer called YARN (Yet Another Resource Negotiator) that manages the resources and tasks for the applications running on the cluster.
+- Hadoop uses schedulers to allocate resources and schedule tasks for the applications based on different policies and priorities.
+- There are mainly three types of schedulers in Hadoop: FIFO (First In First Out), Capacity, and Fair.
+- FIFO scheduler is the simplest and default scheduler that assigns resources to jobs in the order they are submitted. It does not consider the priority or the size of the jobs, and it can cause resource starvation for the later jobs if the earlier ones are long-running or large.
+- Capacity scheduler is a more advanced scheduler that allows multiple queues with different capacities and priorities to be created for different groups of users or applications. It ensures that each queue gets a minimum share of the cluster resources, and it can also enforce limits on the maximum resources that a queue or a user can consume. It also supports preemption, which means that it can reclaim resources from low-priority jobs if the high-priority jobs are waiting in the queue.
+- Fair scheduler is another advanced scheduler that aims to provide a fair share of resources to all the jobs over time. It dynamically balances the resources between the running jobs based on their weights and demands. It also supports multiple queues with different policies and priorities, and it allows the users to specify the minimum and maximum resources for each queue or job. It also supports preemption, but only within a queue, not across queues.

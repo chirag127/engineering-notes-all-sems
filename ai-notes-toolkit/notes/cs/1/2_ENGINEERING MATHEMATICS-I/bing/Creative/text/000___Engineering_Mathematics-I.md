@@ -1,0 +1,16 @@
+# Engineering Mathematics-I
+
+Engineering Mathematics-I is a course that covers the basic concepts and techniques of calculus and its applications in engineering problems. The course aims to develop the students' ability to model, analyze, and solve engineering problems using mathematical tools. The course also introduces the students to the use of computer algebra systems for performing calculations and visualizing results.
+
+The syllabus of Engineering Mathematics-I may vary depending on the university and the branch of engineering, but some of the common topics are:
+
+- Differential calculus: Functions, limits, continuity, derivatives, rules of differentiation, chain rule, implicit differentiation, higher order derivatives, applications of derivatives, maxima and minima, curve sketching, mean value theorems, Taylor and Maclaurin series, indeterminate forms, L'Hospital's rule, etc.
+- Integral calculus: Indefinite and definite integrals, rules of integration, integration by substitution, integration by parts, integration by partial fractions, trigonometric integrals, integration of rational and irrational functions, improper integrals, applications of integrals, area, volume, arc length, surface area, work, etc.
+- Differential equations: First order ordinary differential equations, separable, linear, homogeneous, exact, and Bernoulli equations, integrating factors, initial value problems, existence and uniqueness theorems, higher order linear differential equations, homogeneous and nonhomogeneous equations, constant coefficients, undetermined coefficients, variation of parameters, applications of differential equations, modeling, growth and decay, mixing, cooling, etc.
+- Vector calculus: Vectors, dot product, cross product, scalar and vector triple products, vector functions, parametric curves, arc length, curvature, torsion, line integrals, work, conservative fields, potential functions, Green's theorem, surface integrals, flux, divergence, curl, divergence theorem, Stokes' theorem, etc.
+
+The course may also include some topics from linear algebra, such as matrices, determinants, systems of linear equations, Gaussian elimination, Cramer's rule, inverse of a matrix, rank, eigenvalues, eigenvectors, diagonalization, etc.
+
+The course may require the use of a computer algebra system, such as MATLAB, Mathematica, Maple, or Python, for performing calculations, plotting graphs, solving equations, etc. The students may also learn how to use the software for symbolic, numerical, and graphical computations, and how to write scripts and functions for various tasks.
+
+The course may have different modes of assessment, such as quizzes, assignments, midterms, finals, projects, etc. The students may be expected to demonstrate their understanding of the concepts and techniques, as well as their ability to apply them to engineering problems. The students may also be required to present their solutions in a clear and logical manner, using proper notation and terminology.

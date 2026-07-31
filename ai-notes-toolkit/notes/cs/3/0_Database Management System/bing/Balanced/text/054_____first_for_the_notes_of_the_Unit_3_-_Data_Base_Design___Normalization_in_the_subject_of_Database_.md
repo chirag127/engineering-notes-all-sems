@@ -1,0 +1,22 @@
+### Database Design and Normalization Notes
+
+- Database design is the process of creating a logical and physical structure for storing and manipulating data in a database system.
+- Database normalization is a technique of database design that aims to reduce data redundancy and dependency by splitting a large table into smaller tables and defining relationships between them.
+- The benefits of database normalization are:
+  - It improves the clarity and consistency of the data and its relationships.
+  - It avoids data anomalies, such as insertion, deletion, and update anomalies, that can cause data inconsistency and corruption.
+  - It reduces the storage space and improves the performance of the database system.
+  - It makes the database more flexible and adaptable to changing business requirements.
+- The process of database normalization involves applying a series of rules or normal forms to a table until it satisfies a certain level of normalization. The most common normal forms are:
+  - First normal form (1NF): A table is in 1NF if it contains only atomic values, meaning each cell can hold only one value, and there are no repeating groups of columns.
+  - Second normal form (2NF): A table is in 2NF if it is in 1NF and every non-key attribute is fully functionally dependent on the primary key, meaning it cannot be determined by a subset of the primary key.
+  - Third normal form (3NF): A table is in 3NF if it is in 2NF and every non-key attribute is non-transitively dependent on the primary key, meaning it cannot be determined by another non-key attribute.
+  - Boyce-Codd normal form (BCNF): A table is in BCNF if it is in 3NF and every determinant is a candidate key, meaning there are no partial or transitive dependencies on non-key attributes.
+  - Fourth normal form (4NF): A table is in 4NF if it is in BCNF and there are no multi-valued dependencies, meaning there are no attributes that depend on a set of values rather than a single value.
+  - Fifth normal form (5NF): A table is in 5NF if it is in 4NF and there are no join dependencies, meaning the table cannot be decomposed into smaller tables without losing information.
+- To apply the normal forms to a table, the following steps are usually followed:
+  - Identify the functional dependencies between the attributes of the table, meaning which attributes determine the values of other attributes.
+  - Identify the candidate keys of the table, meaning the minimal set of attributes that can uniquely identify each row of the table.
+  - Identify the primary key of the table, meaning the candidate key that is chosen to be the main identifier of the table.
+  - Check if the table satisfies the normal form that is desired, and if not, decompose the table into smaller tables that satisfy the normal form and preserve the functional dependencies.
+  - Define the referential integrity constraints between the tables, meaning the rules that ensure the consistency of the data across the tables.

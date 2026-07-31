@@ -1,0 +1,7 @@
+### Writing Technology in India
+
+- India has a long history of writing. While India has been a literate culture for millennia, it has also greatly valued oral knowledge. The ancient Hindu scriptures, the Vedas, the oldest of which were composed around 1500 BCE, were transmitted orally for centuries before being written down.
+- The idea of locally building India’s own typewriter came into being as early as 1947, but it was delayed as Godrej and Boyce was then busy with manufacturing ballot boxes for independent India’s first general elections. In 1955, the company created history by becoming the first enterprise in Asia to manufacture typewriters.
+- The history of printing press in India dates back to the 16th century, when Portuguese traders brought the technology to Goa. The first Indian-owned printing press was established in Calcutta in 1780.
+- The evolution of writing in India after Brahmi is well understood and needs no recounting. But it may be noted that all the modern scripts of India, for Indo-Aryan as well Dravidian languages, as well as the scripts of Sri Lanka, Tibet, Southeast Asia, including the original scripts of Philippines and Indonesia, are derived from Brahmi.
+- Technical writing in India is a lesser known profession which is fast gaining recognition. Looking at the technical writing job vacancies in India, majority of them are with the software companies and web development companies.

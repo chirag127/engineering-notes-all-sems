@@ -1,0 +1,7 @@
+# Stabilizer codes
+
+- Stabilizer codes are a class of quantum error-correcting codes that use ancilla qubits and unitary encoding circuits to protect quantum information from local noisy errors .
+- Stabilizer codes are based on the stabilizer formalism, which is a group-theoretical framework for describing quantum states and operations using generators of an Abelian group called the stabilizer group .
+- Stabilizer codes can be constructed from classical binary or quaternary codes, as long as they satisfy the dual-containing or self-orthogonality constraint, which means that the code space is orthogonal to its dual under the symplectic inner product .
+- Stabilizer codes can be characterized by their parameters [[n, k, d]], where n is the number of physical qubits, k is the number of logical qubits, and d is the minimum distance, which measures the error-correcting capability of the code .
+- Stabilizer codes can be implemented using quantum circuits that perform encoding, syndrome measurement, and recovery operations. The encoding circuit transforms the logical qubits into a highly entangled state in the code space. The syndrome measurement circuit measures the ancilla qubits to obtain information about the errors that occurred. The recovery circuit applies corrective operations based on the syndrome to restore the logical qubits  .

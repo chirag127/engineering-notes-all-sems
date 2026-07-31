@@ -1,0 +1,13 @@
+### Process Identification Information for the Notes of the Unit 3 - CPU Scheduling in the Subject of Operating System
+
+In the study of CPU scheduling, it is important to understand the process identification information in order to effectively manage and allocate system resources. Here are some key points to keep in mind:
+
+- A process is a program in execution. It is represented by a process control block (PCB) which contains information such as the process ID, process state, CPU registers, and other relevant details.
+- The process ID is a unique identifier assigned to each process by the operating system. It is used to distinguish between different processes and is necessary for the CPU scheduler to make scheduling decisions.
+- The process state refers to the current state of the process, such as running, waiting, or ready. The operating system keeps track of the process state in order to determine which processes should be scheduled for execution.
+- CPU registers are used to store temporary data and are an important part of the PCB. They include the program counter, stack pointer, and other registers that are used by the CPU during process execution.
+- Other information that may be included in the PCB includes the process priority, memory requirements, and input/output (I/O) device information.
+- The PCB is stored in the process table, which is a data structure used by the operating system to keep track of all running processes. The process table is necessary for the CPU scheduler to make scheduling decisions and to manage system resources effectively.
+- In a multi-process system, it is important to have a mechanism for creating and destroying processes. This is typically done using system calls such as fork() and exit(), which allow processes to be created and terminated as needed.
+- Resource allocation is an important aspect of process management. The operating system must ensure that processes have access to the resources they need, such as memory, I/O devices, and CPU time. This is typically done using algorithms such as first-come, first-served (FCFS), shortest job first (SJF), and priority scheduling.
+- In summary, understanding the process identification information is essential for effective CPU scheduling and resource management in the operating system. This information includes the process ID, process state, CPU registers, and other relevant details stored in the PCB, as well as the process table and resource allocation algorithms used by the operating system.

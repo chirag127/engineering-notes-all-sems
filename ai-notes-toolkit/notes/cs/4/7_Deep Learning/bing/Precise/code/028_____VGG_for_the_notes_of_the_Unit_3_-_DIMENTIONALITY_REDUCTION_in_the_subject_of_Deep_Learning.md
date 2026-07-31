@@ -1,0 +1,13 @@
+### VGG
+- VGG is a convolutional neural network architecture proposed by the Visual Geometry Group (VGG) at the University of Oxford.
+- It was introduced in the paper "Very Deep Convolutional Networks for Large-Scale Image Recognition" by Karen Simonyan and Andrew Zisserman in 2014.
+- VGG is known for its simplicity and effectiveness in image classification tasks.
+- The architecture consists of multiple convolutional layers followed by fully connected layers.
+- The convolutional layers use small 3x3 filters with a stride of 1 and padding of 1.
+- The number of filters in the convolutional layers increases as the network gets deeper.
+- The fully connected layers have 4096 neurons each.
+- VGG has several variants, including VGG16 and VGG19, which differ in the number of layers.
+- VGG has been widely used in various computer vision tasks and has achieved state-of-the-art performance in many of them.
+- However, VGG has a large number of parameters and is computationally expensive, which makes it less suitable for deployment on mobile devices or in real-time applications.
+- VGG can be used for dimensionality reduction by extracting features from the last fully connected layer before the output layer.
+- These features can then be used as input to other machine learning algorithms for tasks such as classification or clustering.

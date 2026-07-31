@@ -1,0 +1,12 @@
+# Strain (Bonded and Unbonded Strain Gauge)
+
+- Strain is the measure of deformation or change in dimensions of a body due to an applied force or stress.
+- Strain can be expressed as the ratio of change in length to the original length of the body.
+- Strain can be positive (tensile) or negative (compressive) depending on the direction of the applied force or stress.
+- Strain can be measured by using a device called a strain gauge, which is an example of a passive transducer that converts a mechanical displacement into a change of resistance  .
+- A strain gauge consists of an insulating flexible backing which supports a metallic foil pattern. The foil pattern has a grid of parallel wires that are electrically continuous. The backing is attached to the surface of the body whose strain is to be measured by a suitable adhesive.
+- When the body is subjected to strain, the backing and the foil pattern deform along with it, causing a change in the length and cross-sectional area of the wires. This results in a change in the electrical resistance of the strain gauge, which can be measured by a Wheatstone bridge circuit or a similar device.
+- The change in resistance is proportional to the applied strain, and the proportionality constant is called the gauge factor. The gauge factor depends on the material and geometry of the strain gauge, and is usually provided by the manufacturer.
+- There are two types of strain gauges: bonded and unbonded. Bonded strain gauges are directly attached to the surface of the body whose strain is to be measured, while unbonded strain gauges are not in direct contact with the body, but are suspended on a frame or carrier that is attached to the body.
+- Bonded strain gauges have the advantage of being more sensitive, accurate, and stable than unbonded strain gauges, but they are also more prone to errors due to temperature changes, creep, hysteresis, and fatigue. Unbonded strain gauges have the advantage of being less affected by these factors, but they are also less sensitive, accurate, and stable than bonded strain gauges, and they require a more complex and bulky setup.
+- Strain gauges are widely used in various applications, such as measuring stress, force, pressure, torque, displacement, acceleration, vibration, etc. They are also used in experimental mechanics, structural analysis, material testing, biomedical engineering, etc.   .

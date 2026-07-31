@@ -1,0 +1,25 @@
+# Context Free Grammars
+
+- A context-free grammar (CFG) is a list of rules that define the set of all well-formed sentences in a language.
+- Each rule has a left-hand side, which identifies a syntactic category, and a right-hand side, which defines its alternative component parts, reading from left to right.
+- A syntactic category is a label for a group of words or phrases that have similar grammatical properties, such as noun, verb, adjective, etc.
+- A context-free grammar is called so because the rules can be applied regardless of the surrounding context of the words or phrases.
+- A context-free grammar can be represented by a tuple (N, T, P, S), where:
+  - N is a set of non-terminal symbols, which are the syntactic categories that can be expanded by the rules.
+  - T is a set of terminal symbols, which are the words or tokens that cannot be expanded by the rules.
+  - P is a set of production rules, which are of the form A -> B, where A is a non-terminal symbol and B is a sequence of terminal and/or non-terminal symbols.
+  - S is a special non-terminal symbol, called the start symbol, which represents the whole sentence or program.
+- A context-free grammar can be used to generate or parse sentences or programs in a language .
+- To generate a sentence or program, we start with the start symbol and apply the rules recursively until we reach a sequence of terminal symbols.
+- To parse a sentence or program, we start with the sequence of terminal symbols and apply the rules in reverse until we reach the start symbol.
+- A context-free grammar can be visualized by a parse tree, which is a hierarchical representation of the syntactic structure of a sentence or program.
+- A parse tree has the following properties:
+  - The root node is labeled with the start symbol.
+  - The leaf nodes are labeled with the terminal symbols.
+  - The internal nodes are labeled with the non-terminal symbols.
+  - The children of each node are labeled with the right-hand side of the rule that was applied to expand the node.
+- A context-free grammar can be used to model the constituent structure of natural language, which is the way words and phrases are grouped together to form larger units of meaning.
+- A context-free grammar can capture some of the syntactic regularities and variations of natural language, such as word order, agreement, recursion, etc.
+- However, a context-free grammar cannot capture some of the syntactic dependencies and constraints of natural language, such as pronoun resolution, long-distance dependencies, cross-serial dependencies, etc.
+- Therefore, natural languages are not strictly context-free, but rather mildly context-sensitive, which means they require some additional mechanisms or extensions to handle the complex phenomena that context-free grammars cannot account for.
+- Some examples of such mechanisms or extensions are tree-adjoining grammars, feature structures, unification, etc.

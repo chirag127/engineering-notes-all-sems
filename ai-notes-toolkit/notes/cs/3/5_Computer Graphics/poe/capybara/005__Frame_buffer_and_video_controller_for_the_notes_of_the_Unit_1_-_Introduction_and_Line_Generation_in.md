@@ -1,0 +1,11 @@
+### Frame buffer and video controller
+
+Frame buffer and video controller are two important components of computer graphics that are responsible for generating images on the screen. Here are some key points related to these components:
+
+- A frame buffer is a memory location that stores the values of each pixel on the screen. It is also known as a pixel buffer or raster buffer. The frame buffer is responsible for storing the color, intensity, and other attributes of each pixel that make up an image.
+- The video controller is a hardware component that controls the display of images on the screen. It is responsible for reading the values stored in the frame buffer and converting them into signals that can be displayed on the monitor.
+- The video controller sends signals to the monitor to display the image on the screen. It controls the brightness, contrast, and other attributes of the image. It also sends synchronization signals to the monitor to ensure that the image is displayed correctly.
+- The frame buffer and video controller work together to create images on the screen. The computer sends data to the frame buffer, which stores the values of each pixel. The video controller then reads the values from the frame buffer and sends them to the monitor for display.
+- The resolution of the frame buffer determines the quality of the image that can be displayed on the screen. Higher resolution frame buffers can display more detailed images with better clarity.
+- The video controller can also be used to control multiple monitors or displays. It can send signals to different monitors to display different parts of an image or different images altogether.
+- In summary, the frame buffer and video controller are essential components of computer graphics that work together to generate images on the screen. The frame buffer stores the values of each pixel, while the video controller reads these values and sends signals to the monitor for display. Understanding these components is important for developing and designing graphics applications.

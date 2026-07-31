@@ -1,0 +1,10 @@
+### Kingship in states in Ancient India
+
+- Kingship in ancient India was a **sovereignty** over a territory by a **King** who functioned as its **protector**, a role which involved both **secular and religious power**.
+- Ancient Indians believed that the Kingship arose out of **military requirement**. The Vedic literature has some speculations about the origin of kingship. A king must be a capable general whose leadership is recognized by all.
+- There were three main theories of origin of state in ancient India: **divine origin theory**, **social contract theory**, and **organic theory**.
+  - Divine origin theory: This theory of origin of kingship as well as the state was not widely acclaimed in the ancient Indian polity. The king, according to this theory, was a subordinate to law, which was made by the society and not him.
+  - Social contract theory: This theory of origin of kingship as well as the state was more popular in the ancient Indian polity. The king, according to this theory, was a representative of the people who had voluntarily surrendered their rights and powers to him for the sake of security and order.
+  - Organic theory: This theory of origin of kingship as well as the state was based on the analogy of the human body. The king, according to this theory, was the head of the state, which was composed of various organs and limbs, each performing a specific function for the welfare of the whole.
+- The ideology and symbolism of kingship have played an important role in Hinduism throughout its history, an influence that continues into the present day. The two great epic texts, the **Mahābhārata** and **Rāmāyaṇa**, are narratives of kingship, and the tensions and ambiguities inherent to the role of the king are fundamental to their plots and themes.
+- The Brahmanic theory of kingship was the most influential and dominant theory of kingship in ancient India. It was based on the concept of **dharma**, or the cosmic order, which the king had to uphold and protect. The king was considered to be the **incarnation of a god**, or the **deputy of a god**, who had the divine sanction and authority to rule.

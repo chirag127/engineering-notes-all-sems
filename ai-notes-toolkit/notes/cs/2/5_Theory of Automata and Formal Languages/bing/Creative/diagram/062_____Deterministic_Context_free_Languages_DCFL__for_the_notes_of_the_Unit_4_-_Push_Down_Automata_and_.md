@@ -1,0 +1,29 @@
+### Deterministic Context free Languages(DCFL)
+
+- DCFLs are a proper subset of context-free languages (CFLs) that can be accepted by a deterministic pushdown automaton (DPDA)  .
+- A DPDA is a pushdown automaton (PDA) that has at most one transition for each combination of input symbol, current state, and top stack symbol .
+- DCFLs are always unambiguous, meaning that they admit an unambiguous grammar, i.e., a grammar that generates each string in the language in exactly one way  .
+- DCFLs can be recognized by a deterministic Turing machine in polynomial time and O(log2 n) space; as a corollary, DCFL is a subset of the complexity class SC .
+- The set of DCFLs is closed under the following operations: 
+  - Concatenation
+  - Intersection with a regular language
+  - Reversal
+  - Homomorphism
+  - Inverse homomorphism
+- The set of DCFLs is not closed under the following operations: 
+  - Union
+  - Intersection
+  - Complementation
+  - Kleene star
+  - Substitution
+- Some examples of DCFLs are:  
+  - The set of all palindromes over a finite alphabet
+  - The set of all strings of balanced parentheses
+  - The set of all arithmetic expressions with matching parentheses
+  - The set of all strings of the form a^n b^n, where n is a positive integer
+  - The set of all strings of the form a^n b^m c^n, where n and m are positive integers
+- Some examples of CFLs that are not DCFLs are:  
+  - The set of all strings of the form a^n b^n c^n, where n is a positive integer
+  - The set of all strings of the form w w^R, where w is any string and w^R is its reverse
+  - The set of all strings of the form a^n b^m c^p, where n, m, and p are positive integers and n ≠ p
+  - The set of all strings of the form a^n b^m c^m d^n, where n and m are positive integers

@@ -1,0 +1,23 @@
+# Floating
+
+- Floating is a CSS property that allows an element to be placed on the left or right side of its container, letting text and inline elements wrap around it.
+- Floating removes the element from the normal flow of the page, but it still remains a part of the flow, unlike absolute positioning.
+- Floating can be used for positioning and layout on web pages, such as letting an image float to one side and letting text wrap around it.
+- Floating can also be used to create multi-column layouts, by floating the columns to the left or right.
+- The float property can have one of the following values:
+  - left: The element floats to the left of its container
+  - right: The element floats to the right of its container
+  - none: The element does not float (will be displayed just where it occurs in the text). This is the default value.
+  - inherit: The element inherits the float value of its parent element
+- The clear property can be used to specify what elements can float beside the cleared element and on which side.
+- The clear property can have one of the following values:
+  - none: The element allows floating elements on both sides. This is the default value.
+  - left: The element does not allow floating elements on the left side
+  - right: The element does not allow floating elements on the right side
+  - both: The element does not allow floating elements on either side
+  - inherit: The element inherits the clear value of its parent element
+- Some examples of using floating are:
+  - Letting an image with a caption float to the right
+  - Letting the first letter of a paragraph float to the left
+  - Creating a two-column layout with a sidebar and a main content area
+  - Creating a three-column layout with a header, a footer, and three columns in between

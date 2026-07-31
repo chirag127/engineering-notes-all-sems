@@ -1,0 +1,8 @@
+### Forwarding and Delivery in Network Layer
+
+- The network layer supervises the handling of packets by the underlying physical networks. We call this handling as the delivery of packets to the destination.
+- The delivery of a packet is called **direct** if the deliverer (host or router) and the destination are on the same network; the delivery of a packet is called **indirect** if the deliverer (host or router) and the destination are on different networks.
+- Forwarding means placing the packet in its route to the destination and it requires a routing table. A routing table is a data structure that stores the information about the routes to the destination networks.
+- Forwarding refers to the router-local action of transferring a packet from an input link interface to the appropriate output link interface. Routing refers to the network-wide process that determines the end-to-end paths that packets take from source to destination.
+- Address aggregation is a technique that reduces the size of the routing table by grouping several networks into a single entry. For example, if a router has four networks with the same prefix, it can aggregate them into one entry with a shorter prefix length.
+- There are some tools and utilities that can help with packet delivery and routing, such as ping, traceroute, ipconfig, netstat, and route. These tools can test the connectivity, display the route, show the configuration, monitor the traffic, and modify the routing table.

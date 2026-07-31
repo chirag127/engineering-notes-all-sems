@@ -1,0 +1,8 @@
+ Here is the content in markdown format with formal tone and without external links or emojis:
+
+### Puppetry as Cultural Heritage of India
+
+1. Puppetry is a traditional form of entertainment and folk theatre in India with a history of more than 1000 years. Puppets are an integral part of Indian culture and are popular among both rural and urban masses.
+2. The tradition of puppetry is prevalent in almost all parts of the country with regional variations in form and style of puppets. The puppet shows address themes from the Indian epics and myths that are popular in the respective regions. They also depict local customs, festivals and stories.
+3. String puppets, shadow puppets, rod puppets and glove puppets are some of the main forms of puppetry in India. String puppets are intricately designed wooden puppets that are manipulated using strings. Shadow puppets are two dimensional figures made of leather that create shadows on a screen. Rod puppets are wooden characters that are manipulated using thin sticks attached to their limbs. Glove puppets are worn like gloves on the puppeteer's hands.
+4. Puppet traditions like Karnataka's Gombeyatta, Odisha's Ravanachhaya, West Bengal's Putul Nach and Kathi Nach are recognized by UNESCO as Intangible Cultural Heritages of Humanity. They highlight the significance of puppetry arts in India that entertain and educate audiences. Puppetry is a unique cultural art form that needs to be preserved for future generations.

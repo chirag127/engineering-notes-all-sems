@@ -1,0 +1,25 @@
+### Wireshark for the notes of the Unit 2 - Cyber Forensics in the subject of CYBER FORENSIC ANALYTICS
+
+- Wireshark is a free and open-source network protocol analyzer that can capture and examine packets from various network interfaces .
+- Wireshark can be used for network forensics, which is the study of network packets and their behavior to identify and investigate network-related incidents, such as cyberattacks, malware infections, data breaches, etc  .
+- Wireshark can display the details of each packet, such as the source and destination addresses, protocols, ports, timestamps, payload, etc.
+- Wireshark can also filter, search, and analyze the packets based on various criteria, such as protocol, IP address, port, string, etc.
+- Wireshark can also export and import packets in various formats, such as pcap, csv, xml, etc.
+- Wireshark can also generate statistics and graphs to visualize the network traffic and identify patterns, anomalies, and trends.
+- Wireshark can also decode and decrypt some encrypted protocols, such as SSL, TLS, IPsec, etc, if the appropriate keys are provided.
+- Wireshark can also use plugins and extensions to support additional protocols and features.
+- Wireshark can be used for various network forensics tasks, such as:
+  - Detecting and analyzing network intrusions and attacks .
+  - Identifying and tracing malicious network activities and sources .
+  - Recovering and extracting evidence from network packets .
+  - Monitoring and auditing network performance and security .
+  - Troubleshooting and debugging network problems and errors .
+  - Testing and validating network configurations and policies .
+  - Learning and teaching network protocols and concepts .
+- Wireshark is a powerful and versatile tool for network forensics, but it also has some limitations and challenges, such as:
+  - Wireshark requires sufficient network access and permissions to capture packets from the desired network interfaces .
+  - Wireshark may not be able to capture all the packets in a high-speed or congested network, resulting in packet loss and incomplete data .
+  - Wireshark may consume a lot of system resources and disk space when capturing and storing large amounts of packets .
+  - Wireshark may not be able to decode or decrypt some encrypted or proprietary protocols, resulting in limited or inaccurate data .
+  - Wireshark may not be able to detect or prevent some advanced or stealthy network attacks, such as zero-day exploits, rootkits, etc .
+  - Wireshark may pose some ethical and legal issues when capturing and analyzing packets that contain sensitive or personal information, such as passwords, emails, etc .

@@ -1,0 +1,22 @@
+# Representation for the notes of the Unit 5 - Evaluation of Social Network Analysis in the subject of SOCIAL NETWORK ANALYTICS
+
+- Social network analysis (SNA) is an evaluation approach that uses mathematics and visualization to represent the structure of relationships between people, organizations, goals, interests, and other entities within a larger system.
+- SNA helps to understand the phenomena that emerge from the interaction of individuals or institutions and is useful to assess the impact, effectiveness, and sustainability of interventions that aim to change or improve social networks.
+- SNA can be used to find the type, importance, and quantity of relationships in a social network, allowing for a graphical output in conjunction with mathematical analysis.
+- SNA can be applied to various domains and contexts, such as health, education, development, innovation, communication, and collaboration.
+- SNA can be used to answer different evaluation questions, such as:
+  - Who are the key actors or influencers in a network and what are their roles and positions?
+  - How are the network members connected and how does the network structure affect the flow of information, resources, or influence?
+  - How does the network change over time and what are the factors that influence the network dynamics?
+  - How does the network compare to other networks or to a desired or optimal network?
+  - What are the benefits and challenges of participating in a network and how do they vary across different groups or segments of the network?
+  - How does the network contribute to the outcomes or impacts of an intervention or a program?
+- SNA can be conducted using various methods and tools, such as:
+  - Data collection methods: surveys, interviews, observations, document analysis, web scraping, etc.
+  - Data analysis methods: network metrics, network visualization, network modeling, network comparison, network simulation, etc.
+  - Data analysis tools: software packages, such as UCINET, NetDraw, Gephi, NodeXL, Pajek, etc.
+- SNA can be integrated with other evaluation approaches, such as:
+  - Mixed methods: combining quantitative and qualitative data and analysis to provide a comprehensive and nuanced understanding of the network and its context.
+  - Participatory methods: involving network members or stakeholders in the design, implementation, or interpretation of the SNA to enhance the validity, relevance, and ownership of the evaluation.
+  - Developmental evaluation: using SNA to monitor and support the emergence and adaptation of complex and dynamic networks in uncertain and changing environments.
+  - Theory-based evaluation: using SNA to test or refine the assumptions and hypotheses about how networks operate and produce outcomes or impacts.

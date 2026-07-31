@@ -1,0 +1,10 @@
+# Time-Space trade-off
+
+- Time-space trade-off is a concept in computer science that refers to the balance between the running time and the memory usage of an algorithm or a program.
+- Generally, there is a trade-off between time and space, meaning that faster algorithms or programs tend to use more memory, and slower algorithms or programs tend to use less memory.
+- For example, an algorithm that sorts an array of numbers by creating a copy of the array and sorting it in place will use more space than an algorithm that sorts the array by swapping elements without creating a copy, but it will also be faster.
+- The time-space trade-off depends on the problem, the input size, the hardware, the programming language, and the implementation of the algorithm or program.
+- The goal of designing efficient algorithms or programs is to minimize both the time and the space complexity, or to find the optimal trade-off between them for a given problem and input size.
+- Sometimes, there is no trade-off between time and space, meaning that an algorithm or program can be improved in both aspects without sacrificing the other. For example, using a hash table instead of a linear search can improve both the time and the space complexity of finding an element in a collection.
+- Time-space trade-off can be analyzed using asymptotic notations, such as Big Oh, Big Theta, and Big Omega, which describe the upper bound, the tight bound, and the lower bound of the time or space complexity of an algorithm or program, respectively.
+- Abstract data types (ADTs) are a way of defining the behavior and the operations of a data type without specifying its implementation or representation. ADTs can help to design efficient algorithms or programs by hiding the details of the data structure and allowing the programmer to focus on the logic and the functionality. ADTs can also facilitate the reuse and the abstraction of code by providing a common interface for different implementations of the same data type.

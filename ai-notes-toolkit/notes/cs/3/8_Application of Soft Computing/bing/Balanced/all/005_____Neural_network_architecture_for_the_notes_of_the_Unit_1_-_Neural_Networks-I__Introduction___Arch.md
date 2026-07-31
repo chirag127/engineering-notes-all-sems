@@ -1,0 +1,18 @@
+# Neural Network Architecture
+
+Neural network architecture is the design of the structure and components of an artificial neural network (ANN), which is a computational system that mimics the biological behavior of the brain. Neural network architecture consists of the following elements:
+
+- **Neurons**: The basic units of computation in a neural network. Each neuron takes one or more inputs, applies a nonlinear activation function, and produces an output. Neurons are organized into layers, which can have different types and functions depending on the network.
+- **Weights**: The parameters that determine the strength of the connection between neurons. Weights are learned during the training process of the network, by adjusting them to minimize the error between the network output and the desired output.
+- **Biases**: The constants that are added to the weighted sum of the inputs of a neuron, before applying the activation function. Biases can help the network learn complex patterns and avoid overfitting.
+- **Activation functions**: The nonlinear functions that map the input of a neuron to its output. Activation functions introduce nonlinearity to the network, which enables it to learn complex and nonlinear relationships between the input and the output. Some common activation functions are sigmoid, tanh, ReLU, softmax, etc.
+- **Layers**: The groups of neurons that perform a specific function in the network. There are different types of layers, such as input layer, hidden layer, output layer, convolutional layer, pooling layer, recurrent layer, etc. The number, type, and order of the layers determine the architecture of the network.
+- **Loss function**: The function that measures the difference between the network output and the desired output. The loss function is used to evaluate the performance of the network and to update the weights during the training process. Some common loss functions are mean squared error, cross-entropy, hinge loss, etc.
+- **Optimizer**: The algorithm that updates the weights of the network based on the gradient of the loss function. The optimizer determines the learning rate and the direction of the weight update. Some common optimizers are gradient descent, stochastic gradient descent, Adam, RMSprop, etc.
+
+The choice of the neural network architecture depends on the type and complexity of the problem, the amount and quality of the data, and the computational resources available. Some examples of neural network architectures are:
+
+- **LeNet**: A convolutional neural network (CNN) that was designed for handwritten digit recognition. It consists of two convolutional layers, two pooling layers, and three fully connected layers.
+- **AlexNet**: A CNN that was designed for image classification. It consists of five convolutional layers, three pooling layers, and three fully connected layers. It also uses dropout and ReLU activation functions to reduce overfitting and improve performance.
+- **LSTM**: A recurrent neural network (RNN) that was designed for sequence modeling, such as natural language processing and speech recognition. It consists of a chain of LSTM cells, which are a special type of RNN unit that can learn long-term dependencies and avoid the vanishing gradient problem.
+- **Transformer**: An attention-based neural network that was designed for natural language processing and machine translation. It consists of an encoder and a decoder, each composed of multiple layers of self-attention and feed-forward sublayers. It does not use any recurrent or convolutional layers, and relies on positional encoding to capture the order of the input sequence.

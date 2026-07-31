@@ -1,0 +1,30 @@
+### Architectural Modeling
+
+- Architectural modeling is the process of creating a high-level design of a software system that describes its structure, behavior, and interactions.
+- Architectural modeling helps to identify the main components of a system, their responsibilities, their relationships, and their interfaces.
+- Architectural modeling also helps to evaluate the quality attributes of a system, such as performance, reliability, security, and maintainability.
+- Architectural modeling can be done using different approaches, such as object-oriented, data-oriented, functional, or layered.
+- Object-oriented architecture is one of the popular approaches of architectural modeling that views a software system as a collection of entities known as objects  .
+- Object-oriented architecture has the following advantages :
+  - It maps the application to real-world objects for making it more understandable.
+  - It supports reusability and extensibility of objects and classes.
+  - It facilitates modularity and encapsulation of data and behavior.
+  - It enables polymorphism and inheritance of common features.
+  - It promotes collaboration and communication among objects via message passing.
+- Object-oriented architecture consists of two main stages: system design and object design.
+  - System design: In this stage, the complete architecture of the desired system is designed. The system is conceived as a set of interacting subsystems that in turn is composed of a hierarchy of interacting objects, grouped into classes. The system design involves the following steps:
+    - Identify the subsystems and their boundaries.
+    - Define the interfaces and protocols among the subsystems.
+    - Allocate the responsibilities and collaborations among the subsystems.
+    - Establish the architectural style and patterns for the system.
+  - Object design: In this stage, the internal structure and behavior of each object and class are defined. The object design involves the following steps:
+    - Refine the attributes and operations of each class.
+    - Define the associations and aggregations among the classes.
+    - Specify the inheritance and polymorphism relationships among the classes.
+    - Implement the methods and constructors for each class.
+- Object-oriented architecture can be represented using different models, such as use case model, class model, sequence model, state model, and activity model.
+  - Use case model: It describes the functional requirements of a system from the perspective of the users. It consists of use cases, actors, and relationships among them.
+  - Class model: It describes the static structure of a system in terms of classes, attributes, operations, and associations. It also shows the inheritance and aggregation relationships among the classes.
+  - Sequence model: It describes the dynamic behavior of a system in terms of interactions among the objects. It consists of sequence diagrams that show the messages exchanged among the objects over time.
+  - State model: It describes the dynamic behavior of a system in terms of states and transitions of an object. It consists of state diagrams that show the events that trigger the changes in the state of an object and the actions that occur as a result.
+  - Activity model: It describes the dynamic behavior of a system in terms of activities and flows of control and data. It consists of activity diagrams that show the parallelism, synchronization, and branching of the activities in a system.

@@ -1,0 +1,19 @@
+# Mass Flow Rate (Venturi Meter and Orifice Meter)
+
+- Mass flow rate is the amount of mass of a fluid passing through a cross-sectional area per unit time. It is usually denoted by m-dot and has the units of kg/s or lbm/s.
+- Venturi meter and orifice meter are devices that are used to measure the mass flow rate of a fluid by creating a pressure difference across a constriction in the flow path.
+- Both devices are based on the application of the continuity equation and the Bernoulli's equation, which relate the pressure, velocity, and area of a fluid at different points along a streamline.
+- The continuity equation states that the mass flow rate is constant for an incompressible fluid, so the product of the area and the velocity at any point is the same. This means that the velocity increases as the area decreases, and vice versa.
+- The Bernoulli's equation states that the sum of the pressure, the kinetic energy, and the potential energy of a fluid is constant along a streamline, neglecting friction and heat transfer. This means that the pressure decreases as the velocity increases, and vice versa.
+- Venturi meter is a device that consists of a converging section, a throat, and a diverging section. The fluid velocity is highest and the pressure is lowest at the throat, where the area is minimum. The pressure difference between the inlet and the throat is measured by a manometer or a differential pressure gauge, and is used to calculate the mass flow rate using the following formula:
+
+  `m-dot = A2 * sqrt(2 * rho * (P1 - P2) / (1 - (A2 / A1)^2))`
+
+  where A1 and A2 are the areas of the inlet and the throat, rho is the density of the fluid, and P1 and P2 are the pressures at the inlet and the throat.
+- Orifice meter is a device that consists of a thin plate with a hole in the center, called an orifice, that is inserted in the flow path. The fluid velocity is highest and the pressure is lowest at the orifice, where the area is minimum. The pressure difference between the upstream and the downstream of the orifice is measured by a manometer or a differential pressure gauge, and is used to calculate the mass flow rate using the following formula:
+
+  `m-dot = Cd * A * sqrt(2 * rho * (P1 - P2))`
+
+  where Cd is the discharge coefficient, which accounts for the losses due to friction and turbulence, A is the area of the orifice, rho is the density of the fluid, and P1 and P2 are the pressures at the upstream and the downstream of the orifice.
+- Venturi meter is more accurate than orifice meter because it has a lower discharge coefficient, which means less losses due to friction and turbulence. The discharge coefficient of a venturi meter is typically 0.96-0.99, while the discharge coefficient of an orifice meter is typically 0.6-0.62 . Venturi meter also has a lower pressure drop, which means less energy loss and less pumping power required. The pressure drop of a venturi meter is about 10-20% of the pressure difference, while the pressure drop of an orifice meter is about 60-70% of the pressure difference .
+- Venturi meter and orifice meter are suitable for measuring the mass flow rate of clean and dirty liquids, gases, and some slurries. They are simple, cheap, and easy to install and maintain. However, they have some limitations, such as sensitivity to the Reynolds number, the viscosity, and the temperature of the fluid, and the need for calibration and correction factors. Some alternatives to venturi meter and orifice meter are nozzle meter, pitot tube, rotameter, turbine meter, magnetic meter, ultrasonic meter, and Coriolis meter, which have different advantages and disadvantages depending on the application and the fluid properties .

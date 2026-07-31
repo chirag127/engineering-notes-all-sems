@@ -1,0 +1,9 @@
+## More on Numbers
+
+- Numbers are symbols that represent quantities or values. There are different types of numbers, such as natural numbers, integers, rational numbers, irrational numbers, real numbers, and complex numbers.
+- Natural numbers are the counting numbers, such as 1, 2, 3, 4, and so on. They are also called positive integers. They can be used to count objects, order events, or measure quantities.
+- Integers are the natural numbers, their opposites, and zero. For example, -3, -2, -1, 0, 1, 2, 3 are integers. They can be used to represent positions, directions, gains, losses, or balances.
+- Rational numbers are the numbers that can be written as fractions, where the numerator and denominator are both integers. For example, 1/2, -3/4, 5/1, 0/7 are rational numbers. They can be used to represent ratios, proportions, rates, or decimals.
+- Irrational numbers are the numbers that cannot be written as fractions, where the numerator and denominator are both integers. For example, √2, π, e, and φ are irrational numbers. They can be used to represent lengths, areas, volumes, or angles that are not exact.
+- Real numbers are the numbers that can be represented by points on a number line. They include all the rational and irrational numbers. For example, -2.5, 3/4, √3, and π are real numbers. They can be used to represent any quantity or value that is continuous or measurable.
+- Complex numbers are the numbers that can be written in the form a + bi, where a and b are real numbers and i is the imaginary unit, such that i^2 = -1. For example, 2 + 3i, -1 - 4i, 0 + 5i, and 6 are complex numbers. They can be used to represent rotations, transformations, or solutions to some equations that have no real roots.

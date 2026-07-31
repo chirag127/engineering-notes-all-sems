@@ -1,0 +1,23 @@
+### Overview for the notes of the Unit 1 - Introduction in the subject of Database Management System
+
+- A database is a collection of related data that can be stored, manipulated, and retrieved by a computer system.
+- A database management system (DBMS) is a software system that provides the functionality to create, maintain, and access databases.
+- A DBMS consists of three main components: data, data dictionary, and database engine.
+- Data is the actual information stored in the database, such as names, addresses, phone numbers, etc.
+- Data dictionary is a set of metadata that describes the structure, format, and constraints of the data in the database.
+- Database engine is the core component that performs the operations on the data, such as insertion, deletion, modification, retrieval, etc.
+- A DBMS can support different types of data models, such as relational, hierarchical, network, object-oriented, etc.
+- A data model is a logical representation of the data and the relationships among them.
+- A relational data model is based on the concept of tables, where each table consists of rows (records) and columns (attributes).
+- A hierarchical data model is based on the concept of parent-child relationships, where each record can have one parent and multiple children.
+- A network data model is based on the concept of links, where each record can have multiple parents and multiple children.
+- An object-oriented data model is based on the concept of objects, where each object consists of data and methods (functions) that operate on the data.
+- A DBMS can support different types of languages, such as data definition language (DDL), data manipulation language (DML), data query language (DQL), etc.
+- A DDL is used to define the structure and constraints of the data in the database, such as creating, altering, or dropping tables, indexes, views, etc.
+- A DML is used to manipulate the data in the database, such as inserting, deleting, updating, or merging records, etc.
+- A DQL is used to query the data in the database, such as selecting, sorting, filtering, or joining records, etc.
+- A DBMS can support different types of users, such as database administrators (DBAs), database designers, application developers, end users, etc.
+- A DBA is responsible for the overall management and maintenance of the database system, such as creating, backing up, restoring, securing, tuning, or monitoring the database, etc.
+- A database designer is responsible for the logical design and modeling of the database, such as identifying the data requirements, entities, attributes, relationships, and constraints, etc.
+- An application developer is responsible for the development and implementation of the applications that interact with the database, such as writing the code, testing, debugging, or deploying the applications, etc.
+- An end user is the person who uses the applications to access the data in the database, such as entering, viewing, or analyzing the data, etc.

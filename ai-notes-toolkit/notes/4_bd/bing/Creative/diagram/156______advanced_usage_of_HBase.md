@@ -1,0 +1,10 @@
+#### Advanced usage of HBase
+
+HBase is a column-oriented non-relational database management system that runs on top of Hadoop Distributed File System (HDFS). It provides a fault-tolerant way of storing sparse data sets, which are common in many big data use cases. It is well suited for real-time data processing or random read/write access to large volumes of data.
+
+Some of the advanced usage of HBase are:
+
+- **Storing genome sequences and disease history**. HBase can be used to store and analyze genomic data, such as DNA sequences, gene expressions, and mutations. HBase can also store the medical records of patients or populations, such as diagnosis, treatment, and outcomes. HBase can perform fast and scalable queries on these data sets using MapReduce or other frameworks .
+- **Storing customer search history and performing analytics**. HBase can be used to store the logs of user activities on e-commerce websites, such as search queries, clicks, purchases, and feedback. HBase can also perform analytics on these data sets to generate insights, such as customer preferences, behavior patterns, and recommendations. HBase can also support targeted advertising based on the user profile and search history .
+- **Storing match details and history of sports**. HBase can be used to store the information of sports events, such as scores, statistics, players, and teams. HBase can also store the historical data of past matches, such as outcomes, records, and rankings. HBase can perform fast and complex queries on these data sets to provide real-time updates, analysis, and predictions.
+- **Exploiting row key and column key structures**. HBase has two fundamental key structures: the row key and the column key. Both can be used to convey meaning, by either the data they store, or by exploiting their sorting order. For example, row keys can be used to store timestamps, geohashes, or composite keys, and column keys can be used to store qualifiers, versions, or attributes. HBase can use these keys to solve commonly found problems when designing storage solutions, such as time series data, spatial data, or multi-tenancy data.

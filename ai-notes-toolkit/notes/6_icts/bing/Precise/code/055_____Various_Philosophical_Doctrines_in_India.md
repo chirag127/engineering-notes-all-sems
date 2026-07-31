@@ -1,0 +1,7 @@
+### Various Philosophical Doctrines in India
+
+Indian philosophy refers to the systems of thought and reflection that were developed by the civilizations of the Indian subcontinent. These include both orthodox (astika) systems and unorthodox (nastika) systems. The orthodox systems are the Nyaya, Vaisheshika, Samkhya, Yoga, Purva-Mimamsa (or Mimamsa), and Vedanta schools of philosophy, while the unorthodox systems include Buddhism and Jainism .
+
+Indian philosophy is characterized by its acceptance of the authority of ancient philosophers, with innovations being represented as extensions of older systems of thought. It is also characterized by its flexibility and tendency to synthesize . Indian schools generally embody the doctrines of karma and rebirth, with the belief that man must be perfected before he can achieve salvation .
+
+Indian thought has been concerned with various philosophical problems, including the nature of the world (cosmology), the nature of reality (metaphysics), logic, the nature of knowledge (epistemology), ethics, and the philosophy of religion . Indian philosophies share many concepts such as dharma, karma, samsara, reincarnation, dukkha, renunciation, and meditation, with almost all of them focusing on the ultimate goal of liberation of the individual through a diverse range of spiritual practices (moksha, nirvana)  .

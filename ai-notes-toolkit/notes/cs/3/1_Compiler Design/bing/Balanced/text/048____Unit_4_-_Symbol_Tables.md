@@ -1,0 +1,21 @@
+## Unit 4 - Symbol Tables
+
+- A symbol table is a data structure that stores information about the identifiers (symbols) used in a program, such as variables, constants, functions, etc.
+- A symbol table is usually implemented as a hash table, a binary search tree, or a linked list, depending on the trade-off between search time and insertion time.
+- A symbol table supports the following operations:
+  - **insert(symbol, attributes)**: adds a new symbol and its associated attributes to the table, or updates the attributes of an existing symbol.
+  - **lookup(symbol)**: returns the attributes of a symbol, or null if the symbol is not in the table.
+  - **delete(symbol)**: removes a symbol and its attributes from the table, if it exists.
+- A symbol table is used by a compiler or an interpreter to perform various tasks, such as:
+  - **lexical analysis**: the process of converting a sequence of characters into a sequence of tokens, each token representing a symbol.
+  - **syntax analysis**: the process of checking if the tokens form a valid sentence according to the grammar rules of the language.
+  - **semantic analysis**: the process of checking if the tokens have a meaningful interpretation according to the context and the rules of the language.
+  - **code generation**: the process of translating the tokens into executable instructions for a target machine or platform.
+- A symbol table may have different scopes, depending on the visibility and lifetime of the symbols. For example:
+  - **global scope**: the symbols are visible and accessible throughout the entire program.
+  - **local scope**: the symbols are visible and accessible only within a specific block or function.
+  - **nested scope**: the symbols are visible and accessible within a block or function and its inner blocks or functions.
+- A symbol table may have different levels, depending on the abstraction and granularity of the symbols. For example:
+  - **source level**: the symbols are the identifiers used in the source code, such as variable names, function names, etc.
+  - **intermediate level**: the symbols are the identifiers used in an intermediate representation of the code, such as abstract syntax tree nodes, three-address code instructions, etc.
+  - **target level**: the symbols are the identifiers used in the target code, such as registers, memory addresses, labels, etc.

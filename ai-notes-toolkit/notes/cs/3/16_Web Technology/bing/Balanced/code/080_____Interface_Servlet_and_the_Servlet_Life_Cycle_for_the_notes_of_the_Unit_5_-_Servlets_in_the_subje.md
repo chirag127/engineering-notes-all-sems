@@ -1,0 +1,12 @@
+### Interface Servlet and the Servlet Life Cycle
+
+- A servlet is a Java class that implements the `javax.servlet.Servlet` interface and runs on a web server to handle HTTP requests and responses.
+- The servlet interface defines five methods that correspond to the different phases of a servlet's life cycle: `init`, `service`, `destroy`, `getServletConfig`, and `getServletInfo`.
+- The servlet life cycle consists of the following stages:
+  - **Loading and instantiation**: The web container loads the servlet class and creates an instance of the servlet object, either when the servlet is first requested or when the web server starts up.
+  - **Initialization**: The web container invokes the `init` method of the servlet object, passing a `ServletConfig` object that contains initialization parameters and other servlet configuration information. The `init` method is called only once during the servlet's life cycle and can be used to perform any one-time setup tasks.
+  - **Request handling**: The web container invokes the `service` method of the servlet object, passing a `HttpServletRequest` object that contains the request information and a `HttpServletResponse` object that is used to send the response. The `service` method is called for each request that the servlet receives and can be used to process the request and generate the response. The `service` method can delegate the request to other methods based on the HTTP method, such as `doGet`, `doPost`, `doPut`, etc.
+  - **Termination**: The web container invokes the `destroy` method of the servlet object, when the servlet is no longer needed or the web server shuts down. The `destroy` method is called only once during the servlet's life cycle and can be used to perform any cleanup tasks, such as releasing resources or closing connections.
+- The servlet interface also provides two non-life cycle methods that can be used to access information about the servlet and its configuration:
+  - The `getServletConfig` method returns the `ServletConfig` object that was passed to the `init` method and can be used to access the initialization parameters and the servlet context.
+  - The `getServletInfo` method returns a string that contains information about the servlet, such as its name, version, author, etc.

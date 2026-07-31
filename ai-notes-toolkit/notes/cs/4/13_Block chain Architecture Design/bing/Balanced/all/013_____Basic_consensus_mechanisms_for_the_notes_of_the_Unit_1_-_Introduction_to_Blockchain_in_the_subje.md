@@ -1,0 +1,9 @@
+# Basic consensus mechanisms for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+- A consensus mechanism is any method used to achieve agreement, trust, and security across a decentralized computer network.
+- In the context of blockchains and cryptocurrencies, consensus mechanisms are the methodologies used to validate transactions and update the shared ledger.
+- Consensus mechanisms play an essential part of securing information by encrypting it and using automated group verification.
+- There are different types of consensus mechanisms, each with its own advantages and disadvantages. Some of the most prevalent ones are:
+  - Proof-of-work (PoW): This mechanism requires network participants (called miners) to solve complex mathematical puzzles in order to create new blocks and earn rewards. PoW is used by Bitcoin, Ethereum, and other popular blockchains. PoW provides a high level of security and decentralization, but it also consumes a lot of energy and resources  .
+  - Proof-of-stake (PoS): This mechanism assigns network participants (called validators) the right to create new blocks and earn rewards based on their stake, or the amount of cryptocurrency they own or deposit. PoS is used by Cardano, Polkadot, and other emerging blockchains. PoS aims to reduce energy consumption and increase scalability, but it also faces challenges such as centralization and security risks  .
+  - Other consensus mechanisms: There are also other consensus mechanisms that are based on different principles, such as proof-of-authority (PoA), proof-of-space (PoSpace), proof-of-burn (PoB), proof-of-capacity (PoC), proof-of-elapsed-time (PoET), and more. These mechanisms are designed to suit specific use cases and network requirements, but they may also have trade-offs and limitations .

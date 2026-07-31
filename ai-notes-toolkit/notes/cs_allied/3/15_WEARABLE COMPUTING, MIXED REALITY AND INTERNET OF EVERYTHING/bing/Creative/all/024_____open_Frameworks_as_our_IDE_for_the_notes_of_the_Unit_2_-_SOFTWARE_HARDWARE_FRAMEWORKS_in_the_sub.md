@@ -1,0 +1,15 @@
+# OpenFrameworks as our IDE
+
+OpenFrameworks is an open source C++ toolkit for creative coding. It is designed to simplify the process of creating applications that use graphics, sound, video, computer vision, networking and other interactive media. It is based on OpenGL, a cross-platform API for rendering 2D and 3D graphics. OpenFrameworks can be used with different IDEs (Integrated Development Environments) depending on the platform and preference of the user. Some of the supported IDEs are:
+
+- Visual Studio: A popular IDE for Windows that offers a rich set of tools and features for C++ development. It can be downloaded from https://visualstudio.microsoft.com/.
+- Xcode: The official IDE for macOS and iOS that provides a comprehensive environment for developing applications for Apple devices. It can be downloaded from https://developer.apple.com/xcode/.
+- Code::Blocks: A free and open source IDE for C++ that works on Windows, Linux and macOS. It has a simple and user-friendly interface and supports many compilers and libraries. It can be downloaded from https://www.codeblocks.org/.
+- Eclipse: A powerful and versatile IDE that supports multiple languages and platforms. It can be used with C++ by installing the CDT (C/C++ Development Tooling) plugin. It can be downloaded from https://www.eclipse.org/.
+- Qt Creator: A cross-platform IDE that is based on the Qt framework, a popular library for creating GUI applications. It has a built-in code editor, debugger, designer and profiler. It can be downloaded from https://www.qt.io/product/development-tools.
+
+To use OpenFrameworks with any of these IDEs, you will need to follow the setup guide for your platform and IDE of choice. You can find the setup guides on the OpenFrameworks website: https://openframeworks.cc/download/. You will also need to download the OpenFrameworks library for your platform from the same website. The library contains the source code, examples, addons and documentation for OpenFrameworks.
+
+Once you have installed the IDE and the OpenFrameworks library, you can start creating your own projects using the OpenFrameworks template. The template is a basic project that contains the necessary files and settings to use OpenFrameworks. You can modify the template to add your own code and resources. You can also use the examples and addons that come with the OpenFrameworks library to learn and experiment with different features and functionalities of OpenFrameworks.
+
+OpenFrameworks is a flexible and powerful toolkit that allows you to create expressive and interactive applications using C++. By using an IDE, you can benefit from the tools and features that the IDE provides, such as code completion, syntax highlighting, debugging, testing and deployment. You can choose the IDE that suits your needs and preferences, and use OpenFrameworks as your framework for creative coding.

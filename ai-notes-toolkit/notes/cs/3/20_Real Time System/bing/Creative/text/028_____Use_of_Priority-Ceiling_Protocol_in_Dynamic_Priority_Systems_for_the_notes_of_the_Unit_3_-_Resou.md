@@ -1,0 +1,12 @@
+### Use of Priority-Ceiling Protocol in Dynamic Priority Systems
+
+- A dynamic priority system is a system where the priorities of the periodic tasks change with time, while the resources required by each task remain constant .
+- A priority-ceiling protocol is a job task synchronization protocol in a real-time system that prevents deadlocks and unbounded priority inversions by temporarily raising the priorities of tasks that access shared resources .
+- There are two variants of the priority-ceiling protocol: Original Ceiling Priority Protocol (OCPP) and Immediate Ceiling Priority Protocol (ICPP). The worst-case behaviour of the two ceiling schemes is identical from a scheduling view point.
+- Both variants work by temporarily raising the priorities of tasks that access shared resources to the highest priority of any task that may request the same resource in the future. This is called the priority ceiling of the resource .
+- The priority ceiling of a resource may change with time in a dynamic priority system, depending on the current priorities of the tasks that may request it .
+- The priority ceiling of the system is the maximum of the priority ceilings of all the resources currently accessed by any task. A task can only access a resource if its current priority is higher than the priority ceiling of the system .
+- For dynamic systems, we can use the priority-ceiling protocol to control resource accesses provided we update the priority ceiling of each resource and the ceiling of the system each time task priorities change .
+- The priority-ceiling protocol ensures that a task can be blocked by at most one lower priority task for each resource it needs, and that the blocking time is bounded by the maximum execution time of the lower priority task in its critical section .
+- The priority-ceiling protocol also preserves the feasibility of the task set, meaning that if the tasks can meet their deadlines without resource contention, they can also meet their deadlines with resource contention under the protocol .
+- The priority-ceiling protocol can be implemented in two ways: preemptive and non-preemptive. In the preemptive version, a task can be preempted by a higher priority task at any time, except when it is executing in a critical section. In the non-preemptive version, a task cannot be preempted once it starts executing, until it finishes or releases all the resources it holds .

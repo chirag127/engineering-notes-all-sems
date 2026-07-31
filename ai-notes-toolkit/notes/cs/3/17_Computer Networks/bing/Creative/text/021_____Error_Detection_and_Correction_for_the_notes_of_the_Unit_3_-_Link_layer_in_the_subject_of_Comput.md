@@ -1,0 +1,9 @@
+### Error Detection and Correction in Link Layer
+
+- Error control in data link layer is the process of detecting and correcting data frames that have been corrupted or lost during transmission  .
+- Error detection is the process of identifying errors in the received data frames by using some techniques such as parity checks, checksums, or cyclic redundancy checks (CRC)  .
+- Error correction is the process of recovering the original data frames from the corrupted or lost ones by using some techniques such as retransmission, forward error correction (FEC), or hybrid schemes  .
+- Error control can be classified into two types: stop-and-wait and sliding window .
+  - Stop-and-wait is a simple technique where the sender sends one frame at a time and waits for an acknowledgment (ACK) or a negative acknowledgment (NAK) from the receiver before sending the next frame. If the sender receives an ACK, it means the frame was received correctly. If the sender receives a NAK or a timeout, it means the frame was corrupted or lost and needs to be retransmitted.
+  - Sliding window is a more efficient technique where the sender can send multiple frames without waiting for acknowledgments, as long as the number of unacknowledged frames does not exceed a predefined window size. The receiver can send cumulative or selective acknowledgments to indicate which frames have been received correctly. The sender can use a timer to retransmit the frames that have not been acknowledged within a certain period.
+- Error control can improve the reliability and efficiency of data transmission in the link layer, but it also introduces some overhead and delay. Therefore, the choice of error control technique depends on the characteristics of the transmission medium, such as the error rate, the bandwidth, and the delay  .

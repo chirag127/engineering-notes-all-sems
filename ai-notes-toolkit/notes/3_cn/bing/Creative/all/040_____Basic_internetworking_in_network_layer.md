@@ -1,0 +1,8 @@
+# Basic internetworking in network layer
+
+- Internetworking is the process of connecting different networks using routers and other devices to form a larger network that can exchange data across different protocols and technologies .
+- The network layer is the third layer of the OSI model and the second layer of the TCP/IP model. It is responsible for routing, addressing, fragmentation, and reassembly of packets across different networks .
+- An internetwork is often referred to as a "network of networks" because it is made up of lots of smaller networks, such as Ethernets, wireless networks, and point-to-point links. Each of these is a single-technology network.
+- The nodes that interconnect the networks are called routers. Routers have two or more network interfaces, each connected to a different network. Routers forward packets based on their network layer addresses, such as IP addresses .
+- There are three types of internetworks, depending on who administers and who participates in them: extranet, intranet, and internet. An extranet is an internetwork that connects two or more organizations. An intranet is an internetwork that is used within a single organization. An internet is a global internetwork that connects millions of networks and devices .
+- The most notable example of internetworking is the Internet (capitalized). The Internet uses the Internet Protocol (IP) as the network layer protocol to provide a common addressing scheme and packet format for all the networks and devices. IP is part of the Internet Protocol Suite, also known as the TCP/IP model, which is the dominant protocol suite for internetworking .

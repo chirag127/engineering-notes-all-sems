@@ -1,0 +1,10 @@
+# User Documentation Verification for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- User documentation verification is the process of checking the quality and accuracy of the user manuals, guides, tutorials, and other documents that are intended to help the users of a software system.
+- User documentation verification is important because it ensures that the user documentation is consistent, complete, correct, clear, and concise, and that it meets the needs and expectations of the users.
+- User documentation verification can be done by using various methods, such as:
+  - Peer review: A peer review is a formal or informal evaluation of the user documentation by other writers, editors, or subject matter experts, who provide feedback and suggestions for improvement.
+  - User testing: User testing is a method of evaluating the user documentation by involving actual or potential users of the software system, who perform tasks using the documentation and provide feedback on its usability, effectiveness, and satisfaction.
+  - Inspection: Inspection is a method of evaluating the user documentation by using a checklist of criteria or standards, such as style, format, grammar, spelling, terminology, and accuracy, and identifying any deviations or defects.
+  - Walkthrough: A walkthrough is a method of evaluating the user documentation by presenting it to a group of stakeholders, such as developers, testers, managers, or customers, and discussing its content, structure, and quality.
+- User documentation verification should be done throughout the software development life cycle, as the user documentation evolves along with the software system. User documentation verification should be integrated with the software verification and validation activities, and should follow the same principles and practices of software quality assurance.

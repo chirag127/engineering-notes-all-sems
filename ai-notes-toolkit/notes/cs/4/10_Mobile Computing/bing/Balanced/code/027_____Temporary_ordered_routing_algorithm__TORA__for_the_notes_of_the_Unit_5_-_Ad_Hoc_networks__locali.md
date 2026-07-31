@@ -1,0 +1,13 @@
+### Temporary ordered routing algorithm (TORA) for ad hoc networks
+
+- TORA is a source-initiated on-demand routing protocol that was proposed by Park and Corson in 1997  for wireless mobile ad hoc networks.
+- TORA is based on the concept of link reversal, which is a technique to dynamically change the direction of links in a network graph to eliminate routing loops and maintain routes to destinations.
+- TORA consists of three main phases: route creation, route maintenance, and route erasure.
+- Route creation: When a source node wants to send data to a destination node, it broadcasts a query packet containing the destination ID. The query packet propagates through the network until it reaches the destination or a node that has a route to the destination. The nodes that receive the query packet assign a height value to themselves based on the height of the sender and the direction of the link. The height value is used to create a directed acyclic graph (DAG) rooted at the destination. The nodes that have a downward link to the destination reply with an update packet containing their height value. The update packet travels back to the source along the DAG, establishing routes to the destination.
+- Route maintenance: When a link failure occurs, the nodes adjacent to the link increase their height value to a value higher than their neighbors. This causes the links to be reversed and the DAG to be restructured. The nodes that lose all their downstream links broadcast a clear packet to erase invalid routes. The clear packet also triggers a new route creation process if necessary.
+- Route erasure: When a source node no longer needs a route to a destination, it broadcasts a clear packet to erase the routes. The clear packet contains the destination ID and a special height value that indicates the erasure. The nodes that receive the clear packet reset their height value and delete the routing entries for the destination.
+
+- TORA is an efficient, adaptive, and scalable routing protocol that can handle network dynamics and mobility. However, it also has some drawbacks, such as:
+  - It may generate a large number of control packets during route creation and maintenance, which consumes bandwidth and energy.
+  - It may create multiple routes to the same destination, which increases the routing overhead and the probability of routing loops.
+  - It does not consider the quality of service (QoS) parameters, such as delay, bandwidth, and reliability, in route selection, which may affect the performance of data transmission.

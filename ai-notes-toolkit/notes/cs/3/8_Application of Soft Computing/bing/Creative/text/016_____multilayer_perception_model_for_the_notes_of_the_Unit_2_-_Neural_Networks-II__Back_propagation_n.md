@@ -1,0 +1,21 @@
+### Multilayer Perceptron Model
+
+- A multilayer perceptron (MLP) is a type of feedforward artificial neural network that consists of multiple layers of neurons.
+- Each neuron in a layer is connected to all the neurons in the previous and the next layer, forming a fully connected network.
+- Each connection has a weight that determines the strength of the signal between the neurons.
+- Each neuron also has a bias that shifts the activation function of the neuron.
+- The activation function is a nonlinear function that maps the input of the neuron to its output.
+- The input layer of the MLP receives the predictor variables and passes them to the hidden layer(s).
+- The hidden layer(s) perform nonlinear transformations on the input and pass them to the output layer.
+- The output layer produces the predicted values for the dependent (target) variables.
+- The MLP can be trained using a supervised learning algorithm called backpropagation.
+- Backpropagation is a method of adjusting the weights and biases of the MLP based on the error between the predicted and the actual values.
+- Backpropagation consists of two steps: forward propagation and backward propagation.
+- Forward propagation is the process of computing the output of the MLP given the input and the current weights and biases.
+- Backward propagation is the process of computing the gradients of the error with respect to the weights and biases using the chain rule of differentiation.
+- The gradients are then used to update the weights and biases using a learning rate parameter.
+- The learning rate determines how much the weights and biases change in each iteration.
+- The MLP can be used to approach multiclass classification and regression problems.
+- The MLP can learn complex and nonlinear patterns from the data.
+- The MLP can also generalize well to unseen data if the network is not overfitted.
+- The MLP has some limitations, such as the high computational cost, the risk of overfitting, and the difficulty of choosing the optimal network architecture.

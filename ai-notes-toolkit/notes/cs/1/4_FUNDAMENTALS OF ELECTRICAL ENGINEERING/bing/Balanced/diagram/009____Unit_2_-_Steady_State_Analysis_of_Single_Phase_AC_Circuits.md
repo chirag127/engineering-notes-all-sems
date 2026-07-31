@@ -1,0 +1,26 @@
+## Unit 2 - Steady State Analysis of Single Phase AC Circuits
+
+- Single phase AC circuits are electrical circuits that are powered by alternating current (AC) sources with a single frequency and phase.
+- AC sources produce sinusoidal voltages and currents that vary periodically with time.
+- The frequency of an AC source is the number of cycles per second, measured in hertz (Hz).
+- The phase of an AC source is the angle that the sinusoidal waveform makes with the horizontal axis at a given instant, measured in degrees or radians.
+- The peak value of an AC voltage or current is the maximum value that it attains in one cycle.
+- The root mean square (RMS) value of an AC voltage or current is the effective value that produces the same power as a constant DC voltage or current of the same magnitude.
+- The RMS value of an AC voltage or current is equal to the peak value divided by the square root of 2.
+- The average value of an AC voltage or current over one cycle is zero, unless it has a DC component.
+- The DC component of an AC voltage or current is the constant value that is added to or subtracted from the sinusoidal waveform.
+- The phasor representation of an AC voltage or current is a vector that has a magnitude equal to the peak value and an angle equal to the phase.
+- Phasors are useful for simplifying the analysis of AC circuits, as they can be added, subtracted, multiplied, and divided using vector algebra.
+- The impedance of an AC circuit is the ratio of the phasor voltage to the phasor current, measured in ohms (Ω).
+- The impedance of an AC circuit depends on the frequency of the AC source and the circuit elements, such as resistors, capacitors, and inductors.
+- Resistors have a constant impedance that is equal to their resistance, measured in ohms (Ω).
+- Capacitors have an impedance that is inversely proportional to the frequency and the capacitance, measured in farads (F).
+- Inductors have an impedance that is directly proportional to the frequency and the inductance, measured in henrys (H).
+- The impedance of a series AC circuit is the sum of the impedances of the individual circuit elements.
+- The impedance of a parallel AC circuit is the reciprocal of the sum of the reciprocals of the impedances of the individual circuit elements.
+- The power factor of an AC circuit is the ratio of the real power to the apparent power, where real power is the average power delivered to the circuit and apparent power is the product of the RMS voltage and current.
+- The power factor of an AC circuit can be calculated as the cosine of the angle between the phasor voltage and current, or as the ratio of the resistance to the impedance of the circuit.
+- The power factor of an AC circuit can be improved by adding capacitors or inductors in series or parallel to the circuit, to reduce the phase difference between the voltage and current.
+- The resonance of an AC circuit occurs when the frequency of the AC source is equal to the natural frequency of the circuit, which depends on the capacitance and inductance of the circuit.
+- The resonance of an AC circuit results in maximum current and minimum impedance, or maximum voltage and minimum impedance, depending on the configuration of the circuit elements.
+- The resonance of an AC circuit can be used for tuning, filtering, or amplifying signals in various applications.

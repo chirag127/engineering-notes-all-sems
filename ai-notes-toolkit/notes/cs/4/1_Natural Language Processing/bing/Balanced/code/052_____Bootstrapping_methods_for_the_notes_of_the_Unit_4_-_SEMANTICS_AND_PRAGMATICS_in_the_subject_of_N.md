@@ -1,0 +1,25 @@
+### Bootstrapping methods for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+
+- Bootstrapping methods are a type of semi-supervised learning techniques that aim to learn a mapping from x to y given a small set of labeled examples (x_i, y_i) and a large set of unlabeled examples z_i.
+- Bootstrapping methods try to enlarge the labeled set by finding the most appropriate examples from the unlabeled set and assigning them labels based on some criteria.
+- Bootstrapping methods are useful for natural language processing tasks that require large amounts of annotated data, such as named entity recognition, relation extraction, word sense disambiguation, etc.
+- Bootstrapping methods typically follow the same general format :
+  - Start with an empty list of things (e.g., entities, relations, senses, etc.).
+  - Initialize the list with carefully chosen seeds (e.g., a few examples of the things).
+  - Leverage the things in the list to find more things from the training corpus (e.g., by using patterns, rules, classifiers, etc.).
+  - Repeat the previous step until a stopping criterion is met (e.g., no more things are found, a predefined number of iterations is reached, etc.).
+- Bootstrapping methods can be classified into different types based on the following aspects :
+  - The type of things to be learned (e.g., entities, relations, senses, etc.).
+  - The type of seeds to be used (e.g., single words, phrases, pairs, etc.).
+  - The type of patterns to be used (e.g., lexical, syntactic, semantic, etc.).
+  - The type of corpus to be used (e.g., domain-specific, general, web, etc.).
+  - The type of selection strategy to be used (e.g., confidence-based, diversity-based, graph-based, etc.).
+- Bootstrapping methods have some advantages and disadvantages :
+  - Advantages:
+    - They can reduce the human effort and cost of manual annotation.
+    - They can exploit the large amount of unlabeled data available.
+    - They can adapt to different domains and tasks with minimal supervision.
+  - Disadvantages:
+    - They can suffer from semantic drift, which is the deviation of the learned things from the original seeds due to noise or ambiguity in the data.
+    - They can be sensitive to many parameters, such as the number of seeds, the stopping criterion, the number of things and patterns selected on each iteration, etc.
+    - They can be affected by the quality and coverage of the corpus and the seeds.

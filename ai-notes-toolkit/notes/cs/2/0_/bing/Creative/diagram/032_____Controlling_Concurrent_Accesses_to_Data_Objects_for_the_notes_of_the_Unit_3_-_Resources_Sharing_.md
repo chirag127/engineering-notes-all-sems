@@ -1,0 +1,18 @@
+### Controlling Concurrent Accesses to Data Objects
+
+- Data objects are a special type of shared resources that can be accessed by multiple jobs in a real time system.
+- When jobs are scheduled preemptively, their accesses to data objects may be interleaved, resulting in data inconsistency or violation of timing constraints.
+- To prevent these problems, concurrency control algorithms are needed to coordinate the concurrent accesses to data objects and ensure data consistency and timing correctness.
+- Concurrency control algorithms for real time systems can be classified into two categories: pessimistic and optimistic.
+  - Pessimistic algorithms prevent conflicts from occurring by locking the data objects before accessing them and releasing them after finishing the access.
+  - Optimistic algorithms allow conflicts to occur and then resolve them by aborting and restarting some transactions that have accessed the data objects.
+- Pessimistic algorithms can be further divided into two types: blocking and non-blocking.
+  - Blocking algorithms suspend the transactions that request a locked data object until the lock is released by the owner transaction.
+  - Non-blocking algorithms allow the transactions to continue executing without accessing the locked data object until the lock is released.
+- Some examples of pessimistic algorithms are:
+  - Priority inheritance protocol (PIP): When a transaction requests a locked data object, it inherits the priority of the owner transaction until the lock is released. This prevents priority inversion and reduces blocking time.
+  - Priority ceiling protocol (PCP): Each data object has a priority ceiling, which is the highest priority of any transaction that can access it. When a transaction locks a data object, it raises the system ceiling to the priority ceiling of the data object. No other transaction with lower priority than the system ceiling can execute until the lock is released. This prevents deadlock and reduces blocking time.
+  - Convex ceiling protocol (CCP): Each data object has a convex ceiling, which is the highest priority of any transaction that can access it and has not yet completed. When a transaction locks a data object, it raises the system ceiling to the convex ceiling of the data object. This protocol is similar to PCP, but it can be implemented at the application level without modifying the scheduler.
+- Some examples of optimistic algorithms are:
+  - Wait-free algorithm: Each transaction has a deadline and a version number. When a transaction accesses a data object, it creates a new version of the data object with its version number. When a transaction commits, it checks if its version numbers are the latest for all the data objects it has accessed. If not, it aborts and restarts with a new deadline and version number. This algorithm guarantees that every transaction will commit before its deadline, but it may waste resources and cause frequent aborts.
+  - Timestamp ordering algorithm: Each transaction has a timestamp, which is assigned when it starts. When a transaction accesses a data object, it compares its timestamp with the timestamps of the previous and current versions of the data object. If its timestamp is smaller than the previous version, it aborts and restarts with a new timestamp. If its timestamp is larger than the current version, it creates a new version of the data object with its timestamp. If its timestamp is between the previous and current versions, it reads the previous version of the data object. This algorithm ensures serializability, but it may cause unnecessary aborts and delays.

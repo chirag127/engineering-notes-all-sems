@@ -1,0 +1,9 @@
+### Execution of a complete instruction
+
+- The execution of a complete instruction involves fetching the instruction from memory, decoding it, and executing it.
+- The control unit is responsible for generating the control signals that coordinate the actions of the processor components during the instruction execution cycle.
+- The instruction execution cycle can be divided into four phases: fetch, decode, execute, and store.
+- Fetch phase: The control unit fetches the instruction from the memory location pointed by the program counter (PC) and stores it in the instruction register (IR). The PC is incremented by the length of the instruction to point to the next instruction.
+- Decode phase: The control unit decodes the instruction in the IR and determines the operation code (opcode) and the operands. The operands may be registers, memory addresses, or immediate values. The control unit may also generate the effective address of the operands if they are memory references.
+- Execute phase: The control unit executes the instruction by sending the appropriate control signals to the arithmetic logic unit (ALU), the registers, and the memory. The ALU performs the arithmetic or logical operation on the operands and produces the result. The result may be stored in a register or a memory location.
+- Store phase: The control unit updates the processor status flags and the program status word (PSW) based on the result of the execution. The PSW contains information such as the condition codes, the interrupt enable flag, and the privilege level of the processor. The control unit may also modify the PC if the instruction is a branch or a jump instruction. The store phase completes the instruction execution cycle and the control unit proceeds to fetch the next instruction.

@@ -1,0 +1,17 @@
+### Time stamping protocols for concurrency control
+
+- Time stamping protocols are a type of non-locking concurrency control methods that use system time or logical counters as timestamps to order the transactions and ensure serializability.
+- Timestamps are assigned to each transaction when it is created and to each read or write operation when it is issued.
+- The timestamps determine the precedence order of the transactions and the operations, and any conflicting operations are executed according to their timestamps.
+- There are two types of timestamp ordering protocols: basic timestamp ordering and optimistic timestamp ordering.
+- Basic timestamp ordering protocol uses two timestamps for each data item: read timestamp (RTS) and write timestamp (WTS). RTS is the largest timestamp of any transaction that has successfully read the data item, and WTS is the largest timestamp of any transaction that has successfully written the data item.
+- Basic timestamp ordering protocol enforces two rules: read-write rule and write-write rule. The read-write rule states that a transaction T can read a data item X only if the timestamp of T is greater than or equal to the WTS of X. The write-write rule states that a transaction T can write a data item X only if the timestamp of T is greater than both the RTS and the WTS of X.
+- If a transaction T violates either of the rules, it is aborted and restarted with a new timestamp.
+- Basic timestamp ordering protocol ensures conflict serializability, but it may cause cascading aborts, which means that aborting one transaction may cause other transactions to abort as well.
+- Optimistic timestamp ordering protocol avoids cascading aborts by delaying the validation of transactions until they are ready to commit. It divides the execution of each transaction into three phases: read phase, validation phase, and write phase.
+- In the read phase, a transaction T reads the data items from the database and stores them in a local buffer. It also records the timestamps of the data items in two sets: read set (RS) and write set (WS).
+- In the validation phase, a transaction T checks if it can commit without violating serializability. It uses two timestamps: start timestamp (ST) and commit timestamp (CT). ST is the timestamp assigned to T when it is created, and CT is the current timestamp when T enters the validation phase.
+- Optimistic timestamp ordering protocol enforces three rules: read-write rule, write-write rule, and write-read rule. The read-write rule states that a transaction T can commit only if for each data item X in its WS, the WTS of X in the database is less than the ST of T. The write-write rule states that a transaction T can commit only if for each data item X in its WS, the CT of T is greater than the CT of any other transaction that has written X and committed. The write-read rule states that a transaction T can commit only if for each data item X in its RS, the WTS of X in the database is equal to the WTS of X in the local buffer of T.
+- If a transaction T violates any of the rules, it is aborted and restarted with a new timestamp.
+- In the write phase, a transaction T writes the data items from its local buffer to the database and updates the WTS of the data items accordingly.
+- Optimistic timestamp ordering protocol ensures conflict serializability and avoids cascading aborts, but it may cause more aborts than basic timestamp ordering protocol, especially when the degree of concurrency is high.

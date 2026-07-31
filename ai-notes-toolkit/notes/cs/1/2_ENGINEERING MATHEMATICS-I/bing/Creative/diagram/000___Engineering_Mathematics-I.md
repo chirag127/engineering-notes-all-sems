@@ -1,0 +1,17 @@
+# Engineering Mathematics-I
+
+Engineering Mathematics-I is a course that covers the basic concepts and techniques of calculus and its applications in engineering problems. The course aims to develop the students' ability to model, analyze, and solve engineering problems using mathematical tools.
+
+The syllabus of Engineering Mathematics-I may vary depending on the university and the branch of engineering. However, some of the common topics that are covered in this course are:
+
+- **Differential Calculus**: This topic deals with the study of rates of change, derivatives, and differentials of functions of one or more variables. It also includes the applications of derivatives in optimization, curve sketching, related rates, and linearization.
+- **Integral Calculus**: This topic deals with the study of areas, volumes, and lengths of curves and surfaces, integrals and antiderivatives of functions of one or more variables. It also includes the applications of integrals in finding work, arc length, surface area, center of mass, and moments of inertia.
+- **Differential Equations**: This topic deals with the study of equations that relate a function and its derivatives. It also includes the methods of solving first-order and higher-order ordinary differential equations and their applications in engineering problems such as population growth, cooling, mixing, circuits, and vibrations.
+- **Vector Calculus**: This topic deals with the study of vector-valued functions, scalar and vector fields, and their operations such as dot product, cross product, gradient, divergence, and curl. It also includes the applications of vector calculus in finding line integrals, surface integrals, and volume integrals, and the theorems of Green, Gauss, and Stokes.
+- **Probability and Statistics**: This topic deals with the study of random phenomena, probability models, and data analysis. It also includes the concepts of random variables, expectation, variance, distributions, sampling, estimation, hypothesis testing, and regression.
+
+To learn Engineering Mathematics-I, one needs to have a good background in algebra, trigonometry, and geometry. One also needs to practice solving problems using the concepts and techniques learned in the course. One can use online resources, textbooks, and lecture notes to supplement the learning process. Some of the recommended books for Engineering Mathematics-I are:
+
+- **Engineering Mathematics by K.A. Stroud and D.J. Booth**: This book covers the topics of differential and integral calculus, differential equations, vector calculus, and probability and statistics in a clear and comprehensive manner. It also provides numerous examples, exercises, and self-assessment tests for the students.
+- **Advanced Engineering Mathematics by Erwin Kreyszig**: This book covers the topics of differential and integral calculus, differential equations, vector calculus, and probability and statistics in a rigorous and detailed manner. It also provides many applications, examples, and problems for the students.
+- **Engineering Mathematics: A Foundation for Electronic, Electrical, Communications and Systems Engineers by Anthony Croft, Robert Davison, Martin Hargreaves, and James Flint**: This book covers the topics of differential and integral calculus, differential equations, vector calculus, and probability and statistics in a relevant and practical manner. It also provides many engineering examples, case studies, and projects for the students.

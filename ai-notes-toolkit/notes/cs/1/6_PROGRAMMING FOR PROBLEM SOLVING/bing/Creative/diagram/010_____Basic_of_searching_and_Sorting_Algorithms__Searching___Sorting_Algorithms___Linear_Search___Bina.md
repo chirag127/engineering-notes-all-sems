@@ -1,0 +1,11 @@
+### Basic of Searching and Sorting Algorithms
+
+Searching and sorting algorithms are fundamental techniques for manipulating data in a computer. Searching algorithms are used to find a specific element or a set of elements that satisfy some criteria in a collection of data. Sorting algorithms are used to arrange the elements of a collection in a specific order, such as ascending, descending, alphabetical, or numerical.
+
+Some of the common searching and sorting algorithms are:
+
+- Linear Search: A simple algorithm that scans the collection from left to right, comparing each element with the target value until it is found or the end of the collection is reached. The time complexity of linear search is O(n), where n is the number of elements in the collection.
+- Binary Search: A more efficient algorithm that works on sorted collections. It divides the collection into two halves and compares the target value with the middle element. If they are equal, the search is done. If the target value is smaller, the search continues in the left half. If the target value is larger, the search continues in the right half. This process is repeated until the target value is found or the collection is exhausted. The time complexity of binary search is O(log n), where n is the number of elements in the collection.
+- Bubble Sort: A simple sorting algorithm that repeatedly swaps adjacent elements that are out of order until the collection is sorted. The time complexity of bubble sort is O(n^2), where n is the number of elements in the collection.
+- Insertion Sort: A sorting algorithm that builds the sorted collection one element at a time. It takes each element from the unsorted collection and inserts it into the correct position in the sorted collection. The time complexity of insertion sort is O(n^2), where n is the number of elements in the collection.
+- Selection Sort: A sorting algorithm that selects the smallest (or largest) element from the unsorted collection and places it at the beginning (or end) of the sorted collection. This process is repeated until the unsorted collection is empty. The time complexity of selection sort is O(n^2), where n is the number of elements in the collection.

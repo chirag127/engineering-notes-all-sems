@@ -1,0 +1,27 @@
+#### Spanning Tree Algorithms in Local Area Network
+
+- Spanning tree algorithms are used to prevent loops in a network topology that uses bridges or switches to connect multiple segments of a local area network (LAN).
+- Loops can cause problems such as broadcast storms, multiple frame transmission, and MAC address table instability.
+- Spanning tree algorithms work by creating a logical tree structure of the network, where only one path exists between any two nodes. The tree is rooted at a designated bridge or switch, called the root bridge.
+- The algorithm blocks or disables the links that are not part of the tree, thus breaking the loops. The blocked links can be used as backup in case of link failure.
+- The most common spanning tree algorithm is the Spanning Tree Protocol (STP), which is standardized by IEEE 802.1D. STP uses a set of rules to determine the root bridge, the role of each bridge or switch, and the state of each port.
+- STP uses the following parameters to select the root bridge and the best path to the root:
+  - Bridge ID: a combination of bridge priority and MAC address. The bridge with the lowest bridge ID becomes the root bridge.
+  - Path cost: a metric that reflects the bandwidth of a link. The path with the lowest total cost to the root is preferred.
+  - Port ID: a combination of port priority and port number. The port with the lowest port ID is preferred in case of a tie.
+- STP assigns one of the following roles to each port of a bridge or switch:
+  - Root port: the port that has the best path to the root bridge. There is only one root port per bridge or switch, except the root bridge itself.
+  - Designated port: the port that has the best path to the root bridge among all the ports on the same segment. There is only one designated port per segment, except the root bridge itself.
+  - Alternate port: a backup port that provides an alternative path to the root bridge, in case the root port fails. An alternate port is blocked by default, but can become a root port if needed.
+  - Backup port: a backup port that provides an alternative path to the designated port on the same segment, in case the designated port fails. A backup port is blocked by default, but can become a designated port if needed.
+  - Disabled port: a port that is manually shut down or administratively disabled. A disabled port does not participate in STP.
+- STP assigns one of the following states to each port of a bridge or switch, based on its role and the network topology:
+  - Blocking: the port is not forwarding frames, and does not learn MAC addresses. The port only receives and processes STP messages, called Bridge Protocol Data Units (BPDUs). This is the initial state of all ports, except the root bridge ports.
+  - Listening: the port is not forwarding frames, and does not learn MAC addresses. The port receives and processes BPDUs, and also sends BPDUs to announce its role and state. The port transitions to this state from blocking, when it becomes a root port or a designated port.
+  - Learning: the port is not forwarding frames, but learns MAC addresses from the frames it receives. The port receives and processes BPDUs, and also sends BPDUs to announce its role and state. The port transitions to this state from listening, after a timer called forward delay expires.
+  - Forwarding: the port is forwarding frames, and learns MAC addresses from the frames it receives. The port receives and processes BPDUs, and also sends BPDUs to announce its role and state. The port transitions to this state from learning, after another timer called forward delay expires. This is the normal state of a root port or a designated port.
+  - Disabled: the port is not forwarding frames, and does not learn MAC addresses. The port does not receive or process BPDUs, and does not send BPDUs. The port transitions to this state from any other state, when it is manually shut down or administratively disabled.
+- STP uses timers to control the frequency and duration of BPDUs, and to prevent the network from changing too frequently or too slowly. The timers are:
+  - Hello time: the interval between two consecutive BPDUs sent by a bridge or switch. The default value is 2 seconds.
+  - Max age: the maximum time that a bridge or switch can store a BPDU received from another bridge or switch, before discarding it. The default value is 20 seconds.
+  - Forward delay: the time that a

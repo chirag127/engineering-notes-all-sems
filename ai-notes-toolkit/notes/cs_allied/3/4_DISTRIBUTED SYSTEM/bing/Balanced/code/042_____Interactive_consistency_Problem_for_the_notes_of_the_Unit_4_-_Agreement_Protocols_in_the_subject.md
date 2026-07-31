@@ -1,0 +1,12 @@
+### Interactive consistency problem for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- Interactive consistency is the problem in which n distinct nodes, each having its own private value, where up to t may be Byzantine, run an algorithm that allows all non-faulty nodes to infer the values of each other node  .
+- Byzantine nodes are nodes that can behave arbitrarily, such as sending conflicting or incorrect messages, or remaining silent .
+- Interactive consistency is also known as Byzantine generals problem, which is a metaphor for the situation where a group of generals must agree on a common plan of action, while some of them may be traitors .
+- Interactive consistency is a fundamental problem in distributed systems, especially in critical applications that rely on the combination of the opinions of multiple peers to provide a service .
+- Interactive consistency is closely related to distributed consensus, which is the problem of reaching agreement on a single value among a set of nodes in the presence of faults .
+- Interactive consistency is harder than distributed consensus, because it requires agreement on n values instead of one, and it requires each node to learn the values of all other nodes, not just its own .
+- Interactive consistency is impossible to achieve in a purely asynchronous system, where there is no bound on message delays or node speeds, if t >= n/3, where t is the number of Byzantine nodes and n is the total number of nodes .
+- Interactive consistency can be achieved in a synchronous system, where there is a known bound on message delays and node speeds, if t < n/3, using algorithms based on message authentication, digital signatures, or public-key cryptography .
+- Interactive consistency can also be achieved in a partially synchronous system, where there is a bound on message delays and node speeds that is initially unknown, but eventually becomes known, if t < n/3, using algorithms based on broadcast and randomized Byzantine consensus.
+- Interactive consistency can be achieved in a practical, mostly-asynchronous system, where there is a single synchronization barrier that separates the asynchronous and synchronous phases, if t < n/3, using algorithms that combine the advantages of the previous approaches.

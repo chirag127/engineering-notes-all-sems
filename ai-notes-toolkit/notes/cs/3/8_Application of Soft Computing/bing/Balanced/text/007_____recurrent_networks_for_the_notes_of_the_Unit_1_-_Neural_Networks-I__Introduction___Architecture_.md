@@ -1,0 +1,8 @@
+### Recurrent Networks
+
+- Recurrent networks are a class of artificial neural networks that can process sequential data or time series data .
+- Recurrent networks have feedback or recurrent connections that form a directed graph along a temporal sequence . This allows them to use their internal state or memory to store past information and influence future inputs  .
+- Recurrent networks can handle variable length sequences of inputs and outputs, making them suitable for tasks such as natural language processing, speech recognition, machine translation, and image captioning  .
+- Recurrent networks can be divided into different types based on their architecture, such as simple recurrent networks, Elman networks, Jordan networks, long short-term memory networks, gated recurrent unit networks, and bidirectional recurrent networks .
+- Recurrent networks can be trained using backpropagation through time, which is a variant of the standard backpropagation algorithm that unfolds the network over time and computes the gradients for each time step .
+- Recurrent networks can suffer from problems such as vanishing or exploding gradients, which affect the learning of long-term dependencies, and overfitting, which reduces the generalization ability of the network . These problems can be mitigated by using techniques such as gradient clipping, regularization, dropout, and attention mechanisms .

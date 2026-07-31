@@ -1,0 +1,11 @@
+# Comparison of Binary and Huffman coding for the notes of the Unit 3 - Coding a sequence in the subject of Data Compression
+
+- Binary coding is a method of representing data using only two symbols, usually 0 and 1. Each symbol is called a bit, and a sequence of bits is called a binary code. Binary coding is used to store and transmit data in computers and other digital devices.
+- Huffman coding is a form of lossless compression which makes files smaller using the frequency with which characters appear in a message. Huffman coding assigns variable length binary codes for each input character in the text file. The length of the binary code depends on the frequency of the character in the file. The most frequent characters are coded with the smaller binary words, thus, the size used to code them is minimal, which increases the compression. Huffman coding uses a binary tree to generate the codes for each character.
+- Some advantages of Huffman coding over binary coding are:
+  - Huffman coding reduces the size of the file by using fewer bits to represent the most frequent characters, while binary coding uses the same number of bits for all characters.
+  - Huffman coding is optimal, meaning that no other compression method can achieve a smaller file size for the same input, while binary coding is not optimal, meaning that there may be other compression methods that can achieve a smaller file size for the same input.
+  - Huffman coding is adaptive, meaning that it can adjust the codes based on the input data, while binary coding is fixed, meaning that it uses the same codes for all inputs.
+- Some disadvantages of Huffman coding over binary coding are:
+  - Huffman coding requires extra information to decode the file, such as the frequency table or the binary tree, while binary coding does not require any extra information to decode the file.
+  - Huffman coding is more complex to implement and requires more computation time than binary coding, which is simple and fast to implement.

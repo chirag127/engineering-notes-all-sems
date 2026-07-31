@@ -1,0 +1,22 @@
+### DC Machines
+
+- A DC machine is an electromechanical device that is used to convert electrical energy into mechanical energy or vice versa.
+- The working principle of a DC machine is based on an effect when a current carrying conductor is placed in a magnetic field, and then the magnetic force generates a torque that rotates the DC machine.
+- The construction of a DC machine consists of the following main parts :
+  - Yoke: The outer frame of the machine that supports and protects the other parts. It is usually made of cast iron or steel. It also provides a low reluctance path for the magnetic flux.
+  - Poles and pole shoes: The projections on the inner side of the yoke that carry the field windings. The pole shoes are the extensions of the poles that spread the flux uniformly over the armature surface.
+  - Field windings: The coils of wire that are wound on the poles and produce the magnetic field when energized by a DC source. The field windings can be connected in different ways to achieve different types of DC machines.
+  - Armature core: The cylindrical rotor that rotates inside the magnetic field and carries the armature windings. It is usually made of laminated silicon steel to reduce eddy current losses.
+  - Armature windings: The coils of wire that are placed in the slots of the armature core and carry the current induced by the magnetic field. The armature windings can be connected in different ways to achieve different types of DC machines.
+  - Commutator: The mechanical device that connects the armature windings to the external circuit and reverses the direction of the current in the windings at appropriate intervals to maintain a unidirectional torque. It consists of a number of copper segments insulated from each other and from the shaft.
+  - Brushes: The sliding contacts that press against the commutator and provide the electrical connection between the armature windings and the external circuit. They are usually made of carbon or graphite to reduce friction and wear.
+- The types of DC machines are classified based on the connection of the field windings and the armature windings:
+  - Separately excited DC machine: The field windings are energized by a separate DC source and the armature windings are connected to the load. The speed and torque of this type of machine can be controlled independently by varying the field and armature currents.
+  - Shunt-wound DC machine: The field windings are connected in parallel with the armature windings and the load. The field current is small and constant and the armature current varies with the load. The speed of this type of machine is relatively constant and the torque varies with the load.
+  - Series-wound DC machine: The field windings are connected in series with the armature windings and the load. The field current is equal to the armature current and varies with the load. The speed of this type of machine is variable and the torque is high at low speeds.
+  - Compound-wound DC machine: The field windings are connected in a combination of shunt and series with the armature windings and the load. The compound-wound DC machine can be further classified into cumulative compound and differential compound depending on the direction of the series field flux with respect to the shunt field flux. The speed and torque characteristics of this type of machine can be adjusted by varying the shunt and series field currents.
+- The applications of DC machines are based on their speed and torque characteristics and the ease of control:
+  - Separately excited DC machines are used for applications that require precise and independent speed and torque control, such as electric traction, elevators, cranes, etc.
+  - Shunt-wound DC machines are used for applications that require constant speed and moderate torque, such as fans, blowers, pumps, etc.
+  - Series-wound DC machines are used for applications that require high torque at low speeds, such as electric locomotives, hoists, winches, etc.
+  - Compound-wound DC machines are used for applications that require a combination of constant and variable speed and torque, such as rolling mills, printing presses, etc.

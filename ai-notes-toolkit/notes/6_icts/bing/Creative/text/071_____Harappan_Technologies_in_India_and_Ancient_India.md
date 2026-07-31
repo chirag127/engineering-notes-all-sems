@@ -1,0 +1,9 @@
+### Harappan Technologies in India and Ancient India
+
+- The Harappan Civilization, also known as the Indus Valley Civilization, was one of the earliest urban cultures of the Indian subcontinent, dating from 3300 to 1300 BCE .
+- The Harappans developed various technologies and innovations in various fields, such as:
+  - **Metallurgy**: The Harappans used copper, bronze, lead, and tin to make tools, weapons, ornaments, and seals. They also knew how to smelt iron, but did not use it extensively .
+  - **Standardized weights and measures**: The Harappans used a system of uniform weights and measures based on a decimal scale. They also used a ruler with markings of 1.32 inches, which corresponds to one Indus inch .
+  - **Seal carving**: The Harappans carved seals out of steatite, a soft stone, and engraved them with various motifs, such as animals, plants, and symbols. The seals were used for trade, administration, and ritual purposes. Some of the seals also have inscriptions in an undeciphered script .
+  - **Hydraulic engineering**: The Harappans built sophisticated systems of water management, such as wells, reservoirs, canals, drains, and baths. They also had a sanitation system that included flush toilets and covered sewers .
+  - **Urban planning**: The Harappans built well-planned cities with grid-like layouts, fortified walls, and standardized bricks. They also had public buildings, such as granaries, warehouses, and citadels. The cities were divided into two parts: the upper town, which was the administrative and religious center, and the lower town, which was the residential and commercial area.

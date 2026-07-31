@@ -1,0 +1,8 @@
+### Impracticality of Testing All Paths
+
+- Testing all paths of a software system is impractical because the number of paths grows exponentially with the size and complexity of the system.
+- For example, if a system has n independent binary decisions, then there are 2^n possible paths to test. For n = 10, there are 1024 paths; for n = 20, there are over a million paths; for n = 30, there are over a billion paths.
+- Testing all paths is also impractical because some paths may be infeasible, meaning that they cannot be executed due to logical or physical constraints. For example, a path that requires dividing by zero or entering a negative age is infeasible.
+- Testing all paths is also impractical because some paths may be redundant, meaning that they do not add any new information or coverage to the testing process. For example, a path that repeats the same sequence of actions or decisions as another path is redundant.
+- Testing all paths is also impractical because some paths may be irrelevant, meaning that they do not correspond to any realistic or meaningful scenario or requirement. For example, a path that involves entering invalid or nonsensical inputs or performing unnecessary or contradictory actions is irrelevant.
+- Therefore, testing all paths of a software system is not a feasible or effective testing strategy. Instead, testers should use techniques such as equivalence partitioning, boundary value analysis, decision tables, state transition diagrams, etc. to select a representative and adequate subset of paths to test.

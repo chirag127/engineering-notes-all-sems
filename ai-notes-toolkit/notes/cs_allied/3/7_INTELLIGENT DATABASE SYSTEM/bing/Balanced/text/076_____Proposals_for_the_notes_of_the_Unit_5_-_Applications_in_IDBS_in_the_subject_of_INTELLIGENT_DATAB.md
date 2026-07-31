@@ -1,0 +1,24 @@
+### Proposals for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+
+- An intelligent database is a full-text database with artificial intelligence (AI) components that interact with users to ensure that users are supplied all relevant information.
+- An intelligent database system (IDBS) is a system that manages information (rather than data) in a way that appears natural to users and which goes beyond simple record keeping.
+- An IDBS has three levels of intelligence: high level tools, the user interface and the database engine.
+- High level tools manage data quality and automatically discover relevant patterns in the data with a process called data mining.
+- The user interface provides natural language processing, speech recognition, graphical visualization and multimedia capabilities to facilitate user interaction with the system.
+- The database engine supports advanced data models, query optimization, concurrency control, transaction management and security features to ensure efficient and reliable data access and manipulation.
+- Some of the applications of IDBS are:
+  - Business intelligence: IDBS can help businesses analyze their data and gain insights into their performance, customers, competitors and market trends.
+  - E-commerce: IDBS can enable online transactions, personalized recommendations, fraud detection and customer loyalty programs.
+  - Health care: IDBS can assist in diagnosis, treatment, drug discovery, medical records and patient monitoring.
+  - Education: IDBS can provide adaptive learning, intelligent tutoring, assessment and feedback.
+  - Social media: IDBS can analyze user behavior, preferences, sentiments and social networks to provide relevant content, advertisements and recommendations.
+  - Smart cities: IDBS can integrate data from various sources, such as sensors, cameras, vehicles and citizens, to optimize urban planning, traffic management, public safety and environmental sustainability.
+- Microsoft Intelligent Data Platform is an example of an integrated data and AI platform that enables users to unlock the value of their data and reduce costs. It provides various services and tools, such as:
+  - Azure Synapse Analytics: a unified analytics service that combines data warehousing, data lake, data integration and big data analytics.
+  - Azure Purview: a unified data governance service that helps users discover, catalog, map and manage their data assets across on-premises, cloud and hybrid environments.
+  - Azure Machine Learning: a cloud-based service that helps users build, train, deploy and manage machine learning models at scale.
+  - Azure Cognitive Services: a collection of AI services that enable users to add vision, speech, language, decision and web search capabilities to their applications.
+  - Azure Databricks: a fast, easy and collaborative analytics platform based on Apache Spark that supports data engineering, data science and machine learning.
+  - Azure SQL Database: a fully managed relational database service that supports intelligent performance, security and availability features.
+  - Azure Cosmos DB: a fully managed NoSQL database service that supports multiple data models, APIs and consistency levels, as well as global distribution and scalability.
+  - Power BI: a business analytics service that helps users create and share interactive dashboards and reports.

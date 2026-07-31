@@ -1,0 +1,22 @@
+### Functional dependencies for the notes of the Unit 4 - Data Base Design & Normalization in the subject of Basics of Data Base Management System
+
+- A functional dependency (FD) is a constraint between two sets of attributes in a relation from a database.
+- A functional dependency mathematically expresses the relation between different values in a database management system (DBMS).
+- A functional dependency is denoted by an arrow, such as X → Y, which means that the value of Y is determined by the value of X.
+- A functional dependency is said to be valid if it holds for every possible instance of the relation.
+- A functional dependency is said to be minimal if it cannot be derived from any other functional dependency in the set.
+- There are four primary types of functional dependencies :
+  - Trivial functional dependency: A dependent is always a subset of the determinant, such as X → X or X → XY.
+  - Non-trivial functional dependency: A dependent is strictly not a subset of the determinant, such as X → Y, where Y is not a part of X.
+  - Multivalued functional dependency: A determinant can have more than one dependent, such as X → YZ, where Y and Z are independent of each other.
+  - Transitive functional dependency: A dependent is determined by another dependent, such as X → Y and Y → Z, which implies X → Z.
+- Functional dependencies are used to establish relationships between attributes in a database and to ensure that the database is in a state of normalization .
+- Normalization is the process of organizing the data in a database to minimize data redundancy and improve data integrity .
+- Normalization is based on the concept of normal forms, which are levels of compliance with a set of rules based on functional dependencies .
+- The most common normal forms are:
+  - First normal form (1NF): A relation is in 1NF if it has no repeating groups or multivalued attributes, and every attribute is atomic (indivisible).
+  - Second normal form (2NF): A relation is in 2NF if it is in 1NF and every non-key attribute is fully functionally dependent on the primary key.
+  - Third normal form (3NF): A relation is in 3NF if it is in 2NF and every non-key attribute is non-transitively dependent on the primary key.
+  - Boyce-Codd normal form (BCNF): A relation is in BCNF if it is in 3NF and every determinant is a candidate key.
+  - Fourth normal form (4NF): A relation is in 4NF if it is in BCNF and has no multivalued dependencies.
+  - Fifth normal form (5NF): A relation is in 5NF if it is in 4NF and has no join dependencies that are not implied by the candidate keys.

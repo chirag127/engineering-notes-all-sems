@@ -1,0 +1,10 @@
+## Unit 4 - Electrical machines
+
+- Electrical machines are devices that convert electrical energy into mechanical energy or vice versa.
+- Electrical machines can be classified into three main categories: generators, motors and transformers.
+- Generators are machines that convert mechanical energy into electrical energy. They use the principle of electromagnetic induction to produce voltage and current in a coil of wire that rotates in a magnetic field.
+- Motors are machines that convert electrical energy into mechanical energy. They use the principle of electromagnetic force to create torque and rotation in a coil of wire that interacts with a magnetic field.
+- Transformers are machines that transfer electrical energy from one circuit to another without changing the frequency. They use the principle of mutual induction to induce voltage and current in a secondary coil of wire that is linked to a primary coil of wire by a magnetic core.
+- Electrical machines can be further classified based on the type of current they use: direct current (DC) or alternating current (AC).
+- DC machines are machines that operate with a constant polarity of voltage and current. They have commutators and brushes to switch the direction of current in the coil of wire as it rotates in the magnetic field. DC machines can be either shunt, series or compound wound depending on the connection of the field winding and the armature winding.
+- AC machines are machines that operate with a sinusoidal or alternating polarity of voltage and current. They have slip rings and brushes to transfer the current from the stationary part to the rotating part of the machine. AC machines can be either synchronous or asynchronous depending on the speed of the rotor relative to the stator. Synchronous machines have a constant speed that is equal to the frequency of the supply voltage. Asynchronous machines have a variable speed that is lower than the frequency of the supply voltage. Asynchronous machines are also called induction machines because they induce current in the rotor by the rotating magnetic field of the stator.

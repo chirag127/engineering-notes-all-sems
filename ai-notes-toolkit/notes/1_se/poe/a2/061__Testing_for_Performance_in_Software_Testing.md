@@ -1,0 +1,11 @@
+ Here is the content in markdown format without any external links or emojis:
+
+### Testing for Performance in Software Testing
+
+1. Load Testing: Load testing is performed to determine a system's behavior under normal and peak load conditions. It helps to determine the maximum workload that the software can sustain without affecting performance and functionality. The load is gradually increased in a controlled manner to find the point at which the system's performance starts degrading.
+2. Stress Testing: Stress testing is done to determine the system's stability and error handling capability under extreme conditions. It involves testing the system with a load that is beyond its specified limits or maximum capacity. The goal is to make the system fail and monitor how the system recovers from failures.
+3. Endurance Testing: Endurance testing is also known as soak testing. It is performed to assess the software's ability to handle the maximum load for an extended period of time without any performance degradation. The software is run with a typical load for an extended time to uncover bugs that may appear after running the software for several hours or days.
+4. Spike Testing: Spike testing involves suddenly increasing the system load to assess its behavior under volatile conditions. It studies the software's ability to handle sudden surges in workload. For example, the effect of a marketing campaign causing a sudden increase in the number of users can be simulated to observe the software's performance under such conditions.
+5. Scalability Testing: Scalability testing determines the software's capability to handle increased load in a capable manner. It involves gradually increasing the load on a software application and monitoring corresponding increase in capabilities. Ability to handle increased load without any degradation in performance indicates that the software is scalable. Scalability testing is especially important for applications that expect a varying and huge number of users.
+
+The content is written in bullet points in markdown format without any emojis or external links to remain formal as mentioned in the instructions. Please let me know if you would like me to modify or add any other points.

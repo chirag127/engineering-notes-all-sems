@@ -1,0 +1,13 @@
+### Working with Text
+
+- Text is an essential part of any web page, and HTML provides several elements for defining and formatting text content.
+- The `<p>` element is used to define a paragraph of text. The text within the opening and closing `<p>` tags will be displayed as a separate block of text, with space above and below.
+- Headings are used to organize the content of a web page into sections. HTML provides six levels of headings, from `<h1>` to `<h6>`. `<h1>` is the highest level heading, and is typically used for the main title of the page. `<h2>` to `<h6>` are used for subheadings of decreasing importance.
+- The `<em>` and `<strong>` elements are used to emphasize text. Text within an `<em>` element is typically displayed in italic, while text within a `<strong>` element is displayed in bold. However, the exact presentation of these elements can be controlled using CSS.
+- The `<br>` element is used to insert a line break within a block of text. This can be useful for formatting addresses, poems, or other content where the line breaks are important.
+- The `<hr>` element is used to insert a horizontal rule, or line, on a web page. This can be used to visually separate different sections of content.
+- The `<blockquote>` element is used to define a section of text that is quoted from another source. The text within the `<blockquote>` element is typically indented and displayed in a different font style to distinguish it from the surrounding text.
+- The `<pre>` element is used to define preformatted text. Text within a `<pre>` element is displayed in a fixed-width font, and whitespace is preserved. This can be useful for displaying code or other content where the formatting is important.
+- The `<code>` element is used to define a piece of computer code. Text within a `<code>` element is typically displayed in a fixed-width font, and is often highlighted in a different color to distinguish it from the surrounding text.
+- The `<sub>` and `<sup>` elements are used to define subscript and superscript text, respectively. Subscript text is displayed slightly below the baseline, while superscript text is displayed slightly above the baseline. These elements are commonly used for mathematical or chemical notation.
+- The `<span>` element is used to group inline elements for styling purposes. It has no inherent meaning or formatting, but can be useful for applying CSS styles to specific sections of text.

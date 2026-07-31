@@ -1,0 +1,10 @@
+### Types of support vector kernel
+
+- A support vector kernel is a function that maps the input data into a higher dimensional feature space, where a linear classifier can be used to separate the data points.
+- The choice of the kernel function affects the performance and accuracy of the support vector machine (SVM) model.
+- There are different types of kernel functions, each with its own advantages and disadvantages. Some of the popular ones are:
+
+  - **Linear kernel**: This is the simplest kernel function, which is just the dot product of the input vectors. It is suitable for linearly separable data, but it cannot capture the non-linear patterns in the data. It has no hyperparameters to tune, and it is fast to compute.
+  - **Polynomial kernel**: This is a kernel function that raises the input vectors to a specified degree and adds a constant term. It can generate non-linear decision boundaries using polynomial features, but it may suffer from overfitting or underfitting depending on the degree and the constant term. It has two hyperparameters to tune: the degree and the constant term.
+  - **Radial basis function (RBF) kernel**: This is a kernel function that measures the similarity between the input vectors based on their distance from a center point. It can generate complex and flexible decision boundaries, but it may be computationally expensive and prone to overfitting. It has two hyperparameters to tune: the gamma parameter, which controls the width of the kernel, and the C parameter, which controls the trade-off between margin and misclassification.
+  - **Sigmoid kernel**: This is a kernel function that applies the sigmoid function to the dot product of the input vectors. It can approximate the neural network model, but it may not satisfy the Mercer's condition, which is a mathematical property that ensures the validity of the kernel function. It has two hyperparameters to tune: the slope and the intercept of the sigmoid function.

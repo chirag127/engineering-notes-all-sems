@@ -1,0 +1,9 @@
+### A brief introduction to information theory for the notes of the Unit 1 - Compression Techniques in the subject of Data Compression
+
+- Information theory is a branch of mathematics that deals with the quantification, transmission, and processing of information.
+- Information theory was founded by Claude Shannon in the mid-20th century, who introduced the concepts of entropy, mutual information, channel capacity, and coding theorems  .
+- Information theory is based on probability theory and statistics, where quantified information is usually described in terms of bits, which are the smallest units of information that can be stored or transmitted.
+- Information theory often concerns itself with measures of information of the distributions associated with random variables, such as entropy, which is the average amount of information contained in a random variable, or mutual information, which is the amount of information shared between two random variables.
+- Information theory also studies the limitations and possibilities of communication systems, such as how much information can be reliably transmitted over a noisy channel, or how to efficiently encode and compress information for storage or transmission  .
+- Information theory has applications in many fields, such as cryptography, data compression, error correction, signal processing, machine learning, and neuroscience   .
+- Information theory overlaps heavily with communication theory, but it is more oriented toward the fundamental limitations on the processing and communication of information and less oriented toward the detailed operation of particular devices.

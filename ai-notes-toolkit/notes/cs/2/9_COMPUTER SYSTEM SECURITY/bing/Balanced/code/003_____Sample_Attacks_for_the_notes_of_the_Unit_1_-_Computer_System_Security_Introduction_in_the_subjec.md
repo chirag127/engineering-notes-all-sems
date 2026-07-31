@@ -1,0 +1,21 @@
+### Sample Attacks
+
+A cyber attack is a malicious attempt to compromise the confidentiality, integrity, or availability of a computer system, network, or data. Cyber attacks can have various motives, such as financial gain, espionage, sabotage, or activism. Cyber attacks can also have various impacts, such as data theft, identity fraud, system damage, service disruption, or reputational harm.
+
+Some examples of common cyber attacks are:
+
+- **Malware**: Malware is any software that is designed to harm or perform unwanted actions on a computer system, network, or data. Malware can include viruses, worms, trojans, ransomware, spyware, adware, rootkits, and more. Malware can infect a system through various means, such as email attachments, malicious downloads, removable media, or network vulnerabilities. Malware can perform various malicious actions, such as deleting or encrypting files, stealing or modifying data, logging keystrokes, monitoring activities, opening backdoors, or launching other attacks.   
+
+- **Phishing**: Phishing is a type of social engineering attack that involves sending fraudulent emails or other messages that appear to be from a legitimate source, such as a bank, a company, or a government agency. The goal of phishing is to trick the recipient into clicking on a malicious link, opening a malicious attachment, or providing sensitive information, such as passwords, credit card numbers, or personal details. Phishing can be used to steal identities, access accounts, install malware, or conduct other attacks.   
+
+- **Denial-of-service (DoS) and distributed denial-of-service (DDoS)**: A DoS attack is an attack that aims to overwhelm the resources of a system or a network, such as bandwidth, memory, CPU, or disk space, to the point where it cannot respond to legitimate requests or perform its intended functions. A DDoS attack is a type of DoS attack that involves multiple compromised devices, such as computers, smartphones, or IoT devices, that are controlled by a malicious actor and used to launch a coordinated attack against a target system or network. DoS and DDoS attacks can cause service disruption, degradation, or unavailability, as well as financial losses, reputational damage, or legal consequences.   
+
+- **Password cracking**: Password cracking is an attack that involves guessing or obtaining the passwords of users or administrators of a system or a network. Password cracking can be done by using various methods, such as brute force, dictionary, rainbow tables, or credential stuffing. Password cracking can be used to gain unauthorized access, steal data, install malware, or conduct other attacks.  
+
+- **SQL injection**: SQL injection is a type of injection attack that involves inserting malicious SQL statements into an input field or a query string of a web application that interacts with a database. The goal of SQL injection is to manipulate the database to perform unintended actions, such as retrieving, modifying, deleting, or disclosing data, executing commands, or bypassing authentication. SQL injection can result in data theft, data loss, data corruption, system compromise, or service disruption.  
+
+- **Cross-site scripting (XSS)**: XSS is a type of injection attack that involves inserting malicious scripts into a web page or a web application that is viewed by other users. The goal of XSS is to execute the scripts in the context of the victim's browser, which can allow the attacker to access or modify the victim's cookies, session tokens, or other sensitive information, or to perform actions on behalf of the victim, such as redirecting, phishing, or stealing credentials. XSS can result in identity theft, account takeover, data theft, or other attacks.  
+
+- **Man-in-the-middle (MITM)**: MITM is a type of attack that involves intercepting, modifying, or redirecting the communication between two parties, such as a user and a server, a user and another user, or a server and another server. The goal of MITM is to eavesdrop, alter, or tamper with the data or messages that are exchanged, or to impersonate one of the parties. MITM can be used to steal or modify data, conduct phishing, install malware, or conduct other attacks.  
+
+- **Rogue access point**: A rogue access point is an unauthorized wireless access point

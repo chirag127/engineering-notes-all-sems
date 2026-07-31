@@ -1,0 +1,14 @@
+### Virtualization Support and Disaster Recovery
+
+- Virtualization is a process that allows a computer to share its hardware resources with multiple digitally separated environments. Each virtualized environment runs within its allocated resources, such as memory, processing power, and storage.
+- Virtualization enables cloud computing, which is the delivery of computing services over the internet, such as servers, storage, databases, networking, software, analytics, and intelligence.
+- Virtualization also plays a key role in data protection and disaster recovery, which are the processes of ensuring the availability and integrity of data and systems in the event of a natural or human-induced disaster .
+- Disaster recovery in cloud computing can be achieved by using different strategies and services, such as:
+  - Cloud-based backup and recovery: It is the process of copying and storing data and applications in the cloud, and restoring them when needed. This can be done using various cloud storage services, such as Amazon S3, Google Cloud Storage, Microsoft Azure Blob Storage, etc.
+  - Cloud-based replication: It is the process of creating and maintaining an exact copy of data and applications in another cloud location, and switching to it in case of a disaster. This can be done using various cloud replication services, such as Amazon EC2, Google Compute Engine, Microsoft Azure Virtual Machines, etc.
+  - Cloud-based virtualization support and disaster recovery (DRaaS): It is a specific type of disaster recovery solution offered by many vendors that allow customers’ applications and data to run on local servers at their offices instead of being hosted remotely by service providers such as Amazon Web Services (AWS). This can be done using various cloud virtualization services, such as VMware vSphere, Microsoft Hyper-V, Citrix XenServer, etc.
+- The benefits of virtualization support and disaster recovery in cloud computing are:
+  - Cost-effectiveness: Virtualization reduces the need for physical hardware and infrastructure, and cloud computing reduces the operational and maintenance costs of data and applications .
+  - Scalability: Virtualization and cloud computing allow for easy and fast provisioning and deprovisioning of resources, and adjusting them according to the changing needs and demands .
+  - Flexibility: Virtualization and cloud computing enable data and applications to be accessed and recovered from any device and location, and to be migrated and replicated across different cloud platforms and regions  .
+  - Reliability: Virtualization and cloud computing ensure high availability and performance of data and applications, and minimize the impact and downtime of disasters by storing and running them in multiple cloud servers   .

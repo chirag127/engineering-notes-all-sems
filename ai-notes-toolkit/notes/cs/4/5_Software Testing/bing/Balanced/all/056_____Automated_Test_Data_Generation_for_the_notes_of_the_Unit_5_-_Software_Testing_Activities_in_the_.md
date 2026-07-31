@@ -1,0 +1,21 @@
+# Automated Test Data Generation
+
+- Automated test data generation is an activity that generates test data automatically for the software under test.
+- The quality and effectiveness of testing is heavily dependent on the generated test data.
+- The main benefits of automated test data generation are:
+  - Vast generation speed, as well as the accuracy of generated data.
+  - Ability to create test data that would ensure a sufficient level of quality of the final product by checking most of the various code paths, i.e., to provide maximum code coverage to satisfy some criteria (for example, statement or branch coverage).
+  - Ability to mask or anonymize sensitive data to protect privacy and security.
+- The main challenges of automated test data generation are:
+  - Ensuring the validity and realism of the generated data.
+  - Handling complex data dependencies and constraints.
+  - Selecting the appropriate test data generation tools and techniques for different types of software and testing scenarios.
+- Some of the common test data generation tools and techniques are:
+  - DATPROF: A tool that simplifies getting the right test data at the right moment. It can mask, generate, subset, and compare test data.
+  - EMS Data Generator: A tool that creates test data to MySQL database tables. It supports various data types and allows saving and editing generated data in SQL script.
+  - Redgate SQL Data Generator: A tool that generates realistic test data for SQL Server databases. It can populate tables with random data or data from existing sources.
+  - Informatica Test Data Management: A tool that provides end-to-end data management for testing. It can discover, mask, profile, subset, and generate test data.
+  - Double: A tool that generates test data for web applications. It can create realistic data for forms, tables, charts, and graphs.
+  - Synthetic generation: A technique that creates artificial data only for testing purposes. It can use algorithms, rules, or models to generate data.
+  - Data extraction: A technique that extracts data from existing sources, such as production databases, files, or web services. It can use filters, queries, or transformations to select and modify data.
+  - Data mutation: A technique that modifies existing data to create new test data. It can use operations, such as insertion, deletion, replacement, or permutation, to change data values or structure.

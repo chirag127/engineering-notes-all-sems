@@ -1,0 +1,9 @@
+### Administration in Ancient India
+
+- Administration in ancient India refers to the structures, procedures and behaviors that the ruling dynasties or emperors used to govern their respective territories and people.
+- Administration in ancient India can be traced back to the Indus Valley civilization, which had a systematic and well-organized government in the cities of Mohenjodaro and Harappa.
+- Administration in ancient India varied according to the different periods, regions and cultures, but some common features can be identified, such as:
+  - The king was the head of the administration and the supreme authority in matters of law, justice, religion, defense and taxation. The king was assisted by ministers and councillors, who advised him on various aspects of the state and government .
+  - The state was divided into provinces and districts for administrative convenience and efficiency. The provinces were governed by provincial governors, who were appointed by the king or elected by the people. The districts were further subdivided into smaller units, such as villages, towns and cities, which had their own local officials and institutions.
+  - The administration was based on the principle of dharma, which means the moral and social order. The king and the officials were expected to uphold and enforce the dharma, which was derived from the sacred texts, such as the Vedas, the Upanishads, the Dharmashastras and the Arthashastra. The dharma also regulated the duties and rights of the different classes and groups of society, such as the varnas and the jatis .
+  - The administration was also influenced by the political and economic conditions of the time, such as the rise and fall of empires, the invasions and migrations of foreign peoples, the trade and commerce with other regions, the development of art and culture, and the emergence of new religions and philosophies .

@@ -1,0 +1,9 @@
+# HBase vs RDBMS
+
+HBase and RDBMS are both types of database management systems, but they differ in several ways. Here are some of the main differences between them:
+
+- **Data Model**: RDBMS uses a relational data model, where data is stored in tables with predefined columns and rows. HBase, on the other hand, uses a column-family data model, where data is stored in column families, which contain columns and rows. HBase is often referred to as a NoSQL database because of its non-relational data model .
+- **Scaling**: RDBMS is designed to scale vertically, which means adding more resources to a single server. HBase is designed to scale horizontally, which means adding more servers to a cluster. HBase can handle large amounts of data by distributing it across multiple nodes in a Hadoop cluster .
+- **Consistency**: RDBMS follows the ACID (Atomicity, Consistency, Isolation, Durability) properties, which ensure that transactions are reliable and consistent. HBase follows the BASE (Basically Available, Soft state, Eventual consistency) properties, which trade off consistency for availability and performance. HBase provides strong consistency within a row, but only eventual consistency across rows .
+- **Speed**: RDBMS is optimized for complex queries and joins, which can be slow for large data sets. HBase is optimized for fast reads and writes, which can be useful for real-time applications. HBase also supports batch processing and analytics through MapReduce and Spark .
+- **ACID Compliance**: RDBMS is fully ACID compliant, which means it guarantees the integrity and consistency of data in case of failures or concurrent operations. HBase is partially ACID compliant, which means it supports atomic and durable operations, but not consistent and isolated operations. HBase relies on timestamps and versions to resolve conflicts and maintain data consistency .

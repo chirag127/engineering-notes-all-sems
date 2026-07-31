@@ -1,0 +1,13 @@
+### Nonproteobacteria Gram-Negative Bacteria
+
+- Nonproteobacteria are a diverse group of bacteria that do not belong to the phylum Proteobacteria, which contains the majority of gram-negative bacteria.
+- Nonproteobacteria can be either gram-negative or gram-positive, depending on the presence or absence of an outer membrane in their cell wall.
+- Nonproteobacteria can have various metabolic modes, such as photoautotrophy, chemoheterotrophy, or chemoautotrophy.
+- Nonproteobacteria can be either motile or nonmotile, and some have distinctive shapes, such as spiral or stalked.
+- Some examples of nonproteobacteria are:
+
+  - Chlamydia: a group of obligate intracellular parasites that cause various diseases in humans and animals, such as chlamydia, trachoma, and psittacosis. They have a unique developmental cycle that involves two forms: elementary bodies and reticulate bodies.
+  - Spirochetes: a group of motile, spiral-shaped bacteria that have a flexible cell wall and a unique flagellar arrangement called axial filaments. They can cause diseases such as syphilis, Lyme disease, and leptospirosis. They are difficult or impossible to culture in the laboratory .
+  - CFB group: a phylum of gram-negative nonproteobacteria that includes the genera Cytophaga, Fusobacterium, and Bacteroides. They share some similarities in their DNA sequences, but have diverse morphologies and metabolisms. Cytophaga are rod-shaped bacteria that degrade cellulose and other polysaccharides. Fusobacterium are spindle-shaped bacteria that are involved in periodontal disease and other infections. Bacteroides are anaerobic bacteria that are abundant in the human gut and play a role in digestion and immunity .
+  - Planctomycetes: a group of gram-negative nonproteobacteria that have a unique cell structure and life cycle. They have a membrane-bound compartment called the pirellulosome that contains the nucleoid and ribosomes. They also have a stalk-like appendage called the holdfast that attaches them to surfaces. They can reproduce by budding or binary fission.
+  - Phototrophic bacteria: a group of bacteria that use light as an energy source and can perform photosynthesis. They can be either gram-negative or gram-positive, and can have different types of pigments, such as chlorophyll, bacteriochlorophyll, or carotenoids. They can be classified into two major groups: oxygenic and anoxygenic. Oxygenic phototrophic bacteria produce oxygen as a byproduct of photosynthesis, such as cyanobacteria. Anoxygenic phototrophic bacteria do not produce oxygen, and use other electron donors, such as hydrogen sulfide or organic compounds, such as purple sulfur bacteria and green sulfur bacteria.

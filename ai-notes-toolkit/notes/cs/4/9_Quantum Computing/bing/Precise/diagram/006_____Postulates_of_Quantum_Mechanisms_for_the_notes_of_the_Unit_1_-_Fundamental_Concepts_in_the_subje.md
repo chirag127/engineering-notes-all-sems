@@ -1,0 +1,9 @@
+### Postulates of Quantum Mechanics
+
+1. **The State of a System:** The state of a quantum mechanical system is completely specified by a function that depends on the coordinates of the particle(s) and on time. This function is called the wave function or state function and has the important property that it is the probability that the particle lies in the volume element located at a certain time.
+
+2. **Physical Observables:** With every physical observable, there is associated an operator, which when operating upon the wavefunction associated with a definite value of that observable. To every observable in classical mechanics, there corresponds a linear, Hermitian operator in quantum mechanics.
+
+3. **Composite Systems:** The tensor product postulate of quantum mechanics states that the Hilbert space of a composite system is the tensor product of the components’ Hilbert spaces. All current formalizations of quantum mechanics that do not contain this postulate contain some equivalent postulate or assumption (sometimes hidden).
+
+4. **Mathematical Formulation:** The entire structure of quantum mechanics (including its relativistic extension) can be formulated in terms of states and operations in Hilbert space. We need rules that map the physical quantities such as states, observables, and measurements to the mathematical structure of vector spaces, vectors, and operators. The mathematical formulations of quantum mechanics are those mathematical formalisms that permit a rigorous description of quantum mechanics. This mathematical formalism uses mainly a part of functional analysis, especially Hilbert spaces, which are a kind of linear space.

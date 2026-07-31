@@ -1,0 +1,6 @@
+### Intelligent Transportation Systems and Wireless Access inVehicular Environment Technology for Developing Smart Cities
+
+- Intelligent Transportation Systems (ITS) technologies include state-of-the-art wireless, electronic, and automated technologies. These technologies have the potential to integrate vehicles (transit, trucks, and personal vehicles), system users, and infrastructure (roads and transit).
+- Transportation is a major factor affecting urban areas, and a key use case for smart cities. Intelligent transportation systems, often using a traffic management center to monitor and coordinate a large network of sensors, are finding innovative ways to improve traffic congestion and urban mobility.
+- Sustainable, secure, intelligent transportation system solutions can unlock access to transformational use cases, like port modernization, vehicle-to-everything (V2X) communication, electric vehicle charging, and auto-routing and scheduling for smart railways.
+- The primary goals of a smart city can be categorized into two: to achieve a sustainable and enhanced city and encourage the optimal use of existing infrastructure, where the management and coordination of ITS and wireless communications play a crucial role.

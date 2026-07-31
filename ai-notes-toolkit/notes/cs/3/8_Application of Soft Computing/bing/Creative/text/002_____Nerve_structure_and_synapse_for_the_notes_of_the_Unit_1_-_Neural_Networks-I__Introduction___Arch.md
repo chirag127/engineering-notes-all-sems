@@ -1,0 +1,9 @@
+### Nerve structure and synapse
+
+- A nerve is a bundle of nerve fibres (axons) that transmit electrical impulses from one part of the body to another.
+- A nerve fibre is a long extension of a nerve cell (neuron) that carries an action potential (a brief change in the electrical charge of the cell membrane) along its length.
+- A neuron consists of three main parts: a cell body (soma), which contains the nucleus and other organelles; a dendrite, which is a branched projection that receives signals from other neurons or sensory receptors; and an axon, which is a long projection that sends signals to other neurons, muscles or glands.
+- A synapse is a structure that allows a neuron to communicate with another neuron or a target cell. There are two main types of synapses: chemical and electrical.
+- A chemical synapse is a type of synapse where the presynaptic neuron (the neuron that sends the signal) releases a chemical messenger called a neurotransmitter into the synaptic cleft (a narrow gap between the presynaptic and postsynaptic cells). The neurotransmitter binds to specific receptors on the postsynaptic cell (the cell that receives the signal), causing a change in its membrane potential or intracellular signalling.
+- An electrical synapse is a type of synapse where the presynaptic and postsynaptic cells are connected by gap junctions (channels that allow the direct flow of ions and small molecules between cells). Electrical synapses allow the rapid and synchronous transmission of electrical signals between cells.
+- The structure and function of synapses are essential for the processing and integration of information in the nervous system. Synapses can be excitatory (increasing the likelihood of the postsynaptic cell to fire an action potential) or inhibitory (decreasing the likelihood of the postsynaptic cell to fire an action potential). Synapses can also be modulated by various factors, such as hormones, drugs, or learning and memory.

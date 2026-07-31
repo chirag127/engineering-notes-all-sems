@@ -1,0 +1,24 @@
+## Unit 5 - Technologies for SOA
+
+- Service-oriented architecture (SOA) is a software development model that allows services to communicate across different platforms and languages to form applications.
+- A service is a self-contained unit of software designed to complete a specific task.
+- SOA is independent of vendors and technologies, meaning a wide variety of products can be used to implement the architecture.
+- Some standard protocols to implement SOA include the following:
+  - Simple Object Access Protocol (SOAP): A protocol for exchanging structured information in a distributed environment using XML.
+  - RESTful HTTP: A style of web service that uses HTTP methods (GET, POST, PUT, DELETE) to provide a uniform interface for accessing resources.
+  - Apache Thrift: A framework for defining and implementing cross-language services using an interface definition language (IDL) and a code generator.
+  - Apache ActiveMQ: A message broker that supports various messaging protocols and provides reliable and scalable messaging services.
+  - Java Message Service (JMS): A Java API for sending and receiving messages between distributed applications.
+- You can even use more than one protocol in your SOA implementation, depending on the end goal of the system.
+- SOA can also be implemented with cloud computing, which is a broad movement towards internet and the use of WAN and enable smooth interaction between IT service providers of many types and consumers.
+- Cloud technology brings with it a number of key benefits and risks, such as scalability, elasticity, cost-efficiency, security, privacy, and compliance.
+- Some examples of cloud services that support SOA are:
+  - Amazon Web Services (AWS): A collection of cloud computing services that provide infrastructure, platform, and software as a service (IaaS, PaaS, SaaS) solutions.
+  - AWS Fargate: A service that allows you to build, isolate, and run secure microservices in managed containers to simplify operations and reduce management overhead.
+  - AWS Lambda: A service that allows you to run your microservices without provisioning and managing servers, and pay only for the compute time you consume.
+- SOA aims to achieve the following benefits:
+  - Reusability: Services can be reused in different contexts and applications, reducing development time and cost.
+  - Interoperability: Services can communicate with each other using common interface standards and an architectural pattern, enabling integration and collaboration.
+  - Loose coupling: Services are independent and loosely connected, minimizing dependencies and allowing changes to be made with minimal impact.
+  - Agility: Services can be rapidly incorporated into new applications, enabling faster response to changing business needs and opportunities.
+  - Quality: Services can be tested and verified individually, ensuring reliability and performance.

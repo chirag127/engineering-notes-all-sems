@@ -1,0 +1,11 @@
+### Famous Sanskrit Authors in India
+
+Sanskrit is one of the oldest and most influential languages in India. It is the language of Hindu scriptures, classical literature, philosophy, and science. Sanskrit literature spans over a period of more than two millennia and covers various genres such as poetry, drama, epics, and prose. Some of the famous Sanskrit authors in India are:
+
+- **Kalidasa**: He is considered to be the greatest poet and dramatist in the Sanskrit language. He lived in the 4th or 5th century CE and wrote two epic poems, Kumārasambhava and Raghuvaṃśa, and three plays, Mālavikāgnimitra, Abhijñānaśākuntala, and Vikramorvaśīya. His works are known for their lyrical beauty, romantic charm, and cultural richness  .
+- **Bharavi**: He was a 6th century CE poet who wrote the epic poem Kirātārjunīya, which narrates the encounter between Arjuna and Shiva in the form of a hunter. His poem is admired for its bold and complex style, vivid imagery, and rhetorical devices .
+- **Bhartṛhari**: He was a 5th century CE poet and philosopher who wrote three collections of verses on different themes: Śatakatraya, which consists of Nītiśataka (ethical maxims), Śṛṅgāraśataka (erotic poems), and Vairāgyaśataka (renunciation poems). He also wrote a treatise on grammar and linguistics called Vākyapadīya .
+- **Bhāsa**: He was a 3rd or 4th century BCE playwright who wrote thirteen plays based on the Mahabharata and the Ramayana. His plays are known for their dramatic realism, psychological insight, and poetic elegance. Some of his famous plays are Svapnavāsavadattā, Pratijñāyaugandharāyaṇa, and Urubhaṅga .
+- **Bāṇabhaṭṭa**: He was a 7th century CE poet and prose writer who wrote the historical romance Kādambarī and the biographical novel Harṣacarita. His works are praised for their ornate and elaborate style, rich imagination, and vivid characterization .
+- **Bhaṭṭa Nārāyaṇa**: He was a 9th or 10th century CE poet who wrote the lyrical poem Vāsavadattācampū, which is a retelling of the story of Vāsavadattā, the wife of King Udayana. His poem is noted for its musical quality, graceful expression, and emotional appeal .
+- **Buddhasvāmin**: He was a 5th or 6th century CE poet who wrote the epic poem Buddhacarita, which is a biography of the Buddha. His poem is admired for its simplicity, clarity, and devotion .

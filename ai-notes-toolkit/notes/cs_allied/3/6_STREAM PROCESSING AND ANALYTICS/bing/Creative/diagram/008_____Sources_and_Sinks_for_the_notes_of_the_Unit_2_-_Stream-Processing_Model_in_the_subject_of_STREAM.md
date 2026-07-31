@@ -1,0 +1,13 @@
+### Sources and Sinks
+
+- Sources and sinks are the components that produce and consume data streams in a stream processing application    .
+- Sources and sinks can be external systems, such as databases, message brokers, web services, or files, or internal applications, such as microservices, functions, or operators .
+- Sources and sinks can be connected by stream processing frameworks, such as Apache Kafka, Apache Flink, Apache Spark, or Spring Cloud Data Flow, to form a data pipeline  .
+- Sources and sinks can have different characteristics, such as data format, data rate, data quality, data reliability, data partitioning, data ordering, data consistency, and data latency.
+- Sources and sinks can be classified into two paradigms: publisher/subscriber (pub/sub) and source/sink.
+  - In the pub/sub paradigm, sources are called publishers and sinks are called subscribers. Publishers publish data and events to a topic, which is a logical channel that subscribers can subscribe to. Subscribers receive data and events from the topics they are interested in.
+  - In the source/sink paradigm, sources are called sources and sinks are called sinks. Sources generate data and events and send them to a stream processing application, which processes them and sends them to sinks. Sinks receive data and events from the stream processing application and write them to a destination.
+- Examples of sources and sinks include:
+  - Apache Kafka: a distributed streaming platform that can act as both a source and a sink. It can produce and consume data streams from various sources and sinks, such as databases, web services, files, or other applications. It can also provide stream processing capabilities, such as filtering, aggregation, transformation, or windowing  .
+  - Hadoop: a big data framework that can act as a sink. It can store and process large volumes of data from various sources, such as Apache Kafka, web services, files, or other applications. It can also provide batch processing capabilities, such as map-reduce, SQL, or machine learning  .
+  - Spring Cloud Data Flow: a stream processing framework that can act as a source, a processor, or a sink. It can create and orchestrate data pipelines using Spring Boot applications that can consume and produce data streams from various sources and sinks, such as Apache Kafka, RabbitMQ, MongoDB, or MySQL. It can also provide stream processing capabilities, such as filtering, transformation, routing, or analytics .

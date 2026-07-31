@@ -1,0 +1,21 @@
+### Fourier Descriptors for Shape-Based Image Retrieval
+
+- Fourier descriptors are a method of representing and comparing the shapes of objects in images.
+- Fourier descriptors are based on the Fourier transform, which decomposes a periodic function into a sum of sinusoidal components with different frequencies, amplitudes and phases.
+- Fourier descriptors can be computed from the contour of an object, which is a sequence of points that define the boundary of the object.
+- The contour can be represented as a complex function, where the real and imaginary parts are the x and y coordinates of the points, respectively.
+- The Fourier transform of the contour function gives a set of complex coefficients, called Fourier descriptors, that capture the shape information of the object.
+- Fourier descriptors have several advantages for shape-based image retrieval:
+  - They are invariant to translation, scale and rotation of the object, meaning that the shape representation does not change if the object is moved, resized or rotated in the image.
+  - They can be made invariant to the starting point of the contour, meaning that the shape representation does not depend on where the contour is traced from.
+  - They can be used to compare shapes of different sizes and complexities, by using a subset of the coefficients that capture the most relevant features of the shape.
+  - They can be used to reconstruct the contour of the object, by applying the inverse Fourier transform to the coefficients.
+- The steps to compute and use Fourier descriptors for shape-based image retrieval are:
+  - Extract the contour of the object from the image, using edge detection, thresholding or other methods.
+  - Represent the contour as a complex function, by assigning the x and y coordinates of the points to the real and imaginary parts, respectively.
+  - Apply the Fourier transform to the contour function, using a discrete Fourier transform (DFT) or a fast Fourier transform (FFT) algorithm, to obtain the Fourier descriptors.
+  - Normalize the Fourier descriptors, by dividing them by the first coefficient, to make them invariant to translation, scale and rotation.
+  - Shift the Fourier descriptors, by multiplying them by a complex exponential, to make them invariant to the starting point of the contour.
+  - Select a subset of the Fourier descriptors, by discarding the high-frequency components, to reduce the noise and the complexity of the shape representation.
+  - Compare the Fourier descriptors of different objects, by using a distance measure, such as the Euclidean distance or the cosine similarity, to retrieve the most similar shapes from a database.
+  - Reconstruct the contour of the object, by applying the inverse Fourier transform to the Fourier descriptors, to visualize the shape representation.

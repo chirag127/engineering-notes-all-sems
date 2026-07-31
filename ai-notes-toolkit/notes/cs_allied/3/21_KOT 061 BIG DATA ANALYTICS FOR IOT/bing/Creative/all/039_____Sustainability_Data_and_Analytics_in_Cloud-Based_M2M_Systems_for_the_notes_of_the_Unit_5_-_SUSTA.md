@@ -1,0 +1,27 @@
+# Sustainability Data and Analytics in Cloud-Based M2M Systems
+
+- M2M stands for machine-to-machine communication, which enables devices to exchange data and perform actions without human intervention.
+- Cloud-based M2M systems are systems that use cloud computing technologies to provide scalable, reliable, and cost-effective solutions for M2M applications.
+- Sustainability data and analytics are the processes of collecting, processing, analyzing, and visualizing data related to the environmental, social, and economic aspects of sustainability.
+- Cloud-based M2M systems can support sustainability governance by providing data and analytics services for different stakeholders, such as building owners, facility managers, tenants, and regulators.
+- Some of the challenges and requirements for data and analytics in cloud-based M2M systems are:
+  - Data integration: how to link and manage data from heterogeneous sources, such as sensors, smart meters, weather stations, etc.
+  - Data quality: how to ensure the accuracy, completeness, and timeliness of the data.
+  - Data security and privacy: how to protect the data from unauthorized access and use, and comply with the relevant regulations and policies.
+  - Data analysis: how to perform various types of analysis, such as descriptive, predictive, prescriptive, and exploratory, to extract useful insights and knowledge from the data.
+  - Data visualization: how to present the data and analysis results in an intuitive and interactive way, to support decision making and communication.
+- Some of the techniques and solutions for data and analytics in cloud-based M2M systems are:
+  - Platform-as-a-Service (PaaS): a cloud service model that provides a platform for developing, deploying, and managing M2M applications and data.
+  - Analytics framework: a set of tools and methods that support data and analytics tasks, such as data ingestion, processing, storage, querying, analysis, and visualization.
+  - Stakeholder analysis: a process of identifying and understanding the needs, interests, and expectations of the stakeholders involved in the M2M system.
+  - Data linking: a technique of establishing connections and relationships between data entities, such as monitored objects, monitoring data, and analytics applications.
+  - Data enrichment: a technique of adding additional information and context to the data, such as metadata, annotations, and semantic labels.
+  - Data management: a technique of organizing, maintaining, and updating the data, such as data cleaning, validation, and versioning.
+- A prototype of a cloud-based data analytics system for sustainability governance in smart buildings is presented, which includes:
+  - A PaaS based on the FIWARE platform, which provides generic and specific enablers for M2M applications and data.
+  - An analytics framework based on the Apache Hadoop ecosystem, which provides tools for data ingestion, processing, storage, querying, analysis, and visualization.
+  - A stakeholder analysis based on interviews and surveys, which identifies the main stakeholders and their requirements for data and analytics in smart buildings.
+  - A data linking technique based on the Linked Data principles, which creates and manages links between monitored objects, monitoring data, and analytics applications.
+  - A data enrichment technique based on the Semantic Sensor Network ontology, which adds metadata and annotations to the data, such as location, type, and unit.
+  - A data management technique based on the Git version control system, which tracks the changes and updates of the data and the links.
+- The prototype is evaluated using a real-world cloud system for facility monitoring and analytics, which collects data from thousands of sensors in a complex building. The evaluation shows that the prototype can support the data and analytics needs of different stakeholders, and provide a scalable, reliable, and cost-effective solution for sustainability governance in smart buildings.

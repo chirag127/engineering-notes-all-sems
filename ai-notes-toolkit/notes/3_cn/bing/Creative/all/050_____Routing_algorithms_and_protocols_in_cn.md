@@ -1,0 +1,18 @@
+### Routing algorithms and protocols in computer networks
+
+- Routing is the process of finding and selecting the best path for data transmission from source to destination in a network.
+- Routing algorithms are the software programs that implement the logic of routing, using various metrics and criteria to determine the optimal path.
+- Routing protocols are the set of rules and standards that enable routers to communicate with each other and exchange routing information.
+- Routing algorithms and protocols can be classified into three major categories :
+  - **Interior gateway protocols (IGPs)**: These are the routing protocols used within a single autonomous system (AS), which is a network under the same administrative control. IGPs can be further divided into two types:
+    - **Link-state routing protocols**: These protocols maintain a complete map of the network topology and calculate the shortest path to each destination using an algorithm such as Dijkstra's or Bellman-Ford. Examples of link-state protocols are Open Shortest Path First (OSPF) and Intermediate System to Intermediate System (IS-IS).
+    - **Distance-vector routing protocols**: These protocols exchange information about the distance and direction to each destination with their neighboring routers. They use an iterative process of updating their routing tables based on the information received from other routers. Examples of distance-vector protocols are Routing Information Protocol (RIP) and Interior Gateway Routing Protocol (IGRP).
+  - **Exterior gateway protocols (EGPs)**: These are the routing protocols used between different autonomous systems. They are responsible for exchanging routing information and policies among different networks. The most common EGP is the Border Gateway Protocol (BGP), which is used to connect the Internet.
+  - **Hybrid routing protocols**: These are the routing protocols that combine the features of both link-state and distance-vector protocols. They use a hierarchical structure to divide the network into zones or areas and use different routing algorithms within and between the zones. Examples of hybrid protocols are Enhanced Interior Gateway Routing Protocol (EIGRP) and Zone Routing Protocol (ZRP).
+- Routing algorithms and protocols have various advantages and disadvantages, depending on the network size, topology, traffic, and performance requirements. Some of the factors that affect the choice of routing algorithms and protocols are  :
+  - **Scalability**: The ability of the routing algorithm or protocol to handle the growth of the network and the number of routers and destinations.
+  - **Convergence**: The speed and efficiency of the routing algorithm or protocol to reach a consistent and accurate state of the network after a change or failure.
+  - **Overhead**: The amount of bandwidth and processing power consumed by the routing algorithm or protocol to exchange and process routing information.
+  - **Robustness**: The ability of the routing algorithm or protocol to cope with errors, failures, and attacks in the network.
+  - **Flexibility**: The ability of the routing algorithm or protocol to adapt to different network conditions and requirements, such as load balancing, quality of service, and security.
+- Routing algorithms and protocols are an essential component of computer networks, as they enable data to flow between different parts of the network and reach the intended destination. They are also important for the performance, reliability, and security of the network. Therefore, it is important to understand the basic concepts and principles of routing algorithms and protocols, as well as their advantages and disadvantages, for designing and managing computer networks.

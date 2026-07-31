@@ -1,0 +1,27 @@
+# Isometric scales for the notes of the Unit 4 - Isometric Projection in the subject of ENGINEERING GRAPHICS & DESIGN LAB
+
+- Isometric projection is a method for visually representing three-dimensional objects in two dimensions in technical and engineering drawings.
+- It is an axonometric projection in which the three coordinate axes appear equally foreshortened and the angle between any two of them is 120 degrees.
+- Isometric projection is useful for showing the general shape and dimensions of an object without distortion or perspective.
+- Isometric scale is a tool for constructing isometric projections of objects by using a reduced scale along the isometric axes.
+- The isometric scale is constructed as follows:
+  - Draw a horizontal line OA.
+  - Through O draw OP and OQ at 30º and 45º to the horizontal respectively.
+  - On OQ mark the actual scale in mm.
+  - Draw verticals from each of the division points on the actual scale to cut OP at the corresponding divisions.
+  - The points on OP form the isometric scale.
+- The isometric scale is used to measure the lengths of the isometric lines in the isometric projection of an object.
+- The isometric scale is smaller than the actual scale by a factor of 0.816.
+- The isometric scale can be used to draw isometric projections of simple objects such as cubes, prisms, pyramids, cylinders, cones, and spheres.
+- The isometric projection of an object is drawn by using the isometric scale and the following steps:
+  - Draw the isometric axes (X, Y, and Z) at 120 degrees to each other.
+  - Locate the isometric center of the object on the isometric axes.
+  - Draw the isometric outline of the object by using the isometric scale and the isometric angles.
+  - Draw the hidden edges of the object as dashed lines.
+  - Add the details and dimensions of the object as required.
+- The isometric projection of an object can be checked for accuracy by using the following rules:
+  - All the isometric lines should be parallel to the isometric axes or perpendicular to them.
+  - All the non-isometric lines should be drawn at 30 degrees or 45 degrees to the isometric axes.
+  - All the isometric circles should be drawn as ellipses with the major axis at 30 degrees to the horizontal.
+  - All the isometric angles should be 120 degrees or 90 degrees.
+  - All the isometric dimensions should be proportional to the actual dimensions by a factor of 0.816.

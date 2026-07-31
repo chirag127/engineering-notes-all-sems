@@ -1,0 +1,9 @@
+# The Exclusion Principle
+
+- The exclusion principle is a technique used in data compression algorithms that rely on context modeling and prediction, such as PPMC .
+- The idea is to exclude symbols that have already been seen in a higher-order context from the probability computation of a lower-order context, thus avoiding double-counting and improving compression efficiency .
+- For example, suppose we have a text file that contains the word "compression" several times, and we want to encode the last letter "n" using a PPMC algorithm with a maximum context order of 2.
+- The algorithm would first look at the previous two symbols, which are "io", and check if "n" has occurred after "io" before. If yes, it would assign a high probability to "n" and a low probability to an escape symbol, which indicates that the symbol is not in the current context.
+- If no, it would use the escape symbol and move to a lower-order context, which is the previous symbol "o". However, it would exclude "n" from the probability computation of "o", because "n" has already been seen after "io", and including it again would overestimate its probability. Instead, it would assign probabilities to other symbols that have occurred after "o" before, and another escape symbol.
+- This process would continue until either the symbol is found in a context, or the zero-order context is reached, which assigns equal probabilities to all symbols.
+- The exclusion principle helps to avoid wasting bits on symbols that are unlikely to occur in a given context, and to focus on symbols that are more relevant and informative. It also reduces the number of escape symbols needed, which saves space and improves compression ratio .

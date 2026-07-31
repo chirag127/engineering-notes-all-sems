@@ -1,0 +1,22 @@
+# Modeling UML Use Case Diagrams and Capturing Use Case Scenarios
+
+- UML stands for Unified Modeling Language, which is a standard way of visualizing and documenting the design of a software system.
+- Use case diagrams are one of the types of UML diagrams that show the behavior and requirements of a system from the perspective of the users (or actors).
+- Use case diagrams consist of the following elements:
+  - Actors: represent the roles or entities that interact with the system, such as users, customers, or other systems. Actors are depicted as stick figures or icons.
+  - Use cases: represent the goals or functions that the actors want to achieve by using the system, such as placing an order, logging in, or making a payment. Use cases are depicted as ovals with names inside.
+  - Relationships: represent the connections or associations between actors and use cases, or between use cases themselves. Relationships are depicted as lines with different symbols to indicate the type of relationship, such as association, include, extend, or generalize.
+- Use case diagrams can be used to:
+  - Represent the goals and scope of a system or a software project
+  - Define and organize the functional requirements of a system
+  - Specify the context and boundaries of a system
+  - Model the basic flow of events and alternative scenarios in a use case
+  - Communicate and validate the system behavior with the stakeholders
+- Use case diagrams can be drawn using various tools, such as Visio, Lucidchart, or Visual Paradigm.
+- Use case scenarios are the textual descriptions of the steps and interactions that occur in a use case diagram. They can be written in different formats, such as plain text, tables, or structured templates.
+- Use case scenarios can be used to:
+  - Elaborate the details and variations of a use case
+  - Specify the preconditions, postconditions, and exceptions of a use case
+  - Verify and test the functionality and quality of a system
+  - Generate test cases and documentation for a system
+- Use case scenarios can be captured using various techniques, such as interviews, questionnaires, observation, or brainstorming.

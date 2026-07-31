@@ -1,0 +1,11 @@
+### Arduino for the notes of the Unit 1 - INTRODUCTION in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+Arduino is an open-source electronics platform based on easy-to-use hardware and software. It is a popular choice for wearable computing, mixed reality and internet of everything projects due to its versatility and affordability. Here are some important points to keep in mind while learning about Arduino:
+
+- Arduino boards come in different shapes and sizes, with varying capabilities. Some of the popular ones are Arduino Uno, Arduino Mega, and Arduino Nano. Each board has different specifications and can be used for different purposes.
+- Arduino uses a simplified version of C++ programming language to write code. The code is uploaded onto the Arduino board using the Arduino Integrated Development Environment (IDE), which is a simple and user-friendly software tool.
+- Arduino can interact with a wide range of sensors and actuators, making it ideal for wearable computing and mixed reality projects. Sensors such as accelerometers, gyroscopes, and heart rate monitors can be connected to the board to collect data, while actuators such as motors and LEDs can be used to display or control output.
+- Arduino also has the capability to connect to the internet, making it a popular choice for internet of everything projects. With the help of Ethernet or Wi-Fi shields, the board can be connected to a network and can interact with other devices or services over the internet.
+- Arduino has a large community of users and developers who share their projects and code online. This makes it easy to find inspiration, learn new techniques, and troubleshoot issues while working with Arduino.
+
+In summary, Arduino is a versatile and affordable electronics platform that is well-suited for wearable computing, mixed reality, and internet of everything projects. Its ease of use, large community, and compatibility with a wide range of sensors and actuators make it a popular choice among developers and hobbyists.

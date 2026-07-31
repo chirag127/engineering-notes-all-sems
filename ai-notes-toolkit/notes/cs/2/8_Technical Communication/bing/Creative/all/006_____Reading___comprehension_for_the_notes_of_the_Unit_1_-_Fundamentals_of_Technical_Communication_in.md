@@ -1,0 +1,29 @@
+# Reading & comprehension for the notes of the Unit 1 - Fundamentals of Technical Communication in the subject of Technical Communication
+
+- Reading is a process of decoding written symbols and constructing meaning from them.
+- Comprehension is the ability to understand and interpret what is read.
+- Reading and comprehension are essential skills for technical communication, as they enable the reader to access, analyze, evaluate, and use information from various sources and formats.
+- Reading and comprehension involve several cognitive processes, such as:
+  - Skimming: reading quickly to get the main idea or gist of a text.
+  - Scanning: reading selectively to locate specific information or details in a text.
+  - Previewing: reading the title, headings, introduction, summary, and other features of a text to get an overview of its content and purpose.
+  - Predicting: making guesses or inferences about what will happen next or what the text will say based on prior knowledge and clues from the text.
+  - Questioning: asking questions before, during, and after reading to clarify, verify, or challenge the information or ideas in the text.
+  - Summarizing: restating the main points or key ideas of a text in one's own words.
+  - Paraphrasing: rewriting a passage or sentence from a text in one's own words without changing its meaning or tone.
+  - Synthesizing: combining information or ideas from two or more texts to create a new understanding or perspective.
+  - Evaluating: judging the quality, credibility, relevance, and usefulness of a text based on criteria and standards.
+  - Applying: using the information or ideas from a text to solve a problem, make a decision, or perform a task.
+- Reading and comprehension strategies can be classified into three categories:
+  - Before reading: strategies that activate prior knowledge, set a purpose, and prepare the reader for the text.
+  - During reading: strategies that monitor comprehension, make connections, and adjust reading speed and style according to the text.
+  - After reading: strategies that review, reflect, and respond to the text.
+- Reading and comprehension can be improved by:
+  - Developing a positive attitude and motivation towards reading.
+  - Expanding vocabulary and background knowledge.
+  - Choosing appropriate texts and materials that match one's interests, goals, and level of difficulty.
+  - Practicing reading regularly and frequently.
+  - Seeking feedback and guidance from others, such as teachers, peers, or experts.
+  - Using various sources and formats of information, such as books, articles, websites, podcasts, videos, etc.
+  - Applying reading and comprehension skills and strategies to different types of texts, such as narratives, expository, persuasive, descriptive, etc.
+  - Evaluating one's own reading and comprehension performance and setting goals for improvement.

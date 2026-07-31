@@ -1,0 +1,12 @@
+### Structure and function of cell membrane
+
+- The cell membrane, also known as the plasma membrane, is a thin semi-permeable membrane that surrounds the cytoplasm of a cell.
+- The cell membrane has two main functions: first, to protect the integrity of the interior of the cell by allowing certain substances into the cell while keeping other substances out and, second, to be a gate allowing transport into the cell of essential nutrients and movement from the cell of waste products.
+- The cell membrane also provides support and maintains the shape of the cell. It helps in regulating cell growth through the balance of endocytosis and exocytosis. It plays an important role in cell signalling and communication by using hormones, neurotransmitters, and other signaling molecules .
+- The cell membrane is composed primarily of fatty-acid-based lipids and proteins, and carbohydrate groups that are attached to some of the lipids and proteins .
+- The most abundant lipids in the cell membrane are phospholipids, which have a hydrophilic (water-loving) head and a hydrophobic (water-fearing) tail. Phospholipids form a bilayer in which the hydrophobic tails face each other and the hydrophilic heads face the aqueous environment on both sides of the membrane.
+- Cholesterol is another lipid that is present in the cell membrane. It helps to maintain the fluidity and stability of the membrane by preventing the phospholipids from packing too closely or too loosely together.
+- Proteins in the cell membrane have various functions, such as structural support, transport, enzymatic activity, signal transduction, cell recognition, and cell adhesion . Proteins can be classified as integral or peripheral, depending on their location and attachment to the membrane.
+- Integral proteins are embedded in the phospholipid bilayer and span the entire thickness of the membrane. They can act as channels, carriers, receptors, or enzymes.
+- Peripheral proteins are loosely attached to the surface of the membrane or to the integral proteins. They can act as anchors, enzymes, or regulators.
+- Carbohydrate groups are attached to some of the lipids and proteins on the outer surface of the cell membrane. They form a layer called the glycocalyx, which helps to protect the cell from mechanical and chemical damage, and to mediate cell-cell recognition and communication.

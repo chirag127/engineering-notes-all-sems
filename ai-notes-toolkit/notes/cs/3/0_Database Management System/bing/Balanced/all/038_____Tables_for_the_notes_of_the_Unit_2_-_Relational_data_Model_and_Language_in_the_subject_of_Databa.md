@@ -1,0 +1,43 @@
+# Tables for the notes of the Unit 2 - Relational data Model and Language in the subject of Database Management System
+
+- A **table** is a collection of data organized in rows and columns.
+- A table has a **name** that identifies it uniquely in a database.
+- A table has a **schema** that defines the structure and properties of the data in the table.
+- A table schema consists of a list of **attributes** (or columns) and their **data types** (such as integer, string, date, etc.).
+- A table schema also specifies **constraints** that restrict the values or combinations of values that can be stored in the table.
+- Some common types of constraints are:
+  - **Primary key**: a set of attributes that uniquely identifies each row in the table.
+  - **Foreign key**: a set of attributes that references another table and establishes a relationship between the tables.
+  - **Unique**: a constraint that ensures that no two rows in the table have the same values for a set of attributes.
+  - **Not null**: a constraint that prevents null values from being stored in an attribute.
+  - **Check**: a constraint that enforces a condition on the values of an attribute or a set of attributes.
+- A **row** (or tuple) in a table represents a single record or entity in the database.
+- A **column** (or attribute) in a table represents a property or characteristic of the entity.
+- A **value** in a table is the data stored in a cell at the intersection of a row and a column.
+- A **relational data model** is a data model that represents data as tables and defines operations to manipulate and query the data.
+- A **relational database** is a database that follows the relational data model and stores data in tables.
+- A **relational database management system (RDBMS)** is a software system that provides tools and functions to create, maintain, and access relational databases.
+- A **relational algebra** is a set of operations that can be applied to tables or the results of other operations to produce new tables.
+- Some common relational algebra operations are:
+  - **Selection**: an operation that selects a subset of rows from a table that satisfy a given condition.
+  - **Projection**: an operation that selects a subset of columns from a table and eliminates duplicates.
+  - **Union**: an operation that combines two tables with the same schema and eliminates duplicates.
+  - **Intersection**: an operation that returns the common rows between two tables with the same schema.
+  - **Difference**: an operation that returns the rows in one table that are not in another table with the same schema.
+  - **Cartesian product**: an operation that combines every row of one table with every row of another table and produces a new table with the concatenated schema.
+  - **Join**: an operation that combines two tables based on a common attribute or a join condition and produces a new table with the concatenated schema.
+  - **Division**: an operation that returns the rows in one table that are associated with all the rows in another table and produces a new table with the reduced schema.
+- A **relational calculus** is a declarative language that allows users to specify what data they want from the database without specifying how to get it.
+- Some common types of relational calculus are:
+  - **Tuple relational calculus**: a language that uses variables to represent tuples and defines formulas to specify the conditions that the tuples must satisfy.
+  - **Domain relational calculus**: a language that uses variables to represent values in the domains of the attributes and defines formulas to specify the conditions that the values must satisfy.
+- A **structured query language (SQL)** is a standard language that allows users to create, manipulate, and query relational databases using a combination of relational algebra and relational calculus.
+- Some common SQL commands are:
+  - **CREATE TABLE**: a command that creates a new table in the database and defines its schema and constraints.
+  - **DROP TABLE**: a command that deletes an existing table from the database and removes all its data.
+  - **ALTER TABLE**: a command that modifies the schema or constraints of an existing table in the database.
+  - **INSERT**: a command that inserts one or more rows into a table in the database.
+  - **UPDATE**: a command that modifies one or more rows in a table in the database based on a given condition.
+  - **DELETE**: a command that deletes one or more rows from a table in the database based on a given condition.
+  - **SELECT**: a command that queries data from one or more tables in the database and returns a result table.
+  - **JOIN**: a clause that combines two tables based on a common attribute or a join condition and produces a new table with the concatenated schema

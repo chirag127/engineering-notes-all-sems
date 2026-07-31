@@ -1,0 +1,25 @@
+### Higher Order Functions: Treat functions as first class Objects , Lambda Expressions
+
+- Higher order functions (HOFs) are functions that can take other functions as arguments or return functions as results .
+- In Python, functions are first class objects, which means they have the following properties:
+  - They can be assigned to variables
+  - They can be passed as parameters to other functions
+  - They can be returned from other functions
+  - They can be stored in data structures such as lists, dictionaries, etc.
+- Examples of built-in higher order functions in Python are `map`, `filter`, `sorted`, and `reduce`.
+- `map` applies a function to each element of an iterable and returns a new iterable with the results
+- `filter` returns a new iterable with only the elements that satisfy a predicate function
+- `sorted` returns a new iterable with the elements sorted according to a key function or a comparison function
+- `reduce` applies a binary function to the elements of an iterable and returns a single value
+- Lambda expressions are anonymous functions that can be created with the `lambda` keyword.
+- Lambda expressions can be used as arguments to higher order functions or assigned to variables
+- Lambda expressions have the following syntax: `lambda parameters: expression`
+- The expression is evaluated and returned when the lambda function is called
+- Lambda expressions can only contain one expression and cannot have statements or annotations
+- Examples of lambda expressions:
+  - `lambda x: x**2` is a function that returns the square of its argument
+  - `lambda x, y: x + y` is a function that returns the sum of its two arguments
+  - `lambda x: x > 0` is a function that returns `True` if its argument is positive and `False` otherwise
+- References:
+  - : https://www.geeksforgeeks.org/higher-order-functions-in-python/
+  - : https://www.codespeedy.com/higher-order-functions-in-python-map-filter-sorted-reduce/

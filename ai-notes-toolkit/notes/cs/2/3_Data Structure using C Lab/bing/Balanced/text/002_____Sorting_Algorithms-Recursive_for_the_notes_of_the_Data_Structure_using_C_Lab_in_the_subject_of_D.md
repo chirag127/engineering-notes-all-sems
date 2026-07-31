@@ -1,0 +1,15 @@
+### Sorting Algorithms-Recursive
+
+Sorting algorithms are methods of arranging data in a specific order, such as ascending or descending. Sorting algorithms can be classified into two types: iterative and recursive. Iterative algorithms use loops to repeat a set of steps until the data is sorted, while recursive algorithms use function calls to divide the data into smaller subproblems and solve them recursively.
+
+Some of the common sorting algorithms that use recursion are:
+
+- **Insertion sort**: This algorithm works by placing each element in its correct position in the sorted subarray that precedes it. To sort an array of n elements, it calls itself recursively n times, each time passing a smaller subarray as an argument. The base case is when the subarray has only one element, which is already sorted. The time complexity of this algorithm is O(n^2) in the worst case and O(n) in the best case. 
+
+- **Bubble sort**: This algorithm works by comparing adjacent elements and swapping them if they are out of order. To sort an array of n elements, it calls itself recursively n times, each time passing the same array as an argument, but reducing the size of the subarray to be sorted by one. The base case is when the subarray has only one element, which is already sorted. The time complexity of this algorithm is O(n^2) in the worst and average cases and O(n) in the best case. 
+
+- **Selection sort**: This algorithm works by finding the smallest (or largest) element in the unsorted subarray and swapping it with the first (or last) element of the subarray. To sort an array of n elements, it calls itself recursively n times, each time passing a smaller subarray as an argument. The base case is when the subarray has only one element, which is already sorted. The time complexity of this algorithm is O(n^2) in all cases. 
+
+- **Merge sort**: This algorithm works by dividing the array into two equal or nearly equal subarrays, sorting them recursively, and then merging them back into a single sorted array. To sort an array of n elements, it calls itself recursively twice, each time passing a half of the array as an argument. The base case is when the subarray has only one element, which is already sorted. The time complexity of this algorithm is O(n log n) in all cases. 
+
+- **Quick sort**: This algorithm works by choosing a pivot element from the array, partitioning the array into two subarrays such that all the elements less than the pivot are in the left subarray and all the elements greater than or equal to the pivot are in the right subarray, and then sorting the subarrays recursively. To sort an array of n elements, it calls itself recursively twice, each time passing a subarray as an argument. The base case is when the subarray has zero or one element, which is already sorted. The time complexity of this algorithm is O(n log n) in the average case and O(n^2) in the worst case.

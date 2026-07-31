@@ -1,0 +1,12 @@
+## Unit 3 - Design dynamic web pages using Javascript and XML
+
+- Dynamic web pages are web pages that can change their content or appearance without reloading the whole page. They can provide a better user experience and more interactivity than static web pages.
+- Javascript is a scripting language that can run in the browser and manipulate the HTML elements and the Document Object Model (DOM) of a web page. Javascript can also send and receive data from a web server using AJAX (Asynchronous Javascript and XML) or other techniques.
+- XML (Extensible Markup Language) is a markup language that can store and transport data in a structured and human-readable format. XML can be used to exchange data between a web page and a web server, or between different web services.
+- To design dynamic web pages using Javascript and XML, you need to follow these steps:
+
+  1. Create an HTML page that defines the structure and layout of the web page. You can use HTML5 elements and attributes to enhance the semantics and accessibility of the page.
+  2. Write Javascript code that can access and modify the HTML elements and the DOM of the page. You can use Javascript functions, variables, operators, loops, conditions, events, and objects to create dynamic behavior and logic for the page. You can also use external Javascript libraries or frameworks to simplify your code and add more functionality.
+  3. Use AJAX or other techniques to send and receive data from a web server using XML or other formats. You can use the XMLHttpRequest object or the Fetch API to create and handle HTTP requests and responses. You can also use JSON (JavaScript Object Notation) instead of XML as a data format, as it is more compatible with Javascript and easier to parse and manipulate.
+  4. Parse and process the data received from the web server using Javascript. You can use the DOMParser object or the XMLSerializer object to convert XML data to and from DOM objects. You can also use the JSON.parse() method or the JSON.stringify() method to convert JSON data to and from Javascript objects.
+  5. Update the HTML elements and the DOM of the page using Javascript based on the data received from the web server. You can use the innerHTML property or the textContent property to change the content of an element. You can also use the createElement() method, the appendChild() method, the removeChild() method, and other DOM methods to create, add, or remove elements dynamically.

@@ -1,0 +1,25 @@
+### Coins as Cultural Heritage of India
+
+- Coins are one of the most important sources of information about the history, culture, religion, economy, and politics of ancient and medieval India.
+- Coins reflect the artistic skills, technological innovations, political aspirations, and religious beliefs of the people who minted and used them.
+- Coins also provide evidence of trade, commerce, and cultural contacts between India and other regions of the world.
+- The origin of coinage in India can be traced back to the first millennium BCE, when punch-marked coins made of silver and copper were used as a medium of exchange.
+- These coins were called karshapanas or panas, and were issued by various janapadas or republics that existed in northern India.
+- The coins had various symbols, such as animals, plants, geometric shapes, and human figures, that represented the identity and authority of the issuing authority.
+- The earliest coins were uniface, meaning they had symbols only on one side, but later coins became biface, having symbols on both sides.
+- The Mauryan Empire (4th-2nd century BCE) introduced a new type of coinage, called cast copper coins, which were circular in shape and had a standard weight and size.
+- These coins had the image of the king or his emblem, such as the lion capital, on one side, and various symbols, such as the peacock, the bull, the elephant, the tree, etc., on the other side.
+- The Mauryan coins also had legends or inscriptions in Brahmi or Kharosthi scripts, giving the name and title of the king or his officials.
+- The post-Mauryan period (2nd-1st century BCE) saw the emergence of several regional kingdoms and dynasties, such as the Sungas, the Satavahanas, the Indo-Greeks, the Shakas, the Kushanas, etc., who issued their own coins in different metals, such as gold, silver, copper, lead, and potin.
+- These coins had various images and legends, reflecting the cultural diversity and syncretism of the period.
+- For example, the Indo-Greek coins had the portraits of the kings in Greek style, wearing helmets and diadems, and the legends in Greek and Kharosthi scripts, giving the name and title of the king and his epithets.
+- The Kushana coins had the images of the kings in Central Asian or Iranian style, wearing crowns and long coats, and the legends in Greek, Kharosthi, and Brahmi scripts, giving the name and title of the king and his deities.
+- The Kushana coins also depicted various gods and goddesses from different religions, such as Buddhism, Hinduism, Zoroastrianism, and Greek mythology, showing the religious tolerance and pluralism of the Kushana rulers.
+- The Gupta Empire (4th-6th century CE) is considered as the golden age of Indian coinage, as the coins of this period reached a high level of artistic excellence and sophistication.
+- The Gupta coins were mostly made of gold, and had the portraits of the kings in a realistic and elegant manner, wearing elaborate ornaments and garments, and performing various activities, such as hunting, playing musical instruments, offering sacrifices, etc.
+- The coins also had legends in Sanskrit and Brahmi scripts, giving the name and title of the king and his genealogy, and sometimes also his achievements and virtues.
+- The Gupta coins also depicted various Hindu gods and goddesses, such as Vishnu, Shiva, Lakshmi, Saraswati, etc., showing the revival and patronage of Hinduism by the Gupta rulers.
+- The medieval period (7th-12th century CE) witnessed the invasion and establishment of various foreign dynasties and rulers, such as the Arabs, the Turks, the Afghans, the Mongols, etc., who introduced new types of coinage, such as the silver dirham, the gold dinar, the copper jital, etc.
+- These coins had the images and legends of the rulers in Arabic or Persian scripts, giving the name and title of the ruler and his religious affiliation, and sometimes also his date and place of minting.
+- The coins also had various religious symbols, such as the crescent, the star, the kalima, etc., showing the influence and spread of Islam in India.
+- The medieval period also saw the continuation and development of indigenous coinage, such as the gold fanam, the silver tanka, the copper paisa, etc., issued by various Hindu and Jain kingdoms and dyn

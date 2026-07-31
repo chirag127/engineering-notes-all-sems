@@ -1,0 +1,16 @@
+### Basics of Spatial Filtering
+
+- Spatial filtering is a technique for modifying or enhancing an image by applying a filter or a mask to each pixel of the image.
+- A filter or a mask is a small matrix of numbers, usually with an odd number of rows and columns, that defines the weights or coefficients for a linear combination of the pixel values in a neighborhood around the pixel.
+- The result of applying a filter to a pixel is a new pixel value that is computed by multiplying each filter coefficient with the corresponding pixel value in the neighborhood, and then summing up the products.
+- The process of applying a filter to an image is also called convolution or correlation, depending on how the filter coefficients are arranged and how the neighborhood is defined.
+- Convolution is a mathematical operation that flips the filter coefficients horizontally and vertically before applying them to the image, while correlation does not flip the filter coefficients.
+- The neighborhood of a pixel is usually defined as a square or rectangular region centered at the pixel, with the same size as the filter. The filter coefficients are aligned with the pixel values in the neighborhood, and the center coefficient is multiplied with the pixel value itself.
+- Spatial filtering can be used for various purposes, such as smoothing, sharpening, edge detection, noise reduction, or feature extraction. Different types of filters have different effects on the image, depending on their coefficients and size.
+- Some common types of filters are:
+
+  - Low-pass filters: These filters reduce the high-frequency components of the image, such as edges, details, or noise, and preserve the low-frequency components, such as smooth regions or average intensity. They are also called smoothing or averaging filters. Examples of low-pass filters are mean filter, median filter, Gaussian filter, etc.
+  - High-pass filters: These filters enhance the high-frequency components of the image, such as edges, details, or contrast, and suppress the low-frequency components, such as smooth regions or average intensity. They are also called sharpening or differencing filters. Examples of high-pass filters are Laplacian filter, Sobel filter, Prewitt filter, etc.
+  - Band-pass filters: These filters pass a certain range of frequencies and attenuate the others. They can be used to isolate specific features or patterns in the image, such as textures, lines, or shapes. Examples of band-pass filters are Gabor filter, LoG filter, DoG filter, etc.
+  - Band-reject filters: These filters reject a certain range of frequencies and pass the others. They can be used to remove specific features or patterns in the image, such as periodic noise, moire patterns, or halftone dots. Examples of band-reject filters are notch filter, band-stop filter, etc.
+  - Nonlinear filters: These filters do not use a linear combination of the pixel values in the neighborhood, but rather a nonlinear function, such as minimum, maximum, median, mode, etc. They can be used to deal with non-Gaussian noise, outliers, or impulse noise. Examples of nonlinear filters are median filter, rank-order filter, morphological filter, etc.

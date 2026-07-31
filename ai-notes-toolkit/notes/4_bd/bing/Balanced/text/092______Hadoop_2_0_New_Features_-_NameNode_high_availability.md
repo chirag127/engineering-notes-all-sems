@@ -1,0 +1,10 @@
+#### Hadoop 2.0 New Features - NameNode high availability
+
+- NameNode is the master node in HDFS that maintains the filesystem tree and the metadata of all the files and directories.
+- In Hadoop 1.x, NameNode was a single point of failure (SPOF) in an HDFS cluster. If the NameNode failed or became unavailable, the entire cluster would be inaccessible until the NameNode was restored or replaced.
+- Hadoop 2.0 overcomes this SPOF problem by providing support for multiple NameNodes. It introduces Hadoop 2.0 High Availability feature that brings in an extra NameNode (Passive Standby NameNode) to the Hadoop Architecture which is configured for automatic failover   .
+- The Active NameNode and the Standby NameNode use a shared storage directory called the EditLog to keep their states synchronized. The EditLog records every change that occurs to the file system metadata .
+- The DataNodes send block reports and heartbeats to both the NameNodes. The Standby NameNode also performs checkpoints of the namespace by merging the EditLog with the FsImage (the file that stores the entire file system namespace) and saving it back to the shared storage .
+- In case of a failure or a planned maintenance of the Active NameNode, the Standby NameNode takes over the role of the Active NameNode and starts serving the client requests. This process is called failover and can be triggered manually or automatically by a component called ZooKeeper Failover Controller (ZKFC) .
+- The ZKFC is a daemon that runs on each of the NameNode machines and monitors the health and status of the NameNode. It also communicates with a ZooKeeper quorum (a set of servers that provide a consistent view of the cluster state) to elect an Active NameNode and ensure that there is only one Active NameNode at a time .
+- The main benefit of the Hadoop 2.0 High Availability feature is that it enables the HDFS cluster to be available 24/7 for large data applications and eliminates the downtime and data loss caused by the NameNode failure   .

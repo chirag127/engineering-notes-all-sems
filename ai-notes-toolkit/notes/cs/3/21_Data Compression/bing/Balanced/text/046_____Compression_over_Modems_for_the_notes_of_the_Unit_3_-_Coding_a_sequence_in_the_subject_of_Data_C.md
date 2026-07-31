@@ -1,0 +1,8 @@
+### Compression over Modems
+
+- Compression over modems is a technique that allows modems to transmit data faster and more efficiently over phone lines by reducing the size of the data before sending it and expanding it after receiving it.
+- Compression over modems can be done by using different algorithms and protocols that are agreed upon by both the sending and receiving modems. Some of the common protocols are V.42bis, MNP 5, and STAC.
+- Compression over modems can increase the effective throughput of the data transmission by a factor of 2 to 4, depending on the type and redundancy of the data. For example, text files can be compressed more than images or audio files.
+- Compression over modems can also improve the reliability and quality of the data transmission by reducing the number of bits that need to be sent and received, and by using error correction techniques to detect and correct errors that may occur due to noise or interference on the phone line.
+- Compression over modems can be implemented by using hardware or software components that are integrated with the modem or the computer. Some examples of hardware components are the Compression Service Adapter (CSA) for Cisco routers and the Data Compression Advanced Integration Module (AIM) for Cisco 2600 series. Some examples of software components are the compression drivers or utilities that are installed on the computer or the modem.
+- Compression over modems can be enabled or disabled by using the appropriate commands or settings on the modem or the computer. For example, to enable compression on a modem that supports V.42bis, the command AT+DS=3,0,0,0 can be used. To disable compression, the command AT+DS=0,0,0,0 can be used.

@@ -1,0 +1,24 @@
+### Counting oneness in a window
+
+- Counting oneness in a window is a problem of estimating the number of 1's in the last k bits of a data stream, where k is a large number that cannot be stored in memory.
+- One possible solution is to use the DGIM algorithm, which uses a compact representation of the stream using buckets of 1's with timestamps and sizes.
+- The DGIM algorithm works as follows:
+  - Each bit of the stream has a timestamp, the position in which it arrives. The first bit has timestamp 1, the second has timestamp 2, and so on.
+  - The algorithm maintains a set of buckets, each consisting of the timestamp of its rightmost bit and the number of 1's in the bucket.
+  - The buckets are stored in a circular array of size N, where N is the length of the window. The algorithm also keeps track of the total number of bits seen in the stream modulo N, which can be used to determine the position of a bucket in the current window.
+  - The buckets are subject to two rules:
+    - Rule 1: There can be at most two buckets of the same size.
+    - Rule 2: The buckets are ordered by their timestamps, from oldest to newest.
+  - Whenever a new bit arrives, the algorithm performs the following steps:
+    - Step 1: If the bit is 0, do nothing. If the bit is 1, create a new bucket with timestamp equal to the current bit position and size equal to 1.
+    - Step 2: If there are more than two buckets of size 1, merge the two oldest buckets of size 1 into a new bucket of size 2 and place it at the end of the array.
+    - Step 3: Repeat step 2 for buckets of size 2, 4, 8, and so on, until there are at most two buckets of each size.
+    - Step 4: If the oldest bucket in the array is no longer in the current window, discard it and move the pointer to the next bucket.
+  - To estimate the number of 1's in the last k bits of the stream, the algorithm performs the following steps:
+    - Step 1: Find the oldest bucket that is entirely within the last k bits of the stream. Let its size be s and its timestamp be t.
+    - Step 2: Add s/2 to the estimate, and subtract s from k.
+    - Step 3: Add the sizes of all the buckets that are entirely within the last k bits of the stream, starting from the bucket after the one found in step 1.
+    - Step 4: If there is a bucket that is partially within the last k bits of the stream, add half of its size to the estimate.
+    - Step 5: Return the estimate as the answer.
+- The DGIM algorithm uses O(log N) bits to represent a window of N bits, and allows us to estimate the number of 1's in the window with an error of no more than 50%  .
+- The DGIM algorithm can be extended to handle sliding windows with variable sizes, and to estimate other functions of the stream, such as the number of distinct elements or the frequency moments .

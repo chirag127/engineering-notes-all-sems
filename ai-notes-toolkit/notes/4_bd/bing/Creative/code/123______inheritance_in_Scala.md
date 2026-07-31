@@ -1,0 +1,33 @@
+#### Inheritance in Scala
+
+- Inheritance is a mechanism that allows a class to inherit the features and behavior of another class.
+- The class that inherits is called the **subclass** or the **derived class**.
+- The class that is inherited from is called the **superclass** or the **base class**.
+- In Scala, inheritance is expressed using the `extends` keyword.
+- For example, `class Dog extends Animal` means that the class `Dog` is a subclass of the class `Animal`.
+- A subclass inherits all the members (fields and methods) of its superclass, except those that are private or final.
+- A subclass can also override the members of its superclass by using the `override` keyword.
+- For example, `override def speak(): Unit = println("Woof")` means that the subclass `Dog` overrides the method `speak` of its superclass `Animal`.
+- A subclass can also access the members of its superclass by using the `super` keyword.
+- For example, `super.speak()` means that the subclass `Dog` calls the method `speak` of its superclass `Animal`.
+- Scala supports **single inheritance**, which means that a class can only extend one other class.
+- However, Scala also supports **multiple inheritance** through **traits**, which are abstract types that can contain fields and methods.
+- A class can mix in one or more traits by using the `with` keyword.
+- For example, `class Dog extends Animal with Friendly with Furry` means that the class `Dog` inherits from the class `Animal` and also mixes in the traits `Friendly` and `Furry`.
+- A class can also extend a trait by using the `extends` keyword, as long as the trait does not have any constructor parameters.
+- For example, `class Dog extends Friendly` means that the class `Dog` inherits from the trait `Friendly`.
+- Traits can also extend other traits or classes by using the `extends` keyword.
+- For example, `trait Friendly extends Animal` means that the trait `Friendly` inherits from the class `Animal`.
+- When a class inherits from multiple traits, the order of mixing in matters, as it determines the **linearization** of the class hierarchy.
+- Linearization is the process of flattening the class hierarchy into a linear sequence of classes and traits.
+- The linearization of a class determines the order of initialization and method resolution.
+- The linearization of a class C that extends a class P and mixes in traits T1, T2, ..., Tn is defined as follows:
+  - C, L(Tn), ..., L(T2), L(T1), L(P)
+  - L(X) is the linearization of X, except for the first element if X is a class
+  - L(AnyRef) = AnyRef, Any
+  - L(Any) = Any
+- For example, the linearization of the class `Dog` that extends the class `Animal` and mixes in the traits `Friendly` and `Furry` is:
+  - Dog, Furry, Friendly, Animal, AnyRef, Any
+- This means that the class `Dog` is initialized first, followed by the trait `Furry`, then the trait `Friendly`, then the class `Animal`, then the class `AnyRef`, and finally the class `Any`.
+- This also means that if a method is defined in multiple traits or classes, the one that appears first in the linearization is chosen.
+- For example, if the trait `Friendly` and the class `Animal` both define a method `speak`, the one in the trait `Friendly` is chosen, as it appears before the class `Animal` in the linearization.

@@ -1,0 +1,11 @@
+### Learning and Generalisation
+
+- Learning is the process of finding patterns or relationships in data that can be used to make predictions or decisions.
+- Generalisation is the ability of a learning model to perform well on new or unseen data that was not used for training.
+- Learning and generalisation are related but not the same. A model that learns well on the training data may not generalise well on the test data, and vice versa.
+- The goal of learning is to find a model that balances the trade-off between fitting the training data and generalising to the test data. This is also known as the bias-variance trade-off.
+- Bias is the error due to the model's assumptions or simplifications that do not match the true data distribution. Variance is the error due to the model's sensitivity or complexity that causes it to overfit the noise or variability in the data.
+- A model with high bias and low variance is underfitting, meaning it is too simple to capture the patterns in the data. A model with low bias and high variance is overfitting, meaning it is too complex and fits the noise in the data.
+- A model with low bias and low variance is optimal, meaning it fits the data well and generalises well. However, this is often difficult or impossible to achieve in practice, as there is usually a trade-off between bias and variance.
+- To evaluate the learning and generalisation performance of a model, we need to split the data into three sets: training, validation, and test. The training set is used to fit the model parameters, the validation set is used to tune the model hyperparameters, and the test set is used to measure the model's final accuracy or error.
+- To avoid overfitting or underfitting, we can use various techniques such as cross-validation, regularisation, feature selection, dimensionality reduction, ensemble methods, etc. These techniques aim to reduce the complexity or variance of the model, or increase the diversity or bias of the model, depending on the situation.

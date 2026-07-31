@@ -1,0 +1,49 @@
+## Unit 3 - Three Dimensional
+
+- This unit covers the concepts and applications of three dimensional geometry, such as vectors, dot product, cross product, lines, planes, and distances.
+- The objectives of this unit are to:
+  - Understand the basic properties and operations of vectors in three dimensional space.
+  - Calculate the dot product and cross product of two vectors and use them to find angles, areas, and volumes.
+  - Write the parametric and symmetric equations of a line in three dimensional space and find the distance between two lines or a point and a line.
+  - Write the equation of a plane in three dimensional space and find the distance between two planes or a point and a plane.
+  - Identify and sketch the graphs of common three dimensional surfaces, such as cylinders, cones, spheres, and quadric surfaces.
+- The main topics of this unit are:
+  - Vectors in Three Dimensional Space
+    - Definition and notation of vectors
+    - Magnitude and direction of vectors
+    - Unit vectors and standard basis vectors
+    - Vector addition, subtraction, and scalar multiplication
+    - Position vectors and displacement vectors
+  - The Dot Product and the Cross Product
+    - Definition and properties of the dot product
+    - Angle between two vectors and orthogonality
+    - Projection of a vector onto another vector
+    - Work done by a force
+    - Definition and properties of the cross product
+    - Area of a parallelogram and a triangle
+    - Volume of a parallelepiped and a tetrahedron
+    - Right-hand rule and orientation
+  - Lines and Planes in Three Dimensional Space
+    - Parametric equations of a line
+    - Symmetric equations of a line
+    - Vector equation of a line
+    - Parallel and perpendicular lines
+    - Distance between a point and a line
+    - Distance between two skew lines
+    - Equation of a plane
+    - Normal vector and constant term of a plane
+    - Parallel and perpendicular planes
+    - Angle between two planes
+    - Distance between a point and a plane
+    - Distance between two parallel planes
+    - Intersection of a line and a plane
+    - Intersection of two planes
+  - Graphing in Three Dimensional Space
+    - Coordinate system and axes in three dimensional space
+    - Plotting points and vectors in three dimensional space
+    - Traces and level curves of surfaces
+    - Cylindrical coordinates and cylindrical surfaces
+    - Spherical coordinates and spherical surfaces
+    - Quadric surfaces and their standard forms
+    - Ellipsoids, hyperboloids, paraboloids, and cones
+    - Rotation of axes and principal axes

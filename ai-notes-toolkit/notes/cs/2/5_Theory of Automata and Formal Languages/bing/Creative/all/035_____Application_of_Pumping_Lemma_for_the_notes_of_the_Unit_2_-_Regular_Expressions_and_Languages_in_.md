@@ -1,0 +1,22 @@
+# Application of Pumping Lemma
+
+- Pumping lemma is a tool to prove that certain languages are not regular. It should never be used to show that a language is regular .
+- Pumping lemma states that if L is a regular language, then there exists a constant n (called the pumping length) such that for any string w in L with length at least n, w can be written as w = xyz, where
+  - x, y, and z are substrings of w
+  - y is not empty
+  - xy has length at most n
+  - for any non-negative integer k, xy^kz is also in L
+- The intuition behind pumping lemma is that any regular language can be recognized by a finite automaton, and if a string is long enough, the automaton must enter some state more than once while reading the string. This means that there is a loop in the automaton that can be repeated any number of times without changing the final state .
+- To use pumping lemma to prove that a language is not regular, we follow these steps:
+  - Assume that the language is regular and let n be the pumping length
+  - Choose a string w in the language with length at least n
+  - Show that for any possible way of writing w as w = xyz, where x, y, and z satisfy the conditions of pumping lemma, there exists a value of k such that xy^kz is not in the language
+  - Conclude that the language does not satisfy pumping lemma and hence is not regular
+- For example, let L = {a^nb^n | n >= 0} be the language of strings with equal number of a's and b's. We can prove that L is not regular by using pumping lemma as follows:
+  - Assume that L is regular and let n be the pumping length
+  - Choose w = a^nb^n, which is in L and has length 2n >= n
+  - Write w as w = xyz, where x, y, and z satisfy the conditions of pumping lemma
+  - Since xy has length at most n, it must consist of only a's, so we can write x = a^p, y = a^q, and z = a^r b^n, where p + q + r = n and q > 0
+  - Now, for any k, xy^kz = a^p a^kq a^r b^n = a^(p + kq + r) b^n
+  - If we choose k = 2, then xy^kz = a^(p + 2q + r) b^n, which is not in L, because p + 2q + r != n
+  - Therefore, L does not satisfy pumping lemma and hence is not regular .

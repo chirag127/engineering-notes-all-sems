@@ -1,0 +1,16 @@
+# Pig
+
+Pig is a framework for data analysis that runs on top of Hadoop and MapReduce. It provides a high-level scripting language called Pig Latin, which allows users to write data processing programs that can handle large and complex data sets. Pig Latin programs are compiled into MapReduce jobs that can be executed on a Hadoop cluster. Some of the features and benefits of Pig are:
+
+- It simplifies the development of data analysis programs by providing a high-level abstraction from the low-level details of MapReduce.
+- It supports various data types and formats, such as text, CSV, Excel, RC, etc. It also allows users to define their own custom data types and functions.
+- It provides a rich set of built-in operators for data transformation, filtering, grouping, joining, sorting, aggregation, etc. It also allows users to extend the functionality of Pig by writing user-defined functions (UDFs) in Java, Python, Ruby, etc.
+- It enables parallel processing of large data sets by automatically optimizing the execution plan of Pig Latin programs and distributing the work across multiple nodes in a Hadoop cluster.
+- It is compatible with other Hadoop components, such as Hive, HBase, Spark, etc. It can read and write data from these sources and also use their libraries and functions.
+
+The main components of Pig are:
+
+- Pig Latin: The high-level scripting language for writing data analysis programs. It consists of a series of statements that define the data flow and the operations to be performed on the data. Each statement consists of a relation (a named data set), an operator, and one or more arguments. For example, `A = LOAD 'data.txt' AS (name, age, salary);` is a statement that loads a text file as a relation A with three fields: name, age, and salary.
+- Pig Engine: The component that compiles Pig Latin programs into MapReduce jobs and executes them on a Hadoop cluster. It consists of two sub-components: the parser and the optimizer. The parser checks the syntax and semantics of Pig Latin programs and generates a logical plan that represents the data flow and the operations. The optimizer applies various optimization techniques, such as projection pruning, predicate pushdown, join optimization, etc., to improve the performance of the logical plan. It then converts the logical plan into a physical plan that consists of a series of MapReduce jobs that can be executed on a Hadoop cluster.
+- Grunt Shell: The interactive shell for running Pig Latin programs. It allows users to enter Pig Latin statements and commands and see the results. It also supports scripting and batch processing of Pig Latin programs. Users can launch the Grunt shell by typing `pig` in the command line.
+- PiggyBank: A repository of user-defined functions (UDFs) that are contributed by the Pig community. It contains various UDFs that extend the functionality of Pig and provide common and useful operations, such as string manipulation, date and time processing, geospatial analysis, etc. Users can access the PiggyBank UDFs by registering the PiggyBank jar file and using the `org.apache.pig.piggybank` namespace. For example, `REGISTER piggybank.jar;` and `B = FOREACH A GENERATE org.apache.pig.piggybank.evaluation.string.UPPER(name);` are statements that use the PiggyBank UDF to convert the name field to uppercase.

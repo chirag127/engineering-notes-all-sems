@@ -1,0 +1,15 @@
+### IoT Reference Model
+
+The IoT Reference Model is a framework that defines the main concepts and components of IoT systems and architectures. It provides a common language and understanding for IoT domains and applications. The IoT Reference Model consists of the following sub-models:
+
+- **IoT Domain Model**: This model introduces the basic concepts of IoT, such as devices, IoT services, virtual entities, and their relations. A device is a physical object that can sense, actuate, or communicate. An IoT service is a software component that provides functionality or data to other entities. A virtual entity is a digital representation of a device, a group of devices, or a physical or logical entity that is not a device. A virtual entity can have properties, states, and behaviors that reflect the real-world entity it represents.
+
+- **IoT Functional View**: This model describes the main functions and processes that are performed by IoT systems, such as device management, data processing, service discovery, service composition, and security. The model also defines the functional components that implement these functions, such as gateways, brokers, repositories, and orchestrators. The model shows how these components interact and exchange information through interfaces and protocols.
+
+- **IoT Information View**: This model defines the information and data models that are used by IoT systems, such as device descriptions, service descriptions, virtual entity descriptions, and event models. The model also specifies the syntax and semantics of these models, as well as the methods and standards for data representation and exchange.
+
+- **IoT Deployment and Operational View**: This model describes the physical and logical deployment of IoT systems, such as the network topology, the device location, the communication infrastructure, and the cloud services. The model also covers the operational aspects of IoT systems, such as the configuration, monitoring, maintenance, and troubleshooting of IoT components and services.
+
+- **IoT User View**: This model defines the user roles and interactions with IoT systems, such as the end users, the application developers, the system administrators, and the service providers. The model also describes the user interfaces and applications that enable these interactions, such as web portals, mobile apps, dashboards, and APIs.
+
+The IoT Reference Model is not a prescriptive or normative architecture, but rather a conceptual and descriptive framework that can be used as a basis for designing and developing IoT systems and architectures. The IoT Reference Model can be adapted and extended to suit different IoT domains and applications, such as smart cities, smart homes, smart health, and smart industry. The IoT Reference Model can also be aligned and integrated with other reference models and standards, such as the ISO/IEC 30141 IoT Reference Architecture, the ITU-T Y.2060 IoT Overview, and the IEEE P2413 IoT Architecture Framework.

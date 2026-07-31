@@ -1,0 +1,25 @@
+## Unit 6 - SOA Governance and Implementation
+
+- SOA governance is a type of IT governance used to control the development, deployment, operations and management of a successful service-oriented architecture (SOA).
+- SOA governance involves creating, enforcing, adapting and communicating policies around how services are created and implemented, across their lifecycle.
+- SOA governance is the specialization of IT governance that puts key IT governance decisions within the context of the SOA lifecycle.
+- SOA governance is the effective management and refinement of this lifecycle that is the key goal of SOA governance.
+- SOA governance requires the use of sophisticated tools to align services with business objectives, ensure that users can connect to and re-use services as needed, and monitor and report on decisions and results.
+- SOA governance can be divided into two aspects: strategic governance and tactical governance.
+- Strategic governance is the process of defining the vision, goals, principles, and policies for SOA in an organization.
+- Tactical governance is the process of implementing, enforcing, and monitoring the policies for SOA in an organization.
+- SOA governance can be implemented using a SOA governance framework, which is a set of components, roles, and processes that provide the structure and guidance for SOA governance.
+- A SOA governance framework typically consists of the following components:
+  - A governance model, which defines the scope, objectives, and principles of SOA governance
+  - A governance organization, which defines the roles and responsibilities of the stakeholders involved in SOA governance
+  - A governance registry, which stores the metadata and policies for the services and their consumers
+  - A governance repository, which stores the artifacts and documents related to the services and their consumers
+  - A governance lifecycle, which defines the stages and activities for the creation and management of the services and their consumers
+  - A governance dashboard, which provides the visibility and feedback on the performance and compliance of the services and their consumers
+- A SOA governance framework can be customized and adapted to suit the specific needs and context of an organization.
+- A SOA governance framework can help an organization achieve the following benefits:
+  - Increase the alignment of IT and business goals and strategies
+  - Improve the quality and consistency of the services and their consumers
+  - Enhance the reuse and interoperability of the services and their consumers
+  - Reduce the complexity and cost of the SOA infrastructure and maintenance
+  - Increase the agility and responsiveness of the SOA solutions to changing business needs and opportunities

@@ -1,0 +1,31 @@
+# Walkthrough for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- Software engineering is the application of engineering principles and practices to the development and maintenance of software systems that meet the needs and expectations of users and stakeholders.
+- Software engineering involves activities such as:
+  - Requirements analysis: eliciting, specifying, and validating the functional and non-functional requirements of the software system.
+  - Design: creating a high-level and low-level architecture of the software system that satisfies the requirements and constraints.
+  - Implementation: coding, testing, debugging, and documenting the software system according to the design.
+  - Verification and validation: checking and evaluating the software system to ensure that it meets the requirements and quality standards.
+  - Maintenance: modifying and updating the software system to cope with changing needs and environments.
+  - Deployment: delivering and installing the software system to the intended users and platforms.
+  - Evolution: enhancing and evolving the software system to accommodate new features and requirements.
+- Software engineering also involves processes, methods, tools, standards, and best practices that support and guide the software development activities and ensure the quality and reliability of the software system.
+- Software engineering is a multidisciplinary field that requires knowledge and skills from various domains such as computer science, mathematics, engineering, management, psychology, and communication.
+- Software engineering is a dynamic and evolving field that adapts to the changing needs and challenges of the software industry and society.
+- Software testing is a subfield of software engineering that focuses on the verification and validation of the software system.
+- Software testing is the process of executing the software system or its components with the intention of finding defects or errors that may affect its functionality, performance, usability, security, or quality.
+- Software testing can be performed at different levels of abstraction, such as:
+  - Unit testing: testing individual units or modules of the software system in isolation.
+  - Integration testing: testing the interactions and interfaces between units or modules of the software system.
+  - System testing: testing the whole software system as a single entity.
+  - Acceptance testing: testing the software system against the user and stakeholder expectations and requirements.
+- Software testing can also be performed from different perspectives, such as:
+  - White-box testing: testing the software system based on its internal structure, logic, and code.
+  - Black-box testing: testing the software system based on its external behavior, functionality, and specifications.
+  - Grey-box testing: testing the software system based on a combination of its internal and external aspects.
+- Software testing can also be performed at different stages of the software development life cycle, such as:
+  - Static testing: testing the software system without executing it, such as reviewing the requirements, design, code, or documentation.
+  - Dynamic testing: testing the software system by executing it, such as running test cases, scenarios, or scripts.
+  - Manual testing: testing the software system by human testers, such as performing exploratory testing, usability testing, or user testing.
+  - Automated testing: testing the software system by using software tools, such as performing regression testing, performance testing, or security testing.
+- Software testing is an essential and integral part of software engineering that aims to ensure the quality and reliability of the software system and to prevent, detect, and correct defects or errors that may compromise its functionality, performance, usability, security, or quality.

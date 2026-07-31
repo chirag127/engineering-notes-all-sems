@@ -1,0 +1,12 @@
+### Consensus for the notes of the Unit 1 - Introduction to Blockchain in the subject of Block chain Architecture Design
+
+- Consensus is the process of reaching agreement among a group of participants on a shared state of a system.
+- Consensus is essential for blockchain systems, which are distributed, decentralized, and trustless networks of nodes that maintain a shared ledger of transactions.
+- Consensus ensures that all nodes have the same view of the ledger, and that any valid transactions are appended to the ledger in a consistent and irreversible way.
+- Consensus also prevents malicious or faulty nodes from compromising the integrity, security, and availability of the system.
+- There are different types of consensus algorithms that vary in their design, assumptions, performance, and security guarantees.
+- Some of the common consensus algorithms used in blockchain systems are:
+  - Proof-of-Work (PoW): A probabilistic consensus algorithm that requires nodes to solve a computationally hard puzzle to propose a new block. The block with the most accumulated proof-of-work is considered the valid chain. PoW provides high security and immutability, but has low scalability and high energy consumption. Bitcoin and Ethereum use PoW.
+  - Proof-of-Stake (PoS): A deterministic consensus algorithm that selects a node to propose a new block based on its stake, which is a measure of its wealth or influence in the system. The block with the most stake behind it is considered the valid chain. PoS provides better scalability and energy efficiency than PoW, but has lower security and decentralization. Ethereum 2.0 and Cardano use PoS.
+  - Proof-of-Authority (PoA): A centralized consensus algorithm that assigns a set of trusted nodes, called authorities, to validate and produce new blocks. The block with the most authorities' signatures is considered the valid chain. PoA provides high scalability and performance, but has low security and decentralization. VeChain and xDai use PoA.
+  - Byzantine Fault Tolerance (BFT): A family of consensus algorithms that can tolerate a certain number of faulty or malicious nodes, called Byzantine nodes, in the system. BFT algorithms require nodes to exchange messages and vote on the validity of proposed blocks. The block with the majority of votes is considered the valid chain. BFT provides high security and finality, but has low scalability and performance. Hyperledger Fabric and Stellar use BFT.

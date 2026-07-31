@@ -1,0 +1,10 @@
+# Characteristics of Intelligent Agents
+
+Intelligent agents are computer software systems that can act autonomously, learn from their experiences, interact with other entities, and achieve their goals in complex and dynamic environments. Some of the characteristics of intelligent agents are:
+
+- **Situatedness**: Intelligent agents are situated in an environment that they can perceive and act upon. They use sensors or other forms of input to gather information about their surroundings and effectors or other forms of output to change their environment in some way .
+- **Autonomy**: Intelligent agents have some degree of control over their own actions and internal state. They do not need constant supervision or guidance from humans or other agents. They can decide what to do and how to do it based on their own goals, beliefs, and preferences  .
+- **Adaptivity**: Intelligent agents can learn from their own experiences and adapt their behavior accordingly. They can improve their performance, correct their errors, and cope with changing situations. They can also acquire new knowledge and skills incrementally  .
+- **Sociability**: Intelligent agents can interact with other agents, humans, and systems in a cooperative or competitive manner. They can communicate, negotiate, coordinate, and collaborate with others to achieve common or individual goals. They can also form social relationships and trust with other entities  .
+- **Goal-orientedness**: Intelligent agents have specific objectives or purposes that guide their actions. They can plan, reason, and execute actions that are relevant and effective for achieving their goals. They can also monitor and evaluate their progress and outcomes  .
+- **Knowledge-basedness**: Intelligent agents have a representation of their own knowledge and beliefs, as well as the knowledge and beliefs of other entities. They can use this knowledge to make inferences, deductions, and predictions. They can also update and revise their knowledge based on new information or feedback  .

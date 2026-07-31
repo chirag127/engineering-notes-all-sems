@@ -1,0 +1,17 @@
+### Transactions with replicated data
+
+- Transactions are a sequence of operations that are executed atomically, consistently, isolatedly, and durably (ACID properties) on a database system.
+- Replication is the process of copying and maintaining data in multiple locations to improve availability, performance, and fault tolerance of a distributed system.
+- Transactions with replicated data involve executing operations on multiple copies of the same data item, while ensuring that the copies remain consistent and synchronized with each other.
+- There are different types and schemes of replication, such as:
+  - Synchronous vs. asynchronous replication: In synchronous replication, the updates are propagated to all the replicas before the transaction commits, ensuring strong consistency but increasing latency. In asynchronous replication, the updates are propagated to the replicas after the transaction commits, reducing latency but allowing temporary inconsistency.
+  - Primary vs. update-anywhere replication: In primary replication, there is a designated primary copy of each data item that receives all the updates, and the other copies are secondary replicas that only receive updates from the primary. In update-anywhere replication, any copy of a data item can be updated, and the updates are propagated to the other copies.
+  - Eager vs. lazy replication: In eager replication, the updates are propagated to all the replicas as soon as they occur, ensuring strong consistency but increasing communication overhead. In lazy replication, the updates are propagated to the replicas periodically or on demand, reducing communication overhead but allowing temporary inconsistency.
+- Transactions with replicated data face several challenges, such as:
+  - Concurrency control: How to coordinate the concurrent execution of transactions on replicated data without violating the ACID properties or the consistency of the replicas.
+  - Recovery: How to recover from failures or aborts of transactions on replicated data without losing or corrupting the data or violating the ACID properties or the consistency of the replicas.
+  - Consensus: How to reach agreement among the replicas on the outcome of a transaction or the state of a data item, especially in the presence of failures or network partitions.
+- There are different techniques and protocols to address these challenges, such as:
+  - Two-phase commit (2PC): A protocol that ensures atomicity of transactions on replicated data by using a coordinator node that communicates with all the participant nodes and decides whether to commit or abort the transaction based on their votes.
+  - Quorum-based protocols: Protocols that ensure consistency of transactions on replicated data by requiring a minimum number of replicas (a quorum) to participate in the execution and validation of each operation, and resolving conflicts based on timestamps or version numbers.
+  - Paxos: A protocol that ensures consensus of transactions on replicated data by using a leader node that proposes values to the other nodes (acceptors) and decides on a value based on their responses, and using a majority voting mechanism to elect a new leader in case of failures.

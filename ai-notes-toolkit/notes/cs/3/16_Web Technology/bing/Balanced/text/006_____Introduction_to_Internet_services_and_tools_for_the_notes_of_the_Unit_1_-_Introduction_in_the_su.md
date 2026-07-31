@@ -1,0 +1,21 @@
+### Introduction to Internet Services and Tools
+
+- Internet services are the applications or functions that allow users to access, exchange, or create information over the internet.
+- Internet tools are the software or hardware devices that enable users to connect, browse, or manage the internet.
+- Some examples of internet services are:
+  - Email: A service that allows users to send and receive messages and attachments electronically.
+  - Web: A service that allows users to access and view web pages and multimedia content hosted on web servers.
+  - FTP: A service that allows users to upload and download files from remote computers using a standard protocol.
+  - Telnet: A service that allows users to log in and execute commands on remote computers using a terminal interface.
+  - Chat: A service that allows users to communicate with other users in real time using text, voice, or video.
+  - Streaming: A service that allows users to watch or listen to live or recorded media content over the internet.
+  - E-commerce: A service that allows users to buy or sell goods or services online using electronic transactions.
+  - Cloud computing: A service that allows users to access or store data and applications on remote servers over the internet.
+- Some examples of internet tools are:
+  - Browser: A software program that allows users to access and view web pages and other internet services.
+  - Search engine: A software program that allows users to find information on the internet by entering keywords or queries.
+  - Firewall: A hardware or software device that protects a computer or a network from unauthorized or malicious internet traffic.
+  - Antivirus: A software program that detects and removes viruses or other harmful programs from a computer or a network.
+  - VPN: A software program that creates a secure and encrypted connection between a computer or a network and a remote server over the internet.
+  - Web development: A software program that allows users to create or edit web pages and other web content using HTML, CSS, JavaScript, or other languages.
+  - Web hosting: A service that allows users to store and publish their web pages and other web content on a web server over the internet.

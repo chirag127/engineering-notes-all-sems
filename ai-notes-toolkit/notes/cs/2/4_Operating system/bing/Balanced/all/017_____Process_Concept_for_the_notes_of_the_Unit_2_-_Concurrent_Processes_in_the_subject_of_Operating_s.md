@@ -1,0 +1,41 @@
+# Process Concept
+
+- A process is a program in execution which then forms the basis of all computation.
+- A process is more than the program code as it includes the program counter, process stack, registers, program code etc.
+- A process is defined as an entity which represents the basic unit of work to be implemented in the system.
+- A process can be in one of the following states: new, ready, running, waiting, terminated.
+- A process control block (PCB) is a data structure that contains the information about a process, such as its identifier, state, priority, program counter, memory allocation, etc.
+- The operating system keeps its processes separate and allocates the resources they need, so that they are less likely to interfere with each other and cause system failures.
+- The operating system may also provide mechanisms for inter-process communication to enable processes to interact in safe and predictable ways.
+- A process can be classified into two types: user process and kernel process.
+- A user process is a process that executes user programs, such as applications, utilities, etc.
+- A kernel process is a process that executes system programs, such as device drivers, system services, etc.
+- A process can also be classified into two types: foreground process and background process.
+- A foreground process is a process that interacts with the user, such as a text editor, a web browser, etc.
+- A background process is a process that performs tasks without user interaction, such as a printer spooler, a backup program, etc.
+- A process can create other processes, which are called child processes.
+- A process that creates other processes is called a parent process.
+- A process hierarchy is a tree structure that shows the relationship between processes.
+- A process can communicate with its parent or child processes using various methods, such as pipes, signals, message queues, shared memory, etc.
+- A process can terminate itself or be terminated by another process.
+- A process can also be suspended or resumed by the operating system or by another process.
+- A process can be scheduled by the operating system using various algorithms, such as first-come first-served, shortest job first, priority, round robin, etc.
+- A process can be executed in one of the following modes: user mode or kernel mode.
+- A user mode is a mode in which a process executes user programs and has limited access to system resources.
+- A kernel mode is a mode in which a process executes system programs and has full access to system resources.
+- A process can switch from user mode to kernel mode or vice versa using system calls, interrupts, or exceptions.
+- A process can also be executed in one of the following modes: single-threaded or multi-threaded.
+- A single-threaded process is a process that has only one thread of execution.
+- A multi-threaded process is a process that has more than one thread of execution.
+- A thread is a sequence of instructions that can be executed independently within a process.
+- A thread shares the same address space and resources with other threads of the same process.
+- A thread can be in one of the following states: new, ready, running, waiting, terminated.
+- A thread can create other threads, which are called child threads.
+- A thread can communicate with other threads of the same process using various methods, such as locks, semaphores, monitors, condition variables, etc.
+- A thread can terminate itself or be terminated by another thread.
+- A thread can also be suspended or resumed by the operating system or by another thread.
+- A thread can be scheduled by the operating system using various algorithms, such as first-come first-served, shortest job first, priority, round robin, etc.
+- A thread can also be executed in one of the following modes: user mode or kernel mode.
+- A user mode is a mode in which a thread executes user programs and has limited access to system resources.
+- A kernel mode is a mode in which a thread executes system programs and has full access to system resources.
+- A thread can switch from user mode to kernel mode or

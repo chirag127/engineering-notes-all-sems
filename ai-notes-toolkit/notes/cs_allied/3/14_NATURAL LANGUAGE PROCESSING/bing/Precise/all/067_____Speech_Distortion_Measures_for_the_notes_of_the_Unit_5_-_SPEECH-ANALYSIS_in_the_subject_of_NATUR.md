@@ -1,0 +1,9 @@
+### Speech Distortion Measures
+
+- Speech distortion measures are used to quantify the difference between an original speech signal and a processed version of the signal.
+- These measures are used in the evaluation of speech processing systems, such as speech coders, speech enhancers, and hearing aids.
+- A new measure of distortions of speaker speech sounds that is invariant with respect to the gain of speech signal in a communication channel is considered and has been shown to combine advantages of the symmetric Itakura distance and the COSH distance in relation to the sensitivity to speech signal distortions.
+- The principle results are the development of notions of relative strength and equivalence of the various distortion measures both in a mathematical sense corresponding to subjective equivalence and in a coding sense when used in minimum distortion or nearest neighbor speech processing systems.
+- Advances in digital technology and the associated introduction of new forms of distortion led to the investigation of supplementary measures of electroacoustic distortion for hearing aids.
+- Speech sound disorders is an umbrella term referring to any difficulty or combination of difficulties with perception, motor production, or phonological representation of speech sounds and speech segments—including phonotactic rules governing permissible speech sound sequences in a language.
+- The model assumes that hearing loss for speech can be accounted for by the sum of two simple factors: a reduction in the level of both speech and noise (attenuation factor) as measured primarily by an audiogram, and a distortion factor represented by a decrease in the speech-to-noise ratio (SNR loss).

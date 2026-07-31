@@ -1,0 +1,14 @@
+### Wireless Sensor Networks for IoT
+
+- Wireless Sensor Networks (WSNs) are a subtype of broader IoT networks that consist of wireless interconnected networks of small low-power sensor devices that sense some environmental parameters at regular intervals of time and send them over to some central storage or database.
+- WSNs are infrastructure-less networks that do not require any fixed routers or base stations. The sensor nodes can communicate with each other using multi-hop routing protocols.
+- WSNs can be used for various applications such as environmental monitoring, smart agriculture, health care, disaster management, industrial automation, etc.
+- WSNs face many challenges such as limited energy, bandwidth, memory, and computational resources, as well as security, reliability, scalability, and interoperability issues .
+- There are many wireless protocols that enable connectivity between sensors in WSNs, such as Wi-Fi, Bluetooth, ZigBee, LoRa, NB-IoT, etc. Each protocol has its own advantages and disadvantages in terms of data rate, range, power consumption, and cost.
+- WSNs can be integrated with fog or cloud computing to provide data storage, processing, and analysis services for IoT applications. Fog computing refers to the use of edge devices that are closer to the sensors, while cloud computing refers to the use of remote servers that are accessible via the Internet .
+- WSNs can also be combined with other technologies such as RFID, NFC, GPS, etc. to provide more functionality and accuracy for IoT applications.
+- WSNs are an essential component of the Industrial IoT (IIoT), which refers to the use of IoT technologies in the manufacturing and industrial sectors. WSNs can enable real-time monitoring and control of industrial processes, machines, and assets, as well as improve efficiency, productivity, and safety.
+- Wireless sensors are designed to measure specific parameters about their physical surroundings and produce outputs, often electrical signals, for further processing. These parameters include many different types of stimuli, such as air temperature, lighting levels, movements, liquid leakages, etc.
+- Wireless sensors can be classified into different types based on their sensing mechanism, such as passive or active, analog or digital, scalar or vector, etc.
+- Wireless sensors can also be classified into different types based on their communication mechanism, such as unidirectional or bidirectional, broadcast or point-to-point, synchronous or asynchronous, etc.
+- Wireless sensors can be powered by different sources, such as batteries, solar cells, piezoelectric generators, etc. The power consumption of wireless sensors depends on various factors, such as the sensing frequency, the data rate, the transmission range, the protocol, etc.

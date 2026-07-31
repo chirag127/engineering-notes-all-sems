@@ -1,0 +1,24 @@
+# Protozoa
+
+- Protozoa are a group of single-celled eukaryotic organisms that can be free-living or parasitic, and that feed on organic matter such as other microorganisms or organic tissues and debris .
+- Protozoa were formerly considered a phylum or sub-kingdom of the animal kingdom, but are now classified into various phyla or supergroups based on their morphology, motility, and phylogeny.
+- Some of the characteristics of protozoa are:
+  - They are microscopic and acellular, meaning they do not have tissues or organs.
+  - They have one or more nuclei, which may be simple or complex, and may contain multiple chromosomes.
+  - They have various modes of locomotion, such as flagella, cilia, pseudopodia, or gliding.
+  - They have diverse modes of nutrition, such as autotrophy, heterotrophy, mixotrophy, or symbiosis.
+  - They have complex life cycles, which may involve asexual and sexual reproduction, and may include different stages such as trophozoites, cysts, spores, or gametes.
+  - They have various adaptations to survive in different environments, such as osmoregulation, encystment, bioluminescence, or biomineralization.
+- Some of the major phyla or supergroups of protozoa are:
+  - Excavata, which includes flagellates such as Giardia, Trypanosoma, and Euglena.
+  - Amoebozoa, which includes amoebas and slime molds.
+  - Rhizaria, which includes radiolarians, foraminiferans, and cercozoans.
+  - Alveolata, which includes ciliates, dinoflagellates, and apicomplexans.
+  - Stramenopila, which includes diatoms, brown algae, and water molds.
+  - Opisthokonta, which includes choanoflagellates and fungi.
+  - Archaeplastida, which includes red algae and green algae.
+- Protozoa play important roles in the production of industrial chemicals and pharmaceuticals, such as:
+  - Ethanol, which is produced by some flagellates and ciliates from sugar or starch.
+  - Antibiotics, such as penicillin, which is derived from a fungus.
+  - Antimalarials, such as quinine, which is extracted from a plant that contains a protozoan endosymbiont.
+  - Antiprotozoals, such as metronidazole, which is effective against some anaerobic protozoa.

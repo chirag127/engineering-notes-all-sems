@@ -1,0 +1,26 @@
+# Digital device for the notes of the Unit 2 - Cyber Forensics in the subject of CYBER FORENSIC ANALYTICS
+
+- Digital forensics is a branch of forensic science that deals with recovering, investigating, examining, and analyzing material in digital devices, especially in a cybersecurity incident.
+- Digital devices are any devices that can store or transmit digital data, such as computers, smartphones, tablets, USBs, CDs, hard drives, DVDs, etc.
+- Digital evidence is information stored or transmitted in binary form that may be relied on in court.
+- Digital forensics can be used to investigate various types of cybercrimes, such as hacking, malware, phishing, identity theft, fraud, cyberstalking, cyberbullying, etc.
+- Digital forensics can also be used to support other types of investigations, such as terrorism, espionage, murder, kidnapping, etc.
+- Digital forensics involves four main steps: preservation, acquisition, analysis, and reporting.
+  - Preservation: securing and protecting the digital devices and evidence from tampering, alteration, or loss.
+  - Acquisition: extracting and copying the digital data from the devices using forensically sound methods and tools.
+  - Analysis: examining and interpreting the digital data to identify relevant evidence and reconstruct the events and activities of the cybercrime.
+  - Reporting: presenting and documenting the findings and conclusions of the digital forensics investigation in a clear and concise manner.
+- Digital forensics can be classified into different types based on the source and nature of the digital devices and evidence, such as:
+  - Network forensics: detecting and monitoring network traffic to capture crucial evidence.
+  - Disk forensics: collecting evidence from digital storage devices such as USBs, CDs, hard drives, and DVDs.
+  - Wireless forensics: extracting evidence from wireless networking devices.
+  - Database forensics: investigating databases and their relevant meta data to collect evidence.
+  - Mobile forensics: analyzing data from mobile devices such as smartphones, tablets, and GPS devices.
+  - Cloud forensics: accessing and examining data stored in cloud computing services and platforms.
+  - Internet of Things (IoT) forensics: investigating data from smart devices and sensors connected to the internet.
+- Digital forensics requires specialized knowledge, skills, tools, and techniques to perform effectively and ethically.
+- Digital forensics also faces various challenges and limitations, such as:
+  - Large and complex data sets: digital devices can store and generate huge amounts of data that can be difficult and time-consuming to process and analyze.
+  - Encryption and obfuscation: digital data can be protected or hidden by various methods that can prevent or hinder the access and examination of the evidence.
+  - Volatility and fragility: digital data can be easily modified, deleted, or corrupted by various factors, such as user actions, system operations, or environmental conditions.
+  - Legal and ethical issues: digital forensics must comply with the relevant laws, regulations, and standards that govern the collection, handling, and use of digital evidence, as well as respect the privacy and rights of the involved parties.

@@ -1,0 +1,25 @@
+# Application of arrays
+
+- Arrays are the simplest data structures that store items of the same data type in a contiguous memory location  .
+- Arrays can be used to store data in tabular format, such as contacts, marks, grades, etc  .
+- Arrays can be used to implement other data structures, such as matrices, linked lists, stacks, queues, etc  .
+- Arrays can be used to perform sorting and searching algorithms, such as bubble sort, binary search, etc .
+- Arrays can be used to represent polynomials, such as ax^2 + bx + c, by storing the coefficients in an array.
+- Arrays can be classified into single and multidimensional arrays, depending on the number of indices required to access an element.
+- Single dimensional arrays have one index, such as arr[i], where i is the position of the element in the array.
+- Multidimensional arrays have more than one index, such as arr[i][j], where i and j are the row and column positions of the element in the array.
+- The representation of arrays can be done in two ways: row major order and column major order, depending on how the elements are stored in the memory.
+- Row major order stores the elements of an array row by row, such that the elements of the first row are stored first, followed by the elements of the second row, and so on.
+- Column major order stores the elements of an array column by column, such that the elements of the first column are stored first, followed by the elements of the second column, and so on.
+- The derivation of index formulae for 1-D, 2-D, 3-D and n-D arrays can be done by using the base address, size of the data type, and the indices of the element.
+- For a 1-D array arr[n], the index formula is: address(arr[i]) = base(arr) + i * size(data type).
+- For a 2-D array arr[m][n], the index formula for row major order is: address(arr[i][j]) = base(arr) + (i * n + j) * size(data type).
+- For a 2-D array arr[m][n], the index formula for column major order is: address(arr[i][j]) = base(arr) + (j * m + i) * size(data type).
+- For a 3-D array arr[l][m][n], the index formula for row major order is: address(arr[i][j][k]) = base(arr) + (i * m * n + j * n + k) * size(data type).
+- For a 3-D array arr[l][m][n], the index formula for column major order is: address(arr[i][j][k]) = base(arr) + (k * m * l + j * l + i) * size(data type).
+- For an n-D array arr[d1][d2]...[dn], the index formula for row major order is: address(arr[i1][i2]...[in]) = base(arr) + (i1 * d2 * d3 * ... * dn + i2 * d3 * d4 * ... * dn + ... + in) * size(data type).
+- For an n-D array arr[d1][d2]...[dn], the index formula for column major order is: address(arr[i1][i2]...[in]) = base(arr) + (in * d1 * d2 * ... * d(n-1) + i(n-1) * d1 * d2 * ... * d(n-2) + ... + i1) * size(data type).
+- Sparse matrices are matrices that have a large number of zero elements, and storing them as arrays would waste a lot of memory space.
+- Sparse matrices can be represented in different ways, such as triplet representation, compressed row representation, compressed column representation, etc.
+- Triplet representation stores the non-zero elements of a sparse matrix along with their row and column indices in a 3-column array.
+- Compressed row

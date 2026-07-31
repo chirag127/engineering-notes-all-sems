@@ -1,0 +1,10 @@
+# Geography in India and Ancient India
+
+- India is a large and diverse country in South Asia, with a land area of about 3.3 million square kilometers and a population of about 1.3 billion people.
+- India is bounded by the Himalayan mountains in the north and the Indian Ocean in the south. It also has a long coastline along the Arabian Sea and the Bay of Bengal.
+- India has a variety of landforms, such as plains, plateaus, hills, deserts, and islands. Some of the major geographical features of India are the Indo-Gangetic Plain, the Thar Desert, the Deccan Plateau, the Western Ghats, and the Andaman and Nicobar Islands.
+- India has a monsoon climate, which means that it has distinct seasons of wet and dry weather. The southwest monsoon brings heavy rains from June to September, while the northeast monsoon brings dry winds from October to February.
+- India has many rivers that originate from the Himalayas or the Western Ghats and flow into the Indian Ocean. Some of the major rivers of India are the Indus, the Ganges, the Brahmaputra, the Narmada, the Godavari, the Krishna, and the Kaveri.
+- Ancient India was one of the earliest civilizations in the world, along with Mesopotamia, Egypt, China, and Mesoamerica. Ancient India developed along the banks of the Indus and the Ganges rivers, where agriculture, trade, and urbanization flourished.
+- Ancient India was divided into many kingdoms and empires, such as the Harappan civilization, the Mauryan empire, the Gupta empire, and the Mughal empire. Ancient India also witnessed the rise of various religions, such as Hinduism, Buddhism, Jainism, and Sikhism.
+- Ancient India made significant contributions to the fields of art, literature, mathematics, astronomy, medicine, and architecture. Some of the famous examples of ancient Indian culture are the Vedas, the Mahabharata, the Ramayana, the Bhagavad Gita, the Upanishads, the Ajanta and Ellora caves, the Taj Mahal, and the Qutub Minar.

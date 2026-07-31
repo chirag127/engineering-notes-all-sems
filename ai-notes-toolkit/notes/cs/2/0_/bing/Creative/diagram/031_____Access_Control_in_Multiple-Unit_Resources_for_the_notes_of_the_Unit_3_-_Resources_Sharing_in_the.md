@@ -1,0 +1,13 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on the topic of access control in multiple-unit resources for real time systems:
+
+### Access Control in Multiple-Unit Resources
+
+- A multiple-unit resource is a resource that can be used by more than one job at a time, such as a printer, a disk, or a network interface.
+- A multiple-unit resource can be modeled as having many units, each used in a non-preemptive and mutually exclusive manner. Resources are serially reusable, meaning that they can be used by different jobs in sequence.
+- Access to multiple-unit resources is controlled using locks. Jobs attempt to lock a resource before starting to use it, and unlock the resource afterwards. The time the resource is locked is the critical section.
+- The challenge of access control in multiple-unit resources is to ensure that the resource is allocated fairly and efficiently, and that the blocking time of jobs is minimized.
+- There are different protocols for access control in multiple-unit resources, such as:
+  - The **first-come first-served (FCFS)** protocol, which allocates the resource to the job that requests it first, regardless of its priority. This protocol is simple and fair, but it can cause long blocking times and priority inversion.
+  - The **priority-based protocol**, which allocates the resource to the highest-priority job that requests it, and queues the other requests in priority order. This protocol reduces blocking times and priority inversion, but it can cause starvation of low-priority jobs and deadlock if there are circular dependencies among jobs.
+  - The **priority-ceiling protocol (PCP)**, which assigns a priority ceiling to each resource, equal to the highest priority of any job that can lock it. A job can lock a resource only if its priority is higher than the priority ceiling of all the resources currently locked by other jobs. This protocol prevents deadlock and bounds the blocking time of jobs by one critical section per resource.
+  - The **preemption-ceiling protocol (PCP)**, which assigns a preemption ceiling to each resource, equal to the priority ceiling of the resource. A job can lock a resource only if its priority is higher than the preemption ceiling of the highest-priority resource currently locked by any job. This protocol prevents deadlock and bounds the blocking time of jobs by one critical section per resource. It also reduces the number of preemptions and context switches compared to PCP.

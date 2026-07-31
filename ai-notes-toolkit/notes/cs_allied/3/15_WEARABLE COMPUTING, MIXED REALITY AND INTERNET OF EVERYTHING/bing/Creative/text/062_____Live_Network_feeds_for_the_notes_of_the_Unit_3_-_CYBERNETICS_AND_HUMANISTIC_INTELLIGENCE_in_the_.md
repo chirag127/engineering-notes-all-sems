@@ -1,0 +1,15 @@
+### Live Network Feeds for the Notes of the Unit 3 - Cybernetics and Humanistic Intelligence in the Subject of Wearable Computing, Mixed Reality and Internet of Everything
+
+- Live network feeds are streams of data that are continuously updated and transmitted over a network, such as the Internet, to provide real-time information or interaction to users or devices.
+- Cybernetics is the science of communication and control in living organisms and machines, which studies the feedback loops and self-regulation mechanisms that enable adaptive and intelligent behavior.
+- Humanistic intelligence (HI) is a new signal processing framework that proposes that intelligence arises when a human is part of the feedback loop of a computational process, and that the processing apparatus is inextricably intertwined with the natural capabilities of the human mind and body  .
+- Wearable computing is the field of designing and developing wearable devices that augment and extend the human senses, cognition, communication and expression, by embedding computing and sensing capabilities into clothing and accessories    .
+- Mixed reality (MR) is the blending of physical and digital worlds, where real and virtual objects coexist and interact in real time, creating new forms of perception and interaction.
+- Internet of everything (IoE) is the concept of connecting people, processes, data and things to the Internet and each other, creating a network of networks that enables new levels of collaboration, innovation and value creation.
+
+- Live network feeds can be used to implement cybernetics and humanistic intelligence in wearable computing, mixed reality and internet of everything, by enabling the following applications and scenarios:
+
+  - Live video and audio feeds from wearable cameras and microphones can be used to create immersive and interactive MR experiences, such as telepresence, augmented reality and mediated reality, where the user can see, hear and communicate with remote or virtual environments and entities  .
+  - Live biometric and environmental feeds from wearable sensors and actuators can be used to monitor and control the user's health, wellness and comfort, as well as to provide feedback and guidance for optimal performance and behavior, such as biofeedback, neurofeedback and haptic feedback   .
+  - Live social and contextual feeds from wearable devices and online platforms can be used to enhance and personalize the user's social and cultural interactions, as well as to provide relevant and timely information and services, such as social networking, recommender systems and context-aware computing   .
+  - Live collective and collaborative feeds from multiple wearable devices and IoE nodes can be used to create and share collective intelligence and knowledge, as well as to coordinate and cooperate on complex tasks and goals, such as crowd-sourcing, crowd-computing and swarm intelligence   .

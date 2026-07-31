@@ -1,0 +1,23 @@
+### Counting frequent itemsets in a stream
+
+- A data stream is a sequence of transactions that arrives continuously and cannot be stored in memory.
+- A frequent itemset is a set of items that appears in more than a given threshold of transactions in a data stream.
+- Counting frequent itemsets in a stream is a challenging problem because of the following reasons:
+  - The stream is unbounded and dynamic, so the frequencies of itemsets may change over time.
+  - The stream is fast and massive, so it is impossible to scan the stream multiple times or store all the transactions in memory.
+  - The stream is noisy and uncertain, so the itemsets may contain errors or missing values.
+- Counting frequent itemsets in a stream has many applications, such as:
+  - Opinion and sentiment analysis from social media posts or reviews.
+  - Network traffic monitoring and anomaly detection.
+  - Market basket analysis and recommendation systems.
+- Counting frequent itemsets in a stream requires efficient algorithms that can:
+  - Process the stream in one pass or a small number of passes.
+  - Use limited memory space and update the data structure incrementally.
+  - Provide accurate and reliable estimates of the frequencies of itemsets.
+  - Handle the noise and uncertainty in the stream.
+- Some of the existing algorithms for counting frequent itemsets in a stream are:
+  - Count Sketch : A probabilistic data structure that uses hash functions and linear algebra to estimate the frequencies of itemsets in a stream.
+  - Lossy Counting: A deterministic data structure that uses buckets and counters to store the itemsets and their frequencies in a stream, and periodically deletes the infrequent itemsets.
+  - Sticky Sampling: A randomized data structure that uses sampling and resampling techniques to maintain a subset of itemsets and their frequencies in a stream, and adjusts the sampling rate according to the stream size.
+  - Stream Frequency Estimation: A deterministic data structure that uses a tree structure and a sliding window to store the itemsets and their frequencies in a stream, and updates the tree according to the current frequency measure.
+  - Stream Itemset Miner : A probabilistic data structure that uses a trie structure and a reservoir sampling to store the itemsets and their frequencies in a stream, and applies a pruning strategy to remove the infrequent itemsets.

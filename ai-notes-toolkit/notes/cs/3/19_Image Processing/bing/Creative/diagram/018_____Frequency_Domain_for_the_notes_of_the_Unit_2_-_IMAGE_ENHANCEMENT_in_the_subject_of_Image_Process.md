@@ -1,0 +1,16 @@
+### Frequency Domain
+
+- Frequency domain is a way of representing an image in terms of its spatial frequencies, which are the rates of change of pixel values in different directions.
+- Frequency domain methods of image enhancement are based on the Fourier transform, which converts an image from the spatial domain to the frequency domain, and vice versa.
+- The Fourier transform of an image F(u,v) is a complex function that contains both the amplitude and the phase information of the spatial frequencies in the image.
+- The amplitude of F(u,v) is called the spectrum of the image, and it shows the distribution of the spatial frequencies in the image. The phase of F(u,v) is called the phase angle, and it shows the relative position of the spatial frequencies in the image.
+- Image enhancement in the frequency domain involves modifying the spectrum and/or the phase angle of the image, and then applying the inverse Fourier transform to obtain the enhanced image in the spatial domain.
+- The advantage of frequency domain methods is that they can perform filtering operations more efficiently and intuitively than spatial domain methods, especially for large filters.
+- The disadvantage of frequency domain methods is that they may introduce artifacts or distortions in the enhanced image, such as ringing or aliasing, due to the discrete nature of the Fourier transform and the loss of spatial information.
+
+Some common frequency domain methods of image enhancement are:
+
+- Low-pass filtering: This method attenuates the high-frequency components of the image, and preserves the low-frequency components. This results in smoothing or blurring the image, and reducing the noise or fine details. Low-pass filters can be designed using different shapes and sizes, such as ideal, Butterworth, or Gaussian filters.
+- High-pass filtering: This method attenuates the low-frequency components of the image, and preserves the high-frequency components. This results in sharpening or enhancing the edges, contours, and textures of the image. High-pass filters can be designed using different shapes and sizes, such as ideal, Butterworth, or Gaussian filters, or by subtracting a low-pass filtered image from the original image.
+- Band-pass filtering: This method attenuates the frequency components of the image that are outside a certain range, and preserves the frequency components that are inside the range. This results in enhancing the features or details of the image that correspond to the selected frequency band. Band-pass filters can be designed by combining low-pass and high-pass filters, or by using a notch filter that removes a specific frequency component from the image.
+- Homomorphic filtering: This method is based on the assumption that an image can be decomposed into a product of illumination and reflectance components, and that the illumination component is more dominant in the low-frequency range, while the reflectance component is more dominant in the high-frequency range. This method applies a high-frequency emphasis filter to the image, which enhances the contrast and the details of the image, and reduces the effects of uneven illumination. Homomorphic filters can be designed using a logarithmic transformation and a high-pass filter.

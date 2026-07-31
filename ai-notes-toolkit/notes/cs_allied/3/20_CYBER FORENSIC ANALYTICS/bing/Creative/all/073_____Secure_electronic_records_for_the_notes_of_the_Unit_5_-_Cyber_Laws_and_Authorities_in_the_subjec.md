@@ -1,0 +1,17 @@
+# Secure electronic records for the notes of the Unit 5 - Cyber Laws and Authorities in the subject of CYBER FORENSIC ANALYTICS
+
+- Secure electronic records are digital documents or data that are protected from unauthorized access, modification, disclosure, or destruction by applying appropriate security measures and controls.
+- Cyber laws are the legal rules and regulations that govern the use, access, and security of cyberspace, which is the global network of interconnected devices and systems that communicate through the internet.
+- Cyber laws cover various aspects of cyberspace, such as e-commerce, e-contracts, e-signatures, e-documents, data protection, privacy, intellectual property, cybercrime, cyber security, jurisdiction, and freedom of expression.
+- Cyber laws vary from country to country, depending on the national laws, policies, and international agreements. Some of the major cyber laws in different countries are:
+  - The Information Technology Act 2000 (IT Act) in India, which provides legal recognition to e-documents, e-signatures, and e-contracts, and defines the offences, penalties, and authorities related to cybercrime and cyber security .
+  - The Health Insurance Portability and Accountability Act 1996 (HIPAA) in the United States, which establishes the security standards and safeguards for protecting the electronic protected health information (e-PHI) of individuals.
+  - The General Data Protection Regulation 2016 (GDPR) in the European Union, which harmonizes the data protection and privacy laws across the EU member states, and grants the data subjects the rights to access, rectify, erase, restrict, and port their personal data.
+- Cyber authorities are the entities or agencies that are responsible for enforcing, implementing, and overseeing the cyber laws and regulations in their respective domains. Some of the examples of cyber authorities are:
+  - The Ministry of Electronics and Information Technology (MeitY) in India, which is the nodal ministry for the IT Act and the related rules and policies, and also coordinates with other ministries and departments on cyber issues.
+  - The Department of Health and Human Services (HHS) in the United States, which is the federal agency that administers the HIPAA and the related rules and guidance, and also investigates and enforces the violations of the HIPAA.
+  - The European Data Protection Board (EDPB) in the European Union, which is the independent body that ensures the consistent application of the GDPR across the EU member states, and also issues opinions and recommendations on data protection matters.
+- Cyber forensic analytics is the process of applying analytical techniques and tools to collect, preserve, examine, and present the digital evidence from cyberspace for legal or investigative purposes.
+- Cyber forensic analytics can help in detecting, preventing, and responding to cyber incidents, such as data breaches, identity theft, fraud, phishing, malware, ransomware, denial-of-service attacks, etc.
+- Cyber forensic analytics can also help in identifying, tracing, and prosecuting the cybercriminals, hackers, or other malicious actors who are involved in or responsible for the cyber incidents.
+- Cyber forensic analytics can use various methods and techniques, such as data mining, machine learning, artificial intelligence, network analysis, cryptography, steganography, biometrics, etc., to analyze the digital evidence from various sources, such as computers, mobile devices, cloud services, social media, web servers, etc.

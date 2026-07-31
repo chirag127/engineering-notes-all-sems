@@ -1,0 +1,22 @@
+### Counting frequent itemsets in a stream
+
+- A data stream is a sequence of transactions that arrives continuously and cannot be stored in memory.
+- A frequent itemset is a set of items that appears in more than a given threshold of transactions in a data stream.
+- Counting frequent itemsets in a stream is a challenging problem because of the following reasons:
+  - The stream is unbounded and dynamic, so the frequencies of itemsets may change over time.
+  - The stream is fast and massive, so it is impossible to scan the stream multiple times or store all the transactions in memory.
+  - The stream is noisy and uncertain, so the itemsets may contain errors or missing values.
+- Counting frequent itemsets in a stream has many applications, such as:
+  - Opinion and sentiment analysis from social media posts or reviews.
+  - Network traffic monitoring and anomaly detection.
+  - Market basket analysis and recommendation systems.
+- Counting frequent itemsets in a stream requires efficient algorithms that can:
+  - Process the stream in one pass or a small number of passes.
+  - Use limited memory and computational resources.
+  - Provide accurate and timely estimates of the frequencies of itemsets.
+  - Handle noise and uncertainty in the stream data.
+- Some of the existing algorithms for counting frequent itemsets in a stream are:
+  - Count Sketch: A data structure that uses hash functions and linear algebra to estimate the frequencies of itemsets in a stream .
+  - Lossy Counting: A data structure that uses buckets and counters to maintain the frequencies of itemsets in a stream and discards the infrequent ones.
+  - Frequent: A data structure that uses a sliding window and a hash table to keep track of the current frequencies of itemsets in a stream.
+  - Stream: A data structure that uses a tree and a reservoir to store the itemsets in a stream and updates their frequencies using a sampling technique .

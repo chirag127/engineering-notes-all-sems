@@ -1,0 +1,22 @@
+# Perceptron's for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+
+- A perceptron is an algorithm for supervised learning of binary classifiers .
+- A binary classifier is a function that can decide whether an input, represented by a vector of numbers, belongs to some specific class.
+- A perceptron is also a single-layer neural network, which is the simplest possible neural network.
+- A perceptron consists of an input layer, a weighted sum function, and an activation function .
+- The input layer receives the input vector and adds a bias term, usually 1, to it .
+- The weighted sum function computes the dot product of the input vector and a weight vector, which represents the importance of each input feature .
+- The activation function, also called the threshold function, outputs 1 if the weighted sum is greater than or equal to a threshold value, and 0 otherwise .
+- The perceptron can be trained by adjusting the weight vector based on the prediction error for each input vector  .
+- The prediction error is the difference between the actual output and the desired output for a given input vector .
+- The weight vector is updated by adding the product of the prediction error and the input vector to the previous weight vector .
+- The perceptron learning algorithm can be summarized as follows  :
+  - Initialize the weight vector to zero or a small random value.
+  - For each input vector in the training set, perform the following steps:
+    - Compute the weighted sum and the activation function for the input vector.
+    - Compare the output with the desired output and calculate the prediction error.
+    - Update the weight vector by adding the product of the prediction error and the input vector to the previous weight vector.
+  - Repeat the above steps until the prediction error is zero or below a certain tolerance level, or until a maximum number of iterations is reached.
+- The perceptron can learn linearly separable patterns, which means that the input vectors belonging to different classes can be separated by a straight line  .
+- The perceptron cannot learn nonlinearly separable patterns, which means that the input vectors belonging to different classes cannot be separated by a straight line  .
+- The perceptron is the primary unit of computation in an artificial neural network, which is a network of interconnected perceptrons that can learn more complex patterns .

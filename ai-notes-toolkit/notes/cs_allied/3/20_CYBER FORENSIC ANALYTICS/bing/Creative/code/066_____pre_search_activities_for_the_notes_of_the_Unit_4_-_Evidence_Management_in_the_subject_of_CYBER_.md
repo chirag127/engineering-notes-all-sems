@@ -1,0 +1,10 @@
+### Pre Search Activities for the Notes of the Unit 4 - Evidence Management in the Subject of Cyber Forensic Analytics
+
+- Pre search activities are the steps that cyber forensic experts take before conducting a search for digital evidence in a cyber crime investigation.
+- Pre search activities include the following tasks :
+  - Identification: The first step is to identify what evidence is present, where it is stored, and in which format it is stored. This may involve examining the devices, networks, and storage media involved in the case, as well as interviewing the suspects, victims, and witnesses.
+  - Preservation: The second step is to preserve the evidence in its original state, without altering, damaging, or destroying it. This may involve making copies or images of the data, securing the devices and media from unauthorized access, and documenting the chain of custody and the integrity of the evidence.
+  - Collection: The third step is to collect the evidence in a forensically sound manner, following proper procedures and protocols. This may involve using specialized tools and techniques to extract, acquire, and analyze the data, as well as documenting the process and the results.
+  - Analysis: The fourth step is to analyze the evidence to find relevant information and clues that can help solve the case. This may involve using data analytics, data mining, data visualization, and other methods to identify patterns, trends, anomalies, and relationships in the data, as well as interpreting the findings and drawing conclusions.
+  - Reporting: The fifth step is to report the findings and the evidence to the relevant authorities, such as the court, the law enforcement, or the client. This may involve preparing written reports, oral presentations, or expert testimony, as well as providing the evidence in a suitable format and manner.
+- Pre search activities are important for ensuring the validity, reliability, and admissibility of the digital evidence, as well as for enhancing the efficiency and effectiveness of the cyber forensic investigation.

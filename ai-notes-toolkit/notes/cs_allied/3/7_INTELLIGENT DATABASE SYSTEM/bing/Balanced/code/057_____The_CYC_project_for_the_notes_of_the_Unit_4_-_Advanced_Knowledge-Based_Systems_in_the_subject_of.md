@@ -1,0 +1,7 @@
+### The CYC project
+
+- The CYC project is a long-term artificial intelligence project that aims to assemble a comprehensive ontology and knowledge base that spans the basic concepts and rules about how the world works.
+- The project was started in 1984 by Douglas Lenat at MCC, a consortium of American computer, semiconductor, and electronics manufacturers, to advance work on artificial intelligence. In 1995, Lenat spun off the project as Cycorp, Inc., based in Austin, Texas.
+- The project hopes to capture common sense knowledge, which is the implicit knowledge that other AI platforms may take for granted. For example, Cyc knows that water is wet, that people die when they are killed, and that trees are usually outdoors.
+- The project uses a formal language called CycL to represent the ontology and knowledge base, which consists of terms, assertions, rules, and contexts. CycL is a logic-based language that supports first-order, higher-order, and modal logic.
+- The project has several applications that use Cyc's reasoning capabilities to perform human-like tasks, such as computer network risk assessment, terrorist threat anticipation, intelligence analysis, decision support, learning-by-teaching, and emotional simulation.

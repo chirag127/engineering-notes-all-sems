@@ -1,0 +1,15 @@
+### Unit 2 - Distributed Mutual Exclusion: Token-based and Non-token-based Algorithms
+
+Distributed mutual exclusion is a fundamental problem in distributed systems, where multiple processes need to access shared resources in a mutually exclusive manner. There are two main approaches to solving this problem: token-based and non-token-based algorithms.
+
+#### Token-based Algorithms
+Token-based algorithms use a token to control access to the shared resource. The token is passed among the processes in a predefined order, and only the process holding the token is allowed to access the shared resource. Some examples of token-based algorithms are:
+- **Suzuki-Kasami's Broadcast Algorithm**: In this algorithm, each process maintains a request queue and a token. When a process wants to enter the critical section, it broadcasts its request to all other processes and adds the request to its own queue. The process with the token sends it to the first process in its queue, allowing that process to enter the critical section.
+- **Raymond's Tree-Based Algorithm**: In this algorithm, the processes are organized in a logical tree structure. The token is initially held by the root of the tree. When a process wants to enter the critical section, it sends a request to its parent in the tree. The request is forwarded up the tree until it reaches the process holding the token, which then sends the token down the tree to the requesting process.
+
+#### Non-token-based Algorithms
+Non-token-based algorithms do not use a token to control access to the shared resource. Instead, they use other mechanisms such as timestamps or message passing to coordinate access among the processes. Some examples of non-token-based algorithms are:
+- **Lamport's Timestamp Algorithm**: In this algorithm, each process maintains a logical clock and assigns a timestamp to each request. When a process wants to enter the critical section, it sends its request with its timestamp to all other processes. A process is allowed to enter the critical section if its request has the smallest timestamp among all pending requests.
+- **Ricart-Agrawala's Algorithm**: In this algorithm, each process maintains a state (either requesting, executing, or released) and a request queue. When a process wants to enter the critical section, it sends a request with its timestamp to all other processes and enters the requesting state. A process is allowed to enter the critical section if it is in the requesting state and its request has the smallest timestamp among all requests in its queue.
+
+These are some of the token-based and non-token-based algorithms used for distributed mutual exclusion. Each algorithm has its own advantages and disadvantages, and the choice of algorithm depends on the specific requirements of the distributed system.

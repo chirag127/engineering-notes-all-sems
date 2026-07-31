@@ -1,0 +1,21 @@
+### Construction and Working of Window Air Conditioner
+
+- A window air conditioner is a small unit that can be mounted in a window or through a wall to cool a single room or space.
+- It consists of the following main components :
+  - A **compressor** that compresses the refrigerant (usually R-22 or R-410A) to a high pressure and temperature.
+  - A **condenser** that transfers heat from the refrigerant to the outside air by using a fan to circulate air over the condenser coil.
+  - A **drier** that removes moisture and impurities from the refrigerant.
+  - A **filter** that prevents dust and dirt from entering the system.
+  - A **capillary tube** that acts as a metering device to control the flow of refrigerant to the evaporator.
+  - An **evaporator** that absorbs heat from the room air by using a blower to deliver either cool air to the room or suck air from it before forcing through the evaporator coil which cools as well as dehumidifies the air.
+- The working cycle of a window air conditioner is based on the **vapor compression cycle** , which involves the following steps:
+  - The refrigerant enters the compressor as a low-pressure vapor and is compressed to a high-pressure vapor.
+  - The refrigerant leaves the compressor and passes through the condenser, where it releases heat to the outside air and condenses to a high-pressure liquid.
+  - The refrigerant then flows through the drier and the filter, where it is cleaned and dried.
+  - The refrigerant then passes through the capillary tube, where it expands and reduces its pressure and temperature.
+  - The refrigerant enters the evaporator as a low-pressure liquid and vaporizes by absorbing heat from the room air that is blown over the evaporator coil.
+  - The refrigerant leaves the evaporator as a low-pressure vapor and returns to the compressor, completing the cycle.
+- The advantages of a window air conditioner are:
+  - It is easy to install and remove, as it does not require any ductwork or piping.
+  - It is relatively cheap and energy-efficient, as it cools only the space where it is installed.
+  - It is compact and portable, as it can be moved from one window to another.

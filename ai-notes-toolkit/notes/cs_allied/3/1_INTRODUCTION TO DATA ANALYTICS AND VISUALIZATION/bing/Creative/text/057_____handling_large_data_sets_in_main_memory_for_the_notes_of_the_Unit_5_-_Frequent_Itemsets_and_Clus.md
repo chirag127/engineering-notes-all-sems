@@ -1,0 +1,11 @@
+### Handling Large Data Sets in Main Memory
+
+- Handling large data sets is a common challenge in data analytics and visualization, especially when the data size exceeds the available memory of the computer.
+- There are different techniques and tools to handle large data sets efficiently and effectively, such as:
+  - **Creating an ensemble of classifiers**: This approach involves splitting the data into smaller chunks that can be loaded and processed in main memory, and then learning and saving a separate classifier for each chunk. The final prediction can be obtained by combining the predictions of the individual classifiers.
+  - **Chunking the data**: This approach involves cutting the data into smaller pieces and then processing them one by one. The results of each piece can be compared and aggregated to obtain the final findings.
+  - **Compressing the data**: This approach involves reducing the size of the data by applying various compression techniques, such as removing irrelevant or redundant features, encoding categorical variables, or using dimensionality reduction methods.
+  - **Using parallel computing libraries**: This approach involves leveraging the power of multiple cores or processors in a single computer to perform parallel computations on the data. For example, Dask is a Python library that scales NumPy, pandas, and scikit-learn modules for fast computation and low memory.
+  - **Using a smaller sample**: This approach involves taking a random or stratified sample of the data that is representative of the whole population and then applying the analysis or visualization techniques on the sample. This can reduce the computational cost and memory usage, but it may also introduce some sampling error or bias.
+  - **Using online learning algorithms**: This approach involves updating the model parameters incrementally as new data arrives, rather than processing the whole data set at once. This can save memory and time, but it may also require more iterations or tuning to achieve a good performance.
+  - **Using external memory algorithms**: This approach involves using disk-based data structures or databases to store and access the data that cannot fit in main memory. This can allow handling very large data sets, but it may also incur some overhead or latency due to disk operations.

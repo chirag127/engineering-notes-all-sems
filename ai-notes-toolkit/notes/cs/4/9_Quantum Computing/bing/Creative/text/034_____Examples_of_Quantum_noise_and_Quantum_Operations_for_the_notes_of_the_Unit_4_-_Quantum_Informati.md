@@ -1,0 +1,10 @@
+### Examples of Quantum noise and Quantum Operations
+
+- Quantum noise is the uncertainty or randomness that arises from the quantum nature of physical systems, such as qubits, photons, electrons, etc. 
+- Quantum noise can affect the performance and accuracy of quantum computers, as it can cause errors, decoherence, and loss of information.  
+- Quantum operations are the mathematical descriptions of how quantum systems evolve under the influence of external factors, such as measurements, interactions, or noise. 
+- Quantum operations can be represented by matrices, such as unitary operators, Kraus operators, or superoperators, that act on the quantum states of the system. 
+- Some examples of quantum operations are:
+  - Quantum gates: These are the basic building blocks of quantum circuits, which are sequences of quantum operations that perform quantum computations. Quantum gates are unitary operators that manipulate one or more qubits, such as the Hadamard gate, the Pauli-X gate, or the CNOT gate. 
+  - Quantum measurements: These are the processes of extracting information from a quantum system, such as the state or the outcome of a computation. Quantum measurements are non-unitary operators that collapse the quantum state into one of the possible outcomes, with some probability. For example, measuring a qubit in the computational basis can yield either 0 or 1, with some probability depending on the state of the qubit. 
+  - Quantum noise: These are the effects of the environment or the imperfections of the quantum devices on the quantum system, such as decoherence, relaxation, or dephasing. Quantum noise can be modeled by Kraus operators or superoperators, which describe how the quantum state is transformed by the noise. For example, a bit-flip channel can flip a qubit from 0 to 1 or vice versa, with some probability.

@@ -1,0 +1,13 @@
+# Hardware to Hardware Communication
+
+Hardware to hardware communication is the process of transferring data between different devices or components that form a network or a system. Hardware communication can be done by using various methods, such as:
+
+- **Interrupt request (IRQ)**: This is a signal sent by a hardware device to the CPU to request its attention and service. The CPU can stop its current task and process the interrupt request, or defer it until a later time. The interrupt controller is a hardware component that manages the interrupt requests and prioritizes them according to their importance.
+
+- **Hardware-to-hardware communication, with a twist**: This is a technique used by system integrators to link data between different control systems by using an OPC server and an HMI or SCADA system. The OPC server is a software application that acts as a translator between different protocols and formats used by different devices. The HMI or SCADA system is a graphical interface that allows the user to monitor and control the devices. The HMI or SCADA system can read data from one device, display it on the screen, and write it to another device.
+
+- **Network hardware**: This refers to the devices that form the core of any network, such as user devices (laptops, PDAs, mobile phones), routers, servers, and gateways. The network hardware uses various protocols and standards to establish an efficient mechanism to transfer data from one device to another. Some of the common network hardware protocols are Ethernet, Wi-Fi, Bluetooth, and TCP/IP.
+
+- **UART (Universal Asynchronous Receiver/Transmitter)**: This is a hardware communication protocol that allows serial data transmission between two devices. UART uses a pair of wires (one for transmitting and one for receiving) and a common ground to exchange data. UART does not require a clock signal to synchronize the data, but it uses a predefined baud rate (the number of bits per second) to determine the timing of the data. UART is widely used in embedded systems, microcontrollers, and computers.
+
+- **Hardware-software interface**: This refers to the interface between the hardware and the software components of a system. The hardware-software interface defines the rules and conventions for the communication and interaction between the hardware and the software. For example, the hardware-software interface can specify the format and structure of the data, the commands and responses, the memory addresses, and the registers used by the hardware and the software. The hardware-software interface can be implemented by using various methods, such as FIFO buffers, memory-mapped I/O, and direct memory access.

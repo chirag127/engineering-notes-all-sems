@@ -1,0 +1,28 @@
+### Design Guidelines for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+
+- 3D interaction techniques are methods of manipulating and interacting with 3D objects and environments in virtual reality (VR) and augmented reality (AR) applications.
+- 3D interaction techniques can be classified into four categories: selection, manipulation, navigation, and system control.
+- Selection techniques are methods of specifying one or more 3D objects as the target of an interaction, such as pointing, ray-casting, or lassoing.
+- Manipulation techniques are methods of changing the position, orientation, size, shape, or appearance of 3D objects, such as translation, rotation, scaling, deformation, or coloring.
+- Navigation techniques are methods of changing the viewpoint or location of the user or the virtual camera in the 3D environment, such as walking, flying, teleporting, or steering.
+- System control techniques are methods of accessing and modifying the system parameters, modes, or functions, such as menus, widgets, voice commands, or gestures.
+- 3D interaction techniques should follow some general design principles, such as:
+  - Matching the interaction technique to the task and the user's goals
+  - Providing feedback and feedforward to the user
+  - Supporting natural and intuitive interaction
+  - Minimizing cognitive and physical workload
+  - Enhancing immersion and presence
+  - Avoiding simulator sickness and cybersickness
+  - Considering the trade-offs between performance, usability, and user experience
+- 3D interaction techniques should also consider the specific characteristics and challenges of AR environments, such as:
+  - The registration and alignment of virtual and real objects
+  - The occlusion and visibility of virtual and real objects
+  - The calibration and accuracy of tracking devices and sensors
+  - The adaptation and personalization of the interface
+  - The social and ethical implications of AR applications
+- 3D interaction techniques can be implemented and evaluated using various tools and methods, such as:
+  - 3D modeling and rendering software, such as Unity, Unreal Engine, or Blender
+  - AR development platforms and frameworks, such as ARCore, ARKit, or Vuforia
+  - Tracking and input devices, such as cameras, sensors, controllers, or gloves
+  - Output devices, such as head-mounted displays, projectors, or speakers
+  - User testing and evaluation methods, such as usability testing, user studies, or questionnaires

@@ -1,0 +1,9 @@
+# Unit 4 - Basic Cryptography
+
+Cryptography is the art of securing information by turning plaintext into ciphertext. It is used for various purposes, such as digital signatures, time stamping, electronic money transactions, cryptocurrency, and more. Cryptography techniques include confidentiality, integrity, non-repudiation, and authentication.
+
+Some basic concepts of cryptography are:
+
+- Encryption and decryption: Encryption is the process of transforming plaintext into ciphertext using a cipher, which is a set of rules or algorithms. Decryption is the reverse process of turning ciphertext back into plaintext using the same or a different cipher.
+- Symmetric and asymmetric cryptography: Symmetric cryptography uses the same key for both encryption and decryption, while asymmetric cryptography uses a pair of keys: a private key and a public key. The private key is kept secret by the owner, while the public key is shared with others. The public key can be used to encrypt messages for the owner, who can decrypt them with the private key. The private key can also be used to sign messages, which can be verified by others with the public key.
+- Hashing and digital signatures: Hashing is the process of generating a fixed-length string, called a hash or a digest, from any input data, using a hash function. A hash function is a one-way function, meaning that it is easy to compute the hash from the input, but hard to find the input from the hash. Hashing is used to ensure the integrity of data, as any change in the input will result in a different hash. Digital signatures are a way of using asymmetric cryptography to prove the authenticity and non-repudiation of a message. A digital signature is created by hashing the message and then encrypting the hash with the private key of the sender. The receiver can verify the signature by decrypting the hash with the public key of the sender and comparing it with the hash of the message.

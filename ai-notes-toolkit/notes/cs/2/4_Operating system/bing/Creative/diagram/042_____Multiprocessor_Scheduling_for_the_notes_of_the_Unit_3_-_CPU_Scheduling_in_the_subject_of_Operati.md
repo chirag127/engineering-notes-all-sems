@@ -1,0 +1,21 @@
+### Multiprocessor Scheduling
+
+- Multiprocessor scheduling is the process of allocating processes or threads to multiple processors in a system that has more than one processor but shares the same memory, bus, and input/output devices  .
+- The main objectives of multiprocessor scheduling are to achieve high processor utilization, load balancing, and fairness.
+- There are two main approaches to multiprocessor scheduling: symmetric multiprocessing and asymmetric multiprocessing .
+  - Symmetric multiprocessing (SMP) is where each processor is self-scheduling and can run any process in the system. All processes may be in a common ready queue, or each processor may have its own private queue for ready processes .
+    - Advantages of SMP are simplicity, scalability, and fault tolerance .
+    - Disadvantages of SMP are contention for shared resources, cache coherence overhead, and difficulty in achieving fairness .
+  - Asymmetric multiprocessing (AMP) is where one processor is designated as the master processor and is responsible for scheduling the processes on the other processors, which are called slave processors. The master processor can also run user processes, or it can be dedicated to scheduling only .
+    - Advantages of AMP are reduced contention for shared resources, reduced cache coherence overhead, and easier fairness enforcement .
+    - Disadvantages of AMP are complexity, lack of scalability, and single point of failure .
+- There are several different concepts that have been studied and implemented for multiprocessor thread scheduling and processor assignment. A few of these concepts are discussed below:
+  - Gang scheduling is where a set of related threads or processes are scheduled to run on a set of processors at the same time, in a lock-step fashion. This ensures that the threads or processes can communicate and synchronize with each other without blocking or waiting.
+    - Advantages of gang scheduling are reduced synchronization overhead, improved performance, and increased parallelism.
+    - Disadvantages of gang scheduling are increased context switching overhead, wasted processor cycles, and difficulty in finding suitable gangs.
+  - Processor affinity is where a process or thread is assigned to a specific processor or a subset of processors, based on some criteria such as memory locality, cache affinity, or load balancing. This reduces the overhead of migrating processes or threads across processors and improves performance.
+    - Advantages of processor affinity are reduced cache misses, reduced memory access latency, and reduced migration overhead.
+    - Disadvantages of processor affinity are increased load imbalance, increased scheduling complexity, and reduced flexibility.
+  - Load sharing is where the workload of the system is distributed evenly among the processors, to avoid idle or overloaded processors. This can be done by using a global queue, a local queue, or a combination of both.
+    - Advantages of load sharing are increased processor utilization, improved performance, and reduced response time.
+    - Disadvantages of load sharing are increased contention for shared resources, increased migration overhead, and increased scheduling complexity.

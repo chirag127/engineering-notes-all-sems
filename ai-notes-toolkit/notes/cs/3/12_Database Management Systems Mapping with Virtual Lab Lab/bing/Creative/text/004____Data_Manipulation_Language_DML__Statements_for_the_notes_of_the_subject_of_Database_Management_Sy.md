@@ -1,0 +1,23 @@
+## Data Manipulation Language(DML) Statements
+
+- Data Manipulation Language (DML) is a subset of SQL that is used to access and modify data in existing tables   .
+- DML statements can perform operations such as inserting, updating, deleting, and querying data in a database   .
+- DML statements are part of a transaction, which is a logical unit of work that either succeeds or fails as a whole .
+- The most common DML statements are:
+  - **SELECT**: retrieves data from one or more tables or views  .
+  - **INSERT**: adds one or more rows of data to a table or view   .
+  - **UPDATE**: modifies one or more columns of data in a table or view   .
+  - **DELETE**: removes one or more rows of data from a table or view   .
+  - **MERGE**: combines the data from two tables and updates or inserts the result into a third table .
+  - **CALL**: executes a stored procedure or function .
+  - **EXPLAIN PLAN**: displays the execution plan of a SQL statement .
+  - **LOCK TABLE**: locks one or more tables or views to prevent concurrent access .
+- DML statements can be used with various clauses, such as WHERE, GROUP BY, HAVING, ORDER BY, and LIMIT, to filter, aggregate, sort, and limit the data that is returned or modified .
+- DML statements can also use subqueries, joins, and set operators to combine data from multiple tables or sources .
+- DML statements can be executed interactively using tools such as SQL*Plus or SQL Developer, or embedded in programs using languages such as Java, C#, or Python .
+- DML statements can be used to perform various tasks, such as:
+  - Populating tables with initial data or test data .
+  - Updating or deleting data based on certain conditions or criteria .
+  - Querying data for analysis or reporting purposes .
+  - Performing data transformations or calculations .
+  - Implementing business logic or rules .

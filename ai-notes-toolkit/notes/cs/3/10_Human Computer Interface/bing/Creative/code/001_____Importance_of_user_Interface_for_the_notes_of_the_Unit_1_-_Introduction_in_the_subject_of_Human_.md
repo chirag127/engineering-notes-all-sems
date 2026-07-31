@@ -1,0 +1,9 @@
+### Importance of user interface for the notes of the Unit 1 - Introduction in the subject of Human Computer Interface
+
+- User interface (UI) is the point at which human users interact with a computer, website or application.
+- User interfaces enable users to effectively control the computer or device they are interacting with. A successful user interface should be intuitive, efficient, and user-friendly.
+- User interface is important to meet user expectations and support the effective functionality of your site. A well-executed user interface facilitates effective interaction between the user and the program, app or machine through contrasting visuals, clean design and responsiveness.
+- User interface is one of the most common front-end app view and direct human-computer interactions in which user can manipulate and control software as well as hardware. It can include all methods and devices are used to accommodate interaction between machines and user.
+- User interface design contributes greatly to the positive user experience. It can attract and acquire new customers, boost customer satisfaction and loyalty, increase productivity and efficiency, and reduce costs and errors.
+- Human-computer interaction (HCI) is the study of how humans interact with computers and how to design technologies that fit human needs and capabilities. HCI and UX are closely related.
+- HCI is important to keep humans at the center of the systems and technologies we build. It can help to create more usable, accessible, and enjoyable products and services, as well as to understand the social and ethical implications of technology.

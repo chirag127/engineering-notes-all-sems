@@ -1,0 +1,51 @@
+# KOT 551 INTERNET OF THINGS LAB
+
+- Internet of Things (IoT) is a course about the new paradigm of objects interacting with people, with information systems, and with other objects.
+- The course will focus on creative thinking and on hands-on project development using various IoT devices, sensors, cloud platforms, data analytics and security tools.
+- The duration of the course is 30 hours, with a mix of 75 minutes sessions and 2 hours sessions.
+- The course objectives are:
+  - To understand the basic concepts and principles of IoT and its applications in various domains.
+  - To learn how to design, implement and test IoT solutions using different hardware and software components.
+  - To gain practical experience in working with IoT devices, sensors, communication protocols, cloud services, data analysis and security mechanisms.
+  - To develop problem-solving and teamwork skills through group projects and presentations.
+- The course outcomes are:
+  - The students will be able to apply knowledge of IoT for real life applications.
+  - The students will be able to design, implement and test IoT solutions using different hardware and software components.
+  - The students will be able to work with IoT devices, sensors, communication protocols, cloud services, data analysis and security mechanisms.
+  - The students will be able to demonstrate problem-solving and teamwork skills through group projects and presentations.
+- The course syllabus is divided into the following modules:
+  - Module 1: Introduction to IoT
+    - Definition, characteristics and challenges of IoT
+    - IoT architecture and components
+    - IoT applications and use cases in various domains
+    - IoT standards and protocols
+  - Module 2: IoT Devices and Sensors
+    - Types and features of IoT devices and sensors
+    - Arduino, Raspberry Pi and other IoT development boards
+    - Analog and digital sensors, actuators and controllers
+    - Interfacing and programming of IoT devices and sensors
+  - Module 3: IoT Communication and Networking
+    - Wired and wireless communication technologies for IoT
+    - Bluetooth, Wi-Fi, ZigBee, LoRa, NB-IoT and other IoT protocols
+    - MQTT, CoAP, HTTP and other IoT application layer protocols
+    - Network configuration and management for IoT
+  - Module 4: IoT Cloud and Services
+    - Cloud computing concepts and models for IoT
+    - AWS, Azure, Google Cloud and other IoT cloud platforms
+    - IoT cloud services and APIs
+    - IoT data storage, processing and visualization
+  - Module 5: IoT Data Analytics and Security
+    - Data analysis techniques and tools for IoT
+    - Machine learning and artificial intelligence for IoT
+    - IoT security concepts and challenges
+    - IoT security mechanisms and best practices
+- The course assessment is based on the following components:
+  - Lab assignments: 40%
+  - Mid-term exam: 20%
+  - Final project: 30%
+  - Presentation and viva: 10%
+- The course references are:
+  - Raj Kamal, Internet of Things: Architecture and Design Principles, McGraw Hill, 2017.
+  - Arshdeep Bahga and Vijay Madisetti, Internet of Things: A Hands-on Approach, Universities Press, 2015.
+  - Olivier Hersent, David Boswarthick and Omar Elloumi, The Internet of Things: Key Applications and Protocols, Wiley, 2012.
+  - Adrian McEwen and Hakim Cassimally, Designing the Internet of Things, Wiley, 2013.

@@ -1,0 +1,12 @@
+### Eukaryotic Cells
+
+- Eukaryotic cells are one of the two types of cells that make up all living things. The other type is prokaryotic cells.
+- Eukaryotic cells have a nucleus that contains the genetic material (DNA) and is surrounded by a nuclear membrane  .
+- Eukaryotic cells also have other membrane-bound organelles that perform specific functions, such as mitochondria (energy production), endoplasmic reticulum (protein synthesis and transport), Golgi apparatus (modification and sorting of proteins), lysosomes (digestion and recycling of materials), and vacuoles (storage and regulation of water and solutes)  .
+- Eukaryotic cells have a cytoskeleton that provides structure and support, and enables movement and transport within the cell. The cytoskeleton is composed of microtubules, microfilaments, and intermediate filaments .
+- Eukaryotic cells are larger and more complex than prokaryotic cells, having a volume of around 10,000 times greater than the prokaryotic cell.
+- Eukaryotic cells are the basis of organisms that belong to the domain Eukaryota, which includes protozoa, fungi, plants, and animals  .
+- Eukaryotic cells can be divided into two main groups based on the presence or absence of a cell wall: plant cells and animal cells. Plant cells have a cell wall made of cellulose that provides rigidity and protection, and also contain chloroplasts that enable photosynthesis. Animal cells lack a cell wall and chloroplasts, but have centrioles that help in cell division  .
+- Eukaryotic cells communicate with each other and their environment through cell signaling, which involves the transmission and reception of chemical or electrical signals. Cell signaling can regulate various cellular processes, such as growth, differentiation, metabolism, and apoptosis .
+- Eukaryotic cells can be observed and studied using a compound microscope, which uses two sets of lenses to magnify the image of the specimen. The compound microscope can reveal the basic structure and organelles of eukaryotic cells, but has a limited resolution and contrast. To see more details and finer structures, other types of microscopes, such as electron microscopes, can be used .
+- Eukaryotic cells are composed of various chemical constituents that are essential for life, such as water, carbohydrates, lipids, proteins, nucleic acids, and minerals. These molecules have different roles and functions in the cell, such as providing energy, forming structures, storing information, catalyzing reactions, and maintaining homeostasis .

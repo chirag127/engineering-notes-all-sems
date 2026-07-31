@@ -1,0 +1,12 @@
+### Nonproteobacteria Gram-Negative Bacteria
+
+- Nonproteobacteria are a diverse group of bacteria that do not belong to the phylum Proteobacteria, which contains the majority of gram-negative bacteria.
+- Nonproteobacteria can be either gram-negative or gram-positive, depending on the structure of their cell wall.
+- Nonproteobacteria can have various metabolic modes, such as photoautotrophy, chemoheterotrophy, or chemoautotrophy.
+- Some examples of nonproteobacteria are:
+
+  - **Chlamydia**: Obligate intracellular parasites that infect animals and humans, causing diseases such as trachoma, chlamydia, and lymphogranuloma venereum. They have a unique developmental cycle that involves two forms: elementary bodies and reticulate bodies.
+  - **Spirochetes**: Motile, spiral-shaped bacteria with a long, narrow body. They have a unique mode of locomotion that involves axial filaments, which are bundles of flagella that rotate inside the periplasmic space. They are difficult or impossible to culture in the laboratory. Some spirochetes are pathogens, such as Treponema pallidum (syphilis), Borrelia burgdorferi (Lyme disease), and Leptospira (leptospirosis) .
+  - **CFB group**: A phylum of bacteria that includes the genera Cytophaga, Fusobacterium, and Bacteroides. They share some similarities in their DNA sequences, but are phylogenetically diverse. They are mostly anaerobic and found in various habitats, such as soil, water, and the human gut. Some CFB bacteria are involved in cellulose degradation, while others are associated with periodontal disease and infections .
+  - **Planctomycetes**: A phylum of bacteria that have unusual features, such as a lack of peptidoglycan in their cell wall, a compartmentalized cytoplasm, and the ability to bud. They are found in aquatic environments, where they play a role in the nitrogen cycle. Some planctomycetes can perform anammox, which is the anaerobic oxidation of ammonia to nitrogen gas.
+  - **Phototrophic bacteria**: A group of bacteria that use light as an energy source and perform photosynthesis. They can be either oxygenic or anoxygenic, depending on whether they produce oxygen or not. They can also have different types of pigments, such as chlorophylls, bacteriochlorophylls, or carotenoids, that give them different colors. Some examples of phototrophic bacteria are cyanobacteria, purple bacteria, green bacteria, and heliobacteria .

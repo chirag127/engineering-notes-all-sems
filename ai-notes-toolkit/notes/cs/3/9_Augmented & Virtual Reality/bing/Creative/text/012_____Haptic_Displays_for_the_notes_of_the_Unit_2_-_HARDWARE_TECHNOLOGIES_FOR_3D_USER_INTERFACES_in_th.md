@@ -1,0 +1,9 @@
+### Haptic Displays
+
+Haptic displays are devices that provide users with a sense of touch in a virtual or augmented environment. They can simulate various types of tactile and kinesthetic sensations, such as texture, shape, force, vibration, temperature, and electric stimulation. Haptic displays can enhance the realism and interactivity of 3D user interfaces, as well as provide feedback for tasks that require manual dexterity or precision.
+
+Some of the main types of haptic displays are:
+
+- **Cutaneous displays**: These devices stimulate the skin receptors by applying pressure, vibration, or temperature changes. They can create the illusion of contact with virtual objects, or convey information such as alerts, directions, or emotions. Cutaneous displays can be worn on the fingers, hand, arm, or other body parts. Examples of cutaneous displays are tactile gloves, haptic rings, and thermal patches.
+- **Kinesthetic displays**: These devices apply forces or torques to the user's joints or muscles, creating a sense of movement, weight, or resistance. They can enable the user to manipulate virtual objects, or to feel the reaction forces from the environment. Kinesthetic displays can be attached to the hand, arm, or whole body. Examples of kinesthetic displays are force-feedback joysticks, haptic arms, and exoskeletons.
+- **Electrotactile displays**: These devices stimulate the nerve endings in the skin by applying small electric currents. They can generate various sensations, such as tingling, pulsing, or pain. They can be used to create novel haptic effects, or to augment other types of haptic displays. Electrotactile displays can be embedded in electrodes, patches, or wearable devices. Examples of electrotactile displays are electric gloves, haptic vests, and tongue displays.

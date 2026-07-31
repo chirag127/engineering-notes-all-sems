@@ -1,0 +1,9 @@
+### Quality of service in transport layer
+
+- Quality of service (QoS) is the use of mechanisms or technologies that work on a network to control traffic and ensure the performance of critical applications with limited network capacity.
+- The transport layer is responsible for enhancing the QoS provided by the network layer by offering reliable, efficient and secure data transfer between application processes.
+- The transport layer can provide QoS by using the following techniques:
+  - Establishing transport connections by sending requests and specifying the required QoS parameters, such as throughput, delay, jitter, reliability, etc. The transport layer uses transport addresses, which are pairs of network addresses and port numbers, to identify the end points of a connection .
+  - Using different transport protocols, such as TCP or UDP, to suit the needs of different applications. TCP provides a connection-oriented, reliable, and flow-controlled service, while UDP provides a connectionless, unreliable, and datagram-based service.
+  - Implementing error control, flow control, and congestion control mechanisms to ensure the integrity, efficiency, and fairness of data transmission. Error control detects and corrects errors in the data packets, flow control regulates the rate of data transmission between the sender and the receiver, and congestion control prevents the network from being overloaded by too many packets.
+  - Providing security features, such as encryption, authentication, and integrity, to protect the data from unauthorized access, modification, or tampering. The transport layer can use cryptographic algorithms, such as SSL or TLS, to secure the data exchange between the application processes.

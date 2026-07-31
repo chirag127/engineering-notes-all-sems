@@ -1,0 +1,21 @@
+### Resource sharing for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Resource sharing means that the existing resources in a distributed system can be accessed or remotely accessed across multiple computers in the system.
+- Resources can be hardware (such as disks and printers), software (such as files, windows and data objects) or data (such as databases and web pages) .
+- Resource sharing can be achieved in different ways, such as:
+  - Data migration: the process of transferring data from one location to another in the system.
+  - Computation migration: the process of transferring a computation (such as a program or a service) from one location to another in the system.
+  - Process migration: the process of transferring a process (such as a thread or a task) from one location to another in the system.
+- Resource sharing can have several benefits, such as:
+  - Improving performance: by distributing the workload among multiple computers, the system can achieve higher throughput and lower latency.
+  - Increasing reliability: by replicating the resources among multiple computers, the system can tolerate failures and maintain availability.
+  - Enhancing scalability: by adding or removing computers, the system can adjust to the changing demand and resource availability.
+  - Supporting heterogeneity: by abstracting the differences among the computers, the system can provide a uniform interface to the resources.
+- Resource sharing can also have some challenges, such as:
+  - Managing concurrency: the system must ensure that concurrent access to the shared resources does not result in inconsistency or deadlock.
+  - Handling failures: the system must detect and recover from the failures of the computers or the communication links.
+  - Providing security: the system must protect the shared resources from unauthorized or malicious access.
+  - Dealing with transparency: the system must hide the complexity and diversity of the distributed system from the users and applications.
+- Resource sharing can be influenced by the web, which is a global distributed system that provides access to information and services over the internet .
+  - The web enables resource sharing by using standard protocols (such as HTTP and HTTPS), formats (such as HTML and XML) and languages (such as JavaScript and PHP).
+  - The web challenges resource sharing by introducing issues such as scalability, security, consistency, caching, replication and load balancing.

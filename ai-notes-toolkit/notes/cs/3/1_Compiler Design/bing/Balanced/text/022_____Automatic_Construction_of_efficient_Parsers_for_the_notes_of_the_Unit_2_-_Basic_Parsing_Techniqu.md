@@ -1,0 +1,24 @@
+### Automatic Construction of Efficient Parsers
+
+- A parser is a program that analyzes the syntactic structure of a given input according to a given grammar.
+- A parser can be constructed manually or automatically by using a parser generator tool.
+- A parser generator is a program that takes a grammar specification as input and produces a parser program as output.
+- A parser generator can also produce a parsing table, which is a data structure that encodes the parsing actions for each state and input symbol.
+- There are different types of parsers, such as top-down parsers, bottom-up parsers, and recursive-descent parsers.
+- Bottom-up parsers are more powerful and efficient than top-down parsers, as they can handle a larger class of grammars and avoid backtracking.
+- LR parsers are a class of bottom-up parsers that use a stack to store the parsing states and a lookahead symbol to decide the next action.
+- LR parsers can be divided into four subclasses: SLR, LALR, LR(0), and LR(1), depending on the size and accuracy of the parsing table.
+- SLR parsers use the follow sets of the grammar to construct the parsing table, which can be smaller but less precise than LR(1) parsers.
+- LALR parsers use the lookahead sets of the grammar to construct the parsing table, which can be more precise but larger than SLR parsers.
+- LR(0) parsers use only the items of the grammar to construct the parsing table, which can be the smallest but the least precise of all LR parsers.
+- LR(1) parsers use the items and the lookahead symbols of the grammar to construct the parsing table, which can be the most precise but the largest of all LR parsers.
+- The canonical collection of LR(0) items is a set of sets of items that represent the possible states of the LR(0) parser.
+- The canonical collection of LR(1) items is a set of sets of items that represent the possible states of the LR(1) parser.
+- The canonical collection of LR(0) items can be constructed by using the closure and goto operations on the grammar.
+- The canonical collection of LR(1) items can be constructed by using the augmented closure and goto operations on the grammar.
+- The SLR parsing table can be constructed by using the canonical collection of LR(0) items and the follow sets of the grammar.
+- The LR(0) parsing table can be constructed by using the canonical collection of LR(0) items and the conflict resolution rules.
+- The LR(1) parsing table can be constructed by using the canonical collection of LR(1) items and the conflict resolution rules.
+- The LALR parsing table can be constructed by using the canonical collection of LR(1) items and the merging of compatible states.
+- The automatic construction of efficient parsers can be done by using a parser generator tool, such as YACC, which can generate LALR parsers from a grammar specification.
+- The automatic construction of efficient parsers can also be done by using an incremental parser, which can handle multiple modifications of the input and epsilon productions in the grammar.

@@ -1,0 +1,22 @@
+### Reasoning with Default Information
+
+- Default reasoning is a form of nonmonotonic reasoning where plausible conclusions are inferred based on general rules which may have exceptions (defaults).
+- It is nonmonotonic in the sense that additional information may force us to withdraw earlier conclusions, namely whenever the additional information shows that the case at hand is exceptional.
+- For example, if we know that birds can fly, we can conclude that Tweety can fly, unless we learn that Tweety is a penguin.
+- Default reasoning requires two facilities, one that forces conclusions to be retracted in light of new refuting evidence and another that protects conclusions from retraction in light of new but irrelevant evidence.
+- Commonsense reasoning evidently involves two types of default rules: expectation-evoking and explanation-evoking.
+- Expectation-evoking rules are those that allow us to make predictions about the future or the unknown, such as "birds can fly" or "people are honest".
+- Explanation-evoking rules are those that allow us to explain observed phenomena or fill in missing information, such as "the sun rises in the east" or "the door is open because someone opened it".
+- Default reasoning is useful for dealing with incomplete or uncertain information, which is common in artificial intelligence applications.
+- It can also help to address the frame problem, which is how to represent adequately what does not change when an action occurs.
+- For example, if we know that John moved from A to B, we can assume that everything else remained the same, unless we have evidence to the contrary.
+- There are various formalisms and methods for default reasoning, such as default logic, circumscription, autoepistemic logic, and nonmonotonic modal logic.
+- These formalisms differ in how they represent and reason with defaults, how they handle conflicts and inconsistencies, and how they relate to classical logic.
+- Deductive reasoning is a special case of default reasoning, where the rules and facts are logically related and there are no exceptions.
+- Deductive reasoning is a form of valid reasoning, which means the argument's conclusion must be true when the premises are true.
+- Deductive reasoning is a type of propositional logic in AI, and it requires various rules and facts.
+- For example, if we know that all humans are mortal and Socrates is a human, we can deduce that Socrates is mortal.
+- Default reasoning can be seen as a generalization of deductive reasoning, where the rules and facts are not necessarily logically related and there may be exceptions.
+- Default reasoning can also be seen as a way of reasoning by analogy, where we apply general rules to specific cases based on similarity and relevance.
+- For example, if we know that most birds can fly and Tweety is a bird, we can analogize that Tweety can fly, unless we learn that Tweety is a penguin.
+- Default reasoning is a challenging and active research area in artificial intelligence, as it involves various aspects of knowledge representation, logic, and commonsense reasoning.

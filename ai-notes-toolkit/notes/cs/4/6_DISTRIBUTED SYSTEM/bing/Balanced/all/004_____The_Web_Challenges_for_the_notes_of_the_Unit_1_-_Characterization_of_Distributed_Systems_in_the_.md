@@ -1,0 +1,12 @@
+# The Web Challenges for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- A distributed system is a collection of independent computers that appear to the users as a single coherent system.
+- The web is an example of a distributed system that allows resource sharing and communication among different devices across the internet.
+- However, the web also poses several challenges for the design and implementation of distributed systems, such as:
+
+  - Scalability: The ability to handle increasing load and demand without degrading the performance or functionality of the system. For example, a web server should be able to serve more requests as the number of users grows, without slowing down or crashing.
+  - Heterogeneity: The diversity and compatibility of different devices, platforms, languages, protocols, and formats that are involved in a distributed system. For example, a web browser should be able to display and interact with web pages that are created using different technologies, such as HTML, CSS, JavaScript, etc.
+  - Security: The protection of the system and its resources from unauthorized access, modification, or damage. For example, a web application should be able to authenticate the users, encrypt the data, and prevent attacks, such as phishing, malware, denial-of-service, etc.
+  - Reliability: The ability to function correctly and consistently despite the presence of failures, errors, or faults in the system or its components. For example, a web service should be able to recover from network failures, server crashes, or data corruption, and provide consistent results to the users.
+  - Consistency: The agreement and coherence of the data and the state of the system across different replicas, nodes, or locations. For example, a web database should be able to ensure that the data is updated and synchronized across all the copies, and that the users see the same view of the data.
+  - Transparency: The hiding of the complexity and the details of the distributed system from the users and the developers. For example, a web user should not be aware of the location, the identity, or the implementation of the web server that is providing the service, and a web developer should not have to deal with the low-level details of the network communication, the concurrency, or the synchronization.

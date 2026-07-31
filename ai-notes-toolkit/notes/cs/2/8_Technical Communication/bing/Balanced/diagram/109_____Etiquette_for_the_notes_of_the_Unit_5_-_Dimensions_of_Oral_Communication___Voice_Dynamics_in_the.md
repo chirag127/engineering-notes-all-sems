@@ -1,0 +1,18 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some notes on the topic of etiquette for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication.
+
+### Etiquette for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics
+
+- Etiquette is the set of rules and conventions that govern the behavior and conduct of individuals or groups in a given context or situation.
+- Etiquette for the notes is the specific etiquette that applies to the process of taking, organizing, and reviewing notes for academic or professional purposes.
+- Etiquette for the notes can help you to:
+  - Improve your comprehension and retention of the information presented in oral communication.
+  - Enhance your critical thinking and analytical skills by summarizing, paraphrasing, and synthesizing the main ideas and arguments of the speaker.
+  - Prepare for exams, assignments, presentations, or discussions by having a clear and concise record of the key points and supporting details of the oral communication.
+  - Demonstrate your respect and professionalism to the speaker and the audience by following the appropriate norms and expectations of the communication context.
+- Some of the general etiquette for the notes are:
+  - Be prepared: Have the necessary materials and tools for taking notes, such as a notebook, a pen, a laptop, or a recording device. Choose the method of note-taking that suits your learning style and the communication purpose. Review the topic, objectives, and agenda of the oral communication beforehand if possible.
+  - Be attentive: Listen actively and attentively to the speaker and the audience. Focus on the main ideas and arguments, and avoid distractions or interruptions. Use non-verbal cues, such as eye contact, nodding, or smiling, to show your interest and engagement.
+  - Be selective: Do not try to write down everything that the speaker says, as this can be overwhelming and ineffective. Instead, use keywords, abbreviations, symbols, or diagrams to capture the essential information and the logical structure of the oral communication. Use headings, subheadings, bullet points, or numbering to organize your notes and highlight the main points and supporting details.
+  - Be accurate: Make sure that your notes are clear, accurate, and complete. Use quotation marks, brackets, or parentheses to indicate direct quotes, paraphrases, or comments from the speaker or the audience. Use question marks, asterisks, or underlines to mark the information that is unclear, incomplete, or doubtful. Check your spelling, grammar, and punctuation for errors or inconsistencies.
+  - Be ethical: Respect the intellectual property and privacy of the speaker and the audience. Do not plagiarize, falsify, or misrepresent the information or opinions of the oral communication. Do not share or publish your notes without the permission or acknowledgment of the source. Do not use your notes for any purpose that is illegal, unethical, or harmful to others.
+  - Be reflective: Review your notes as soon as possible after the oral communication. Fill in the gaps, correct the errors, or clarify the ambiguities in your notes. Compare your notes with other sources, such as textbooks, articles, or recordings, to verify or supplement the information. Summarize, analyze, or evaluate the oral communication and its implications for your learning or work. Apply or relate the oral communication to your own experiences, interests, or goals.

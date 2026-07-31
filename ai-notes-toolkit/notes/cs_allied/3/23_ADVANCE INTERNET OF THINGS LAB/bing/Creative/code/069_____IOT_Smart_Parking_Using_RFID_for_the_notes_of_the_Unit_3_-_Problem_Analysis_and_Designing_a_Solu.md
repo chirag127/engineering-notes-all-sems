@@ -1,0 +1,21 @@
+### IOT Smart Parking Using RFID
+
+- IOT (Internet of Things) is the interconnection of physical devices, sensors, actuators, and software over the internet to exchange data and perform tasks.
+- RFID (Radio Frequency Identification) is a technology that uses electromagnetic fields to identify and track tags attached to objects.
+- IOT Smart Parking Using RFID is a system that aims to replace the traditional parking system with a high technological, IoT based smart parking system by using RFID .
+- The main components of the system are:
+  - RFID tags: These are passive tags that are attached to the vehicles and contain a unique identification number.
+  - RFID readers: These are devices that can read the RFID tags and send the data to the server via Wi-Fi or Bluetooth.
+  - ESP8266: This is a low-cost Wi-Fi microchip that can be used to connect the RFID readers to the internet and the cloud server.
+  - Cloud server: This is a web-based platform that can store and process the data from the RFID readers and provide information about the parking availability, occupancy, and payment.
+  - Mobile app: This is an application that can be installed on the user's smartphone and can communicate with the cloud server to access the parking information and make reservations or payments.
+- The main advantages of the system are:
+  - It can reduce the parking search time and traffic congestion by providing real-time information about the parking availability and location.
+  - It can improve the security and safety of the vehicles by monitoring the entry and exit of the vehicles and preventing unauthorized access.
+  - It can enhance the user experience and convenience by allowing the user to book and pay for the parking slot using the mobile app.
+  - It can optimize the parking space utilization and revenue by adjusting the parking fees according to the demand and supply.
+- The main challenges of the system are:
+  - It requires a reliable and stable internet connection and power supply for the RFID readers and the ESP8266.
+  - It depends on the accuracy and compatibility of the RFID tags and readers.
+  - It involves the privacy and security issues of the user's data and payment information.
+  - It needs to comply with the legal and ethical regulations of the parking management and the IoT domain.

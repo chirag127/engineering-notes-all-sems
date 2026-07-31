@@ -1,0 +1,29 @@
+## Unit 4 - Symbol Tables
+
+- A symbol table is a data structure that stores information about the identifiers (symbols) used in a program, such as variables, constants, functions, etc.
+- A symbol table is usually implemented as a hash table, a binary search tree, or a linked list, depending on the trade-offs between insertion, lookup, and deletion operations.
+- A symbol table is used by the compiler or interpreter to perform various tasks, such as:
+  - Checking the validity and scope of identifiers
+  - Resolving name conflicts and aliases
+  - Generating intermediate code and machine code
+  - Performing static analysis and optimization
+- A symbol table typically contains the following information for each identifier:
+  - Name: the lexical representation of the identifier
+  - Type: the data type of the identifier, such as int, float, char, etc.
+  - Category: the kind of identifier, such as variable, constant, function, etc.
+  - Scope: the region of the program where the identifier is visible and accessible
+  - Address: the memory location or offset where the identifier is stored at run time
+  - Attributes: any additional information that may be needed, such as size, value, parameters, etc.
+- A symbol table may have different levels of granularity, depending on the programming language and the compilation process. For example, a symbol table may be:
+  - Global: containing all the identifiers in the entire program
+  - Local: containing only the identifiers in a specific function or block
+  - Nested: containing the identifiers in a nested scope, such as a class or a structure
+- A symbol table may also have different scopes of visibility, depending on the programming language and the compilation process. For example, a symbol table may be:
+  - Static: containing the identifiers that are declared at compile time and have a fixed memory location
+  - Dynamic: containing the identifiers that are created and destroyed at run time and have a variable memory location
+  - Lexical: containing the identifiers that are visible in the current lexical scope, regardless of the execution order
+  - Dynamic: containing the identifiers that are visible in the current dynamic scope, depending on the execution order
+- A symbol table may also have different lifetimes, depending on the programming language and the compilation process. For example, a symbol table may be:
+  - Persistent: existing throughout the entire execution of the program
+  - Temporary: existing only during a specific phase of the compilation or interpretation process
+  - Transient: existing only during a specific function call or block execution

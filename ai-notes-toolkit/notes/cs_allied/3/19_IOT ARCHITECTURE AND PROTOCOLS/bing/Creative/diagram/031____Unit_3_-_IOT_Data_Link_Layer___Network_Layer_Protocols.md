@@ -1,0 +1,22 @@
+## Unit 3 - IOT Data Link Layer & Network Layer Protocols
+
+The data link layer and the network layer are two important layers in the IoT technology stack. They are responsible for providing communication services between devices and networks, as well as addressing and routing of data packets.
+
+### Data Link Layer Protocols
+
+The data link layer provides service to the network layer. It is responsible for framing, error detection, and medium access control. There are various protocols and standard technologies specified by different organizations for data link protocols. Some of the common ones are:
+
+- **Bluetooth**: Bluetooth is a short-range wireless communication network over a radio frequency. It is widely used for connecting devices such as headphones, speakers, keyboards, mice, etc. Bluetooth supports both point-to-point and point-to-multipoint connections. Bluetooth Low Energy (BLE) is a variant of Bluetooth that consumes less power and is suitable for IoT applications such as wearables, health monitors, etc.
+- **Wi-Fi**: Wi-Fi is a wireless local area network (WLAN) technology that uses radio waves to provide internet access to devices. Wi-Fi supports high data rates and can cover a large area with multiple access points. Wi-Fi is commonly used for connecting devices such as laptops, smartphones, tablets, etc. to the internet. Wi-Fi also supports peer-to-peer connections and mesh networks. Wi-Fi HaLow is a low-power version of Wi-Fi that operates in the sub-1 GHz band and is designed for IoT applications such as smart homes, smart cities, etc.
+- **Zigbee**: Zigbee is a low-power wireless personal area network (WPAN) technology that operates in the 2.4 GHz band. It is based on the IEEE 802.15.4 standard and supports mesh networking, self-healing, and security features. Zigbee is mainly used for IoT applications such as smart lighting, smart metering, smart security, etc.
+- **Z-Wave**: Z-Wave is another low-power wireless personal area network (WPAN) technology that operates in the sub-1 GHz band. It is based on the Z-Wave Alliance standard and supports mesh networking, self-healing, and security features. Z-Wave is mainly used for IoT applications such as smart home automation, smart energy management, smart health care, etc.
+- **LoRa**: LoRa is a long-range wireless communication technology that operates in the sub-1 GHz band. It uses a spread spectrum modulation technique to achieve low power consumption and high interference immunity. LoRa supports star and mesh topologies and can cover a large area with a single gateway. LoRa is mainly used for IoT applications such as smart agriculture, smart parking, smart logistics, etc.
+
+### Network Layer Protocols
+
+The network layer provides service to the transport layer. It is responsible for addressing and routing of data packets. There are various protocols and standard technologies specified by different organizations for network layer protocols. Some of the common ones are:
+
+- **IPv4**: IPv4 is the fourth version of the Internet Protocol (IP) that provides logical addressing and routing for the internet. IPv4 uses 32-bit addresses and can support up to 4.3 billion devices. IPv4 is the most widely used network layer protocol for the internet and IoT devices. However, IPv4 has some limitations such as address exhaustion, security issues, and scalability problems.
+- **IPv6**: IPv6 is the sixth version of the Internet Protocol (IP) that provides logical addressing and routing for the internet. IPv6 uses 128-bit addresses and can support up to 3.4 x 10^38 devices. IPv6 is designed to overcome the limitations of IPv4 and provide enhanced features such as auto-configuration, mobility, security, and quality of service. IPv6 is gradually replacing IPv4 as the network layer protocol for the internet and IoT devices.
+- **6LoWPAN**: 6LoWPAN is an adaptation layer that enables IPv6 packets to be transmitted over low-power wireless personal area networks (WPANs) such as IEEE 802.15.4, Bluetooth Low Energy, etc. 6LoWPAN provides header compression, fragmentation, and reassembly of IPv6 packets to fit the low bandwidth and small frame size of WPANs. 6LoWPAN is mainly used for IoT applications such as smart grid, smart health, smart environment, etc.
+- **CoAP**: CoAP is an application layer protocol that provides a RESTful web service for constrained devices and networks

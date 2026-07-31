@@ -1,0 +1,10 @@
+### Isomorphism and Homeomorphism of graphs
+
+- Isomorphism and homeomorphism are two concepts that relate two graphs based on their structure and properties.
+- Isomorphism means that two graphs have the same number of vertices and edges, and there is a one-to-one correspondence between the vertices of the two graphs that preserves the adjacency relation. In other words, two graphs are isomorphic if they look exactly the same, except for the labels of the vertices.
+- Homeomorphism means that two graphs can be obtained from each other by a sequence of subdivisions and smoothings. A subdivision is the operation of adding a new vertex on an edge and splitting the edge into two edges. A smoothing is the reverse operation of removing a vertex of degree two and joining the two adjacent edges into one edge. In other words, two graphs are homeomorphic if they have the same topological shape, regardless of the number of vertices and edges.
+- Some properties of isomorphism and homeomorphism are:
+
+  - Isomorphism is an equivalence relation, meaning that it is reflexive, symmetric and transitive. Homeomorphism is also an equivalence relation, but it is a weaker one than isomorphism, meaning that any two isomorphic graphs are also homeomorphic, but not vice versa.
+  - Isomorphism preserves all the properties of a graph that depend only on the adjacency relation, such as the degree sequence, the number of connected components, the number of cycles, the chromatic number, etc. Homeomorphism preserves some of these properties, but not all of them. For example, the number of connected components and the number of cycles are preserved by homeomorphism, but the degree sequence and the chromatic number are not.
+  - Isomorphism can be tested in polynomial time using algorithms such as the Weisfeiler-Lehman algorithm or the Ullmann algorithm. Homeomorphism is harder to test, and it is not known whether there is a polynomial time algorithm for it or not. The best known algorithm for homeomorphism testing is the Robertson-Seymour algorithm, which runs in time O(n^3 log n), where n is the number of vertices in the graphs.

@@ -1,0 +1,30 @@
+### Task scheduling for the notes of the Unit 3 - REAL TIME KERNEL BASICS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Task scheduling is the process of determining how the various tasks are picked for execution by the operating system.
+- A task scheduler is a component of the operating system that uses a scheduling algorithm to decide which task to run next.
+- A real-time operating system (RTOS) is a type of operating system that is designed to meet the timing constraints of real-time applications.
+- A real-time application is an application that has strict deadlines for completing its tasks, such as controlling a robot, processing sensor data, or playing audio or video.
+- A real-time task is a task that belongs to a real-time application and has a deadline for its completion.
+- A real-time task can be classified as periodic or aperiodic.
+  - A periodic task is a task that repeats at regular intervals and has a fixed execution time and deadline.
+  - An aperiodic task is a task that occurs irregularly and has a variable execution time and deadline.
+- A real-time task can also be classified as hard or soft.
+  - A hard real-time task is a task that must meet its deadline, otherwise the system may fail or cause severe consequences.
+  - A soft real-time task is a task that can tolerate some delay in meeting its deadline, but the quality of service may degrade.
+- A real-time task scheduler is a task scheduler that aims to ensure that all the real-time tasks meet their deadlines and provide the best possible performance.
+- A real-time task scheduler can be classified as preemptive or non-preemptive.
+  - A preemptive task scheduler is a task scheduler that can interrupt a running task and switch to another task with higher priority or urgency.
+  - A non-preemptive task scheduler is a task scheduler that can only switch to another task when the current task finishes or voluntarily yields the processor.
+- A real-time task scheduler can also be classified as static or dynamic.
+  - A static task scheduler is a task scheduler that assigns priorities to tasks based on their characteristics and does not change them during execution.
+  - A dynamic task scheduler is a task scheduler that assigns priorities to tasks based on their current state and may change them during execution.
+- Some examples of real-time task scheduling algorithms are :
+  - Run to completion (RTC): A non-preemptive, static algorithm that executes each task until it finishes or blocks, without any interruption.
+  - Round robin (RR): A preemptive, static algorithm that executes each task for a fixed time slice and then switches to the next task in a circular order.
+  - Time slice (TS): A preemptive, static algorithm that executes each task for a fixed time slice and then switches to the next task in the order of their priorities.
+  - Time slice with background task (TSBG): A preemptive, static algorithm that executes each task for a fixed time slice and then switches to the next task in the order of their priorities, except for the lowest priority task, which is executed only when no other task is ready.
+  - Priority (PRI): A preemptive, static algorithm that executes the task with the highest priority at any time and preempts any lower priority task.
+  - Earliest deadline first (EDF): A preemptive, dynamic algorithm that executes the task with the earliest deadline at any time and preempts any task with a later deadline.
+  - Least laxity first (LLF): A preemptive, dynamic algorithm that executes the task with the least laxity at any time and preempts any task with a greater laxity. Laxity is the difference between the deadline and the remaining execution time of a task.
+  - Rate monotonic (RM): A preemptive, static algorithm that assigns priorities to tasks based on their periods, such that the shorter the period, the higher the priority.
+  - Deadline monotonic (DM): A preemptive, static algorithm that assigns priorities to tasks based on their deadlines, such that the shorter the deadline, the higher the priority.

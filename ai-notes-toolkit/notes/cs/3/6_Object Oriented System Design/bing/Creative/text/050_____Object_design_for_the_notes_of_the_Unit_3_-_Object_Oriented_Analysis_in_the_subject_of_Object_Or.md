@@ -1,0 +1,23 @@
+### Object design for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Object design is the discipline of defining the objects and their interactions to solve a problem that was identified and documented during object-oriented analysis.
+- Object design transforms the analysis model into a design model that works as a plan for software creation.
+- Object design involves the following steps:
+  - Mapping the concepts in the analysis model to implementing classes and interfaces
+  - Identifying the constraints and relationships among the classes and interfaces
+  - Designing the algorithms and methods for the classes and interfaces
+  - Designing the user interface and the system architecture
+- Object design follows some principles and guidelines, such as:
+  - Encapsulation: hiding the internal details of the objects and exposing only the essential features and behaviors
+  - Abstraction: representing the common characteristics and behaviors of a group of objects as a class or an interface
+  - Inheritance: reusing the attributes and methods of an existing class or interface by creating a subclass or a subinterface
+  - Polymorphism: allowing different objects to respond differently to the same message or method call
+  - Modularity: dividing the system into smaller and independent units or modules that can be developed and tested separately
+  - Coupling: measuring the degree of interdependence or interaction between the modules
+  - Cohesion: measuring the degree of relatedness or similarity of the elements within a module
+- Object design uses some tools and techniques, such as:
+  - Object-oriented modeling: a common approach to modeling applications, systems, and business domains by using the object-oriented paradigm throughout the entire development life cycles
+  - Unified Modeling Language (UML): a standard graphical notation for modeling the structure and behavior of object-oriented systems
+  - Design patterns: reusable solutions to common design problems that describe the relationships and interactions between the classes and objects
+  - Refactoring: improving the design of existing code by changing its structure without altering its functionality
+  - Testing: verifying and validating the correctness and quality of the design and the code

@@ -1,0 +1,31 @@
+### Network performance and transmission impairments
+
+- Network performance is the measure of how well a network can deliver data and services to its users.
+- Network performance can be affected by various factors, such as bandwidth, latency, jitter, packet loss, congestion, and errors.
+- Transmission impairments are the damage or harm caused to the signal during the signal transmission.
+- Transmission impairments can be caused by various sources, such as noise, attenuation, distortion, and interference.
+- Noise is the unwanted or random variation in the signal that reduces its clarity and quality.
+- There are several types of noise, such as induced noise, crosstalk noise, thermal noise, and impulse noise.
+- Induced noise comes from sources such as motors and appliances that act as sending antennas and transmission medium acts as receiving antenna.
+- Crosstalk noise is the interference caused by signals from adjacent wires or channels.
+- Thermal noise is the random fluctuation of electrons in the wire due to heat.
+- Impulse noise is the sudden and sharp spike in the signal due to external disturbances, such as lightning or power surges.
+- Attenuation is the gradual loss of signal strength as it travels through the transmission medium.
+- Attenuation depends on the distance, frequency, and characteristics of the medium.
+- Attenuation can be compensated by using amplifiers or repeaters to boost the signal strength.
+- Distortion is the alteration of the shape or form of the signal due to the non-uniform behavior of the transmission medium.
+- Distortion can be caused by factors such as frequency-dependent attenuation, phase shift, and delay distortion.
+- Frequency-dependent attenuation is the variation of attenuation with frequency, which causes different frequency components of the signal to have different amplitudes.
+- Phase shift is the change in the phase of the signal due to the variation of propagation speed with frequency, which causes different frequency components of the signal to have different phases.
+- Delay distortion is the variation of delay with frequency, which causes different frequency components of the signal to arrive at different times.
+- Interference is the unwanted signal that overlaps with the desired signal and reduces its quality.
+- Interference can be caused by sources such as other signals in the same frequency band, electromagnetic radiation, or multipath propagation.
+- Multipath propagation is the phenomenon where the signal travels through multiple paths due to reflection, refraction, or scattering, and arrives at the receiver with different amplitudes, phases, and delays.
+- Transmission impairments can affect the network performance by increasing the bit error rate (BER), which is the ratio of erroneous bits to the total number of bits transmitted.
+- Transmission impairments can also affect the network performance by triggering the congestion avoidance algorithms of the transport layer protocols, such as TCP, which reduce the throughput and increase the delay.
+- Transmission impairments can be mitigated by using various techniques, such as modulation, coding, equalization, filtering, and error control.
+- Modulation is the process of changing the characteristics of the signal, such as amplitude, frequency, or phase, to match the transmission medium and reduce the impairments.
+- Coding is the process of adding redundancy to the signal to increase its reliability and detect or correct errors.
+- Equalization is the process of compensating for the distortion of the signal by adjusting its frequency components.
+- Filtering is the process of removing the noise or interference from the signal by using devices that allow only certain frequency ranges to pass through.
+- Error control is the process of detecting and correcting errors in the signal by using techniques such as checksum, parity, cyclic redundancy check (CRC), or automatic repeat request (ARQ).

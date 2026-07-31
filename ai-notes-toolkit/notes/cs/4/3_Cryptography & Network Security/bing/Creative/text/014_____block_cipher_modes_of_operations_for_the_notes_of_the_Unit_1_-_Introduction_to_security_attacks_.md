@@ -1,0 +1,13 @@
+### Block Cipher Modes of Operation
+
+- A block cipher mode of operation is an algorithm that uses a block cipher to provide information security such as confidentiality or authenticity.
+- A block cipher by itself is only suitable for the secure cryptographic transformation (encryption or decryption) of one fixed-length group of bits called a block.
+- To encrypt or decrypt messages of arbitrary length, different modes of operation are defined, which specify how to apply the block cipher repeatedly to the message.
+- There are five types of operations in block cipher modes, ECB (Electronic Code Book) mode, CBC (Cipher Block Chaining) mode, CFB (Cipher Feedback) mode, OFB (Output Feedback) mode and CTR (Counter) mode.
+- ECB mode encrypts each block of the message independently with the same key, and is the simplest and most basic mode. It is not secure for messages longer than one block, as identical plaintext blocks produce identical ciphertext blocks.
+- CBC mode encrypts each block of the message by XORing it with the previous ciphertext block, and then applying the block cipher. The first block is XORed with an initialization vector (IV), which is a random value. This mode ensures that identical plaintext blocks produce different ciphertext blocks.
+- CFB mode encrypts the message by XORing each block of the message with the output of the block cipher applied to the previous ciphertext block. The first block is XORed with the IV. This mode allows the block cipher to act as a stream cipher, and can handle messages of any length.
+- OFB mode encrypts the message by XORing each block of the message with the output of the block cipher applied to the IV. The IV is updated by applying the block cipher to it after each encryption. This mode also allows the block cipher to act as a stream cipher, and can handle messages of any length.
+- CTR mode encrypts the message by XORing each block of the message with the output of the block cipher applied to a counter. The counter is a value that is incremented by one after each encryption. This mode also allows the block cipher to act as a stream cipher, and can handle messages of any length.
+- Different modes of operation have different advantages and disadvantages, such as speed, security, error propagation, parallelizability, and random access.
+- The choice of the mode of operation depends on the application and the security requirements.

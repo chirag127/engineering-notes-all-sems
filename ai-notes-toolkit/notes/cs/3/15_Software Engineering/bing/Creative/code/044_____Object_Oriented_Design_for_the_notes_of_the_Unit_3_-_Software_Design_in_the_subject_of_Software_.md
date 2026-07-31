@@ -1,0 +1,21 @@
+# Object Oriented Design for the notes of the Unit 3 - Software Design in the subject of Software Engineering
+
+- Object Oriented Design (OOD) is the process of planning a system of interacting objects for the purpose of solving a software problem.
+- OOD transforms the analysis model created using Object Oriented Analysis (OOA) into a design model that serves as a blueprint for software construction.
+- OOD is based on the object oriented paradigm, which is a common approach to modeling applications, systems, and business domains by using the concepts of objects, classes, inheritance, polymorphism, and encapsulation.
+- OOD aims to achieve the following benefits:
+  - Reusability: Objects and classes can be reused in different contexts and applications, reducing the need to write new code.
+  - Modularity: Objects and classes can be organized into modules or packages, which can be independently developed, tested, and maintained.
+  - Extensibility: Objects and classes can be extended or modified to accommodate new requirements or functionalities, without affecting the existing system.
+  - Maintainability: Objects and classes can be easily understood, modified, and debugged, as they have well-defined interfaces and behaviors.
+  - Testability: Objects and classes can be easily tested, as they have low coupling and high cohesion, which means they have minimal dependencies and clear responsibilities.
+- OOD follows some principles and guidelines to ensure the quality and effectiveness of the design, such as:
+  - SOLID: A mnemonic acronym for five principles of OOD, namely Single responsibility, Open-closed, Liskov substitution, Interface segregation, and Dependency inversion.
+  - GRASP: A set of patterns or heuristics for assigning responsibilities to objects and classes, such as Information expert, Creator, Controller, Low coupling, High cohesion, Polymorphism, Pure fabrication, Indirection, and Protected variations.
+  - Design Patterns: A set of reusable solutions to common design problems, such as Creational, Structural, and Behavioral patterns.
+- OOD involves some steps and activities, such as:
+  - Identifying the objects and classes based on the problem domain and the analysis model.
+  - Defining the attributes and methods of each object and class, and specifying their visibility and accessibility.
+  - Establishing the relationships and collaborations among the objects and classes, such as inheritance, association, aggregation, composition, and dependency.
+  - Applying the principles, guidelines, and patterns of OOD to refine and optimize the design.
+  - Documenting and communicating the design using diagrams and notations, such as Unified Modeling Language (UML).

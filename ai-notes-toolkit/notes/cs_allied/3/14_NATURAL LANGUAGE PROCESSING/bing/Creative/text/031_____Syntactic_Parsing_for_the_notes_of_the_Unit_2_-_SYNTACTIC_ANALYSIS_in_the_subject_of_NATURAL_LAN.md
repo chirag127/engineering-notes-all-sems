@@ -1,0 +1,14 @@
+### Syntactic Parsing
+
+- Syntactic parsing is the process of analyzing the structure and meaning of a natural language sentence based on a formal grammar.
+- A grammar is a set of rules that define the syntax and semantics of a language, i.e., how words can be combined into phrases and sentences, and what they mean.
+- A parser is a program that takes a sentence as input and outputs a parse tree, which is a hierarchical representation of the syntactic structure and meaning of the sentence.
+- A parse tree consists of nodes and edges, where nodes are labeled with syntactic categories (such as noun, verb, adjective, etc.) or semantic roles (such as agent, patient, theme, etc.), and edges are labeled with grammatical relations (such as subject, object, modifier, etc.).
+- A parse tree can be represented in different formats, such as bracketed notation, tree diagrams, or dependency graphs.
+- Syntactic parsing can be divided into two main types: constituency parsing and dependency parsing.
+- Constituency parsing is based on the idea that sentences are composed of nested constituents, i.e., groups of words that function as a unit. For example, in the sentence "The dog chased the cat", the noun phrase "the dog" is a constituent that acts as the subject of the verb phrase "chased the cat".
+- Dependency parsing is based on the idea that sentences are composed of words that depend on each other in terms of syntactic and semantic functions. For example, in the same sentence, the word "dog" depends on the word "chased" as its subject, and the word "cat" depends on the word "chased" as its object.
+- Syntactic parsing can be performed using different methods, such as rule-based, probabilistic, or neural network-based approaches.
+- Rule-based parsing relies on manually crafted grammars and algorithms that apply the rules to generate or select the best parse tree for a given sentence. For example, a top-down parser starts from the root node of the tree and tries to expand it using the grammar rules until it matches the input sentence.
+- Probabilistic parsing relies on statistical models that learn the probabilities of grammar rules and parse trees from a large corpus of annotated sentences. For example, a probabilistic context-free grammar (PCFG) assigns a probability to each rule based on its frequency in the corpus, and a probabilistic parser uses these probabilities to find the most likely parse tree for a given sentence.
+- Neural network-based parsing relies on artificial neural networks that learn to encode the input sentence into a vector representation and decode it into a parse tree. For example, a recurrent neural network (RNN) can process the input sentence word by word and update its hidden state, which can then be used to generate or select the parse tree.

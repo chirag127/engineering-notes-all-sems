@@ -1,0 +1,15 @@
+# Anatomy of a MapReduce Job Run
+
+- MapReduce is a framework for processing large-scale data sets in parallel and distributed manner using a cluster of computers.
+- A MapReduce job consists of a map phase and a reduce phase, each of which can be divided into a number of tasks that run on different nodes in the cluster.
+- The following steps describe the anatomy of a MapReduce job run:
+
+  1. The client submits the job to the JobTracker, which is a master node that coordinates the execution of the job. The client specifies the input and output locations, the mapper and reducer classes, the number of reduce tasks, and other configuration parameters.
+  2. The JobTracker splits the input data into fixed-size chunks called input splits, each of which is assigned to a map task. The number of map tasks is determined by the number and size of the input splits.
+  3. The JobTracker contacts the available TaskTrackers, which are slave nodes that run the map and reduce tasks, and assigns them map tasks to execute. The TaskTrackers launch the map tasks in separate processes and report their progress and status to the JobTracker.
+  4. The map tasks read the input splits from the Hadoop Distributed File System (HDFS) or other sources, and apply the mapper function to each record. The mapper function transforms the input key-value pairs into intermediate key-value pairs, which are buffered in memory and periodically spilled to local disk.
+  5. The map tasks partition the intermediate key-value pairs by a hash function based on the key, and send them to the reduce tasks. The number of partitions is equal to the number of reduce tasks. The map tasks also write the metadata about the partitions, such as their locations and sizes, to the HDFS.
+  6. The JobTracker assigns reduce tasks to the TaskTrackers, and notifies them about the locations of the intermediate data. The TaskTrackers launch the reduce tasks in separate processes and report their progress and status to the JobTracker.
+  7. The reduce tasks fetch the intermediate data from the local disks of the map tasks, and sort them by the key. The reduce tasks then apply the reducer function to each group of values that share the same key. The reducer function aggregates the values and produces the final output key-value pairs, which are written to the HDFS or other sinks.
+  8. The JobTracker monitors the status and progress of the map and reduce tasks, and handles failures and re-executions. The JobTracker also provides information about the job to the client and the web interface. The client can poll the JobTracker for the job completion or wait for a notification.
+  9. The client can access the output data from the HDFS or other sources, and perform further analysis or processing. The client can also delete the intermediate data and the job history files from the HDFS to save space.

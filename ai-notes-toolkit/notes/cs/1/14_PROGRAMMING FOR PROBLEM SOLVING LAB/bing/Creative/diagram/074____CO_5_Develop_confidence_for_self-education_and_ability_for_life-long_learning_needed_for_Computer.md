@@ -1,0 +1,14 @@
+## CO 5 Develop confidence for self-education and ability for life-long learning needed for Computer language.
+
+- Computer language is the set of instructions, symbols, and rules that are used to communicate with a computer or a software program.
+- Learning computer language is essential for developing various applications, systems, and solutions that can solve real-world problems and enhance human capabilities.
+- Computer language is constantly evolving and changing, as new technologies, paradigms, and frameworks emerge and replace the old ones.
+- Therefore, it is important for learners of computer language to develop confidence for self-education and ability for life-long learning, so that they can keep up with the latest trends and innovations in the field, and adapt to the changing demands and expectations of the industry and society.
+- Some of the skills and strategies that can help learners of computer language to develop confidence for self-education and ability for life-long learning are:
+
+  - **Curiosity and interest**: Learners should have a genuine curiosity and interest in computer language and its applications, and seek to explore and discover new concepts, methods, and tools that can enhance their knowledge and skills.
+  - **Self-motivation and discipline**: Learners should have a clear goal and purpose for learning computer language, and be self-motivated and disciplined to pursue their learning objectives and overcome the challenges and difficulties that they may encounter along the way.
+  - **Critical thinking and problem-solving**: Learners should be able to analyze, evaluate, and synthesize information from various sources, and apply their computer language knowledge and skills to solve problems creatively and effectively.
+  - **Self-assessment and feedback**: Learners should be able to monitor and assess their own progress and performance, and seek feedback from others, such as peers, instructors, mentors, or experts, to identify their strengths and weaknesses, and improve their learning outcomes.
+  - **Collaboration and communication**: Learners should be able to work and communicate with others, such as teammates, colleagues, clients, or users, who have different backgrounds, perspectives, and expertise, and share their ideas, opinions, and solutions in a respectful and constructive manner.
+  - **Reflection and adaptation**: Learners should be able to reflect on their learning experiences and outcomes, and learn from their successes and failures, and adapt their learning strategies and methods to suit their needs and goals, and the changing contexts and situations.

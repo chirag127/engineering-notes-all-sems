@@ -1,0 +1,12 @@
+### Parallel algorithms for line generation
+
+- Line generation is a fundamental task in computer graphics, where a straight line segment between two points on a discrete grid needs to be approximated by a sequence of pixels.
+- A common algorithm for line generation is the Bresenham's algorithm, which uses integer arithmetic and incremental calculations to determine the next pixel along the line.
+- However, Bresenham's algorithm is sequential and cannot be easily parallelized, as each pixel depends on the previous one.
+- Therefore, some parallel algorithms for line generation have been proposed, which exploit the properties of line equations and vector operations to derive coordinate pairs that approximate the line in parallel.
+- Some of the parallel algorithms for line generation are:
+
+  - The parallel prefix sums algorithm, which uses the fact that straight line generation is equivalent to a vector prefix sums calculation. The algorithm executes on a binary tree of processors, where each node performs a simple calculation that involves only additions and shifts.
+  - The parallel edge function algorithm, which uses a linear edge function that has a value greater than zero on one side of the edge and less than zero on the opposite side. The value of the function can be interpolated with hardware similar to hardware required to interpolate color and Z pixel values. The edge function of adjacent pixels can be easily computed in parallel, and the coefficients of the edge function can be computed from floating point endpoints with sub-pixel precision.
+  - The parallel coordinate pair algorithm, which uses the line equation to derive coordinate pairs that approximate the line on a square grid. The algorithm uses a parallel prefix computation to generate the coordinate pairs, and then maps them to the grid using a parallel mapping function.
+  - The parallel DDA algorithm, which is a parallel version of the digital differential analyzer (DDA) algorithm, which uses floating point arithmetic and incremental calculations to determine the next pixel along the line. The algorithm divides the line into segments of equal length, and assigns each segment to a processor. Each processor then computes the pixels of its segment using the DDA algorithm.

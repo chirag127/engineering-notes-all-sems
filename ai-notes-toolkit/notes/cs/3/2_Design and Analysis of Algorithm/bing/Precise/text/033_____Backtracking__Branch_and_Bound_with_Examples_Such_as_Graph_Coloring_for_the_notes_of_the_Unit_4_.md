@@ -1,0 +1,11 @@
+### Backtracking, Branch and Bound with Examples Such as Graph Coloring
+
+Backtracking and branch and bound are two optimization techniques used to solve problems in the field of computer science. Both techniques are used to find solutions to problems that can be represented as a tree of possibilities.
+
+Backtracking is a technique used to find all, or some, solutions to a problem by incrementally building a solution and then backing up whenever a solution cannot be found. This technique is often used to solve problems where the solution is a sequence of choices, such as the n-Queen problem, where the goal is to place n queens on an n x n chessboard such that no two queens threaten each other.
+
+Branch and bound is a technique used to find an optimal solution to a problem by systematically enumerating all possible solutions and eliminating suboptimal solutions. This technique is often used to solve problems where the solution is a sequence of choices, such as the traveling salesman problem, where the goal is to find the shortest possible route that visits a given set of cities and returns to the starting city.
+
+One example of a problem that can be solved using backtracking or branch and bound is graph coloring. Graph coloring is the problem of assigning colors to the vertices of a graph in such a way that no two adjacent vertices share the same color. This problem can be solved using backtracking by incrementally assigning colors to vertices and then backing up whenever a conflict is found. Alternatively, the problem can be solved using branch and bound by systematically enumerating all possible color assignments and eliminating suboptimal assignments.
+
+In summary, backtracking and branch and bound are two optimization techniques used to solve problems that can be represented as a tree of possibilities. Both techniques can be used to solve problems such as graph coloring, where the goal is to find a solution that satisfies a set of constraints. Backtracking is used to find all, or some, solutions to a problem, while branch and bound is used to find an optimal solution to a problem.

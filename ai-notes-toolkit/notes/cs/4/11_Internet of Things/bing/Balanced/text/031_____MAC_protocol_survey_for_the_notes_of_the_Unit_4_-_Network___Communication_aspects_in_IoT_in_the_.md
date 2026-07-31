@@ -1,0 +1,11 @@
+### MAC protocol survey for the notes of the Unit 4 - Network & Communication aspects in IoT in the subject of Internet of Things
+
+- MAC (Medium Access Control) protocol is the first protocol layer above the physical layer in wireless networks. It coordinates the access of the nodes to the shared wireless medium.
+- MAC protocols can be classified into two main categories: contention-based and contention-free.
+- Contention-based protocols allow nodes to compete for the channel access without reservation or scheduling. They are simple and flexible, but may suffer from collisions and low efficiency. Examples of contention-based protocols are ALOHA, CSMA, and CSMA/CA.
+- Contention-free protocols use reservation or scheduling mechanisms to allocate the channel access to the nodes. They can provide guarantees on throughput, delay, and reliability, but may incur high overhead and complexity. Examples of contention-free protocols are TDMA, FDMA, CDMA, and OFDMA.
+- MAC protocols for IoT need to consider the specific characteristics and requirements of IoT applications, such as scalability, heterogeneity, energy efficiency, reliability, and security  .
+- MAC protocols for IoT can be further classified into short-range and long-range protocols, depending on the coverage distance and the network topology.
+- Short-range MAC protocols for IoT are mainly based on IEEE 802.11 standards, such as WiFi, WiFi HaLow, and ZigBee. They can provide high data rates and low latency, but may consume more energy and have limited coverage. They are suitable for indoor and local area IoT applications, such as smart home, smart building, and smart city .
+- Long-range MAC protocols for IoT are mainly based on cellular and LPWAN (Low Power Wide Area Network) technologies, such as LTE, NB-IoT, LoRa, and Sigfox. They can provide wide coverage and low energy consumption, but may have low data rates and high latency. They are suitable for outdoor and wide area IoT applications, such as smart agriculture, smart metering, and smart transportation.
+- MAC protocols for IoT face many challenges and open issues, such as scalability, adaptability, interoperability, security, and quality of service. They need to be designed and optimized according to the specific scenarios and objectives of IoT applications  .

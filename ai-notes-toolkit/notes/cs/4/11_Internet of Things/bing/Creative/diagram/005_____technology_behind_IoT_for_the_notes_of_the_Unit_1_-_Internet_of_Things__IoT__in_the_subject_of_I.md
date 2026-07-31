@@ -1,0 +1,12 @@
+### Technology behind IoT
+
+The Internet of Things (IoT) is the concept of connecting any device that has an on/off switch to the Internet and to other connected devices. The IoT is a giant network of connected things and people that collect and share data about the way they are used and about the environment around them.
+
+Some of the technologies that enable IoT are:
+
+- **Sensors and actuators**: These are devices that can measure or control physical parameters, such as temperature, humidity, motion, light, sound, pressure, etc. Sensors and actuators are the eyes and ears of IoT devices, allowing them to interact with the physical world.
+- **Microcontrollers and processors**: These are the brains of IoT devices, providing the computing power and logic to process the data from sensors and actuators, and to communicate with other devices or the cloud. Microcontrollers (MCUs) are small, low-power, and inexpensive chips that can run simple programs, while processors (CPUs) are more powerful, complex, and expensive chips that can run complex programs and operating systems.
+- **Wireless connectivity**: This is the technology that allows IoT devices to connect to the Internet or to each other, using different protocols and standards, such as Wi-Fi, Bluetooth, Zigbee, Z-Wave, LoRaWAN, NB-IoT, LTE-M, 5G, etc. Wireless connectivity enables data transmission and remote control of IoT devices.
+- **Cloud computing**: This is the technology that provides the storage, processing, and analysis of the data collected by IoT devices, using servers and software hosted on the Internet. Cloud computing enables scalability, reliability, and security of IoT applications, as well as access to advanced services, such as artificial intelligence, machine learning, and big data analytics.
+- **Edge computing**: This is the technology that enhances the computing power of IoT devices, allowing them to perform some data processing and analysis locally, without sending all the data to the cloud. Edge computing reduces communication latency and improves response time of IoT applications, as well as saves bandwidth and energy consumption.
+- **Security chips**: These are devices that provide hardware-based security features for IoT devices, such as encryption, authentication, and tamper detection. Security chips protect IoT devices and data from unauthorized access, modification, or theft.

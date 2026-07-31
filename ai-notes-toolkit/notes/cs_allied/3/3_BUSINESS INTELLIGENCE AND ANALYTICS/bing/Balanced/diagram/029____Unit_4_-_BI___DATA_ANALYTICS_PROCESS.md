@@ -1,0 +1,13 @@
+## Unit 4 - BI – DATA ANALYTICS PROCESS
+
+Business intelligence (BI) is the process of transforming data into insights that help businesses make better decisions and improve performance. BI involves collecting, analyzing, and visualizing data from various sources, such as internal systems, external databases, or online platforms. BI can be applied to both operational and strategic decisions, such as optimizing processes, increasing sales, reducing costs, or identifying new opportunities.
+
+The BI process typically consists of the following steps  :
+
+- **Requirement analysis**: This step involves defining the business problem, the goals and objectives, the key decision areas, and the data sources that are relevant for the analysis. This step also involves identifying the stakeholders, the users, and the expected outcomes of the BI project.
+- **Data preparation**: This step involves collecting, cleaning, integrating, and modeling the data sets that are needed for the analysis. This step may involve data extraction, transformation, and loading (ETL) processes, data quality checks, data normalization, data aggregation, and data warehousing.
+- **Data analysis**: This step involves applying analytical techniques, such as queries, calculations, statistics, or machine learning, to the prepared data sets to uncover patterns, trends, correlations, or anomalies. This step may involve data mining, data modeling, data testing, and data validation.
+- **Data visualization**: This step involves creating data visualizations, such as charts, graphs, maps, or dashboards, to present the results of the data analysis in an easy-to-understand and interactive way. This step may involve data storytelling, data exploration, data discovery, and data reporting.
+- **Decision making**: This step involves using the data visualizations and the insights derived from the data analysis to support and inform business decisions and actions. This step may involve data interpretation, data communication, data collaboration, and data feedback.
+
+The BI process is not a linear or fixed sequence of steps, but rather an iterative and flexible cycle that can be adapted to different business scenarios and needs. The BI process can also be enhanced by using various tools and technologies, such as cloud computing, artificial intelligence, or self-service BI platforms, that can improve the efficiency, scalability, and accessibility of the BI solutions.

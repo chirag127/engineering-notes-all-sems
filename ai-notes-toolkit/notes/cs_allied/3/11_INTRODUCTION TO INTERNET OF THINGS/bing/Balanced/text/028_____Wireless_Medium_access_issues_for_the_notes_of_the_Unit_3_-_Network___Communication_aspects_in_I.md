@@ -1,0 +1,13 @@
+### Wireless Medium Access Issues for IoT
+
+- Wireless medium access issues refer to the challenges and problems that arise when multiple IoT devices share the same wireless channel for data transmission and reception.
+- Some of the common wireless medium access issues are:
+  - Interference: IoT devices may experience interference from other wireless devices operating in the same frequency band, such as WLAN, Bluetooth, ZigBee, etc. This may cause packet loss, delay, and energy consumption for IoT devices.
+  - Hidden terminal problem: IoT devices may not be able to sense each other's transmissions due to obstacles or distance, leading to collisions and wastage of channel resources.
+  - Exposed terminal problem: IoT devices may unnecessarily defer their transmissions when they hear other devices transmitting, even if they are not interfering with each other, resulting in underutilization of the channel.
+  - Near-far problem: IoT devices with different transmission power levels may cause unfairness and imbalance in the channel access, as the devices with higher power may dominate the channel and prevent the devices with lower power from accessing the channel.
+  - Scalability: IoT devices may have to cope with a large and dynamic number of devices in the network, which may pose challenges for the coordination and synchronization of the channel access.
+  - Heterogeneity: IoT devices may have different capabilities, requirements, and preferences for the channel access, such as data rate, latency, reliability, energy efficiency, etc. This may require adaptive and flexible mechanisms to accommodate the diverse needs of the IoT devices.
+  - Mobility: IoT devices may move or change their positions in the network, which may affect the channel conditions and the connectivity among the devices. This may require dynamic and robust mechanisms to handle the mobility of the IoT devices.
+
+- To address these wireless medium access issues, various MAC protocols have been proposed and developed for IoT, such as TDMA, CSMA, FDMA, CDMA, OFDMA, etc. These protocols aim to achieve high network throughput, low energy consumption, low latency, and high reliability for the IoT devices. However, each protocol has its own advantages and disadvantages, and there is no one-size-fits-all solution for the wireless medium access in IoT. Therefore, the selection and design of the MAC protocol for IoT should consider the specific characteristics, constraints, and objectives of the IoT application and scenario.

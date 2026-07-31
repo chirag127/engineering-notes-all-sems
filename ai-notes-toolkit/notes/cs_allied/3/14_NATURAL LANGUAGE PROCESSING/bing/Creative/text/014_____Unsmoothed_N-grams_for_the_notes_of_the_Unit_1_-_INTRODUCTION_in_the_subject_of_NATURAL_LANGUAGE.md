@@ -1,0 +1,7 @@
+### Unsmoothed N-grams
+
+- An n-gram is a sequence of n words or tokens in a text. For example, "natural language processing" is a trigram (n = 3).
+- N-grams are used to model the probability of a word given its previous words or context. For example, P(processing | natural language) is the probability of the word "processing" given the previous words "natural language".
+- N-gram models are based on the assumption of the Markov property, which states that the probability of a word only depends on a fixed number of previous words. For example, a bigram model assumes that P(w_n | w_1, ..., w_n-1) = P(w_n | w_n-1), where w_n is the nth word in a sequence.
+- To estimate the n-gram probabilities, we can use the maximum likelihood estimation (MLE), which counts the frequency of each n-gram in a corpus and divides it by the frequency of the (n-1)-gram. For example, P(processing | natural language) = C(natural language processing) / C(natural language), where C(.) is the count function.
+- Unsmoothed n-gram models are simple and easy to implement, but they have some drawbacks. One of them is data sparsity, which means that some n-grams may not occur in the training corpus, leading to zero probabilities. Another one is overfitting, which means that the model may memorize the training data and fail to generalize to unseen data.

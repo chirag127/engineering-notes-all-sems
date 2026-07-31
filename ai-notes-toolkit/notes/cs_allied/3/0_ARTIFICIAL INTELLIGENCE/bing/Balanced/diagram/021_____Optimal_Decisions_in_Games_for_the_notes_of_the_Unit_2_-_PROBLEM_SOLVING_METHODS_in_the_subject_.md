@@ -1,0 +1,21 @@
+### Optimal Decisions in Games
+
+- In a normal search problem, the optimal solution would be a sequence of actions leading to a goal state-a terminal state that is a win .
+- In a game, the optimal solution would be a strategy-a function that specifies what move to make in any situation.
+- A strategy is optimal if it guarantees the best possible outcome for a player, no matter what the opponent does.
+- Given a game tree, the optimal strategy can be determined from the minimax value of each node, which we write as MINIMAX(n) .
+- The minimax value of a node is the utility (for MAX) of being in the corresponding state, assuming that both players play optimally from there to the end of the game .
+- The minimax value of a terminal node is just the utility of that node.
+- The minimax value of a non-terminal node can be computed recursively, using the following rules :
+  - If n is a MAX node, then MINIMAX(n) = max(MINIMAX(c) for c in CHILDREN(n))
+  - If n is a MIN node, then MINIMAX(n) = min(MINIMAX(c) for c in CHILDREN(n))
+- The minimax algorithm is a depth-first, exhaustive search that computes the minimax value of the root node, and thereby the optimal move for MAX .
+- The minimax algorithm can be improved by using alpha-beta pruning, which eliminates branches of the game tree that are provably irrelevant .
+- Alpha-beta pruning keeps track of two values, alpha and beta, which represent the lower and upper bounds of the possible minimax values of the nodes along the current path of the search .
+- Alpha-beta pruning can prune a branch when alpha >= beta, meaning that the current node has a worse value than a previously explored sibling node .
+- Alpha-beta pruning does not affect the correctness of the minimax algorithm, but it can reduce the number of nodes that need to be examined .
+- The effectiveness of alpha-beta pruning depends on the order of the nodes in the game tree. A good heuristic function can help to order the nodes in a way that maximizes pruning .
+- Game playing in AI can be classified into two main approaches: rule-based systems and machine learning-based systems.
+- Rule-based systems use a set of fixed rules to play the game, whereas machine learning-based systems use algorithms to learn from experience and make decisions based on that experience.
+- Rule-based systems are easier to implement and understand, but they may not be able to adapt to new situations or opponents.
+- Machine learning-based systems can improve their performance over time and handle complex and uncertain situations, but they may require a lot of data and computation, and they may not be able to explain their reasoning.

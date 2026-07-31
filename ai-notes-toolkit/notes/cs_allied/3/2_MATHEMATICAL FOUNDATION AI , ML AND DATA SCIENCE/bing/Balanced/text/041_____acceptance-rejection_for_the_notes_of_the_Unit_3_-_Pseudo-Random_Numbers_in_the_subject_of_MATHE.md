@@ -1,0 +1,7 @@
+### Acceptance-Rejection Method
+
+- The acceptance-rejection method is a technique for generating pseudorandom numbers from a target distribution, given a proposal distribution that is easy to sample from and that covers the target distribution.
+- The basic idea is to generate a pair of random numbers, one from the proposal distribution and one from the uniform distribution, and accept the first one as a sample from the target distribution if it satisfies a certain criterion, otherwise reject it and repeat the process.
+- The criterion is based on comparing the ratio of the target density and the proposal density with the uniform random number, and accepting the sample if the ratio is greater than or equal to the uniform random number.
+- The acceptance-rejection method requires a constant c such that the target density is always less than or equal to c times the proposal density over the common support of the two distributions. The smaller the c, the more efficient the method is, as the acceptance rate is inversely proportional to c.
+- The acceptance-rejection method can be used to generate random numbers from various distributions, such as exponential, normal, gamma, beta, etc., by choosing appropriate proposal distributions, such as uniform, exponential, normal, etc.

@@ -1,0 +1,14 @@
+### Limitations of the Quantum Operations Formalism
+
+- The quantum operations formalism is a mathematical framework for describing the dynamics of open quantum systems, i.e., quantum systems that interact with their environment.
+- The formalism assumes that the system and the environment are initially uncorrelated, and that the interaction is weak and Markovian, i.e., memoryless.
+- The formalism also assumes that the system can be prepared and measured in a fixed basis, and that the environment does not affect the preparation and measurement devices.
+- These assumptions are often violated in realistic scenarios, such as when the system and the environment have strong or non-Markovian interactions, or when the system is coupled to the degrees of freedom used for preparation and measurement.
+- In such cases, the quantum operations formalism may fail to capture the true dynamics of the system, and may lead to incorrect or incomplete predictions of the system's behavior.
+- Some examples of situations where the quantum operations formalism is inadequate are:
+
+  - Quantum process tomography, which is a technique for reconstructing the quantum operation that describes the evolution of a system from experimental data. Quantum process tomography requires that the system can be prepared in any state and measured in any basis, and that the system-environment interaction is negligible during the experiment. However, these conditions may not be met in practice, and may introduce errors or biases in the estimation of the quantum operation.
+  - Quantum error correction, which is a method for protecting quantum information from the effects of noise and decoherence. Quantum error correction relies on the assumption that the errors affecting the system can be modeled by quantum operations, and that the system can be encoded and decoded using quantum gates. However, these assumptions may not hold in realistic settings, where the errors may be correlated, non-Markovian, or dependent on the system state, and where the quantum gates may be imperfect or noisy.
+  - Quantum speed limits, which are bounds on the minimum time required for a quantum system to evolve from one state to another. Quantum speed limits are derived from the quantum operations formalism, and depend on the initial and final states of the system, and the norm of the quantum operation. However, these bounds may not be tight or optimal in general, as they do not account for the details of the system-environment interaction, or the possible constraints on the system's control and measurement.
+
+- Therefore, the quantum operations formalism is a useful but limited tool for studying the dynamics of open quantum systems, and may need to be supplemented or replaced by more general and realistic models in some cases.

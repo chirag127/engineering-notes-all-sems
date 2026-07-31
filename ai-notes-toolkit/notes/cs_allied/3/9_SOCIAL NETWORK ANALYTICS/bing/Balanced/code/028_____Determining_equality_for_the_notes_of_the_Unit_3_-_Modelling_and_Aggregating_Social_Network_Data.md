@@ -1,0 +1,22 @@
+### Determining equality for the notes of the Unit 3 - Modelling and Aggregating Social Network Data in the subject of SOCIAL NETWORK ANALYTICS
+
+- The main objective of this unit is to learn how to model and aggregate social network data using ontologies and semantic web technologies.
+- Ontologies are formal representations of the concepts and relationships in a domain of interest, such as social networks, that can be used for reasoning and querying.
+- Semantic web technologies are standards and tools that enable the representation, exchange, and integration of data and knowledge on the web, such as RDF, OWL, and SPARQL.
+- Modelling and aggregating social network data involves the following steps:
+  - Converting data from traditional formats (e.g., relational databases, Excel sheets, XML files) into RDF-based syntax, which allows to store the data in an ontology store and manipulate it with ontology-based tools.
+  - Defining an ontology that captures the relevant concepts and properties of the social network domain, such as actors, relationships, attributes, and activities.
+  - Mapping the RDF data to the ontology using ontology mapping techniques, such as schema matching, instance matching, and alignment.
+  - Querying and reasoning with the ontology-based data using SPARQL and OWL inference engines, such as Pellet, HermiT, and Jena.
+  - Analyzing and visualizing the aggregated data using social network analysis methods and tools, such as centrality, clustering, community detection, and Gephi.
+- Determining equality for the notes of this unit means to check whether the notes cover all the above steps and provide sufficient examples, explanations, and references for each step.
+- Some criteria for determining equality for the notes are:
+  - The notes should define the key terms and concepts related to ontologies and semantic web technologies, such as RDF, OWL, SPARQL, etc.
+  - The notes should explain the benefits and challenges of using ontologies and semantic web technologies for modelling and aggregating social network data, such as interoperability, expressivity, scalability, etc.
+  - The notes should demonstrate how to convert data from different sources and formats into RDF-based syntax, using tools such as RDFa, R2RML, GRDDL, etc.
+  - The notes should describe how to design and implement an ontology for the social network domain, using tools such as Protégé, TopBraid Composer, etc.
+  - The notes should illustrate how to map the RDF data to the ontology using ontology mapping techniques, using tools such as SILK, LIMES, etc.
+  - The notes should show how to query and reason with the ontology-based data using SPARQL and OWL inference engines, using tools such as ARQ, Pellet, etc.
+  - The notes should apply social network analysis methods and tools to the aggregated data, using tools such as Gephi, NodeXL, etc.
+  - The notes should provide relevant examples, diagrams, and code snippets for each step, using real-world or synthetic social network data sets.
+  - The notes should cite the sources of the data, tools, methods, and concepts used in each step, using proper citation styles and formats.

@@ -1,0 +1,12 @@
+## Unit 4 - Transaction Processing Concept
+
+Transaction Processing is a fundamental concept in the field of database management systems. It is the process of managing and executing multiple related database operations as a single logical unit of work. This ensures that either all the operations are executed successfully or none of them are executed at all. Here are some key points to understand about transaction processing:
+
+- A transaction is a logical unit of work that consists of one or more database operations.
+- Transactions ensure data consistency and integrity by making sure that all operations are executed successfully or none of them are executed at all.
+- The ACID properties (Atomicity, Consistency, Isolation, and Durability) are the key characteristics of a transaction. Atomicity ensures that a transaction is treated as a single unit of work, either all or none of the operations are executed. Consistency ensures that a transaction brings the database from one valid state to another. Isolation ensures that multiple transactions can execute concurrently without interfering with each other. Durability ensures that once a transaction is committed, its changes are permanent and will not be lost due to system failures.
+- Transaction processing is implemented using a two-phase commit protocol. In the first phase, all participants of the transaction are asked to prepare to commit. In the second phase, all participants are asked to commit the transaction or abort it.
+- In distributed systems, transaction processing becomes more complex due to the presence of multiple transaction managers and the need for coordination between them. Two-phase commit is also used in distributed systems to ensure that transactions are executed atomically across multiple systems.
+- There are several transaction isolation levels, such as Read Uncommitted, Read Committed, Repeatable Read, and Serializable. These levels determine how transactions interact with each other and the level of data consistency they provide. Higher isolation levels provide stronger consistency guarantees but may also lead to performance overheads.
+
+In summary, transaction processing is a critical concept in database management systems that ensures data consistency and integrity. Understanding the ACID properties, two-phase commit protocol, and transaction isolation levels is essential for building robust and scalable database applications.

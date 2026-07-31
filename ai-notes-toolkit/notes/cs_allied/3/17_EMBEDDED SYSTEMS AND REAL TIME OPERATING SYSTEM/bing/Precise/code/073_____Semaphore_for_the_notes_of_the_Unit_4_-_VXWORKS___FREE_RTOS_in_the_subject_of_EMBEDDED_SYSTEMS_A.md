@@ -1,0 +1,12 @@
+### Semaphore
+- A semaphore is a synchronization mechanism used in real-time operating systems such as VxWorks and FreeRTOS.
+- It is used to control access to shared resources by multiple threads or processes.
+- A semaphore is essentially a non-negative integer variable that is shared between threads or processes.
+- The value of the semaphore represents the number of resources available.
+- Two operations can be performed on a semaphore: wait and signal.
+- The wait operation decrements the value of the semaphore, and if the resulting value is negative, the calling thread is blocked until the semaphore value becomes non-negative again.
+- The signal operation increments the value of the semaphore, and if there are any threads waiting on the semaphore, one of them is unblocked.
+- Semaphores can be used to implement mutual exclusion, where only one thread can access a shared resource at a time, or to implement synchronization, where multiple threads must wait for each other before proceeding.
+- In VxWorks and FreeRTOS, semaphores are implemented using kernel objects and system calls.
+- Semaphores can be binary, where the value is either 0 or 1, or counting, where the value can be any non-negative integer.
+- Binary semaphores are often used to implement mutual exclusion, while counting semaphores are used to implement synchronization.

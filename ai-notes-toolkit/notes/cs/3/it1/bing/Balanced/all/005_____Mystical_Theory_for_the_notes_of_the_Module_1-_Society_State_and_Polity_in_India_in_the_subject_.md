@@ -1,0 +1,9 @@
+# Mystical Theory for the notes of the Module 1- Society State and Polity in India in the subject of INDIAN TRADITIONS, CULTURAL AND SOCIETY
+
+- Mystical theory is one of the perspectives that tries to explain the origin and nature of the state in India.
+- Mystical theory is based on the assumption that the state is a divine institution, established by God or gods, and governed by a ruler who is chosen by divine will or possesses divine qualities.
+- Mystical theory draws its inspiration from the ancient texts and traditions of India, such as the Vedas, the Upanishads, the Puranas, the Mahabharata, the Ramayana, and the Manusmriti.
+- Mystical theory emphasizes the role of dharma, or the cosmic law, in regulating the state and society. Dharma is seen as the source of legitimacy, authority, and morality for the ruler and the subjects.
+- Mystical theory also highlights the concept of varna, or the four-fold division of society into Brahmins (priests and scholars), Kshatriyas (warriors and rulers), Vaishyas (merchants and farmers), and Shudras (servants and laborers). Varna is considered as a natural and hierarchical order of society, ordained by God and maintained by the state.
+- Mystical theory views the state as a sacred and benevolent entity, that protects and promotes the welfare of the people, and ensures the harmony and stability of the social order. The state is also seen as a reflection of the cosmic order, and a manifestation of the divine plan.
+- Mystical theory has influenced the political thought and practice of many rulers and dynasties in India, such as the Mauryas, the Guptas, the Cholas, the Rajputs, the Mughals, and the Marathas. Mystical theory has also inspired many social and religious movements, such as the Bhakti, the Sufi, and the Sikh movements.

@@ -1,0 +1,8 @@
+### Line clipping algorithms
+
+- Line clipping is the process of removing (clipping) lines or portions of lines outside an area of interest (a viewport or view volume) in computer graphics.
+- Line clipping is useful for rendering only the visible parts of a scene, reducing the computational cost and improving the performance of graphics applications.
+- There are many algorithms for line clipping, but two of the most common ones are Cohen–Sutherland and Liang–Barsky.
+- Cohen–Sutherland algorithm divides a 2D space into 9 regions, of which only the middle part (viewport) is visible. It assigns a 4-bit code to each endpoint of a line, based on its position relative to the viewport boundaries. It then uses bitwise operations to determine if the line is trivially accepted, trivially rejected, or needs further clipping.
+- Liang–Barsky algorithm is an improvement over Cohen–Sutherland algorithm, as it reduces the number of calculations and comparisons. It uses parametric equations to represent a line segment and the four edges of the viewport. It then computes the values of the parameter that correspond to the intersections of the line and the edges. It then uses these values to determine the visible portion of the line.
+- Nicholl–Lee–Nicholl (N-L-N) algorithm is another clipping algorithm that is simple and efficient. It works by dividing the viewport into four regions, each with a different slope. It then compares the slope of the line with the slope of the region to determine if the line is inside, outside, or intersects the region. It then clips the line accordingly.

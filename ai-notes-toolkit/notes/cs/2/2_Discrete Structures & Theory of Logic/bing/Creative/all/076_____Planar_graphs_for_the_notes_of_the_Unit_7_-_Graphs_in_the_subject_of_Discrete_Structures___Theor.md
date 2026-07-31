@@ -1,0 +1,31 @@
+# Planar Graphs
+
+- A **planar graph** is a graph that can be drawn on a plane (a flat surface) such that no two edges cross each other.
+- A **plane graph** is a planar graph with a specific drawing on a plane.
+- A plane graph divides the plane into regions called **faces**.
+- The **boundary** of a face is the cycle of edges that enclose it.
+- The **degree** of a face is the number of edges on its boundary.
+- The **outer face** of a plane graph is the unbounded region that contains the infinite part of the plane.
+- A **planar embedding** of a graph is a mapping that assigns a point in the plane to each vertex and a curve in the plane to each edge, such that the curves do not intersect except at their endpoints.
+- A graph is planar if and only if it has a planar embedding.
+- A graph that is not planar is called **non-planar**.
+- A **subgraph** of a graph is a graph whose vertices and edges are subsets of the original graph.
+- A **minor** of a graph is a graph that can be obtained from a subgraph by contracting edges, i.e., replacing two adjacent vertices with a single vertex and removing any parallel edges.
+- A **homeomorphism** of a graph is a graph that can be obtained from the original graph by subdividing edges, i.e., replacing an edge with a path of two or more edges.
+- Two graphs are **homeomorphic** if they can be obtained from each other by homeomorphisms.
+- A **Kuratowski subgraph** of a graph is a subgraph that is homeomorphic to either K<sub>5</sub> (the complete graph on five vertices) or K<sub>3,3</sub> (the complete bipartite graph on six vertices).
+- **Kuratowski's theorem** states that a graph is planar if and only if it does not contain a Kuratowski subgraph.
+- A **planar separator theorem** is a theorem that states that any planar graph can be divided into smaller parts by removing a small number of vertices.
+- A **dual graph** of a plane graph is a graph that has a vertex for each face of the original graph and an edge for each pair of faces that share an edge on their boundary.
+- A **Euler's formula** states that for any connected plane graph with n vertices, e edges, and f faces, n - e + f = 2.
+- A **Platonic solid** is a convex polyhedron (a solid with flat faces) that is regular, i.e., all its faces are congruent regular polygons and all its vertices have the same degree.
+- There are exactly five Platonic solids: the tetrahedron, the cube, the octahedron, the dodecahedron, and the icosahedron.
+- The **dual** of a Platonic solid is another Platonic solid that has a vertex for each face of the original solid and a face for each vertex of the original solid.
+- The **Four color theorem** states that any plane graph can be colored with at most four colors such that no two adjacent vertices have the same color.
+- The **Five color theorem** states that any plane graph can be colored with at most five colors such that no two adjacent vertices have the same color.
+- The **Six color theorem** states that any planar graph can be colored with at most six colors such that no two adjacent vertices have the same color.
+- The **chromatic number** of a graph is the minimum number of colors needed to color the graph such that no two adjacent vertices have the same color.
+- The **chromatic polynomial** of a graph is a polynomial that counts the number of ways to color the graph with k colors for any positive integer k.
+- The **girth** of a graph is the length of the shortest cycle in the graph.
+- The **outerplanar graph** is a graph that can be drawn on a plane such that all the vertices are on the outer face.
+- The

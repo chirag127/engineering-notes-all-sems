@@ -1,0 +1,27 @@
+### Recovery in Distributed Database Systems
+
+- Recovery in distributed database systems is the process of restoring the database to a consistent and correct state after a failure or a transaction abort.
+- Recovery in distributed database systems is more complex than in centralized database systems because of the following reasons:
+  - Failures can occur at multiple sites or communication links, affecting different parts of a distributed transaction.
+  - A distributed transaction may involve multiple sites that have different recovery protocols and failure modes.
+  - A distributed transaction may commit at some sites and abort at others, leading to inconsistency and partial results.
+  - A distributed transaction may depend on other transactions that are executed at different sites and have different commit or abort statuses.
+- Recovery in distributed database systems aims to achieve the following objectives:
+  - Atomicity: A distributed transaction should either commit or abort as a whole, regardless of the failures or aborts of its subtransactions at different sites.
+  - Durability: The effects of a committed distributed transaction should be permanent and survive any subsequent failures.
+  - Consistency: The database should be in a consistent state after the recovery, meaning that all integrity constraints and business rules are satisfied.
+  - Availability: The database should be accessible and operational as much as possible, even in the presence of failures or recovery actions.
+- Recovery in distributed database systems can be classified into two types:
+  - Local recovery: The recovery of a single site or a single subtransaction, without considering the effects on other sites or subtransactions.
+  - Global recovery: The recovery of a distributed transaction as a whole, considering the effects on all sites and subtransactions involved.
+- Local recovery can be further divided into two types:
+  - Undo recovery: The recovery that restores the database to its state before the execution of a faulty or aborted subtransaction, by undoing the changes made by the subtransaction.
+  - Redo recovery: The recovery that restores the database to its state after the execution of a successful subtransaction, by redoing the changes made by the subtransaction.
+- Global recovery can be further divided into two types:
+  - Backward recovery: The recovery that aborts a distributed transaction and undoes the effects of its subtransactions at all sites, by using undo recovery at each site.
+  - Forward recovery: The recovery that commits a distributed transaction and redoes the effects of its subtransactions at all sites, by using redo recovery at each site.
+- Recovery in distributed database systems requires the following mechanisms:
+  - Logging: The recording of the changes made by subtransactions and the commit or abort statuses of subtransactions and distributed transactions in persistent storage, such as disk or tape.
+  - Checkpointing: The periodic saving of the database state and the log records to persistent storage, to reduce the amount of recovery work needed after a failure.
+  - Commit protocols: The protocols that coordinate the commit or abort decision of a distributed transaction among all sites involved, such as the two-phase commit protocol or the three-phase commit protocol.
+  - Recovery protocols: The protocols that coordinate the recovery actions of a distributed transaction among all sites involved, such as the backward recovery protocol or the forward recovery protocol.

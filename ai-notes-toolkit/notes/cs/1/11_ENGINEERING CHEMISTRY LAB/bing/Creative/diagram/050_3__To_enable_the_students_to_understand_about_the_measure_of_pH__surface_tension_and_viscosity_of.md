@@ -1,0 +1,7 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic.
+
+# 3. To enable the students to understand about the measure of pH, surface tension and viscosity of
+
+- pH is a measure of how acidic or basic a solution is. It is defined as the negative logarithm of the hydrogen ion concentration: pH = -log[H+]. The pH scale ranges from 0 to 14, where 0 is the most acidic, 7 is neutral, and 14 is the most basic. A solution with a pH of less than 7 is called acidic, and a solution with a pH of more than 7 is called basic or alkaline.
+- Surface tension is a measure of how strongly the molecules of a liquid are attracted to each other at the surface. It is the force per unit length that must be applied to break or stretch the surface of a liquid. Surface tension is caused by the imbalance of intermolecular forces between the molecules at the surface and the molecules in the bulk of the liquid. Surface tension is usually expressed in units of N/m or dyn/cm.
+- Viscosity is a measure of how resistant a fluid is to flow. It is the ratio of the shear stress to the shear rate of a fluid. Shear stress is the force per unit area that is applied parallel to the surface of a fluid, and shear rate is the rate of change of velocity per unit distance in the direction perpendicular to the surface. Viscosity is usually expressed in units of Pa.s or Poise. A fluid with a high viscosity is thick and flows slowly, while a fluid with a low viscosity is thin and flows easily.

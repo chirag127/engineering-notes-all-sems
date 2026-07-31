@@ -1,0 +1,15 @@
+### Signals for the notes of the Unit 4 - VXWORKS / FREE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Signals are a form of inter-process communication (IPC) that allow tasks to send and receive notifications of events or conditions.
+- Signals can be used to interrupt the normal flow of execution of a task, to handle asynchronous events, or to implement timers and alarms.
+- Signals are identified by integers from 1 to 31, and each signal has a default action associated with it, such as terminating the task, ignoring the signal, or executing a signal handler function.
+- A signal handler is a user-defined function that is registered to handle a specific signal. A signal handler can perform any action that is allowed in the context of a task, such as modifying global variables, sending messages, or calling system services.
+- A task can block or unblock signals using the sigprocmask() function, which takes a set of signals to be blocked or unblocked, and a pointer to store the previous set of blocked signals.
+- A task can also change the default action of a signal using the sigaction() function, which takes a signal number, a pointer to a structure that specifies the new action, and a pointer to store the previous action.
+- A task can send a signal to another task using the kill() function, which takes the task ID and the signal number as arguments. A task can also send a signal to itself using the raise() function, which takes only the signal number as an argument.
+- A task can also use the sigqueue() function to send a signal with an additional value, which can be an integer or a pointer. The value can be retrieved by the signal handler using the siginfo_t structure, which is passed as an argument to the handler.
+- A task can also use the sigwaitinfo() or sigtimedwait() functions to wait for a set of signals to arrive, and return the signal number and the value of the signal that was received. These functions can also specify a timeout for waiting.
+- A task can also use the sigsuspend() function to temporarily replace the set of blocked signals with a new set, and wait for any signal to arrive. The function restores the original set of blocked signals when it returns.
+- VxWorks and FreeRTOS are two examples of real-time operating systems (RTOS) that support signals as a form of IPC.
+- VxWorks is a commercial RTOS that is widely used in critical systems such as industrial controllers, medical devices, aerospace, and defense. VxWorks supports 23 signals, and provides a POSIX-compliant interface for signal operations .
+- FreeRTOS is an open-source RTOS that is designed for embedded systems with limited resources. FreeRTOS supports 31 signals, and provides a POSIX-like interface for signal operations through the FreeRTOS+POSIX library. However, FreeRTOS does not support signal handlers, and instead uses a default action of unblocking a task that is waiting for a signal.

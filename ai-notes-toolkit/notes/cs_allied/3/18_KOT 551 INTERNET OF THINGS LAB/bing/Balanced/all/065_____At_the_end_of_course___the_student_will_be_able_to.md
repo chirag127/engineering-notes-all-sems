@@ -1,0 +1,8 @@
+# At the end of the course, the student will be able to
+
+- Define the basic concepts and principles of artificial intelligence, such as agents, environments, search, knowledge representation, reasoning, planning, learning, and natural language processing.
+- Apply various search algorithms, such as uninformed search, informed search, local search, and adversarial search, to solve different types of problems, such as pathfinding, puzzle solving, game playing, and constraint satisfaction.
+- Represent and manipulate knowledge using different formalisms, such as propositional logic, first-order logic, semantic networks, frames, and ontologies, and use inference methods, such as resolution, forward chaining, and backward chaining, to draw conclusions from knowledge bases.
+- Design and implement planning systems that can generate sequences of actions to achieve goals, using different planning techniques, such as state-space planning, plan-space planning, hierarchical planning, and partial-order planning.
+- Understand and apply the basic concepts and techniques of machine learning, such as supervised learning, unsupervised learning, reinforcement learning, decision trees, neural networks, clustering, and dimensionality reduction, to analyze data and build models for prediction and classification.
+- Analyze and process natural language texts and speech, using different methods and tools, such as regular expressions, finite-state automata, context-free grammars, parsing, semantic analysis, and natural language generation.

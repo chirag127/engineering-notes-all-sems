@@ -1,0 +1,7 @@
+### Quantum Search Algorithms
+
+- Quantum search algorithms are quantum algorithms that can find a target element in an unstructured database or a solution to a problem faster than classical algorithms.
+- The most famous quantum search algorithm is Grover's algorithm, which can find a marked element in a database of size N with O(sqrt(N)) queries to the database, compared to O(N) queries for the best classical algorithm.
+- Grover's algorithm consists of two main steps: a query step and an inversion step. The query step applies a unitary operator that flips the sign of the state corresponding to the marked element. The inversion step applies another unitary operator that reflects the state about the average amplitude. Repeating these steps about sqrt(N) times amplifies the amplitude of the marked state and makes it more likely to be measured.
+- Quantum search algorithms can be generalized to find multiple marked elements, to search with partial or noisy information, to search with quantum oracles, and to search with quantum walks  .
+- Quantum search algorithms have applications in various fields, such as cryptography, optimization, machine learning, and biology. For example, quantum search algorithms can be used to break symmetric-key ciphers, to solve satisfiability problems, to perform quantum principal component analysis, and to explain the genetic code .

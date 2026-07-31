@@ -1,0 +1,10 @@
+### Introduction to diffraction
+
+- Diffraction is the process by which a beam of light or other system of waves is spread out as a result of passing through a narrow aperture or across an edge, typically accompanied by interference between the wave forms produced  .
+- Diffraction occurs when the size of the obstacle or the slit is comparable to or smaller than the wavelength of the incident wave.
+- Diffraction is a manifestation of the wave nature of light and other electromagnetic radiation, as well as sound waves and particles such as electrons and neutrons that exhibit wave-like properties.
+- One consequence of diffraction is that sharp shadows are not produced by opaque objects. Instead, the edges of the shadows are fuzzy and fringed with bands of light and dark or colored regions .
+- The degree of diffraction depends on the ratio of the wavelength to the size of the obstacle or the slit. The smaller the ratio, the less diffraction occurs. The larger the ratio, the more diffraction occurs.
+- The pattern of diffraction can be analyzed using the principle of Huygens, which states that every point on a wavefront can be considered as a source of secondary wavelets that spread out in all directions. The superposition of these secondary wavelets determines the shape of the new wavefront.
+- There are different types of diffraction, such as Fresnel diffraction and Fraunhofer diffraction, depending on the distance between the source, the obstacle or the slit, and the screen where the diffraction pattern is observed. Fresnel diffraction occurs when the source and the screen are at finite distances from the obstacle or the slit, while Fraunhofer diffraction occurs when the source and the screen are at infinite distances from the obstacle or the slit.
+- Some examples of diffraction phenomena are the rainbow, the diffraction grating, the single-slit and double-slit experiments, the diffraction of X-rays by crystals, and the electron diffraction by atoms .

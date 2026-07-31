@@ -1,0 +1,9 @@
+# CO2: Molecular and System Properties
+
+Carbon dioxide (CO2) is a linear molecule with a molecular weight of 44.0095 g/mol and a bond angle of 180 degrees. It is a non-polar gas that can be dissolved in water to form carbonic acid (H2CO3). The solubility of CO2 in water depends on the temperature, pressure, and pH of the solution.
+
+Surface tension is the energy, or work, required to increase the surface area of a liquid due to intermolecular forces. It is measured in units of force per unit length, such as N/m or dyn/cm. Surface tension depends on the nature of the liquid and the solutes in the liquid. For example, water has a high surface tension due to its strong hydrogen bonding, while gasoline has a low surface tension due to its weak van der Waals forces.
+
+The surface tension of CO2-loaded aqueous solutions can be measured by various methods, such as the drop weight method, the pendant drop method, or the Wilhelmy plate method . The surface tension of CO2-loaded aqueous solutions decreases with increasing temperature, amine mass ratio, and CO2 loading . This is because CO2 reduces the hydrogen bonding between water molecules and increases the polarity of the solution. The surface tension of CO2-loaded aqueous solutions can be correlated by empirical equations or models, such as the Eötvös equation, the Parachor model, or the Szyszkowski equation .
+
+Some applications of CO2-loaded aqueous solutions include carbon capture and storage (CCS), enhanced oil recovery (EOR), and chemical synthesis. The surface tension of CO2-loaded aqueous solutions affects the mass transfer, phase behavior, and stability of these processes. Therefore, it is important to measure and predict the surface tension of CO2-loaded aqueous solutions for optimal design and operation of these applications.

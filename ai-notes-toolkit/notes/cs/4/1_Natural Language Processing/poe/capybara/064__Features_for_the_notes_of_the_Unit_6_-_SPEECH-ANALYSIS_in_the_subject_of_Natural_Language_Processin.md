@@ -1,0 +1,11 @@
+### Features for the notes of the Unit 6 - SPEECH-ANALYSIS in the subject of Natural Language Processing:
+
+- **Speech Recognition**: This feature is the foundation of speech analysis. It involves converting spoken words into text. The process involves the use of acoustic models, language models, and other techniques.
+- **Phonetics**: Phonetics is the study of the sounds in language. It includes analyzing the sound waves produced by speech, identifying phonemes, and developing rules for their use in language.
+- **Prosody**: Prosody refers to the rhythm, intonation, and stress patterns in speech. It is important in conveying meaning and emotions in speech. Prosodic features can be used to identify the speaker's mood, attitude, and emphasis.
+- **Speaker Identification**: This feature involves identifying the speaker by analyzing their voice characteristics. It includes analyzing pitch, tone, accent, and other vocal features to determine the speaker's identity.
+- **Speaker Verification**: Speaker verification involves confirming the identity of the speaker based on their voice. It involves comparing the speaker's voice to a stored voiceprint to determine if they are the same person.
+- **Emotion Detection**: Emotion detection involves identifying the emotions expressed by the speaker. It includes analyzing features such as pitch, tone, and prosody to determine the speaker's emotional state.
+- **Language Identification**: Language identification involves determining the language spoken by the speaker. It involves analyzing the phonemes and other features of the spoken language to identify the language.
+- **Keyword Spotting**: Keyword spotting involves identifying specific words or phrases in speech. It can be used to identify important information or to trigger specific actions.
+- **Speech Synthesis**: Speech synthesis involves generating spoken language from text. This feature is used in speech-enabled devices such as virtual assistants and text-to-speech applications. It involves generating speech that sounds natural and is easy to understand.

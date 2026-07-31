@@ -1,0 +1,6 @@
+### RGB, HSI models for the notes of the Unit 1 - DIGITAL IMAGE FUNDAMENTALS in the subject of Image Processing
+
+- **RGB Model**: The RGB color model is an additive color model in which red, green, and blue light are added together in various ways to reproduce a broad array of colors. The name of the model comes from the initials of the three additive primary colors, red, green, and blue.
+- **HSI Model**: The HSI color model is a color space that separates the chromatic information (hue and saturation) from the intensity information. This model is useful for image processing tasks such as color enhancement and color correction.
+- **Comparison**: The RGB model is based on the additive color theory, while the HSI model is based on the human perception of color. The RGB model is more commonly used in computer graphics, while the HSI model is more commonly used in image processing.
+- **Applications**: The RGB model is used in computer graphics to generate and display images on screens. The HSI model is used in image processing to enhance and correct colors in images.

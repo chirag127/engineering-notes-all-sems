@@ -1,0 +1,15 @@
+#### Databases with JDBC in JDBC
+- JDBC stands for Java Database Connectivity, which is a standard Java API for database-independent connectivity between the Java programming language and a wide range of databases.
+- The JDBC API provides a call-level API for SQL-based database access.
+- JDBC technology allows you to use the Java programming language to exploit "Write Once, Run Anywhere" capabilities for applications that require access to enterprise data.
+- With a JDBC technology-enabled driver, you can connect all corporate data even in a heterogeneous environment.
+- To use JDBC with a particular database management system, you need a JDBC driver that supports that DBMS. Many DBMS vendors supply JDBC drivers for their systems.
+- JDBC drivers are categorized into four types: Type 1, Type 2, Type 3, and Type 4.
+- The JDBC API provides a set of interfaces and classes for connecting to a database, executing SQL statements, and processing the results.
+- The two most important interfaces in the JDBC API are `Connection` and `Statement`.
+- The `Connection` interface provides methods for creating `Statement` objects and managing transactions.
+- The `Statement` interface provides methods for executing SQL statements and retrieving the results.
+- The `ResultSet` interface represents the results of a database query and provides methods for navigating and processing the data.
+- JDBC also provides support for executing stored procedures and handling BLOB and CLOB data types.
+- The JDBC API is designed to be flexible and extensible, allowing vendors to provide custom implementations of the standard interfaces and classes.
+- JDBC is widely used in enterprise applications for accessing and managing data stored in relational databases. It is also commonly used in desktop and web applications for data access and manipulation.

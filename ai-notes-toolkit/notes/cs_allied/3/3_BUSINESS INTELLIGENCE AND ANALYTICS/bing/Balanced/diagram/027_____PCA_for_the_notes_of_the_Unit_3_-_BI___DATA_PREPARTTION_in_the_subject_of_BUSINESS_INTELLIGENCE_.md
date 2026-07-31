@@ -1,0 +1,21 @@
+### PCA for the notes of the Unit 3 - BI – DATA PREPARTTION in the subject of BUSINESS INTELLIGENCE AND ANALYTICS KCS
+
+- PCA stands for Principal Component Analysis, a very powerful technique that has wide applicability in data science, bioinformatics, and further afield.
+- PCA is an unsupervised machine learning technique that aims to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set.
+- PCA can be used for various purposes, such as:
+  - Exploratory data analysis, to discover patterns and relationships in the data.
+  - Data visualization, to project high-dimensional data into lower dimensions for easier interpretation.
+  - Data preparation, to remove noise, outliers, or redundant features from the data .
+  - Information compression, to reduce the storage and computational costs of the data.
+- PCA works by finding the directions of maximum variance in the data, called principal components, and projecting the data onto these directions.
+- The principal components are orthogonal to each other, meaning they are uncorrelated and independent.
+- The first principal component explains the most variance in the data, the second principal component explains the second most variance, and so on.
+- The number of principal components is equal to or less than the number of original variables.
+- PCA can be performed by using different methods, such as:
+  - Singular value decomposition (SVD), which decomposes the data matrix into three matrices: U, S, and V, where U contains the principal components, S contains the singular values, and V contains the loadings.
+  - Eigenvalue decomposition (EVD), which decomposes the covariance matrix of the data into two matrices: Q and D, where Q contains the eigenvectors, which are the principal components, and D contains the eigenvalues, which are the variances explained by each principal component.
+- PCA requires some assumptions and considerations, such as:
+  - The data should be standardized or normalized before applying PCA, otherwise the variables with larger scales will dominate the principal components.
+  - The data should be linearly related, otherwise PCA may not capture the nonlinear patterns in the data.
+  - The choice of the number of principal components to retain depends on the trade-off between information loss and dimensionality reduction.
+  - The interpretation of the principal components may not be straightforward, as they are linear combinations of the original variables.

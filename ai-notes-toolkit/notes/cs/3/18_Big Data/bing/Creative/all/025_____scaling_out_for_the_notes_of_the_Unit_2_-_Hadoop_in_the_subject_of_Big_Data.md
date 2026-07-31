@@ -1,0 +1,25 @@
+# Scaling Out for the Notes of the Unit 2 - Hadoop in the Subject of Big Data
+
+- Scaling out is the process of adding more nodes to a system to increase its capacity and performance, rather than upgrading the existing nodes (scaling up).
+- Hadoop is a framework that enables distributed processing of large data sets across clusters of computers using simple programming models.
+- Hadoop consists of two main components: Hadoop Distributed File System (HDFS) and MapReduce.
+- HDFS is a distributed file system that stores data across multiple nodes in a cluster, providing high availability, fault tolerance, and scalability.
+- MapReduce is a programming model that allows parallel processing of large data sets using a map function and a reduce function.
+- Hadoop was designed to move computing closer to data while making use of the massive scale-out capabilities of HDFS.
+- Some of the benefits of scaling out with Hadoop are:
+  - It can handle any type of data, structured or unstructured, in any format.
+  - It can scale linearly by adding more nodes to the cluster without affecting the performance.
+  - It can provide high availability and fault tolerance by replicating data across multiple nodes and automatically recovering from failures.
+  - It can reduce the cost of storage and processing by using commodity hardware and open source software.
+- Some of the challenges of scaling out with Hadoop are:
+  - It requires a lot of resources and expertise to manage and maintain a large cluster of nodes.
+  - It may introduce latency and complexity in data access and processing due to the distributed nature of the system.
+  - It may not be suitable for some applications that require low latency, high concurrency, or complex analytics.
+- Some of the tips for scaling out with Hadoop are:
+  - Decentralize storage by using HDFS instead of centralized storage systems like SAN or NAS.
+  - Avoid controller choke points by using distributed file systems that can handle concurrent requests from multiple nodes.
+  - Deduplicate and compress data to reduce the storage and network overhead.
+  - Consolidate Hadoop distributions by using a common platform that can support multiple versions and frameworks of Hadoop.
+  - Virtualize Hadoop by using containers or virtual machines that can isolate and optimize the resources for each Hadoop application.
+  - Build an elastic data lake by using cloud services that can provide on-demand storage and processing for Hadoop data.
+  - Integrate analytics by using tools and frameworks that can leverage Hadoop data for business intelligence and machine learning.

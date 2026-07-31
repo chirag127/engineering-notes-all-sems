@@ -1,0 +1,23 @@
+## Experiment 17 - Socket programming using UDP and TCP (e.g., simple DNS, data & time client/server, echo client/server, iterative & concurrent servers)
+
+- Socket programming is a way of connecting two nodes on a network to communicate with each other.
+- A socket is an endpoint of a communication channel that can send and receive data using a specific protocol.
+- There are three types of sockets: stream sockets, datagram sockets and raw sockets.
+- Stream sockets use TCP (Transmission Control Protocol) as the transport layer protocol, which provides a reliable, connection-oriented and byte-stream service .
+- Datagram sockets use UDP (User Datagram Protocol) as the transport layer protocol, which provides an unreliable, connectionless and message-oriented service .
+- Raw sockets can use any protocol, but they require the programmer to handle the headers and checksums of the packets.
+- TCP and UDP have different characteristics and trade-offs, and they are suited for different applications.
+- TCP ensures that the data is delivered in order and without errors, but it has more overhead and latency than UDP.
+- UDP is faster and more efficient than TCP, but it does not guarantee the delivery, order or integrity of the data.
+- Some examples of applications that use TCP are web browsing, email, file transfer and remote login.
+- Some examples of applications that use UDP are video streaming, online gaming, voice over IP and DNS.
+- To program sockets in C/C++, the socket.h header file is required, which provides the functions and structures for creating, binding, listening, connecting, sending and receiving sockets.
+- To program sockets in Python, the socket module is required, which provides the functions and classes for creating, binding, listening, connecting, sending and receiving sockets .
+- The main difference between working with TCP and UDP in Python is that, when creating the socket, you have to use SOCK_DGRAM for UDP and SOCK_STREAM for TCP.
+- A simple DNS (Domain Name System) client/server application can use UDP sockets to exchange queries and responses between the client and the server.
+- A simple data & time client/server application can use TCP sockets to establish a connection between the client and the server, and then send and receive the current date and time as a string.
+- A simple echo client/server application can use either TCP or UDP sockets to send and receive the same message between the client and the server .
+- An iterative server is a server that handles one client request at a time, and then waits for the next request.
+- A concurrent server is a server that can handle multiple client requests simultaneously, using either processes or threads.
+- An iterative server is simpler to implement than a concurrent server, but it has lower performance and scalability.
+- A concurrent server is more complex to implement than an iterative server, but it has higher performance and scalability.

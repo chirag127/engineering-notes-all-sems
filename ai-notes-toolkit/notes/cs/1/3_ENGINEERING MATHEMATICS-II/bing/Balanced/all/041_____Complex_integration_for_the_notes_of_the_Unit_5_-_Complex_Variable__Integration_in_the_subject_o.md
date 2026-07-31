@@ -1,0 +1,11 @@
+# Complex integration
+
+Complex integration is a generalization of real integration to the complex domain. It is useful for studying analytic functions, which are complex functions that are differentiable in some domain. Complex integration also has applications in physics, engineering, and other fields.
+
+Some of the topics covered in complex integration are:
+
+- Complex line integrals: These are integrals of complex functions along a curve in the complex plane. They depend on the function and the path, but not on the parametrization of the path. They can be computed using the parametric form of the function and the path, or using the Cauchy integral formula if the function is analytic and the path is a closed contour.
+- Cauchy integral formula: This is a fundamental result of complex analysis that relates the value of an analytic function at a point inside a closed contour to the integral of the function along the contour. It also implies that an analytic function has infinitely many derivatives and that they can be obtained by differentiating the integral formula.
+- Cauchy integral theorem: This is a special case of the Cauchy integral formula that states that the integral of an analytic function along a closed contour is zero. It also implies that the value of an analytic function is independent of the path between two points in the same domain.
+- Residue theorem: This is a powerful tool for evaluating complex integrals that involve singularities, which are points where the function is not defined or not analytic. The residue theorem states that the integral of a function along a closed contour that encloses some singularities is equal to 2πi times the sum of the residues of the function at those singularities. The residue of a function at a singularity is a constant that depends on the type and order of the singularity and can be computed using various methods.
+- Applications of complex integration: Some of the applications of complex integration include evaluating real integrals using contour integration, finding the inverse Laplace transform of a function, solving differential equations using the method of complex variables, calculating the electric potential and the magnetic field using complex potentials, and deriving the Fourier and Laurent series of a function.

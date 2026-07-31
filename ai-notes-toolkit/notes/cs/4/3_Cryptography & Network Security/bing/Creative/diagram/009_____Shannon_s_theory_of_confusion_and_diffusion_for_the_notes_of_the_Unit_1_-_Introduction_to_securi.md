@@ -1,0 +1,10 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here is some information on Shannon's theory of confusion and diffusion for the notes of the Unit 1 - Introduction to security attacks, services and mechanism, Classical encryption techniquessubstitution ciphers and transposition ciphers, cryptanalysis, steganography, Stream and block ciphers. Modern Block Ciphers: Block ciphers principles, Shannon’s theory of confusion and diffusion, fiestal structure, Data encryption standard(DES), Strength of DES, Idea of differential cryptanalysis, block cipher modes of operations, Triple DES in the subject of Cryptography & Network Security.
+
+### Shannon’s theory of confusion and diffusion
+
+- Confusion and diffusion are two properties of the operation of a secure cipher identified by Claude Shannon in his 1945 classified report A Mathematical Theory of Cryptography .
+- These properties, when present, work to thwart the application of statistics and other methods of cryptanalysis .
+- Confusion refers to making the relationship between the ciphertext and the symmetric key as complex and involved as possible . This can be achieved by using a complex substitution function that depends on the key and the plaintext.
+- Diffusion refers to dissipating the statistical structure of plaintext over the bulk of ciphertext . This can be achieved by using a permutation function that spreads the influence of each plaintext bit over many ciphertext bits.
+- A good cipher should have both confusion and diffusion, so that changing one bit of the plaintext or the key should change many bits of the ciphertext in a seemingly random way.
+- Confusion and diffusion can be implemented by using a series of rounds, each consisting of a substitution and a permutation, as in the fiestal structure. Examples of ciphers that use this structure are DES, Triple DES, and IDEA.

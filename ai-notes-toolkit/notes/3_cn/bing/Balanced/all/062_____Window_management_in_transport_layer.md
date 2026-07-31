@@ -1,0 +1,9 @@
+### Window management in transport layer
+
+- Window management is a technique used by the transport layer protocols, such as TCP, to control the flow of data between two end systems.
+- Window management ensures that the sender does not overwhelm the receiver or the network with too many packets at once, and that the receiver can acknowledge the received packets in a timely manner.
+- Window management uses a sliding window protocol, which is a variable-sized buffer that moves along the sequence of packets. The window size indicates how many packets can be sent or received at a time, without waiting for an acknowledgment.
+- The sender maintains a send window, which is the range of packets that it can send before receiving an acknowledgment from the receiver. The receiver maintains a receive window, which is the range of packets that it can receive and buffer before sending an acknowledgment to the sender.
+- The sender and the receiver exchange window size information in the header of each packet, and adjust their windows accordingly. The window size can vary depending on the network conditions, such as congestion, delay, or errors.
+- The sliding window protocol can be either stop-and-wait or go-back-N. In stop-and-wait, the sender sends one packet at a time and waits for an acknowledgment before sending the next packet. The window size is one in this case. In go-back-N, the sender can send up to N packets without waiting for an acknowledgment, where N is the window size. If an acknowledgment is not received within a certain time, the sender retransmits all the packets in the window.
+- A mnemonic to remember the difference between stop-and-wait and go-back-N is: Stop-and-wait is slow, go-back-N is fast.

@@ -1,0 +1,9 @@
+### Genetic representations for the notes of the Unit 5 - Genetic Algorithm(GA) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+
+- Genetic representation is the way of encoding the possible solutions of a problem into a data structure that can be manipulated by a genetic algorithm (GA).
+- A genetic representation consists of two components: a chromosome and a gene.
+- A chromosome is a set of parameters that define a proposed solution of the problem that the GA is trying to solve. A gene is a single parameter or a subset of parameters within a chromosome.
+- Depending on the nature of the problem being optimized, the GA supports two different gene representations: binary and decimal.
+- Binary representation uses only two values for its genes, which are 0 and 1. This is the simplest and most common representation, and it is suitable for problems that have discrete or Boolean variables. For example, a binary chromosome can represent a subset of items to be selected from a given set, where each gene corresponds to the presence or absence of an item.
+- Decimal representation uses real numbers for its genes, which can take any value within a predefined range. This representation is more suitable for problems that have continuous or numerical variables. For example, a decimal chromosome can represent the weights of a neural network, where each gene corresponds to the value of a weight.
+- The choice of representation affects the design of the genetic operators, such as mutation and crossover, that are used to create new chromosomes from existing ones. Different representations may have different advantages and disadvantages in terms of efficiency, diversity, and scalability.

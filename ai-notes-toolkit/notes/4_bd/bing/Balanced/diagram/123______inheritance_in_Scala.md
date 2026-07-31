@@ -1,0 +1,25 @@
+#### Inheritance in Scala
+
+- Inheritance is a mechanism that allows a class to inherit the features and behavior of another class.
+- The class that inherits is called the **subclass** or the **derived class**.
+- The class that is inherited from is called the **superclass** or the **base class**.
+- In Scala, a subclass can inherit from a superclass using the `extends` keyword.
+- For example, `class Dog extends Animal` means that the class `Dog` is a subclass of the class `Animal`.
+- A subclass can access the public and protected members of its superclass, but not the private members.
+- A subclass can also override the methods of its superclass using the `override` keyword.
+- For example, `override def speak(): Unit = println("Woof")` means that the subclass `Dog` overrides the method `speak` of its superclass `Animal`.
+- A subclass can also call the methods of its superclass using the `super` keyword.
+- For example, `super.speak()` means that the subclass `Dog` calls the method `speak` of its superclass `Animal`.
+- In Scala, a class can inherit from only one superclass, but it can implement multiple **traits** using the `with` keyword.
+- A trait is a collection of abstract and concrete methods and fields that can be mixed into a class.
+- For example, `class Dog extends Animal with Friendly with Furry` means that the class `Dog` inherits from the class `Animal` and implements the traits `Friendly` and `Furry`.
+- A class that implements a trait must provide concrete definitions for the abstract methods of the trait.
+- A class can also override the concrete methods of the trait using the `override` keyword.
+- For example, `override def greet(): Unit = println("Hello")` means that the class `Dog` overrides the method `greet` of the trait `Friendly`.
+- A class can also call the methods of the trait using the `super` keyword.
+- For example, `super.greet()` means that the class `Dog` calls the method `greet` of the trait `Friendly`.
+- In Scala, multiple inheritance is achieved by using traits, which avoid the **diamond problem** that occurs when a class inherits from two classes that have a common superclass.
+- The diamond problem is a situation where a subclass inherits the same method from two superclasses, and it is not clear which method should be used.
+- Traits solve this problem by using a **linearization** algorithm that determines the order of method resolution based on the order of trait mixing.
+- For example, if `class Dog extends Animal with Friendly with Furry`, then the method resolution order is `Dog -> Furry -> Friendly -> Animal -> Any`.
+- This means that if the class `Dog` calls a method that is defined in multiple traits or classes, the method that is defined in the trait or class that is closest to the left in the linearization order will be used.

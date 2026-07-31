@@ -1,0 +1,7 @@
+# CO 1 Understand the concept of Internet of Things K3
+
+- Internet of Things (IoT) is the interconnection of computing devices embedded in everyday objects, enabling them to send and receive data over the internet or other communications networks .
+- IoT devices can range from simple sensors and actuators to complex smart appliances and wearable devices. They can collect, process and share data with other devices and systems, creating new possibilities for automation, monitoring, optimization and innovation.
+- IoT devices can communicate using various protocols, such as Wi-Fi, Bluetooth, Zigbee, LoRaWAN, MQTT, CoAP, etc. They can also use cloud computing, edge computing, fog computing or peer-to-peer architectures to store and process data.
+- IoT applications can be found in various domains, such as smart homes, smart cities, smart agriculture, smart health, smart industry, smart transportation, smart energy, etc. They can provide benefits such as increased efficiency, convenience, safety, security, sustainability and quality of life.
+- IoT also poses challenges and risks, such as privacy, security, interoperability, scalability, reliability, ethics, etc. They require careful design, implementation and regulation to ensure the protection of users, data and systems.

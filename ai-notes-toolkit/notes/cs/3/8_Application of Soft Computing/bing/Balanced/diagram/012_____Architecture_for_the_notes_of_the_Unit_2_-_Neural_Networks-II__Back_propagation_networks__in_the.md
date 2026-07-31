@@ -1,0 +1,12 @@
+### Architecture of Back Propagation Networks
+
+- A back propagation network is a type of artificial neural network that uses a supervised learning algorithm to train the network weights.
+- A back propagation network consists of three main components: an input layer, one or more hidden layers, and an output layer.
+- The input layer receives the input data and passes it to the first hidden layer. The hidden layers perform nonlinear transformations on the input data and pass it to the next layer. The output layer produces the final output of the network.
+- The network is feed-forward, which means that the data flows from the input layer to the output layer in one direction. There are no feedback loops or recurrent connections in the network.
+- The network is fully connected, which means that every neuron in one layer is connected to every neuron in the next layer. Each connection has a weight that determines the strength of the signal between the neurons.
+- The network also has biases, which are special neurons that have a constant activation of 1. The biases are connected to the neurons in the hidden and output layers and act as thresholds for the activation functions.
+- The network uses an activation function to determine the output of each neuron. The activation function can be linear, sigmoid, tanh, relu, or any other nonlinear function that maps the input to the output.
+- The network learns by adjusting the weights and biases based on the error between the actual output and the desired output. The error is calculated using a loss function, such as mean squared error, cross entropy, or any other function that measures the difference between the outputs.
+- The network uses a learning algorithm called back propagation to update the weights and biases. Back propagation is a method of gradient descent that computes the gradient of the loss function with respect to the weights and biases using the chain rule of calculus.
+- Back propagation consists of two phases: forward propagation and backward propagation. In forward propagation, the network computes the output for a given input and calculates the error. In backward propagation, the network propagates the error back through the layers and updates the weights and biases using the gradient and a learning rate.

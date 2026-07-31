@@ -1,0 +1,13 @@
+### Factors affecting backpropagation training
+
+Backpropagation is a learning algorithm that adjusts the weights of a neural network based on the error between the desired output and the actual output. Backpropagation training is influenced by several factors, such as:
+
+- **Initial weights**: The initial random weights chosen for the neural network should be small enough to avoid saturation of the activation functions, which may lead to local minima or slow convergence. However, they should not be too small to cause underfitting or numerical instability. A common practice is to initialize the weights from a uniform or normal distribution with zero mean and small variance  .
+
+- **Learning rate**: The learning rate is a hyperparameter that controls how much the weights are updated in each iteration. A high learning rate may cause the network to overshoot the optimal solution and oscillate or diverge. A low learning rate may cause the network to converge slowly or get stuck in a suboptimal solution. A good learning rate should balance the trade-off between speed and accuracy. A common practice is to use a fixed or adaptive learning rate that decreases over time  .
+
+- **Updation rule**: The updation rule is the formula that determines how the weights are updated based on the error and the gradient. There are different updation rules that can improve the performance of backpropagation, such as momentum, Nesterov momentum, RMSprop, Adam, etc. These rules can help the network to escape from local minima, avoid oscillations, and accelerate convergence  .
+
+- **Size and nature of the training set**: The size and nature of the training set affect the generalization ability of the network. A large and diverse training set can help the network to learn the underlying patterns and avoid overfitting. A small or biased training set may cause the network to memorize the noise and underfit. A common practice is to use cross-validation, regularization, and data augmentation techniques to improve the quality and quantity of the training set  .
+
+- **Architecture**: The architecture of the network refers to the number and size of the layers, the type and order of the activation functions, the connections between the units, etc. The architecture affects the complexity and expressiveness of the network. A complex and deep network can capture more features and nonlinearities, but it may also require more data and computation, and suffer from vanishing or exploding gradients. A simple and shallow network can be easier to train and interpret, but it may also be limited in its representation power. A good architecture should match the problem domain and the available resources  .

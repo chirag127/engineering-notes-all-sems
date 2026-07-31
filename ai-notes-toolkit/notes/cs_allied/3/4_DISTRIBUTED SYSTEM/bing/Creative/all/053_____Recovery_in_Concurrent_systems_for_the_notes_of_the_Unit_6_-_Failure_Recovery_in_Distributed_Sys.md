@@ -1,0 +1,10 @@
+# Recovery in Concurrent Systems
+
+- Recovery in concurrent systems is the process of restoring the system to a consistent state after a failure or an error.
+- Recovery is essential to ensure the correctness and reliability of concurrent systems, especially in distributed environments where failures are more common and unpredictable.
+- Recovery in concurrent systems involves the following aspects:
+  - **Logging**: Recording the actions and changes made by the transactions in a persistent storage, such as a disk or a tape. Logging is used to keep track of the history and state of the system, and to undo or redo the effects of transactions in case of failures.
+  - **Concurrency control**: Regulating the access and modification of shared data by multiple transactions to prevent conflicts and inconsistencies. Concurrency control is used to ensure the atomicity, consistency, isolation, and durability (ACID) properties of transactions, and to avoid the problems of lost updates, dirty reads, unrepeatable reads, and phantom reads.
+  - **Checkpointing**: Saving the current state of the system periodically or at certain points in the execution. Checkpointing is used to reduce the amount of logging and recovery work, and to speed up the restart process after a failure.
+  - **Restart recovery**: Restoring the system to a consistent state after a failure by using the logs and checkpoints. Restart recovery is used to undo the effects of incomplete or aborted transactions, and to redo the effects of committed transactions that were not reflected in the database due to the failure.
+  - **Transaction rollback**: Aborting a transaction and undoing its effects in case of an error or a conflict. Transaction rollback is used to maintain the consistency and isolation of transactions, and to resolve deadlocks or concurrency violations.

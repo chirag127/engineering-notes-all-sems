@@ -1,0 +1,24 @@
+#### CO 5 Generate machine code from the intermediate code forms K3, K4
+
+- Machine code is the low-level binary representation of a program that can be directly executed by the target system.
+- Intermediate code is a high-level or abstract representation of a program that is independent of the target system and can be easily translated into machine code.
+- Intermediate code generation is the process of converting the source code into intermediate code by the compiler.
+- Intermediate code generation has several advantages, such as:
+  - It enhances the portability of the compiler, as the same intermediate code can be used for different target systems.
+  - It simplifies the code optimization, as the intermediate code can be easily manipulated and transformed.
+  - It reduces the complexity of the code generation, as the intermediate code can be mapped to machine code in a straightforward manner.
+- There are different forms of intermediate code, such as:
+  - Three-address code: A linear sequence of instructions, each of which has at most three operands, such as `x = y + z`.
+  - Quadruples: A table of four columns, each of which contains an operator, an argument, another argument, and a result, such as `+, y, z, x`.
+  - Triples: A table of three columns, each of which contains an operator, an argument, and another argument, such as `+, y, z`. The result is implicitly stored in a temporary variable.
+  - Indirect triples: A table of three columns, each of which contains an operator, an argument, and another argument, such as `+, y, z`. The result is stored in another table that maps temporary variables to their locations.
+- Machine code generation is the process of converting the intermediate code into machine code by the compiler.
+- Machine code generation has several challenges, such as:
+  - The target system has a limited number of registers, which may not be enough to store all the intermediate code operands and results.
+  - The target system may not have a direct equivalent to some intermediate code instructions, such as function calls, conditional jumps, or complex expressions.
+  - The target system may have different constraints and formats for the machine code instructions, such as the size of the operands, the order of the operands, or the alignment of the instructions.
+- There are different techniques for machine code generation, such as:
+  - One-to-one translation: A simple solution that translates each intermediate code instruction into one or more machine code instructions, without considering any optimization or register allocation.
+  - Peephole optimization: A local optimization that scans a small window of intermediate code instructions and replaces them with more efficient machine code instructions, such as eliminating redundant instructions, combining instructions, or simplifying instructions.
+  - Register allocation: A global optimization that assigns the intermediate code operands and results to the available registers of the target system, such as using graph coloring, linear scan, or greedy algorithms.
+  - Instruction selection: A global optimization that chooses the best machine code instructions for each intermediate code instruction, such as using tree matching, dynamic programming, or pattern matching algorithms.

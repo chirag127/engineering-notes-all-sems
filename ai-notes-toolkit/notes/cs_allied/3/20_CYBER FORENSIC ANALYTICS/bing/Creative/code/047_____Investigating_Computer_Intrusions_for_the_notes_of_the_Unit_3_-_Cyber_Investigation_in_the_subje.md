@@ -1,0 +1,28 @@
+### Investigating Computer Intrusions
+
+- A computer intrusion is an unauthorized or illegal access or use of a computer system or network by an attacker.
+- A computer intrusion investigation is the process of identifying, analyzing, and responding to a computer intrusion incident.
+- The main goals of a computer intrusion investigation are to:
+  - Determine the source, scope, and impact of the intrusion
+  - Preserve and collect digital evidence related to the intrusion
+  - Identify and mitigate the vulnerabilities exploited by the intruder
+  - Restore the normal operation of the affected system or network
+  - Prevent or deter future intrusions
+- The main steps of a computer intrusion investigation are  :
+  - Preparation: Establish the roles and responsibilities of the investigation team, obtain the necessary tools and resources, and define the scope and objectives of the investigation.
+  - Detection: Monitor and analyze the system or network activity to detect any signs of intrusion, such as unusual traffic, alerts, logs, or files.
+  - Containment: Isolate the affected system or network from the rest of the environment to prevent further damage or spread of the intrusion, while maintaining the integrity of the evidence.
+  - Analysis: Examine the digital evidence to determine the details of the intrusion, such as the identity, motive, methods, and timeline of the intruder, and the extent of the compromise or damage.
+  - Eradication: Remove any traces of the intrusion from the system or network, such as malicious files, backdoors, or malware, and restore the system or network to a secure state.
+  - Recovery: Restore the normal operation of the system or network, and implement any necessary security measures or improvements to prevent or mitigate future intrusions.
+  - Reporting: Document and communicate the findings and recommendations of the investigation, and provide any relevant evidence or information to the appropriate authorities or parties.
+- The main challenges of a computer intrusion investigation are :
+  - The complexity and diversity of the system or network environment and the intrusion methods
+  - The volatility and fragility of the digital evidence and the risk of tampering or loss
+  - The legal and ethical issues related to the privacy, confidentiality, and admissibility of the digital evidence and the investigation methods
+  - The time and resource constraints and the pressure to respond quickly and effectively
+- The main skills and tools of a computer intrusion investigator are :
+  - Technical skills: Knowledge and experience in computer systems, networks, security, and forensics, and the ability to use various tools and techniques to monitor, analyze, and collect digital evidence.
+  - Analytical skills: The ability to think critically and logically, and to apply various methods and frameworks to solve problems and draw conclusions from the digital evidence.
+  - Communication skills: The ability to document and present the findings and recommendations of the investigation in a clear, concise, and professional manner, and to communicate effectively with various stakeholders and audiences.
+  - Legal skills: Knowledge and awareness of the laws and regulations related to computer intrusions and investigations, and the ability to comply with the legal and ethical standards and procedures.

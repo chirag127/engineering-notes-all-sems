@@ -1,0 +1,13 @@
+# Stereochemistry
+
+Stereochemistry is the branch of chemistry that deals with the three-dimensional arrangement of atoms and molecules and the effect of this on chemical reactions . Stereochemistry focuses on the relationships between stereoisomers, which are molecules that have the same molecular formula and sequence of bonded atoms, but differ in the orientation of their atoms in space.
+
+Some of the main topics in stereochemistry are:
+
+- **Chirality**: the property of a molecule that makes it non-superimposable on its mirror image. A molecule that has chirality is called a chiral molecule, and it can exist in two forms called enantiomers, which are mirror images of each other. Enantiomers have the same physical and chemical properties, except for their interaction with polarized light and other chiral molecules .
+- **Optical activity**: the ability of a chiral molecule to rotate the plane of polarized light. The direction and degree of rotation depend on the structure and configuration of the molecule, as well as the wavelength and temperature of the light. The specific rotation of a molecule is a characteristic physical property that can be used to identify and quantify it .
+- **Configuration**: the spatial arrangement of the atoms or groups in a molecule, which can be determined by using conventions such as the Cahn-Ingold-Prelog (CIP) rules and the R/S system for chiral centers, and the E/Z system for alkenes. Configuration is usually fixed by the presence of double bonds or chiral centers, and can only be changed by breaking and forming bonds .
+- **Conformation**: the different spatial arrangements of the atoms or groups in a molecule that result from rotation around single bonds. Conformation can be influenced by factors such as steric strain, torsional strain, and hydrogen bonding. Conformation can be represented by using models such as the Newman projection and the Fischer projection .
+- **Stereochemical reactions**: the chemical reactions that involve changes in the stereochemistry of the reactants or products, such as inversion, retention, racemization, and resolution. Stereochemical reactions can be influenced by the mechanism, the solvent, the catalyst, and the stereochemistry of the starting materials .
+
+Stereochemistry is an important aspect of organic chemistry, biochemistry, pharmacology, and materials science, as it affects the structure, function, and interactions of molecules. Stereochemistry can also be used to synthesize and characterize new compounds, and to understand the mechanisms and kinetics of chemical reactions .

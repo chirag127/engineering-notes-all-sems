@@ -1,0 +1,11 @@
+# Features of RTOS
+
+A real-time operating system (RTOS) is an operating system that can guarantee the timely and predictable execution of tasks in a system that has strict timing constraints. An RTOS is different from a general-purpose operating system, which may not be able to meet the deadlines or respond as quickly as required by the system.
+
+Some of the features of an RTOS are:
+
+- **Small and fast**: An RTOS is designed to be compact and efficient, occupying less memory and consuming fewer resources than a general-purpose operating system. An RTOS can also perform tasks quickly and with low overhead, minimizing the latency and jitter in the system.
+- **Responsive and deterministic**: An RTOS can respond to events or interrupts in a timely and consistent manner, ensuring that the system behaves as expected every time. An RTOS can also guarantee that tasks will be completed within a specified time bound, regardless of the system load or other factors.
+- **Preemptive and prioritized**: An RTOS can support preemptive scheduling, which means that a higher-priority task can interrupt a lower-priority task and resume it later. This allows the RTOS to allocate the CPU time to the most urgent or critical tasks in the system. An RTOS can also assign different priority levels to tasks based on their importance or urgency, and schedule them accordingly.
+- **Cooperative and multitasking**: An RTOS can support cooperative scheduling, which means that a task can voluntarily yield the CPU to another task when it is done or waiting for an event. This allows the RTOS to optimize the CPU utilization and avoid wasting resources. An RTOS can also support multitasking, which means that multiple tasks can run concurrently on the same CPU or on different CPUs in a multicore or distributed system.
+- **Real-time and embedded**: An RTOS is designed to run on real-time systems, which are systems that have strict timing constraints and need to interact with the physical world in a timely and reliable manner. Examples of real-time systems are industrial control systems, robotics, avionics, medical devices, etc. An RTOS is also designed to run on embedded systems, which are systems that have limited hardware resources and are dedicated to a specific function or application. Examples of embedded systems are smart watches, sensors, cameras, etc.

@@ -1,0 +1,17 @@
+#### Goals and applications of networks and protocols
+
+- A network is a collection of devices that can communicate with each other over a shared medium, such as cables, wireless signals, or the internet.
+- A protocol is a set of rules that defines how devices exchange information on a network, such as the format, timing, and error handling of messages.
+- The main goals of networks and protocols are:
+
+  - **Resource sharing**: Networks allow multiple devices to access and use the same resources, such as printers, scanners, modems, files, and applications. This reduces the cost and increases the efficiency of using these resources. For example, a group of office workers can share a common printer instead of having one for each person.  
+  - **High reliability**: Networks provide multiple sources of supply and backup for the data and services that devices need. This increases the availability and fault tolerance of the network. For example, if one server fails, another server can take over its tasks and prevent data loss. 
+  - **Greater flexibility**: Networks enable devices to connect and communicate with each other regardless of their physical location, type, or configuration. This allows users to access data and services from anywhere and anytime, and to use different devices for different purposes. For example, a user can access their email from their laptop, smartphone, or tablet. 
+  - **Increased productivity**: Networks facilitate the collaboration and coordination of users and devices on a network. This improves the speed and quality of work and decision making. For example, a team of workers can share and edit documents online, chat and video conference with each other, and use online tools and platforms to manage their projects. 
+
+- The applications of networks and protocols are diverse and numerous, ranging from personal to professional, and from local to global. Some examples are:
+
+  - **The internet**: The internet is the largest and most widely used network in the world, connecting billions of devices and users across the globe. The internet uses a suite of protocols, such as TCP/IP, HTTP, SMTP, and DNS, to enable the exchange of information and services, such as web browsing, email, online shopping, social media, and streaming.  
+  - **Local area networks (LANs)**: LANs are networks that connect devices within a small geographic area, such as a home, office, or school. LANs use protocols, such as Ethernet, Wi-Fi, and Bluetooth, to enable the sharing of resources, such as files, printers, and internet access, among the devices on the network.  
+  - **Wide area networks (WANs)**: WANs are networks that connect devices across a large geographic area, such as a city, country, or continent. WANs use protocols, such as MPLS, ATM, and Frame Relay, to enable the transmission of data and services, such as voice, video, and data, over long distances and different types of media, such as cables, satellites, and radio waves.  
+  - **Virtual private networks (VPNs)**: VPNs are networks that create a secure and private connection between devices over a public network, such as the internet. VPNs use protocols, such as IPSec, SSL, and PPTP, to encrypt and authenticate the data and devices on the network. VPNs are used for various purposes, such as remote access, online security, and anonymity.

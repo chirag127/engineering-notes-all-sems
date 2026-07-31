@@ -1,0 +1,26 @@
+## Module I: Partial Differential Equations
+
+- A partial differential equation (PDE) is an equation that involves partial derivatives of an unknown function of two or more variables.
+- PDEs are used to model various phenomena in physics, engineering, biology, chemistry, and other sciences.
+- The order of a PDE is the highest order of partial derivatives that appear in the equation.
+- The degree of a PDE is the highest power of the highest order partial derivatives that appear in the equation.
+- A PDE is linear if it is a linear combination of the unknown function and its partial derivatives, with coefficients that do not depend on the unknown function or its partial derivatives.
+- A PDE is nonlinear if it is not linear.
+- A PDE is homogeneous if it is equal to zero, and inhomogeneous if it is not equal to zero.
+- A PDE is separable if it can be written as a product of functions, each depending on only one variable.
+- A solution of a PDE is a function that satisfies the equation on a given domain.
+- A general solution of a PDE is a solution that contains arbitrary constants or functions.
+- A particular solution of a PDE is a solution that is obtained by assigning specific values to the arbitrary constants or functions in the general solution.
+- A boundary condition is a condition that specifies the value or behavior of the solution on the boundary of the domain.
+- A boundary value problem (BVP) is a PDE with a set of boundary conditions.
+- A well-posed BVP is a BVP that has a unique solution that depends continuously on the data of the problem.
+- A method of solution of a PDE is a procedure that allows one to find the general or particular solution of the equation, or to reduce the equation to a simpler form.
+- Some common methods of solution of PDEs are:
+  - Separation of variables: a method that applies to separable PDEs, and involves finding solutions that are products of functions of single variables, and then combining them using superposition principle.
+  - Fourier series: a method that applies to linear PDEs with periodic boundary conditions, and involves expanding the solution as a series of trigonometric functions, and then finding the coefficients by using orthogonality properties.
+  - Fourier transform: a method that applies to linear PDEs with non-periodic boundary conditions, and involves transforming the equation and the boundary conditions into a new domain using an integral transform, and then solving the transformed equation and applying the inverse transform to obtain the solution.
+  - Laplace transform: a method that applies to linear PDEs with initial and boundary conditions, and involves transforming the equation and the conditions into a new domain using an integral transform, and then solving the transformed equation and applying the inverse transform to obtain the solution.
+  - Method of characteristics: a method that applies to first-order PDEs, and involves finding curves along which the equation reduces to an ordinary differential equation, and then solving the ordinary differential equation and finding the solution on the curves.
+  - Method of variation of parameters: a method that applies to linear inhomogeneous PDEs, and involves finding a complementary solution of the homogeneous equation, and then finding a particular solution of the inhomogeneous equation by using a variation of the arbitrary constants or functions in the complementary solution.
+  - Method of undetermined coefficients: a method that applies to linear inhomogeneous PDEs with constant coefficients, and involves guessing a particular solution of the inhomogeneous equation that has the same form as the nonhomogeneous term, and then finding the coefficients by substituting the guess into the equation.
+  - Method of Green's functions: a method that applies to linear inhomogeneous PDEs with boundary conditions, and involves finding a function that satisfies the homogeneous equation and the boundary conditions, except at a point where it has a singularity, and then using the function to construct a particular solution of the inhomogeneous equation by integrating over the domain.

@@ -1,0 +1,35 @@
+# IEEE Standard for Floating Point Numbers
+
+- Floating point numbers are a way to represent real numbers in hardware, using a fixed number of bits.
+- IEEE 754 is the most widely used standard for floating point arithmetic, which specifies the formats, methods, and exception handling for binary and decimal floating point numbers  .
+- IEEE 754 defines two precisions for binary floating point numbers: single precision and double precision.
+  - Single precision numbers have 32 bits: 1 for the sign, 8 for the exponent, and 23 for the significand.
+  - Double precision numbers have 64 bits: 1 for the sign, 11 for the exponent, and 52 for the significand.
+- IEEE 754 also defines two precisions for decimal floating point numbers: decimal32 and decimal64.
+  - Decimal32 numbers have 32 bits: 1 for the sign, 6 for the exponent, and 25 for the significand.
+  - Decimal64 numbers have 64 bits: 1 for the sign, 8 for the exponent, and 55 for the significand.
+- IEEE 754 uses a biased representation for the exponent, which means that a fixed value is added to the actual exponent to get a positive value.
+  - For single precision, the bias is 127, so the exponent range is -126 to 127.
+  - For double precision, the bias is 1023, so the exponent range is -1022 to 1023.
+  - For decimal32, the bias is 101, so the exponent range is -95 to 96.
+  - For decimal64, the bias is 398, so the exponent range is -383 to 384.
+- IEEE 754 uses a normalized representation for the significand, which means that the most significant bit is always 1 and is not stored.
+  - For single precision, the significand has 24 bits, but only 23 are stored.
+  - For double precision, the significand has 53 bits, but only 52 are stored.
+  - For decimal32, the significand has 26 bits, but only 25 are stored.
+  - For decimal64, the significand has 56 bits, but only 55 are stored.
+- IEEE 754 defines some special values for floating point numbers, such as zero, infinity, NaN (not a number), and subnormal numbers .
+  - Zero is represented by setting all the bits to zero.
+  - Infinity is represented by setting the exponent bits to all ones and the significand bits to all zeros.
+  - NaN is represented by setting the exponent bits to all ones and the significand bits to any non-zero value.
+  - Subnormal numbers are represented by setting the exponent bits to all zeros and the significand bits to any non-zero value.
+- IEEE 754 defines four rounding modes for floating point arithmetic: round to nearest, round to zero, round to positive infinity, and round to negative infinity.
+  - Round to nearest is the default mode, which rounds the result to the nearest representable value, and breaks ties by rounding to the even value.
+  - Round to zero is the mode that rounds the result toward zero, which means truncating the fractional part.
+  - Round to positive infinity is the mode that rounds the result toward positive infinity, which means rounding up.
+  - Round to negative infinity is the mode that rounds the result toward negative infinity, which means rounding down.
+- IEEE 754 defines five exception conditions for floating point arithmetic: invalid operation, division by zero, overflow, underflow, and inexact.
+  - Invalid operation is the condition that occurs when the result is undefined, such as NaN, or when an invalid operation is performed, such as adding infinity to negative infinity.
+  - Division by zero is the condition that occurs when a finite non-zero number is divided by zero, which results in either positive or negative infinity.
+  - Overflow is the condition that occurs when the result is too large to be represented by the format, which results in either positive or negative infinity.
+  - Underflow is the

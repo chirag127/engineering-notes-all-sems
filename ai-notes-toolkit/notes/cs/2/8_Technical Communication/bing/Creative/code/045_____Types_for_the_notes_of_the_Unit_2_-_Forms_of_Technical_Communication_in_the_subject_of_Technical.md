@@ -1,0 +1,14 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the subject of Technical Communication. Here are some notes on the topic of Types for the notes of the Unit 2 - Forms of Technical Communication:
+
+# Types for the notes of the Unit 2 - Forms of Technical Communication
+
+- Technical communication is the process of conveying information and instructions to a specific audience for a specific purpose.
+- There are different types of technical communication, depending on the purpose, audience, and context of the message.
+- Some of the common types of technical communication are:
+
+  - **Technical reports**: These are formal documents that present the results of a research, experiment, analysis, or project. They usually have a clear structure, such as introduction, methods, results, discussion, and conclusion. They are often written for experts or decision-makers who need to understand the details and implications of the work.
+  - **User manuals**: These are guides that explain how to use a product, service, or system. They usually have a step-by-step format, with illustrations, diagrams, and screenshots. They are written for end-users who need to learn how to operate, maintain, or troubleshoot the product, service, or system.
+  - **Proposals**: These are documents that propose a solution to a problem, a plan for a project, or a request for funding. They usually have a persuasive tone, with a clear statement of the problem, the objectives, the methods, the benefits, and the costs. They are written for potential clients, sponsors, or stakeholders who need to be convinced of the feasibility and value of the proposal.
+  - **Memos**: These are short and informal messages that communicate information, updates, requests, or feedback within an organization. They usually have a concise and direct style, with a clear subject line, a brief introduction, a main body, and a closing. They are written for colleagues, managers, or employees who need to be informed or consulted about a specific issue or task.
+  - **Emails**: These are electronic messages that communicate information, queries, requests, or feedback to one or more recipients. They usually have a similar structure and style as memos, but they can also include attachments, links, or signatures. They are written for various purposes and audiences, depending on the context and the relationship between the sender and the receiver.
+  - **Presentations**: These are oral or visual displays that communicate information, ideas, or arguments to a group of listeners. They usually have a clear structure, such as introduction, main points, and conclusion. They are often accompanied by slides, charts, graphs, or images. They are written and delivered for various purposes and audiences, such as informing, persuading, instructing, or entertaining.

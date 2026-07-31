@@ -1,0 +1,22 @@
+### POSIX standards
+
+- POSIX stands for **Portable Operating System Interface** and is a family of standards specified by the IEEE Computer Society for maintaining compatibility between operating systems.
+- POSIX defines both the system and user-level application programming interfaces (APIs), along with command line shells and utility programs, for software compatibility with variants of Unix and other operating systems.
+- POSIX is especially relevant for the development of real-time and embedded systems, as it promotes interoperability and portability of applications across different platforms and devices .
+- POSIX consists of four major components, each in an associated volume:
+  - **Base Definitions**: General terms, concepts, and interfaces common to all volumes of the standard, including utility conventions and C-language header definitions.
+  - **System Interfaces**: Definitions for system services and functions, such as process creation and control, signals, timers, clocks, file and directory operations, pipes, streams, asynchronous and synchronous I/O, sockets, and threads.
+  - **Shell and Utilities**: Definitions for a standard command language interpreter (shell), and over 100 utility programs, such as cp, ls, mv, ps, etc.
+  - **Rationale**: Explanations for why the standard is the way it is, including historical information, design considerations, and trade-offs.
+- POSIX also has several extensions that provide additional functionality for real-time and embedded systems, such as:
+  - **POSIX.1b (or POSIX.4)**: Real-time extensions, such as priority scheduling, timers, clocks, semaphores, message queues, shared memory, and asynchronous I/O.
+  - **POSIX.1c (or POSIX.4a)**: Threads extensions, such as thread creation and control, synchronization, cancellation, and specific data.
+  - **POSIX.1d (or POSIX.5)**: Additional real-time extensions, such as sporadic server scheduling, memory locking, and synchronized I/O.
+  - **POSIX.1j (or POSIX.6)**: Advanced real-time extensions, such as spin locks, barriers, reader-writer locks, and monotonic clocks.
+  - **POSIX.1m (or POSIX.7)**: Embedded systems profile, which defines a subset of the POSIX functionality suitable for resource-constrained devices.
+- The benefits of using POSIX standards for real-time and embedded systems include:
+  - **Portability**: Applications written in POSIX can run on any POSIX-compliant operating system, reducing the cost and effort of porting and testing.
+  - **Interoperability**: Applications written in POSIX can communicate and exchange data with other POSIX applications, regardless of the underlying hardware or software platform.
+  - **Scalability**: Applications written in POSIX can take advantage of the features and capabilities of different operating systems, such as multi-core processors, memory management, security, and networking.
+  - **Reliability**: Applications written in POSIX can benefit from the stability and robustness of the POSIX APIs, which have been tested and verified by many vendors and users.
+  - **Flexibility**: Applications written in POSIX can choose from a variety of POSIX-compliant operating systems, such as Linux, BSD, QNX, VxWorks, etc., depending on their needs and preferences.

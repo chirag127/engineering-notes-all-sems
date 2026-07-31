@@ -1,0 +1,9 @@
+### Resource vs Communication Deadlocks
+
+- A deadlock is a condition where a process cannot proceed because it needs to obtain a resource held by another process, and it itself is holding a resource that the other process needs.
+- There are two types of deadlocks in distributed systems: resource deadlocks and communication deadlocks.
+- Resource deadlocks occur when processes access resources, such as data objects in database systems and buffers in store and forward communication networks . A process acquires a resource before accessing it and releasing it after using it. A resource deadlock happens when a cycle of processes is formed, each holding a resource and waiting for another resource in the cycle.
+- Communication deadlocks occur when processes communicate by sending and receiving messages, such as in message passing systems and distributed shared memory systems . A process sends a message to another process and waits for a reply. A communication deadlock happens when a cycle of processes is formed, each sending a message and waiting for a reply from another process in the cycle.
+- The main difference between resource deadlocks and communication deadlocks is that resource deadlocks involve the contention for resources, while communication deadlocks involve the loss or corruption of signals.
+- Another difference is that resource deadlocks can be detected by using techniques such as wait-for graphs, timestamps, and timeouts, while communication deadlocks are harder to detect and resolve because they depend on the reliability and ordering of messages .
+- Resource deadlocks can be prevented by using protocols such as deadlock prevention, deadlock avoidance, and deadlock recovery, while communication deadlocks can be prevented by using protocols such as reliable and ordered message delivery, message acknowledgments, and message retransmission .

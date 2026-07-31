@@ -1,0 +1,33 @@
+### Terminologies in Testing
+
+- Testing: The process of checking the quality and functionality of a software product or system by executing it under specified conditions and evaluating the results.
+- Test case: A set of input values, execution conditions, and expected results for a specific test objective.
+- Test suite: A collection of test cases that are intended to be executed together.
+- Test plan: A document that describes the scope, approach, resources, and schedule of testing activities for a software project.
+- Test strategy: A high-level document that defines the test levels, test types, test design techniques, and test tools to be used for a software project.
+- Test level: A specific instantiation of a test process that targets a specific component or system under test. Common test levels are unit testing, integration testing, system testing, and acceptance testing.
+- Test type: A group of test activities that aim to evaluate a specific quality attribute of a software product or system. Common test types are functional testing, non-functional testing, structural testing, and change-related testing.
+- Test design technique: A method or procedure for deriving and selecting test cases based on the test objective, test basis, and test criteria. Common test design techniques are specification-based, structure-based, experience-based, and defect-based.
+- Test basis: The source of information used as the reference for test analysis and design. It can include requirements, design specifications, user stories, use cases, etc.
+- Test oracle: A source of expected results for a test case. It can be a document, a person, a system, or a tool that provides the correct outcome for a given input.
+- Test data: The input values and environmental conditions that are used for executing a test case.
+- Test environment: The hardware, software, network, and configuration settings that are required for executing and evaluating test cases.
+- Test tool: A software or hardware product that supports one or more test activities, such as test management, test execution, test analysis, test reporting, etc.
+- Test automation: The use of test tools to perform test activities that would otherwise be done manually, such as test execution, test data generation, test result comparison, etc.
+- Test script: A sequence of instructions that can be executed by a test tool to perform a specific test activity.
+- Test driver: A test tool or component that provides input and control for the component or system under test.
+- Test stub: A test tool or component that simulates the behavior of a missing or unavailable component or system that is required for the test execution.
+- Test harness: A test environment that consists of test drivers, test stubs, and other test tools that are required for executing and monitoring test cases.
+- Test result: The outcome of executing a test case, which can be pass, fail, inconclusive, or error.
+- Test log: A record of the test activities and events that occurred during the test execution.
+- Test report: A document that summarizes the test results, test coverage, test metrics, test issues, and test conclusions for a test level or a test type.
+- Test coverage: The degree to which the test cases cover the test basis, such as requirements, specifications, code, etc.
+- Test metric: A quantitative measure of an attribute of a test process, test product, or test resource, such as test effort, test duration, test defects, test quality, etc.
+- Test defect: A flaw or error in a software product or system that causes it to deviate from its expected behavior or result.
+- Test incident: An event that occurs during the test execution that requires investigation, such as a test failure, a test error, or a test anomaly.
+- Test issue: A problem or concern that affects the test process, test product, or test resource, such as a test risk, a test assumption, a test dependency, or a test constraint.
+- Test risk: A factor that could negatively affect the test process, test product, or test resource, such as a requirement change, a design flaw, a resource shortage, or a schedule delay.
+- Test mitigation: A measure or action that reduces the likelihood or impact of a test risk.
+- Test assumption: A statement that is believed to be true for the test process, test product, or test resource, but that has not been verified or proven.
+- Test dependency: A relationship or condition that affects the test process, test product, or test resource, such as a prerequisite, a deliverable, or a constraint.
+- Test constraint: A limitation or restriction that affects the test process, test product, or test resource, such as a budget, a deadline, or a standard.

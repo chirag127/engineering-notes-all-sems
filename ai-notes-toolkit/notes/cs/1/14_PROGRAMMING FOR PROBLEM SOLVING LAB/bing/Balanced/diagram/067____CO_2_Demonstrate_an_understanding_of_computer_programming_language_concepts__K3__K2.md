@@ -1,0 +1,23 @@
+## CO 2 Demonstrate an understanding of computer programming language concepts. K3, K2
+
+- Computer programming language concepts are the fundamental ideas and principles that underlie the design and implementation of programming languages.
+- Some of the common concepts are:
+  - Syntax: The rules and structure of a programming language that define how to write valid programs.
+  - Semantics: The meaning and behavior of a programming language that define how to interpret and execute programs.
+  - Data types: The categories of values that a programming language can manipulate, such as numbers, strings, booleans, arrays, etc.
+  - Variables: The names or identifiers that refer to data values in a program.
+  - Expressions: The combinations of data values, variables, operators, and functions that can be evaluated to produce a result.
+  - Statements: The instructions that control the flow of execution in a program, such as assignments, conditionals, loops, etc.
+  - Functions: The reusable blocks of code that perform a specific task and can be called by other parts of the program.
+  - Parameters: The variables that are passed to a function when it is called, and can be used inside the function body.
+  - Arguments: The values that are supplied to a function when it is called, and are assigned to the parameters.
+  - Return values: The values that are produced by a function when it finishes its execution, and are returned to the caller.
+  - Scope: The region of a program where a variable or a function is visible and accessible.
+  - Modules: The units of code that can be imported and used by other programs or modules, and can contain variables, functions, classes, etc.
+  - Classes: The templates or blueprints that define the attributes and methods of a type of object in an object-oriented programming language.
+  - Objects: The instances or examples of a class that have their own state and behavior in an object-oriented programming language.
+  - Inheritance: The mechanism that allows a class to inherit the attributes and methods of another class in an object-oriented programming language.
+  - Polymorphism: The ability of a function or an object to behave differently depending on the type or number of arguments in an object-oriented programming language.
+  - Abstraction: The process of hiding the details and complexity of a system and providing a simpler and more general interface to the user.
+  - Encapsulation: The process of bundling the data and the operations that manipulate the data together in a single unit, such as a class or an object.
+  - Recursion: The technique of defining a function or a problem in terms of itself or a simpler version of itself.

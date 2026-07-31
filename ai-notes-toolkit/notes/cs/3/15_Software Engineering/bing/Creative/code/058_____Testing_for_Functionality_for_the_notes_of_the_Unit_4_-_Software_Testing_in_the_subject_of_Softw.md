@@ -1,0 +1,8 @@
+### Testing for Functionality
+
+- Testing for functionality is the process of verifying that a software system performs the functions that it is intended to do, according to the specified requirements and user expectations.
+- Testing for functionality can be done at different levels of software development, such as unit testing, integration testing, system testing, and acceptance testing.
+- Testing for functionality can be done using different techniques, such as black-box testing, white-box testing, or grey-box testing, depending on the availability and use of the source code, test cases, and test data.
+- Testing for functionality can be done using different types of test cases, such as equivalence partitioning, boundary value analysis, decision table testing, state transition testing, use case testing, etc., depending on the nature and complexity of the software system and its functions.
+- Testing for functionality can be done using different tools, such as test automation tools, test management tools, test data generation tools, etc., depending on the scope and scale of the testing process and the resources available.
+- Testing for functionality can be done using different metrics, such as defect density, defect severity, defect removal efficiency, test coverage, test effectiveness, etc., depending on the objectives and criteria of the testing process and the quality standards expected.

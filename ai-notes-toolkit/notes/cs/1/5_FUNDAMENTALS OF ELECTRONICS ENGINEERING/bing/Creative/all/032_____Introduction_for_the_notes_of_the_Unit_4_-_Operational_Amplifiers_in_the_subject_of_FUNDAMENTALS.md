@@ -1,0 +1,23 @@
+# Introduction for the notes of the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+
+- An operational amplifier (op-amp) is a high-gain, direct-coupled, differential-input, linear electronic device that can perform various analog signal processing operations such as amplification, filtering, integration, differentiation, addition, subtraction, etc.
+- The name operational amplifier comes from the fact that it was originally designed to perform mathematical operations using external feedback components such as resistors and capacitors.
+- An op-amp has two input terminals, called the inverting (-) and the non-inverting (+) inputs, and one output terminal. The output voltage is proportional to the difference between the input voltages, multiplied by a large factor called the open-loop gain (A).
+- The open-loop gain of an op-amp is very high, typically in the order of 10^5 to 10^6, and it decreases with increasing frequency. The open-loop gain also depends on the temperature, supply voltage, and manufacturing variations.
+- The op-amp also has two power supply terminals, usually labeled as Vcc and Vee, which provide the positive and negative voltages required for the operation of the op-amp. The power supply voltages can range from a few volts to tens of volts, depending on the type and specification of the op-amp.
+- The op-amp is usually represented by a triangular symbol, as shown below, with the input and output terminals marked accordingly. The power supply terminals are often omitted for simplicity, but they are implied to be connected.
+
+![op-amp symbol](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Op-Amp.svg/1200px-Op-Amp.svg.png)
+
+- The op-amp is a versatile and widely used device in electronic circuits. It can be used as a standalone component or as a part of an integrated circuit (IC). There are many types and models of op-amps available in the market, each with different characteristics and specifications. Some of the common parameters that describe the performance of an op-amp are:
+
+  - Input impedance: The resistance offered by the op-amp to the input signal. It is usually very high, in the order of megaohms or gigaohms, to minimize the loading effect on the input source.
+  - Output impedance: The resistance offered by the op-amp to the output load. It is usually very low, in the order of ohms or milliohms, to maximize the power transfer to the load.
+  - Input offset voltage: The voltage difference between the input terminals when the output voltage is zero. It is ideally zero, but in practice, it is a small nonzero value due to the mismatch of the input transistors. It causes a DC error in the output voltage.
+  - Input bias current: The average of the currents flowing into the input terminals. It is ideally zero, but in practice, it is a small nonzero value due to the leakage currents of the input transistors. It causes a DC error in the output voltage.
+  - Input offset current: The difference between the currents flowing into the input terminals. It is ideally zero, but in practice, it is a small nonzero value due to the mismatch of the input transistors. It causes a DC error in the output voltage.
+  - Common-mode rejection ratio (CMRR): The ratio of the differential gain to the common-mode gain of the op-amp. It measures the ability of the op-amp to reject the signals that are common to both input terminals. It is usually expressed in decibels (dB). It is ideally infinite, but in practice, it is a finite value that depends on the frequency and the power supply voltages.
+  - Slew rate: The maximum rate of change of the output voltage with respect to time. It measures the speed of response of the op-amp to a step input. It is usually expressed in volts per microsecond (V/µs). It is limited by the internal capacitances and currents of the op-amp.
+  - Bandwidth: The range of frequencies over which the op-amp can operate with a constant gain. It is usually expressed in hertz (Hz). It is limited by the open-loop gain and the slew rate of the op-amp.
+
+- The op-amp can be configured in different ways by using external feedback components to achieve various functions and characteristics. The feedback is the process of connecting a part of the output signal back to the input signal, either in phase (positive feedback) or out of phase (negative feedback). The feedback can affect the gain, stability, linearity, bandwidth, and noise of the op-amp circuit.

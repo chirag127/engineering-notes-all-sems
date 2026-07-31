@@ -1,0 +1,23 @@
+## Implementing Binary-to-Gray, Gray-to-Binary code conversions for the notes of the Computer Organization Lab in the subject of Computer Organization
+
+- Binary code is a system of representing numbers, letters, commands, images and sounds using only two symbols: 0 and 1. Each digit in binary code is called a bit.
+- Gray code is a system of representing numbers where only one bit changes between consecutive values. It is also known as reflected binary code or cyclic binary code. It is useful for error detection and correction in digital systems.
+- Binary-to-Gray code conversion is the process of converting a binary number to its equivalent Gray code. The algorithm for this conversion is as follows:
+  - The most significant bit (MSB) of the Gray code is the same as the MSB of the binary code.
+  - For each subsequent bit, the Gray code bit is the exclusive OR (XOR) of the binary code bit and the previous binary code bit.
+  - For example, to convert the binary number 1011 to Gray code, we follow these steps:
+    - The MSB of the Gray code is the same as the MSB of the binary code, which is 1.
+    - The second bit of the Gray code is the XOR of the second bit of the binary code and the MSB of the binary code, which is 0 XOR 1 = 1.
+    - The third bit of the Gray code is the XOR of the third bit of the binary code and the second bit of the binary code, which is 1 XOR 0 = 1.
+    - The fourth bit of the Gray code is the XOR of the fourth bit of the binary code and the third bit of the binary code, which is 1 XOR 1 = 0.
+    - Therefore, the Gray code equivalent of 1011 is 1110.
+- Gray-to-Binary code conversion is the process of converting a Gray code number to its equivalent binary code. The algorithm for this conversion is as follows:
+  - The MSB of the binary code is the same as the MSB of the Gray code.
+  - For each subsequent bit, the binary code bit is the XOR of the Gray code bit and the previous binary code bit.
+  - For example, to convert the Gray code number 1101 to binary code, we follow these steps:
+    - The MSB of the binary code is the same as the MSB of the Gray code, which is 1.
+    - The second bit of the binary code is the XOR of the second bit of the Gray code and the MSB of the binary code, which is 1 XOR 1 = 0.
+    - The third bit of the binary code is the XOR of the third bit of the Gray code and the second bit of the binary code, which is 0 XOR 0 = 0.
+    - The fourth bit of the binary code is the XOR of the fourth bit of the Gray code and the third bit of the binary code, which is 1 XOR 0 = 1.
+    - Therefore, the binary code equivalent of 1101 is 1001.
+- To implement these conversions in a computer organization lab, we can use logic gates, such as XOR gates, to perform the bitwise operations. We can also use software tools, such as Verilog or VHDL, to design and simulate the circuits. We can also use hardware devices, such as FPGA boards, to implement and test the circuits.

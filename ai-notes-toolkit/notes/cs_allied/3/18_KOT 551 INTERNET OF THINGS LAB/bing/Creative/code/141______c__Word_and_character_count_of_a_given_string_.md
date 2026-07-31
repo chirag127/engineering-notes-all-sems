@@ -1,0 +1,30 @@
+#### c) Word and character count of a given string.
+
+- A string is a sequence of characters enclosed in quotation marks, such as "Hello" or "This is a string".
+- A word is a group of characters separated by spaces or punctuation marks, such as "Hello" or "This is a word".
+- A character is a single symbol, such as "H" or "." or " ".
+- The word count of a string is the number of words in the string, such as 4 for "This is a string".
+- The character count of a string is the number of characters in the string, including spaces and punctuation marks, such as 16 for "This is a string".
+- To count the words and characters of a given string, one can use the following algorithm:
+  - Initialize two variables, word_count and char_count, to zero.
+  - Loop through each character in the string, using a variable i to keep track of the index.
+  - Increment char_count by one for each iteration of the loop, since each character adds one to the character count.
+  - If the current character is a space or a punctuation mark, or if it is the last character in the string, then increment word_count by one, since each such character marks the end of a word.
+  - After the loop ends, return word_count and char_count as the output.
+- For example, given the string "Hello, world!", the algorithm would work as follows:
+  - word_count = 0, char_count = 0
+  - i = 0, current character = "H", char_count = 1, word_count = 0
+  - i = 1, current character = "e", char_count = 2, word_count = 0
+  - i = 2, current character = "l", char_count = 3, word_count = 0
+  - i = 3, current character = "l", char_count = 4, word_count = 0
+  - i = 4, current character = "o", char_count = 5, word_count = 0
+  - i = 5, current character = ",", char_count = 6, word_count = 1
+  - i = 6, current character = " ", char_count = 7, word_count = 1
+  - i = 7, current character = "w", char_count = 8, word_count = 1
+  - i = 8, current character = "o", char_count = 9, word_count = 1
+  - i = 9, current character = "r", char_count = 10, word_count = 1
+  - i = 10, current character = "l", char_count = 11, word_count = 1
+  - i = 11, current character = "d", char_count = 12, word_count = 1
+  - i = 12, current character = "!", char_count = 13, word_count = 2
+  - i = 13, end of string, char_count = 13, word_count = 2
+  - Return word_count = 2 and char_count = 13 as the output.

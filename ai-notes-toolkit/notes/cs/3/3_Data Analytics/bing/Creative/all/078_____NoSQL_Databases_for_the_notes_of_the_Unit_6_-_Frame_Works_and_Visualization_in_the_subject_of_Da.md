@@ -1,0 +1,10 @@
+# NoSQL Databases
+
+- NoSQL databases are databases that do not use the SQL language or the relational model for data storage and retrieval.
+- NoSQL databases are designed to handle large volumes of unstructured, semi-structured, or structured data that may change frequently or unpredictably.
+- NoSQL databases offer flexible schemas, high scalability, high performance, and high availability.
+- NoSQL databases are categorized into four main types based on their data model: document, key-value, wide-column, and graph.
+- Document databases store data as documents, which are JSON-like objects that can contain various fields and values. Document databases are suitable for applications that need to store and query complex and nested data, such as e-commerce, content management, or social media. Examples of document databases are MongoDB, CouchDB, and DynamoDB.
+- Key-value databases store data as pairs of keys and values, where the key is a unique identifier and the value can be any type of data. Key-value databases are suitable for applications that need to store and retrieve simple data with high speed and low latency, such as caching, session management, or user preferences. Examples of key-value databases are Redis, Memcached, and Riak.
+- Wide-column databases store data as columns instead of rows, where each column can have a different schema and can be distributed across multiple nodes. Wide-column databases are suitable for applications that need to store and analyze large amounts of sparse and structured data, such as big data analytics, data warehousing, or recommendation systems. Examples of wide-column databases are Cassandra, HBase, and Bigtable.
+- Graph databases store data as nodes and edges, where nodes represent entities and edges represent relationships between them. Graph databases are suitable for applications that need to model and query complex and interconnected data, such as social networks, fraud detection, or knowledge graphs. Examples of graph databases are Neo4j, OrientDB, and ArangoDB.

@@ -1,0 +1,20 @@
+# Terminologies in Testing
+
+- Testing is the process of verifying and validating that a software product or system meets the specified requirements and expectations of the stakeholders.
+- Testing can be performed at different levels and types, depending on the objectives, scope, and context of the testing activity.
+- Testing can also be classified into different techniques, based on the methods and criteria used to design and execute test cases.
+- Testing can be formal or informal, depending on the degree of planning, documentation, and control involved in the testing process.
+- Testing can be part of the software development life cycle (SDLC) or the software testing life cycle (STLC), depending on the phase and role of testing in the software project.
+- Some of the common terminologies used in testing are:
+
+  - **SDLC (Software Development Life Cycle)**: An international standard for software life-cycle processes that defines all the tasks required for developing and maintaining software. It consists of several phases, such as planning, analysis, design, implementation, testing, deployment, and maintenance.
+  - **Test Level**: A specific instantiation of a test process that corresponds to a particular phase or stage of the SDLC. For example, unit testing, integration testing, system testing, and acceptance testing are different test levels.
+  - **Test Type**: A group of test activities that aim to evaluate a specific quality attribute or characteristic of the software product or system. For example, functional testing, non-functional testing, security testing, and usability testing are different test types.
+  - **Test Design Technique**: A method or procedure used to derive and select test cases based on the test objectives, test basis, and test criteria. For example, specification-based testing, structure-based testing, and experience-based testing are different test design techniques.
+  - **STLC (Software Testing Life Cycle)**: A systematic approach for planning, designing, executing, evaluating, and reporting the testing activities and results. It consists of several phases, such as test planning, test analysis, test design, test implementation, test execution, test evaluation, and test closure.
+  - **Informal Testing**: Testing that is performed without following a formal or structured process, such as test planning, test documentation, test execution, and test reporting. It is usually done by the developers or testers themselves, without any external review or supervision. For example, ad hoc testing, exploratory testing, and error guessing are types of informal testing.
+  - **Test Planning**: The activity of defining the scope, objectives, approach, and resources for the testing process. It involves identifying the test items, test levels, test types, test techniques, test environment, test schedule, test roles, test risks, and test deliverables.
+  - **Test Documentation**: The activity of creating and maintaining the artifacts that describe the testing process and results. It includes the test plan, test cases, test scripts, test data, test logs, test reports, test incidents, and test summaries.
+  - **Test Execution**: The activity of running the test cases or test scripts on the test items or test objects, using the test data and test tools, in the test environment, and recording the test results and test incidents.
+  - **Test Evaluation**: The activity of assessing the test results and test incidents, and comparing them with the test objectives and test criteria, to determine the quality and status of the software product or system, and to identify any defects or issues that need to be resolved.
+  - **Test Closure**: The activity of finalizing and archiving the test documentation, test deliverables, test environment, and test tools, and releasing the test resources. It also involves evaluating the test process and identifying the lessons learned and improvement actions for future testing projects.

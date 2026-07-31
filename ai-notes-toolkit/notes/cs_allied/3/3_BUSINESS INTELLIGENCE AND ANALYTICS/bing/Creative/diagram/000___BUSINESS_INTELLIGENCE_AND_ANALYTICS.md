@@ -1,0 +1,10 @@
+# Business Intelligence and Analytics
+
+- Business intelligence and analytics are related but distinct concepts that involve the use of data to support decision-making and performance improvement in organizations.
+- Business intelligence (BI) refers to the process of collecting, integrating, transforming, and presenting data from various sources to provide insights and information for decision-makers .
+- Business analytics (BA) refers to the process of applying statistical, mathematical, and computational techniques to data to discover patterns, trends, and insights .
+- BI and BA are often used together to provide a comprehensive view of the data and its implications for the organization. BI focuses on what has happened and what is happening, while BA focuses on why it has happened and what will happen .
+- BI and BA can be applied to various domains and functions, such as marketing, finance, operations, human resources, customer service, etc. They can help organizations to improve efficiency, effectiveness, quality, innovation, and competitiveness.
+- BI and BA require the use of various tools and technologies, such as databases, data warehouses, data lakes, data integration tools, data visualization tools, reporting tools, dashboards, business intelligence platforms, data mining tools, predictive analytics tools, prescriptive analytics tools, etc.
+- BI and BA also require the use of various skills and competencies, such as data literacy, data governance, data quality, data security, data ethics, data storytelling, data analysis, data modeling, data science, machine learning, artificial intelligence, etc.
+- BI and BA are evolving and expanding fields that are influenced by the trends and challenges of the data-driven economy, such as big data, cloud computing, internet of things, social media, mobile devices, etc.

@@ -1,0 +1,14 @@
+### Basic properties of Entropy for the notes of the Unit 5 - Quantum Error Correction in the subject of Quantum Computing
+
+- Entropy is a measure of the uncertainty or disorder of a quantum system. It quantifies how much information is needed to describe the state of the system or how much information is gained by observing the system.
+- There are different types of entropy for quantum systems, such as von Neumann entropy, Shannon entropy, conditional entropy, mutual information, and entanglement entropy. Each of them has different interpretations and applications in quantum information theory.
+- Von Neumann entropy is the most fundamental and widely used entropy for quantum systems. It is defined as $S(\rho) = -\mathrm{Tr}(\rho \log \rho)$, where $\rho$ is the density matrix of the system and $\mathrm{Tr}$ is the trace operator. Von Neumann entropy satisfies some basic properties, such as non-negativity, concavity, subadditivity, and strong subadditivity .
+- Shannon entropy is the classical counterpart of von Neumann entropy. It is defined as $H(X) = -\sum_x p(x) \log p(x)$, where $X$ is a random variable and $p(x)$ is the probability of observing $x$. Shannon entropy measures the average amount of information contained in a random variable or the average uncertainty of the outcome of an experiment.
+- Conditional entropy is the entropy of a system given the knowledge of another system. It measures the remaining uncertainty or information loss after observing the other system. For quantum systems, conditional entropy is defined as $S(A|B) = S(AB) - S(B)$, where $A$ and $B$ are two quantum systems and $AB$ is their joint system. Conditional entropy can be negative for quantum systems, which indicates the presence of quantum correlations or entanglement .
+- Mutual information is the amount of information shared by two systems. It measures the reduction of uncertainty or information gain after observing the other system. For quantum systems, mutual information is defined as $I(A:B) = S(A) + S(B) - S(AB)$, where $A$ and $B$ are two quantum systems and $AB$ is their joint system. Mutual information is always non-negative and zero if and only if the two systems are uncorrelated.
+- Entanglement entropy is a measure of the quantum correlations or entanglement between two systems. It is defined as the von Neumann entropy of one system after tracing out the other system, i.e., $S(A) = S(\mathrm{Tr}_B(\rho_{AB}))$, where $A$ and $B$ are two quantum systems and $\rho_{AB}$ is their joint density matrix. Entanglement entropy quantifies how much information is inaccessible or hidden in the entangled state.
+
+: Basic Properties of Entropy in Quantum Mechanics - SpringerLink
+: [2104.12611] Entropy of quantum states - arXiv.org
+: Entropy in Classical and Quantum Information Theory
+: Computing conditional entropies for quantum correlations

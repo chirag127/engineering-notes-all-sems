@@ -1,0 +1,18 @@
+# Manipulation Techniques and Input Devices for 3D Interaction
+
+- Manipulation techniques are methods for controlling the position, orientation, size, shape, or other attributes of objects in 3D virtual environments.
+- Input devices are hardware or software components that capture user input and translate it into commands or data for the system.
+- Manipulation techniques and input devices are closely related, as the choice of input device may affect the design and performance of manipulation techniques, and vice versa.
+- Some of the factors that influence the selection and design of manipulation techniques and input devices are:
+  - The number and type of degrees of freedom (DOFs) involved in the manipulation task. DOFs are independent parameters that define the state of an object, such as its x, y, and z coordinates, or its pitch, yaw, and roll angles.
+  - The integration of control dimensions, which refers to how the input device maps its DOFs to the object's DOFs. For example, a mouse can control two DOFs (x and y) with one device, while a 3D tracker can control six DOFs (x, y, z, pitch, yaw, roll) with one device.
+  - The mode of control, which refers to whether the input device controls the position or the force of the object. Position control means that the input device directly determines the position of the object, while force control means that the input device determines the rate of change of the position of the object.
+- Some of the common categories of manipulation techniques are:
+  - Direct manipulation, which involves using the input device to directly grab and move the object, as if it were a physical object. This technique is intuitive and natural, but may require high accuracy and precision from the input device and the user.
+  - Indirect manipulation, which involves using the input device to control a cursor or a handle that is attached to the object, and then moving the cursor or the handle to manipulate the object. This technique can reduce the need for accuracy and precision, but may introduce a level of indirection and abstraction that reduces the sense of presence and immersion.
+  - Gesture-based manipulation, which involves using the input device to perform gestures that are recognized by the system and translated into manipulation commands. This technique can enable expressive and efficient manipulation, but may require the user to learn and remember the gestures and their meanings.
+  - Constraint-based manipulation, which involves using the input device to specify constraints that limit the possible movements of the object, such as snapping, aligning, or scaling. This technique can simplify and facilitate manipulation, but may reduce the flexibility and control of the user.
+- Some of the common categories of input devices are:
+  - Traditional input devices, such as mouse, keyboard, joystick, or trackball, that are widely used for 2D interaction, but can also be adapted for 3D interaction by using buttons, keys, or modes to switch between DOFs or control dimensions.
+  - Special purpose input devices, such as 3D trackers, gloves, wands, or 3D mice, that are designed specifically for 3D interaction, and can provide more DOFs, integration, and naturalness than traditional input devices, but may also be more expensive, complex, or cumbersome to use.
+  - Direct human input devices, such as biosensors, eye trackers, or brain-computer interfaces, that capture input directly from the user's body or brain signals, and can provide novel and intuitive ways of interaction, but may also be more invasive, unreliable, or difficult to calibrate than other input devices.

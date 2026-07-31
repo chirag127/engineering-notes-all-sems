@@ -1,0 +1,9 @@
+ Here is the content in Markdown format without emojis and external links:
+
+# 12. Preparation of Urea formaldehyde (UF) resin.
+
+1.  Urea formaldehyde resin is synthesized by the condensation polymerization of urea and formaldehyde.
+2.  In the first step, urea and formaldehyde are made to react under alkaline conditions with a mole ratio of 1:2 at temperatures around 60-70°C to produce methylol ureas. This step is known as methylolation. The alkali catalyzes the reaction and also protects the labile methylol groups thus formed from condensing with themselves.
+3.  In the second step, known as condensation, the methylol ureas are made to react with each other with the application of heat and acid catalyst to produce a 3-dimensional network polymer. The properties of the final resin depend upon the extent of condensation. A proper balance has to be maintained between the methylolation and condensation reactions to obtain desired properties in the resin.
+4.  The common acid catalysts used are oxalic acid or sulfuric acid and the condensation is carried out at temperatures around 80-95°C. The ratio of formaldehyde to urea, the nature of the catalyst and the temperature are the major factors controlling the properties of the urea-formaldehyde resin.
+5.  The performance of urea-formaldehyde resin depends upon factors like viscosity, pH, free formaldehyde content and the degree of polymerization. The resin is diluted before use to control the viscosity. The pH is adjusted as per the end use. The free formaldehyde must be very low as it is toxic and affects the stability of the resin. The degree of polymerization controls the water resistance, chemical resistance and other properties of the final products made using this resin.

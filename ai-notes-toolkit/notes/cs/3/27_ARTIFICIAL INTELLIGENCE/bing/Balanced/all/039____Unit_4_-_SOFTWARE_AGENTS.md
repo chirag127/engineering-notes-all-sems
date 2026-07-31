@@ -1,0 +1,25 @@
+## Unit 4 - SOFTWARE AGENTS
+
+- A software agent is a computer program that performs various actions continuously and autonomously on behalf of an individual or an organization .
+- A software agent is invoked for a task, resides in "wait" status on a host, does not require user interaction, runs upon starting conditions, and invokes other tasks including communication .
+- Software agents may be autonomous or work together with other agents or people. They may also have human-like qualities such as natural language understanding and speech, personality, or humanoid form.
+- Some examples of software agents are:
+  - Web crawlers that index web pages for search engines
+  - Spam filters that classify email messages as spam or not
+  - Personal assistants that help users with various tasks such as scheduling, booking, or ordering
+  - Recommender systems that suggest products or services based on user preferences or behavior
+  - Chatbots that converse with users using natural language
+  - Game agents that simulate intelligent behavior in virtual environments
+- Some characteristics of software agents are:
+  - Autonomy: they can act independently without direct supervision or intervention
+  - Reactivity: they can perceive and respond to changes in their environment
+  - Proactivity: they can pursue their own goals and initiate actions
+  - Sociality: they can communicate and cooperate with other agents or people
+  - Adaptability: they can learn from their experience and improve their performance
+  - Mobility: they can move from one host to another in a network
+- Some types of software agents are:
+  - Interface agents: they provide a user-friendly interface to a system or service
+  - Information agents: they collect, filter, and process information from various sources
+  - Collaborative agents: they coordinate and cooperate with other agents or people to achieve a common goal
+  - Mobile agents: they migrate from one host to another in a network
+  - Intelligent agents: they exhibit some form of artificial intelligence such as reasoning, planning, or learning

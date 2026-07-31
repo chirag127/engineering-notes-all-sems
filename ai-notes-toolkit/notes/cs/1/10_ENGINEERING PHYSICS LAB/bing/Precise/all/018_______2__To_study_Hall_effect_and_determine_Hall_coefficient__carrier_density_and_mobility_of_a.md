@@ -1,0 +1,7 @@
+##### 2. To study Hall effect and determine Hall coefficient, carrier density and mobility of a
+
+The Hall effect is defined as the difference in voltage generated across a current-carrying conductor, transverse to an electrical current in the conductor and an applied magnetic field perpendicular to the current. The Hall effect measurement is one of the most important characterization techniques for electronic materials.
+
+The drift velocity acquired in unit applied electric field is known as the mobility of the carrier and is denoted by µH and is also called Hall mobility. The Hall coefficient (RH) and mobility (µH) are independent of magnetic and electric fields, however they change with film thickness and composition of the film.
+
+The Hall measurement, carried out in the presence of a magnetic field, yields the sheet carrier density ns and the bulk carrier density n or p (for n-type or p-type material) if the conducting layer thickness of the sample is known. The variation of carrier concentration (nH) depends on thickness and composition of Zn-Te films, observations show the carrier concentration decreases with increase of thickness while that increases with increase of at. wt.% of Zn in the film.

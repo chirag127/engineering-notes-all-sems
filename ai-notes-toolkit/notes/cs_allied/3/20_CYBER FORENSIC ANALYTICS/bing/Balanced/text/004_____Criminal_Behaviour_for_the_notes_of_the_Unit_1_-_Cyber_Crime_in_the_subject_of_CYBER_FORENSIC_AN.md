@@ -1,0 +1,21 @@
+### Criminal Behaviour for the notes of the Unit 1 - Cyber Crime in the subject of CYBER FORENSIC ANALYTICS
+
+- Cybercrime is criminal activity that either targets or uses a computer, a computer network or a networked device.
+- Cybercrime can be motivated by various reasons, such as profit, ideology, revenge, curiosity, or thrill-seeking.
+- Cybercrime can include many different types of illegal activities, such as:
+  - Fraud, identity theft, phishing, and other scams that aim to deceive or exploit victims for financial gain.
+  - Ransomware, malware, denial-of-service, and other attacks that aim to damage or disrupt the functioning of computers, networks, or data.
+  - Hacking, espionage, sabotage, and other attacks that aim to access, steal, or manipulate confidential or sensitive information.
+  - Cyberstalking, cyberbullying, cyberharassment, and other attacks that aim to intimidate, threaten, or harm individuals or groups online.
+  - Child pornography, human trafficking, terrorism, and other crimes that use the internet as a medium or tool to facilitate illegal activities.
+- Cybercrime can be carried out by individuals or organizations, such as cybercriminals, hackers, hacktivists, cyberterrorists, or state-sponsored actors .
+- Cybercrime can have various impacts on individuals, businesses, governments, and society, such as:
+  - Financial losses, reputational damage, legal liabilities, and regulatory penalties.
+  - Psychological distress, emotional trauma, physical harm, or identity issues.
+  - National security risks, geopolitical tensions, or diplomatic conflicts.
+  - Ethical dilemmas, social norms violations, or cultural clashes.
+- Cybercrime prevention and cybercrime security are the measures taken to protect oneself or one's organization from cybercrime, such as:
+  - Using strong passwords, encryption, antivirus software, firewalls, and other security tools.
+  - Avoiding suspicious links, attachments, or requests, and verifying the identity and authenticity of online sources.
+  - Educating oneself and others about the risks and consequences of cybercrime, and reporting any incidents or suspicious activities .
+  - Following the laws, regulations, policies, and best practices related to cybercrime, and cooperating with the authorities and experts in case of an investigation or prosecution.

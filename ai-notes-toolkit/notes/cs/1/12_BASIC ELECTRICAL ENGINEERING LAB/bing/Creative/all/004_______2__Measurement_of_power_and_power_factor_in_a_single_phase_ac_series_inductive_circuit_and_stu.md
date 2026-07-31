@@ -1,0 +1,14 @@
+# 2. Measurement of power and power factor in a single phase ac series inductive circuit and study improvement of power factor using capacitor
+
+- Power factor is a measure of energy efficiency in an alternating current circuit. It is the ratio of working power (or actual power) to apparent power  .
+- Working power is the power consumed by the resistive part of the circuit, and apparent power is the product of the rms values of voltage and current .
+- Power factor is also equal to the cosine of the phase angle between voltage and current, or the ratio of the resistance to impedance .
+- Power factor ranges from 0 to 1, where 1 indicates a purely resistive circuit with no phase difference between voltage and current, and 0 indicates a purely reactive circuit with a 90 degree phase difference  .
+- The average power dissipated in an ac circuit is given by Pave = 1/2 I0V0 cos φ, where I0 and V0 are the peak values of current and voltage, and φ is the phase angle.
+- A low power factor means that the circuit is drawing more current than necessary, which results in higher losses, lower efficiency, and increased costs .
+- To improve the power factor, a capacitor can be connected in parallel with the inductive load. The capacitor provides a leading reactive power that cancels out some of the lagging reactive power from the inductor, thus reducing the phase angle and increasing the power factor .
+- The value of the capacitor can be calculated by equating the reactive power supplied by the capacitor to the reactive power consumed by the inductor, or by using the formula C = I / (2πfVXc), where I is the rms current, f is the frequency, V is the rms voltage, and Xc is the capacitive reactance .
+- To measure the power and power factor in a single phase ac series inductive circuit, a wattmeter, an ammeter, and a voltmeter are connected in the circuit. The wattmeter measures the working power, the ammeter measures the rms current, and the voltmeter measures the rms voltage.
+- The power factor can be calculated by dividing the wattmeter reading by the product of the ammeter and voltmeter readings, or by using the formula cos φ = P / (IV), where P is the working power, I is the rms current, and V is the rms voltage.
+- To study the improvement of power factor using a capacitor, the same circuit is used with a capacitor connected in parallel with the inductive load. The readings of the wattmeter, ammeter, and voltmeter are taken again, and the power factor is calculated using the same formula.
+- The improvement of power factor can be observed by comparing the power factor values before and after connecting the capacitor. The power factor after connecting the capacitor should be higher than the power factor before connecting the capacitor.

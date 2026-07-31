@@ -1,0 +1,10 @@
+### Satisfiability for the notes of the Unit 4 - Propositional Logic in the subject of Discrete Structures & Theory of Logic
+
+- Satisfiability is a semantic property of a propositional formula or a set of propositional formulas that indicates whether there exists a truth assignment that makes the formula or the set true.
+- A propositional formula is satisfiable if there is a 1-assignment for it; a set of propositional formulas is satisfiable if there is a simultaneous 1-assignment for its elements.
+- The propositional satisfiability problem (often called SAT) is the problem of determining whether a given set of sentences in propositional logic is satisfiable.
+- SAT is a fundamental problem in computer science and logic, as many other problems can be reduced to it, such as circuit design, planning, theorem proving, etc.
+- SAT is also a computationally hard problem, as it belongs to the class of NP-complete problems, which means that there is no known efficient algorithm that can solve all instances of SAT in polynomial time.
+- There are various methods to test the satisfiability of a propositional formula or a set of propositional formulas, such as truth tables, resolution, DPLL algorithm, etc.
+- There are also various extensions and variations of SAT, such as 3-SAT, k-SAT, Horn-SAT, XOR-SAT, etc., that impose different restrictions or modifications on the structure or the number of clauses in the propositional formulas.
+- The satisfiability of a propositional formula or a set of propositional formulas has important implications for the validity, consistency, and logical consequence of the formula or the set. For example, a propositional formula is valid if and only if its negation is unsatisfiable; a set of propositional formulas is consistent if and only if it is satisfiable; a propositional formula is a logical consequence of a set of propositional formulas if and only if the set union the negation of the formula is unsatisfiable.

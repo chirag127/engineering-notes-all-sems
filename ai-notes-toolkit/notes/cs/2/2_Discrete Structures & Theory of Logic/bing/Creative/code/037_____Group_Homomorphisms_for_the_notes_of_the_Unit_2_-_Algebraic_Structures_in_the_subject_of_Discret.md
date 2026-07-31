@@ -1,0 +1,12 @@
+### Group Homomorphisms
+
+- A group homomorphism is a function that maps one group to another group in such a way that the group operation is preserved. That is, if $G$ and $H$ are groups with operations $\ast$ and $\cdot$, respectively, then a function $h:G\to H$ is a group homomorphism if for all $u,v\in G$, we have $h(u\ast v)=h(u)\cdot h(v)$ .
+- A group homomorphism preserves the algebraic structure of the groups, meaning that it maps the identity element of one group to the identity element of another group, and it maps the inverse of an element to the inverse of its image. That is, if $h:G\to H$ is a group homomorphism, then $h(e_G)=e_H$ and $h(u^{-1})=h(u)^{-1}$ for all $u\in G$.
+- A group homomorphism can be injective, surjective, or bijective. An injective homomorphism is one that maps distinct elements of one group to distinct elements of another group. A surjective homomorphism is one that maps every element of one group to some element of another group. A bijective homomorphism is one that is both injective and surjective, and it is also called an isomorphism of groups .
+- A group homomorphism can be used to study the properties and relations of groups, such as their subgroups, normal subgroups, quotient groups, and symmetries. For example, the kernel of a group homomorphism is the set of all elements in the domain that are mapped to the identity element in the codomain, and it is a normal subgroup of the domain. The image of a group homomorphism is the set of all elements in the codomain that are mapped from some element in the domain, and it is a subgroup of the codomain .
+- A group homomorphism can also be used to construct new groups from existing ones, such as the direct product, the direct sum, and the free product of groups. For example, the direct product of two groups $G$ and $H$ is the group $G\times H$ with the operation $(g_1,h_1)\cdot (g_2,h_2)=(g_1\ast g_2, h_1\cdot h_2)$, and there are natural group homomorphisms from $G$ and $H$ to $G\times H$ given by $g\mapsto (g,e_H)$ and $h\mapsto (e_G,h)$, respectively .
+
+: Group homomorphism - Wikipedia
+: Group Homomorphism -- from Wolfram MathWorld
+: Group Homomorphism: Definition, Examples, Properties
+: 2.4: Group Homomorphisms - Mathematics LibreTexts

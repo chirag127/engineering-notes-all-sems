@@ -1,0 +1,21 @@
+### Dynamic System Development Method in spm
+
+- Dynamic System Development Method (DSDM) is an agile project delivery framework that was initially used as a software development method.
+- DSDM aims to deliver projects that satisfy the needs of stakeholders by involving them throughout the project lifecycle and empowering the project teams to make decisions .
+- DSDM is based on eight principles that guide the project management and development process:
+  - Focus on the business need: The project should deliver value to the business and align with its strategic goals.
+  - Deliver on time: The project should adhere to the agreed timebox and prioritize the most important features.
+  - Collaborate: The project should involve active participation and communication among all stakeholders, including users, developers, managers, and testers.
+  - Never compromise quality: The project should ensure that the delivered products meet the predefined quality standards and acceptance criteria.
+  - Build incrementally from firm foundations: The project should start with a clear and stable vision and scope, and then deliver functional increments based on user feedback and testing.
+  - Develop iteratively: The project should use an iterative and incremental approach that allows for changes and improvements based on learning and feedback.
+  - Communicate continuously and clearly: The project should use various channels and techniques to share information and knowledge among the project team and stakeholders.
+  - Demonstrate control: The project should use appropriate tools and techniques to monitor and control the project progress, risks, issues, and quality.
+- DSDM consists of four phases that are repeated as needed until the project is completed:
+  - Feasibility: The project team evaluates the feasibility and viability of the project based on the business need, the available resources, and the technical constraints.
+  - Foundations: The project team defines the project scope, vision, objectives, and high-level requirements, and creates a prioritized list of features and a delivery plan.
+  - Evolutionary Development: The project team develops and delivers the products in timeboxed iterations, each consisting of analysis, design, build, and review activities. The team also conducts testing and obtains user feedback throughout the iterations.
+  - Deployment: The project team deploys the products to the live environment and ensures that they meet the business and user needs. The team also conducts post-project reviews and captures the lessons learned.
+- DSDM uses a set of roles and responsibilities that are assigned to the project team and stakeholders, such as business sponsor, business visionary, project manager, technical coordinator, business analyst, solution developer, solution tester, business ambassador, business advisor, and workshop facilitator.
+- DSDM also uses a set of products and deliverables that are created and updated throughout the project, such as business case, project approach questionnaire, prioritized requirements list, timebox plan, functional prototype, testing records, user documentation, and benefits assessment.
+- DSDM is a flexible and adaptable framework that can be used with any project, especially those that involve complex systems and operations, and that require frequent changes and feedback . DSDM can also be integrated with other agile methods, such as Scrum and Extreme Programming (XP).

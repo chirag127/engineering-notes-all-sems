@@ -1,0 +1,17 @@
+### Phases and passes of compiler
+
+- A **compiler** is a software that converts a source program written in a high-level language into a target program written in a low-level language that can be executed by the computer.
+- The compilation process involves several steps, called **phases**, that transform the source code from one representation to another.
+- The main phases of a compiler are:
+  - **Lexical analysis**: This phase scans the source code and identifies the tokens, such as keywords, identifiers, literals, operators, etc. It also removes the comments and white spaces from the source code.
+  - **Syntax analysis**: This phase parses the tokens and checks if they follow the grammar rules of the source language. It also builds a syntax tree that represents the hierarchical structure of the source code.
+  - **Semantic analysis**: This phase performs type checking, scope checking, and other semantic checks on the syntax tree. It also resolves the names and symbols used in the source code and annotates the syntax tree with additional information.
+  - **Intermediate code generation**: This phase converts the syntax tree into an intermediate representation, such as three-address code, that is independent of the source and target languages. It also performs some optimizations on the intermediate code to improve its efficiency.
+  - **Code optimization**: This phase applies various techniques to improve the quality of the intermediate code, such as eliminating dead code, reducing loop iterations, simplifying expressions, etc. It also performs some target-specific optimizations, such as register allocation, instruction selection, etc.
+  - **Code generation**: This phase translates the intermediate code into the target code, such as machine code or assembly code, that can be executed by the computer. It also handles the issues related to the target architecture, such as memory layout, addressing modes, etc.
+- A **pass** of a compiler is the number of times the compiler traverses through the source code. A pass can consist of one or more phases of the compiler.
+- The number of passes of a compiler depends on the complexity of the source and target languages, the design of the compiler, and the available resources.
+- There are three types of compilers based on the number of passes:
+  - **Single pass compiler**: This compiler processes the source code in one pass, without storing any intermediate code. It is fast and simple, but it has some limitations, such as forward references, recursive procedures, etc.
+  - **Two pass compiler**: This compiler processes the source code in two passes, storing some intermediate code after the first pass. It can handle some of the limitations of the single pass compiler, such as resolving forward references, but it still has some restrictions, such as the order of declaration, etc.
+  - **Multi pass compiler**: This compiler processes the source code in more than two passes, storing intermediate code after each pass. It can handle most of the limitations of the single and two pass compilers, such as the order of declaration, recursive procedures, etc. It is more flexible and powerful, but it is also more complex and slower.

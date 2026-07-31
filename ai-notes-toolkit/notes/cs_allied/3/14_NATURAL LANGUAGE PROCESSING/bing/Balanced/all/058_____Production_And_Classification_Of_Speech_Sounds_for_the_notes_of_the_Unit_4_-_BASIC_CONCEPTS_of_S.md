@@ -1,0 +1,9 @@
+# Production And Classification Of Speech Sounds
+
+- Speech sounds are the basic units of human communication that convey meaning and emotion.
+- Speech sounds are produced by the coordinated movement of various organs of speech, such as the lungs, larynx, velum, tongue, lips, etc.
+- Speech sounds are classified into two main categories: vowels and consonants.
+- Vowels are speech sounds that are produced with no obstruction or narrowing of the air stream in the vocal tract. Vowels are usually voiced, meaning that the vocal folds vibrate during their production. Vowels are characterized by their height, backness, roundness, and length.
+- Consonants are speech sounds that are produced with some degree of constriction or closure of the air stream in the vocal tract. Consonants can be voiced or voiceless, depending on whether the vocal folds vibrate or not. Consonants are characterized by their place, manner, and voicing of articulation.
+- Speech sounds can also be classified into phonemes and allophones. Phonemes are the smallest distinctive units of sound in a language that can change the meaning of a word. Allophones are the different variants of a phoneme that occur in different contexts, but do not affect the meaning of a word. For example, the phoneme /p/ has two allophones in English: aspirated [pʰ] and unaspirated [p].
+- Speech sounds can be represented by symbols that indicate their articulatory features. The most widely used system of symbols is the International Phonetic Alphabet (IPA), which provides a standard and universal way of transcribing speech sounds. The IPA symbols are enclosed in square brackets [ ] for phonetic transcription and in slashes / / for phonemic transcription.

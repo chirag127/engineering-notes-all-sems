@@ -1,0 +1,11 @@
+#### String handling in Core Java
+- String handling refers to the manipulation of character strings in Java.
+- The `String` class in Java provides several methods for string manipulation, such as `concat`, `substring`, `replace`, `split`, `trim`, `toLowerCase`, `toUpperCase`, and `equals`.
+- Strings in Java are immutable, meaning that once a string object is created, its value cannot be changed. Any operation that appears to modify a string actually creates a new string object.
+- The `StringBuilder` and `StringBuffer` classes provide an alternative to the `String` class for manipulating strings. These classes are mutable, meaning that their contents can be changed after they are created.
+- The `StringBuilder` class is not thread-safe, while the `StringBuffer` class is thread-safe.
+- The `String` class also provides several methods for converting between strings and other data types, such as `valueOf`, `parseInt`, `parseDouble`, and `toString`.
+- Regular expressions can be used for advanced string manipulation in Java. The `Pattern` and `Matcher` classes provide methods for working with regular expressions.
+- The `String` class also provides several methods for comparing strings, such as `compareTo`, `compareToIgnoreCase`, `regionMatches`, and `startsWith`.
+- The `String` class also provides several methods for searching within strings, such as `indexOf`, `lastIndexOf`, `contains`, and `matches`.
+- The `String` class also provides several methods for formatting strings, such as `format` and `printf`.

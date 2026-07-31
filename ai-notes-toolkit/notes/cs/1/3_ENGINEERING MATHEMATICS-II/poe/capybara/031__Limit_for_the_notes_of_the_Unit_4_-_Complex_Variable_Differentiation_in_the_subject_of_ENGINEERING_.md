@@ -1,0 +1,13 @@
+### Limit for the notes of the Unit 4 - Complex Variable–Differentiation in the subject of ENGINEERING MATHEMATICS-II
+
+When it comes to the topic of complex variable differentiation, it is important to understand the concept of limits. Limits are the foundation of calculus, and they are crucial in understanding the behavior of functions. Here are some key points to keep in mind when studying limits in the context of complex variable differentiation:
+
+- A limit is the value that a function approaches as the input approaches a certain value. In other words, it is the value that the function "gets close to" as the input gets closer and closer to a particular value.
+- Limits can be used to determine whether a function is continuous at a particular point. If the limit of a function exists and is equal to the function's value at that point, then the function is said to be continuous at that point.
+- The limit of a function can be calculated using the epsilon-delta definition, which involves finding a value of delta (which represents the distance between the input and the point of interest) that corresponds to a given value of epsilon (which represents the desired level of accuracy).
+- Limits can also be evaluated using algebraic techniques such as factoring, rationalizing the numerator, and using L'Hopital's rule.
+- In the context of complex variable differentiation, limits are used to define the derivative of a function. The derivative is the rate at which the function is changing at a particular point, and it can be calculated using the limit of the difference quotient (which involves finding the slope of a tangent line to the function at a particular point).
+- It is important to understand the properties of limits, such as the fact that the limit of a sum or product of functions is equal to the sum or product of their limits (assuming the limits exist).
+- Finally, it is crucial to practice evaluating limits and understanding their properties through a variety of examples and exercises. This will help to build a solid foundation for understanding complex variable differentiation and calculus more generally.
+
+In summary, limits are a fundamental concept in calculus, and they are crucial for understanding complex variable differentiation. By understanding the properties of limits and practicing their evaluation, you can build a solid foundation for success in this subject.

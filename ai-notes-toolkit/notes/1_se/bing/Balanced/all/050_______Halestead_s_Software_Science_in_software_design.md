@@ -1,0 +1,40 @@
+##### Halestead’s Software Science in software design
+
+- Halestead’s Software Science is a set of metrics that measure the complexity and quality of a software program based on its source code.
+- The metrics are derived from a few primitive parameters that count the number and types of operators and operands in the program.
+- Operators are the basic syntactic units that perform some action, such as arithmetic operators, logical operators, keywords, etc.
+- Operands are the basic syntactic units that represent some data, such as variables, constants, literals, etc.
+- The metrics are based on the following assumptions:
+  - A program is a collection of tokens that can be classified as either operators or operands.
+  - The length of a program is a function of the number of operators and operands.
+  - The vocabulary of a program is the set of unique operators and operands.
+  - The difficulty and effort of writing or understanding a program depend on the vocabulary and the length of the program.
+- The metrics are defined as follows:
+  - n1: the number of distinct operators in the program
+  - n2: the number of distinct operands in the program
+  - N1: the total number of operators in the program
+  - N2: the total number of operands in the program
+  - n: the program vocabulary, n = n1 + n2
+  - N: the program length, N = N1 + N2
+  - N^: the estimated program length, N^ = n1 * log2(n1) + n2 * log2(n2)
+  - V: the program volume, V = N * log2(n)
+  - L: the program level, L = (2 * n2) / (n1 * N2)
+  - D: the program difficulty, D = 1 / L
+  - E: the program effort, E = D * V
+  - T: the program time, T = E / 18 seconds
+  - B: the number of delivered bugs, B = V / 3000
+- The metrics can be used to evaluate the following aspects of a software program:
+  - Size: the program length (N) and the program volume (V) measure the size of the program in terms of tokens and bits, respectively.
+  - Complexity: the program difficulty (D) and the program level (L) measure the complexity of the program in terms of the ratio of operators to operands and the inverse of that ratio, respectively.
+  - Quality: the program effort (E), the program time (T), and the number of delivered bugs (B) measure the quality of the program in terms of the amount of work, time, and errors involved in developing or maintaining the program.
+- The metrics can be applied to any programming language that has a well-defined syntax and semantics.
+- The metrics can be computed automatically by using tools that count the operators and operands in the source code.
+- The metrics can be used to compare different programs or different versions of the same program, to identify the sources of complexity or inefficiency, and to suggest improvements or optimizations.
+- The metrics have some limitations and criticisms, such as:
+  - They are based on the syntactic structure of the program, not the semantic meaning or the functionality.
+  - They do not account for the effects of comments, documentation, indentation, or formatting on the readability or maintainability of the program.
+  - They do not account for the effects of external factors, such as the programmer's skill, experience, or motivation, on the development or maintenance of the program.
+  - They do not account for the effects of different programming paradigms, such as procedural, object-oriented, or functional, on the complexity or quality of the program.
+  - They do not account for the effects of different software development methodologies, such as agile, waterfall, or spiral, on the complexity or quality of the program.
+  - They are based on empirical constants that may not be universally applicable or accurate for all programs or languages.
+- A possible mnemonic to remember the metrics is: **Halestead's Very Long Day Ended Terribly Badly**. This corresponds to the first letters of the metrics: **H**alestead, **V**olume, **L**evel, **D**ifficulty, **E**ffort, **T**ime, **B**ugs.

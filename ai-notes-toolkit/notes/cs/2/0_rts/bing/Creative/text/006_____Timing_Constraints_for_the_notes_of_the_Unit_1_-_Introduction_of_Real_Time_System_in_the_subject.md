@@ -1,0 +1,21 @@
+### Timing Constraints for the notes of the Unit 1 - Introduction of Real Time System in the subject of Real Time System
+
+- Timing constraints are a vital attribute in real-time systems. They decide the total correctness of the result in real-time systems.
+- The correctness of results in real-time systems does not depend only on logical correctness but also the result should be obtained within the time constraint.
+- Time constraints related with real-time systems simply mean that time interval allotted for the response of the ongoing program. This deadline means that the task should be completed within this time interval.
+- Real-time systems are responsible for the completion of all tasks within their time intervals.
+- For a real-time system to be capable of real-time computing, it must satisfy two requirements:
+  - Timeliness: The ability to produce the expected result by a specific deadline.
+  - Time synchronization: The capability of agents to coordinate independent clocks and operate together in unison.
+- Timing constraints associated with the real-time system are classified to identify the different types of timing constraints in a real-time system. Timing constraints are broadly classified into two categories:
+  - Performance Constraints: The constraints enforced on the response of the system are known as Performance Constraints.
+  - Reliability Constraints: The constraints enforced on the behavior of the system are known as Reliability Constraints.
+- Performance Constraints are further classified into three types:
+  - Delay Constraint: A delay constraint describes the minimum time interval between occurrence of two consecutive events.
+  - Deadline Constraint: A deadline constraint describes the maximum time interval between occurrence of two consecutive events.
+  - Duration Constraint: Duration constraint describes the maximum time interval for which an event can occur.
+- Reliability Constraints are further classified into two types:
+  - Periodicity Constraint: A periodicity constraint describes the regularity of occurrence of an event.
+  - Synchronization Constraint: A synchronization constraint describes the coordination of occurrence of two or more events.
+- Timing constraints can be expressed using various constructs in requirements languages, such as temporal logic, interval logic, or event calculus.
+- Timing constraints can be validated using automatic test systems that can measure the actual response time and behavior of the system under different scenarios.

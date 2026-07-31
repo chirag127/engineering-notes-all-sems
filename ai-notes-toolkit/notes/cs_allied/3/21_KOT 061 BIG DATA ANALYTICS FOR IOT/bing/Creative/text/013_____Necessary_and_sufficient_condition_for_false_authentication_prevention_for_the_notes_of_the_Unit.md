@@ -1,0 +1,12 @@
+### Necessary and sufficient condition for false authentication prevention for the notes of the Unit 2 - RFID FALSE AUTHENTICATIONS in the subject of KOT 061 BIG DATA ANALYTICS FOR IOT KCS
+
+- False authentication is a situation where a legitimate tag is wrongly rejected by a reader or an illegitimate tag is wrongly accepted by a reader in an RFID system .
+- False authentication can compromise the security and privacy of RFID applications, such as supply chain management, access control, and healthcare .
+- To prevent false authentication, a necessary and sufficient condition is to ensure that the reader and the tag can mutually verify each other's identity and authenticity using a secure and efficient protocol .
+- A secure and efficient protocol should have the following properties :
+  - It should be resistant to common attacks, such as replay, impersonation, man-in-the-middle, and tag cloning.
+  - It should be compatible with the standards and specifications of the RFID system, such as C1G2 (class 1 generation 2) passive RFID tags.
+  - It should be lightweight and scalable, meaning that it should have low computation and communication overhead and be able to support a large number of tags and readers.
+  - It should be flexible and adaptable, meaning that it should be able to accommodate different security requirements and environmental conditions.
+- One possible solution to prevent false authentication is to use a semaphore-based approach, which suggests to revise the protocol pattern by adding several steps of semaphore operations. A semaphore is a predefined memory inside a tag, just as the memory for storing responses. The semaphore operations can help to synchronize the reader and the tag, and to detect and prevent any inconsistency or interference in the authentication process.
+- Another possible solution is to use a cryptographic approach, which suggests to use encryption, hashing, or digital signature techniques to protect the messages exchanged between the reader and the tag. The cryptographic techniques can help to ensure the confidentiality, integrity, and authenticity of the messages, and to prevent any modification or forgery by an adversary. However, the cryptographic approach may have higher computation and communication costs than the semaphore-based approach, and may not be suitable for some RFID systems with limited resources.

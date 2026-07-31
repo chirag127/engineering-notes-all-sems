@@ -1,0 +1,22 @@
+#### Introduction to JavaScript
+
+- JavaScript is a scripting language that runs in web browsers and enables dynamic and interactive web pages.
+- JavaScript was created by Brendan Eich in 1995 and is standardized by the ECMAScript specification.
+- JavaScript can manipulate HTML elements, handle user events, perform calculations, validate forms, communicate with servers, and create animations and games.
+- JavaScript code can be embedded in HTML files using the `<script>` tag or linked from external files using the `src` attribute.
+- JavaScript code is executed by the browser's JavaScript engine, which interprets and runs the code line by line.
+- JavaScript is case-sensitive, meaning that `var` and `VAR` are different identifiers.
+- JavaScript uses semicolons to end statements, but they can be omitted in most cases due to automatic semicolon insertion.
+- JavaScript supports multiple programming paradigms, such as imperative, functional, object-oriented, and event-driven.
+- JavaScript has a number of built-in objects, such as `Math`, `Date`, `String`, `Array`, and `RegExp`, that provide various methods and properties for common tasks.
+- JavaScript also has a number of built-in operators, such as arithmetic, assignment, comparison, logical, and bitwise operators, that can manipulate values and expressions.
+- JavaScript has a number of built-in statements, such as `if`, `switch`, `for`, `while`, `break`, `continue`, `return`, and `throw`, that can control the flow of execution and handle errors.
+- JavaScript has a number of built-in values, such as `true`, `false`, `null`, `undefined`, `NaN`, `Infinity`, and `-Infinity`, that represent special meanings or states.
+- JavaScript has a number of built-in data types, such as `number`, `string`, `boolean`, `object`, `function`, and `symbol`, that can store different kinds of values.
+- JavaScript uses type coercion to convert values from one data type to another when needed, such as when comparing values or performing operations.
+- JavaScript uses prototype-based inheritance to create and share properties and methods among objects.
+- JavaScript uses lexical scoping to determine the visibility and lifetime of variables and functions.
+- JavaScript uses closures to create functions that can access variables from their outer scope, even after the outer function has returned.
+- JavaScript uses the `this` keyword to refer to the current object or context that the function is executing in.
+- JavaScript uses the `new` operator to create instances of constructor functions, which are functions that can initialize and return objects.
+- JavaScript uses the `class` keyword to create classes, which are syntactic sugar for constructor functions and prototypes.

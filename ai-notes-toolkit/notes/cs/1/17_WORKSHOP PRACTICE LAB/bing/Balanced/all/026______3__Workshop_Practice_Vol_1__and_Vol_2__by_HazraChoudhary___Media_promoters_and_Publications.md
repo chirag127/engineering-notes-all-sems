@@ -1,0 +1,8 @@
+# Workshop Practice Vol 1, and Vol 2, by HazraChoudhary , Media promoters and Publications
+
+- Workshop Practice is a subject that covers the basic skills and knowledge of various workshop processes, such as fitting, sheet metal, soldering, welding, carpentry, foundry, smithy, etc.
+- Workshop Practice Vol 1, and Vol 2, by HazraChoudhary , Media promoters and Publications are two books that provide a comprehensive and practical guide to workshop practice for engineering students and professionals.
+- Workshop Practice Vol 1 covers the topics of manufacturing processes, such as casting, forging, welding, machining, metal cutting, metal forming, etc. It also includes chapters on metrology, engineering materials, heat treatment, and surface finishing.
+- Workshop Practice Vol 2 covers the topics of machine tools, such as lathe, drilling, milling, shaping, planing, slotting, grinding, etc. It also includes chapters on tool engineering, jigs and fixtures, press tools, dies and moulds, and CNC machines.
+- The books are written in a simple and lucid language, with numerous illustrations, diagrams, tables, and examples. The books also contain exercises, review questions, and objective type questions at the end of each chapter.
+- The books are suitable for diploma, degree, and AMIE courses in mechanical, production, automobile, and industrial engineering. They are also useful for ITI and vocational courses, as well as for practicing engineers and technicians.

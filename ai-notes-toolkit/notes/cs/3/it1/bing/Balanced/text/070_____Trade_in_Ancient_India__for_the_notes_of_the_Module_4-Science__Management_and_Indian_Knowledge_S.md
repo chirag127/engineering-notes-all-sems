@@ -1,0 +1,11 @@
+### Trade in Ancient India
+
+- Trade was an important economic activity in ancient India, as evidenced by various literary, epigraphic and archaeological sources.
+- Trade involved both internal and external exchanges, with goods ranging from agricultural products, textiles, metals, precious stones, spices, etc.
+- Trade was facilitated by the development of roads, ports, markets, coins, weights and measures, guilds, etc.
+- Trade also influenced the social, cultural, religious and political aspects of ancient India, as it enabled the contact and exchange of ideas, beliefs, practices, technologies, etc. among different regions and peoples.
+
+Some of the main points to remember about trade in ancient India are:
+
+- Internal trade: This refers to the trade within the Indian subcontinent, among different regions, kingdoms and communities. Internal trade was based on the regional specialisation and availability of resources, such as iron from Bihar, cotton from Gujarat, salt from Rajasthan, etc. Internal trade also involved the movement of people, such as merchants, artisans, pilgrims, etc. who travelled across the country for various purposes. Internal trade was regulated by the local authorities, who levied taxes, tolls and duties on the goods and services. Internal trade also fostered the growth of urban centres, such as Pataliputra, Ujjain, Kanchi, etc. where various economic, social and cultural activities took place.
+- External trade: This refers to the trade between India and other countries, especially in Asia, Africa and Europe. External trade was mainly conducted through the sea routes, as India had a long coastline and many ports, such as Lothal, Broach, Kaveripattinam, etc. External trade also involved the land routes, such as the Silk Road, which connected India with China, Central Asia and West Asia. External trade was influenced by the political and diplomatic relations, as well as the demand and supply of goods, such as spices, silk, cotton, ivory, etc. External trade also brought foreign traders, travellers, missionaries, etc. to India, who introduced new religions, cultures, languages, technologies, etc. to the Indian society. External trade also enhanced the prestige and power of the Indian rulers, who patronised the trade and commerce.

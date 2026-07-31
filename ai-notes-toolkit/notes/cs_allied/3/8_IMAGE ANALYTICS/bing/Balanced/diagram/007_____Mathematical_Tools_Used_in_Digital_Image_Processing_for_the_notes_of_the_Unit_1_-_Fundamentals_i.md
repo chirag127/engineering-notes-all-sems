@@ -1,0 +1,16 @@
+### Mathematical Tools Used in Digital Image Processing
+
+- A digital image is a collection of numerical values represented in the form of a matrix. Each value corresponds to the intensity or color of a pixel in the image.
+- Digital image processing (DIP) is the manipulation of digital images using various mathematical and computational techniques to enhance, analyze, or transform them for various purposes.
+- Some of the mathematical tools that are used in DIP are:
+
+  - **Matrix operations**: Matrix operations such as addition, subtraction, multiplication, inversion, etc., are used to perform various image processing tasks such as filtering, scaling, rotation, transformation, etc. For example, a linear filter can be applied to an image by multiplying the image matrix with a filter matrix.
+  - **Set operations**: Set operations such as union, intersection, complement, etc., are used to perform logical operations on images such as masking, thresholding, segmentation, etc. For example, a binary image can be obtained by applying a threshold value to an image and taking the complement of the resulting set.
+  - **Distance functions**: Distance functions such as Euclidean, Manhattan, Chebyshev, etc., are used to measure the similarity or dissimilarity between images or image features. For example, the Euclidean distance can be used to compare the color histograms of two images.
+  - **Statistical methods**: Statistical methods such as mean, median, standard deviation, histogram, etc., are used to analyze the properties and distributions of image pixels or regions. For example, the mean and standard deviation can be used to measure the brightness and contrast of an image.
+  - **Transforms**: Transforms such as Fourier, Laplace, wavelet, etc., are used to convert an image from one domain to another, such as from spatial to frequency, or from time to frequency. For example, the Fourier transform can be used to decompose an image into its frequency components and perform frequency domain filtering.
+  - **Algorithms**: Algorithms such as edge detection, segmentation, feature extraction, compression, etc., are used to perform specific image processing tasks that involve complex logic and computation. For example, the Canny edge detection algorithm can be used to detect the boundaries of objects in an image.
+  - **Models**: Models such as linear, nonlinear, probabilistic, etc., are used to represent the behavior or characteristics of images or image features. For example, a hidden Markov model can be used to model the transitions between different regions in an image.
+  - **Neural networks**: Neural networks are artificial intelligence systems that can learn from data and perform various image processing tasks such as classification, recognition, segmentation, etc. For example, a convolutional neural network can be used to recognize faces in an image.
+
+- For computational purposes, Matlab is one of the most commonly used tools by the researchers in the area of DIP. Other tools which are commonly used include SciLab, GNU Octave, SageMath, etc.

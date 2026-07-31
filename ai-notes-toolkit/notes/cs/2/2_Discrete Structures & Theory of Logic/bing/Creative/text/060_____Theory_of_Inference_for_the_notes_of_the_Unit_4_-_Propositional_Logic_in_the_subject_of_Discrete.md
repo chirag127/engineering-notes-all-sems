@@ -1,0 +1,21 @@
+### Theory of Inference
+
+- Theory of inference is the study of how to derive valid conclusions from given premises using rules of logic.
+- In propositional logic, the premises and conclusions are statements or propositions that can be true or false.
+- Rules of inference are the logical principles that allow us to infer new propositions from existing ones.
+- Some popular rules of inference in propositional logic are  :
+  - Modus ponens: If p implies q and p is true, then q is true.
+  - Modus tollens: If p implies q and q is false, then p is false.
+  - Contraposition: If p implies q, then not q implies not p.
+  - Conjunction: If p and q are true, then p and q is true.
+  - Simplification: If p and q is true, then p is true.
+  - Addition: If p is true, then p or q is true.
+  - Disjunctive syllogism: If p or q is true and p is false, then q is true.
+  - Hypothetical syllogism: If p implies q and q implies r, then p implies r.
+- An argument is a sequence of propositions that ends with a conclusion.
+- An argument is valid if the conclusion follows logically from the premises, i.e., if the premises are true, then the conclusion must be true.
+- An argument is sound if it is valid and the premises are true.
+- To prove the validity of an argument, we can use a truth table, a proof by contradiction, or a natural deduction.
+- A truth table is a table that lists all the possible combinations of truth values for the propositions involved and shows the truth value of the argument for each case.
+- A proof by contradiction is a method that assumes the opposite of the conclusion and shows that it leads to a contradiction with the premises or a logical absurdity.
+- A natural deduction is a method that uses rules of inference to derive the conclusion from the premises in a step-by-step manner.

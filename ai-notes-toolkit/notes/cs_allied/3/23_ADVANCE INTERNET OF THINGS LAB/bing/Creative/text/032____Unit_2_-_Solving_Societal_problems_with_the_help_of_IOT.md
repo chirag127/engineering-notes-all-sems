@@ -1,0 +1,12 @@
+## Unit 2 - Solving Societal problems with the help of IOT
+
+- IOT stands for Internet of Things, which refers to the network of physical devices, sensors, actuators, and software that can collect, process, and exchange data over the internet.
+- IOT can help solve various societal problems by providing real-time information, automation, optimization, and innovation in different domains such as health, agriculture, environment, energy, transportation, and security.
+- Some examples of how IOT can help solve societal problems are:
+
+  - Health: IOT can enable remote monitoring, diagnosis, and treatment of patients, as well as improve the efficiency and quality of health care services. For instance, wearable devices can track vital signs, smart pills can deliver drugs, and telemedicine can connect doctors and patients across distances.
+  - Agriculture: IOT can enhance crop production, irrigation, pest control, and food safety by using sensors, drones, and smart irrigation systems. For example, soil moisture sensors can optimize water usage, drones can monitor crop health, and RFID tags can trace food products from farm to fork.
+  - Environment: IOT can help monitor and protect the environment by collecting and analyzing data on air quality, water quality, climate change, and biodiversity. For example, air pollution sensors can alert citizens and authorities, water quality sensors can detect contaminants, and wildlife trackers can prevent poaching and habitat loss.
+  - Energy: IOT can improve energy efficiency, reliability, and sustainability by managing and optimizing the supply and demand of electricity, gas, and oil. For example, smart meters can measure and control energy consumption, smart grids can balance and distribute power, and smart homes can automate lighting, heating, and cooling.
+  - Transportation: IOT can enhance mobility, safety, and convenience by enabling intelligent transportation systems, autonomous vehicles, and smart parking. For example, traffic sensors can optimize traffic flow, self-driving cars can reduce accidents and emissions, and smart parking systems can guide drivers to available spaces.
+  - Security: IOT can improve public safety and security by detecting and preventing threats, crimes, and disasters. For example, surveillance cameras can monitor and identify suspicious activities, biometric sensors can authenticate and authorize access, and emergency response systems can alert and coordinate rescue teams.

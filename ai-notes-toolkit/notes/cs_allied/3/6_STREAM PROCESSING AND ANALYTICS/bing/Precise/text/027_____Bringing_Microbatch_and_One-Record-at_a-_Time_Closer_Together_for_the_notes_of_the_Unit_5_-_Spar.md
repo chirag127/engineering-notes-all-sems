@@ -1,0 +1,5 @@
+### Bringing Microbatch and One-Record-at a- Time Closer Together for the notes of the Unit 5 - Spark’s Distributed Processing Model in the subject of STREAM PROCESSING AND ANALYTICS
+
+- Micro-batch processing is a method of efficiently processing large datasets with reduced latency and improved scalability. It breaks up large datasets into smaller batches and runs them in parallel, resulting in more timely and accurate processing .
+- Spark Streaming is an example of a system designed to support micro-batch processing. Even though processing may happen as often as once every few minutes, data is still processed a batch at a time .
+- Intuition says that one batch must be processed per executor but on the contrary, only one batch is processed at a time but jobs and tasks are processed in parallel. Multiple batch processing can be achieved by using spark.streaming.concurrentjobs, but it's not documented and still needs a few fixes. One of the problems is with saving Kafka offsets .

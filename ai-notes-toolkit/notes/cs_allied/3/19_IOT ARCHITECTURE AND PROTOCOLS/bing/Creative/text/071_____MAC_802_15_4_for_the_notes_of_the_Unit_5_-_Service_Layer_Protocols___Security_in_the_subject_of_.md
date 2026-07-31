@@ -1,0 +1,12 @@
+### MAC 802.15.4
+
+- MAC 802.15.4 is a standard for low-rate wireless personal area networks (LR-WPANs) that defines the physical layer (PHY) and medium access control (MAC) sublayer specifications  .
+- MAC 802.15.4 supports low-data-rate wireless connectivity with fixed, portable, and moving devices with no battery or very limited battery consumption requirements .
+- MAC 802.15.4 provides the basis of other higher-layer standards, such as ZigBee, WirelessHart, 6LoWPAN and MiWi .
+- MAC 802.15.4 supports multiple PHY options, such as frequency-hopping spread spectrum (FHSS), direct-sequence spread spectrum (DSSS), orthogonal frequency-division multiplexing (OFDM), and high-rate pulse ultra-wideband (HRP UWB)  .
+- MAC 802.15.4 defines two types of devices: full-function devices (FFDs) and reduced-function devices (RFDs). FFDs can operate as coordinators or ordinary devices, while RFDs can only operate as ordinary devices .
+- MAC 802.15.4 defines two types of networks: star and peer-to-peer. In a star network, a single FFD acts as a central coordinator and communicates with multiple RFDs. In a peer-to-peer network, multiple FFDs can communicate with each other and form clusters .
+- MAC 802.15.4 uses a slotted or unslotted carrier sense multiple access with collision avoidance (CSMA/CA) mechanism for channel access. In slotted CSMA/CA, the channel is divided into fixed-length time slots, and devices can only transmit at the beginning of a slot. In unslotted CSMA/CA, devices can transmit at any time, but they have to perform a random backoff before transmission .
+- MAC 802.15.4 supports optional guaranteed time slots (GTSs) for devices that require low-latency or deterministic access to the channel. GTSs are allocated by the coordinator in a superframe structure, which consists of an active and an inactive period. The active period contains a contention access period (CAP) and a contention-free period (CFP). The CFP contains the GTSs .
+- MAC 802.15.4 supports optional beacon frames that are transmitted by the coordinator to synchronize the devices, announce the network parameters, and indicate the GTS allocations. Devices can use the beacon frames to perform association, disassociation, and scanning operations .
+- MAC 802.15.4 supports optional security services, such as encryption, authentication, and key management, using the advanced encryption standard (AES) algorithm. The security services can be applied at different levels, such as the MAC sublayer, the network layer, or the application layer .

@@ -1,0 +1,23 @@
+# Operations on Relations
+
+- A **relation** is a set of ordered pairs that relates elements of one set, called the **domain**, to elements of another set, called the **range**.
+- A relation can be represented using a **directed graph**, where the vertices are the elements of the sets and the edges are the ordered pairs.
+- A relation can also be represented using a **matrix**, where the rows and columns are the elements of the sets and the entries are 1 if the ordered pair is in the relation and 0 otherwise.
+- Since relations are sets, they can be manipulated using **set operations**, such as union, intersection, complement, and difference.
+- For example, if R and S are two relations over the sets A and B, respectively, then R ∪ S is the relation that contains all the ordered pairs that are in either R or S, R ∩ S is the relation that contains all the ordered pairs that are in both R and S, R' is the relation that contains all the ordered pairs that are not in R, and R - S is the relation that contains all the ordered pairs that are in R but not in S.
+- In addition to set operations, there are some other operations that are specific to relations, such as **converse**, **composition**, and **inverse**.
+- The **converse** of a relation R, denoted by R<sup>T</sup>, is the relation that contains all the ordered pairs obtained by reversing the order of the elements in R.
+- For example, if R = {(a, b), (b, c), (c, d)}, then R<sup>T</sup> = {(b, a), (c, b), (d, c)}.
+- The **composition** of two relations R and S, denoted by R ∘ S, is the relation that contains all the ordered pairs (a, c) such that there exists an element b in the common range of R and domain of S for which (a, b) ∈ R and (b, c) ∈ S.
+- For example, if R = {(a, b), (b, c), (c, d)} and S = {(b, e), (c, f), (d, g)}, then R ∘ S = {(a, e), (a, f), (b, f), (b, g), (c, g)}.
+- The **inverse** of a relation R, denoted by R<sup>-1</sup>, is the relation that contains all the ordered pairs (b, a) such that (a, b) ∈ R and R is a **function**.
+- A **function** is a special type of relation that satisfies the **vertical line test**, which means that for every element in the domain, there is exactly one element in the range.
+- For example, if R = {(a, 1), (b, 2), (c, 3)}, then R is a function and R<sup>-1</sup> = {(1, a), (2, b), (3, c)}.
+- There are some properties of relations that can be checked using these operations, such as **reflexivity**, **symmetry**, **antisymmetry**, **transitivity**, and **equivalence**.
+- A relation R is **reflexive** if for every element a in the domain, (a, a) ∈ R.
+- A relation R is **symmetric** if for every pair of elements (a, b) in R, (b, a) ∈ R.
+- A relation R is **antisymmetric** if for every pair of elements (a, b) in R, if (b, a) ∈ R, then a = b.
+- A relation R is **transitive** if for every pair of elements (a, b) and (b, c) in R, (a, c) ∈ R.
+- A relation R is an **equivalence relation** if it is reflexive, symmetric, and transitive.
+- Equivalence relations can be used to partition a set into **equivalence classes**, which are subsets of elements that are related to each other.
+- For example, if R is the relation of congruence modulo

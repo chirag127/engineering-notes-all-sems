@@ -1,0 +1,27 @@
+### Encoding process for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication
+
+- Encoding is the process of turning thoughts into communication.
+- The encoder is the person who creates the message, adapts it to the receiver, and transmits it across a channel.
+- The encoding process is based on the purpose of communication and the relation between the sender and the receiver.
+- The encoder uses symbols to communicate their message, such as words, gestures, images, sounds, etc.
+- The encoder has to consider the following factors when encoding a message:
+  - The context of the communication situation
+  - The characteristics and expectations of the receiver
+  - The channel and medium of communication
+  - The feedback and response from the receiver
+  - The potential barriers and noise that may affect the communication
+- Encoding is a crucial skill for oral communication, as it involves the use of voice and body language to convey meaning and emotion.
+- Encoding also requires the encoder to be aware of the following dimensions of oral communication:
+  - Verbal communication: the use of words and language to express ideas and information
+  - Nonverbal communication: the use of gestures, facial expressions, eye contact, posture, etc to reinforce or contradict the verbal message
+  - Vocal communication: the use of pitch, tone, volume, rate, etc to convey emotion and attitude
+  - Visual communication: the use of visual aids, such as graphs, charts, images, etc to support or illustrate the verbal message
+- Encoding can be improved by practicing the following techniques:
+  - Choosing appropriate words and symbols that suit the audience and the purpose
+  - Organizing the message in a clear and logical manner
+  - Using transitions and signposts to guide the audience through the message
+  - Using repetition and emphasis to highlight the main points and key ideas
+  - Using examples, stories, analogies, etc to make the message more concrete and relatable
+  - Using vocal variety and body language to enhance the message and engage the audience
+  - Using feedback and questions to check the understanding and interest of the audience
+  - Adapting the message to the situation and the feedback

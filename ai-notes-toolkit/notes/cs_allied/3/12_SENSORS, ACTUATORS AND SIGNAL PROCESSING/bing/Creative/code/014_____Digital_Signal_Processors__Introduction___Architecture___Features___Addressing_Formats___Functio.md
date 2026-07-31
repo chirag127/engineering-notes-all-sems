@@ -1,0 +1,31 @@
+### Digital Signal Processors: Introduction – Architecture – Features – Addressing Formats – Functional modes – Introduction to Commercial Processors
+
+- Introduction
+  - Digital Signal Processing is the process of representing signals in a discrete mathematical sequence of numbers and analyzing, modifying, and extracting the information contained in the signal by carrying out algorithmic operations and processing on the signal.
+  - Digital Signal Processors (DSP) are specialized microprocessors that take real-world signals like voice, audio, video, temperature, pressure, or position that have been digitized and then mathematically manipulate them.
+  - DSP evolved from Analog Signal Processors, using analog hardware to transform physical signals. DSP is insensitive to environment and has identical performance even with variations in components.
+- Architecture
+  - DSP architectures are mainly designed for supporting repetitive and numerically intensive tasks. Most DSPs include a powerful data path and also the capacity to move large amounts of data to memory quickly.
+  - DSP architectures can be classified into three types: accumulator, multiplier-accumulator, and very long instruction word (VLIW).
+    - Accumulator architecture: The accumulator is a register that stores the result of an arithmetic or logical operation. The accumulator can be used as an operand or a destination for an operation. The accumulator architecture is simple and efficient for basic operations.
+    - Multiplier-accumulator architecture: The multiplier-accumulator (MAC) is a unit that performs a multiplication followed by an addition in one cycle. The MAC can be used to implement complex operations such as convolution, filtering, and matrix multiplication. The MAC architecture is faster and more flexible than the accumulator architecture.
+    - Very long instruction word architecture: The very long instruction word (VLIW) architecture is a type of parallel processing that executes multiple operations in one instruction cycle. The VLIW instruction consists of several fields that specify the operations and operands for different functional units. The VLIW architecture can achieve high performance and parallelism, but requires more memory and compiler support.
+- Features
+  - Some of the common features of DSPs are :
+    - High-speed arithmetic units, such as MAC, that can perform multiple operations in one cycle.
+    - Specialized addressing modes, such as circular buffering, bit-reversed, and modulo, that can access data efficiently and reduce memory requirements.
+    - Hardware looping, that can execute loops without consuming instruction cycles for branch and compare operations.
+    - Single-cycle instruction execution, that can reduce the instruction overhead and increase the throughput.
+    - On-chip peripherals, such as serial ports, timers, and DMA controllers, that can interface with external devices and transfer data without CPU intervention.
+    - On-chip memory, such as cache, RAM, and ROM, that can store instructions and data close to the CPU and reduce the memory access latency.
+- Addressing Formats
+  - Addressing formats are the ways of specifying the location of operands in memory or registers. Some of the common addressing formats for DSPs are:
+    - Immediate addressing: The operand is a constant value that is part of the instruction. For example, `ADD #5, ACC` adds 5 to the accumulator.
+    - Direct addressing: The operand is a memory location that is specified by a 16-bit or 32-bit address. For example, `ADD 0x1000, ACC` adds the value stored at address 0x1000 to the accumulator.
+    - Indirect addressing: The operand is a memory location that is specified by a register that contains the address. For example, `ADD *AR0, ACC` adds the value stored at the address in register AR0 to the accumulator.
+    - Indexed addressing: The operand is a memory location that is specified by a register that contains the base address and an offset that is part of the instruction. For example, `ADD *AR0(5), ACC` adds the value stored at the address in register AR0 plus 5 to the accumulator.
+    - Register addressing: The operand is a register that contains the value. For example, `ADD R1, ACC` adds the value in register R1 to the accumulator.
+- Functional modes
+  - Functional modes are the ways of configuring the DSP to perform different tasks or operations. Some of the common functional modes for DSPs are:
+    - Normal mode: The DSP executes instructions sequentially from the program memory. This mode is used for general-purpose processing and control tasks.
+    - Interrupt mode: The DSP suspends the normal

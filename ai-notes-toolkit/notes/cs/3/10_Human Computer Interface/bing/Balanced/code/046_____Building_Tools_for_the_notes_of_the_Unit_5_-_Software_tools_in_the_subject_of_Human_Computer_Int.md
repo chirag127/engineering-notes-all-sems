@@ -1,0 +1,10 @@
+### Building Tools for Human Computer Interface
+
+Human computer interface (HCI) is the field of study that focuses on the design, evaluation, and implementation of interactive systems that involve people and computers. HCI aims to create user-friendly, efficient, and satisfying interfaces that meet the needs and preferences of the users.
+
+Building tools are software applications or libraries that help in the development, testing, and maintenance of HCI systems. Building tools can be classified into four categories:
+
+- **Interface Building Tools** - These are design methods that help in designing command languages, data-entry structures, and widgets. They provide graphical or textual representations of the interface elements and allow the designer to manipulate them. Examples of interface building tools are Adobe XD, Microsoft Visio, and Visual Studio.Net.
+- **Interface Mockup Tools** - These are tools to develop a quick sketch of the graphical user interface (GUI) without writing any code. They allow the designer to create low-fidelity prototypes that can be used for early feedback and evaluation. Examples of interface mockup tools are Balsamiq, Sketch, and Figma.
+- **Software Engineering Tools** - These are extensive programming tools that provide user interface management systems (UIMS). UIMS are software components that separate the presentation, interaction, and application logic of the interface. They allow the programmer to reuse and modify the interface without affecting the functionality. Examples of software engineering tools are Qt, Java Swing, and React.
+- **Evaluation Tools** - These are tools to evaluate the correctness, completeness, usability, and accessibility of the interface. They can be either automated or manual, and can involve different types of users and tasks. Examples of evaluation tools are eye-trackers, usability testing software, and accessibility checkers.

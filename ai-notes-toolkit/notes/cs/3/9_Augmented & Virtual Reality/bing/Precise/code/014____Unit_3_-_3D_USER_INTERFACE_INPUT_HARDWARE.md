@@ -1,0 +1,17 @@
+## Unit 3 - 3D USER INTERFACE INPUT HARDWARE
+
+3D user interface input hardware refers to the devices and technologies that allow users to interact with 3D environments and applications. These devices can range from traditional input devices such as keyboards and mice to more specialized devices such as 3D mice, motion controllers, and haptic devices.
+
+Some common types of 3D user interface input hardware include:
+
+1. **3D Mice:** A 3D mouse is a pointing device that allows users to manipulate 3D objects and navigate 3D environments. These devices often have additional buttons and controls that allow for more precise and intuitive control over 3D content.
+
+2. **Motion Controllers:** Motion controllers are input devices that allow users to interact with 3D environments using natural hand and arm movements. These devices often use sensors such as accelerometers and gyroscopes to track the movement and orientation of the user's hands.
+
+3. **Haptic Devices:** Haptic devices are input devices that provide tactile feedback to the user, allowing them to feel virtual objects and environments. These devices can range from simple vibration motors to more complex force feedback systems.
+
+4. **Gesture Recognition:** Gesture recognition technology allows users to interact with 3D environments using hand and body gestures. This can include simple gestures such as pointing and waving, as well as more complex gestures such as sign language.
+
+5. **Voice Recognition:** Voice recognition technology allows users to interact with 3D environments using spoken commands. This can include simple commands such as "move forward" or "turn left," as well as more complex commands and queries.
+
+These are just a few examples of the many types of 3D user interface input hardware available. The specific hardware used will depend on the needs and goals of the user and the application.

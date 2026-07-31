@@ -1,0 +1,14 @@
+## Unit 4 - Design dynamic web page using server site programming Ex. ASP/JSP/PHP
+
+- A dynamic web page is a web page that can display different content or layout depending on the user's input, preferences, or other factors  .
+- A server-side dynamic web page is a web page whose construction is controlled by an application server processing server-side scripts.
+- Server-side scripts are programs that run on the web server and generate HTML or other output that is sent to the web browser .
+- Examples of popular server-side web languages include PHP, Python, Ruby, C#, and JavaScript (NodeJS).
+- Server-side programming allows the web developer to create dynamic websites that can deliver customized information in response to HTTP requests, interact with databases, handle user authentication and authorization, and perform other complex tasks.
+- To design a dynamic web page using server-side programming, the web developer needs to:
+  - Choose a server-side web language and a web framework that supports it. A web framework is a set of tools and libraries that simplify common web development tasks and provide a consistent structure for the web application. Examples of web frameworks are Django (Python), Laravel (PHP), Rails (Ruby), ASP.NET (C#), and Express (JavaScript).
+  - Set up a web server that can run the server-side scripts and serve the web pages. A web server is a software that listens for HTTP requests and sends back HTTP responses. Examples of web servers are Apache, Nginx, IIS, and Node.js .
+  - Write the server-side scripts that define the logic and functionality of the web application. The server-side scripts can use various techniques to generate dynamic web pages, such as templating, scripting, or compiling. Templating is a method of inserting data into predefined HTML templates. Scripting is a method of embedding code snippets into HTML files. Compiling is a method of transforming source code into executable files.
+  - Connect the web application to a database or other data sources if needed. A database is a structured collection of data that can be queried and manipulated by the web application. Examples of databases are MySQL, PostgreSQL, MongoDB, and SQLite .
+  - Test and debug the web application using various tools and methods, such as logging, breakpoints, unit testing, and integration testing.
+  - Deploy the web application to a production environment, which is a web server that is accessible to the public or the intended users. The web developer needs to consider various factors, such as security, performance, scalability, and reliability, when deploying the web application.

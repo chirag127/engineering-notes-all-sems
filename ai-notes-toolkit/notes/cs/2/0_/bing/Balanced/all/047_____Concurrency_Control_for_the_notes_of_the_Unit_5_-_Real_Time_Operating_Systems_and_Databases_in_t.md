@@ -1,0 +1,28 @@
+# Concurrency Control for the notes of the Unit 5 - Real Time Operating Systems and Databases in the subject of Real Time System
+
+- Concurrency is the tendency for things to happen at the same time in a system.
+- Concurrency is a natural phenomenon, of course. In the real world, at any given time, many things are happening simultaneously.
+- When we design software to monitor and control real-world systems, we must deal with this natural concurrency.
+- Real-time systems (RTS) respond to their environment within specified time constraints.
+- RTS are inherently concurrent and typically manage shared data resources, so they require synchronization to ensure both logical and timing correctness.
+- Much research in managing shared data has been carried out in the context of database systems.
+- A database system is a collection of data and software that allows users to store, manipulate, and query data.
+- A real-time database system (RTDBS) is a database system that supports applications with timing constraints.
+- Transactions in RTDBS should be scheduled considering both data consistency and timing constraints.
+- In addition, a RTDBS must adapt to changes in the operating environment and guarantee the completion of critical transactions.
+- Concurrency control is the process of ensuring that concurrent transactions do not interfere with each other and preserve the consistency of the database.
+- Concurrency control in RTDBS is more challenging than in conventional database systems, because it must also consider the deadlines and priorities of transactions.
+- Concurrency control in RTDBS can be classified into two categories: pessimistic and optimistic.
+- Pessimistic concurrency control prevents conflicts from occurring by locking the data items accessed by transactions.
+- Optimistic concurrency control allows conflicts to occur and resolves them by aborting or restarting transactions.
+- Pessimistic concurrency control has the advantage of avoiding unnecessary aborts, but it may cause blocking and deadlock problems.
+- Optimistic concurrency control has the advantage of avoiding blocking and deadlock problems, but it may cause excessive aborts and restarts.
+- The choice of concurrency control technique depends on the characteristics of the application and the workload.
+- Some examples of concurrency control techniques for RTDBS are:
+  - Priority-based locking: a pessimistic technique that assigns locks based on the priorities of transactions.
+  - Two-phase locking with wait-die and wound-wait: a pessimistic technique that uses two rules to avoid deadlock and priority inversion.
+  - Timestamp ordering: a pessimistic technique that orders transactions based on their timestamps and aborts or delays conflicting transactions.
+  - Basic timestamp ordering: an optimistic technique that validates transactions based on their timestamps and aborts conflicting transactions.
+  - Multiversion concurrency control: an optimistic technique that maintains multiple versions of data items and allows transactions to access the appropriate version based on their timestamps.
+  - Epsilon serializability: an optimistic technique that relaxes the serializability criterion by allowing some degree of inconsistency within a predefined bound.
+- Concurrency control in RTDBS is an active research area that aims to improve the performance and reliability of real-time applications.

@@ -1,0 +1,21 @@
+### Gibbs sampling
+
+- Gibbs sampling is a Markov chain Monte Carlo (MCMC) algorithm for obtaining a sequence of observations which are approximated from a specified multivariate probability distribution, when direct sampling is difficult.
+- Gibbs sampling is based on the idea of sampling from the conditional distributions of each variable given the current values of the other variables.
+- Gibbs sampling can be used as a means of statistical inference, especially Bayesian inference, when the posterior distribution is too complex to sample from directly or to compute analytically .
+- Gibbs sampling consists of the following steps:
+  - Choose initial values for each variable in the multivariate distribution.
+  - For each iteration, do the following for each variable:
+    - Fix the current values of the other variables.
+    - Sample a new value for the variable from its conditional distribution given the current values of the other variables.
+    - Update the value of the variable with the sampled value.
+  - Repeat the iterations until convergence or a desired number of samples is obtained.
+- Gibbs sampling has some advantages and disadvantages compared to other MCMC methods, such as Metropolis-Hastings :
+  - Advantages:
+    - It does not require tuning parameters, such as proposal distributions or acceptance ratios.
+    - It can exploit the structure of the multivariate distribution, such as conditional independence or conjugacy, to simplify the sampling process.
+    - It can handle high-dimensional problems and complex dependencies among variables.
+  - Disadvantages:
+    - It can be slow to converge or mix, especially when the variables are strongly correlated or have very different scales.
+    - It can suffer from the curse of dimensionality, meaning that the number of iterations required to obtain a good approximation increases exponentially with the number of variables.
+    - It can be difficult to assess the convergence or the quality of the samples.

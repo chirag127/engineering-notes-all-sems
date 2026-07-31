@@ -1,0 +1,13 @@
+# Locks for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+- A lock is a variable associated with a data item that determines whether read/write operations can be performed on that data item.
+- Locking-based concurrency control protocols use locks to avoid concurrency problems between two transactions in such a way that the lock is applied on one transaction and another transaction can access it only when the lock is released.
+- Locks can be applied on read and write operations, and they can be of different types, such as shared, exclusive, or update locks.
+- A lock compatibility matrix is used to state whether a data item can be locked by two transactions at the same time. For example, two transactions can share a read lock on the same data item, but they cannot both have an exclusive write lock on it.
+- Locks can be granted or denied by a lock manager, which is a component of the distributed system that maintains the lock information and enforces the locking protocol.
+- Locks can be implemented at different levels of granularity, such as record, page, file, or table. The choice of granularity affects the performance and concurrency of the system.
+- Locks can also be classified as local or global, depending on whether they are applied on a single site or across multiple sites in the distributed system. Global locks require coordination and communication among the sites, which can increase the overhead and complexity of the system.
+- Locking-based concurrency control protocols can be further divided into two-phase locking (2PL), rigorous two-phase locking (R2PL), and tree-based locking (TBL) protocols.
+- 2PL protocol requires that a transaction acquires all the locks it needs before releasing any lock, and it releases all the locks at the end of the transaction. This ensures serializability, but it can cause deadlocks and reduce concurrency.
+- R2PL protocol is a stricter version of 2PL that requires that a transaction releases all the locks only after it commits or aborts. This ensures strict serializability and avoids cascading aborts, but it can also cause deadlocks and reduce concurrency.
+- TBL protocol is a variant of 2PL that organizes the data items into a tree structure and requires that a transaction locks the data items in a top-down order and releases them in a bottom-up order. This avoids deadlocks, but it can also reduce concurrency and increase locking overhead.

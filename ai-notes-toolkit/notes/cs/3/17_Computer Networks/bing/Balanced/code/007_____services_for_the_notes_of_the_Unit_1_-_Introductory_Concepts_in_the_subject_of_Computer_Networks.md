@@ -1,0 +1,23 @@
+### Services for the notes of the Unit 1 - Introductory Concepts in the subject of Computer Networks
+
+- A service is a set of functions or capabilities that a network provides to its users or applications.
+- A service can be classified as either connection-oriented or connectionless, depending on whether it requires the establishment of a connection before data transfer or not.
+- A service can also be classified as either reliable or unreliable, depending on whether it guarantees the delivery of data or not.
+- Some examples of services are:
+  - File transfer service: allows users to transfer files from one host to another.
+  - Email service: allows users to send and receive messages.
+  - Web service: allows users to access web pages and other resources on the internet.
+  - Streaming service: allows users to receive continuous media data, such as audio or video.
+  - Remote login service: allows users to access a remote host and execute commands.
+  - Voice over IP service: allows users to make voice calls over the internet.
+- A service is provided by a layer of the network architecture, which is a logical grouping of functions and protocols that operate at a certain level of abstraction.
+- A network architecture can be divided into several layers, such as the application layer, the transport layer, the network layer, the data link layer, and the physical layer.
+- Each layer provides a service to the layer above it, and uses the service of the layer below it.
+- Each layer has a set of protocols that define the rules and formats for communication within the layer and with the adjacent layers.
+- A protocol is a set of rules that govern the exchange of messages between two or more entities.
+- A message is a unit of data that is transmitted from one entity to another.
+- A message can be divided into several parts, such as the header, the payload, and the trailer.
+- The header contains information that is needed by the protocol, such as the source and destination addresses, the type of message, and the sequence number.
+- The payload contains the actual data that is being transferred, such as the file, the email, or the web page.
+- The trailer contains information that is used for error detection and correction, such as the checksum or the cyclic redundancy check.
+- A message can also be called a packet, a frame, or a bit, depending on the layer that is handling it.

@@ -1,0 +1,12 @@
+# Robot Applications in Artificial Intelligence
+
+- Artificial intelligence (AI) is the branch of computer science that deals with creating machines or software that can perform tasks that normally require human intelligence, such as reasoning, learning, planning, decision making, perception, etc.
+- Robotics is the branch of engineering that deals with designing, constructing, operating, and controlling machines that can perform physical tasks, such as moving, manipulating, sensing, etc.
+- AI and robotics are closely related and often combined to create intelligent robots that can interact with their environment and perform complex tasks autonomously or collaboratively with humans.
+- Some of the applications of AI and robotics are:
+
+  - **Industrial robots**: These are robots that are used in manufacturing, assembly, welding, painting, packaging, etc. They can perform repetitive, precise, and hazardous tasks with high speed and accuracy. Examples of industrial robots are KUKA, ABB, Fanuc, etc.
+  - **Service robots**: These are robots that are used to provide various services to humans, such as cleaning, delivery, security, entertainment, education, healthcare, etc. They can operate in different environments and interact with people and objects. Examples of service robots are Roomba, Pepper, Spot, etc.
+  - **Autonomous vehicles**: These are vehicles that can drive themselves without human intervention, using sensors, cameras, GPS, maps, and AI algorithms. They can navigate complex traffic situations, avoid obstacles, and follow traffic rules. Examples of autonomous vehicles are Tesla, Waymo, Uber, etc.
+  - **Drones**: These are unmanned aerial vehicles that can fly in the air, using propellers, wings, or jets. They can perform various tasks, such as surveillance, reconnaissance, delivery, photography, agriculture, etc. They can communicate with each other and with ground stations, using wireless networks and AI techniques. Examples of drones are DJI, Parrot, Skydio, etc.
+  - **Humanoid robots**: These are robots that resemble human beings in appearance, movement, and behavior. They can perform tasks that require human-like skills, such as walking, talking, facial expression, gesture, etc. They can also interact with humans in natural and social ways, using speech, vision, touch, and emotion recognition. Examples of humanoid robots are Sophia, Atlas, Asimo, etc.

@@ -1,0 +1,9 @@
+### Wireless Displays in Educational Augmented Reality Applications
+
+1. **Introduction:** Wireless displays can be used to transmit uncompressed stereoscopic video signals to wireless displays in real-time. Two output devices, a stereoscopic head-mounted display (HMD) and a TFT display module, have been adapted to act as wireless receivers to display wirelessly streamed AR content.
+
+2. **Advantages:** Wireless displays have several advantages for educational AR applications. By way of example, two educational AR applications have been presented which were used to demonstrate and test wireless displays. A number of teaching scenarios have been described where teachers and students greatly benefit from the use of wireless displays.
+
+3. **Collaboration:** If many users collaborate in a virtual environment, personal displays (e.g. head-mounted displays) can be used to deliver user-specific views or context-sensitive information to each user privately.
+
+4. **Usability:** The use of wireless displays can help to overcome usability problems associated with wired displays. For example, in a collaborative, educational, augmented reality application used by six students simultaneously, the number of cables of HMDs was a major hindrance for practical usage. Cables lie on the floor and tend to get tangled as soon as participants start to move. Users have to be very careful not to stumble over cables. As a further consequence, movement and interaction are restricted and the number of displays/users has to be limited. Therefore, wireless solutions to deliver personalized content to users have been developed.

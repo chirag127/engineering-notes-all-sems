@@ -1,0 +1,12 @@
+### Service Orientation in Daily Life
+
+- Service orientation is the ability and desire to anticipate, recognize and meet others' needs, sometimes even before those needs are articulated.
+- Service orientation is also the ability to recognize and act on one's responsibilities to society, locally, nationally, and globally.
+- Service orientation is an important workplace skill that can enhance social awareness, customer satisfaction, and organizational performance.
+- Service orientation can be demonstrated and incorporated into daily life in various ways, such as:
+
+  - Checking in with your people: A phone call or short text message to check in with the folks in your life is a simple way to let them know they’re important to you. It can also help you identify and address any issues or concerns they may have.
+  - If you’ve got it, give it: If you have any resources, skills, or talents that can benefit others, consider sharing them with those who need them. For example, you can donate money, clothes, food, or books to a local charity, or offer your expertise, time, or mentorship to someone who can benefit from it.
+  - Volunteer at a local organization: Volunteering is a great way to serve your community and make a positive impact on the lives of others. You can choose an organization that aligns with your values, interests, or passions, and contribute your skills, energy, or ideas to their cause.
+  - Do what you’re doing, but better: Whatever you do in your daily life, whether it’s studying, working, or pursuing a hobby, you can always strive to do it better and more efficiently. By improving your performance and productivity, you can provide more value to yourself and others, and also set an example for others to follow.
+  - Take responsibility for your impact: Everything you do has an impact on the world around you, whether it’s positive or negative. You can be more service-oriented by being mindful of your actions and their consequences, and taking steps to minimize any harm and maximize any benefit you can create. For example, you can reduce your environmental footprint by recycling, reusing, or avoiding waste, or you can increase your social contribution by being kind, respectful, and helpful to others.

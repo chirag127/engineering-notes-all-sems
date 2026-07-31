@@ -1,0 +1,9 @@
+## Unit 5 - Digital Electronics
+
+- Digital electronics is the branch of electronics that deals with binary numbers, logic gates, digital circuits, and systems that process and manipulate digital signals.
+- Binary numbers are numbers that use only two symbols, 0 and 1, to represent any value. They are the basis of digital electronics, as they can be easily stored and manipulated by electronic devices.
+- Logic gates are electronic devices that perform basic logical operations, such as AND, OR, NOT, NAND, NOR, XOR, and XNOR, on binary inputs and outputs. They are the building blocks of digital circuits and systems.
+- Digital circuits are combinations of logic gates that perform specific functions, such as arithmetic, memory, encoding, decoding, multiplexing, demultiplexing, etc. They can be classified into two types: combinational and sequential.
+- Combinational circuits are digital circuits that produce outputs that depend only on the current inputs, regardless of the previous inputs or outputs. Examples of combinational circuits are adders, subtractors, encoders, decoders, multiplexers, demultiplexers, etc.
+- Sequential circuits are digital circuits that produce outputs that depend on both the current and the previous inputs or outputs. They have memory elements, such as flip-flops, latches, registers, counters, etc., that store the state of the circuit. Examples of sequential circuits are shift registers, counters, state machines, etc.
+- Digital systems are collections of digital circuits that perform complex functions, such as microprocessors, microcontrollers, computers, digital communication systems, etc. They can be designed using hardware description languages, such as VHDL, Verilog, etc., and implemented using programmable logic devices, such as FPGA, CPLD, etc.

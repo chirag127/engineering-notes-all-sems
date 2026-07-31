@@ -1,0 +1,10 @@
+### Physical interpretation of wave function
+
+- A wave function is a mathematical function that describes the quantum state of a particle or a system of particles.
+- A wave function is usually denoted by the symbol \(\psi\) (psi) and depends on the spatial coordinates and time of the particle or system.
+- A wave function has no physical interpretation by itself, as it is not a measurable quantity. It is a complex function, meaning that it can have both real and imaginary parts.
+- However, the square of the absolute value (or modulus) of the wave function, \(|\psi|^2\), has a physical interpretation. It represents the probability density of finding the particle or system in a certain location at a given instant.
+- The probability density is normalized, meaning that the integral of \(|\psi|^2\) over all space and time is equal to one. This ensures that the total probability of finding the particle or system somewhere and sometime is 100%.
+- The wave function also contains information about the momentum, energy, angular momentum, spin, and other physical properties of the particle or system. These properties can be obtained by applying certain operators to the wave function and finding the expectation values or the eigenvalues of the operators.
+- The wave function evolves in time according to the Schrödinger equation, which is a partial differential equation that relates the wave function to the potential energy of the particle or system. The Schrödinger equation is one of the fundamental equations of quantum mechanics and describes how the quantum state changes over time.
+- The wave function is subject to various interpretations and philosophical debates, as it implies some counterintuitive and paradoxical phenomena, such as the uncertainty principle, the superposition principle, the collapse of the wave function, and the entanglement of quantum states. Different interpretations of the wave function have different implications for the nature of reality, causality, determinism, and free will.

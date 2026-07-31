@@ -1,0 +1,10 @@
+# Data representation and visualization for the notes of the Unit 2 - Reference Architecture in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- Data representation and visualization are important aspects of IoT systems, as they enable users to understand and interact with the data collected and processed by various smart devices and sensors.
+- Data representation refers to the way data is stored, transmitted, and encoded in IoT systems. Data representation can affect the performance, scalability, security, and interoperability of IoT systems. Some of the common data representation formats used in IoT are JSON, XML, CBOR, EXI, and SenML.
+- Data visualization refers to the way data is presented and displayed to users in IoT systems. Data visualization can help users to gain insights, identify patterns and trends, and make informed decisions based on the data. Some of the common data visualization techniques used in IoT are charts, graphs, maps, dashboards, and widgets.
+- Data analysis and data visualization play a huge role in an IoT dashboard, which is a web-based application that collects data from different smart devices in real-time and converts it into human-readable information.
+- Data visualization shows great efficiency when it comes to large series of data, as it can reduce the cognitive load and enhance the perception of the users.
+- Data visualization in IoT can also support various use cases and scenarios, such as monitoring, control, prediction, optimization, and anomaly detection.
+- Data visualization in IoT faces some challenges, such as the heterogeneity, volume, velocity, and veracity of the data, the diversity of the users and their needs, the security and privacy of the data, and the usability and accessibility of the visualization tools.
+- Data visualization in IoT requires some best practices, such as choosing the right data representation format, selecting the appropriate visualization technique, designing the visualization for the target audience, ensuring the quality and reliability of the data, and evaluating the effectiveness and usefulness of the visualization.

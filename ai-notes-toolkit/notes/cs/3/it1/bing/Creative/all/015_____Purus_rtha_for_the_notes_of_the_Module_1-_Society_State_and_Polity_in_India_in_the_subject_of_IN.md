@@ -1,0 +1,9 @@
+# Purusārtha
+
+- Purusārtha is a Sanskrit word that means "object (ive) of men" or "human endeavour".
+- It is a key concept in Hinduism, and refers to the four proper goals or aims of a human life. They are: Dharma, Artha, Kama, and Moksha. 
+- Dharma means "righteousness", "duty", or "ethics". It is the moral law that guides one's actions and responsibilities in accordance with one's nature, stage of life, and society. It is also the cosmic order that sustains the universe. 
+- Artha means "wealth", "prosperity", or "economic values". It is the pursuit of material well-being and security that enables one to fulfill one's Dharma and support one's family and society. It also includes the acquisition of knowledge, skills, and power. 
+- Kama means "desire", "pleasure", or "love". It is the enjoyment of the senses, emotions, and relationships that enriches one's life and makes it worth living. It also includes the expression of one's creativity and talents. Kama should be in harmony with Dharma and Artha, and not lead to attachment or suffering. 
+- Moksha means "liberation", "freedom", or "salvation". It is the ultimate goal of human life, and the release from the cycle of birth and death (samsara) that is caused by ignorance (avidya) and karma. It is the realization of one's true nature as the immortal self (atman) that is identical with the supreme reality (brahman). 
+- The four purusārthas are the inherent values of the universe, and the blueprint for human fulfillment. They offer a way for evaluating one's life and making good decisions. They also provide a framework for understanding the different aspects of Hindu culture, such as the varna (social classes), ashrama (stages of life), and darsana (philosophical schools).

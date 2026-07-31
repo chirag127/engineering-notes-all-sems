@@ -1,0 +1,22 @@
+# Applications and Architectures of High Performance Grids
+
+- A **grid** is a distributed system that enables the sharing and coordinated use of heterogeneous resources across multiple administrative domains .
+- A **high performance grid** is a grid that can harness the power of an arbitrarily large collection of computing resources to meet the needs of compute intensive applications .
+- Some examples of high performance grid applications are:
+  - Scientific simulations, such as finite element models, climate models, molecular dynamics, etc.
+  - Data-intensive applications, such as data mining, bioinformatics, astronomy, etc.
+  - Collaborative applications, such as telemedicine, virtual reality, e-learning, etc.
+- The main challenges of high performance grid computing are:
+  - Resource heterogeneity, such as different hardware, software, network, security, etc.
+  - Resource dynamism, such as resource availability, performance, reliability, etc.
+  - Resource coordination, such as resource discovery, allocation, scheduling, monitoring, etc.
+  - Resource management, such as resource access, security, accounting, etc.
+- A typical high performance grid architecture consists of four layers :
+  - The **fabric layer**, which provides the basic resources, such as processors, storage, networks, sensors, etc.
+  - The **connectivity layer**, which provides the communication and authentication services, such as protocols, security, etc.
+  - The **resource layer**, which provides the resource management and coordination services, such as discovery, allocation, scheduling, monitoring, etc.
+  - The **application layer**, which provides the grid applications and development toolkits, such as libraries, frameworks, etc.
+- Some examples of high performance grid architectures are:
+  - The **Open Grid Services Architecture (OGSA)**, which defines a set of standard interfaces and behaviors for grid services based on web services technologies.
+  - The **Globus Toolkit**, which provides a set of software components for implementing grid services based on OGSA.
+  - The **MicroGrid**, which provides a simulation environment for forecasting the behavior of grid applications in new grid architectures.

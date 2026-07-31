@@ -1,0 +1,22 @@
+# Pipelining
+
+- Pipelining is a technique for breaking down a sequential process into various sub-operations and executing each sub-operation in its own dedicated segment that runs in parallel with all other segments.
+- Pipelining defines the temporal overlapping of processing. It allows storing and executing instructions in an orderly process. It is also known as pipeline processing.
+- Pipelining improves the performance of a computer system by increasing the instruction throughput, which is the number of instructions executed per unit time.
+- A pipeline has two ends, the input end and the output end. Between these ends, there are several stages that perform different operations on the instructions or data.
+- Interface registers are used to hold the intermediate output between two stages. These interface registers are also called pipeline latches or pipeline buffers.
+- All the stages in the pipeline along with the interface registers are synchronized by a common clock signal.
+- The basic steps involved in a pipelined instruction execution are:
+  - Fetch instructions from memory.
+  - Read the input register, and decode the instruction.
+  - Execute the instruction.
+  - Access an operand in data memory.
+  - Write the result of the operation into the output register.
+- The advantages of pipelining are:
+  - It increases the instruction throughput by overlapping the execution of multiple instructions.
+  - It reduces the average instruction execution time by dividing the instruction cycle into smaller sub-cycles.
+  - It improves the utilization of hardware resources by keeping them busy with different operations.
+- The disadvantages of pipelining are:
+  - It introduces pipeline hazards, which are situations that prevent the next instruction from executing in the proper clock cycle. Pipeline hazards can be classified into three types: data hazards, control hazards, and structural hazards.
+  - It increases the complexity of the design and implementation of the processor, as it requires additional hardware components and logic circuits to handle the pipeline hazards and synchronization issues.
+  - It increases the power consumption and heat dissipation of the processor, as more transistors are switched on and off in each clock cycle.

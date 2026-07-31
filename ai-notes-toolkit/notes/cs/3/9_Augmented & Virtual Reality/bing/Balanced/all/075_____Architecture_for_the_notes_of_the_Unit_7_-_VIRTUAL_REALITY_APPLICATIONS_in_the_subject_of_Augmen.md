@@ -1,0 +1,19 @@
+# Architecture for the notes of the Unit 7 - VIRTUAL REALITY APPLICATIONS in the subject of Augmented & Virtual Reality
+
+- Virtual reality (VR) is a technology that allows users to experience immersive and interactive simulations of real or imaginary environments.
+- VR applications for architecture are software tools that enable architects to design, visualize, and communicate their projects in 3D, using VR headsets, controllers, and sensors.
+- VR applications for architecture can offer various benefits, such as:
+  - Enhancing creativity and innovation by allowing architects to explore different design options and scenarios in a realistic way.
+  - Improving collaboration and feedback by enabling architects to share their VR models with clients, colleagues, and stakeholders, and to receive their input and suggestions in real time.
+  - Reducing costs and errors by allowing architects to test and validate their designs before construction, and to identify and solve potential issues and conflicts.
+  - Increasing customer satisfaction and engagement by allowing architects to present their designs in a more immersive and convincing way, and to involve customers in the design process.
+- Some examples of VR applications for architecture are:
+  - ARki: A mixed reality application that allows architects to superimpose their 3D models on the real world, using a smartphone or tablet camera. ARki can be used to visualize how a building might look on a site, to compare different design alternatives, and to showcase the project to clients and the public.
+  - Storyboard VR: A free prototyping and visualization tool that allows architects to create and edit VR scenes using a drag-and-drop interface. Storyboard VR can be used to sketch out ideas, to create immersive presentations, and to collaborate with other users in VR.
+  - Pair: A VR application that allows architects to create and customize 3D models of furniture, fixtures, and appliances, and to place them in a virtual room. Pair can be used to design and furnish interior spaces, to test different layouts and styles, and to share the results with clients and partners.
+  - SmartReality: A VR application that allows architects to view their 3D models in VR, using a smartphone and a VR headset. SmartReality can be used to explore the project from different perspectives, to measure distances and dimensions, and to annotate and share the VR model with others.
+  - Fuzor: A VR application that allows architects to import their 3D models from various software platforms, such as Revit, SketchUp, and Rhino, and to view them in VR, using a PC and a VR headset. Fuzor can be used to perform various tasks, such as lighting analysis, clash detection, walkthroughs, and animations.
+- Some tips to get started with VR in architecture are:
+  - Choose the right VR hardware and software for your needs and budget. There are various options available, ranging from low-cost smartphone-based VR systems, such as Google Cardboard, to high-end PC-based VR systems, such as Oculus Rift and HTC Vive.
+  - Learn the basics of VR design and development. There are various online courses, tutorials, and resources that can help you learn how to create and optimize VR models, scenes, and interactions, using different tools and platforms, such as Unity, Unreal Engine, and Sketchfab.
+  - Experiment and iterate with VR. VR is a new and evolving technology, so it is important to test and refine your VR models and experiences, using feedback from yourself, your clients, and your users. You can also learn from other VR projects and examples, and seek inspiration and guidance from the VR community.

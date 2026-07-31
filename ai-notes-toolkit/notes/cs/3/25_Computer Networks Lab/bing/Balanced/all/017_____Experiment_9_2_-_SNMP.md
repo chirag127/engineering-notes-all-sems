@@ -1,0 +1,9 @@
+# Experiment 9.2 - SNMP
+
+- SNMP stands for Simple Network Management Protocol. It is a way for different devices on a network to share information about their current state, and also a channel through which an administrator can modify pre-defined values .
+- SNMP is widely used in network management for network monitoring. SNMP exposes management data in the form of variables on the managed systems organized in a management information base (MIB) which describe the system status and configuration.
+- SNMP is a component of the Internet Protocol Suite as defined by the Internet Engineering Task Force (IETF). It consists of a set of standards for network management, including an application layer protocol, a database schema, and a set of data objects.
+- SNMP operates on a client-server model, where the client is called a manager and the server is called an agent. The manager sends requests to the agent and the agent responds with the requested information or performs the requested action.
+- SNMP uses four basic operations: GET, SET, GETNEXT, and TRAP. GET is used to retrieve a value from an agent, SET is used to modify a value on an agent, GETNEXT is used to retrieve the next value in a MIB, and TRAP is used to send an unsolicited notification from an agent to a manager.
+- SNMP uses a simple data format called SNMP messages, which consist of a header and a payload. The header contains the SNMP version, the community name, and the message type. The payload contains the variable bindings, which are pairs of object identifiers (OIDs) and values.
+- SNMP supports three versions: SNMPv1, SNMPv2c, and SNMPv3. SNMPv1 is the original version, which has limited security and functionality. SNMPv2c is an extension of SNMPv1, which adds support for 64-bit counters, bulk operations, and improved error handling. SNMPv3 is the latest version, which adds support for encryption, authentication, and access control.

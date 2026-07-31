@@ -1,0 +1,21 @@
+# Unit 1 - Introduction, issues in mobile computing, overview of wireless telephony: cellular concept, GSM:
+
+- Mobile computing is the use of portable devices that can access and process data over wireless networks.
+- Mobile computing enables users to communicate, access information, and perform tasks anytime and anywhere, without being constrained by physical location or wired connections.
+- Mobile computing involves the interaction of mobile devices, wireless networks, and cloud services.
+- Some of the issues and challenges in mobile computing are:
+  - Limited battery life and processing power of mobile devices.
+  - Heterogeneous and dynamic wireless network conditions, such as bandwidth, latency, and coverage.
+  - Security and privacy risks due to wireless transmission and data storage on cloud servers.
+  - User interface design and usability for small screens and touch inputs.
+  - Application development and testing for multiple platforms and devices.
+- Wireless telephony is the transmission of voice and data over radio waves, without using wires or cables.
+- Wireless telephony enables users to make and receive phone calls, send and receive text messages, and access the internet using mobile phones or other wireless devices.
+- Wireless telephony is based on the cellular concept, which divides a geographical area into smaller regions called cells, each served by a base station that communicates with mobile devices within its range.
+- The base stations are connected to a central switching system that routes the calls and data between different cells and networks.
+- The cellular concept allows for efficient use of the radio spectrum, as different cells can use the same frequency channels without interfering with each other, as long as they are sufficiently separated.
+- GSM (Global System for Mobile Communication) is a standard developed by the European Telecommunications Standards Institute (ETSI) to describe the protocols for second-generation digital cellular networks used by mobile devices such as mobile phones and tablets.
+- GSM is an open and digital cellular technology that uses a combination of frequency division multiple access (FDMA) and time division multiple access (TDMA) to transmit voice and data over radio channels.
+- GSM uses four different frequency bands of 850 MHz, 900 MHz, 1800 MHz and 1900 MHz, depending on the region and the operator.
+- GSM provides services such as voice calls, text messages, data transmission, roaming, encryption, and authentication.
+- GSM is widely used by mobile phone users in Europe and other parts of the world, and is compatible with other standards such as GPRS, EDGE, UMTS, and LTE.

@@ -1,0 +1,20 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the content for the topic of null hypothesis for the notes of the Module V: Statistical Techniques III in the subject of Mathematics-IV KCS.
+
+### Null hypothesis
+
+- A null hypothesis is a statement that assumes that there is no difference or relationship between two or more variables or populations.
+- A null hypothesis is usually denoted by H0 and is often the opposite of the alternative hypothesis, which is denoted by H1 or Ha and is the statement that we want to test or support with evidence.
+- A null hypothesis can be simple or complex, depending on the number of variables or populations involved and the type of difference or relationship being tested.
+- For example, a simple null hypothesis could be: H0: The mean height of male students is equal to the mean height of female students.
+- A complex null hypothesis could be: H0: There is no interaction effect between gender and age on the mean score of a math test.
+- A null hypothesis is usually tested using a statistical method, such as a t-test, ANOVA, chi-square test, or correlation test, depending on the type and level of data available and the research question being asked.
+- A null hypothesis is rejected or not rejected based on the p-value of the test statistic, which is the probability of obtaining the observed result or more extreme under the assumption that the null hypothesis is true.
+- A null hypothesis is rejected if the p-value is less than or equal to a predetermined significance level, usually 0.05 or 0.01, which means that the observed result is very unlikely to occur by chance if the null hypothesis is true.
+- A null hypothesis is not rejected if the p-value is greater than the significance level, which means that the observed result is not very unusual or surprising under the null hypothesis.
+- A null hypothesis can also be rejected or not rejected based on the confidence interval of the test statistic, which is a range of values that contains the true value of the parameter of interest with a certain level of confidence, usually 95% or 99%.
+- A null hypothesis is rejected if the confidence interval does not include the value specified by the null hypothesis, which means that the null hypothesis is not compatible with the data.
+- A null hypothesis is not rejected if the confidence interval includes the value specified by the null hypothesis, which means that the null hypothesis is plausible given the data.
+- A null hypothesis can never be proven to be true or false, only rejected or not rejected based on the available evidence. A null hypothesis can also be false positive or false negative, depending on the type of error made in the testing process.
+- A false positive occurs when a null hypothesis is rejected when it is actually true, which is also known as a type I error or alpha error. The probability of making a type I error is equal to the significance level of the test.
+- A false negative occurs when a null hypothesis is not rejected when it is actually false, which is also known as a type II error or beta error. The probability of making a type II error depends on the power of the test, which is the probability of rejecting a false null hypothesis. The power of the test is influenced by the sample size, the effect size, and the significance level of the test.
+- A null hypothesis is an important tool for conducting statistical inference and hypothesis testing, which are essential for scientific research and decision making. A null hypothesis helps to establish a baseline or reference point for comparing the observed data with the expected data under a certain assumption. A null hypothesis also helps to control the type I error rate and to evaluate the strength of the evidence against or for the alternative hypothesis.

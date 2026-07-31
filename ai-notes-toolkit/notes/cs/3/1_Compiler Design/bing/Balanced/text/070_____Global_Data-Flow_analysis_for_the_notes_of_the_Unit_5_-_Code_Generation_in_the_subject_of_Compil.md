@@ -1,0 +1,30 @@
+### Global Data-Flow Analysis for the Notes of the Unit 5 - Code Generation in the Subject of Compiler Design
+
+- Global data-flow analysis is a technique to efficiently optimize the code by collecting and distributing information about the program to each block of the flow graph  .
+- A flow graph is a representation of the control flow of a program, where each node is a basic block and each edge is a possible transfer of control.
+- A basic block is a sequence of instructions that has a single entry point and a single exit point.
+- Data-flow analysis is the analysis of the flow of data in the flow graph, i.e., the analysis that determines the information regarding the definition and use of data in the program.
+- Data-flow analysis can help perform various optimizations, such as constant propagation, dead code elimination, common subexpression elimination, etc.
+- Data-flow analysis can be classified into two types: forward and backward.
+  - Forward analysis is when the information flows from the entry of the flow graph to the exit, following the direction of control flow.
+  - Backward analysis is when the information flows from the exit of the flow graph to the entry, opposite to the direction of control flow.
+- Data-flow analysis can also be classified into two types: local and global.
+  - Local analysis is when the information is computed within each basic block, without considering the effects of other blocks.
+  - Global analysis is when the information is computed across the basic blocks, taking into account the effects of other blocks.
+- Global data-flow analysis requires solving a system of data-flow equations for each program point, which are derived from the data-flow properties of each instruction.
+- Data-flow equations can be solved using iterative or non-iterative methods, such as fixed-point iteration, worklist algorithm, etc.
+- Data-flow equations can be expressed using data-flow frameworks, which consist of four components: domain, direction, transfer function, and meet operator.
+  - Domain is the set of possible values of the data-flow information.
+  - Direction is the direction of the data-flow analysis, either forward or backward.
+  - Transfer function is the function that computes the output data-flow information from the input data-flow information for each instruction.
+  - Meet operator is the operator that combines the data-flow information from different paths for each program point.
+- Data-flow frameworks can be categorized into four types: distributive, semi-distributive, non-distributive, and monotone.
+  - Distributive frameworks are those where the meet operator distributes over the transfer function, i.e., meet(f(x), f(y)) = f(meet(x, y)) for any x and y in the domain.
+  - Semi-distributive frameworks are those where the meet operator distributes over the transfer function for some but not all x and y in the domain.
+  - Non-distributive frameworks are those where the meet operator does not distribute over the transfer function for any x and y in the domain.
+  - Monotone frameworks are those where the meet operator is monotone, i.e., meet(x, y) ≤ x and meet(x, y) ≤ y for any x and y in the domain, where ≤ is a partial order relation.
+- Some examples of global data-flow analysis are:
+  - Reaching definitions: a forward, distributive, and monotone framework that computes for each program point the set of definitions that may reach that point.
+  - Available expressions: a forward, distributive, and monotone framework that computes for each program point the set of expressions that are available at that point, i.e., they have been computed and not killed along all paths to that point.
+  - Live variables: a backward, distributive, and monotone framework that computes for each program point the set of variables that are live at that point, i.e., they are used in some path from that point to the exit.
+  - Very busy expressions: a backward, distributive, and monotone framework that computes for each program point the set of expressions that are very busy at that point, i.e., they are used in all paths from that point to the exit and not killed along any path.

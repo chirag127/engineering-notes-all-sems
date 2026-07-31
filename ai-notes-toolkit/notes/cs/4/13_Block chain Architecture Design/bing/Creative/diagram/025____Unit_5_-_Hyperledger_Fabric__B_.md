@@ -1,0 +1,17 @@
+## Unit 5 - Hyperledger Fabric (B)
+
+Hyperledger Fabric is an open source project from the Linux Foundation that provides a modular blockchain framework and a de facto standard for enterprise blockchain platforms  . It is intended as a foundation for developing applications or solutions with a plug-and-play architecture that satisfies a broad range of industry use cases .
+
+Some of the key features and benefits of Hyperledger Fabric are:
+
+- **Permissioned and private**: Hyperledger Fabric allows participants to control who can join the network, access the data, and execute transactions. This ensures data privacy, confidentiality, and compliance with regulations  .
+- **Modular and extensible**: Hyperledger Fabric allows components, such as consensus and membership services, to be plug-and-play. It also supports different programming languages, such as Go, Java, and Node.js, for developing smart contracts   .
+- **Scalable and performant**: Hyperledger Fabric can handle high transaction volumes and low latency by using a novel approach called "channels", which are private subnets of communication between two or more network members. Channels enable parallel processing and isolation of transactions, thus improving scalability and performance  .
+- **Secure and resilient**: Hyperledger Fabric uses cryptographic mechanisms, such as digital signatures and encryption, to ensure the integrity and authenticity of transactions and data. It also leverages a distributed ledger and a peer-to-peer network to provide fault tolerance and resilience against attacks  .
+
+Hyperledger Fabric has released its 2.0 version in January 2020, which introduces several enhancements and new features, such as:
+
+- **Decentralized governance for smart contracts**: Hyperledger Fabric 2.0 allows network members to agree on the parameters and policies for deploying and upgrading smart contracts, without requiring a central authority or a system channel. This enables more flexibility and autonomy for network participants.
+- **New chaincode lifecycle**: Hyperledger Fabric 2.0 simplifies the process of installing, approving, and committing chaincode (the term for smart contracts in Hyperledger Fabric) on the network. It also allows network members to query the chaincode definition and endorsement policy before invoking the chaincode, thus improving transparency and trust.
+- **Improved performance and scalability**: Hyperledger Fabric 2.0 improves the performance and scalability of the network by implementing a new ordering service capability called Raft, which is based on a crash fault tolerant consensus algorithm. Raft allows ordering nodes to elect a leader and replicate transactions across the network in a consistent and reliable way.
+- **Enhanced data privacy**: Hyperledger Fabric 2.0 enhances the data privacy features of the network by supporting implicit collections and private data enhancements. Implicit collections are private data collections that are automatically generated for each organization in a collection configuration, without requiring explicit definition. Private data enhancements allow network members to purge private data after a certain period of time, or to retrieve private data from other peers if they are missing or corrupted.

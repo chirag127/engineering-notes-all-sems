@@ -1,0 +1,15 @@
+## Unit 6 - Transport Layer
+
+The transport layer is the fourth layer of the OSI model and the third layer of the TCP/IP model. It is responsible for providing end-to-end communication between applications and ensuring reliable and efficient data transfer.
+
+Some of the main functions of the transport layer are:
+
+- **Segmentation and reassembly**: The transport layer divides the data received from the application layer into smaller units called segments, which are then sent to the network layer. Each segment has a header that contains information such as source and destination port numbers, sequence and acknowledgment numbers, and checksum. The transport layer at the receiving end reassembles the segments into the original data and delivers it to the application layer.
+- **Connection management**: The transport layer establishes, maintains, and terminates connections between applications. It uses a three-way handshake to initiate a connection, a four-way handshake to terminate a connection, and a sliding window protocol to control the flow and congestion of data.
+- **Error detection and correction**: The transport layer detects and corrects errors that may occur during data transmission. It uses checksums to verify the integrity of the segments and acknowledgment messages to confirm the receipt of segments. It also uses timers and retransmission mechanisms to handle lost or corrupted segments.
+- **Multiplexing and demultiplexing**: The transport layer enables multiple applications to share the same network resources by using port numbers to identify and distinguish different applications. It also enables a single application to communicate with multiple destinations by using different port numbers for each destination. This process of assigning port numbers to segments is called multiplexing, and the reverse process of delivering segments to the correct applications is called demultiplexing.
+
+The two most common transport layer protocols are:
+
+- **Transmission Control Protocol (TCP)**: TCP is a connection-oriented, reliable, and full-duplex protocol that provides reliable and ordered delivery of data. It uses a three-way handshake to establish a connection, a sliding window protocol to control the flow and congestion of data, and a four-way handshake to terminate a connection. It also uses checksums, acknowledgments, timers, and retransmissions to ensure error-free data transfer. TCP is suitable for applications that require high reliability and accuracy, such as web browsing, email, file transfer, and remote login.
+- **User Datagram Protocol (UDP)**: UDP is a connectionless, unreliable, and simplex protocol that provides fast and efficient delivery of data. It does not use any handshaking, flow control, congestion control, or error recovery mechanisms. It simply adds a header to the data received from the application layer and sends it to the network layer. UDP is suitable for applications that require low latency and high speed, such as voice and video streaming, online gaming, and DNS queries.

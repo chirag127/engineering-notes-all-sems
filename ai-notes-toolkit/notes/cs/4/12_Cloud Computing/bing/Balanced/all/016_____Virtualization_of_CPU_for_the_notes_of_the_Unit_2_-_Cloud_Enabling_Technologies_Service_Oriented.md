@@ -1,0 +1,9 @@
+# Virtualization of CPU
+
+- CPU virtualization is a technique that creates multiple virtual CPUs from a single physical CPU, allowing multiple operating systems or applications to run simultaneously on the same machine .
+- CPU virtualization can improve the performance, efficiency, security, and scalability of the system, as well as reduce the cost and complexity of managing multiple physical machines.
+- CPU virtualization can be implemented in two ways: hardware-assisted virtualization and software-based virtualization.
+  - Hardware-assisted virtualization uses special features in the CPU to support virtualization, such as Intel VT-x or AMD-V. This reduces the overhead and complexity of the virtualization software, and allows the guest operating systems to run at near-native speed .
+  - Software-based virtualization relies on the virtualization software to emulate the CPU and other hardware components for the guest operating systems. This allows more flexibility and compatibility, but also introduces more overhead and performance degradation .
+- To enable CPU virtualization, the user needs to access the BIOS settings of the machine and enable the appropriate option, such as SVM Mode for AMD CPUs or VT-x for Intel CPUs . The user may also need to enable other features, such as IOMMU or VT-d, to support virtualization of other devices, such as memory or disk .
+- CPU virtualization is one of the enabling technologies for cloud computing, which allows the delivery of computing services over the internet. Cloud computing can provide various benefits, such as on-demand access, scalability, reliability, and cost-effectiveness.

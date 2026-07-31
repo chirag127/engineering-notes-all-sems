@@ -1,0 +1,25 @@
+# CO 4 Show an ability to upload/download sensor data on cloud and server K2
+
+- Sensor data is the information collected by various types of sensors that measure physical phenomena such as temperature, humidity, pressure, light, sound, motion, etc.
+- Cloud and server K2 are two different platforms that can store and process sensor data remotely, without requiring the sensor devices to have high computing power or memory.
+- To upload sensor data on cloud and server K2, the following steps are required:
+  - Establish a network connection between the sensor device and the cloud or server K2, using protocols such as Wi-Fi, Bluetooth, cellular, or LoRaWAN.
+  - Choose a data format and a communication protocol for sending the sensor data, such as JSON, XML, MQTT, HTTP, or CoAP.
+  - Encode and compress the sensor data to reduce the bandwidth and storage requirements, using techniques such as binary encoding, delta encoding, or lossy compression.
+  - Send the sensor data to the cloud or server K2, using methods such as publish/subscribe, request/response, or push/pull.
+  - Handle any errors, retries, or acknowledgements that may occur during the data transmission, using mechanisms such as checksums, timeouts, or acknowledgements.
+- To download sensor data from cloud and server K2, the following steps are required:
+  - Establish a network connection between the sensor device and the cloud or server K2, using protocols such as Wi-Fi, Bluetooth, cellular, or LoRaWAN.
+  - Choose a data format and a communication protocol for receiving the sensor data, such as JSON, XML, MQTT, HTTP, or CoAP.
+  - Decode and decompress the sensor data to restore the original information, using techniques such as binary decoding, delta decoding, or lossy decompression.
+  - Receive the sensor data from the cloud or server K2, using methods such as publish/subscribe, request/response, or push/pull.
+  - Handle any errors, retries, or acknowledgements that may occur during the data transmission, using mechanisms such as checksums, timeouts, or acknowledgements.
+- To show an ability to upload/download sensor data on cloud and server K2, the following skills are required:
+  - Knowledge of the characteristics and capabilities of different types of sensors, such as accuracy, resolution, range, sampling rate, power consumption, etc.
+  - Knowledge of the advantages and disadvantages of different platforms for storing and processing sensor data, such as cloud and server K2, such as scalability, reliability, security, cost, etc.
+  - Knowledge of the principles and standards of different data formats and communication protocols for sensor data, such as JSON, XML, MQTT, HTTP, or CoAP, such as syntax, semantics, interoperability, efficiency, etc.
+  - Knowledge of the techniques and tools for encoding and compressing sensor data, such as binary encoding, delta encoding, or lossy compression, such as algorithms, libraries, trade-offs, etc.
+  - Knowledge of the techniques and tools for decoding and decompressing sensor data, such as binary decoding, delta decoding, or lossy decompression, such as algorithms, libraries, trade-offs, etc.
+  - Knowledge of the methods and mechanisms for sending and receiving sensor data, such as publish/subscribe, request/response, or push/pull, such as patterns, architectures, quality of service, etc.
+  - Knowledge of the methods and mechanisms for handling errors, retries, and acknowledgements during data transmission, such as checksums, timeouts, or acknowledgements, such as error detection, error correction, error recovery, etc.
+  - Ability to design and implement sensor data applications that can upload and download sensor data on cloud and server K2, using appropriate data formats, communication protocols, encoding and compression techniques, decoding and decompression techniques, data transmission methods, and error handling mechanisms, according to the requirements and constraints of the sensor data scenario.

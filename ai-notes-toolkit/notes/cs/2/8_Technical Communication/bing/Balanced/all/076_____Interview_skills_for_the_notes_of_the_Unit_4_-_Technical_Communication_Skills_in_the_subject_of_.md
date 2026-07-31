@@ -1,0 +1,26 @@
+# Interview skills for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication
+
+- Interview skills are the abilities and techniques that help a person to communicate effectively and persuasively with a potential employer during a job interview.
+- Interview skills include preparing for the interview, researching the company and the job, dressing appropriately, answering questions confidently and clearly, asking relevant questions, following up after the interview, and negotiating the salary and benefits.
+- Some of the benefits of having good interview skills are:
+  - They increase the chances of getting hired for the desired job.
+  - They create a positive impression on the interviewer and the employer.
+  - They demonstrate the person's professionalism, competence, and suitability for the job.
+  - They help the person to stand out from other candidates and showcase their unique strengths and skills.
+  - They reduce the anxiety and stress associated with the interview process.
+- Some of the steps to improve interview skills are:
+  - Review the job description and the requirements carefully and identify the key skills and qualifications that the employer is looking for.
+  - Research the company and the industry and learn about their mission, vision, values, goals, products, services, customers, competitors, and culture.
+  - Prepare a list of common interview questions and practice answering them with specific examples and evidence from the past work or academic experiences.
+  - Prepare a list of questions to ask the interviewer to show interest and enthusiasm for the job and the company.
+  - Dress professionally and appropriately for the job and the company culture and groom well.
+  - Arrive on time or a few minutes early for the interview and bring a copy of the resume, cover letter, portfolio, and any other relevant documents.
+  - Greet the interviewer with a smile and a firm handshake and introduce oneself politely and confidently.
+  - Maintain eye contact, positive body language, and a friendly tone of voice throughout the interview.
+  - Listen attentively to the interviewer's questions and respond clearly, concisely, and honestly.
+  - Use the STAR method (Situation, Task, Action, Result) to structure the answers and provide specific examples and quantifiable results to demonstrate the skills and achievements.
+  - Avoid negative or vague statements, jargon, slang, or filler words, and focus on the positive aspects and the value that one can bring to the job and the company.
+  - Ask relevant and insightful questions at the end of the interview to show interest and enthusiasm for the job and the company.
+  - Thank the interviewer for their time and consideration and express the interest and excitement for the job opportunity.
+  - Follow up with a thank-you email or letter within 24 hours of the interview and restate the interest and qualifications for the job and the company.
+  - If offered the job, negotiate the salary and benefits based on the market research and the personal expectations and needs.

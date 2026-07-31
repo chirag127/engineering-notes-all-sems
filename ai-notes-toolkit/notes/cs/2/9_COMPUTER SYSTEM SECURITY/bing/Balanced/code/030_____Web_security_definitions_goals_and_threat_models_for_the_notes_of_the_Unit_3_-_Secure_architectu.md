@@ -1,0 +1,21 @@
+### Web security definitions goals and threat models
+
+- Web security is the practice of protecting web applications and web servers from unauthorized access, modification, or damage by malicious actors or events.
+- The goals of web security are to ensure the confidentiality, integrity, and availability of web resources and data, as well as to prevent or mitigate the impact of web attacks.
+- A web attack is any attempt to compromise the security of a web application or web server, either directly or indirectly, by exploiting its vulnerabilities or weaknesses.
+- A web vulnerability is a flaw or weakness in a web application or web server that can be exploited by an attacker to cause harm or gain unauthorized access.
+- A web weakness is a design or implementation issue in a web application or web server that can reduce its security or performance, but may not be directly exploitable by an attacker.
+- A threat model is a structured process for identifying and assessing the potential threats and vulnerabilities of a web application or web server, as well as the countermeasures to prevent or mitigate them.
+- A threat model typically consists of the following steps:
+  - Define the scope and boundaries of the web application or web server, and identify its assets, components, interfaces, and dependencies.
+  - Identify the potential threat sources and actors, such as hackers, insiders, competitors, or natural disasters, and their capabilities, motivations, and goals.
+  - Identify the potential threat scenarios and events, such as data breaches, denial-of-service attacks, or injection attacks, and their likelihood and impact.
+  - Identify the potential vulnerabilities and weaknesses of the web application or web server, such as input validation errors, misconfigurations, or outdated software, and their severity and exploitability.
+  - Identify the existing or planned countermeasures and controls, such as encryption, authentication, or firewalls, and their effectiveness and limitations.
+  - Analyze the risk and prioritize the threats and vulnerabilities, based on their criticality and the cost-benefit of the countermeasures.
+  - Document and communicate the threat model and its findings, and update it regularly as the web application or web server evolves or new threats emerge.
+- A threat model can use various methods and tools to support its steps, such as:
+  - Data flow diagrams, attack trees, or use cases to illustrate the architecture and functionality of the web application or web server, and the possible attack paths and scenarios.
+  - Threat categorization schemes, such as STRIDE or ASF, to classify the types and sources of threats, and their potential impact on the web application or web server.
+  - Vulnerability assessment tools, such as scanners, analyzers, or testers, to detect and evaluate the vulnerabilities and weaknesses of the web application or web server.
+  - Risk assessment frameworks, such as DREAD or CVSS, to quantify and rank the risk of the threats and vulnerabilities, and to guide the selection of the countermeasures.

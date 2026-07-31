@@ -1,0 +1,20 @@
+# Socio-religious reform movement of 19th century
+
+- The socio-religious reform movement of 19th century was a wave of reforming activities that aimed to remove the social evils and religious superstitions from the Indian society and to revive the ancient glory of Hinduism .
+- The main causes of the emergence of the reform movement were:
+  - The spread of western education and liberal ideas that exposed the Indians to the rational and scientific outlook of the West .
+  - The contact with the Christian missionaries and the British administration that challenged the traditional beliefs and practices of the Indians and made them aware of the need for social change .
+  - The rise of nationalism and the sense of pride in the Indian culture and heritage that inspired the Indians to reform their own society and religion .
+- The main types of the reform movement were:
+  - The Brahmo Samaj, founded by Raja Ram Mohan Roy in 1828, that advocated monotheism, opposed idolatry, caste system, sati, child marriage and polygamy, and promoted women's education, widow remarriage and social service .
+  - The Arya Samaj, founded by Swami Dayanand Saraswati in 1875, that propagated the Vedas as the source of true knowledge, rejected idolatry, polytheism, rituals, priesthood, animal sacrifice, child marriage and the caste system, and encouraged the dissemination of western scientific knowledge, social service and shuddhi (reconversion of Hindus who had converted to other religions) .
+  - The Prarthana Samaj, founded by Atmaram Pandurang in 1867, that followed the teachings of Raja Ram Mohan Roy and the Brahmo Samaj, opposed idolatry, caste system, child marriage and polygamy, and supported women's education, widow remarriage and inter-caste marriage .
+  - The Ramakrishna Mission, founded by Swami Vivekananda in 1897, that preached the message of Vedanta, the unity of all religions, the service of humanity as the service of God, and the upliftment of the masses, especially the poor and the downtrodden .
+  - The Theosophical Society, founded by Madame Blavatsky and Colonel Olcott in 1875, that aimed to revive the ancient wisdom of the East, especially Hinduism, Buddhism and Zoroastrianism, and to promote the brotherhood of humanity, the study of comparative religion, philosophy and science, and the investigation of the occult phenomena .
+  - The Aligarh Movement, founded by Sir Syed Ahmed Khan in 1866, that sought to reform the Muslim society and religion, to promote western education and scientific knowledge among the Muslims, to foster a spirit of loyalty and cooperation with the British, and to bridge the gap between the Muslims and the Hindus .
+  - The Singh Sabha Movement, founded by Khem Singh Bedi and others in 1873, that aimed to reform the Sikh religion and society, to counter the influence of the Christian missionaries and the Hindu revivalists, to restore the purity and simplicity of Sikhism, and to promote the Punjabi language and literature .
+  - The Hindu reform movements, such as the Brahmo Samaj, the Arya Samaj, the Prarthana Samaj, the Ramakrishna Mission and the Theosophical Society, that collectively strove to reform Hinduism, to remove the social evils and religious superstitions, to revive the ancient glory and wisdom of Hinduism, and to foster a spirit of tolerance and harmony among the different sects and faiths of Hinduism.
+- The impact of the reform movement were:
+  - The reform movement contributed to the social and religious awakening of the Indians, especially the women, the lower castes and the oppressed sections of the society .
+  - The reform movement challenged the authority and orthodoxy of the traditional institutions and leaders, such as the priests, the pundits, the maulvis and the pirs, and encouraged the spirit of rationalism, humanism and individualism among the Indians .
+  - The reform movement paved the way for

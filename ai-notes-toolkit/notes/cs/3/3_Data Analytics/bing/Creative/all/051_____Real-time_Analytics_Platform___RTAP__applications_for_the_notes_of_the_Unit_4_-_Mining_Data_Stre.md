@@ -1,0 +1,11 @@
+# Real-time Analytics Platform (RTAP) applications
+
+Real-time analytics platform (RTAP) is a framework for developing high-performance distributed computing systems that analyze science data in real-time. The goal of the framework is to provide the building blocks necessary for developing stream processing applications. Stream processing applications are applications that process data as it arrives, without storing it in a database or a file system. Stream processing applications can handle large volumes of data with low latency and high throughput.
+
+Some of the applications of RTAP are:
+
+- **Crisis management**: RTAP can help in detecting and responding to natural disasters, cyberattacks, or other emergencies by analyzing real-time data from sensors, social media, or other sources. RTAP can provide situational awareness, alerting, and decision support to the stakeholders involved in crisis management.
+- **An increased company vision**: RTAP can help businesses gain insights into their customers, products, and markets by analyzing real-time data from various sources, such as web logs, transactions, or feedback. RTAP can help businesses optimize their marketing, sales, and customer service strategies, as well as identify new opportunities and trends.
+- **Quicker and less costly changes**: RTAP can help businesses adapt to changing customer needs, market conditions, or regulations by analyzing real-time data and providing feedback loops. RTAP can help businesses test and deploy new features, products, or services faster and cheaper, as well as monitor and improve their performance and quality.
+- **Better apps and website management**: RTAP can help developers and operators of web and mobile applications monitor and improve the user experience, performance, and security of their applications by analyzing real-time data from user interactions, network traffic, or system logs. RTAP can help developers and operators identify and fix issues, optimize resources, and enhance features.
+- **Better resource allocation and money management**: RTAP can help businesses and organizations optimize their resource utilization and financial management by analyzing real-time data from their operations, assets, or budgets. RTAP can help businesses and organizations reduce costs, increase efficiency, and maximize profits.

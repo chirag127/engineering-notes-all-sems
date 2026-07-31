@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with writing notes on various topics. Here are some notes on Deterministic Finite Automaton (DFA) for the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages.
+
+### Deterministic Finite Automaton (DFA)
+
+- A deterministic finite automaton (DFA) is a mathematical model of computation that accepts or rejects a given string of symbols, by running through a state transition function that depends only on the current state and the current symbol.
+- A DFA consists of five components: a finite set of states (Q), a finite set of input symbols (Σ), a transition function (δ) that maps each state and input symbol to a next state, a start state (q0) that belongs to Q, and a set of final or accepting states (F) that is a subset of Q.
+- A DFA can be represented by a state diagram, which is a directed graph where each node is a state, each edge is labeled by an input symbol, and there is a special arrow pointing to the start state. The final states are marked by double circles.
+- A DFA can also be represented by a transition table, which is a matrix where each row corresponds to a state, each column corresponds to an input symbol, and each cell contains the next state for that state and symbol.
+- A DFA processes a given input string from left to right, starting from the start state, and following the transition function for each symbol. If the DFA reaches a final state after reading the entire input string, then the string is accepted. Otherwise, the string is rejected.
+- A DFA recognizes a regular language, which is a set of strings that can be described by a regular expression or a regular grammar. A regular language is closed under operations such as union, concatenation, and Kleene star.
+- A DFA can be minimized by removing unreachable states, which are states that cannot be reached from the start state, and by merging equivalent states, which are states that have the same behavior for all input strings. A minimized DFA has the smallest number of states among all DFAs that recognize the same language.

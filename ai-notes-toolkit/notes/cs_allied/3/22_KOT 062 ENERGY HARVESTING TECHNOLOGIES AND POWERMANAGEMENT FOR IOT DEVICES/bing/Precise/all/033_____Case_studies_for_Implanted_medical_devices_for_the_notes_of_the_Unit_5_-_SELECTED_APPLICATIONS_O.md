@@ -1,0 +1,11 @@
+# Case studies for Implanted medical devices
+
+Implanted medical devices are devices that are placed inside the body to monitor, diagnose, or treat medical conditions. These devices can be powered by energy harvesting systems, which can convert energy from the environment into electrical energy to power the device. Here are some case studies of implanted medical devices that use energy harvesting systems:
+
+1. **Pacemakers:** Pacemakers are devices that are implanted in the chest to regulate the heartbeat. Traditionally, pacemakers are powered by batteries that need to be replaced every few years. However, researchers have developed pacemakers that can be powered by the motion of the heart itself. These pacemakers use piezoelectric materials to convert the mechanical energy of the heart's motion into electrical energy to power the device.
+
+2. **Implanted sensors:** Implanted sensors can be used to monitor various medical conditions, such as blood glucose levels in diabetic patients. These sensors can be powered by energy harvesting systems that convert energy from the body's motion or heat into electrical energy. For example, researchers have developed sensors that can be powered by the motion of the knee joint, allowing the sensor to be powered by the patient's daily activities.
+
+3. **Cochlear implants:** Cochlear implants are devices that are implanted in the ear to restore hearing in people with severe hearing loss. These implants are traditionally powered by batteries that need to be replaced regularly. However, researchers have developed cochlear implants that can be powered by energy harvesting systems that convert the motion of the middle ear into electrical energy. This allows the implant to be powered by the natural motion of the ear, eliminating the need for battery replacement.
+
+These are just a few examples of how energy harvesting systems can be used to power implanted medical devices. As research in this field continues, it is likely that we will see more and more medical devices that can be powered by energy harvesting systems, reducing the need for battery replacement and improving the convenience and reliability of these devices.

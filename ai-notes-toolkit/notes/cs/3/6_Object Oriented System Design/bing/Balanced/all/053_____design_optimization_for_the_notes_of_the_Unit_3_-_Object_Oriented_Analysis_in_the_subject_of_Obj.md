@@ -1,0 +1,22 @@
+# Design Optimization for Object Oriented Analysis
+
+- Object Oriented Analysis (OOA) is a technical approach for analyzing the functional requirements of a software system by applying the object-oriented paradigm and concepts  .
+- OOA aims to model the real-world problem domain by identifying and describing the relevant objects, their attributes, behaviors, and relationships .
+- OOA is independent of any implementation details, such as programming language, platform, or design patterns.
+- OOA is an iterative process that involves the following steps :
+  - Identify the problem domain and the scope of the system.
+  - Define the use cases and scenarios that describe the interactions between the system and its users or external systems.
+  - Identify the classes and objects that represent the entities and concepts in the problem domain.
+  - Define the attributes and operations of each class and object.
+  - Establish the associations and aggregations among the classes and objects.
+  - Specify the constraints and rules that govern the system behavior and state changes.
+  - Validate and verify the analysis model using various techniques, such as prototyping, testing, or formal methods.
+- Design Optimization for OOA is the process of improving the quality, efficiency, and maintainability of the analysis model by applying various principles and techniques, such as:
+  - Abstraction: The process of hiding the irrelevant details and focusing on the essential features of a class or object.
+  - Encapsulation: The process of bundling the data and behavior of a class or object into a single unit and hiding the internal implementation from the outside world.
+  - Inheritance: The process of creating new classes or objects by reusing and extending the features of existing ones.
+  - Polymorphism: The process of allowing different classes or objects to respond differently to the same message or operation.
+  - Modularity: The process of dividing the system into smaller and independent units that can be developed, tested, and maintained separately.
+  - Cohesion: The degree to which the elements of a class or object are related and focused on a single purpose.
+  - Coupling: The degree to which a class or object depends on or interacts with other classes or objects.
+  - Design Patterns: The reusable solutions to common design problems that can be applied to different contexts and situations.

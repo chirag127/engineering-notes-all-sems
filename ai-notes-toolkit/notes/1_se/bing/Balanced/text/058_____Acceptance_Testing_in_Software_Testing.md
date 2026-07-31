@@ -1,0 +1,24 @@
+### Acceptance Testing in Software Testing
+
+- Acceptance testing is the final phase of software testing, in which the software product is evaluated by the intended users or customers to determine if it meets their requirements and expectations.
+- Acceptance testing is also known as user acceptance testing (UAT), end-user testing, or beta testing.
+- The main purpose of acceptance testing is to verify that the software product is ready for deployment and use in the real-world environment.
+- Acceptance testing can be performed by the users themselves, or by a third-party team that represents the users' interests and perspectives.
+- Acceptance testing can be conducted in various ways, such as:
+  - Alpha testing: The software product is tested by the internal users or developers before releasing it to the external users or customers.
+  - Beta testing: The software product is tested by a selected group of external users or customers who provide feedback and report issues before the final release.
+  - Contract acceptance testing: The software product is tested by the customers or clients who have signed a contract or agreement with the developers or vendors.
+  - Regulation acceptance testing: The software product is tested by the regulatory authorities or standards organizations who have to approve or certify it for compliance or quality.
+  - Operational acceptance testing: The software product is tested by the operational staff or administrators who have to install, configure, maintain, or support it in the production environment.
+- Acceptance testing can be based on various criteria, such as:
+  - Functional requirements: The software product is tested for its functionality, features, and capabilities that meet the users' needs and expectations.
+  - Non-functional requirements: The software product is tested for its performance, reliability, usability, security, and other quality attributes that affect the users' satisfaction and experience.
+  - Business requirements: The software product is tested for its alignment with the business goals, objectives, and strategies of the users or customers.
+  - User scenarios: The software product is tested for its suitability and effectiveness in the real-world situations and contexts that the users or customers encounter or expect.
+  - Acceptance criteria: The software product is tested for its compliance with the predefined conditions or standards that the users or customers have agreed or specified for acceptance.
+- Acceptance testing can be performed using various techniques, such as:
+  - Manual testing: The software product is tested by the human testers who execute the test cases and observe the results manually.
+  - Automated testing: The software product is tested by the automated tools or scripts that execute the test cases and verify the results automatically.
+  - Exploratory testing: The software product is tested by the testers who explore and discover the functionality and quality of the software product without following a predefined test plan or script.
+  - Scenario testing: The software product is tested by the testers who simulate and evaluate the realistic and complex scenarios that the users or customers may face or expect.
+  - Acceptance test-driven development (ATDD): The software product is developed and tested by the developers and testers who collaborate and communicate with the users or customers to define and verify the acceptance criteria and test cases throughout the software development lifecycle.

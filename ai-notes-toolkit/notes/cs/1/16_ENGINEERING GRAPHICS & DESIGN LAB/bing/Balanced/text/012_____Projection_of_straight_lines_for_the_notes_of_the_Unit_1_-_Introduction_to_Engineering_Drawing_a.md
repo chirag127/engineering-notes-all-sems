@@ -1,0 +1,21 @@
+### Projection of straight lines for the notes of the Unit 1 - Introduction to Engineering Drawing and Orthographic Projections in the subject of ENGINEERING GRAPHICS & DESIGN LAB
+
+- A straight line is the basic conceptual figure using which any object like a machine component or a structural element is represented.
+- Projection of a straight line is the figure obtained by joining, in correct sequence, the points at which the lines drawn from various points on the contour of the line meet the plane of projection.
+- Projection of a straight line is the foundation of engineering drawing, as projections of two points give the projection of the straight line joining the two points.
+- There are two types of projections of a straight line: first angle projection and third angle projection. As per ISO convention, the first angle of projection is used.
+- The first angle of projection is the method of creating a 2D representation of a 3D object, where the object is placed in the first quadrant, i.e., above and in front of the horizontal and vertical planes of projection.
+- The third angle of projection is the method of creating a 2D representation of a 3D object, where the object is placed in the third quadrant, i.e., below and behind the horizontal and vertical planes of projection.
+- The projection of a straight line depends on its orientation or position with respect to the planes of projection. There are four possible orientations of a straight line: parallel to both planes, perpendicular to one plane and inclined to the other, inclined to both planes, and parallel to one plane and inclined to the other.
+- The projection of a straight line parallel to both planes is a line segment equal in length to the line and parallel to the line of intersection of the planes.
+- The projection of a straight line perpendicular to one plane and inclined to the other is a line segment equal in length to the true length of the line on the plane to which it is perpendicular, and a point on the plane to which it is inclined.
+- The projection of a straight line inclined to both planes is a line segment on each plane, whose lengths are less than the true length of the line, and whose inclinations are determined by the angles of inclination of the line with the planes.
+- The projection of a straight line parallel to one plane and inclined to the other is a line segment equal in length to the true length of the line on the plane to which it is parallel, and a line segment on the plane to which it is inclined, whose length is less than the true length of the line, and whose inclination is determined by the angle of inclination of the line with the plane.
+- To find the projections of a straight line, the following steps are followed:
+  - Draw the reference line XY, which is the line of intersection of the horizontal and vertical planes of projection.
+  - Locate the end points of the line on the reference line, and label them as A and B.
+  - Draw projectors from the end points perpendicular to the reference line, and mark the distances of the end points from the planes of projection.
+  - Draw the horizontal projection of the line by joining the points where the projectors meet the horizontal plane, and label it as a-b.
+  - Draw the vertical projection of the line by joining the points where the projectors meet the vertical plane, and label it as a'-b'.
+  - Indicate the true length of the line by a dashed line parallel to the reference line, and label it as AB.
+  - Indicate the angles of inclination of the line with the planes of projection by the symbols α and β.

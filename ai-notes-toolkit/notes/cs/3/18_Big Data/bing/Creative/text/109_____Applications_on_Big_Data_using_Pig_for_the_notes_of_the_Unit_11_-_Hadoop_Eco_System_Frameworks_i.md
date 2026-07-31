@@ -1,0 +1,12 @@
+### Applications of Big Data using Pig
+
+- Pig is a high-level platform or tool that is used to process large datasets in a distributed environment. It provides a high level of abstraction for processing over MapReduce, a framework that allows parallel processing of large-scale data using a cluster of machines.
+- Pig provides a high-level scripting language, known as Pig Latin, which is used to develop the data analysis codes. Pig Latin is similar to SQL, but more expressive and flexible. Pig Latin allows users to specify the data flow from the source to the destination, and apply various transformations and operations on the data along the way.
+- Pig can handle a wide range of data, both structured and unstructured, such as text, images, videos, logs, etc. Pig can also integrate with other tools and languages, such as Java, Python, Ruby, etc., by allowing users to create user-defined functions (UDFs) that can be invoked in Pig Latin scripts.
+- Some of the applications of Pig in big data are:
+
+  - Pig is used by telecom companies to de-identify the customer call data information, by applying various masking and encryption techniques on the sensitive data fields, such as phone numbers, names, addresses, etc. 
+  - Pig is used to process time-sensitive data loads, such as web logs, clickstream data, sensor data, etc., by applying various filtering, aggregation, and analysis functions on the data in near real-time. 
+  - Pig is used to explore large datasets, by allowing users to perform ad-hoc queries and interactive analysis on the data, without requiring a predefined schema or structure. Pig can also handle complex data types, such as nested tuples, bags, and maps, which can represent hierarchical and relational data.  
+  - Pig is used to prototype large data processing algorithms, by allowing users to quickly write and test the logic and functionality of the algorithms, without worrying about the low-level details of MapReduce. Pig can also optimize the execution plan of the scripts, by applying various techniques, such as partition pruning, predicate pushdown, join optimization, etc.  
+  - Pig is used to collect large amounts of datasets from various sources, such as web, social media, databases, etc., by allowing users to specify the data sources and formats, and load the data into the Hadoop Distributed File System (HDFS), which is a distributed and scalable file system that can store large volumes of data.

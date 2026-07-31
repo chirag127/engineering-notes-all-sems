@@ -1,0 +1,22 @@
+### Key Management Fundamentals for IoT
+
+- Key management is the process of generating, storing, distributing, rotating, revoking and deleting cryptographic keys that are used to encrypt and decrypt data in IoT devices and systems.
+- Key management is essential for ensuring the confidentiality, integrity and authenticity of data in IoT, as well as the identity and authorization of IoT devices and users.
+- Key management challenges for IoT include:
+  - Scalability: IoT systems may involve a large number of devices and users, which requires efficient and automated key management solutions that can handle the high volume and diversity of keys.
+  - Heterogeneity: IoT devices may have different capabilities, resources, protocols and standards, which requires interoperable and adaptable key management solutions that can support various cryptographic algorithms and key formats.
+  - Mobility: IoT devices may move across different networks and domains, which requires dynamic and flexible key management solutions that can update and revoke keys as needed.
+  - Security: IoT devices may be vulnerable to physical and cyber attacks, which requires robust and resilient key management solutions that can protect keys from unauthorized access, modification and leakage.
+- Key management components for IoT include:
+  - Key generation: The process of creating random and unique keys that are suitable for the chosen cryptographic algorithm and key length.
+  - Key storage: The process of securely storing keys in a device's memory, a secure element, a cloud service or a hybrid solution.
+  - Key distribution: The process of securely transferring keys from one entity to another, using methods such as pre-shared keys, public key infrastructure, key agreement protocols or key wrapping.
+  - Key rotation: The process of periodically changing keys to limit their exposure and reduce the risk of compromise.
+  - Key revocation: The process of invalidating keys that are no longer needed or have been compromised, using methods such as certificate revocation lists, online certificate status protocol or key escrow.
+  - Key deletion: The process of permanently erasing keys from a device's memory or a cloud service, using methods such as zeroization, overwriting or cryptographic erasure.
+- Key management best practices for IoT include:
+  - Use strong and standardized cryptographic algorithms and key lengths that are appropriate for the security level and performance of the IoT system.
+  - Use different keys for different purposes, such as encryption, authentication, signing and key wrapping, and avoid reusing keys across different devices, users and domains.
+  - Use secure and reliable key management systems that can automate and simplify the key management process, and provide features such as auditing, logging, backup and recovery.
+  - Use secure and trusted key management protocols that can ensure the confidentiality, integrity and authenticity of key exchange, and provide features such as mutual authentication, freshness and replay protection.
+  - Use secure and tamper-resistant key storage solutions that can protect keys from physical and cyber attacks, and provide features such as isolation, encryption and access control.

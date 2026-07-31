@@ -1,0 +1,26 @@
+### Mobile IP
+
+- Mobile IP (MIP) is a protocol that allows mobile devices to move from one network to another while maintaining the same permanent IP address.
+- Mobile IP is based on IP and can support any media that can support IP, such as wired and wireless networks.
+- Mobile IP is designed to support seamless and continuous Internet connectivity, especially for roaming between overlapping wireless systems.
+- Mobile IP consists of three main components: a home agent, a foreign agent, and a mobile node.
+  - A home agent is a router on the home network of the mobile node that maintains a binding table of the current location of the mobile node and forwards packets to it.
+  - A foreign agent is a router on the visited network of the mobile node that provides services such as registration and packet delivery to the mobile node.
+  - A mobile node is a device that can change its point of attachment to the Internet, such as a laptop or a smartphone.
+- Mobile IP works as follows:
+  - When a mobile node moves to a new network, it obtains a care-of address (CoA) from the foreign agent or by using DHCP.
+  - The mobile node registers its CoA with its home agent through the foreign agent or directly.
+  - The home agent updates its binding table with the new CoA of the mobile node and sends an acknowledgement to the mobile node.
+  - When a correspondent node (CN) wants to communicate with the mobile node, it sends packets to the home address of the mobile node.
+  - The home agent intercepts the packets and tunnels them to the CoA of the mobile node using IP encapsulation.
+  - The foreign agent decapsulates the packets and delivers them to the mobile node.
+  - The mobile node can also send packets to the CN using reverse tunneling, where the packets are encapsulated by the foreign agent and decapsulated by the home agent. This is optional and depends on the network configuration.
+- Mobile IP has some advantages and disadvantages:
+  - Advantages:
+    - It preserves the existing IP address and routing infrastructure.
+    - It supports transparent mobility and session continuity for the mobile node and the CN.
+    - It is compatible with existing applications and protocols.
+  - Disadvantages:
+    - It introduces additional overhead and latency due to encapsulation and tunneling.
+    - It may cause suboptimal routing and increased network congestion due to triangular routing.
+    - It may suffer from security and scalability issues due to the reliance on the home agent.

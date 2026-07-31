@@ -1,0 +1,23 @@
+### Order of relations for the notes of the Unit 1 - Set Theory in the subject of Discrete Structures & Theory of Logic
+
+- A relation is an association between, or property of, various objects.
+- A relation on a set \\(A\\) is a subset of \\(A \times A\\), where \\(A \times A\\) is the set of all ordered pairs of elements of \\(A\\).
+- An order relation is a relation that satisfies some properties that capture the intuition of orders.
+- There are different types of order relations, such as partial order, total order, linear order, strict order, weak order, etc  .
+- A partial order relation on a set \\(A\\) is a relation \\(\leq\\) that is reflexive, antisymmetric, and transitive .
+  - Reflexive: For all \\(a \in A\\), \\(a \leq a\\).
+  - Antisymmetric: For all \\(a, b \in A\\), if \\(a \leq b\\) and \\(b \leq a\\), then \\(a = b\\).
+  - Transitive: For all \\(a, b, c \in A\\), if \\(a \leq b\\) and \\(b \leq c\\), then \\(a \leq c\\).
+- A total order relation on a set \\(A\\) is a partial order relation that is also total .
+  - Total: For all \\(a, b \in A\\), either \\(a \leq b\\) or \\(b \leq a\\).
+- A linear order relation is another name for a total order relation.
+- A strict order relation on a set \\(A\\) is a relation \\(<\\) that is irreflexive, asymmetric, and transitive.
+  - Irreflexive: For all \\(a \in A\\), \\(a < a\\) is false.
+  - Asymmetric: For all \\(a, b \in A\\), if \\(a < b\\), then \\(b < a\\) is false.
+  - Transitive: For all \\(a, b, c \in A\\), if \\(a < b\\) and \\(b < c\\), then \\(a < c\\).
+- A weak order relation on a set \\(A\\) is a relation \\(\preceq\\) that is reflexive, transitive, and negatively transitive.
+  - Negatively transitive: For all \\(a, b, c \in A\\), if \\(a \preceq b\\) and \\(b \not\preceq c\\), then \\(a \not\preceq c\\).
+- A partial order relation \\(\leq\\) can be converted to a strict order relation \\(<\\) by removing the reflexive pairs, that is, \\(a < b\\) if and only if \\(a \leq b\\) and \\(a \neq b\\).
+- A strict order relation \\(<\\) can be converted to a partial order relation \\(\leq\\) by adding the reflexive pairs, that is, \\(a \leq b\\) if and only if \\(a < b\\) or \\(a = b\\).
+- A total order relation \\(\leq\\) can be converted to a weak order relation \\(\preceq\\) by adding the incomparable pairs, that is, \\(a \preceq b\\) if and only if \\(a \leq b\\) or \\(a \not\leq b\\) and \\(b \not\leq a\\).
+- A weak order relation \\(\preceq\\) can be converted to a total order relation \\(\leq\\) by removing the incomparable pairs, that is, \\(a \leq b\\) if and only if \\(a \preceq b\\) and \\(b \preceq a\\) or \\(a \preceq b\\) and \\(b \

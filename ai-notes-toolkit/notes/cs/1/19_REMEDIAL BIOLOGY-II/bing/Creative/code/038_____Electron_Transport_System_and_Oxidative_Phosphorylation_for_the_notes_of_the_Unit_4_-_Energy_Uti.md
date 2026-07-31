@@ -1,0 +1,21 @@
+### Electron Transport System and Oxidative Phosphorylation
+
+- Electron transport system (ETS) or electron transport chain (ETC) is a series of proteins and electron carriers embedded in the inner mitochondrial membrane that transfer electrons from reduced molecules such as NADH and FADH2 to oxygen, the final electron acceptor .
+- Oxidative phosphorylation (OXPHOS) is the process of synthesizing ATP from ADP and inorganic phosphate (Pi) using the energy released by the ETS .
+- The ETS consists of four protein complexes (I, II, III, and IV) and two mobile electron carriers (ubiquinone and cytochrome c) that shuttle electrons between the complexes  .
+- Complex I (NADH dehydrogenase) receives electrons from NADH and transfers them to ubiquinone, while pumping four protons (H+) across the membrane  .
+- Complex II (succinate dehydrogenase) receives electrons from FADH2 and transfers them to ubiquinone, without pumping protons  .
+- Ubiquinone (also called coenzyme Q or Q) is a lipid-soluble molecule that can diffuse within the membrane and carry electrons from complex I or II to complex III  .
+- Complex III (cytochrome bc1 complex) receives electrons from ubiquinone and transfers them to cytochrome c, while pumping four protons across the membrane  .
+- Cytochrome c is a water-soluble protein that can move along the intermembrane space and carry electrons from complex III to complex IV  .
+- Complex IV (cytochrome c oxidase) receives electrons from cytochrome c and transfers them to oxygen, the final electron acceptor, while pumping two protons across the membrane  .
+- Oxygen is reduced to water by accepting four electrons and four protons at complex IV  .
+- The ETS creates an electrochemical gradient across the inner mitochondrial membrane, with a higher concentration of protons and a lower pH in the intermembrane space than in the matrix  .
+- The electrochemical gradient provides the potential energy for ATP synthesis by chemiosmosis, the movement of protons down their gradient through a protein channel called ATP synthase  .
+- ATP synthase consists of two subunits: F0 and F1. F0 is embedded in the membrane and acts as a proton channel. F1 is exposed to the matrix and acts as an enzyme that catalyzes the phosphorylation of ADP to ATP  .
+- As protons flow through F0, they cause a rotation of a central stalk that connects F0 and F1. The rotation of the stalk induces conformational changes in F1 that allow it to bind ADP and Pi and release ATP  .
+- The ETS and OXPHOS are coupled by the proton-motive force, the combined effect of the proton concentration gradient and the electric potential difference across the membrane  .
+- The ETS and OXPHOS are the final stages of cellular respiration, the process of breaking down organic molecules such as glucose to release energy and produce ATP .
+- Cellular respiration consists of four main steps: glycolysis, pyruvate oxidation, citric acid cycle (or Krebs cycle), and ETS and OXPHOS .
+- Glycolysis is the breakdown of glucose into two molecules of pyruvate, with the net production of two ATP and two NADH molecules per glucose molecule .
+- Pyruvate oxidation is the conversion of pyruvate into acetyl-CoA, with the production of one CO2 and one NADH molecule per pyruvate molecule

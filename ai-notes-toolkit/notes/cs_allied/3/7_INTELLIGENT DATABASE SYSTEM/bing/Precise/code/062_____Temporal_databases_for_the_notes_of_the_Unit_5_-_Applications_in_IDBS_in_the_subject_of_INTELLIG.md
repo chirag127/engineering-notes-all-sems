@@ -1,0 +1,7 @@
+### Temporal databases for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+
+- A Temporal Database is a database with built-in support for handling data involving time. It stores information relating to past, present, and future time of all events.
+- Temporal tables (also known as system-versioned temporal tables) are a database feature that brings built-in support for providing information about data stored in the table at any point in time, rather than only the data that is correct at the current moment in time.
+- Temporal database contains historical, time-varying as well as current data. Note: ‘historical record’ is a misleading term -a temporal database may contain reference to future. Extreme case: data is only inserted, never deleted from a temporal database.
+- Most applications manage temporal data. If a temporal database is used for such data: Schemas, including integrity constraints are simpler. Queries are simpler. Application code is less complex – easier to understand – easier to produce – easier to maintain.
+- A temporal database is generally understood as a database capable of supporting storage and reasoning of time-based data. For example, medical applications may be able to benefit from temporal database support — a record of a patient’s.

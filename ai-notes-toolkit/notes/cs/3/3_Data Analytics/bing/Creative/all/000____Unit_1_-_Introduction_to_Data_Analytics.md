@@ -1,0 +1,24 @@
+## Unit 1 - Introduction to Data Analytics
+
+- Data analytics is the process of collecting, organizing, analyzing, and interpreting data to gain insights and support decision making.
+- Data analytics can be applied to various domains, such as business, science, engineering, health, education, and social sciences.
+- Data analytics can be classified into four types, depending on the purpose and complexity of the analysis:
+  - Descriptive analytics: summarizes what has happened in the past using historical data, such as charts, tables, and statistics.
+  - Diagnostic analytics: explains why something has happened in the past using historical data, such as correlation, regression, and root cause analysis.
+  - Predictive analytics: forecasts what is likely to happen in the future using historical and current data, such as machine learning, simulation, and scenario analysis.
+  - Prescriptive analytics: recommends what should be done in the future using historical, current, and future data, such as optimization, decision analysis, and recommendation systems.
+- Data analytics involves various steps, such as data collection, data preparation, data analysis, data visualization, and data communication.
+  - Data collection: the process of acquiring data from different sources, such as databases, files, sensors, surveys, and web scraping.
+  - Data preparation: the process of cleaning, transforming, and integrating data to make it suitable for analysis, such as handling missing values, outliers, duplicates, and inconsistencies.
+  - Data analysis: the process of applying statistical and computational methods to data to discover patterns, trends, and relationships, such as descriptive statistics, hypothesis testing, clustering, and classification.
+  - Data visualization: the process of presenting data in graphical or interactive forms to make it easier to understand and explore, such as charts, maps, dashboards, and infographics.
+  - Data communication: the process of conveying the results and insights of data analysis to the intended audience, such as reports, presentations, and stories.
+- Data analytics requires various skills, tools, and techniques, such as:
+  - Data literacy: the ability to read, understand, and communicate data effectively.
+  - Data ethics: the principles and practices of responsible and ethical use of data, such as privacy, security, and fairness.
+  - Data management: the techniques and systems for storing, organizing, and accessing data, such as relational databases, data warehouses, and data lakes.
+  - Data processing: the methods and frameworks for processing large and complex data, such as cloud computing, big data, and distributed computing.
+  - Data programming: the languages and libraries for manipulating and analyzing data, such as Python, R, SQL, and pandas.
+  - Data modeling: the approaches and algorithms for building and evaluating data-driven models, such as regression, classification, clustering, and neural networks.
+  - Data visualization: the tools and principles for creating effective and engaging data visualizations, such as Tableau, Power BI, matplotlib, and ggplot2.
+  - Data storytelling: the techniques and strategies for crafting and delivering data stories, such as narrative, context, and audience.

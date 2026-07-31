@@ -1,0 +1,15 @@
+### Interface Servlet and the Servlet Life Cycle in Servlets
+
+- A servlet is a Java class that runs on a web server and handles HTTP requests and responses.
+- All servlets must implement the `javax.servlet.Servlet` interface, which defines the methods to initialize a servlet, to service requests, and to destroy a servlet from the server.
+- These methods are known as life-cycle methods, and are called by the web container (the application that manages the servlets) at different stages of the servlet's existence.
+- The life cycle of a servlet consists of the following stages:
+
+  1. **Servlet is loaded**: The web container loads the servlet class when it receives a request for the servlet or when the servlet is configured to load at startup. The servlet class is loaded only once for each web container.
+  2. **Servlet is initialized**: The web container calls the `init()` method of the servlet to initialize it. The `init()` method receives a `ServletConfig` object that contains the initialization parameters and the servlet context. The `init()` method is called only once for each servlet instance.
+  3. **Servlet is ready to service**: After the `init()` method is completed, the servlet is ready to handle HTTP requests. The web container creates a new thread for each request and calls the `service()` method of the servlet. The `service()` method receives a `HttpServletRequest` object that contains the request information and a `HttpServletResponse` object that is used to send the response. The `service()` method can delegate the request to other methods such as `doGet()`, `doPost()`, etc. depending on the HTTP method of the request.
+  4. **Servlet is servicing**: The servlet processes the request and generates the response using the `HttpServletResponse` object. The servlet can also access the servlet context and the session information using the `HttpServletRequest` object. The servlet can also communicate with other servlets or resources using the `RequestDispatcher` or the `ServletContext` objects.
+  5. **Servlet is not ready to service**: The servlet can become unavailable to service requests for various reasons, such as being temporarily disabled, being reloaded, or being shut down. The web container calls the `isUnavailable()` method of the servlet to check its availability status. If the servlet is unavailable, the web container returns an error response to the client or tries another servlet that can handle the request.
+  6. **Servlet is destroyed**: The web container calls the `destroy()` method of the servlet to destroy it. The `destroy()` method is called only once for each servlet instance and it releases any resources that the servlet is using. The web container may destroy a servlet when it is shutting down, when it needs to free some memory, or when it is reloading the servlet class.
+
+- A possible mnemonic to remember the life cycle stages of a servlet is **LIDS**: **L**oad, **I**nit, **D**estroy, **S**ervice.

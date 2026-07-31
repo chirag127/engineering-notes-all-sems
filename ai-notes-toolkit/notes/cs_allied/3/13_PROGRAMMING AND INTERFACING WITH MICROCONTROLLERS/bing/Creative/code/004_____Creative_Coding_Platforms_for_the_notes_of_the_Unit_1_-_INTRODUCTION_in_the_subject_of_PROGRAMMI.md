@@ -1,0 +1,11 @@
+# Creative Coding Platforms
+
+- Creative coding is the practice of using programming languages and techniques to create artistic expressions, such as animations, games, music, interactive installations, etc.
+- Creative coding platforms are tools or environments that facilitate creative coding by providing features such as libraries, editors, compilers, debuggers, etc.
+- Some examples of creative coding platforms are:
+
+  - **Processing**: A Java-based platform that offers a simplified syntax and a rich set of graphics and media libraries. It also has a web-based version called p5.js that uses JavaScript and HTML5 canvas. Processing is widely used for teaching and learning creative coding, as well as for creating artistic projects. 
+  - **Tynker**: A web-based platform that teaches K-12 students the basics of coding through interactive games, puzzles, and stories. It also allows students to create their own games, animations, and apps using block-based or text-based coding. Tynker integrates with popular platforms such as Minecraft, Lego, and Arduino.  
+  - **OpenProcessing**: A web-based platform that allows users to create and share sketches using Processing or p5.js. It also provides a community of creative coders, educators, and designers that can inspire and collaborate with each other. OpenProcessing is free for personal and educational use. 
+  - **CodePen**: A web-based platform that allows users to create and share front-end web development projects using HTML, CSS, and JavaScript. It also provides a variety of templates, libraries, and frameworks to enhance the functionality and appearance of the projects. CodePen is used by web developers, designers, and educators to showcase their work and learn from others. 
+  - **Sonic Pi**: A platform that uses the Ruby programming language to create music and sound. It also provides a live coding environment that allows users to modify and perform their code in real time. Sonic Pi is designed to be accessible, fun, and educational for beginners and professionals alike.

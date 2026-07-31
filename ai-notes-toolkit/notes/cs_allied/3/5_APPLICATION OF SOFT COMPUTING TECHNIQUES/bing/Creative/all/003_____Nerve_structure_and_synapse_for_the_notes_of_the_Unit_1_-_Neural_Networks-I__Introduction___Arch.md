@@ -1,0 +1,28 @@
+# Nerve structure and synapse
+
+- A nerve is a bundle of nerve fibres (axons) that transmit electrical impulses between different parts of the body.
+- A nerve fibre is a long extension of a nerve cell (neuron) that carries an action potential (a brief change in the electrical charge of the cell membrane) from the cell body to the synapse.
+- A synapse is a junction between two nerve cells or between a nerve cell and a muscle cell or a gland cell. It allows the transmission of information from one cell to another.
+- There are two types of synapses: chemical and electrical.
+  - A chemical synapse uses chemical messengers called neurotransmitters to transfer information from the presynaptic cell (the cell that releases the neurotransmitter) to the postsynaptic cell (the cell that receives the neurotransmitter).
+  - An electrical synapse uses direct flow of ions through gap junctions (channels that connect the cytoplasm of adjacent cells) to transfer information from one cell to another.
+- The structure of a chemical synapse consists of the following components:
+  - The presynaptic terminal, which is a swelling at the end of the presynaptic axon that contains synaptic vesicles (membrane-bound sacs that store neurotransmitters).
+  - The synaptic cleft, which is a narrow gap between the presynaptic and postsynaptic membranes that separates the two cells.
+  - The postsynaptic membrane, which is the part of the postsynaptic cell that contains receptors (proteins that bind to neurotransmitters and trigger a response in the cell).
+- The structure of an electrical synapse consists of the following components:
+  - The presynaptic and postsynaptic membranes, which are in close contact with each other and contain gap junctions that allow the passage of ions between the cells.
+  - The cytoplasm of the presynaptic and postsynaptic cells, which is continuous and electrically coupled through the gap junctions.
+- The function of a synapse is to modulate the transmission of information between cells. Depending on the type and amount of neurotransmitter released, the synapse can have different effects on the postsynaptic cell, such as:
+  - Excitation, which increases the likelihood of the postsynaptic cell to fire an action potential.
+  - Inhibition, which decreases the likelihood of the postsynaptic cell to fire an action potential.
+  - Modulation, which alters the sensitivity or responsiveness of the postsynaptic cell to other inputs.
+- The steps of transmission at a chemical synapse are as follows:
+  - An action potential arrives at the presynaptic terminal and depolarizes the membrane, opening voltage-gated calcium channels.
+  - Calcium ions enter the presynaptic terminal and trigger the fusion of synaptic vesicles with the presynaptic membrane, releasing neurotransmitters into the synaptic cleft.
+  - Neurotransmitters diffuse across the synaptic cleft and bind to receptors on the postsynaptic membrane, activating them and causing a change in the membrane potential or intracellular signaling of the postsynaptic cell.
+  - The neurotransmitter effect is terminated by either reuptake (the transport of neurotransmitters back into the presynaptic terminal or nearby glial cells), degradation (the breakdown of neurotransmitters by enzymes in the synaptic cleft or on the postsynaptic membrane), or diffusion (the movement of neurotransmitters away from the synaptic cleft).
+- The steps of transmission at an electrical synapse are as follows:
+  - An action potential arrives at the presynaptic membrane and depolarizes it, creating an electrical gradient across the gap junctions.
+  - Ions flow through the gap junctions from the presynaptic to the postsynaptic cell, depolarizing the postsynaptic membrane and generating an action potential in the postsynaptic cell.
+  - The electrical signal is propagated along the postsynaptic cell without any delay or modification.

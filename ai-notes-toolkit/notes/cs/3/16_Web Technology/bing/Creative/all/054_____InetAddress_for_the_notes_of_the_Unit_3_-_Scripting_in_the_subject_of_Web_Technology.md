@@ -1,0 +1,27 @@
+# InetAddress
+
+- The InetAddress class in Java is a built-in class that represents an Internet Protocol (IP) address.
+- An IP address is either a 32-bit or 128-bit unsigned number used by IP, a lower-level protocol on which protocols like UDP and TCP are built.
+- The InetAddress class can handle both IPv4 and IPv6 addresses.
+- The InetAddress class is in the java.net package and provides methods to get the IP address of any host name, such as www.google.com, www.facebook.com, etc.
+- The InetAddress class also provides methods to check if an IP address is a loopback address, a multicast address, a link-local address, a site-local address, etc.
+- The InetAddress class is an abstract class and has two subclasses: Inet4Address and Inet6Address, which represent IPv4 and IPv6 addresses respectively.
+- The InetAddress class has no public constructor. To create an InetAddress object, one of the following static methods can be used:
+  - getByName(String host): returns an InetAddress object for the given host name or IP address in string format.
+  - getByAddress(byte[] addr): returns an InetAddress object for the given IP address in byte array format.
+  - getByAddress(String host, byte[] addr): returns an InetAddress object for the given host name and IP address in byte array format.
+  - getAllByName(String host): returns an array of InetAddress objects for all the IP addresses that the given host name resolves to.
+  - getLocalHost(): returns an InetAddress object for the local host.
+- Some of the common methods of the InetAddress class are:
+  - getHostAddress(): returns the IP address in string format.
+  - getHostName(): returns the host name, or the IP address if the host name is unknown.
+  - getCanonicalHostName(): returns the fully qualified domain name, or the IP address if the host name is unknown.
+  - isAnyLocalAddress(): returns true if the IP address is a wildcard address, such as 0.0.0.0 or ::.
+  - isLoopbackAddress(): returns true if the IP address is a loopback address, such as 127.0.0.1 or ::1.
+  - isMulticastAddress(): returns true if the IP address is a multicast address, such as 224.0.0.1 or ff02::1.
+  - isLinkLocalAddress(): returns true if the IP address is a link-local address, such as 169.254.0.1 or fe80::1.
+  - isSiteLocalAddress(): returns true if the IP address is a site-local address, such as 10.0.0.1 or fec0::1.
+  - isReachable(int timeout): returns true if the IP address is reachable within the given timeout in milliseconds.
+  - equals(Object obj): returns true if the IP address is equal to the IP address of the given object.
+  - hashCode(): returns the hash code of the IP address.
+  - toString(): returns a string representation of the IP address and the host name.

@@ -1,0 +1,13 @@
+### Techniques for Message Ordering in Distributed Systems
+
+- Message ordering is the problem of ensuring that messages are processed in a consistent and predictable order in a distributed system.
+- Message ordering is important because it affects the correctness and consistency of the system's state and behavior.
+- There are different types of message ordering techniques, depending on the desired level of ordering guarantee and the trade-off between performance and complexity.
+- Some of the common message ordering techniques are:
+
+  - **Unordered**: Messages are delivered in any order, without any guarantee of ordering. This is the simplest and fastest technique, but it may lead to inconsistent or incorrect results. For example, if two processes send messages to update a shared variable, the final value may depend on the order of delivery, which is arbitrary.
+  - **FIFO**: Messages are delivered in the same order as they are sent by each sender. This technique ensures that messages from the same sender are ordered, but it does not guarantee any ordering among messages from different senders. For example, if two processes send messages to increment a shared counter, the final value may depend on the order of delivery of messages from different senders, which is not FIFO.
+  - **Causal**: Messages are delivered in a way that respects the causal dependencies among them. A message m1 is causally dependent on another message m2 if m1 is sent after m2 is received, or if there is a chain of messages that connects m1 and m2. This technique ensures that messages that are causally related are ordered, but it does not guarantee any ordering among messages that are causally unrelated. For example, if two processes send messages to update a shared variable based on the value of another shared variable, the final value may depend on the order of delivery of messages that are causally unrelated, which is not causal.
+  - **Total**: Messages are delivered in the same order to all receivers. This technique ensures that messages are globally ordered, regardless of their sender or causal dependencies. This is the strongest and most desirable technique, but it is also the most complex and costly. For example, if two processes send messages to update a shared variable, the final value will be the same for all receivers, regardless of the order of sending, which is total.
+
+- Different message ordering techniques can be implemented using different protocols, such as logical clocks, vector clocks, timestamps, sequence numbers, etc. These protocols use various mechanisms, such as piggybacking, buffering, acknowledgement, etc. to achieve the desired ordering guarantee.

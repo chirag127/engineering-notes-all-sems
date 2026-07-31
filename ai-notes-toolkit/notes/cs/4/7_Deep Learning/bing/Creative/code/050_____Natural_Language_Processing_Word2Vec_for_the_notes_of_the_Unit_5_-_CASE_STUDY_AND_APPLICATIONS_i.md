@@ -1,0 +1,23 @@
+# Natural Language Processing Word2Vec
+
+- Word2vec is a technique for natural language processing (NLP) that uses a neural network model to learn word associations from a large corpus of text.
+- Word2vec is not a singular algorithm, but a family of model architectures and optimizations that can be used to learn word embeddings from large datasets.
+- Word embeddings are numerical representations of words that capture their semantic and syntactic features.
+- Word2vec can detect synonymous words or suggest additional words for a partial sentence, as well as perform mathematical operations on words to detect their similarities .
+- Word2vec can be used for various downstream NLP tasks, such as sentiment analysis, machine translation, text summarization, etc.
+- Word2vec consists of two main models: skip-gram and continuous bag-of-words (CBOW).
+- Skip-gram model predicts the context words given a target word, while CBOW model predicts the target word given the context words.
+- Both models use a shallow neural network with one hidden layer and a softmax output layer.
+- The hidden layer contains the word vectors that are learned during the training process.
+- The training objective is to maximize the log-likelihood of the correct word given the context, or vice versa.
+- The softmax output layer computes the probability of each word in the vocabulary given the input word or context.
+- The softmax output layer is computationally expensive, so various optimizations are used, such as negative sampling, hierarchical softmax, or sub-sampling.
+- Negative sampling reduces the number of output nodes by randomly sampling a few negative examples (words that are not in the context) for each positive example (word that is in the context).
+- Hierarchical softmax organizes the output nodes into a binary tree, where each node is a binary classifier that predicts whether the word belongs to the left or right subtree.
+- Sub-sampling reduces the frequency of high-frequency words (such as "the" or "of") that provide less information than low-frequency words.
+- Word2vec model is used for word representations in vector space, which can capture the semantic and syntactic similarities and analogies between words.
+- For example, the word vector for "king" minus the word vector for "man" plus the word vector for "woman" is approximately equal to the word vector for "queen".
+- This shows that word2vec can preserve the linear relationships between words in the vector space.
+- Word2vec can also be used to measure the similarity or distance between words, using metrics such as cosine similarity or Euclidean distance.
+- For example, the word vector for "dog" is more similar to the word vector for "cat" than to the word vector for "carrot".
+- This shows that word2vec can capture the semantic features of words in the vector space.

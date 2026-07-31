@@ -1,0 +1,11 @@
+### Part B Study of Lab Equipment’s and Components: CRO, Multi meter, Function Generator, Power supplyActive, Passive Components and Bread Board.
+
+- CRO stands for Cathode Ray Oscilloscope. It is a device that displays the waveform of an electrical signal on a screen. It can measure voltage, frequency, phase, and other parameters of a signal. It consists of a cathode ray tube, a vertical and a horizontal amplifier, a time base generator, and a trigger circuit.
+- Multi meter is a device that can measure multiple electrical quantities, such as voltage, current, resistance, capacitance, and continuity. It can be either analog or digital. It consists of a display, a selector switch, a range selector, and probes.
+- Function Generator is a device that can generate different types of electrical signals, such as sine, square, triangle, and pulse waves. It can vary the frequency, amplitude, and duty cycle of the signals. It consists of a signal generator, a frequency control, an amplitude control, and an output terminal.
+- Power supply is a device that converts AC voltage to DC voltage. It can provide a constant and regulated voltage to a circuit. It consists of a transformer, a rectifier, a filter, and a regulator.
+- Active components are those that can amplify or control the flow of electric current. They require an external source of power to operate. Examples are transistors, diodes, LEDs, and integrated circuits.
+- Passive components are those that can store or dissipate electric energy. They do not require an external source of power to operate. Examples are resistors, capacitors, inductors, and switches.
+- Bread board is a device that allows the user to create temporary circuits without soldering. It consists of a plastic board with holes and metal strips that connect the holes. The user can insert wires and components into the holes to form a circuit.
+
+- These test equipment can be demonstrated online from any lab of ECE department or physical mode is only option. This depends on the availability and accessibility of the equipment and the internet connection. Online mode may have some limitations, such as latency, resolution, and interactivity. Physical mode may have some advantages, such as hands-on experience, feedback, and troubleshooting.

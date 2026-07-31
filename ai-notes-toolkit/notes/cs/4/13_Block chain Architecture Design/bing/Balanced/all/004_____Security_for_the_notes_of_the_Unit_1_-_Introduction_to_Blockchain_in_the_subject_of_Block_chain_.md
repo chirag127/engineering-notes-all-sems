@@ -1,0 +1,10 @@
+# Security for the notes of the Unit 1 - Introduction to Blockchain in the subject of Blockchain Architecture Design
+
+- Blockchain is a distributed database of records of all transactions or digital events that have been executed and shared among participating parties.
+- Blockchain uses advanced cryptography, decentralization and consensus to ensure trust and security in transactions.
+- Blockchain security can be understood at different layers: Layer 0, Layer 1 and Layer 2.
+  - Layer 0 is the underlying network infrastructure that supports the blockchain, such as the internet, peer-to-peer protocols, routing, etc. Layer 0 security involves protecting the network from attacks such as denial-of-service, censorship, or hijacking.
+  - Layer 1 is the core protocol of the blockchain, such as the consensus algorithm, the data structure, the validation rules, etc. Layer 1 security involves ensuring the correctness, consistency, and immutability of the blockchain data and the incentives of the participants.
+  - Layer 2 is the application layer that builds on top of the blockchain, such as smart contracts, decentralized applications, payment channels, etc. Layer 2 security involves ensuring the functionality, performance, and usability of the applications and the protection of the users' assets and privacy.
+- Blockchain security is not static, but dynamic and evolving. It depends on the design choices, the implementation, the environment, and the adversaries. Blockchain security requires a holistic approach that considers all the aspects and trade-offs of the system.
+- Blockchain security is not absolute, but relative and probabilistic. It is based on assumptions and guarantees that can be violated or compromised under certain conditions. Blockchain security requires a rigorous analysis and evaluation of the risks and threats of the system.

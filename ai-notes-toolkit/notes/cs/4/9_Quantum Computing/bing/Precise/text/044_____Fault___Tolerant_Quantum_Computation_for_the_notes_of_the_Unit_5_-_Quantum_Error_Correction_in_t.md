@@ -1,0 +1,7 @@
+### Fault – Tolerant Quantum Computation
+
+1. In quantum computing, the quantum threshold theorem (or quantum fault-tolerance theorem) states that a quantum computer with a physical error rate below a certain threshold can, through application of quantum error correction schemes, suppress the logical error rate to arbitrarily low levels .
+2. Decoherence is an ubiquitous effect observed in quantum mechanics, driving quantum systems towards the classical regime. It is detrimental to quantum computers .
+3. Fault-tolerant universal computation is possible with four extra qubits, 19 in total. The procedures could enable testing more sophisticated protected circuits in small-scale quantum devices. The main technique is to use gadgets to protect gates against correlated faults .
+4. Quantum computers are faulty, but schemes to tolerate errors incur a large space overhead. For example, one qubit encodes into seven physical qubits using the Steane code, or into nine physical qubits using the Bacon-Shor and the smallest surface codes. Error correction uses additional qubits .
+5. Encoded quantum information can be protected from errors that arise due to uncontrolled interactions with the environment, or due to imperfect implementations of quantum logical operations. Recovery from errors can work effectively even if occasional mistakes occur during the recovery procedure .

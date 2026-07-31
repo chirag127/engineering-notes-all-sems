@@ -1,0 +1,13 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on the topic of model planning for the Unit 2 - Data Analytics Lifecycle in the subject of Introduction to Data Analytics and Visualization. Here is the content I have generated for you in markdown format:
+
+### Model Planning
+
+- Model planning is the third phase of the data analytics lifecycle, where the data analyst decides on the appropriate methods and techniques to analyze the data and answer the business question.
+- Model planning involves the following steps:
+
+  - **Selecting the variables and metrics**: The data analyst identifies the relevant variables and metrics that can measure the performance and impact of the data analysis. For example, if the business question is about customer satisfaction, the data analyst may select variables such as customer ratings, feedback, retention, and loyalty.
+  - **Choosing the analytical technique**: The data analyst selects the most suitable analytical technique based on the type and nature of the data, the business question, and the available resources. For example, if the data is numerical and the business question is about finding patterns or trends, the data analyst may choose a technique such as regression, clustering, or time series analysis.
+  - **Designing the model**: The data analyst designs the model by specifying the inputs, outputs, parameters, and assumptions of the analytical technique. For example, if the data analyst chooses regression as the technique, the model may include the dependent variable, the independent variables, the coefficients, and the error term.
+  - **Validating the model**: The data analyst validates the model by testing its accuracy, reliability, and validity using various methods such as cross-validation, sensitivity analysis, or hypothesis testing. For example, if the data analyst uses cross-validation, the model may be trained and tested on different subsets of the data to check its performance and generalizability.
+
+- Model planning is an important phase of the data analytics lifecycle because it determines the quality and usefulness of the data analysis. A well-planned model can provide accurate, reliable, and valid insights that can help answer the business question and support decision making. A poorly-planned model can lead to inaccurate, unreliable, and invalid results that can mislead or confuse the stakeholders and cause potential harm or loss.

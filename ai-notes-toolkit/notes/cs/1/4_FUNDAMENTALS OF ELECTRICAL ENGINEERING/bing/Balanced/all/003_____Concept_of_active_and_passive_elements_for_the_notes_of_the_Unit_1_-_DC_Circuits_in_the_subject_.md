@@ -1,0 +1,7 @@
+# Concept of active and passive elements
+
+- Active and passive elements are two types of electronic circuit elements that have different roles and characteristics.
+- Active elements are capable of supplying energy to the circuit or providing amplification of the input signal. They can control the direction and magnitude of the current or voltage in the circuit. They usually require an external power source to operate. Examples of active elements are transistors, diodes, operational amplifiers, and integrated circuits  .
+- Passive elements are those that consume or store energy in the circuit. They do not have the ability to amplify or control the signal. They only depend on the existing current or voltage in the circuit. Examples of passive elements are resistors, capacitors, inductors, and transformers  .
+- The main difference between active and passive elements is that active elements can provide power gain or increase the signal strength, while passive elements can only provide power loss or decrease the signal strength .
+- Active and passive elements are used for different purposes in electronic circuits. Active elements are used for current and voltage control, signal processing, switching, and logic operations. Passive elements are used for energy storage, discharge, oscillation, filtering, and impedance matching   .

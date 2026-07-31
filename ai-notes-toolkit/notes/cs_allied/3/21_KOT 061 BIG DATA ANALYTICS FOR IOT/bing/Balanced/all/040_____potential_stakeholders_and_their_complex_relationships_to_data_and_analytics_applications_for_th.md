@@ -1,0 +1,35 @@
+# Potential stakeholders and their complex relationships to data and analytics applications
+
+- Stakeholders are individuals or groups who have an interest or influence in the data and analytics (D&A) activities of an organization or project.
+- Stakeholders can have different roles, responsibilities, expectations, and needs regarding the D&A applications, processes, and outcomes.
+- Stakeholders can also have different levels of power, interest, and influence over the D&A activities, which can affect their engagement and support.
+- Stakeholders can be classified into two broad categories: primary and secondary.
+  - Primary stakeholders, also known as internal stakeholders, are directly associated with a business and include people like an employee, shareholder, customer, supplier or creditor.
+  - Secondary stakeholders, also known as external stakeholders, are indirectly associated with a business and include people like regulators, competitors, media, or community.
+- Stakeholders can also be classified into four types based on their power and interest in the D&A activities: promoters, defenders, latents, and apathetics.
+  - Promoters have high power and high interest in the D&A activities and are likely to support and champion them.
+  - Defenders have high power but low interest in the D&A activities and are likely to resist or ignore them unless they see a clear benefit.
+  - Latents have low power but high interest in the D&A activities and are likely to be curious and receptive to them.
+  - Apathetics have low power and low interest in the D&A activities and are likely to be indifferent and passive to them.
+- Stakeholders can have complex relationships to the D&A applications, depending on their roles, needs, and expectations. Some examples of these relationships are :
+  - Data providers: Stakeholders who supply data to the D&A applications, such as sensors, devices, or users.
+  - Data consumers: Stakeholders who use data from the D&A applications, such as decision-makers, operators, or customers.
+  - Data analysts: Stakeholders who perform data analysis on the D&A applications, such as data scientists, engineers, or researchers.
+  - Data curators: Stakeholders who manage and maintain the quality and integrity of the data in the D&A applications, such as data stewards, librarians, or auditors.
+  - Data owners: Stakeholders who have the authority and responsibility for the data in the D&A applications, such as business units, departments, or organizations.
+  - Data regulators: Stakeholders who set and enforce the rules and standards for the data in the D&A applications, such as governments, agencies, or associations.
+- Stakeholders can have different impacts and benefits from the D&A applications, depending on their roles, needs, and expectations. Some examples of these impacts and benefits are :
+  - Business impact: The effect of the D&A applications on the performance, efficiency, and profitability of the business or project.
+  - Personal impact: The effect of the D&A applications on the satisfaction, motivation, and empowerment of the individual stakeholder.
+  - Social impact: The effect of the D&A applications on the welfare, equity, and sustainability of the society or environment.
+  - Value impact: The effect of the D&A applications on the creation, delivery, and capture of value for the stakeholder or the business.
+- Stakeholders can have different challenges and risks from the D&A applications, depending on their roles, needs, and expectations. Some examples of these challenges and risks are :
+  - Data quality: The challenge of ensuring the accuracy, completeness, and timeliness of the data in the D&A applications.
+  - Data security: The challenge of protecting the confidentiality, integrity, and availability of the data in the D&A applications.
+  - Data privacy: The challenge of respecting the rights and preferences of the data subjects in the D&A applications.
+  - Data ethics: The challenge of adhering to the principles and values of the data use in the D&A applications.
+  - Data literacy: The challenge of developing the skills and competencies to understand and communicate the data in the D&A applications.
+  - Data alignment: The challenge of aligning the data objectives and outcomes with the stakeholder expectations and needs in the D&A applications.
+- Stakeholder management is the process of identifying, analyzing, engaging, and communicating with the stakeholders in the D&A activities, to ensure their support and satisfaction.
+- Stakeholder management involves the following steps :
+  - Identify the stakeholders: Determine who are the relevant

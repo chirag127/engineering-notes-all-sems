@@ -1,0 +1,8 @@
+### Speech Fundamentals
+
+- Speech is the most natural and common way of human communication. It is a complex signal that conveys information at multiple levels, such as words, sentences, emotions, intentions, etc.
+- Speech processing is the study of how to analyze, understand, and generate speech using computational methods. It is a subfield of natural language processing (NLP), which is the branch of artificial intelligence that deals with human language in general.
+- Speech processing has many applications, such as speech recognition, speech synthesis, speech translation, speech enhancement, speech coding, speech segmentation, speech summarization, speech emotion recognition, speaker identification, etc.
+- Speech processing involves several challenges, such as the variability of speech signals across speakers, languages, dialects, accents, genders, ages, etc., the ambiguity and complexity of natural language, the presence of noise and distortions, the limitations of computational resources, etc.
+- Speech processing requires knowledge and techniques from various disciplines, such as linguistics, mathematics, statistics, signal processing, machine learning, etc.
+- Speech processing can be divided into two main categories: speech analysis and speech synthesis. Speech analysis is the process of extracting information from speech signals, such as the words, the meaning, the speaker, the emotion, etc. Speech synthesis is the process of generating speech signals from text or other sources, such as the desired words, the voice, the prosody, etc.

@@ -1,0 +1,13 @@
+# Relationships
+
+Relationships are the connections between classes or objects in object-oriented system design. They describe how the classes or objects interact with each other and what kind of dependencies they have. Relationships can be represented using Unified Modeling Language (UML) diagrams, such as class diagrams, which show the structure of a system.
+
+There are four main types of relationships in object-oriented system design:
+
+- **Inheritance**: This is a "is-a" relationship, where a subclass inherits the attributes and operations of a superclass. For example, a Dog class is a subclass of an Animal class, and inherits its attributes (such as name, color, etc.) and operations (such as eat, sleep, etc.). Inheritance is also called generalization or specialization, depending on the direction of the relationship. In UML, inheritance is shown using a solid line with a hollow triangle pointing to the superclass.
+
+- **Association**: This is a "has-a" relationship, where a class or an object has a reference to another class or object. For example, a Person class has a reference to a Car class, and can access its attributes and operations. Association can be one-to-one, one-to-many, many-to-one, or many-to-many, depending on the number of objects involved. In UML, association is shown using a solid line with optional multiplicity indicators at the ends.
+
+- **Composition**: This is a "part-of" relationship, where a class or an object is composed of other classes or objects. For example, a Car class is composed of an Engine class, a Wheel class, a Door class, etc. Composition implies a strong dependency and ownership between the classes or objects, meaning that the composite class or object is responsible for the creation and destruction of its parts. In UML, composition is shown using a solid line with a filled diamond at the end of the composite class or object.
+
+- **Aggregation**: This is a "part-of" relationship, where a class or an object is composed of other classes or objects, but with a weaker dependency and ownership. For example, a Library class is composed of a Book class, but the books can exist independently of the library. Aggregation implies a shared or collective ownership between the classes or objects, meaning that the aggregate class or object does not control the creation and destruction of its parts. In UML, aggregation is shown using a solid line with a hollow diamond at the end of the aggregate class or object.

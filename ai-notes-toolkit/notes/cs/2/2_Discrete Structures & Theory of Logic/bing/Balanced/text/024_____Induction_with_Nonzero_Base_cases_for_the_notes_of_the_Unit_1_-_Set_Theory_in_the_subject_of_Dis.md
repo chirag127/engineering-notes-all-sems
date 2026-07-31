@@ -1,0 +1,8 @@
+### Induction with Nonzero Base Cases
+
+- Induction is a method of proving statements of the form "for all natural numbers n, P(n) is true", where P is some predicate.
+- The basic idea of induction is to show that P(n) is true for some initial value of n (called the base case), and then show that if P(n) is true for some arbitrary value of n, then P(n+1) is also true (called the inductive step).
+- The base case does not have to be n = 0. Sometimes, it is more convenient or natural to start the induction from a nonzero value of n, such as n = 1 or n = 5.
+- For example, suppose we want to prove that for all natural numbers n greater than or equal to 5, n^2 < 2^n. We can use induction with n = 5 as the base case, and show that if n^2 < 2^n for some n >= 5, then (n+1)^2 < 2^(n+1) for the next value of n.
+- When using induction with a nonzero base case, we have to make sure that the statement we want to prove is true for all values of n from the base case onwards. For example, if we want to prove that for all natural numbers n greater than or equal to 1, P(n) is true, we cannot use induction with n = 0 as the base case, because P(0) may not be true or even well-defined.
+- Sometimes, we can use a stronger form of induction, called strong induction, to prove statements without a separate base case. In strong induction, we assume that P(n) is true for all values of n less than or equal to some arbitrary value of n, and then show that P(n+1) is true. This way, we can use the smallest value of n for which P(n) is true as the base case, and the induction step will cover all the other values of n. However, strong induction is not always applicable or simpler than ordinary induction.

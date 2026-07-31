@@ -1,0 +1,13 @@
+### Security Architecture in the Internet of Things
+
+- Security architecture is the design and implementation of security solutions to protect IoT devices, data, networks, and applications from various threats and risks.
+- Security architecture can be seen from two perspectives: 
+  - A layered architecture, where security is applied across the entire IoT stack, from the connectivity layer at the bottom to the application layer at the top .
+  - An end-to-end architecture, where security is implemented at all points, from end devices to network to cloud .
+- Security architecture can be divided into four main layers: 
+  - Sensing layer: This layer consists of the actual IoT devices, such as sensors, actuators, cameras, etc. Security in this layer involves protecting the devices from physical tampering, malware, hijacking, unauthorized access, etc. Security solutions in this layer include device authentication, encryption, firmware updates, etc .
+  - Network layer: This layer consists of the communication networks that connect the IoT devices to each other and to the cloud, such as Wi-Fi, Bluetooth, cellular, etc. Security in this layer involves securing the data transmitted across the networks from interception, modification, replay, etc. Security solutions in this layer include encryption, authentication, VPN, firewall, etc .
+  - Service layer: This layer consists of the cloud platforms and services that process, store, and analyze the IoT data, such as AWS, Azure, Google Cloud, etc. Security in this layer involves preventing data leaks, breaches, unauthorized access, etc. Security solutions in this layer include encryption, access control, auditing, backup, etc .
+  - Application layer: This layer consists of the applications and interfaces that provide the functionality and value of the IoT solutions, such as web, mobile, dashboard, etc. Security in this layer involves protecting the applications from malicious attacks, such as injection, cross-site scripting, denial-of-service, etc. Security solutions in this layer include encryption, authentication, authorization, input validation, etc .
+- Security architecture should be based on a threat modeling process, where the potential threats and risks are identified, analyzed, and mitigated according to the specific IoT scenario and requirements.
+- Security architecture should also follow the security principles of confidentiality, integrity, availability, accountability, and non-repudiation, as well as the security best practices of defense-in-depth, least privilege, and security by design .

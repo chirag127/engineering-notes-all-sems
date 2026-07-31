@@ -1,0 +1,33 @@
+### Serial UART Communication
+
+- UART stands for **Universal Asynchronous Receiver Transmitter**  , which is a serial communication device that performs parallel-to-serial and serial-to-parallel data conversion.
+- UART is universal because the parameters like transfer speed, data speed, etc. are configurable.
+- UART is asynchronous because there is no clock signal to synchronize the output bits from the transmitter to the receiver.
+- UART is composed of two main components: a **transmitter** and a **receiver**    .
+- The transmitter converts parallel data from a data bus into serial data and sends it out through a single wire called **TX**    .
+- The receiver converts serial data from a single wire called **RX** into parallel data and sends it to a data bus    .
+- The TX and RX wires are usually crossed between two UART devices, so that the transmitter of one device is connected to the receiver of the other device, and vice versa    .
+- UART communication requires both devices to agree on the following parameters    :
+  - **Baud rate**: the number of bits per second that are transmitted or received.
+  - **Data bits**: the number of bits that represent a single character of data (usually 7 or 8).
+  - **Parity bit**: an optional bit that is used for error detection (odd, even, none, mark, or space).
+  - **Stop bits**: the number of bits that indicate the end of a data frame (usually 1 or 2).
+  - **Flow control**: an optional mechanism that regulates the data flow between the devices (hardware or software).
+- UART communication follows a basic protocol of sending and receiving data frames    :
+  - A data frame consists of a **start bit**, followed by the data bits, followed by the optional parity bit, followed by the stop bits.
+  - The start bit is always 0 (low voltage), and the stop bits are always 1 (high voltage).
+  - The data bits are transmitted in the order of least significant bit (LSB) to most significant bit (MSB), or vice versa, depending on the configuration.
+  - The parity bit is calculated by counting the number of 1s in the data bits, and setting it to 0 or 1 to make the total number of 1s odd or even, respectively, or to a fixed value of 0 or 1, depending on the configuration.
+  - The flow control mechanism can use either hardware signals (such as RTS and CTS) or software signals (such as XON and XOFF) to indicate when the transmitter or the receiver is ready or not ready to send or receive data.
+- UART communication is widely used for serial communication between devices, such as computers, microcontrollers, sensors, modems, etc.    .
+- UART communication has some advantages and disadvantages    :
+  - Advantages:
+    - Simple and easy to implement.
+    - Low cost and low power consumption.
+    - Flexible and configurable parameters.
+    - Full-duplex communication (can send and receive data simultaneously).
+  - Disadvantages:
+    - Limited data rate and distance.
+    - No error correction or retransmission.
+    - No standard protocol or format.
+    - Susceptible to noise and interference.

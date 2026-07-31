@@ -1,0 +1,26 @@
+# KOT 553 INTERNET OF THINGS LAB KCS
+
+- Internet of Things (IoT) is the network of physical objects or things embedded with sensors, actuators, and software that enable them to exchange data with other devices or systems over the internet.
+- IoT Lab is a place where students can learn and practice the concepts, principles, and challenges of IoT, as well as the functioning of hardware devices and sensors used for IoT applications.
+- KOT 553 is a course code for Internet of Things Lab offered by the Department of Computer Science and Engineering (CSE) at Dr. A.P.J. Abdul Kalam Technical University (AKTU) in Lucknow, India.
+- The course objectives are:
+  - To provide hands-on experience on IoT devices and platforms.
+  - To develop skills for designing, developing, and testing IoT applications.
+  - To expose students to various IoT domains and use cases.
+- The course outcomes are:
+  - Students will be able to demonstrate basic concepts, principles, and challenges in IoT.
+  - Students will be able to illustrate functioning of hardware devices and sensors used for IoT.
+  - Students will be able to design and implement IoT applications using various platforms and tools.
+  - Students will be able to analyze and evaluate the performance and security of IoT applications.
+- The course syllabus covers the following topics:
+  - Introduction to IoT: Definition, characteristics, architecture, components, applications, and challenges of IoT.
+  - IoT Devices and Sensors: Types, features, functions, and interfacing of IoT devices and sensors such as Arduino, Raspberry Pi, ESP32, NodeMCU, etc.
+  - IoT Platforms and Protocols: Overview, comparison, and usage of various IoT platforms and protocols such as AWS IoT, Google Cloud IoT, Azure IoT, MQTT, CoAP, HTTP, etc.
+  - IoT Application Development: Steps, tools, and techniques for developing IoT applications using Arduino IDE, Python, Node-RED, etc.
+  - IoT Application Domains: Examples and case studies of IoT applications in various domains such as smart home, smart city, smart agriculture, smart health, etc.
+  - IoT Security and Privacy: Issues, threats, and solutions for ensuring security and privacy of IoT systems and data.
+- The course assessment is based on the following components:
+  - Lab Assignments: 10 marks
+  - Mid Semester Exam: 15 marks
+  - End Semester Exam: 25 marks
+  - Total: 50 marks

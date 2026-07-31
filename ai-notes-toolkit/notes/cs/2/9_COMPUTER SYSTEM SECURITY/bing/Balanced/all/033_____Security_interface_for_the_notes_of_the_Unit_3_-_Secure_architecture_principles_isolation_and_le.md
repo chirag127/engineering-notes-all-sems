@@ -1,0 +1,9 @@
+# Security interface for the notes of the Unit 3 - Secure architecture principles isolation and leas in the subject of COMPUTER SYSTEM SECURITY
+
+- Security interface is a set of user interface elements that provide security features such as authorization, access to digital certificates, and access to items in keychains.
+- Secure architecture principles are the guidelines for designing and implementing secure systems that can resist attacks and minimize risks.
+- Isolation and least privilege are two important secure architecture principles that aim to compartmentalize the system and limit the access and privileges of each component.
+- Isolation means separating the system into independent and protected modules that have minimal interaction and communication with each other. Isolation can be achieved by using different layers of abstraction, encryption, firewalls, virtualization, and sandboxing .
+- Least privilege means granting the minimum amount of access and permissions to each user, process, or component that is necessary to perform a specific task . Least privilege can be enforced by using authentication, authorization, access control lists, role-based access control, and mandatory access control .
+- Web security landscape is the overview of the threats and challenges that web applications and services face in the internet environment .
+- Web security definitions and goals are the concepts and objectives that define what constitutes a secure web application or service . Some of the common web security definitions and goals are confidentiality, integrity, availability, authentication, authorization, accountability, and non-repudiation .

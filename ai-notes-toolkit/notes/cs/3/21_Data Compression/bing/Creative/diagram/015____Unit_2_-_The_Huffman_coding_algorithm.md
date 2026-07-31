@@ -1,0 +1,8 @@
+## Unit 2 - The Huffman coding algorithm
+
+- The Huffman coding algorithm is a method of lossless data compression that assigns variable-length codes to symbols based on their frequencies of occurrence in the data.
+- The algorithm works by building a binary tree of nodes, where each node represents a symbol or a group of symbols. The root node represents the entire data, and the leaf nodes represent the individual symbols.
+- The algorithm starts by creating a node for each symbol and assigning it a weight equal to its frequency. Then, it repeatedly merges the two nodes with the lowest weights into a new node, whose weight is the sum of the weights of its children. The process continues until there is only one node left, which is the root of the tree.
+- The code for each symbol is obtained by traversing the tree from the root to the leaf node corresponding to that symbol, and appending a 0 or a 1 depending on whether the left or the right child is chosen at each step. The codes are prefix-free, meaning that no code is a prefix of another code.
+- The Huffman coding algorithm is optimal, meaning that it produces the shortest possible codes for a given set of symbols and frequencies. The average code length is equal to the entropy of the data, which is the lower bound for any lossless compression method.
+- The Huffman coding algorithm can be applied to any type of data, such as text, images, audio, or video. However, it requires the knowledge of the symbol frequencies in advance, or a way to estimate them from the data. It also requires the transmission or storage of the code tree along with the compressed data, which may add some overhead.

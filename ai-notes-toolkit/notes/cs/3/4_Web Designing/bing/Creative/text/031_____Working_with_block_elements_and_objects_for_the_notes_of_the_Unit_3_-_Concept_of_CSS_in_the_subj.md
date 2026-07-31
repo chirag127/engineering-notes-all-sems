@@ -1,0 +1,8 @@
+### Working with block elements and objects
+
+- Block elements are HTML elements that occupy the entire width of their parent container and start on a new line. Examples of block elements are `<div>`, `<p>`, `<h1>`-`<h6>`, `<ul>`, `<ol>`, `<table>`, etc.
+- Block elements can be styled using CSS properties such as `width`, `height`, `margin`, `padding`, `border`, `background`, `display`, `position`, `float`, `clear`, etc.
+- Block elements can contain other block elements or inline elements as their children. Inline elements are HTML elements that occupy only the space required by their content and do not start on a new line. Examples of inline elements are `<span>`, `<a>`, `<img>`, `<strong>`, `<em>`, etc.
+- Objects are special types of block elements that can be embedded in HTML documents and display external content such as images, videos, audio, flash, etc. Examples of objects are `<img>`, `<video>`, `<audio>`, `<object>`, `<embed>`, `<iframe>`, etc.
+- Objects can be styled using CSS properties such as `width`, `height`, `margin`, `padding`, `border`, `background`, `display`, `position`, `float`, `clear`, etc. Some objects also have their own attributes and properties that can be used to control their appearance and behavior. For example, `<img>` has `src`, `alt`, `title`, `width`, `height`, etc. `<video>` has `src`, `controls`, `autoplay`, `loop`, `muted`, `width`, `height`, etc.
+- Objects can also be manipulated using JavaScript, which is a scripting language that can add interactivity and functionality to web pages. For example, JavaScript can be used to change the `src` attribute of an `<img>` element, play or pause a `<video>` element, or access the content of an `<iframe>` element.

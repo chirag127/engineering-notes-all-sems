@@ -1,0 +1,24 @@
+## Unit 4 - Transport & Session Layer Protocols
+
+- The transport layer is the fourth layer of the OSI model. It is responsible for providing reliable and efficient data transfer between applications on different hosts in a network. 
+- The session layer is the fifth layer of the OSI model. It is responsible for establishing, maintaining, and terminating sessions between applications on different hosts in a network.  
+- Some of the main functions of the transport layer are:
+  - Multiplexing and demultiplexing: The transport layer can use port numbers to identify different applications or processes on the same host and deliver data to the correct destination. 
+  - Segmentation and reassembly: The transport layer can divide large data units into smaller segments that can fit into the network layer packets and reassemble them at the destination. 
+  - Flow control: The transport layer can regulate the rate of data transmission between the sender and the receiver to avoid congestion or buffer overflow. 
+  - Error control: The transport layer can detect and correct errors in the data transmission using checksums, acknowledgments, and retransmissions. 
+  - Connection management: The transport layer can establish, maintain, and terminate connections between the sender and the receiver using handshaking, sequence numbers, and flags. 
+- Some of the main functions of the session layer are:
+  - Session establishment: The session layer can negotiate the parameters and rules for the data exchange between the applications, such as the protocol, the mode, the security, and the synchronization. 
+  - Session maintenance: The session layer can manage the state and the data flow of the session, such as the direction, the sequence, the checkpoints, and the timeouts. 
+  - Session termination: The session layer can gracefully end the session and release the resources allocated for the data exchange. 
+- Some of the common transport layer protocols are:
+  - Transmission Control Protocol (TCP): TCP is a connection-oriented, reliable, and full-duplex protocol that provides error control, flow control, and congestion control. TCP is used by applications that require guaranteed delivery and ordered data, such as web browsing, email, and file transfer.  
+  - User Datagram Protocol (UDP): UDP is a connectionless, unreliable, and simple protocol that provides minimal error detection and no error recovery, flow control, or congestion control. UDP is used by applications that require speed and efficiency over reliability and order, such as streaming, gaming, and voice over IP.  
+  - Stream Control Transmission Protocol (SCTP): SCTP is a connection-oriented, reliable, and message-oriented protocol that provides error control, flow control, congestion control, and multihoming. SCTP is used by applications that require multiple streams of data and fault tolerance, such as telephony, signaling, and multimedia. 
+  - Datagram Congestion Control Protocol (DCCP): DCCP is a connection-oriented, unreliable, and congestion-controlled protocol that provides feedback and acknowledgment mechanisms for data transmission. DCCP is used by applications that require congestion control but can tolerate some data loss, such as video conferencing, online gaming, and media streaming. 
+- Some of the common session layer protocols are:
+  - Session Initiation Protocol (SIP): SIP is a signaling protocol that is used to establish, modify, and terminate multimedia sessions over the Internet, such as voice, video, and chat. SIP uses a request-response mechanism and supports various transport layer protocols, such as TCP, UDP, and SCTP. 
+  - Remote Procedure Call (RPC): RPC is a protocol that is used to invoke procedures or functions on remote hosts over a network. RPC uses a client-server model and supports various transport layer protocols, such as TCP and UDP. 
+  - Network File System (NFS): NFS is a protocol that is used to access and share files and directories on remote hosts over a network. NFS uses a client-server model and supports various transport layer protocols, such as TCP and UDP. 
+  - Structured Query Language (SQL): SQL is a protocol that is used to manipulate and query data on relational databases over a network. SQL uses a client-server model and supports various transport layer protocols, such as TCP and UDP.

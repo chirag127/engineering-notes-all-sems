@@ -1,0 +1,10 @@
+### Performance Metric for Distributed Mutual Exclusion Algorithms
+
+Distributed mutual exclusion algorithms are algorithms that ensure that only one process at a time can access a shared resource in a distributed system. The performance of these algorithms can be evaluated by the following metrics :
+
+- **Message complexity**: It is the number of messages that are required per critical section (CS) execution by a process. It reflects the communication overhead and network congestion caused by the algorithm. A lower message complexity is desirable.
+- **Synchronization delay**: It is the time elapsed between the departure of a process from the CS and the entry of the next process into the CS. It reflects the degree of concurrency and fairness achieved by the algorithm. A lower synchronization delay is desirable.
+- **Response time**: It is the time interval between the request of a process to enter the CS and the end of its CS execution. It reflects the waiting time and the service time experienced by the process. A lower response time is desirable.
+- **Throughput**: It is the number of CS executions per unit time in the system. It reflects the efficiency and utilization of the shared resource by the processes. A higher throughput is desirable.
+
+Different algorithms may have different trade-offs among these metrics, depending on the assumptions and design choices they make. For example, some algorithms may use a central coordinator to grant access to the CS, while others may use a distributed token or a quorum of processes . Some algorithms may use a FIFO queue to order the requests, while others may use a priority queue or a random order. Some algorithms may require the processes to know the global state of the system, while others may allow the processes to have partial or outdated information. These factors may affect the performance of the algorithms in different scenarios and workloads. Therefore, it is important to compare and analyze the algorithms using the performance metrics mentioned above.

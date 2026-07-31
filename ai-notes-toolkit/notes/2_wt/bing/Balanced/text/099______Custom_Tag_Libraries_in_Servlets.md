@@ -1,0 +1,23 @@
+#### Custom Tag Libraries in Servlets
+
+- Custom tag libraries are a way of creating reusable components in JavaServer Pages (JSP) technology.
+- Custom tags are user-defined tags that can encapsulate complex logic, presentation, or functionality in a simple and declarative way.
+- Custom tags can be used to simplify the JSP code, improve its readability and maintainability, and promote code reuse.
+- Custom tags are defined in tag libraries, which are collections of tag handlers and tag attributes that implement the custom tag functionality.
+- Tag libraries are packaged in tag library descriptor (TLD) files, which are XML documents that specify the name, attributes, and body content of each custom tag, as well as the tag handler class that implements its behavior.
+- Tag libraries can be deployed in web applications as JAR files or as TLD files in the WEB-INF directory or its subdirectories.
+- To use a custom tag in a JSP page, the tag library must be declared with the taglib directive, which specifies the prefix to use for the custom tags and the URI that identifies the tag library.
+- The prefix can be any valid XML name that is not already used by another tag library or a standard JSP tag.
+- The URI can be a relative or absolute URL, or a simple string that is mapped to a tag library location in the web.xml deployment descriptor.
+- Custom tags can have attributes that pass parameters to the tag handler. Attributes can be mandatory or optional, and can have default values.
+- Custom tags can also have a body, which can be empty, scriptless, or tagdependent.
+- An empty body means that the custom tag does not accept any content between its start and end tags.
+- A scriptless body means that the custom tag accepts only static text and other custom tags as its content, but not any JSP scriptlets, expressions, or declarations.
+- A tagdependent body means that the custom tag accepts any content as its body, and does not process it as JSP code. The tag handler is responsible for handling the body content.
+- Custom tags can be implemented using two approaches: the simple tag handler API or the classic tag handler API.
+- The simple tag handler API is a newer and simpler way of creating custom tags, which requires only one class that extends the SimpleTagSupport abstract class and overrides the doTag() method.
+- The classic tag handler API is an older and more complex way of creating custom tags, which requires two classes: one that implements the Tag interface and another that implements the TagExtraInfo interface. The Tag interface defines the lifecycle methods of the custom tag, such as doStartTag(), doEndTag(), and release(). The TagExtraInfo interface provides additional information about the custom tag, such as its variable information and validation rules.
+- Custom tags can also cooperate with other custom tags or JSP actions by using tag variables, tag files, and tag plugins.
+- Tag variables are objects that are created and scoped by custom tags, and can be accessed by other custom tags or JSP actions within the same page or a nested page.
+- Tag files are JSP fragments that define a custom tag using JSP syntax, and can be used as an alternative or a complement to tag handler classes.
+- Tag plugins are components that generate custom tag code from a tag file, and can be used to support custom tags on different JSP containers or versions.

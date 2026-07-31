@@ -1,0 +1,24 @@
+# Design Guidelines - Theoretical Foundations of Wayfinding for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+
+- Wayfinding is the ability to navigate from one location to another in an unfamiliar environment.
+- Wayfinding in virtual environments (VEs) is similar to wayfinding in real environments, but also poses some unique challenges and opportunities.
+- Wayfinding in VEs involves three main subprocesses: cognitive mapping, wayfinding plan development, and physical movement.
+- Cognitive mapping is the process of acquiring, storing, and retrieving spatial information about the environment.
+- Wayfinding plan development is the process of deciding on a route or a sequence of actions to reach a destination.
+- Physical movement is the process of executing the wayfinding plan and monitoring the progress and feedback from the environment.
+- Design guidelines for wayfinding in VEs should consider the following aspects:
+  - The type and presentation style of spatial information provided to the user.
+  - The design and placement of landmarks in the VE.
+  - The use of orientation cues and reference frames in the VE.
+  - The level of realism and fidelity of the VE.
+  - The user's spatial ability and preferences.
+  - The wayfinding task and context.
+- Some examples of design guidelines for wayfinding in VEs are:
+  - Provide multiple types of spatial information, such as maps, signs, directions, and landmarks, to suit different users and tasks.
+  - Use salient, distinctive, and memorable landmarks that can be easily recognized and recalled.
+  - Place landmarks at strategic locations, such as decision points, intersections, and boundaries.
+  - Provide consistent and coherent orientation cues, such as cardinal directions, compasses, and sun positions.
+  - Use reference frames that are aligned with the user's perspective and the environment's structure.
+  - Balance the realism and fidelity of the VE with the cognitive load and performance of the user.
+  - Adapt the wayfinding aids to the user's spatial ability and preferences, such as providing more guidance for low-spatial users and more exploration for high-spatial users.
+  - Consider the wayfinding task and context, such as the complexity, familiarity, and urgency of the navigation.

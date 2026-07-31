@@ -1,0 +1,15 @@
+## Unit 4 - BASIC CONCEPTS of Speech Processing
+
+Speech processing is the study of how humans produce, perceive, and understand speech, as well as how speech can be processed by machines. Speech processing involves three major levels of processing: speech production, speech perception, and speech analysis.
+
+- Speech production is the process by which thoughts are translated into speech. This includes the selection of words, the organization of relevant grammatical forms, and then the articulation of the resulting sounds by the motor system using the vocal apparatus.
+- Speech perception is the process by which the acoustic signals of speech are decoded and interpreted by the listener. This involves the recognition of speech sounds, words, phrases, and sentences, as well as the extraction of meaning and intention from the speaker.
+- Speech analysis is the process by which speech signals are transformed into numerical or symbolic representations that can be manipulated by machines. This involves the extraction of features, such as pitch, intensity, duration, and spectral properties, from the speech waveform, as well as the application of algorithms and techniques to perform tasks, such as speech recognition, speech synthesis, speech enhancement, speech coding, and speech translation.
+
+Some of the basic concepts of speech processing are:
+
+- Speech is a complex and dynamic signal that varies in time and frequency. Speech can be modeled as a source-filter system, where the source is the vocal cords that produce a periodic or aperiodic pressure wave, and the filter is the vocal tract that shapes the spectrum of the wave by resonating at certain frequencies.
+- Speech is a multimodal phenomenon that involves not only the acoustic signal, but also the visual, gestural, and contextual cues that accompany it. Speech can be influenced by factors, such as the speaker's identity, emotion, attitude, and intention, as well as the listener's expectations, knowledge, and feedback.
+- Speech is a structured and hierarchical signal that consists of different levels of units, such as phonemes, syllables, words, phrases, and sentences. Speech can be analyzed and synthesized using different levels of representation, such as acoustic, articulatory, phonetic, phonological, morphological, syntactic, semantic, and pragmatic.
+- Speech is a stochastic and noisy signal that is subject to variability and uncertainty. Speech can be affected by noise, distortion, reverberation, and channel conditions, as well as by the speaker's and listener's individual differences, such as accent, dialect, age, gender, and health.
+- Speech is a learned and adaptive skill that develops and changes over time. Speech can be acquired and improved through exposure, imitation, feedback, and practice, as well as through the use of technology, such as speech recognition and speech synthesis systems.

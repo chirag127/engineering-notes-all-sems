@@ -1,0 +1,24 @@
+# Basic Concept of Software Design
+
+- Software design is the process of envisioning and defining software solutions to one or more sets of problems .
+- Software design is based on the software requirements analysis (SRA), which is a part of the software development process that lists specifications used in software engineering.
+- Software design is the process by which an agent creates a specification of a software artifact intended to accomplish goals, using a set of primitive components and subject to constraints.
+- Software design involves the following activities :
+  - Identifying and defining the system requirements
+  - Creating the architecture or the overall structure of the system
+  - Choosing the data structures, algorithms, and design patterns
+  - Documenting and communicating the design decisions
+  - Evaluating and testing the design quality and performance
+- Software design follows some principles and guidelines to ensure the quality and maintainability of the software, such as:
+  - Abstraction: hiding irrelevant data and details to reduce complexity and increase efficiency
+  - Modularity: subdividing the system into smaller and independent parts or modules that can be developed and tested separately
+  - Coupling: measuring the degree of interdependence or interaction between the modules
+  - Cohesion: measuring the degree of relatedness or functionality within a module
+  - Encapsulation: binding the data and the operations on the data within a module and hiding them from other modules
+  - Inheritance: reusing the attributes and behaviors of an existing module by creating a new module that inherits from it
+  - Polymorphism: allowing a module to have different forms or behaviors depending on the context or input
+  - Design patterns: reusable and proven solutions to common design problems
+- Software design can be classified into three basic types:
+  - Low-level design: focusing on the implementation details of each module, such as the data types, variables, functions, and algorithms
+  - High-level design: focusing on the overall architecture and structure of the system, such as the modules, their interfaces, and their interactions
+  - User interface design: focusing on the appearance and usability of the system, such as the layout, colors, fonts, icons, and navigation

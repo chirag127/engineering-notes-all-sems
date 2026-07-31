@@ -1,0 +1,12 @@
+### Communicating data with H/W units for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things
+
+- IoT devices are physical objects that are embedded with sensors, actuators, and communication interfaces that can collect, process, and exchange data with other devices or applications over the internet .
+- IoT devices can communicate data with H/W units in different ways, depending on the type, purpose, and location of the device, as well as the network protocol, data format, and security requirements  .
+- Some of the common ways of communicating data with H/W units are:
+
+  - **Wired communication**: This involves using a physical cable or wire to connect the IoT device to a network server or a cloud application, usually via an Ethernet port or a serial protocol. This method offers high reliability, speed, and security, but also requires more power, space, and cost.
+  - **Wireless communication**: This involves using radio signals to transmit data between the IoT device and a gateway, another device, or a cloud application, without the need for a physical connection. This method offers more flexibility, mobility, and scalability, but also faces more challenges such as interference, latency, and security  .
+  - **Unidirectional communication**: This involves sending data from the IoT device to a gateway, another device, or a cloud application, without expecting any response or feedback. This method is suitable for simple and periodic data collection, such as temperature, humidity, or motion sensors.
+  - **Bidirectional communication**: This involves sending and receiving data between the IoT device and a gateway, another device, or a cloud application, allowing for more interaction and control. This method is suitable for complex and dynamic data exchange, such as smart home, health care, or industrial applications.
+  - **Human to Machine (H2M) communication**: This involves giving input to the IoT device by a human, such as speech, text, image, gesture, or touch, and receiving output from the IoT device by a human, such as text, sound, image, or visual display. This method is suitable for user-friendly and intuitive applications, such as voice assistants, smart watches, or smart glasses.
+  - **Machine to Machine (M2M) communication**: This involves exchanging data between two or more IoT devices, without any human intervention or supervision. This method is suitable for autonomous and collaborative applications, such as smart grid, smart traffic, or smart agriculture.

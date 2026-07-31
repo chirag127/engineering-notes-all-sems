@@ -1,0 +1,9 @@
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to learn or discuss. You have asked me to write the content in markdown format on the topic of Introduction to HTML for the notes of the Unit 1 - Introduction in the subject of Web Designing. Here is the content I have generated for you:
+
+### Introduction to HTML
+
+- HTML stands for HyperText Markup Language. It is the standard language for creating web pages and web applications.
+- HTML describes the structure and content of a web page using tags, elements, and attributes. Tags are keywords enclosed in angle brackets (< and >) that define how the content should be displayed or processed. Elements are the building blocks of HTML documents that consist of a start tag, an end tag, and the content in between. Attributes are additional information that modify the behavior or appearance of an element. They are specified in the start tag using the syntax name="value".
+- HTML documents have a basic structure that consists of a declaration, a head section, and a body section. The declaration tells the browser what version of HTML is used. The head section contains information about the document, such as the title, meta data, links to stylesheets or scripts, etc. The body section contains the actual content of the document, such as headings, paragraphs, images, links, forms, etc.
+- HTML documents are saved with the .html or .htm extension and can be viewed in any web browser. To create and edit HTML documents, you can use any text editor, such as Notepad, or a specialized HTML editor, such as Dreamweaver, Visual Studio Code, etc.
+- HTML is not a programming language, but a markup language. It does not have logic, variables, functions, or loops. It only defines the structure and content of a web page. To add interactivity, functionality, or dynamic features to a web page, you need to use other languages, such as JavaScript, PHP, Python, etc.

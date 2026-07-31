@@ -1,0 +1,31 @@
+## Unit 2 - DEEP NETWORKS
+
+- A deep network is an artificial neural network with multiple layers between the input and output layers.
+- A layer is a set of units (also called neurons or nodes) that perform some computation on the input data and produce some output data.
+- A unit is a function that takes a weighted sum of its inputs, adds a bias term, and applies a non-linear activation function.
+- A weight is a numerical value that determines the strength of the connection between two units.
+- A bias is a numerical value that shifts the output of a unit.
+- An activation function is a function that maps the input of a unit to its output, usually introducing some non-linearity.
+- A deep network can learn complex non-linear relationships between the input and output data by adjusting its weights and biases through a learning algorithm.
+- A learning algorithm is a procedure that iteratively updates the weights and biases of a deep network based on some objective function (also called loss function or cost function) that measures the error between the network output and the desired output.
+- A common learning algorithm for deep networks is gradient descent, which calculates the gradient (or direction of steepest descent) of the objective function with respect to the weights and biases, and updates them by a small amount in the opposite direction of the gradient.
+- A gradient is a vector that contains the partial derivatives of the objective function with respect to each weight and bias in the network.
+- A partial derivative is a measure of how much the objective function changes when a weight or bias is changed by a small amount, holding everything else constant.
+- Gradient descent can be applied to the whole dataset (batch gradient descent), to a subset of the dataset (mini-batch gradient descent), or to a single data point (stochastic gradient descent).
+- Gradient descent can be improved by using different learning rates, momentum terms, adaptive methods, or second-order methods.
+- A learning rate is a parameter that controls how much the weights and biases are updated at each iteration of gradient descent.
+- A momentum term is a parameter that adds a fraction of the previous weight or bias update to the current update, to accelerate the convergence and avoid local minima.
+- An adaptive method is a method that adjusts the learning rate for each weight and bias based on their gradients, to achieve faster and more stable convergence.
+- A second-order method is a method that uses the second derivatives (or the Hessian matrix) of the objective function to approximate the curvature of the error surface, and updates the weights and biases accordingly, to achieve more accurate and efficient convergence.
+- A deep network can have different types of layers, such as fully connected layers, convolutional layers, pooling layers, recurrent layers, attention layers, etc., depending on the structure and function of the network.
+- A fully connected layer is a layer where each unit is connected to all the units in the previous layer and the next layer, and performs a linear transformation followed by an activation function.
+- A convolutional layer is a layer where each unit is connected to a local region of the input data, and performs a convolution operation followed by an activation function.
+- A convolution operation is an operation that applies a filter (or a kernel) to the input data, and produces a feature map that captures some local patterns or features of the data.
+- A filter is a small matrix of weights that slides over the input data, and computes the dot product between the filter and the input region at each position.
+- A feature map is a matrix of outputs that represents the response of the filter to the input data at each position.
+- A pooling layer is a layer that reduces the size of the feature maps by applying a pooling operation, such as max pooling, average pooling, or sum pooling.
+- A pooling operation is an operation that divides the feature map into non-overlapping regions, and outputs the maximum, average, or sum of the values in each region, respectively.
+- A recurrent layer is a layer that has a feedback loop, and can process sequential data by maintaining a hidden state that stores some information from the previous inputs.
+- A hidden state is a vector of values that is updated at each time step by combining the current input and the previous hidden state, using a recurrent function.
+- A recurrent function is a function that defines how the hidden state is updated at each time step, such as a simple linear transformation, a gated recurrent unit (GRU), or a long short-term memory (LSTM) unit.
+- A gated recurrent unit is a recurrent function that uses two gates, a reset gate and an update gate,

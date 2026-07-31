@@ -1,0 +1,10 @@
+### Evaluating N-grams
+
+- N-grams are sequences of n words that are used to model the probability of a word given its previous words in a text.
+- N-grams are useful for various natural language processing tasks, such as language modeling, text generation, machine translation, speech recognition, etc.
+- However, n-grams have some limitations and challenges that need to be evaluated and addressed, such as:
+
+  - Data sparsity: N-grams with higher n values are more specific and less frequent in the training data, which leads to zero or low probabilities for unseen n-grams in the test data. This can affect the performance and generalization of n-gram models.
+  - Smoothing techniques: To deal with data sparsity, smoothing techniques are applied to assign some non-zero probabilities to unseen n-grams by redistributing the probabilities of seen n-grams. There are various smoothing techniques, such as Laplace smoothing, Good-Turing smoothing, Kneser-Ney smoothing, etc. Each technique has its own advantages and disadvantages, and the choice of the best technique depends on the data and the task.
+  - Perplexity: Perplexity is a common metric to evaluate the quality of n-gram models. It measures how well the model predicts the test data, or how surprised the model is by the test data. Lower perplexity means higher probability and better prediction. Perplexity is calculated as the inverse of the geometric mean of the probabilities of the test words given their previous words. However, perplexity is not a perfect metric, as it does not account for the semantic or syntactic coherence of the generated text, and it can be affected by the size and domain of the test data.
+  - Out-of-vocabulary words: Out-of-vocabulary words are words that appear in the test data but not in the training data. They can cause problems for n-gram models, as they have zero probability and can affect the probabilities of the following words. A common solution is to replace out-of-vocabulary words with a special token, such as `<UNK>`, and estimate its probability using smoothing techniques or other methods.

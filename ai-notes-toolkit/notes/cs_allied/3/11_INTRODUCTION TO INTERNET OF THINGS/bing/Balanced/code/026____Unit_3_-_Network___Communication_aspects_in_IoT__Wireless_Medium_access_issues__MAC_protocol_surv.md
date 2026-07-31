@@ -1,0 +1,23 @@
+## Unit 3 - Network & Communication aspects in IoT
+
+- IoT devices communicate with other devices, applications, and services over the internet using various protocols and technologies .
+- IoT communication can be classified into three types: device-to-device, device-to-cloud, and device-to-gateway.
+- Device-to-device communication enables direct data exchange between IoT devices without any intermediary. It can use protocols such as Bluetooth, Zigbee, Z-Wave, or Wi-Fi Direct.
+- Device-to-cloud communication involves sending data from IoT devices to cloud servers for processing, storage, or analysis. It can use protocols such as MQTT, CoAP, HTTP, or AMQP.
+- Device-to-gateway communication connects IoT devices to a local gateway device that acts as a bridge between the device network and the internet. It can use protocols such as 6LoWPAN, Thread, or LoRaWAN.
+- Wireless medium access issues in IoT include interference, congestion, energy efficiency, scalability, and security.
+- MAC protocols are used to coordinate the access of multiple devices to a shared wireless medium. They can be classified into contention-based and contention-free protocols.
+- Contention-based protocols allow devices to compete for the medium access using random or deterministic methods. They can be further divided into slotted and unslotted protocols.
+- Slotted protocols divide the time into slots and assign them to devices based on some criteria. Examples are TDMA, FDMA, and CDMA.
+- Unslotted protocols do not use slots and allow devices to transmit whenever they have data. Examples are CSMA, CSMA/CA, and CSMA/CD.
+- Contention-free protocols avoid collisions by using a central controller or a reservation mechanism to grant access to devices. Examples are polling, token passing, and reservation-based protocols.
+- Routing protocols are used to find the optimal path for data delivery in a network of IoT devices. They can be classified into proactive, reactive, and hybrid protocols.
+- Proactive protocols maintain routing tables for all nodes in the network and update them periodically. They have low latency but high overhead. Examples are DSDV, OLSR, and RIP.
+- Reactive protocols discover routes on demand when a source node needs to send data to a destination node. They have low overhead but high latency. Examples are AODV, DSR, and TORA.
+- Hybrid protocols combine the features of proactive and reactive protocols to achieve a balance between latency and overhead. Examples are ZRP, CEDAR, and EIGRP.
+- Sensor deployment and node discovery are the processes of placing and identifying IoT devices in a network. They can be done manually or automatically.
+- Manual deployment and discovery involve human intervention to install and configure the devices. They are suitable for small-scale and static networks.
+- Automatic deployment and discovery involve self-organization and self-configuration of the devices. They are suitable for large-scale and dynamic networks.
+- Data aggregation and dissemination are the processes of collecting and distributing data in a network of IoT devices. They can be done centrally or distributively.
+- Centralized aggregation and dissemination involve a single node or a cluster head that collects data from other nodes and sends it to the sink or the cloud. They have low complexity but high energy consumption and latency.
+- Distributed aggregation and dissemination involve multiple nodes that cooperate to aggregate and disseminate data in a hop-by-hop or a multi-hop manner. They have high complexity but low energy consumption and latency.

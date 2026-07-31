@@ -1,0 +1,10 @@
+### MySQL
+
+MySQL is a relational database management system (RDBMS) that allows us to store, manipulate, and retrieve data in a structured way. MySQL is free, open-source, and widely used for various applications. Some of the basic concepts and features of MySQL are:
+
+- MySQL uses tables to organize data into rows and columns. Each table has a name and a set of columns that define the attributes of the data. Each row in a table represents a record or an entity. Each column in a table has a data type that specifies the kind of values that can be stored in it.
+- MySQL uses SQL (Structured Query Language) as the standard language for interacting with the database. SQL statements can be used to create, modify, delete, and query data in MySQL. SQL statements can also be used to define the structure and constraints of the database, such as creating tables, indexes, and foreign keys.
+- MySQL supports various data types, such as numeric, string, date and time, spatial, and JSON. MySQL also allows us to define our own data types using the CREATE TYPE statement. Data types help us to ensure the validity and consistency of the data in the database.
+- MySQL supports various operators and functions that can be used to perform calculations, comparisons, conversions, and manipulations on the data. Operators are symbols that specify the action to be performed on the operands, such as +, -, *, /, =, <, >, etc. Functions are predefined routines that take one or more arguments and return a value, such as SUM, AVG, CONCAT, SUBSTR, etc.
+- MySQL supports various clauses and keywords that can be used to modify and refine the SQL statements, such as WHERE, GROUP BY, HAVING, ORDER BY, LIMIT, OFFSET, JOIN, UNION, etc. Clauses and keywords help us to filter, sort, aggregate, and combine the data in different ways.
+- MySQL supports various commands and utilities that can be used to manage and administer the database, such as CREATE DATABASE, DROP DATABASE, SHOW DATABASES, USE, GRANT, REVOKE, BACKUP, RESTORE, etc. Commands and utilities help us to create, delete, select, and secure the database and its objects.

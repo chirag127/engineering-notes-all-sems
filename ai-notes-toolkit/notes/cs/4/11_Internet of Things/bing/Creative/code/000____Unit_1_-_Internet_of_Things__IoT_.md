@@ -1,0 +1,21 @@
+## Unit 1 - Internet of Things (IoT)
+
+- Internet of Things (IoT) is the concept of connecting any device or object to the Internet and to other devices or objects.
+- IoT enables data collection, processing, and communication among physical devices, sensors, actuators, and applications.
+- IoT can be applied to various domains, such as smart homes, smart cities, smart agriculture, smart healthcare, smart manufacturing, smart transportation, and smart energy.
+- IoT devices can be classified into three categories: edge devices, gateways, and cloud servers.
+  - Edge devices are the devices that directly interact with the physical environment, such as sensors, actuators, cameras, and smart phones.
+  - Gateways are the devices that connect edge devices to the Internet, such as routers, hubs, and bridges.
+  - Cloud servers are the devices that provide computing, storage, and analytics services for IoT data, such as servers, databases, and platforms.
+- IoT architecture can be divided into four layers: perception layer, network layer, service layer, and application layer.
+  - Perception layer is the layer that collects data from the physical environment, such as temperature, humidity, light, sound, and motion.
+  - Network layer is the layer that transmits data from the perception layer to the service layer, using various communication protocols, such as Wi-Fi, Bluetooth, ZigBee, LoRa, and cellular.
+  - Service layer is the layer that processes and analyzes data from the network layer, using various techniques, such as data fusion, data mining, machine learning, and artificial intelligence.
+  - Application layer is the layer that provides various services and applications for the end users, such as smart home, smart city, smart agriculture, smart healthcare, smart manufacturing, smart transportation, and smart energy.
+- IoT challenges include security, privacy, scalability, interoperability, reliability, and energy efficiency.
+  - Security is the challenge of protecting IoT devices and data from unauthorized access, modification, and destruction, using various methods, such as encryption, authentication, and authorization.
+  - Privacy is the challenge of preserving the personal information and preferences of the users and the devices, using various methods, such as anonymization, pseudonymization, and consent.
+  - Scalability is the challenge of managing the increasing number and diversity of IoT devices and data, using various methods, such as cloud computing, edge computing, and fog computing.
+  - Interoperability is the challenge of enabling the communication and collaboration among different IoT devices and platforms, using various methods, such as standardization, middleware, and APIs.
+  - Reliability is the challenge of ensuring the availability and functionality of IoT devices and services, using various methods, such as fault tolerance, redundancy, and quality of service.
+  - Energy efficiency is the challenge of reducing the power consumption and extending the battery life of IoT devices, using various methods, such as energy harvesting, energy management, and energy optimization.

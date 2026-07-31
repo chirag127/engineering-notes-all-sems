@@ -1,0 +1,30 @@
+## Unit 1 - Introduction, issues in mobile computing, overview of wireless telephony: cellular concept, GSM:
+
+- Mobile computing is the use of portable devices that can access and process data over wireless networks.
+- Mobile computing enables users to communicate, access information, and perform tasks anytime and anywhere, without being constrained by physical location or wired connections.
+- Mobile computing involves three main components: mobile devices, wireless networks, and mobile applications.
+- Mobile devices are handheld or wearable computers that can perform various functions, such as voice calls, text messaging, web browsing, gaming, photography, etc.
+- Wireless networks are the infrastructure that connects mobile devices to each other and to the internet, using radio waves or other electromagnetic signals.
+- Mobile applications are the software programs that run on mobile devices and provide specific services or functionalities to the users.
+- Some of the issues or challenges in mobile computing are:
+  - Limited battery life and processing power of mobile devices
+  - Security and privacy of data and communication over wireless networks
+  - Quality and reliability of wireless connectivity and coverage
+  - Compatibility and interoperability of different mobile devices, networks, and applications
+  - User interface design and usability of mobile applications
+  - Scalability and management of mobile systems and services
+- Wireless telephony is the technology that enables voice communication over wireless networks, using mobile phones or other devices.
+- Wireless telephony can be classified into different generations, based on the technology and standards used.
+- The first generation (1G) of wireless telephony used analog signals and circuit-switched networks to provide voice-only services.
+- The second generation (2G) of wireless telephony used digital signals and packet-switched networks to provide voice and data services.
+- The cellular concept is the basic principle of wireless telephony, which divides a geographical area into smaller regions called cells, each served by a base station that communicates with the mobile devices within its range.
+- The cellular concept allows multiple users to share the same frequency band, by assigning different channels to different cells, and reusing the same channels in non-adjacent cells.
+- The cellular concept also enables handover, which is the process of transferring an ongoing call from one base station to another, as the mobile device moves across different cells.
+- GSM (Global System for Mobile Communication) is a standard developed by the European Telecommunications Standards Institute (ETSI) to describe the protocols for 2G digital cellular networks used by mobile devices such as mobile phones and tablets.
+- GSM uses a combination of frequency division multiple access (FDMA) and time division multiple access (TDMA) to divide the frequency band into multiple channels, and each channel into multiple time slots, that can be allocated to different users.
+- GSM operates on four different frequency bands: 850 MHz, 900 MHz, 1800 MHz, and 1900 MHz.
+- GSM provides various services, such as voice calls, text messaging, data transmission, roaming, encryption, etc.
+- GSM consists of three main subsystems: the mobile station (MS), the base station subsystem (BSS), and the network and switching subsystem (NSS).
+- The mobile station (MS) is the user's device that communicates with the base station over the air interface.
+- The base station subsystem (BSS) consists of the base transceiver station (BTS) and the base station controller (BSC). The BTS is the radio equipment that transmits and receives signals from the MS. The BSC is the controller that manages the BTS and the handover process.
+- The network and switching subsystem (NSS) consists of the mobile switching center (MSC), the home location register (HLR), the visitor location register (VLR), the authentication center (AUC), and the equipment identity register (EIR). The MSC is the switch that connects the BSS to the public switched telephone network (PSTN) or other networks. The HLR is the database that stores the permanent information of the subscribers, such as their phone number, service profile, location, etc. The VLR is the database that stores the temporary information of the subscribers who are visiting a certain area. The AUC is the entity that verifies the identity and security of the subscribers. The EIR is the entity that checks the validity and status of the MS equipment.

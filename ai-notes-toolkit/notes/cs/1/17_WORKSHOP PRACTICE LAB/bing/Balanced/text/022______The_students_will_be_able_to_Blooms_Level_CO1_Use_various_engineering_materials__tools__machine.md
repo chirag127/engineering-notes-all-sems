@@ -1,0 +1,37 @@
+#### The students will be able to
+
+- CO1 Use various engineering materials, tools, machines and measuring equipments. K3
+  - Identify and classify different types of engineering materials, such as metals, ceramics, polymers, composites, etc.
+  - Explain the properties and applications of engineering materials, such as strength, hardness, ductility, conductivity, etc.
+  - Select appropriate engineering materials for a given design problem or requirement.
+  - Demonstrate the use of various tools, machines and measuring equipments, such as hammers, saws, drills, lathes, CNC machines, vernier calipers, micrometers, etc.
+  - Perform basic operations and maintenance of tools, machines and measuring equipments, such as sharpening, lubricating, calibrating, etc.
+- CO2 Perform machine operations in lathe and CNC machine. K3
+  - Explain the working principle and components of a lathe and a CNC machine.
+  - Identify and select the suitable cutting tools, work holding devices, and machining parameters for a given lathe or CNC operation.
+  - Perform various lathe operations, such as facing, turning, taper turning, threading, knurling, etc.
+  - Perform various CNC operations, such as drilling, milling, contouring, pocketing, etc.
+  - Write and execute simple CNC programs using G and M codes.
+  - Measure and inspect the machined parts for accuracy and quality.
+- CO3 Perform manufacturing operations on components in fitting and carpentry shop. K3
+  - Explain the safety rules and precautions to be followed in fitting and carpentry shop.
+  - Identify and use the appropriate hand tools, power tools, and measuring instruments for fitting and carpentry work.
+  - Perform various fitting operations, such as filing, sawing, chiseling, drilling, tapping, etc.
+  - Perform various carpentry operations, such as planing, marking, cutting, joining, etc.
+  - Make simple components or joints by fitting and carpentry work, such as vee block, square block, dovetail joint, mortise and tenon joint, etc.
+- CO4 Perform operations in welding, moulding, casting and gas cutting. K3
+  - Explain the principles and types of welding, moulding, casting and gas cutting processes.
+  - Identify and select the suitable welding electrodes, moulding sand, casting metal, and gas cutting equipment for a given operation.
+  - Perform various welding operations, such as arc welding, gas welding, spot welding, etc.
+  - Perform various moulding operations, such as pattern making, sand preparation, mould making, core making, etc.
+  - Perform various casting operations, such as melting, pouring, solidification, finishing, etc.
+  - Perform various gas cutting operations, such as straight cutting, bevel cutting, circular cutting, etc.
+  - Test and inspect the welded, moulded, casted and gas cut parts for defects and quality.
+- CO5 Fabricate a job by 3D printing manufacturing technique K3
+  - Explain the concept and advantages of 3D printing manufacturing technique.
+  - Identify and select the suitable 3D printing material, method, and machine for a given fabrication job.
+  - Design and model a 3D object using CAD software, such as SolidWorks, AutoCAD, etc.
+  - Convert the 3D model into a printable file format, such as STL, OBJ, etc.
+  - Set up and operate the 3D printer, such as loading the material, adjusting the parameters, etc.
+  - Print the 3D object layer by layer using the 3D printer.
+  - Remove the support material and post-process the 3D printed object, such as cleaning, sanding, painting, etc.

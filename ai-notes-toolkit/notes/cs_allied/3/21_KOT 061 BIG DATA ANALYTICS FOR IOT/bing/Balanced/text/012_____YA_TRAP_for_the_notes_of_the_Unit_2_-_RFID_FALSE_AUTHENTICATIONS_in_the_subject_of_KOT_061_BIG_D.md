@@ -1,0 +1,21 @@
+### YA TRAP
+
+- YA TRAP is a reader/tag authentication protocol for RFID systems that uses hash functions and pseudorandom number generators to protect the tag identity and prevent replay attacks .
+- YA TRAP assumes that the reader and the tag share a secret key K and a counter C, and that the tag has a unique identifier ID.
+- YA TRAP consists of four steps:
+  - Step 1: The reader generates a random number Tr and sends it to the tag as a challenge.
+  - Step 2: The tag computes Hr = h(K || ID || C || Tr), where h is a hash function and || is the concatenation operator, and stores it in its memory.
+  - Step 3: The tag generates a random number Tt and sends it to the reader as a response.
+  - Step 4: The reader computes Hr' = h(K || ID || C || Tr) and Ht = h(K || ID || C+1 || Tt), and compares them with the values stored in its database. If they match, the reader authenticates the tag and increments the counter C by one. Otherwise, the reader rejects the tag.
+- YA TRAP is vulnerable to false authentications, which occur when a legitimate tag is wrongly rejected by a reader due to the mismatch of the counter values .
+- False authentications can happen in YA TRAP because of the following reasons:
+  - The tag may not receive the challenge Tr from the reader due to noise or interference, and thus fail to update its Hr value.
+  - The reader may not receive the response Tt from the tag due to noise or interference, and thus fail to update its Hr' and Ht values.
+  - The tag may receive multiple challenges Tr from different readers, and thus overwrite its Hr value with the latest one, causing a mismatch with the previous reader.
+  - The reader may receive multiple responses Tt from different tags, and thus overwrite its Hr' and Ht values with the latest one, causing a mismatch with the previous tag.
+- False authentications can lead to serious consequences, such as denial of service, loss of data, or unauthorized access, depending on the application of the RFID system .
+- False authentications can be prevented or reduced by using some countermeasures, such as:
+  - Adding a timestamp or a nonce to the challenge and the response, to prevent replay attacks and ensure freshness.
+  - Using a mutual authentication scheme, where the reader and the tag both verify each other's identity and validity.
+  - Using a synchronization mechanism, where the reader and the tag periodically exchange their counter values and update them accordingly.
+  - Using a backup mechanism, where the reader and the tag store their previous counter values and use them in case of a mismatch.

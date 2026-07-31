@@ -1,0 +1,8 @@
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to discuss. You have asked me to write some notes on the topic of HTML for the unit 1 - Introduction in the subject of Web Designing. Here are some points that you can use for your study material:
+
+- HTML stands for HyperText Markup Language. It is the standard language for creating web pages and web applications.
+- HTML is a markup language, which means it uses tags to define the structure and content of a web page. Tags are enclosed in angle brackets (< and >) and usually come in pairs, such as <p> and </p>.
+- HTML tags can have attributes, which provide additional information or functionality to the tags. Attributes are written inside the opening tag, after the tag name, and are separated by spaces. For example, <p style="color:red;">This is a red paragraph.</p>
+- HTML documents have a basic structure that consists of a <html> tag, a <head> tag, and a <body> tag. The <html> tag defines the whole document, the <head> tag contains information about the document, such as the title and the style, and the <body> tag contains the visible content of the web page, such as text, images, and links.
+- HTML documents can also include comments, which are ignored by the browser and are used to add notes or explanations to the code. Comments are written between <!-- and --> symbols. For example, <!-- This is a comment -->
+- HTML documents can be written using any text editor, such as Notepad or Sublime Text, and can be saved with a .html or .htm extension. To view an HTML document, you need a web browser, such as Chrome or Firefox, which can interpret and display the HTML code.

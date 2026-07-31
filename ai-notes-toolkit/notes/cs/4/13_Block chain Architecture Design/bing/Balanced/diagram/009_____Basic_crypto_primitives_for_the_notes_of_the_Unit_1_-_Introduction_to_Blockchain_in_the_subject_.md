@@ -1,0 +1,12 @@
+### Basic crypto primitives
+
+Cryptographic primitives are the low-level algorithms that are used to build cryptographic protocols for a strong secured network. They are the basic building blocks of the cryptosystem. The programmers develop new cryptographic algorithms with the help of cryptographic primitives .
+
+Some of the common cryptographic primitives are:
+
+- **One-way hash functions**: These are mathematical functions that map an arbitrary-length input to a fixed-length output, such that it is easy to compute the output given the input, but hard to find the input given the output, or to find two inputs that produce the same output. One-way hash functions are used for integrity verification, digital signatures, proof-of-work, and other applications in blockchain  . Examples of one-way hash functions are SHA-256, SHA-512, and Ethash.
+- **Symmetric key cryptography**: This is a type of encryption where the same key is used to encrypt and decrypt the data. Symmetric key cryptography is fast and efficient, but requires a secure way to distribute the key among the parties. Symmetric key cryptography is used for confidentiality, authentication, and encryption of data in transit or at rest  . Examples of symmetric key cryptography are AES, DES, and RC4.
+- **Asymmetric key cryptography**: This is also known as public key cryptography. It is a type of encryption where two different keys are used: a public key and a private key. The public key can be used to encrypt the data, and the private key can be used to decrypt it. The private key cannot be derived from the public key, and the public key can be shared with anyone. Asymmetric key cryptography is used for digital signatures, key exchange, and encryption of data in transit or at rest  . Examples of asymmetric key cryptography are RSA, ECC, and ElGamal.
+- **Randomized algorithms**: These are algorithms that produce random outputs for encryption or other purposes. Randomized algorithms are used to increase the security and unpredictability of the cryptographic protocols, and to prevent certain types of attacks. Randomized algorithms are used for encryption, hashing, proof-of-work, and other applications in blockchain . Examples of randomized algorithms are Blum Blum Shub, Fortuna, and Yarrow.
+
+These are some of the basic crypto primitives that are essential for blockchain development and design. They provide the foundation for building secure and decentralized systems that can store and transfer value, information, and trust.

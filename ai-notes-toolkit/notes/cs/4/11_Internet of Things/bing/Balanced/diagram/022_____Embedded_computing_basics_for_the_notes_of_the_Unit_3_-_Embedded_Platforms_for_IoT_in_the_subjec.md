@@ -1,0 +1,26 @@
+### Embedded Computing Basics
+
+- An embedded system is a special-purpose computer system designed to perform a dedicated function.
+- Unlike a general-purpose computer, such as a personal computer, an embedded system performs one or a few pre-defined tasks, usually with very specific requirements, and often includes task-specific hardware and mechanical parts not usually found in a general-purpose computer.
+- Examples of embedded systems are an watch, washing machine, microwave oven, digital camera, etc.
+- Embedded systems are typically characterized by the following features  :
+  - Performs specific task: Embedded systems perform some specific function or tasks.
+  - Low Cost: The price of an embedded system is not so expensive.
+  - Time Specific: It performs the tasks within a certain time frame.
+  - Low Power: Embedded Systems don’t consume much power and can run on batteries.
+  - Small Size: Embedded Systems are usually small in size and can be embedded in other devices.
+  - Reliable: Embedded Systems are designed to work reliably and consistently in harsh environments.
+  - Real-Time: Embedded Systems often have to respond to events in real-time, meaning they have to meet certain deadlines and constraints.
+- There are four types of embedded systems:
+  - Standalone embedded systems: Operating within a larger system is a key characteristic of embedded systems, but the standalone embedded systems do not require a host system to function. They can work independently and provide all the functionality needed. Examples are calculators, digital watches, etc.
+  - Network embedded systems: Network embedded systems are also referred to as networked embedded systems. They rely on a network connection to communicate with other systems or devices. Examples are routers, smart home devices, etc.
+  - Mobile embedded systems: Mobile embedded systems are embedded systems that are portable and can move from one place to another. They usually have limited resources and battery life. Examples are smartphones, tablets, etc.
+  - Real-time embedded systems: Real-time embedded systems are embedded systems that have to respond to events in real-time, meaning they have to meet certain deadlines and constraints. They can be further classified into hard real-time systems and soft real-time systems. Hard real-time systems have to meet the deadlines strictly, otherwise the system may fail. Examples are airbag systems, pacemakers, etc. Soft real-time systems can tolerate some delays, but the performance may degrade. Examples are video games, multimedia applications, etc.
+- Embedded systems are widely used in various domains and applications, such as:
+  - Automotive: Embedded systems are used to control various functions in vehicles, such as engine management, anti-lock braking system, air conditioning, navigation, entertainment, etc.
+  - Industrial: Embedded systems are used to monitor and control various industrial processes, such as manufacturing, automation, robotics, etc.
+  - Medical: Embedded systems are used to provide various medical services, such as diagnosis, treatment, monitoring, etc.
+  - Consumer: Embedded systems are used to provide various consumer products, such as home appliances, toys, games, etc.
+  - Communication: Embedded systems are used to enable various communication services, such as telephony, internet, wireless, etc.
+  - Aerospace: Embedded systems are used to control various functions in aircraft, satellites, rockets, etc.
+  - Military: Embedded systems are used to provide various military applications, such as weapons, surveillance, security, etc.

@@ -1,0 +1,12 @@
+# 3-D Viewing
+
+3-D viewing is the process of displaying and interacting with 3-D computer graphics on a 2-D or 3-D display device. 3-D viewing involves the following steps:
+
+- 3-D modeling: creating 3-D models of objects or scenes using 3-D modeling software or scanners. 3-D models are composed of geometric primitives such as points, lines, triangles, and polygons, and can have attributes such as color, texture, and material properties .
+- 3-D transformation: applying mathematical operations such as translation, rotation, scaling, and shearing to 3-D models to change their position, orientation, size, and shape. 3-D transformation can be done in different coordinate systems, such as world, local, or viewing coordinates.
+- 3-D viewing: defining the position and orientation of the observer (or camera) and the projection plane (or screen) in the viewing coordinate system. The viewing coordinate system is used to specify the perspective or orthographic projection of 3-D models onto the projection plane.
+- 3-D rendering: generating 2-D images of 3-D models by applying algorithms such as rasterization, ray tracing, or radiosity to simulate the effects of light, shadow, reflection, refraction, and transparency. 3-D rendering can also involve techniques such as anti-aliasing, texture mapping, bump mapping, and shading to enhance the realism and quality of the images .
+- 3-D display: presenting the 2-D images of 3-D models on a 2-D or 3-D display device, such as a monitor, a projector, a head-mounted display, or a hologram. 3-D display can also involve methods such as stereoscopy, autostereoscopy, or volumetric display to create the illusion of depth and 3-D perception .
+- 3-D interaction: manipulating and exploring 3-D models using input devices such as a mouse, a keyboard, a joystick, a touch screen, a gesture sensor, or a voice command. 3-D interaction can also involve techniques such as virtual reality, augmented reality, or mixed reality to create immersive and interactive 3-D environments .
+
+3-D viewing is widely used in various fields and applications, such as computer-aided design, computer animation, video games, simulation, education, entertainment, art, and medicine . 3-D viewing is also a challenging and active research area, as it involves many complex and interrelated problems and techniques in computer graphics, computer vision, and human-computer interaction.

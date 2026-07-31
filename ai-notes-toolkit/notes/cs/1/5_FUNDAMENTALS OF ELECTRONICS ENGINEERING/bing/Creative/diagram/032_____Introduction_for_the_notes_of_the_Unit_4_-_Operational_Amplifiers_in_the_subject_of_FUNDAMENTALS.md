@@ -1,0 +1,10 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the introduction for the notes of the Unit 4 - Operational Amplifiers in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING.
+
+### Introduction
+
+- An operational amplifier (op-amp) is a high-gain, direct-coupled, differential-input amplifier that can perform various mathematical operations such as addition, subtraction, integration, differentiation, etc.
+- An op-amp has two input terminals: the inverting input (-) and the non-inverting input (+), and one output terminal. The output voltage is proportional to the difference between the input voltages, multiplied by a large factor called the open-loop gain.
+- An op-amp also has two power supply terminals: the positive supply (+Vcc) and the negative supply (-Vee), which provide the operating voltage for the amplifier. The power supply voltage can range from a few volts to several tens of volts, depending on the op-amp specifications and the application requirements.
+- An op-amp can be modeled as a voltage-controlled voltage source (VCVS), with an input resistance (Ri), an output resistance (Ro), and an open-loop gain (A). The ideal op-amp has infinite Ri, zero Ro, and infinite A. However, in reality, these parameters are finite and depend on the frequency, temperature, and power supply variations.
+- An op-amp can be used in various configurations, such as inverting amplifier, non-inverting amplifier, summing amplifier, difference amplifier, integrator, differentiator, comparator, etc. These configurations are obtained by connecting external resistors and capacitors to the op-amp terminals, forming a feedback network that controls the closed-loop gain and the frequency response of the amplifier.
+- An op-amp can also be used to implement active filters, oscillators, waveform generators, analog-to-digital converters, digital-to-analog converters, etc. These applications require more complex circuits that involve multiple op-amps and other components.

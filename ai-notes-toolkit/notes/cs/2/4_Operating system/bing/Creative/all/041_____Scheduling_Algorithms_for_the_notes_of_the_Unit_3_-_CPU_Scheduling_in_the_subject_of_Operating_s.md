@@ -1,0 +1,15 @@
+# Scheduling Algorithms for the notes of the Unit 3 - CPU Scheduling in the subject of Operating system
+
+- A scheduling algorithm in OS is the algorithm that defines how much CPU time must be allotted to which process and when.
+- CPU scheduling is the process which determines the process which will own the CPU for execution while other processes are in the queue.
+- CPU scheduling is one of the most important areas in operating system design, as it affects the performance, throughput, and response time of the system.
+- There are two types of scheduling algorithms: Non- preemptive scheduling algorithms and Preemptive scheduling algorithms .
+- Non- preemptive scheduling algorithms are those algorithms in which once a process starts running, they are not stopped until completion .
+- Preemptive scheduling algorithms are those algorithms in which a running process can be stopped by the OS to execute another process with higher priority .
+- There are six popular process scheduling algorithms which are commonly used in operating systems:
+  - First-Come, First-Served (FCFS) Scheduling: This is the simplest scheduling algorithm that assigns the CPU to the process that arrives first in the ready queue. It is non-preemptive and has high average waiting time and low CPU utilization.
+  - Shortest-Job-Next (SJN) Scheduling: This is the scheduling algorithm that assigns the CPU to the process that has the shortest burst time or expected execution time. It is non-preemptive and has low average waiting time and high CPU utilization, but it requires the knowledge of the burst time of each process, which is not realistic.
+  - Priority Scheduling: This is the scheduling algorithm that assigns the CPU to the process that has the highest priority. It can be either preemptive or non-preemptive and can suffer from starvation, which means that low priority processes may never get the CPU.
+  - Shortest Remaining Time (SRT) Scheduling: This is the scheduling algorithm that assigns the CPU to the process that has the shortest remaining time, which is the difference between the burst time and the elapsed time. It is preemptive and has low average waiting time and high CPU utilization, but it also requires the knowledge of the burst time of each process, which is not realistic.
+  - Round Robin (RR) Scheduling: This is the scheduling algorithm that assigns the CPU to the process that arrives first in the ready queue, but only for a fixed time quantum or slice. It is preemptive and has low response time and high throughput, but it can have high average waiting time and context switching overhead.
+  - Multiple-Level Queues Scheduling: This is the scheduling algorithm that divides the ready queue into several separate queues, each with its own scheduling algorithm. It can be either preemptive or non-preemptive and can handle different types of processes, such as system processes, interactive processes, batch processes, etc.

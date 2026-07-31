@@ -1,0 +1,12 @@
+### DFT, DCT for the notes of the Unit 1 - DIGITAL IMAGE FUNDAMENTALS in the subject of Image Processing
+
+- DFT stands for Discrete Fourier Transform, which is a mathematical operation that transforms a discrete, complex, two-dimensional array of size M x N into another discrete, complex, two-dimensional array of the same size.
+- DFT can be used to analyze the frequency content of an image, such as the dominant spatial frequencies, the orientation and directionality of the image features, and the periodicity or randomness of the image texture.
+- DFT can also be used to perform various operations on an image, such as filtering, enhancement, restoration, compression, and encryption, by manipulating the frequency domain representation of the image and then applying the inverse DFT to obtain the modified image in the spatial domain.
+- DFT can be computed efficiently using the Fast Fourier Transform (FFT) algorithm, which reduces the computational complexity from O(MN^2) to O(MN log MN) by exploiting the symmetry and periodicity properties of the complex exponential functions.
+- DCT stands for Discrete Cosine Transform, which is a special case of the DFT, where the input sequence is real and even, and the output sequence is real and symmetric.
+- DCT can be obtained by taking the 2M x 2N point DFT of an even extension of the original M x N image, and then discarding the imaginary and odd parts of the result.
+- DCT has excellent energy compaction properties, which means that most of the information in the image is concentrated in a few low-frequency coefficients, while the high-frequency coefficients are negligible or zero. This makes DCT suitable for image compression, as the high-frequency coefficients can be discarded or quantized with minimal loss of image quality.
+- DCT is widely used in image compression standards, such as JPEG, MPEG, and H.264, as it reduces the amount of data that needs to be stored or transmitted, while preserving the perceptual quality of the image.
+- DCT can also be used for image enhancement, restoration, and watermarking, by modifying the DCT coefficients according to the desired objective and then applying the inverse DCT to obtain the modified image in the spatial domain.
+- DCT can be computed efficiently using the Fast DCT (FDCT) algorithm, which reduces the computational complexity from O(MN^2) to O(MN log MN) by exploiting the symmetry and orthogonality properties of the cosine functions.

@@ -1,0 +1,25 @@
+### Internet and Resource Reservation Protocols
+
+- Internet applications have different network performance requirements, such as reliability, timeliness, and quality of service (QoS).
+- Resource Reservation Protocol (RSVP) is a network control protocol that enables Internet applications to obtain specific QoS for their data flows or streams .
+- RSVP operates over IPv4 or IPv6 and provides receiver-initiated setup of resource reservations for multicast or unicast data flows.
+- RSVP uses soft state approach, which means that the reservations are periodically refreshed and automatically removed if not refreshed.
+- RSVP supports both unicast and multicast receivers, and allows receivers to join and leave a multicast group dynamically.
+- RSVP can coexist with other protocols, such as IP routing protocols, and can adapt to changes in the network topology or traffic conditions.
+- RSVP messages are sent as IP datagrams with protocol number 46 and are processed by each RSVP-capable node along the path of the data flow.
+- RSVP messages can be classified into two types: PATH and RESV.
+  - PATH messages are sent by the sender to establish the route and inform the receivers and intermediate nodes about the QoS requirements of the data flow.
+  - RESV messages are sent by the receivers to request and confirm the resource reservations along the path of the data flow.
+- RSVP uses filterspecs and flowspecs to specify the characteristics of the data flow and the QoS request.
+  - A filterspec identifies a data flow by its source address and port number.
+  - A flowspec defines the QoS parameters, such as bandwidth, delay, and packet loss rate.
+- RSVP supports three reservation styles: Fixed Filter (FF), Shared Explicit (SE), and Wildcard Filter (WF).
+  - FF style allows each receiver to make an individual reservation for a specific data flow.
+  - SE style allows a group of receivers to share a reservation for a specific data flow.
+  - WF style allows a receiver to make a single reservation for all data flows from the same sender.
+- RSVP can be integrated with IntServ model, which defines a set of QoS classes, such as Guaranteed Service and Controlled Load Service.
+  - Guaranteed Service provides a firm bound on end-to-end delay and jitter, and ensures that no packet loss occurs due to congestion.
+  - Controlled Load Service provides a QoS level similar to that of an unloaded network, and allows some packet loss and delay variation due to congestion.
+- RSVP can also be used in real-time systems for an efficient quality band transmission to a particular receiver.
+  - RSVP can help real-time systems to achieve timely and reliable delivery of data, and to cope with dynamic changes in the network conditions.
+  - RSVP can also enable real-time systems to support different types of multimedia applications, such as videoconferencing, IP telephony, and online gaming.

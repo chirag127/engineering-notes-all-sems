@@ -1,0 +1,11 @@
+### The Mahabharata
+- The Mahabharata is an ancient Sanskrit epic poem that tells the story of the kingdom of Kurus .
+- It is based on a real war that took place in the 13th or 14th century B.C. between the Kuru and Panchala tribes of the Indian subcontinent .
+- It is regarded as both a historical account of Hinduism's birth and a code of ethics for the faithful .
+- The Mahabharata is an important source of information on the development of Hinduism between 400 BCE and 200 CE .
+- It is regarded by Hindus as both a text about dharma (Hindu moral law) and a history (itihasa, literally “that’s what happened”) .
+- The Mahabharata is one of the two Sanskrit epic poems of ancient India (the other being the Ramayana) .
+- The Mahabharata is the longest epic poem known and has been described as "the longest poem ever written" .
+- Its longest version consists of over 100,000 śloka or over 200,000 individual verse lines (each shloka is a couplet), and long prose passages .
+- The first Bengali translations of the Mahabharata emerged in the 16th century .
+- It is disputed whether Kavindra Parameshwar of Hooghly (based in Chittagong during his writing) or Sri Sanjay of Sylhet was the first to translate it into Bengali .

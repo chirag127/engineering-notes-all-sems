@@ -1,0 +1,24 @@
+#### Network structure with reference to Computer Networks
+
+- A computer network is a structure that makes available to a data processing user at one place some data processing function or service performed at another place.
+- Computer network structure defines how computers are organized in the network and what tasks are assigned to those computers.
+- Computer network structure consists of the following components:
+  - Hardware: The physical devices that make up the network, such as computers, routers, switches, cables, etc.
+  - Software: The programs that run on the hardware and enable communication, such as operating systems, applications, protocols, etc.
+  - Transmission media: The medium that carries the data signals between the hardware devices, such as copper wires, optical fibers, radio waves, etc.
+  - Network topology: The shape or layout of the network, such as bus, star, ring, mesh, etc.
+  - Communications protocols: The rules and standards that govern how data is formatted, transmitted, and received on the network, such as TCP/IP, Ethernet, Wi-Fi, etc.
+- Computer network structure can be classified into different types based on the size, scope, and purpose of the network, such as:
+  - LAN (local area network): A network that connects computers over a relatively short distance, such as within a building or a campus.
+  - WLAN (wireless local area network): A network that uses wireless transmission media, such as radio waves or infrared, to connect computers without cables.
+  - WAN (wide area network): A network that connects computers over a large geographic area, such as across cities, countries, or continents.
+  - MAN (metropolitan area network): A network that connects computers within a metropolitan area, such as a city or a town.
+  - PAN (personal area network): A network that connects personal devices, such as smartphones, tablets, laptops, etc., usually over a short range, such as within a few meters.
+  - SAN (storage area network): A network that connects storage devices, such as hard disks, tapes, etc., to provide high-speed data access and backup.
+  - CAN (campus area network): A network that connects LANs within a campus or a complex, such as a university or a hospital.
+  - VPN (virtual private network): A network that uses encryption and tunneling techniques to create a secure and private connection over a public network, such as the Internet.
+- Computer network structure follows a layered model that defines the functions and responsibilities of each layer in the network communication process, such as:
+  - Network access layer: Defines how the data gets physically transferred over the transmission media.
+  - Internet layer: Packages the data into understandable packets so it can be sent and received over the network.
+  - Transport layer: Allows the network devices to maintain conversations and ensure reliable and error-free data delivery.
+  - Application layer: Establishes how high-level applications access the network for purposes of data transfer, such as web browsing, email, file sharing, etc.

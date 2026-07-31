@@ -1,0 +1,23 @@
+### Channel structure for the notes of the Unit 1 - Introduction, issues in mobile computing, overview of wireless telephony: cellular concept, GSM: in the subject of Mobile Computing
+
+- A channel in cellular system is a communication path between a base station and a mobile terminal.
+- There are two types of channels: physical and logical.
+- A physical channel is a specific frequency or a pair of frequencies (one for uplink and one for downlink) that are allocated to a cell.
+- A logical channel is a function or a service that is provided by a physical channel.
+- For example, a voice call may use a traffic channel (TCH) as a logical channel, which is carried by a physical channel with a certain frequency.
+- There are different types of logical channels for different purposes, such as control, signaling, broadcast, etc.
+- The channel structure of a cellular system defines how the physical and logical channels are organized and used in the system.
+- The channel structure may vary depending on the cellular standard, such as GSM, CDMA, LTE, etc.
+- The channel structure affects the performance, capacity, and quality of service of the cellular system.
+- The channel structure also determines the channel allocation and reuse strategies, which are methods to efficiently use the limited spectrum resources in a cellular system.
+- Channel allocation and reuse aim to maximize the number of users that can be served in a given area, while minimizing the interference and noise that may degrade the communication quality.
+- Channel allocation and reuse can be done in different ways, such as fixed, dynamic, hybrid, etc.
+- In fixed channel allocation, each cell is assigned a fixed number of channels that are not shared with other cells.
+- In dynamic channel allocation, the channels are assigned to the cells on demand, based on the traffic load and interference conditions.
+- In hybrid channel allocation, a combination of fixed and dynamic methods is used.
+- The channel structure of GSM, which is a widely used cellular standard, is based on the following principles:
+  - GSM uses frequency division duplexing (FDD) to separate the uplink and downlink channels.
+  - GSM uses time division multiple access (TDMA) to divide each physical channel into eight time slots, each carrying a logical channel.
+  - GSM uses frequency hopping to reduce the interference and fading effects by changing the frequency of the physical channel in each time slot.
+  - GSM defines several types of logical channels, such as broadcast control channel (BCCH), common control channel (CCCH), dedicated control channel (DCCH), traffic channel (TCH), etc.
+  - GSM uses a hierarchical cell structure, where each cell can be divided into smaller cells with different channel sets, to increase the capacity and coverage of the system.

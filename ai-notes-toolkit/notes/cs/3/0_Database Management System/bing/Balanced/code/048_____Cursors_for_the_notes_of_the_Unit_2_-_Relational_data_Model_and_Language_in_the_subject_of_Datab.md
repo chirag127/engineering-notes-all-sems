@@ -1,0 +1,25 @@
+### Cursors
+
+- A cursor is a database object that allows you to manipulate data in a row-by-row manner.
+- A cursor can be thought of as a pointer to a specific row within a query result .
+- Cursors are useful when you need to perform complex logic on each row of a result set, such as updating, deleting, or inserting data.
+- Cursors are also useful when you need to access data in a non-sequential order, such as moving back and forth between rows.
+- Cursors have four main steps in their lifecycle :
+  - Declare a cursor: A cursor is declared by defining a SQL statement that returns a result set.
+  - Open a cursor: A cursor is opened by executing the SQL statement and allocating memory for the result set.
+  - Fetch a cursor: A cursor is fetched by retrieving one row or a block of rows from the current position in the result set.
+  - Close a cursor: A cursor is closed by releasing the memory allocated for the result set and terminating the cursor.
+- Cursors can have different types and options that affect their behavior and performance . Some of the common types and options are:
+  - Static vs dynamic: A static cursor creates a temporary copy of the result set and works on that copy. A dynamic cursor reflects any changes made to the underlying data while the cursor is open.
+  - Forward-only vs scrollable: A forward-only cursor can only move from the first row to the last row in the result set. A scrollable cursor can move in any direction and to any position in the result set.
+  - Read-only vs updatable: A read-only cursor can only retrieve data from the result set. An updatable cursor can also modify data in the result set.
+  - Local vs global: A local cursor is only visible within the scope of the batch, stored procedure, or trigger that declares it. A global cursor is visible to all sessions and users in the database.
+- Cursors have some advantages and disadvantages compared to other methods of data manipulation:
+  - Advantages:
+    - Cursors allow you to perform row-level operations that are not possible or efficient with set-based operations.
+    - Cursors allow you to access data in a flexible and customizable way that suits your needs.
+    - Cursors allow you to handle complex business logic and exceptions that are not easy to implement with set-based operations.
+  - Disadvantages:
+    - Cursors consume more memory and CPU resources than set-based operations, as they require multiple trips to the database server and temporary storage for the result set.
+    - Cursors can cause locking and blocking issues, as they may hold locks on the data for a long time, preventing other users from accessing or modifying the data.
+    - Cursors can introduce bugs and errors, as they are more prone to logical mistakes and syntax errors than set-based operations.

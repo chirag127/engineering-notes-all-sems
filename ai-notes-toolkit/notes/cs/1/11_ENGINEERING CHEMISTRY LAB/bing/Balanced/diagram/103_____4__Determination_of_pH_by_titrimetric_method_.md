@@ -1,0 +1,25 @@
+### 4. Determination of pH by titrimetric method
+
+- Titration is a laboratory technique that involves the addition of a known amount of a solution (called the titrant) to another solution (called the analyte) to determine the concentration of the analyte or the amount of a substance in it.
+- pH is a measure of the acidity or alkalinity of a solution, defined as the negative logarithm of the hydrogen ion concentration: pH = -log[H+].
+- The determination of pH by titrimetric method is based on the principle that the pH of a solution changes as an acid or a base is added to it, and that the pH at the equivalence point (the point where the moles of titrant and analyte are equal) depends on the strength and the ratio of the acid and the base involved in the titration.
+- The general procedure for a titration is as follows:
+  - Fill a titration flask with a calculated amount of analyte.
+  - Fill a burette with a titrant.
+  - Add two to three drops of indicator in the analyte solution. An indicator is a substance that changes color depending on the pH of the solution.
+  - Note the initial level of liquid in the burette.
+  - Start adding titrant from the burette slowly.
+  - Shake the flask continuously.
+  - Determine the endpoint very carefully. The endpoint is the point where the indicator changes color permanently, indicating that the equivalence point has been reached or passed.
+  - When the color changes permanently, stop the flow from the burette.
+  - Note the final level of liquid in the burette.
+  - Calculate the volume of titrant used by subtracting the initial level from the final level.
+  - Use the volume and the concentration of the titrant to calculate the moles of titrant added.
+  - Use the stoichiometry of the reaction to calculate the moles of analyte in the flask.
+  - Use the volume and the moles of analyte to calculate the concentration of the analyte or the amount of a substance in it.
+- The determination of pH by titrimetric method can be applied to different types of titrations, such as:
+  - Strong acid - strong base titration: In this type of titration, both the titrant and the analyte are strong acids or bases, meaning that they completely dissociate in water. The pH at the equivalence point is 7, because the products of the reaction are water and a neutral salt. The pH curve is a steep S-shaped curve that shows a rapid change in pH near the equivalence point.
+  - Weak acid - strong base titration: In this type of titration, the titrant is a strong base and the analyte is a weak acid, meaning that the acid partially dissociates in water. The pH at the equivalence point is greater than 7, because the products of the reaction are water and a basic salt. The pH curve is a less steep S-shaped curve that shows a gradual change in pH near the equivalence point. Before the equivalence point, the pH is determined by the weak acid and its conjugate base, which form a buffer solution. After the equivalence point, the pH is determined by the excess of strong base.
+  - Weak base - strong acid titration: In this type of titration, the titrant is a strong acid and the analyte is a weak base, meaning that the base partially dissociates in water. The pH at the equivalence point is less than 7, because the products of the reaction are water and an acidic salt. The pH curve is a less steep inverted S-shaped curve that shows a gradual change in pH near the equivalence point. Before the equivalence point, the pH is determined by the weak base and its conjugate acid, which form a buffer solution. After the equivalence point, the pH is determined by the excess of strong acid.
+  - Polyprotic acid - strong base titration: In this type of titration, the titrant is a strong base and the analyte is a polyprotic acid, meaning that the acid can donate more than one proton per molecule. The pH at the equivalence point is greater than 7, because the products of the reaction are water and a basic salt. The pH curve is a series of S-shaped curves that show multiple changes in pH corresponding to the different equivalence points for each proton donation. The pH at each equivalence point depends on the strength and the ratio of the acid and the base involved in the reaction.
+  - Polyprotic base -

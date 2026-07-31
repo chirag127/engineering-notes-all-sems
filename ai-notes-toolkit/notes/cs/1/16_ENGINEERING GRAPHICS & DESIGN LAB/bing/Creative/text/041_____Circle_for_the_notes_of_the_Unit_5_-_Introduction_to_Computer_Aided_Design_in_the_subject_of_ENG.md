@@ -1,0 +1,9 @@
+### Circle
+
+- A circle is a closed curve that consists of all points that are equidistant from a fixed point called the center.
+- The distance from the center to any point on the circle is called the radius. The diameter is the longest chord of the circle that passes through the center. The diameter is twice the radius.
+- A circle can be defined by its center and radius, or by three non-collinear points on the circle, or by a point and a tangent line perpendicular to the radius.
+- A circle can be drawn using a compass or a CAD software. In CAD, a circle can be drawn by specifying the center point and the radius or diameter, or by selecting three points on the circle, or by selecting a point and a tangent line.
+- A circle can be divided into equal parts by drawing chords or radii. The angle subtended by a chord or a radius at the center is called the central angle. The angle subtended by a chord at any point on the circle is called the inscribed angle. The central angle is twice the inscribed angle.
+- A circle can be divided into sectors and segments by drawing chords or radii. A sector is the region bounded by two radii and the arc between them. A segment is the region bounded by a chord and the arc between its endpoints.
+- A circle can be tangent to a line or another circle at one point. A circle can be secant to a line or another circle at two points. A circle can be concentric with another circle if they have the same center. A circle can be eccentric with another circle if they have different centers. A circle can be orthogonal to another circle if they intersect at right angles.

@@ -1,0 +1,8 @@
+# History of Microcontrollers
+
+- A microcontroller is a small computer on a single integrated circuit that contains a processor, memory and input/output peripherals.
+- The first microcontroller was developed in 1971 by Intel Corporation in the United States. It was a 4-bit microcontroller called i4004. It was ordered by a Japanese company BUSICOM for calculators.
+- Around the same time, Gary Boone of Texas Instruments was working on a similar concept and invented the TMS-1802-NC, a microcontroller chip that integrated a processor, memory and I/O on one piece of silicon. It was also used for calculators .
+- In the following years, many other companies developed their own microcontrollers, such as Motorola, Zilog, National Semiconductor, etc. They varied in architecture, instruction set, memory size, speed and features.
+- In 1993, Microchip introduced PIC16C84 and Atmel introduced an 8051-core microcontroller that were the first ones to use NOR flash memory to store the firmware. Flash memory allowed the microcontrollers to be reprogrammed without removing them from the circuit.
+- Today, microcontrollers are widely used in various applications, such as embedded systems, robotics, automotive, industrial, consumer electronics, etc. They are available in different sizes, from 4-bit to 64-bit, and with different capabilities, such as analog-to-digital converters, timers, serial communication, etc.

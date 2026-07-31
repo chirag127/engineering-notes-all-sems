@@ -1,0 +1,15 @@
+### Robot
+
+- A robot is a machine that can perform tasks autonomously or semi-autonomously, often with the help of sensors, actuators, and controllers.
+- Robotics is the field of engineering and science that deals with the design, construction, operation, and application of robots.
+- Artificial intelligence (AI) is the branch of computer science that aims to create machines or systems that can exhibit human-like intelligence, such as learning, reasoning, perception, planning, and decision making.
+- AI can be applied to robotics to enhance the capabilities and performance of robots, especially in complex, dynamic, and uncertain environments.
+- Some of the applications of AI in robotics are:
+
+  - Assembly: AI can help robots to perform precise and efficient assembly tasks, such as in manufacturing, electronics, or automotive industries. AI can also enable robots to adapt to changes in the assembly process, such as new parts, configurations, or errors. 
+  - Packing: AI can help robots to perform faster, lower-cost, and more accurate packing tasks, such as in e-commerce, logistics, or food industries. AI can also enable robots to handle different types of products, shapes, and sizes, and to optimize the packing space and arrangement. 
+  - Customer service: AI can help robots to interact with customers in a more human-like and natural way, such as in retail, hospitality, or entertainment industries. AI can enable robots to use natural language processing, speech recognition, and emotion detection to communicate with customers, answer their queries, provide recommendations, and offer assistance. 
+  - Self-driving cars: AI can help robots to drive vehicles autonomously, such as in transportation, delivery, or mobility industries. AI can enable robots to use computer vision, lidar, radar, and GPS to perceive the environment, recognize traffic signs, signals, and objects, and plan and execute safe and efficient driving maneuvers. 
+  - Autonomous drones: AI can help robots to fly aerial vehicles autonomously, such as in agriculture, surveillance, or photography industries. AI can enable robots to use cameras, sensors, and navigation systems to control the flight, avoid obstacles, and perform tasks such as crop spraying, mapping, or filming. 
+  - Humanoid robots: AI can help robots to mimic human appearance, behavior, and skills, such as in education, health care, or social industries. AI can enable robots to use facial recognition, gesture recognition, and natural language generation to emulate human expressions, movements, and speech, and to interact with humans in a more natural and empathetic way. 
+  - Autonomous farming equipment: AI can help robots to perform agricultural tasks autonomously, such as in farming, gardening, or landscaping industries. AI can enable robots to use cameras, sensors, and actuators to monitor the soil, water, and weather conditions, and to perform tasks such as seeding, weeding, harvesting, or pruning.

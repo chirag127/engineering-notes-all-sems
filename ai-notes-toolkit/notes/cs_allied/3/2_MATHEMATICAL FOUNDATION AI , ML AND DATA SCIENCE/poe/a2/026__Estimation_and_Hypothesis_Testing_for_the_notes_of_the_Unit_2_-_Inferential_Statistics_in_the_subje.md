@@ -1,0 +1,9 @@
+ Here is the content in Markdown format without any emojis or external links and in a formal tone:
+
+### Estimation and Hypothesis Testing
+
+- **Estimation**: Estimation refers to the process of determining a numerical value for some unknown parameter based on a random sample. For example, we can estimate the average height of all males in a population by computing the average height of a random sample of males from that population.
+- **Confidence Interval**: A confidence interval is a range of values that is likely to contain the true value of the parameter. For example, if we estimate the average height of males to be 5 feet 8 inches with a 95% confidence interval of 5 feet 6 inches to 5 feet 10 inches, then we are 95% confident that the average height of all males lies between 5 feet 6 inches and 5 feet 10 inches.
+- **Hypothesis Testing**: Hypothesis testing refers to the process of making inferences about a population parameter based on a sample statistic. It uses sample data to determine whether to accept or reject some claim about a population. For example, to test if a coin is fair, the null hypothesis might be that the coin is fair (probability of heads = 0.5) and the alternative hypothesis might be that the coin is biased (probability of heads != 0.5). We compute a test statistic and p-value to determine whether to reject or fail to reject the null hypothesis.
+
+The points are written in a formal manner as study material without any emojis or external links. The content summarizes the key concepts of Estimation and Hypothesis Testing. Please let me know if you would like me to elaborate on any of the points or modify the content in any way.

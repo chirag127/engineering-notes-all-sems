@@ -1,0 +1,10 @@
+### Deadlock
+
+A deadlock is a situation in which a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process. Deadlocks are a common problem in multiprocessing systems, parallel computing, and distributed systems, because in these contexts systems often use software or hardware locks to arbitrate shared resources and implement process synchronization.
+
+Some of the topics related to deadlock are:
+
+- **Deadlock Prevention**: Deadlock prevention is a technique to ensure that at least one of the four necessary conditions for deadlock does not hold. These conditions are mutual exclusion, hold and wait, no preemption, and circular wait. For example, to prevent hold and wait, a process must request all the resources it needs at once, and not hold any resources while waiting for others.
+- **Deadlock Avoidance**: Deadlock avoidance is a technique to ensure that the system will never enter an unsafe state, where a deadlock is possible. This requires the system to have some knowledge of the future requests and releases of each process, and to allocate resources only if it can avoid deadlock. For example, the Banker's algorithm is a deadlock avoidance algorithm that simulates the allocation of resources to processes and checks if the system is in a safe state.
+- **Deadlock Detection**: Deadlock detection is a technique to detect if a deadlock has occurred after the fact. This requires the system to maintain a wait-for graph that shows which processes are waiting for which resources, and to periodically check if the graph contains a cycle. A cycle in the wait-for graph implies that a set of processes are in a circular wait, which is a deadlock condition.
+- **Deadlock Recovery**: Deadlock recovery is a technique to resolve a deadlock after it has been detected. This may involve aborting one or more processes to free up resources, or preempting some resources from the processes and assigning them to others. Deadlock recovery may cause some problems, such as data inconsistency, starvation, or loss of work.

@@ -1,0 +1,25 @@
+### Invoice Management Discounting for the Notes of the Unit 7 - Use Case 2 in the Subject of Block Chain Architecture Design
+
+- Invoice discounting is a funding option available to small businesses to tide over cashflow vagaries.
+- Under the invoice discounting arrangement, the supplier (business) uses the account receivable as collateral to access instant funds to improve the cash flow position.
+- The bank (or the financier) pays the supplier a percentage of the invoice value (usually 80-90%) and collects the full amount from the customer (debtor) on the due date.
+- The bank charges a fee and interest for the service and pays the remaining balance to the supplier after deducting the fee and interest.
+- Invoice discounting is a market with a double-digit potential growth rate over the next years in Europe and worldwide.
+- The main benefit of invoice discounting is the acceleration of cash flow from customers to suppliers: suppliers get advance payments from the bank rather than waiting for the customers to pay.
+- However, invoice discounting also faces some challenges, such as fraud, double-financing, high operational costs, and lack of transparency.
+- Blockchain technology can offer a solution to these challenges by providing a distributed ledger that records and verifies the invoices and transactions in a secure and transparent way.
+- Blockchain can also enable smart contracts that automate the invoice discounting process and reduce the need for intermediaries and manual interventions.
+- A blockchain-based invoice discounting system can have the following features :
+  - Businesses can upload their financial data on the blockchain and only share it with the entity they wish to show the data.
+  - Banks can quickly assess the risk and accordingly disburse the credit in a quick and efficient manner.
+  - Customers can confirm the receipt of goods and services and authorize the payment on the blockchain.
+  - Suppliers can track the status of their invoices and payments in real-time on the blockchain.
+  - Banks can prevent fraud and double-financing by checking the uniqueness and validity of the invoices on the blockchain.
+  - Smart contracts can execute the payment and settlement of the invoices automatically and securely on the blockchain.
+  - All the parties involved can benefit from the transparency, traceability, and immutability of the blockchain.
+- A blockchain-based invoice discounting system can have the following benefits:
+  - Reduced operational costs and risks for the banks and the suppliers.
+  - Increased access to finance and liquidity for the suppliers.
+  - Improved customer satisfaction and loyalty for the suppliers.
+  - Enhanced trust and security for all the parties involved.
+  - Faster and easier invoice discounting process.

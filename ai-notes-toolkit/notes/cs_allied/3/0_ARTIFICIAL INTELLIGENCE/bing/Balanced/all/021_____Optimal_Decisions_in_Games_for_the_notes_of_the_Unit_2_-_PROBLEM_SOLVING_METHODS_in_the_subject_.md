@@ -1,0 +1,22 @@
+# Optimal Decisions in Games
+
+- In a normal search problem, the optimal solution would be a sequence of actions leading to a goal state-a terminal state that is a win .
+- In a game, the optimal solution would be a strategy-a contingency plan that specifies the move for every possible situation throughout the game.
+- A strategy is optimal if it guarantees the best possible outcome against any opponent strategy.
+- Given a game tree, the optimal strategy can be determined from the minimax value of each node, which we write as MINIMAX(n) .
+- The minimax value of a node is the utility (for MAX) of being in the corresponding state, assuming that both players play optimally from there to the end of the game .
+- The minimax value of a terminal node is just the utility of the terminal state .
+- The minimax value of a non-terminal node can be computed recursively from the minimax values of its children .
+- If the node is a MAX node, the minimax value is the maximum of the minimax values of its children .
+- If the node is a MIN node, the minimax value is the minimum of the minimax values of its children .
+- The minimax algorithm is a depth-first, exhaustive search that computes the minimax values of all the nodes in the game tree .
+- The minimax algorithm can be improved by using alpha-beta pruning, which eliminates branches that are provably worse than a previously explored branch .
+- Alpha-beta pruning maintains two values, alpha and beta, which represent the minimum score that MAX is assured of and the maximum score that MIN is assured of, respectively .
+- Alpha-beta pruning can prune a branch when the value of the current node is worse than alpha for MAX or worse than beta for MIN .
+- Alpha-beta pruning does not affect the final result of the minimax algorithm, but it can reduce the number of nodes that need to be examined .
+- The effectiveness of alpha-beta pruning depends on the order of the nodes in the game tree. The best ordering is to examine the most promising moves first .
+- The minimax algorithm and alpha-beta pruning assume that the game is zero-sum, deterministic, and fully observable  .
+- Zero-sum means that the utility values at the end of the game are always equal and opposite (one agent wins and the other loses) .
+- Deterministic means that the outcome of each move is known in advance and does not depend on chance .
+- Fully observable means that both players have complete information about the state of the game at any time .
+- For games that are not zero-sum, deterministic, or fully observable, other methods are needed, such as expectimax, Monte Carlo tree search, or reinforcement learning.

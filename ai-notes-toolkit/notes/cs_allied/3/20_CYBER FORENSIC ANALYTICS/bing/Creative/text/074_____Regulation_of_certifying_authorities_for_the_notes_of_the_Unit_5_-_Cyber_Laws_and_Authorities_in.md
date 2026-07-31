@@ -1,0 +1,25 @@
+### Regulation of certifying authorities
+
+- A certifying authority (CA) is a trusted third party or entity that issues digital signature certificates for electronic authentication of users.
+- The Information Technology Act, 2000 (IT Act) has established a Controller of Certifying Authorities (CCA) to regulate the electronic transactions and the activities of CAs  .
+- The CCA is appointed by the Central Government under Section 17 of the IT Act and has the following functions :
+  - To exercise supervision over the activities of the CAs.
+  - To lay down the standards, conditions and procedures for the issue of digital signature certificates.
+  - To specify the qualifications and experience of the employees of the CAs.
+  - To specify the contents of the written, printed or visual materials and advertisements that may be distributed or used in respect of a digital signature certificate and the public key.
+  - To specify the form and content of a digital signature certificate and the key pair.
+  - To maintain a database containing the disclosure record of every CA containing such particulars as may be specified by regulations.
+  - To certify public keys of the CAs.
+  - To resolve any conflict of interests between the CAs and the subscribers.
+  - To lay down the duties of the CAs.
+  - To maintain a computerized database of all public keys in such a manner that such database and the public keys are available to any member of the public.
+- The CCA also has the power to issue a license to a CA under Section 21 of the IT Act, after satisfying itself that the applicant fulfills the requirements specified in the Act and the rules and regulations made thereunder  .
+- The CCA can also revoke or suspend a license of a CA under Section 25 of the IT Act, if it is satisfied that the CA has  :
+  - Made a statement in the application for the issue or renewal of the license, which is incorrect or false in material particulars.
+  - Failed to comply with the terms and conditions subject to which the license was granted.
+  - Failed to maintain the standards specified by the CCA.
+  - Contravened any provisions of the IT Act, rules, regulations or orders made thereunder.
+  - Been declared insolvent or bankrupt.
+  - Been wound up or dissolved.
+- The CCA can also impose penalties on a CA for contravention of the provisions of the IT Act, rules, regulations or orders made thereunder, under Section 30 of the IT Act  .
+- The CCA is also responsible for ensuring the compliance of the CAs with the cybersecurity and privacy laws and regulations, such as the Cybersecurity Maturity Model Certification (CMMC) program for the defense supply chain and the federal cybersecurity legislation for the public sector.

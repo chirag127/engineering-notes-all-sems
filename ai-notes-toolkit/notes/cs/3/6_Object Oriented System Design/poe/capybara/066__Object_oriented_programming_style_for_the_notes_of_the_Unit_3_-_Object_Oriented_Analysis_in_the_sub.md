@@ -1,0 +1,12 @@
+### Object Oriented Programming Style for the Notes of Unit 3 - Object Oriented Analysis in the Subject of Object Oriented System Design
+
+Object Oriented Programming (OOP) is a programming paradigm that organizes software design around data, or objects, rather than functions and logic. OOP principles are essential in Object Oriented Analysis (OOA), which is a method of analyzing and designing software systems that are based on the principles of object-oriented programming. Here are some key points to keep in mind when using OOP style for your notes on Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design:
+
+- Use classes to organize your notes. Classes are the building blocks of OOP, and organizing your notes using classes will make it easier to understand and study the material. Each class should represent a concept or entity relevant to the subject.
+- Define attributes for each class. Attributes are the characteristics of an object, and they help to define the object's behavior. For example, if you were creating a class for a car, the attributes might include the make, model, and color of the car.
+- Use methods to define the behavior of each class. Methods are the functions that an object can perform. For example, if you were creating a class for a car, the methods might include starting the engine, accelerating, and braking.
+- Use inheritance to create relationships between classes. Inheritance is the ability of one class to inherit properties and methods from another class. This can help to simplify your notes by reducing duplication of code.
+- Use polymorphism to create flexibility in your notes. Polymorphism is the ability of an object to take on many forms. This can be useful when you have multiple classes that share common methods or attributes.
+- Use encapsulation to protect your notes. Encapsulation is the practice of hiding the implementation details of an object and only exposing the necessary information to the outside world. This can help to prevent unauthorized access or modification of your notes.
+
+By following these principles of OOP style, you can create clear, organized, and flexible notes for Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design, which will help you to better understand and retain the material for exams.

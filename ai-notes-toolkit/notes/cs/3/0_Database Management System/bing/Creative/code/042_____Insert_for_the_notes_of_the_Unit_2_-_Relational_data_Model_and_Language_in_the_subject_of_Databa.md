@@ -1,0 +1,37 @@
+# Unit 2 - Relational Data Model and Language
+
+- Relational Data Model and Language is a way of representing and manipulating data in a relational database.
+- A relational database is a collection of data organized into tables, also called relations, where each table has a set of attributes (columns) and a set of tuples (rows).
+- A relational database may use SQL (Structured Query Language) as its language, but SQL is not the same as the relational model.
+- The relational model is based on the principles of first-order predicate logic, where data is represented as facts and queries are expressed as logical formulas.
+- The relational model has some advantages over other data models, such as:
+  - It is simple and intuitive, as data is organized in a tabular format that is easy to understand and manipulate.
+  - It is flexible and expressive, as it can handle various types of data and queries, and can be extended with new features and functions.
+  - It is consistent and reliable, as it ensures data integrity and minimizes data redundancy, by enforcing constraints and rules on the data.
+  - It is efficient and scalable, as it can handle large amounts of data and optimize query performance, by using indexing and query optimization techniques.
+- The relational model has some components and concepts, such as:
+  - Schema: The schema is the logical structure and definition of the database, which specifies the names and types of the attributes, the tables, and the constraints on the data.
+  - Instance: The instance is the actual data stored in the database at a given point in time, which conforms to the schema.
+  - Domain: The domain is the set of possible values for an attribute, which may be predefined or user-defined.
+  - Key: The key is a set of one or more attributes that uniquely identifies a tuple in a table, which may be primary or foreign.
+  - Primary key: The primary key is a key that uniquely identifies a tuple in a table, which cannot be null or duplicated.
+  - Foreign key: The foreign key is a key that references a primary key in another table, which establishes a relationship between the tables.
+  - Relation: The relation is a table that consists of a set of attributes and a set of tuples, which satisfies some properties, such as:
+    - Each attribute has a unique name and a domain.
+    - Each tuple has a value for each attribute, which belongs to the domain of the attribute.
+    - Each tuple is distinct, i.e., there are no duplicate tuples.
+    - The order of the attributes and the tuples is irrelevant.
+  - Degree: The degree is the number of attributes in a relation.
+  - Cardinality: The cardinality is the number of tuples in a relation.
+  - Relational algebra: The relational algebra is a set of operations that can be applied to one or more relations, to produce a new relation as a result, which include:
+    - Selection: The selection operation selects a subset of tuples from a relation that satisfy a given condition.
+    - Projection: The projection operation selects a subset of attributes from a relation, and eliminates the duplicates.
+    - Union: The union operation combines two relations that have the same degree and domain, and eliminates the duplicates.
+    - Intersection: The intersection operation selects the common tuples from two relations that have the same degree and domain.
+    - Difference: The difference operation selects the tuples from one relation that are not in another relation that have the same degree and domain.
+    - Cartesian product: The cartesian product operation combines two relations by forming all possible pairs of tuples from the relations, and concatenating them.
+    - Join: The join operation combines two relations by matching tuples based on a common attribute or a condition, and concatenating them.
+    - Division: The division operation selects the tuples from one relation that are related to all the tuples in another relation, based on a common attribute.
+  - Relational calculus: The relational calculus is a declarative language that expresses queries as logical formulas, which include:
+    - Tuple relational calculus: The tuple relational calculus uses variables that range over tuples, and predicates that involve the attributes of the tuples.
+    - Domain relational calculus: The domain relational calculus uses variables that range over domains, and predicates that involve the values of the domains.

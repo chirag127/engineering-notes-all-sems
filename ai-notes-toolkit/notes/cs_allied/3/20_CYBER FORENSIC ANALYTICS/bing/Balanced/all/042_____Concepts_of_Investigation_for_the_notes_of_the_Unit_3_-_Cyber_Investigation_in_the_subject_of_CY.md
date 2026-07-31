@@ -1,0 +1,27 @@
+# Concepts of Investigation for the notes of the Unit 3 - Cyber Investigation in the subject of CYBER FORENSIC ANALYTICS
+
+- Cyber forensics is a field that follows certain procedures to find the evidence to reach conclusions after proper investigation of matters.
+- Cyber forensics is also known as computer forensics or digital forensics .
+- Cyber forensics is needed for the investigation of crime and law enforcement, especially when the computer system is the crime scene or the source of evidence.
+- Cyber forensics involves the following steps :
+  - Identification: The first step is to identify what evidence is present, where it is stored, and in which format it is stored.
+  - Preservation: The second step is to preserve the evidence in a way that prevents any alteration, loss, or damage.
+  - Extraction: The third step is to extract the evidence from the source device or media using appropriate tools and techniques.
+  - Analysis: The fourth step is to analyze the evidence using various methods and tools to find relevant information and patterns.
+  - Presentation: The fifth step is to present the evidence in a clear and concise manner to the court or the client, using reports, charts, graphs, etc.
+  - Documentation: The sixth step is to document the entire process of investigation, including the tools, methods, results, and conclusions.
+- Cyber forensics requires a combination of skills and knowledge, such as :
+  - Technical skills: The ability to use various software and hardware tools to collect, preserve, extract, and analyze digital evidence.
+  - Legal skills: The knowledge of the laws and regulations that govern the admissibility and validity of digital evidence in court.
+  - Analytical skills: The ability to interpret and evaluate the data and information obtained from digital evidence.
+  - Communication skills: The ability to present and explain the findings and conclusions of the investigation in a clear and understandable manner.
+- Cyber forensics has many advantages, such as:
+  - It can provide reliable and objective evidence for solving crimes and disputes.
+  - It can help to identify and prevent cyberattacks and cybercrimes.
+  - It can help to protect the privacy and security of individuals and organizations.
+  - It can help to enhance the credibility and reputation of the investigators and the clients.
+- Cyber forensics also has some challenges, such as :
+  - The large and complex amount of data and information that needs to be processed and analyzed.
+  - The dynamic and evolving nature of technology and cybercrime that requires constant updating and learning of new tools and techniques.
+  - The ethical and legal issues that arise from the collection, preservation, and analysis of digital evidence, such as privacy, consent, and jurisdiction.
+  - The high standards and expectations that the court and the client have for the quality and validity of the evidence and the investigation.

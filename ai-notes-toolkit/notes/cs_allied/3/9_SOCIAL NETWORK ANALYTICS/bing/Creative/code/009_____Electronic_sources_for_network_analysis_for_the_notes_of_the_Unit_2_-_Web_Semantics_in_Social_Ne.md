@@ -1,0 +1,9 @@
+### Electronic sources for network analysis
+
+- Network analysis is the process of determining the electrical parameters of a circuit or a network of interconnected components, such as resistors, capacitors, inductors, voltage sources, current sources, etc. 
+- Electronic sources for network analysis are devices that provide electrical energy to the circuit or network, such as batteries, generators, solar cells, etc. 
+- There are two types of electronic sources for network analysis: independent sources and dependent sources. 
+- Independent sources are sources that have a fixed value of voltage or current, regardless of the rest of the circuit. For example, a battery is an independent voltage source that provides a constant voltage across its terminals. 
+- Dependent sources are sources that have a value of voltage or current that depends on another voltage or current in the circuit. For example, a current-controlled voltage source is a dependent voltage source that provides a voltage proportional to a current elsewhere in the circuit. 
+- Electronic sources for network analysis can be transformed from one type to another, such as from a voltage source to a current source, or vice versa, using source transformation techniques. This can simplify the analysis of complex circuits by reducing the number of elements or branches. 
+- Electronic sources for network analysis can also be used to model real-world phenomena, such as social networks, search engines, discussion networks, etc. For example, a social network can be represented as a graph, where the nodes are the users and the edges are the connections or interactions between them. The electronic sources can then be used to measure the properties of the network, such as the degree, centrality, clustering, etc.

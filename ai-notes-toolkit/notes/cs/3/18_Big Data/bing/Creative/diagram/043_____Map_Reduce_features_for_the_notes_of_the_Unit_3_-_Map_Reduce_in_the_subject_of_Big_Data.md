@@ -1,0 +1,12 @@
+### Map Reduce features
+
+MapReduce is a programming model and a software framework for processing large-scale data sets in parallel and distributed manner on clusters of computers. It is based on two functions: map and reduce, which are applied to the input data and produce the output data. MapReduce is widely used for big data analysis, as it offers several features that make it suitable for this task. Some of the features are:
+
+- **Scalability**: MapReduce can handle huge volumes of data by distributing and storing them across multiple nodes in a cluster. It can also scale up or down according to the available resources and the data size.
+- **Versatility**: MapReduce can access and process various types of data sources, such as structured, unstructured, or semi-structured data. It can also support different programming languages, such as Java, Python, C++, Ruby, etc.
+- **Security**: MapReduce can provide data security by encrypting the data during transmission and storage. It can also authenticate the users and nodes using Kerberos or other mechanisms.
+- **Affordability**: MapReduce can run on commodity hardware, which reduces the cost of infrastructure and maintenance. It can also leverage cloud computing platforms, such as Amazon EMR, Google Cloud Dataproc, etc., which offer pay-as-you-go models and flexible pricing options.
+- **Fast-paced**: MapReduce can process data in a parallel and distributed manner, which reduces the execution time and improves the performance. It can also handle data skew and failures by using load balancing and fault tolerance techniques.
+- **Simplicity**: MapReduce is based on a simple programming model, which abstracts the complexity of parallel and distributed computing from the developers. The developers only need to write the map and reduce functions, and the framework takes care of the rest.
+- **Parallel processing-compatible**: MapReduce can exploit the parallelism inherent in the data and the tasks, by splitting the data into smaller chunks and assigning them to different nodes for processing. It can also combine the intermediate results from different nodes using the reduce function.
+- **Reliability**: MapReduce can ensure the reliability of the data and the computation, by replicating the data across multiple nodes and re-executing the failed tasks on other nodes. It can also handle network and node failures by using heartbeat and backup mechanisms.

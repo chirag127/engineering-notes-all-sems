@@ -1,0 +1,24 @@
+### Architecture for the notes of the Unit 1 - Introduction: The meaning of Object Orientation in the subject of Object Oriented System Design
+
+- Object Oriented System Design is a software development methodology that focuses on modeling the system as a collection of interacting objects that encapsulate data and behavior.
+- Object Oriented Architecture is a design paradigm that defines the structure and organization of an object oriented system, based on the principles of abstraction, encapsulation, inheritance, polymorphism, and modularity.
+- Object Oriented Architecture has the following benefits:
+  - It promotes reusability and maintainability of code, as objects can be reused in different contexts and modified without affecting other parts of the system.
+  - It facilitates the development of complex and dynamic systems, as objects can communicate and collaborate with each other through well-defined interfaces and messages.
+  - It supports the evolution and adaptation of the system, as new objects can be added or existing objects can be modified or replaced without affecting the overall functionality of the system.
+  - It enhances the readability and understandability of the system, as objects can be named and described according to their roles and responsibilities in the system.
+- Object Oriented Architecture has the following challenges:
+  - It requires a careful and systematic analysis and design of the system, as objects need to be identified, classified, and related to each other in a coherent and consistent way.
+  - It may introduce some overhead and complexity in the system, as objects need to be created, initialized, and managed throughout the system's lifecycle.
+  - It may not be suitable for some types of systems or problems, as objects may not capture the essential characteristics or behaviors of the system or its environment.
+- Object Oriented Architecture follows some design principles and patterns that guide the development of an object oriented system, such as:
+  - SOLID principles, which are five basic principles of object oriented design that aim to improve the quality and maintainability of the system. They are:
+    - Single responsibility principle: Each object should have one and only one responsibility or reason to change.
+    - Open-closed principle: Each object should be open for extension but closed for modification.
+    - Liskov substitution principle: Each object should be substitutable by its subtypes without affecting the correctness of the system.
+    - Interface segregation principle: Each object should depend on the smallest possible interface that provides the required functionality.
+    - Dependency inversion principle: Each object should depend on abstractions rather than concretions.
+  - Design patterns, which are reusable solutions to common problems that arise in object oriented design. They describe the structure, behavior, and interactions of objects in a specific context. Some examples of design patterns are:
+    - Creational patterns, which deal with the creation and initialization of objects, such as Factory, Singleton, Prototype, etc.
+    - Structural patterns, which deal with the composition and arrangement of objects, such as Adapter, Bridge, Composite, Decorator, etc.
+    - Behavioral patterns, which deal with the communication and coordination of objects, such as Observer, Strategy, Command, Iterator, etc.

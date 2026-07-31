@@ -1,0 +1,22 @@
+### 5. Soldering shop: Soldering and disordering of Resistor in PCB. Soldering and disordering of IC in PCB. Soldering and disordering of Capacitor in PCB
+
+Soldering is a process of joining two or more metal parts by melting and flowing a filler metal (solder) into the joint. Soldering is used to create electrical connections between components on a printed circuit board (PCB).
+
+Disordering is a process of removing soldered components from a PCB by heating and melting the solder joint and pulling out the component. Disordering is used to replace faulty or damaged components or to modify a circuit.
+
+The following are some general steps and tips for soldering and disordering of resistor, IC and capacitor in PCB:
+
+- **Soldering and disordering of resistor in PCB**
+  - Resistor is a passive component that limits the flow of current in a circuit. It has two leads that are soldered to the PCB pads.
+  - To solder a resistor, first clean the PCB pads and the resistor leads with a flux or a soldering paste. Then, heat up the soldering iron and apply a small amount of solder to the tip. Next, place the resistor on the PCB and align the leads with the pads. Hold the soldering iron on one lead and the pad for a few seconds until the solder melts and flows. Repeat the same for the other lead. Finally, cut off the excess lead with a wire cutter and inspect the solder joint for any defects.
+  - To disorder a resistor, first heat up the disordering iron or the soldering iron with a disordering pump. Then, place the tip of the iron or the pump on one lead and the pad and wait for the solder to melt. Next, quickly pull out the lead with a pair of tweezers or a disordering tool. Repeat the same for the other lead. Finally, clean the PCB pads with a flux or a soldering paste and remove any solder residue with a disordering braid or a disordering wick.
+
+- **Soldering and disordering of IC in PCB**
+  - IC (integrated circuit) is a component that contains many electronic devices on a single chip. It has multiple pins that are soldered to the PCB pads or sockets.
+  - To solder an IC, first clean the PCB pads or sockets and the IC pins with a flux or a soldering paste. Then, heat up the soldering iron and apply a small amount of solder to the tip. Next, place the IC on the PCB and align the pins with the pads or sockets. Hold the soldering iron on one pin and the pad or socket for a few seconds until the solder melts and flows. Repeat the same for the other pins. Finally, inspect the solder joints for any defects or bridges.
+  - To disorder an IC, first heat up the disordering iron or the soldering iron with a disordering pump. Then, place the tip of the iron or the pump on one pin and the pad or socket and wait for the solder to melt. Next, quickly pull out the pin with a pair of tweezers or a disordering tool. Repeat the same for the other pins. Finally, clean the PCB pads or sockets with a flux or a soldering paste and remove any solder residue with a disordering braid or a disordering wick.
+
+- **Soldering and disordering of capacitor in PCB**
+  - Capacitor is a passive component that stores electric charge in a circuit. It has two leads that are soldered to the PCB pads.
+  - To solder a capacitor, first clean the PCB pads and the capacitor leads with a flux or a soldering paste. Then, heat up the soldering iron and apply a small amount of solder to the tip. Next, place the capacitor on the PCB and align the leads with the pads. Make sure to observe the polarity of the capacitor if it is polarized. Hold the soldering iron on one lead and the pad for a few seconds until the solder melts and flows. Repeat the same for the other lead. Finally, cut off the excess lead with a wire cutter and inspect the solder joint for any defects.
+  - To disorder a capacitor, first heat up the disordering iron or the soldering iron with a disordering pump. Then, place the tip of the iron or the pump on one lead and the pad and wait for the solder to melt. Next, quickly pull out the lead with a pair of tweezers or a disordering tool. Repeat the same for the other lead. Finally, clean the PCB pads with a flux or a soldering paste and remove any solder residue with a disordering braid or a disordering wick.

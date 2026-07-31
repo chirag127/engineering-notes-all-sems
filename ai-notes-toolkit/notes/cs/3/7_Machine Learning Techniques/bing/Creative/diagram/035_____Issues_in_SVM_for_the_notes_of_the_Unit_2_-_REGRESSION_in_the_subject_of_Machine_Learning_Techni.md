@@ -1,0 +1,12 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for Machine Learning Techniques. Here are some notes on the topic of issues in SVM for the unit 2 - Regression.
+
+### Issues in SVM
+
+- Support Vector Machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problems. It can also be extended to solve regression problems by using the method of Support Vector Regression (SVR).
+- SVM works by finding a hyperplane that separates the data points of different classes with the maximum margin. The data points that are closest to the hyperplane are called support vectors, and they determine the optimal hyperplane.
+- SVM has some advantages and disadvantages that affect its performance and applicability. Some of the issues in SVM are:
+
+  - Computationally expensive: SVM can be computationally expensive for large datasets, as the algorithm requires solving a quadratic optimization problem that involves all the training data points. This can lead to high memory and time requirements, especially for nonlinear SVMs that use kernel functions.
+  - Sensitive to noise: SVM does not perform very well when the data set has more noise, i.e., when the target classes are overlapping . In such cases, it is hard to find a clear hyperplane without misclassifying some data points. Soft margin classification, however, allows some misclassification to a small extent by introducing a penalty parameter C that controls the trade-off between margin and error.
+  - Choice of kernel: SVM relies on the choice of an appropriate kernel function to transform the data into a higher-dimensional space where a linear hyperplane can be found. However, there is no general rule for selecting the best kernel function for a given problem, and it depends on the data characteristics and the domain knowledge. Some common kernel functions are linear, polynomial, radial basis function (RBF), and sigmoid.
+  - Lack of interpretability: SVM does not provide a clear explanation of how the model makes predictions, as it only depends on the support vectors and the kernel function. This can make it difficult to understand the logic behind the model and to debug it if needed. Moreover, SVM does not provide any information about the importance or relevance of the features used in the model.

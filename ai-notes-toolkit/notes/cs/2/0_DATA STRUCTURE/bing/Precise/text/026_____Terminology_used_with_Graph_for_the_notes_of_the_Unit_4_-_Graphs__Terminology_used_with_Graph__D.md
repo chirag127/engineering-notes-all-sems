@@ -1,0 +1,27 @@
+### Terminology used with Graph
+
+- **Graph**: A graph is a collection of vertices (also called nodes) connected by edges (also called arcs).
+- **Vertex**: A vertex is a point in a graph where two or more edges meet.
+- **Edge**: An edge is a line connecting two vertices in a graph.
+- **Directed Graph**: A directed graph (or digraph) is a graph where the edges have a direction, indicating the flow from one vertex to another.
+- **Undirected Graph**: An undirected graph is a graph where the edges do not have a direction, indicating that the flow between the two vertices connected by the edge is bidirectional.
+- **Weighted Graph**: A weighted graph is a graph where the edges have a weight or cost associated with them.
+- **Degree**: The degree of a vertex is the number of edges connected to it.
+- **Path**: A path is a sequence of vertices connected by edges.
+- **Cycle**: A cycle is a path that starts and ends at the same vertex.
+- **Connected Graph**: A connected graph is a graph where there is a path between every pair of vertices.
+- **Disconnected Graph**: A disconnected graph is a graph where there is not a path between every pair of vertices.
+- **Complete Graph**: A complete graph is a graph where there is an edge between every pair of vertices.
+- **Subgraph**: A subgraph is a graph that is a subset of another graph.
+- **Tree**: A tree is a connected graph with no cycles.
+- **Forest**: A forest is a collection of trees.
+- **Spanning Tree**: A spanning tree of a graph is a subgraph that is a tree and contains all the vertices of the graph.
+- **Minimum Spanning Tree**: A minimum spanning tree of a weighted graph is a spanning tree with the minimum possible total edge weight.
+- **Adjacency Matrix**: An adjacency matrix is a square matrix used to represent a graph, where the rows and columns represent the vertices of the graph and the entries represent the presence or absence of an edge between the vertices.
+- **Adjacency List**: An adjacency list is a collection of lists used to represent a graph, where each list represents the set of neighbors of a vertex.
+- **Depth First Search (DFS)**: Depth First Search is a graph traversal algorithm that starts at a vertex and explores as far as possible along each branch before backtracking.
+- **Breadth First Search (BFS)**: Breadth First Search is a graph traversal algorithm that starts at a vertex and explores all the neighboring vertices at the present depth level before moving on to the vertices at the next depth level.
+- **Transitive Closure**: The transitive closure of a graph is a graph that contains an edge between two vertices if and only if there is a path between those two vertices in the original graph.
+- **Shortest Path**: The shortest path between two vertices in a graph is the path with the minimum number of edges or minimum total weight (in the case of a weighted graph).
+- **Dijkstra's Algorithm**: Dijkstra's algorithm is an algorithm for finding the shortest path between a single source vertex and all other vertices in a weighted graph.
+- **Floyd-Warshall Algorithm**: The Floyd-Warshall algorithm is an algorithm for finding the shortest path between all pairs of vertices in a weighted graph.

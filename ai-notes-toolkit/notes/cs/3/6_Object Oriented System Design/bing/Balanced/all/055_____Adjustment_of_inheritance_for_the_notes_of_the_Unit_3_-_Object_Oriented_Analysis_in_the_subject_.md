@@ -1,0 +1,10 @@
+# Adjustment of inheritance
+
+- Adjustment of inheritance is a technique of object design that aims to increase the amount of inheritance in a class hierarchy by modifying the definitions of classes and operations .
+- Inheritance is a mechanism of object-oriented programming that allows a class to reuse, extend, and modify the behavior and attributes of another class, called the base class or the superclass.
+- Inheritance can improve the reusability, maintainability, and extensibility of the code by reducing duplication and enhancing abstraction.
+- Adjustment of inheritance can be done by following these steps  :
+  - Rearrange and adjust classes and operations to increase inheritance. This can involve moving common attributes and methods to a superclass, or creating new superclasses or subclasses to capture the similarities and differences among classes.
+  - Abstract common behavior out of groups of classes. This can involve defining abstract classes or interfaces that specify the common behavior of a set of classes, and making those classes implement or inherit from them.
+  - Use delegation to share behavior when inheritance is semantically invalid. This can involve creating helper classes or objects that contain the shared behavior, and delegating the calls to them from the classes that need them.
+- Adjustment of inheritance should be done carefully, as it can also introduce some drawbacks, such as increased complexity, coupling, and fragility of the code. A good measure of the quality of inheritance is the depth of inheritance tree (DIT), which is the maximum length from a class to the root of the hierarchy. A high DIT can indicate a high degree of reuse, but also a high risk of errors and changes propagating through the hierarchy. A low DIT can indicate a low degree of reuse, but also a low risk of errors and changes affecting the hierarchy. A balanced DIT can indicate a good trade-off between reuse and complexity.

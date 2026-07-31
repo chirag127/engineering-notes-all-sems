@@ -1,0 +1,11 @@
+### Euler and Hamiltonian paths
+
+- An **Euler path** is a path that passes through every edge exactly once . If it ends at the initial vertex then it is an **Euler cycle** .
+- A **Hamiltonian path** is a path that passes through every vertex exactly once (NOT every edge) . If it ends at the initial vertex then it is a **Hamiltonian cycle** .
+- Euler paths and circuits can be found in both directed and undirected graphs, while Hamiltonian paths and circuits can be found in both directed and undirected graphs as well as mixed graphs.
+- There is a simple necessary and sufficient condition to determine if a graph has an Euler path or circuit: a graph has an Euler path if and only if it is connected and has exactly zero or two vertices of odd degree, and it has an Euler circuit if and only if it is connected and has no vertices of odd degree  .
+- There is no simple necessary and sufficient condition to determine if a graph has a Hamiltonian path or circuit: finding a Hamiltonian path or circuit is an NP-complete problem, which means that there is no known efficient algorithm to solve it in general  .
+- Some sufficient conditions for a graph to have a Hamiltonian path or circuit are: the graph is complete, the graph is a cycle graph, the graph is a wheel graph, the graph satisfies the Ore's theorem or the Dirac's theorem  .
+- Some necessary conditions for a graph to have a Hamiltonian path or circuit are: the graph is connected, the graph has at least three vertices, the graph does not have a vertex of degree one, the graph does not have a cut-vertex  .
+- Some applications of Euler paths and circuits are: finding the shortest route to visit every street in a city, solving the Königsberg bridge problem, designing efficient networks, tracing images without lifting the pen  .
+- Some applications of Hamiltonian paths and circuits are: finding the shortest route to visit every city in a country, solving the traveling salesman problem, designing optimal schedules, playing games like chess or tic-tac-toe  .

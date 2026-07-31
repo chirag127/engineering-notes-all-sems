@@ -1,0 +1,22 @@
+### Interrupts for the notes of the Unit 4 - VXWORKS / FREE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Interrupts are events that occur asynchronously and require immediate attention from the processor.
+- Interrupts can be triggered by hardware devices, such as timers, buttons, or communication ports, or by software exceptions, such as division by zero, illegal instruction, or memory access violation.
+- Interrupts are handled by interrupt service routines (ISRs), which are special functions that run in response to an interrupt request.
+- ISRs have some restrictions, such as they cannot block, sleep, or use some kernel services that are not interrupt-safe.
+- Interrupts can be masked or unmasked, which means enabling or disabling the processor's ability to respond to interrupt requests.
+- Interrupts can have different priorities, which determine the order in which they are serviced by the processor.
+- Interrupts can cause latency, which is the delay between the occurrence of an event and the execution of the corresponding task.
+- Interrupts can also cause jitter, which is the variation in the latency of a periodic task.
+- Interrupts can be classified into two types: standard interrupts and nested interrupts.
+- Standard interrupts are those that disable all other interrupts while they are being serviced, which ensures atomicity and simplicity, but also increases latency and jitter.
+- Nested interrupts are those that allow higher priority interrupts to interrupt lower priority interrupts, which reduces latency and jitter, but also increases complexity and stack usage.
+- VxWorks and FreeRTOS are two popular real-time operating systems (RTOS) that support interrupts and provide different methods to handle them.
+- VxWorks uses a work queue mechanism to minimize kernel latency and defer interrupt processing to a lower priority context.
+- VxWorks also provides a windsh library that contains various functions and macros to manage interrupts, such as intConnect, intEnable, intDisable, intLock, intUnlock, etc.
+- VxWorks supports both standard and nested interrupts, and allows the user to configure the interrupt mode, priority, and vector for each interrupt source.
+- FreeRTOS provides an interrupt-safe version of queue API to read and write data from queues using ISR, such as xQueueSendToBackFromISR, xQueueReceiveFromISR, etc.
+- FreeRTOS also provides a set of macros to enable and disable interrupts, such as portDISABLE_INTERRUPTS, portENABLE_INTERRUPTS, portSET_INTERRUPT_MASK_FROM_ISR, portCLEAR_INTERRUPT_MASK_FROM_ISR, etc.
+- FreeRTOS supports only standard interrupts, and does not allow nesting or priority-based interrupt handling.
+- FreeRTOS uses a tick count variable to measure time, which is incremented by a timer interrupt (the RTOS tick interrupt) with a fixed frequency.
+- FreeRTOS also provides a software timer service that allows the user to create and manage timers that expire after a specified period or at a fixed interval.

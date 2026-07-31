@@ -1,0 +1,11 @@
+### Software Development Life Cycle (SDLC) Models
+
+- Software Development Life Cycle (SDLC) is a process that describes the stages involved in developing a software product from planning to deployment and maintenance.
+- SDLC models are different approaches or methodologies that guide the software development process and define the tasks, roles, and deliverables for each stage.
+- Some of the common SDLC models are:
+
+  - **Waterfall model**: A linear and sequential model that follows a fixed set of phases in a strict order. Each phase must be completed and verified before moving to the next phase. This model is suitable for well-defined and stable projects with clear requirements and minimal changes.
+  - **Agile model**: An iterative and incremental model that emphasizes collaboration, feedback, and adaptation. Each iteration involves planning, designing, coding, testing, and delivering a working software product to the customer. This model is suitable for dynamic and complex projects with changing requirements and frequent feedback.
+  - **Spiral model**: A risk-driven model that combines the linear and iterative approaches. Each cycle consists of four phases: planning, risk analysis, engineering, and evaluation. The cycle repeats until the product meets the customer's expectations. This model is suitable for large and high-risk projects that require extensive testing and evaluation.
+  - **V-model**: A variation of the waterfall model that emphasizes verification and validation at each stage. Each phase has a corresponding testing phase that is performed in parallel. This model is suitable for projects that require high quality and reliability of the software product.
+  - **Prototyping model**: A model that involves creating a prototype or a mock-up of the software product before developing the actual product. The prototype is used to elicit and refine the requirements from the customer and to demonstrate the functionality and design of the product. This model is suitable for projects that have unclear or incomplete requirements and need user involvement and feedback.

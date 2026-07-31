@@ -1,0 +1,15 @@
+### Hyper Text Transfer Protocol
+
+- Hyper Text Transfer Protocol (HTTP) is a protocol that defines how web browsers and web servers communicate and exchange data over the internet.
+- HTTP is based on a request-response model, where a client (browser) sends a request to a server and the server responds with a status code and optionally some data (such as HTML, images, etc.).
+- HTTP requests and responses have a similar structure, consisting of a start line, headers, and a body. The start line contains the method, the URL, and the version of HTTP for requests, and the version, the status code, and the reason phrase for responses. The headers provide additional information about the request or response, such as the content type, the length, the encoding, the cookies, etc. The body contains the actual data being sent or received, such as HTML, JSON, XML, etc.
+- HTTP supports several methods, such as GET, POST, PUT, DELETE, etc., that indicate the action to be performed on the resource identified by the URL. For example, GET is used to retrieve a resource, POST is used to create or update a resource, PUT is used to replace a resource, and DELETE is used to delete a resource.
+- HTTP uses Uniform Resource Locators (URLs) to identify and locate resources on the web. A URL consists of several components, such as the scheme, the host, the port, the path, the query, and the fragment. For example, in the URL https://www.example.com:80/index.html?name=Sydney#section1, the scheme is https, the host is www.example.com, the port is 80, the path is /index.html, the query is name=Sydney, and the fragment is section1.
+- HTTP is a stateless protocol, meaning that each request and response are independent and do not keep any information about previous interactions. However, HTTP can use cookies to store and send state information between the client and the server. Cookies are small pieces of data that are stored by the browser and sent along with every request to the same server. Cookies can be used for various purposes, such as authentication, personalization, tracking, etc.
+- HTTP is also an extensible protocol, meaning that it can be modified and enhanced by adding new methods, headers, status codes, etc. For example, HTTP/1.1 introduced features such as persistent connections, chunked encoding, caching, etc. HTTP/2 introduced features such as binary framing, multiplexing, compression, etc. HTTP/3 introduced features such as using QUIC as the underlying transport layer, etc.
+
+Some mnemonics and learning tricks for HTTP are:
+
+- To remember the structure of HTTP requests and responses, use the acronym SLHB (Start Line, Headers, Body).
+- To remember the most common HTTP methods, use the acronym GPPD (GET, POST, PUT, DELETE).
+- To remember the most common HTTP status codes, use the acronym 2O4C5S (200 OK, 404 Not Found, 500 Internal Server Error).

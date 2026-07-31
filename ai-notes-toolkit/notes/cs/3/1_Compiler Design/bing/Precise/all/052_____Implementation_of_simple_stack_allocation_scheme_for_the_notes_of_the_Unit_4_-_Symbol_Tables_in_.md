@@ -1,0 +1,12 @@
+### Implementation of simple stack allocation scheme for the notes of the Unit 4 - Symbol Tables in the subject of Compiler Design
+
+1. A stack allocation scheme is a memory management technique that allocates memory for variables on a stack data structure.
+2. This scheme is used in many programming languages, including C and C++, to manage the memory for local variables within a function.
+3. The stack allocation scheme is simple and efficient, as it only requires a single pointer to keep track of the top of the stack.
+4. When a function is called, the memory for its local variables is allocated on the top of the stack. When the function returns, the memory is deallocated by simply moving the stack pointer back to its previous position.
+5. This scheme is particularly useful for managing the memory for recursive function calls, as each recursive call can allocate its own memory on the stack without interfering with the memory of other calls.
+6. However, the stack allocation scheme has some limitations. The size of the stack is fixed at compile-time, so it may not be able to accommodate large or dynamic data structures. Additionally, the memory allocated on the stack is not persistent, so it cannot be used to store data that needs to be accessed outside of the function.
+7. In the context of compiler design, the stack allocation scheme can be used to manage the memory for symbol tables. A symbol table is a data structure that stores information about the identifiers used in a program, such as variable names and function names.
+8. When a new scope is entered, such as when a function is called or a block of code is executed, a new symbol table can be allocated on the stack to store the identifiers used within that scope. When the scope is exited, the symbol table can be deallocated by simply moving the stack pointer back to its previous position.
+9. This allows the compiler to efficiently manage the memory for symbol tables and to quickly look up information about identifiers within the current scope.
+10. In summary, the stack allocation scheme is a simple and efficient memory management technique that can be used to manage the memory for symbol tables in a compiler. It is particularly useful for managing the memory for recursive function calls and for quickly looking up information about identifiers within the current scope. However, it has some limitations, such as a fixed stack size and non-persistent memory, that must be taken into account when designing a compiler.

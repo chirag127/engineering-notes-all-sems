@@ -1,0 +1,11 @@
+### Probability models for data compression
+
+- A probability model is a mathematical description of the source of data, which assigns probabilities to the possible symbols or sequences of symbols that the source can generate.
+- A probability model is useful for data compression because it allows us to measure the amount of information in the data and to design optimal codes that minimize the number of bits needed to represent the data.
+- There are different types of probability models, depending on the assumptions and the level of detail that we make about the source. Some common examples are:
+
+  - Uniform model: This model assumes that all the symbols in the alphabet have the same probability of occurrence. For example, if the alphabet is A = {a, b, c, d}, then the uniform model is P = {0.25, 0.25, 0.25, 0.25}.
+  - Bernoulli model: This model assumes that the source generates binary symbols (0 or 1) with a fixed probability p for 1 and 1-p for 0. For example, if p = 0.6, then the Bernoulli model is P = {0.4, 0.6}.
+  - Geometric model: This model assumes that the source generates binary symbols (0 or 1) with a fixed probability p for 1, but the probability of 0 depends on the number of consecutive 0s that precede it. For example, if p = 0.2, then the geometric model is P = {0.8, 0.16, 0.032, 0.0064, ...}.
+  - Poisson model: This model assumes that the source generates symbols from a discrete alphabet with a fixed average rate λ. The probability of each symbol is given by the Poisson distribution, which is P(k) = (λ^k / k!) * e^-λ, where k is the symbol value. For example, if λ = 2, then the Poisson model is P = {0.135, 0.271, 0.271, 0.18, 0.09, ...}.
+  - Markov model: This model assumes that the source generates symbols from an alphabet A with a probability that depends on the previous n symbols, where n is the order of the model. The probability of each symbol is given by a conditional probability table, which is P(a_i | a_i-n, ..., a_i-1), where a_i is the current symbol and a_i-n, ..., a_i-1 are the previous n symbols. For example, if A = {a, b, c, d} and n = 2, then the Markov model is P = {P(a | aa), P(a | ab), P(a | ac), P(a | ad), P(b | aa), P(b | ab), P(b | ac), P(b | ad), ...}.

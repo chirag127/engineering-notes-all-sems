@@ -1,0 +1,22 @@
+# Unit 4 - Introduction to Client Side Scripting: JS Objects
+
+- JavaScript objects are collections of properties.
+- Properties are pairs of a name (or key) and a value.
+- The value of a property can be a function, in which case the property is known as a method.
+- Objects can be created using object literals, constructors, or the `Object.create()` method.
+- Object literals are defined using curly braces `{}` and the properties are defined as `name: value` pairs, separated by commas.
+- Constructors are functions that create and initialize objects.
+- The `new` keyword is used to create an object from a constructor function.
+- The `Object.create()` method creates a new object with the specified prototype object and properties.
+- Objects can be accessed using dot notation or bracket notation.
+- The `this` keyword refers to the current object in a method or constructor.
+- Objects can be used to model real-world objects and their properties and behaviors.
+- Inheritance allows objects to inherit properties and methods from other objects.
+- The `prototype` property of a constructor function is used to set the prototype of objects created with that constructor.
+- The `Object.prototype` property is the prototype of all objects.
+- The `hasOwnProperty()` method can be used to check if an object has a specific property.
+- The `for...in` loop can be used to iterate over the properties of an object.
+- The `Object.keys()` method returns an array of an object's own enumerable properties.
+- The `Object.values()` method returns an array of an object's own enumerable property values.
+- The `Object.entries()` method returns an array of an object's own enumerable property `[key, value]` pairs.
+- The `Object.assign()` method can be used to copy the values of all enumerable own properties from one or more source objects to a target object.

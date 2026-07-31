@@ -1,0 +1,9 @@
+### Operation of Bipolar Junction Transistor
+
+- A bipolar junction transistor (BJT) is a type of transistor that uses both electron and hole charge carriers. In contrast, unipolar transistors, such as field-effect transistors, only use one kind of charge carrier.
+- A BJT has three terminals: the base (B), the collector (C), and the emitter (E). The base is the control terminal, the collector is the output terminal, and the emitter is the input terminal. The base-emitter junction is forward-biased, while the base-collector junction is reverse-biased .
+- A BJT can operate in three regions: the active region, the saturation region, and the cutoff region. The region of operation depends on the biasing voltages and currents applied to the terminals.
+- In the active region, the BJT acts as an amplifier. The base current controls the collector current, which is proportional to the base-emitter voltage. The current gain, or beta, is the ratio of the collector current to the base current. The voltage gain is the ratio of the output voltage to the input voltage  .
+- In the saturation region, the BJT acts as a switch that is fully on. The collector current is equal to the saturation current, which is the maximum current that can flow through the collector. The collector-emitter voltage is very low, close to zero. The base current is higher than the minimum required to saturate the transistor  .
+- In the cutoff region, the BJT acts as a switch that is fully off. The collector current is zero, and the collector-emitter voltage is equal to the supply voltage. The base current is also zero, or very low  .
+- The BJT can be used for various applications, such as amplifiers, oscillators, digital circuits, and switches. The BJT has low input resistance, high output resistance, high current gain, and high frequency response  .

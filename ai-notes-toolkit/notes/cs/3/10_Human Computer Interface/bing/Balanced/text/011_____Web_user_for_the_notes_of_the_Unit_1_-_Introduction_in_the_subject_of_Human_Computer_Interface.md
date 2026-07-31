@@ -1,0 +1,10 @@
+### Web user for the notes of the Unit 1 - Introduction in the subject of Human Computer Interface
+
+- Human Computer Interface (HCI) is the study of the interaction between humans and computers, and the design, evaluation and implementation of computer systems that are usable and effective for human users  .
+- HCI is an interdisciplinary field that draws from computer science, psychology, design, engineering, sociology and other domains to understand the human factors and the technological aspects of the interaction .
+- HCI has three main components: the human, the computer and the interaction .
+  - The human component involves the characteristics, capabilities and limitations of the human user, such as sensory, cognitive, emotional and social aspects . It also includes the user's needs, goals, preferences and expectations from the computer system.
+  - The computer component involves the hardware and software of the computer system, such as input/output devices, memory, processing, networks, graphical user interfaces, etc . It also includes the functionality, performance, usability and accessibility of the system.
+  - The interaction component involves the methods, techniques and principles that enable the communication and collaboration between the human and the computer, such as models, frameworks, ergonomics, styles, elements, interactivity and paradigms . It also includes the evaluation, feedback and user satisfaction of the interaction.
+- HCI aims to improve the quality of the interaction by making the computer system more user-friendly, user-centered, user-adaptive and user-responsive . HCI also aims to enhance the user experience, productivity, creativity, learning, enjoyment and social impact of the interaction .
+- HCI is a dynamic and evolving field that responds to the changes in technology, society and user needs. Some of the current and emerging trends and challenges in HCI are: mobile and ubiquitous computing, natural and multimodal interaction, virtual and augmented reality, artificial intelligence and machine learning, social and collaborative computing, affective and emotional computing, etc  .

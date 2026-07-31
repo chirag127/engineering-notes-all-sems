@@ -1,0 +1,22 @@
+### Setting Objectives in SPM
+
+- SPM stands for Strategic Project Management, which is a process of planning, prioritizing, and executing projects to achieve business objectives.
+- Setting objectives in SPM is a crucial step to ensure that the projects are aligned with the strategic direction and goals of the organization .
+- Some of the benefits of setting objectives in SPM are:
+  - It gives clarity of expectations to employees
+  - It focuses, motivates and engages staff
+  - It enables performance measurement and feedback
+  - It supports career development and succession planning
+- Some of the steps to setting objectives in SPM are:
+  - Define the strategic direction and vision of the organization
+  - Identify the key business outcomes and priorities
+  - Break down the outcomes into specific, measurable, achievable, relevant, and time-bound (SMART) objectives
+  - Assign the objectives to the relevant projects and teams
+  - Communicate the objectives and expectations to the stakeholders
+  - Monitor and review the progress and performance of the objectives
+  - Adjust and update the objectives as needed
+- Some of the tools and techniques to support setting objectives in SPM are :
+  - Project portfolio management, which is a process of selecting and managing a group of projects that support the strategic objectives
+  - Resource management, which is a process of allocating and optimizing the human and material resources for the projects
+  - Value management, which is a process of measuring and delivering the value of the projects to the business
+  - Agile and hybrid methodologies, which are flexible and adaptive approaches to project management that can accommodate changing objectives and requirements

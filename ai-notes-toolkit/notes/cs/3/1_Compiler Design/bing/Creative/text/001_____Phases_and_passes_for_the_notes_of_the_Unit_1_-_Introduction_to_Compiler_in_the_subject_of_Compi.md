@@ -1,0 +1,16 @@
+### Phases and Passes of Compiler
+
+- A **compiler** is a software that converts a source program written in a high-level language into a target program written in a low-level language.
+- The compilation process consists of several **phases**, each of which performs a specific task on the source program and produces an intermediate or final output.
+- The main phases of a compiler are :
+  - **Lexical analysis**: This phase scans the source code and converts it into a sequence of tokens, which are the smallest meaningful units of the program, such as keywords, identifiers, literals, operators, etc.
+  - **Syntax analysis**: This phase parses the tokens and checks if they follow the grammatical rules of the language. It also builds a data structure called a parse tree, which represents the syntactic structure of the program.
+  - **Semantic analysis**: This phase performs type checking, scope checking, and other semantic checks on the parse tree. It also annotates the parse tree with additional information, such as data types, symbol tables, etc.
+  - **Intermediate code generation**: This phase translates the parse tree into an intermediate representation, such as a three-address code, which is closer to the target language but still independent of the machine architecture.
+  - **Code optimization**: This phase applies various techniques to improve the quality and efficiency of the intermediate code, such as eliminating dead code, reducing redundant computations, simplifying expressions, etc.
+  - **Code generation**: This phase generates the target code from the optimized intermediate code, taking into account the specific features and constraints of the target machine, such as registers, memory, instruction set, etc.
+- A **pass** of a compiler is the number of times the compiler scans the entire source program. A pass can consist of one or more phases of the compiler.
+- The number of passes of a compiler depends on the complexity of the source and target languages, the design goals, and the available resources.
+- A **single-pass compiler** scans the source program only once and generates the target code in one go. It is fast and simple, but it has some limitations, such as the need to declare variables before using them, the inability to handle forward references, and the lack of optimization.
+- A **two-pass compiler** scans the source program twice and generates the target code in two steps. The first pass collects information about the source program, such as symbols, types, and scopes, and stores them in a data structure called a symbol table. The second pass uses the symbol table to generate the target code. It can handle forward references and perform some optimization, but it is slower and more complex than a single-pass compiler.
+- A **multi-pass compiler** scans the source program more than twice and generates the target code in multiple steps. It can perform more sophisticated analysis and optimization on the source program, but it is slower and more complex than a two-pass compiler. It also requires more memory and disk space to store the intermediate outputs.

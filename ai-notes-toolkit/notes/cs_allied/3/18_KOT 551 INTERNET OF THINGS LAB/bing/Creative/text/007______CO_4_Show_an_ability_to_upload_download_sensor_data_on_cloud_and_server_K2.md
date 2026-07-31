@@ -1,0 +1,14 @@
+#### CO 4 Show an ability to upload/download sensor data on cloud and server K2
+
+- Sensor data is the information collected by various types of sensors that measure physical phenomena such as temperature, humidity, pressure, light, sound, motion, etc.
+- Cloud and server K2 are two different platforms that can store and process sensor data remotely, without requiring the sensor devices to have high computing power or memory.
+- To upload sensor data on cloud and server K2, the following steps are required:
+  - Establish a connection between the sensor device and the cloud or server K2 using a suitable communication protocol, such as Wi-Fi, Bluetooth, cellular, or LoRaWAN.
+  - Encode the sensor data in a format that is compatible with the cloud or server K2, such as JSON, XML, CSV, or binary.
+  - Send the sensor data to the cloud or server K2 using a secure and reliable method, such as HTTP, MQTT, CoAP, or WebSocket.
+  - Receive an acknowledgment from the cloud or server K2 that the sensor data has been successfully received and stored.
+- To download sensor data from cloud and server K2, the following steps are required:
+  - Establish a connection between the sensor device and the cloud or server K2 using a suitable communication protocol, as mentioned above.
+  - Request the sensor data from the cloud or server K2 using a specific query or command, such as REST API, SQL, or GraphQL.
+  - Receive the sensor data from the cloud or server K2 in a format that is compatible with the sensor device, as mentioned above.
+  - Decode the sensor data and use it for further processing, analysis, or visualization on the sensor device or another application.

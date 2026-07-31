@@ -1,0 +1,11 @@
+#### ICMP
+- ICMP stands for Internet Control Message Protocol.
+- It is a protocol that devices within a network use to communicate problems with data transmission.
+- One of the primary ways in which ICMP is used is to determine if data is getting to its destination and at the right time.
+- ICMP is used for reporting errors and performing network diagnostics.
+- In the error reporting process, ICMP sends messages from the receiver to the sender when data does not come through as it should.
+- ICMP is part of the Internet protocol suite as defined in RFC 792.
+- ICMP messages are typically used for diagnostic or control purposes or generated in response to errors in IP operations (as specified in RFC 1122).
+- ICMP errors are directed to the source IP address of the originating packet.
+- ICMP is a network layer protocol used by network devices to diagnose network communication issues.
+- Commonly, the ICMP protocol is used on network devices, such as routers.

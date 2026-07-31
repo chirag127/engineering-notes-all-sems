@@ -1,0 +1,22 @@
+# Network structure and architecture
+
+- Network structure and architecture refer to the way network devices and services are structured to serve the connectivity needs of client devices.
+- Network devices typically include switches, routers, hubs, bridges, gateways, firewalls, etc.
+- Network services typically include DHCP, DNS, FTP, HTTP, SMTP, etc.
+- Network structure and architecture also describe how the network devices are connected and the rules that govern data transfer between them .
+- The medium of data transmission, such as copper wire, fiber optic cable, radio waves, etc., also constitutes the network structure and architecture.
+- There are many ways to approach network architecture design, which depend on the purpose and size of the network.
+- The main types of network architecture are peer-to-peer (P2P) and client/server.
+  - In a P2P network, each node can act as both a client and a server, and there is no central authority or server. P2P networks are usually decentralized, self-organizing, and scalable. Examples of P2P networks are BitTorrent, Skype, and Bitcoin.
+  - In a client/server network, there is a central server that provides services to multiple clients, and the clients request services from the server. Client/server networks are usually centralized, hierarchical, and efficient. Examples of client/server networks are web servers, email servers, and database servers.
+- Network structure and architecture can also be classified based on the geographical scope of the network, such as local area network (LAN), metropolitan area network (MAN), wide area network (WAN), personal area network (PAN), etc.
+  - A LAN is a network that connects devices within a small area, such as a home, office, or building. A LAN typically uses Ethernet or Wi-Fi as the transmission medium.
+  - A MAN is a network that connects devices within a large area, such as a city or a campus. A MAN typically uses fiber optic cable or wireless technology as the transmission medium.
+  - A WAN is a network that connects devices across a large distance, such as a country or a continent. A WAN typically uses leased lines, satellite links, or cellular networks as the transmission medium.
+  - A PAN is a network that connects devices within a short range, such as a few meters. A PAN typically uses Bluetooth, infrared, or NFC as the transmission medium.
+- Network structure and architecture can also be influenced by the network topology, which is the physical or logical arrangement of the network devices and links. The common network topologies are bus, ring, star, tree, mesh, etc.
+  - In a bus topology, all the devices are connected to a single cable, called the bus. The bus acts as the backbone of the network, and data is transmitted in both directions. A bus topology is simple, cheap, and easy to install, but it has low bandwidth, high collision rate, and low fault tolerance.
+  - In a ring topology, all the devices are connected to form a closed loop, called the ring. Data is transmitted in one direction, and each device acts as a repeater. A ring topology is reliable, efficient, and easy to troubleshoot, but it has high installation cost, low scalability, and single point of failure.
+  - In a star topology, all the devices are connected to a central device, called the hub or the switch. The hub or the switch acts as the coordinator of the network, and data is transmitted through it. A star topology is fast, secure, and easy to expand, but it has high maintenance cost, high dependency on the central device, and high cable usage.
+  - In a tree topology, the devices are connected in a hierarchical manner, forming a tree-like structure. The root node is the main server, and the intermediate nodes are the switches or the routers. The leaf nodes are the end-user devices. A tree topology is scalable, flexible, and easy to manage, but it has high latency, high complexity, and high vulnerability to root node failure.
+  - In a mesh topology, each device is connected to every other device, forming a mesh-like structure. Data can be transmitted along multiple paths, and there is no central device. A mesh topology is robust, resilient, and self-healing, but it has high installation cost, high power consumption, and high network overhead.

@@ -1,0 +1,14 @@
+### Smart Cities and Wearable Computing
+
+- Smart cities are urban environments that use information and communication technologies (ICT) to enhance the quality of life, efficiency of services, and sustainability of resources for their inhabitants .
+- Wearable computing is a form of human-computer interaction that involves devices worn on or attached to the body, such as smart watches, glasses, clothing, or implants, that can sense, process, and communicate data .
+- Smart cities and wearable computing are interrelated in several ways, such as:
+  - Wearable devices can collect and transmit data about the user's health, location, activity, and preferences, which can be used by smart city applications to provide personalized and context-aware services, such as health monitoring, navigation, transportation, or entertainment .
+  - Wearable devices can also receive and display information from smart city applications, such as alerts, notifications, feedback, or guidance, which can help the user to interact with the urban environment more effectively and safely .
+  - Wearable devices can enable new forms of social interaction and civic engagement in smart cities, such as participatory sensing, crowdsourcing, gamification, or digital storytelling, which can foster community building, citizen empowerment, and social innovation .
+  - Wearable devices can also support the inclusion and accessibility of people with disabilities or special needs in smart cities, by providing assistive technology that can augment or compensate for their sensory, cognitive, or motor impairments, and help them to overcome the barriers and challenges of the urban space.
+- Smart cities and wearable computing also pose some open challenges, such as:
+  - Privacy and security: how to protect the user's personal data and identity from unauthorized access, misuse, or abuse, and how to ensure the user's consent and control over their data sharing and usage .
+  - Ethics and social justice: how to balance the benefits and risks of smart city and wearable computing applications, and how to ensure the respect for the user's dignity, autonomy, and diversity .
+  - Design and usability: how to design wearable devices and smart city applications that are user-friendly, intuitive, and adaptable, and that can cope with the complexity and dynamics of the urban environment .
+  - Interoperability and scalability: how to ensure the compatibility and integration of different wearable devices and smart city applications, and how to manage the large amount of data and resources involved in smart city and wearable computing systems.

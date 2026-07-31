@@ -1,0 +1,26 @@
+## Unit 3 - Scripting
+
+- Scripting is the process of writing and executing a series of commands or instructions that can automate a task or perform a specific function.
+- Scripting languages are high-level programming languages that are interpreted rather than compiled, meaning they are executed line by line at run time.
+- Scripting languages are often used for web development, data analysis, system administration, text processing, and other tasks that require flexibility, portability, and rapid prototyping.
+- Some examples of scripting languages are Python, JavaScript, Ruby, Perl, Bash, and PowerShell.
+- Scripting languages have some advantages and disadvantages compared to compiled languages, such as:
+  - Advantages:
+    - They are easy to learn and use, with simple syntax and dynamic typing.
+    - They are cross-platform, meaning they can run on different operating systems and environments without modification.
+    - They are expressive, meaning they can achieve the same functionality with fewer lines of code than compiled languages.
+    - They are extensible, meaning they can interact with other languages and libraries through various mechanisms, such as modules, packages, frameworks, and APIs.
+  - Disadvantages:
+    - They are slower, meaning they have lower performance and efficiency than compiled languages, especially for computationally intensive tasks.
+    - They are less secure, meaning they are more vulnerable to errors, bugs, and malicious attacks than compiled languages, due to their lack of type checking and compilation.
+    - They are less scalable, meaning they have more difficulty handling large and complex projects than compiled languages, due to their lack of structure and organization.
+- Scripting languages have some common features and concepts, such as:
+  - Variables: These are names or symbols that store values or data in memory. They can be assigned, modified, and accessed throughout the script. They can have different types, such as numbers, strings, booleans, lists, dictionaries, etc.
+  - Operators: These are symbols or words that perform arithmetic, logical, or bitwise operations on variables or values, such as +, -, *, /, %, **, and, or, not, &, |, ^, etc.
+  - Expressions: These are combinations of variables, values, and operators that evaluate to a single value, such as 2 + 3, x * y, z ** 2, etc.
+  - Statements: These are instructions or commands that perform an action or control the flow of the script, such as print, input, if, else, elif, for, while, break, continue, pass, return, def, class, etc.
+  - Functions: These are blocks of code that perform a specific task or return a value, and can be reused throughout the script. They are defined with the def keyword, followed by the function name and optional parameters, and end with the return keyword, followed by the value to be returned. They can be called by using the function name and passing the arguments, if any, such as def add(x, y): return x + y, add(2, 3), etc.
+  - Modules: These are files that contain definitions and statements that can be imported and used in other scripts. They are identified by their file name, without the extension, and can be imported with the import keyword, followed by the module name, such as import math, math.sqrt(4), etc.
+  - Packages: These are collections of modules that are organized in a hierarchical structure, using directories and subdirectories. They can be imported with the from keyword, followed by the package name, the import keyword, and the module name, such as from scipy import stats, stats.mean([1, 2, 3]), etc.
+  - Frameworks: These are sets of modules and packages that provide a standard way of developing applications for a specific domain or purpose, such as web development, data analysis, machine learning, etc. They can be installed and used with the help of a package manager, such as pip, conda, npm, etc. Some examples of frameworks are Django, Flask, NumPy, Pandas, TensorFlow, etc.
+  - APIs: These are interfaces that allow communication and interaction between different applications or services, using a common protocol or format, such as HTTP, JSON, XML, etc. They can be accessed and used with the help of a library or a tool, such as requests, urllib, curl, etc. Some examples of APIs are Google Maps, Twitter, Facebook, etc.

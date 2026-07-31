@@ -1,0 +1,25 @@
+### Sensors for IoT
+
+- Sensors are devices that detect and measure physical phenomena, such as temperature, pressure, motion, light, sound, etc.
+- Sensors are essential components of IoT systems, as they collect the data that enables smart decisions and actions.
+- Sensors can be classified into two categories: analog and digital.
+  - Analog sensors produce a continuous signal that varies proportionally to the physical quantity being measured, such as voltage, current, resistance, etc.
+  - Digital sensors produce a discrete signal that represents the physical quantity in binary form, such as on/off, high/low, 0/1, etc.
+- Sensors can also be classified based on their function, such as:
+  - Temperature sensors: measure the amount of heat generated from an area or an object.
+  - Proximity sensors: detect the presence or absence of objects near the sensor without physical contact.
+  - Pressure sensors: detect changes in a gas or liquid.
+  - Water quality sensors: measure parameters such as pH, dissolved oxygen, turbidity, conductivity, etc.
+  - Chemical and gas sensors: measure the concentration of specific chemicals or gases in the air or liquid.
+  - Infrared sensors: detect infrared radiation emitted by objects or sources.
+  - Smoke sensors: detect the presence of smoke or fire.
+  - Motion sensors: detect the movement or position of objects or people.
+  - Humidity sensors: measure the amount of water vapor in the air.
+  - Light sensors: measure the intensity or wavelength of light.
+  - Sound sensors: measure the amplitude or frequency of sound waves.
+  - Accelerometers: measure the acceleration or change in speed, direction and intensity of movement.
+  - Biomedical sensors: measure physiological parameters such as heart rate, blood pressure, glucose level, etc.
+  - RFID sensors: use radio frequency identification technology to identify and track objects or people using tags and readers.
+- Sensors can be connected to IoT platforms using wired or wireless communication protocols, such as Wi-Fi, Bluetooth, Zigbee, LoRa, 5G, etc.
+- Sensors can form wireless sensor networks, which are networks of spatially distributed sensors that communicate and cooperate to achieve a common goal, such as environmental monitoring, smart agriculture, smart cities, etc.
+- Sensors can also enable participatory sensing, which is a form of crowdsourcing where people use their personal devices, such as smartphones, wearables, etc, to collect and share data about their surroundings, such as traffic, noise, air quality, etc.

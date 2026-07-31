@@ -1,0 +1,9 @@
+# Unit 2 - Projection of Planes and Solids
+
+- A **plane** is a two dimensional object having length and breadth only. Its thickness is always neglected. Various shapes of plane figures are considered such as square, rectangle, circle, pentagon, hexagon, etc.
+- A **solid** is a three dimensional object having length, breadth and thickness. It is completely bounded by a surface or surfaces, which may be curved or plane. The shape of a solid is described orthographically by drawing its two orthographic projections, usually, on the two principal planes of projection i.e., HP and VP.
+- A **projection** is an image or a picture of an object on a plane. A projection is produced by connecting the points where the lines of sight pierce the projection plane.
+- A **section** is a view of a solid as it would appear if cut by a plane. A section is used to show the internal details of a solid that are not visible in the normal projection.
+- The **position** of a plane or a solid with respect to the planes of projection determines the shape and size of its projection. There are different types of positions such as perpendicular, parallel, inclined, oblique, etc .
+- The **orientation** of a plane or a solid with respect to the observer determines the angle of view and the perspective of its projection. There are different types of orientations such as front view, top view, side view, isometric view, etc.
+- The **method** of projection is the way of representing a three dimensional object on a two dimensional plane. There are different methods of projection such as orthographic projection, isometric projection, perspective projection, etc.

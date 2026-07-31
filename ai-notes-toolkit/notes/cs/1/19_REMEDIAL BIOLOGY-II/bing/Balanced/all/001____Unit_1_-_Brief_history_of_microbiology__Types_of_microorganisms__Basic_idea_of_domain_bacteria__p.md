@@ -1,0 +1,19 @@
+# Unit 1 - Brief history of microbiology, Types of microorganisms, Basic idea of domain bacteria, proteobacteria, non proteobacteria Gram –ve and Gram +ve bacteria, lichens, algae, protozoa, helminthes, viral structures, viral multiplication, Role of microorganisms in the production of industrial chemicals and pharmaceuticals
+
+- Microbiology is the study of microscopic organisms, such as bacteria, viruses, fungi, protozoa, and algae.
+- Microbiology essentially began with the development of the microscope in the 17th century. 
+- Some of the pioneers of microbiology are:
+  - Antonie van Leeuwenhoek (1632-1723), a Dutch draper who was the first to observe and document various microorganisms, such as bacteria, protozoa, and fungi, using a microscope of his own design  .
+  - Robert Hooke (1635-1703), an English naturalist who coined the term "cell" and observed fungal structures and plant cells under the microscope .
+  - Ferdinand Cohn (1828-1898), a German botanist who founded the field of bacteriology and classified bacteria into four groups based on their shape and motility .
+  - Louis Pasteur (1822-1895), a French chemist who demonstrated the role of microbes in fermentation, disproved the theory of spontaneous generation, and developed the process of pasteurization and the first vaccines against anthrax and rabies.
+  - Robert Koch (1843-1910), a German physician who established the germ theory of disease, identified the causative agents of anthrax, tuberculosis, and cholera, and developed methods for isolating and culturing bacteria.
+- Microorganisms can be classified into different types based on their structure, function, and evolutionary relationships. Some of the major types of microorganisms are:
+  - Bacteria, which are prokaryotic cells that lack a nucleus and membrane-bound organelles. They can be found in almost every environment and play important roles in nutrient cycling, decomposition, symbiosis, and pathogenesis. Bacteria are divided into two domains: Archaea and Bacteria.
+  - Proteobacteria, which are a large and diverse group of gram-negative bacteria that belong to the domain Bacteria. They include many medically and environmentally important genera, such as Escherichia, Salmonella, Vibrio, Helicobacter, and Rhizobium.
+  - Non-proteobacteria gram-negative bacteria, which are a diverse group of bacteria that belong to the domain Bacteria but are not classified as proteobacteria. They include many photosynthetic, nitrogen-fixing, and extremophilic bacteria, such as Cyanobacteria, Spirochaetes, Chlamydiae, and Bacteroidetes.
+  - Gram-positive bacteria, which are a group of bacteria that belong to the domain Bacteria and have a thick cell wall that retains the purple stain in the Gram staining technique. They include many beneficial and pathogenic bacteria, such as Bacillus, Clostridium, Staphylococcus, Streptococcus, and Lactobacillus.
+  - Lichens, which are symbiotic associations of fungi and algae or cyanobacteria. They can grow on various substrates, such as rocks, trees, and soil, and are important indicators of environmental quality and sources of natural products.
+  - Algae, which are eukaryotic organisms that can perform photosynthesis and produce oxygen. They can be unicellular or multicellular and can be found in freshwater, marine, and terrestrial habitats. They include many groups, such as green algae, red algae, brown algae, and diatoms.
+  - Protozoa, which are eukaryotic organisms that can move and feed on other organisms or organic matter. They can be unicellular or multicellular and can be found in aquatic and soil environments. They include many groups, such as amoebae, flagellates, ciliates, and apicomplexans.
+  - Helminthes, which are eukaryotic organisms that have a worm-like body and can be parasitic or free-living. They can be multicellular and have complex organ systems. They include many groups, such as nematodes, trematodes, cestodes, and acantho

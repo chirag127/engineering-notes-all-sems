@@ -1,0 +1,7 @@
+### Differences between General Purpose OS and RTOS
+
+- A General Purpose OS (GPOS) is an operating system that can run various applications and processes on a system, such as a personal computer, a workstation, or a server. A Real Time OS (RTOS) is an operating system that can execute tasks within a specified time limit, such as an embedded system, a vending machine, or a kiosk .
+- A GPOS is optimized for maximizing the throughput and utilization of the system resources, such as CPU, memory, disk, and network. A RTOS is optimized for minimizing the response time and jitter of the tasks, such as deadlines, priorities, and preemption .
+- A GPOS uses a non-deterministic scheduling algorithm, such as round-robin, priority-based, or fair-share, to allocate CPU time to the processes. A RTOS uses a deterministic scheduling algorithm, such as rate-monotonic, earliest-deadline-first, or fixed-priority, to guarantee that the tasks meet their deadlines .
+- A GPOS has a complex and large kernel that provides various services and features, such as memory management, file system, networking, security, and user interface. A RTOS has a simple and small kernel that provides only the essential services and features, such as task management, synchronization, communication, and interrupt handling .
+- A GPOS supports multiple user modes and protection mechanisms to isolate the processes and prevent unauthorized access. A RTOS supports only a single user mode and has minimal or no protection mechanisms to reduce the overhead and latency .

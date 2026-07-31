@@ -1,0 +1,9 @@
+### Position / Orientation
+
+- Position and orientation are two fundamental concepts in augmented and virtual reality (AR/VR) that describe the location and direction of an object in a 3D space.
+- Position is defined by a set of coordinates (x, y, z) that specify the location of an object relative to a reference point, such as the origin of a coordinate system or the center of the user's head.
+- Orientation is defined by a set of angles (roll, pitch, yaw) that specify the rotation of an object around its own axes, relative to a reference direction, such as the positive z-axis or the user's gaze direction.
+- Position and orientation can be combined into a single entity called a pose, which represents the state of an object in a 3D space. A pose can be expressed by a 4x4 matrix that contains both the translation and rotation components of the object.
+- Position and orientation are essential for tracking the movement and orientation of the user and the virtual objects in AR/VR applications. They are also used for rendering the virtual objects in the correct perspective and alignment with the real world.
+- Position and orientation can be measured and estimated by various sensors and algorithms, such as accelerometers, gyroscopes, magnetometers, cameras, GPS, SLAM, etc. The accuracy and reliability of these methods depend on various factors, such as the quality of the sensors, the environmental conditions, the calibration procedures, the computational complexity, etc.
+- Position and orientation can be affected by various sources of error and noise, such as sensor drift, latency, jitter, occlusion, interference, etc. These errors can cause misalignment, distortion, or instability of the virtual objects, which can degrade the user experience and immersion in AR/VR applications. Therefore, it is important to apply appropriate filtering, smoothing, and correction techniques to improve the quality and stability of the position and orientation data.

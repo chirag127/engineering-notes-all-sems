@@ -1,0 +1,27 @@
+### Data Processing Operators for the Notes of the Unit 11 - Hadoop Eco System Frameworks
+
+- Data processing operators are the functions or methods that are used to manipulate, transform, or analyze data in Hadoop.
+- Data processing operators can be applied to different types of data, such as structured, semi-structured, or unstructured data, depending on the processing framework used.
+- Hadoop is an open-source framework that enables distributed processing of large data sets across clusters of computers using simple programming models.
+- Hadoop consists of two main components: Hadoop Distributed File System (HDFS) and Hadoop MapReduce.
+- HDFS is a distributed file system that provides high availability, fault tolerance, and scalability for storing large amounts of data.
+- MapReduce is a programming model that allows parallel processing of data using two phases: map and reduce.
+- Map phase applies a user-defined function to each input data block and produces intermediate key-value pairs.
+- Reduce phase aggregates the intermediate key-value pairs based on the keys and produces the final output.
+- Hadoop also supports various other processing frameworks that can be used to process data in different ways, such as:
+  - Hive: a data warehouse system that provides a SQL-like interface for querying and analyzing data stored in HDFS.
+  - Pig: a data flow language that allows users to write scripts for processing and transforming data in HDFS.
+  - Spark: a fast and general-purpose processing framework that supports in-memory computation and various data sources and formats.
+  - Cascading: a Java-based framework that provides a high-level abstraction for creating data pipelines using various operators and functions.
+  - Crunch: a Java-based framework that simplifies the development of MapReduce pipelines using a collection-like API.
+  - Tez: a processing framework that optimizes the execution of complex data flows using a directed acyclic graph (DAG) model.
+  - Drill: a query engine that allows users to perform interactive analysis of data stored in various formats and sources, such as HDFS, NoSQL, or cloud storage.
+  - Impala: a query engine that provides low-latency and high-performance SQL queries on data stored in HDFS or HBase.
+  - Presto: a query engine that allows users to perform interactive analysis of data stored in various sources, such as HDFS, Hive, Cassandra, or MongoDB.
+- Data processing operators can be classified into six categories based on the processing framework they belong to:
+  - General-purpose processing frameworks: These frameworks allow users to process data in Hadoop using a low-level API. Although these are all batch frameworks, they follow different programming models. Examples include MapReduce and Spark.
+  - Data flow languages: These frameworks allow users to process data in Hadoop using a high-level scripting language that supports various operators and functions. Examples include Pig and Cascading.
+  - Data warehouse systems: These frameworks allow users to process data in Hadoop using a SQL-like interface that supports various operators and functions. Examples include Hive and Impala.
+  - Query engines: These frameworks allow users to process data in Hadoop using a SQL-like interface that supports various data sources and formats. Examples include Drill and Presto.
+  - Graph processing frameworks: These frameworks allow users to process data in Hadoop using a graph-based model that supports various operators and functions. Examples include Giraph and GraphX.
+  - Machine learning frameworks: These frameworks allow users to process data in Hadoop using various machine learning algorithms and models. Examples include Mahout and MLlib.

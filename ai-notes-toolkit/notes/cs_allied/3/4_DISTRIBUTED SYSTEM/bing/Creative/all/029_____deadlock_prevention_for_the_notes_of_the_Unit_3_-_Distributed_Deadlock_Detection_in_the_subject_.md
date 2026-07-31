@@ -1,0 +1,11 @@
+# Deadlock Prevention for the Notes of the Unit 3 - Distributed Deadlock Detection in the Subject of Distributed System
+
+A deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process. Deadlocks can occur in distributed systems, where processes and resources are located on different machines connected by a network.
+
+Deadlock prevention is a technique to avoid the occurrence of deadlocks by imposing some constraints on the resource allocation policies. There are two main ways to prevent deadlock in a distributed system:
+
+- Ordered request: In this method, each resource type is assigned a certain level to maintain a resource request policy for a process. This is known as the resource allocation policy. A process can request resources only in an increasing order of levels. This prevents circular wait condition, which is one of the necessary conditions for deadlock. For example, if there are three resource types A, B, and C with levels 1, 2, and 3 respectively, then a process can request A before B, B before C, but not C before A or B. 
+
+- Collective request: In this method, a process must request all the resources it needs at the same time before starting execution. This prevents hold and wait condition, which is another necessary condition for deadlock. A process cannot request any additional resources after it has started execution. This also reduces the fragmentation of resources, as a process will not hold any resources that it does not need. For example, if a process needs resources A, B, and C, then it must request them all together, and not request A first, then B, then C.  
+
+These methods can prevent deadlock in a distributed system, but they also have some drawbacks. They may reduce the concurrency and efficiency of the system, as some processes may have to wait longer for resources or may not be able to use some resources at all. They may also increase the complexity and overhead of the system, as some coordination and communication among processes and machines may be required to implement the resource allocation policies. Therefore, deadlock prevention is not always the best solution for distributed systems, and other techniques such as deadlock detection and avoidance may be preferred in some cases.

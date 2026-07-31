@@ -1,0 +1,10 @@
+### Flower
+
+A flower is a modified shoot that serves as the reproductive organ of angiosperms (flowering plants). A flower consists of four main parts: sepals, petals, stamens and carpels. These parts are arranged in a specific pattern on a floral axis. The function of a flower is to produce gametes (pollen and ovules), facilitate pollination and fertilization, and develop seeds and fruits.
+
+- Sepals are the outermost whorl of the flower. They are usually green and leaf-like, and protect the flower bud before it opens. Sepals are collectively called the calyx.
+- Petals are the next whorl of the flower. They are usually colorful and showy, and attract pollinators such as insects and birds. Petals are collectively called the corolla.
+- Stamens are the male reproductive organs of the flower. They consist of a filament (stalk) and an anther (sac) that produces pollen grains. Pollen grains contain the male gametes (sperm cells) that are transferred to the female part of the flower during pollination. Stamens are collectively called the androecium.
+- Carpels are the female reproductive organs of the flower. They consist of an ovary (base), a style (neck) and a stigma (tip). The ovary contains one or more ovules that produce the female gametes (egg cells). The stigma is the receptive surface for pollen grains. The style connects the stigma and the ovary. Carpels are collectively called the gynoecium.
+
+The number, arrangement and fusion of floral parts vary among different species of plants. Some flowers have all four parts, while others may lack one or more parts. Some flowers have separate male and female parts, while others have both parts in the same flower. Some flowers have symmetrical shapes, while others have asymmetrical shapes. Some flowers have a single whorl of each part, while others have multiple whorls of the same part. These variations are determined by the expression of different genes that regulate floral development.

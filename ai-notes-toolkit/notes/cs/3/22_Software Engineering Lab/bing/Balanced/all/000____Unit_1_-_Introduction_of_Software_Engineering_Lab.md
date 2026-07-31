@@ -1,0 +1,43 @@
+## Unit 1 - Introduction of Software Engineering Lab
+
+- Software engineering is the application of engineering principles and practices to the development and maintenance of software systems.
+- Software engineering lab is a practical course that aims to provide students with hands-on experience in software engineering activities, such as requirements analysis, design, implementation, testing, and maintenance.
+- The objectives of software engineering lab are:
+  - To familiarize students with the software development life cycle and various software engineering models and methodologies.
+  - To enable students to apply software engineering techniques and tools to analyze, design, implement, test, and maintain software systems.
+  - To enhance students' skills in communication, teamwork, problem-solving, and documentation.
+  - To expose students to current trends and challenges in software engineering.
+- The expected outcomes of software engineering lab are:
+  - Students will be able to understand and apply the concepts and principles of software engineering to real-world problems.
+  - Students will be able to use appropriate software engineering tools and methods to develop and maintain software systems.
+  - Students will be able to work effectively in teams and communicate clearly and professionally with stakeholders.
+  - Students will be able to appreciate the ethical, social, and professional issues and responsibilities in software engineering.
+- The syllabus of software engineering lab covers the following topics:
+  - Introduction to software engineering and software processes
+  - Requirements engineering and specification
+  - Software design and modeling
+  - Software implementation and coding
+  - Software testing and quality assurance
+  - Software maintenance and evolution
+  - Software project management and documentation
+  - Software engineering standards and best practices
+  - Software engineering case studies and examples
+- The software engineering lab sessions are conducted in a computer lab with the following software and hardware requirements:
+  - A personal computer with Windows or Linux operating system
+  - A web browser and an internet connection
+  - A text editor or an integrated development environment (IDE) such as Eclipse, Visual Studio, or NetBeans
+  - A programming language such as Java, C#, or Python
+  - A software engineering tool such as Rational Rose, StarUML, or ArgoUML
+  - A software testing tool such as JUnit, NUnit, or PyUnit
+  - A software documentation tool such as Doxygen, Javadoc, or Sphinx
+- The software engineering lab assignments are based on the following guidelines:
+  - Each assignment consists of a problem statement, a set of requirements, and a set of deliverables.
+  - The deliverables may include a software specification document, a software design document, a software code file, a software test report, and a software maintenance report.
+  - The assignments are to be completed individually or in groups of two or three students, depending on the complexity and scope of the problem.
+  - The assignments are to be submitted online or in hard copy, as instructed by the lab instructor.
+  - The assignments are to be evaluated based on the following criteria:
+    - Completeness and correctness of the deliverables
+    - Quality and readability of the code and documentation
+    - Adherence to software engineering standards and best practices
+    - Creativity and originality of the solution
+    - Timeliness and professionalism of the submission

@@ -1,0 +1,23 @@
+### Procedures call for the notes of the Unit 3 - Syntax-directed Translation in the subject of Compiler Design
+
+- Syntax-directed translation is a method of compiler implementation where the source language translation is completely driven by the parser .
+- It allows the compiler designer to define the generation of intermediate code directly in terms of the syntactic structure of the source language.
+- It uses a context-free grammar with semantic rules or actions associated with each production and attributes associated with each grammar symbol .
+- The semantic rules or actions are executed when the corresponding production is used during parsing .
+- The attributes are values computed by the semantic rules or actions and can be used to store information about the syntax and semantics of the source program .
+- The attributes can be classified into two types: synthesized and inherited .
+  - Synthesized attributes are computed at a node from the attribute values of its children .
+  - Inherited attributes are computed at a node from the attribute values of its parent and siblings .
+- The general approach to syntax-directed translation is to construct a parse tree or syntax tree and compute the values of attributes at the nodes of the tree by visiting them in some order.
+- The order of visiting the nodes can be determined by a dependency graph, which shows the data dependencies among the attributes.
+- The dependency graph can be used to check the validity of the attribute grammar, which is a grammar with semantic rules or actions.
+- A valid attribute grammar is one that can be evaluated in a finite number of passes over the parse tree or syntax tree.
+- In many cases, translation can be done during parsing without building an explicit tree.
+- This can be achieved by using syntax-directed definitions, which are a form of attribute grammars that use only synthesized attributes and can be evaluated in one bottom-up pass over the parse tree or syntax tree.
+- Syntax-directed definitions can be implemented by augmenting the parser with semantic actions that are executed whenever a production is recognized.
+- The semantic actions can generate intermediate code, perform type checking, or perform other tasks related to semantic analysis and translation.
+- Syntax-directed translation can also be done in a top-down manner using inherited attributes, but this requires more complex techniques such as recursive evaluation or translation schemes.
+- A translation scheme is a notation that embeds semantic actions within the right-hand sides of productions.
+- The semantic actions can be executed in a preorder or postorder traversal of the parse tree or syntax tree.
+- The semantic actions can also be used to modify the parse tree or syntax tree by adding, deleting, or replacing nodes.
+- Syntax-directed translation is a powerful and flexible technique that can be used to implement various aspects of compiler design, such as lexical analysis, parsing, semantic analysis, intermediate code generation, optimization, and code generation.

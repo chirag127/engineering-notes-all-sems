@@ -1,0 +1,10 @@
+### Multiple Access Protocols in Computer Networks
+
+- Multiple access protocols are a set of protocols operating in the Medium Access Control sublayer (MAC sublayer) of the Open Systems Interconnection (OSI) model.
+- These protocols allow a number of nodes or users to access a shared network channel, such as a wired or wireless LAN or a satellite network .
+- The main objective of multiple access protocols is to coordinate the access to the channel and avoid collisions or interference among the nodes .
+- Multiple access protocols can be broadly classified into three categories  :
+  - Random Access Protocols: These protocols assign uniform priority to all connected nodes. Any node can send data whenever the channel is idle or at any random time. If a collision occurs, the nodes use some mechanism to resolve it or retransmit the data later. Examples of random access protocols are ALOHA, Carrier Sense Multiple Access (CSMA), CSMA with Collision Detection (CSMA/CD), and CSMA with Collision Avoidance (CSMA/CA)  .
+  - Controlled Access Protocols: These protocols assign different priority levels to different nodes or data types. The nodes have to follow some rules or procedures to access the channel. The channel access is controlled by a central node or by some distributed algorithm. Examples of controlled access protocols are Reservation, Polling, and Token Passing  .
+  - Channelization Protocols: These protocols divide the channel into smaller sub-channels or time slots and assign them to different nodes or data types. The nodes can only send data in their assigned sub-channels or time slots. The channelization can be done by frequency division multiple access (FDMA), time division multiple access (TDMA), or code division multiple access (CDMA)  .
+- The choice of multiple access protocol depends on the characteristics of the network, such as the number of nodes, the traffic pattern, the channel bandwidth, the error rate, and the delay requirements  .

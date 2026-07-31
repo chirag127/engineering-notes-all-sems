@@ -1,0 +1,26 @@
+# Optical Disks
+
+- Optical disks are electronic data storage media that can be written to and read from using a low-powered laser beam .
+- Optical disks can store analog information, digital information, or both on the same disk.
+- Optical disks are often stored in special cases sometimes called jewel cases and are most commonly used for digital preservation, storing music, video, or data and programs for personal computers (PC).
+- Optical disks can be reflective, where the light source and detector are on the same side of the disk, or transmissive, where light shines through the disk to the be detected on the other side.
+- Optical disks can be classified into three types based on how they are written and read: read-only (ROM), write-once (R), and rewritable (RW).
+- Read-only optical disks are pre-recorded and cannot be modified by the user. Examples are CD-ROM, DVD-ROM, and BD-ROM.
+- Write-once optical disks can be written by the user once and then become read-only. Examples are CD-R, DVD-R, and BD-R.
+- Rewritable optical disks can be written and erased multiple times by the user. Examples are CD-RW, DVD-RW, and BD-RE.
+- Optical disks have different capacities and data transfer rates depending on the format and technology used. The most common formats are compact disks (CD), digital versatile disks (DVD), and Blu-ray disks (BD) .
+- Compact disks (CD) can store up to 700 MB of data and have a data transfer rate of up to 10.8 MB/s. They use a red laser with a wavelength of 780 nm to read and write data .
+- Digital versatile disks (DVD) can store up to 4.7 GB of data on a single layer and up to 8.5 GB on a dual layer. They have a data transfer rate of up to 11.08 MB/s. They use a red laser with a wavelength of 650 nm to read and write data .
+- Blu-ray disks (BD) can store up to 25 GB of data on a single layer and up to 50 GB on a dual layer. They have a data transfer rate of up to 36 MB/s. They use a blue laser with a wavelength of 405 nm to read and write data .
+- Optical disks are read and written by optical disc drives (ODD) that are connected to the computer system. Optical disc drives have a laser, a lens, a photodiode, a spindle motor, and a sled motor  .
+- The laser emits a beam of light that is focused by the lens onto the surface of the disk. The disk rotates at a constant angular velocity by the spindle motor. The lens moves along the radius of the disk by the sled motor to access different tracks of data  .
+- The photodiode detects the reflected light from the disk and converts it into electrical signals that are sent to the computer system. The electrical signals are then decoded into the original data  .
+- To write data to the disk, the laser creates pits in an organic dye layer on the surface of the disk, the reflected light from which can then be read by the photodiode in the drive.
+- Optical disks have several advantages over other types of storage media, such as magnetic disks and flash memory. Some of these advantages are:
+  - Optical disks have a longer lifespan and are more resistant to environmental factors, such as heat, dust, and magnetic fields .
+  - Optical disks have a lower per-unit cost and are more suitable for mass distribution of data, such as music, video, and software .
+  - Optical disks have a higher storage capacity and can store high-definition video and audio .
+- Optical disks also have some disadvantages, such as:
+  - Optical disks have a slower access time and data transfer rate than magnetic disks and flash memory .
+  - Optical disks require more power and space than magnetic disks and flash memory .
+  -

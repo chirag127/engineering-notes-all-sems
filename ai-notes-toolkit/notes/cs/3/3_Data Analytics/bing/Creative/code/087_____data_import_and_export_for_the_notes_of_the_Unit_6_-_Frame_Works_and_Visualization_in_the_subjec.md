@@ -1,0 +1,16 @@
+### Data Import and Export
+
+Data import and export are essential skills for data analysis using Python. Data import means loading data from external sources, such as files, databases, or web pages, into Python objects, such as pandas data frames. Data export means saving Python objects, such as pandas data frames, to external sources, such as files, databases, or web pages.
+
+Some of the main points to learn about data import and export are:
+
+- The most commonly used tool for data analysis using Python is Jupyter Notebook, which is an interactive web-based environment that allows you to write and execute Python code, as well as display the results in various formats, such as tables, charts, or maps.
+- The most commonly used library for data import and export in Python is pandas, which is a powerful and flexible library that provides high-performance data structures and tools for data manipulation and analysis.
+- To import data from a file, such as a CSV (comma-separated values) file, you can use the pandas function `read_csv`, which returns a pandas data frame object. You need to specify the file name or the file path as the first argument, and optionally, other parameters, such as the delimiter, the header, the index column, or the encoding .
+- To export data to a file, such as a CSV file, you can use the pandas method `to_csv`, which saves a pandas data frame object to a file. You need to specify the file name or the file path as the first argument, and optionally, other parameters, such as the delimiter, the header, the index column, or the encoding .
+- To import data from a database, such as a SQL (structured query language) database, you can use the pandas function `read_sql`, which returns a pandas data frame object. You need to specify the SQL query as the first argument, and the database connection as the second argument. You can use the library sqlalchemy to create the database connection .
+- To export data to a database, such as a SQL database, you can use the pandas method `to_sql`, which saves a pandas data frame object to a database. You need to specify the table name as the first argument, and the database connection as the second argument. You can use the library sqlalchemy to create the database connection .
+- To import data from a web page, such as a HTML (hypertext markup language) page, you can use the pandas function `read_html`, which returns a list of pandas data frame objects. You need to specify the web page URL (uniform resource locator) or the HTML string as the first argument, and optionally, other parameters, such as the header, the index column, or the encoding .
+- To export data to a web page, such as a HTML page, you can use the pandas method `to_html`, which returns a HTML string representation of a pandas data frame object. You can then use the library IPython to display the HTML string in the Jupyter Notebook .
+
+These are some of the basic concepts and functions for data import and export in Python. For more details and examples, you can refer to the pandas documentation  or the online courses.

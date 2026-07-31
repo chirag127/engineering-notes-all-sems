@@ -1,0 +1,21 @@
+### Competence for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication
+
+- Competence is the ability to perform a task effectively and efficiently.
+- Communication competence is how well a person can communicate their thoughts and ideas to others using verbal and nonverbal skills.
+- Oral communication competence is the specific subset of communication competence that involves speaking and listening skills for professional purposes.
+- Some dimensions of oral communication competence are:
+  - Language proficiency: the knowledge and skills using the linguistic components of a language, such as vocabulary, grammar, pronunciation, and intonation.
+  - Communicative competence: the ability to use language appropriately and effectively in various contexts, such as social, academic, and professional settings.
+  - Critical thinking: the ability to analyze, evaluate, and synthesize information from various sources and perspectives, and to present logical and coherent arguments.
+  - Metacognitive skills: the ability to monitor and regulate one's own learning and communication processes, such as planning, executing, and reflecting on one's performance.
+  - Cultural competence: the ability to understand and respect the values, beliefs, and practices of different cultures, and to adapt one's communication style accordingly.
+- Some benefits of oral communication competence are:
+  - It can enhance one's academic performance, as oral communication skills are often required for presentations, discussions, and exams.
+  - It can improve one's career prospects, as oral communication skills are essential for networking, interviewing, and collaborating with others in the workplace.
+  - It can foster positive interpersonal relationships, as oral communication skills can help one to express oneself clearly, listen actively, and resolve conflicts constructively.
+- Some tips to develop oral communication competence are:
+  - Practice regularly and seek feedback from others, such as peers, instructors, or mentors.
+  - Be mindful and self-aware of one's own strengths and weaknesses, and set realistic and specific goals for improvement.
+  - Be attentive and respectful to the audience, and tailor one's message to suit their needs, expectations, and backgrounds.
+  - Use appropriate verbal and nonverbal cues, such as tone, volume, eye contact, and gestures, to enhance one's message and rapport with the audience.
+  - Use relevant and credible sources of information, and cite them properly to avoid plagiarism and enhance one's credibility.

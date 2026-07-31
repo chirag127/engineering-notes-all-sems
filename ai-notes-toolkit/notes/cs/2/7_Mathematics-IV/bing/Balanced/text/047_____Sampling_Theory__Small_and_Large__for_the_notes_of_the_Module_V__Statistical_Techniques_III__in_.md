@@ -1,0 +1,11 @@
+### Sampling Theory (Small and Large)
+
+- Sampling theory is the study of how to select a subset of a population (called a sample) that represents the characteristics of the whole population.
+- Sampling is useful when the population is too large or difficult to measure or observe directly.
+- Sampling can reduce the cost and time of data collection and analysis, and can increase the accuracy and precision of the results.
+- Sampling methods can be classified into two types: probability sampling and non-probability sampling.
+  - Probability sampling is when every element in the population has a known and non-zero chance of being selected in the sample. This ensures that the sample is representative and unbiased.
+  - Non-probability sampling is when the selection of elements in the sample is based on some subjective or arbitrary criteria, such as convenience, availability, or judgment. This may introduce bias and limit the generalizability of the results.
+- Sampling theory can also be studied under two contexts: large sample and small sample.
+  - Large sample is when the sample size is greater than 30 (n > 30). In this case, the sampling distribution of the sample statistic (such as the mean, proportion, or standard deviation) is approximately normal, regardless of the shape of the population distribution. This is due to the central limit theorem, which states that the sum or average of a large number of independent and identically distributed random variables converges to a normal distribution as the number of variables increases.
+  - Small sample is when the sample size is less than or equal to 30 (n ≤ 30). In this case, the sampling distribution of the sample statistic may not be normal, and may depend on the shape of the population distribution. For small samples, the sampling distributions are usually t, F, or chi-square distributions, which are derived from the normal distribution but have different degrees of freedom and shapes. These distributions are used to construct confidence intervals and hypothesis tests for small samples.

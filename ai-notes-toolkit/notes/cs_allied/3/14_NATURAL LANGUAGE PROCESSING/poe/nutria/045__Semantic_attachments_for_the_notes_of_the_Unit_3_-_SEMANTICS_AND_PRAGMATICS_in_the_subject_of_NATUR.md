@@ -1,0 +1,9 @@
+
+### Semantic Attachments for the Notes of Unit 3 - Semantics and Pragmatics in the Subject of Natural Language Processing
+1. Semantics is the study of the meaning of words and phrases in a language. It involves the analysis of how words are used in context, and how they can be interpreted in different contexts.
+2. Pragmatics is the study of how context affects the interpretation of words and phrases. It includes the study of how language is used in different contexts, and how it can be used to convey different meanings.
+3. Natural language processing (NLP) is a field of computer science that focuses on the analysis of natural language data. It involves the use of algorithms and other techniques to analyze and interpret natural language data.
+4. Semantic and pragmatic analysis are important components of NLP. They are used to identify the meaning of words and phrases in a given context, as well as to identify patterns in natural language data.
+5. Semantic analysis involves the identification of the meaning of words and phrases in a given context. It involves the use of algorithms to identify the meaning of words and phrases in a given context.
+6. Pragmatic analysis involves the identification of patterns in natural language data. It involves the use of algorithms to identify patterns in natural language data, such as the use of certain words or phrases in certain contexts.
+7. NLP is used in a variety of applications, including search engines, machine translation, text classification, question answering, and more. It is also used in a variety of industries, such as healthcare, finance, and education.

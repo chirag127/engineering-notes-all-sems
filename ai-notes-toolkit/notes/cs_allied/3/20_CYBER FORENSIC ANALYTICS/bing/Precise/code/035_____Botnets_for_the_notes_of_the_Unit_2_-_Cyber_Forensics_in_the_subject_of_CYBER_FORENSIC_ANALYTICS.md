@@ -1,0 +1,8 @@
+### Botnets
+
+- Botnet forensics uses postmortem techniques to collect, identify, detect, examine, analyze, and postmortem document for bot shreds of evidence from digital sources. It uses network security tools to uncover facts related to the cybercrimes specifically on the botnet.
+- Botnet forensic analysis helps in understanding the nature of attacks and the modus operandi used by the attackers. Botnet attacks are difficult to trace because of their rapid pace, epidemic nature, and smaller size. Machine learning works as a panacea for botnet attack related issues.
+- Botnet is a network of compromised computers controlled by attackers. To understand the botnet threat, the architectures, protocols, and life cycle of botnet network are discussed.
+- Botnet Forensics Framework includes the Malware phase, the Botnet Forensic Investigator phase, and the Botnet Forensic Analyzer phase.
+- By employing a plethora of infected machines (bots), attackers manage to compromise the IoT systems and exploit them. Prior to the appearance of the IoT domain, specialized digital forensics mechanisms were developed, in order to investigate Botnet activities in small-scale systems.
+- Botnets can present a massive challenge to the security of an organization’s IT infrastructure. Businesses must prepare for these attacks, and individuals in the cybersecurity world must learn a variety of penetration testing methodologies to test networks and fend off potential intrusions.

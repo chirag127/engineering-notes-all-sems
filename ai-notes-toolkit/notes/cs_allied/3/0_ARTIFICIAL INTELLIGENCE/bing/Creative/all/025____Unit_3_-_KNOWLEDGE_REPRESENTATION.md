@@ -1,0 +1,11 @@
+## Unit 3 - KNOWLEDGE REPRESENTATION
+
+- Knowledge representation is the process of encoding information about a domain in a form that can be used by an intelligent agent to perform reasoning and problem-solving tasks.
+- Knowledge representation involves choosing a suitable representation language, defining the syntax and semantics of the language, and designing methods for acquiring, storing, manipulating, and using the knowledge.
+- Some of the criteria for evaluating a knowledge representation language are expressiveness, efficiency, inferential adequacy, inferential efficiency, and acquisition efficiency.
+- Some of the common types of knowledge representation languages are logic-based, rule-based, frame-based, semantic network-based, and ontology-based.
+- Logic-based languages use formal logic to represent facts and rules about a domain. They allow deductive reasoning based on logical inference rules. Examples of logic-based languages are propositional logic, first-order logic, and description logic.
+- Rule-based languages use conditional statements to represent facts and rules about a domain. They allow forward and backward chaining to infer new facts or goals from existing knowledge. Examples of rule-based languages are production systems, expert systems, and Prolog.
+- Frame-based languages use hierarchical structures to represent concepts and their properties and relations. They allow inheritance and default reasoning to deal with incomplete and uncertain knowledge. Examples of frame-based languages are frames, scripts, and object-oriented languages.
+- Semantic network-based languages use graphs to represent concepts and their relations. They allow associative and analogical reasoning to find similarities and differences between concepts. Examples of semantic network-based languages are semantic networks, conceptual graphs, and RDF.
+- Ontology-based languages use formal vocabularies to define the concepts and relations in a domain. They allow semantic interoperability and knowledge sharing among different agents and applications. Examples of ontology-based languages are OWL, SKOS, and CycL.

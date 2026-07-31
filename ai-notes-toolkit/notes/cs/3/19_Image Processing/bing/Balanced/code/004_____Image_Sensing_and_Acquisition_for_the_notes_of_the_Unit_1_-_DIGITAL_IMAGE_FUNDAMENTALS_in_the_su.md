@@ -1,0 +1,9 @@
+### Image Sensing and Acquisition
+
+- Image sensing and acquisition is the process of capturing and converting an analog image of a physical scene or object into a digital form that can be processed by a computer.
+- Image sensing and acquisition involves three main steps:
+  - Illumination: The scene or object is illuminated by a light source, such as the sun, a lamp, or a laser. The light reflects or absorbs by the elements of the scene, creating variations in intensity and color.
+  - Sensing: The reflected or absorbed light is detected by an image sensor, such as a camera, a scanner, or a microscope. The image sensor converts the light into electrical signals that represent the intensity and color of each pixel in the image.
+  - Digitization: The electrical signals are converted into digital numbers by an analog-to-digital converter (ADC). The digital numbers are stored in a memory device, such as a hard disk, a flash drive, or a cloud server.
+- Image sensing and acquisition can be performed for different types of images, such as grayscale, color, binary, multispectral, hyperspectral, infrared, ultraviolet, X-ray, MRI, etc. Each type of image requires a specific image sensor and ADC that can capture and convert the corresponding range of wavelengths and intensities.
+- Image sensing and acquisition can be used for various applications, such as photography, video, medical imaging, remote sensing, biometrics, security, surveillance, etc. Each application has different requirements and challenges for image sensing and acquisition, such as resolution, speed, accuracy, noise, compression, etc.

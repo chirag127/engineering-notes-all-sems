@@ -1,0 +1,28 @@
+# Location Management: HLR-VLR, Hierarchical, Handoffs
+
+- Location management is the process of tracking and updating the location of mobile users in a wireless cellular network.
+- Location management consists of two main functions: location update and location lookup.
+- Location update is the process of informing the network about the current location of a mobile user when it moves from one location area to another.
+- Location lookup is the process of finding the current location of a mobile user when a call or a message is destined to it.
+- Location management aims to minimize the signaling overhead and the delay involved in locating mobile users.
+- Location management schemes can be classified into two types: centralized and distributed.
+- Centralized schemes use a single database to store the location information of all mobile users, such as the home location register (HLR) in GSM networks.
+- Distributed schemes use multiple databases to store the location information of mobile users, such as the visitor location registers (VLRs) in GSM networks.
+- HLR-VLR is a hierarchical distributed scheme that divides the service area into location areas (LAs), each with a VLR.
+- HLR is a database that contains the subscription information and some location information of all mobile users in the network.
+- VLR is a database that contains the information of the mobile users that are currently visiting its LA.
+- When a mobile user moves from one LA to another, it performs a location update to the new VLR, which then contacts the HLR to obtain the user's information.
+- When a call or a message is destined to a mobile user, the network queries the HLR to find the VLR that serves the user's current LA, and then queries the VLR to find the user's current cell.
+- Handoff is the process of transferring an ongoing call or a data session from one cell or channel to another without interrupting the service.
+- Handoff is necessary when a mobile user moves out of the coverage area of the current cell or when the current cell or channel becomes congested or interfered.
+- Handoff can be classified into two types: hard handoff and soft handoff.
+- Hard handoff is the process of breaking the connection with the current cell or channel before establishing a new connection with the target cell or channel.
+- Soft handoff is the process of establishing a new connection with the target cell or channel before breaking the connection with the current cell or channel.
+- Handoff can also be classified into two types: horizontal handoff and vertical handoff.
+- Horizontal handoff is the process of transferring a call or a data session from one cell or channel to another within the same network or technology.
+- Vertical handoff is the process of transferring a call or a data session from one network or technology to another, such as from cellular to Wi-Fi.
+- Handoff aims to maintain the quality of service and the continuity of service for mobile users.
+- Handoff involves three main phases: handoff initiation, handoff decision, and handoff execution.
+- Handoff initiation is the phase of detecting the need for a handoff based on some criteria, such as signal strength, signal quality, or user preference.
+- Handoff decision is the phase of selecting the target cell or channel for the handoff based on some criteria, such as availability, capacity, or cost.
+- Handoff execution is the phase of switching the connection from the current cell or channel to the target cell or channel without interrupting the service.

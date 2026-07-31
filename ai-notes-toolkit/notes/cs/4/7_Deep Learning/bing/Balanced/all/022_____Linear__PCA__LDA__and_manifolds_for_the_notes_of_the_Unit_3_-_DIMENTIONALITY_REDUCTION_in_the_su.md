@@ -1,0 +1,13 @@
+# Linear (PCA, LDA) and manifolds for the notes of the Unit 3 - DIMENTIONALITY REDUCTION in the subject of Deep Learning
+
+- Dimensionality reduction is the process of reducing the number of features or variables in a dataset, while preserving as much information as possible.
+- Dimensionality reduction can be useful for data visualization, noise reduction, data compression, feature extraction, and computational efficiency.
+- There are two main types of dimensionality reduction techniques: linear and nonlinear.
+- Linear dimensionality reduction techniques assume that the data lies on or near a linear subspace of the original feature space. They project the data onto a lower-dimensional linear subspace that maximizes some criterion of interest.
+- Nonlinear dimensionality reduction techniques assume that the data lies on or near a nonlinear manifold of the original feature space. They attempt to preserve the local or global structure of the data manifold in a lower-dimensional embedding space.
+- Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) are two popular linear dimensionality reduction techniques.
+- PCA finds the orthogonal directions of maximum variance in the data, and projects the data onto a lower-dimensional subspace spanned by these directions. PCA is an unsupervised technique, meaning it does not use any class labels or prior information about the data.
+- LDA finds the directions that maximize the separation between different classes of data, and projects the data onto a lower-dimensional subspace spanned by these directions. LDA is a supervised technique, meaning it uses the class labels of the data to guide the dimensionality reduction.
+- Manifolds are mathematical objects that locally resemble a Euclidean space, but may have a more complex global structure. For example, a sphere is a two-dimensional manifold that locally looks like a plane, but globally has a curved shape.
+- Manifold learning is a class of nonlinear dimensionality reduction techniques that aim to discover the underlying manifold structure of the data, and map the data to a lower-dimensional embedding space that preserves the manifold structure. Some examples of manifold learning techniques are Isomap, Locally Linear Embedding (LLE), Laplacian Eigenmaps, and t-distributed Stochastic Neighbor Embedding (t-SNE).
+- Manifold learning techniques can capture the nonlinear relationships and patterns in the data, and reveal the intrinsic dimensionality of the data. However, they also have some limitations, such as being sensitive to noise, outliers, and parameter choices, and being computationally expensive.

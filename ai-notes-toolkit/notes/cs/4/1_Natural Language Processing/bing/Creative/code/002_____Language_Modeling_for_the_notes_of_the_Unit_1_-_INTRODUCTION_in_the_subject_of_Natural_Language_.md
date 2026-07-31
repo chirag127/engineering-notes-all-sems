@@ -1,0 +1,15 @@
+### Language Modeling
+
+- Language modeling is the task of estimating the probability of a given sequence of words or tokens in a natural language.  
+- Language models are useful for various natural language processing applications, such as speech recognition, machine translation, text summarization, text generation, etc.  
+- Language models can be classified into two types: **generative** and **discriminative**. 
+  - Generative models learn the joint probability of the input and output, and can generate new samples from the learned distribution. For example, a generative language model can generate a sentence given a topic or a context. 
+  - Discriminative models learn the conditional probability of the output given the input, and can predict the most likely output for a given input. For example, a discriminative language model can predict the next word given the previous words. 
+- Language models can also be categorized based on the level of granularity they operate on: **word-level**, **character-level**, or **subword-level**. 
+  - Word-level models treat each word as an atomic unit and assign a probability to each word in the vocabulary. Word-level models suffer from the problem of data sparsity and out-of-vocabulary words. 
+  - Character-level models treat each character as an atomic unit and assign a probability to each character in the alphabet. Character-level models can handle any word, but they require longer sequences and more computation. 
+  - Subword-level models split words into smaller units, such as syllables, morphemes, or byte-pair encodings. Subword-level models can balance between the advantages and disadvantages of word-level and character-level models. 
+- Language models can also be distinguished based on the architecture they use: **n-gram models**, **neural network models**, or **transformer models**.   
+  - N-gram models are the simplest and most widely used language models. They use the Markov assumption to estimate the probability of a word based on the previous n-1 words. N-gram models are fast and easy to implement, but they suffer from the problems of data sparsity, long-term dependencies, and fixed context size.   
+  - Neural network models are more advanced and powerful language models. They use various types of neural networks, such as recurrent neural networks, convolutional neural networks, or long short-term memory networks, to learn the probability of a word based on the previous words. Neural network models can capture long-term dependencies and variable context size, but they require more data and computation.   
+  - Transformer models are the state-of-the-art language models. They use a novel architecture based on attention mechanisms, which allow the model to focus on the most relevant parts of the input and output. Transformer models can achieve superior performance on various natural language processing tasks, but they require huge amounts of data and computation.

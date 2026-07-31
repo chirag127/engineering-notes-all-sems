@@ -1,0 +1,32 @@
+## Unit 1 - Introduction, issues in mobile computing, overview of wireless telephony: cellular concept, GSM:
+
+- Mobile computing is the use of portable devices, such as smartphones, tablets, laptops, etc., that can access data and services over wireless networks, without being bound to a fixed location.
+- Mobile computing enables users to communicate, work, learn, and entertain anytime and anywhere, using various applications and services.
+- Mobile computing also poses some challenges and issues, such as:
+  - Limited battery life and power consumption of mobile devices.
+  - Limited bandwidth and network coverage of wireless networks.
+  - Security and privacy of data and communication over wireless networks.
+  - Heterogeneity and interoperability of mobile devices and wireless networks.
+  - Mobility and location management of mobile devices and users.
+  - Adaptability and scalability of mobile applications and services.
+- Wireless telephony is the transmission of voice and data over wireless networks, using radio waves or electromagnetic signals.
+- Wireless telephony can be classified into different generations, based on the technology and standards used:
+  - First generation (1G): Analog cellular networks that used frequency division multiple access (FDMA) to allocate channels to users. Examples are AMPS, NMT, TACS, etc.
+  - Second generation (2G): Digital cellular networks that used time division multiple access (TDMA) or code division multiple access (CDMA) to multiplex users. Examples are GSM, IS-95, D-AMPS, etc.
+  - Third generation (3G): Digital cellular networks that used wideband CDMA (WCDMA) or CDMA2000 to provide higher data rates and multimedia services. Examples are UMTS, HSPA, EV-DO, etc.
+  - Fourth generation (4G): Digital cellular networks that used orthogonal frequency division multiple access (OFDMA) or single carrier FDMA (SC-FDMA) to provide higher data rates and broadband services. Examples are LTE, WiMAX, etc.
+  - Fifth generation (5G): Digital cellular networks that use new radio (NR) technology to provide higher data rates, lower latency, and massive connectivity. Examples are 5G NR, 5G New Core, etc.
+- Cellular concept is the basic principle of wireless telephony, which divides a geographical area into smaller regions called cells, each served by a base station that communicates with mobile devices within its coverage area.
+- Cellular concept enables efficient use of radio spectrum, by allowing frequency reuse, i.e., the same frequency can be used by different cells that are sufficiently far apart to avoid interference.
+- Cellular concept also enables handover, i.e., the transfer of a mobile device's connection from one base station to another, as the device moves across cell boundaries.
+- GSM (Global System for Mobile communication) is a 2G digital cellular network that is widely used by mobile phone users in Europe and other parts of the world.
+- GSM uses a combination of FDMA and TDMA to multiplex users. It uses four different frequency bands: 850 MHz, 900 MHz, 1800 MHz, and 1900 MHz.
+- GSM has a hierarchical network architecture, consisting of the following components:
+  - Mobile station (MS): The mobile device that communicates with the network, such as a mobile phone or a modem.
+  - Base station subsystem (BSS): The part of the network that manages the radio communication with the mobile stations, consisting of base transceiver stations (BTS) and base station controllers (BSC).
+  - Network and switching subsystem (NSS): The part of the network that performs the switching and routing of calls and data, consisting of mobile switching centers (MSC), home location registers (HLR), visitor location registers (VLR), authentication centers (AUC), and equipment identity registers (EIR).
+  - Operation and support subsystem (OSS): The part of the network that performs the management and maintenance of the network, consisting of operation and maintenance centers (OMC), network management centers (NMC), and billing centers (BC).
+- GSM supports various services, such as:
+  - Voice services: Basic telephony, emergency calls, voice mail, etc.
+  - Data services: Short message service (SMS), circuit-switched data (CSD), general packet radio service (GPRS), enhanced data rates for GSM evolution (EDGE), etc.
+  - Supplementary services: Call forwarding, call waiting, call barring, caller identification, etc.

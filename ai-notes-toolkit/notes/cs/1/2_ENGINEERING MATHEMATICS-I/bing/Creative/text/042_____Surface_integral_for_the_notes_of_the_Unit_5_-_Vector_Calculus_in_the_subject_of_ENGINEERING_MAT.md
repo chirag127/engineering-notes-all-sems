@@ -1,0 +1,9 @@
+### Surface integral
+
+- A surface integral is a generalization of a line integral to account for surfaces in three dimensions.
+- A surface integral is used to add a bunch of values associated with points on a surface, such as the flux of a vector field, the mass of a thin sheet, or the heat transfer across a boundary.
+- A surface integral can be defined for scalar fields or vector fields, depending on whether the integrand is a scalar or a vector function.
+- A surface integral of a scalar field is denoted by $\iint_S f(x,y,z) dS$, where $f(x,y,z)$ is the scalar function and $S$ is the surface of integration.
+- A surface integral of a vector field is denoted by $\iint_S \mathbf{F} \cdot d\mathbf{S}$, where $\mathbf{F}$ is the vector function and $d\mathbf{S}$ is the differential vector element of the surface, which is perpendicular to the surface and has magnitude equal to the area of the surface element.
+- To evaluate a surface integral, one needs to parameterize the surface using two variables, such as $u$ and $v$, and express the integrand and the differential element in terms of these variables. Then, the surface integral becomes a double integral over the domain of the parameters.
+- For example, to find the surface integral of the scalar field $f(x,y,z) = x^2 + y^2 + z^2$ over the sphere $x^2 + y^2 + z^2 = 4$, one can use the spherical coordinates $x = 2 \sin \theta \cos \phi$, $y = 2 \sin \theta \sin \phi$, and $z = 2 \cos \theta$, where $0 \leq \theta \leq \pi$ and $0 \leq \phi \leq 2\pi$. Then, the integrand becomes $f(x,y,z) = 4$ and the differential element becomes $dS = 4 \sin \theta d\theta d\phi$. Therefore, the surface integral is $\iint_S f(x,y,z) dS = \iint_S 4 dS = 4 \int_0^{2\pi} \int_0^{\pi} 4 \sin \theta d\theta d\phi = 64 \pi$.

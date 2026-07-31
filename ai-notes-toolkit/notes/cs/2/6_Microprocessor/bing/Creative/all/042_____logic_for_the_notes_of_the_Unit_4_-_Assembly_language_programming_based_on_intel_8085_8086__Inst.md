@@ -1,0 +1,21 @@
+# Logic for the notes of the Unit 4 - Assembly language programming based on intel 8085/8086
+
+- Assembly language is a low-level programming language that uses mnemonics to represent machine instructions.
+- Assembly language programming with 8085 microprocessor involves the following steps:
+  - Writing the program in assembly language using an editor
+  - Assembling the program using an assembler to generate machine code
+  - Loading the machine code into the memory of the microprocessor
+  - Executing the program by providing the starting address
+- Assembly language programming with 8086 microprocessor is similar to 8085, except that 8086 has a 16-bit architecture and more registers.
+- Instructions are the commands that tell the microprocessor what to do. Instructions can be classified into the following types:
+  - Data transfer instructions: These instructions move data between registers, memory, and I/O devices. Examples are MOV, MVI, LDA, STA, IN, OUT, etc.
+  - Arithmetic instructions: These instructions perform arithmetic operations on data in registers or memory. Examples are ADD, SUB, INR, DCR, ADC, SBB, etc.
+  - Logic instructions: These instructions perform logical operations on data in registers or memory. Examples are AND, OR, XOR, NOT, CMP, etc.
+  - Branch instructions: These instructions change the sequence of execution by altering the program counter. Examples are JMP, JC, JNC, JZ, JNZ, etc.
+  - Looping instructions: These instructions repeat a block of code until a condition is met. Examples are LOOP, LOOPE, LOOPNE, etc.
+  - Counting instructions: These instructions increment or decrement a register or memory location by one. Examples are INC, DEC, etc.
+  - Indexing instructions: These instructions use an index register to access data in memory. Examples are MOV, ADD, SUB, CMP, etc. with an index register as an operand.
+  - Programming techniques: These are the methods and strategies to write efficient and modular assembly language programs. Examples are using subroutines, macros, comments, labels, etc.
+  - Counters and time delays: These are the methods to generate a specific number of clock cycles or a specific duration of time using assembly language instructions. Examples are using loop instructions, NOP instruction, etc.
+  - Stacks and subroutines: These are the methods to store and retrieve data or return addresses using a special memory area called stack. Examples are using PUSH, POP, CALL, RET, etc.
+  - Conditional call and return instructions: These are the instructions that call or return from a subroutine based on a condition. Examples are CC, CNC, CZ, CNZ, etc. for call instructions and RC, RNC, RZ, RNZ, etc. for return instructions.

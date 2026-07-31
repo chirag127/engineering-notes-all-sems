@@ -1,0 +1,16 @@
+### 8. English Grammar & Usage, R.P.Sinha, Oxford University Press, New Delhi, 2005.
+
+This is a book that covers the basic and advanced aspects of English grammar and usage. It is divided into 12 chapters, each focusing on a different topic. The chapters are:
+
+- Chapter 1: The Sentence and Its Parts. This chapter introduces the concept of a sentence and its components, such as subject, predicate, verb, object, complement, and modifier. It also explains the types and functions of clauses and phrases.
+- Chapter 2: The Verb. This chapter deals with the form and meaning of verbs, such as tense, aspect, mood, voice, and modality. It also discusses the types and patterns of verb phrases, such as transitive, intransitive, linking, and auxiliary verbs.
+- Chapter 3: The Noun. This chapter covers the form and function of nouns, such as number, gender, case, and agreement. It also explains the types and roles of noun phrases, such as common, proper, countable, uncountable, collective, and abstract nouns.
+- Chapter 4: The Pronoun. This chapter focuses on the form and use of pronouns, such as personal, possessive, reflexive, demonstrative, interrogative, relative, and indefinite pronouns. It also covers the rules of pronoun reference and agreement.
+- Chapter 5: The Adjective. This chapter describes the form and meaning of adjectives, such as degree, comparison, and order. It also shows the types and functions of adjective phrases, such as attributive, predicative, and appositive adjectives.
+- Chapter 6: The Adverb. This chapter examines the form and function of adverbs, such as manner, place, time, frequency, degree, and reason. It also illustrates the types and positions of adverb phrases, such as modifying verbs, adjectives, adverbs, and clauses.
+- Chapter 7: The Preposition. This chapter explores the form and use of prepositions, such as location, direction, time, and purpose. It also explains the types and structures of prepositional phrases, such as simple, complex, and compound prepositions.
+- Chapter 8: The Conjunction. This chapter analyzes the form and meaning of conjunctions, such as coordinating, subordinating, and correlative conjunctions. It also discusses the types and functions of conjunctional phrases, such as joining words, phrases, clauses, and sentences.
+- Chapter 9: The Article. This chapter reviews the form and function of articles, such as definite, indefinite, and zero articles. It also covers the rules of article usage, such as specificity, generality, countability, and uniqueness.
+- Chapter 10: The Interjection. This chapter introduces the form and function of interjections, such as expressing emotions, attitudes, and reactions. It also lists some common interjections and their meanings.
+- Chapter 11: The Punctuation. This chapter explains the form and function of punctuation marks, such as commas, periods, question marks, exclamation marks, colons, semicolons, dashes, hyphens, apostrophes, quotation marks, parentheses, brackets, and ellipses. It also provides some guidelines and examples of punctuation usage.
+- Chapter 12: The Style. This chapter offers some tips and advice on how to improve one's style and clarity in writing and speaking English. It also covers some topics such as word choice, sentence structure, paragraph development, coherence, cohesion, tone, and register.

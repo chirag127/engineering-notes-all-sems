@@ -1,0 +1,7 @@
+# Arduino for the notes of the Unit 4 - ADVANCED I/O INTERFACING in the subject of PROGRAMMING AND INTERFACING WITH MICROCONTROLLERS
+
+- Arduino is a widely used platform to program microcontrollers. Its Wiring standard and Arduino IDE (integrated development environment) make it easy to implement for any microcontroller.
+- Programming and Interfacing with Arduino provides an in-depth understanding of the Arduino UNO board. It covers programming concepts, working and interfacing of sensors, input/output devices, communication modules, and actuators with Arduino UNO board.
+- This book contains a large number of programming examples along with the description and interfacing details of hardware with Arduino UNO board.
+- For example, a 4x4 keypad can be interfaced and programmed with Arduino. The keypad can be wired with an Arduino board and a program can be written for communication between Arduino and keypad.
+- Another example is the interfacing of an LCD with Arduino. Parallel LCDs, such as the Hitachi HD44780, are commonly used and interfaced with Arduino using digital I/O pins of Arduino. A Hitachi HD44780 type 16x2 LCD can be interfaced with Arduino using 4-8 data lines and a few control pins of the display.

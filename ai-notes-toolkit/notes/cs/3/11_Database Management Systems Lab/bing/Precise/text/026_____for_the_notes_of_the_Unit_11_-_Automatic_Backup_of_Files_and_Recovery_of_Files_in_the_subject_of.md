@@ -1,0 +1,12 @@
+### Unit 11 - Automatic Backup of Files and Recovery of Files in the subject of Database Management Systems Lab
+
+1. **Automatic Backup** refers to the process of automatically creating a copy of the data in a database at regular intervals to prevent data loss in case of a system failure or other unforeseen event.
+2. **Recovery of Files** refers to the process of restoring data from a backup copy after a system failure or other event that results in data loss.
+3. **Backup Strategies**: There are several strategies for backing up data, including full backups, incremental backups, and differential backups.
+    - **Full Backup**: A full backup creates a complete copy of the data in the database. This type of backup provides the most comprehensive protection, but it can be time-consuming and require a large amount of storage space.
+    - **Incremental Backup**: An incremental backup only backs up the data that has changed since the last backup. This type of backup is faster and requires less storage space than a full backup, but it can be more difficult to restore data from an incremental backup.
+    - **Differential Backup**: A differential backup backs up the data that has changed since the last full backup. This type of backup is faster than a full backup and requires less storage space than a full backup, but it can be more difficult to restore data from a differential backup than from a full backup.
+4. **Recovery Strategies**: There are several strategies for recovering data from a backup, including restoring the entire database, restoring individual files or tables, and using point-in-time recovery.
+    - **Restoring the Entire Database**: Restoring the entire database involves restoring all the data from a backup copy. This is the most comprehensive recovery strategy, but it can be time-consuming.
+    - **Restoring Individual Files or Tables**: Restoring individual files or tables involves restoring only the specific files or tables that were lost or damaged. This is a faster recovery strategy than restoring the entire database, but it requires more knowledge of the database structure and the data that was lost.
+    - **Point-in-Time Recovery**: Point-in-time recovery involves restoring the database to a specific point in time. This is useful if data was accidentally deleted or modified and needs to be restored to its previous state. This recovery strategy requires that the database be configured to support point-in-time recovery and that backups be taken at regular intervals.

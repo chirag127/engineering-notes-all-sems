@@ -1,0 +1,13 @@
+### Variable Thresholding for the notes of the Unit 3 - Image Segmentation in the subject of IMAGE ANALYTICS
+
+- Image segmentation is the process of dividing an image into meaningful regions or segments based on some criteria, such as pixel intensity, color, texture, etc.
+- Image thresholding is one of the simplest and most common techniques for image segmentation, which converts a grayscale image into a binary image by assigning pixels to either foreground or background based on a threshold value.
+- Variable thresholding is a type of image thresholding that adapts the threshold value to different regions of the image, instead of using a single global value for the whole image. This can improve the segmentation results for images that have uneven illumination, noise, or varying contrast.
+- Variable thresholding can be classified into two categories: local and adaptive.
+  - Local thresholding divides the image into small sub-regions or windows, and applies a global thresholding method to each sub-region independently. The threshold value for each sub-region can be determined by the mean, median, mode, or other statistics of the pixel intensities within the sub-region. Local thresholding can handle local variations in the image, but it may produce artifacts at the boundaries of the sub-regions, and it may not be robust to noise or outliers.
+  - Adaptive thresholding adjusts the threshold value for each pixel based on the local characteristics of the pixel neighborhood, such as the local mean, variance, or entropy. Adaptive thresholding can produce smoother and more consistent segmentation results, but it may be computationally more expensive and sensitive to the choice of the neighborhood size and shape.
+- Some examples of variable thresholding methods are:
+  - Niblack's method, which computes the threshold value for each pixel as the local mean plus a constant times the local standard deviation.
+  - Bernsen's method, which computes the threshold value for each pixel as the midpoint of the local minimum and maximum pixel intensities.
+  - Sauvola's method, which is a modification of Niblack's method that incorporates a dynamic range term to handle low-contrast regions.
+  - Otsu's method, which is a global thresholding method that can be extended to local or adaptive thresholding by applying it to sub-regions or neighborhoods of the image. Otsu's method chooses the threshold value that maximizes the between-class variance of the pixel intensities.

@@ -1,0 +1,24 @@
+## Unit 2 - Functional Anatomy of Prokaryotic and Eukaryotic Cells: Size, shape, and arrangement of bacterial cells. Structure and function of cells
+
+- Prokaryotic cells are cells that lack a nucleus and other membrane-bound organelles. They are typically smaller and simpler than eukaryotic cells, which have a nucleus and other membrane-bound organelles.
+- Eukaryotic cells are cells that have a nucleus and other membrane-bound organelles. They are typically larger and more complex than prokaryotic cells, which lack a nucleus and other membrane-bound organelles.
+- Bacterial cells are prokaryotic cells that belong to the domain Bacteria. They have a variety of shapes, sizes, and arrangements, depending on their genetic and environmental factors.
+- The most common shapes of bacterial cells are:
+  - Coccus: spherical or oval
+  - Bacillus: rod-shaped or cylindrical
+  - Spirillum: spiral or curved
+  - Vibrio: comma-shaped
+  - Coccobacillus: short and plump
+  - Spirochete: flexible and helical
+- The most common arrangements of bacterial cells are:
+  - Single: individual cells
+  - Diplo: pairs of cells
+  - Strepto: chains of cells
+  - Staphylo: clusters of cells
+  - Tetrads: groups of four cells
+  - Sarcinae: groups of eight cells
+  - Palisades: side-by-side rows of cells
+- The structure and function of bacterial cells are determined by their cell envelope, which consists of three layers: the cell wall, the cell membrane, and the capsule.
+  - The cell wall is a rigid layer that surrounds the cell membrane and provides shape, support, and protection to the cell. It also prevents the cell from bursting due to osmotic pressure. The cell wall is composed of peptidoglycan, a polymer of sugar and amino acids, and may also contain other substances such as lipopolysaccharide, teichoic acid, and mycolic acid, depending on the type of bacteria.
+  - The cell membrane is a thin, flexible layer that encloses the cytoplasm and regulates the passage of materials in and out of the cell. It is composed of phospholipids and proteins, and may also contain hopanoids, which are sterol-like molecules that stabilize the membrane. The cell membrane is involved in many cellular processes, such as respiration, photosynthesis, secretion, and transport.
+  - The capsule is a sticky layer that surrounds the cell wall and the cell membrane and helps the cell adhere to surfaces and evade the immune system. It is composed of polysaccharides, proteins, or both, and may also contain other substances such as glycoproteins, glycolipids, and lipoteichoic acid, depending on the type of bacteria. The capsule is also involved in biofilm formation, which is a community of bacteria that grow on a surface and are protected by a matrix of extracellular polymeric substances.

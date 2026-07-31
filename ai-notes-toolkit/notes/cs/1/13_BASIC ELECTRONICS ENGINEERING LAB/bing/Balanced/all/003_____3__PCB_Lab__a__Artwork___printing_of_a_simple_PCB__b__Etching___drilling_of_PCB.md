@@ -1,0 +1,19 @@
+### 3. PCB Lab: a. Artwork & printing of a simple PCB. b. Etching & drilling of PCB
+
+A printed circuit board (PCB) is a board that connects electronic components using conductive traces and pads. PCBs are widely used in various electronic devices and circuits. In this lab, you will learn how to design, print, etch and drill a simple PCB.
+
+a. Artwork & printing of a simple PCB
+
+- The first step in making a PCB is to create the artwork, which is the design of the circuit layout on the board. You can use software tools such as Eagle, KiCad, or Fritzing to draw the schematic and the board layout. Alternatively, you can draw the artwork by hand on a graph paper or a transparent sheet.
+- The artwork should include the following elements:
+  - The outline of the board and the holes for the components and the mounting screws.
+  - The traces, which are the thin lines that connect the components and form the circuit. The traces should be as short and straight as possible, and avoid crossing each other. You can use different colors or symbols to distinguish the traces for different voltage levels or signals.
+  - The pads, which are the circular or rectangular areas where the components are soldered to the board. The pads should be large enough to accommodate the leads of the components and provide good electrical contact. You can use the same color or symbol as the corresponding trace for the pads.
+  - The labels, which are the names or numbers of the components and the pins. The labels should be clear and readable, and oriented in the same direction as the board. You can use a different color or symbol from the traces and the pads for the labels.
+- The next step is to print the artwork on a paper or a film. You can use a laser printer or an inkjet printer to print the artwork, but make sure the printer settings are adjusted to produce a high-contrast and high-resolution image. You can also use a photocopier to copy the artwork from a paper or a film to another paper or film. The printed artwork should be the same size as the actual board, and should be checked for any errors or defects.
+- The printed artwork is then transferred to the copper-clad board, which is the base material for the PCB. The copper-clad board consists of a thin layer of copper on one or both sides of a non-conductive substrate, such as fiberglass or epoxy. The copper layer is the part that will form the traces and the pads on the PCB. The artwork is placed on the copper layer, and aligned with the edges and the holes of the board. The artwork is then fixed to the board using a tape or a clamp.
+
+b. Etching & drilling of PCB
+
+- The etching process is the removal of the unwanted copper from the board, leaving only the traces and the pads. The etching process can be done using a chemical solution or a mechanical method. The chemical solution is a mixture of water and an acid, such as ferric chloride or ammonium persulfate, that dissolves the copper. The mechanical method is a tool, such as a milling machine or a laser cutter, that cuts or burns the copper. The etching process should be done carefully and safely, following the instructions and precautions of the chosen method.
+- The drilling process is the creation of the holes for the components and the mounting screws. The drilling process can be done using a drill press or a hand drill, with a suitable drill bit size and speed. The drilling process should be done accurately and neatly, following the alignment and the spacing of the artwork. The drilled holes should be cleaned and deburred, using a file or a sandpaper, to remove any burrs or residues.

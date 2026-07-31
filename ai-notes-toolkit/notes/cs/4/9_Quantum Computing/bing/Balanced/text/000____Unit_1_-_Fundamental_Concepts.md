@@ -1,0 +1,9 @@
+## Unit 1 - Fundamental Concepts
+
+- In this unit, you will learn about some of the basic concepts and principles of computer science, such as data, information, abstraction, representation, algorithms, and programming languages.
+- Data is the raw material that can be processed, stored, manipulated, and communicated by computers. Data can be of different types, such as numbers, text, images, sound, video, etc.
+- Information is the meaning or interpretation that humans assign to data. Information can be used to make decisions, solve problems, communicate, or learn. Information can be derived from data by applying rules, logic, or algorithms.
+- Abstraction is the process of simplifying or hiding the details of a complex system or phenomenon, and focusing on the essential features or properties that are relevant for a specific purpose or context. Abstraction can help to reduce complexity, improve efficiency, and enhance understanding.
+- Representation is the way of encoding or expressing data or information using symbols, signs, or formats that can be understood by humans or machines. Representation can affect the accuracy, readability, usability, and functionality of data or information. Examples of representation include binary, decimal, hexadecimal, ASCII, Unicode, etc.
+- Algorithms are the step-by-step instructions or rules that describe how to solve a problem or perform a task using data or information. Algorithms can be expressed in different ways, such as natural language, pseudocode, flowcharts, diagrams, or programming languages.
+- Programming languages are the formal languages that programmers use to write algorithms or programs that can be executed by computers. Programming languages have syntax, semantics, and pragmatics that define their structure, meaning, and usage. Examples of programming languages include Python, Java, C, etc.

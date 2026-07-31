@@ -1,0 +1,26 @@
+### XML schemes for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+
+- XML stands for Extensible Markup Language. It is a markup language containing tags to define data.
+- XML is used for designing the web pages in an application. It allows the web developers to create their own customized tags and use them to store and display data on the web.
+- XML schema is a language which is used for expressing constraint about XML documents. It defines the structure, content, and data types of an XML document .
+- XML schema is also known as XML Schema Definition (XSD). It is based on the XML syntax and uses the XML namespace to avoid name conflicts .
+- XML schema can be used to validate an XML document against the rules and constraints defined in the schema. It can also be used to generate XML documents that conform to the schema .
+- XML schema consists of the following components :
+  - The XML declaration that specifies the version, encoding, and namespace of the schema.
+  - The xs:schema element that defines a schema and contains other schema elements.
+  - The xs:element element that declares an element in the XML document and its attributes, data type, and occurrence.
+  - The xs:attribute element that declares an attribute in the XML document and its data type and default or fixed value.
+  - The xs:complexType element that defines a complex data type that can contain other elements and attributes.
+  - The xs:simpleType element that defines a simple data type that can restrict the values of an element or attribute.
+  - The xs:sequence element that specifies the order and number of child elements in a complex type.
+  - The xs:choice element that allows one of several child elements to appear in a complex type.
+  - The xs:all element that allows any number and order of child elements in a complex type.
+  - The xs:annotation element that provides additional information or documentation about the schema or its components.
+  - The xs:include element that allows the inclusion of another schema file in the current schema.
+  - The xs:import element that allows the use of elements and types from another schema with a different namespace.
+- XML schema can be written in a text editor or a specialized tool that supports schema creation and validation.
+- XML schema can be linked to an XML document using the xsi:schemaLocation or xsi:noNamespaceSchemaLocation attributes in the root element of the document.
+- XML schema can be used to create visual sitemaps for website designs. A visual sitemap is a diagram that shows the hierarchy and structure of the web pages and the links between them.
+- A visual sitemap can help the web designers and developers to plan and organize the content, layout, and navigation of the website.
+- A visual sitemap can be created using tools that can generate sitemaps from XML schema or XML documents, or using tools that allow the manual drawing of sitemaps.
+- A visual sitemap can be updated and modified as the website design evolves and changes.

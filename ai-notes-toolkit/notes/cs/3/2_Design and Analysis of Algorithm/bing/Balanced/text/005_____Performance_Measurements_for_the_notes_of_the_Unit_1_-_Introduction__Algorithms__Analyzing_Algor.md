@@ -1,0 +1,11 @@
+### Performance Measurements
+
+- Performance measurements are used to evaluate the efficiency and effectiveness of an algorithm in solving a problem.
+- Performance measurements can be based on various factors, such as time, space, network, power, etc. However, the most common factors are time and space complexity.
+- Time complexity measures how much time an algorithm takes to execute for a given input size. It depends on the number of basic operations performed by the algorithm, such as arithmetic, comparisons, assignments, etc.
+- Space complexity measures how much memory or space an algorithm uses while it is executed for a given input size. It depends on the amount of data and program space required by the algorithm, such as variables, arrays, stacks, etc.
+- Performance measurements can be expressed using different notations, such as big O, big Omega, big Theta, etc. These notations capture the asymptotic behavior of an algorithm, that is, how the algorithm behaves as the input size grows indefinitely.
+- Big O notation gives the upper bound of the time or space complexity of an algorithm, that is, the worst-case scenario. For example, O(n) means that the algorithm takes at most linear time or space in terms of the input size n.
+- Big Omega notation gives the lower bound of the time or space complexity of an algorithm, that is, the best-case scenario. For example, Omega(n) means that the algorithm takes at least linear time or space in terms of the input size n.
+- Big Theta notation gives the tight bound of the time or space complexity of an algorithm, that is, the average-case scenario. For example, Theta(n) means that the algorithm takes exactly linear time or space in terms of the input size n.
+- Performance measurements can be used to compare different algorithms for the same problem and choose the most suitable one based on the trade-offs between time and space, or other factors. For example, sorting algorithms can be compared based on their time and space complexity, as well as their stability, adaptability, etc.

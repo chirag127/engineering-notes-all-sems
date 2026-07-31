@@ -1,0 +1,24 @@
+# Embedded Computing Basics
+
+- An embedded system is a special-purpose computer system designed to perform a dedicated function  .
+- Unlike a general-purpose computer, an embedded system performs one or a few pre-defined tasks, usually with very specific requirements, and often includes task-specific hardware and mechanical parts not usually found in a general-purpose computer.
+- Embedded systems are typically embedded as part of a larger system, such as a car, a robot, a medical device, a smart home appliance, etc.
+- Embedded systems have some common characteristics, such as:
+  - Performs specific task: Embedded systems perform some specific function or tasks.
+  - Low Cost: The price of an embedded system is not so expensive.
+  - Time Specific: It performs the tasks within a certain time frame.
+  - Low Power: Embedded systems don’t consume much power and can run on batteries.
+  - Small Size: Embedded systems are usually small in size and weight.
+  - Reliable: Embedded systems are designed to be reliable and robust, as they often operate in harsh environments or safety-critical applications.
+- There are four types of embedded systems:
+  - Standalone embedded systems: Operating within a larger system is a key characteristic of embedded systems, but they can also function independently. Standalone embedded systems do not rely on any external source for input or output, such as a keyboard, mouse, or monitor. Examples of standalone embedded systems are calculators, digital watches, and MP3 players.
+  - Network embedded systems: Network embedded systems are also referred to as networked embedded systems. They rely on a network connection to communicate with other systems or devices. Examples of network embedded systems are routers, webcams, and smart thermostats.
+  - Mobile embedded systems: Mobile embedded systems are embedded systems that are portable and can move from one place to another. They often have wireless communication capabilities, such as Bluetooth, Wi-Fi, or cellular. Examples of mobile embedded systems are smartphones, tablets, and wearable devices.
+  - Real-time embedded systems: Real-time embedded systems are embedded systems that have strict timing constraints and must respond to events or inputs within a specified deadline. They are often used for time-critical applications, such as airbags, pacemakers, and missile guidance systems. Real-time embedded systems can be further classified into hard real-time systems and soft real-time systems, depending on the severity of the consequences of missing a deadline.
+- Embedded systems require software and hardware components to function. The software component is usually written in a programming language, such as C, C++, or Java, and is compiled into a binary code that can run on the hardware component. The hardware component is usually a microcontroller, a microprocessor, or a system-on-chip (SoC) that contains the CPU, memory, and peripherals on a single chip. The hardware component also interacts with external devices, such as sensors, actuators, displays, etc., through various interfaces, such as GPIO, UART, SPI, I2C, etc.
+- Embedded systems software and hardware development requires some tools and environments, such as:
+  - Integrated Development Environment (IDE): An IDE is a software application that provides a graphical user interface for writing, editing, compiling, debugging, and testing embedded systems software. Some examples of IDEs for embedded systems are Eclipse, Keil, and Arduino.
+  - Compiler: A compiler is a software program that translates the source code written in a programming language into a binary code that can run on the hardware component. Some examples of compilers for embedded systems are GCC, Clang, and ARMCC.
+  - Debugger: A debugger is a software tool that helps to find and fix errors or bugs in the embedded systems software. A debugger can run the software step by step, set breakpoints, inspect variables, and modify memory. Some examples of debuggers for embedded systems are GDB, JTAG, and SWD.
+  - Simulator: A simulator is a software tool that mimics the behavior of the hardware component without requiring the actual hardware. A simulator can help to test the software functionality, performance, and compatibility before deploying it on the hardware. Some examples of simulators for embedded systems are QEMU, Proteus, and Simulink.
+  - Emulator: An emulator is a hardware tool that connects to the hardware component and allows the software to run on the actual hardware while being controlled by the debugger. An emulator can help to test the software and hardware interaction, timing, and power consumption. Some examples of

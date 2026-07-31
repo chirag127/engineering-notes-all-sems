@@ -1,0 +1,9 @@
+### Myhill-Nerode Theorem
+
+- The Myhill-Nerode theorem is a fundamental result in the theory of regular languages. It provides a necessary and sufficient condition for a language to be regular  .
+- The theorem is based on the concept of equivalence classes of strings with respect to a language. Two strings are said to be equivalent if they can be extended by the same set of strings to form words in the language  .
+- Formally, for a language L, we define an equivalence relation ~L on the set of all strings as follows: x ~L y if and only if for all z, xz is in L if and only if yz is in L  .
+- The theorem states that a language L is regular if and only if it has a finite number of equivalence classes under ~L, and moreover, that this number is equal to the number of states in the minimal deterministic finite automaton (DFA) accepting L  .
+- The theorem can be used to prove that a language is regular by showing that it has a finite number of equivalence classes. This can be done by an exhaustive case analysis in which, beginning from the empty string, distinguishing extensions are used to find additional equivalence classes until no more can be found  .
+- The theorem can also be used to prove that a language is not regular by showing that it has an infinite number of equivalence classes. This can be done by finding an infinite set of strings that are pairwise inequivalent with respect to the language  .
+- The theorem can also be used to find the minimal number of states in a DFA that recognizes a regular language. This can be done by constructing a DFA that has one state for each equivalence class of the language, and defining the transitions and the final states according to the equivalence relation  .

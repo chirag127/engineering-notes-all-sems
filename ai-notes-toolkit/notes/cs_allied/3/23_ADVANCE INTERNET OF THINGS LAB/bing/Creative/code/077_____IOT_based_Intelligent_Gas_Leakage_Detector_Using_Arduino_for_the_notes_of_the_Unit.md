@@ -1,0 +1,21 @@
+### IOT based Intelligent Gas Leakage Detector Using Arduino
+
+- IOT based Intelligent Gas Leakage Detector Using Arduino is a project that aims to detect the presence of LPG gas in the air and alert the user through a buzzer, an LCD display and a mobile app.
+- The main components of the project are:
+  - Arduino Uno: It is the microcontroller board that controls the logic and communication of the system.
+  - MQ5 Gas Sensor: It is the sensor that detects the concentration of LPG gas in the air and sends an analog signal to the Arduino.
+  - ESP8266 Wi-Fi Module: It is the module that connects the Arduino to the internet and sends the gas level data to a cloud platform such as ThingSpeak or Blynk.
+  - Buzzer: It is the device that produces a loud sound when the gas level exceeds a threshold value.
+  - LCD Display: It is the device that shows the gas level and the status of the system on a screen.
+  - Mobile App: It is the application that receives the gas level data from the cloud platform and displays it on the user's smartphone. It also allows the user to control the buzzer and the LCD display remotely.
+- The working principle of the project is as follows:
+  - The MQ5 gas sensor continuously monitors the air and produces a voltage proportional to the gas concentration. The Arduino reads this voltage and converts it to a percentage value using a calibration formula.
+  - The Arduino sends this value to the ESP8266 module, which uploads it to the cloud platform using an HTTP request.
+  - The cloud platform stores the data and makes it available to the mobile app through an API.
+  - The mobile app fetches the data from the cloud platform and displays it on a graphical interface. It also allows the user to set a threshold value for the gas level and enable or disable the buzzer and the LCD display.
+  - The Arduino also compares the gas level value with the threshold value and activates the buzzer and the LCD display if the gas level is higher than the threshold. The LCD display shows the gas level and a warning message. The buzzer produces a loud sound to alert the user and the nearby people.
+  - The user can also turn off the buzzer and the LCD display from the mobile app if the gas leakage is resolved or if the alarm is false.
+- The advantages of the project are:
+  - It is a low-cost and easy-to-build system that can prevent gas leakage accidents and save lives and property.
+  - It is an IOT based system that can provide real-time data and remote control to the user through a mobile app.
+  - It is a flexible and scalable system that can be modified and extended to detect other types of gases and to connect to other devices and platforms.

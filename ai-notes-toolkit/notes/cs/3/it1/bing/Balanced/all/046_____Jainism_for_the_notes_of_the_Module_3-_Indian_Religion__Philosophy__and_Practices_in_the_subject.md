@@ -1,0 +1,16 @@
+# Jainism
+
+Jainism is one of the oldest religions of India, with a history of more than 2500 years. It is based on the teachings of 24 spiritual leaders called tirthankaras, who attained enlightenment and liberation from the cycle of rebirth. The most recent tirthankara was Mahavira, who lived in the 6th century BCE.
+
+Some of the main features of Jainism are:
+
+- It teaches a path of spiritual purity and enlightenment through disciplined nonviolence (ahimsa) to all living beings, including animals and plants. Ahimsa is the highest ethical principle in Jainism and the basis of its moral code.
+- It believes in the existence of an eternal soul (jiva) in every living being, which can be liberated from the bondage of karma (the accumulated effects of actions) by following the three jewels of right knowledge, right faith, and right conduct. Jainism rejects the idea of a supreme creator, ruler, or judge of the universe, and considers the soul to be self-sufficient and responsible for its own destiny.
+- It advocates a non-absolutist (anekantavada) approach to reality, which acknowledges the multiplicity of perspectives and the relativity of truth. Jainism encourages dialogue and tolerance among different viewpoints and respects the diversity of life forms and beliefs.
+- It emphasizes a simple and ascetic (aparigraha) lifestyle, which involves renouncing worldly attachments, possessions, and pleasures, and practicing self-restraint, meditation, and compassion. Jainism also prescribes a strict vegetarian diet and various rules of conduct to minimize harm to the environment and other beings.
+
+Jainism has a rich and diverse literature, which includes scriptures, commentaries, biographies, stories, and poems. Some of the most important texts are the Agamas, the canonical scriptures of the Jains, which contain the teachings of the tirthankaras and their disciples. Other texts include the Kalpa Sutra, which narrates the lives of the tirthankaras, the Tattvartha Sutra, which summarizes the main doctrines of Jainism, and the Bhagavati Sutra, which contains dialogues and stories on various topics.
+
+Jainism has two main sects, the Digambaras and the Svetambaras, which differ in some aspects of doctrine, practice, and tradition. The Digambaras, meaning "sky-clad", believe that the tirthankaras and the monks should be naked, as a symbol of detachment and purity. They also believe that women cannot attain liberation in this life and need to be reborn as men. The Svetambaras, meaning "white-clad", believe that the tirthankaras and the monks can wear white clothes, as a mark of modesty and dignity. They also believe that women can attain liberation in this life and have equal spiritual potential as men.
+
+Jainism has a significant influence on the culture, art, architecture, and philosophy of India and other regions. It has contributed to the development of nonviolence, vegetarianism, environmentalism, and human rights movements. It has also inspired many prominent figures, such as Mahatma Gandhi, Rabindranath Tagore, and Albert Einstein. Today, Jainism has about 4 to 5 million followers, mostly in India, but also in other parts of the world.

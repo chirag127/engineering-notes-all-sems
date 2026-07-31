@@ -1,0 +1,8 @@
+### Domains and Hosting
+
+- A domain is the address of a website that allows visitors to easily find it online. For example, `www.example.com` is a domain name.
+- A hosting is the service that provides space on a web server to store the website files and data. For example, Hostinger is a web hosting provider that offers different hosting plans for different needs.
+- A domain and a hosting are two different components of a website, but they work together to make websites possible. Without a domain, visitors would have to type in the IP address of the web server to access the website. Without a hosting, there would be no web server to store and deliver the website files and data.
+- To create a website, one needs to register a domain name with a domain registrar, such as GoDaddy, and purchase a hosting plan from a web hosting provider, such as Hostinger. Then, one needs to connect the domain name to the hosting account by changing the domain name servers (DNS) settings.
+- A domain name can be registered for a specific period of time, usually from one to ten years. A hosting plan can be purchased for a monthly, yearly, or longer term, depending on the provider and the plan. Both the domain name and the hosting plan need to be renewed before they expire, otherwise the website will become inaccessible.
+- A domain name can also be used for email purposes, such as `name@example.com`. To use a domain name for email, one needs to set up the email accounts and the email hosting service, either with the same web hosting provider or with a separate email hosting provider. Then, one needs to configure the email settings, such as the mail exchange (MX) records, to connect the domain name to the email hosting service.

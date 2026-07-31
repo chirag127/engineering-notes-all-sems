@@ -1,0 +1,31 @@
+### Images in Web Page Designing
+
+- Images are visual elements that can enhance the appearance and functionality of a web page.
+- Images can be used for various purposes, such as:
+  - Illustrating the content or the theme of the web page.
+  - Providing information or instructions to the user.
+  - Creating visual interest or appeal for the user.
+  - Establishing the identity or the brand of the web page or the website.
+  - Linking to other web pages or resources.
+- Images can be of different types, such as:
+  - Bitmap images, which are composed of pixels or dots of color. Examples of bitmap image formats are JPEG, PNG, GIF, BMP, etc.
+  - Vector images, which are composed of mathematical shapes and curves. Examples of vector image formats are SVG, EPS, PDF, etc.
+  - Animated images, which are sequences of images that create the illusion of movement. Examples of animated image formats are GIF, APNG, WebP, etc.
+- Images can be embedded in a web page using the `<img>` tag, which has the following attributes:
+  - `src`, which specifies the URL or the path of the image file.
+  - `alt`, which specifies the alternative text that describes the image for accessibility purposes.
+  - `width` and `height`, which specify the dimensions of the image in pixels or percentage.
+  - `align`, which specifies the alignment of the image relative to the surrounding text. Possible values are `left`, `right`, `top`, `middle`, `bottom`, etc.
+  - `border`, which specifies the width of the border around the image in pixels.
+  - `title`, which specifies the text that appears when the user hovers over the image.
+  - `usemap`, which specifies the name of a map element that defines clickable areas on the image.
+- Images can also be styled using CSS properties, such as:
+  - `margin`, `padding`, `border`, `outline`, etc., which control the spacing and the appearance of the image.
+  - `display`, `position`, `float`, `clear`, etc., which control the layout and the placement of the image.
+  - `transform`, `transition`, `animation`, etc., which control the transformation and the animation of the image.
+  - `filter`, `opacity`, `clip-path`, etc., which control the effects and the visibility of the image.
+- Images can also be optimized for web page designing, such as:
+  - Choosing the appropriate image format and quality for the intended purpose and the target audience.
+  - Resizing and cropping the image to fit the desired dimensions and aspect ratio.
+  - Compressing and reducing the file size of the image to improve the loading speed and the performance of the web page.
+  - Adding metadata and captions to the image to improve the SEO and the usability of the web page.

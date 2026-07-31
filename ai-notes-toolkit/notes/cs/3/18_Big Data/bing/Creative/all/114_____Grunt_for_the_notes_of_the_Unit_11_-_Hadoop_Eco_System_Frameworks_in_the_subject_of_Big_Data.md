@@ -1,0 +1,33 @@
+# Grunt for the notes of the Unit 11 - Hadoop Eco System Frameworks in the subject of Big Data
+
+- Grunt is a command-line interface tool that allows users to interact with Apache Pig, a platform for analyzing large data sets on Hadoop.
+- Grunt can be used to write Pig Latin scripts, which are high-level queries that are compiled into MapReduce jobs and executed on Hadoop clusters.
+- Grunt can also be used to perform various operations on Hadoop, such as loading and storing data, creating and deleting directories, copying and moving files, etc.
+- Grunt can be launched in three modes: interactive, batch, and embedded.
+  - Interactive mode: Grunt can be launched from the terminal by typing `pig` or `pig -x local` (for local mode) or `pig -x mapreduce` (for distributed mode). In this mode, users can enter Pig Latin commands and see the results on the terminal.
+  - Batch mode: Grunt can be launched from the terminal by typing `pig -f script.pig` or `pig -x local -f script.pig` or `pig -x mapreduce -f script.pig`, where `script.pig` is the name of the Pig Latin script file. In this mode, users can execute a series of Pig Latin commands from a file and see the results on the terminal or in a log file.
+  - Embedded mode: Grunt can be launched from a Java program by using the `PigServer` class, which provides methods to execute Pig Latin commands and access the results. In this mode, users can integrate Pig with other Java applications and frameworks.
+- Grunt supports various commands and operators for manipulating data and Hadoop. Some of the common ones are:
+  - `load`: loads data from a file or a directory into a relation (a named data set).
+  - `store`: stores data from a relation into a file or a directory.
+  - `dump`: displays the contents of a relation on the terminal.
+  - `describe`: displays the schema (the structure and type) of a relation on the terminal.
+  - `illustrate`: displays an example of how a relation is processed by a Pig Latin statement on the terminal.
+  - `filter`: selects a subset of records from a relation based on a condition.
+  - `foreach`: applies a transformation to each record of a relation and generates a new relation.
+  - `group`: groups the records of a relation by one or more fields and creates a new relation.
+  - `join`: combines two or more relations by matching records on common fields and creates a new relation.
+  - `order`: sorts the records of a relation by one or more fields and creates a new relation.
+  - `limit`: limits the number of records of a relation and creates a new relation.
+  - `distinct`: removes duplicate records from a relation and creates a new relation.
+  - `union`: combines the records of two or more relations and creates a new relation.
+  - `split`: splits a relation into two or more relations based on a condition or a percentage.
+  - `ls`: lists the files and directories in the current working directory on Hadoop.
+  - `cd`: changes the current working directory on Hadoop.
+  - `pwd`: prints the current working directory on Hadoop.
+  - `mkdir`: creates a new directory on Hadoop.
+  - `rm`: removes a file or a directory on Hadoop.
+  - `cp`: copies a file or a directory on Hadoop.
+  - `mv`: moves a file or a directory on Hadoop.
+  - `cat`: displays the contents of a file on Hadoop.
+  - `help`: displays the usage and syntax of a Grunt command or operator.

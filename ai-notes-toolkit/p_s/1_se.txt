@@ -1,0 +1,94 @@
+# Software Engineering
+## Unit 1 - Introduction to Software Engineering
+### Introduction to Software Engineering
+### Software Components
+### Software Characteristics
+### Software Crisis
+### Software Engineering Processes
+### Similarity and Differences from Conventional Engineering Processes
+### Software Quality Attributes
+### Software Development Life Cycle (SDLC) Models
+### Water Fall Model in SDLC
+### Prototype Model in SDLC
+### Spiral Model in SDLC
+### Evolutionary Development Models in SDLC
+### Iterative Enhancement Models in SDLC
+## Unit 2 - Software Requirement Specifications (SRS)
+### Requirement Engineering Process in SRS
+### Elicitation in Requirement Engineering Process in SRS
+### Analysis in Requirement Engineering Process in SRS
+### Documentation in Requirement Engineering Process in SRS
+### Review and Management of User Needs in Requirement Engineering Process in SRS
+### Feasibility Study in Software Requirement Specification (SRS)
+### Information Modelling in Software Requirement Specification (SRS)
+### Data Flow Diagrams in Software Requirement Specification (SRS)
+### Entity Relationship Diagrams in Software Requirement Specification (SRS)
+### Decision Tables in Software Requirement Specification (SRS)
+### SRS Document
+### IEEE Standards for SRS
+### Software Quality Assurance (SQA) in SRS
+### Verification and Validation in SRS
+### SQA Plans in SRS
+### Software Quality Frameworks (SQF) in SRS
+### ISO 9000 Models in SRS
+### SEI-CMM Model in SRS
+## Unit 3 - Software Design
+### Basic Concept of Software Design
+### Architectural Design in Software Design
+### Low Level Design in Software Design
+#### Modularization in Software Design
+#### Design Structure Charts in Software Design
+#### Pseudo Codes in Software Design
+#### Flow Charts in Software Design
+#### Coupling in Software Design
+#### Cohesion Measures in Software Design
+### Design Strategies in Software Design
+#### Function Oriented Design in Software Design
+#### Object Oriented Design in Software Design
+#### Top-Down and Bottom-Up Design in Software Design
+### Software Measurement and Metrics in Software Design
+#### Various Size Oriented Measures in Software Design
+##### Halestead’s Software Science in software design
+##### Function Point (FP) Based Measures in software design
+##### Cyclomatic Complexity Measures in software design
+###### Control Flow Graphs in software design
+## Unit 4 - Software Testing
+### Testing Objectives in Software Testing
+### Unit Testing in Software Testing
+### Integration Testing in Software Testing
+### Acceptance Testing in Software Testing
+### Regression Testing in Software Testing
+### Testing for Functionality in Software Testing
+### Testing for Performance in Software Testing
+### Top-Down and Bottom-Up Testing Strategies in Software Testing
+#### Test Drivers and Test Stubs software testing strategy
+#### Structural Testing (White Box Testing) software testing strategy
+#### Functional Testing (Black Box Testing) software testing strategy
+#### Test Data Suit Preparation software testing strategy
+#### Alpha and Beta Testing of Products  software testing strategy
+### Static Testing Strategies in Software Testing
+#### Formal Technical Reviews (Peer Reviews) Static testing strategy
+#### Walk Through (Walkthrough) Static testing strategy
+#### Code Inspection (Code Inspection) Static testing strategy
+#### Compliance with Design and Coding Standards (Coding Standards) Static testing strategy
+## Unit 5 - Software Maintenance and Software Project Management
+### Software as an Evolutionary Entity
+### Need for Maintenance and Maintenance Planning
+### Categories of Maintenance of Software
+#### Preventive Maintenance (PM) of Software
+#### Corrective Maintenance (CM) of Software
+#### Perfective Maintenance (PM) of Software
+### Cost of Maintenance of Software
+### Software Re- Engineering (SR) of Software
+### Reverse Engineering (RE) of Software
+### Software Configuration Management Activities
+### Change Control Process in software project management
+### Software Version Control in software project management
+### An Overview of CASE Tools in software project management
+### Estimation of Various Parameters such as Cost and Time in software project management
+### Efforts to Improve Software Quality in software project management
+### Schedule/Duration of Maintenance in software project management
+### Constructive Cost Models (COCOMO) in software project management
+### Resource Allocation Models (RAIM) in software project management
+### Software Risk Analysis and Management in software project management
+### Software Project Management

@@ -1,0 +1,9 @@
+# Zener Diodes breakdown mechanism (Zener and avalanche)
+
+- A Zener diode is a special type of diode that can operate in the reverse breakdown region without being damaged.
+- The reverse breakdown region is the region where the reverse voltage across the diode exceeds a certain value, called the breakdown voltage, and a large reverse current flows through the diode.
+- The breakdown voltage of a Zener diode is determined by the doping level of the p-n junction. A higher doping level results in a lower breakdown voltage and vice versa.
+- There are two main mechanisms that cause the reverse breakdown of a Zener diode: Zener breakdown and avalanche breakdown.
+- Zener breakdown occurs when the electric field across the p-n junction is so high that it breaks the covalent bonds of the semiconductor atoms and generates free electrons and holes. These charge carriers then contribute to the reverse current. Zener breakdown typically occurs at low breakdown voltages (below 5 V) and high doping levels.
+- Avalanche breakdown occurs when the free electrons in the n-region gain enough kinetic energy from the electric field to collide with the semiconductor atoms and knock out more electrons. These electrons then collide with more atoms and create a chain reaction of ionization. This process also generates holes in the p-region. The electrons and holes then contribute to the reverse current. Avalanche breakdown typically occurs at high breakdown voltages (above 5 V) and low doping levels.
+- Some Zener diodes can operate in both Zener and avalanche breakdown regions, depending on the applied reverse voltage. These diodes are called Zener-avalanche diodes.

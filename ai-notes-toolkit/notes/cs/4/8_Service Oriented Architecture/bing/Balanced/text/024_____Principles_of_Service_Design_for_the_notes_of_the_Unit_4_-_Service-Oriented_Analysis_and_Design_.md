@@ -1,0 +1,11 @@
+### Principles of Service Design
+
+Service design is the process of planning and organizing the interactions between a service provider and its customers, as well as the resources and infrastructure required to deliver the service. Service design aims to create services that are valuable, usable, efficient, effective and desirable for both the service provider and the customers.
+
+Some of the principles of service design are:
+
+- **User-centered**: Service design should be based on a deep understanding of the needs, preferences, expectations and behaviors of the customers who use the service. Service design should involve customers in the design process, as well as other stakeholders such as employees, partners and suppliers.
+- **Co-creative**: Service design should be a collaborative and participatory process that engages all the relevant actors in the service system, such as customers, employees, managers, experts and designers. Service design should foster a culture of innovation and creativity, and leverage the diverse perspectives and expertise of the participants.
+- **Sequencing**: Service design should consider the temporal and spatial aspects of the service, and how the service unfolds over time and across different touchpoints. Service design should map the customer journey and the service blueprint, and identify the critical moments and interactions that shape the customer experience and satisfaction.
+- **Evidencing**: Service design should make the intangible aspects of the service visible and tangible, such as the value proposition, the service concept, the service quality and the service outcomes. Service design should use visual and prototyping methods to communicate and test the service ideas and solutions, and to elicit feedback and insights from the customers and other stakeholders.
+- **Holistic**: Service design should take into account the whole service system, and how the service relates to the broader context and environment. Service design should consider the strategic, operational, organizational, technical and cultural aspects of the service, and how they affect and are affected by the service delivery and the customer experience.

@@ -1,0 +1,24 @@
+# Analog to Digital Conversion
+
+- Analog to digital conversion (ADC) is the process of converting an analog signal, such as a voltage or a current, into a digital representation that can be processed by a microcontroller or a computer.
+- ADC is useful for interfacing with sensors, such as temperature, pressure, light, sound, etc., that produce analog signals.
+- ADC can also be used for signal processing, such as filtering, amplification, modulation, etc., that require digital manipulation of analog signals.
+- ADC involves two main steps: sampling and quantization.
+- Sampling is the process of taking discrete measurements of the analog signal at regular intervals, called the sampling rate or the sampling frequency.
+- Quantization is the process of assigning a discrete value, called a digital code or a digital word, to each sampled measurement, based on a predefined scale or resolution.
+- The resolution of an ADC is the number of bits used to represent each digital code, and determines the accuracy and precision of the conversion.
+- The resolution of an ADC is also related to the number of discrete levels or steps that can be distinguished in the analog signal, which is given by 2^n, where n is the number of bits.
+- For example, an 8-bit ADC can distinguish 2^8 = 256 levels or steps in the analog signal, and assign a digital code from 0 to 255 to each level.
+- The smallest change in the analog signal that can be detected by an ADC is called the least significant bit (LSB) or the quantization step, and is given by the ratio of the analog signal range to the number of levels or steps.
+- For example, if the analog signal range is 0 to 5 V, and the ADC resolution is 8 bits, then the LSB or the quantization step is 5/256 = 0.0195 V.
+- The error or uncertainty introduced by the quantization process is called the quantization error or the quantization noise, and is given by half of the LSB or the quantization step.
+- For example, if the LSB or the quantization step is 0.0195 V, then the quantization error or the quantization noise is 0.0195/2 = 0.0098 V.
+- The quantization error or the quantization noise can be reduced by increasing the resolution of the ADC, but this also increases the cost and complexity of the ADC.
+- The sampling rate or the sampling frequency of an ADC determines the bandwidth or the frequency range of the analog signal that can be converted without losing information or introducing distortion.
+- The sampling rate or the sampling frequency of an ADC should be at least twice the highest frequency component of the analog signal, according to the Nyquist theorem or the sampling theorem.
+- For example, if the analog signal has a frequency range of 0 to 10 kHz, then the sampling rate or the sampling frequency of the ADC should be at least 20 kHz.
+- The sampling rate or the sampling frequency of an ADC can be increased by using a higher clock speed or a faster ADC, but this also increases the power consumption and the noise of the ADC.
+- The ADC can be classified into different types based on the method or the technique used for sampling and quantization, such as successive approximation, flash, sigma-delta, dual-slope, etc.
+- Each type of ADC has its own advantages and disadvantages in terms of speed, accuracy, resolution, cost, complexity, power consumption, noise, etc.
+- The ADC can be interfaced with a microcontroller or a computer using different protocols or interfaces, such as parallel, serial, SPI, I2C, UART, USB, etc.
+- Each protocol or interface has its own advantages and disadvantages in terms of speed, reliability, simplicity, compatibility, scalability, etc.

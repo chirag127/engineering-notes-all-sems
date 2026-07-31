@@ -1,0 +1,31 @@
+### Creating Style Sheet for the notes of the Unit 3 - Concept of CSS in the subject of Web Designing
+
+- A style sheet is a set of rules that define how to display HTML elements on a web page.
+- CSS stands for Cascading Style Sheets, which is the most widely used style sheet language for web design.
+- CSS allows web developers to separate the presentation of a web page from its content, making it easier to maintain and update.
+- CSS can control the layout, colors, fonts, backgrounds, borders, margins, padding, and other visual aspects of a web page.
+- CSS can also create dynamic effects such as transitions, animations, transformations, and filters.
+- CSS can be applied to a web page in three ways:
+  - Inline style: The style rules are written directly in the HTML element using the `style` attribute. This method has the highest priority, but it is not recommended because it mixes HTML and CSS code and reduces readability and reusability.
+  - Internal style sheet: The style rules are written in the `<style>` element inside the `<head>` section of the HTML document. This method can apply the same style to multiple elements in the same document, but it is not reusable across different documents.
+  - External style sheet: The style rules are written in a separate file with the `.css` extension and linked to the HTML document using the `<link>` element in the `<head>` section. This method can apply the same style to multiple elements in multiple documents, and it is the most recommended because it promotes modularity and consistency.
+- CSS uses selectors to target HTML elements and apply style rules to them. There are different types of selectors, such as:
+  - Element selector: Selects all elements of a given type, such as `p` or `h1`.
+  - Class selector: Selects all elements that have a specific class attribute, such as `.red` or `.large`.
+  - ID selector: Selects a single element that has a unique id attribute, such as `#logo` or `#footer`.
+  - Attribute selector: Selects all elements that have a specific attribute or attribute value, such as `[href]` or `[src="logo.png"]`.
+  - Pseudo-class selector: Selects elements based on their state or position, such as `:hover` or `:first-child`.
+  - Pseudo-element selector: Selects a part of an element, such as `::before` or `::after`.
+  - Combinator selector: Combines two or more selectors to create more specific selections, such as `p.red` or `div > p`.
+  - Grouping selector: Groups multiple selectors to apply the same style rules to them, such as `h1, h2, h3` or `.red, .blue`.
+- CSS uses properties and values to define the style rules for the selected elements. There are hundreds of properties and values in CSS, and they are grouped into different categories, such as:
+  - Layout properties: Control the size, position, and alignment of elements, such as `width`, `height`, `display`, `position`, `float`, `clear`, `margin`, `padding`, `border`, `box-sizing`, `overflow`, and `flex`.
+  - Color and background properties: Control the color and background of elements, such as `color`, `background-color`, `background-image`, `background-repeat`, `background-position`, `background-size`, `background-attachment`, and `opacity`.
+  - Font and text properties: Control the font and text of elements, such as `font-family`, `font-size`, `font-weight`, `font-style`, `text-align`, `text-decoration`, `text-transform`, `text-indent`, `line-height`, `letter-spacing`, and `word-spacing`.
+  - Visual effects properties: Control the visual effects of elements, such as `box-shadow`, `border-radius`, `outline`, `clip`, `filter`, `transform`, `transition`, `animation`, and `perspective`.
+- CSS follows the cascading principle, which means that the style rules are applied in a specific order of precedence, depending on the source and specificity of the selectors. The order of precedence is as follows:
+  - User agent style sheet: The default style rules applied by the browser or device.
+  - User style sheet: The optional style rules applied by the user, such as changing the font size or color scheme.
+  - Author style sheet: The style rules applied by the web developer, such as inline, internal, or external style sheets.
+  - Importance: The style rules that have the `!important` declaration, which overrides any other style rules.
+  - Specificity: The style rules that have the most specific selectors, which are

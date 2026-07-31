@@ -1,0 +1,6 @@
+# Machine Translation
+
+- Machine translation (MT) is a sub-field of computational linguistics that investigates the use of software to translate text or speech from one natural language to another .
+- Machine translation can be performed by different methods, such as rule-based, statistical, neural, or hybrid approaches, depending on the type and amount of data available, the quality and speed requirements, and the domain and language pair involved.
+- Machine translation can be used for various purposes, such as information retrieval, cross-lingual communication, language learning, or content creation. However, machine translation also faces many challenges, such as ambiguity, idiomaticity, cultural differences, and domain specificity.
+- Machine translation can be evaluated by different metrics, such as human judgment, automatic scores, or post-editing effort, depending on the intended use and user expectations. Machine translation can also be improved by various techniques, such as data augmentation, domain adaptation, quality estimation, or interactive feedback.

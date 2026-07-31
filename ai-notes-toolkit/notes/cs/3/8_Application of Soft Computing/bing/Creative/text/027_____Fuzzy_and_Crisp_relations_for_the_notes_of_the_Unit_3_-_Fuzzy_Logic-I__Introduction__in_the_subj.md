@@ -1,0 +1,22 @@
+### Fuzzy and Crisp Relations
+
+- A **crisp relation** is a binary relation that represents the presence or absence of association, interaction or interconnection between the elements of two or more sets   .
+- A **fuzzy relation** is a fuzzy set defined on the Cartesian product of crisp sets  . It represents the degrees or strengths of association, interaction or interconnection between the elements of two or more sets using membership grades.
+- A fuzzy relation can be seen as a generalization of a crisp relation, where the binary values of 0 and 1 are replaced by continuous values in the interval [0,1] .
+- Some examples of fuzzy relations are:
+  - The relation of similarity between two objects, such as colors, shapes, or sounds.
+  - The relation of preference between two alternatives, such as products, services, or candidates.
+  - The relation of causality between two events, such as smoking and lung cancer, or exercise and health.
+- Some properties and operations of fuzzy relations are:
+  - The **cardinality** of a fuzzy relation is the sum of the membership grades of all the ordered pairs in the relation.
+  - The **complement** of a fuzzy relation is obtained by subtracting the membership grades of the original relation from 1 .
+  - The **union** of two fuzzy relations is obtained by taking the maximum of the membership grades of the corresponding ordered pairs .
+  - The **intersection** of two fuzzy relations is obtained by taking the minimum of the membership grades of the corresponding ordered pairs .
+  - The **composition** of two fuzzy relations is obtained by applying a t-norm (a generalization of logical and) to the membership grades of the ordered pairs that form a chain .
+  - The **inverse** of a fuzzy relation is obtained by swapping the first and second elements of each ordered pair .
+  - The **projection** of a fuzzy relation is obtained by applying a t-conorm (a generalization of logical or) to the membership grades of the ordered pairs that share a common element .
+  - The **cylindrical extension** of a fuzzy relation is obtained by assigning the same membership grade to all the ordered pairs that have a common element with the original relation .
+  - A fuzzy relation is **reflexive** if the membership grade of each ordered pair with the same element is 1 .
+  - A fuzzy relation is **symmetric** if the membership grade of each ordered pair is equal to the membership grade of its inverse .
+  - A fuzzy relation is **transitive** if the membership grade of each ordered pair is greater than or equal to the membership grade of its composition with itself .
+  - A fuzzy relation is **equivalence** if it is reflexive, symmetric, and transitive .

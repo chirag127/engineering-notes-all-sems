@@ -1,0 +1,22 @@
+# CIDR
+
+- CIDR stands for Classless Inter-Domain Routing  .
+- It is a method for assigning IP addresses and for IP routing.
+- It does not use the standard IP address classes like Class A, B or C.
+- It allows for a more efficient allocation of IP addresses than the older method .
+- It is based on variable-length subnet masking (VLSM), which enables network engineers to divide an IP address space into a hierarchy of subnets of different sizes.
+- It makes it possible to create subnetworks with different host counts without wasting large numbers of addresses.
+- CIDR addresses are made up of two sets of numbers: prefix and suffix.
+- The prefix is the network portion of the IP address and the suffix is the host portion.
+- The prefix is written in dotted decimal notation, followed by a slash and a number that indicates the length of the prefix in bits .
+- For example, 192.168.1.0/24 means that the prefix is 192.168.1.0 and the length is 24 bits .
+- The suffix is the remaining bits of the IP address that are not part of the prefix .
+- For example, in 192.168.1.0/24, the suffix is the last 8 bits of the IP address .
+- The suffix can be used to identify the individual hosts within the subnetwork .
+- For example, 192.168.1.1/24 and 192.168.1.2/24 are two different hosts in the same subnetwork .
+- CIDR notation can be used to specify a range of IP addresses that belong to the same subnetwork .
+- For example, 192.168.1.0/24 represents the subnetwork that contains all the IP addresses from 192.168.1.0 to 192.168.1.255 .
+- CIDR notation can also be used to specify a supernet, which is a larger network that contains multiple subnetworks .
+- For example, 192.168.0.0/16 represents the supernet that contains all the IP addresses from 192.168.0.0 to 192.168.255.255 .
+- CIDR notation can help reduce the size of routing tables and improve the performance of routing protocols .
+- It can also help conserve the IPv4 address space and facilitate the transition to IPv6.

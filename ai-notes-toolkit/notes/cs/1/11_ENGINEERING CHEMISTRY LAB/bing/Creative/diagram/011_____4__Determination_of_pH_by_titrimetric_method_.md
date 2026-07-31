@@ -1,0 +1,9 @@
+### 4. Determination of pH by titrimetric method.
+
+- Titrimetric method is a technique of quantitative analysis that involves measuring the volume of a solution of known concentration (titrant) that is required to react completely with a measured volume of a solution of unknown concentration (titrand).
+- pH is a measure of the acidity or alkalinity of a solution, defined as the negative logarithm of the hydrogen ion concentration: pH = -log[H+].
+- Determination of pH by titrimetric method involves adding a titrant to a titrand until an equivalence point is reached, where the moles of titrant and titrand are equal according to the stoichiometry of the reaction.
+- The equivalence point can be detected by various indicators, such as color change, pH change, or electrical conductivity change. The pH at the equivalence point depends on the nature of the acid-base reaction involved.
+- For example, in a strong acid-strong base titration, the pH at the equivalence point is 7, as the products are water and a neutral salt. In a weak acid-strong base titration, the pH at the equivalence point is greater than 7, as the products are water and a basic salt. In a weak base-strong acid titration, the pH at the equivalence point is less than 7, as the products are water and an acidic salt.
+- The pH at any point during the titration can be calculated using the Henderson-Hasselbalch equation, which relates the pH, the pKa (the negative logarithm of the acid dissociation constant), and the ratio of the concentrations of the conjugate base and the acid: pH = pKa + log([base]/[acid]).
+- Alternatively, the pH can be determined graphically by plotting the titration curve, which shows the change in pH as a function of the volume of titrant added. The equivalence point is the point where the curve has the steepest slope. The shape of the titration curve depends on the strength and the concentration of the acid and the base involved.

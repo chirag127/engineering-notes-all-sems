@@ -1,0 +1,10 @@
+### Program Control
+
+Program control is the process of directing the execution of a program by manipulating the instruction pointer, the register that holds the address of the next instruction to be executed. Program control can be achieved by using different types of instructions, such as:
+
+- **Unconditional branch instructions**: These instructions change the instruction pointer to a specified address, regardless of any condition. For example, `JMP label` in assembly language.
+- **Conditional branch instructions**: These instructions change the instruction pointer to a specified address, only if a certain condition is met. For example, `JZ label` in assembly language, which jumps to the label if the zero flag is set.
+- **Subroutine call and return instructions**: These instructions allow the program to execute a subroutine, a sequence of instructions that performs a specific task, and then return to the main program. For example, `CALL label` in assembly language, which pushes the current instruction pointer onto the stack and jumps to the label, and `RET` in assembly language, which pops the instruction pointer from the stack and jumps to it.
+- **Interrupt and exception handling instructions**: These instructions allow the program to respond to external or internal events that require immediate attention, such as input/output operations, errors, or system calls. For example, `INT n` in assembly language, which invokes the interrupt handler with the number n, and `IRET` in assembly language, which returns from the interrupt handler.
+
+Program control instructions are essential for implementing various programming constructs, such as loops, conditional statements, functions, and recursion. They also enable the interaction between the program and the operating system, the hardware, and the user.

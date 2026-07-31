@@ -1,0 +1,30 @@
+### CSS Styling
+
+- CSS stands for Cascading Style Sheets and is used to format the layout of a webpage .
+- CSS can control the appearance of HTML elements, such as color, font, size, spacing, position, background, display, and more .
+- CSS can be added to HTML documents in three ways:
+  - Inline: by using the `style` attribute inside HTML elements, e.g. `<p style="color:red;">This is a paragraph.</p>`
+  - Internal: by using a `<style>` element in the `<head>` section, e.g. `<style>p {color: red;}</style>`
+  - External: by using a `<link>` element to link to an external CSS file, e.g. `<link rel="stylesheet" href="style.css">`
+- CSS uses selectors to target HTML elements and apply styles to them .
+  - There are different types of selectors, such as element, class, id, attribute, pseudo-class, and pseudo-element selectors.
+  - Selectors can be combined or nested to create more specific or complex rules.
+  - The order and specificity of selectors determine which styles are applied to an element .
+- CSS uses properties and values to define the styles for each selector .
+  - Properties are keywords that specify the aspect of the element to be styled, such as `color`, `font-size`, `margin`, `border`, etc.
+  - Values are the settings for each property, such as `red`, `16px`, `10px`, `solid`, etc.
+  - Properties and values are written as `property: value;` and are enclosed in curly braces `{}` after the selector.
+  - Multiple properties and values can be written for one selector, separated by semicolons `;`.
+- CSS can be used for styling text, such as setting font, boldness, italics, line and letter spacing, drop shadows, and other text features.
+  - Some common text properties are `font-family`, `font-weight`, `font-style`, `text-align`, `text-decoration`, `text-transform`, `line-height`, `letter-spacing`, `text-shadow`, etc.
+  - Values for text properties can be keywords, numbers, units, colors, or functions.
+- CSS can be used for creating a layout, such as turning a single column of text into a layout with a main content area and a sidebar for related information.
+  - Some common layout properties are `display`, `position`, `float`, `clear`, `width`, `height`, `margin`, `padding`, `border`, `box-sizing`, etc.
+  - Values for layout properties can be keywords, numbers, units, percentages, or functions.
+  - CSS has different layout models, such as block, inline, inline-block, flexbox, grid, and table.
+- CSS can be used for effects such as animation, transition, transform, filter, gradient, etc .
+  - Animation properties are used to create keyframes and control the timing, duration, direction, and iteration of the animation.
+  - Transition properties are used to create smooth changes from one state to another when an element is triggered by an event, such as hover, click, or focus.
+  - Transform properties are used to rotate, scale, skew, or translate an element.
+  - Filter properties are used to apply graphical effects, such as blur, brightness, contrast, grayscale, sepia, etc.
+  - Gradient properties are used to create a smooth transition between two or more colors.

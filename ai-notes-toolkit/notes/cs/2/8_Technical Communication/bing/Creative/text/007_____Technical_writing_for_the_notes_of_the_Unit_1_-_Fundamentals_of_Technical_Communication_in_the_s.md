@@ -1,0 +1,32 @@
+### Technical writing for the notes of the Unit 1 - Fundamentals of Technical Communication
+
+- Technical writing is a form of communication that professionals use to convey information about specialized topics .
+- Technical writing is often defined as "simplifying the complex" and is primarily used in technical and operational disciplines, such as digital technologies, engineering, science, aeronautics, robotics, finance, medical, electronics, forestry, and biotechnology .
+- Technical writing is a specialized form of exposition: that is, written communication done on the job, especially in fields with specialized vocabularies.
+- Technical writing has the following characteristics:
+  - It addresses particular readers.
+  - It helps readers solve problems.
+  - It reflects the organization's goals and culture.
+  - It is produced collaboratively.
+  - It uses design to increase readability.
+  - It consists of words or graphics or both.
+  - It is revisable and adaptable.
+- Technical writing requires the following skills :
+  - Research: collecting the data and information needed to write about the topic.
+  - Audience perception: understanding the needs, expectations, and background of the readers.
+  - Communication skills: expressing ideas clearly, concisely, and accurately in written and oral forms.
+  - Technical skills: using the tools and technologies relevant to the field and the topic.
+  - Writing skills: applying the principles of grammar, punctuation, style, and format to the document.
+- Technical writing can be done for various purposes, such as :
+  - Providing instructions or explanations: for example, user manuals, tutorials, FAQs, etc.
+  - Describing processes or procedures: for example, flowcharts, diagrams, SOPs, etc.
+  - Reporting results or findings: for example, research papers, case studies, white papers, etc.
+  - Proposing solutions or recommendations: for example, proposals, feasibility studies, business plans, etc.
+  - Persuading or influencing: for example, sales letters, brochures, advertisements, etc.
+- Technical writing follows certain style guides and standards, depending on the field, the organization, and the audience . Some common style guides are:
+  - APA (American Psychological Association): for social and behavioral sciences.
+  - MLA (Modern Language Association): for humanities and liberal arts.
+  - IEEE (Institute of Electrical and Electronics Engineers): for engineering and computer science.
+  - AMA (American Medical Association): for medicine and health sciences.
+  - Chicago: for general and academic writing.
+- Technical writing can be certified by professional associations, such as the Society for Technical Communication (STC) and the American Medical Writers Association (AMWA). Certification can help technical writers demonstrate their competence and credibility in the field.

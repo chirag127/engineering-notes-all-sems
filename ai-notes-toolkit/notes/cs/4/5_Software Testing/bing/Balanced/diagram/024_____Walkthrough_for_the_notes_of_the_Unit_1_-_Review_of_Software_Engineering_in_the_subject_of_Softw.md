@@ -1,0 +1,32 @@
+### Walkthrough for the notes of the Unit 1 - Review of Software Engineering in the subject of Software Testing
+
+- Software engineering is the application of engineering principles and practices to the development and maintenance of software systems that meet the needs and expectations of users and stakeholders.
+- Software engineering involves activities such as:
+  - Requirements analysis: eliciting, specifying, and validating the functional and non-functional requirements of the software system.
+  - Design: creating a high-level and low-level architecture of the software system, as well as the detailed design of each component and interface.
+  - Implementation: coding, testing, debugging, and integrating the software components into a working system.
+  - Verification and validation: checking that the software system meets the requirements and quality standards, and that it performs as expected under various conditions and scenarios.
+  - Maintenance: correcting, improving, and evolving the software system to cope with changing requirements, environments, and technologies.
+  - Deployment: delivering, installing, configuring, and operating the software system in the target environment.
+  - Evolution: adapting the software system to new or modified requirements, environments, and technologies.
+- Software engineering also involves managing the software development process, such as:
+  - Planning: defining the scope, objectives, schedule, budget, and resources of the software project.
+  - Estimation: predicting the effort, cost, duration, and quality of the software project based on historical data, empirical models, and expert judgment.
+  - Risk management: identifying, analyzing, prioritizing, and mitigating the potential threats and opportunities that may affect the software project.
+  - Quality management: defining, measuring, monitoring, and improving the quality of the software product and process, using standards, metrics, reviews, audits, and testing techniques.
+  - Configuration management: controlling the changes and versions of the software artifacts, such as requirements, design, code, test cases, and documentation.
+  - Communication and coordination: facilitating the collaboration and information exchange among the software project stakeholders, such as developers, testers, customers, and users.
+  - Documentation: creating and maintaining the artifacts that describe the software system and its development process, such as specifications, diagrams, manuals, and reports.
+- Software engineering is influenced by various factors, such as:
+  - Software characteristics: the properties and attributes of the software system, such as functionality, reliability, usability, efficiency, maintainability, and portability.
+  - Software processes: the models and methods that guide the software development activities, such as waterfall, agile, iterative, incremental, spiral, and prototyping.
+  - Software methods: the techniques and tools that support the software development activities, such as analysis, design, implementation, testing, and maintenance.
+  - Software standards: the norms and guidelines that define the best practices and quality criteria for the software development activities, such as IEEE, ISO, CMMI, and SWEBOK.
+  - Software paradigms: the approaches and philosophies that influence the software development activities, such as structured, object-oriented, component-based, service-oriented, and aspect-oriented.
+  - Software domains: the application areas and contexts that determine the requirements and constraints of the software system, such as embedded, web, mobile, cloud, and artificial intelligence.
+- Software engineering is a dynamic and evolving discipline that faces many challenges and opportunities, such as:
+  - Software complexity: the difficulty of understanding, designing, implementing, testing, and maintaining large and intricate software systems that involve multiple components, interfaces, functions, and features.
+  - Software diversity: the variety of software systems that differ in their characteristics, processes, methods, standards, paradigms, and domains, and that require different skills, tools, and techniques to develop and maintain.
+  - Software quality: the degree to which the software system satisfies the requirements and expectations of the users and stakeholders, and that meets the quality standards and criteria.
+  - Software productivity: the ratio of the output and outcome of the software development process to the input and effort of the software development resources, such as time, money, and people.
+  - Software innovation: the creation and adoption of new and improved software systems, processes, methods, standards, paradigms, and domains that enhance the functionality, performance, usability, and value of the software products and services.

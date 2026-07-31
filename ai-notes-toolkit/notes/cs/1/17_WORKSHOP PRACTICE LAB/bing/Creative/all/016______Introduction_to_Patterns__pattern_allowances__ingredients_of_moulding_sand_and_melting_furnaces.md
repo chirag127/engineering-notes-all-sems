@@ -1,0 +1,26 @@
+# Introduction to Patterns, pattern allowances, ingredients of moulding sand and melting furnaces. Foundry tools and their purposes Demo of mould preparation and Aluminum casting Practice – Study and Preparation of mould for Plastic
+
+- A **pattern** is a replica of the object to be cast, usually made of wood, metal, or plastic. It is used to create a cavity in the moulding sand, where the molten metal is poured and solidified.
+- **Pattern allowances** are the adjustments made to the dimensions of the pattern to account for various factors, such as shrinkage, machining, distortion, and draft. Some common pattern allowances are:
+  - **Shrinkage allowance**: The difference between the dimensions of the pattern and the casting, due to the contraction of the metal during cooling and solidification.
+  - **Machining allowance**: The extra material added to the pattern to provide enough stock for the final machining operations.
+  - **Distortion allowance**: The correction made to the shape of the pattern to prevent warping or twisting of the casting, due to uneven cooling or internal stresses.
+  - **Draft allowance**: The taper or slope given to the pattern to facilitate its removal from the mould without damaging the mould cavity.
+- **Moulding sand** is the material used to make the mould cavity, which holds the molten metal until it solidifies. It consists of four main ingredients:
+  - **Base sand**: The main component of the moulding sand, usually silica sand, which provides the refractory and permeable properties of the mould.
+  - **Binder**: The material that binds the sand grains together and gives the mould strength and cohesion. It can be clay, organic, or synthetic.
+  - **Moisture**: The water added to the moulding sand to activate the binder and improve the mouldability and compactability of the sand.
+  - **Additives**: The substances added to the moulding sand to improve its properties, such as coal dust, iron oxide, graphite, etc. They can enhance the refractoriness, collapsibility, flowability, or surface finish of the mould.
+- **Melting furnaces** are the devices used to heat and melt the metal to be cast. They can be classified into two types:
+  - **Fuel-fired furnaces**: These furnaces use fuels such as coal, coke, oil, or gas to generate heat by combustion. They can be further divided into cupola, crucible, reverberatory, or rotary furnaces, depending on the design and operation.
+  - **Electric furnaces**: These furnaces use electricity to generate heat by resistance, induction, or arc. They can be further divided into resistance, induction, or arc furnaces, depending on the source and mode of heating.
+- **Foundry tools** are the instruments used to perform various tasks in the foundry, such as pattern making, moulding, melting, pouring, and finishing. Some common foundry tools are:
+  - **Pattern making tools**: These tools are used to make, repair, or modify the patterns, such as saws, chisels, files, planes, etc.
+  - **Moulding tools**: These tools are used to prepare, shape, and compact the moulding sand, such as rammers, trowels, slicks, lifters, etc.
+  - **Melting and pouring tools**: These tools are used to melt, transfer, and pour the molten metal, such as ladles, skimmers, tongs, etc.
+  - **Finishing tools**: These tools are used to clean, inspect, and machine the castings, such as hammers, chippers, grinders, gauges, etc.
+- **Demo of mould preparation and aluminum casting**:
+  - The first step is to select a suitable pattern and apply the necessary pattern allowances and draft to it.
+  - The second step is to prepare the moulding sand by mixing the base sand, binder, moisture, and additives in the correct proportions.
+  - The third step is to make the mould cavity by packing the moulding sand around the pattern in a moulding box, called a flask, which consists of two parts: the cope (upper part) and the drag (lower part). The pattern is then removed from the mould, leaving a hollow impression of the pattern in the sand.
+  - The fourth step is to make the gating system, which consists of the channels that allow the molten metal to enter and fill the mould cavity. The gating system includes the sprue, the runner, the ingate, and the riser. The sprue is the vertical channel that connects the pouring basin to the runner. The runner is the horizontal channel that distributes the molten metal to the ingates. The ingates are the openings

@@ -1,0 +1,25 @@
+# Unit 2 - Functional Anatomy of Prokaryotic and Eukaryotic Cells: Size, shape, and arrangement of bacterial cells
+
+- Bacterial cells are microscopic organisms that cannot be seen by the naked eye. They are measured in micrometers (µm), which are one-thousandth of a millimeter. The average size of a bacterial cell varies between 0.2 and 2.0 µm  .
+- Bacterial cells have different shapes and arrangements that help them adapt to different environments and perform different functions. The most common shapes are cocci (spherical), bacilli (rod-shaped), and spirilla (spiral-shaped)    .
+- Cocci are spherical bacteria that can be arranged in different patterns, such as:
+  - Diplococci: pairs of cocci, e.g. Neisseria gonorrhoeae, the cause of gonorrhea.
+  - Streptococci: chains of cocci, e.g. Streptococcus pyogenes, the cause of strep throat.
+  - Staphylococci: clusters of cocci, e.g. Staphylococcus aureus, the cause of skin infections.
+  - Tetrads: groups of four cocci, e.g. Micrococcus luteus, a soil bacterium.
+  - Sarcinae: groups of eight cocci, e.g. Sarcina ventriculi, a stomach bacterium.
+- Bacilli are rod-shaped bacteria that can be arranged in different patterns, such as:
+  - Single bacilli: individual rods, e.g. Escherichia coli, a common gut bacterium.
+  - Diplobacilli: pairs of rods, e.g. Klebsiella pneumoniae, a cause of pneumonia.
+  - Streptobacilli: chains of rods, e.g. Bacillus anthracis, the cause of anthrax.
+  - Coccobacilli: short and oval rods, e.g. Haemophilus influenzae, a cause of meningitis.
+  - Palisades: parallel or V-shaped arrangements of rods, e.g. Corynebacterium diphtheriae, the cause of diphtheria.
+- Spirilla are spiral-shaped bacteria that can be arranged in different patterns, such as:
+  - Vibrios: curved or comma-shaped rods, e.g. Vibrio cholerae, the cause of cholera.
+  - Spirilla: rigid and helical rods, e.g. Spirillum minus, the cause of rat-bite fever.
+  - Spirochetes: flexible and corkscrew-shaped rods, e.g. Treponema pallidum, the cause of syphilis.
+- Some bacteria have other shapes and arrangements, such as:
+  - Star-shaped bacteria, e.g. Stella humosa, a marine bacterium.
+  - Square-shaped bacteria, e.g. Haloquadratum walsbyi, a salt-loving bacterium.
+  - Filamentous bacteria, e.g. Streptomyces coelicolor, a soil bacterium that produces antibiotics.
+  - Pleomorphic bacteria, e.g. Mycoplasma pneumoniae, a bacterium that lacks a cell wall and can change its shape.

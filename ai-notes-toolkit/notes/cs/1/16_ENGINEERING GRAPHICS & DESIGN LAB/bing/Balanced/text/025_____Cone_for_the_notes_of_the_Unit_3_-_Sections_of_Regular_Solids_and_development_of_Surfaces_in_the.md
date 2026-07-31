@@ -1,0 +1,21 @@
+### Cone for the notes of the Unit 3 - Sections of Regular Solids and development of Surfaces in the subject of ENGINEERING GRAPHICS & DESIGN LAB
+
+- A cone is a three-dimensional solid that has a circular base and a curved surface that tapers to a point called the vertex or apex.
+- A cone can be cut by a plane in different ways to produce different conic sections, such as circles, ellipses, parabolas, and hyperbolas.
+- The angle between the axis of the cone and the generator (the line joining the vertex and a point on the base) is called the semi-vertical angle of the cone.
+- The development of a cone is the process of unfolding the curved surface into a flat plane. The development of a cone is a sector of a circle with radius equal to the slant height of the cone and central angle equal to the angle subtended by the base of the cone at the vertex.
+- The development of a sectioned cone is the process of unfolding the part of the curved surface that is cut by a section plane into a flat plane. The development of a sectioned cone is a segment of a sector of a circle with radius equal to the slant height of the cone and central angle equal to the angle subtended by the base of the cone at the vertex.
+- The true shape of the section of a cone is the shape of the curve formed by the intersection of the cone and the section plane. The true shape of the section can be determined by projecting the points of intersection on the base of the cone onto the section plane.
+- The true shape of the section of a cone can be different depending on the position and orientation of the section plane. Some possible true shapes are:
+  - A circle, if the section plane is perpendicular to the axis of the cone.
+  - An ellipse, if the section plane is inclined to the axis of the cone and cuts the cone completely.
+  - A parabola, if the section plane is parallel to a generator of the cone and cuts the cone completely.
+  - A hyperbola, if the section plane is parallel to the axis of the cone and cuts the cone partially.
+- To draw the development of a cone or a sectioned cone, the following steps can be followed:
+  - Draw the front view and the top view of the cone in the first angle projection method.
+  - Draw the section plane and the true shape of the section in the front view and the top view.
+  - Draw the generators of the cone from the vertex to the points of intersection on the base in the top view.
+  - Measure the length of the slant height of the cone and the angle subtended by the base of the cone at the vertex in the top view.
+  - Draw a sector of a circle with radius equal to the slant height and central angle equal to the angle subtended by the base of the cone. This is the development of the cone.
+  - Draw a segment of the sector of the circle by joining the points corresponding to the points of intersection on the base of the cone. This is the development of the sectioned cone.
+  - Draw the true shape of the section on the development of the sectioned cone by projecting the points of intersection on the base of the cone onto the development of the cone.

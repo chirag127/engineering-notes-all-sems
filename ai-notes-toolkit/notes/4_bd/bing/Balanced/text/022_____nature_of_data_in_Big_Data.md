@@ -1,0 +1,9 @@
+### Nature of data in Big Data
+
+- Big data refers to the large and complex datasets that are generated from various sources and in various formats, such as text, images, videos, audio, sensor data, etc.
+- Big data has some distinctive characteristics that make it different from traditional data, such as volume, velocity, variety, veracity, and value.
+- Volume: Big data is characterized by the massive amount of data that is produced and stored. The volume of big data can range from terabytes to petabytes and beyond, depending on the application domain and the data source.
+- Velocity: Big data is also characterized by the high speed at which data is generated and processed. The velocity of big data can vary from real-time to near-real-time to batch, depending on the data source and the analytical requirement.
+- Variety: Big data is also characterized by the diversity of data types and formats that are collected and analyzed. The variety of big data can include structured, semi-structured, and unstructured data, as well as different data formats, such as text, images, videos, audio, sensor data, etc.
+- Veracity: Big data is also characterized by the uncertainty and inconsistency of data quality and reliability. The veracity of big data can be affected by factors such as noise, incompleteness, ambiguity, duplication, and fraud, among others.
+- Value: Big data is also characterized by the potential value that can be derived from the data analysis and utilization. The value of big data can be measured by the insights, knowledge, and decisions that can be generated from the data, as well as the economic and social benefits that can be achieved from the data.

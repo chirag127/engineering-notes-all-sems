@@ -1,0 +1,10 @@
+# DoS for the notes of the Unit 2 - Cyber Forensics in the subject of CYBER FORENSIC ANALYTICS
+
+- DoS stands for Denial-of-Service, which is a type of cyberattack that occurs when an attacker prevents an authorized user from accessing their personal data or files by temporarily or permanently interrupting the normal operations of a computer or network.
+- DoS attacks can be launched from a single or multiple sources, and can target different layers of the network protocol stack, such as the application layer, the transport layer, or the network layer.
+- DoS attacks can have various motivations, such as extortion, vandalism, sabotage, or political activism. They can also be used as a diversion for other malicious activities, such as data theft or malware infection.
+- DoS attacks can cause significant damage to the victims, such as financial losses, reputation damage, service disruption, or legal liabilities.
+- Cyber forensics is the process of collecting, analyzing, and presenting digital evidence related to cybercrimes, such as DoS attacks. Cyber forensics can help identify the attacker, the attack method, the attack source, and the attack impact.
+- Cyber forensics can also help prevent or mitigate future DoS attacks by providing insights into the attacker's behavior, techniques, and tools, and by recommending countermeasures and best practices to enhance the security and resilience of the system or network.
+- Cyber forensics involves various steps, such as preparation, identification, preservation, acquisition, analysis, presentation, and reporting. Each step requires specific skills, tools, and procedures to ensure the accuracy, integrity, and admissibility of the digital evidence.
+- Cyber forensics faces various challenges, such as the large volume and variety of data, the dynamic and volatile nature of digital evidence, the encryption and obfuscation techniques used by attackers, the legal and ethical issues related to privacy and jurisdiction, and the shortage of qualified and trained professionals.

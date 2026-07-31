@@ -1,0 +1,10 @@
+# M2M and IoT Analytics
+
+- M2M and IoT are both technologies that enable remote communication and data exchange among machines without human intervention.
+- M2M stands for Machine-to-Machine, and IoT stands for Internet of Things.
+- The main difference between M2M and IoT is that M2M is a point-to-point connection of two or more devices over cellular or wired networks, while IoT is a network of devices that connect to the Internet and use IP-based protocols for data transmission and processing.
+- M2M is more of a vertical application that meets internal demands, such as monitoring, control, or automation, while IoT is more of a horizontal application that has open-ended capabilities, such as analytics, optimization, or innovation.
+- M2M and IoT analytics are the processes of collecting, storing, processing, and visualizing data from M2M and IoT devices, respectively, to generate insights and value for various purposes, such as improving efficiency, reducing costs, enhancing customer experience, or creating new business models.
+- M2M and IoT analytics can be performed at different levels, such as the device level, the edge level, the cloud level, or the application level, depending on the data volume, velocity, variety, and veracity, as well as the latency, bandwidth, security, and scalability requirements.
+- M2M and IoT analytics can use various techniques, such as descriptive analytics, predictive analytics, prescriptive analytics, or cognitive analytics, to provide different types of information, such as what happened, why it happened, what will happen, what should happen, or how to make it happen.
+- M2M and IoT analytics can benefit various domains, such as manufacturing, transportation, healthcare, energy, agriculture, smart cities, or smart homes, by enabling data-driven decision making, optimization, automation, personalization, or innovation.

@@ -1,0 +1,10 @@
+ Here is the content in Markdown format without any emojis or external links and in a formal tone:
+
+### Overview of Commercial Real Time databases for the notes of the Unit 5 - Real Time Operating Systems and Databases in the subject of Real Time System
+
+1. Oracle TimesTen: Oracle TimesTen is an in-memory relational database with persistence to disk storage. It is optimized for high performance and provides ACID transactional guarantees. It scales to hundreds of cores and multiple servers and has APIs for C/C++, Java, .NET, and PHP.
+2. IBM solidDB: IBM solidDB is an in-memory relational database system optimized for OLTP workloads. It provides ACID transactional guarantees and elastic scalability through sharding across multiple servers. It has APIs for C/C++, Java, and Python.
+3. SAP HANA: SAP HANA is an in-memory data platform that provides database and application services in one system. It is a relational database management system that supports SQL, stored procedures, and server-side JavaScript execution. It offers scalability through partitioning and sharding and has connectors to various programming languages.
+4. Altibase: Altibase is an in-memory relational database management system with persistence to disk. It supports ACID transactions, stored procedures, triggers, and SQL. It offers horizontal scalability through sharding and replication and high availability through dual replication. It has APIs for C/C++, Java, PHP, Node.js, Python, and .NET.
+
+The points are written in a formal tone with no emojis or external links as per the instructions. The content is written in Markdown format for the given topic - Overview of Commercial Real Time databases for the notes of the Unit 5 - Real Time Operating Systems and Databases in the subject of Real Time System. Please let me know if you would like me to modify or expand the content.

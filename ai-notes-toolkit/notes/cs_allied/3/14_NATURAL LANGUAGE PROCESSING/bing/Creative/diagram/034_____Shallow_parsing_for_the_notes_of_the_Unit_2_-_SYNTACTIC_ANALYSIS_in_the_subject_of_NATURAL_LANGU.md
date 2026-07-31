@@ -1,0 +1,7 @@
+### Shallow parsing
+
+- Shallow parsing (also called chunking or light parsing) is an analysis of a sentence which first identifies constituent parts of sentences (nouns, verbs, adjectives, etc.) and then links them to higher order units that have discrete grammatical meanings (noun groups or phrases, verb groups, etc.).
+- Shallow parsing is the process of being able to get part of the information (parse tree) that represents the syntactic structure of a sentence. POS tagging is like getting the last layer of the parse tree – only the part of speech tags like verb/noun/adjective… associated with individual words.
+- Shallow parsing is useful for extracting information from text, such as named entities, keywords, phrases, or relations. It can also be used as a preprocessing step for deeper parsing or semantic analysis.
+- Shallow parsing can be performed using various methods, such as rule-based, statistical, or memory-based approaches. Some common techniques are regular expressions, finite-state machines, decision trees, hidden Markov models, maximum entropy models, or neural networks.
+- Shallow parsing can be evaluated using metrics such as precision, recall, and F-measure, which compare the predicted chunks with the gold-standard chunks in a test set.

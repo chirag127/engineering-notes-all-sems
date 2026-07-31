@@ -1,0 +1,22 @@
+### Sensor Characterization
+
+- Sensor characterization is the process of establishing a fundamental understanding of sensor functionality in a controlled known loading environment.
+- Sensor characterization is necessary to ensure a guaranteed level of readout accuracy over various operating conditions.
+- Sensor characterization can help in product development and market segmentation by identifying the sensory ID of a product.
+- Sensor characterization can be done using various methods, such as:
+  - Using a panel of humans to evaluate the character of a product.
+  - Using a data acquisition system to measure the sensor output under different loading conditions.
+  - Using a source measure unit to apply various stimuli to the sensor and record the response.
+- Sensor characterization can involve testing the sensor with various circuit loading conditions and interface materials to establish a performance baseline.
+- Sensor characterization can also involve testing the sensor under different environmental conditions, such as temperature, humidity, pressure, etc.
+- Sensor characterization can provide information about the sensor's:
+  - Sensitivity: the ratio of change in output to change in input
+  - Linearity: the degree of deviation from a straight line relationship between input and output
+  - Hysteresis: the difference in output for the same input value when the input is increasing or decreasing
+  - Drift: the change in output over time due to aging or environmental factors
+  - Noise: the random fluctuations in output that are not related to the input
+  - Resolution: the smallest change in input that can be detected by the output
+  - Accuracy: the closeness of the output to the true value of the input
+  - Precision: the repeatability of the output for the same input value
+  - Range: the minimum and maximum values of input that the sensor can measure
+  - Response time: the time required for the output to reach a certain percentage of the final value after a change in input

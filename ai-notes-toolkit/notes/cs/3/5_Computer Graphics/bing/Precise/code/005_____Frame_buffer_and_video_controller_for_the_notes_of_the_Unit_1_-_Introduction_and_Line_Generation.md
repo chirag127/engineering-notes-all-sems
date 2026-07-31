@@ -1,0 +1,4 @@
+### Frame buffer and video controller for the notes of the Unit 1 - Introduction and Line Generation in the subject of Computer Graphics
+
+- **Frame Buffer or Digital Memory**: A Monitor likes a home T.V. set without the tuning and receiving electronics. It is a large, contiguous piece of computer memory used to hold or map the image displayed on the screen. At a minimum, there is 1 memory bit for each pixel in the raster .
+- **Display Controller or Video Controller**: It passes the contents of the frame buffer to the monitor. It is used to control the operation of the display device. A fixed area of the system is reserved for the frame buffer, and the video controller is given direct access to the frame buffer memory  .

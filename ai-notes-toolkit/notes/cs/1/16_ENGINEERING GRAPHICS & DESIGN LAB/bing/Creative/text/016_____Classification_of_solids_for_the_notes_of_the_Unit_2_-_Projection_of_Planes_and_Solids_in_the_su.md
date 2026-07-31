@@ -1,0 +1,23 @@
+### Classification of Solids
+
+- A solid is an object that has three dimensions, i.e., length, breadth and height.
+- Solids can be classified into two types: crystalline and non-crystalline.
+- Crystalline solids have a regular and orderly arrangement of atoms, molecules or ions in a three-dimensional lattice.
+- Non-crystalline solids have a random and irregular arrangement of atoms, molecules or ions in a three-dimensional structure.
+- Crystalline solids can be further classified into four types based on the nature of the bonding between the constituent particles:
+  - Ionic solids: These are composed of cations and anions that are held together by strong electrostatic forces. They have high melting points, low electrical conductivity and brittle nature. Examples are sodium chloride, magnesium oxide, etc.
+  - Metallic solids: These are composed of metal atoms that are held together by metallic bonds. They have high electrical and thermal conductivity, high melting points, ductility and malleability. Examples are iron, copper, gold, etc.
+  - Covalent solids: These are composed of atoms that are held together by covalent bonds. They have very high melting points, low electrical conductivity and hardness. Examples are diamond, graphite, silicon, etc.
+  - Molecular solids: These are composed of molecules that are held together by intermolecular forces such as hydrogen bonds, dipole-dipole interactions, London dispersion forces, etc. They have low melting points, low electrical conductivity and softness. Examples are ice, sugar, iodine, etc.
+- In engineering graphics, solids are represented by their projections on two principal planes: the horizontal plane (HP) and the vertical plane (VP) .
+- The projections of solids can be obtained by different methods, such as:
+  - First angle projection: In this method, the object is placed in the first quadrant, i.e., above HP and in front of VP. The front view is obtained by projecting the object on VP and the top view is obtained by projecting the object on HP .
+  - Third angle projection: In this method, the object is placed in the third quadrant, i.e., below HP and behind VP. The front view is obtained by projecting the object on VP and the top view is obtained by projecting the object on HP .
+  - Change of position method: In this method, the object is rotated about one or both of its axes to bring it in a position where its projections are easier to draw .
+- The projections of solids can also be affected by the orientation of the axis of the solid with respect to the principal planes . The axis of a solid is the imaginary line passing through its center and perpendicular to its base. The orientation of the axis can be classified into three types:
+  - Parallel to one plane and perpendicular to the other: In this case, the true shape and size of the base of the solid are seen in one view and the height of the solid is seen in the other view .
+  - Inclined to one plane and parallel to the other: In this case, the true shape and size of the base of the solid are seen in one view and the foreshortened height of the solid is seen in the other view .
+  - Inclined to both planes: In this case, the foreshortened shape and size of the base of the solid are seen in both views and the foreshortened height of the solid is seen in one view .
+- Some common examples of solids that are used in engineering graphics are prism, pyramid, cone and cylinder . These solids can be classified based on the shape of their bases and the number of sides or faces they have . For example:
+  - A prism is a solid whose base is a polygon and whose lateral faces are parallelograms. A prism can be triangular, quadrilateral, pentagonal, hexagonal, etc., depending on the number of sides of its base .
+  - A pyramid is a solid whose base is a polygon and whose lateral faces are triangles that meet at a common vertex. A pyramid can be triangular, quadrilateral, pentagonal, hexagonal, etc., depending

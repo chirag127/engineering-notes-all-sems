@@ -1,0 +1,7 @@
+### Metallurgy in India
+
+- The metallurgical industry in India can be segmented into various sub-industries such as aluminium, Copper, lead, iron, zinc, steel etc. Among the various industries, the steel and aluminium are the key industries that have displayed a substantial growth in the past few years .
+- Copper metallurgy in India dates back to the Chalcolithic societies in the subcontinent, according to spectrometric tests on copper ore samples discovered from ancient mine pits at Khetri in Rajasthan and metal samples cut from representative Harappan artefacts unearthed from Mitathal in Haryana .
+- For over 7,000 years, India has had a high tradition of metallurgical skills. The first evidence of metal in the Indian subcontinent comes from Mehrgarh in Baluchistan, where a small copper bead was dated to about 6000 BCE; it is however thought to have been native copper, not the smelted metal extracted from ore .
+- Indian metallurgy under the Mughal emperor Akbar (reign: 1556-1605) produced excellent small firearms. Gommans (2002) holds that Mughal handguns were stronger and more accurate than their European counterparts .
+- India is home to 1,303 mines which reported mineral production (excluding atomic, fuel, and minor minerals) in 2019-20 and produces 95 minerals – 4 fuel-related, 10 metallic, 23 non-metallic, 3 atomic, and 55 minor minerals. India is the 2nd largest producer of coal, all India production in 2021-22 was 777.31 MT (P) with a growth of 8.55% .

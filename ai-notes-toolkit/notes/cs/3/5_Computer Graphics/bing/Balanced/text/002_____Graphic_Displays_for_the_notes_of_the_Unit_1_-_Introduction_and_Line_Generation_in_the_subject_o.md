@@ -1,0 +1,22 @@
+### Graphic Displays for the notes of the Unit 1 - Introduction and Line Generation in the subject of Computer Graphics
+
+- A graphic display is a device that can show images or text on a screen, such as a monitor, a projector, or a printer.
+- A graphic display can be classified into two types: raster and vector.
+  - A raster display consists of a grid of pixels, each of which can have a different color or intensity. Raster displays are commonly used for displaying photographs, videos, and games.
+  - A vector display uses mathematical equations to draw lines, curves, and shapes on the screen. Vector displays are commonly used for displaying diagrams, maps, and fonts.
+- A graphic display can have different characteristics, such as size, resolution, color depth, refresh rate, and aspect ratio  .
+  - The size of a graphic display is measured by the diagonal length of the screen, usually in inches. The size affects the viewing distance and the amount of detail that can be seen on the screen.
+  - The resolution of a graphic display is the number of pixels that can be displayed horizontally and vertically, usually in pixels per inch (ppi) or dots per inch (dpi). The resolution affects the sharpness and clarity of the image.
+  - The color depth of a graphic display is the number of bits that can be used to represent the color of each pixel, usually in bits per pixel (bpp). The color depth affects the range and accuracy of the colors that can be displayed.
+  - The refresh rate of a graphic display is the number of times the image on the screen is updated per second, usually in hertz (Hz). The refresh rate affects the smoothness and responsiveness of the display.
+  - The aspect ratio of a graphic display is the ratio of the width to the height of the screen, usually expressed as a fraction or a decimal. The aspect ratio affects the shape and proportion of the image on the screen.
+- A graphic display can be connected to a computer or a graphics processing unit (GPU) to receive and process the data that needs to be displayed .
+  - A computer is a device that can perform various tasks using software and hardware components, such as a CPU, a RAM, a hard disk, and an operating system.
+  - A GPU is a specialized chip that can perform complex calculations and operations related to graphics, such as rendering, shading, and lighting. A GPU can be integrated into the computer's motherboard or attached as a separate card.
+  - A graphic display can be connected to a computer or a GPU using different types of cables or ports, such as HDMI, VGA, DVI, or USB-C. The type of connection affects the quality and speed of the data transfer.
+- A graphic display can be used for various purposes and applications, such as graphic design, animation, gaming, education, and entertainment  .
+  - Graphic design is the process of creating and communicating visual messages using typography, images, colors, and layouts. Graphic design can be used for creating logos, posters, flyers, websites, and magazines.
+  - Animation is the process of creating and displaying a sequence of images that create the illusion of movement. Animation can be used for creating cartoons, movies, video games, and simulations.
+  - Gaming is the process of playing and interacting with video games that involve challenges, goals, rules, and feedback. Gaming can be used for entertainment, education, socialization, and therapy.
+  - Education is the process of acquiring and imparting knowledge, skills, and values. Education can be used for teaching, learning, and researching various subjects and topics.
+  - Entertainment is the process of providing and enjoying amusement, pleasure, and relaxation. Entertainment can be used for watching movies, shows, sports, and music.

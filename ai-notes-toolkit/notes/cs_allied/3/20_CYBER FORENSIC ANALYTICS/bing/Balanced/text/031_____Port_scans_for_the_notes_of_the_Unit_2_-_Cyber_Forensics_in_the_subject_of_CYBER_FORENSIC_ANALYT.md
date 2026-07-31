@@ -1,0 +1,23 @@
+### Port scans
+
+- A port scan is a technique used by cybercriminals to find out information about a system they are going to target .
+- It involves scanning through a network system and determining which ports are open, which are sending data, and which are receiving data .
+- A port is a logical endpoint of communication in a network, identified by a number from 0 to 65535.
+- A port scan can reveal whether active security devices like firewalls are being used by an organization, and what services or applications are running on the system .
+- Port scanning is a fundamental part of the pre-attack phase of a penetration test, as it can help locate vulnerabilities in a network that malicious hackers can use to gain access.
+- Port scanning can also be used by ethical hackers and network administrators to monitor and secure their own networks.
+- There are several different port scanning techniques, including :
+  - Ping scans: A ping is used to check whether a network data packet can reach an IP address without any issues. Ping scans can identify which hosts are alive on a network.
+  - Half-open or SYN scans: Attackers can check the state of a port without creating a full connection, by sending a SYN (synchronize) packet and waiting for a response. If the response is a SYN-ACK (synchronize-acknowledge) packet, the port is open. If the response is a RST (reset) packet, the port is closed.
+  - Connect scans: Attackers can establish a full connection with each port by sending a SYN packet, receiving a SYN-ACK packet, and sending an ACK (acknowledge) packet. This is a reliable but noisy method, as it can be easily detected by firewalls and intrusion detection systems.
+  - Stealth or FIN scans: Attackers can send a FIN (finish) packet to a port, which normally indicates the end of a connection. If the port is closed, it will send back a RST packet. If the port is open, it will ignore the packet. This is a stealthy but unreliable method, as some systems may respond differently to FIN packets.
+  - Xmas scans: Attackers can send a packet with multiple flags set, such as FIN, URG (urgent), and PSH (push). If the port is closed, it will send back a RST packet. If the port is open, it will ignore the packet. This is a stealthy but unreliable method, as some systems may respond differently to Xmas packets.
+  - ACK scans: Attackers can send an ACK packet to a port, which normally indicates the acknowledgment of a previous packet. If the port is filtered by a firewall, it will drop the packet. If the port is unfiltered, it will send back a RST packet. This can help identify the presence and rules of a firewall.
+  - UDP scans: Attackers can send a UDP (user datagram protocol) packet to a port, which is a connectionless protocol. If the port is closed, it will send back an ICMP (internet control message protocol) error message. If the port is open, it will either send back a UDP response or no response at all. This is a slow and unreliable method, as some systems may rate-limit or block ICMP messages.
+- Port scanning can be detected and prevented by various methods, such as:
+  - Using firewalls and intrusion detection systems to monitor and filter incoming and outgoing traffic
+  - Implementing network segmentation and encryption to limit the exposure and access of sensitive data
+  - Applying patches and updates to fix known vulnerabilities and bugs in the system
+  - Configuring the system to respond in a consistent manner to different types of packets, to avoid revealing information
+  - Using honeypots and honeynets to lure and trap attackers into fake systems, and collect information about their activities
+  - Performing regular audits and scans on the network to identify and remove any unauthorized devices or services

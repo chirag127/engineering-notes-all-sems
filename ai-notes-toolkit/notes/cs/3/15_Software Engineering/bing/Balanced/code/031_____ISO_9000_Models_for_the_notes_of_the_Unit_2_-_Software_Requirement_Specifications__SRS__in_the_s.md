@@ -1,0 +1,35 @@
+### ISO 9000 Models
+
+- ISO 9000 is a family of standards that provide guidelines and requirements for quality management systems and quality assurance in various domains, including software engineering  .
+- ISO 9000 standards are developed and maintained by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC), in collaboration with the Institute of Electrical and Electronics Engineers (IEEE).
+- ISO 9000 standards aim to help organizations achieve customer satisfaction, comply with regulatory requirements, and improve their processes and products continuously .
+- ISO 9000 standards are based on the following seven quality management principles:
+  - Customer focus: understanding and meeting the needs and expectations of customers and other interested parties.
+  - Leadership: establishing a vision, direction, and culture that foster quality and performance.
+  - Engagement of people: empowering, involving, and developing people at all levels of the organization.
+  - Process approach: managing activities and resources as interrelated processes that deliver value and achieve objectives.
+  - Improvement: pursuing opportunities for enhancing performance and addressing risks and issues.
+  - Evidence-based decision making: using data and information to support decision making and evaluation.
+  - Relationship management: establishing and maintaining beneficial relationships with suppliers, partners, and other stakeholders.
+- ISO 9000 standards are divided into three categories   :
+  - ISO 9000: This series of standards provides the fundamentals and vocabulary of quality management systems. It also includes some guidelines for selection and use of the standards.
+  - ISO 9001: This is the only standard in the family that specifies the requirements for a quality management system that can be certified by an external body. It can be applied to any organization, regardless of its size, type, or field of activity. It covers the following aspects of quality management:
+    - Context of the organization: understanding the internal and external issues, needs, and expectations that affect the organization and its quality objectives.
+    - Leadership: establishing the roles, responsibilities, and authorities of top management and ensuring their commitment to quality.
+    - Planning: determining the quality objectives, policies, and plans, and addressing the risks and opportunities for improvement.
+    - Support: providing the resources, competencies, awareness, communication, and documented information needed for the quality management system.
+    - Operation: implementing and controlling the processes that deliver the products and services that meet the customer and regulatory requirements.
+    - Performance evaluation: monitoring, measuring, analyzing, and evaluating the performance and effectiveness of the quality management system and the customer satisfaction.
+    - Improvement: identifying and implementing corrective actions, preventive actions, and continual improvement opportunities.
+  - ISO 9004: This series of standards provides guidance for organizations that want to go beyond the requirements of ISO 9001 and achieve sustained success. It covers the following aspects of quality management:
+    - Strategy: developing and deploying a strategy that aligns with the vision, mission, values, and culture of the organization and its stakeholders.
+    - Management system: establishing and maintaining a management system that integrates the quality, environmental, social, and economic aspects of the organization.
+    - Resources: managing the human, natural, financial, and information resources that enable the organization to achieve its objectives and create value.
+    - Processes: designing, implementing, and improving the processes that deliver the outputs and outcomes that satisfy the stakeholders and contribute to the organization's success.
+    - Products and services: ensuring the quality, reliability, safety, and sustainability of the products and services that meet the customer and regulatory requirements and expectations.
+    - Customers and other interested parties: identifying and engaging with the customers and other interested parties that have an impact on or are affected by the organization and its activities.
+    - Improvement, learning, and innovation: fostering a culture of improvement, learning, and innovation that enables the organization to adapt to changes and create new opportunities.
+    - Performance and results: evaluating and reporting the performance and results of the organization and its processes, products, services, and stakeholders, and benchmarking them with best practices and standards.
+- ISO/IEC/IEEE 90003: This is a specific standard that provides guidance for the application of ISO 9001 to computer software. It covers the following aspects of software engineering :
+  - Software acquisition: defining the requirements, selecting the suppliers, and evaluating the software products and services.
+  - Software supply: establishing the contract, planning the project, and delivering the software products and services.

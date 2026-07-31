@@ -1,0 +1,20 @@
+### Software Quality Attributes
+
+Software quality attributes are the non-functional requirements that describe how well a software system performs its intended functions. They are also known as quality characteristics, quality factors, or quality criteria. Software quality attributes can have a significant impact on the quality of a software product, as well as on the cost, time, and effort of software development and maintenance. Software quality attributes can be classified into two categories: external and internal.
+
+External quality attributes are those that are visible to the end users and stakeholders of the software system. They reflect the degree to which the software system meets their expectations and needs. Some examples of external quality attributes are:
+
+- **Usability**: The ease of use and learnability of the software system for the intended users. It includes aspects such as user interface design, user feedback, user satisfaction, and accessibility.
+- **Reliability**: The ability of the software system to perform its functions correctly and consistently under normal and abnormal conditions. It includes aspects such as fault tolerance, error handling, availability, and recoverability.
+- **Performance**: The responsiveness and efficiency of the software system in terms of processing speed, resource consumption, throughput, and scalability. It includes aspects such as latency, concurrency, load balancing, and caching.
+- **Security**: The protection of the software system and its data from unauthorized access, modification, or destruction. It includes aspects such as authentication, authorization, encryption, auditing, and intrusion detection.
+- **Interoperability**: The ability of the software system to exchange data and services with other systems or components. It includes aspects such as compatibility, integration, standardization, and adaptability.
+
+Internal quality attributes are those that are not directly visible to the end users and stakeholders of the software system, but affect the development and maintenance of the software system. They reflect the degree to which the software system is well-designed and well-implemented. Some examples of internal quality attributes are:
+
+- **Maintainability**: The ease of modifying and evolving the software system to cope with changing requirements, defects, or environments. It includes aspects such as modularity, cohesion, coupling, readability, and documentation.
+- **Testability**: The ease of verifying and validating the software system to ensure its correctness and quality. It includes aspects such as observability, controllability, traceability, and coverage.
+- **Reusability**: The ability of the software system or its components to be reused in other contexts or applications. It includes aspects such as abstraction, encapsulation, generality, and portability.
+- **Modifiability**: The ease of adding new features or changing existing features of the software system without affecting its quality or functionality. It includes aspects such as extensibility, flexibility, and configurability.
+
+Software quality attributes are often interrelated and trade-off with each other. For example, improving the performance of a software system may reduce its usability or maintainability, or increasing the security of a software system may affect its interoperability or performance. Therefore, software quality attributes need to be prioritized and balanced according to the specific needs and constraints of each software project. Software quality attributes can be measured and evaluated using various methods and techniques, such as quality models, metrics, standards, and reviews. Software quality attributes can also be influenced and improved by applying various principles and practices of software engineering, such as software architecture, design patterns, coding standards, testing strategies, and quality assurance.

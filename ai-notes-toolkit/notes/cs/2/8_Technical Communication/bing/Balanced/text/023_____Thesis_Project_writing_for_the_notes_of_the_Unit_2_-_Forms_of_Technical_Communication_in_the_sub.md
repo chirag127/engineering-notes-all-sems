@@ -1,0 +1,15 @@
+### Thesis/Project Writing for the Notes of the Unit 2 - Forms of Technical Communication in the Subject of Technical Communication
+
+- A thesis or a project is a form of technical communication that introduces, explains, and evaluates a research topic in a specific field of study .
+- A thesis or a project typically consists of the following sections:
+  - Introduction: This section provides the background, purpose, scope, and significance of the research topic. It also states the research question or problem, the main objectives, and the hypothesis or thesis statement.
+  - Literature Review: This section reviews the existing literature on the research topic and identifies the gaps, controversies, and challenges in the field. It also establishes the theoretical framework and the relevance of the research topic to the field of technical communication.
+  - Methodology: This section describes the research method employed and the rationale for choosing it. It also explains the data collection and analysis procedures, the instruments and tools used, the ethical considerations, and the limitations and delimitations of the study.
+  - Results: This section presents and summarizes the findings of the data analysis. It also compares and contrasts the results with the literature review and the hypothesis or thesis statement.
+  - Discussion: This section interprets and evaluates the results in relation to the research question or problem, the objectives, and the hypothesis or thesis statement. It also discusses the implications, contributions, and limitations of the study.
+  - Conclusion: This section summarizes the main points of the study and provides recommendations for future research and practice. It also restates the research question or problem, the objectives, and the hypothesis or thesis statement.
+- A thesis or a project requires a high level of technical communication skills, such as:
+  - Design: This skill involves creating and organizing the content and the layout of the document in a way that is clear, concise, coherent, and consistent. It also involves using appropriate fonts, colors, graphics, tables, figures, and references to enhance the readability and usability of the document.
+  - Management: This skill involves planning, scheduling, coordinating, and monitoring the progress and quality of the research and the document. It also involves collaborating and communicating with the supervisor, the committee, and other stakeholders involved in the research.
+  - Writing: This skill involves producing and revising the content of the document in a way that is accurate, precise, objective, and respectful. It also involves using appropriate language, tone, style, and conventions for the specific audience, purpose, and context of the document.
+  - Other techniques: These techniques include conducting literature reviews, data analysis, critical thinking, problem-solving, and ethical reasoning. They also include applying the relevant theories, concepts, and principles of technical communication to the research topic .

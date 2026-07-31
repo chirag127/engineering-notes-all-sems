@@ -1,0 +1,12 @@
+### Well defined learning problems for the notes of the Unit 1 - INTRODUCTION in the subject of Machine Learning Techniques
+
+- A well defined learning problem is a problem that can be solved by a machine learning system that learns from data or experience and improves its performance on a specific task  .
+- A well defined learning problem has three components: a task T, a performance measure P, and a source of experience E .
+- A task T is the goal or objective that the machine learning system is trying to achieve, such as recognizing spoken words, classifying images, or playing chess  .
+- A performance measure P is a way of evaluating how well the machine learning system is doing on the task T, such as accuracy, error rate, or reward .
+- A source of experience E is the data or feedback that the machine learning system uses to learn from and improve its performance on the task T, such as labeled examples, unlabeled examples, or rewards and penalties .
+- A well defined learning problem is well-posed if a solution to it exists, if that solution is unique, and if that solution depends on the data or experience but it is not sensitive to (reasonably small) changes in the data or experience .
+- A well defined learning problem is ill-posed if any of these conditions are violated, such as when the task T is ambiguous, the performance measure P is inconsistent, or the source of experience E is insufficient or noisy .
+- A well defined learning problem can be categorized into different types of learning, such as supervised learning, unsupervised learning, semi-supervised learning, reinforcement learning, or active learning, depending on the nature and availability of the data or experience  .
+- A well defined learning problem can also be characterized by the complexity and structure of the data or experience, such as linear or nonlinear, parametric or nonparametric, discrete or continuous, or independent or dependent  .
+- A well defined learning problem can be solved by applying different machine learning techniques, such as regression, classification, clustering, dimensionality reduction, or neural networks, depending on the type and characteristics of the learning problem  .

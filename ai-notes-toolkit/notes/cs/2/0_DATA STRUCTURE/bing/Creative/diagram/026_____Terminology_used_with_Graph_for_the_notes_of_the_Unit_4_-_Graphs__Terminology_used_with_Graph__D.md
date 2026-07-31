@@ -1,0 +1,20 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material on graphs. Here is some content on the topic of terminology used with graphs:
+
+### Terminology used with Graph
+
+- A **graph** is a collection of **vertices** (also called nodes or points) and **edges** (also called arcs or lines) that connect pairs of vertices.
+- A graph can be **directed** or **undirected**. A directed graph has edges that are associated with a direction, meaning that they can only be traversed in one way. An undirected graph has edges that are bidirectional, meaning that they can be traversed in both ways.
+- A graph can be **weighted** or **unweighted**. A weighted graph has edges that are assigned a numerical value, called the **weight** or **cost**, that represents some attribute of the connection, such as distance, time, or capacity. An unweighted graph has edges that are not assigned any weight or cost.
+- A graph can be **simple** or **non-simple**. A simple graph has no **loops** (edges that connect a vertex to itself) and no **multiple edges** (more than one edge between the same pair of vertices). A non-simple graph may have loops and multiple edges.
+- A graph can be **cyclic** or **acyclic**. A cyclic graph has at least one **cycle** (a path that starts and ends at the same vertex and has no repeated vertices or edges). An acyclic graph has no cycles.
+- A graph can be **connected** or **disconnected**. A connected graph has a **path** (a sequence of vertices and edges) between any pair of vertices. A disconnected graph has at least one pair of vertices that are not connected by any path.
+- A graph can be **complete** or **incomplete**. A complete graph has an edge between every pair of vertices. An incomplete graph has at least one pair of vertices that are not connected by any edge.
+- A **subgraph** of a graph is a graph that consists of a subset of the vertices and edges of the original graph. A subgraph is **induced** if it contains all the edges between the vertices in the subset.
+- A **spanning subgraph** of a graph is a subgraph that contains all the vertices of the original graph. A **spanning tree** of a graph is a spanning subgraph that is also a tree (a connected acyclic graph).
+- A **degree** of a vertex in a graph is the number of edges that are incident to (connected to) the vertex. In a directed graph, the degree can be divided into **in-degree** (the number of edges that point to the vertex) and **out-degree** (the number of edges that point from the vertex).
+- A **walk** in a graph is a sequence of vertices and edges that starts and ends at any vertex. A walk is **closed** if it starts and ends at the same vertex. A walk is **open** if it starts and ends at different vertices.
+- A **trail** in a graph is a walk that has no repeated edges. A **path** in a graph is a walk that has no repeated vertices or edges. A **circuit** in a graph is a closed trail. A **cycle** in a graph is a closed path.
+- A **Eulerian walk** in a graph is a walk that visits every edge exactly once. A **Eulerian trail** in a graph is an open Eulerian walk. A **Eulerian circuit** in a graph is a closed Eulerian walk. A graph is **Eulerian** if it has a Eulerian circuit.
+- A **Hamiltonian walk** in a graph is a walk that visits every vertex exactly once. A **Hamiltonian path** in a graph is an open Hamiltonian walk. A **Hamiltonian cycle** in a graph is a closed Hamiltonian walk. A graph is **Hamiltonian** if it has a Hamiltonian cycle.
+- A **bipartite graph** is a graph whose vertices can be divided into two disjoint sets, such that every edge connects a vertex from one set to a vertex from the other set. A **complete bipartite graph** is a bipartite graph that has an edge between every pair of vertices from different sets.
+- A **planar graph** is a graph that can be drawn on a plane without any edges crossing. A **face** of a planar graph is a region bounded by edges and vertices. A **planar embedding** of a graph is a way of drawing it on a plane without any edges crossing. A **dual graph** of a planar graph

@@ -1,0 +1,21 @@
+### Relational Algebra
+
+- Relational algebra is a theory that uses algebraic structures for modeling data, and defining queries on it with a well founded semantics.
+- The main application of relational algebra is to provide a theoretical foundation for relational databases, particularly query languages for such databases, chief among which is SQL.
+- Relational algebra is considered as a procedural query language, where the user tells the system to carry out a set of operations to obtain the desired results.
+- Relational algebra operations are designed to do the most common things that we need to do with relations in a database.
+- The basic relational algebra operations are:
+  - SELECT (σ): The SELECT operation is used for selecting a subset of the tuples according to a given selection condition.
+  - PROJECTION (π): The PROJECTION operation is used for selecting a subset of the attributes of the relation, and discarding the others.
+  - UNION (∪): The UNION operation is used for combining two relations that have the same set of attributes.
+  - SET DIFFERENCE (-): The SET DIFFERENCE operation is used for finding the tuples that are in one relation but not in another, that have the same set of attributes.
+  - CARTESIAN PRODUCT (×): The CARTESIAN PRODUCT operation is used for combining two relations by forming pairs of tuples from both relations.
+  - RENAME (ρ): The RENAME operation is used for renaming the attributes or the relation itself.
+- The additional relational algebra operations are:
+  - SET INTERSECTION (∩): The SET INTERSECTION operation is used for finding the tuples that are common to both relations, that have the same set of attributes.
+  - NATURAL JOIN (⋈): The NATURAL JOIN operation is used for combining two relations by matching tuples based on their common attributes.
+  - DIVISION (÷): The DIVISION operation is used for finding the tuples from one relation that are associated with all the tuples from another relation.
+  - ASSIGNMENT (←): The ASSIGNMENT operation is used for assigning a relation to a variable.
+- Relational algebra operations can be composed together to form more complex queries.
+- Relational algebra operations can be represented by using a tree structure, called a query tree.
+- Relational algebra operations can be evaluated by using different algorithms, depending on the cost and efficiency factors.

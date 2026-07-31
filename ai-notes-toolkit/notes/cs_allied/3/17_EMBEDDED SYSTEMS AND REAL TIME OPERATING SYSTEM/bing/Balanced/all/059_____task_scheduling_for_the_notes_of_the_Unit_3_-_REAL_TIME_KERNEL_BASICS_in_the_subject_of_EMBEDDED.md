@@ -1,0 +1,19 @@
+# Task scheduling for the notes of the Unit 3 - REAL TIME KERNEL BASICS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Task scheduling is the process of determining how the various tasks are executed by the operating system in a real time system .
+- A real time system is a system that has to respond to events within a specified time limit .
+- A real time operating system (RTOS) is an operating system that supports real time applications by providing features such as preemptive multitasking, priority-based scheduling, inter-task communication and synchronization .
+- A task is a unit of work that can be executed by the RTOS. A task can be periodic, aperiodic or sporadic, depending on its arrival pattern and deadline .
+- A periodic task is a task that arrives at regular intervals and has a fixed deadline equal to its period .
+- An aperiodic task is a task that arrives at irregular intervals and has a variable deadline .
+- A sporadic task is a task that arrives at unpredictable intervals and has a minimum inter-arrival time and a fixed deadline .
+- A task scheduler is a component of the RTOS that decides which task to run at any given time, based on some criteria such as priority, deadline, resource availability, etc  .
+- There are different types of task scheduling algorithms for real time systems, such as    :
+  - Run to completion (RTC): A simple scheduler that runs each task until it finishes or blocks, without preemption. It is suitable for systems with low task complexity and low concurrency .
+  - Round robin (RR): A scheduler that runs each task for a fixed time slice and then switches to the next task in a circular order. It is suitable for systems with equal priority tasks and high concurrency .
+  - Time slice (TS): A scheduler that runs each task for a fixed time slice and then switches to the next task in order of priority. It is a preemptive scheduler that can handle tasks with different priorities and deadlines .
+  - Time slice with background task (TSBG): A scheduler that runs each task for a fixed time slice and then switches to the next task in order of priority, except for the lowest priority task, which is run only when no other task is ready. It is a preemptive scheduler that can handle tasks with different priorities and deadlines, as well as a background task that can perform low-priority work .
+  - Priority (PRI): A scheduler that runs the highest priority task that is ready at any time, and preempts any lower priority task that is running. It is a preemptive scheduler that can handle tasks with different priorities and deadlines, but may suffer from priority inversion or starvation problems .
+  - Earliest deadline first (EDF): A scheduler that runs the task that has the earliest absolute deadline at any time, and preempts any task that has a later deadline. It is a preemptive scheduler that can handle tasks with different periods and deadlines, but may suffer from overload or deadline misses problems  .
+  - Rate monotonic (RM): A scheduler that assigns a fixed priority to each task based on its period, such that the shorter the period, the higher the priority. It is a preemptive scheduler that can handle periodic tasks with different periods and deadlines, but may suffer from priority inversion or deadline misses problems  .
+  - Least laxity first (LLF): A scheduler that runs the task that has the least laxity at any time, and preempts any task that has a greater laxity. The laxity of a task is the difference between its deadline and its remaining execution time. It is a preemptive scheduler that can handle tasks with different periods and deadlines, but may suffer from overload or deadline misses problems  .

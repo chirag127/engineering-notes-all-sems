@@ -1,0 +1,21 @@
+# Introduction for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- Agreement protocols are a class of protocols that allow a set of distributed processes to reach a common decision or consensus on some value or action, despite the possibility of failures or malicious behavior.
+- Agreement protocols are essential for ensuring the correctness and consistency of distributed systems, especially in the presence of faults or attacks.
+- Some examples of agreement problems are:
+  - Leader election: electing a unique coordinator or leader among a group of processes.
+  - Atomic commit: ensuring that a set of transactions are either all committed or all aborted in a distributed database.
+  - Consensus: agreeing on a single value among a set of proposed values.
+  - Byzantine agreement: agreeing on a single value among a set of proposed values, even if some processes are faulty or malicious and may lie or send conflicting messages.
+- Agreement protocols can be classified based on the following criteria:
+  - Synchronous vs asynchronous: whether the processes and the communication channels have bounded delays or not.
+  - Crash vs Byzantine: whether the processes can only fail by crashing or they can exhibit arbitrary behavior.
+  - Deterministic vs randomized: whether the protocol always produces the same output for the same input or it can use randomization to achieve a probabilistic guarantee.
+  - Message complexity: the number of messages exchanged by the protocol.
+  - Time complexity: the number of rounds or steps required by the protocol.
+- The main challenges and trade-offs in designing agreement protocols are:
+  - Fault tolerance: the ability to cope with failures or attacks and still reach a correct agreement.
+  - Consistency: the property that all correct processes agree on the same value or action.
+  - Termination: the property that all correct processes eventually decide on a value or action.
+  - Liveness: the property that the protocol makes progress and does not get stuck in an infinite loop or deadlock.
+  - Efficiency: the minimization of the message and time complexity of the protocol.

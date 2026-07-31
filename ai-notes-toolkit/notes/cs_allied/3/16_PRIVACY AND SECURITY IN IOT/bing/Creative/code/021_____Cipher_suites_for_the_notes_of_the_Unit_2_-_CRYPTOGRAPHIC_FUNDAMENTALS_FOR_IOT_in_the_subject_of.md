@@ -1,0 +1,25 @@
+### Cipher suites for the notes of the Unit 2 - CRYPTOGRAPHIC FUNDAMENTALS FOR IOT in the subject of PRIVACY AND SECURITY IN IOT
+
+- Cipher suites are collections of algorithms that can work together to perform the handshake and the encryption/decryption that follows.
+- Cipher suites provide a set of algorithms and protocols required to secure communications between clients and servers.
+- The agreed cipher suite is a combination of four components:
+  - Key exchange algorithm: such as RSA, DH, ECDH, DHE, ECDHE, or PSK
+  - Authentication/Digital Signature Algorithm: such as RSA, ECDSA, or DSA
+  - Bulk encryption algorithm: such as AES, CHACHA20, Camellia, or ARIA
+  - Message Authentication Code algorithm: such as SHA-256, and POLY1305
+- Cipher suites are usually named by concatenating the names of the components, for example: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+- Cipher suites are negotiated between the client and the server during the TLS handshake, where both parties share a list of supported cipher suites and then decide on the most secure, mutually supported suite.
+- Cipher suites can vary in terms of security, performance, and compatibility. Some cipher suites may be deprecated, weak, or vulnerable to attacks. Therefore, it is important to choose cipher suites that are up-to-date, strong, and suitable for the specific use case.
+- For IoT devices, cipher suites should be chosen based on the following criteria  :
+  - Support for TLS 1.2 or higher, as older versions of TLS are insecure and may not be supported by some cloud services
+  - Support for Elliptic Curve Cryptography (ECC), as it offers better security and performance than traditional public key cryptography
+  - Support for AES-GCM or CHACHA20-POLY1305, as they offer authenticated encryption with associated data (AEAD), which combines encryption and integrity protection in one operation
+  - Avoidance of cipher suites that use SHA-1, CBC mode, or RC4, as they are considered weak or broken
+  - Consideration of the device's hardware capabilities, power consumption, and memory limitations, as some cipher suites may be more resource-intensive than others
+- Some examples of recommended cipher suites for IoT devices are  :
+  - TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+  - TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384
+  - TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256
+  - TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+  - TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+  - TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256

@@ -1,0 +1,10 @@
+### Limited Pass Algorithm
+
+- Limited pass algorithm is a technique for finding frequent itemsets in large datasets with less than k passes, where k is the size of the largest itemset.
+- The main idea is to use a sampling or hashing scheme to reduce the number of candidate itemsets, and then apply a counting or pruning method to filter out the infrequent ones.
+- The advantage of limited pass algorithm is that it can find most of the frequent itemsets with less memory and disk access, and it can tolerate some errors or missing itemsets.
+- The disadvantage of limited pass algorithm is that it cannot guarantee to find all the frequent itemsets, and it may produce some false positives or false negatives.
+- Some examples of limited pass algorithm are:
+  - SON algorithm: It divides the dataset into n partitions, and applies a frequent itemset mining algorithm (such as Apriori) to each partition. Then, it collects the candidate itemsets from each partition, and counts their support in the whole dataset. The itemsets that have support above the threshold are the frequent itemsets.
+  - Toivonen's algorithm: It uses a random sample of the dataset, and applies a frequent itemset mining algorithm (such as Apriori) to the sample. Then, it checks the negative border of the sample, which is the set of itemsets that are not frequent in the sample, but have at least one frequent subset. If the negative border is empty, then the frequent itemsets in the sample are the frequent itemsets in the whole dataset. Otherwise, it repeats the process with a larger sample.
+  - FP-growth algorithm: It compresses the dataset into a compact data structure called FP-tree, which preserves the itemset association information. Then, it recursively divides the FP-tree into smaller sub-trees, and extracts the frequent itemsets from each sub-tree. The itemsets that have support above the threshold are the frequent itemsets.

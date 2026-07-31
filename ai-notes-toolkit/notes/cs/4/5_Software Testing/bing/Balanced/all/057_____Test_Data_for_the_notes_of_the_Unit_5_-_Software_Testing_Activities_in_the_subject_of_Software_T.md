@@ -1,0 +1,16 @@
+# Test Data for the notes of the Unit 5 - Software Testing Activities in the subject of Software Testing
+
+- Software testing activities are the processes and tasks that are performed to check the quality and functionality of a software product or system.
+- Software testing activities can be classified into four main levels: unit testing, integration testing, system testing, and acceptance testing.
+- Unit testing is the process of validating that each software unit performs as expected. A unit is the smallest testable component of software, such as a function, a class, or a module.
+- Integration testing is the process of ensuring that software components or functions operate together. Integration testing can be done in different ways, such as top-down, bottom-up, or sandwich.
+- System testing is the process of verifying whether the whole system works as intended. System testing can involve different types of tests, such as functional, non-functional, performance, security, usability, etc.
+- Acceptance testing is the process of confirming that the software meets the requirements and expectations of the customer or user. Acceptance testing can be done by the customer, the user, or a third party.
+- The software testing life cycle is the sequence of activities that are executed during testing. The software testing life cycle typically consists of the following phases: test planning, test analysis, test design, test implementation, test execution, test evaluation, and test closure.
+- Test planning is the activity of defining the scope, objectives, strategy, resources, schedule, and risks of the testing process. Test planning involves creating a document called a test plan that guides the testing activities.
+- Test analysis is the activity of identifying the test conditions and test cases based on the software requirements and specifications. Test analysis involves creating a document called a test specification that describes the test cases and their expected results.
+- Test design is the activity of refining the test cases and test data based on the test specification. Test design involves creating a document called a test script that contains the detailed steps and commands for executing the test cases.
+- Test implementation is the activity of preparing the test environment and test tools for the test execution. Test implementation involves setting up the hardware, software, network, data, and configuration required for the testing process.
+- Test execution is the activity of running the test cases and test scripts on the software under test. Test execution involves recording the actual results and comparing them with the expected results.
+- Test evaluation is the activity of analyzing the test results and identifying the defects and issues in the software. Test evaluation involves creating a document called a test report that summarizes the test outcomes and the quality of the software.
+- Test closure is the activity of finalizing the testing process and delivering the software to the customer or user. Test closure involves verifying that all the test cases and test objectives have been met, that all the defects have been resolved, and that all the test documents and test artifacts have been archived.

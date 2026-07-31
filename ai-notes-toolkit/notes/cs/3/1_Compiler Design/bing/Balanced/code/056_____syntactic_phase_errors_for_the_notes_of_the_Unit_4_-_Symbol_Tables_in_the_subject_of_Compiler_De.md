@@ -1,0 +1,11 @@
+### Syntactic Phase Errors
+
+- Syntactic errors are detected during the syntax analysis phase of the compiler, which checks if the input program conforms to the grammar rules of the source language .
+- Syntactic errors can be classified into two types: structural errors and recognition errors.
+- Structural errors are caused by missing or misplaced symbols, such as parentheses, semicolons, braces, etc. For example, `a = b + c` is a valid statement, but `a = b + c(` is not, because it has an unmatched opening parenthesis.
+- Recognition errors are caused by invalid tokens or keywords, such as misspelled identifiers, undeclared variables, or reserved words used as identifiers. For example, `int x = 10;` is a valid declaration, but `int x = 10; y = 20;` is not, because `y` is not declared.
+- Error recovery for syntactic errors is the process of handling the errors and continuing the parsing of the rest of the input. There are different methods for error recovery, such as panic mode recovery, phrase level recovery, and error productions .
+- Panic mode recovery is a simple method that discards the input symbols until a synchronizing token is found. A synchronizing token is a delimiter or a marker that indicates the end of a statement or a block, such as a semicolon or a closing brace. For example, if the input is `a = b + c(; x = y + z;`, the parser will skip the symbols until the first semicolon and resume parsing from the next statement.
+- Phrase level recovery is a method that tries to replace or delete a prefix of the remaining input that can be parsed. For example, if the input is `a = b + c(; x = y + z;`, the parser can replace the opening parenthesis with a semicolon and parse the input as two statements.
+- Error productions are grammar rules that are added to the original grammar to handle common errors. For example, if the input is `a = b + c(; x = y + z;`, the parser can use an error production like `expr -> expr ( error ;` to match the erroneous expression and report the error.
+- Error reporting is the process of generating meaningful and helpful error messages for the user. The error messages should indicate the location, the type, and the possible cause of the error. For example, `Syntax error: missing closing parenthesis in line 1` is a better error message than `Syntax error in line 1`.

@@ -1,0 +1,24 @@
+### Applications and Architectures of High Performance Grids
+
+- A grid is a distributed system that enables the sharing and coordinated use of heterogeneous resources across multiple administrative domains  .
+- A high performance grid is a grid that can harness the power of an arbitrarily large collection of computing resources to meet the needs of compute intensive applications  .
+- Some examples of high performance grid applications are:
+  - Scientific simulations, such as finite element models, climate models, and molecular dynamics  .
+  - Data-intensive applications, such as data mining, image processing, and bioinformatics .
+  - Collaborative applications, such as telemedicine, virtual reality, and e-learning .
+- The architecture of a high performance grid consists of several layers :
+  - The lowest layer is the fabric layer, which provides access to the physical resources, such as processors, memory, storage, and network devices.
+  - The next layer is the connectivity layer, which provides communication and authentication services among the resources and the users.
+  - The next layer is the resource layer, which provides resource management and allocation services, such as scheduling, monitoring, and accounting.
+  - The next layer is the collective layer, which provides services that operate on multiple resources, such as data replication, load balancing, and fault tolerance.
+  - The highest layer is the application layer, which includes grid applications and development toolkits for supporting the applications. Grid users interface with this layer and also provide general management functions and auditing functions.
+- The architecture of a high performance grid can vary depending on the requirements and characteristics of the applications and the resources   .
+  - Some factors that influence the architecture are:
+    - The degree of heterogeneity and dynamism of the resources and the applications.
+    - The level of security and trust among the grid participants.
+    - The trade-off between performance, reliability, and cost.
+    - The scalability and interoperability of the grid components and services.
+  - Some examples of architectural variations are:
+    - Hierarchical grids, which organize the resources into clusters and sub-grids, and use a central authority for coordination and control.
+    - Peer-to-peer grids, which allow the resources to communicate and cooperate directly with each other, and use a distributed and decentralized approach for coordination and control.
+    - Service-oriented grids, which expose the resources and the applications as web services, and use standard protocols and interfaces for communication and integration.

@@ -1,0 +1,26 @@
+## Unit 1 - Computer System Security Introduction
+
+- Computer system security is the protection of computer systems and information from harm, theft, and unauthorized use .
+- Computer system security involves the design and implementation of secure computer systems, based on recent research papers.
+- Computer system security covers various aspects, such as:
+  - Hardware security, which protects the physical components of the computer system, such as the system memory and disk drive, from damage or theft.
+  - Firmware security, which protects the permanent software that is etched into a hardware device’s nonvolatile memory and is mostly invisible to the user, from unauthorized modification or exploitation.
+  - Software security, which protects the programming code and data that run on the computer system, from malicious attacks or errors that may compromise its functionality, integrity, or confidentiality .
+  - Network security, which protects the communication and data exchange between computer systems and other devices, from interception, tampering, or disruption by malicious actors.
+  - Information security, which protects the data and information stored or processed by the computer system, from unauthorized access, use, disclosure, modification, or destruction.
+- Computer system security faces various threats and challenges, such as:
+  - Cyberattacks, which are deliberate attempts by malicious actors to exploit the vulnerabilities of the computer system or network, to cause harm, steal information, or disrupt services.
+  - Cybercrimes, which are illegal activities that involve the use of computer systems or networks, such as hacking, phishing, identity theft, fraud, or cyberterrorism.
+  - Cyberwarfare, which is the use of computer systems or networks as weapons or targets in a conflict between states or groups, to gain a strategic or tactical advantage.
+  - Cyberespionage, which is the use of computer systems or networks to spy on or steal sensitive or classified information from other parties, such as governments, corporations, or individuals.
+  - Natural disasters, which are events that cause physical damage or disruption to the computer system or network, such as floods, fires, earthquakes, or power outages.
+  - Human errors, which are mistakes or oversights that may compromise the security of the computer system or network, such as misconfiguration, poor password management, or accidental deletion.
+- Computer system security requires various techniques and measures, such as:
+  - Cryptography, which is the science of encoding and decoding information, to ensure its confidentiality, integrity, and authenticity.
+  - Authentication, which is the process of verifying the identity or credentials of a user or device, to grant or deny access to the computer system or network.
+  - Authorization, which is the process of determining the rights and privileges of a user or device, to perform certain actions or access certain resources on the computer system or network.
+  - Access control, which is the mechanism of enforcing the authorization policies, to prevent unauthorized or inappropriate access to the computer system or network.
+  - Firewall, which is a device or software that monitors and filters the incoming and outgoing network traffic, to block or allow certain packets based on predefined rules.
+  - Intrusion detection and prevention, which are systems or software that detect and respond to anomalous or malicious activities on the computer system or network, to alert, block, or mitigate the potential threats.
+  - Backup and recovery, which are processes of creating and restoring copies of the data and information on the computer system or network, to prevent or recover from data loss or corruption.
+  - Audit and monitoring, which are processes of collecting and analyzing the logs and records of the activities and events on the computer system or network, to ensure compliance, accountability, and security.

@@ -1,0 +1,17 @@
+## Unit 1 - Overview of Grid Computing Technology
+
+Grid computing is a form of distributed computing that involves coordinating and sharing computing resources across multiple administrative domains. Grid computing enables the virtualization of heterogeneous and geographically dispersed resources such as processors, storage systems, networks, databases, and software applications. Grid computing aims to provide a unified, flexible, and scalable platform for solving large-scale problems that require high performance, high throughput, or high availability.
+
+Some of the main characteristics of grid computing are:
+
+- **Resource sharing**: Grid computing allows multiple users and applications to access and share the same physical or virtual resources, regardless of their location, ownership, or administrative policies. Resource sharing can be achieved through various mechanisms such as service-oriented architectures, middleware, protocols, and standards.
+- **Resource heterogeneity**: Grid computing supports the integration and interoperability of diverse and heterogeneous resources, such as different hardware architectures, operating systems, software platforms, and network technologies. Resource heterogeneity can be handled by using common interfaces, abstractions, and adapters.
+- **Resource dynamism**: Grid computing deals with the dynamic and unpredictable nature of the resources, such as their availability, reliability, performance, and load. Resource dynamism can be managed by using mechanisms such as discovery, monitoring, scheduling, fault tolerance, and adaptation.
+- **Resource coordination**: Grid computing involves the coordination and collaboration of multiple resources to achieve a common goal, such as executing a complex application, providing a service, or solving a problem. Resource coordination can be facilitated by using mechanisms such as communication, synchronization, negotiation, and collaboration.
+
+Some of the main benefits of grid computing are:
+
+- **Performance**: Grid computing can improve the performance of applications by exploiting the parallelism and concurrency of multiple resources, and by distributing the workload among them. Grid computing can also enhance the performance of resources by optimizing their utilization and efficiency.
+- **Throughput**: Grid computing can increase the throughput of applications by enabling the execution of multiple tasks or jobs in parallel or in sequence, and by reducing the waiting time and the turnaround time. Grid computing can also increase the throughput of resources by maximizing their availability and productivity.
+- **Availability**: Grid computing can improve the availability of applications by providing redundancy and fault tolerance, and by recovering from failures and errors. Grid computing can also improve the availability of resources by enabling load balancing and resource pooling.
+- **Scalability**: Grid computing can enhance the scalability of applications by allowing them to handle larger and more complex problems, and by adapting to the changing requirements and demands. Grid computing can also enhance the scalability of resources by enabling dynamic provisioning and allocation, and by supporting resource aggregation and federation.

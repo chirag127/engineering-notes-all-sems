@@ -1,0 +1,8 @@
+### Stabilizer codes
+
+- Stabilizer codes are a class of quantum error-correcting codes that use the stabilizer formalism to encode and decode quantum states .
+- Stabilizer codes append ancilla qubits to the qubits that need to be protected from noise and errors. A unitary encoding circuit rotates the global state into a subspace of a larger Hilbert space. This highly entangled, encoded state corrects for local noisy errors .
+- Stabilizer codes can be constructed from classical binary or quaternary codes, as long as they satisfy the dual-containing or self-orthogonality constraint. This means that the code space is orthogonal to its dual space under the symplectic inner product  .
+- Stabilizer codes can be represented by a stabilizer group, which is a subgroup of the Pauli group that commutes with all its elements and contains the identity. The stabilizer group specifies the set of errors that can be detected and corrected by the code  .
+- Stabilizer codes can also be described by a parity check matrix, which is a matrix whose rows are the binary or quaternary representations of the generators of the stabilizer group. The parity check matrix can be used to encode, decode, and perform fault-tolerant operations on the code .
+- Stabilizer codes can be generalized to qudit stabilizer codes, which use qudits (d-level quantum systems) instead of qubits. Qudit stabilizer codes can achieve better error correction capability than qubit stabilizer codes, especially when using preshared entanglement.

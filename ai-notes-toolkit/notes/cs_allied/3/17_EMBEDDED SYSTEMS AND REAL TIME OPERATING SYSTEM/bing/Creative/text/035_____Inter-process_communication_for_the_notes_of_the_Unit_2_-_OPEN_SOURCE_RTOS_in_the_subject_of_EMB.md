@@ -1,0 +1,23 @@
+### Inter-process communication for the notes of the Unit 2 - OPEN SOURCE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Inter-process communication (IPC) is a form of data sharing between processes that happen with RTOS.
+- IPC is essential for creating useful applications that can use resources, peripherals, and events efficiently and dynamically.
+- IPC can be achieved by various methods, such as shared memory, pipes, queues, mailboxes, signals, and remote procedure calls.
+- Different open source RTOSes may have different IPC APIs and mechanisms, but they usually share some common features and principles.
+- For example, FreeRTOS is a popular open source RTOS that provides a rich set of IPC APIs, such as :
+  - Binary and counting semaphores, which are used to synchronize tasks and share resources.
+  - Mutexes, which are a special type of semaphore that provide priority inheritance and recursive locking.
+  - Event groups, which are used to notify tasks of the occurrence of multiple events or conditions.
+  - Message buffers, which are used to send and receive variable length messages between tasks or interrupts.
+  - Stream buffers, which are used to send and receive streams of data between tasks or interrupts.
+  - Notifications, which are used to send and receive single 32-bit values between tasks or interrupts.
+  - Queues, which are used to send and receive fixed length messages between tasks or interrupts.
+  - Queue sets, which are used to monitor multiple queues and semaphores for events.
+- IPC methods have different advantages and disadvantages, depending on the application requirements and constraints. Some factors to consider when choosing an IPC method are:
+  - The size and complexity of the data to be shared.
+  - The number and priority of the tasks involved in the communication.
+  - The synchronization and timing requirements of the communication.
+  - The memory and CPU overhead of the communication.
+  - The portability and scalability of the communication.
+- IPC methods can be combined and layered to achieve more complex and flexible communication patterns. For example, a queue can be used to send messages that contain pointers to shared memory buffers, or a semaphore can be used to signal the availability of data in a stream buffer.
+- IPC is a fundamental and powerful feature of RTOSes that enables concurrent and cooperative processing of tasks and interrupts. IPC methods should be chosen and used carefully and appropriately to ensure the correctness, efficiency, and robustness of the application.

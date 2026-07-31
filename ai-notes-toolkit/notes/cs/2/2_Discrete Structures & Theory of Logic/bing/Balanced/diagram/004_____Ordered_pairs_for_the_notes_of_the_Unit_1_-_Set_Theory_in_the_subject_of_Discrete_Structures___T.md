@@ -1,0 +1,6 @@
+### Ordered pairs for the notes of the Unit 1 - Set Theory in the subject of Discrete Structures & Theory of Logic
+
+- An ordered pair is a pair of two objects that are written inside parentheses and separated by a comma, such as (a, b).
+- The order of the objects in an ordered pair is important, as changing the order may result in a different ordered pair, unless the objects are equal. For example, (1, 2) is not the same as (2, 1), unless 1 = 2.
+- An ordered pair can be used to represent a point on a coordinate plane, where the first object is the x-coordinate and the second object is the y-coordinate. For example, (3, -4) represents the point that is 3 units to the right and 4 units down from the origin.
+- An ordered pair can also be used to represent an element of a relation or a cartesian product, which are concepts in set theory. A relation is a set of ordered pairs that show how two sets are related to each other. A cartesian product is a set of all possible ordered pairs that can be formed from two sets. For example, if A = {1, 2} and B = {a, b}, then the cartesian product of A and B is A x B = {(1, a), (1, b), (2, a), (2, b)}. Each ordered pair in A x B shows how an element of A is paired with an element of B.

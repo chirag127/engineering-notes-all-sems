@@ -1,0 +1,21 @@
+# Wireless Displays in Educational Augmented Reality Applications
+
+- Wireless displays are output devices that can receive and display wirelessly streamed content, such as stereoscopic video signals, in real time .
+- Wireless displays can be used for educational augmented reality (AR) applications, which are applications that combine real and virtual elements to enhance learning and teaching .
+- Wireless displays can offer several advantages for educational AR applications, such as:
+  - Enabling personalization and privacy of content for each user .
+  - Reducing the number of cables and wires that can hinder movement and interaction .
+  - Increasing the scalability and flexibility of the system to support multiple users and displays .
+  - Facilitating collaboration and communication among users and teachers .
+- Wireless displays can be implemented using different technologies, such as:
+  - Wireless head mounted displays (HMDs), which are wearable devices that provide a stereoscopic view of the AR content to the user .
+  - Wireless TFT display modules, which are small and lightweight screens that can be attached to different objects or surfaces to display the AR content .
+  - Wireless smartphones, which are self-contained computing units that can act as both input and output devices for the AR content.
+- Wireless displays can be used for various educational AR applications, such as:
+  - Construct3D, which is a collaborative geometry construction tool that allows users to create and manipulate 3D objects in a shared virtual space .
+  - ARMath, which is a mathematics learning tool that uses AR to visualize and explain abstract concepts and formulas .
+- Wireless displays can enhance the learning outcomes and experiences of users and teachers in educational AR applications, such as:
+  - Improving the spatial understanding and problem-solving skills of users .
+  - Increasing the motivation and engagement of users .
+  - Providing feedback and guidance to users and teachers .
+  - Supporting different learning styles and preferences of users .

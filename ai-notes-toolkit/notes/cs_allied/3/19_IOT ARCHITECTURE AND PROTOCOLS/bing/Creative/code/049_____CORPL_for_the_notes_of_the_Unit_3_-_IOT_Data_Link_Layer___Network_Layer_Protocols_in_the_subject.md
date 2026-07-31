@@ -1,0 +1,23 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on the topic of CORPL for the notes of the Unit 3 - IOT Data Link Layer & Network Layer Protocols in the subject of IOT ARCHITECTURE AND PROTOCOLS.
+
+### CORPL
+- CORPL stands for **C**ontrol **O**bjective **R**outing **P**rotocol for **L**ow power and lossy networks.
+- It is a network layer protocol that is designed for IoT applications that require reliable and energy-efficient data delivery.
+- It is based on the concept of **control objectives**, which are high-level goals that the network should achieve, such as minimizing delay, maximizing throughput, or balancing load.
+- CORPL uses a distributed algorithm to compute the optimal routes for each control objective, based on the local information of the nodes and the feedback from the network.
+- CORPL is compatible with the RPL protocol, which is the standard routing protocol for low power and lossy networks. CORPL can coexist with RPL and use the same data structures and messages.
+- CORPL has several advantages over RPL, such as:
+  - It can support multiple control objectives simultaneously and dynamically adjust the routes according to the changing network conditions and application requirements.
+  - It can avoid routing loops and suboptimal paths that may occur in RPL due to the use of a single objective function and a fixed rank metric.
+  - It can reduce the control overhead and the energy consumption by using a selective and adaptive approach to send control messages and update the routing information.
+
+### IOT Data Link Layer & Network Layer Protocols
+- The data link layer and the network layer are two of the most important layers in the IoT protocol stack, as they are responsible for providing the connectivity and the routing functionality for the IoT devices.
+- The data link layer is the layer that connects the physical layer to the network layer. It is responsible for providing the medium access control (MAC) and the logical link control (LLC) functions, such as framing, error detection, flow control, and addressing.
+- The network layer is the layer that provides the end-to-end communication between the IoT devices and the application servers. It is responsible for providing the routing, addressing, and forwarding functions, such as finding the optimal path, assigning the IP addresses, and delivering the packets.
+- Some of the common protocols that are used in the data link layer and the network layer for IoT are:
+  - Bluetooth: A wireless technology that enables short-range communication between devices, such as smartphones, headphones, speakers, and sensors. It uses a frequency-hopping spread spectrum (FHSS) technique to avoid interference and provide security. It supports both point-to-point and point-to-multipoint connections. It has several versions, such as Bluetooth Low Energy (BLE), which is optimized for low power consumption and low data rate applications.
+  - ZigBee: A wireless technology that enables low-power and low-cost communication between devices, such as sensors, actuators, and controllers. It uses a mesh network topology to provide reliability and scalability. It supports both star and peer-to-peer connections. It is based on the IEEE 802.15.4 standard, which defines the physical and MAC layers. It has several profiles, such as ZigBee Smart Energy, ZigBee Home Automation, and ZigBee Light Link, which define the application layer and the network layer.
+  - Wi-Fi: A wireless technology that enables high-speed and high-capacity communication between devices, such as laptops, smartphones, tablets, and cameras. It uses a radio frequency (RF) technique to transmit and receive data. It supports both infrastructure and ad hoc connections. It is based on the IEEE 802.11 standard, which defines the physical and MAC layers. It has several variants, such as Wi-Fi 6, Wi-Fi 6E, and Wi-Fi HaLow, which offer different features and performance.
+  - RPL: A network layer protocol that is designed for low power and lossy networks, such as sensor networks, smart grid networks, and home automation networks. It uses a tree-based topology to provide efficient and reliable data delivery. It supports both upward and downward traffic, as well as multicast and anycast communication. It uses an objective function and a rank metric to compute the optimal routes, based on the network characteristics and the application requirements. It uses several types of messages, such as DIO, DAO, DIS, and DODAG, to exchange the routing information and maintain the network topology.
+  - 6LoWPAN: A network layer

@@ -1,0 +1,13 @@
+## Unit 1 - Introduction to Compiler
+
+- A compiler is a program that translates a source program written in a high-level language (such as C, Java, Python, etc.) into a target program written in a low-level language (such as assembly, machine code, bytecode, etc.).
+- The main goal of a compiler is to produce a correct and efficient target program that is equivalent to the source program in terms of functionality and behavior.
+- A compiler typically consists of several phases, each of which performs a specific task on the source program or its intermediate representation. The main phases of a compiler are:
+  - Lexical analysis: This phase scans the source program and converts it into a sequence of tokens, which are the basic units of syntax, such as keywords, identifiers, literals, operators, etc.
+  - Syntax analysis: This phase parses the sequence of tokens and checks if it conforms to the grammar rules of the source language. It also builds a parse tree or an abstract syntax tree (AST) that represents the hierarchical structure of the source program.
+  - Semantic analysis: This phase performs various checks on the parse tree or the AST to ensure that the source program is meaningful and follows the rules of the source language. For example, it checks for type errors, undeclared variables, scope rules, etc. It also performs some transformations on the parse tree or the AST to make it more suitable for the next phase.
+  - Intermediate code generation: This phase translates the parse tree or the AST into an intermediate representation (IR) that is closer to the target language but still independent of the target machine. The IR can be in various forms, such as three-address code, quadruples, triples, etc.
+  - Code optimization: This phase applies various techniques to improve the quality and performance of the IR by eliminating or reducing redundant, unnecessary, or inefficient code. For example, it can perform constant folding, dead code elimination, loop optimization, etc.
+  - Code generation: This phase converts the IR into the target program by mapping the IR instructions to the target machine instructions. It also performs tasks such as register allocation, instruction scheduling, etc.
+  - Symbol table management: This phase maintains a data structure called the symbol table that stores information about the identifiers used in the source program, such as their names, types, scopes, values, etc. The symbol table is accessed and updated by various phases of the compiler as needed.
+  - Error handling: This phase detects and reports any errors or warnings that occur during the compilation process. It also tries to recover from the errors and continue the compilation as much as possible.

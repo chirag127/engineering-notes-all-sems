@@ -1,0 +1,15 @@
+### Termination Detection
+
+Termination detection is a fundamental problem in distributed systems, where a set of processes cooperate to perform a computation. The goal is to determine when all the processes have finished their work and there are no more messages in transit between them. This is non-trivial because no process has complete knowledge of the global state, and global time does not exist.
+
+One of the algorithms for termination detection is Huang's algorithm, proposed by Shing-Tsaan Huang in 1989. The algorithm is based on the concept of a process' state, which can be either active or idle. An active process may become idle at any time, but an idle process may only become active again upon receiving a computational message (a message that affects the computation). A process that is idle and has no outgoing messages is called passive.
+
+The algorithm works as follows:
+
+- Each process maintains a counter of the number of messages it has sent and received, called the diff count. The diff count is initialized to zero, and is incremented by one for each message sent, and decremented by one for each message received.
+- Each process also maintains a control message, which contains its diff count and a boolean flag indicating whether it is passive or not. The control message is initialized to (0, false), and is updated whenever the diff count or the state changes.
+- There is a designated process, called the initiator, that initiates and coordinates the termination detection. The initiator periodically sends a probe message to its neighbor in a logical ring of processes, and waits for a reply. The probe message contains the initiator's control message.
+- When a process receives a probe message, it compares its control message with the one in the probe. If they are the same, it means that the process has not changed its state or diff count since the last probe, and it forwards the probe to its neighbor. If they are different, it means that the process has changed its state or diff count since the last probe, and it updates the probe with its current control message, and resets its own control message to (0, false). It then forwards the updated probe to its neighbor.
+- When the initiator receives the probe back, it checks the control message in the probe. If it is (0, true), it means that all the processes are passive and the diff count is zero, which implies that the computation has terminated. If it is not (0, true), it means that some processes are still active or there are still messages in transit, and the computation has not terminated. The initiator then waits for some time and repeats the process.
+
+The algorithm ensures that the termination is detected correctly and eventually, and does not interfere with the underlying computation. The algorithm also does not require additional communication channels between processes, and only uses one probe message at a time. The algorithm has a time complexity of O(n), where n is the number of processes, and a message complexity of O(m), where m is the number of messages exchanged in the computation.

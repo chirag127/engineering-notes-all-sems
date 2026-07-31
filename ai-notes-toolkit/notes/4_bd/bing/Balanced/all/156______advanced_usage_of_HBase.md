@@ -1,0 +1,11 @@
+#### Advanced usage of HBase
+
+HBase is a column-oriented non-relational database management system that runs on top of Hadoop Distributed File System (HDFS). It provides a fault-tolerant way of storing sparse data sets, which are common in many big data use cases. It is well suited for real-time data processing or random read/write access to large volumes of data.
+
+Some of the advanced usage of HBase are:
+
+- **Storing genome sequences and running MapReduce on them**. HBase can store large amounts of genomic data and allow fast retrieval and analysis of DNA sequences using MapReduce. This can be useful for medical research, disease diagnosis, and personalized medicine.
+- **Storing logs and performing analytics and target advertisement**. HBase can store web logs, customer search history, and other user behavior data and enable real-time analytics and recommendation systems. This can help e-commerce businesses to improve their customer experience and increase their revenue .
+- **Storing match details and history of sports events**. HBase can store the scores, statistics, and highlights of various sports matches and allow fast and flexible queries and aggregations. This can be useful for sports fans, journalists, and analysts.
+- **Using row keys and column keys to convey meaning and sorting order**. HBase has two fundamental key structures: the row key and the column key. Both can be used to encode information, such as timestamps, prefixes, suffixes, or delimiters, and to exploit their lexicographic sorting order. This can help to design efficient storage solutions and optimize performance.
+- **Using filters, coprocessors, and custom comparators to enhance functionality**. HBase provides various mechanisms to extend its capabilities and customize its behavior. Filters can be used to apply conditions and transformations on the data. Coprocessors can be used to execute custom logic on the server side. Custom comparators can be used to define custom sorting and comparison rules.

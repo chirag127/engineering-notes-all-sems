@@ -1,0 +1,27 @@
+### Classical Noise and Markov Processes for the notes of the Unit 4 - Quantum Information in the subject of Quantum Computing
+
+- Classical noise is a random fluctuation or disturbance in a signal or a system that affects the quality or accuracy of the information transmitted or processed.
+- Markov processes are stochastic processes that have the property of memorylessness, meaning that the future state of the system depends only on the present state and not on the past history.
+- In quantum information theory, classical noise and Markov processes are used to model the effects of decoherence, dissipation, and errors on quantum systems that interact with their environment.
+- Quantum noise is the quantum analogue of classical noise, where the fluctuations or disturbances are due to the inherent uncertainty and indeterminacy of quantum mechanics.
+- Quantum operations are mathematical transformations that describe how quantum systems evolve under the influence of quantum noise and external control.
+- Quantum operations formalism is a framework that allows one to characterize and manipulate quantum systems in terms of their input and output states, as well as their effects on the environment.
+- Quantum operations formalism can be derived from the following assumptions:
+  - The input and output states of the quantum system are represented by density operators, which are positive, Hermitian, and trace-one matrices.
+  - The quantum operation is a completely positive and trace-preserving (CPTP) map, which means that it preserves the positivity and the trace of the density operator, and that it can be extended to a larger system without introducing negative probabilities.
+  - The quantum operation can be expressed as a linear combination of Kraus operators, which are matrices that satisfy the completeness relation, meaning that their sum is equal to the identity matrix.
+  - The quantum operation can also be expressed as a unitary transformation on a larger system that includes an ancilla, which is an auxiliary quantum system that acts as the environment or the noise source.
+- A quantum channel is a special case of a quantum operation that describes the transmission of quantum information from a sender to a receiver through a noisy medium.
+- A quantum channel is also a CPTP map, but it has the additional property of being linear and additive, meaning that it preserves the superposition and the tensor product of quantum states.
+- A quantum channel can be characterized by its capacity, which is the maximum amount of information that can be reliably transmitted per use of the channel.
+- There are different types of capacities for quantum channels, depending on the nature and the encoding of the information, such as the classical capacity, the quantum capacity, the private capacity, and the entanglement-assisted capacity.
+- The classical capacity of a quantum channel is the maximum amount of classical information that can be reliably transmitted per use of the channel, using quantum states as the carriers of the information.
+- The classical capacity of a quantum channel can be affected by the presence of correlations or memory in the noise, which can either enhance or degrade the transmission rate.
+- A Markovian quantum channel is a quantum channel that has no memory, meaning that the noise affecting the quantum states is independent and identically distributed (i.i.d.) for each use of the channel.
+- A non-Markovian quantum channel is a quantum channel that has memory, meaning that the noise affecting the quantum states is dependent and non-identically distributed for each use of the channel.
+- A Markovian quantum channel can be modeled by a Markov chain, which is a sequence of random variables that satisfy the Markov property, meaning that the next state of the chain depends only on the current state and not on the previous states.
+- A Markov chain can be described by a transition matrix, which is a matrix that specifies the probabilities of transitioning from one state to another in the chain.
+- A Markov chain can have different properties, such as being irreducible, aperiodic, recurrent, transient, ergodic, or stationary, depending on the structure and the behavior of the transition matrix.
+- A Markov chain can also have different classes, such as communicating classes, closed classes, absorbing classes, or essential classes, depending on the accessibility and the persistence of the states in the chain.
+- The classical capacity of a Markovian quantum channel can be evaluated by using the Holevo-Schumacher-Westmoreland (HSW) theorem, which states that the capacity is equal to the maximum of the Holevo quantity over all possible input ensembles, where the Holevo quantity is a measure of the mutual information between the input and the output states of the channel.
+- The classical capacity of a non-Markovian quantum channel can be evaluated by using the memory-assisted H

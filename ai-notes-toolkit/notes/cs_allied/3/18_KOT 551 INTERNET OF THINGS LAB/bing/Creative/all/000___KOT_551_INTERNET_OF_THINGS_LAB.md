@@ -1,0 +1,27 @@
+# KOT 551 INTERNET OF THINGS LAB
+
+- The Internet of Things (IoT) is defined as the network of physical objects, things that are embedded, with sensors, software and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet.
+- The IoT Lab is a resource for students and faculty to experiment with the latest devices and datasets for research and applications.
+- The IoT Lab can help answer questions such as: Am I getting what I paid for from my internet subscription? What happens when one of my home connected devices is compromised? How can I monitor and control my energy consumption? How can I use IoT devices to collect and analyze data for my research project?
+- The IoT Lab can also enable the development of new applications and services that leverage the IoT, such as smart home, smart city, smart health, smart agriculture, smart industry, etc.
+- The IoT Lab consists of various hardware and software components, such as:
+  - IoT devices: sensors, actuators, cameras, microcontrollers, etc.
+  - IoT platforms: cloud services, edge computing, data analytics, etc.
+  - IoT protocols: MQTT, CoAP, HTTP, etc.
+  - IoT security: encryption, authentication, privacy, etc.
+- The IoT Lab manual provides the instructions and guidelines for using the IoT Lab, such as:
+  - How to access the IoT Lab and its resources
+  - How to set up and configure the IoT devices and platforms
+  - How to program and communicate with the IoT devices and platforms
+  - How to collect and analyze data from the IoT devices and platforms
+  - How to design and implement IoT applications and services
+  - How to evaluate and test the IoT applications and services
+  - How to document and report the IoT projects and experiments
+- The IoT Lab manual also contains the following sections:
+  - Introduction: an overview of the IoT and its applications and challenges
+  - IoT Devices: a description of the IoT devices available in the IoT Lab and their specifications and features
+  - IoT Platforms: a description of the IoT platforms available in the IoT Lab and their functionalities and services
+  - IoT Protocols: a description of the IoT protocols used in the IoT Lab and their characteristics and advantages
+  - IoT Security: a description of the IoT security issues and solutions in the IoT Lab and their importance and benefits
+  - IoT Projects: a list of the IoT projects and experiments that can be done in the IoT Lab and their objectives and outcomes
+  - IoT References: a list of the IoT resources and references that can be used for further learning and exploration

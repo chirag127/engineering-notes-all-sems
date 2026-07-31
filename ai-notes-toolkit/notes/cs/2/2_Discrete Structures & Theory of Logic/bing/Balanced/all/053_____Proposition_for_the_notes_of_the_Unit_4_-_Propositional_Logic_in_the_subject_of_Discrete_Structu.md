@@ -1,0 +1,10 @@
+# Propositional Logic
+
+Propositional logic is a branch of logic that studies the ways of combining or modifying statements, called propositions, using logical connectives, such as `and`, `or`, `not`, `implies`, etc. Propositional logic also deals with the truth values of propositions and the rules of inference that allow us to derive new propositions from given ones.
+
+Some of the main topics covered in propositional logic are:
+
+- **Syntax and semantics of propositional logic**: This topic defines the basic elements of propositional logic, such as propositions, variables, constants, connectives, formulas, truth tables, and models. It also explains how to evaluate the truth value of a formula given a model, and how to determine if a formula is valid, satisfiable, or unsatisfiable.
+- **Normal forms and equivalence**: This topic introduces the concepts of logical equivalence and logical consequence, and shows how to use them to simplify and manipulate formulas. It also defines the normal forms of formulas, such as conjunctive normal form (CNF), disjunctive normal form (DNF), and negation normal form (NNF), and explains how to convert a formula to a normal form using equivalence rules.
+- **Proof systems and soundness and completeness**: This topic presents the different methods of proving the validity or invalidity of a formula, such as truth tables, natural deduction, and resolution. It also proves the soundness and completeness theorems, which state that a formula is valid if and only if it can be proved by a given proof system.
+- **Applications of propositional logic**: This topic explores some of the practical uses of propositional logic, such as encoding and solving problems, reasoning about circuits and programs, and performing automated theorem proving. It also discusses some of the limitations and extensions of propositional logic, such as propositional logic with quantifiers, modal logic, and fuzzy logic.

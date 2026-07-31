@@ -1,0 +1,14 @@
+### Detour Unix user IDs process IDs and privileges
+
+- Unix is a multi-user operating system that allows multiple users to access the same system and share its resources.
+- Each user of a Unix system has a unique user ID (UID) that identifies them. The UID is an integer number that is stored in the `/etc/passwd` file along with other user information.
+- The UID 0 is reserved for the superuser (root) who has full access and control over the system. Other users have limited privileges depending on their group memberships and file permissions.
+- A user can belong to multiple groups, each with a group ID (GID). The GID is also an integer number that is stored in the `/etc/group` file along with other group information.
+- The primary group of a user is the one that is assigned to them when they log in. The secondary groups are the ones that they can join by using the `newgrp` command or by specifying them in the `/etc/passwd` file.
+- A process is a running instance of a program that executes on the system. Each process has a process ID (PID) that identifies it. The PID is also an integer number that is assigned by the kernel when the process is created.
+- A process is associated with a UID and a GID that determine its privileges and access rights. The UID and GID of a process are inherited from its parent process, unless the process executes a setuid or setgid program.
+- A setuid or setgid program is a special type of executable file that has the `s` bit set in its permission mode. When a user executes a setuid or setgid program, the process that is created has its effective UID or GID changed to the owner or group of the file, respectively.
+- The effective UID or GID is the one that is used to evaluate the privileges of the process to perform a particular action, such as opening a file or sending a signal. The real UID or GID is the one that identifies the user or group who created the process. The saved UID or GID is the one that is stored in the process for later use, such as restoring the privileges.
+- A process can change its effective UID or GID by using the `setuid` or `setgid` system calls, as long as the new ID is the same as either the real or the saved ID. A process can also change its real and saved UID or GID by using the `setreuid` or `setregid` system calls, as long as the new ID is the same as the effective ID or the old ID.
+- A process that executes a setuid or setgid program can drop its privileges by changing its effective UID or GID to match its real or saved UID or GID. This can be done permanently or temporarily, depending on the needs of the program.
+- Dropping privileges is a good security practice that can prevent a process from being exploited by malicious users or programs. A process that does not need to run with elevated privileges should drop them as soon as possible and only restore them when necessary.

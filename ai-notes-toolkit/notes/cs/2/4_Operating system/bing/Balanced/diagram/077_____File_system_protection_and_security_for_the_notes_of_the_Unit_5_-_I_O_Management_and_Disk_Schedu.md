@@ -1,0 +1,11 @@
+### File system protection and security
+
+- File system protection and security are the mechanisms that ensure the integrity, confidentiality, and availability of files and directories on a computer system.
+- File system protection involves controlling the access of users and programs to the files and directories, preventing unauthorized or accidental modification, deletion, or disclosure of the file contents.
+- File system security involves protecting the files and directories from malicious attacks, such as viruses, worms, trojan horses, or buffer overflows, that may compromise the system or the data stored on it.
+- Some of the common techniques for file system protection and security are:
+
+  - Access control lists (ACLs): A list of users and their permissions for each file or directory. The operating system checks the ACL before granting or denying access to the file or directory. For example, Windows File Protection (WFP) uses ACLs to prevent programs from replacing critical system files .
+  - Encryption: A process of transforming the file contents into an unreadable form using a secret key. Only authorized users or programs with the correct key can decrypt and access the file contents. Encryption can protect the files from unauthorized access, modification, or disclosure, even if the file system is compromised. For example, Windows 11 supports BitLocker encryption to protect the files on the system drive or removable drives.
+  - Backup and recovery: A process of creating and restoring copies of the files and directories in case of data loss or corruption. Backup and recovery can protect the files from accidental or intentional deletion, modification, or damage. For example, Windows 11 supports File History to automatically back up the files in the user's libraries, desktop, favorites, and contacts folders.
+  - Antivirus and anti-malware software: A program that scans, detects, and removes malicious software from the system. Antivirus and anti-malware software can protect the files from infection, corruption, or deletion by viruses, worms, trojan horses, or other malware. For example, Windows 11 includes Windows Defender Antivirus and Windows Defender Firewall to protect the system from online threats.

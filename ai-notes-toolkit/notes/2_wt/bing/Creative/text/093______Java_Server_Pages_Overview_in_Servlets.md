@@ -1,0 +1,21 @@
+#### Java Server Pages Overview in Servlets
+
+- Java Server Pages (JSP) are a technology that allows web developers to create dynamic web pages using HTML, XML, or other document types.
+- JSP are similar to servlets, but they have a simpler syntax and can embed Java code directly into the web page.
+- JSP are compiled into servlets by a JSP engine, which is part of a web server or a web container.
+- JSP have access to the same objects and methods as servlets, such as request, response, session, application, out, etc.
+- JSP can also use custom tags, which are reusable components that encapsulate Java code or other JSP elements.
+- JSP have a life cycle that consists of the following phases:
+  - Translation: The JSP engine translates the JSP page into a servlet class.
+  - Compilation: The JSP engine compiles the servlet class into a bytecode file.
+  - Loading: The web container loads the servlet class into memory.
+  - Initialization: The web container invokes the init() method of the servlet class.
+  - Execution: The web container invokes the service() method of the servlet class for each request.
+  - Destruction: The web container invokes the destroy() method of the servlet class when it is no longer needed.
+- JSP can be divided into two types: scriptlet and expression.
+  - Scriptlet: A scriptlet is a block of Java code that is executed by the JSP engine. It can contain any valid Java statements, such as variable declarations, assignments, loops, conditionals, etc. A scriptlet is enclosed by <% and %> tags.
+  - Expression: An expression is a Java expression that is evaluated by the JSP engine and the result is inserted into the output stream. It can contain any valid Java expression, such as literals, operators, method calls, etc. An expression is enclosed by <%= and %> tags.
+- JSP can also include directives, comments, and declarations.
+  - Directive: A directive is an instruction to the JSP engine that affects the behavior of the JSP page. It can specify the page attributes, the import statements, the tag libraries, etc. A directive is enclosed by <%@ and %> tags.
+  - Comment: A comment is a remark that is ignored by the JSP engine. It can be used to document the JSP page or to hide some code from the JSP engine. A comment is enclosed by <%-- and --%> tags.
+  - Declaration: A declaration is a block of Java code that is executed only once when the JSP page is translated into a servlet. It can contain variable or method declarations that are accessible throughout the JSP page. A declaration is enclosed by <%! and %> tags.

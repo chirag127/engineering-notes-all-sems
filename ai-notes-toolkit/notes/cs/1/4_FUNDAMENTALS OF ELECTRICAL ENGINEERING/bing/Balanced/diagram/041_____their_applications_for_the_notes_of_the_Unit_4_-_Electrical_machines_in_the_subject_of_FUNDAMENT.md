@@ -1,0 +1,13 @@
+### Applications of Electrical Machines
+
+Electrical machines are devices that convert electrical energy into mechanical energy or vice versa. They are classified into two main categories: rotating and static. Rotating electrical machines include motors and generators, while static electrical machines include transformers and rectifiers.
+
+Some of the applications of electrical machines are:
+
+- **DC machines**: These are machines that operate on direct current (DC) and have commutators and brushes to switch the direction of current in the armature. They are mainly used for supplying excitation of small and medium-range alternators, in electrolytic processes, welding processes, and variable speed motor drives . DC machines can also be used as DC motors or DC generators, depending on the direction of power flow.
+- **AC machines**: These are machines that operate on alternating current (AC) and have no commutators or brushes. They are further divided into synchronous and induction machines.
+  - **Synchronous machines**: These are machines that operate at a constant speed and have a fixed relationship between the frequency of the AC supply and the number of poles in the machine. They can be used as synchronous motors or synchronous generators, depending on the direction of power flow. Synchronous machines are used for high-power applications, such as power generation, power transmission, and industrial drives.
+  - **Induction machines**: These are machines that operate at a variable speed and have no direct electrical connection between the stator and the rotor. They can be used as induction motors or induction generators, depending on the direction of power flow. Induction machines are the most widely used type of electric motors, as they are simple, robust, and cheap. They are used for various applications, such as industrial fans, blowers, pumps, machine tools, household appliances, power tools, and disk drives.
+- **Static machines**: These are machines that do not have any moving parts and are used for transforming electrical energy from one form to another. They include transformers and rectifiers.
+  - **Transformers**: These are devices that use electromagnetic induction to change the voltage and current levels of an AC supply. They are used for various purposes, such as power transmission, power distribution, isolation, impedance matching, and voltage regulation.
+  - **Rectifiers**: These are devices that convert AC into DC by using diodes or other semiconductor devices. They are used for various purposes, such as power supply, battery charging, DC motor control, and signal processing.

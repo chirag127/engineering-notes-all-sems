@@ -1,0 +1,11 @@
+### Physical models for data compression
+
+Physical models are mathematical representations of the source data that capture the essential features and statistics of the data. They are used to design efficient compression algorithms that exploit the regularities and redundancies of the data. Some of the common physical models for data compression are:
+
+- **Uniform model**: This model assumes that all the symbols in the source data are equally likely to occur. This model is suitable for data that is random or has no structure, such as encrypted data or white noise. The uniform model can be used to calculate the entropy of the source data, which is the lower bound on the compression ratio.
+
+- **Markov model**: This model assumes that the probability of the next symbol in the source data depends only on the previous k symbols, where k is a fixed parameter. This model is useful for data that has some temporal or spatial correlation, such as text, speech, or images. The Markov model can be used to estimate the conditional entropy of the source data, which is the average number of bits needed to encode each symbol given the previous k symbols.
+
+- **Dictionary model**: This model assumes that the source data can be decomposed into a sequence of words, where each word is a substring of the data that has some meaning or significance. This model is effective for data that has some repetition or common patterns, such as natural language, DNA sequences, or executable files. The dictionary model can be used to construct a codebook that maps each word to a unique codeword, and then encode the source data by replacing each word with its corresponding codeword.
+
+- **Transform model**: This model assumes that the source data can be transformed into a different domain, where the data is more compact or sparse. This model is applicable for data that has some frequency or spectral characteristics, such as audio, video, or images. The transform model can be used to apply a linear or nonlinear transformation to the source data, such as the discrete Fourier transform (DFT), the discrete cosine transform (DCT), or the wavelet transform, and then encode the transformed coefficients using a suitable coding scheme.

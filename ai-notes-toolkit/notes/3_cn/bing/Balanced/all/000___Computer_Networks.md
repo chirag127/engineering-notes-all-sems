@@ -1,0 +1,26 @@
+# Computer Networks
+
+- A computer network is a set of computers sharing resources located on or provided by network nodes. The computers use common communication protocols over digital interconnections to communicate with each other.
+- A computer network extends interpersonal communications by electronic means with various technologies, such as email, instant messaging, online chat, voice and video telephone calls, and video conferencing. A network allows sharing of network and computing resources.
+- A computer network comprises two or more computers that are connected—either by cables (wired) or WiFi (wireless)—with the purpose of transmitting, exchanging, or sharing data and resources.
+- There are different types of computer networks based on the size, scope, and purpose of the network, such as:
+  - Local-area network (LAN): A LAN is a collection of connected devices in one physical location, such as a home or an office. A LAN can be small or large, depending on the number of devices and the distance between them. A LAN can be connected to other LANs or to a wide-area network (WAN) through a router.
+  - Wide-area network (WAN): A WAN is a collection of connected devices that span a large geographical area, such as a country or a continent. A WAN can be composed of multiple LANs or other smaller networks. A WAN can be connected to other WANs or to the Internet through a gateway.
+  - Enterprise network: An enterprise network is a large and complex network that connects multiple LANs and WANs within an organization. An enterprise network can have thousands of devices and multiple layers of switches and routers. An enterprise network can provide various services and applications to the users, such as email, web, database, file sharing, etc.
+  - Service-provider network: A service-provider network is a network that provides services to other networks or end users, such as Internet service providers (ISPs), telecommunication companies, cloud providers, etc. A service-provider network can have millions of devices and multiple levels of hierarchy and redundancy. A service-provider network can use various technologies and protocols to deliver the services, such as optical fiber, wireless, satellite, etc.
+- Some of the benefits of computer networks are:
+  - They enable data and resource sharing among different devices and users, which can improve efficiency and productivity.
+  - They facilitate communication and collaboration among different people and groups, which can enhance social and professional interactions.
+  - They provide access to a wide range of information and services, which can increase knowledge and opportunities.
+  - They support distributed and parallel computing, which can improve performance and reliability.
+- Some of the challenges of computer networks are:
+  - They require proper design, installation, maintenance, and security, which can be costly and complex.
+  - They are vulnerable to various threats and attacks, such as malware, hackers, denial-of-service, etc., which can compromise the confidentiality, integrity, and availability of the network and its data.
+  - They are subject to various constraints and limitations, such as bandwidth, latency, congestion, etc., which can affect the quality and speed of the network and its services.
+- Some of the basic concepts and components of computer networks are:
+  - Network topology: The physical or logical arrangement of the devices and links in a network. There are different types of network topologies, such as star, bus, ring, mesh, tree, etc., each with its own advantages and disadvantages.
+  - Network protocol: The set of rules and conventions that govern the communication and cooperation among the devices and nodes in a network. There are different types of network protocols, such as TCP/IP, Ethernet, Wi-Fi, HTTP, FTP, etc., each with its own functions and features.
+  - Network device: The hardware or software component that performs a specific function or role in a network. There are different types of network devices, such as host, switch, router, gateway, firewall, etc., each with its own capabilities and limitations.
+  - Network service: The application or function that provides a specific benefit or functionality to the users or devices in a network. There are different types of network services, such as DNS, DHCP, VPN, NAT, etc., each with its own purpose and mechanism.
+- A possible mnemonic to remember the types of network topologies is: **S**tars **B**urn **R**apidly **M**aking **T**iny **H**oles (Star, Bus, Ring, Mesh, Tree, Hybrid).
+- A possible mnemonic to remember the layers of the TCP/IP protocol stack is: **A

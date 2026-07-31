@@ -1,0 +1,10 @@
+# Voltage and Current Sources
+
+- Voltage sources and current sources are both devices that convert other forms of energy into electrical energy and supply it to a circuit .
+- Voltage sources provide a constant voltage across their terminals, regardless of the current drawn by the load  . Examples of voltage sources are batteries, generators, solar cells, etc.
+- Current sources provide a constant current through their terminals, regardless of the voltage across the load  . Examples of current sources are photodiodes, transistors, current mirrors, etc.
+- Ideal voltage sources and ideal current sources are theoretical concepts that have no internal resistance or impedance. They can supply infinite power to the load and maintain their voltage or current values under any condition.
+- Practical voltage sources and practical current sources have some internal resistance or impedance that limits their power output and causes their voltage or current values to vary with the load.
+- Voltage sources and current sources can be classified as independent or dependent. Independent sources have fixed voltage or current values that do not depend on any other variable in the circuit. Dependent sources have voltage or current values that are controlled by another variable in the circuit, such as voltage, current, resistance, etc.
+- The sign convention for voltage sources and current sources is to label the positive terminal with a plus sign (+) and the negative terminal with a minus sign (-) . The current direction is indicated by an arrow pointing out of the positive terminal and into the negative terminal . The voltage polarity is indicated by a plus sign (+) above the positive terminal and a minus sign (-) below the negative terminal .
+- The voltage across a voltage source is equal to the product of the current through the source and the internal resistance of the source. The current through a current source is equal to the quotient of the voltage across the source and the internal resistance of the source.

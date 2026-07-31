@@ -1,0 +1,21 @@
+### Frequent Pattern Based Clustering Methods
+
+- Frequent pattern mining is a technique that finds patterns (such as sets of items or objects) that occur frequently in large data sets.
+- Frequent pattern mining can be applied to clustering, resulting in frequent pattern–based cluster analysis.
+- Frequent pattern–based cluster analysis is well suited to high-dimensional data, where traditional clustering methods may suffer from the curse of dimensionality.
+- Frequent pattern–based cluster analysis can be viewed as an extension of the dimension-growth subspace clustering approach, which finds clusters in different subsets of dimensions.
+- However, in frequent pattern–based cluster analysis, the boundaries of different dimensions are not obvious, since they are represented by sets of frequent itemsets.
+- An itemset is a collection of one or more items, such as words, products, or genes.
+- A frequent itemset is an itemset that satisfies a minimum frequency threshold in the data set.
+- Frequent pattern–based cluster analysis can be applied to different types of data, such as transactional data, sequential data, or textual data.
+- For example, in frequent term–based text clustering, text documents are clustered based on the frequent terms they contain.
+- A term is any sequence of characters separated from other terms by a delimiter, such as a space or a punctuation mark.
+- A term can be made up of a single word or several words, such as a phrase or a concept.
+- Frequent pattern–based cluster analysis can use different algorithms to find frequent itemsets and clusters, such as pattern-growth methods or Apriori algorithm .
+- Pattern-growth methods use a “divide-and-conquer” strategy to recursively grow frequent itemsets from smaller ones.
+- Apriori algorithm uses a “bottom-up” approach to identify frequent itemsets and then generates association rules from those itemsets.
+- Association rules are rules that express the co-occurrence of items in the data set, such as “if A, then B”.
+- Frequent pattern–based cluster analysis can also use different measures to evaluate the quality of clusters, such as cohesion, separation, or silhouette coefficient.
+- Cohesion measures how closely related the objects in a cluster are.
+- Separation measures how distinct the clusters are from each other.
+- Silhouette coefficient combines both cohesion and separation to measure how well an object fits in its assigned cluster.

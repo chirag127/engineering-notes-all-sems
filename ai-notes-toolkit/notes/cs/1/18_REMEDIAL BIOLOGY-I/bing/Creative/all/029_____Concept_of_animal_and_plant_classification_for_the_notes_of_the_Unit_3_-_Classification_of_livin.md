@@ -1,0 +1,26 @@
+# Concept of animal and plant classification
+
+- Biological classification is the scientific process of grouping living organisms into categories based on their similarities and differences.
+- Classification helps to organize the diversity of life and to understand the evolutionary relationships among different groups of organisms.
+- The most widely used system of classification is the Linnaean taxonomy, which was developed by the Swedish naturalist Carl Linnaeus in the 18th century.
+- Linnaeus classified all living organisms into two kingdoms – Plantae (plants) and Animalia (animals) – based on their morphology and anatomy.
+- He also introduced the binomial system of nomenclature, which assigns a two-part scientific name to each species, consisting of the genus name and the species name.
+- For example, the scientific name of human is Homo sapiens, where Homo is the genus and sapiens is the species.
+- Linnaeus also divided each kingdom into smaller groups called classes, orders, families, genera and species, based on more specific characteristics.
+- For example, the class Mammalia (mammals) is divided into orders such as Primates, Carnivora, Rodentia, etc., and each order is further divided into families, genera and species.
+- The Linnaean system of classification is hierarchical, meaning that each group is nested within a larger group, and each group includes all the groups below it.
+- The Linnaean system of classification is also based on the principle of homology, meaning that organisms that share similar structures are more closely related than those that do not.
+- For example, the forelimbs of humans, bats, whales and horses are homologous, meaning that they have the same basic structure and origin, but different functions and adaptations.
+- However, the Linnaean system of classification has some limitations, such as:
+  - It does not account for the diversity of microorganisms, such as bacteria, archaea, protists and fungi, which are very different from plants and animals in their structure, function and evolution.
+  - It does not reflect the evolutionary history and genetic relationships of organisms, which are better revealed by molecular and biochemical evidence.
+  - It does not accommodate the cases of convergent evolution, where unrelated organisms evolve similar features due to similar environmental pressures.
+  - For example, the wings of birds, bats and insects are analogous, meaning that they have different structures and origins, but similar functions and adaptations.
+- Therefore, in the 20th century, several alternative systems of classification were proposed, such as the phylogenetic system, the cladistic system and the phenetic system, which use different criteria and methods to group organisms.
+- One of the most influential systems of classification was the five kingdom system, which was proposed by the American biologist Robert Whittaker in 1969.
+- Whittaker classified all living organisms into five kingdoms – Monera, Protista, Fungi, Plantae and Animalia – based on their cell structure, mode of nutrition and level of organization.
+- The five kingdoms are briefly described as follows:
+  - Monera: This kingdom includes all the prokaryotic organisms, such as bacteria and archaea, which lack a true nucleus and membrane-bound organelles. They are unicellular and have diverse modes of nutrition, such as photosynthesis, chemosynthesis, parasitism, saprotrophism, etc. They reproduce mainly by binary fission or budding.
+  - Protista: This kingdom includes all the eukaryotic organisms that are not plants, animals or fungi, such as protozoa, algae, slime molds, etc. They have a true nucleus and membrane-bound organelles. They are mostly unicellular, but some are colonial or multicellular. They have diverse modes of nutrition, such as photosynthesis, heterotrophy, mixotrophy, etc. They reproduce mainly by asexual methods, such as binary fission, multiple fission, spore formation, etc., but some also reproduce sexually by conjugation, syngamy, etc.
+  - Fungi: This kingdom includes all the eukaryotic organisms that are heterotrophic and absorb their food from the environment, such as mushrooms, molds, yeasts, etc. They have a true nucleus and membrane-bound organelles. They are mostly multicellular, but some are unicellular. They have a cell wall made of chitin. They reproduce mainly by asexual methods, such as fragmentation, budding, spore formation, etc., but some also reproduce sexually by plasmogamy, karyogamy, meiosis, etc.
+  - Plantae: This kingdom includes all the eukary

@@ -1,0 +1,7 @@
+# Sequencing and Scheduling in SPM
+
+- SPM stands for Software Project Management, which is the discipline of planning, organizing, and managing software projects.
+- Sequencing and scheduling are two important techniques that are used to organize and coordinate the activities of a software project.
+- Sequencing is the process of determining the order of tasks to be done in a chain, based on their dependencies, priorities, and constraints. Sequencing helps to identify the critical path, which is the longest sequence of tasks that determines the minimum duration of the project.
+- Scheduling is the process of assigning resources, such as people, equipment, and budget, to the tasks and determining the start and end dates of each task. Scheduling helps to optimize the use of resources, reduce the risk of delays, and monitor the progress of the project.
+- Sequencing and scheduling can be done using various tools and methods, such as Gantt charts, network diagrams, critical path method, PERT, resource leveling, and crashing. These tools and methods help to visualize the project structure, analyze the project duration and cost, and adjust the project plan according to the changes and uncertainties.

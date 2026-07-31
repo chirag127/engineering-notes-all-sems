@@ -1,0 +1,12 @@
+#### Design of HDFS
+
+HDFS stands for Hadoop Distributed File System. It is a distributed file system that is designed to store very large files (typically in the range of gigabytes to terabytes) across multiple nodes in a cluster. HDFS provides high throughput, fault tolerance, scalability, and data locality for big data applications.
+
+Some of the key design features of HDFS are:
+
+- **Block-based storage**: HDFS divides each file into fixed-size blocks (default size is 128 MB) and stores them independently on different nodes. This reduces the network overhead and increases the parallelism of data access.
+- **Master-slave architecture**: HDFS consists of two types of nodes: a single NameNode (master) and multiple DataNodes (slaves). The NameNode manages the namespace and the metadata of the file system, such as the file names, directories, permissions, and locations of the blocks. The DataNodes store the actual data blocks and serve read and write requests from the clients.
+- **Replication**: HDFS replicates each block across multiple DataNodes (default replication factor is 3) to ensure data availability and reliability in case of node failures. The NameNode determines the placement of the replicas based on the rack awareness policy, which tries to minimize the network bandwidth consumption and the impact of rack failures.
+- **Write-once, read-many**: HDFS follows a write-once, read-many model, which means that a file can be written only once and then appended, but not modified. This simplifies the data consistency and concurrency issues, and enables high-performance streaming data access.
+- **Client-side caching**: HDFS provides a client-side caching mechanism, which allows the clients to cache frequently accessed data blocks in memory. This reduces the network traffic and improves the read performance.
+- **Data locality optimization**: HDFS supports the concept of data locality, which means that the computation is moved to the data, rather than the other way around. This reduces the network congestion and improves the performance of data-intensive applications, such as MapReduce. HDFS provides APIs for the applications to query the locations of the data blocks and schedule the tasks accordingly.

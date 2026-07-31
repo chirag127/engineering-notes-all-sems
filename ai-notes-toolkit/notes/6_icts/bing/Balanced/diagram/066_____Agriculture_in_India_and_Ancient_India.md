@@ -1,0 +1,11 @@
+### Agriculture in India and Ancient India
+
+Agriculture is the cultivation of plants and animals for food, fiber, fuel, and other purposes. Agriculture is one of the oldest and most important human activities, and India has a long and rich history of agricultural development.
+
+Some of the main points about agriculture in India and ancient India are:
+
+- **Ancient Indian agriculture** began as early as 9000 BCE in the Indus Valley Civilization, where people cultivated wheat, barley, peas, lentils, cotton, and other crops. They also domesticated animals such as cattle, sheep, goats, and dogs. They used irrigation, ploughs, and granaries to store their surplus produce  .
+- **Ancient South Indian agriculture** was also advanced and diverse, with the Tamil people growing rice, sugarcane, millets, black pepper, coconuts, beans, cotton, plantain, tamarind, sandalwood, and other crops. They also had trade contacts with other regions and countries, such as Rome, China, and Southeast Asia.
+- **The Ganges River valley** became another important agricultural region after about 1500 BCE, with the emergence of the Vedic culture and later the Mauryan and Gupta empires. The people of this region cultivated rice, wheat, barley, millets, pulses, oilseeds, fruits, vegetables, spices, and flowers. They also developed systems of irrigation, drainage, fertilization, crop rotation, and animal husbandry.
+- **The Mughal period** (c. 1526-1857 CE) saw further expansion and improvement of agriculture in India, with the introduction of new crops and techniques from Central Asia, Persia, and Europe. Some of the crops that were brought to India during this period include maize, potatoes, tomatoes, chilies, tobacco, coffee, tea, and cotton. The Mughals also promoted land reforms, tax policies, and agricultural infrastructure, such as canals, wells, and roads.
+- **Modern Indian agriculture** is the result of centuries of evolution and innovation, as well as the influence of colonialism, independence, and globalization. India is one of the largest and most diverse agricultural producers in the world, with a wide range of crops, livestock, fisheries, and forestry. India is also the world's largest consumer of food, and faces many challenges and opportunities in ensuring food security, sustainability, and development for its population.

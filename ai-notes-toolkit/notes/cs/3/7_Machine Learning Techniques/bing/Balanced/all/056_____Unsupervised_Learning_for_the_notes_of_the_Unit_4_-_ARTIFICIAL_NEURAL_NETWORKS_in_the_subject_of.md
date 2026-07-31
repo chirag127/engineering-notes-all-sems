@@ -1,0 +1,9 @@
+# Unsupervised Learning
+
+- Unsupervised learning is a type of machine learning that analyzes and clusters unlabeled data sets.
+- Unsupervised learning algorithms discover hidden patterns or data groupings without the need for human intervention or supervision.
+- Unsupervised learning can be used for tasks such as anomaly detection, dimensionality reduction, data compression, data visualization, and generative modeling.
+- Unsupervised learning can be divided into two main categories: clustering and association.
+  - Clustering is the process of grouping similar data points together based on some measure of similarity or distance. Clustering can help reveal the structure and distribution of the data, as well as identify outliers or anomalies. Some examples of clustering algorithms are k-means, hierarchical clustering, and DBSCAN.
+  - Association is the process of finding rules or patterns that describe the relationships or dependencies among the data items. Association can help discover interesting or useful knowledge from the data, such as frequent itemsets, association rules, or sequential patterns. Some examples of association algorithms are Apriori, FP-growth, and Eclat.
+- Unsupervised learning can be challenging because it requires a good understanding of the data and the problem domain, as well as appropriate evaluation metrics and criteria. Unsupervised learning can also suffer from the curse of dimensionality, which means that as the number of features or dimensions increases, the data becomes sparse and noisy, and the algorithms become computationally expensive and less effective.

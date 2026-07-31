@@ -1,0 +1,38 @@
+### Commit Protocols
+
+- Commit protocols are used to ensure the atomicity and durability of transactions in distributed systems.
+- A transaction is a sequence of operations that must be executed as a unit, either completely or not at all.
+- A commit protocol coordinates the actions of multiple processes that participate in a transaction, and decides whether to commit or abort the transaction.
+- A commit protocol typically involves two phases: a prepare phase and a commit phase.
+- In the prepare phase, each participant process votes to either commit or abort the transaction, based on its local state and the outcome of its operations.
+- In the commit phase, a coordinator process collects the votes from the participants and decides the final outcome of the transaction, either commit or abort.
+- The coordinator then informs the participants of the final outcome, and the participants either make their changes permanent or undo them, depending on the outcome.
+- A commit protocol must satisfy the following properties:
+  - Agreement: All participants agree on the same outcome of the transaction.
+  - Validity: The outcome of the transaction is commit only if all participants voted to commit.
+  - Termination: All participants eventually decide the outcome of the transaction.
+  - Integrity: A transaction is executed at most once.
+- There are different types of commit protocols, such as two-phase commit (2PC), three-phase commit (3PC), and consensus-based commit (CBC).
+- Two-phase commit (2PC) is the simplest and most widely used commit protocol. It involves two phases: a prepare phase and a commit phase.
+  - In the prepare phase, the coordinator sends a prepare message to all participants, asking them to vote on the transaction.
+  - Each participant replies with a yes or no vote, depending on its local state and the outcome of its operations.
+  - If the coordinator receives a yes vote from all participants, it decides to commit the transaction and sends a commit message to all participants.
+  - If the coordinator receives a no vote from any participant, or does not receive a reply from some participant within a timeout, it decides to abort the transaction and sends an abort message to all participants.
+  - In the commit phase, each participant receives the final outcome from the coordinator and either commits or aborts the transaction accordingly.
+  - If a participant does not receive the final outcome from the coordinator within a timeout, it enters a blocked state and waits for the outcome from another participant or the coordinator.
+- Two-phase commit (2PC) guarantees the agreement, validity, termination, and integrity properties, but it has some drawbacks, such as:
+  - Blocking: If the coordinator or some participant fails or becomes unreachable, the protocol may block and prevent the completion of the transaction.
+  - Single point of failure: The coordinator is a single point of failure, as it has the final authority to decide the outcome of the transaction.
+  - High latency: The protocol requires two rounds of message exchange between the coordinator and the participants, which increases the latency of the transaction.
+  - High overhead: The protocol requires the coordinator and the participants to maintain persistent logs of their states and actions, which increases the overhead of the transaction.
+- Three-phase commit (3PC) is an extension of two-phase commit (2PC) that aims to overcome the blocking problem. It involves three phases: a prepare phase, a pre-commit phase, and a commit phase.
+  - In the prepare phase, the coordinator sends a prepare message to all participants, asking them to vote on the transaction.
+  - Each participant replies with a yes or no vote, depending on its local state and the outcome of its operations.
+  - If the coordinator receives a yes vote from all participants, it decides to pre-commit the transaction and sends a pre-commit message to all participants.
+  - If the coordinator receives a no vote from any participant, or does not receive a reply from some participant within a timeout, it decides to abort the transaction and sends an abort message to all participants.
+  - In the pre-commit phase, each participant receives the pre-commit or abort outcome from the coordinator and either prepares to commit or aborts the transaction accordingly.
+  - If a participant receives a pre-commit outcome, it sends an acknowledgement message to the coordinator and waits for the final commit outcome.
+  - If a participant does not receive the pre-commit or abort outcome from the coordinator within a timeout, it enters a blocked state and waits for the outcome from another participant or the coordinator.
+  - In the commit phase, the coordinator receives the acknowledgement messages from all participants and decides to commit the transaction and sends a commit message to all participants.
+  - Each participant receives the final commit outcome from the coordinator and commits the transaction accordingly.
+- Three-phase commit (3PC) guarantees the agreement, validity, termination, and integrity properties, but it has some drawbacks, such as:

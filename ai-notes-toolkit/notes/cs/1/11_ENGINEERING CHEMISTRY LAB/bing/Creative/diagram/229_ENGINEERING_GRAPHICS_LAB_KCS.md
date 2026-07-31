@@ -1,0 +1,29 @@
+# Engineering Graphics Lab KCS
+
+- Engineering graphics is the discipline of creating and interpreting graphical representations of engineering objects, such as mechanical parts, structures, circuits, etc.
+- Engineering graphics lab is a practical course that teaches students the skills and techniques of engineering drawing, using both free hand sketching and computer-aided design (CAD) software.
+- The objectives of engineering graphics lab are:
+  - To familiarize students with the principles and standards of engineering graphics, such as projection methods, line types, dimensioning, scaling, etc.
+  - To develop students' ability to visualize and sketch engineering objects in different views and perspectives, such as orthographic, isometric, oblique, etc.
+  - To introduce students to the use of CAD software, such as AutoCAD, for creating and editing engineering drawings, using various commands, tools, and features.
+  - To enhance students' understanding of engineering concepts and applications, such as geometric constructions, curves, solids, sections, development, etc.
+- The syllabus of engineering graphics lab may vary depending on the institution and the curriculum, but some common topics are:
+  - Introduction to engineering graphics and CAD software
+  - Basic geometric constructions and classical geometry
+  - Orthographic projection and multiview drawing
+  - Dimensioning and tolerancing
+  - Isometric projection and isometric drawing
+  - Oblique projection and oblique drawing
+  - Perspective projection and perspective drawing
+  - Curves and surfaces
+  - Solids and solids of revolution
+  - Sectional views and sectioning
+  - Development of surfaces and intersection of solids
+  - Assembly and disassembly drawing
+  - Working drawing and blueprint reading
+- The evaluation of engineering graphics lab may be based on the following criteria:
+  - Attendance and participation in the lab sessions
+  - Performance and accuracy of the sketches and drawings
+  - Quality and neatness of the drawings
+  - Submission and presentation of the drawings and reports
+  - Viva-voce and oral examination

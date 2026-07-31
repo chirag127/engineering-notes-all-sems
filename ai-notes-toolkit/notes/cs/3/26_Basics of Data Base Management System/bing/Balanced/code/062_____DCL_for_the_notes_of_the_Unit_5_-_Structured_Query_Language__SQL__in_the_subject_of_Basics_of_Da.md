@@ -1,0 +1,8 @@
+### DCL
+
+- Data Control Language (DCL) is a sublanguage of SQL that deals with the commands used to control the access and privileges of users on the database  .
+- DCL is used for enforcing data security and ensuring that only authorized users can perform certain operations on the database .
+- The main DCL commands in SQL are:
+  - **GRANT**: This command is used to grant (give access to) security privileges to specific database users or roles  . It can be used to restrict or allow user access to INSERT, DELETE, SELECT, UPDATE, EXECUTE, ALTER or other operations on the database objects . For example, `GRANT SELECT ON employees TO user1;` grants the privilege to select data from the employees table to user1.
+  - **REVOKE**: This command is used to revoke (take away) security privileges from specific database users or roles  . It can be used to remove or reduce user access to the database objects or operations . For example, `REVOKE SELECT ON employees FROM user1;` revokes the privilege to select data from the employees table from user1.
+  - **DENY**: This command is used to deny (block) security privileges to specific database users or roles. It can be used to override the privileges granted by the GRANT command or inherited from the role membership. For example, `DENY SELECT ON employees TO user1;` denies the privilege to select data from the employees table to user1, even if user1 has been granted the SELECT privilege by another command or role.

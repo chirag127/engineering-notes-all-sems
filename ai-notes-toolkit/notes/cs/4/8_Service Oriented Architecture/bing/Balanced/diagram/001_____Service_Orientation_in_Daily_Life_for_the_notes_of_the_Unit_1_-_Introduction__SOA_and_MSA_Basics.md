@@ -1,0 +1,13 @@
+### Service Orientation in Daily Life
+
+Service orientation is the ability and desire to anticipate, recognize and meet others' needs, sometimes even before those needs are articulated. It is also the recognition and fulfillment of one's responsibilities to society, locally, nationally, and globally. Service orientation is an important workplace skill and a component of social awareness.
+
+Some examples of service orientation in daily life are:
+
+- Checking in with your people: A phone call or a short text message to check in with the folks in your life is a simple way to let them know they’re important to you. It also gives you an opportunity to offer help or support if they are going through a difficult time.
+- If you’ve got it, give it: If you have extra resources, such as money, food, clothes, or time, you can share them with others who are in need. You can donate to a charity, a food bank, a homeless shelter, or a local community organization. You can also offer your skills or talents to help others, such as tutoring, mentoring, or coaching.
+- Volunteer at a local organization: You can find a cause that you are passionate about and volunteer your time and energy to make a difference. You can join a group that works on environmental issues, social justice, education, health, or any other area that interests you. You can also look for opportunities to serve in your neighborhood, such as cleaning up a park, planting a garden, or helping out at a school.
+- Do what you’re doing, but better: You can improve your service orientation by being more attentive, courteous, and respectful in your everyday interactions. You can listen actively, communicate clearly, and provide feedback. You can also go the extra mile to exceed expectations and deliver quality results. You can show appreciation and gratitude to others for their service .
+- Take responsibility for your impact: You can be more aware of how your actions affect others and the environment. You can reduce your waste, conserve energy, recycle, and use public transportation. You can also be more mindful of your words and behaviors, and avoid hurting or offending others. You can also apologize and make amends when you make a mistake .
+
+Service orientation is a valuable skill that can enhance your personal and professional life. It can help you build positive relationships, increase your satisfaction, and contribute to the common good.

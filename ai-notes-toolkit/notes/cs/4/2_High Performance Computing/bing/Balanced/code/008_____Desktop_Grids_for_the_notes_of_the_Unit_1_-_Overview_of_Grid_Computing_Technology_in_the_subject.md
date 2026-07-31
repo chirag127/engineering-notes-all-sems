@@ -1,0 +1,21 @@
+### Desktop Grids
+
+- Desktop grids are a type of distributed computing environment that make use of desktop computers connected via the Internet.
+- Desktop grids are not used only for voluntary computing projects, but also for enterprise grids, where the desktop computers belong to a single organization and are connected via a non-dedicated network.
+- Desktop grids can provide a large amount of computing power and storage capacity by harnessing the idle resources of desktop computers, which are often underutilized.
+- Desktop grids can be classified into two categories: public desktop grids and private desktop grids.
+  - Public desktop grids are open to anyone who wants to participate and contribute their computing resources to a common goal, such as scientific research, humanitarian causes, or entertainment. Examples of public desktop grids are BOINC, Folding@home, and SETI@home.
+  - Private desktop grids are restricted to a specific group of users or a single organization, and are often used for internal applications, such as data analysis, simulation, or testing. Examples of private desktop grids are Condor, XtremWeb, and OurGrid.
+- Desktop grids face several challenges, such as security, reliability, heterogeneity, scalability, and fault tolerance.
+  - Security: Desktop grids need to protect the privacy and integrity of the data and the code that are exchanged between the participants, as well as prevent malicious attacks or sabotage from outsiders or insiders.
+  - Reliability: Desktop grids need to ensure the correctness and completeness of the results that are returned by the participants, as well as handle the dynamic and unpredictable availability of the resources.
+  - Heterogeneity: Desktop grids need to cope with the diversity of the hardware, software, and network characteristics of the participants, as well as the variability of their performance and workload.
+  - Scalability: Desktop grids need to support a large number of participants and tasks, as well as adapt to the changes in the demand and supply of the resources.
+  - Fault tolerance: Desktop grids need to recover from the failures or errors that may occur during the execution of the tasks, such as network disconnections, power outages, or crashes.
+- Desktop grids can benefit from the use of grids in interface designs, which are made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.
+  - Grids can improve the readability and scannability of the interface, as well as the navigation and usability of the application.
+  - Grids can also help to create a consistent and harmonious visual appearance, as well as a clear and identifiable design pattern.
+  - Grids can be of three common types: column grid, modular grid, and hierarchical grid.
+    - Column grid: A grid that divides the page into vertical columns of equal or variable width, separated by gutters. Column grids are often used for text-based content, such as articles, blogs, or books.
+    - Modular grid: A grid that divides the page into both vertical and horizontal modules of equal or variable size, creating a matrix of cells. Modular grids are often used for complex or diverse content, such as dashboards, galleries, or calendars.
+    - Hierarchical grid: A grid that is based on the specific needs and hierarchy of the content, rather than on a predefined structure. Hierarchical grids are often used for flexible or creative content, such as portfolios, magazines, or posters.

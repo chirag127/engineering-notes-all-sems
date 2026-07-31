@@ -1,0 +1,13 @@
+### Controlling Concurrent Accesses to Data Objects
+
+In real-time systems, multiple tasks may require access to the same data object simultaneously. This can lead to conflicts and inconsistency in the data. Controlling concurrent accesses to data objects is crucial to ensure the correctness and consistency of the system. Here are some techniques for controlling concurrent accesses:
+
+- **Mutual Exclusion (Mutex)**: Mutex is a synchronization technique used to ensure that only one task can access a shared resource at a time. A mutex is associated with a critical section of code, which is the code that accesses the shared resource. A task must acquire the mutex before entering the critical section and release it after completing the critical section. This ensures that only one task can access the shared resource at any time.
+
+- **Semaphore**: A semaphore is a synchronization mechanism that allows a limited number of tasks to access a shared resource simultaneously. A semaphore maintains a count of the number of tasks currently accessing the shared resource. When a task wants to access the shared resource, it must acquire a semaphore. If the semaphore count is zero, the task is blocked until a semaphore is released by another task.
+
+- **Read/Write Locks**: Read/write locks are a synchronization technique used to allow multiple tasks to read a shared resource simultaneously, but only one task can write to the resource at a time. A read/write lock maintains two locks - a read lock and a write lock. Multiple tasks can acquire the read lock simultaneously, but only one task can acquire the write lock at a time. When a task acquires the write lock, all other tasks are blocked from accessing the shared resource.
+
+- **Priority Inversion**: Priority inversion is a phenomenon that can occur in real-time systems when a lower-priority task holds a mutex that a higher-priority task needs to access a shared resource. This can cause a priority inversion, where the higher-priority task is blocked by the lower-priority task. Priority inversion can be prevented by using techniques such as priority inheritance or priority ceiling.
+
+Controlling concurrent accesses to data objects is essential for ensuring the correctness and consistency of real-time systems. By using synchronization techniques such as mutex, semaphore, read/write locks, and preventing priority inversion, we can ensure that data is accessed by tasks in a controlled and consistent manner.

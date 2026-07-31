@@ -1,0 +1,26 @@
+## Unit 2 - Regular Expressions and Languages
+
+- A **regular expression** is a concise way of describing a set of strings that share a common pattern.
+- A **regular language** is a set of strings that can be described by a regular expression.
+- Regular expressions and languages are useful for specifying and recognizing patterns in text, such as identifiers, keywords, numbers, email addresses, etc.
+- Regular expressions and languages can be defined using the following operations:
+  - **Union**: The union of two languages L and M, denoted by L ∪ M, is the set of strings that belong to either L or M, or both.
+  - **Concatenation**: The concatenation of two languages L and M, denoted by LM, is the set of strings that can be obtained by appending a string from M to a string from L.
+  - **Kleene star**: The Kleene star of a language L, denoted by L*, is the set of strings that can be obtained by repeating a string from L zero or more times.
+- Regular expressions can be constructed using the following symbols and rules:
+  - **Empty set**: The symbol ∅ denotes the empty set, which is the language that contains no strings.
+  - **Empty string**: The symbol ε denotes the empty string, which is the language that contains only the string of length zero.
+  - **Literal**: Any symbol other than ∅, ε, (, ), ∪, and * denotes the language that contains only that symbol as a string.
+  - **Parentheses**: Parentheses can be used to group expressions and change the order of precedence of the operations.
+  - **Union**: The symbol ∪ denotes the union operation, which has the lowest precedence among the operations.
+  - **Concatenation**: The absence of a symbol denotes the concatenation operation, which has the second lowest precedence among the operations.
+  - **Kleene star**: The symbol * denotes the Kleene star operation, which has the highest precedence among the operations.
+- Examples of regular expressions and the languages they describe are:
+  - ∅: The empty set.
+  - ε: The language {ε}.
+  - a: The language {a}.
+  - a ∪ b: The language {a, b}.
+  - ab: The language {ab}.
+  - a*: The language {ε, a, aa, aaa, ...}.
+  - (a ∪ b)*: The language of all strings over the alphabet {a, b}.
+  - (a ∪ ε)b*: The language of all strings that start with an optional a and end with zero or more b's.

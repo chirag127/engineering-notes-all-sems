@@ -1,0 +1,11 @@
+## Unit 3 - Link layer
+
+The link layer is the lowest layer in the TCP/IP model. It is responsible for transferring data between adjacent nodes in a network, such as two devices connected by a physical cable or a wireless link. The link layer also provides error detection and correction, flow control, and medium access control.
+
+Some of the main topics covered in this unit are:
+
+- Link layer services: The link layer provides various services to the upper layers, such as framing, addressing, error detection and correction, reliable delivery, flow control, and medium access control. These services are implemented by different protocols and mechanisms depending on the type and characteristics of the underlying physical medium.
+- Error detection and correction: The link layer detects and corrects errors that may occur during the transmission of data over a noisy or unreliable channel. The link layer uses various techniques, such as parity bits, checksums, cyclic redundancy checks (CRCs), and forward error correction (FEC) codes, to detect and correct errors.
+- Multiple access protocols: The link layer coordinates the access of multiple nodes to a shared medium, such as a wireless channel or a bus network. The link layer uses various protocols, such as ALOHA, slotted ALOHA, carrier sense multiple access (CSMA), CSMA with collision detection (CSMA/CD), CSMA with collision avoidance (CSMA/CA), and polling, to avoid or resolve collisions and ensure fair and efficient use of the medium.
+- Switched networks: The link layer connects multiple nodes in a network using switches, which are devices that forward data based on the link layer address of the destination node. The link layer uses various protocols, such as address resolution protocol (ARP), reverse address resolution protocol (RARP), and dynamic host configuration protocol (DHCP), to discover and assign link layer addresses to nodes in a network.
+- Link virtualization: The link layer can create virtual links over existing physical links, such as tunnels, virtual LANs (VLANs), and virtual private networks (VPNs). These virtual links can provide security, isolation, or performance benefits to the upper layers. The link layer uses various protocols, such as point-to-point protocol (PPP), generic routing encapsulation (GRE), and IP security (IPsec), to create and manage virtual links.

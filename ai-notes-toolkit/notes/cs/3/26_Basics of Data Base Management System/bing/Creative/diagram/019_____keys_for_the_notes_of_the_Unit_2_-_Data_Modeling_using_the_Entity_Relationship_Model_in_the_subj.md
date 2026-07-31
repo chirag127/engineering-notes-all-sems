@@ -1,0 +1,29 @@
+### Keys for the notes of the Unit 2 - Data Modeling using the Entity Relationship Model in the subject of Basics of Data Base Management System
+
+- Data modeling is a method for designing and representing complex data systems.
+- Entity Relationship Model (ER Model) is a type of data modeling that uses diagrams to show the structure and relationships of entities in a database .
+- An entity is anything that can be identified and distinguished from other entities in the database, such as a person, a place, an event, or an object.
+- An attribute is a property or characteristic of an entity, such as a name, an age, a color, or a date.
+- A relationship is an association or connection between two or more entities, such as a student enrolls in a course, a customer buys a product, or a manager supervises an employee.
+- An Entity Relationship Diagram (ER Diagram) is a graphical representation of the ER Model, using symbols and notation to show the entities, attributes, and relationships in the database .
+- An ER Diagram can be drawn at three different levels: conceptual, logical, or physical.
+  - A conceptual ER Diagram shows the high-level view of the database, without specifying the details of the attributes or the implementation of the relationships.
+  - A logical ER Diagram shows the detailed view of the database, including the attributes, the data types, the primary keys, the foreign keys, and the constraints of the entities and relationships.
+  - A physical ER Diagram shows the actual implementation of the database, including the tables, columns, indexes, and triggers of the entities and relationships.
+- An ER Diagram consists of the following components :
+  - A rectangle represents an entity, and the name of the entity is written inside the rectangle .
+  - An oval represents an attribute, and the name of the attribute is written inside the oval .
+  - A line connects an entity and an attribute, indicating that the attribute belongs to the entity .
+  - A diamond represents a relationship, and the name of the relationship is written inside the diamond .
+  - A line connects two entities and a relationship, indicating that the entities participate in the relationship .
+  - A cardinality constraint is a notation that specifies the minimum and maximum number of occurrences of an entity in a relationship .
+    - A one-to-one (1:1) cardinality constraint means that each entity in one set can participate in at most one relationship with an entity in another set, and vice versa .
+    - A one-to-many (1:N) cardinality constraint means that each entity in one set can participate in many relationships with entities in another set, but each entity in the other set can participate in at most one relationship with an entity in the first set .
+    - A many-to-many (M:N) cardinality constraint means that each entity in one set can participate in many relationships with entities in another set, and vice versa .
+  - A participation constraint is a notation that specifies whether the participation of an entity in a relationship is mandatory or optional .
+    - A double line indicates that the participation is mandatory, meaning that every entity in the set must participate in at least one relationship .
+    - A single line indicates that the participation is optional, meaning that some entities in the set may not participate in any relationship .
+  - A weak entity is an entity that cannot be uniquely identified by its own attributes, and depends on another entity (called the identifying or strong entity) for its existence .
+    - A double rectangle represents a weak entity, and the name of the weak entity is written inside the double rectangle .
+    - A double diamond represents an identifying relationship, and the name of the identifying relationship is written inside the double diamond .
+    - A dashed line connects a weak entity and an identifying relationship, indicating that the weak entity depends on the identifying relationship for its existence [^5^

@@ -1,0 +1,28 @@
+### Direct Human Input for 3D User Interface Input Hardware
+
+- Direct human input refers to the use of natural human gestures, postures, and movements as input for 3D user interfaces (3D UIs) .
+- Direct human input can provide intuitive and natural interaction with 3D environments, as well as high degrees of freedom (DOF) and accuracy .
+- Direct human input can be achieved by using various types of sensors and devices that capture the user's body motions, such as:
+  - Optical tracking systems: use cameras and markers or LEDs to track the position and orientation of the user or a handheld device .
+  - Inertial tracking systems: use accelerometers and gyroscopes to measure the linear and angular acceleration of the user or a device .
+  - Magnetic tracking systems: use magnetic fields to measure the position and orientation of the user or a device .
+  - Ultrasonic tracking systems: use sound waves to measure the distance and direction of the user or a device .
+  - Mechanical tracking systems: use rigid or flexible links to measure the position and orientation of the user or a device .
+  - Glove-based systems: use sensors embedded in a glove to measure the finger and hand movements of the user .
+  - Gesture recognition systems: use computer vision or machine learning techniques to recognize predefined or user-defined gestures from the user's body motions .
+  - Body-worn systems: use sensors attached to the user's body to measure the whole-body movements of the user .
+- Direct human input can be used for various 3D UI tasks, such as:
+  - Navigation: the user can move through the 3D environment by walking, running, jumping, flying, or using gestures .
+  - Selection: the user can point, touch, or grab objects in the 3D environment by using a handheld device or a finger .
+  - Manipulation: the user can move, rotate, scale, or deform objects in the 3D environment by using a handheld device or a hand .
+  - System control: the user can access menus, options, or commands in the 3D environment by using gestures, voice, or eye gaze .
+  - Symbolic input: the user can enter text, numbers, or symbols in the 3D environment by using gestures, voice, or handwriting .
+- Direct human input has some advantages and disadvantages, such as:
+  - Advantages: 
+    - High naturalness and intuitiveness: the user can interact with the 3D environment in a similar way as in the real world .
+    - High expressiveness and flexibility: the user can perform complex and varied actions with the 3D environment .
+    - High immersion and presence: the user can feel more engaged and involved with the 3D environment .
+  - Disadvantages:
+    - High physical and mental workload: the user may get tired or distracted by the input devices or the gestures .
+    - Low reliability and robustness: the input devices or the gestures may fail or be misinterpreted by the system .
+    - High cost and complexity: the input devices or the gestures may require expensive or sophisticated hardware or software .

@@ -1,0 +1,19 @@
+### Activation function for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+
+- An activation function is a mathematical function that is applied to the output of a neuron or a layer of neurons in a neural network. It determines whether the neuron should be activated or not, based on the input signal.  
+- The activation function also helps to introduce non-linearity into the network, which enables it to learn complex patterns and functions.  
+- The activation function you choose will affect the results and accuracy of your machine learning model. Therefore, you need to be aware of the different kinds of activation functions and their properties and applications.  
+- Some of the widely used activation functions in machine learning are:
+
+  - **Linear**: This is the simplest activation function, which directly outputs the input value. It is also called the identity function. It has the form: `f(x) = x`. It is useful for regression problems, but it cannot capture non-linear relationships.  
+  - **Sigmoid**: This is a smooth and bounded activation function, which outputs a value between 0 and 1. It has the form: `f(x) = 1 / (1 + exp(-x))`. It is useful for binary classification problems, but it suffers from the vanishing gradient problem, which means that the gradient becomes very small for large positive or negative inputs, making the learning slow or ineffective.   
+  - **Tanh**: This is also a smooth and bounded activation function, which outputs a value between -1 and 1. It has the form: `f(x) = (exp(x) - exp(-x)) / (exp(x) + exp(-x))`. It is similar to the sigmoid function, but it is centered around zero, which makes it more symmetric and balanced. It also suffers from the vanishing gradient problem, but less than the sigmoid function.   
+  - **ReLU**: This is a piecewise linear activation function, which outputs zero if the input is negative, and directly outputs the input otherwise. It has the form: `f(x) = max(0, x)`. It is the most popular activation function for hidden layers in deep learning, because it is simple, fast, and sparse. It also helps to overcome the vanishing gradient problem, by having a constant gradient of 1 for positive inputs. However, it suffers from the dying ReLU problem, which means that some neurons can become inactive and stop learning if the input is always negative.   
+  - **Leaky ReLU**: This is a modified version of the ReLU function, which outputs a small positive value instead of zero for negative inputs. It has the form: `f(x) = max(0.01x, x)`. It is useful to prevent the dying ReLU problem, by allowing some gradient flow for negative inputs. However, it introduces a slight non-linearity, which may affect the performance.   
+  - **Softmax**: This is a special activation function, which outputs a probability distribution over a set of classes. It has the form: `f(x_i) = exp(x_i) / sum(exp(x_j))`, where `x_i` is the input for the i-th class, and `x_j` is the input for the j-th class. It is useful for multi-class classification problems, because it ensures that the output sum to one, and that the output for each class is between 0 and 1.   
+
+- The choice of the activation function depends on the type of problem, the type of layer, and the characteristics of the data. Some general guidelines are:
+
+  - For regression problems, use a linear activation function for the output layer, and a ReLU or a leaky ReLU function for the hidden layers. 
+  - For binary classification problems, use a sigmoid activation function for the output layer, and a ReLU or a leaky ReLU function for the hidden layers. 
+  - For multi-class classification problems, use a softmax activation function for the output layer, and a ReLU

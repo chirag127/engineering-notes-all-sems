@@ -1,0 +1,21 @@
+### Storage allocation in block structured language
+
+- A block is a program segment that contains data declarations. There can be nested blocks. Uses dynamic memory allocation.
+- A block structured language is a language that allows the definition of variables and procedures in nested blocks, such as ALGOL, PL/I, Pascal, Ada, etc.
+- The storage allocation for block structured languages can be implemented using a stack and a display.
+- A stack is a data structure that supports push and pop operations. It can be used to allocate and deallocate memory for local variables and parameters in a block.
+- A display is an array of pointers that keeps track of the current activation record of each block level. It can be used to access non-local variables in a block.
+- An activation record is a collection of information associated with a procedure call, such as return address, parameters, local variables, etc.
+- The storage allocation scheme for block structured languages works as follows :
+  - When a procedure is called, a new activation record is created and pushed onto the stack. The display is updated to point to the new activation record.
+  - When a procedure returns, the activation record is popped from the stack and the display is restored to the previous state.
+  - When a variable is accessed, the compiler determines its level and offset in the activation record. The level is used to index the display and get the base address of the activation record. The offset is added to the base address to get the location of the variable.
+  - When a variable is declared, the compiler allocates space for it in the activation record and assigns an offset to it.
+- The advantages of this scheme are:
+  - It supports recursive procedures, as each call creates a new activation record on the stack.
+  - It supports dynamic scoping, as the display can be used to find the most recent binding of a variable.
+  - It supports adjustable arrays, as they can be allocated at the end of the activation record or above the fixed-size data.
+- The disadvantages of this scheme are:
+  - It requires stack space and display updates for each procedure call, which can be costly in terms of time and space.
+  - It requires indirect addressing for non-local variables, which can be slower than direct addressing.
+  - It may waste space for unused variables or parameters, as they are allocated in the activation record regardless of their usage.

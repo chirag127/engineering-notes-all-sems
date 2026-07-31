@@ -1,0 +1,38 @@
+# IOT Water Pollution Monitor RC Boat
+
+- IOT Water Pollution Monitor RC Boat is a project that aims to measure and transmit water quality data to an online server using Internet of Things (IOT) technology.
+- The project consists of a remote-controlled (RC) boat that carries various sensors to detect parameters such as pH, turbidity, temperature, dissolved oxygen, etc. of the water.
+- The sensors are connected to an Arduino microcontroller that processes the data and sends it to a Wi-Fi module that communicates with an IOT server such as ThingSpeak or Blynk.
+- The IOT server stores and displays the data on a web dashboard that can be accessed by anyone with an internet connection.
+- The RC boat can be maneuvered using an RC remote that controls a motorized propeller system that provides the forward and backward motion and a servo motor that provides the steering.
+- The RC boat also has a camera module that streams live video of the water surface to the RC remote or a smartphone app.
+- The project can be used to monitor the water quality of lakes, rivers, ponds, etc. and alert the authorities or the public about any pollution or contamination issues.
+- The project can also be used for educational purposes to teach students about water pollution, IOT, and Arduino programming.
+- The project can be implemented using the following components and steps:
+
+  - Components:
+    - RC boat chassis
+    - Arduino Uno board
+    - Wi-Fi module (ESP8266 or ESP32)
+    - pH sensor
+    - Turbidity sensor
+    - Temperature sensor
+    - Dissolved oxygen sensor
+    - Camera module
+    - RC remote
+    - Motor driver
+    - DC motor
+    - Servo motor
+    - Battery
+    - Jumper wires
+    - Breadboard
+  - Steps:
+    - Assemble the RC boat chassis and mount the DC motor, servo motor, and battery on it.
+    - Connect the motor driver to the Arduino and the DC motor and servo motor to the motor driver.
+    - Connect the Wi-Fi module to the Arduino and configure it to connect to the IOT server.
+    - Connect the sensors to the Arduino and calibrate them according to the instructions.
+    - Connect the camera module to the Wi-Fi module and set up the video streaming service.
+    - Upload the Arduino code to the board and test the RC boat functionality and sensor readings.
+    - Create an account on the IOT server and set up the web dashboard to display the data.
+    - Deploy the RC boat on the water and control it using the RC remote or the smartphone app.
+    - Monitor the water quality data and the video feed on the web dashboard.

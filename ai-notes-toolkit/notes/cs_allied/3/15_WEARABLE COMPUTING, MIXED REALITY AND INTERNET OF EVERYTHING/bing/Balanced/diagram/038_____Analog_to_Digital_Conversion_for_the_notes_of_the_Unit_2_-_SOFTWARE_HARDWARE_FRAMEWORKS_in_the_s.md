@@ -1,0 +1,9 @@
+### Analog to Digital Conversion
+
+- Analog to digital conversion (ADC) is an electronic process that converts a continuous analog signal, such as a sound wave or a light intensity, into a discrete digital signal, such as a binary code, without altering its essential content .
+- ADC is a useful feature that allows digital circuits, such as microcontrollers, Arduinos, Raspberry Pi, and other logic devices, to interface with the analog world around us and perform data processing, manipulation, computation, transmission or storage  .
+- ADC involves two main steps: sampling and quantization .
+  - Sampling is the process of taking periodic snapshots of the analog signal at a fixed rate, called the sampling frequency or sampling rate. The sampling frequency must be at least twice the highest frequency component of the analog signal, according to the Nyquist-Shannon sampling theorem, to avoid aliasing .
+  - Quantization is the process of assigning a discrete value, usually a binary number, to each sample, based on its amplitude or voltage level. The number of bits used to represent each sample is called the resolution or bit depth of the ADC. The resolution determines the accuracy and precision of the digital signal, as well as the number of possible output values .
+- There are different types of ADCs, such as successive approximation ADC, flash ADC, sigma-delta ADC, dual-slope ADC, etc., that differ in their speed, accuracy, complexity, and cost  .
+- ADCs are widely used in various applications, such as digital imaging, radar, audio, video, medical, industrial, and scientific systems .

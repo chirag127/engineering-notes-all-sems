@@ -1,0 +1,27 @@
+# Decision tree learning algorithm
+
+- A decision tree is a **supervised learning algorithm** that is used for **classification and regression** tasks .
+- It has a **hierarchical, tree structure**, which consists of a **root node**, **branches**, **internal nodes** and **leaf nodes** .
+- The root node is the **topmost node** that represents the **entire dataset**.
+- The branches are the **connections** between the nodes.
+- The internal nodes are the **decision nodes** that **split** the data based on some **attribute** or **feature** .
+- The leaf nodes are the **terminal nodes** that represent the **final outcome** or **class** of the data .
+- The goal of a decision tree is to **create a model** that **predicts** the value of a target variable based on the input variables.
+- The decision tree learning algorithm is a **recursive** and **greedy** algorithm that **builds** the tree from the root node to the leaf nodes.
+- The basic algorithm used in decision trees is known as the **ID3** (by Quinlan) algorithm.
+- The ID3 algorithm works as follows:
+  - Step 1: Begin the tree with the root node, which contains the complete dataset.
+  - Step 2: Find the best attribute in the dataset using **Attribute Selection Measure (ASM)**, such as **information gain** or **gini index**.
+  - Step 3: Divide the dataset into subsets that contain possible values for the best attribute.
+  - Step 4: Make the best attribute the decision node and link it to the subsets.
+  - Step 5: Repeat steps 2 to 4 for each subset until all the subsets are pure (contain only one class) or no more attributes are available.
+- The advantages of decision trees are :
+  - They are **easy to understand** and **interpret**.
+  - They can handle **both numerical and categorical** data.
+  - They can handle **missing values** and **outliers**.
+  - They are **robust** to noise and **nonlinear** relationships.
+- The disadvantages of decision trees are :
+  - They are prone to **overfitting** and **underfitting** the data.
+  - They can be **unstable** and **sensitive** to small changes in the data.
+  - They can be **biased** towards the attributes with more levels or values.
+  - They can be **computationally expensive** to train and test.

@@ -1,0 +1,23 @@
+### Stages and Tasks for the Notes of the Unit 9 - Spark in the Subject of Big Data
+
+- Spark is a distributed computing framework that can process large-scale data in parallel using clusters of nodes.
+- Spark applications consist of one or more jobs, each of which is a parallel computation of tasks.
+- A task is a unit of work that is sent to an executor, which is a process running on a node in the cluster.
+- A stage is a set of tasks that depend on each other and can be executed in parallel within a job.
+- Stages are created based on the shuffle boundaries, which are the operations that require data to be redistributed across the cluster, such as groupBy, join, reduceByKey, etc.
+- Spark uses a Directed Acyclic Graph (DAG) to represent the logical execution plan of a job, which consists of one or more stages.
+- Spark optimizes the DAG by applying transformations that can be performed in a single stage without shuffling, such as map, filter, flatMap, etc.
+- Spark also caches intermediate data in memory or disk to avoid recomputing them for multiple actions or jobs.
+- Spark supports two types of transformations: narrow and wide.
+- Narrow transformations are those that do not require shuffling, such as map, filter, etc. They produce one stage with one-to-one or one-to-many dependencies between the parent and child partitions.
+- Wide transformations are those that require shuffling, such as groupBy, join, etc. They produce two stages with many-to-many dependencies between the parent and child partitions.
+- The number of tasks in a stage is determined by the number of partitions of the input RDD or the output RDD after shuffling.
+- The number of partitions can be specified by the user or by Spark based on the configuration parameters, such as spark.default.parallelism, spark.sql.shuffle.partitions, etc.
+- The number of executors in a cluster can be specified by the user or by Spark based on the configuration parameters, such as spark.executor.instances, spark.dynamicAllocation.enabled, etc.
+- The number of cores per executor can be specified by the user or by Spark based on the configuration parameters, such as spark.executor.cores, spark.cores.max, etc.
+- The number of tasks that can run concurrently on an executor is equal to the number of cores per executor.
+- Spark uses a scheduler to assign tasks to executors based on the availability of resources and the locality of data.
+- Spark supports two types of schedulers: FIFO and FAIR.
+- FIFO scheduler runs jobs in the order of submission and gives priority to the first job until all its stages have tasks to launch.
+- FAIR scheduler divides the resources among the jobs based on the weights and pools and allows multiple jobs to run concurrently.
+- Spark also supports dynamic allocation of executors, which allows Spark to add or remove executors based on the workload and the configuration parameters, such as spark.dynamicAllocation.enabled, spark.dynamicAllocation.minExecutors, spark.dynamicAllocation.maxExecutors, etc.

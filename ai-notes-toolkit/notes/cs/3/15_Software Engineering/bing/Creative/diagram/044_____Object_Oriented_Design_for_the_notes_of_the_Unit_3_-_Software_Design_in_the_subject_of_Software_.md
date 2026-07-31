@@ -1,0 +1,30 @@
+### Object Oriented Design for the notes of the Unit 3 - Software Design in the subject of Software Engineering
+
+- Object Oriented Design (OOD) is the process of planning a system of interacting objects for the purpose of solving a software problem.
+- OOD transforms the analysis model created using Object Oriented Analysis (OOA) into a design model that serves as a blueprint for software construction.
+- OOD is based on the object-oriented paradigm, which is a common approach to modeling applications, systems, and business domains by using the concepts of objects, classes, inheritance, polymorphism, and encapsulation.
+- OOD aims to achieve the following benefits:
+  - Reusability: Objects and classes can be reused in different contexts and applications, reducing the development time and cost.
+  - Extensibility: Objects and classes can be extended or modified to accommodate new requirements or changes, without affecting the existing functionality.
+  - Maintainability: Objects and classes are well-defined and modular, making it easier to understand, debug, and modify the software.
+  - Reliability: Objects and classes have clear interfaces and contracts, ensuring that they behave as expected and do not cause errors or inconsistencies.
+- OOD follows some principles and guidelines to ensure the quality and effectiveness of the design, such as:
+  - SOLID: A set of five principles that establish practices for developing software with considerations for maintaining and extending as the project grows. The principles are:
+    - Single Responsibility Principle: A class should have only one reason to change, meaning that it should have only one responsibility or functionality.
+    - Open/Closed Principle: A class should be open for extension, but closed for modification, meaning that it should allow adding new features or behaviors without changing its existing code.
+    - Liskov Substitution Principle: A subclass should be substitutable for its superclass, meaning that it should follow the same contract and behavior as its parent class.
+    - Interface Segregation Principle: A class should not depend on methods or properties that it does not use, meaning that it should have small and specific interfaces rather than large and general ones.
+    - Dependency Inversion Principle: A class should depend on abstractions rather than concretions, meaning that it should rely on interfaces or abstract classes rather than concrete classes or implementations.
+  - GRASP: A set of nine patterns or principles that assign responsibilities to classes and objects in a consistent and logical way. The principles are:
+    - Information Expert: A class should have the information and methods needed to fulfill a responsibility, meaning that it should encapsulate the data and behavior related to a concept or domain.
+    - Creator: A class should be responsible for creating objects of another class, meaning that it should have the knowledge and authority to instantiate them.
+    - Controller: A class should be responsible for handling system events and user requests, meaning that it should delegate the work to other classes and coordinate the results.
+    - Low Coupling: A class should have minimal dependencies on other classes, meaning that it should reduce the impact of changes and increase the reusability and maintainability of the software.
+    - High Cohesion: A class should have a single, well-defined purpose, meaning that it should have a clear and consistent responsibility and functionality.
+    - Polymorphism: A class should use abstract methods or interfaces to handle variations in behavior, meaning that it should allow subclasses or implementations to define their own specific behavior.
+    - Pure Fabrication: A class should be created to handle a responsibility that does not belong to any existing class, meaning that it should be artificial or synthetic rather than natural or domain-related.
+    - Indirection: A class should mediate the communication or interaction between two or more classes, meaning that it should act as an intermediary or a wrapper to reduce the coupling and complexity of the software.
+    - Protected Variations: A class should protect itself and other classes from the effects of changes or variations, meaning that it should use abstractions or interfaces to hide the details and implementation of the software.
+- OOD uses some tools and techniques to represent and document the design, such as:
+  - UML: A standard language for modeling software systems using diagrams and symbols. UML supports different types of diagrams, such as class diagrams, sequence diagrams, use case diagrams, etc.
+  - Design Patterns: A general and reusable solution to a common problem in software design. Design patterns describe the structure, behavior, and interaction of classes and objects, and provide a common vocabulary and best practices for software design. Some examples of design patterns are singleton, factory, observer,

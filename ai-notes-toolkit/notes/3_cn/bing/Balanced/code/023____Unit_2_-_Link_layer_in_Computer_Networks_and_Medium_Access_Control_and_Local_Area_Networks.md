@@ -1,0 +1,17 @@
+## Unit 2 - Link layer in Computer Networks and Medium Access Control and Local Area Networks
+
+The link layer is the lowest layer in the Internet protocol suite, the networking architecture of the Internet. It is responsible for transferring data between nodes on a network segment across the physical layer. The link layer can be divided into two sublayers: data link control and multiple access resolution/protocol.
+
+Data link control is the sublayer that provides the functional and procedural means to transfer data between network entities and may also provide the means to detect and possibly correct errors that can occur in the physical layer. Data link control performs the following functions:
+
+- Framing: The packet received from the network layer is known as a frame in the data link layer. At the sender's side, the data link layer adds a header and a trailer to the packet to form a frame. At the receiver's side, the data link layer removes the header and the trailer and passes the packet to the network layer.
+- Addressing: The data link layer encapsulates the source and destination's MAC address / physical address in the header of the frame. The MAC address is a unique identifier for each node on the network segment.
+- Error Control: Data link layer detects and corrects the errors that can occur in the transmission of frames. It uses techniques such as parity check, checksum, cyclic redundancy check (CRC), etc. to detect errors and techniques such as automatic repeat request (ARQ), forward error correction (FEC), etc. to correct errors.
+- Flow Control: Data link layer regulates the flow of data between the sender and the receiver to avoid congestion and buffer overflow. It uses techniques such as stop-and-wait, sliding window, etc. to control the flow of data.
+
+Multiple access resolution/protocol is the sublayer that determines how the nodes on a network segment share the medium and avoid collisions. It uses techniques such as:
+
+- ALOHA: A random access protocol that allows nodes to transmit frames whenever they have data to send. It does not coordinate with other nodes and does not detect or avoid collisions. It uses techniques such as pure ALOHA and slotted ALOHA to improve the efficiency of transmission.
+- CSMA: A random access protocol that allows nodes to sense the medium before transmitting frames. It tries to avoid collisions by waiting for a random time if the medium is busy. It uses techniques such as 1-persistent CSMA, non-persistent CSMA, p-persistent CSMA, etc. to improve the performance of transmission.
+- CSMA/CA: A random access protocol that allows nodes to sense the medium before transmitting frames and also use a collision avoidance mechanism. It is used in wireless networks where collision detection is difficult. It uses techniques such as request-to-send/clear-to-send (RTS/CTS), inter-frame spacing (IFS), etc. to avoid collisions.
+- CSMA/CD: A random access protocol that allows nodes to sense the medium before transmitting frames and also use a collision detection mechanism. It is used in wired networks where collision detection is possible. It uses techniques such as jamming signal, exponential backoff, etc. to detect and recover from collisions.

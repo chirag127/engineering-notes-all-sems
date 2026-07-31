@@ -1,0 +1,26 @@
+## Unit 3 - Data management issues, data replication for mobile computers, adaptive clustering for mobile
+
+- Data management issues in mobile computing refer to the challenges and opportunities of storing, accessing, and processing data in a mobile environment, where users and devices are constantly moving and changing their connectivity and availability.
+- Some of the main data management issues in mobile computing are:
+  - Data availability: how to ensure that mobile users can access the data they need, even when they are disconnected from the network or have intermittent connectivity.
+  - Data consistency: how to maintain the correctness and integrity of the data, especially when multiple users and devices may update the same data in different locations and times.
+  - Data security: how to protect the data from unauthorized access, modification, or disclosure, especially when the data is stored or transmitted over wireless networks or on mobile devices that may be lost or stolen.
+  - Data adaptation: how to tailor the data to the needs and preferences of the mobile users, such as reducing the size, complexity, or quality of the data to fit the device capabilities, network bandwidth, or user preferences.
+- Data replication for mobile computers is a technique that aims to improve the data availability and consistency in mobile computing by creating and maintaining multiple copies of the data on different devices or locations .
+- Some of the benefits of data replication for mobile computers are:
+  - It allows mobile users to access the data locally, without relying on the network connectivity or the availability of the data source .
+  - It reduces the network traffic and communication cost, by avoiding frequent data transfers between the mobile devices and the data source .
+  - It enhances the data consistency, by applying concurrency control and conflict resolution mechanisms to synchronize the updates among the replicas .
+- Some of the challenges of data replication for mobile computers are:
+  - It requires additional storage space and processing power on the mobile devices, which may be limited or scarce .
+  - It introduces the possibility of data conflicts, when different replicas have divergent updates that need to be reconciled .
+  - It involves trade-offs between the data availability, consistency, and communication cost, depending on the replication strategy and the synchronization frequency .
+- Adaptive clustering for mobile is a technique that aims to improve the data management and communication efficiency in mobile computing by grouping the mobile devices into clusters based on their proximity, connectivity, or similarity  .
+- Some of the benefits of adaptive clustering for mobile are:
+  - It reduces the network overhead and latency, by enabling local communication and data exchange within the clusters, instead of relying on the global network or the data source  .
+  - It increases the data availability and reliability, by allowing the clusters to share and replicate the data among their members, and to tolerate the failures or disconnections of some devices  .
+  - It supports the data adaptation and personalization, by allowing the clusters to customize the data according to the needs and preferences of their members, and to exploit the common interests or behaviors of the devices  .
+- Some of the challenges of adaptive clustering for mobile are:
+  - It requires dynamic and efficient algorithms to form and maintain the clusters, considering the mobility and heterogeneity of the devices, and the changing network conditions  .
+  - It involves trade-offs between the cluster size, stability, and performance, depending on the clustering criteria and the application requirements  .
+  - It raises security and privacy issues, by exposing the data and the communication of the devices to the other members of the cluster, who may be malicious or untrustworthy  .

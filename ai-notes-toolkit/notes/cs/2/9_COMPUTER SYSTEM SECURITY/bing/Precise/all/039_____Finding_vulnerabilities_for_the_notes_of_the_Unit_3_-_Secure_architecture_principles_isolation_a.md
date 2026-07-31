@@ -1,0 +1,5 @@
+# Finding vulnerabilities for the notes of the Unit 3 - Secure architecture principles isolation and leas in the subject of COMPUTER SYSTEM SECURITY
+
+- A security vulnerability is defined as an unintended characteristic of a computing component or system configuration that multiplies the risk of an adverse event or a loss occurring either due to accidental exposure, deliberate attack, or conflict with new system components.
+- Unit III of the subject COMPUTER SYSTEM SECURITY covers Secure architecture principles isolation and leas, which includes Access Control Concepts, Unix and windows access control summary, Other issues in access control, and Introduction to browser isolation   .
+- Security design principles describe a securely architected system hosted on cloud or on-premises datacenters (or a combination of both). Application of these principles dramatically increases the likelihood your security architecture assures confidentiality, integrity, and availability.

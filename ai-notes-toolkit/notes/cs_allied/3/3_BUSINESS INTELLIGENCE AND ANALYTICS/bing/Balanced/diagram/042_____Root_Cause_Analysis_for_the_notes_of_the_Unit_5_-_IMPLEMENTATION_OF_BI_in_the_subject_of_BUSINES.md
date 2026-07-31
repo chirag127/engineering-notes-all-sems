@@ -1,0 +1,24 @@
+### Root Cause Analysis
+
+- Root cause analysis (RCA) is a method of problem solving used for identifying the root causes of faults or problems.
+- A root cause is the core issue that sets in motion the entire cause-and-effect reaction that ultimately leads to the problem(s).
+- RCA assumes that it is much more effective to systematically prevent and solve for underlying issues rather than just treating ad hoc symptoms and putting out fires.
+- RCA is a team approach methodology that works by understanding that systems and actions are related and that one action can trigger an event and that event can trigger another event and so on until you have a problem or multiple problems.
+- There are four main steps in an RCA:
+  - Identify the problem
+  - Analyze the problem
+  - Identify the root causes
+  - Implement solutions
+- RCA can be applied to various domains, such as engineering, science, business, healthcare, education, etc.
+- RCA can benefit organizations by :
+  - Improving quality and performance
+  - Reducing costs and risks
+  - Enhancing customer satisfaction and loyalty
+  - Increasing employee engagement and morale
+  - Fostering a culture of continuous improvement and learning
+- Some of the common tools and techniques used for RCA are :
+  - The 5 Whys: A simple technique that involves asking "why" repeatedly until the root cause is revealed.
+  - Fishbone Diagram: A visual tool that helps organize the possible causes of a problem into categories and subcategories.
+  - Pareto Chart: A graphical tool that shows the frequency or impact of different factors or causes of a problem.
+  - Fault Tree Analysis: A logical tool that uses a tree-like structure to identify the possible failures and their causes in a system or process.
+  - Cause and Effect Matrix: A matrix that helps prioritize the causes of a problem based on their severity and frequency.

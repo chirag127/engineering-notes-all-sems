@@ -1,0 +1,12 @@
+# Data Preparation for the Notes of the Unit 2 - Data Analytics Lifecycle
+
+Data preparation is one of the most important and time-consuming stages in the data analytics lifecycle. It involves collecting, processing, and cleansing data for use in analytics and business intelligence. Data preparation aims to ensure that the data is accurate, consistent, relevant, and ready for analysis.
+
+Some of the key steps and concepts in data preparation are:
+
+- **Data access**: This is the process of obtaining data from various sources, such as databases, files, web services, APIs, etc. Data access may require authentication, authorization, encryption, or compression techniques to ensure security and efficiency.
+- **Data loading**: This is the process of transferring data from the source to the destination, such as an analytical sandbox, a data warehouse, or a data lake. Data loading may involve different methods, such as batch loading, incremental loading, or streaming loading, depending on the volume, velocity, and variety of the data.
+- **Data structuring**: This is the process of organizing data into a suitable format for analysis, such as tables, matrices, arrays, etc. Data structuring may require data transformation, such as parsing, splitting, merging, aggregating, or reshaping data, to make it compatible with the analytical tools and methods.
+- **Data cleansing**: This is the process of detecting and correcting errors, inconsistencies, outliers, missing values, duplicates, or anomalies in the data. Data cleansing may require data validation, such as checking the data types, ranges, formats, or constraints, or data imputation, such as replacing, deleting, or estimating missing values, to improve the data quality and reliability.
+- **Data unification**: This is the process of combining data from different sources, formats, or structures into a single, coherent, and consistent data set. Data unification may require data integration, such as joining, appending, or blending data, or data standardization, such as harmonizing the units, scales, codes, or labels, to ensure the data comparability and compatibility.
+- **Data adjustment**: This is the process of modifying data to suit the analytical objectives, such as creating new variables, deriving new insights, or applying new techniques. Data adjustment may require data enrichment, such as adding external data, metadata, or annotations, or data manipulation, such as filtering, sorting, grouping, or pivoting data, to enhance the data value and utility.

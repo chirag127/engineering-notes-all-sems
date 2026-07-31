@@ -1,0 +1,9 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on streaming versus batch algorithms for the unit 3 of stream processing and analytics:
+
+### Streaming Versus Batch Algorithms
+
+- Streaming and batch algorithms are two different approaches to processing data in a data platform.
+- Streaming algorithms process data as it arrives, in real-time or near-real-time, without waiting for a complete batch of data to be collected. Streaming algorithms are suitable for applications that require low latency, high throughput, and continuous updates of data. Examples of streaming algorithms are anomaly detection, sentiment analysis, and recommendation systems.
+- Batch algorithms process data in large batches, after a certain amount of data has been accumulated or a certain time interval has elapsed. Batch algorithms are suitable for applications that require high accuracy, complex computations, and historical analysis of data. Examples of batch algorithms are machine learning, data mining, and reporting.
+- Streaming and batch algorithms have different trade-offs in terms of performance, scalability, complexity, and reliability. Streaming algorithms are faster, more scalable, and more responsive, but also more complex and prone to errors. Batch algorithms are slower, less scalable, and less responsive, but also simpler and more reliable.
+- Streaming and batch algorithms can be combined to achieve the best of both worlds, using techniques such as lambda architecture, micro-batching, and hybrid processing. These techniques allow data to be processed in both streaming and batch modes, depending on the use case and the requirements.

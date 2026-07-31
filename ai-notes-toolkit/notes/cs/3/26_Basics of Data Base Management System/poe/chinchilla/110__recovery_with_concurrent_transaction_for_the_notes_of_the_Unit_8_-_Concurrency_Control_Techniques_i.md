@@ -1,0 +1,15 @@
+### Recovery with Concurrent Transactions
+
+In a database management system, concurrent transactions are executed simultaneously to improve system performance. However, concurrency can lead to problems such as data inconsistency and loss due to system failures. Therefore, recovery techniques are implemented to ensure the consistency and durability of data in case of system failures. Here are some recovery techniques that can be used with concurrent transactions:
+
+1. **Write-Ahead Logging (WAL)** - This technique ensures that all changes to the database are written to a log before they are written to the database itself. In case of a system failure, the log can be used to recover the database to a consistent state. WAL is particularly useful for concurrent transactions because it allows multiple transactions to write to the log simultaneously, without blocking each other.
+
+2. **Checkpointing** - Checkpointing involves periodically saving the state of the database to disk. This allows for faster recovery in case of a system failure because only the changes made after the last checkpoint need to be replayed from the log. Checkpointing also helps to reduce the size of the log file, which can become very large in systems with many concurrent transactions.
+
+3. **Shadow Paging** - This technique involves creating a duplicate copy of the database before any changes are made. All changes are made to the duplicate copy, while the original remains unchanged. In case of a system failure, the duplicate copy can be used to recover the database to a consistent state. Shadow paging is particularly useful for systems with many concurrent transactions because it allows for parallel updates to the database.
+
+4. **Immediate Database Modification (IM)** - IM is a technique that allows transactions to update the database immediately, without waiting for the log to be written. This can improve system performance, but it also increases the risk of data loss in case of a system failure. To mitigate this risk, IM is often combined with other recovery techniques such as WAL.
+
+5. **Multi-Version Concurrency Control (MVCC)** - MVCC is a technique that allows multiple versions of a database record to coexist at the same time. This allows for concurrent transactions to read and write to the same record without blocking each other. In case of a system failure, the database can be recovered to a consistent state by selecting the appropriate version of each record.
+
+In conclusion, recovery techniques are essential for ensuring the consistency and durability of data in a database management system with concurrent transactions. The choice of recovery technique depends on the specific requirements of the system, including the level of concurrency, performance, and data consistency needed. With the right recovery techniques in place, concurrent transactions can be executed efficiently and reliably, without compromising data integrity.

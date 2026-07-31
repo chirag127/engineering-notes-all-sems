@@ -1,0 +1,11 @@
+### New directions in cloud enabled IoT computing
+
+- Cloud computing and IoT are two complementary technologies that enable new applications and services in various domains, such as smart cities, healthcare, agriculture, industry, and education.
+- Cloud computing provides scalable, elastic, and on-demand resources and services for IoT devices and applications, such as storage, processing, analytics, and security.
+- IoT devices generate large amounts of data that can be transmitted, stored, and processed in the cloud, enabling data-driven insights and actions.
+- Some of the new directions and challenges in cloud enabled IoT computing are:
+
+  - Edge and fog computing: These are paradigms that extend the cloud capabilities to the edge of the network, closer to the IoT devices and sources of data. Edge and fog computing can reduce the latency, bandwidth, and energy consumption of IoT applications, as well as enhance the privacy and security of the data. Edge and fog computing can also enable real-time and context-aware processing and decision making for IoT applications.
+  - Serverless computing: This is a paradigm that abstracts the underlying infrastructure and resources from the developers and users of cloud services, and allows them to focus on the application logic and functionality. Serverless computing can provide event-driven, scalable, and cost-effective execution of IoT applications, without requiring the management of servers, containers, or virtual machines.
+  - Blockchain and distributed ledger technologies: These are technologies that enable secure, transparent, and decentralized transactions and data sharing among multiple parties, without relying on a central authority or intermediary. Blockchain and distributed ledger technologies can provide trust, accountability, and immutability for IoT applications, such as supply chain management, smart contracts, and identity management.
+  - Artificial intelligence and machine learning: These are technologies that enable the analysis, learning, and inference from large and complex data sets, and provide intelligent and adaptive solutions for various problems and tasks. Artificial intelligence and machine learning can enhance the capabilities and performance of IoT applications, such as anomaly detection, prediction, optimization, and personalization.

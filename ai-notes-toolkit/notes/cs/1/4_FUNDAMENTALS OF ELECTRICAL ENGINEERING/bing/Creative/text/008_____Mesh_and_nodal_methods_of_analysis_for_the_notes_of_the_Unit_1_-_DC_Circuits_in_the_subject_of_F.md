@@ -1,0 +1,22 @@
+### Mesh and Nodal Methods of Analysis
+
+- Mesh and nodal methods of analysis are two systematic techniques for solving linear circuits.
+- Both methods are based on applying Kirchhoff's laws and Ohm's law to the circuit elements.
+- Mesh analysis is a method that uses loop currents as the circuit variables.
+- Nodal analysis is a method that uses node voltages as the circuit variables.
+- The steps for applying mesh analysis are:
+  - Identify all the meshes (loops that do not contain any other loop) in the circuit and assign a current to each mesh in a clockwise direction.
+  - Write Kirchhoff's voltage law (KVL) equations for each mesh, expressing the voltage drops across each element in terms of the mesh currents.
+  - Solve the system of linear equations for the mesh currents using any method such as substitution, elimination, or matrix inversion.
+  - Find the voltages across any element or the currents through any branch by using Ohm's law and the mesh currents.
+- The steps for applying nodal analysis are:
+  - Identify all the nodes (points where two or more elements are connected) in the circuit and assign a voltage to each node with respect to a reference node (usually the ground).
+  - Write Kirchhoff's current law (KCL) equations for each node, expressing the currents entering and leaving the node in terms of the node voltages and the element parameters.
+  - Solve the system of linear equations for the node voltages using any method such as substitution, elimination, or matrix inversion.
+  - Find the currents through any element or the voltages across any branch by using Ohm's law and the node voltages.
+- The advantages of mesh analysis are:
+  - It reduces the number of equations to be solved compared to nodal analysis, especially for planar circuits (circuits that can be drawn on a plane without any crossing branches).
+  - It is easier to handle voltage sources and dependent sources in mesh analysis than in nodal analysis.
+- The advantages of nodal analysis are:
+  - It reduces the number of variables to be solved compared to mesh analysis, especially for non-planar circuits (circuits that cannot be drawn on a plane without any crossing branches).
+  - It is easier to handle current sources and parallel branches in nodal analysis than in mesh analysis.

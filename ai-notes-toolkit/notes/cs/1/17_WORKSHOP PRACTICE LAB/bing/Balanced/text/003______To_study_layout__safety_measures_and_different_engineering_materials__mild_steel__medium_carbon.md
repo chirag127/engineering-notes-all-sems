@@ -1,0 +1,26 @@
+#### To study layout, safety measures and different engineering materials (mild steel, medium carbon steel, high carbon steel, high speed steel and cast iron etc) used in workshop
+
+- Workshop layout is the arrangement of the machinery and equipment in a workshop, which affects the efficiency, quality, and safety of the work process.
+- There are three basic types of workshop layout: process layout, product layout, and fixed-position layout. A process layout groups machines and equipment according to their functions, such as cutting, drilling, or welding. A product layout arranges machines and equipment in a sequence that follows the production flow of a specific product or a group of similar products. A fixed-position layout keeps the product in one place and brings the machines and equipment to it.
+- A good workshop layout should consider the following factors: the space required for each machine and equipment, the space required for allied equipment (such as dust collectors, heating or cooling systems, exhaust fans, etc.), the space required for employee welfare (such as coffee machine, drinking water, etc.), the space required for gangways and emergency exits, the power supply and distribution, the lighting and ventilation, the noise and vibration control, the material handling and storage, and the safety and health standards.
+- Workshop safety is the set of rules and practices that aim to prevent accidents, injuries, and hazards in the workshop. Some of the general workshop safety rules are  :
+  - Always wear safety gear, such as gloves, goggles, ear plugs, helmets, etc., while working in the workshop.
+  - Do not wear loose, baggy, or dangling clothing, jewelry, or hair that can get caught in the machines or equipment.
+  - Do not operate any machine or equipment without proper training, authorization, and supervision.
+  - Do not use any machine or equipment that is defective, damaged, or missing safety guards or devices.
+  - Do not leave any machine or equipment running unattended or in an unsafe condition.
+  - Do not overload, over speed, or force any machine or equipment beyond its capacity or limits.
+  - Do not touch any moving parts or hot surfaces of any machine or equipment.
+  - Do not use any machine or equipment for a purpose other than its intended use.
+  - Do not use any flammable, explosive, or hazardous materials without proper precautions and ventilation.
+  - Do not smoke, eat, or drink in the workshop.
+  - Keep the workshop clean, tidy, and free of clutter, spills, and obstructions.
+  - Store and dispose of all materials, tools, and waste properly and safely.
+  - Report any accidents, injuries, or hazards to the supervisor or the authority immediately.
+  - Follow the emergency procedures and instructions in case of fire, power failure, or any other emergency.
+- Engineering materials are the substances that are used to make or modify the machines and equipment in the workshop. Some of the common engineering materials used in workshop are:
+  - Mild steel: a low-carbon steel that is easy to cut, weld, and form. It has good strength, ductility, and toughness, but low hardness and wear resistance. It is used for making structural components, pipes, bolts, nuts, etc.
+  - Medium carbon steel: a steel that has a higher carbon content than mild steel, which increases its strength, hardness, and wear resistance, but reduces its ductility and weldability. It is used for making gears, shafts, axles, springs, etc.
+  - High carbon steel: a steel that has a very high carbon content, which makes it very hard, strong, and brittle, but difficult to cut, weld, and form. It is used for making cutting tools, knives, blades, etc.
+  - High speed steel: a steel that has a high alloy content, which gives it high hardness, strength, and wear resistance, even at high temperatures and speeds. It is used for making drill bits, taps, dies, etc.
+  - Cast iron: a iron that has a high carbon content, which makes it hard, brittle, and resistant to wear and corrosion, but difficult to weld and form. It is used for making machine frames, engine blocks, cylinders, etc.

@@ -1,0 +1,12 @@
+### Contextual Information for the notes of the Unit 4 - Evidence Management in the subject of CYBER FORENSIC ANALYTICS
+
+- Contextual information is the information that provides the background, setting, or circumstances of a digital evidence, such as the time, date, location, source, owner, or purpose of the evidence .
+- Contextual information is important for evidence management because it helps to establish the relevance, authenticity, integrity, and reliability of the evidence.
+- Evidence management is the process of identifying, collecting, acquiring, preserving, and analyzing digital evidence in a forensically sound manner .
+- Evidence management is essential for cyber forensic analytics because it enables the investigation of cybersecurity incidents and cybercrime activities by extracting and interpreting data from computing systems .
+- Evidence management follows a five-step process of identification, collection, acquisition, preservation, and analysis :
+  - Identification: Information needs to be gathered before the digital device is even touched. It won’t often be clear what contextual information is relevant to an investigation until much later. The identification step involves determining the scope, objectives, and legal authority of the investigation, as well as the potential sources and types of digital evidence .
+  - Collection: Collection is the process of physically seizing or accessing the digital devices or media that contain the evidence. The collection step involves documenting the scene, handling the devices or media with care, and following proper chain of custody procedures .
+  - Acquisition: Acquisition is the process of creating a forensically sound copy or image of the original evidence, without altering or damaging it. The acquisition step involves using appropriate tools and techniques, verifying the integrity of the copy or image, and storing it securely .
+  - Preservation: Preservation is the process of maintaining the integrity and security of the evidence throughout the investigation. The preservation step involves protecting the evidence from unauthorized access, modification, or deletion, as well as documenting any changes or actions taken on the evidence .
+  - Analysis: Analysis is the process of examining and interpreting the evidence to answer the investigative questions or hypotheses. The analysis step involves using various methods and tools to extract, filter, correlate, and visualize data from the evidence, as well as generating reports and presenting findings  .

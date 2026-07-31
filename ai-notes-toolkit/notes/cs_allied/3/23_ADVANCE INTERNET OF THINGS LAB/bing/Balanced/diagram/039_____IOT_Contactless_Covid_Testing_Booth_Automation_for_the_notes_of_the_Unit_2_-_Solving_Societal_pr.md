@@ -1,0 +1,21 @@
+### IOT Contactless Covid Testing Booth Automation
+
+- This is a project that aims to design a completely automated and contactless system for covid testing in booths using RFID technology, microcontroller, MATLAB and GSM modem  .
+- The system consists of the following components:
+  - RFID reader and tag: The RFID reader scans the RFID tag of the person who wants to get tested and sends the details to the microcontroller .
+  - Microcontroller: The microcontroller processes the data from the RFID reader and displays the person's name, contact number and address on an LCD screen. It also controls the servo motor that opens and closes the door of the booth .
+  - MATLAB: MATLAB is used to capture the image of the person's face and compare it with the database of registered faces. It also generates a QR code that contains the person's details and test result.
+  - GSM modem: The GSM modem sends the test result and the QR code to the person's mobile phone via SMS .
+  - Covid testing kit: The covid testing kit is a device that collects the nasal swab sample from the person and performs the antigen test. It sends the test result to the microcontroller via Bluetooth .
+- The system works as follows:
+  - The person who wants to get tested approaches the booth and scans the RFID tag. The microcontroller displays the person's details and opens the door of the booth .
+  - The person enters the booth and faces the camera. MATLAB captures the image of the person's face and compares it with the database of registered faces. If the face is matched, the system proceeds to the next step. If not, the system asks the person to register their face.
+  - The person inserts the nasal swab into the covid testing kit and waits for the test result. The covid testing kit sends the test result to the microcontroller via Bluetooth .
+  - The microcontroller sends the test result and the person's details to MATLAB. MATLAB generates a QR code that contains the information and sends it to the GSM modem.
+  - The GSM modem sends the test result and the QR code to the person's mobile phone via SMS. The person can scan the QR code to access the test report online .
+  - The microcontroller closes the door of the booth and sanitizes the booth using a UV lamp .
+- The advantages of this system are:
+  - It reduces the human contact and the risk of infection during covid testing  .
+  - It saves time and resources by automating the registration, testing and reporting process  .
+  - It provides a secure and accurate way of verifying the identity and test result of the person using face recognition and QR code.
+  - It enables remote monitoring and management of the covid testing booths using IoT .

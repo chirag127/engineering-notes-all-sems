@@ -1,0 +1,8 @@
+
+### Data Aggregation & Dissemination for the Notes of Unit 3 - Network & Communication Aspects in IoT
+
+* Wireless Medium Access Issues: Wireless medium access issues refer to the problems associated with the sharing of a wireless medium, such as radio frequency, among multiple users. These issues include contention, interference, and hidden nodes.
+* MAC Protocol Survey: A MAC protocol survey is a review of different media access control protocols. These protocols are used to ensure that multiple users of a shared medium can access it in an orderly and fair manner. Examples of MAC protocols include Carrier Sense Multiple Access (CSMA) and Time Division Multiple Access (TDMA).
+* Survey Routing Protocols: Survey routing protocols are used to survey the topology of a network. These protocols are used to determine the best route for data to travel from one node to another. Examples of survey routing protocols include link-state routing and distance vector routing.
+* Sensor Deployment & Node Discovery: Sensor deployment and node discovery are two important aspects of the Internet of Things (IoT). Sensor deployment refers to the placement of sensors in an environment in order to collect data. Node discovery is the process of discovering and connecting to other nodes in a network.
+* Data Aggregation & Dissemination: Data aggregation and dissemination are two important aspects of the IoT. Data aggregation is the process of collecting and combining data from multiple sources. Data dissemination is the process of sharing data with multiple users.

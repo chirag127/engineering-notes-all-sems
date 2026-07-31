@@ -1,0 +1,23 @@
+### Overview of Commercial Real Time Databases
+
+- A real-time database is a database system that uses real-time processing to handle workloads whose state is constantly changing.
+- Real-time databases are useful for applications that require timely and consistent responses, such as accounting, banking, law, medical records, multimedia, process control, reservation systems, and scientific data analysis.
+- Real-time databases can be classified into two types: hard real-time and soft real-time.
+  - Hard real-time databases guarantee that transactions meet their deadlines, otherwise the system may fail. They are suitable for critical systems, such as avionics, nuclear power plants, and military applications.
+  - Soft real-time databases allow some transactions to miss their deadlines, but try to minimize the number and severity of such violations. They are suitable for non-critical systems, such as e-commerce, online gaming, and social media.
+- Some of the attributes of live real-time databases are:
+  - High availability: The database should be accessible and operational at all times, even in the event of failures or disasters.
+  - High performance: The database should be able to process transactions and queries with low latency and high throughput, while maintaining data consistency and integrity.
+  - High scalability: The database should be able to handle increasing workloads and data volumes, without compromising availability or performance.
+  - High reliability: The database should be able to recover from errors and faults, and ensure data durability and correctness.
+  - High security: The database should be able to protect data from unauthorized access, modification, or deletion, and comply with relevant regulations and standards.
+  - High adaptability: The database should be able to support different data models, query languages, and access methods, and accommodate changing requirements and user preferences.
+  - High interoperability: The database should be able to communicate and integrate with other systems and applications, and support data exchange and migration.
+  - High usability: The database should be easy to use and manage, and provide user-friendly interfaces and tools.
+  - High affordability: The database should be cost-effective and offer a good return on investment, and provide flexible pricing and licensing options.
+- Some of the examples of commercial real-time databases are:
+  - Google Cloud Firestore: A scalable, serverless, NoSQL document database for web, mobile, and server development. It offers real-time synchronization, offline support, and ACID transactions.
+  - Google Cloud Bigtable: A highly performant, fully managed NoSQL database service for large analytical and operational workloads. It offers high availability, low latency, and consistency.
+  - Google Cloud Spanner: A fully managed, relational database service that combines the benefits of SQL and NoSQL. It offers global scalability, strong consistency, and high availability.
+  - Google Cloud Memorystore: A fully managed, in-memory data store service for Redis and Memcached. It offers sub-millisecond latency, high throughput, and automatic scaling.
+  - Google Cloud SQL: A fully managed, relational database service for MySQL, PostgreSQL, and SQL Server. It offers high performance, availability, and security, and supports various frameworks and tools.

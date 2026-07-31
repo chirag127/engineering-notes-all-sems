@@ -1,0 +1,7 @@
+### Raspberry Pi Air and Noise Pollution Monitoring System Over IOT
+
+- This system is a project that uses Raspberry Pi and IOT to monitor and check the air quality index and the sound pollution of a region in real time.
+- The system consists of four main modules: the air quality index monitoring module, the sound intensity detection module, the cloud-based monitoring module and the anomaly notification module.
+- The air quality index monitoring module uses sensors to measure the levels of carbon dioxide, methane and other pollutants in the air. The sound intensity detection module uses a microphone to measure the noise level in decibels. The data from these modules is fed to the Raspberry Pi board, which acts as the controller and the output device.
+- The Raspberry Pi board sends the data to the cloud-based monitoring module, which is a web server that stores and displays the data on a dashboard. The dashboard shows the current and historical values of the air quality index and the sound pollution, as well as graphs and charts to visualize the data. The dashboard can be accessed by any authorized user through a web browser.
+- The anomaly notification module is a feature that alerts the user when the air quality index or the sound pollution exceeds a certain threshold. The user can set the threshold values and the notification mode, such as email, SMS or phone call. The notification module helps the user to take appropriate actions to reduce the pollution or to avoid the polluted area.

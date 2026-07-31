@@ -1,0 +1,21 @@
+### Mobile IP
+
+- Mobile IP (MIP) is a protocol that allows mobile devices to move from one network to another while maintaining the same permanent IP address.
+- Mobile IP is based on IP and can support any media that can support IP, such as wired and wireless networks.
+- Mobile IP is designed to support seamless and continuous Internet connectivity, especially for roaming between overlapping wireless systems.
+- Mobile IP consists of three main components: a home agent, a foreign agent, and a mobile node.
+- A home agent is a router on the home network of the mobile node that maintains a binding table of the current location of the mobile node.
+- A foreign agent is a router on the visited network of the mobile node that provides routing and other services to the mobile node.
+- A mobile node is a device that can change its point of attachment to the Internet, such as a laptop or a smartphone.
+- A mobile node has two IP addresses: a home address and a care-of address.
+- A home address is a permanent IP address assigned to the mobile node on its home network.
+- A care-of address is a temporary IP address assigned to the mobile node on the visited network.
+- A mobile node registers its care-of address with its home agent, which updates the binding table and forwards any packets destined for the mobile node to the care-of address.
+- A mobile node can use its home address to communicate with any other node on the Internet, regardless of its current location.
+- A mobile node can also use its care-of address to communicate with other nodes on the visited network, which can reduce the overhead and latency of routing through the home agent.
+- Mobile IP can be implemented for both IPv4 and IPv6, with some differences and extensions.
+- Mobile IP for IPv4 is described in IETF RFC 5944, and extensions are defined in IETF RFC 4721.
+- Mobile IP for IPv6 is described in IETF RFC 6275, and extensions are defined in IETF RFC 5555.
+- Mobile IP can be used to find the local IP address of a mobile device on a network, such as an iPhone or an Android phone.
+- To find the local IP address of an iPhone, one can go to Settings > Wi-Fi, tap the network name, and look for the IP Address field under the IPv4 Address header.
+- To find the local IP address of an Android phone, one can go to Settings > Network & Internet > Wi-Fi, tap the network name, and look for the IP Address field under the Advanced section.

@@ -1,0 +1,14 @@
+### Data collection for social network analysis
+
+- Social network analysis (SNA) is a method of studying the patterns and dynamics of social relationships among actors, such as individuals, groups, organizations, or communities.
+- Data collection for SNA involves identifying the actors and the relationships of interest, and gathering information about them using various sources and methods.
+- The main types of data collection methods for SNA are  :
+  - Surveys: questionnaires or interviews that ask actors to report their own relationships or the relationships of others, such as their friends, colleagues, partners, etc. Surveys can be administered to a sample or the whole population of actors, depending on the research design and the network boundary. Surveys can be web-based, paper-based, or face-to-face.
+  - Archival records: documents or databases that contain information about the actors and their relationships, such as organizational charts, membership lists, email logs, phone records, etc. Archival records can be used to complement or validate survey data, or to construct networks from scratch.
+  - Tracking devices: sensors or applications that record the location, movement, or interaction of actors, such as GPS, RFID, Bluetooth, or social media platforms. Tracking devices can provide objective and continuous data on the actors and their relationships, but they may also raise ethical and privacy issues.
+  - Observation: direct or indirect observation of the actors and their relationships, such as field notes, video recordings, or ethnographic methods. Observation can capture the context and the quality of the relationships, but it may also be time-consuming and subjective.
+- The choice of data collection method for SNA depends on the research question, the network size and scope, the availability and accessibility of data sources, the resources and time constraints, and the ethical considerations .
+- The data collected for SNA can be represented and analyzed using three types of interrelated tools:
+  - Matrix: a table that shows the presence or absence, or the strength or frequency, of the relationships between pairs of actors. A matrix can be binary (0 or 1) or valued (numeric or categorical).
+  - Map: a graph that shows the actors as nodes and the relationships as lines. A map can be directed (with arrows) or undirected (without arrows), and weighted (with line thickness or color) or unweighted (with uniform lines).
+  - Measure: a statistic that summarizes the characteristics of the actors, the relationships, or the network as a whole. A measure can be descriptive (such as degree, centrality, density, or cohesion) or inferential (such as hypothesis testing, regression, or clustering).

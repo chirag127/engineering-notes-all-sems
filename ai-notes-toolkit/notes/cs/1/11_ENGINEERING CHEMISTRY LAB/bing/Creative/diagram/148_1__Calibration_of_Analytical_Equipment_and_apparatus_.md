@@ -1,0 +1,12 @@
+# Calibration of Analytical Equipment and Apparatus
+
+Calibration is the process of evaluating and adjusting the precision and accuracy of measurement equipment. It is essential for ensuring the quality and reliability of analytical results, as well as the safety and efficiency of laboratory operations. Calibration involves comparing the output of an instrument or apparatus with a known standard of reference, and applying corrections if necessary.
+
+Some of the main points to consider when calibrating analytical equipment and apparatus are:
+
+- Calibration should be done according to a standard operating procedure (SOP) that specifies the frequency, method, criteria, and documentation of calibration .
+- Calibration frequency should be based on factors such as the usage, stability, performance, and criticality of the instrument or apparatus. For example, frequently used analytical instruments may require more frequent calibration than rarely used ones.
+- Calibration should be done over the range of conditions and parameters that are relevant for the intended application of the instrument or apparatus. For example, calibration of a balance should cover the range of masses and environmental conditions that are expected in the laboratory.
+- Calibration should be done using appropriate standards of reference that are traceable to national or international standards, and that have a known uncertainty and accuracy . For example, calibration of a mass balance should use certified mass standards that are traceable to the International System of Units (SI).
+- Calibration should be documented and recorded in a clear and consistent manner, including the date, time, method, results, corrections, and uncertainties of calibration . Calibration records should be maintained and reviewed periodically to monitor the performance and stability of the instrument or apparatus.
+- Calibration should be verified and validated by using independent methods, such as check standards, inter-laboratory comparisons, or proficiency testing . Calibration verification and validation should be done at regular intervals or whenever there is a change in the instrument or apparatus that may affect its performance or accuracy.

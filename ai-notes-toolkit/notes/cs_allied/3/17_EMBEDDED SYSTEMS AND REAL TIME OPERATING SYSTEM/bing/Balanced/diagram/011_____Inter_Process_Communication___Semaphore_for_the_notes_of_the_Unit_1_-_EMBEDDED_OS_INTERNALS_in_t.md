@@ -1,0 +1,21 @@
+### Inter Process Communication – Semaphore
+
+- Inter Process Communication (IPC) is a mechanism that allows processes to communicate with each other and synchronize their actions.
+- IPC can be achieved through two methods: shared memory and message passing.
+- Shared memory allows processes to access a common memory region for reading and writing data.
+- Message passing allows processes to exchange messages through queues, pipes, sockets, etc.
+- Semaphore is a type of IPC that uses a counter to control access to a shared resource by multiple processes.
+- Semaphore can be either binary (0 or 1) or counting (non-negative integer) depending on the number of resources available.
+- Semaphore operations are atomic, meaning they are performed without interruption by other processes.
+- Semaphore operations include:
+  - Initialize: set the initial value of the semaphore.
+  - Wait: decrement the semaphore value by one if it is positive, or block the process until it becomes positive.
+  - Signal: increment the semaphore value by one and wake up a waiting process if any.
+- Semaphore can be used for mutual exclusion, where only one process can access a critical section at a time, or for synchronization, where a process has to wait for another process to finish a task before proceeding.
+- Semaphore can be either local (within a process) or global (between processes) depending on the scope of the shared resource.
+- Global semaphore can be implemented using system V semaphores, which are identified by a unique key and stored in the kernel.
+- System V semaphore operations include:
+  - Create or connect: create a new semaphore or connect to an existing one using a key (semget()).
+  - Perform: perform wait or signal operations on the semaphore (semop()).
+  - Control: perform control operations on the semaphore, such as setting or getting its value, permissions, or status (semctl()).
+- Semaphore can be prone to problems such as deadlock, starvation, or priority inversion if not used carefully.

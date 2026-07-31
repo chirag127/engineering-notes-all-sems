@@ -1,0 +1,28 @@
+### Reverse Engineering (RE) of Software
+
+- Reverse engineering (RE) of software is the process of analyzing a software system or its components to extract design and implementation information, such as source code, architecture, algorithms, or protocols.
+- RE of software can be performed for various purposes, such as:
+  - Understanding how a software system works or what it does.
+  - Modifying or enhancing a software system or its functionality.
+  - Finding and fixing bugs or vulnerabilities in a software system.
+  - Reusing or porting a software system or its components to a different platform or environment.
+  - Recovering lost or damaged source code or documentation of a software system.
+  - Learning from or comparing with other software systems or best practices.
+- RE of software can be performed at different levels of abstraction, such as:
+  - Binary level: analyzing the executable code or machine instructions of a software system.
+  - Assembly level: analyzing the assembly code or low-level instructions of a software system.
+  - Source code level: analyzing the source code or high-level instructions of a software system.
+  - Architecture level: analyzing the structure, components, and interactions of a software system.
+  - Behavior level: analyzing the functionality, inputs, outputs, and effects of a software system.
+- RE of software can be performed using various techniques, tools, and methods, such as:
+  - Static analysis: analyzing a software system or its components without executing them, using tools such as disassemblers, decompilers, debuggers, or code analyzers.
+  - Dynamic analysis: analyzing a software system or its components while executing them, using tools such as emulators, simulators, monitors, or profilers.
+  - Interactive analysis: analyzing a software system or its components by interacting with them, using tools such as user interfaces, command-line interfaces, or application programming interfaces (APIs).
+  - Symbolic analysis: analyzing a software system or its components by using mathematical models, such as logic, algebra, or calculus, to represent and reason about their behavior and properties.
+  - Semantic analysis: analyzing a software system or its components by using domain knowledge, such as specifications, protocols, or standards, to interpret and understand their meaning and purpose.
+- RE of software can be performed following various principles, guidelines, and ethics, such as:
+  - Legality: respecting the intellectual property rights, licenses, and contracts of the software system and its owners or developers.
+  - Privacy: protecting the personal or sensitive data, information, or identity of the software system and its users or clients.
+  - Security: preventing or mitigating the risks, threats, or attacks to the software system and its integrity, availability, or confidentiality.
+  - Quality: ensuring or improving the correctness, reliability, performance, or usability of the software system and its results or outputs.
+  - Collaboration: sharing or exchanging the knowledge, skills, or resources with other reverse engineers or stakeholders of the software system.

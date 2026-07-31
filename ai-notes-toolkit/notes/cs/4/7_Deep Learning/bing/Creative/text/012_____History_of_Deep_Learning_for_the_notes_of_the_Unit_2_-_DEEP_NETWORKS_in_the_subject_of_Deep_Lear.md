@@ -1,0 +1,24 @@
+### History of Deep Learning
+
+- Deep learning is a branch of machine learning that uses artificial neural networks to learn from data and perform tasks such as classification, regression, generation, etc.
+- The term deep learning was introduced by Rina Dechter in 1986, and to artificial neural networks by Igor Aizenberg and colleagues in 2000, in the context of Boolean threshold neurons.
+- The history of deep learning can be traced back to 1943, when Walter Pitts and Warren McCulloch created a computer model based on the neural networks of the human brain. They used a combination of algorithms and mathematics they called “threshold logic” to mimic the thought process.
+- In 1950, Alan Turing proposed the Turing test, a criterion to evaluate the intelligence of a machine by its ability to converse with a human.
+- In 1957, Frank Rosenblatt developed the perceptron, a single-layer neural network that could learn to classify linearly separable patterns.
+- In 1958, John von Neumann proposed the concept of self-replicating machines, which inspired the idea of self-organizing neural networks.
+- In 1962, Bernard Widrow and Marcian Hoff invented the ADALINE, a neural network that could adapt its weights using the delta rule, a precursor of the gradient descent algorithm.
+- In 1965, Alexey Ivakhnenko and Valentin Lapa published the first general, working learning algorithm for supervised deep feedforward multilayer perceptrons.
+- In 1969, Marvin Minsky and Seymour Papert published the book Perceptrons, which showed the limitations of single-layer neural networks and discouraged further research in the field.
+- In 1974, Paul Werbos proposed the backpropagation algorithm, which could efficiently train multi-layer neural networks by propagating the errors from the output layer to the hidden layers.
+- In 1980, Kunihiko Fukushima developed the neocognitron, a hierarchical neural network that could recognize handwritten digits and other patterns.
+- In 1982, John Hopfield introduced the Hopfield network, a recurrent neural network that could store and retrieve patterns as attractors of its dynamics.
+- In 1986, David Rumelhart, Geoffrey Hinton and Ronald Williams popularized the backpropagation algorithm and demonstrated its applications to various tasks such as speech recognition, image recognition, natural language processing, etc.
+- In 1987, Yann LeCun, Leon Bottou, Yoshua Bengio and Patrick Haffner developed the convolutional neural network (CNN), a type of neural network that could exploit the spatial structure of images and reduce the number of parameters.
+- In 1989, Geoffrey Hinton and David Ackley proposed the Boltzmann machine, a stochastic neural network that could learn generative models of data using a contrastive divergence algorithm.
+- In 1992, Jürgen Schmidhuber and Sepp Hochreiter introduced the long short-term memory (LSTM), a type of recurrent neural network that could overcome the vanishing gradient problem and learn long-term dependencies in sequential data.
+- In 1997, Tomaso Poggio and Federico Girosi proposed the support vector machine (SVM), a kernel-based learning method that could achieve high accuracy and generalization on various tasks.
+- In 1998, Yann LeCun, Léon Bottou, Yoshua Bengio and Patrick Haffner applied the CNN to handwritten digit recognition and achieved state-of-the-art results on the MNIST dataset.
+- In 2006, Geoffrey Hinton, Simon Osindero and Yee-Whye Teh proposed the deep belief network (DBN), a generative model that could learn multiple layers of features from unlabeled data using a greedy layer-wise pre-training algorithm.
+- In 2007, Yoshua Bengio, Pascal Lamblin, Dan Popovici and Hugo Larochelle proposed the stacked autoencoder, another generative model that could learn multiple layers of features from unlabeled data using a greedy layer-wise pre-training algorithm.
+- In 2009, Andrew Ng and his team applied the DBN to audio-visual speech recognition and achieved significant improvements over previous methods.
+- In 2010, Dan Ciresan, Ueli Meier, Jonathan Masci and

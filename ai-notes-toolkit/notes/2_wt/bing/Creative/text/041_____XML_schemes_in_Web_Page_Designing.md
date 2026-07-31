@@ -1,0 +1,11 @@
+### XML Schemes in Web Page Designing
+
+- XML stands for eXtensible Markup Language. It is a markup language similar to HTML, but without predefined tags to use. Instead, you define your own tags designed specifically for your needs. This is a powerful way to store and transport data in a format that can be stored, searched, and shared.
+- XML schemas are used to define the structure, content, and constraints of XML documents. They are written in XML syntax and can be validated by XML processors. XML schemas are an alternative to DTDs (Document Type Definitions), which are less expressive and less flexible.
+- XML schemas support data types, which allow you to specify the format and range of values for the elements and attributes in your XML documents. Data types can be built-in (such as string, integer, date, etc.) or user-defined (by deriving from existing types or creating lists or unions of types). Data types make it easier to describe, validate, and restrict your data.
+- XML schemas use various design patterns to organize the global elements and types in a schema. Some of the common design patterns are:
+  - Russian Doll: All the elements and types are nested inside the root element, which is the only global element. This pattern is simple and compact, but it makes reuse and extension difficult.
+  - Salami Slice: All the elements are global and have anonymous types. This pattern is easy to reuse and extend, but it makes the schema verbose and hard to read.
+  - Venetian Blind: All the types are global and have names, and the elements have references to the types. This pattern is modular and flexible, but it requires more indirection and navigation.
+  - Garden of Eden: All the elements and types are global and have names. This pattern is the most expressive and reusable, but it may introduce name conflicts and redundancy.
+- XML schemas can be built in-memory using the classes in the System.Xml.Schema namespace, which map to the structures defined in the W3C XML Schema Recommendation. The XmlSchema class represents the root of a schema, and the XmlSchemaElement and XmlSchemaType classes represent the elements and types in a schema. You can use the XmlSchemaSet class to compile and validate a schema.

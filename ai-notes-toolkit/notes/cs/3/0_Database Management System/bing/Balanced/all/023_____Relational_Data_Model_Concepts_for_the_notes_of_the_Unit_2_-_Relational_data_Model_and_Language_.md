@@ -1,0 +1,11 @@
+# Relational Data Model Concepts
+
+The relational data model is a widely used data model for storing and processing data in a database. It is based on the concept of relations, which are logical structures that represent data as a collection of rows and columns. Each row in a relation is called a tuple, and each column is called an attribute. A relation has a name and a set of attributes that define its schema. The schema of a relation is also called its degree, and the number of tuples in a relation is called its cardinality.
+
+Some of the main concepts of the relational data model are:
+
+- **Primary key**: A primary key is an attribute or a combination of attributes that uniquely identifies each tuple in a relation. A primary key cannot have null values or duplicate values. A relation can have only one primary key, which is also called the primary key constraint.
+- **Foreign key**: A foreign key is an attribute or a combination of attributes that references the primary key of another relation. A foreign key establishes a relationship between two relations, which is also called a referential integrity constraint. A foreign key can have null values or duplicate values, but it must match the values of the referenced primary key or be null.
+- **Domain**: A domain is a set of possible values for an attribute. A domain defines the data type, format, and constraints of an attribute. For example, a domain for a student ID attribute could be a set of integers between 1000 and 9999.
+- **Relation instance**: A relation instance is a snapshot of the data in a relation at a given point in time. A relation instance is also called a relation state or a relation value. A relation instance can change over time as tuples are inserted, deleted, or updated.
+- **Relational algebra**: Relational algebra is a set of operations that can be applied to relations to manipulate and query data. Relational algebra operations include selection, projection, union, intersection, difference, product, join, division, and aggregation. Relational algebra operations can be combined to form complex expressions that specify the desired data. Relational algebra is the theoretical foundation of the structured query language (SQL), which is the most common language for accessing and manipulating data in relational databases.

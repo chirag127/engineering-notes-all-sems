@@ -1,0 +1,10 @@
+#### Āshrama or the Stages of Life in Society in Ancient India
+
+- Āshrama (Sanskrit: आश्रम) is a system of stages of life discussed in Hindu texts of the ancient and medieval eras.
+- The Āshrama system is one facet of the Dharma concept in Hinduism, which prescribes the duties and responsibilities of an individual according to his or her age, gender, occupation and social status.
+- The four āśramas are:
+  - Brahmacharya (student), marked by chastity, devotion, and obedience to one’s teacher. This stage lasts until the age of 25, and involves learning the Vedas and other sacred texts, as well as the skills and values necessary for life .
+  - Gṛhastha (householder), requiring marriage, the begetting of children, sustaining one’s family and helping support priests and holy men, and fulfillment of duties toward gods and ancestors. This stage lasts until the age of 50, and involves performing rituals, charity, social service, and earning wealth through ethical means .
+  - Vanaprastha (forest walker/forest dweller), involving gradual withdrawal from worldly affairs and attachment to one’s spouse, children, and possessions. This stage lasts until the age of 75, and involves living in a forest or a secluded place, practicing meditation, self-discipline, and spiritual wisdom .
+  - Sannyasa (renunciate), involving complete renunciation of worldly life and attachment to anything or anyone. This stage lasts until death, and involves living as a wandering ascetic, seeking liberation from the cycle of birth and death, and attaining the highest knowledge of Brahman, the ultimate reality .
+- The Āshrama system was not rigid or compulsory, but rather a flexible and idealistic model of human development. It was not applicable to all sections of society, such as women, lower castes, and non-Hindus. It was also subject to change and adaptation over time, depending on the social, political, and religious context .

@@ -1,0 +1,12 @@
+### 14. Business English by Ken Taylor, Orient Blackswan, 2011, New Delhi
+
+- Business English is a term that refers to the language used in various contexts of business communication, such as meetings, presentations, negotiations, emails, reports, etc.
+- Business English is not a separate language, but a variety of English that has specific vocabulary, grammar, and style features that suit the needs and expectations of business professionals and audiences.
+- Business English can be learned and improved by using various resources and methods, such as books, online courses, podcasts, videos, etc. One of the books that offers self-study tips and exercises for second-language learners of business English is **50 Ways to Improve Your Business English by Ken Taylor**.
+- The book, published by Orient Blackswan in 2011, is part of the **50 Ways series** that provides practical and easy-to-follow advice on improving different aspects of communication skills in business.
+- The book covers topics such as writing emails, letters, and reports, making phone calls, giving presentations, participating in meetings, using social media, and avoiding common mistakes and misunderstandings in business English.
+- The book is divided into 50 units, each focusing on one specific way to improve business English, such as using active verbs, avoiding jargon, checking spelling, using polite expressions, etc.
+- Each unit consists of a short introduction, a list of dos and don'ts, a practice exercise, and a key to the exercise. The units can be done in any order, depending on the learner's needs and interests.
+- The book is suitable for intermediate to advanced learners of business English who want to enhance their confidence and competence in using the language in various business situations and contexts.
+- The book is written by **Ken Taylor**, a British author and teacher of business English who has over 30 years of experience in the field. He has also written other books in the 50 Ways series, such as 50 Ways to Improve Your Business English Using the Internet, 50 Ways to Improve Your Intercultural Skills, and 50 Ways to Improve Your Presentation Skills in English.
+- Ken Taylor is also known for his popular column **Dear Ken** in Spotlight magazine, where he answers questions from readers about business English and intercultural communication.

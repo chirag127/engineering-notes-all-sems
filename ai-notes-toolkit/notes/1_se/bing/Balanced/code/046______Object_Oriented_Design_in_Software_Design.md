@@ -1,0 +1,12 @@
+#### Object Oriented Design in Software Design
+
+Object oriented design (OOD) is a software design approach that focuses on modeling the real-world entities and their relationships. OOD aims to create software systems that are modular, reusable, extensible, and maintainable.
+
+Some of the key concepts of OOD are:
+
+- **Class**: A class is a blueprint or template that defines the attributes and behaviors of a type of object. A class can have data fields (variables) and methods (functions) that operate on the data. A class can also have constructors, which are special methods that are invoked when an object is created from the class.
+- **Object**: An object is an instance or a specific example of a class. An object has its own state, which is determined by the values of its data fields, and can perform actions, which are defined by its methods. An object can communicate with other objects by sending and receiving messages.
+- **Inheritance**: Inheritance is a mechanism that allows a class to inherit the attributes and behaviors of another class. The class that inherits is called the subclass or the child class, and the class that is inherited from is called the superclass or the parent class. Inheritance enables code reuse and polymorphism.
+- **Polymorphism**: Polymorphism is the ability of an object to take different forms depending on the context. Polymorphism can be achieved by using inheritance or interfaces. Inheritance allows a subclass to override or extend the methods of its superclass, so that the same message can have different implementations for different classes. Interfaces are abstract classes that define a set of methods that a class must implement, so that different classes can have a common behavior without sharing a common ancestor.
+- **Encapsulation**: Encapsulation is the principle of hiding the internal details of an object from the outside world. Encapsulation ensures that an object can only be accessed and modified through its public interface, which consists of its methods and public data fields. Encapsulation protects the integrity and consistency of an object's state and prevents unauthorized or unintended changes.
+- **Abstraction**: Abstraction is the process of simplifying and generalizing a complex problem or system by ignoring the irrelevant details and focusing on the essential features. Abstraction helps to reduce the complexity and increase the readability and maintainability of a software system. Abstraction can be achieved by using classes, interfaces, abstract methods, and abstract data types.

@@ -1,0 +1,15 @@
+# Congestion control algorithms
+
+Congestion control algorithms are methods to regulate the flow of data packets in a network and prevent congestion. Congestion occurs when the demand for network resources exceeds the available capacity, resulting in packet loss, delay, and reduced throughput. Congestion control algorithms aim to achieve a balance between network utilization and performance.
+
+There are two main types of congestion control algorithms:
+
+- **Open loop congestion control**: These algorithms try to prevent congestion before it happens by controlling the rate or frequency of packet transmission. Examples of open loop congestion control algorithms are:
+
+  - **Leaky bucket**: This algorithm simulates a leaky bucket that can hold a fixed number of tokens. Tokens are generated at a constant rate and added to the bucket. A packet can be transmitted only if there is a token available in the bucket. If the bucket is full, any incoming token is discarded. This algorithm limits the burstiness of the traffic and smooths out the packet rate. 
+  - **Token bucket**: This algorithm is similar to the leaky bucket, but it allows some burstiness in the traffic. The bucket can hold a maximum number of tokens, but tokens are not discarded if the bucket is full. Instead, they accumulate up to the bucket capacity. A packet can be transmitted if there is a token available in the bucket, and multiple packets can be transmitted at once if there are enough tokens. This algorithm allows the sender to use the available bandwidth when the network is not congested, but also imposes a limit on the maximum rate. 
+
+- **Closed loop congestion control**: These algorithms react to congestion after it happens by adjusting the rate or window size of packet transmission based on feedback from the network. Examples of closed loop congestion control algorithms are:
+
+  - **Additive increase multiplicative decrease (AIMD)**: This algorithm is used by TCP to control the congestion window size. The sender increases the window size by one segment for every successful acknowledgment received, until it reaches a threshold value or a packet loss occurs. This is called the additive increase phase. When a packet loss occurs, the sender assumes that it is due to congestion and reduces the window size by half. This is called the multiplicative decrease phase. This algorithm achieves a fair allocation of bandwidth among multiple TCP flows, but it is also slow to converge and oscillates around the optimal point. 
+  - **Congestion avoidance and control (CAC)**: This algorithm is an improvement over AIMD that uses packet delay as an indicator of congestion, rather than packet loss. The sender estimates the round-trip time (RTT) of each packet and compares it with a reference value. If the RTT is higher than the reference value, the sender reduces the window size by a fraction. If the RTT is lower than the reference value, the sender increases the window size by a fraction. This algorithm avoids the drastic reduction of the window size that occurs in AIMD and achieves a smoother and more stable throughput.

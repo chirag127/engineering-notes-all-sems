@@ -1,0 +1,12 @@
+### Design Guidelines - Theoretical Foundations of Wayfinding
+
+Wayfinding is the process of finding one's way in a physical or virtual environment. Wayfinding involves cognitive, perceptual, and behavioral aspects of navigation. Wayfinding is especially important for 3D interaction techniques, as users may need to explore complex and unfamiliar 3D spaces, such as virtual or augmented reality environments.
+
+Some design guidelines for wayfinding are:
+
+- Create an identity at each location, different from all others. This helps users to recognize where they are and distinguish different places. Identity can be created by using distinctive architectural features, colors, textures, lighting, sounds, or symbols.
+- Use landmarks to provide orientation cues and memorable locations. Landmarks are salient objects or features that can be easily seen and recognized from different viewpoints. Landmarks can help users to orient themselves, estimate distances and directions, and recall routes .
+- Provide consistent and clear signage and graphic communication. Signage and graphic communication are visual elements that convey information about the environment, such as names, directions, distances, or instructions. Signage and graphic communication should be legible, visible, concise, and consistent in style and placement .
+- Provide multiple modalities of information. Information can be presented in different modalities, such as visual, auditory, haptic, or olfactory. Providing multiple modalities of information can enhance user's perception, memory, and attention, and can also accommodate different user preferences and abilities.
+- Provide feedback and feedforward. Feedback is information that confirms user's actions and outcomes, such as sounds, vibrations, or animations. Feedforward is information that anticipates user's actions and outcomes, such as previews, hints, or guides. Feedback and feedforward can help users to understand the consequences of their actions and plan their next steps.
+- Provide overview and detail views. Overview and detail views are different levels of abstraction and granularity of the environment. Overview views provide a global perspective of the environment, such as maps, aerial views, or miniatures. Detail views provide a local perspective of the environment, such as first-person views, close-ups, or zooms. Overview and detail views can help users to comprehend the structure and layout of the environment and switch between different levels of focus.

@@ -1,0 +1,15 @@
+## Unit 5 - Concurrency Control Techniques
+
+Concurrency control techniques are methods of managing the simultaneous execution of transactions in a shared database. They aim to preserve the database consistency, enforce the isolation of different transactions, and resolve the conflicts that occur due to the read-write operations of transactions .
+
+The need for concurrency control arises because multiple transactions may access and modify the same data items concurrently, which may lead to inconsistency, lost updates, uncommitted dependency, or incorrect summary.
+
+Some of the common concurrency control techniques are:
+
+- **Two-phase locking protocol**: This technique uses locks to secure the permission to read or write a data item. A transaction goes through two phases: a locking phase, where it acquires locks on the data items it needs, and an unlocking phase, where it releases the locks. The locking phase precedes the unlocking phase, and no new locks can be acquired after releasing a lock. This protocol ensures serializability, which means the concurrent execution of transactions is equivalent to some serial execution of the same transactions .
+
+- **Timestamp ordering protocol**: This technique assigns a unique timestamp to each transaction, which reflects its start time. The timestamp is used to order the transactions and determine their precedence. A transaction can read or write a data item only if its timestamp is higher than the timestamp of the last transaction that wrote the data item. Otherwise, the transaction is aborted and restarted with a new timestamp. This protocol avoids the deadlock problem, which occurs when two or more transactions are waiting for each other to release locks.
+
+- **Multi-version concurrency control**: This technique maintains multiple versions of each data item, each with a different timestamp. A transaction can read the version of a data item that was the latest before its start time, and write a new version of a data item with its own timestamp. This protocol allows more concurrency than the timestamp ordering protocol, as transactions can read older versions of data items without conflicting with other transactions that write newer versions.
+
+- **Validation concurrency control**: This technique divides the execution of a transaction into three phases: a read phase, where the transaction reads data items from the database, a validation phase, where the transaction checks for conflicts with other transactions, and a write phase, where the transaction writes the modified data items to the database. A transaction can commit only if it passes the validation phase, which ensures that its read set and write set do not overlap with the write sets of other transactions that committed during its execution. This protocol avoids locking and aborting transactions, but requires buffering the modified data items until the write phase .

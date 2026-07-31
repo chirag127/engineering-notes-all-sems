@@ -1,0 +1,8 @@
+### Storage allocation in block structured language
+
+- A block is a program segment that contains data declarations. There can be nested blocks. Uses dynamic memory allocation.
+- A block structured language like ALGOL, and PL/I permit adjustable arrays, i.e., of varying length. Therefore, we cannot store irregular size arrays in between activation records. It can allocate the flexible or variable arrays at one corner of the activation record or above the fixed-size data.
+- The storage is allocated sequentially in the stack beginning at one end. Storage should be freed in the reverse order of allocation so that a block of storage being released is always at the top of the stack. A program consists of data and procedures.
+- The storage is released when the block is exited. If the block is a procedure that is invoked recursively, the previously allocated storage is pushed down upon entry; the latest allocation of storage is popped up in a recursive procedure when each generation terminates.
+- The conventional storage allocation scheme for block structured languages requires the allocation of stack space and the building of a display with each procedure call. Several techniques have been proposed for analyzing the call graph of a program that make it possible to eliminate these operations from many call sequences.
+- Conventionally, compilers for block structured languages with potentially recursive procedures generate code to allocate stack storage for local variables on each procedure call. This paper reviews previous schemes for reducing storage allocation overhead and proposes a new scheme.

@@ -1,0 +1,21 @@
+### Pattern-based Architecture for Service-oriented Applications
+
+- A pattern-based architecture for service-oriented applications is an architectural style that uses **patterns** to describe the design and implementation of **services** that can be composed into **applications**.
+- A **pattern** is a reusable solution to a common problem in a given context. Patterns can be classified into different types, such as **design patterns**, **integration patterns**, **enterprise patterns**, etc.
+- A **service** is a self-contained, modular, and loosely coupled unit of functionality that provides a specific business capability or value. Services can be implemented using various technologies, such as **SOAP**, **REST**, **gRPC**, etc.
+- An **application** is a collection of services that work together to achieve a business goal or provide a user experience. Applications can be orchestrated using various mechanisms, such as **BPMN**, **BPEL**, **Camel**, etc.
+- A pattern-based architecture for service-oriented applications can provide several benefits, such as:
+  - **Reusability**: Services and patterns can be reused across different applications and domains, reducing development and maintenance costs and improving quality and consistency.
+  - **Interoperability**: Services and patterns can communicate with each other using standard protocols and formats, enabling integration and collaboration across heterogeneous platforms and systems.
+  - **Scalability**: Services and patterns can be deployed and scaled independently, allowing for better performance and availability of applications.
+  - **Flexibility**: Services and patterns can be modified and replaced easily, allowing for faster adaptation to changing business and user needs.
+  - **Testability**: Services and patterns can be tested individually and in isolation, simplifying the testing and debugging process and ensuring reliability and correctness.
+- Some examples of patterns for service-oriented applications are:
+  - **Service Interface**: A pattern that defines the contract and the behavior of a service, such as its operations, parameters, messages, faults, etc.
+  - **Service Implementation**: A pattern that defines the logic and the technology of a service, such as its components, dependencies, transactions, security, etc.
+  - **Service Registry**: A pattern that provides a centralized repository of service metadata, such as service names, locations, descriptions, policies, etc.
+  - **Service Discovery**: A pattern that enables service consumers to find and access service providers dynamically, using the service registry or other mechanisms.
+  - **Service Proxy**: A pattern that provides an intermediary between service consumers and service providers, abstracting the details of service invocation, such as protocol, format, routing, etc.
+  - **Service Broker**: A pattern that provides an intermediary between service consumers and service providers, mediating the interactions and adding value-added features, such as load balancing, caching, logging, etc.
+  - **Service Composition**: A pattern that defines how services can be combined and coordinated to create applications, using orchestration or choreography techniques.
+  - **Service Governance**: A pattern that defines the policies and the processes for managing the lifecycle and the quality of services, such as design, development, deployment, monitoring, etc.

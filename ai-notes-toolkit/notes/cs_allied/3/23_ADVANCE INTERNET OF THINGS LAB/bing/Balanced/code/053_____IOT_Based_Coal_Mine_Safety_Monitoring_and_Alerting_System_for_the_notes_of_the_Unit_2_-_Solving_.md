@@ -1,0 +1,23 @@
+### IOT Based Coal Mine Safety Monitoring and Alerting System
+
+- IOT based coal mine safety monitoring and alerting system is a system that uses sensors and wireless communication to monitor and alert the workers and authorities about the hazardous conditions in the coal mine .
+- The system consists of the following components:
+  - Sensors: These are devices that measure the physical parameters such as temperature, smoke, methane, humidity, etc. in the coal mine and send the data to the transmitter module . Some examples of sensors are LM35, MQ2, MQ4, DHT11, etc.
+  - Transmitter module: This is a device that receives the data from the sensors and transmits it to the receiver module using a wireless communication protocol such as RF, Zigbee, LoRa, etc  . The transmitter module also has an LCD to display the sensor data locally and a buzzer to alert the workers in case of emergency.
+  - Receiver module: This is a device that receives the data from the transmitter module and sends it to the central IoT gateway using a wired or wireless connection  . The receiver module also has an LCD to display the sensor data and a buzzer to alert the authorities in case of emergency.
+  - Central IoT gateway: This is a device that collects and analyzes the data from the receiver modules and sends it to the cloud or a local server using the internet . The central IoT gateway also has an LCD to display the sensor data and a buzzer to alert the authorities in case of emergency. The central IoT gateway can also send commands to the transmitter modules to control the sensors or the actuators.
+  - Cloud or local server: This is a platform that stores and processes the data from the central IoT gateway and provides a web or mobile interface for the users to access and visualize the data  . The cloud or local server can also send notifications or alerts to the users via email, SMS, or phone call in case of emergency  .
+- The system works as follows:
+  - The sensors measure the physical parameters in the coal mine and send the data to the transmitter module .
+  - The transmitter module transmits the data to the receiver module using a wireless communication protocol  .
+  - The receiver module sends the data to the central IoT gateway using a wired or wireless connection  .
+  - The central IoT gateway collects and analyzes the data and sends it to the cloud or a local server using the internet .
+  - The cloud or local server stores and processes the data and provides a web or mobile interface for the users to access and visualize the data  .
+  - The system monitors the data and compares it with the predefined thresholds to detect any abnormal or hazardous conditions in the coal mine   .
+  - If any abnormal or hazardous condition is detected, the system alerts the workers and the authorities using the buzzer, the LCD, and the notifications or alerts via email, SMS, or phone call   .
+  - The system can also send commands to the transmitter modules to control the sensors or the actuators to take preventive or corrective actions.
+- The system has the following advantages:
+  - It improves the safety and security of the workers and the coal mine by detecting and alerting the hazardous conditions in real time   .
+  - It reduces the human intervention and errors by using sensors and wireless communication to monitor and control the coal mine   .
+  - It enhances the efficiency and productivity of the coal mine by providing data analysis and visualization for the users to optimize the coal mining operations  .
+  - It saves the cost and energy by using low power communication protocols and devices  [

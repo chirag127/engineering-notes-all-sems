@@ -1,0 +1,22 @@
+### Technology behind IoT
+
+- IoT stands for Internet of Things, which is the concept of connecting any device with an on/off switch to the internet and to other connected devices.
+- IoT works through a combination of wireless networking technology, physical devices, advanced data analytics and cloud computing.
+- IoT devices connect to the internet via GSM cellular networks, Wi-Fi, or ethernet.
+- IoT devices can also communicate with each other and/or a central area using protocols such as Bluetooth, Zigbee, Z-Wave, LoRaWAN, or MQTT .
+- IoT devices can perform various functions, such as sensing, processing, actuating, or transmitting data, depending on their hardware and software components.
+- Some of the hardware components used in IoT devices are:
+  - CPUs, MCUs, GPUs, security chips, FPGA, and edge gateways, which provide computing power, security, and connectivity.
+  - Sensors, cameras, microphones, and RFID tags, which collect data from the environment or the device itself.
+  - LEDs, speakers, motors, and relays, which provide feedback or control to the device or the user.
+- Some of the software components used in IoT devices are:
+  - Operating systems, such as Linux, Android, or FreeRTOS, which manage the device's resources and functions.
+  - Applications, such as web browsers, voice assistants, or smart home apps, which provide the user interface and functionality of the device.
+  - Cloud platforms, such as AWS IoT, Azure IoT, or Google Cloud IoT, which provide data storage, processing, analytics, and management services for the device and the user.
+  - Edge computing, which refers to the technology used to make smart devices do more than just send or receive data to their IoT platform. It increases the computing power at the edges of an IoT network, reducing communication latency and improving response time.
+- IoT devices can be used for various purposes, such as:
+  - Smart home, which allows the user to remotely control temperature, monitor security, turn off lights, feed pets, and lock doors with voice or app commands.
+  - Smart city, which enables the management of traffic, parking, waste, energy, and water using sensors, cameras, and smart meters.
+  - Smart industry, which improves the efficiency, productivity, and safety of manufacturing, logistics, and agriculture using robots, drones, and sensors.
+  - Smart health, which enhances the quality and accessibility of healthcare using wearable devices, telemedicine, and remote monitoring.
+  - Smart education, which facilitates the learning and teaching process using interactive boards, tablets, and online platforms.

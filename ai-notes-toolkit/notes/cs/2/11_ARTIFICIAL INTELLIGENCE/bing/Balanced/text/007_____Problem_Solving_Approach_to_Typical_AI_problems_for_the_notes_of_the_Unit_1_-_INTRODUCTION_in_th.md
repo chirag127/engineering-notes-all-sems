@@ -1,0 +1,11 @@
+### Problem Solving Approach to Typical AI Problems
+
+- Problem solving in AI is the process of finding solutions to complex or ill-defined problems by applying knowledge, heuristics, algorithms, and reasoning techniques.
+- Problem solving in AI can be classified into two types: search problems and optimization problems.
+- Search problems are those where the goal is to find a path or a sequence of actions that leads from an initial state to a goal state, satisfying some constraints or criteria. Examples of search problems are pathfinding, planning, game playing, and theorem proving.
+- Optimization problems are those where the goal is to find the best or optimal solution among a set of possible solutions, according to some objective function or measure of quality. Examples of optimization problems are scheduling, resource allocation, machine learning, and design.
+- Problem solving in AI can be further categorized into four levels of abstraction: knowledge level, logical level, algorithmic level, and implementation level.
+- Knowledge level is the highest level of abstraction, where the problem is described in terms of the domain knowledge, the goals, and the assumptions. This level focuses on what to solve and why to solve it.
+- Logical level is the next level of abstraction, where the problem is formalized in terms of a logical language, such as propositional logic, predicate logic, or modal logic. This level focuses on how to represent the problem and the solution in a precise and consistent way.
+- Algorithmic level is the next level of abstraction, where the problem is solved by applying a specific algorithm or a method, such as search, inference, or optimization. This level focuses on how to solve the problem efficiently and effectively.
+- Implementation level is the lowest level of abstraction, where the problem is solved by using a specific programming language, data structure, or hardware. This level focuses on how to implement the solution in a practical and robust way.

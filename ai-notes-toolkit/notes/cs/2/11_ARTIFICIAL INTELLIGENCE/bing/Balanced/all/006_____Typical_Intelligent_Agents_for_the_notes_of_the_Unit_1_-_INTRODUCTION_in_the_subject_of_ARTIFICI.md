@@ -1,0 +1,13 @@
+# Typical Intelligent Agents
+
+- An **intelligent agent** is an autonomous entity that acts upon an environment using sensors and actuators to achieve its goals .
+- An intelligent agent may also learn from the environment to improve its performance.
+- An intelligent agent can be described as a software entity that conducts operations in the place of users or programs after sensing the environment.
+- An intelligent agent can also be a physical entity, such as a robot, a self-driving car, or a smart device .
+- An intelligent agent can be classified into different types based on its degree of rationality, autonomy, adaptability, and interaction .
+- The main types of intelligent agents are:
+  - **Simple reflex agents**: These agents act based on the current percept, without considering the history of percepts or the consequences of actions. They are the simplest and most limited type of agents. An example is a thermostat that adjusts the temperature based on the current reading .
+  - **Model-based reflex agents**: These agents act based on the current percept and a model of the environment, which is updated based on the history of percepts and actions. They can handle partially observable and dynamic environments better than simple reflex agents. An example is a self-driving car that uses a map and sensors to navigate the road .
+  - **Goal-based agents**: These agents act based on the current percept, a model of the environment, and a goal that specifies the desired state of the world. They can choose actions that achieve the goal in the most efficient way, even if they are not directly related to the current percept. An example is a chess-playing program that selects moves that lead to a checkmate .
+  - **Utility-based agents**: These agents act based on the current percept, a model of the environment, a goal, and a utility function that measures how desirable each state of the world is. They can choose actions that maximize the expected utility, taking into account the uncertainty and trade-offs involved. An example is a stock-trading program that buys and sells shares based on the expected profit .
+  - **Learning agents**: These agents act based on the current percept, a model of the environment, a goal, a utility function, and a learning component that improves the agent's performance over time. They can adapt to changing environments and learn from their own experience and feedback. An example is a voice assistant that learns from the user's preferences and commands .

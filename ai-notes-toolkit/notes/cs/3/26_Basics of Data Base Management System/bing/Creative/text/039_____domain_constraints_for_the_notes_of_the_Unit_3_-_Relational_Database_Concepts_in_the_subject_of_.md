@@ -1,0 +1,13 @@
+### Domain Constraints for the Notes of the Unit 3 - Relational Database Concepts in the Subject of Basics of Data Base Management System
+
+- Domain constraints are a type of user-defined column that helps us to arrange the data we have entered according to the datatype.
+- Domain constraints specify the domain or set of values that are allowed for an attribute or a column in a relation.
+- Domain constraints ensure that the data stored in a column is valid, consistent and meaningful.
+- Domain constraints can be enforced by using the following methods:
+  - Not Null: This constraint prevents the insertion of null values in a column. Null values are the values that are unassigned or unknown. For example, if we have a column named `name` in a table named `student`, we can use the not null constraint to ensure that every student has a name.
+  - Check: This constraint defines a condition that each row must satisfy. For example, if we have a column named `age` in a table named `student`, we can use the check constraint to ensure that the age of every student is between 18 and 25.
+  - Default: This constraint specifies a default value for a column when no value is provided by the user. For example, if we have a column named `gender` in a table named `student`, we can use the default constraint to assign `M` or `F` as the default value for the gender of every student.
+  - Unique: This constraint ensures that the values in a column are distinct and no two rows have the same value. For example, if we have a column named `roll_no` in a table named `student`, we can use the unique constraint to ensure that every student has a unique roll number.
+  - Primary Key: This constraint combines the not null and unique constraints and identifies each row uniquely in a table. For example, if we have a column named `roll_no` in a table named `student`, we can use the primary key constraint to ensure that every student has a unique and non-null roll number.
+  - Foreign Key: This constraint establishes a relationship between two tables by referencing a column in one table to a primary key column in another table. For example, if we have a table named `course` with a column named `course_id` as the primary key, and a table named `enrollment` with a column named `course_id` as the foreign key, we can use the foreign key constraint to ensure that every course enrolled by a student exists in the course table.
+- Domain constraints are important for maintaining the integrity, accuracy and quality of the data in a relational database .

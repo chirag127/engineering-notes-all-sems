@@ -1,0 +1,16 @@
+### Classification of Data
+
+Classification of data is the process of organizing data into categories or groups based on some criteria. It helps to make data easier to find, access, and use. It also helps to protect data from unauthorized access or misuse. Classification of data can be done in different ways, depending on the purpose and the nature of the data. Here are some common types of data classification:
+
+- **Qualitative classification**: This type of classification is based on the characteristics or attributes of the data, such as gender, color, religion, etc. For example, we can classify students by their gender (male or female) or by their hair color (black, brown, blonde, etc.).
+- **Quantitative classification**: This type of classification is based on the numerical values or measurements of the data, such as height, weight, income, etc. For example, we can classify students by their height (tall, medium, short) or by their income (high, medium, low).
+- **Geographical classification**: This type of classification is based on the location or area of the data, such as country, state, city, etc. For example, we can classify students by their country of origin (India, China, USA, etc.) or by their city of residence (Delhi, Mumbai, New York, etc.).
+- **Chronological classification**: This type of classification is based on the time or date of the data, such as year, month, day, hour, etc. For example, we can classify students by their year of birth (1990, 1991, 1992, etc.) or by their month of admission (January, February, March, etc.).
+- **Logical classification**: This type of classification is based on the logical relationship or connection between the data, such as cause and effect, similarity and difference, part and whole, etc. For example, we can classify students by their academic performance (excellent, good, average, poor) or by their major subject (math, science, arts, etc.).
+
+Data classification can also be done according to the level of sensitivity or security of the data, such as public, private, internal, confidential, etc. This helps to determine who can access, modify, or share the data, and what measures are needed to protect the data from unauthorized or malicious use. For example, we can classify data by the following levels:
+
+- **Public data**: This is data that is freely available and accessible to anyone, such as news, weather, maps, etc. It does not require any protection or restriction.
+- **Private data**: This is data that is personal or sensitive, such as name, address, phone number, email, etc. It requires some protection or restriction, but not as much as confidential data.
+- **Internal data**: This is data that is relevant or useful only to a specific organization or group, such as policies, procedures, reports, etc. It requires more protection or restriction than private data, but not as much as confidential data.
+- **Confidential data**: This is data that is highly sensitive or valuable, such as financial, medical, legal, or military data. It requires the highest level of protection or restriction, and only authorized or trusted people can access, modify, or share it.

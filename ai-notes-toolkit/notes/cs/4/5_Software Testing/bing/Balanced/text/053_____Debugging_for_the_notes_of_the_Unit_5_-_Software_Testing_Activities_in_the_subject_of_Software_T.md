@@ -1,0 +1,21 @@
+### Debugging
+
+- Debugging is the process of finding and fixing errors or defects in a software system or program.
+- Debugging involves locating the source of the error, identifying the cause of the error, and correcting the error by modifying the code or configuration of the system or program.
+- Debugging can be done manually or with the help of automated tools, such as debuggers, profilers, or code analyzers.
+- Debugging can be performed at different levels of abstraction, such as source code, assembly code, machine code, or runtime behavior.
+- Debugging can be classified into different types, such as:
+  - Syntax debugging: Checking and correcting the syntax errors or grammatical mistakes in the code.
+  - Semantic debugging: Checking and correcting the logical errors or semantic mistakes in the code, such as incorrect algorithms, data structures, or variable names.
+  - Runtime debugging: Checking and correcting the errors or exceptions that occur during the execution of the system or program, such as memory leaks, segmentation faults, or infinite loops.
+  - Interface debugging: Checking and correcting the errors or mismatches that occur at the interface or boundary of the system or program, such as incorrect input/output, communication, or protocol.
+  - Performance debugging: Checking and correcting the errors or inefficiencies that affect the performance or speed of the system or program, such as high CPU usage, memory consumption, or network latency.
+- Debugging can be facilitated by using various techniques, such as:
+  - Testing: Applying test cases or scenarios to the system or program to verify its functionality, reliability, or quality.
+  - Logging: Recording the events or activities of the system or program to a file or a database for later analysis or inspection.
+  - Tracing: Following the execution path or flow of the system or program to observe its behavior or state at different points or stages.
+  - Breakpoint: Setting a point or condition in the code where the execution of the system or program is paused or stopped for inspection or modification.
+  - Watchpoint: Setting a variable or expression in the code where the value or result is monitored or displayed for inspection or modification.
+  - Stepping: Executing the system or program one instruction or statement at a time for inspection or modification.
+  - Stack: Examining the sequence or hierarchy of the functions or methods that are called or invoked by the system or program for inspection or modification.
+  - Heap: Examining the memory allocation or deallocation of the objects or data that are used or created by the system or program for inspection or modification.

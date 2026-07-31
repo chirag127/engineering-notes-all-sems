@@ -1,0 +1,24 @@
+### Halestead’s Software Science
+
+- Halestead’s Software Science is a set of software metrics that measure the complexity, quality, and effort of a program based on its operators and operands .
+- Operators are the basic symbols that perform some function, such as arithmetic operators, logical operators, assignment operators, etc. Operands are the data or variables that are manipulated by the operators .
+- Halestead’s Software Science defines the following base measures :
+  - n1: the number of distinct operators in the program
+  - n2: the number of distinct operands in the program
+  - N1: the total number of operators in the program
+  - N2: the total number of operands in the program
+- Based on these base measures, Halestead’s Software Science derives the following derived measures :
+  - Program length (N): the total number of operators and operands in the program, i.e., N = N1 + N2
+  - Program vocabulary (n): the total number of distinct operators and operands in the program, i.e., n = n1 + n2
+  - Estimated program length (N^): the optimal program length for the given vocabulary, i.e., N^ = n1 * log2(n1) + n2 * log2(n2)
+  - Volume (V): the amount of information contained in the program, i.e., V = N * log2(n)
+  - Difficulty (D): the difficulty of writing or understanding the program, i.e., D = (n1/2) * (N2/n2)
+  - Effort (E): the amount of effort required to write or maintain the program, i.e., E = D * V
+  - Time (T): the time required to write or maintain the program, i.e., T = E / 18 seconds
+  - Bugs (B): the estimated number of errors in the program, i.e., B = V / 3000
+- Halestead’s Software Science can be used to compare the complexity and quality of different programs or different versions of the same program. It can also be used to estimate the development time and cost of a program .
+- Halestead’s Software Science has some limitations, such as:
+  - It does not consider the control structures, data structures, or modularity of the program, which also affect the complexity and quality of the program.
+  - It assumes that all operators and operands have equal weight and contribution, which may not be true in practice.
+  - It is sensitive to the choice of programming language and coding style, which may vary the number of operators and operands in the program.
+  - It is based on empirical data and assumptions, which may not be valid or applicable for all types of programs or domains.

@@ -1,0 +1,16 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is some content on backtracking search for the notes of the unit 2 - problem solving methods in the subject of artificial intelligence KCS.
+
+### Backtracking Search
+
+- Backtracking search is a technique for solving constraint satisfaction problems (CSPs), which are problems where the goal is to find an assignment of values to a set of variables that satisfies a set of constraints.
+- A CSP can be represented by a set of variables X = {X1, X2, ..., Xn}, a set of domains D = {D1, D2, ..., Dn}, where Di is the set of possible values for Xi, and a set of constraints C = {C1, C2, ..., Cm}, where each constraint Ci involves some subset of variables and specifies the allowed combinations of values for that subset.
+- A solution to a CSP is a complete assignment of values to all variables that satisfies all constraints.
+- Backtracking search is a recursive algorithm that tries to find a solution by exploring the space of partial assignments, starting from an empty assignment and extending it one variable at a time.
+- At each step, the algorithm chooses an unassigned variable and tries each value in its domain, checking if the value is consistent with the current partial assignment and the constraints. If the value is consistent, the algorithm recurses on the next variable. If the value is inconsistent, the algorithm backtracks and tries another value for the previous variable. If all values for a variable are exhausted, the algorithm returns failure.
+- Backtracking search can be improved by using various heuristics and techniques, such as:
+
+  - Variable ordering: choosing the next variable to assign based on some criteria, such as the minimum remaining values (MRV) heuristic, which selects the variable with the fewest legal values left, or the degree heuristic, which selects the variable with the most constraints on the remaining variables.
+  - Value ordering: choosing the order of values to try for a variable based on some criteria, such as the least constraining value (LCV) heuristic, which selects the value that rules out the fewest values for the remaining variables.
+  - Forward checking: keeping track of the remaining legal values for the unassigned variables and pruning the domains of the variables that are affected by the current assignment, thus reducing the branching factor and detecting failures earlier.
+  - Arc consistency: enforcing a stronger form of consistency between pairs of variables, such that for every value in the domain of one variable, there is at least one consistent value in the domain of the other variable. This can be done by applying the AC-3 algorithm, which iteratively removes inconsistent values from the domains until no more values can be removed or a domain becomes empty.
+  - Backjumping: a form of backtracking that jumps back more than one level when a dead end is reached, thus avoiding revisiting the same partial assignments. This can be done by using conflict-directed backjumping (CBJ), which records the set of variables that caused the failure at each level and backtracks to the most recent variable in that set.

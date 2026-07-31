@@ -1,0 +1,9 @@
+### Triple integral
+
+- A triple integral is a generalization of a double integral to three dimensions. It is used to calculate the volume of a solid region in space, or the amount of a function over such a region.
+- A triple integral of a function f(x, y, z) over a rectangular box B is defined as the limit of the sum of f(x, y, z) times the volume of small sub-boxes that partition B, as the number of sub-boxes goes to infinity  .
+- The notation for a triple integral is ∭Bf(x, y, z)dV, where dV is the differential volume element, and B is the region of integration.
+- A triple integral can be evaluated by iterated integration, that is, by integrating f(x, y, z) with respect to one variable, then integrating the result with respect to another variable, and finally integrating the result with respect to the third variable.
+- The order of integration can be changed, as long as the limits of integration are adjusted accordingly. The order of integration can affect the difficulty and the efficiency of the calculation.
+- A triple integral can also be evaluated by changing the coordinates system, such as using cylindrical or spherical coordinates, to simplify the region of integration or the integrand. The change of variables formula relates the triple integral in the new coordinates to the triple integral in the original coordinates.
+- A triple integral can be used to find the volume, mass, center of mass, moment of inertia, and other properties of a solid region in space, or a function over such a region. It can also be used to model physical phenomena such as heat, electric potential, and fluid flow.

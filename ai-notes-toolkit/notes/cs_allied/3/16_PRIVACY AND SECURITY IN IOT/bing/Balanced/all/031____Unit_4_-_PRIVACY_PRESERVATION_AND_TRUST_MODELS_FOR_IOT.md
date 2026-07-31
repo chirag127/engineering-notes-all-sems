@@ -1,0 +1,15 @@
+# Unit 4 - Privacy Preservation and Trust Models for IoT
+
+- Privacy preservation and trust models are important aspects of IoT security, as they deal with the protection of sensitive data and the establishment of reliable interactions among IoT devices and users.
+- Privacy preservation techniques aim to prevent unauthorized access, disclosure, or inference of personal or confidential information that is generated, transmitted, or processed by IoT devices.
+- Trust models aim to evaluate the credibility, reliability, and reputation of IoT devices and users, based on their behavior, performance, and feedback.
+- Some of the challenges and requirements for privacy preservation and trust models in IoT are:
+  - The heterogeneity and diversity of IoT devices, applications, and data, which require different levels of privacy and trust depending on the context and the user preferences.
+  - The resource constraints and scalability issues of IoT devices, which limit the computational and communication capabilities for implementing complex privacy and trust mechanisms.
+  - The dynamic and distributed nature of IoT networks, which pose challenges for maintaining consistent and updated privacy and trust information across multiple nodes and domains.
+  - The legal and ethical implications of privacy and trust in IoT, which require compliance with regulations and standards, as well as respect for human rights and values.
+- Some of the existing techniques and models for privacy preservation and trust in IoT are:
+  - Encryption and decryption: These are basic cryptographic methods for ensuring data confidentiality and integrity, by transforming data into unreadable formats using secret keys. For example, the DPP model  uses selective encryption to protect sensitive data in IoT, while the EPIC model  uses functional encryption to allow fine-grained access control and data processing.
+  - Obfuscation and anonymization: These are methods for hiding or modifying data or identity information, to prevent linkage or inference attacks. For example, the DP obfuscation mechanism  uses differential privacy to add noise to data, while the IBE scheme  uses identity-based encryption to avoid public key distribution.
+  - Aggregation and slicing: These are methods for reducing the granularity or dimensionality of data, to limit the exposure of individual information. For example, the balance privacy-preserving data aggregation model  uses slicing and mixing techniques to partition and shuffle data, while the privacy preserving communication protocol  uses chaos-based cryptography and message authentication codes to aggregate and verify data.
+  - Trust evaluation and management: These are methods for measuring and maintaining the trustworthiness of IoT devices and users, based on various factors and criteria. For example, the privacy-preserving trust model  uses a lightweight threshold detection method to protect privacy based on trust evaluation, while the interaction-based privacy protection management framework  uses a contextual privacy perception framework and an information relevance model to adjust privacy settings based on trust levels.

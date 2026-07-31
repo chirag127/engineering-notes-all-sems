@@ -1,0 +1,5 @@
+# Predictive Care
+
+Predictive care is a new and evolving way of providing healthcare that focuses on assessing health as opposed to waiting until the disease starts . It leverages cutting-edge technologies and sophisticated machine learning data algorithms to not only stratify risk, but even predict risk and intervene even further upstream . A main focus area for proactive care is to stratify individuals based on key risk factors for chronic disease .
+
+Predictive analytics can combine data from multiple sources – including hospital-based electronic medical records, fall detection pendants, and historical use of medical alert services – to identify seniors who are at risk of emergency transport in the next 30 days. This allows healthcare providers to reach out to a senior person even before an emergency occurs .

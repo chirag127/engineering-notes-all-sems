@@ -1,0 +1,11 @@
+## Unit 3 - SYNTACTIC ANALYSIS
+
+- Syntactic analysis is the process of analyzing the structure and grammar of a natural language sentence or program code.
+- Syntactic analysis can be performed by using formal methods such as grammars, parsers, and automata, or by using statistical methods such as machine learning and natural language processing.
+- Syntactic analysis can be used for various applications such as syntax checking, syntax highlighting, code completion, code generation, natural language understanding, natural language generation, and machine translation.
+- Syntactic analysis can be divided into two main phases: lexical analysis and parsing.
+- Lexical analysis is the process of breaking down a sentence or code into its smallest meaningful units, called tokens. Tokens can be words, symbols, numbers, identifiers, keywords, operators, etc.
+- Parsing is the process of building a hierarchical representation of the structure and meaning of a sentence or code, based on the tokens and a set of rules or grammar. The representation can be a parse tree, an abstract syntax tree, a dependency graph, etc.
+- There are different types of grammars and parsers that can be used for syntactic analysis, such as regular grammars and finite state automata, context-free grammars and pushdown automata, context-sensitive grammars and linear bounded automata, and recursively enumerable grammars and Turing machines.
+- There are also different parsing algorithms and techniques that can be used for syntactic analysis, such as top-down parsing, bottom-up parsing, predictive parsing, recursive descent parsing, backtracking parsing, LL parsing, LR parsing, Earley parsing, CYK parsing, etc.
+- Syntactic analysis can also involve dealing with ambiguity, errors, and exceptions, which can arise due to the complexity and variability of natural languages and programming languages. Some methods to handle these issues are using precedence and associativity rules, using error recovery and correction strategies, using probabilistic models and weights, using semantic information and context, etc.

@@ -1,0 +1,26 @@
+### Display Space for the notes of the Unit 6 - Introduction to Visualization in the subject of INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION
+
+- Data visualization is a field in data analysis that deals with visual representation of data. It graphically plots data and is an effective way to communicate inferences from data.
+- Data visualization can help to:
+  - Explore and understand data
+  - Identify patterns, trends, outliers, and relationships
+  - Communicate findings and insights
+  - Support decision making and problem solving
+- Data visualization can be done using various tools and techniques, such as:
+  - Charts and graphs: such as bar charts, pie charts, line charts, scatter plots, histograms, etc.
+  - Maps: such as choropleth maps, heat maps, bubble maps, etc.
+  - Dashboards: such as interactive and dynamic displays of multiple visualizations
+  - Infographics: such as visual narratives that combine text, images, and icons
+  - Storytelling: such as using visualizations to create a compelling and engaging narrative
+- Data visualization can be done using various libraries and modules in Python, such as:
+  - Matplotlib: a low-level and versatile library for creating static and interactive plots
+  - Seaborn: a high-level and enhanced library for creating statistical and aesthetic plots
+  - Plotly: a web-based and interactive library for creating rich and dynamic plots
+  - Bokeh: a web-based and interactive library for creating interactive and scalable plots
+  - Pandas: a data analysis library that provides built-in methods for creating simple plots from data frames
+- Data visualization requires careful consideration of the following aspects:
+  - Data: such as the type, quality, and quantity of data
+  - Audience: such as the level of expertise, interest, and expectations of the viewers
+  - Purpose: such as the goal, message, and context of the visualization
+  - Design: such as the choice of visual elements, colors, fonts, labels, legends, etc.
+  - Ethics: such as the accuracy, honesty, and fairness of the visualization

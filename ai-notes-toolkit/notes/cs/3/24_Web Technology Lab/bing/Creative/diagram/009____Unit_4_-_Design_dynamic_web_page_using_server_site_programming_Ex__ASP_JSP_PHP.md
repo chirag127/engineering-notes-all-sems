@@ -1,0 +1,24 @@
+## Unit 4 - Design dynamic web page using server side programming Ex. ASP/JSP/PHP
+
+- Server side programming is the program that runs on a server dealing with the generation of content on a web page .
+- Server side programming can perform tasks such as:
+  - Querying the database and retrieving data.
+  - Performing operations over databases such as insertion, deletion, update, etc.
+  - Accessing or writing a file on the server.
+  - Interacting with other servers or web services.
+  - Structuring web applications and defining routes.
+  - Processing user input and validating it.
+  - Controlling access to resources and managing user sessions.
+  - Customizing user experience based on user preferences or history.
+  - Generating dynamic HTML, CSS, or JavaScript code to be sent to the client.
+- Server side programming can use different languages or frameworks such as ASP, JSP, PHP, Node.js, Ruby on Rails, Django, etc .
+- Server side programming can provide advantages such as:
+  - Efficient storage and delivery of information by using databases and caching.
+  - Enhanced security and privacy by hiding sensitive data and logic from the client.
+  - Reduced load and bandwidth on the client by performing complex computations on the server.
+  - Increased compatibility and accessibility by supporting different browsers and devices.
+- Server side programming can also have some challenges such as:
+  - Increased load and complexity on the server by handling multiple requests and connections.
+  - Reduced performance and responsiveness by relying on network latency and server availability.
+  - Increased maintenance and deployment costs by requiring server infrastructure and configuration.
+- Server side programming can be combined with client side programming to create interactive and dynamic web pages that can communicate with the server using techniques such as AJAX, WebSocket, etc.

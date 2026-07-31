@@ -1,0 +1,21 @@
+# Choosing Input Devices for 3D Interfaces
+
+- Input devices are hardware devices that capture and interpret the actions performed by the user in a 3D environment.
+- The degrees of freedom (DOF) are one of the main features of these systems, as they determine how many dimensions the user can control with the device.
+- 3D input devices can be classified into two categories: direct and indirect.
+  - Direct input devices allow the user to interact with the 3D interface using natural hand or body gestures, such as pointing, grabbing, or walking.
+  - Indirect input devices require the user to manipulate a tool, sensor, or device that is mapped to a 3D virtual location, such as a mouse, joystick, or tracker.
+- Some examples of direct input devices are:
+  - Kinect: a motion sensing device that uses a camera and infrared sensors to track the user's body movements and gestures.
+  - Leap Motion: a device that uses infrared cameras to track the user's hand and finger movements in a 3D space above the device.
+  - Holo Lens: a head-mounted display that uses a depth camera and inertial sensors to track the user's head and hand gestures, and projects holograms onto the user's field of view.
+  - Magic Leap: a head-mounted display that uses a light-field display and eye-tracking sensors to create realistic 3D images that blend with the real world, and responds to the user's head and hand gestures.
+- Some examples of indirect input devices are:
+  - Mouse: a device that uses a ball or an optical sensor to detect the movement of the device on a surface, and maps it to a 2D cursor on the screen.
+  - Joystick: a device that uses a stick that can be tilted in different directions to control the movement or orientation of an object in the 3D interface.
+  - Tracker: a device that uses magnetic, optical, or inertial sensors to measure the position and orientation of the device in the 3D space, and maps it to a virtual object or viewpoint in the 3D interface.
+- When choosing input devices for 3D interfaces, some factors to consider are:
+  - The task: the input device should match the task requirements, such as the number of DOF, the precision, the speed, and the feedback.
+  - The user: the input device should suit the user's preferences, skills, and physical abilities, such as the comfort, the ease of use, and the fatigue.
+  - The environment: the input device should adapt to the environment constraints, such as the space, the lighting, and the noise.
+  - The cost: the input device should fit the budget and the availability of the system, such as the price, the maintenance, and the compatibility.

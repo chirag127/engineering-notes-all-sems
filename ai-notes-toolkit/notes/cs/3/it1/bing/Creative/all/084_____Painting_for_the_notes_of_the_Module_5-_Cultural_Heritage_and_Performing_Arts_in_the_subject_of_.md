@@ -1,0 +1,11 @@
+# Painting
+
+Painting is one of the oldest and most diverse forms of artistic expression in India. Painting can be used to depict various themes, such as religious stories, historical events, natural scenes, portraits, abstract concepts, and more. Painting can also reflect the cultural and regional diversity of India, as different styles and techniques emerged in different parts of the country over time.
+
+Some of the main features and types of Indian painting are:
+
+- **Murals**: Murals are large-scale paintings that are executed on the walls or ceilings of solid structures, such as temples, caves, palaces, or forts. Murals are usually done with natural pigments or paints that are applied directly on the surface. Murals can cover a wide range of subjects, such as mythology, epics, legends, royal life, nature, etc. Some of the most famous examples of murals in India are the Ajanta Caves, the Ellora Caves, the Kailashnath Temple, the Brihadeshwara Temple, the Lepakshi Temple, and the Padmanabhapuram Palace.
+
+- **Miniatures**: Miniatures are small-scale paintings that are done on perishable materials, such as paper, cloth, palm leaf, wood, ivory, or metal. Miniatures are usually done with fine brushes and intricate details, and often accompanied by text or calligraphy. Miniatures can be found in manuscripts, albums, scrolls, or as independent artworks. Miniatures can depict various themes, such as religious stories, court scenes, portraits, landscapes, flora and fauna, etc. Some of the most prominent styles of miniatures in India are the Pala, the Jain, the Rajput, the Mughal, the Deccani, the Pahari, and the Company.
+
+- **Paintings on cloth**: Paintings on cloth are artworks that are done on various types of fabrics, such as cotton, silk, jute, or wool. Paintings on cloth can be done with natural or synthetic dyes, paints, or embroidery. Paintings on cloth can be used for various purposes, such as religious rituals, festivals, ceremonies, decoration, or clothing. Paintings on cloth can also showcase various motifs, patterns, designs, and colors that are characteristic of different regions and communities in India. Some of the most well-known forms of paintings on cloth in India are the Kalamkari, the Madhubani, the Warli, the Pattachitra, the Phad, the Thangka, and the Batik.

@@ -1,0 +1,10 @@
+### Scope
+
+- The scope of measurement and mechatronics is the study of systems that combine electronic and mechanical components with modern controls and microprocessors .
+- Measurement is the assignment of a number to a characteristic of an object or event, which can be compared with other objects or events. Measurement is essential for the analysis, design, synthesis, and selection of mechatronic systems.
+- Mechatronics is a multidisciplinary engineering field that deals with the complexity and integration of modern systems. Mechatronics involves the application of mechanics, electronics, electric engineering, control, measurement, and computer science to create innovative programs and systems.
+- The scope and application of measurement and mechatronics are dependent on the context and discipline. Some examples of the areas where measurement and mechatronics are applied are:
+  - Robotics: Mechatronics engineers design, test, and implement smart robots that can perform various tasks, such as industrial automation, medical surgery, space exploration, etc .
+  - Consumer electronics: Mechatronics engineers conduct research and development on consumer electronic devices, such as mobile phones, computers, cameras, etc. They use microprocessors, microcontrollers, microchips, and semiconductors to create and improve the functionality and performance of these devices .
+  - Feedback control systems: Mechatronics engineers use measurement and control techniques to design and optimize feedback control systems, such as temperature control, speed control, position control, etc. They use sensors, actuators, controllers, and software to monitor and regulate the system behavior .
+  - Automotive engineering: Mechatronics engineers apply measurement and mechatronics principles to design and develop automotive systems, such as engine control, transmission control, anti-lock braking system, adaptive cruise control, etc. They use electronic and mechanical components, sensors, actuators, controllers, and software to enhance the safety, efficiency, and comfort of the vehicles .

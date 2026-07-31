@@ -1,0 +1,29 @@
+### BAYESIAN LEARNING for the notes of the Unit 2 - REGRESSION in the subject of Machine Learning Techniques
+
+- Bayesian learning is a framework for reasoning about uncertainty and learning from data using the Bayes theorem.
+- Bayes theorem is a formula that calculates the conditional probability of an event A given another event B, using the prior probability of A and the likelihood of B given A.
+- The formula is: P(A|B) = P(B|A) * P(A) / P(B)
+- In machine learning, Bayesian learning can be applied to various models, such as regression, classification, clustering, etc.
+- Regression is a machine learning task to predict continuous values (real numbers) based on some input features (independent variables).
+- Bayesian regression is a type of regression that incorporates prior knowledge and uncertainty into the model, and updates the parameters as new data is observed.
+- Bayesian regression can be linear or nonlinear, depending on the form of the function that relates the input and output variables.
+- Linear regression is the simplest form of regression, where the function is a straight line: y = a + b * x + e, where a is the intercept, b is the slope, x is the input variable, y is the output variable, and e is the error term.
+- Bayesian linear regression assumes that the parameters a and b have some prior distributions, which reflect our initial beliefs about their values before seeing any data.
+- The prior distributions can be chosen based on some domain knowledge, or using some default values, such as a normal distribution with zero mean and large variance.
+- The error term e is also assumed to have a distribution, usually a normal distribution with zero mean and some variance sigma^2^, which represents the noise in the data.
+- The goal of Bayesian linear regression is to find the posterior distributions of the parameters a, b, and sigma^2^, given the observed data D = {(x_i, y_i)}^n^_i=1^.
+- The posterior distributions represent our updated beliefs about the parameters after seeing the data, and they can be used to make predictions and quantify uncertainty.
+- The posterior distributions can be calculated using the Bayes theorem, by multiplying the prior distributions and the likelihood function, and dividing by the marginal likelihood.
+- The likelihood function is the probability of the data given the parameters, and it can be derived from the error term distribution.
+- The marginal likelihood is the probability of the data given the model, and it can be obtained by integrating out the parameters from the likelihood and the prior.
+- The posterior distributions are usually not analytically tractable, and they require numerical methods, such as Markov chain Monte Carlo (MCMC), to approximate them.
+- Bayesian linear regression has some advantages over the classical (frequentist) linear regression, such as:
+  - It can incorporate prior knowledge and beliefs into the model.
+  - It can handle small or noisy data sets better, by avoiding overfitting and underfitting.
+  - It can provide uncertainty estimates for the predictions and the parameters, by using the posterior distributions.
+  - It can compare different models using the marginal likelihood, which can be used as a model selection criterion.
+- Bayesian linear regression also has some disadvantages, such as:
+  - It requires more computational resources and time, especially for large or complex data sets.
+  - It depends on the choice of the prior distributions, which can be subjective or arbitrary.
+  - It may suffer from the curse of dimensionality, when the number of input features is large.
+- Bayesian learning is a powerful and principled way of doing machine learning, but it also requires careful consideration and implementation.

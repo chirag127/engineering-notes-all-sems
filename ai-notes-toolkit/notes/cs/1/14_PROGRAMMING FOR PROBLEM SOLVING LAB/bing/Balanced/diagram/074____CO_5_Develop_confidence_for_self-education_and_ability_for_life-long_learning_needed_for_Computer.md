@@ -1,0 +1,14 @@
+## CO 5 Develop confidence for self-education and ability for life-long learning needed for Computer language.
+
+- Self-education is the process of acquiring new skills or knowledge without formal instruction or guidance from others.
+- Life-long learning is the continuous and voluntary pursuit of learning throughout one's life for personal or professional development.
+- Computer language is a set of symbols and rules that are used to communicate instructions to a computer or a computer program.
+- To develop confidence for self-education and ability for life-long learning needed for computer language, one can follow these steps:
+
+  - Identify one's learning goals and motivations. What do you want to learn and why? How will it benefit you or others?
+  - Choose a suitable computer language that matches your interests, needs, and level of difficulty. There are many computer languages to choose from, such as Python, Java, C++, HTML, etc. Each language has its own advantages, disadvantages, and applications.
+  - Find reliable and relevant resources to learn from. These can include books, online courses, tutorials, videos, podcasts, blogs, forums, etc. Make sure to check the credibility, accuracy, and currency of the information you use.
+  - Plan a realistic and flexible learning schedule. Set aside some time every day or week to study and practice the computer language. Adjust your pace and methods according to your progress and feedback. Use a variety of learning strategies, such as reading, writing, listening, speaking, watching, doing, etc.
+  - Monitor and evaluate your learning outcomes. Use self-assessment tools, such as quizzes, tests, projects, etc. to measure your understanding and skills. Identify your strengths and weaknesses, and seek feedback from others, such as peers, mentors, experts, etc. Reflect on your learning process and experiences, and celebrate your achievements.
+  - Seek opportunities to apply and share your learning. Look for real-world problems or situations that require the use of the computer language you learned. Create your own projects, programs, or products that showcase your learning. Share your work with others, such as online communities, social media, etc. and get feedback and recognition.
+  - Keep updating and expanding your learning. Computer languages are constantly evolving and changing, so you need to stay updated and informed about the latest developments and trends. You also need to explore new topics and areas that are related to or beyond the computer language you learned. You can join online or offline groups, clubs, or networks that are interested in the same or similar computer languages, and learn from each other. You can also take up new challenges or courses that will enhance your learning and skills.

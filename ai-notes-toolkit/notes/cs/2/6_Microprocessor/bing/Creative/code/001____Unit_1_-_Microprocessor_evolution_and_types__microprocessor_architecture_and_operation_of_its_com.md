@@ -1,0 +1,25 @@
+## Unit 1 - Microprocessor evolution and types, microprocessor architecture and operation of its components, addressing modes, interrupts, data transfer schemes, instruction and data flow, timer and timing diagram, Interfacing devices.
+
+- A microprocessor is an integrated circuit that contains all the functions of a central processing unit (CPU) of a computer on a single chip.
+- The microprocessor is the heart of any computer system. It performs arithmetic and logic operations, controls the input and output devices, and coordinates the overall operation of the system.
+- The microprocessor has evolved through several generations, each with improved performance, reduced size, and lower cost.
+- The evolution of microprocessor can be categorized into five generations :
+  - First generation (1971-1972): These were 4-bit microprocessors, such as Intel 4004 and Intel 8008, that could process 4 bits of data at a time. They were mainly used for calculators, cash registers, and simple control systems  .
+  - Second generation (1973-1978): These were 8-bit microprocessors, such as Intel 8080 and Zilog Z80, that could process 8 bits of data at a time. They were faster and more powerful than the first generation, and enabled the development of personal computers, video games, and hobbyist systems  .
+  - Third generation (1979-1985): These were 16-bit microprocessors, such as Intel 8086 and Motorola 68000, that could process 16 bits of data at a time. They were capable of addressing more memory, supporting multitasking, and running complex software applications  .
+  - Fourth generation (1986-1995): These were 32-bit microprocessors, such as Intel 80386 and Motorola 68020, that could process 32 bits of data at a time. They introduced features such as pipelining, cache memory, floating-point unit, and virtual memory, and increased the speed and efficiency of the microprocessor  .
+  - Fifth generation (1996-present): These are 64-bit microprocessors, such as Intel Pentium and AMD Athlon, that can process 64 bits of data at a time. They also support parallel processing, multimedia, and internet applications, and offer higher performance and lower power consumption than the previous generations  .
+- The microprocessor architecture consists of three main components:
+  - The arithmetic and logic unit (ALU): This is the part of the microprocessor that performs arithmetic and logic operations on the data, such as addition, subtraction, multiplication, division, and comparison.
+  - The control unit (CU): This is the part of the microprocessor that controls the execution of instructions, such as fetching, decoding, and executing. It also generates control signals to coordinate the input and output devices, and the memory.
+  - The registers: These are small and fast memory units that store data and instructions temporarily. They are used to hold the operands, results, addresses, flags, and status of the microprocessor.
+- The microprocessor operation can be divided into four steps:
+  - Fetch: The microprocessor fetches the next instruction from the memory and stores it in the instruction register.
+  - Decode: The microprocessor decodes the instruction and determines the operation to be performed and the operands to be used.
+  - Execute: The microprocessor executes the instruction by sending the appropriate control signals to the ALU, the registers, and the input and output devices.
+  - Store: The microprocessor stores the result of the execution in the memory or the registers.
+- The addressing modes are the ways of specifying the location of the operands in the memory or the registers. They affect the size, speed, and complexity of the instructions. Some common addressing modes are:
+  - Immediate: The operand is a constant value that is part of the instruction.
+  - Register: The operand is stored in a register.
+  - Direct: The operand is stored in a memory location whose address is part of the instruction.
+  - Indirect: The operand is stored in a memory location

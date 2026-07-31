@@ -1,0 +1,7 @@
+
+### Techniques for the notes of the Unit 2 - Cyber Forensics in the subject of CYBER FORENSIC ANALYTICS
+1. Cyber Forensics: Cyber forensics is the process of collecting, analyzing and reporting digital evidence in a manner that is legally admissible. It involves the use of specialized software and hardware to identify, preserve, analyze and present digital evidence. 
+2. Data Acquisition: Data acquisition is the process of extracting data from a computer system. It involves the use of specialized tools and techniques to acquire digital evidence from a computer system.
+3. Data Analysis: Data analysis is the process of analyzing digital evidence to determine its relevance to a case. It involves the use of specialized tools and techniques to identify patterns, relationships and trends in the data.
+4. Report Writing: Report writing is the process of writing a formal report about the results of a cyber forensics investigation. It involves the use of specialized tools and techniques to document the findings of the investigation.
+5. Expert Testimony: Expert testimony is the process of providing expert opinion in a court of law. It involves the use of specialized tools and techniques to explain the technical aspects of a case to a judge or jury.

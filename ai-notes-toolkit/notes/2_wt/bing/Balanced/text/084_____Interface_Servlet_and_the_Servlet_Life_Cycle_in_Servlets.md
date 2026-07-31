@@ -1,0 +1,10 @@
+### Interface Servlet and the Servlet Life Cycle in Servlets
+
+- A servlet is a Java class that implements the `javax.servlet.Servlet` interface and runs on a web server to handle HTTP requests and responses.
+- The `Servlet` interface defines the methods that all servlets must implement, such as `init()`, `service()`, `destroy()`, `getServletConfig()` and `getServletInfo()`.
+- The servlet life cycle refers to the phases that a servlet goes through from its creation to its destruction by the web container.
+- The servlet life cycle consists of the following steps:
+  - Loading and instantiation: The web container loads the servlet class and creates an instance of it. This step is done only once for each servlet during the web application's lifetime.
+  - Initialization: The web container calls the `init()` method of the servlet and passes a `ServletConfig` object that contains the initialization parameters and the servlet context. The `init()` method is also called only once for each servlet and is used to perform any one-time tasks such as opening database connections or reading configuration files.
+  - Request handling: The web container calls the `service()` method of the servlet for each HTTP request that the servlet is mapped to. The `service()` method receives a `HttpServletRequest` object and a `HttpServletResponse` object as parameters and performs the main logic of the servlet. The `service()` method can delegate the request to other methods such as `doGet()`, `doPost()`, `doPut()`, `doDelete()`, etc. depending on the HTTP method of the request.
+  - Termination: The web container calls the `destroy()` method of the servlet when it is no longer needed or the web application is shut down. The `destroy()` method is used to perform any final tasks such as closing database connections or releasing resources. The `destroy()` method is also called only once for each servlet.

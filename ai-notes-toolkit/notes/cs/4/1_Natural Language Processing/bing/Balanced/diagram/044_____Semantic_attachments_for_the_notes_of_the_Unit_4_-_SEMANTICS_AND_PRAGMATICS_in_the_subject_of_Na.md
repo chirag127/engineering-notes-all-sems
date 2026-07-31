@@ -1,0 +1,13 @@
+### Semantic attachments for the notes of the Unit 4 - SEMANTICS AND PRAGMATICS in the subject of Natural Language Processing
+
+- Semantic attachments are a way of connecting the syntactic structure of a sentence with its semantic representation, which is often a logical formula or a semantic network.
+- Semantic attachments are usually defined as functions or rules that map syntactic categories or constituents to semantic entities or relations.
+- Semantic attachments can be used to perform various tasks in natural language processing, such as:
+  - Semantic parsing: the process of converting a natural language sentence into a formal representation of its meaning, such as a logical form or a semantic frame.
+  - Semantic interpretation: the process of assigning a truth value or a denotation to a semantic representation, based on a given model or a knowledge base.
+  - Semantic inference: the process of deriving new information or conclusions from a semantic representation, using logical rules or reasoning methods.
+  - Semantic generation: the process of producing a natural language sentence that expresses a given semantic representation, such as a query or a statement.
+- Semantic attachments can be implemented in different ways, depending on the type and complexity of the semantic representation and the syntactic formalism. Some examples are:
+  - Lambda calculus: a formal system that uses lambda expressions to represent functions and variables, and lambda abstraction and application to construct and evaluate complex expressions. Lambda calculus can be used to map syntactic categories to semantic types, and syntactic constituents to semantic functions or arguments.
+  - Feature structures: a data structure that consists of a set of attribute-value pairs, where the values can be atomic symbols, sets, or other feature structures. Feature structures can be used to encode semantic information as features or constraints on syntactic categories or constituents, and to unify or combine semantic representations using unification or composition operations.
+  - Semantic networks: a graphical representation of semantic relations among concepts or entities, where the nodes are concepts or entities, and the edges are labeled with relation names or types. Semantic networks can be used to map syntactic constituents to semantic nodes or edges, and to construct or update semantic representations using graph operations.

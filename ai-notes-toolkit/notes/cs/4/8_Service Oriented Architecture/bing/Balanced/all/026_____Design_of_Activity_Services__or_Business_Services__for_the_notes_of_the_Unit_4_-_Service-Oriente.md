@@ -1,0 +1,21 @@
+# Design of Activity Services (or Business Services) for Service-Oriented Analysis and Design
+
+- Activity services (or business services) are services that encapsulate a set of related business tasks or processes that support a specific business goal or function.
+- Activity services are typically coarse-grained, stateful, and long-running, and may involve human interactions or complex business logic.
+- Activity services are designed to be reusable, composable, and loosely coupled, following the principles of service-oriented architecture (SOA).
+- Service-oriented analysis and design (SOAD) is a methodology that refers to the modeling and design for SOA applications.
+- SOAD involves the following key elements:
+  - Identification of service candidates based on business requirements, goals, and processes.
+  - Specification of service contracts that define the interface, functionality, quality of service, and policies of each service.
+  - Realization of service components that implement the service logic and interact with other services and resources.
+  - Composition of service orchestrations that coordinate the execution of multiple services to achieve a business outcome.
+  - Governance of service lifecycle that ensures the quality, consistency, and evolution of services and their dependencies.
+- The design of activity services for SOAD can be performed using the following steps:
+  - Define the business context and scope of the activity service, including the business goal, stakeholders, inputs, outputs, and performance indicators.
+  - Identify the business tasks or processes that are required to achieve the business goal, and model them using a business process modeling notation (BPMN) or a similar technique.
+  - Analyze the business tasks or processes to identify the commonalities, variations, dependencies, and exceptions, and group them into logical units of work that can be performed by a service.
+  - For each logical unit of work, define the service candidate that can provide the required functionality, and specify its service contract, including the interface, operations, parameters, messages, and policies.
+  - For each service candidate, determine the service component that can realize the service logic, and design its internal structure, behavior, and interactions with other services and resources.
+  - For each service component, select the appropriate technology platform, development framework, and deployment environment that can support the service implementation and execution.
+  - For the activity service as a whole, design the service orchestration that can coordinate the invocation of the service candidates and handle the business logic, data flow, and exception handling.
+  - For the activity service as a whole, define the service governance that can monitor, manage, and evolve the service quality, performance, and compliance.

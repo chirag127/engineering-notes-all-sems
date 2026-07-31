@@ -1,0 +1,26 @@
+### Structure and use of compound microscope
+
+- A compound microscope is an instrument that magnifies objects otherwise too small to be seen, producing an image in which the object appears larger.
+- A compound microscope is mainly used for studying the structural details of cell, tissue, or sections of organs.
+- The parts of a compound microscope can be classified into two: non-optical parts and optical parts.
+- Non-optical parts include:
+  - Base: The base is also known as the foot which is either U or horseshoe-shaped. It supports the microscope and houses the illuminator .
+  - Arm: The arm is the curved part that connects the base and the head. It is used to carry the microscope .
+  - Stage: The stage is the platform where the specimen is placed for observation. It has a hole in the center to allow light to pass through. It also has clips to hold the slide in place .
+  - Coarse and fine adjustment knobs: These knobs are used to adjust the focus of the image by moving the stage or the objective lens up and down. The coarse adjustment knob is used for initial focusing, while the fine adjustment knob is used for precise focusing .
+  - Condenser: The condenser is a lens system that collects and concentrates the light from the illuminator and directs it to the specimen. It has a knob to adjust its height and a diaphragm to control the amount of light .
+- Optical parts include:
+  - Eyepiece: The eyepiece is the lens that the observer looks through. It magnifies the image formed by the objective lens. It has a fixed magnification, usually 10x .
+  - Objective lens: The objective lens is the lens that is closest to the specimen. It collects the light that passes through the specimen and forms an enlarged image. It has different magnifications, usually 4x, 10x, 40x, and 100x .
+  - Nosepiece: The nosepiece is the rotating part that holds the objective lenses. It allows the observer to switch between different magnifications by rotating the objective lens into position .
+  - Body tube: The body tube is the cylindrical part that connects the eyepiece and the nosepiece. It maintains the correct distance between the lenses for proper magnification .
+- The working principle of a compound microscope is based on the refraction of light by the lenses. The light from the illuminator passes through the condenser and the specimen, and then enters the objective lens. The objective lens forms a magnified, inverted, and real image of the specimen. This image is further magnified by the eyepiece, which forms a virtual image that can be seen by the observer.
+- The total magnification of a compound microscope is the product of the magnification of the objective lens and the eyepiece. For example, if the objective lens has a magnification of 40x and the eyepiece has a magnification of 10x, the total magnification is 40x x 10x = 400x.
+- The advantages of a compound microscope are:
+  - It can provide high magnification and resolution, which allows the observation of fine details of cells and tissues.
+  - It can use different types of illumination, such as bright field, dark field, phase contrast, and fluorescence, to enhance the contrast and visibility of the specimen.
+  - It can be equipped with various accessories, such as cameras, computers, and software, to capture, store, and analyze the images.
+- The disadvantages of a compound microscope are:
+  - It can only observe thin and transparent specimens, which may require special preparation, such as staining, cutting, and mounting.
+  - It can cause chromatic and spherical aberrations, which are distortions of the image due to the imperfect refraction of light by the lenses.
+  - It can have a limited depth of field, which is the range of distance within which the specimen is in focus. This means that only a small portion of the specimen can be seen clearly at a time.

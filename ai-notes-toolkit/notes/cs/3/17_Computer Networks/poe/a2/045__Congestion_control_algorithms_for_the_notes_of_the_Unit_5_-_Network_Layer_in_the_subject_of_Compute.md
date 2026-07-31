@@ -1,0 +1,10 @@
+ Here is the content in markdown format without any emojis or external links, written in points and in a formal tone:
+
+### Congestion control algorithms for the notes of the Unit 5 - Network Layer in the subject of Computer Networks.
+
+1. Slow start: When a connection is established, congestion window is initialized to a small value. In each round trip time, congestion window is increased by 1. This leads to exponential increase in transmission rate. This phase is called slow start.
+2. Congestion avoidance: Once congestion window reaches a threshold, the increase in congestion window per round trip time is reduced to 1/cwnd. This leads to linear increase in transmission rate. This phase is called congestion avoidance.
+3. Fast retransmit: If ACK for a segment is not received within a timeout interval, the segment is retransmitted. TCP uses fast retransmit algorithm to detect and recover from packet losses more quickly. When duplicate ACKs are received for a segment, it is inferred that the segment was lost. The lost segment is retransmitted without waiting for timeout.
+4. Fast recovery: When loss is detected by three duplicate ACKs, congestion window is set to half its current value. This reduces transmission rate and avoids congestion. Each duplicate ACK further increases the congestion window. When an ACK that acknowledges the retransmitted segment is received, congestion avoidance phase resumes. This helps in faster recovery from congestion losses.
+
+The above points cover the key congestion control algorithms used in TCP to control transmission rate and handle packet losses. The slow start and congestion avoidance algorithms control the transmission rate while fast retransmit and fast recovery algorithms handle packet losses. Together, these algorithms improve performance and efficiency of TCP.

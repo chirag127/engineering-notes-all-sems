@@ -1,0 +1,8 @@
+# Distinction between General and Technical Communication
+
+General communication and technical communication are two types of communication that differ in their purpose, style, audience, and format. Here are some points to highlight the distinction between them:
+
+- General communication is informal in style and approach. It does not follow a set pattern or structure and can be oral or written. It is used for everyday purposes, such as casual conversations, personal messages, or social media posts. Technical communication is mostly formal in style and approach. It follows a set pattern or structure and can be oral or written. It is used for specific purposes, such as instructions, reports, proposals, or manuals.
+- General communication contains a general message that does not require specialized knowledge or skills to understand. It is not always intended for a specific audience and can be vague or ambiguous. Technical communication contains a technical message that requires specialized knowledge or skills to understand. It is intended for a specific audience and can be precise or clear.
+- General communication does not use technical terms or graphics. It relies on common words and expressions that are familiar to most people. Technical communication uses technical terms or graphics. It relies on specific words and expressions that are relevant to the field or topic.
+- General communication is not subject to strict standards or guidelines. It does not need to be accurate, complete, or consistent. Technical communication is subject to strict standards or guidelines. It needs to be accurate, complete, and consistent.

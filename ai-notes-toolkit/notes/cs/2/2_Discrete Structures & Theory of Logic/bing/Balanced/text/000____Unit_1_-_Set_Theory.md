@@ -1,0 +1,21 @@
+## Unit 1 - Set Theory
+
+- A set is a collection of well-defined and distinct objects, such as numbers, letters, shapes, etc.
+- A set can be represented by listing its elements inside curly braces, such as {1, 2, 3} or {a, b, c}.
+- A set can also be described by a rule that specifies the property that its elements must satisfy, such as {x | x is an even integer} or {y | y is a vowel}.
+- The order and repetition of elements in a set do not matter, such as {1, 2, 3} = {3, 1, 2} = {1, 1, 2, 3}.
+- An element is said to belong to a set if it is one of the objects in the set, such as 2 belongs to {1, 2, 3} but 4 does not belong to {1, 2, 3}.
+- The symbol ∈ is used to denote the membership relation, such as 2 ∈ {1, 2, 3} and 4 ∉ {1, 2, 3}.
+- A set that contains no elements is called the empty set or the null set, and is denoted by ∅ or {}.
+- The number of elements in a set is called the cardinality of the set, and is denoted by |A| for a set A, such as |{1, 2, 3}| = 3 and |∅| = 0.
+- Two sets are said to be equal if they have exactly the same elements, such as {1, 2, 3} = {3, 2, 1} and {a, b, c} = {c, a, b}.
+- A set A is said to be a subset of another set B if every element of A is also an element of B, such as {1, 2} is a subset of {1, 2, 3} but {1, 4} is not a subset of {1, 2, 3}.
+- The symbol ⊆ is used to denote the subset relation, such as {1, 2} ⊆ {1, 2, 3} and {1, 4} ⊈ {1, 2, 3}.
+- A set A is said to be a proper subset of another set B if A is a subset of B and A is not equal to B, such as {1, 2} is a proper subset of {1, 2, 3} but {1, 2, 3} is not a proper subset of {1, 2, 3}.
+- The symbol ⊂ is used to denote the proper subset relation, such as {1, 2} ⊂ {1, 2, 3} and {1, 2, 3} ⊄ {1, 2, 3}.
+- A set A is said to be a superset of another set B if B is a subset of A, such as {1, 2, 3} is a superset of {1, 2} but {1, 2} is not a superset of {1, 4}.
+- The symbol ⊇ is used to denote the superset relation, such as {1, 2, 3} ⊇ {1, 2} and {1, 2} ⊉ {1, 4}.
+- A set A is said to be a proper superset of another set B if A is a superset of B and A is not equal to B, such as {1, 2, 3} is a proper superset of {1, 2} but {1, 2} is not a proper superset of {1, 2}.
+- The symbol ⊃ is used to denote the proper superset relation, such as {1, 2, 3} ⊃ {1, 2} and {1, 2} ⊅ {1, 2}.
+- The universal set is the set that contains all the elements under consideration, and is usually denoted by U, such as U = {1, 2, 3, 4, 5, 6} for the set of natural numbers up to 6.
+- The complement of a set A is the set of all the elements in the universal set that are not in A, and is denoted by A' or A^c, such as {1, 2, 3}' = {4, 5, 6} and

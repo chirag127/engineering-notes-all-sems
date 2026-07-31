@@ -1,0 +1,19 @@
+### Real-time Analytics Platform (RTAP) applications
+
+A real-time analytics platform (RTAP) is a system that enables organizations to process and analyze data in real-time, without any delay or latency. RTAPs can help businesses gain insights, make decisions, and take actions based on the latest and most relevant data. RTAPs can also help in detecting and responding to events, anomalies, and opportunities in real-time.
+
+Some of the applications of RTAPs are:
+
+- **Crisis management**: RTAPs can help in dealing with crises, such as natural disasters, cyberattacks, or pandemics, by providing timely and accurate information, alerts, and recommendations. RTAPs can also help in coordinating and optimizing the response efforts, such as allocating resources, mobilizing teams, and communicating with stakeholders.
+- **An increased company vision**: RTAPs can help in enhancing the visibility and understanding of the business performance, customer behavior, market trends, and competitive landscape. RTAPs can also help in identifying and exploiting new opportunities, such as launching new products, entering new markets, or creating new partnerships.
+- **Quicker and less costly changes**: RTAPs can help in implementing changes in real-time, such as adjusting prices, offers, or strategies, based on the feedback and outcomes of the previous actions. RTAPs can also help in testing and evaluating different scenarios and alternatives, and choosing the best option.
+- **Better apps and website management**: RTAPs can help in monitoring and optimizing the performance, usability, and security of the apps and websites, by collecting and analyzing data from various sources, such as user interactions, server logs, or sensors. RTAPs can also help in providing personalized and engaging experiences to the users, such as recommending products, services, or content, or offering discounts, rewards, or incentives.
+- **Better resource allocation and money management**: RTAPs can help in optimizing the use of resources, such as time, money, or personnel, by providing real-time insights and forecasts on the demand, supply, and costs. RTAPs can also help in reducing the risks and losses, such as fraud, errors, or waste, by detecting and preventing them in real-time.
+
+Some of the tools and software that can be used to build and deploy RTAPs are:
+
+- **Google Cloud DataFlow**: A cloud-based service that enables data processing and streaming analytics, using Python or Java. It supports both batch and stream processing, and can handle complex and large-scale data pipelines.
+- **Microsoft Power BI**: A suite of business analytics tools that enable data visualization, reporting, and dashboarding. It can connect to hundreds of data sources, and provide interactive and immersive insights. It also supports real-time streaming data and alerts.
+- **Tableau**: A business intelligence platform that enables data exploration, analysis, and visualization. It can connect to various data sources, and provide intuitive and interactive dashboards and stories. It also supports real-time data updates and notifications.
+- **Qlik Sense**: A data analytics platform that enables data integration, analysis, and visualization, using machine learning and artificial intelligence. It can handle large and complex data sets, and provide self-service and guided analytics. It also supports real-time data streaming and alerting.
+- **Looker**: A data platform that enables data modeling, analysis, and visualization, using SQL and a proprietary language called LookML. It can connect to various data sources, and provide customizable and shareable dashboards and reports. It also supports real-time data streaming and actions.

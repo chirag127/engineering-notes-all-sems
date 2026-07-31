@@ -1,0 +1,27 @@
+### Batteries; Classification and applications of Primary Cells (Dry Cell) and Secondary Cells
+
+- A battery is a device that converts chemical energy into electrical energy by using a spontaneous redox reaction that occurs within the battery.
+- A battery consists of one or more cells, each of which has two electrodes (an anode and a cathode) and an electrolyte that allows the flow of ions.
+- A cell can be classified into two types: primary and secondary.
+- A primary cell is a cell that is designed to be used once and discarded, and not recharged with electricity and reused like a secondary cell.
+- A primary cell has an irreversible electrochemical reaction occurring in the cell, which means that the reactants are consumed and the products are accumulated, reducing the cell potential over time.
+- A secondary cell is a cell that is designed to be used multiple times by recharging it with electricity, which reverses the electrochemical reaction and restores the reactants and the cell potential.
+- A secondary cell has a reversible electrochemical reaction occurring in the cell, which means that the reactants and the products can be interconverted by changing the direction of the current flow.
+- A dry cell is a type of primary cell that has a paste-like electrolyte, which prevents leakage and allows the cell to be used in any orientation.
+- A dry cell is commonly used in portable devices, such as flashlights, toys, and radios.
+- A dry cell has a zinc anode and a carbon cathode, with a manganese dioxide and ammonium chloride paste as the electrolyte.
+- A dry cell has the following overall reaction: Zn(s) + 2 NH4+(aq) + 2 MnO2(s) → Zn(NH3)2 2+(aq) + Mn2O3(s) + H2O(l) + 2 e−.
+- A dry cell has a nominal voltage of 1.5 V, but it decreases as the cell is used due to the polarization of the electrodes and the depletion of the reactants.
+- A secondary cell is commonly used in applications that require high power and long life, such as electric vehicles, laptops, and smartphones.
+- A secondary cell can be made of different materials, depending on the desired characteristics, such as capacity, voltage, weight, and cost.
+- Some examples of secondary cells are lead-acid, nickel-cadmium, nickel-metal hydride, lithium-ion, and lithium-polymer cells.
+- A lead-acid cell is a type of secondary cell that has a lead anode and a lead dioxide cathode, with a sulfuric acid solution as the electrolyte.
+- A lead-acid cell has the following overall reaction: Pb(s) + PbO2(s) + 2 H2SO4(aq) → 2 PbSO4(s) + 2 H2O(l) + 2 e−.
+- A lead-acid cell has a nominal voltage of 2 V, and it can deliver a high current for a short time, making it suitable for starting engines.
+- A lead-acid cell is cheap and reliable, but it is heavy, corrosive, and prone to sulfation.
+- A nickel-cadmium cell is a type of secondary cell that has a cadmium anode and a nickel oxide cathode, with a potassium hydroxide solution as the electrolyte.
+- A nickel-cadmium cell has the following overall reaction: Cd(s) + 2 NiO(OH)(s) + 2 H2O(l) → Cd(OH)2(s) + 2 Ni(OH)2(s) + 2 e−.
+- A nickel-cadmium cell has a nominal voltage of 1.2 V, and it can deliver a steady current for a long time, making it suitable for portable devices.
+- A nickel-cadmium cell is durable and resistant to overcharging, but it is expensive, toxic, and prone to memory effect.
+- A nickel-metal hydride cell is a type of secondary cell that has a metal hydride anode and a nickel oxide cathode, with a potassium hydroxide solution as the electrolyte.
+- A nickel-metal hydride cell has the following overall reaction: MH(s) +

@@ -1,0 +1,23 @@
+### Region splitting and merging for the notes of the Unit 4 - IMAGE SEGMENTATION in the subject of Image Processing
+
+- Image segmentation is the process of partitioning a digital image into multiple regions (sets of pixels) that are homogeneous and meaningful.
+- Region splitting and merging is an image segmentation technique that uses a divide and conquer approach.
+- The technique involves the following steps :
+  - Start with the whole image as a single region.
+  - Split the region into four subregions if it is not homogeneous, i.e., if it does not satisfy a predefined criterion of similarity or uniformity.
+  - Repeat the splitting process recursively for each subregion until no more splitting is possible or a minimum size is reached.
+  - Merge adjacent regions that are similar, i.e., if they satisfy a predefined criterion of compatibility or closeness.
+  - Repeat the merging process until no more merging is possible or a desired level of detail is achieved.
+- The technique uses a quadtree data structure to store the regions and their relationships.
+- The technique can handle images with different types of regions, such as smooth, textured, or noisy.
+- The technique can be implemented using different homogeneity and compatibility criteria, such as intensity, color, texture, shape, or edge strength .
+- The technique can be improved by using adaptive splitting and merging, i.e., adjusting the criteria based on the local characteristics of the image.
+- The technique has some advantages and disadvantages :
+  - Advantages:
+    - It can produce accurate and detailed segmentation results for complex images.
+    - It can handle images with different types of regions and noise levels.
+    - It can be easily parallelized and distributed.
+  - Disadvantages:
+    - It can be computationally expensive and time-consuming.
+    - It can be sensitive to the choice of criteria and parameters.
+    - It can produce over-segmentation or under-segmentation depending on the criteria and parameters.

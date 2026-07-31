@@ -1,0 +1,24 @@
+### Experiment 11.2 - Flooding
+
+- Flooding is a natural phenomenon that occurs when a large amount of water overflows onto land that is normally dry.
+- Flooding can be caused by various factors, such as heavy rainfall, snowmelt, storm surges, dam failures, or river overflow.
+- Flooding can have positive and negative impacts on the environment, society, and economy.
+- Positive impacts of flooding include:
+  - Replenishing soil nutrients and groundwater resources.
+  - Creating habitats for aquatic and wetland species.
+  - Providing opportunities for recreation and tourism.
+- Negative impacts of flooding include:
+  - Damaging infrastructure, property, and crops.
+  - Displacing people and animals.
+  - Spreading diseases and pollutants.
+  - Increasing the risk of landslides and erosion.
+- Flooding can be measured by various indicators, such as flood frequency, flood duration, flood magnitude, and flood extent.
+- Flood frequency is the average number of times a flood of a given size occurs in a given period of time.
+- Flood duration is the length of time that a flood lasts.
+- Flood magnitude is the amount of water that flows during a flood, usually expressed in cubic meters per second or cubic feet per second.
+- Flood extent is the area that is covered by water during a flood, usually expressed in square kilometers or square miles.
+- Flooding can be prevented or mitigated by various methods, such as:
+  - Building levees, dams, or reservoirs to control water flow and storage.
+  - Implementing flood warning systems and emergency plans to alert and evacuate people.
+  - Restoring natural floodplains and wetlands to absorb excess water and reduce runoff.
+  - Adopting sustainable land use and water management practices to reduce soil erosion and water pollution.

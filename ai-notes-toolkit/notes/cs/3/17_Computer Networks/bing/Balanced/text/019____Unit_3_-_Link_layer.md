@@ -1,0 +1,11 @@
+## Unit 3 - Link layer
+
+The link layer is the lowest layer in the Internet protocol suite, the networking architecture of the Internet. The link layer is the group of methods and communications protocols confined to the link that a host is physically connected to. The link layer is also known as the data link layer or layer 2 in the OSI model of computer networking.
+
+The main functions of the link layer are:
+
+- Framing: The link layer receives packets from the network layer and divides them into small frames, then sends each frame bit-by-bit to the physical layer. The link layer also adds a header and a trailer to each frame, which contain information such as source and destination addresses, error detection codes, and sequence numbers.
+- Error control: The link layer detects and corrects errors that may occur during the transmission of frames over the physical layer. The link layer can use techniques such as parity checking, checksum, cyclic redundancy check (CRC), and automatic repeat request (ARQ) to ensure the reliability of data transmission.
+- Flow control: The link layer regulates the rate of data transmission between the sender and the receiver, to avoid congestion and buffer overflow. The link layer can use techniques such as stop-and-wait, sliding window, and backpressure to control the flow of data.
+- Media access control: The link layer coordinates the access of multiple hosts to a shared medium, such as a wireless channel or a bus network. The link layer can use techniques such as carrier sense multiple access (CSMA), token passing, polling, and reservation to avoid collisions and ensure fair allocation of bandwidth.
+- Link management: The link layer establishes, maintains, and terminates the links between hosts, and handles the link state changes, such as link failure, link recovery, and link quality. The link layer can use protocols such as point-to-point protocol (PPP), high-level data link control (HDLC), and logical link control (LLC) to manage the links.

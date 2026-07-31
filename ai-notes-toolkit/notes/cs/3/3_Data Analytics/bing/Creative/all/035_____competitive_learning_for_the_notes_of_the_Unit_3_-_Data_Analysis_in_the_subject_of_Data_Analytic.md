@@ -1,0 +1,10 @@
+# Competitive Learning
+
+- Competitive learning is a form of **unsupervised learning** in artificial neural networks, in which nodes compete for the right to respond to a subset of the input data.
+- Competitive learning is based on the principle of **winner-takes-all** (WTA), where only the node with the highest activation or similarity to the input data is updated, while the others remain unchanged .
+- Competitive learning can be used for **clustering**, **dimensionality reduction**, **feature extraction**, and **pattern recognition** .
+- Competitive learning requires a **learning rate** parameter that controls the degree of adaptation of the winning node, and a **neighborhood function** that determines the influence of the winning node on its neighbors .
+- Competitive learning can be implemented with **neural networks** that contain a hidden layer, which is commonly known as the **competitive layer**. Every competitive neuron is described by a vector of weights and calculates the similarity measure between the input data and the weight vector .
+- Competitive learning can be divided into two types: **soft competitive learning** and **hard competitive learning**. Soft competitive learning allows multiple nodes to be updated according to their similarity to the input data, while hard competitive learning only updates the single winning node.
+- Competitive learning can be contrasted with **collaborative learning** and **individualized learning**, which are other forms of learning that involve different degrees of interaction and cooperation among learners.
+- Competitive learning has some advantages and disadvantages. Some advantages are that it can discover the inherent structure of the data, it can reduce the complexity of the data, and it can adapt to changing data distributions. Some disadvantages are that it can be sensitive to the initial conditions, it can suffer from the dead unit problem, and it can be affected by the curse of dimensionality.

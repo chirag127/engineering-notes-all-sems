@@ -1,0 +1,8 @@
+### Conditions of the Welfare of Societies in India
+
+- Welfare of societies in India refers to the well-being of the people in terms of their health, education, income, security, social justice, and cultural diversity.
+- Welfare of societies in India is influenced by various factors, such as the historical legacy, the constitutional framework, the political system, the economic development, the social movements, the civil society, and the international relations.
+- Welfare of societies in India is also affected by the social issues and challenges that India faces, such as caste system, child labour, illiteracy, gender inequality, superstitions, religious conflicts, poverty, corruption, environmental degradation, and human rights violations.
+- Welfare of societies in India is addressed by various policies and programs of the government of India, both at the central and the state level, as well as by the non-governmental organizations, the private sector, and the international agencies.
+- Welfare of societies in India is measured by various indicators, such as the Human Development Index, the Social Progress Index, the Gross National Happiness Index, the Gender Inequality Index, the Multidimensional Poverty Index, and the Sustainable Development Goals.
+- Welfare of societies in India is a dynamic and evolving concept, as it reflects the changing aspirations, needs, and values of the people, as well as the changing socio-economic and political realities of the country.

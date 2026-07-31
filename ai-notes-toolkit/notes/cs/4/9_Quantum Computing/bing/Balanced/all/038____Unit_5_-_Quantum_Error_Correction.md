@@ -1,0 +1,9 @@
+## Unit 5 - Quantum Error Correction
+
+- Quantum error correction (QEC) is a technique to protect quantum information from decoherence and noise by encoding it into entangled states of multiple qubits.
+- QEC is based on the principles of classical error correction, but requires additional resources and constraints due to the no-cloning theorem and the measurement postulate of quantum mechanics.
+- QEC codes are designed to correct errors that affect one or a few qubits at a time, such as bit-flip, phase-flip, or depolarizing errors. They can also correct for errors that occur during quantum gates or measurements.
+- QEC codes consist of two main components: an encoder circuit that maps a logical qubit (the information to be protected) into a physical qubit (the entangled state of multiple qubits), and a decoder circuit that performs error detection and correction by measuring certain combinations of qubits, called syndrome measurements, and applying appropriate recovery operations.
+- QEC codes are characterized by their code distance, which is the minimum number of physical qubits that need to be corrupted to cause an undetectable error on the logical qubit. The code distance determines the error correction capability and the fault-tolerance threshold of the code.
+- QEC codes can be classified into different types, such as stabilizer codes, CSS codes, topological codes, or surface codes, depending on their structure and properties.
+- QEC codes can be implemented on various quantum platforms, such as superconducting qubits, trapped ions, or photonic qubits, by using suitable quantum gates and measurements. QEC codes can also be combined with other techniques, such as quantum teleportation, quantum repeaters, or quantum secret sharing, to enable scalable and secure quantum communication and computation.

@@ -1,0 +1,13 @@
+### Martial Arts Traditions of India
+
+- Martial arts are codified systems and traditions of combat practices, which are practised for a variety of reasons – self-defence, competition, physical health and fitness, entertainment, as well as mental, physical, and spiritual development.
+- India has an ancient tradition in diverse martial arts, dating back to the Vedic period and influenced by the geography, culture, and history of the subcontinent.
+- Some of the most famous martial arts in India are    :
+  - Kalaripayattu: Often known as the ‘Mother Of All Martial Arts’, this 3000-year old art form originating from Kerala, draws inspiration from the raw power, swift movements and sinuous strength of majestic animals – the lion, tiger, elephant, wild boar, snake and crocodile. It involves strikes, kicks, grappling, weaponry, and healing methods.
+  - Silambam: A weapon-based martial art from Tamil Nadu, that uses a bamboo staff as the primary weapon, along with other weapons such as swords, daggers, and spears. It also incorporates animal-based movements and acrobatic skills.
+  - Gatka: A Sikh martial art that originated in Punjab, that focuses on the use of swords, sticks, and shields. It is also known for its rhythmic and coordinated movements, often performed to the beat of a drum.
+  - Thang-Ta: A Manipuri martial art that combines sword and spear techniques, as well as unarmed combat. It is also known as Huyen Lallong, which means the art of the sword and the spear. It is a powerful yet gracefully complex technique that reflects the culture and history of Manipur.
+  - Kushti: A form of traditional wrestling that originated in the Mughal era, when the local sport of Malla Yuddha was combined with the Persian sport of Varzesh-e-Bastani. It involves grappling, throws, locks, and pins, and is practised on a clay or dirt pit.
+  - Lathi: One of the oldest armed martial arts in India, that uses a bamboo or wooden stick as the main weapon. It is also regarded as one of the earliest martial arts weapons in the world. It is mainly practised in rural areas of northern and eastern India, and is used for self-defence and law enforcement.
+  - Sqay: A Kashmiri martial art that uses a sword and a shield, as well as kicks and punches. It is also known as the art of the lion, and is influenced by the Buddhist and Hindu traditions of the region. It is a graceful and elegant art that requires agility and balance.
+  - Mardani Khel: A Marathi martial art that originated in the 17th century, during the reign of Shivaji Maharaj. It involves the use of various weapons, such as swords, daggers, axes, and spears, as well as unarmed combat. It is a fierce and aggressive art that reflects the spirit of the Maratha warriors.

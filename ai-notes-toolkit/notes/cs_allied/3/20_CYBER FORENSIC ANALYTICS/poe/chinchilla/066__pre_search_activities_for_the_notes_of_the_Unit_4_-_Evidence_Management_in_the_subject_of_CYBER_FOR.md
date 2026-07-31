@@ -1,0 +1,17 @@
+### Pre Search Activities for the Notes of Unit 4 - Evidence Management in the Subject of Cyber Forensic Analytics
+
+Before conducting any search and seizure operation, it is essential to perform several pre-search activities to ensure the admissibility and integrity of digital evidence. These activities are crucial for the success of any cyber forensic investigation. In this article, we will discuss the pre-search activities that forensic analysts should consider before conducting any search and seizure operation.
+
+1. Identify the Objectives of the Investigation: The first pre-search activity is to identify the objectives of the investigation. Forensic analysts should determine the scope of the investigation and the types of evidence required to achieve the objectives. This helps in focusing the search and seizure operation on the specific areas and devices that are relevant to the investigation.
+
+2. Determine the Legal Authority: The second pre-search activity is to determine the legal authority for the search and seizure operation. Forensic analysts should ensure that they have proper legal authority, such as a warrant or court order, to conduct the search and seizure operation. This helps in ensuring the admissibility of digital evidence in court.
+
+3. Identify the Type of Digital Evidence: The third pre-search activity is to identify the type of digital evidence that is relevant to the investigation. This includes identifying the types of devices, files, and data that are likely to contain evidence. This helps in planning the search and seizure operation and determining the tools and techniques required for acquiring digital evidence.
+
+4. Determine the Chain of Custody: The fourth pre-search activity is to determine the chain of custody for digital evidence. Forensic analysts should establish and maintain a chain of custody for all digital evidence collected during the search and seizure operation. This helps in ensuring the integrity and authenticity of digital evidence.
+
+5. Ensure Compliance with Privacy Laws: The fifth pre-search activity is to ensure compliance with privacy laws. Forensic analysts should ensure that they comply with all relevant privacy laws, such as the General Data Protection Regulation (GDPR) and the Privacy Act. This helps in protecting the privacy rights of individuals and ensuring the admissibility of digital evidence in court.
+
+6. Plan for Data Preservation: The sixth pre-search activity is to plan for data preservation. Forensic analysts should ensure that they preserve all relevant digital evidence during the search and seizure operation. This includes making backup copies of data and devices and ensuring that evidence is not altered or destroyed during the investigation.
+
+In conclusion, performing pre-search activities is crucial for the success of any cyber forensic investigation. Forensic analysts should identify the objectives of the investigation, determine the legal authority, identify the type of digital evidence, determine the chain of custody, ensure compliance with privacy laws, and plan for data preservation before conducting any search and seizure operation. By following these pre-search activities, forensic analysts can ensure the admissibility and integrity of digital evidence in court.

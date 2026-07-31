@@ -1,0 +1,31 @@
+### Dekker's solution
+
+- Dekker's solution is the first known correct solution to the mutual exclusion problem in concurrent programming .
+- The mutual exclusion problem is the problem of ensuring that at most one process can enter a critical section at a time, where a critical section is a piece of code that accesses a shared resource  .
+- Dekker's solution allows two processes to share a single-use resource without conflict, using only shared memory for communication .
+- Dekker's solution avoids the strict alternation of a naive turn-taking algorithm, and was one of the first mutual exclusion algorithms to be invented.
+- Dekker's solution is based on the following variables and assumptions :
+  - Two boolean flags, `flag[0]` and `flag[1]`, initialized to `false`, indicating whether each process wants to enter the critical section or not.
+  - An integer variable, `turn`, initialized to `0` or `1`, indicating whose turn it is to enter the critical section.
+  - The processes can read and write the shared variables atomically, meaning without interference from the other process.
+  - The processes can execute the instructions in any order, except for the ones inside the critical section, which must be executed sequentially.
+- Dekker's solution works as follows :
+  - Process 0:
+    - Set `flag[0]` to `true`, indicating the desire to enter the critical section.
+    - While `flag[1]` is `true`, meaning the other process also wants to enter the critical section, do the following:
+      - If `turn` is not `0`, meaning it is not the turn of process 0, then set `flag[0]` to `false` and wait until `turn` becomes `0`.
+      - Set `flag[0]` to `true` again and repeat the loop.
+    - Enter the critical section and perform the required operations on the shared resource.
+    - Set `turn` to `1`, giving the turn to the other process.
+    - Set `flag[0]` to `false`, indicating the exit from the critical section.
+  - Process 1:
+    - Set `flag[1]` to `true`, indicating the desire to enter the critical section.
+    - While `flag[0]` is `true`, meaning the other process also wants to enter the critical section, do the following:
+      - If `turn` is not `1`, meaning it is not the turn of process 1, then set `flag[1]` to `false` and wait until `turn` becomes `1`.
+      - Set `flag[1]` to `true` again and repeat the loop.
+    - Enter the critical section and perform the required operations on the shared resource.
+    - Set `turn` to `0`, giving the turn to the other process.
+    - Set `flag[1]` to `false`, indicating the exit from the critical section.
+- Dekker's solution guarantees mutual exclusion, because only one process can enter the critical section at a time, as the other process will either have its flag set to `false` or have a different turn value .
+- Dekker's solution also guarantees progress, because if both processes want to enter the critical section, the one whose turn it is will eventually enter, and the other one will wait until its turn comes .
+- Dekker's solution also guarantees bounded waiting, because each process can enter the critical section only after at most one entry by the other process, as the turn value is alternated after each exit .

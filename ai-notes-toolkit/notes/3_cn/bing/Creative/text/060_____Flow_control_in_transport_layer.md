@@ -1,0 +1,9 @@
+### Flow control in transport layer
+
+- Flow control is the mechanism that regulates the amount and rate of data transmission between two nodes in a network   .
+- Flow control is needed in transport layer to prevent data loss, buffer overflow or underflow, and congestion due to mismatched speeds or capacities of the sender and receiver   .
+- Flow control in transport layer is different from flow control in data link layer, as the former operates end-to-end across multiple links, while the latter operates locally over a single link.
+- Flow control in transport layer can be implemented using various techniques, such as:
+  - Stop-and-wait: The sender sends one packet and waits for an acknowledgment from the receiver before sending the next packet.
+  - Sliding window: The sender and receiver agree on a window size, which is the number of packets that can be sent without waiting for an acknowledgment. The sender maintains a send window, which is the range of packets that are allowed to be sent. The receiver maintains a receive window, which is the range of packets that are allowed to be received. The sender and receiver update their windows based on the acknowledgments and feedback messages they exchange.
+  - Flow control using TCP: The transport layer protocol TCP uses a combination of sliding window and congestion control techniques to achieve reliable and efficient data transmission. TCP adjusts the window size dynamically based on the network conditions and the receiver's buffer availability. TCP also uses acknowledgments, timers, sequence numbers, and checksums to ensure error-free and in-order delivery of packets .

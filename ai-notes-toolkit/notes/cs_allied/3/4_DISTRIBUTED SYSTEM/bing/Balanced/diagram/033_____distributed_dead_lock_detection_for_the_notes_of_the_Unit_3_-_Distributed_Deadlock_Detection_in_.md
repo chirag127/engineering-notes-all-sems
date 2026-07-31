@@ -1,0 +1,33 @@
+# Distributed Deadlock Detection
+
+- A deadlock is a condition where a set of processes request resources that are held by other processes in the set.
+- Deadlocks can occur in distributed systems when distributed transactions or concurrency control are utilized.
+- Deadlock detection is the approach of identifying and resolving existing deadlocks in the system.
+- Deadlock detection in distributed systems entails two basic issues:
+  - Detection of existing deadlocks
+  - Resolution of detected deadlocks
+- Deadlock detection requires examination of the status of process-resource interactions for presence of cyclic wait.
+- There are three main approaches to deadlock detection in distributed systems:
+  - Centralized approach
+  - Hierarchical approach
+  - Distributed approach
+- Centralized approach:
+  - One site is designated as the deadlock detector and maintains the global wait-for graph (WFG).
+  - Each site sends its local WFG to the deadlock detector periodically or when a change occurs.
+  - The deadlock detector checks the global WFG for cycles and initiates recovery if a deadlock is found.
+  - Advantages: simple and efficient.
+  - Disadvantages: single point of failure, bottleneck, and lack of scalability.
+- Hierarchical approach:
+  - The sites are organized into a hierarchy of clusters, each with a local deadlock detector.
+  - Each site sends its local WFG to its cluster deadlock detector periodically or when a change occurs.
+  - Each cluster deadlock detector sends its cluster WFG to its parent cluster deadlock detector periodically or when a change occurs.
+  - The deadlock detection is performed at different levels of the hierarchy, starting from the lowest level.
+  - Advantages: reduced communication and computation overhead, and improved fault tolerance.
+  - Disadvantages: complex and may detect false deadlocks.
+- Distributed approach:
+  - There is no central or hierarchical deadlock detector, and each site participates in the deadlock detection.
+  - Each site maintains its local WFG and initiates a probe message when it suspects a deadlock.
+  - The probe message is propagated along the edges of the global WFG and returns to the initiator if a cycle is found.
+  - The initiator then initiates the recovery if a deadlock is detected.
+  - Advantages: no single point of failure, no bottleneck, and scalable.
+  - Disadvantages: high communication and computation overhead, and may detect false deadlocks.

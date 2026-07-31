@@ -1,0 +1,7 @@
+### Characteristics of Temporal Data
+
+- Temporal data is the data that is **valid only for a prescribed time**. It becomes **invalid or obsolete** after a certain period of time .
+- Temporal data can represent **time in some form**, such as dates, timestamps, intervals, durations, or periods. It can also represent **events or phenomena** that occur or change over time, such as weather, traffic, demographics, etc.
+- Temporal data can be **analyzed chronologically** to study patterns, trends, correlations, or causations. It can also be **placed in a chronological sequence** to show the order or history of events or changes.
+- Temporal data can have different **temporal aspects** or dimensions, such as **valid time**, **transaction time**, or **decision time**. Valid time is the time when a fact is true in the real world. Transaction time is the time when a fact is stored or updated in the database. Decision time is the time when a fact is known or decided by an agent.
+- Temporal data can be stored and managed in **temporal databases**, which are databases that support temporal data types, operations, and queries. Temporal databases can be **uni-temporal**, **bi-temporal**, or **tri-temporal**, depending on how many temporal aspects they capture.

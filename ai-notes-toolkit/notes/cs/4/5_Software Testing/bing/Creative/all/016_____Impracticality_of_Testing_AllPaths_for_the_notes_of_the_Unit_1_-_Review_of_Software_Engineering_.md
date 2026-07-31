@@ -1,0 +1,7 @@
+# Impracticality of Testing All Paths
+
+- Testing all paths of a software system is impractical because of the following reasons:
+  - The number of paths in a software system can be very large, even infinite, depending on the complexity and the structure of the system. For example, a system with loops, recursion, or concurrency can have an unbounded number of paths.
+  - The time and resources required to test all paths can be prohibitive, especially for large and complex systems. Testing all paths would require exhaustive input generation, execution, and verification, which can be costly and time-consuming.
+  - The benefit of testing all paths can be marginal, as not all paths are equally important or likely to contain faults. Testing all paths would not guarantee the absence of faults, as some faults may be triggered by specific inputs, environmental conditions, or interactions with other systems. Testing all paths would also not guarantee the satisfaction of the user requirements, as some paths may be irrelevant or undesirable for the intended functionality and quality of the system.
+- Therefore, testing all paths of a software system is impractical and not recommended. Instead, testing should focus on selecting and prioritizing the most relevant and critical paths, based on criteria such as coverage, risk, complexity, frequency, and user feedback. Testing should also employ techniques such as equivalence partitioning, boundary value analysis, and error guessing to reduce the number of test cases and increase their effectiveness.

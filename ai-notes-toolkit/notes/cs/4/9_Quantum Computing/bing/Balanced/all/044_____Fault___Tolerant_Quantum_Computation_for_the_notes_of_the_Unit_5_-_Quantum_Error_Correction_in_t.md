@@ -1,0 +1,8 @@
+# Fault-Tolerant Quantum Computation
+
+- Fault-tolerant quantum computation is the ability to perform quantum operations on encoded quantum information without compromising the protection against errors provided by quantum error correction schemes .
+- Fault-tolerance is essential for scalable quantum computation, as physical qubits are subject to noise and decoherence that can corrupt the quantum information and cause errors in the computation .
+- Fault-tolerance can be achieved by using quantum error correction codes that encode logical qubits into physical qubits, and by applying fault-tolerant quantum gates that preserve the code structure and do not propagate errors .
+- Fault-tolerant quantum computation requires a physical error rate below a certain threshold, known as the quantum threshold theorem. The threshold depends on the type of quantum error correction code, the noise model, and the overhead of the fault-tolerant scheme .
+- Fault-tolerant quantum computation can be implemented in various physical systems, such as superconducting qubits, trapped ions, or topological quantum systems . Different systems may have different advantages and challenges for achieving fault-tolerance .
+- Fault-tolerant quantum computation is an active area of research, as it is crucial for realizing the potential of quantum computing for solving hard problems in science, engineering, and cryptography  .

@@ -1,0 +1,8 @@
+# Unit 3 - ELECTROMAGNETIC ENERGY HARVESTING AND NON-LINEAR TECHNIQUES
+
+- Electromagnetic energy harvesting is a process of converting ambient electromagnetic radiation, such as radio waves, microwaves, or light, into electrical energy that can be used to power devices or recharge batteries.
+- Non-linear techniques are methods that introduce non-linearities, such as bistability, snap-through, or magnetic levitation, to the energy harvesting system to enhance its performance, such as increasing the frequency bandwidth, the amplitude response, or the power density.
+- Some examples of non-linear techniques for electromagnetic energy harvesting are:
+  - Dual-mass electromagnetic energy harvester, which consists of a bluff body elastically connected with an additional nonlinear oscillator and subjected to fluid flow and base excitation. This system can achieve high power output and wide bandwidth by exploiting the galloping oscillations of the bluff body and the nonlinear coupling with the oscillator.
+  - Magnetic levitation-based electromagnetic energy harvester, which uses a permanent magnet levitated above a coil to induce a voltage across the coil when the magnet is displaced by an external force. This system can achieve high efficiency and low damping by exploiting the nonlinear magnetic force and the semi-analytical model of the system.
+  - Piezoelectric and electromagnetic micro-power generators, which use nonlinear springs or magnets to tune the resonance frequency of the generators to match the ambient vibration frequency. This can increase the harvested energy from low-frequency vibrations and reduce the sensitivity to frequency variations.

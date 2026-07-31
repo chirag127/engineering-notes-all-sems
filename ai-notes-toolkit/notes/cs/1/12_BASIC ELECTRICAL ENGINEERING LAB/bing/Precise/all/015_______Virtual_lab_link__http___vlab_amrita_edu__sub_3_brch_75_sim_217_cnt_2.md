@@ -1,0 +1,5 @@
+##### Virtual Lab
+
+Virtual Lab is an initiative of the Ministry of Human Resource Department under the National Mission on Education through ICT. The project aims to provide remote access to labs in various disciplines of Science and Engineering for students at the undergraduate level, postgraduate level, and research scholars. The main objective of the Virtual Labs is to enthuse students to conduct experiments by arousing their curiosity, which would help them in learning basic and advanced concepts through remote experimentation  .
+
+The Virtual Lab website provides a range of experiments and labs that are hosted for open access. One such experiment is the Kirchhoff’s Laws experiment, which can be accessed through the simulator link provided on the website. The experiment involves the use of a resistor, which is a two-terminal electronic component that produces a voltage across its terminals that is proportional to the electric current flowing through it in accordance with Ohm's law . The experiment is based on Kirchhoff's Voltage Law, which states that the algebraic sum of all voltages in a loop must equal zero .

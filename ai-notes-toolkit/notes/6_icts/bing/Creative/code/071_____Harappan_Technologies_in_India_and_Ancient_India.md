@@ -1,0 +1,11 @@
+### Harappan Technologies in India and Ancient India
+
+- The Harappan civilization, also known as the Indus Valley civilization, was one of the earliest urban cultures of the Indian subcontinent, dating from 3300 to 1300 BCE .
+- The Harappans developed various technologies and innovations in various fields, such as:
+  - **Metallurgy**: They used copper, bronze, lead, and tin to make tools, weapons, ornaments, and seals. They also knew how to smelt iron, but did not use it extensively .
+  - **Standardized weights and measures**: They used a decimal system of weights based on units of 0.05, 0.1, 0.2, 0.5, 1, 2, 5, 10, 20, 50, 100, 200, and 500 grams, and a corresponding system of linear measures based on units of 1.32, 2.64, 5.28, 13.2, and 26.4 centimeters. These systems were used for trade and administration .
+  - **Seal carving**: They produced thousands of seals made of steatite, terracotta, or faience, engraved with various motifs, such as animals, plants, geometric patterns, and inscriptions in an undeciphered script. These seals were used for identification, authentication, and ritual purposes .
+  - **Hydraulic engineering**: They built sophisticated systems of water supply, drainage, and sanitation, using wells, reservoirs, canals, drains, and bathrooms. They also constructed large public baths, such as the Great Bath at Mohenjo-daro, which may have had religious significance  .
+  - **Urban planning**: They planned their cities and towns according to a grid pattern, with streets running north-south and east-west, and dividing the area into blocks. They also built monumental structures, such as citadels, granaries, warehouses, and assembly halls, using baked bricks of uniform size and shape .
+  - **Art and craft**: They produced various forms of art and craft, such as pottery, terracotta figurines, beads, jewelry, ivory carvings, stone sculptures, and bronze statues. They also used various techniques, such as wheel throwing, glazing, painting, molding, casting, and carving  .
+  - **Trade and commerce**: They engaged in extensive trade and commerce, both within and outside the subcontinent, using land and sea routes. They exchanged goods, such as cotton, grains, metals, ivory, shells, and beads, with regions such as Mesopotamia, Central Asia, Afghanistan, Iran, and the Arabian Peninsula .

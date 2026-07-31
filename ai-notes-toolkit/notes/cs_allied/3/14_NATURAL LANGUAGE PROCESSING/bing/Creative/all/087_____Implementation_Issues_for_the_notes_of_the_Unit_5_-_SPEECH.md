@@ -1,0 +1,11 @@
+# Implementation Issues for the notes of the Unit 5 - SPEECH
+
+- Speech recognition is the process of converting spoken words into text or commands that can be understood by a computer or a device.
+- Speech recognition has many applications, such as voice assistants, dictation, transcription, authentication, and accessibility.
+- However, speech recognition also faces many challenges and issues that affect its performance, accuracy, and usability.
+- Some of the common implementation issues for speech recognition are:
+
+  - **Lack of lingual knowledge**: Speech recognition systems need to be trained on different languages, dialects, accents, and speech styles to be able to recognize them correctly. However, many languages and speech varieties are underrepresented or not available in the training data, leading to poor recognition results.
+  - **Peripheral background sounds**: Speech recognition systems need to be able to filter out the noise and interference from the environment and focus on the speech signal. However, this can be difficult in noisy or crowded situations, such as in a street, a restaurant, or a classroom, where multiple sources of sound can overlap and distort the speech.
+  - **Low data reliability of ASR**: Speech recognition systems rely on automatic speech recognition (ASR) technology, which uses machine learning algorithms to learn from the speech data and generate text or commands. However, ASR technology is not perfect and can make errors or mistakes, such as misrecognizing words, omitting words, inserting words, or transcribing words incorrectly. These errors can affect the quality and meaning of the output and cause frustration or confusion for the users.
+  - **Security and privacy issues**: Speech recognition systems require the users to share their voice recordings, which can be considered as biometric data, with the system or the service provider. However, this can raise concerns about the security and privacy of the users' data, such as who can access it, how it is stored, how it is used, and how it is protected from unauthorized or malicious use. Users may also be worried about the potential risks of voice spoofing, identity theft, or eavesdropping by speech recognition systems.

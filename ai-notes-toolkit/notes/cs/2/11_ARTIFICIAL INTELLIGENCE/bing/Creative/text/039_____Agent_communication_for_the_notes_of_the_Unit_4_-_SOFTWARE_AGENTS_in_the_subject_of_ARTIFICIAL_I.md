@@ -1,0 +1,13 @@
+### Agent communication for the notes of the Unit 4 - SOFTWARE AGENTS in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Agent communication is the process of exchanging information and knowledge between intelligent agents in a multi-agent system.
+- Agent communication is also known as artificial communication, as it imitates human communication in a machine learning and artificial intelligence context.
+- Agent communication is essential for achieving interoperability, coordination, cooperation and collaboration among agents that have different goals, beliefs and capabilities.
+- Agent communication languages (ACLs) are the standardized ways of expressing and exchanging messages among agents. ACLs are based on speech act theory, which states that utterances have illocutionary force, meaning they are intended to perform some action or achieve some effect.
+- Some examples of ACLs are Knowledge Query and Manipulation Language (KQML), Knowledge Interchange Format (KIF), Agent Communication Language (ACL), and Foundation for Intelligent Physical Agents (FIPA) ACL.
+- Agent communication protocols are the rules and conventions that govern the interaction and dialogue among agents. Protocols specify the sequence, timing, content and format of messages, as well as the roles and responsibilities of the participants.
+- Some examples of agent communication protocols are Contract Net Protocol, Query-Ref Protocol, Request Protocol, and Subscribe Protocol.
+- Agent communication can be classified into two types: direct and indirect. Direct communication is when agents exchange messages explicitly and directly, using ACLs and protocols. Indirect communication is when agents influence each other implicitly and indirectly, using the environment as a medium.
+- Some examples of indirect communication are stigmergy, which is the coordination of agents through modifying the environment, and pheromone communication, which is the use of chemical signals to convey information.
+- Agent communication can be evaluated based on various criteria, such as efficiency, effectiveness, reliability, security, scalability, and adaptability.
+- Agent communication can also be analyzed from different perspectives, such as syntactic, semantic, pragmatic, and social. Syntactic analysis focuses on the structure and format of messages. Semantic analysis focuses on the meaning and interpretation of messages. Pragmatic analysis focuses on the context and purpose of messages. Social analysis focuses on the norms and expectations of the agents involved.

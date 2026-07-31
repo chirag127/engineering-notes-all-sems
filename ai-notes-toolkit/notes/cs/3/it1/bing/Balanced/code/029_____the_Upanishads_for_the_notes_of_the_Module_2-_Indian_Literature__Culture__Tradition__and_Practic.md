@@ -1,0 +1,9 @@
+### The Upanishads
+
+- The Upanishads are ancient Hindu scriptures that explore the nature of reality, the self, and the supreme being.
+- The word Upanishad means "to sit down closely", implying the intimate relationship between the teacher and the student who receive the secret teachings.
+- The Upanishads are part of the Vedas, the oldest and most authoritative Hindu texts, but they are considered the end or the essence of the Vedas (Vedanta).
+- There are more than 200 Upanishads, but only about a dozen are considered the most important and influential. Some of the famous Upanishads are the Brihadaranyaka, the Chandogya, the Isa, the Kena, the Katha, the Mundaka, the Mandukya, the Aitareya, the Taittiriya, the Prashna, the Shvetashvatara, and the Maitri.
+- The Upanishads contain various philosophical concepts and doctrines, such as the idea of Brahman, the ultimate reality that pervades everything; the idea of Atman, the true self or soul that is identical with Brahman; the idea of Maya, the illusion or ignorance that prevents one from realizing one's true nature; the idea of Karma, the law of cause and effect that determines one's destiny; the idea of Samsara, the cycle of birth and death that traps one in suffering; the idea of Moksha, the liberation or enlightenment that frees one from Samsara; and the idea of Dharma, the moral duty or righteousness that guides one's actions.
+- The Upanishads also teach various methods and practices to attain Moksha, such as meditation, yoga, ethical conduct, self-inquiry, devotion, and renunciation.
+- The Upanishads have influenced many schools of Hindu philosophy, such as Advaita Vedanta, Vishishtadvaita Vedanta, Dvaita Vedanta, and Yoga. They have also inspired many thinkers and writers from other traditions, such as Buddhism, Jainism, Sikhism, Islam, Christianity, and Western philosophy.

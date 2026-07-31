@@ -1,0 +1,26 @@
+### Process and thread
+
+- A process is an independent sequence of execution that runs in its own memory space.
+- A thread is a segment of a process that shares the memory space with other threads of the same process.
+- A process can have multiple threads, all executing at the same time.
+- A thread is a unit of execution in concurrent programming.
+- In object-oriented system design, there are active and inactive objects.
+- Active objects have independent threads of control that can execute concurrently with threads of other objects.
+- Active objects synchronize with one another as well as with purely sequential objects.
+- Inactive objects do not have threads of control and only execute when invoked by other objects.
+- Processes and threads are used to model the dynamic behavior of a system and its objects.
+- Processes and threads can be represented by activity diagrams, which show the flow of control and data among activities.
+- Activities are actions or tasks performed by the system or its objects.
+- Activities can be atomic or composite, meaning they can be further decomposed into subactivities.
+- Activities can be concurrent, meaning they can execute in parallel or overlap in time.
+- Activities can be synchronized, meaning they can coordinate their execution with other activities using signals or events.
+- Signals are asynchronous messages that are sent or received by an object or a process.
+- Events are occurrences that trigger or interrupt the execution of an activity.
+- Processes and threads can also be represented by state diagrams, which show the states and transitions of an object or a process.
+- States are conditions or situations that an object or a process can be in.
+- Transitions are changes from one state to another, triggered by events or signals.
+- State diagrams can show the concurrent and sequential behavior of an object or a process.
+- State diagrams can also show the substates and superstates of an object or a process, which are hierarchical levels of abstraction.
+- Processes and threads are important concepts in object-oriented system design, as they help to model the dynamic aspects of a system and its objects.
+- Processes and threads also help to achieve concurrency, parallelism, synchronization, and communication among the system components.
+- Processes and threads are based on the object-oriented principles of abstraction, encapsulation, modularity, and polymorphism.

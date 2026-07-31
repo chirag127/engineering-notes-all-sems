@@ -1,0 +1,12 @@
+### Optical Disks
+- Optical disks are a type of storage media that use laser light to read and write data.
+- They are commonly used for storing music, videos, and other large files.
+- The most common types of optical disks are CDs, DVDs, and Blu-ray disks.
+- CDs can store up to 700 MB of data, DVDs can store up to 4.7 GB of data, and Blu-ray disks can store up to 25 GB of data.
+- Optical disks are read using a laser that shines on the disk and detects the pattern of light that is reflected back.
+- The data is stored on the disk in the form of tiny pits and lands, which represent the binary data of 0s and 1s.
+- Optical disks are a type of non-volatile memory, meaning that the data remains on the disk even when the power is turned off.
+- They are a popular choice for long-term storage and archiving of data.
+- Optical disks are relatively durable and can last for many years if stored properly.
+- However, they can be easily scratched or damaged, which can result in data loss.
+- Optical disks are slowly being replaced by other storage media such as flash drives and cloud storage, but they are still widely used for certain applications.

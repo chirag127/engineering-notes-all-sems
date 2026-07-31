@@ -1,0 +1,15 @@
+### Threats to Access Control, Privacy, and Availability for IoT
+
+- Access control is the process of granting or denying access to resources based on the identity and privileges of the requester. Access control is essential for IoT devices to prevent unauthorized access, misuse, or tampering of data and functionality.
+- Privacy is the right of individuals or organizations to control how their personal or sensitive data is collected, used, shared, or stored by IoT devices. Privacy is important for IoT devices to protect the confidentiality and integrity of data and to respect the preferences and consent of the data owners.
+- Availability is the ability of IoT devices to perform their intended functions and services without interruption or degradation. Availability is crucial for IoT devices to ensure the reliability and quality of service for the users and the applications.
+
+Some of the common threats to access control, privacy, and availability for IoT devices are:
+
+- Weak default passwords: Many IoT devices come with hard-coded or easy-to-guess passwords that can be exploited by attackers to gain access to the device or the network. This can lead to data theft, device hijacking, or denial-of-service attacks  .
+- Lack of security updates: Many IoT devices are not regularly updated with security patches or firmware updates that can fix vulnerabilities or improve performance. This can leave the devices exposed to known or new attacks that can compromise their security or functionality .
+- Lack of encryption: Many IoT devices do not use encryption to protect the data in transit or at rest. This can allow attackers to intercept, modify, or steal the data or to launch man-in-the-middle attacks .
+- Privacy concerns: Many IoT devices collect, use, or share personal or sensitive data without the consent or knowledge of the data owners. This can violate the privacy rights or preferences of the individuals or organizations and expose them to identity theft, fraud, or discrimination .
+- Shadow IT: Many IoT devices are deployed or used without the approval or oversight of the IT department or the security team. This can create security gaps or conflicts with the existing policies or standards and increase the risk of unauthorized access, data leakage, or compliance issues .
+- Tampering threats: Many IoT devices are vulnerable to physical or logical tampering that can alter their behavior or functionality. For example, attackers can use SQL or XML injection attacks or DDoS attacks to disrupt or damage the IoT applications or services.
+- Elevation of privilege threats: Many IoT devices have weak or no authentication or authorization mechanisms that can allow attackers to escalate their privileges or access levels. For example, attackers can use unsecured IoT devices to access confidential data or to launch attacks on other devices or networks.

@@ -1,0 +1,20 @@
+### Jain Literature in Pali, Prakrit and Sanskrit
+
+- Jain literature refers to the literature of the Jain religion, which is one of the oldest and major religions of India.
+- Jain literature is a vast and ancient literary tradition, which was initially transmitted orally by the teachers and disciples of Jainism.
+- Jain literature is composed in various languages, such as Prakrit, Pali, Sanskrit, Apabhramsha, Hindi, Gujarati, Tamil, Kannada, and Rajasthani.
+- The most important and authoritative Jain literature is the canonical literature, which consists of the sacred scriptures of the Jains, known as the Agamas or Siddhantas.
+- The canonical literature is written in Ardhamagadhi, a Prakrit language that was spoken by Mahavira, the 24th and last Tirthankara (ford-maker) of Jainism.
+- The canonical literature is divided into two main categories: the Angas (limbs) and the Upangas (subsidiary limbs). The Angas are 12 in number and contain the core teachings of Jainism, such as the doctrine of karma, the theory of non-violence, the code of conduct, and the cosmology. The Upangas are 12 in number and contain supplementary teachings, such as the legends of the Tirthankaras, the stories of the previous lives of Mahavira, and the description of the six substances of reality.
+- The canonical literature also includes other texts, such as the Prakirnas (miscellaneous), the Chhedasutras (disciplinary), the Mulasutras (fundamental), and the Nandisutras (introductory).
+- The canonical literature was compiled and edited by the councils of Jain monks, who also added commentaries and sub-commentaries to the original texts. The most important councils were held at Pataliputra, Mathura, and Valabhi, between the 4th century BCE and the 6th century CE.
+- The canonical literature is considered to be the oldest and most authentic source of Jainism, but it is not the only source. Jain literature also includes non-canonical literature, which consists of various texts written by Jain scholars, poets, and saints in different languages and genres.
+- The non-canonical literature is rich and diverse, and covers various topics, such as philosophy, ethics, logic, grammar, mathematics, astronomy, astrology, medicine, art, architecture, and literature.
+- The non-canonical literature is written in various languages, such as Pali, Sanskrit, Apabhramsha, Hindi, Gujarati, Tamil, Kannada, and Rajasthani. Some of the prominent languages and their literary works are:
+
+  - Pali: Pali is an Indo-Aryan language that was used by the early Buddhists and Jains. Some of the Jain texts written in Pali are the Vasudevahindi, the Harivamsapurana, and the Padmanadi.
+  - Sanskrit: Sanskrit is the classical and literary language of India, and the most widely used language by the Jain scholars and poets. Some of the Jain texts written in Sanskrit are the Tattvarthasutra, the Karmagrantha, the Pramanamimamsa, the Nyayakumudacandra, the Upamitibhavaprapanchakatha, and the Mahapurana.
+  - Prakrit: Prakrit is a collective term for the vernacular languages that were derived from Sanskrit and spoken by the common people. Some of the Jain texts written in Prakrit are the Gathasaptasati, the Samayasar, the Niyamasara, the Bhaktamara Stotra, and the Ravanavadha.
+  - Apabhramsha: Apabhramsha is a transitional language that developed from Prakrit and influenced the modern languages of India. Some of the Jain texts written in Apabhramsha are the Vikramarjuna Vijaya, the Kuvalayamala, the Prabandhacintamani, and the Lilavati.
+  - Hindi: Hindi is the most widely spoken language of India, and the official language of the Indian government. Some of the Jain texts written in Hindi are the Ramacaritamanasa, the Padmaprabha Carita, the Yogasara, and the Bhavabhuti.
+  - Gujarati: Gujarati is the language of the state of Gujarat, and the mother tongue of Mahatma Gandhi. Some of the Jain texts written in Gujarati

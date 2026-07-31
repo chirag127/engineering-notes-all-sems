@@ -1,0 +1,25 @@
+# Concepts in Message Passing Systems
+
+- Message passing is a technique for invoking behavior on a computer by sending a message to a process.
+- Message passing is used in distributed systems to enable communication and coordination among processes that may be located on different machines .
+- Message passing systems provide a set of message-based interprocess communication (IPC) protocols that allow processes to exchange data, synchronize, and request services .
+- Message passing systems can be classified into two categories: synchronous and asynchronous .
+  - Synchronous message passing systems require the sender and the receiver to be ready at the same time for a message exchange. The sender blocks until the receiver acknowledges the message, and the receiver blocks until a message arrives .
+  - Asynchronous message passing systems do not impose any timing constraints on the sender and the receiver. The sender can send a message and continue without waiting for an acknowledgment, and the receiver can receive a message at any time from a message queue .
+- Message passing systems can also be classified into two types: direct and indirect .
+  - Direct message passing systems require the sender and the receiver to explicitly name each other in the message exchange. A communication link must be established between the cooperating processes before messages can be sent .
+  - Indirect message passing systems do not require the sender and the receiver to know each other's identities. Instead, they use an intermediary entity, such as a mailbox, a port, or a topic, to route messages between processes .
+- Message passing systems can support various communication models, such as point-to-point, multicast, broadcast, and publish-subscribe .
+  - Point-to-point communication model involves sending a message from one process to another process. It can be either one-to-one or one-to-many .
+  - Multicast communication model involves sending a message from one process to a subset of processes. It can be either many-to-one or many-to-many .
+  - Broadcast communication model involves sending a message from one process to all processes. It can be either one-to-all or all-to-all .
+  - Publish-subscribe communication model involves sending a message from one process to a set of processes that have subscribed to a certain topic. It can be either one-to-many or many-to-many .
+- Message passing systems can have different properties, such as reliability, ordering, and atomicity .
+  - Reliability refers to the guarantee that a message sent by a process will be delivered to the intended recipient(s) without being lost, duplicated, or corrupted .
+  - Ordering refers to the guarantee that messages sent by a process will be delivered to the recipient(s) in the same order as they were sent .
+  - Atomicity refers to the guarantee that messages sent by a process will be delivered to all or none of the recipient(s) .
+- Message passing systems can use different protocols, such as TCP, UDP, HTTP, and MPI  .
+  - TCP (Transmission Control Protocol) is a reliable, ordered, and connection-oriented protocol that provides error detection and correction, flow control, and congestion control.
+  - UDP (User Datagram Protocol) is an unreliable, unordered, and connectionless protocol that provides low latency and high throughput, but does not guarantee delivery, order, or integrity of messages.
+  - HTTP (Hypertext Transfer Protocol) is an application-level protocol that supports request-response communication between clients and servers over TCP.
+  - MPI (Message Passing Interface) is a standardized and portable message-passing system developed for distributed and parallel computing. MPI provides parallel hardware vendors with a clearly defined base set of routines that can be efficiently implemented .

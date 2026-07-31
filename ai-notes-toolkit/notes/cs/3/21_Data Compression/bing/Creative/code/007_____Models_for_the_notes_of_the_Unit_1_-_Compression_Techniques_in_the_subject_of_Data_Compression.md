@@ -1,0 +1,15 @@
+### Models for the notes of the Unit 1 - Compression Techniques in the subject of Data Compression
+
+- Data compression is the process of reducing the size of data without losing essential information or quality.
+- Data compression can be classified into two types: lossless and lossy.
+- Lossless compression techniques preserve the exact original data and allow perfect reconstruction after decompression. Examples of lossless compression techniques are Huffman coding, arithmetic coding, run-length encoding, Lempel-Ziv coding, etc.
+- Lossy compression techniques discard some information and allow only approximate reconstruction after decompression. Examples of lossy compression techniques are JPEG, MP3, MPEG, etc.
+- Data compression can also be classified into two components: the model and the coder.
+- The model component captures the probability distribution of the data by knowing or discovering something about the structure of the input. Examples of models are Markov models, context models, dictionary models, etc.
+- The coder component encodes the data according to the model using some coding scheme. Examples of coding schemes are variable-length codes, fixed-length codes, arithmetic codes, etc.
+- Model compression is a technique of deploying state-of-the-art deep neural networks in devices with low power and resources, without compromising much on the accuracy of the model.
+- Model compression can be achieved by using various techniques, such as pruning, quantization, knowledge distillation, and low-rank factorization.
+- Pruning is a technique that reduces the number of parameters in a neural network by removing redundant and inconsequential parameters. These parameters can be connectors, neurons, channels, or even layers. Pruning can be done in different ways, such as weight pruning, unit pruning, filter pruning, etc.
+- Quantization is a technique that reduces the precision of the parameters in a neural network by storing them as lower-bit numbers instead of 32-bit floating point numbers. Quantization can be done in different ways, such as uniform quantization, non-uniform quantization, dynamic quantization, etc.
+- Knowledge distillation is a technique that transfers the knowledge from a large, complex model (teacher) to a smaller, simpler model (student) by training the student model to mimic the output of the teacher model. Knowledge distillation can be done in different ways, such as soft target distillation, hard target distillation, attention transfer, etc.
+- Low-rank factorization is a technique that reduces the complexity of the parameters in a neural network by decomposing them into lower-rank matrices or tensors. Low-rank factorization can be done in different ways, such as singular value decomposition, tensor decomposition, matrix factorization, etc.

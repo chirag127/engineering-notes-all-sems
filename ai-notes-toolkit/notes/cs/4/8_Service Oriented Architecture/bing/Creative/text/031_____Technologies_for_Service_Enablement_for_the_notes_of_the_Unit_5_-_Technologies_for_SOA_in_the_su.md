@@ -1,0 +1,9 @@
+### Technologies for Service Enablement
+
+- Service enablement is the process of providing the necessary tools, resources, and capabilities to the service providers and consumers to deliver and consume services effectively and efficiently.
+- Technologies for service enablement can be classified into three categories: infrastructure, platform, and software .
+- Infrastructure as a service (IaaS) is the provision of computing resources such as servers, storage, network, and virtualization as a service over the internet. IaaS enables service providers and consumers to access and manage the underlying infrastructure without having to own or maintain it .
+- Platform as a service (PaaS) is the provision of a development and deployment environment for building, testing, and running applications as a service over the internet. PaaS enables service providers and consumers to create and use applications without having to worry about the underlying infrastructure, middleware, or operating system .
+- Software as a service (SaaS) is the provision of software applications as a service over the internet. SaaS enables service providers and consumers to access and use software applications without having to install, update, or maintain them .
+- Technologies for service enablement can help service-oriented architecture (SOA) by facilitating the design, development, deployment, discovery, composition, invocation, monitoring, and management of services across different domains and platforms .
+- Technologies for service enablement can also help service-oriented architecture (SOA) by enabling the integration, interoperability, scalability, security, reliability, and performance of services across different networks and protocols .

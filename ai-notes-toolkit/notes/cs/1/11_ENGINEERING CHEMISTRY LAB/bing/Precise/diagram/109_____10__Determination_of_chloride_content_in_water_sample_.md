@@ -1,0 +1,12 @@
+### 10. Determination of chloride content in water sample
+
+1. **Introduction:** Chloride is one of the major anions found in water and wastewater. The chloride content of water can be used as an indicator of pollution from human or animal waste, industrial effluents, or saltwater intrusion.
+2. **Method:** The most common method for determining the chloride content in water is the argentometric method, also known as the Mohr method. This method involves titrating the water sample with a standard solution of silver nitrate using potassium chromate as an indicator.
+3. **Procedure:** A known volume of the water sample is pipetted into a conical flask and a few drops of potassium chromate indicator are added. The solution is then titrated with a standard solution of silver nitrate until the appearance of a red-brown color, indicating the end point of the titration.
+4. **Calculations:** The chloride content of the water sample can be calculated using the volume of silver nitrate solution used and the concentration of the silver nitrate solution.
+5. **Interferences:** The presence of other halides, such as bromide and iodide, can interfere with the determination of chloride content using the argentometric method. These interferences can be minimized by using a different indicator or by using a different method for the determination of chloride content.
+6. **Accuracy:** The accuracy of the determination of chloride content using the argentometric method depends on the accuracy of the standard solution of silver nitrate and the precision of the titration.
+7. **Applications:** The determination of chloride content in water is important in various fields, including environmental monitoring, water treatment, and industrial processes.
+8. **Limitations:** The argentometric method for the determination of chloride content in water has some limitations, including interferences from other halides and the need for a skilled operator to perform the titration.
+9. **Alternative methods:** Alternative methods for the determination of chloride content in water include ion chromatography, potentiometry, and spectrophotometry.
+10. **Conclusion:** The determination of chloride content in water is an important analytical procedure with various applications. The argentometric method is a common and reliable method for the determination of chloride content, but alternative methods are also available.

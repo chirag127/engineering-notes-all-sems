@@ -1,0 +1,8 @@
+### 4. Determination of pH by titrimetric method
+
+- Titrimetric method is a technique of quantitative analysis that involves measuring the volume of a solution of known concentration (titrant) that is required to react completely with a solution of unknown concentration (analyte)  .
+- pH is a measure of the acidity or alkalinity of a solution, defined as the negative logarithm of the hydrogen ion concentration: pH = -log[H3O+]  .
+- Determination of pH by titrimetric method involves using a pH meter to monitor the change in pH of the analyte solution as the titrant is added   .
+- A pH meter consists of a glass electrode that is sensitive to hydrogen ions and a reference electrode that provides a constant potential. The potential difference between the two electrodes is proportional to the pH of the solution  .
+- A plot of the pH of the analyte solution versus the volume of the titrant added is called a titration curve. The titration curve can be used to determine the endpoint or equivalence point of the titration, where the moles of titrant are equal to the moles of analyte  .
+- The shape of the titration curve depends on the strength and concentration of the acid and base involved in the titration. For example, a strong acid-strong base titration curve has a sharp rise in pH near the equivalence point, while a weak acid-strong base titration curve has a more gradual rise in pH and a buffer region before the equivalence point .

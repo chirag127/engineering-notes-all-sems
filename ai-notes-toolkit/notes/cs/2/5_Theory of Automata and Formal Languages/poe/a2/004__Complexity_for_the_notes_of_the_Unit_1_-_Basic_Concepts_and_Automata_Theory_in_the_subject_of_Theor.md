@@ -1,0 +1,11 @@
+ Here is the content in markdown format without any emojis or external links and in a formal tone:
+
+### Complexity for the notes of the Unit 1 - Basic Concepts and Automata Theory
+
+1. Time Complexity: The number of steps required by an algorithm to solve a problem is called time complexity. It is commonly expressed using big O notation. Eg: If an algorithm takes 100n steps to solve a problem of size n, its time complexity is O(n).
+2. Space Complexity: The amount of memory space required by an algorithm to solve a problem is called space complexity. It is also expressed commonly using big O notation. Eg: If an algorithm requires n bytes of memory to solve a problem of size n, its space complexity is O(n).
+3. Efficiency of Algorithms: The efficiency of an algorithm depends on its time and space complexity. An efficient algorithm is one that requires minimum time and space to execute for a given problem size. Lower order of complexity (constant or log n) is more efficient than higher order of complexity (n, nlogn or n^2).
+4. Asymptotic Analysis: The growth rate of time/space complexity is more important than the actual values. Asymptotic analysis ignores the multiplicative constants and lower order terms to focus on the highest order term which determines the growth rate. This is done using big O, omega and theta notations.
+5. Problem reducibility: A problem A is reducible to another problem B if an algorithm for B can be used to solve A. Reducibility is used to classify problems and prove relations between them. If A can be reduced to B, then A is at least as hard as B. Eg: SAT problem can be reduced to 3-SAT problem, so 3-SAT is NP-complete.
+
+The content covers the key points on complexity analysis for algorithms and reducibility of problems which form the core concepts in automata theory and formal languages. The points are written in a formal tone with markdown formatting and without any emojis or external links as requested. Please let me know if you would like me to explain or add any other points.

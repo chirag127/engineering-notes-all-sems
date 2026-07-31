@@ -1,0 +1,12 @@
+# Multi-Agent Systems for the Notes of the Unit 5 - Applications in IDBS in the Subject of Intelligent Database Systems
+
+- A multi-agent system (MAS) is a computerized system composed of multiple interacting intelligent agents that can solve problems that are difficult or impossible for an individual agent or a monolithic system to solve.
+- An intelligent agent is an autonomous entity that can perceive its environment, reason, learn, and act to achieve its goals.
+- A multi-agent system can be seen as a form of distributed artificial intelligence (DAI), which is a subfield of AI that deals with the coordination and cooperation of multiple agents in a distributed environment.
+- Multi-agent systems can be applied to various domains, such as online trading, disaster response, target surveillance, social structure modelling, ambient intelligence, and intelligent database systems  .
+- An intelligent database system (IDBS) is a database system that integrates AI techniques, such as knowledge representation, reasoning, learning, and natural language processing, to provide intelligent services to the users and applications.
+- A multi-agent system can enhance the functionality and performance of an IDBS by providing the following benefits:
+  - Distributed data management: agents can access, store, and process data in a distributed and parallel manner, reducing the communication and computation costs and increasing the scalability and reliability of the system.
+  - Autonomous and adaptive data processing: agents can act autonomously and adaptively to the changing data and user needs, providing personalized and context-aware services and improving the quality and efficiency of the system.
+  - Cooperative and collaborative data processing: agents can cooperate and collaborate with other agents and users, sharing and integrating data and knowledge, resolving conflicts and inconsistencies, and achieving common or individual goals.
+  - Intelligent and interactive data processing: agents can use AI techniques to perform complex and sophisticated data processing tasks, such as data mining, data analysis, data visualization, data summarization, and data recommendation, and interact with the users and applications in a natural and intuitive way.

@@ -1,0 +1,23 @@
+#### CO 4 Show an ability to upload/download sensor data on cloud and server K2
+
+- Sensor data is the information collected by sensors that measure physical phenomena such as temperature, humidity, pressure, light, sound, etc.
+- Cloud and server are two types of platforms that can store and process sensor data remotely over the internet.
+- Cloud is a network of servers that provide on-demand computing resources and services such as storage, databases, analytics, etc.
+- Server is a single computer or a group of computers that provide specific services or applications such as web hosting, email, file sharing, etc.
+- To upload sensor data to cloud or server, the following steps are required:
+  - Connect the sensor to a device that can communicate with the internet, such as a microcontroller, a computer, a smartphone, etc.
+  - Configure the device to send the sensor data to a specific cloud or server address, such as a URL, an IP address, a port number, etc.
+  - Use a protocol or a method that is compatible with the cloud or server, such as HTTP, MQTT, TCP, UDP, etc.
+  - Use a format or a structure that is suitable for the cloud or server, such as JSON, XML, CSV, etc.
+  - Optionally, encrypt or compress the sensor data to enhance security or efficiency.
+- To download sensor data from cloud or server, the following steps are required:
+  - Connect to the internet using a device that can receive and process the sensor data, such as a computer, a smartphone, a tablet, etc.
+  - Access the cloud or server address where the sensor data is stored or streamed, such as a URL, an IP address, a port number, etc.
+  - Use a protocol or a method that is compatible with the cloud or server, such as HTTP, MQTT, TCP, UDP, etc.
+  - Use a format or a structure that is suitable for the device, such as JSON, XML, CSV, etc.
+  - Optionally, decrypt or decompress the sensor data to restore the original information.
+- Some examples of cloud and server platforms that can handle sensor data are:
+  - Microsoft Defender for IoT: a cloud-based service that provides security and visibility for industrial and critical infrastructure networks. It allows users to upload sensor data from OT sensors using an activation file and download sensor data from the sensor console using a web browser.
+  - ThingSpeak: a cloud-based platform that enables users to collect, analyze, and visualize sensor data using MATLAB. It allows users to upload sensor data from devices such as Raspberry Pi using HTTP or MQTT and download sensor data using a web browser or an API.
+  - AWS IoT: a cloud-based platform that provides secure and scalable connectivity and management for IoT devices and applications. It allows users to upload sensor data from devices such as Arduino using MQTT and download sensor data using DynamoDB or other AWS services.
+  - SAPHI: a server-based platform that provides custom solutions for IoT projects and products. It allows users to upload sensor data from devices such as LoRaWAN using TCP or UDP and download sensor data using a web browser or an API.

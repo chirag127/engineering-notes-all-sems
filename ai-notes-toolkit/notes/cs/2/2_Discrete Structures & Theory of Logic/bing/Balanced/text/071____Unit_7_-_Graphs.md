@@ -1,0 +1,26 @@
+## Unit 7 - Graphs
+
+- A graph is a collection of vertices (or nodes) and edges (or arcs) that connect them.
+- A graph can be used to model various types of relations or networks, such as social networks, transportation networks, communication networks, etc.
+- A graph can be represented in different ways, such as using an adjacency matrix, an adjacency list, or a visual diagram.
+- Some basic terminology and properties of graphs are:
+  - The degree of a vertex is the number of edges incident to it.
+  - A loop is an edge that connects a vertex to itself.
+  - A multiple edge is an edge that occurs more than once between two vertices.
+  - A simple graph is a graph that has no loops or multiple edges.
+  - A directed graph (or digraph) is a graph in which each edge has a direction, indicated by an arrow.
+  - An undirected graph is a graph in which each edge has no direction, indicated by a line.
+  - A weighted graph is a graph in which each edge has a numerical value (or weight) associated with it.
+  - A subgraph of a graph is a graph that consists of some of the vertices and edges of the original graph.
+  - A path in a graph is a sequence of vertices and edges that connects two vertices.
+  - A cycle in a graph is a path that starts and ends at the same vertex.
+  - A connected graph is a graph in which there is a path between any two vertices.
+  - A disconnected graph is a graph that is not connected.
+  - A component of a graph is a maximal connected subgraph of the graph.
+  - A tree is a connected graph that has no cycles.
+  - A forest is a graph that consists of one or more trees.
+  - A spanning tree of a graph is a subgraph that is a tree and contains all the vertices of the graph.
+  - A bipartite graph is a graph whose vertices can be divided into two disjoint sets such that no edge connects two vertices in the same set.
+  - A complete graph is a graph in which there is an edge between every pair of vertices.
+  - A planar graph is a graph that can be drawn on a plane without any edges crossing.
+  - A graph isomorphism is a one-to-one correspondence between the vertices and edges of two graphs that preserves the adjacency relation.

@@ -1,0 +1,9 @@
+# Components for Clusters
+
+- A cluster is a collection of interconnected computers that work together as a single system to perform high-performance computing tasks.
+- The main components of a cluster are:
+  - **Compute nodes**: These are the servers that execute the parallel applications and algorithms. They can have different configurations of CPUs, GPUs, FPGAs, memory, and other resources.     
+  - **Network**: This is the communication infrastructure that connects the compute nodes and enables data transfer and synchronization. The network can have different topologies, protocols, and bandwidths depending on the cluster requirements.     
+  - **Storage**: This is the data repository that stores the applications, user data, and intermediate results. The storage can have different types, such as local disks, network-attached storage (NAS), or parallel file systems (PFS). The storage performance can affect the cluster performance, especially for data-intensive applications.    
+  - **Cluster provisioner**: This is the software tool that automates the installation, configuration, and management of the cluster nodes. The cluster provisioner ensures that the nodes are homogeneous and consistent, and that they can be easily deployed, monitored, and updated. 
+  - **Scheduler**: This is the software tool that allocates the cluster resources to the user jobs and optimizes the cluster utilization and efficiency. The scheduler can have different policies, such as first-come-first-served (FCFS), shortest job first (SJF), or priority-based. The scheduler can also support different modes, such as batch, interactive, or hybrid.

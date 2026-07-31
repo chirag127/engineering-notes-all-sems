@@ -1,0 +1,13 @@
+### Geometry and topology of engineered components
+
+- Geometry is the branch of mathematics that studies the properties, measurements, and relationships of points, lines, angles, surfaces, and solids in space.
+- Topology is the branch of mathematics that studies the properties of shapes that are preserved under continuous deformations, such as stretching, twisting, bending, and shrinking, but not tearing or gluing.
+- Geometry and topology are closely related, as many concepts and results in geometry can be generalized and abstracted to topological spaces, such as continuity, convergence, compactness, connectedness, and dimension.
+- Geometry and topology are also important tools for studying and designing engineered components, such as mechanical parts, electrical circuits, optical devices, and nanomaterials, as they can capture the essential features and constraints of these components, such as shape, size, symmetry, rigidity, flexibility, and functionality.
+- Some examples of geometry and topology applications in engineering are:
+
+  - Computational geometry, which deals with algorithms and data structures for manipulating geometric objects and solving geometric problems, such as convex hulls, Voronoi diagrams, Delaunay triangulations, polygon decompositions, mesh generation, and collision detection.
+  - Computer-aided design (CAD), which uses geometric modeling and simulation to create, modify, analyze, and optimize the design of engineered components, such as curves, surfaces, solids, and assemblies, using various representations, such as parametric, implicit, spline, and subdivision.
+  - Computer-aided manufacturing (CAM), which uses geometric and topological information to plan, control, and monitor the fabrication of engineered components, such as machining, 3D printing, and laser cutting, using various techniques, such as tool path generation, geometric tolerancing, and quality inspection.
+  - Computer graphics, which uses geometry and topology to generate, manipulate, and render realistic and stylized images and animations of engineered components, such as lighting, shading, texturing, mapping, and ray tracing, using various models, such as polygonal, volumetric, and point-based.
+  - Geometric and topological data analysis (GDA and TDA), which use geometry and topology to extract, visualize, and interpret meaningful features and patterns from complex and high-dimensional data sets, such as point clouds, graphs, networks, and images, using various methods, such as persistent homology, mapper, and shape descriptors.

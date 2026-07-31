@@ -1,0 +1,22 @@
+## Unit 4 - Fiber Optics & Laser
+
+- Fiber optics are thin strands of glass or plastic that can transmit light signals over long distances.
+- Laser is an acronym for Light Amplification by Stimulated Emission of Radiation. It is a device that produces a coherent and intense beam of light of a single wavelength and color.
+- Fiber lasers are a type of laser that use a doped optical fiber as the gain medium. The fiber core is infused with atoms of rare-earth elements, such as erbium or ytterbium, that can emit light when stimulated by an external source.
+- The basic components of a fiber laser are:
+  - A pump source, such as a diode laser, that provides the energy to excite the atoms in the fiber core.
+  - A fiber coupler, that couples the pump light into the fiber core.
+  - A fiber Bragg grating, that acts as a wavelength-selective mirror to reflect the desired laser light back into the fiber core, forming a resonant cavity.
+  - An output coupler, that allows a fraction of the laser light to exit the fiber as the output beam.
+- The advantages of fiber lasers over other types of lasers are:
+  - High efficiency, as the pump light is directly absorbed by the fiber core, minimizing losses and heat generation.
+  - High beam quality, as the fiber core acts as a waveguide that preserves the spatial coherence and mode purity of the laser light.
+  - High power, as the fiber core can be made long and thin, increasing the gain and allowing for high output power without damaging the fiber.
+  - High reliability, as the fiber core is immune to environmental factors, such as dust, moisture, vibration, and thermal shock.
+  - High flexibility, as the fiber core can be bent and coiled, enabling compact and portable designs.
+- The applications of fiber lasers include:
+  - Industrial, such as cutting, welding, drilling, and marking of metals and other materials.
+  - Medical, such as surgery, dermatology, dentistry, and ophthalmology.
+  - Telecommunications, such as optical amplifiers, transmitters, and receivers for fiber-optic networks.
+  - Defense, such as laser weapons, countermeasures, and sensing.
+  - Research, such as spectroscopy, microscopy, and metrology.

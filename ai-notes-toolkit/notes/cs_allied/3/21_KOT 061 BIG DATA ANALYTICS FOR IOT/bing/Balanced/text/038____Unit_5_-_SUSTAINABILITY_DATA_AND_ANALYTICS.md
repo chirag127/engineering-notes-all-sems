@@ -1,0 +1,25 @@
+## Unit 5 - SUSTAINABILITY DATA AND ANALYTICS
+
+- Sustainability data and analytics is the process of collecting, analyzing, and using data to measure and improve the environmental, social, and economic impacts of an organization or a system  .
+- Sustainability data and analytics can help organizations to:
+  - Identify and prioritize the most relevant sustainability issues and opportunities for their business .
+  - Set and track sustainability goals and targets, and report on their progress and performance  .
+  - Benchmark and compare their sustainability performance with peers, competitors, and best practices  .
+  - Optimize their resource efficiency, reduce their costs, and increase their profitability  .
+  - Enhance their reputation, brand value, and stakeholder engagement  .
+  - Innovate and create new products, services, and business models that address sustainability challenges and opportunities  .
+- Sustainability data and analytics can be applied to various domains and sectors, such as:
+  - Energy and climate: data on energy consumption, generation, distribution, and emissions, as well as renewable energy sources, energy efficiency, and carbon footprint  .
+  - Water and waste: data on water use, quality, availability, and management, as well as waste generation, disposal, recycling, and recovery  .
+  - Supply chain and logistics: data on the environmental and social impacts of sourcing, production, transportation, and distribution of goods and services, as well as the circular economy and life cycle assessment   .
+  - Social and human capital: data on the health, safety, well-being, diversity, inclusion, and empowerment of employees, customers, communities, and other stakeholders, as well as human rights, labor standards, and ethics  .
+  - Governance and risk: data on the policies, practices, and performance of an organization in relation to sustainability, as well as the risks and opportunities associated with sustainability issues and trends  .
+- Sustainability data and analytics can be derived from various sources and methods, such as:
+  - Internal data: data collected and reported by an organization from its own operations, activities, and stakeholders, such as financial data, operational data, and survey data  .
+  - External data: data collected and reported by third parties, such as regulators, industry associations, rating agencies, NGOs, media, and social networks, such as regulatory data, market data, and sentiment data  .
+  - IoT data: data collected and transmitted by sensors, devices, and machines, such as smart meters, smart buildings, smart vehicles, and smart appliances, such as real-time data, location data, and performance data .
+  - Big data: data that is characterized by high volume, velocity, variety, and veracity, and that requires advanced techniques and technologies to process, analyze, and visualize, such as artificial intelligence, machine learning, and cloud computing  .
+- Sustainability data and analytics can be presented and communicated in various formats and platforms, such as:
+  - Dashboards and reports: graphical and interactive displays of key sustainability indicators, metrics, and trends, as well as narratives and stories that explain the data and its implications  .
+  - Standards and frameworks: common and consistent definitions, methodologies, and guidelines for measuring and reporting sustainability data and analytics, such as the Global Reporting Initiative (GRI), the Sustainability Accounting Standards Board (SASB), and the Task Force on Climate-related Financial Disclosures (TCFD)  .
+  - Certifications and labels: external and independent verification and validation of sustainability data and analytics, as well as recognition and endorsement of sustainability performance and practices, such as the LEED, the B Corp, and the Fair Trade [^2

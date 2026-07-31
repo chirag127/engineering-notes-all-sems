@@ -1,0 +1,20 @@
+# Terminologies in Testing
+
+- Testing is the process of verifying and validating that a software product or system meets the specified requirements and expectations of the stakeholders.
+- Testing can be performed at different levels and types, depending on the objectives, scope, and context of the testing process.
+- Testing can also be classified into different techniques, based on the methods and criteria used to design and execute test cases.
+- Testing can be formal or informal, depending on the degree of planning, documentation, and control involved in the testing process.
+- Testing can be manual or automated, depending on the use of tools and scripts to perform testing tasks.
+- Testing can be performed by different roles and responsibilities, such as developers, testers, users, customers, etc.
+- Testing can be influenced by various factors, such as quality attributes, risks, standards, regulations, etc.
+
+Some of the common terminologies used in testing are:
+
+- **SDLC (Software Development Life Cycle)**: It is a systematic approach for developing software, consisting of various phases, such as planning, analysis, design, implementation, testing, deployment, and maintenance. Each phase has its own objectives, deliverables, and activities. ISO/IEC 12207 is an international standard for software life-cycle processes.
+- **Test Level**: It is a specific instantiation of a test process, corresponding to a particular phase or stage of the SDLC. Each test level has its own objectives, scope, and criteria. Some of the common test levels are unit testing, integration testing, system testing, and acceptance testing.
+- **Test Type**: It is a group of test activities that aim to evaluate a specific quality attribute or characteristic of a software product or system. Each test type has its own objectives, techniques, and tools. Some of the common test types are functional testing, non-functional testing, structural testing, and change-related testing.
+- **Test Design Technique**: It is a method or procedure used to derive and select test cases, based on the test objectives, test basis, and test criteria. Each test design technique has its own advantages, disadvantages, and applicability. Some of the common test design techniques are specification-based, structure-based, experience-based, and defect-based.
+- **STLC (Software Testing Life Cycle)**: It is a subset of the SDLC, focusing on the testing activities and deliverables. It consists of various phases, such as test planning, test analysis, test design, test implementation, test execution, test evaluation, and test closure. Each phase has its own objectives, inputs, outputs, and tasks.
+- **Informal Testing**: It is a type of testing that does not follow a formal or structured process, such as test planning, test documentation, test execution, and test reporting. Informal testing is usually performed by the developers or testers during the development or testing phases, without any predefined test cases or expected results. Informal testing can be useful for finding defects early, but it may not provide sufficient coverage, traceability, or repeatability.
+- **Test Planning**: It is the first phase of the STLC, where the test objectives, scope, strategy, approach, resources, schedule, risks, and deliverables are defined and documented. Test planning provides the basis and direction for the subsequent testing activities. A test plan is a document that records the test planning information.
+- **Test Documentation**: It is the set of documents that describe the test basis, test items, test cases, test procedures, test data, test results, test reports, and test logs. Test documentation provides the evidence and information for the testing process and its outcomes. Test documentation can be formal or informal, depending on the testing context and requirements.

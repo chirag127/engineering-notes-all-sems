@@ -1,0 +1,10 @@
+### Word Sense Disambiguation
+
+- Word sense disambiguation (WSD) is the problem of determining which "sense" (meaning) of a word is activated by the use of the word in a particular context, a process which appears to be largely unconscious in people.
+- WSD is an important research problem in the field of natural language processing (NLP) because lexical ambiguity, syntactic or semantic, is one of the very first problems that any NLP system faces.
+- WSD is a subfield of NLP that deals with identifying the intended meaning of a word in a given context from a set of possible senses, based on the context in which the word appears.
+- WSD can be useful for many NLP applications, such as machine translation, information retrieval, text summarization, sentiment analysis, question answering, etc.
+- WSD can be classified into two main types: supervised and unsupervised. Supervised WSD uses annotated data to train a classifier that can assign a sense to a word based on its features. Unsupervised WSD does not use annotated data, but relies on clustering or similarity measures to group words with similar meanings.
+- WSD can also be classified into two main levels: fine-grained and coarse-grained. Fine-grained WSD aims to assign a specific sense to a word from a large inventory of senses, such as WordNet. Coarse-grained WSD aims to assign a general sense to a word from a small inventory of senses, such as domain labels or semantic classes.
+- WSD faces some difficulties, such as the lack of standard sense inventories, the variability of word meanings across domains and genres, the scarcity of annotated data, the complexity of natural language, and the evaluation of WSD systems.
+- WSD can be evaluated using different methods, such as intrinsic and extrinsic evaluation. Intrinsic evaluation measures the performance of a WSD system on a specific task, such as sense prediction or sense ranking. Extrinsic evaluation measures the impact of a WSD system on a downstream application, such as machine translation or information retrieval.

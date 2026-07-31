@@ -1,0 +1,13 @@
+### Role of adaptive neural network for the notes of the Unit 2 - RFID FALSE AUTHENTICATIONS in the subject of KOT 061 BIG DATA ANALYTICS FOR IOT KCS
+
+- RFID (Radio Frequency Identification) is a technology that uses radio waves to identify objects, such as tags attached to products, vehicles, or animals.
+- RFID false authentication is a security problem that occurs when an unauthorized tag or reader pretends to be a legitimate one, or when a legitimate tag or reader is compromised by an attacker.
+- RFID false authentication can lead to data leakage, privacy violation, inventory error, or financial loss.
+- Adaptive neural network is a type of artificial neural network that can adjust its structure and parameters according to the input data or the environment.
+- Adaptive neural network can be used to detect and prevent RFID false authentication by learning the normal and abnormal patterns of RFID signals, and by classifying the tags and readers based on their features and behaviors.
+- Some examples of adaptive neural network models for RFID false authentication detection are:
+
+  - Environmentally Adaptive Real-Time Detection of RFID False Readings in a New Practical Scenario: This model uses a recurrent neural network (RNN) to capture the temporal dependencies of RFID readings, and a convolutional neural network (CNN) to extract the spatial features of RFID signals. It also adapts to the environmental changes by updating the network parameters online.
+  - Self-adaptive RFID Authentication for Internet of Things: This model uses a lightweight hash function and a dynamic key update scheme to authenticate the tags and readers. It also adapts to the security level and the communication cost by adjusting the key length and the hash function parameters.
+  - RFID Tag Classification for False-Positive Reads Identification via Deep Learning With Multidimensional Signal Fusion: This model uses a deep neural network (DNN) to fuse the multidimensional features of RFID signals, such as frequency, phase, and RSSI (Received Signal Strength Indicator). It also uses a softmax layer to classify the tags into true-positive or false-positive reads.
+  - Automatic detection of false positive RFID readings using machine learning: This model uses a support vector machine (SVM) to classify the RFID readings based on the features extracted from the RFID signal waveform. It also uses a genetic algorithm (GA) to optimize the SVM parameters and the feature selection.

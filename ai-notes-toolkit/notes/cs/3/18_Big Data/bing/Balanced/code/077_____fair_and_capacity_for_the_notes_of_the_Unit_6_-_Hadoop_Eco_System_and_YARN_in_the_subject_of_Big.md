@@ -1,0 +1,31 @@
+### Hadoop Eco System and YARN
+
+- Hadoop is an open source framework for distributed storage and processing of large-scale data using clusters of commodity hardware.
+- Hadoop consists of four main modules: Hadoop Common, Hadoop Distributed File System (HDFS), Hadoop MapReduce and Hadoop YARN.
+- Hadoop Common provides the common utilities and libraries that are used by other Hadoop modules.
+- HDFS is a distributed file system that stores data across multiple nodes in a cluster, providing high availability, fault tolerance and scalability.
+- MapReduce is a programming model and execution engine for parallel processing of large data sets using key-value pairs.
+- YARN (Yet Another Resource Negotiator) is a resource management and scheduling framework that manages the allocation of compute resources and the execution of applications in a Hadoop cluster.
+- YARN was introduced in Hadoop 2.0 to overcome the limitations of MapReduce, such as low resource utilization, lack of support for non-MapReduce applications and fixed job stages.
+- YARN decouples the resource management and job scheduling functions from the MapReduce layer, allowing for multiple types of applications to run on the same Hadoop cluster, such as Spark, Hive, Pig, HBase, etc.
+- YARN also enables dynamic allocation of resources based on the demand and availability, improving the performance and efficiency of the cluster.
+- YARN consists of two main components: a global ResourceManager (RM) and per-application ApplicationMaster (AM).
+- The RM is responsible for managing the cluster resources, such as memory, CPU, disk and network, and allocating them to different applications based on the priority, queue and capacity.
+- The AM is responsible for coordinating the execution of a single application, such as a MapReduce job or a Spark application, and requesting resources from the RM.
+- The AM also communicates with the NodeManagers (NMs), which are the agents running on each node in the cluster, to launch and monitor the containers that run the application tasks.
+- A container is a unit of resource allocation and execution in YARN, which encapsulates a specific amount of memory, CPU, disk and network resources.
+- The AM can also negotiate with the RM to dynamically adjust the resource requirements of the application, such as increasing or decreasing the number of containers, based on the workload and the cluster conditions.
+- YARN provides a flexible and extensible architecture that supports a variety of applications and frameworks in the Hadoop ecosystem, such as:
+
+  - Spark: a fast and general engine for large-scale data processing, supporting batch, streaming, SQL, machine learning and graph analytics.
+  - Hive: a data warehouse system that provides SQL-like query language and table abstraction for structured and semi-structured data stored in HDFS or other data sources.
+  - Pig: a high-level scripting language and platform for data analysis and transformation, supporting both MapReduce and Tez execution engines.
+  - HBase: a distributed and scalable NoSQL database that provides random access and consistent updates for large amounts of sparse and structured data.
+  - Oozie: a workflow scheduler and coordinator that manages the execution of complex and interdependent Hadoop jobs, such as MapReduce, Pig, Hive, etc.
+  - Sqoop: a tool that transfers data between Hadoop and relational databases, such as MySQL, Oracle, PostgreSQL, etc.
+  - Zookeeper: a distributed and reliable coordination service that provides configuration management, synchronization, naming and group services for distributed applications.
+  - Flume: a service that collects, aggregates and moves large amounts of streaming data from various sources to HDFS or other destinations.
+  - Kafka: a distributed and fault-tolerant messaging system that provides high-throughput and low-latency data ingestion and delivery for real-time applications.
+  - Storm: a distributed and real-time computation system that processes streams of data using a directed acyclic graph (DAG) of spouts and bolts.
+  - Tez: a framework that optimizes the execution of complex and interactive data processing applications, such as Hive and Pig, by using a DAG of tasks and minimizing data shuffling and disk I/O.
+  - Mahout: a library of scalable and distributed machine learning algorithms that run on top of Hadoop, such as classification, clustering, recommendation, etc.

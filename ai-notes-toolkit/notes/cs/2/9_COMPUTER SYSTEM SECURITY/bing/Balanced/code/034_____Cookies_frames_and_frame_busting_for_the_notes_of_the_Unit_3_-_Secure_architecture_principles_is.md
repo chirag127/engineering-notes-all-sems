@@ -1,0 +1,10 @@
+### Cookies, frames and frame busting
+
+- Cookies are small pieces of data that are stored by the browser on the user's device. They are used to store information such as preferences, authentication tokens, session IDs, etc. Cookies can be sent or received by the server using the `Set-Cookie` and `Cookie` HTTP headers respectively.
+- Frames are HTML elements that allow a web page to display another web page within a rectangular area. Frames can be used to create layouts, embed content, or perform cross-site requests. Frames can be created using the `<frame>` or `<iframe>` tags.
+- Frame busting is a technique that prevents a web page from being loaded inside a frame. Frame busting is used to defend against clickjacking attacks, where an attacker overlays a transparent frame on top of a legitimate web page and tricks the user into clicking on the frame, which performs an action on the underlying web page.
+- Frame busting can be implemented using different methods, such as:
+  - Using the `X-Frame-Options` or `Content-Security-Policy` HTTP headers to instruct the browser to not load the web page in a frame.
+  - Using the `SameSite` cookie attribute to prevent session cookies from being included when the web page is loaded in a frame.
+  - Using JavaScript code to check the `window.top` or `window.parent` properties and redirect the web page to the top frame or the original URL if it is loaded in a frame .
+- Frame busting is not a foolproof solution, as some browsers may not support the HTTP headers or the JavaScript code, or the attacker may use techniques to bypass the frame busting logic, such as using nested frames, drag-and-drop, or CSS filters . Therefore, frame busting should be used in combination with other security measures, such as CSRF tokens, user confirmation, or CAPTCHAs.

@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on the topic of model planning for the Unit 2 - Data Analytics Lifecycle in the subject of Introduction to Data Analytics and Visualization. Here is the content in markdown format:
+
+### Model Planning
+
+- Model planning is the third phase of the data analytics lifecycle, where the analyst determines the methods and techniques to use for data analysis.
+- Model planning involves the following steps:
+
+  - **Selecting the variables and metrics**: The analyst identifies the variables and metrics that are relevant to the business problem and the data available. For example, if the problem is to predict customer churn, the analyst may select variables such as customer demographics, purchase history, satisfaction ratings, etc. and metrics such as churn rate, retention rate, lifetime value, etc.
+  - **Choosing the modeling technique**: The analyst selects the appropriate modeling technique based on the type and nature of the data, the complexity of the problem, and the desired outcome. For example, if the problem is to classify customers into different segments, the analyst may choose a clustering technique such as k-means or hierarchical clustering. If the problem is to forecast sales, the analyst may choose a time series technique such as ARIMA or exponential smoothing.
+  - **Preparing the data for modeling**: The analyst performs data preprocessing steps such as data cleaning, data transformation, data integration, data reduction, etc. to prepare the data for modeling. For example, the analyst may remove outliers, handle missing values, normalize or standardize the data, merge data from different sources, reduce the dimensionality of the data, etc.
+  - **Creating and validating the model**: The analyst builds and tests the model using the selected technique and the prepared data. The analyst evaluates the model performance using various criteria such as accuracy, precision, recall, F1-score, ROC curve, AUC, etc. The analyst may also compare different models using cross-validation, hold-out validation, or bootstrap methods. The analyst may also tune the model parameters using grid search, random search, or Bayesian optimization methods. The analyst selects the best model based on the validation results.

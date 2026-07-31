@@ -1,0 +1,14 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the topic of determining equality for the notes of the Unit 3 - Modelling and Aggregating Social Network Data in the subject of SOCIAL NETWORK ANALYTICS. Here is the content in markdown format:
+
+### Determining equality
+
+- Equality is a concept that refers to the state of being equal or equivalent in some respect, such as value, quantity, quality, rank, or status.
+- Equality can be applied to different types of entities, such as numbers, sets, functions, relations, graphs, or social groups.
+- Equality can be determined by using different criteria or methods, depending on the context and the purpose of the comparison.
+- Some common methods of determining equality are:
+
+  - **Equality by definition**: Two entities are equal by definition if they have the same meaning or refer to the same object or concept. For example, 2 + 2 = 4 by definition, because the symbols on both sides of the equation have the same mathematical value. Similarly, a circle is equal to a set of points that are equidistant from a fixed point by definition, because that is how a circle is defined geometrically.
+  - **Equality by identity**: Two entities are equal by identity if they are the same entity or refer to the same object or concept. For example, the United States of America is equal to the USA by identity, because they are different names for the same country. Similarly, a person is equal to himself or herself by identity, because they are the same individual.
+  - **Equality by equivalence**: Two entities are equal by equivalence if they have the same properties or characteristics, or if they can be substituted for each other without affecting the outcome or meaning of a situation. For example, two sets are equal by equivalence if they have the same elements, regardless of their order or representation. Similarly, two functions are equal by equivalence if they have the same domain, range, and output values for every input value.
+  - **Equality by comparison**: Two entities are equal by comparison if they have the same measure or degree of a certain attribute or quality, such as size, weight, speed, or value. For example, two objects are equal by comparison if they have the same mass, regardless of their shape or composition. Similarly, two numbers are equal by comparison if they have the same numerical value, regardless of their base or notation.
+  - **Equality by relation**: Two entities are equal by relation if they have the same position or role in a certain structure or system, such as a graph, a network, or a social group. For example, two nodes are equal by relation if they have the same degree, centrality, or clustering coefficient in a graph, regardless of their labels or attributes. Similarly, two people are equal by relation if they have the same status, power, or influence in a social network, regardless of their names or characteristics.

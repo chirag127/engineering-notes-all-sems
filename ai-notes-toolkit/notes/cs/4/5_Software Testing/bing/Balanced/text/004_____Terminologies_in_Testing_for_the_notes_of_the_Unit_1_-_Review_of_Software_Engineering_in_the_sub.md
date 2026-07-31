@@ -1,0 +1,32 @@
+### Terminologies in Testing
+
+- Testing: The process of verifying and validating that a software product or system meets the business and technical requirements that guided its design and development, and works as expected.
+- Test case: A set of input values, execution preconditions, expected results and execution postconditions, developed for a particular objective or test condition, such as to exercise a particular program path or to verify compliance with a specific requirement.
+- Test suite: A set of test cases or test procedures to be executed in a specific test run.
+- Test plan: A document describing the scope, approach, resources and schedule of intended test activities. It identifies amongst others test items, the features to be tested, the testing tasks, who will do each task, degree of tester independence, the test environment, the test design techniques and entry and exit criteria to be used, and the rationale for their choice, and any risks requiring contingency planning.
+- Test strategy: A high-level description of the test levels to be performed and the testing within those levels for an organization or program (one or more projects).
+- Test level: A group of test activities that are organized and managed together. A test level is linked to the responsibilities in a project. Examples of test levels are component test, integration test, system test and acceptance test.
+- Test type: A group of test activities aimed at testing a component or system regarding one or more interrelated quality attributes. A test type is focused on a specific test objective, i.e. reliability test, usability test, regression test etc.
+- Test design technique: A procedure used to derive and/or select test cases based on an analysis of the specification, either functional or non-functional, of a component or system without reference to its internal structure.
+- Test procedure: A document providing detailed instructions for the execution of one or more test cases.
+- Test script: A sequence of instructions for the execution of a test.
+- Test data: Data that exists (for example, in a database) before a test is executed, and that affects or is affected by the component or system under test.
+- Test environment: An environment containing hardware, instrumentation, simulators, software tools, and other support elements needed to conduct a test.
+- Test result: The outcome of the execution of a test. It includes outputs to screens, changes to data, reports, and communication messages sent out.
+- Test log: A chronological record of relevant details about the execution of tests.
+- Test report: A document summarizing testing activities and results. It also contains an evaluation of the corresponding test items against exit criteria.
+- Test coverage: The degree, expressed as a percentage, to which a specified coverage item has been exercised by a test suite.
+- Test oracle: A source to determine expected results to compare with the actual result of the software under test. An oracle may be the existing system (for a benchmark), a user manual, or an individual's specialized knowledge, but should not be the code.
+- Test driver: A software component or test tool that replaces a component that takes care of the control and/or the calling of a component or system.
+- Test stub: A skeletal or special-purpose implementation of a software component, used to develop or test a component that calls or is otherwise dependent on it. It replaces a called component.
+- Test harness: A test environment comprised of stubs and drivers needed to execute a test.
+- Test automation: The use of software to perform or support test activities, such as test management, test design, test execution and test evaluation.
+- Test tool: A software product that supports one or more test activities, such as planning and control, specification, building initial files and data, test execution, test analysis, and reporting.
+- Defect: A flaw in a component or system that can cause the component or system to fail to perform its required function, e.g., an incorrect statement or data definition. A defect, if encountered during execution, may cause a failure of the component or system.
+- Failure: Deviation of the component or system from its expected delivery, service or result.
+- Error: A human action that produces an incorrect result.
+- Fault: An incorrect step, process, or data definition in a computer program which causes the program to perform in an unintended or unanticipated manner.
+- Bug: A common term for a defect.
+- Debugging: The process of finding, analyzing and removing the causes of failures in software.
+- Root cause: A source of a defect such that if it is removed, the occurrence of the defect type is decreased or removed.
+- Root cause analysis: An analysis technique aimed at identifying the root causes of defects. By directing corrective measures at

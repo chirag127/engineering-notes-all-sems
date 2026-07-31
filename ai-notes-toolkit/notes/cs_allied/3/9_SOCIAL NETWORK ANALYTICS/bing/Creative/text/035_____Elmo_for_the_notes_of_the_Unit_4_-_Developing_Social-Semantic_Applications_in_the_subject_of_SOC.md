@@ -1,0 +1,10 @@
+### Elmo for the notes of the Unit 4 - Developing Social-Semantic Applications
+
+- Elmo is a Java API that provides an object-oriented view of RDF data and allows developers to create Semantic Web applications with social network features.
+- Elmo is part of the Sesame framework, which is an open source platform for storing, querying, and reasoning with RDF and RDF Schema.
+- Elmo uses annotations to map Java classes and interfaces to RDF concepts and properties, and provides methods to access and manipulate RDF data as Java objects.
+- Elmo supports the creation and management of social networks based on FOAF (Friend of a Friend) and SIOC (Semantically-Interlinked Online Communities) vocabularies, which are widely used to describe people and online communities on the Semantic Web.
+- Elmo also integrates with GraphUtil, a Java library that provides graph algorithms and metrics for social network analysis, such as shortest path, centrality, clustering, and community detection.
+- Elmo can be used to develop social-semantic applications that combine the benefits of Semantic Web technologies, such as interoperability, integration, and reasoning, with the advantages of social network analysis, such as discovering and exploiting the structure and dynamics of social interactions.
+- An example of a social-semantic application that uses Elmo is Flink, which is a system that automatically extracts and integrates information about the Semantic Web community from various sources, such as publications, homepages, blogs, and social bookmarking sites, and provides a rich and interactive interface for exploring and visualizing the social networks of researchers, topics, and resources.
+- Another example of a social-semantic application that uses Elmo is a named entity recognition system that employs deep learning techniques, such as ELMo embeddings and bi-directional LSTM, to identify and classify entities in text, such as persons, organizations, locations, etc.

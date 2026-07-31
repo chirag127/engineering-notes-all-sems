@@ -1,0 +1,11 @@
+### Humidity
+
+Humidity is a measure of the amount of water vapor present in the air. Water vapor is the gaseous state of water, which is generally invisible to the human eye. Humidity indicates the likelihood for precipitation, dew, or fog to be present. Humidity depends on the temperature and pressure of the system of interest.
+
+There are three primary measurements of humidity that are widely employed: absolute, relative, and specific.
+
+- **Absolute humidity** describes the water content present in the air and is expressed in either gram per cubic meter or grams per kilogram. The absolute humidity in the atmosphere ranges from near zero to roughly 30 grams per cubic metre. Absolute humidity is not affected by the temperature or pressure of the air, but it changes with the volume of the air.
+- **Relative humidity** is the ratio of the partial pressure of water vapor to the equilibrium vapor pressure of water at the same temperature. It is expressed as a percentage and indicates how close the air is to saturation. Relative humidity depends on both the temperature and the pressure of the air, and it changes with the weather conditions. A relative humidity of 100% means that the air is saturated with water vapor and cannot hold any more, creating the possibility of rain.
+- **Specific humidity** is the ratio of water vapor mass to the total moist air mass, which includes both dry air and water vapor. It is expressed in grams of water vapor per kilogram of moist air. Specific humidity is also not affected by the temperature or pressure of the air, but it changes with the mixing ratio of the air. Specific humidity is a useful quantity for meteorologists and climatologists, as it is directly related to the amount of water vapor that the air can transport.
+
+There are various methods and instruments for measuring humidity, such as hygrometers, psychrometers, dew point meters, and humidity sensors. These devices can use different principles, such as electrical resistance, capacitance, thermal conductivity, or optical properties, to measure the water vapor content or the dew point temperature of the air. Humidity measurement is important for various applications, such as weather forecasting, air conditioning, industrial processes, agriculture, and human comfort.

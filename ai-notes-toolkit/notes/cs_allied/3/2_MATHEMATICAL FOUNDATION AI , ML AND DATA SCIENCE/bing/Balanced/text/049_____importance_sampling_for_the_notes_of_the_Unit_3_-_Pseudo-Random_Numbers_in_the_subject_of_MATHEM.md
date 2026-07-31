@@ -1,0 +1,21 @@
+### Importance sampling
+
+- Importance sampling is a **variance reduction technique** that can be used in the **Monte Carlo method**.
+- The idea behind importance sampling is that certain values of the input random variables in a simulation have more impact on the parameter being estimated than others.
+- Importance sampling can be used to evaluate properties of a particular distribution, while only having samples generated from a different distribution than the distribution of interest.
+- The basic idea of importance sampling is to sample the states from a different distribution to lower the variance of the estimation of E[X;P], or when sampling from P is difficult.
+- This is accomplished by first choosing a random variable L such that E[L;P] = 1 and that L > 0 P-almost everywhere.
+- Then, the expectation of X with respect to P can be written as E[X;P] = E[XL;P] = E[X/L;L].
+- The last equality follows from the law of total expectation.
+- The random variable L is called the **importance sampling function** or the **likelihood ratio**.
+- The distribution L is called the **importance sampling distribution** or the **proposal distribution**.
+- The importance sampling function L should be chosen such that it is **similar** to X and **easy** to sample from.
+- A good choice of L can significantly reduce the variance of the estimator.
+- A bad choice of L can increase the variance or even make the estimator invalid.
+- An example of importance sampling is to estimate the probability of a rare event.
+- Suppose we want to estimate the probability that a standard normal random variable Z is greater than 5.
+- Sampling directly from the standard normal distribution would require a very large number of samples to observe such an event.
+- Instead, we can sample from a normal distribution with mean 5 and standard deviation 1, which has a higher probability of generating values greater than 5.
+- Then, the importance sampling function is L = f(Z)/g(Z), where f is the standard normal density and g is the normal density with mean 5 and standard deviation 1.
+- The estimator of the probability is then the average of L times the indicator function of Z > 5 over the samples.
+- This estimator has a much lower variance than the naive estimator based on the standard normal samples.

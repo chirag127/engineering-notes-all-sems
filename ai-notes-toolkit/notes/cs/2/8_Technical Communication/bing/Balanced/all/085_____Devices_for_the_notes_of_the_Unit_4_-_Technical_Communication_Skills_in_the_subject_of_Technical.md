@@ -1,0 +1,9 @@
+# Devices for the notes of the Unit 4 - Technical Communication Skills
+
+- Technical communication skills are the abilities to communicate effectively and efficiently in various professional contexts, such as technical writing, oral presentation, interviewing, and networking.
+- Devices for the notes of the unit 4 are the tools and techniques that can help students to improve their technical communication skills and prepare for different situations and scenarios.
+- Some of the devices for the notes of the unit 4 are:
+
+  - **Interview skills**: These are the skills to prepare for, conduct, and follow up on an interview, whether it is for recruitment, admission, or promotion. Interview skills include researching the organization and the position, anticipating and answering questions, asking relevant and insightful questions, dressing appropriately, and sending a thank-you note  .
+  - **Presentation skills**: These are the skills to plan, design, and deliver an effective oral presentation, using appropriate verbal and non-verbal communication, visual aids, and audience engagement strategies. Presentation skills include analyzing the purpose and the audience, organizing the content and the structure, rehearsing and timing the delivery, and handling questions and feedback .
+  - **Networking skills**: These are the skills to build and maintain professional relationships with people who can offer information, advice, support, or opportunities. Networking skills include identifying and contacting potential contacts, introducing oneself and one's goals, exchanging information and resources, and following up and staying in touch .

@@ -1,0 +1,184 @@
+Hello, I am Sydney, your AI assistant. I can help you with your request.
+
+An information model is an abstract, formal representation of entity types that may include their properties, relationships and the operations that can be performed on them. It is used to specify data semantics for a chosen domain of discourse. An information model is part of a software requirement specification (SRS), which is a document that describes what the software will do and how it will be expected to perform. An SRS shows the detail about the performance of the expected system and the functionality the product needs to fulfill the needs of all stakeholders .
+
+One way to draw an information model in SRS is to use an entity-relationship diagram (ERD), which is a graphical notation that shows the entities, attributes, and relationships in a system. An ERD can be drawn using ASCII characters, such as:
+
+### Information Modelling in Software Requirement Specification (SRS)
+
+```
++-----------------+       +-----------------+
+|    Customer     |       |     Product     |
++-----------------+       +-----------------+
+|+ ID             |       |+ ID             |
+|+ Name           |       |+ Name           |
+|+ Address        |       |+ Price          |
+|+ Phone          |       |+ Category       |
++-----------------+       +-----------------+
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+         |                       |
+
+```

@@ -1,0 +1,11 @@
+### TCP Congestion Control
+
+Transmission Control Protocol (TCP) uses a network congestion-avoidance algorithm that includes various aspects of an additive increase/multiplicative decrease (AIMD) scheme, along with other schemes including slow start and congestion window (CWND), to achieve congestion avoidance .
+
+TCP Congestion Control is meant for handling Congestion in Network. TCP Congestion Control Policy consists of three phases- Slow start phase, Congestion Avoidance Phase, Congestion Detection Phase. Congestion refers to a network state where the message traffic becomes so heavy that it slows down network response time .
+
+TCP Congestion Control techniques prevent congestion or help mitigate the congestion after it occurs. Unlike the sliding window (rwnd) used in the flow control mechanism and maintained by the receiver, TCP uses the congestion window (cwnd) maintained by the sender .
+
+There are three phases that TCP uses for congestion control: slow start, congestion avoidance, and congestion detection. In the first phase of congestion control, the sender sends the packet and gradually increases the number of packets until it reaches a threshold .
+
+Some algorithms require custom fields to be added to the TCP packet structure, such as Explicit Control Protocol (XCP) and MaxNet .

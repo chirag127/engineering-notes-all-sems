@@ -1,0 +1,26 @@
+### Run-Time Administration
+
+- Run-time administration is the process of managing the memory and other resources needed for the execution of a program.
+- Run-time administration involves the following tasks:
+  - Allocation and deallocation of memory for variables, arrays, records, objects, etc.
+  - Mapping of names to memory locations and types
+  - Handling of dynamic memory requests such as malloc, new, etc.
+  - Passing of parameters and return values between procedures and functions
+  - Saving and restoring of registers and control links during procedure calls and returns
+  - Handling of exceptions and interrupts
+- Run-time administration is performed by the compiler and the run-time support system, which is a package of code and data generated with the executable program.
+- Run-time administration depends on the source language, the target machine, and the operating system.
+- Run-time administration can be classified into two categories: static and dynamic.
+  - Static run-time administration is done at compile time or link time, and does not change during the execution of the program. Static run-time administration is suitable for languages that do not support dynamic features such as recursion, dynamic allocation, dynamic scoping, etc. Static run-time administration is simple and efficient, but lacks flexibility and generality.
+  - Dynamic run-time administration is done at run time, and can change during the execution of the program. Dynamic run-time administration is suitable for languages that support dynamic features such as recursion, dynamic allocation, dynamic scoping, etc. Dynamic run-time administration is flexible and general, but more complex and less efficient.
+- Run-time administration uses various data structures to store and manipulate the information needed for the execution of the program. Some of the common data structures are:
+  - Symbol table: a data structure that stores the information about the names and attributes of the program entities such as variables, constants, types, procedures, etc. Symbol table is used by the compiler to perform semantic analysis, code generation, and optimization.
+  - Activation record: a data structure that stores the information needed during the execution of a procedure or a function. Activation record includes storage for local variables, parameters, return values, registers, control links, etc. Activation record is created and destroyed dynamically during the procedure calls and returns.
+  - Stack: a data structure that stores the activation records of the active procedures and functions in a last-in first-out (LIFO) order. Stack is used to implement the nested and recursive calls of procedures and functions.
+  - Heap: a data structure that stores the dynamically allocated memory blocks in a free-list or a tree structure. Heap is used to implement the dynamic memory requests such as malloc, new, etc.
+  - Display: a data structure that stores the pointers to the activation records of the currently active procedures and functions in a lexical order. Display is used to implement the static scoping of variables and procedures.
+  - Environment pointer: a data structure that stores the pointer to the activation record of the current procedure or function. Environment pointer is used to access the local variables and parameters of the current procedure or function.
+  - Access link: a data structure that stores the pointer to the activation record of the lexically enclosing procedure or function. Access link is used to implement the nested procedures and functions.
+  - Program counter: a register that stores the address of the next instruction to be executed. Program counter is used to control the flow of execution of the program.
+  - Stack pointer: a register that stores the address of the top of the stack. Stack pointer is used to access the activation records of the active procedures and functions.
+  - Frame pointer: a register that stores the address of the base of the current activation record. Frame pointer is used to access the local variables and parameters of the current procedure or function.

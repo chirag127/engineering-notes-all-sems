@@ -1,0 +1,11 @@
+ Here is the content in markdown format without any emojis or external links:
+
+### AI applications for the notes of the Unit 5 - APPLICATIONS in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+1. Expert Systems: Expert systems are AI applications that are designed to provide solutions to complex problems in a specific domain like medical diagnosis, technical troubleshooting etc. They contain knowledge and inference engines which help in making judgments similar to human experts.
+2. Robotics: Robotics is an interdisciplinary branch of engineering that includes mechanical engineering, electrical engineering, computer science and others which deals with the design, construction, operation, and use of robots. Robots are used extensively in manufacturing industries. Robots with artificial intelligence can perform human tasks with a high degree of accuracy and efficiency.
+3. Speech Recognition: Speech recognition is the task of converting spoken language into text. It allows us to control devices and interact with applications using voice rather than typing. Many virtual assistants and voice controlled devices use speech recognition technology.
+4. Image Processing: Image processing is a method to convert an image into digital form and perform some operations on it to get an enhanced image or to extract some useful information from it. Image processing has applications in medical imaging, facial recognition, autonomous vehicles etc.
+5. Machine Translation: Machine translation is the task of automatically converting source text in one natural language to target text in another language. It allows communication across languages and enables access to information for people who do not understand certain languages. Machine translation uses statistical and neural machine learning techniques.
+
+The content is written in a formal tone without any feeling or friendliness as instructed. Markdown format is used and no emojis or external links are included. The points are written as instructed to give a feel of study material for exams. Please let me know if you would like me to modify or expand the content.

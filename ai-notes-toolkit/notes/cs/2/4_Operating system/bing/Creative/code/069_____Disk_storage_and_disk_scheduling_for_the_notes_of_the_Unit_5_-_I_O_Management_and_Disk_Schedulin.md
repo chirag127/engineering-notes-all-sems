@@ -1,0 +1,21 @@
+### Disk storage and disk scheduling
+
+- Disk storage is a type of secondary storage that uses magnetic or optical disks to store data permanently or semi-permanently.
+- Disk storage devices include hard disk drives (HDDs), floppy disks, compact discs (CDs), digital versatile discs (DVDs), Blu-ray discs, etc.
+- Disk storage devices have two main components: a disk surface that stores data in concentric tracks and sectors, and a disk head that reads and writes data to the disk surface.
+- Disk storage devices have several characteristics that affect their performance, such as capacity, access time, transfer rate, rotational speed, seek time, latency, etc.
+- Disk scheduling is a technique used by the operating system to schedule multiple requests for accessing the disk.
+- Disk scheduling is important because:
+  - Multiple I/O requests may arrive by different processes and only one I/O request can be served at a time by the disk controller.
+  - Thus other I/O requests need to wait in the waiting queue and need to be scheduled.
+  - The order in which the requests are served can affect the total seek time, which is the time taken by the disk head to move from one track to another.
+  - The total seek time can affect the disk performance and the system throughput.
+- Disk scheduling algorithms are the algorithms used for disk scheduling.
+- The purpose of disk scheduling algorithms is to reduce the total seek time and improve the disk performance and the system throughput.
+- Some disk scheduling algorithms include:
+  - First Come First Serve (FCFS): It serves the requests in the order they arrive in the waiting queue. It is the simplest disk scheduling algorithm, but it may result in a high total seek time if the requests are far apart on the disk surface.
+  - Shortest Seek Time First (SSTF): It serves the request that is closest to the current position of the disk head. It reduces the total seek time compared to FCFS, but it may cause starvation for some requests that are far away from the disk head.
+  - SCAN: It moves the disk head in one direction and serves the requests that are in the path of the disk head. When the disk head reaches the end of the disk, it reverses its direction and serves the requests in the opposite direction. It is also known as the elevator algorithm. It avoids starvation and provides a fair service to all requests, but it may cause a long waiting time for some requests at the ends of the disk.
+  - C-SCAN: It is a variation of SCAN that moves the disk head in one direction and serves the requests that are in the path of the disk head. When the disk head reaches the end of the disk, it jumps to the other end of the disk and continues in the same direction. It is also known as the circular scan algorithm. It provides a more uniform waiting time for all requests, but it may cause a longer average seek time than SCAN.
+  - LOOK: It is a variation of SCAN that moves the disk head in one direction and serves the requests that are in the path of the disk head. When the disk head reaches the last request in that direction, it reverses its direction and serves the requests in the opposite direction. It does not go to the ends of the disk unless there is a request there. It reduces the unnecessary disk head movements and improves the performance of SCAN.
+  - C-LOOK: It is a variation of C-SCAN that moves the disk head in one direction and serves the requests that are in the path of the disk head. When the disk head reaches the last request in that direction, it jumps to the first request in the opposite direction and continues in the same direction. It does not go to the ends of the disk unless there is a request there. It reduces the unnecessary disk head movements and improves the performance of C-SCAN.

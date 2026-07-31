@@ -1,0 +1,13 @@
+# Viscosity, Conductance of Solution, Chloride and Iron Content in the Water
+
+- Viscosity is a measure of the resistance of a fluid to deformation under shear stress. It is also known as the internal friction of a fluid. Viscosity depends on the temperature, pressure, and composition of the fluid. Viscosity is expressed in units of Pascal-seconds (Pa s) or milliPascal-seconds (mPa s).
+- Conductance of solution is a measure of the ability of a solution to conduct electric current. It is also known as the reciprocal of the electrical resistance of the solution. Conductance depends on the concentration, temperature, and type of ions present in the solution. Conductance is expressed in units of Siemens (S) or microSiemens (µS).
+- Chloride and iron content in the water are indicators of the quality and purity of the water. Chloride is a common anion that is found in natural waters, especially seawater. It can also be introduced by human activities, such as wastewater discharge, road salt, and industrial processes. Chloride can affect the taste, corrosion, and biological activity of the water. Chloride is measured in units of milligrams per liter (mg/L) or parts per million (ppm).
+- Iron is a common metal that is found in natural waters, mainly in the form of ferrous (Fe2+) or ferric (Fe3+) ions. It can also be introduced by human activities, such as mining, agriculture, and plumbing. Iron can affect the color, taste, odor, and staining of the water. Iron can also promote the growth of bacteria and algae, which can clog pipes and filters. Iron is measured in units of milligrams per liter (mg/L) or parts per million (ppm).
+
+Some facts and relationships about these properties are:
+
+- The viscosity of water decreases with increasing temperature and decreases with increasing salinity.
+- The conductance of water increases with increasing temperature and increases with increasing salinity . The conductance of water also depends on the type of ions present, as different ions have different mobilities and charge-to-size ratios.
+- The chloride content of seawater is about 1.9% by mass, which corresponds to a conductance of about 50 mS/cm. The chloride content of freshwater varies from 50 to 1500 µS/cm, depending on the source and location of the water.
+- The iron content of water varies widely, depending on the geological and environmental conditions of the water source. The iron content of groundwater is typically higher than that of surface water, as groundwater is in contact with iron-bearing rocks and minerals. The iron content of water can range from less than 0.01 mg/L to more than 50 mg/L.

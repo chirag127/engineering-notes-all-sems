@@ -1,0 +1,13 @@
+# 4. Determination of pH by titrimetric method
+
+- Titrimetric method is a technique of quantitative analysis that involves measuring the volume of a solution of known concentration (titrant) that is required to react completely with a solution of unknown concentration (analyte).
+- pH is a measure of the acidity or alkalinity of a solution, defined as the negative logarithm of the hydrogen ion concentration: pH = -log[H+].
+- Determination of pH by titrimetric method involves using a pH meter to monitor the change in pH of the analyte solution as the titrant is added gradually. A pH meter consists of a glass electrode that responds to the hydrogen ion activity in the solution, and a reference electrode that provides a constant potential. The difference in potential between the two electrodes is proportional to the pH of the solution.
+- A plot of the pH of the analyte solution versus the volume of the titrant added is called a pH curve or a titration curve. The shape of the curve depends on the nature and strength of the acid and base involved in the titration. The point where the curve changes slope sharply is called the endpoint or the equivalence point, and it indicates that the titration is complete and the analyte and the titrant have reacted stoichiometrically.
+- The pH at the endpoint can be used to determine the concentration of the analyte solution, using the known concentration and volume of the titrant, and the balanced chemical equation for the reaction. Alternatively, the volume of the titrant at the endpoint can be used to calculate the concentration of the analyte, using the known concentration of the titrant and the stoichiometry of the reaction.
+- Some examples of titrations that can be performed by the titrimetric method are:
+
+  - Strong acid-strong base titration: The pH of the analyte solution (either acid or base) changes rapidly from low to high or vice versa as the titrant is added, and the endpoint is around pH 7. For example, HCl + NaOH -> NaCl + H2O.
+  - Weak acid-strong base titration: The pH of the analyte solution (weak acid) increases gradually as the titrant (strong base) is added, and the endpoint is above pH 7. For example, CH3COOH + NaOH -> CH3COONa + H2O.
+  - Strong acid-weak base titration: The pH of the analyte solution (strong acid) decreases gradually as the titrant (weak base) is added, and the endpoint is below pH 7. For example, HCl + NH3 -> NH4Cl.
+  - Weak acid-weak base titration: The pH of the analyte solution (either weak acid or weak base) changes slowly as the titrant is added, and the endpoint is close to the pKa or pKb of the analyte. For example, CH3COOH + NH3 -> CH3COONH4.

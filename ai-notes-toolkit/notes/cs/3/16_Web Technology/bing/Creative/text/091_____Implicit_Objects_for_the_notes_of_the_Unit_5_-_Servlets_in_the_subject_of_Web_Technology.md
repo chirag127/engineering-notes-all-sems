@@ -1,0 +1,15 @@
+### Implicit Objects
+
+- Implicit objects are Java objects that are created by the servlet container during the translation phase of JSP, when JSP is converted to servlet  .
+- These objects can be directly used in scriptlets that go in the service method of the generated servlet. They are created by the container automatically, and they can be accessed using predefined variables.
+- Implicit objects are useful for accessing the request, response, session, application, and other information without explicitly creating or importing any objects.
+- There are 9 implicit objects in JSP: out, request, response, config, session, application, page, pageContext, and exception .
+- The out implicit object is an instance of JspWriter class that is used to write any data to the buffer. It is similar to PrintWriter object in servlet, but it has some additional methods like clearBuffer(), clear(), and getRemaining().
+- The request implicit object is an instance of HttpServletRequest interface that represents the client's request to the server. It can be used to get the request parameters, headers, cookies, attributes, and other information.
+- The response implicit object is an instance of HttpServletResponse interface that represents the server's response to the client. It can be used to set the response status, headers, cookies, content type, and other information.
+- The config implicit object is an instance of ServletConfig interface that represents the configuration information of the JSP page. It can be used to get the initialization parameters, servlet context, and servlet name.
+- The session implicit object is an instance of HttpSession interface that represents the session information of the client. It can be used to store and retrieve the session attributes, get the session id, creation time, last accessed time, and other information.
+- The application implicit object is an instance of ServletContext interface that represents the application context of the JSP page. It can be used to get the context parameters, attributes, resource paths, and other information.
+- The page implicit object is an instance of Object class that represents the current JSP page. It can be used to invoke the methods of the current JSP page.
+- The pageContext implicit object is an instance of PageContext class that represents the context information of the current JSP page. It can be used to access the other implicit objects, forward or include other pages, handle exceptions, and other information.
+- The exception implicit object is an instance of Throwable class that represents the exception thrown by the JSP page. It can be used to get the exception message, stack trace, cause, and other information. It is only available in the error pages that have the isErrorPage attribute set to true.

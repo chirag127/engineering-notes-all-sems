@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the conclusion for the notes of the Unit 3 - Knowledge-Based Systems- AI Context in the subject of Intelligent Database System:
+
+### Conclusion
+
+- Knowledge-based systems are computer systems that use artificial intelligence techniques to solve complex problems that require human expertise and knowledge.
+- Knowledge-based systems consist of two main components: a knowledge base and an inference engine. The knowledge base stores the facts and rules that represent the domain knowledge, while the inference engine applies logical reasoning to infer new facts and conclusions from the knowledge base.
+- Knowledge-based systems can be classified into two types: rule-based systems and frame-based systems. Rule-based systems use IF-THEN rules to represent knowledge, while frame-based systems use frames and slots to represent knowledge.
+- Knowledge-based systems can be integrated with database systems to enhance their capabilities and performance. Knowledge-based database systems use knowledge-based techniques to improve data modeling, query processing, data analysis, and data mining. Knowledge-based database systems can be categorized into deductive databases, expert databases, and active databases.
+- Deductive databases use logic programming to define and manipulate data. Deductive databases can perform complex queries and inferences that are not possible in conventional databases. Deductive databases can be implemented using Datalog, a declarative logic programming language.
+- Expert databases use knowledge-based techniques to provide expert advice and guidance to users. Expert databases can perform tasks such as diagnosis, planning, scheduling, and optimization. Expert databases can be implemented using expert system shells, which are software tools that facilitate the development of expert systems.
+- Active databases use knowledge-based techniques to monitor and react to events that occur in the database or the environment. Active databases can perform tasks such as integrity checking, constraint enforcement, alerting, and triggering. Active databases can be implemented using active rules, which are rules that specify the conditions and actions for event handling.

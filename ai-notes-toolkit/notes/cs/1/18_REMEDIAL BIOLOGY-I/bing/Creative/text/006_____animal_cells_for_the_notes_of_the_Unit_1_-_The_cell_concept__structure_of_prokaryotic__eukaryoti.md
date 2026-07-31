@@ -1,0 +1,23 @@
+### Animal Cells
+
+- Animal cells are the basic structural and functional units of animal tissues and organs. They are eukaryotic cells, meaning that they have a nucleus and other membrane-bound organelles .
+- Animal cells are surrounded by a plasma membrane, which forms a selective barrier that allows nutrients to enter and waste products to leave. The plasma membrane also mediates cell communication and adhesion.
+- Animal cells have a variety of organelles that perform different functions. Some of the major organelles are :
+  - Nucleus: The control center of the cell that contains the genetic material (DNA) and regulates gene expression.
+  - Mitochondria: The powerhouses of the cell that produce energy (ATP) through cellular respiration.
+  - Ribosomes: The sites of protein synthesis that can be found in the cytoplasm or attached to the endoplasmic reticulum (ER).
+  - Endoplasmic reticulum (ER): A network of membranes that transports and modifies proteins and lipids. There are two types of ER: rough ER (with ribosomes) and smooth ER (without ribosomes).
+  - Golgi apparatus: A stack of flattened membranes that sorts and packages proteins and lipids for secretion or delivery to other organelles.
+  - Lysosomes: Spherical organelles that contain digestive enzymes and break down unwanted materials, such as bacteria, viruses, or damaged organelles.
+  - Cytoskeleton: A network of protein fibers that provides structure, support, and movement to the cell. The cytoskeleton consists of microtubules, microfilaments, and intermediate filaments.
+  - Centrosome: A pair of cylindrical structures that organize the microtubules and play a role in cell division.
+- Animal cells also have some specialized structures that are not found in plant cells, such as:
+  - Cilia and flagella: Hair-like or whip-like extensions of the plasma membrane that enable movement or sensing of the environment.
+  - Centrioles: Cylindrical structures that are located inside the centrosome and help in the formation of cilia and flagella.
+  - Peroxisomes: Small organelles that contain enzymes that break down fatty acids, amino acids, and hydrogen peroxide.
+- Animal cells can be classified into different types based on their structure and function. Some of the most common types of animal cells are:
+  - Skin cells: The cells that form the outer layer of the body and protect it from external factors. There are four types of skin cells: melanocytes (produce pigment), keratinocytes (produce keratin), Merkel cells (sense touch), and Langerhans cells (participate in immune response).
+  - Muscle cells: The cells that enable contraction and relaxation of the muscles and allow movement. There are three types of muscle cells: skeletal (attached to bones), cardiac (found in the heart), and smooth (found in the walls of organs).
+  - Blood cells: The cells that circulate in the blood and perform various functions. There are three types of blood cells: red blood cells (carry oxygen), white blood cells (fight infections), and platelets (help in clotting).
+  - Nerve cells: The cells that transmit electrical impulses and enable communication between the brain and other parts of the body. There are three types of nerve cells: neurons (send and receive signals), glial cells (support and protect neurons), and Schwann cells (form the myelin sheath around neurons).
+  - Fat cells: The cells that store excess energy as fat and help in insulation and cushioning. There are two types of fat cells: white fat cells (store energy) and brown fat cells (generate heat).

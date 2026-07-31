@@ -1,0 +1,8 @@
+### Cepstral Distances
+
+- Cepstral Distances are used in speech recognition systems to measure the difference between two speech signals.
+- A weighted cepstral distance measure is proposed and is tested in a speaker-independent isolated word recognition system using standard DTW (dynamic time warping) techniques. The measure is a statistically weighted distance measure with weights equal to the inverse variance of the cepstral coefficients.
+- The cepstral coefficients provide an efficient computation of the log-spectral distance of two frames. For LPC models that represent smoothed envelopes of the speech spectra, it is usually used a truncated number of cepstral coefficients.
+- Distances derived from the all-pole, Linear-Prediction (LP) cepstrum are known for their ability to capture important spectral differences between speech sounds with relatively small computational complexity, and hence are widely used for computer speech and speaker recognition.
+- The cepstrum is a representation used in homomorphic signal processing, to convert signals combined by convolution (such as a source and filter) into sums of their cepstra, for linear separation. In particular, the power cepstrum is often used as a feature vector for representing the human voice and musical signals.
+- The likelihood ratio, cepstral measure, and cosh measure are easily evaluated recursively from linear prediction filter coefficients, and each has a meaningful and interrelated frequency domain interpretation.

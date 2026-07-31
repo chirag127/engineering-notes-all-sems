@@ -1,0 +1,22 @@
+# Network Protocol - Data Dissemination
+
+- Data dissemination is the process of delivering data that matches the interest of the querying nodes in a network.
+- Data dissemination is important for IoT applications that generate massive amounts of data from various sensors and devices.
+- Data dissemination protocols aim to provide efficient, reliable, and secure communication of data in IoT networks.
+- Data dissemination protocols can be classified into two categories: broadcast and query-based.
+  - Broadcast protocols send data to all nodes in the network or a subset of nodes based on some criteria, such as geographic location, node density, or node priority.
+  - Query-based protocols send data to specific nodes that request it by issuing queries, which then propagate through the network.
+- Data dissemination protocols can also be classified based on the network topology: flat, hierarchical, or hybrid.
+  - Flat protocols treat all nodes equally and do not impose any structure on the network.
+  - Hierarchical protocols organize nodes into clusters or groups, where each cluster has a leader or a representative that coordinates the communication within and between clusters.
+  - Hybrid protocols combine the features of flat and hierarchical protocols to achieve a balance between scalability and efficiency.
+- Data dissemination protocols face several challenges in IoT networks, such as:
+  - Energy efficiency: nodes in IoT networks are usually battery-powered and have limited energy resources, so data dissemination protocols should minimize the energy consumption of nodes and prolong the network lifetime.
+  - Reliability: nodes in IoT networks are prone to failures, mobility, and dynamic changes, so data dissemination protocols should ensure that data is delivered to the intended nodes without loss or delay.
+  - Security: nodes in IoT networks are vulnerable to various attacks, such as eavesdropping, modification, impersonation, or denial of service, so data dissemination protocols should protect the data confidentiality, integrity, and availability.
+- Some examples of data dissemination protocols for IoT networks are:
+  - A Neighbor-Based Probabilistic Broadcast Protocol for Data Dissemination in Mobile IoT Networks: this protocol uses a probabilistic approach to select a subset of neighbors to forward the data, based on their distance, mobility, and connectivity. This protocol reduces the number of transmissions and improves the delivery ratio and the network coverage.
+  - Dissemination Protocols for Large Sensor Networks: this chapter surveys several data dissemination protocols for large sensor networks, such as Directed Diffusion, SPIN, TAG, and COUGAR. These protocols use data-centric and query-based approaches to deliver data efficiently and reliably.
+  - Energy Efficient Massive Data Dissemination Protocols for the International Network of Things: this paper proposes two data dissemination protocols for IoT networks, called EEDD and EEDD-2. These protocols use a hierarchical structure and a data aggregation technique to reduce the energy consumption and the network overhead.
+  - Taxonomy of secure data dissemination techniques for IoT environment: this paper presents a taxonomy of secure data dissemination techniques for IoT networks, based on the security objectives, the security mechanisms, and the network characteristics. The paper also reviews some existing techniques and identifies the research gaps and challenges.
+  - Reliable data dissemination for the Internet of Things using Harris hawks optimization algorithm: this paper proposes a reliable data dissemination protocol for IoT networks, called RDIoT, that uses a bio-inspired optimization algorithm called Harris hawks optimization. This protocol improves the network performance in terms of packet delivery ratio, end-to-end delay, and energy consumption.

@@ -1,0 +1,21 @@
+#### Graphical and Computational Analysis
+
+- Graphical analysis is a method of solving problems or finding relationships by using graphs or charts to represent data or equations.
+- Computational analysis is a method of solving problems or finding relationships by using algorithms or computer programs to perform calculations or simulations.
+- Both methods can be used to study various topics in mathematics, physics, engineering, economics, etc.
+- Some advantages of graphical analysis are:
+  - It can provide a visual representation of the problem or relationship, which can help to understand it better or find patterns or trends.
+  - It can be used to compare different scenarios or cases by plotting them on the same graph or chart.
+  - It can be used to estimate or approximate solutions or values by using interpolation or extrapolation techniques.
+- Some disadvantages of graphical analysis are:
+  - It can be inaccurate or misleading if the scale or resolution of the graph or chart is not appropriate or consistent.
+  - It can be difficult or impossible to plot some types of data or equations, such as complex numbers, multidimensional functions, etc.
+  - It can be time-consuming or tedious to draw or construct graphs or charts by hand or with simple tools.
+- Some advantages of computational analysis are:
+  - It can provide precise and accurate solutions or values by using numerical methods or analytical formulas.
+  - It can handle large or complex data or equations, such as matrices, differential equations, etc.
+  - It can automate or speed up the process of solving problems or finding relationships by using loops, functions, or libraries.
+- Some disadvantages of computational analysis are:
+  - It can require a lot of computational resources or memory, such as CPU, RAM, disk space, etc.
+  - It can be prone to errors or bugs if the algorithm or program is not designed or implemented correctly or efficiently.
+  - It can be difficult or impossible to verify or validate the results or outputs, especially if they are not intuitive or interpretable.

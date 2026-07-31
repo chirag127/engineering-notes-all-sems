@@ -1,0 +1,10 @@
+### Spectral Distortion Using A Warped Frequency Scale
+
+- Spectral distortion is the difference between the original and the reconstructed spectra of a speech signal, usually measured in decibels (dB).
+- Spectral distortion can affect the quality and intelligibility of speech, especially when using low-order models or noisy conditions.
+- A warped frequency scale is a transformation of the linear frequency scale that changes the resolution and spacing of the frequency bins according to some perceptual or psychoacoustic criteria.
+- A warped frequency scale can reduce the spectral distortion by matching the frequency resolution of the model to the frequency resolution of the human auditory system, which is not uniform across the frequency range.
+- Some examples of warped frequency scales are the Bark scale, the Mel scale, and the ERB (equivalent rectangular bandwidth) scale, which are based on different aspects of human hearing such as critical bands, just noticeable differences, and auditory filters.
+- To use a warped frequency scale, the speech signal is first transformed to the warped domain by applying a frequency warping function, such as a bilinear transformation or a piecewise linear approximation. Then, the spectral analysis and modeling are performed in the warped domain, and the reconstructed spectrum is obtained by applying the inverse warping function.
+- The spectral distortion on a warped frequency scale can be measured by various distance measures, such as the log spectral distance, the cepstral distance, the Itakura-Saito distance, and the likelihood ratio distance. These measures can be modified to account for the warping function and the frequency weighting.
+- The spectral distortion on a warped frequency scale can be used as a criterion for optimizing the model parameters, such as the order, the coefficients, and the warping factor. It can also be used as a feature for speech recognition, speaker verification, and speech enhancement applications.

@@ -1,0 +1,12 @@
+### Wearable Computer With Temperature Distance Sensors
+
+- A wearable computer is a device that can be worn on the body and can perform computing tasks such as processing, storing, displaying, and communicating information.
+- A wearable computer with temperature distance sensors is a type of wearable computer that can measure the temperature and distance of objects or environments using contactless sensors such as lidar and infrared.
+- Some applications of wearable computer with temperature distance sensors are:
+  - Health monitoring: The device can monitor the body temperature of the wearer or other people and alert them of any abnormality or fever. It can also measure the distance between people and help maintain social distancing during pandemics or crowded situations.
+  - Industrial safety: The device can detect the temperature and distance of hazardous materials, machines, or environments and warn the wearer of any potential risk or danger. It can also help the wearer navigate through complex or dark areas using lidar mapping and guidance.
+  - Education and entertainment: The device can provide interactive and immersive learning and gaming experiences by projecting virtual or augmented reality images and sounds on the display or the environment. It can also measure the temperature and distance of various objects or phenomena and provide relevant information or feedback.
+- A possible design and implementation of wearable computer with temperature distance sensors is as follows :
+  - The device uses a Raspberry Pi controller as the main computing unit, which can run various operating systems and applications. It also has a battery, a touch screen display, a lidar sensor, and a temperature sensor.
+  - The device is mounted on a wrist strap, which makes it easy to carry and wear. The display is used to interact with the computer and show the output of the sensors. The lidar sensor is used to measure the distance of objects or environments using laser pulses. The temperature sensor is used to measure the temperature of objects or environments using infrared radiation.
+  - The device can communicate with other devices or networks using Wi-Fi, Bluetooth, or cellular connections. It can also use voice or gesture recognition as alternative input methods. The device can be customized and programmed according to the user's needs and preferences.

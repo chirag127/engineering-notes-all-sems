@@ -1,0 +1,8 @@
+### Conclusion for the notes of the Unit 3 - Knowledge-Based Systems- AI Context in the subject of INTELLIGENT DATABASE SYSTEM
+
+- Knowledge-based systems (KBS) are computer systems that use artificial intelligence techniques to solve complex problems that normally require human expertise.
+- KBS consist of two main components: a knowledge base and an inference engine. The knowledge base stores the domain-specific facts and rules, while the inference engine applies logical reasoning to derive new knowledge or solutions from the existing knowledge base.
+- KBS can be classified into different types based on the nature of the knowledge representation and the inference mechanism. Some common types are rule-based systems, frame-based systems, semantic networks, and neural networks.
+- KBS can also be categorized into different levels based on the degree of human involvement and the complexity of the problem domain. Some common levels are expert systems, intelligent tutoring systems, decision support systems, and intelligent agents.
+- KBS have various applications in different fields, such as medicine, engineering, education, business, and law. Some examples of KBS are MYCIN, DENDRAL, PROSPECTOR, R1/XCON, and CYC.
+- KBS face several challenges and limitations, such as knowledge acquisition, knowledge validation, knowledge maintenance, knowledge integration, knowledge sharing, and knowledge reuse. Some techniques to address these challenges are knowledge engineering, knowledge elicitation, knowledge verification, knowledge refinement, knowledge fusion, and knowledge management.

@@ -1,0 +1,13 @@
+### Database Design and Normalization
+
+- Database design is the process of creating a logical and physical structure for storing and manipulating data in a relational database management system (RDBMS).
+- Database normalization is a technique of database design that aims to reduce data redundancy and improve data integrity by organizing the data into tables and columns that follow certain rules or normal forms.
+- Normalization also simplifies the database design by eliminating or minimizing the anomalies and inconsistencies that may arise from data manipulation operations such as insertion, deletion, and update.
+- There are several levels of normalization, each with a specific set of criteria that a database must satisfy to be in that normal form. The most common normal forms are:
+  - First normal form (1NF): A database is in 1NF if every table has a primary key and every column contains atomic values (i.e., values that cannot be further decomposed).
+  - Second normal form (2NF): A database is in 2NF if it is in 1NF and every non-key column depends on the whole primary key (i.e., there are no partial dependencies).
+  - Third normal form (3NF): A database is in 3NF if it is in 2NF and every non-key column depends only on the primary key (i.e., there are no transitive dependencies).
+  - Boyce-Codd normal form (BCNF): A database is in BCNF if it is in 3NF and every determinant (i.e., a column or a set of columns that determines another column) is a candidate key (i.e., a minimal set of columns that uniquely identifies a row).
+  - Fourth normal form (4NF): A database is in 4NF if it is in BCNF and every multi-valued dependency (i.e., a dependency where a column or a set of columns can have more than one value for a given primary key value) is trivial (i.e., it involves only the primary key) or is implied by a candidate key.
+  - Fifth normal form (5NF): A database is in 5NF if it is in 4NF and every join dependency (i.e., a dependency where a table can be decomposed into two or more tables and then reconstructed by joining them on a common set of columns) is trivial (i.e., it involves only the primary key) or is implied by a candidate key.
+- The higher the normal form, the less redundancy and more consistency the database has, but also the more tables and joins it may require, which can affect the performance and complexity of the database. Therefore, the optimal level of normalization depends on the nature and purpose of the database and the trade-off between data quality and data efficiency.

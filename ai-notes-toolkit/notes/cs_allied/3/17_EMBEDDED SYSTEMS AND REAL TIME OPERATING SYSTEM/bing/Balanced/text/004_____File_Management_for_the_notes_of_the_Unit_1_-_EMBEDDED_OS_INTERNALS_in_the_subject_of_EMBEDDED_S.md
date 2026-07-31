@@ -1,0 +1,14 @@
+### File Management
+
+- File management is the process of organizing, storing, accessing, and manipulating files on a storage device, such as a hard disk, flash drive, or memory card.
+- Files are collections of data that have a name, a type, a size, and other attributes. Files can be created, modified, deleted, copied, moved, renamed, and searched by users or applications.
+- File management is an essential function of an operating system (OS), which is a software that manages the hardware and software resources of a computer system.
+- An embedded OS is a specialized OS that runs on a dedicated device, such as a smartphone, tablet, smartwatch, router, or sensor. An embedded OS typically has limited memory, processing power, and storage capacity, and is optimized for performance, reliability, and energy efficiency.
+- An embedded OS may use different file systems to organize and access files on different storage devices. A file system is a set of rules and data structures that define how files are stored, named, and accessed on a storage device.
+- Some common file systems used by embedded OS are:
+
+  - FAT (File Allocation Table): A simple and widely compatible file system that uses a table to keep track of the location and status of files on a storage device. FAT supports different versions, such as FAT12, FAT16, and FAT32, which differ in the maximum file size and storage capacity they can handle.
+  - exFAT (Extended File Allocation Table): An improved version of FAT that supports larger files and storage devices, as well as features such as timestamps, permissions, and encryption. exFAT is commonly used for flash drives and memory cards.
+  - NTFS (New Technology File System): A proprietary file system developed by Microsoft that supports advanced features such as journaling, compression, encryption, security, and recovery. NTFS is the default file system for Windows OS, and can also be used by some embedded OS that support Windows compatibility.
+  - ext (Extended File System): A family of file systems developed for Linux OS that support features such as journaling, symbolic links, permissions, and encryption. ext supports different versions, such as ext2, ext3, and ext4, which differ in the performance and reliability they offer. ext is the default file system for Linux OS, and can also be used by some embedded OS that support Linux compatibility.
+  - YAFFS (Yet Another Flash File System): A file system designed for NAND flash memory, which is a type of non-volatile memory that can retain data without power. YAFFS supports features such as wear leveling, bad block management, and error correction. YAFFS is commonly used for embedded OS that run on flash-based devices, such as smartphones and tablets.

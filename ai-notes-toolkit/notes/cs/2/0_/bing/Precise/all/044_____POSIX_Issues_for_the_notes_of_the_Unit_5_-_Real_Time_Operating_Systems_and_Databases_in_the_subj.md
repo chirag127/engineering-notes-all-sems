@@ -1,0 +1,11 @@
+# POSIX Issues
+
+POSIX (Portable Operating System Interface) is an operating system interface standard based on the UNIX operating system. Its main goal is to support application portability at the source-code level.
+
+- POSIX defines a standard way for an application to interface with the operating system.
+- The original POSIX standard defines interfaces to core functions such as file operations, process management, signals, and devices.
+- Subsequent releases of POSIX have also been defined to cover real-time extensions and multi-threading.
+- The POSIX standard promotes portability of applications across different operating system platforms.
+- This is especially important for applications designed for longevity, where the hardware and software infrastructure may change during the application's life cycle.
+- A real-time working group was established in POSIX to develop standards to add the OS services that are needed by real-time applications.
+- The international standard POSIX standard has been adopted by virtually all operating systems in use and most real-time operating systems including ThreadX, QNX, VxWorks, Integrity, LynxOS, and Unison OS.

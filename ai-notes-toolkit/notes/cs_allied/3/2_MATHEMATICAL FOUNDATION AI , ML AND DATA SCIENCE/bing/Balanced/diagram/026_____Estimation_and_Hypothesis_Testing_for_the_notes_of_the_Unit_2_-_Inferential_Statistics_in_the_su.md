@@ -1,0 +1,12 @@
+### Estimation and Hypothesis Testing
+
+Estimation and hypothesis testing are two important methods of inferential statistics that allow us to draw conclusions about a population based on a sample of data.
+
+- Estimation is the process of finding an approximate value for an unknown population parameter, such as the mean, proportion, variance, etc. Estimation can be done using point estimates or interval estimates.
+  - A point estimate is a single value that is the best guess for the population parameter. For example, the sample mean is a point estimate for the population mean.
+  - An interval estimate is a range of values that is likely to contain the population parameter with a certain level of confidence. For example, a 95% confidence interval for the population mean is an interval that has a 95% chance of containing the true mean.
+- Hypothesis testing is the process of making a decision about a claim or assumption about a population parameter, based on a sample of data. Hypothesis testing can be done using a significance level, a test statistic, a p-value, or a confidence interval.
+  - A significance level is the probability of rejecting a true null hypothesis, which is the default or no-effect assumption. For example, a significance level of 0.05 means that there is a 5% chance of rejecting the null hypothesis when it is true.
+  - A test statistic is a value that measures how far the sample data are from the null hypothesis. For example, the t-statistic is a test statistic that compares the sample mean to the hypothesized mean, adjusted for the sample size and variability.
+  - A p-value is the probability of obtaining a test statistic as extreme or more extreme than the observed one, assuming that the null hypothesis is true. For example, a p-value of 0.01 means that there is a 1% chance of getting a test statistic as extreme or more extreme than the observed one, if the null hypothesis is true.
+  - A confidence interval is a range of values that is likely to contain the population parameter with a certain level of confidence. For example, a 95% confidence interval for the population mean is an interval that has a 95% chance of containing the true mean. A confidence interval can be used to test a hypothesis by checking whether the hypothesized value falls within the interval or not.

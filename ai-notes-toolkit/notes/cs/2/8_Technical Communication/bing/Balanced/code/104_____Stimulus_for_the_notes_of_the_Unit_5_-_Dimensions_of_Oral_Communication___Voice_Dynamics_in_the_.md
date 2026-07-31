@@ -1,0 +1,24 @@
+### Stimulus for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication
+
+- The purpose of this unit is to help you understand the various aspects of oral communication and how to improve your voice dynamics for effective communication.
+- Oral communication is the process of expressing ideas, feelings, opinions, or information through spoken words. It is one of the most common and essential forms of communication in personal, professional, and social contexts.
+- Oral communication has several dimensions, such as:
+  - Purpose: The goal or objective of the communication, such as to inform, persuade, entertain, or instruct.
+  - Audience: The intended or actual listeners of the communication, who may have different backgrounds, expectations, needs, and preferences.
+  - Context: The situation or environment in which the communication takes place, such as formal or informal, public or private, face-to-face or mediated, etc.
+  - Content: The message or information that is communicated, which may be factual, emotional, logical, or creative.
+  - Structure: The organization or arrangement of the content, such as introduction, body, and conclusion, or problem, solution, and evaluation, etc.
+  - Style: The tone, language, and delivery of the communication, such as formal or informal, polite or rude, clear or vague, etc.
+  - Feedback: The response or reaction of the audience to the communication, which may be verbal, non-verbal, or written, and may indicate their understanding, agreement, interest, or satisfaction, etc.
+- Voice dynamics are the qualities or characteristics of the voice that affect the delivery and impact of oral communication, such as:
+  - Volume: The loudness or softness of the voice, which may indicate confidence, authority, or emotion, and may vary according to the distance, noise, and size of the audience.
+  - Pitch: The highness or lowness of the voice, which may indicate gender, age, or emotion, and may vary according to the emphasis, question, or statement.
+  - Rate: The speed or pace of the voice, which may indicate nervousness, excitement, or boredom, and may vary according to the complexity, familiarity, or importance of the content.
+  - Pause: The silence or gap between words or sentences, which may indicate hesitation, uncertainty, or emphasis, and may vary according to the transition, punctuation, or effect.
+  - Articulation: The clarity or accuracy of the voice, which may indicate education, culture, or professionalism, and may vary according to the pronunciation, enunciation, or accent.
+  - Modulation: The variation or change of the voice, which may indicate interest, enthusiasm, or monotony, and may vary according to the tone, stress, or intonation.
+- To improve your voice dynamics, you should:
+  - Know your purpose, audience, and context, and adapt your voice accordingly.
+  - Prepare your content and structure, and practice your delivery.
+  - Use appropriate and effective language and style, and avoid jargon, slang, or filler words.
+  - Seek and respond to feedback, and improve your communication skills.

@@ -1,0 +1,22 @@
+### Visual Data Analysis Techniques
+
+Visual data analysis techniques are methods of creating graphical representations of information to help users understand and explore data, identify patterns, and communicate insights. Visual data analysis techniques can be classified into two main categories: data visualization and visual analytics.
+
+- Data visualization is the process of transforming data into visual elements, such as charts, graphs, maps, and dashboards. Data visualization techniques aim to present data in a clear, concise, and engaging way, using appropriate visual encodings, layouts, and interactions. Data visualization techniques can be further divided into different types, such as:
+
+  - Pie chart: A circular chart that shows the proportion of each category in a dataset, using slices of different sizes and colors. Pie charts are useful for showing relative percentages, but not for comparing absolute values or showing trends over time.
+  - Bar chart: A rectangular chart that shows the value of each category in a dataset, using bars of different heights and colors. Bar charts are useful for comparing values across categories, showing distributions, and highlighting outliers.
+  - Histogram: A special type of bar chart that shows the frequency of values in a dataset, using bins of equal width. Histograms are useful for showing the shape and spread of a distribution, and identifying skewness and gaps.
+  - Line chart: A chart that shows the change of values over time, using lines of different colors and shapes. Line charts are useful for showing trends, patterns, and relationships over time, and comparing multiple series of data.
+  - Scatter plot: A chart that shows the relationship between two variables, using points of different colors and sizes. Scatter plots are useful for showing correlations, clusters, and outliers, and exploring causal relationships.
+  - Map: A chart that shows the spatial distribution of data, using geographic features and symbols. Maps are useful for showing location-based data, such as population, climate, and traffic, and revealing spatial patterns and variations.
+  - Dashboard: A collection of charts and indicators that provide an overview of a topic or a business performance, using interactive filters and drill-downs. Dashboards are useful for monitoring key metrics, identifying issues, and supporting decision making.
+
+- Visual analytics is the process of combining data visualization with analytical techniques, such as statistics, data mining, and machine learning, to enable interactive and exploratory data analysis. Visual analytics techniques aim to enhance data understanding and discovery, using visual representations and interactions to support analytical reasoning and decision making. Visual analytics techniques can be further divided into different types, such as:
+
+  - Dimensionality reduction: A technique that reduces the number of variables in a dataset, using mathematical transformations or feature selection methods. Dimensionality reduction is useful for simplifying complex data, removing noise and redundancy, and revealing hidden structures and patterns.
+  - Clustering: A technique that groups similar data points into clusters, using distance or similarity measures. Clustering is useful for discovering natural categories, finding outliers, and segmenting data.
+  - Classification: A technique that assigns labels to data points, using predefined rules or learned models. Classification is useful for predicting outcomes, identifying categories, and labeling data.
+  - Regression: A technique that models the relationship between a dependent variable and one or more independent variables, using mathematical functions or learned models. Regression is useful for estimating values, finding trends, and testing hypotheses.
+  - Association: A technique that finds frequent patterns or rules in a dataset, using measures of support and confidence. Association is useful for discovering relationships, finding correlations, and generating recommendations.
+  - Anomaly detection: A technique that identifies data points that deviate from the normal behavior or expectation, using statistical tests or learned models. Anomaly detection is useful for detecting errors, frauds, and outliers.

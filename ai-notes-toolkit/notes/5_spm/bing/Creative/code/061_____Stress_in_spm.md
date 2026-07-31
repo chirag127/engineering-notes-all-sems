@@ -1,0 +1,37 @@
+### Stress in spm
+
+- SPM stands for Sijil Pelajaran Malaysia, which is the national examination for secondary school students in Malaysia.
+- Stress is a state of mental or emotional strain or tension resulting from adverse or demanding circumstances.
+- Stress can affect students' academic performance, mental health, physical health, and social relationships.
+- Some of the common sources of stress for SPM students are:
+  - High expectations from parents, teachers, and themselves
+  - Competition with peers and pressure to excel
+  - Lack of time management and study skills
+  - Fear of failure and uncertainty about the future
+  - Personal or family problems
+- Some of the common symptoms of stress for SPM students are:
+  - Anxiety, nervousness, and panic attacks
+  - Depression, sadness, and low self-esteem
+  - Irritability, anger, and aggression
+  - Headaches, stomachaches, and fatigue
+  - Insomnia, nightmares, and sleep problems
+  - Loss of appetite, weight changes, and eating disorders
+  - Poor concentration, memory, and decision making
+  - Reduced interest, motivation, and enjoyment in learning
+  - Withdrawal, isolation, and loneliness
+  - Substance abuse, self-harm, and suicidal thoughts
+- Some of the effective ways to cope with stress for SPM students are:
+  - Plan ahead and set realistic goals
+  - Organize and prioritize tasks and activities
+  - Manage time and avoid procrastination
+  - Study regularly and review frequently
+  - Seek help and guidance from teachers, counselors, or tutors
+  - Use positive self-talk and affirmations
+  - Relax and take breaks
+  - Engage in physical exercise and hobbies
+  - Maintain a balanced diet and hydration
+  - Get enough sleep and rest
+  - Communicate and socialize with supportive friends and family
+  - Express and release emotions in healthy ways
+  - Avoid negative coping strategies such as smoking, drinking, or drugs
+  - Seek professional help if stress becomes overwhelming or unmanageable

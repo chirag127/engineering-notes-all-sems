@@ -1,0 +1,12 @@
+### Lagrange’s method of multipliers for the notes of the Unit 3 - Differential Calculus-II in the subject of ENGINEERING MATHEMATICS-I
+
+Lagrange’s method of multipliers is a powerful technique used to find the extreme values of a function subject to a constraint. It is widely used in various fields of engineering and science, making it an essential topic for students to learn in the subject of Engineering Mathematics-I. Here are some important points to keep in mind while studying Lagrange's method of multipliers:
+
+- The method of Lagrange multipliers is used to find the extreme values of a function subject to a constraint. It involves introducing a new variable called the Lagrange multiplier, which allows us to incorporate the constraint into the equation.
+- The Lagrange multiplier is a scalar quantity that is multiplied by the constraint equation and added to the original function. This results in a new function that can be differentiated to find the extreme values.
+- The method of Lagrange multipliers can be used to solve optimization problems in which we need to maximize or minimize a function subject to a constraint. This can be applied in various fields of engineering and science, such as physics, economics, and finance.
+- The Lagrange multiplier method can be used to solve problems with multiple constraints by introducing one Lagrange multiplier for each constraint. This allows us to find the optimal solution that satisfies all the constraints.
+- The Lagrange multiplier method can also be used to solve problems with inequality constraints. In this case, the Lagrange multiplier provides information about the direction of the constraint violation, allowing us to find the optimal solution that satisfies the constraint.
+- The Lagrange multiplier method is an important tool in the field of optimization and is widely used in various fields of engineering and science. It is essential for students of Engineering Mathematics-I to master this technique in order to succeed in their future academic and professional endeavors.
+
+In conclusion, Lagrange's method of multipliers is a crucial topic for students of Engineering Mathematics-I to learn. It is a powerful technique that is widely used in various fields of engineering and science to solve optimization problems. By understanding the basic principles and applications of this method, students can develop a strong foundation in the field of optimization and prepare themselves for success in their future academic and professional careers.

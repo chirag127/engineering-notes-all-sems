@@ -1,0 +1,9 @@
+ Here is the content in markdown format without any emojis or external links as per your instructions:
+
+### Indian Cinema as a Performing Art in India
+
+1. Indian cinema, especially Hindi cinema, has been an integral part of Indian culture and society. It is one of the largest film producers in the world with thousands of films produced annually in various languages.
+2. Cinema in India is not just a source of entertainment but is also a powerful medium of mass communication. It reflects the society and cultures of the region and aims to address social issues and taboos. Many movies incorporate Indian classical music and dance which showcase the country's performing arts.
+3. Acting in Indian cinema is considered as a legitimate performing art. Lead actors and actresses are huge stars with a massive fan following. They are trained in various art forms like dance, martial arts, and more to authentically portray their on-screen characters. Most of the films have song and dance sequences where the actors display their performing arts skills.
+4. The films incorporate elaborate costumes, sets, and makeup which are designed to recreate different time periods and settings. Many historical and mythological movies require intensive research to ensure authenticity which showcases India's rich history and cultural heritage. The sheer scale and grandeur of big-budget films highlight the importance given to production design in Indian cinema.
+5. The music composers create songs and background scores which are based on Indian classical music as well as folk music. The choreographers work with the actors and dancers to create spectacular dance sequences, especially for the song-and-dance routines in the films. All of these aspects combine to create a spectacular visual and aural experience for the audience and highlight Indian cinema as a performing art.

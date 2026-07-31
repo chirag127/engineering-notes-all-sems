@@ -1,0 +1,12 @@
+### Effect of learning rule coefficient for the notes of the Unit 2 - Neural Networks-II (Back propagation networks) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+
+- A learning rule is a method or a mathematical logic that improves the performance of an artificial neural network by updating the weights and biases of the network based on the training data and the desired output  .
+- A learning rule coefficient is a parameter that controls the magnitude and direction of the weight and bias updates in a learning rule. It is also known as the learning rate or the step size .
+- The learning rule coefficient affects the speed and accuracy of the learning process. A high learning rule coefficient can lead to faster convergence, but also to overshooting the optimal solution or oscillating around it. A low learning rule coefficient can lead to slower convergence, but also to more stability and precision .
+- The optimal value of the learning rule coefficient depends on the characteristics of the data, the network architecture, the learning rule, and the optimization algorithm. There is no universal formula to determine the best learning rule coefficient for a given problem. It is usually found by trial and error or by using adaptive methods that adjust the learning rule coefficient dynamically during the training process .
+- Some examples of learning rules that use a learning rule coefficient are:
+
+  - Hebbian learning rule: It is an unsupervised learning rule that updates the weights according to the correlation between the input and output neurons. The learning rule coefficient determines how much the weights change based on the correlation.
+  - Perceptron learning rule: It is a supervised learning rule that updates the weights according to the error between the desired and actual output. The learning rule coefficient determines how much the weights change based on the error.
+  - Delta learning rule: It is a supervised learning rule that updates the weights according to the gradient of the error function. The learning rule coefficient determines how much the weights change based on the gradient.
+  - Backpropagation learning rule: It is a supervised learning rule that updates the weights according to the gradient of the error function for a multilayer neural network. The learning rule coefficient determines how much the weights change based on the gradient .

@@ -1,0 +1,23 @@
+# Interference in Fuzzy Logic
+
+- Interference in fuzzy logic is the process of formulating the mapping from a given input to an output using fuzzy logic .
+- The mapping then provides a basis from which decisions can be made or patterns discerned.
+- The process of fuzzy inference involves all of the pieces described so far, i.e., membership functions, fuzzy logic operators, and if-then rules .
+- Fuzzy inference systems are the key units of a fuzzy logic system having decision making as their primary work.
+- They use the “IF…THEN” rules along with connectors “OR” or “AND” for drawing essential decision rules.
+- There are two main types of fuzzy inference systems: Mamdani and Takagi-Sugeno .
+- Mamdani fuzzy inference system is the most commonly used fuzzy methodology. It was proposed by Ebrahim Mamdani in 1975.
+- Mamdani fuzzy inference system consists of four main components: fuzzifier, rule base, inference engine, and defuzzifier .
+- Fuzzifier converts crisp inputs into fuzzy sets using membership functions .
+- Rule base contains a set of fuzzy rules that describe the relationship between input and output variables .
+- Inference engine applies the fuzzy rules to the fuzzy inputs using fuzzy logic operators and produces fuzzy outputs .
+- Defuzzifier converts fuzzy outputs into crisp outputs using various methods such as centroid, bisector, mean of maxima, etc .
+- Takagi-Sugeno fuzzy inference system is another popular fuzzy methodology. It was proposed by Takagi and Sugeno in 1985.
+- Takagi-Sugeno fuzzy inference system differs from Mamdani fuzzy inference system in that the output of each rule is a linear function of the input variables, rather than a fuzzy set .
+- Takagi-Sugeno fuzzy inference system also consists of four main components: fuzzifier, rule base, inference engine, and defuzzifier .
+- Fuzzifier and rule base are the same as in Mamdani fuzzy inference system .
+- Inference engine applies the fuzzy rules to the fuzzy inputs using fuzzy logic operators and produces crisp outputs by weighted averaging the linear functions .
+- Defuzzifier is not needed in Takagi-Sugeno fuzzy inference system, since the outputs are already crisp .
+- Fuzzy logic is an important concept in medical decision making, since medical and healthcare data can be subjective or fuzzy.
+- Fuzzy logic can be used in many different aspects within the medical decision making framework, such as diagnosis, prognosis, treatment, monitoring, etc.
+- Fuzzy logic can handle uncertainty, imprecision, and vagueness in medical data and provide more flexible and human-like reasoning.

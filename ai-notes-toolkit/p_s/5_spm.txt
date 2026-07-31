@@ -1,0 +1,71 @@
+# Software Project Management
+## Unit - 1 - Project Evaluation and Project Planning for the  notes of the course Software Project Management
+### Importance of Software Project Management
+### Activities in Software Project Management
+### Methodologies in Software Project Management
+### Categorization of Software Projects in spm
+### Setting Objectives in spm
+### Management Principles in spm
+### Management Control in spm
+### Risk Evaluation in spm
+### Strategic Program Management in Software Project Management
+### Stepwise Project Planning in spm
+## Unit - 2 - Project Life Cycle and Effort Estimation for the notes of the course Software Project Management
+### Software Process and Process Models
+### Choice of Process Models in Software Project Management
+### Rapid Application Development in Software Project Management
+### Agile Methods in Software Project Management
+### Dynamic System Development Method in spm
+### Extreme Programming in spm
+### Managing Interactive Processes in spm
+### Basics of Software Estimation in spm
+### Effort and Cost Estimation Techniques in spm
+### COSMIC Full Function Points in spm
+### COCOMO II in spm
+### A Parametric Productivity Model in spm
+## Unit - 3 - Activity Planning and Risk Management for the notes of the course Software Project Management
+### Objectives of Activity Planning in spm in spm
+### Project Schedules  in spm
+### Activities in spm
+### Sequencing and Scheduling in spm
+### Network Planning Models in spm
+### Formulating Network Model in spm
+### Forward Pass & Backward Pass Techniques in spm
+### Critical Path (CRM) Method in spm
+### Risk Identification in spm
+### Risk Assessment in spm
+### Risk Planning in spm
+### Risk Management in spm
+### PERT Technique in spm
+### Monte Carlo Simulation in spm
+### Resource Allocation in spm
+### Creation of Critical Paths in spm
+### Cost Schedules in spm
+## Unit - 4 - Project Management and Control for the  notes of the course Software Project Management in spm
+### Framework for Management and Control in spm
+### Collection of Data in spm
+### Visualizing Progress in spm
+### Cost Monitoring in spm
+### Earned Value Analysis in spm
+### Prioritizing Monitoring in spm
+### Project Tracking in spm
+### Change Control in spm
+### Software Configuration Management in spm
+### Managing Contracts in spm
+### Contract Management in spm
+## Unit - 5 - Staffing in Software Projects for the  notes of the course Software Project Management in spm
+### Managing People in spm
+### Organizational Behavior in spm
+### Best Methods of Staff Selection in spm
+### Motivation in spm
+### The Oldham-Hackman Job Characteristic Model in spm
+### Stress in spm
+### Health and Safety in spm
+### Ethical and Professional Concerns in spm
+### Working in Teams in spm
+### Decision Making in spm
+### Organizational Structures in spm
+### Dispersed and Virtual Teams in spm
+### Communications Genres in spm
+### Communication Plans in spm
+### Leadership in spm

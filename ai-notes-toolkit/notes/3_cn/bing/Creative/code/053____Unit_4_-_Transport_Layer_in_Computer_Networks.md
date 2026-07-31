@@ -1,0 +1,11 @@
+## Unit 4 - Transport Layer in Computer Networks
+
+The transport layer is responsible for providing end-to-end communication between applications running on different hosts in a network. The transport layer can offer various services, such as reliable or unreliable delivery, connection-oriented or connectionless communication, congestion control, flow control, error detection, and multiplexing.
+
+The transport layer uses two main protocols: Transmission Control Protocol (TCP) and User Datagram Protocol (UDP).
+
+TCP is a connection-oriented, reliable, and full-duplex protocol that establishes a logical connection between two endpoints before exchanging data. TCP ensures that the data is delivered in the same order and without errors or losses. TCP also implements congestion control and flow control mechanisms to avoid overwhelming the network or the receiver. TCP uses a sliding window protocol to manage the data transmission and acknowledgment. TCP segments the data into smaller units called segments, which have a header and a payload. The header contains fields such as source and destination port numbers, sequence and acknowledgment numbers, flags, window size, checksum, and options.
+
+UDP is a connectionless, unreliable, and best-effort protocol that does not guarantee the delivery, order, or integrity of the data. UDP does not establish a connection or maintain a state between the endpoints. UDP simply sends the data as datagrams, which have a header and a payload. The header contains fields such as source and destination port numbers, length, and checksum. UDP is suitable for applications that require low latency, high throughput, or multicast communication, such as streaming media, online gaming, or voice over IP.
+
+The transport layer uses port numbers to identify the applications or processes that are communicating. Port numbers are 16-bit integers that range from 0 to 65535. Some port numbers are reserved for well-known services, such as HTTP (80), FTP (21), or SSH (22). Other port numbers are dynamically assigned by the operating system for ephemeral or temporary connections. Port numbers are used in conjunction with IP addresses to form socket addresses, which uniquely identify the endpoints of a communication. For example, 192.168.1.10:80 means the host with IP address 192.168.1.10 and port number 80.

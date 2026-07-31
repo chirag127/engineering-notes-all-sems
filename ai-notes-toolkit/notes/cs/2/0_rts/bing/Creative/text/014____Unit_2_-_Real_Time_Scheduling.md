@@ -1,0 +1,21 @@
+## Unit 2 - Real Time Scheduling
+
+- Real time scheduling is the process of assigning and executing tasks in a system that has strict timing constraints and deadlines .
+- Real time scheduling aims to achieve predictable and reliable performance of the system, as well as to maximize the utilization of the available resources .
+- Real time scheduling can be classified into two categories: **hard real time** and **soft real time** .
+  - Hard real time scheduling requires that every task must meet its deadline, otherwise the system may fail or cause severe consequences .
+  - Soft real time scheduling allows some tasks to miss their deadlines occasionally, without compromising the overall functionality of the system .
+- Real time scheduling can also be classified into two types: **static** and **dynamic** .
+  - Static real time scheduling assigns priorities and schedules to tasks before the system starts running, and does not change them during the execution .
+  - Dynamic real time scheduling adjusts the priorities and schedules of tasks based on the current state of the system, such as the arrival of new tasks, the completion of existing tasks, or the occurrence of events .
+- Some of the common real time scheduling algorithms are: **rate monotonic**, **earliest deadline first**, **least laxity first**, **round robin**, and **priority inheritance** .
+  - Rate monotonic scheduling assigns fixed priorities to tasks based on their periods, such that the shorter the period, the higher the priority .
+  - Earliest deadline first scheduling assigns dynamic priorities to tasks based on their deadlines, such that the earlier the deadline, the higher the priority .
+  - Least laxity first scheduling assigns dynamic priorities to tasks based on their laxity, which is the difference between the deadline and the remaining execution time, such that the smaller the laxity, the higher the priority .
+  - Round robin scheduling assigns equal priorities to tasks and executes them in a circular order, giving each task a fixed time slice .
+  - Priority inheritance scheduling allows a task to inherit the priority of another task that is blocked by it, in order to avoid priority inversion .
+- Real time scheduling can be implemented using various tools and platforms, such as **Linux**, **RTOS**, **Calendly**, and **Sinnaps**   .
+  - Linux is a popular operating system that supports real time scheduling using various mechanisms, such as **real time policies**, **real time signals**, **real time timers**, and **real time locks**.
+  - RTOS is a type of operating system that is designed for real time applications, and provides features such as **preemptive multitasking**, **fast context switching**, **low interrupt latency**, and **minimal overhead**.
+  - Calendly is an online scheduling software that allows users to book appointments and meetings in real time, and integrates with various platforms, such as **Google Calendar**, **Outlook**, **Zoom**, and **Salesforce**.
+  - Sinnaps is a cloud project management software that enables real time scheduling and collaboration for teams and organizations, and offers features such as **Gantt charts**, **critical path analysis**, **resource optimization**, and **risk management**.

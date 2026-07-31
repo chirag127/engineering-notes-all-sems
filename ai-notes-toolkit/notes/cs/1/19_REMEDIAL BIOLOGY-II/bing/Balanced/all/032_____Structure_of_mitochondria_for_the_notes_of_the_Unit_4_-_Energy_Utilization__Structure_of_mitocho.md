@@ -1,0 +1,11 @@
+# Structure of mitochondria
+
+- Mitochondria are small, rod-shaped organelles that are found in the cytoplasm of most eukaryotic cells, such as plants and animals  .
+- They are the sites of cellular respiration, a process that produces ATP, the main energy currency of the cell, from the breakdown of glucose and other organic molecules in the presence of oxygen  .
+- Mitochondria have a double membrane structure, consisting of an outer membrane and an inner membrane    .
+  - The outer membrane is smooth and surrounds the entire organelle. It is permeable to small molecules and ions, but not to larger molecules such as proteins .
+  - The inner membrane is folded into numerous projections called cristae, which increase the surface area for the reactions of cellular respiration. It is selectively permeable and contains various proteins, such as electron transport chain complexes, ATP synthase, and transporters  .
+- The space between the two membranes is called the intermembrane space, which contains enzymes and molecules involved in the transfer of electrons and protons during cellular respiration  .
+- The space enclosed by the inner membrane is called the matrix, which contains the mitochondrial DNA, ribosomes, enzymes, and other molecules involved in the oxidation of pyruvate, the Krebs cycle, and the synthesis of some amino acids and lipids  .
+- Mitochondria have their own circular DNA, which encodes some of the proteins and RNAs needed for their function. They also have their own ribosomes, which are similar to those of bacteria. This suggests that mitochondria evolved from ancient prokaryotic cells that were engulfed by ancestral eukaryotic cells, a process called endosymbiosis .
+- Mitochondria can divide by fission, a process that involves the splitting of the organelle into two daughter mitochondria. They can also fuse with other mitochondria, a process that involves the merging of the membranes and the mixing of the contents. These processes help maintain the number, shape, and function of mitochondria in the cell.

@@ -1,0 +1,41 @@
+## Unit 5 - Environmental Protection
+
+- Environmental Protection Act 1986
+  - An Act of the Parliament of India that was enacted in May 1986 and came into force on 19 November 1986   .
+  - It has 26 sections and 4 chapters   .
+  - It is widely considered to have been a response to the Bhopal gas leak  .
+  - It gave the Central Government the right to oversee environmental protection in India  .
+  - It empowers the Central Government to establish authorities, issue rules and directions, and plan and execute a nation-wide programme for the prevention, control and abatement of environmental pollution .
+  - It also provides for penalties and procedures for handling violations of the Act or the rules made thereunder.
+
+- Initiatives by Non Governmental Organizations (NGO’s)
+  - NGO’s are organizations that are not affiliated with any government and work for social, environmental, or humanitarian causes.
+  - Some examples of NGO’s that are involved in environmental protection in India are:
+    - Centre for Science and Environment (CSE): A public interest research and advocacy organization that promotes environmentally sound and equitable development policies.
+    - World Wide Fund for Nature (WWF): A global conservation organization that works to preserve biodiversity, reduce ecological footprint, and promote sustainable development.
+    - Greenpeace India: A branch of the international environmental organization that campaigns for clean energy, forest protection, sustainable agriculture, and climate justice.
+    - Wildlife Trust of India (WTI): A conservation organization that works to protect wildlife and habitats, reduce human-wildlife conflict, and support community-based conservation initiatives.
+    - Bombay Natural History Society (BNHS): A scientific and educational organization that conducts research, conservation, and education activities on natural history and biodiversity.
+
+- Human Population and the Environment
+  - Population growth
+    - Population growth is the increase in the number of people in a given area or region over time.
+    - Population growth can have positive and negative impacts on the environment.
+    - Positive impacts include increased human capital, innovation, and economic development.
+    - Negative impacts include increased consumption of natural resources, pollution, waste generation, deforestation, habitat loss, and climate change.
+    - Population growth can be influenced by factors such as birth rate, death rate, migration, fertility, mortality, and life expectancy.
+    - Population growth can be measured by indicators such as population size, density, distribution, and growth rate.
+  - Environmental Education
+    - Environmental education is the process of learning about the natural and human-made environment and its interrelationships.
+    - Environmental education aims to develop environmental awareness, knowledge, skills, attitudes, and values among learners of all ages and backgrounds.
+    - Environmental education also seeks to foster environmental responsibility, action, and citizenship among individuals and groups.
+    - Environmental education can be delivered through formal, non-formal, and informal methods and settings.
+    - Environmental education can be integrated into various subjects and disciplines such as science, social studies, language, arts, and mathematics.
+    - Environmental education can be guided by principles such as holistic, interdisciplinary, learner-centered, participatory, problem-solving, and action-oriented approaches.
+  - Women Education
+    - Women education is the process of providing equal access and opportunity to education for women and girls.
+    - Women education can have positive impacts on the environment and sustainable development.
+    - Women education can improve women's health, reproductive rights, and empowerment.
+    - Women education can reduce women's vulnerability to poverty, violence, and discrimination.
+    - Women education can enhance women's participation and leadership in environmental decision-making and governance.
+    - Women education can also promote women's role as agents of change and stewards of the environment.

@@ -1,0 +1,11 @@
+### Objects
+- In the context of scripting for web technology, an object is a collection of properties and methods.
+- Properties are variables that belong to the object, while methods are functions that belong to the object.
+- Objects can be created using object literals, constructors, or the Object.create() method.
+- Object literals are defined using curly braces {} and can contain properties and methods.
+- Constructors are functions that are used to create objects. They are called using the new keyword.
+- The Object.create() method creates a new object with the specified prototype object and properties.
+- Objects can be used to represent real-world objects or concepts in code.
+- Objects can be manipulated and interacted with using their properties and methods.
+- Objects can be used to organize and structure code, making it easier to read and maintain.
+- Objects are a fundamental concept in scripting for web technology and are used extensively in many programming languages.

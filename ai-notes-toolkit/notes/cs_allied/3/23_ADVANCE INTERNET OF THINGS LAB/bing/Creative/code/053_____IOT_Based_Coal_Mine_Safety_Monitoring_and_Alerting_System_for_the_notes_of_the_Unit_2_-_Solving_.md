@@ -1,0 +1,24 @@
+### IOT Based Coal Mine Safety Monitoring and Alerting System
+
+- Coal mining is a hazardous occupation that involves exposure to various risks such as gas leakage, fire, explosion, earthquake, water flooding, etc.   
+- To ensure the safety of coal miners and prevent accidents, it is essential to monitor and control the environmental parameters in the coal mine, such as temperature, smoke, methane, humidity, etc.   
+- IOT based coal mine safety monitoring and alerting system is a system that uses sensors, wireless communication, and cloud computing to collect, analyze, and display the data of the coal mine environment in real time.    
+- The system consists of the following components:
+  - Sensor nodes: These are small devices that are installed in different locations of the coal mine to measure the environmental parameters. They can use different types of sensors, such as temperature, smoke, methane, humidity, etc.   
+  - Wireless communication module: This is a device that enables the sensor nodes to communicate with each other and with the central gateway. It can use different protocols, such as Zigbee, LoRa, Wi-Fi, etc.    
+  - Central gateway: This is a device that collects the data from the sensor nodes and sends it to the cloud server. It can also display the data locally on an LCD screen or a monitor.    
+  - Cloud server: This is a platform that stores, processes, and analyzes the data from the central gateway. It can also provide various services, such as data visualization, data mining, data fusion, data security, etc.    
+  - Alerting system: This is a system that generates alerts and notifications when the data exceeds the predefined thresholds or when an abnormal situation occurs. It can use different methods, such as SMS, email, voice call, buzzer, etc.    
+- The system works as follows:
+  - The sensor nodes measure the environmental parameters and send the data to the wireless communication module.   
+  - The wireless communication module transmits the data to the central gateway.   
+  - The central gateway receives the data and sends it to the cloud server. It can also display the data locally on an LCD screen or a monitor.    
+  - The cloud server stores, processes, and analyzes the data. It can also provide various services, such as data visualization, data mining, data fusion, data security, etc.    
+  - The alerting system generates alerts and notifications when the data exceeds the predefined thresholds or when an abnormal situation occurs. It can use different methods, such as SMS, email, voice call, buzzer, etc.    
+- The system has the following advantages:
+  - It can provide real-time and accurate monitoring and control of the coal mine environment.    
+  - It can reduce the human intervention and improve the efficiency and productivity of the coal mining operation.    
+  - It can enhance the safety and security of the coal miners and prevent accidents and casualties.    
+  - It can use low-cost and low-power devices and communication protocols.    
+  - It can use cloud computing to provide various services and features.    
+- The system has the following challenges

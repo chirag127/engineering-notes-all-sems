@@ -1,0 +1,5 @@
+### Encoding, Initialization and Selection in Genetic Algorithm
+
+- Encoding is the process of representing the possible solutions of a problem as a sequence of symbols, such as binary digits, real numbers, or characters. Encoding is also known as coding or representation.
+- Initialization is the process of generating the initial population of individuals, which are the candidate solutions for the problem. Initialization can be done randomly or heuristically, depending on the problem domain and the available knowledge .
+- Selection is the process of choosing the individuals that will survive and reproduce in the next generation, based on their fitness values. Selection is also known as parent selection or reproduction selection. There are different types of selection methods, such as roulette wheel, tournament, rank-based, elitist, etc .

@@ -1,0 +1,21 @@
+# Graphite and Fullerene; Introduction, Structure and Applications
+
+- Graphite and fullerene are two forms of carbon that have different structures and properties.
+- Graphite has a layered structure in which hexagonal rings of carbon atoms are connected to each other by weak intermolecular forces. Graphite is a good conductor of electricity and heat, and has a high melting point and lubricating property.
+- Fullerene is a class of molecules that have a spherical, ellipsoidal, or cylindrical shape. The most common fullerene is C60, also known as buckminsterfullerene or buckyball, which has 60 carbon atoms arranged in a soccer ball-like structure. Fullerene can also have other numbers of carbon atoms, such as C70, C76, C84, etc. Fullerene has a high symmetry and stability, and can form complexes with other atoms or molecules.
+- Graphene is a single layer of graphite, which is one atom thick. Graphene has a honeycomb lattice structure and has extraordinary mechanical, electrical, optical, and thermal properties. Graphene is considered as a wonder material for various applications in nanotechnology, electronics, biomedicine, and energy.
+- Some of the applications of graphite are:
+  - As electrodes in batteries, fuel cells, and electrochemical sensors.
+  - As lubricants and additives in polymers and composites.
+  - As catalysts and catalyst supports in chemical reactions.
+  - As moderators and reflectors in nuclear reactors.
+- Some of the applications of fullerene are:
+  - As drug delivery agents, contrast agents, and biosensors in biomedicine.
+  - As photovoltaic materials, light-emitting diodes, and transistors in optoelectronics.
+  - As hydrogen storage materials, catalysts, and superconductors in energy and nanotechnology.
+  - As pigments, coatings, and additives in cosmetics and paints.
+- Some of the applications of graphene are:
+  - As transparent electrodes, touch screens, and flexible displays in electronics.
+  - As membranes, filters, and desalination devices in water purification.
+  - As sensors, biosensors, and nanoprobes in biotechnology and nanotechnology.
+  - As supercapacitors, batteries, and solar cells in energy storage and conversion.

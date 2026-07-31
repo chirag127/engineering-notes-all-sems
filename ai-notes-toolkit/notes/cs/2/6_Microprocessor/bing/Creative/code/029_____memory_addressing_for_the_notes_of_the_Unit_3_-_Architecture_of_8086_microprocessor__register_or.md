@@ -1,0 +1,15 @@
+### Memory Addressing for the Notes of the Unit 3 - Architecture of 8086 Microprocessor
+
+- The 8086 microprocessor is a 16-bit processor that can address up to 1 MB of memory using 20 address lines .
+- The memory is divided into segments of 64 KB each, and each segment has a base address that is stored in one of the four segment registers: code segment (CS), data segment (DS), stack segment (SS), and extra segment (ES).
+- The 8086 microprocessor uses a technique called **segmented addressing** to generate a 20-bit physical address from a 16-bit segment address and a 16-bit offset address.
+- The physical address is calculated by multiplying the segment address by 16 (or shifting it left by 4 bits) and adding the offset address. For example, if CS = 1000H and IP = 2000H, the physical address is 1000H * 16 + 2000H = 12000H.
+- The offset address can be specified by using different **addressing modes**, which are the ways of specifying the location of an operand in memory or a register .
+- The 8086 microprocessor supports seven addressing modes: register, immediate, direct, register indirect, based, indexed, and based indexed .
+- In the **register addressing mode**, the operand is stored in one of the general-purpose registers: AX, BX, CX, DX, SI, DI, BP, or SP . For example, MOV AX, BX means move the contents of BX to AX.
+- In the **immediate addressing mode**, the operand is a constant value that is part of the instruction . For example, MOV AX, 1234H means move the hexadecimal value 1234H to AX.
+- In the **direct addressing mode**, the operand is stored in a memory location whose address is given directly in the instruction . For example, MOV AX, [1000H] means move the contents of the memory location 1000H to AX.
+- In the **register indirect addressing mode**, the operand is stored in a memory location whose address is stored in one of the index registers: BX, SI, DI, or BP . For example, MOV AX, [BX] means move the contents of the memory location pointed by BX to AX.
+- In the **based addressing mode**, the operand is stored in a memory location whose address is calculated by adding the contents of a base register (BX or BP) and a displacement value that is part of the instruction . For example, MOV AX, [BX+10H] means move the contents of the memory location pointed by BX plus 10H to AX.
+- In the **indexed addressing mode**, the operand is stored in a memory location whose address is calculated by adding the contents of an index register (SI or DI) and a displacement value that is part of the instruction . For example, MOV AX, [SI+20H] means move the contents of the memory location pointed by SI plus 20H to AX.
+- In the **based indexed addressing mode**, the operand is stored in a memory location whose address is calculated by adding the contents of a base register (BX or BP), an index register (SI or DI), and a displacement value that is part of the instruction . For example, MOV AX, [BX+SI+30H] means move the contents of the memory location pointed by BX plus SI plus 30H to AX.

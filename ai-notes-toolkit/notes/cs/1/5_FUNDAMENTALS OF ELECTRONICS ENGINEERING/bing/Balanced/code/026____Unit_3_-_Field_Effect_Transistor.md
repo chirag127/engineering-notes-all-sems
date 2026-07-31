@@ -1,0 +1,9 @@
+## Unit 3 - Field Effect Transistor
+
+- A field-effect transistor (FET) is a type of transistor that uses an electric field to control the flow of current in a semiconductor.
+- FETs have three terminals: source, gate, and drain. The source and drain are connected to the semiconductor channel, and the gate is insulated from the channel by a thin layer of oxide or other dielectric material.
+- The gate voltage determines the conductivity of the channel, and thus the current flowing from source to drain. By applying a positive or negative voltage to the gate, the channel can be turned on or off, or modulated in between.
+- There are two main types of FETs: junction FETs (JFETs) and metal-oxide-semiconductor FETs (MOSFETs). JFETs use a p-n junction as the gate, and MOSFETs use a metal-oxide layer as the gate.
+- JFETs can be either n-channel or p-channel, depending on the type of semiconductor used for the channel. N-channel JFETs have a higher current and lower voltage than p-channel JFETs.
+- MOSFETs can also be either n-channel or p-channel, and they have four modes of operation: enhancement, depletion, accumulation, and inversion. Enhancement MOSFETs are normally off, and require a positive gate voltage to turn on. Depletion MOSFETs are normally on, and require a negative gate voltage to turn off. Accumulation MOSFETs are normally off, and require a negative gate voltage to turn on. Inversion MOSFETs are normally on, and require a positive gate voltage to turn off.
+- FETs are widely used in electronic circuits, such as amplifiers, switches, sensors, and logic gates. They have several advantages over bipolar junction transistors (BJTs), such as lower power consumption, higher input impedance, faster switching speed, and better scalability.

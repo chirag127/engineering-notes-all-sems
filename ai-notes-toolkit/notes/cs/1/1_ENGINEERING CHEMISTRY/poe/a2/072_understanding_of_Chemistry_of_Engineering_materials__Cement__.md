@@ -1,0 +1,8 @@
+ Here is the formal content on the topic "Chemistry of Engineering materials (Cement)" in points:
+
+1. Cement is a binding material which makes a bond between aggregates and reinforcing materials to form a hard, strong construction element called concrete.
+2. The key chemical components of cement are calcium silicate, calcium aluminate and calcium ferrite. These make up over 90% of all cement with the remaining 10% consisting of gypsum and other minor components.
+3. The raw materials used to produce cement are limestone, sand and clay. These are crushed and heated to around 1500oC in a kiln to form clinker. Gypsum is added during grinding to control the setting time of the cement.
+4. The chemical reaction that occurs as cement sets and hardens is called hydration. As water is added to cement, the silicate, aluminate and ferrite react with the water to form bonds in a crystallising mass called hydration products. As these hydration products grow, they bind the aggregates and reinforcement together to form concrete.
+5. The rate of hydration is influenced by factors such as water to cement ratio, cement fineness, cement composition, temperature, humidity and additives. Careful control of these factors allows cement to be engineered to suit different applications like rapid hardening cement, low heat cement etc.
+6. The key properties of cement that are of importance to end users are strength development, set time, shrinkage and durability. These properties are determined by the chemical and physical composition of the cement and also by how it interacts with other components of concrete during and after mixing.

@@ -1,0 +1,12 @@
+### Token based and non token based algorithms for distributed mutual exclusion
+
+- Distributed mutual exclusion (DME) is the problem of ensuring that only one process at a time can access a shared resource in a distributed system.
+- There are two main approaches to solve DME: token based and non token based algorithms.
+- Token based algorithms use a special message, called a token, that grants the permission to enter the critical section. Only the process that holds the token can access the shared resource. The token is passed among the processes in a predefined order or based on requests.
+- Non token based algorithms use timestamps to order the requests for the critical section and to resolve conflicts between simultaneous requests. A process communicates with a set of other processes to determine who should execute the critical section next. The process that has the earliest timestamp or the highest priority is granted the permission.
+- Some examples of token based algorithms are:
+  - Suzuki-Kasami algorithm: a modification of Ricart-Agrawala algorithm, which uses a token that contains a vector of sequence numbers. The token is sent to the process that has the highest sequence number in the vector.
+  - Raymond's algorithm: a tree-based algorithm, which organizes the processes in a logical tree. The token is initially held by the root of the tree. A process that wants to enter the critical section sends a request to its parent in the tree. The token is forwarded along the path from the holder to the requester.
+- Some examples of non token based algorithms are:
+  - Lamport's algorithm: a basic algorithm, which uses logical clocks to assign timestamps to the requests. A process that wants to enter the critical section broadcasts its request with its timestamp to all other processes. A process replies to a request if it is not in the critical section or it has a later timestamp. A process enters the critical section when it receives replies from all other processes.
+  - Maekawa's algorithm: a voting-based algorithm, which divides the processes into disjoint subsets, called quorums. A process that wants to enter the critical section sends a request to all processes in its quorum. A process grants a vote to a request if it has not voted for another request. A process enters the critical section when it receives votes from all processes in its quorum.

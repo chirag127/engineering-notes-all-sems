@@ -1,0 +1,10 @@
+### WORD LEVEL ANALYSIS
+
+Word level analysis is the process of analyzing natural language at the level of individual words. It involves identifying and extracting the smallest meaningful units of a word, called morphemes, and their syntactic and semantic roles. Word level analysis can help us to understand the structure, meaning, and usage of words in natural language.
+
+Some of the topics that are covered in word level analysis are:
+
+- **Regular expressions**: A regular expression (RE) is a language for specifying text search strings. RE helps us to match or find other strings or sets of strings, using a specialized syntax held in a pattern. RE can be used to perform tasks such as tokenization, stemming, lemmatization, and pattern matching in natural language processing.
+- **Morphological analysis**: Morphological analysis deals with the identification and extraction of morphemes, the smallest units of meaning in a word. A word can consist of one or more morphemes, such as root, prefix, suffix, and infix. Morphological analysis can help us to determine the part of speech, number, tense, aspect, mood, and other grammatical features of a word.
+- **Lexical analysis**: Lexical analysis deals with the analysis of words based on their lexical categories, such as noun, verb, adjective, adverb, etc. Lexical analysis can help us to assign semantic roles, such as agent, patient, instrument, etc., to the words in a sentence. Lexical analysis can also help us to identify synonyms, antonyms, hyponyms, hypernyms, and other semantic relations among words.
+- **Word embeddings**: Word embeddings are numerical representations of words that capture their semantic and syntactic similarities and differences. Word embeddings are learned from large corpora of text using neural network models, such as word2vec, GloVe, fastText, etc. Word embeddings can help us to perform tasks such as word similarity, word analogy, word clustering, and word generation in natural language processing.

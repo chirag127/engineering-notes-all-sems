@@ -1,0 +1,24 @@
+# Database System Concepts and Architecture
+
+- A database system is a software system that manages and manipulates data stored in a database.
+- A database system consists of the following components:
+  - **Data**: The collection of facts and information that are organized and stored in a database.
+  - **Database**: A structured and persistent collection of data that can be accessed and manipulated by a database system.
+  - **Database Management System (DBMS)**: A software system that provides the functionality to create, maintain, and manipulate databases. A DBMS consists of several modules, such as:
+    - **Data Definition Language (DDL)**: A language that allows users to define the structure and schema of a database.
+    - **Data Manipulation Language (DML)**: A language that allows users to query, insert, update, and delete data in a database.
+    - **Data Control Language (DCL)**: A language that allows users to control the access and security of a database.
+    - **Data Dictionary**: A repository that stores the metadata and schema information of a database.
+    - **Query Processor**: A module that parses, optimizes, and executes the queries submitted by users or applications.
+    - **Storage Manager**: A module that manages the physical storage and organization of data on disk or memory.
+    - **Transaction Manager**: A module that ensures the atomicity, consistency, isolation, and durability (ACID) properties of transactions that access and modify data in a database.
+    - **Recovery Manager**: A module that handles the backup and restoration of data in case of failures or errors.
+  - **Database Users**: The people or applications that interact with a database system to access or manipulate data. Database users can be classified into the following categories:
+    - **Database Administrators (DBAs)**: The people who are responsible for the design, implementation, maintenance, and security of a database system. DBAs use DDL and DCL to create and manage databases and their users.
+    - **Database Developers**: The people who are responsible for the development of applications that use a database system as a backend. Database developers use DML and various programming languages to query and manipulate data in a database.
+    - **Database Analysts**: The people who are responsible for the analysis and interpretation of data in a database. Database analysts use DML and various tools to perform data mining, data warehousing, business intelligence, and reporting tasks.
+    - **End Users**: The people who are the ultimate consumers of data in a database. End users use various interfaces and applications to access and view data in a database.
+- A database system can have different architectures depending on how the components are distributed and connected. The most common architectures are:
+  - **Centralized Architecture**: A database system where all the components are located on a single computer system. This architecture is simple, efficient, and easy to manage, but it has limited scalability, availability, and reliability.
+  - **Client-Server Architecture**: A database system where the components are divided into two tiers: a server tier and a client tier. The server tier consists of the DBMS and the database, and the client tier consists of the database users and applications. The client and server tiers communicate through a network using a standard protocol. This architecture is more scalable, available, and reliable than the centralized architecture, but it introduces more complexity and overhead.
+  - **Distributed Architecture**: A database system where the components are distributed across multiple computer systems that are connected by a network. The database can be either partitioned or replicated among the systems, and the DBMS can be either centralized or decentralized. This architecture is more scalable, available, and reliable than the client-server architecture, but it introduces more complexity and challenges, such as data consistency, concurrency control, query processing, and recovery.

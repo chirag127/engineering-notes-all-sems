@@ -1,0 +1,9 @@
+# Phase estimation for the notes of the Unit 2 - Quantum Computation in the subject of Quantum Computing
+
+- Phase estimation is a quantum algorithm to estimate the phase (or eigenvalue) of an eigenvector of a unitary operator.
+- The algorithm uses two quantum registers: one for the input state and one for the output state. The input state is prepared in a superposition of eigenvectors of the unitary operator, and the output state is initialized to |0⟩ |0⟩.
+- The algorithm applies a series of controlled unitary operations on the input state, where the control qubits are the output state qubits. The unitary operations are powers of the original unitary operator, such as U, U^2, U^4, ..., U^2^(t-1) U, U^2, U^4, ..., U^2^(t-1), where t t is the number of output qubits.
+- The algorithm then applies an inverse quantum Fourier transform (QFT) on the output state, which transforms the phase information into the computational basis. The output state can be measured to obtain an estimate of the phase (or eigenvalue) of the input state.
+- The algorithm can be used to implement a measurement for essentially any Hermitian operator, by decomposing it into a unitary operator and a phase shift. The algorithm can also be used as a subroutine for many quantum algorithms, such as Shor's algorithm, quantum counting, quantum amplitude amplification, and quantum machine learning .
+- The algorithm has a success probability of at least 4/π^2 ≈ 0.405 4/π^2 ≈ 0.405, which can be improved by using more output qubits or repeating the algorithm multiple times.
+- The algorithm requires O(t) O(t) qubits and O(t^2) O(t^2) gates, where t t is the number of output qubits. The algorithm is efficient if the unitary operator can be implemented efficiently.

@@ -1,0 +1,12 @@
+### M2M and IoT Technology Fundamentals
+
+- M2M stands for Machine-to-Machine communication, which is the exchange of data between two or more devices without human intervention.
+- M2M technology was first adopted in manufacturing and industrial settings, where other technologies, such as SCADA and remote monitoring, helped remotely manage and control data from equipment.
+- M2M has since found applications in other sectors, such as healthcare, business and insurance, where it enables remote monitoring, diagnostics, maintenance, asset tracking, security, etc.
+- M2M uses point-to-point communication, which means that each device has a direct connection to another device or a central server. M2M devices typically use wired or wireless networks, such as cellular, Wi-Fi, Bluetooth, Zigbee, etc.
+- IoT stands for Internet of Things, which is the network of physical objects embedded with sensors, software, and other technologies that enable them to connect and exchange data with other devices and systems over the internet.
+- IoT involves communication between machines without human input, making it by definition a form of M2M communication. However, IoT expands the power and potential of M2M technology in new ways.
+- The biggest difference between M2M and IoT is that an M2M system uses point-to-point communication, while an IoT system typically situates its devices within a global cloud network that allows larger-scale integration and more sophisticated applications.
+- Scalability is another key difference between M2M and IoT. M2M systems are limited by the number of devices that can be connected and the bandwidth that can be allocated to each device. IoT systems, on the other hand, can leverage the cloud infrastructure, software, and platform to support millions of devices and massive amounts of data.
+- IoT also enables more interoperability and intelligence among devices, as they can communicate using common protocols and standards, and leverage artificial intelligence, machine learning, and analytics to derive insights and actions from the data.
+- IoT has applications in various domains, such as smart cities, smart homes, smart agriculture, smart healthcare, smart manufacturing, smart energy, smart transportation, etc.

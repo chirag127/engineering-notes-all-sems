@@ -1,0 +1,22 @@
+### Forward Pass & Backward Pass Techniques in SPM
+
+- SPM stands for Software Project Management, which is the process of planning, organizing, executing, monitoring, and controlling software projects.
+- One of the tools used in SPM is the network diagram, which is a graphical representation of the project activities and their dependencies.
+- A network diagram consists of nodes (representing activities) and arrows (representing dependencies or precedence relationships).
+- A network diagram can help to identify the critical path, which is the longest sequence of activities that determines the minimum project duration.
+- A network diagram can also help to calculate the early and late start and finish dates of each activity, as well as the float or slack time, which is the amount of time an activity can be delayed without affecting the project duration.
+- To calculate the early and late start and finish dates, and the float or slack time, two techniques are used: forward pass and backward pass.
+- Forward pass is a technique to move forward through the network diagram from the start node to the end node, using a previously specified start date (usually zero or one).
+- Forward pass is used to calculate the early start (ES) and early finish (EF) dates of each activity, by using the following formulas:
+  - ES = the highest EF value from immediate predecessors, or the start date if there are no predecessors.
+  - EF = ES + duration of the activity.
+- Backward pass is a technique to move backward through the network diagram from the end node to the start node, using a previously specified end date (usually the project duration or the last EF value).
+- Backward pass is used to calculate the late start (LS) and late finish (LF) dates of each activity, by using the following formulas:
+  - LF = the lowest LS value from immediate successors, or the end date if there are no successors.
+  - LS = LF - duration of the activity.
+- The float or slack time of each activity can be calculated by using the following formulas:
+  - Total float = LS - ES or LF - EF
+  - Free float = the lowest ES value from immediate successors - EF
+- The critical path is the sequence of activities that has zero total float, meaning that any delay in these activities will delay the project completion.
+- The critical path can be identified by highlighting the activities that have the same ES and LS values, or the same EF and LF values.
+- The forward pass and backward pass techniques can help to optimize the project schedule, by identifying the critical activities, the non-critical activities, and the amount of flexibility or buffer time available for each activity.

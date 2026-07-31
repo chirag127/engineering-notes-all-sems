@@ -1,0 +1,7 @@
+# Basic concepts of fuzzy logic
+
+- Fuzzy logic is a mathematical method for representing vagueness and uncertainty in decision-making, it allows for partial truths, and it is used in a wide range of applications.
+- Fuzzy logic is based on the concept of membership function, which defines the degree of membership of an input value to a certain set or category. The membership function is a mapping from an input value to a membership degree between 0 and 1, where 0 represents non-membership and 1 represents full membership.
+- Fuzzy logic is also based on the concept of fuzzy rules, which are conditional statements that describe the relationship between input and output variables in a fuzzy system. Fuzzy rules are usually expressed in the form of IF-THEN statements, where the antecedent and the consequent are fuzzy sets.
+- Fuzzy logic is a form of many-valued logic, in which the truth value of variables may be any real number between 0 and 1. It is employed to handle the concept of partial truth, where the truth value may range between completely true and completely false.
+- Fuzzy logic emerged in the context of the theory of fuzzy sets, introduced by Lotfi Zadeh in 1965. A fuzzy set assigns a degree of membership, typically a real number from the interval [0,1], to elements of a universe. Fuzzy logic arises by assigning degrees of truth to propositions.

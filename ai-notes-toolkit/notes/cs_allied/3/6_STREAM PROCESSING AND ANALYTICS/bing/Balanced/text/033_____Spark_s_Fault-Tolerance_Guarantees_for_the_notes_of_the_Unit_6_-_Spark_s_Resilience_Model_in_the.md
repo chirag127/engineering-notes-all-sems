@@ -1,0 +1,11 @@
+### Spark’s Fault-Tolerance Guarantees
+
+- Spark Streaming is a distributed stream processing framework that runs on top of Spark Core and provides high-level APIs for Scala, Java, Python and R.
+- Spark Streaming can process data from various sources such as Kafka, Flume, HDFS, sockets, etc. and perform transformations and output operations on the data streams.
+- Spark Streaming achieves fault-tolerance by using a micro-batch model, where the input data is divided into small batches and processed by Spark Core as RDDs.
+- RDDs are resilient distributed datasets that are immutable, partitioned and distributed across the cluster. RDDs can be recomputed from the source data or from the lineage of transformations in case of failures.
+- Spark Streaming also uses checkpointing and write-ahead logs to ensure end-to-end exactly-once semantics for all transformations and output operations, even if a worker node fails and some data gets reprocessed.
+- Checkpointing is the process of periodically saving the state of the streaming computation to a reliable storage system such as HDFS. Checkpointing is used to recover from driver failures, which are rare but can cause the loss of the entire streaming context.
+- Write-ahead logs are the mechanism of saving the received input data to a reliable storage system before processing it. Write-ahead logs are used to recover from worker failures, which are more common and can cause the loss of some input data.
+- Spark Streaming provides different levels of fault-tolerance guarantees depending on the source and the output mode of the streaming query. For example, Kafka source with append output mode can achieve exactly-once semantics, while socket source with complete output mode can only achieve at-least-once semantics.
+- Spark Streaming also provides APIs for managing offsets and committing them to the source systems, such as Kafka. This allows the user to control the progress of the streaming query and avoid data loss or duplication. However, this also requires the user to handle the complexity of offset management and ensure consistency with the output operations.

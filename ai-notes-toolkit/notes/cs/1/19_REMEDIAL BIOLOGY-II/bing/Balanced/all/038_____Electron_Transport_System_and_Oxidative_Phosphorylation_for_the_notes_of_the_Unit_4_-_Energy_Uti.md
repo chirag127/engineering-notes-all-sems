@@ -1,0 +1,12 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some notes on the topic of Electron Transport System and Oxidative Phosphorylation:
+
+# Electron Transport System and Oxidative Phosphorylation
+
+- Electron Transport System (ETS) is a series of proteins and electron carriers located in the inner mitochondrial membrane that transfers electrons donated by the reduced molecules NADH and FADH2 through a series of electron acceptors, to oxygen .
+- Oxidative Phosphorylation (OP) is a process involving a flow of electrons through the ETS, which creates an electrochemical gradient of protons across the inner mitochondrial membrane, and the use of this gradient to drive the synthesis of ATP by a protein complex called ATP synthase   .
+- The ETS consists of four major complexes: Complex I (NADH dehydrogenase), Complex II (succinate dehydrogenase), Complex III (cytochrome bc1 complex), and Complex IV (cytochrome c oxidase), as well as two mobile electron carriers: ubiquinone (Q) and cytochrome c (Cyt c)   .
+- Complex I and II receive electrons from NADH and FADH2, respectively, and transfer them to Q, which then delivers them to Complex III. Complex III passes the electrons to Cyt c, which carries them to Complex IV. Complex IV finally transfers the electrons to oxygen, forming water   .
+- As the electrons move through the ETS, they release energy that is used by Complex I, III, and IV to pump protons from the mitochondrial matrix to the intermembrane space, creating a proton gradient   .
+- The proton gradient represents a potential energy source that is harnessed by ATP synthase, which allows the protons to flow back to the matrix through its channel. This flow of protons drives the rotation of a part of ATP synthase called the F1 subunit, which catalyzes the phosphorylation of ADP to ATP   .
+- The coupling of electron transport and proton pumping to ATP synthesis is called chemiosmosis, and it is the main mechanism of OP   .
+- OP is the final stage of cellular respiration, and it produces the majority of ATP from the oxidation of glucose and other organic molecules. OP depends on the availability of oxygen as the final electron acceptor, and it can be inhibited by various substances that block the ETS or ATP synthase   .

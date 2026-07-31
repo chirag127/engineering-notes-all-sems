@@ -1,0 +1,28 @@
+### Destructors
+
+- A destructor is a special member function of a class that is executed whenever an object of its class goes out of scope or is explicitly deleted.
+- A destructor has the same name as the class, preceded by a tilde (~).
+- Destructors have no return type and cannot take any parameters.
+- Destructors can be very useful for releasing resources that may have been acquired by an object during its lifetime.
+- The destructor is called automatically by the compiler when the object is destroyed.
+- Destructors are typically used to deallocate memory and do other cleanup for a class object and its class members when the object is destroyed.
+- A destructor can be defined for both derived and base classes.
+- If a base class destructor is not virtual, and a derived class object is deleted through a pointer to the base class, the behavior is undefined.
+- If a base class destructor is virtual, and a derived class object is deleted through a pointer to the base class, the derived class destructor is called first, followed by the base class destructor.
+- It is a good practice to make the base class destructor virtual if the class is intended to be used as a base class.
+- If a class does not contain any dynamically allocated memory, it may not need an explicit destructor.
+- If a class contains a pointer to dynamically allocated memory, it should have a destructor that deletes the memory.
+- If a class contains a pointer to an object of another class, the destructor should call the delete operator on the pointer.
+- If a class contains a pointer to an array of objects, the destructor should call the delete[] operator on the pointer.
+- If a class contains a pointer to a resource such as a file or a network connection, the destructor should release the resource.
+- If a class is derived from another class, the derived class destructor should call the base class destructor explicitly or implicitly.
+- If a class is derived from multiple base classes, the order in which the base class destructors are called is the reverse of the order in which the base classes are listed in the derived class declaration.
+- If a class contains objects of other classes as members, the destructors for these member objects are called automatically when the containing object is destroyed.
+- If a class contains static members, the destructor does not deallocate or release these members because they are shared by all objects of the class.
+- If a class contains virtual functions, the destructor should be virtual to ensure that the correct destructor is called when an object of a derived class is deleted through a pointer to the base class.
+- If a class contains a copy constructor and an assignment operator, it should also contain a destructor to ensure that resources are properly managed.
+- If a class contains a move constructor and a move assignment operator, it should also contain a destructor to ensure that resources are properly managed.
+- If a class is designed to be used with smart pointers, it may not need an explicit destructor because the smart pointer will automatically manage the resources.
+- If a class is not designed to be used with smart pointers, it should have a destructor to ensure that resources are properly managed.
+- If a class is designed to be used with a resource management class such as std::unique_ptr or std::shared_ptr, it may not need an explicit destructor because the resource management class will automatically manage the resources.
+- If a class is not designed to be used with a resource management class, it should have a destructor to ensure that resources are properly managed.

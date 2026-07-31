@@ -1,0 +1,9 @@
+ Here is the formal notes in Markdown format for the topic "Tablets for the notes of the Unit 7 - IoT Applications in the subject of Internet of Things":
+
+### Tablets for the notes of the Unit 7 - IoT Applications
+
+1. Tablets are handheld mobile computers that are larger than smartphones but smaller than laptops. They are ideal for applications that require a larger display than a smartphone such as e-reading, web browsing, video watching, and more.
+2. In the IoT context, tablets can be used as a hub to monitor and control smart home devices. For example, a tablet can be used to view the status of smart sensors and controls for lights, thermostats, and other smart home appliances. It can act as a centralized dashboard to manage the IoT devices in a home or building.
+3. Tablets can also be mounted on walls or surfaces for interactive displays and controls. For example, a tablet can be mounted in a kitchen to display recipes and control smart kitchen appliances like ovens, stovetops, and microwaves. It can also act as an interface to control and monitor home security systems with video feeds and controls for doors, windows, and alarms.
+4. Some IoT devices are purpose-built tablets with the software and interfaces tailored for specific use cases. For example, there are ruggedized tablets for industrial settings to monitor equipment and processes. There are also point of sale tablets for retail checkout counters. These types of dedicated tablets are designed specifically for IoT applications.
+5. While tablets offer a compelling user experience with their larger touchscreens and mobility, they do present some security and privacy risks. The personal data and accounts on the tablets need to be secured with passwords and encryption. The tablets also need to be kept updated with the latest software patches to mitigate vulnerabilities. When used as an IoT hub, the connectivity and devices need to be secured to prevent unauthorized access.

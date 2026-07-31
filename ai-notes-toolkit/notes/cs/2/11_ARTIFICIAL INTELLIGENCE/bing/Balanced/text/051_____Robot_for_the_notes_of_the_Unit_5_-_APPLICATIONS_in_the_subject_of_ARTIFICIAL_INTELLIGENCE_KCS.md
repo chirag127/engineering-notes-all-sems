@@ -1,0 +1,14 @@
+### Robot
+
+A robot is a machine that can perform tasks autonomously or semi-autonomously, often with the help of artificial intelligence. Artificial intelligence (AI) is the branch of computer science that deals with creating systems that can perform tasks that normally require human intelligence, such as perception, reasoning, learning, decision making, and natural language processing.
+
+Some of the applications of AI in robotics are:
+
+- **Assembly**: AI can help robots to perform complex and precise assembly tasks, such as assembling electronic components, cars, or furniture. AI can also help robots to adapt to changing environments and learn from their own experiences. 
+- **Packing**: AI can help robots to pack products faster, cheaper, and more accurately, such as sorting and labeling items, loading and unloading boxes, or wrapping and sealing packages. AI can also help robots to handle different shapes and sizes of products and optimize the packing space. 
+- **Customer service**: AI can help robots to interact with customers more humanly, such as answering questions, providing information, or taking orders. AI can also help robots to understand natural language, recognize emotions, and generate appropriate responses. 
+- **Self-driving cars**: AI can help robots to drive cars safely and efficiently, such as detecting and avoiding obstacles, following traffic rules, navigating routes, and communicating with other vehicles and pedestrians. AI can also help robots to learn from their own driving behavior and improve over time. 
+- **Autonomous drones**: AI can help robots to fly drones for various purposes, such as delivering goods, inspecting infrastructure, mapping terrain, or capturing images and videos. AI can also help robots to control the drone's movement, altitude, speed, and direction, and to avoid collisions and interference. 
+- **Humanoid robots**: AI can help robots to mimic human appearance and behavior, such as walking, talking, gesturing, or expressing emotions. AI can also help robots to understand human social cues, intentions, and preferences, and to adapt to different situations and contexts. 
+- **Autonomous farming equipment**: AI can help robots to perform agricultural tasks, such as planting, harvesting, weeding, or spraying. AI can also help robots to monitor the crop's health, growth, and yield, and to optimize the use of water, fertilizer, and pesticides. 
+- **Defense and security**: AI can help robots to perform military and law enforcement tasks, such as reconnaissance, surveillance, combat, or bomb disposal. AI can also help robots to cooperate with other robots or humans, and to respond to threats and emergencies.

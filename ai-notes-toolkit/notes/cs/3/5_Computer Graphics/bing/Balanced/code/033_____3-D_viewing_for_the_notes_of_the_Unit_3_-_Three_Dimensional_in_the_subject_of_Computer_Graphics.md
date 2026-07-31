@@ -1,0 +1,11 @@
+### 3-D viewing for the notes of the Unit 3 - Three Dimensional in the subject of Computer Graphics
+
+- 3-D viewing is the process of displaying 3-D computer graphics on a 2-D or 3-D display device, such as a monitor or a virtual reality headset.
+- 3-D viewing involves two main steps: 3-D modeling and 3-D projection.
+- 3-D modeling is the creation of 3-D models using 3-D modeling software or 3-D scanners. 3-D models are composed of geometric primitives, such as points, lines, triangles, and polygons, that define the shape, surface, and texture of the objects in the scene.
+- 3-D projection is the transformation of 3-D models into 2-D or 3-D images that can be displayed on the screen. 3-D projection involves two sub-steps: viewing transformation and projection transformation.
+- Viewing transformation is the process of defining the position and orientation of the viewer (or camera) and the projection plane (or screen) in the 3-D space. The viewing transformation converts the 3-D models from the world coordinate system to the viewing coordinate system.
+- Projection transformation is the process of mapping the 3-D models from the viewing coordinate system to the projection coordinate system, which is either 2-D or 3-D depending on the display device. The projection transformation can be either parallel or perspective, depending on the type of projection desired.
+- Parallel projection preserves the relative sizes and shapes of the objects in the scene, but does not create the illusion of depth. Parallel projection can be further classified into orthographic, oblique, and axonometric projections.
+- Perspective projection creates the illusion of depth by making the objects appear smaller and closer together as they recede from the viewer. Perspective projection can be further classified into one-point, two-point, and three-point projections.
+- 3-D viewing can be enhanced by using various techniques, such as shading, lighting, texture mapping, anti-aliasing, and depth buffering, to improve the realism and quality of the 3-D images.

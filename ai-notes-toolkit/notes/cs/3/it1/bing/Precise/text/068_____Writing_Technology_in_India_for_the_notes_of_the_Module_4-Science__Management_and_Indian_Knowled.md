@@ -1,0 +1,7 @@
+### Writing Technology in India
+
+- Technical writing in India is a lesser known profession which is fast gaining recognition. Majority of the technical writing job vacancies in India are with the software companies and web development companies.
+- Many phones and computers in India are not specifically designed with Indic script keyboards and instead use the Roman alphabet keyboards common in the West. Transliteration software renders this moot. The increased use of Indic-language scripts has also lead to newer and more artistic fonts for Indian languages.
+- The evolution of writing in India after Brahmi is well understood and needs no recounting. But it may be noted that all the modern scripts of India, for Indo-Aryan as well Dravidian languages, as well as the scripts of Sri Lanka, Tibet, Southeast Asia, including the original scripts of Philippines and Indonesia, are derived from Brahmi.
+- The average salary earned after pursuing technical writing courses ranges from 3-7 LPA in India.
+- GPT-4, the underlying technology of ChatGPT Plus (or ChatGPT 4) is here, and it is promised to be better and more sophisticated than its predecessor, GPT-3/GPT-3.5 language models. This comes months after its creator OpenAI rolled out GPT-3-powered ChatGPT for public testing. The company explains that GPT-4 is a "large multimodal model" that exhibits "human-level performance".

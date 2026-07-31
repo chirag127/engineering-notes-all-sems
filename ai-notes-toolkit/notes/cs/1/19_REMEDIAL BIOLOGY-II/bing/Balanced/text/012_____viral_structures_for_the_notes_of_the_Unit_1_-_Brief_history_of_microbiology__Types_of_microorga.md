@@ -1,0 +1,16 @@
+### Viral Structures
+
+- Viruses are non-living infectious particles that can only replicate inside living cells.
+- Viruses have a simple structure that consists of three main components:
+  - **Nucleic acid**: The genetic material of the virus, either DNA or RNA, that contains the information for protein synthesis and replication . The nucleic acid is found within the inner core of the virus.
+  - **Capsid**: The protein layer or shell that encloses and protects the nucleic acid . The capsid is composed of subunits called capsomeres that can have different shapes and arrangements . The capsid determines the shape and size of the virus.
+  - **Envelope**: A lipid bilayer membrane that surrounds the capsid in some viruses . The envelope is derived from the host cell membrane and contains viral proteins that help the virus attach and enter the host cell .
+- Viruses can be classified into different types based on their nucleic acid, capsid, and envelope characteristics :
+  - **DNA viruses**: Viruses that have DNA as their nucleic acid. They can be single-stranded (ssDNA) or double-stranded (dsDNA), linear or circular, and have icosahedral, helical, or complex capsids. Some examples are adenoviruses, herpesviruses, poxviruses, and papillomaviruses  .
+  - **RNA viruses**: Viruses that have RNA as their nucleic acid. They can be single-stranded (ssRNA) or double-stranded (dsRNA), positive-sense (+) or negative-sense (-), and have icosahedral, helical, or complex capsids. Some examples are coronaviruses, influenza viruses, polioviruses, and retroviruses  .
+  - **Enveloped viruses**: Viruses that have an envelope surrounding their capsid. They can be DNA or RNA viruses, and have icosahedral, helical, or complex capsids. Some examples are HIV, hepatitis B virus, measles virus, and rabies virus  .
+  - **Non-enveloped viruses**: Viruses that do not have an envelope surrounding their capsid. They can be DNA or RNA viruses, and have icosahedral, helical, or complex capsids. Some examples are adenoviruses, polioviruses, rotaviruses, and noroviruses  .
+- Viruses have different sizes and shapes, but they are generally much smaller than bacteria and can only be seen with an electron microscope  . The smallest viruses are about 20 nm in diameter, while the largest viruses are about 500 nm in length . The most common shapes of viruses are icosahedral, helical, and complex :
+  - **Icosahedral viruses**: Viruses that have a capsid with 20 triangular faces and 12 vertices, forming a symmetrical polyhedron. The capsid can be smooth or have spikes or fibers on its surface. The nucleic acid is packed inside the capsid. Some examples are adenoviruses, herpesviruses, and polioviruses .
+  - **Helical viruses**: Viruses that have a capsid with a cylindrical or rod-shaped structure, formed by a single or multiple helices of capsomeres. The nucleic acid is coiled inside the capsid. Some examples are tobacco mosaic virus, rabies virus, and influenza virus .
+  - **Complex viruses**: Viruses that have a capsid with a combination of icosahedral and helical structures, or other additional components such as tails, fibers, or envelopes. The nucleic acid is located in the head or core of the virus. Some examples are bacteriophages, poxviruses, and coronavirus .

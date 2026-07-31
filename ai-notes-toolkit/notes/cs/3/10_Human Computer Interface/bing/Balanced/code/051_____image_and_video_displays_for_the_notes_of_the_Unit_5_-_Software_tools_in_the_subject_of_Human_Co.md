@@ -1,0 +1,12 @@
+### Image and Video Displays for the Notes of the Unit 5 - Software Tools in the Subject of Human Computer Interface
+
+- Image and video displays are types of screenless displays that project images or videos directly onto the user's retina, the environment, or the air.
+- Image and video displays can be used for various human-computer interaction (HCI) applications, such as augmented reality, virtual reality, gaming, entertainment, education, and communication. 
+- Image and video displays can be classified into three categories based on the distance between the user and the display: close view, medium view, and distant view.
+- Close view displays are those that are worn or held close to the user's eyes, such as virtual reality goggles, head-mounted displays, or smart glasses. They provide immersive and personalized experiences for the user, but they may also cause eye fatigue, motion sickness, or social isolation. 
+- Medium view displays are those that are placed at a moderate distance from the user, such as desktop monitors, laptops, tablets, or smartphones. They are the most common and versatile types of displays, but they may also suffer from limited screen size, resolution, or brightness. 
+- Distant view displays are those that are projected onto the environment or the air, such as holograms, projections, or laser displays. They can create large and interactive displays that can be shared by multiple users, but they may also require complex and expensive hardware, software, or calibration. 
+- Image and video processing tools are software tools that enable the capture, analysis, manipulation, synthesis, and presentation of images or videos for HCI purposes. 
+- Image and video processing tools can be used for various tasks, such as face detection, gesture recognition, object tracking, scene understanding, image enhancement, video compression, video editing, or video summarization. 
+- Image and video processing tools can be implemented using various programming languages, libraries, frameworks, or platforms, such as C, C++, Java, Python, OpenCV, TensorFlow, MATLAB, or Unity.  
+- Image and video processing tools can be evaluated using various metrics, such as accuracy, speed, robustness, usability, or user satisfaction.

@@ -1,0 +1,24 @@
+### Complex Event Processing
+
+Complex event processing (CEP) is a technology for aggregating, processing, and analyzing massive streams of data in order to gain real-time insights from events as they occur . CEP can be used to identify meaningful events (such as opportunities or threats) in real-time situations and respond to them as quickly as possible . These events may be happening across the various layers of an organization as sales leads, orders, customer service calls, etc.
+
+Some of the key concepts and features of CEP are:
+
+- **Event**: An event is anything that happens or is observed, such as a click, a purchase, a sensor reading, a tweet, etc. Events have attributes that describe their properties, such as time, location, type, value, etc.
+- **Event stream**: An event stream is a continuous and unbounded sequence of events that are produced by one or more sources, such as web servers, sensors, applications, etc. Event streams can be processed in real time or near real time, without storing them in a database or a data warehouse.
+- **Event pattern**: An event pattern is a specification of a combination of events that are of interest, such as a sequence, a correlation, a causality, a threshold, a trend, etc. Event patterns can be expressed using a query language, a rule engine, or a graphical interface.
+- **Event processing engine**: An event processing engine is a software component that executes event patterns against event streams and produces complex events as outputs. A complex event is an event that is derived from one or more events that match an event pattern, such as an alert, a notification, a recommendation, a decision, etc.
+- **Event processing network**: An event processing network is a distributed system of event sources, event processing engines, and event sinks that communicate via event streams. An event sink is a component that consumes complex events and performs actions based on them, such as updating a dashboard, sending an email, triggering a workflow, etc.
+
+Some of the benefits and applications of CEP are:
+
+- **Real-time analytics**: CEP enables real-time analytics by processing and analyzing event streams as they arrive, without the need for batch processing or data warehousing. CEP can provide real-time insights into the current state and behavior of the system, the environment, and the users, and enable faster and better decision making.
+- **Operational intelligence**: CEP enables operational intelligence by monitoring and detecting events that indicate opportunities or threats, such as anomalies, frauds, errors, exceptions, risks, etc. CEP can provide timely and relevant alerts and notifications to the stakeholders, and trigger appropriate actions or responses to optimize the performance and outcomes of the operations.
+- **Business process management**: CEP enables business process management by orchestrating and coordinating events that are involved in the execution of business processes, such as workflows, transactions, orders, deliveries, etc. CEP can provide visibility and control over the status and progress of the business processes, and enable dynamic and adaptive process optimization and improvement.
+- **Customer experience management**: CEP enables customer experience management by personalizing and enhancing the interactions and engagements with the customers, such as recommendations, offers, promotions, feedback, etc. CEP can provide a holistic and real-time view of the customer journey and behavior, and enable customized and contextualized customer service and satisfaction.
+
+Some of the challenges and limitations of CEP are:
+
+- **Complexity**: CEP involves dealing with complex and heterogeneous event streams that may have high volume, velocity, variety, and variability. CEP requires designing and implementing event patterns that can capture the semantics and logic of the events, and handle the uncertainty and ambiguity of the event data. CEP also requires managing and scaling the event processing network that can handle the load and latency of the event streams.
+- **Quality**: CEP depends on the quality and reliability of the event sources, the event processing engines, and the event sinks. CEP may face issues such as missing, delayed, duplicated, or erroneous events, or inaccurate or incomplete event patterns, or faulty or inconsistent event processing engines or event sinks. CEP may also face security and privacy issues such as unauthorized access, modification, or disclosure of the event data.
+- **Value**: CEP aims to provide value by delivering real-time insights and actions based on the event streams. However, CEP may not always achieve the desired value or impact, due to factors such as irrelevance, redundancy, or obsolescence of the event data, or ineffectiveness or inefficiency of the event processing engines or event sinks, or lack

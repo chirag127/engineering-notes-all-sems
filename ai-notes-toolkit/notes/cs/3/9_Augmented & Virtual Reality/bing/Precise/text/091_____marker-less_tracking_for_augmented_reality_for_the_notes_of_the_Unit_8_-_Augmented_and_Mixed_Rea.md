@@ -1,0 +1,7 @@
+### Marker-less Tracking for Augmented Reality
+
+- Marker-less tracking for augmented reality is a method that allows developers to map environments and display augmented reality content without the need for target images or objects (markers).
+- One of the most versatile cross-platform 3D-tracking systems available for mobile is Wikitude’s SLAM markerless augmented reality tracking.
+- Marker-less tracking can be adopted as a classification task in an augmented reality application. The ORB algorithm can be used for feature detection and the FREAK algorithm for feature description. Classifiers such as KNN, Random Forest, Extremely Randomized Trees, SVM, and Bayes classifier can be used for the tracking task .
+- Visual markerless pose trackers mainly rely on natural feature points (often also called interest points or key points) visible in the user’s environment. To allow for an accurate pose determination, such natural feature points must meet several requirements, including fast computational time.
+- Marker-less augmented reality works by scanning the surrounding environment and there is no trigger photo necessary to retrieve the augmented reality content. Apps that offer such features usually will ask the user to find a flat surface such as a table or floor for placing the AR elements.

@@ -1,0 +1,50 @@
+### Circle generating algorithms for the notes of the Unit 1 - Introduction and Line Generation in the subject of Computer Graphics
+
+- A circle is one of the fundamental shapes used in computer graphics and it is generated through a circle generation algorithm.
+- A circle generation algorithm is an algorithm used to create a circle on a computer screen by determining the subsequent points required to draw the circle .
+- There are several algorithms used for generating circles on a computer screen, such as:
+  - Bresenham's Algorithm
+  - Midpoint Circle Algorithm
+  - Trigonometric Method
+  - Polar Coordinates Method
+- Bresenham's Algorithm :
+  - It is an efficient algorithm that uses only integer arithmetic to generate a circle.
+  - It is based on the idea of incrementally updating the decision parameter that determines whether to choose the next pixel along the circle or the diagonal.
+  - It starts from the topmost point of the circle and moves clockwise in the first octant, then uses symmetry to plot the other points in the other octants.
+  - The algorithm is as follows:
+    - Input the radius r and the center (xc, yc) of the circle.
+    - Initialize the decision parameter as p0 = 3 - 2r.
+    - Set x = 0 and y = r.
+    - Plot the initial point (xc + x, yc + y) and its symmetric points in the other octants.
+    - Repeat until x < y:
+      - If p < 0, then set p = p + 4x + 6 and x = x + 1.
+      - Else, set p = p + 4(x - y) + 10, x = x + 1 and y = y - 1.
+      - Plot the point (xc + x, yc + y) and its symmetric points in the other octants.
+- Midpoint Circle Algorithm :
+  - It is another efficient algorithm that uses only integer arithmetic to generate a circle.
+  - It is based on the idea of testing the midpoint of the line joining the two candidate pixels on either side of the circle and choosing the pixel that is closer to the circle.
+  - It also starts from the topmost point of the circle and moves clockwise in the first octant, then uses symmetry to plot the other points in the other octants.
+  - The algorithm is as follows:
+    - Input the radius r and the center (xc, yc) of the circle.
+    - Initialize the decision parameter as p0 = 1 - r.
+    - Set x = 0 and y = r.
+    - Plot the initial point (xc + x, yc + y) and its symmetric points in the other octants.
+    - Repeat until x < y:
+      - If p < 0, then set p = p + 2x + 3 and x = x + 1.
+      - Else, set p = p + 2(x - y) + 5, x = x + 1 and y = y - 1.
+      - Plot the point (xc + x, yc + y) and its symmetric points in the other octants.
+- Trigonometric Method:
+  - It is a simple but inefficient algorithm that uses trigonometric functions to generate a circle.
+  - It is based on the idea of using the parametric equation of a circle, x = r cos θ and y = r sin θ, where θ is the angle from the positive x-axis.
+  - It requires a large number of calculations and rounding operations to plot the points on the circle.
+  - The algorithm is as follows:
+    - Input the radius r and the center (xc, yc) of the circle.
+    - Set θ = 0 and increment = 2π / N, where N is the number of points to be plotted on the circle.
+    - Repeat N times:
+      - Set x = r cos θ and y = r sin θ.
+      - Round x and y to the nearest integers.
+      - Plot the point (xc + x, yc + y) and its symmetric points in the other octants.
+      - Set θ = θ + increment.
+- Polar Coordinates Method:
+  - It is a variation of the trigonometric method that uses polar coordinates to generate a circle.
+  - It is based on the idea of using the polar equation of a circle, r = R cos

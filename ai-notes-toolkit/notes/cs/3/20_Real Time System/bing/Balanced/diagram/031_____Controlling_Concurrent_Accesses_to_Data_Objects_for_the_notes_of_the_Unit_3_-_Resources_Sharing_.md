@@ -1,0 +1,15 @@
+### Controlling Concurrent Accesses to Data Objects
+
+- Data objects are a special type of shared resources that can be accessed by multiple jobs in a real-time system.
+- When jobs are scheduled preemptively, their accesses to data objects may be interleaved, resulting in data inconsistency or deadlock.
+- To prevent these problems, concurrency control algorithms are used to coordinate the accesses to data objects and ensure data consistency and timing constraints.
+- Concurrency control algorithms can be classified into two categories: pessimistic and optimistic.
+  - Pessimistic algorithms prevent conflicts from occurring by locking data objects before accessing them. They require a priori knowledge of the data access patterns of the jobs and may cause blocking or priority inversion.
+  - Optimistic algorithms allow conflicts to occur and then resolve them by aborting or restarting some jobs. They do not require a priori knowledge of the data access patterns of the jobs and may cause wasted computation or missed deadlines.
+- Some examples of pessimistic algorithms are:
+  - Priority inheritance protocol (PIP): When a job is blocked by a lower-priority job that holds a lock on a data object, the lower-priority job inherits the priority of the blocked job until it releases the lock. This reduces the blocking time and preserves the priority order of the jobs.
+  - Priority ceiling protocol (PCP): Each data object is assigned a priority ceiling, which is the highest priority of any job that may access it. A job can lock a data object only if its priority is higher than the current priority ceiling of the system, which is the maximum of the priority ceilings of all locked data objects. This prevents deadlock and reduces the blocking time and the number of context switches.
+  - Convex ceiling protocol (CCP): Each data object is assigned a convex ceiling, which is a set of priority levels that may access it. A job can lock a data object only if its priority belongs to the convex ceiling of the data object and is higher than the current convex ceiling of the system, which is the union of the convex ceilings of all locked data objects. This allows more concurrency and flexibility than PCP and prevents deadlock and priority inversion.
+- Some examples of optimistic algorithms are:
+  - Wait-free algorithm: Each job accesses a private copy of the data object and updates it atomically at the end of its execution. If the update conflicts with another job's update, the job with the lower priority is aborted and restarted. This ensures that each job can complete its execution without waiting for other jobs, but may cause high abort rate and memory overhead.
+  - Timestamp ordering algorithm: Each job is assigned a timestamp based on its priority and deadline. A job can access a data object only if its timestamp is smaller than the timestamp of the last job that accessed the data object. If the access is denied, the job is aborted and restarted. This ensures that the data object is always updated by the job with the smallest timestamp, but may cause high abort rate and synchronization overhead.

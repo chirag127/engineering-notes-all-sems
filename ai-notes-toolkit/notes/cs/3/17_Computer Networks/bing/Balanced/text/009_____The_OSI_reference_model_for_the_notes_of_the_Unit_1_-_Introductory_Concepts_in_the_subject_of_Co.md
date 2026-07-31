@@ -1,0 +1,14 @@
+### The OSI reference model
+
+- The OSI reference model stands for Open System Interconnection and is a conceptual framework that describes how information from a software application in one computer moves through a physical medium to the software application in another computer.
+- The OSI reference model was a major advance in the standardisation of network concepts and promoted the idea of a consistent model of protocol layers, defining interoperability between network devices and software.
+- The OSI reference model consists of seven layers, and each layer performs a particular network function. The layers are:
+  - Layer 1: Physical. This layer defines the electrical and physical specifications of the data transmission medium, such as cables, connectors, voltages, frequencies, etc. It also deals with the transmission and reception of raw data bits over the medium.
+  - Layer 2: Data Link. This layer provides reliable and error-free data transfer between two devices on the same network. It also handles the framing, addressing, flow control, and error detection and correction of data packets. It can be divided into two sublayers: Logical Link Control (LLC) and Media Access Control (MAC).
+  - Layer 3: Network. This layer provides the logical addressing and routing of data packets across different networks. It also handles the fragmentation, reassembly, congestion control, and quality of service of data packets. It uses protocols such as IP, ICMP, ARP, etc.
+  - Layer 4: Transport. This layer provides end-to-end data delivery between two applications on different computers. It also handles the segmentation, reassembly, sequencing, acknowledgement, and error recovery of data segments. It can provide either reliable (TCP) or unreliable (UDP) data transfer services.
+  - Layer 5: Session. This layer establishes, maintains, and terminates the communication sessions between two applications. It also handles the synchronization, authentication, and authorization of data exchange. It uses protocols such as RPC, NFS, SQL, etc.
+  - Layer 6: Presentation. This layer provides the data representation and encryption services for the application layer. It also handles the compression, decompression, translation, and formatting of data. It uses protocols such as SSL, TLS, JPEG, GIF, etc.
+  - Layer 7: Application. This layer provides the user interface and application-specific services for the network communication. It also handles the high-level protocols, such as HTTP, FTP, SMTP, DNS, etc.
+
+- The OSI reference model is a theoretical model that does not correspond to the actual implementation of network protocols in practice. However, it is still useful for understanding the general functions and interactions of network layers.

@@ -1,0 +1,17 @@
+#### Signal transmission and encoding in Computer Networks
+
+- Signal transmission is the process of sending data from one point to another using electromagnetic waves or electrical signals.
+- Encoding is the process of converting data into a specific format that can be transmitted and recognized by the receiver.
+- There are two types of signals: analog and digital.
+  - Analog signals are continuous waves that vary in amplitude and frequency. They can represent any value within a range. Examples of analog signals are sound waves, light waves, and radio waves.
+  - Digital signals are discrete pulses that have only two values: 0 or 1. They can represent binary data or information. Examples of digital signals are Morse code, binary code, and digital audio.
+- There are two types of encoding: analog encoding and digital encoding.
+  - Analog encoding is the process of modulating an analog signal with another analog signal to transmit data. There are three types of analog encoding: amplitude modulation (AM), frequency modulation (FM), and phase modulation (PM).
+    - AM is the process of varying the amplitude of a carrier signal according to the data signal. The frequency and phase of the carrier signal remain constant. AM is used for radio broadcasting, television, and telephone.
+    - FM is the process of varying the frequency of a carrier signal according to the data signal. The amplitude and phase of the carrier signal remain constant. FM is used for radio broadcasting, television, and wireless communication.
+    - PM is the process of varying the phase of a carrier signal according to the data signal. The amplitude and frequency of the carrier signal remain constant. PM is used for satellite communication, radar, and digital audio.
+  - Digital encoding is the process of converting digital data into a digital signal that can be transmitted over a medium. There are four types of digital encoding: unipolar, polar, bipolar, and multilevel.
+    - Unipolar encoding is the process of using only one voltage level to represent binary data. A high voltage represents 1 and a low voltage represents 0. Unipolar encoding is simple and cheap, but it has low bandwidth and high DC component. Unipolar encoding is used for short-distance communication and optical fiber.
+    - Polar encoding is the process of using two voltage levels to represent binary data. A positive voltage represents 1 and a negative voltage represents 0. Polar encoding has higher bandwidth and lower DC component than unipolar encoding, but it has synchronization and baseline wandering issues. Polar encoding is used for long-distance communication and coaxial cable.
+    - Bipolar encoding is the process of using three voltage levels to represent binary data. A positive voltage represents 1, a negative voltage represents 0, and a zero voltage represents no change. Bipolar encoding has higher bandwidth and no DC component than polar encoding, but it has more complexity and requires more voltage levels. Bipolar encoding is used for digital telephony and twisted pair cable.
+    - Multilevel encoding is the process of using more than three voltage levels to represent binary data. Each voltage level represents a combination of bits. Multilevel encoding has higher bandwidth and lower noise than bipolar encoding, but it has more complexity and requires more voltage levels. Multilevel encoding is used for high-speed communication and optical fiber.

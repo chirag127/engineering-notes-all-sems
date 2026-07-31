@@ -1,0 +1,12 @@
+## LIST OF EXPERIMENTS
+
+- An experiment is a procedure that tests a hypothesis or a question by collecting and analyzing data under controlled conditions.
+- Experiments can be classified into different types based on their purpose, design, and outcome.
+- Some of the common types of experiments are:
+
+  - **Observational experiment**: An experiment that involves observing and measuring the behavior or characteristics of a subject or a phenomenon without manipulating any variables. For example, observing the movement of planets in the solar system, or measuring the blood pressure of patients in a hospital.
+  - **Natural experiment**: An experiment that exploits a natural occurrence or a historical event as a quasi-experimental treatment. For example, comparing the economic outcomes of countries that were colonized by different European powers, or studying the health effects of a volcanic eruption on nearby residents.
+  - **Randomized controlled experiment**: An experiment that randomly assigns subjects to either a treatment group or a control group, and then compares the outcomes of the two groups. For example, testing the effectiveness of a new drug or a new teaching method by giving it to some subjects and not to others, and then measuring the difference in their performance or health.
+  - **Factorial experiment**: An experiment that manipulates two or more independent variables (factors) and measures their effects on one or more dependent variables (outcomes). For example, testing the effects of different combinations of temperature and humidity on plant growth, or the effects of different levels of noise and lighting on worker productivity.
+  - **Before-after experiment**: An experiment that measures the outcome of a subject or a group before and after applying a treatment or an intervention. For example, measuring the weight of a person before and after a diet program, or the academic achievement of a class before and after a curriculum change.
+  - **Cross-over experiment**: An experiment that applies two or more treatments to the same subject or group in a different order, and then compares the outcomes of each treatment. For example, measuring the blood sugar levels of diabetic patients after giving them different types of insulin, or the preferences of consumers after showing them different types of advertisements.

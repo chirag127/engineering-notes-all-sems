@@ -1,0 +1,16 @@
+# Database testing for the notes of the Unit 7 - Testing Web Applications in the subject of Software Testing
+
+- Database testing is a type of software testing that checks the schema, tables, triggers, etc. of the database under test.
+- Database testing also checks data integrity and consistency, which means that the data stored in the database is accurate, complete, and reliable.
+- Database testing is important for web applications because it protects the web app from vulnerabilities like data loss, saves aborted transaction data, and prevents unauthorized access to information.
+- Database testing involves creating complex queries to load/stress test the database and check its responsiveness, as well as reporting errors found while executing queries and maintaining data integrity while managing data in the database .
+- Database testing can be done using various tools, such as MS-Access, MS SQL Server, SQL Server, Oracle, Oracle Financial, MySQL, PostgreSQL, DB2, Toad, Admirer, etc. These tools vary in cost, robustness, features, and security.
+- Database testing can be divided into four categories: structural testing, functional testing, non-functional testing, and security testing.
+  - Structural testing checks the structure of the database, such as schema, tables, columns, indexes, views, etc. It verifies that the database design follows the standards and meets the requirements.
+  - Functional testing checks the functionality of the database, such as stored procedures, triggers, functions, etc. It verifies that the database operations perform as expected and produce correct results.
+  - Non-functional testing checks the performance, reliability, scalability, availability, etc. of the database. It verifies that the database can handle the expected load, respond quickly, recover from failures, and support concurrent users.
+  - Security testing checks the security aspects of the database, such as authentication, authorization, encryption, auditing, etc. It verifies that the database is protected from unauthorized access, modification, or deletion of data.
+- Database testing can be done using various techniques, such as black-box testing, white-box testing, gray-box testing, etc. These techniques differ in the level of access and knowledge of the database structure and functionality.
+  - Black-box testing does not require any knowledge of the database structure or functionality. It tests the database from the user's perspective, using inputs and outputs. It is suitable for functional testing.
+  - White-box testing requires knowledge of the database structure and functionality. It tests the database from the developer's perspective, using internal details and logic. It is suitable for structural testing.
+  - Gray-box testing requires some knowledge of the database structure and functionality. It tests the database from both the user's and the developer's perspective, using a combination of inputs, outputs, and internal details. It is suitable for non-functional and security testing.

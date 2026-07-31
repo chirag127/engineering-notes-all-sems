@@ -1,0 +1,11 @@
+#### TCP/IP protocol suite in in Computer Networks
+
+- TCP/IP stands for Transmission Control Protocol/Internet Protocol and is a suite of communication protocols used to interconnect network devices on the internet or other computer networks  .
+- TCP/IP is also known as the internet protocol suite, as it defines the basic rules and methods for data transmission and addressing over the internet .
+- TCP/IP is based on a four-layer model, which consists of the following layers  :
+  - Application layer: This layer provides the interface and services for user applications, such as web browsers, email clients, file transfer programs, etc. Some of the protocols in this layer are HTTP, SMTP, FTP, DNS, etc.
+  - Transport layer: This layer provides reliable and efficient data delivery between the source and destination hosts, using protocols such as TCP and UDP. TCP ensures reliability, flow control, congestion control, and error detection and correction, while UDP provides fast and simple data transfer without reliability guarantees.
+  - Internet layer: This layer provides the logical addressing and routing of data packets across different networks, using protocols such as IP, ICMP, ARP, etc. IP assigns a unique address to each host and device on the internet, and routes the packets based on the destination address. ICMP provides error and control messages, while ARP resolves the physical address of a host from its IP address.
+  - Network access layer: This layer provides the physical connection and transmission of data between the hosts and the network devices, such as routers, switches, hubs, etc. This layer uses protocols such as Ethernet, Wi-Fi, PPP, etc. to encode and decode the data into electrical signals or radio waves, and to access the shared medium.
+
+- TCP/IP is the most widely used protocol suite in the world, as it enables the interoperability and scalability of the internet and other computer networks   . It is also flexible and adaptable, as it can support different types of networks, applications, and devices. TCP/IP is constantly evolving and improving, as new protocols and standards are developed and implemented.

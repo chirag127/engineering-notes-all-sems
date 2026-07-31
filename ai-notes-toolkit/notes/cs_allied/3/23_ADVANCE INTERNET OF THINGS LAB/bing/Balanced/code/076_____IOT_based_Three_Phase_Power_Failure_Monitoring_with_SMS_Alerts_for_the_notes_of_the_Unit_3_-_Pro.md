@@ -1,0 +1,21 @@
+### IOT based Three Phase Power Failure Monitoring with SMS Alerts
+
+- This is a system that monitors the status of a three-phase power supply and alerts the authorized person via SMS in case of a phase loss or failure   .
+- A phase loss occurs when one of the three phases of a three-phase system gets lost or disconnected. This is also called a single phasing. This failure can be caused by a blown fuse, thermal overload, broken wire, worn contact or mechanical failure  .
+- A phase loss can damage the equipment and appliances connected to the three-phase system, as they may experience unbalanced voltages, overheating, reduced efficiency, or malfunction .
+- The system consists of the following components:
+  - A microcontroller that controls the logic and communication of the system .
+  - A GSM module that sends and receives SMS messages to and from the authorized person   .
+  - A LCD display that shows the status and voltage of each phase   .
+  - A voltage sensor that measures the voltage of each phase and sends it to the microcontroller .
+  - A relay that switches on or off the power supply to the load .
+  - A buzzer that sounds an alarm in case of a phase loss .
+- The system works as follows:
+  - The system is connected to the three-phase power supply and the load .
+  - The system monitors the voltage of each phase and displays it on the LCD   .
+  - The system compares the voltage of each phase with a predefined threshold and detects if there is a phase loss .
+  - If there is a phase loss, the system sends an SMS to the authorized person with the details of the failure   .
+  - The system also sounds an alarm and switches off the power supply to the load to prevent damage .
+  - The system waits for a confirmation SMS from the authorized person to resume the power supply to the load   .
+- The system can be configured by sending SMS commands to the GSM module. The commands can be used to set the threshold voltage, the phone number of the authorized person, and the status of the system   .
+- The system can be used to monitor and protect the three-phase power supply in various applications, such as industrial, commercial, agricultural, and residential settings .

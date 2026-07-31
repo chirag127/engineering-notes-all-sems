@@ -1,0 +1,10 @@
+ Here is the content in Markdown format without any emojis or external links:
+
+### Process Management for the notes of the Unit 1 - EMBEDDED OS INTERNALS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Process: A process is a program in execution. It includes the program code, data, stack, and state of the processor. The operating system manages these resources to facilitate orderly execution of processes.
+- Single Process Systems: Simple embedded systems execute only one process at a time. After system startup, a single process executes until the system is shut down.
+- Multiple Process Systems: More complex embedded systems execute multiple processes simultaneously. The operating system manages the resources among the processes with the goals of fairness, efficiency, and meeting application requirements. Multiple processes may need to share data, devices, and other resources. The operating system is responsible for coordinating access to shared resources to avoid errors and ensure correct operations.
+- Process States: A process progresses through various states during its lifetime. The key states are new, ready, running, waiting, and terminated. The process state is maintained by the operating system and determines the appropriate operating system actions.
+- Process Control Block (PCB): The process control block contains all the information about a process that the operating system needs to manage the process. It includes the process state, program counter, stack pointer, registers, priority, memory limits, accounting information, and other data. The PCB is maintained by the operating system and is used to control the execution of the process.
+- Process Scheduling: The operating system allocates CPU resources to processes. The CPU scheduler selects processes from the ready queue and allocates the CPU to a process for execution. The scheduler ensures that all processes make progress over time and meets the system goals for response time, throughput, and fairness. Preemptive and non-preemptive scheduling are common scheduling approaches for embedded systems.

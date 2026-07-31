@@ -1,0 +1,7 @@
+### 1. To enable the students to understand about the fundamental concepts of analytical instruments
+
+- Analytical instruments are devices that are used to measure, analyze, or monitor physical, chemical, or biological properties of samples.
+- Analytical instruments can be classified into different categories based on their principles, applications, or techniques, such as spectroscopy, chromatography, mass spectrometry, electrochemistry, microscopy, etc.
+- Analytical instruments can be used for various purposes, such as quality control, research and development, environmental monitoring, forensic analysis, clinical diagnosis, etc.
+- Analytical instruments consist of three main components: a source, a detector, and a signal processor. The source provides the energy or stimulus that interacts with the sample, the detector measures the response or output of the sample, and the signal processor converts the raw data into meaningful information.
+- Analytical instruments can be characterized by their sensitivity, selectivity, accuracy, precision, resolution, range, speed, and cost. These parameters depend on the design, performance, and calibration of the instruments, as well as the sample preparation, handling, and analysis methods.

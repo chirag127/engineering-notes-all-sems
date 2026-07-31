@@ -1,0 +1,13 @@
+### Discrete Logarithmic Problem
+
+- The discrete logarithm problem is defined as: given a group G, a generator g of the group and an element h of G, to find the discrete logarithm to the base g of h in the group G.
+- The discrete logarithm problem is not always hard. The hardness of finding discrete logarithms depends on the groups.
+- Discrete logarithms are perhaps simplest to understand in the group Zp*, where p is the prime number. Let g be the generator of Zp*, then the discrete logarithm problem reduces to computing a, given (g, p, ga mod p) for a randomly chosen a < (p −1).
+- The discrete logarithm problem is considered to be computationally intractable. That is, no efficient classical algorithm is known for computing discrete logarithms in general.
+- A general algorithm for computing log b a in finite groups G is to raise b to larger and larger powers k until the desired a is found. This is called the **brute-force** or **exhaustive search** algorithm. It has a time complexity of O(|G|) and a space complexity of O(1).
+- There are some algorithms that can solve the discrete logarithm problem faster than the brute-force algorithm, but they are still exponential in the size of the input. Some of these algorithms are:
+  - **Shanks' baby-step giant-step algorithm**: It has a time complexity of O(√|G|) and a space complexity of O(√|G|).
+  - **Pollard's rho algorithm**: It has a time complexity of O(√|G|) and a space complexity of O(1). It is a probabilistic algorithm that uses a pseudo-random function to generate a sequence of elements in G and detects a cycle in the sequence.
+  - **Pohlig-Hellman algorithm**: It has a time complexity of O(√p) and a space complexity of O(log p), where p is the largest prime factor of |G|. It is a divide-and-conquer algorithm that reduces the discrete logarithm problem in G to several discrete logarithm problems in smaller subgroups of G.
+  - **Index calculus algorithm**: It has a subexponential time complexity of Lp[1/2, c] for some constant c, where Lp[α, c] = exp((c + o(1))(log p)α(log log p)1−α). It is the fastest known algorithm for solving the discrete logarithm problem in the multiplicative group of a finite field. It is based on the idea of finding a factor base of small elements in the group and expressing other elements as products of the factor base elements.
+- The discrete logarithm problem is the basis of many cryptographic schemes, such as the Diffie-Hellman key exchange, the ElGamal encryption and signature schemes, and the Digital Signature Algorithm (DSA). These schemes rely on the assumption that the discrete logarithm problem is hard to solve in certain groups, such as the multiplicative group of a large prime field or an elliptic curve group.

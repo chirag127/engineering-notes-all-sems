@@ -1,0 +1,21 @@
+### Methods & Classes for the notes of the Unit 1 - Introduction in the subject of Web Technology
+
+- A method is a set of instructions that performs a specific task or operation on some data or objects.
+- A class is a blueprint or template that defines the attributes and behaviors of a type of object.
+- Methods and classes are fundamental concepts in object-oriented programming (OOP), which is a paradigm that organizes data and logic into reusable and modular units.
+- Some of the benefits of using methods and classes are:
+  - Code reuse: Methods and classes can be defined once and used multiple times in different contexts and programs, reducing duplication and errors.
+  - Abstraction: Methods and classes hide the implementation details and expose only the essential features and functionality, making the code easier to understand and maintain.
+  - Encapsulation: Methods and classes bundle the data and the operations that manipulate them together, protecting them from unauthorized access and modification.
+  - Polymorphism: Methods and classes can have different forms or behaviors depending on the context and the input, allowing for flexibility and adaptability.
+  - Inheritance: Methods and classes can inherit the attributes and behaviors of other methods and classes, creating a hierarchy of related types and enhancing code reuse and consistency.
+- Some of the common elements of methods and classes are:
+  - Name: Methods and classes have unique identifiers that are used to refer to them in the code.
+  - Parameters: Methods can have zero or more parameters that are the input values or arguments that are passed to them when they are invoked or called.
+  - Return value: Methods can have a return value that is the output or result of the method execution, which can be used by other parts of the code.
+  - Body: Methods and classes have a body that contains the statements or expressions that define their logic and functionality.
+  - Modifiers: Methods and classes can have modifiers that specify their visibility, accessibility, or other characteristics, such as public, private, static, abstract, etc.
+  - Constructors: Classes can have special methods called constructors that are used to create and initialize new instances or objects of the class.
+  - Fields: Classes can have fields that are the variables or data members that store the state or information of the class or its objects.
+  - Methods: Classes can have methods that are the functions or operations that perform some actions or tasks on the class or its objects.
+  - Nested classes: Classes can have other classes defined within them, which are called nested classes or inner classes, that have a special relationship with the outer class.

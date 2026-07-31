@@ -1,0 +1,11 @@
+# Soft and Hard Real-Time Communication Systems
+
+- Real-time communication systems are systems that exchange information between two or more entities within a specified time bound.
+- Real-time communication systems are generally understood as one of two types: **Hard Real-Time (HRT)** and **Soft Real-Time (SRT)**.
+- The difference between a hard and soft real-time communication system is the consequences of incorrect operation.
+- A hard real-time communication system is one that must meet its deadlines, otherwise it may cause catastrophic damage or loss of life  . For example, a nuclear reactor control system, a flight control system, or a pacemaker system are hard real-time communication systems .
+- A soft real-time communication system is one that can tolerate some deadline misses, without causing severe harm or degradation of service  . For example, a video conferencing system, a multimedia streaming system, or a web server are soft real-time communication systems .
+- Hard real-time communication systems are deterministic in nature, while soft real-time communication systems are probabilistic. This means that hard real-time communication systems can guarantee the worst-case execution time and response time, while soft real-time communication systems can only provide statistical guarantees.
+- Hard real-time communication systems require strict scheduling algorithms, priority assignment, and resource management to ensure that all tasks meet their deadlines . Soft real-time communication systems can use more flexible and adaptive scheduling algorithms, such as earliest deadline first, rate monotonic, or feedback control .
+- Hard real-time communication systems are often designed with safety and reliability as the primary objectives, while soft real-time communication systems are often designed with performance and quality of service as the primary objectives .
+- Hard real-time communication systems are usually more expensive and complex to develop and maintain, while soft real-time communication systems are usually more cost-effective and scalable .

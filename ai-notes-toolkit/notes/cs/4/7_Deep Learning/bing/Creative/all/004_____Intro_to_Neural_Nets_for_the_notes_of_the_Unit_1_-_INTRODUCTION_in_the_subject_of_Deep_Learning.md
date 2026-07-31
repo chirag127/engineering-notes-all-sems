@@ -1,0 +1,10 @@
+# Intro to Neural Nets
+
+Neural networks are computational models that are inspired by the structure and function of biological neurons. They are composed of artificial neurons that can process and transmit information. Neural networks can learn from data and perform tasks such as classification, regression, clustering, and generation.
+
+Some key points to remember about neural networks are:
+
+- Neural networks are made up of layers of artificial neurons. Each neuron has a set of weights and a bias that determine how it responds to the inputs it receives from the previous layer. The output of a neuron is usually a nonlinear function of its weighted sum of inputs plus its bias. This function is called the activation function.
+- The first layer of a neural network is called the input layer. It receives the raw data and passes it to the next layer. The last layer of a neural network is called the output layer. It produces the final predictions or outputs of the network. The layers between the input and output layers are called hidden layers. They perform intermediate computations and transformations of the data.
+- The learning process of a neural network involves adjusting the weights and biases of the neurons based on the feedback from the data. This feedback is usually given by a loss function that measures the difference between the network's outputs and the desired targets. The goal is to minimize the loss function by using an optimization algorithm such as gradient descent.
+- Neural networks can have different architectures and configurations depending on the task and the data. Some common types of neural networks are feedforward neural networks, recurrent neural networks, convolutional neural networks, and generative adversarial networks. Each type has its own advantages and disadvantages and is suitable for different applications.

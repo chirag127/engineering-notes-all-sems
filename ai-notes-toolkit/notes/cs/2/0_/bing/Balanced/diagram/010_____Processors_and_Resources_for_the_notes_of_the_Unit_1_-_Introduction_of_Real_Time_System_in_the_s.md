@@ -1,0 +1,28 @@
+### Processors and Resources
+
+- Processors and resources are two major types of system components that are involved in the execution of real-time tasks.
+- Processors are also called servers or active resources. They are essential for the execution of a job. A job must have one or more processors in order to execute and proceed towards completion. Example: computer, transmission link, disk, database server.
+- Resources are also called passive resources. A job may or may not require a resource during its execution. A resource is typically shared by multiple jobs and can be accessed by only one job at a time. A job may need to request, use, and release a resource in a proper manner. Example: printer, file, semaphore, lock.
+- Processors and resources can be classified into two categories: preemptable and non-preemptable.
+- Preemptable processors or resources can be interrupted and resumed by another job without affecting their functionality or performance. Example: CPU, memory, cache.
+- Non-preemptable processors or resources cannot be interrupted and resumed by another job without affecting their functionality or performance. Example: disk, network, printer.
+- Processors and resources can also be classified into two categories: dedicated and shared.
+- Dedicated processors or resources are assigned to a single job or task and cannot be used by any other job or task. Example: private memory, private cache, dedicated CPU core.
+- Shared processors or resources are accessible by multiple jobs or tasks and can be used by one job or task at a time. Example: public memory, public cache, shared CPU core.
+- Processors and resources can affect the timing and performance of real-time tasks. Therefore, they need to be managed and scheduled properly by a real-time operating system (RTOS) .
+- A RTOS is an operating system that serves real-time applications that process data without any buffering delay. It has strict timing constraints and guarantees predictable and deterministic behavior .
+- A RTOS typically consists of the following components :
+  - Kernel: The core component that provides basic services such as task management, interrupt handling, memory management, inter-task communication, and synchronization.
+  - Scheduler: The component that decides which task to execute next based on the priority, deadline, and resource availability of the tasks.
+  - Device drivers: The component that interfaces with the hardware devices and provides access to the processors and resources.
+  - Middleware: The component that provides additional services and functionalities such as networking, file system, database, graphical user interface, etc.
+  - Application: The component that implements the specific logic and functionality of the real-time system.
+- A RTOS can be classified into two types: hard real-time and soft real-time .
+- Hard real-time systems are systems that must meet all the deadlines and cannot tolerate any delay or error. Missing a deadline can result in catastrophic consequences. Example: air traffic control, nuclear reactor control, medical devices .
+- Soft real-time systems are systems that can tolerate some delay or error, but still aim to meet the deadlines as much as possible. Missing a deadline can result in degraded performance or quality of service. Example: video streaming, online gaming, voice over IP .
+- A RTOS can also be classified into two types: event-driven and time-driven .
+- Event-driven systems are systems that respond to external or internal events and execute the corresponding tasks. The events can be periodic or aperiodic, and the tasks can have different priorities and deadlines. Example: interrupt handling, sensor data processing, user input processing .
+- Time-driven systems are systems that execute the tasks according to a predefined schedule or timetable. The tasks are usually periodic and have the same priority and deadline. Example: cyclic executive, time-triggered architecture, clock synchronization .
+- A RTOS can also be classified into two types: centralized and distributed .
+- Centralized systems are systems that have a single processor or resource that controls and coordinates all the tasks and activities. The processor or resource can be a single point of failure and a bottleneck for the system performance. Example: single-board computer, microcontroller, embedded system .
+- Distributed systems are systems that have multiple processors or resources

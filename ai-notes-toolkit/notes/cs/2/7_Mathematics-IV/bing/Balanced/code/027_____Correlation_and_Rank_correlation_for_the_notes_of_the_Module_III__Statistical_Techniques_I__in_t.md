@@ -1,0 +1,11 @@
+### Correlation and Rank Correlation
+
+- Correlation is a statistical technique that measures the strength and direction of the relationship between two variables.
+- Correlation coefficient is a number between -1 and 1 that tells you the value of correlation. It can be positive, negative or zero.
+- Positive correlation means that as one variable increases, the other variable also increases. Negative correlation means that as one variable increases, the other variable decreases. Zero correlation means that there is no linear relationship between the variables.
+- There are different types of correlation coefficients, such as Pearson correlation coefficient, Spearman's rank correlation coefficient, Kendall's rank correlation coefficient, etc.
+- Pearson correlation coefficient measures the linear correlation between two continuous variables. It is calculated by dividing the covariance of the two variables by the product of their standard deviations.
+- Spearman's rank correlation coefficient measures the monotonic correlation between two ordinal or ranked variables. It is calculated by subtracting the mean of the squared differences between the ranks of the two variables from 1 and multiplying by 6, then dividing by the product of the number of observations and the number of observations squared minus 1.
+- Kendall's rank correlation coefficient measures the ordinal association between two variables. It is calculated by counting the number of concordant and discordant pairs of observations, then subtracting the number of discordant pairs from the number of concordant pairs and dividing by the total number of pairs.
+- Rank correlation is a type of correlation that uses the ranks of the variables instead of their actual values. It is useful when the variables are not normally distributed or have outliers that affect the linear correlation.
+- Rank correlation is also better than simple correlation when we want to study the relationship between two attributes, such as preferences, opinions, ratings, etc.

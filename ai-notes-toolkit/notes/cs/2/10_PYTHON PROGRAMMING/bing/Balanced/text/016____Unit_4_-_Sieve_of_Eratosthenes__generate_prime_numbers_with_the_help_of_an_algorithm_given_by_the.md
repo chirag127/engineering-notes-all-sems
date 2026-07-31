@@ -1,0 +1,12 @@
+## Unit 4 - Sieve of Eratosthenes: generate prime numbers with the help of an algorithm given by the Greek Mathematician named Eratosthenes, whose algorithm is known as Sieve of Eratosthenes.
+
+- A prime number is a natural number that has exactly two positive divisors: 1 and itself. For example, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 are prime numbers.
+- A composite number is a natural number that has more than two positive divisors. For example, 4, 6, 8, 9, 10, 12, 14, 15, 16, 18 are composite numbers.
+- The Sieve of Eratosthenes is an algorithm that can be used to generate all the prime numbers up to a given limit. It was invented by Eratosthenes, a Greek mathematician and astronomer, who lived in the 3rd century BC.
+- The algorithm works as follows:
+  - Start with a list of all the natural numbers from 2 to the limit. For example, if the limit is 20, the list is [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20].
+  - Mark the first number in the list as prime, and cross out all its multiples in the list. For example, the first number is 2, so mark it as prime, and cross out 4, 6, 8, 10, 12, 14, 16, 18, 20. The list becomes [2, 3, ~~4~~, 5, ~~6~~, 7, ~~8~~, 9, ~~10~~, 11, ~~12~~, 13, ~~14~~, 15, ~~16~~, 17, ~~18~~, 19, ~~20~~].
+  - Move to the next number in the list that is not crossed out, and repeat the previous step. For example, the next number is 3, so mark it as prime, and cross out 9 and 15. The list becomes [2, 3, ~~4~~, 5, ~~6~~, 7, ~~8~~, ~~9~~, ~~10~~, 11, ~~12~~, 13, ~~14~~, ~~15~~, ~~16~~, 17, ~~18~~, 19, ~~20~~].
+  - Continue this process until you reach the end of the list or the square root of the limit, whichever is smaller. For example, the square root of 20 is about 4.47, so we stop after checking 3. The list becomes [2, 3, ~~4~~, 5, ~~6~~, 7, ~~8~~, ~~9~~, ~~10~~, 11, ~~12~~, 13, ~~14~~, ~~15~~, ~~16~~, 17, ~~18~~, 19, ~~20~~].
+  - The numbers that are not crossed out in the list are the prime numbers up to the limit. For example, the prime numbers up to 20 are [2, 3, 5, 7, 11, 13, 17, 19].
+- The Sieve of Eratosthenes is an efficient and simple way to generate prime numbers, as it only requires basic arithmetic operations and a list of natural numbers. It can be implemented using various programming languages, such as Python, Java, C++, etc.

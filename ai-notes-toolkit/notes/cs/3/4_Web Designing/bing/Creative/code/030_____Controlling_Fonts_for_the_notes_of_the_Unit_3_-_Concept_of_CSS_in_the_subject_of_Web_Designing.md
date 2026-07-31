@@ -1,0 +1,14 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for Web Designing. Here is the content for the topic of Controlling Fonts in CSS.
+
+### Controlling Fonts
+
+- CSS allows you to control the appearance of text elements such as font family, size, style, weight, color, alignment, spacing, decoration, and transformation.
+- To control the font family, you can use the `font-family` property, which specifies a list of fonts or font families to use for the text. For example, `font-family: Arial, Helvetica, sans-serif;` means that the browser will try to use Arial first, then Helvetica, and then any sans-serif font available.
+- To control the font size, you can use the `font-size` property, which specifies the size of the font in different units such as pixels, points, ems, percentages, etc. For example, `font-size: 16px;` means that the font size will be 16 pixels.
+- To control the font style, you can use the `font-style` property, which specifies whether the text is normal, italic, or oblique. For example, `font-style: italic;` means that the text will be italicized.
+- To control the font weight, you can use the `font-weight` property, which specifies how bold or thin the text is. The values can be normal, bold, bolder, lighter, or a number from 100 to 900. For example, `font-weight: bold;` means that the text will be bold.
+- To control the font color, you can use the `color` property, which specifies the color of the text in different formats such as hexadecimal, RGB, RGBA, HSL, HSLA, etc. For example, `color: #ff0000;` means that the text will be red.
+- To control the text alignment, you can use the `text-align` property, which specifies how the text is aligned horizontally within its container. The values can be left, right, center, justify, or inherit. For example, `text-align: center;` means that the text will be centered.
+- To control the text spacing, you can use the `letter-spacing` and `word-spacing` properties, which specify the amount of space between letters and words respectively. The values can be normal, a length, or a percentage. For example, `letter-spacing: 2px;` means that there will be 2 pixels of space between each letter.
+- To control the text decoration, you can use the `text-decoration` property, which specifies whether the text has an underline, overline, line-through, or none. You can also specify the color and style of the decoration. For example, `text-decoration: underline red dashed;` means that the text will have a red dashed underline.
+- To control the text transformation, you can use the `text-transform` property, which specifies whether the text is capitalized, uppercase, lowercase, or none. For example, `text-transform: uppercase;` means that the text will be converted to uppercase.

@@ -1,0 +1,5 @@
+### Error 404 digital Hacking in India part 2 chase for the notes of the Unit 2 - Confidentiality Policies in the subject of COMPUTER SYSTEM SECURITY
+
+- Error 404 Hacking digital India part 2 chase is a topic that discusses some attacks in India.
+- Some attacks discussed in Error 404 digital Hacking India part 2 chase are: Israel Power Grid hit by a big hack attack is being called one of the worst cyberattacks ever.
+- Confidentiality Policies is a topic in the subject of COMPUTER SYSTEM SECURITY that includes the Confinement Principle, Detour Unix user IDs process IDs and privileges, More on confinement techniques, System call interposition, Error 404 digital Hacking in India part 2 chase, VM based isolation, Confinement principle, Software fault isolation, Rootkits, Intrusion Detection Systems .

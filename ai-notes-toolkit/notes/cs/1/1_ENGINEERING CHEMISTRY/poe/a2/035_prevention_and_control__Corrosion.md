@@ -1,0 +1,10 @@
+ Here is the content in formal tone without emojis and external links, written in Markdown format with points:
+
+# Prevention and Control of Corrosion
+
+1.  Using corrosion resistant materials: Materials like stainless steel, plastics, ceramics and anodized aluminum can be used in applications where corrosion resistance is important. These materials either have sufficient passivation or lack of reactivity to resist corrosion.
+2.  Protective coatings: A protective coating like paints, lacquers or other polymers can be applied on metals to protect them from the corrosive environment. These coatings act as a barrier and prevent the metal surface from coming in contact with the corrosive medium.
+3.  Cathodic protection: This method is used to protect underground metallic structures like pipelines and storage tanks. It involves making the metal to be protected as a cathode of an electrochemical cell. Due to this, the metal gets polarized and the rate of corrosion is reduced. Sacrificial anodes are commonly used for this.
+4.  Chemical treatment: Certain chemicals can be used to create a protective film on metals to enhance their corrosion resistance. Some examples are chromate treatment for aluminum, phosphating of steel, etc. These chemicals convert the metal surface into a passive state.
+5.  Design modifications: The corrosion rate can be reduced by making design changes like avoiding crevices where moisture and salts can accumulate, providing good ventilation and drainage, using threaded joints instead of welded joints, etc. These changes minimize corrosion by eliminating conditions that aid corrosion.
+6.  Impressing current: By impressing an external current, the metal can be made a cathode and the corrosion rate can be reduced. This method is useful for the protection of underground and underwater metallic structures. The current is supplied using anodes that get corroded instead of the metal to be protected.

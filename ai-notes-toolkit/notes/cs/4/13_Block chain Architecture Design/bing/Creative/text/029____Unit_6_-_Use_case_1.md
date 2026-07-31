@@ -1,0 +1,23 @@
+## Unit 6 - Use case 1
+
+- A use case is a description of how a system interacts with one or more actors to achieve a specific goal.
+- An actor is a role that a user or another system plays in relation to the system under consideration.
+- A use case diagram is a graphical representation of the use cases and actors involved in a system.
+- A use case diagram consists of the following elements:
+  - A system boundary, which is a rectangle that encloses the use cases and represents the scope of the system.
+  - Use cases, which are oval shapes that represent the goals or functions that the system provides to the actors.
+  - Actors, which are stick figures or icons that represent the roles that interact with the system.
+  - Associations, which are lines that connect the actors and the use cases and indicate the communication or participation between them.
+  - Generalizations, which are lines with a hollow triangle at one end that indicate a specialization or inheritance relationship between actors or use cases.
+  - Include relationships, which are dashed lines with an open arrowhead at one end that indicate that a use case includes the behavior of another use case as a part of its normal execution.
+  - Extend relationships, which are dashed lines with an open arrowhead at one end that indicate that a use case extends the behavior of another use case under certain conditions.
+- A use case diagram can be used to model the functional requirements of a system, to identify the actors and their goals, to show the relationships and dependencies among the use cases, and to communicate and validate the system scope and functionality with the stakeholders.
+- A use case diagram can be drawn at different levels of abstraction, depending on the purpose and audience of the diagram. The levels of abstraction are:
+  - Summary level, which shows the main goals of the system and the actors involved, without going into details of the use cases.
+  - User-goal level, which shows the use cases that correspond to the goals or tasks that the actors want to achieve with the system, without going into details of the scenarios or steps.
+  - Subfunction level, which shows the use cases that correspond to the subfunctions or steps that are performed within a user-goal level use case, with more details of the scenarios or steps.
+- A use case diagram can be complemented by other diagrams and documents, such as:
+  - Use case specifications, which are textual descriptions of the use cases that provide more details of the scenarios, preconditions, postconditions, main flow, alternative flows, and exceptions of each use case.
+  - Activity diagrams, which are graphical representations of the workflows or sequences of actions and decisions that occur within a use case.
+  - Sequence diagrams, which are graphical representations of the interactions and messages exchanged among the objects or components that participate in a use case.
+  - Class diagrams, which are graphical representations of the static structure and relationships of the classes or entities that are involved in a use case.

@@ -1,0 +1,16 @@
+### Storage for Cloud Computing
+
+- Storage for cloud computing is a mode of computer data storage in which digital data is stored on servers in off-site locations.
+- The servers are maintained by a third-party provider who is responsible for hosting, managing, and securing data stored on its infrastructure.
+- The physical storage spans multiple servers (sometimes in multiple locations), and the physical environment is typically owned and managed by a hosting company.
+- The cloud storage is a computer data storage model in which the data that is digital in format is stored, and hence it is said to be on the cloud, in logical pools.
+- The cloud storage offers several advantages over traditional data storage, such as:
+  - Scalability: The cloud storage can easily scale up or down according to the demand and usage of the data.
+  - Accessibility: The cloud storage can be accessed from anywhere and anytime via the internet, using various devices such as computers, smartphones, tablets, etc.
+  - Cost-effectiveness: The cloud storage can reduce the cost of data storage by eliminating the need for purchasing, maintaining, and upgrading hardware and software.
+  - Reliability: The cloud storage can provide high availability and durability of data by replicating and backing up data across multiple servers and locations.
+  - Security: The cloud storage can protect data from unauthorized access, modification, or deletion by using encryption, authentication, and authorization mechanisms.
+- The cloud storage can be classified into three main types, based on the level of abstraction and the access methods:
+  - Object storage: The applications which are developed inside the cloud mostly take the benefit of object storage. As it has two critical features like scalability and metadata. Object storage stores data as objects, which consist of data and metadata. The data is stored as a sequence of bytes, and the metadata is used to describe the data and provide additional information. Object storage does not have a hierarchical structure, but uses a flat namespace to identify and access objects. Object storage is suitable for storing unstructured or semi-structured data, such as images, videos, documents, etc.
+  - File storage: There is a requirement of accessing a shared file in few applications, and a file system is compulsory. File storage stores data as files, which are organized in a hierarchical structure of folders and subfolders. File storage allows multiple users or applications to access and modify the same file concurrently. File storage is suitable for storing structured or semi-structured data, such as databases, spreadsheets, etc.
+  - Block storage: Block storage stores data as blocks, which are fixed-sized chunks of data. Block storage provides low-level access to the data, and allows the user or application to control how the data is organized and formatted. Block storage is suitable for storing high-performance or mission-critical data, such as operating systems, applications, etc.

@@ -1,0 +1,11 @@
+# Functional View for the notes of the Unit 2 - Reference Architecture in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- The functional view of the IoT reference architecture describes the system's runtime functional components, their responsibilities, default functions, interfaces and primary interactions .
+- The functional view is use-case- and application-independent and is therefore not compatible to the concept of views and viewpoints one-by-one.
+- The functional view follows the modular structure of functional blocks organized into layers, as it was proposed e.g. in SENSEI.
+- The functional view consists of four layers: Device Layer, Network Layer, Service Layer and Application Layer .
+- The Device Layer contains the physical devices that are connected to the IoT system, such as sensors, actuators, RFID tags, etc. The Device Layer is responsible for device management, data acquisition, data processing and data communication.
+- The Network Layer provides the connectivity and routing functions for the IoT system, such as network discovery, addressing, security, QoS, etc. The Network Layer is responsible for network management, data transmission, data aggregation and data filtering.
+- The Service Layer provides the common services and functionalities for the IoT system, such as service discovery, service composition, service orchestration, service mediation, etc. The Service Layer is responsible for service management, data analysis, data storage and data access.
+- The Application Layer contains the specific applications and use cases that utilize the IoT system, such as smart home, smart city, smart health, etc. The Application Layer is responsible for application management, data presentation, data visualization and data interaction.
+- The functional view also defines the cross-layer functions that span across multiple layers, such as security, privacy, trust, identity, etc. These functions are responsible for ensuring the reliability, safety and usability of the IoT system.

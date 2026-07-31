@@ -1,0 +1,16 @@
+# Programming in the large
+
+- Programming in the large refers to the process of designing and developing large and complex software systems that involve multiple components, modules, and subsystems.
+- Programming in the large requires a high-level view of the system architecture, the interactions among the components, and the coordination of the development activities.
+- Programming in the large can also refer to programming code that represents the high-level state transition logic of a system, such as when to wait for messages, when to send messages, when to compensate for failed non-ACID transactions, etc.
+- Programming in the large can involve programming by larger groups of people or by smaller groups over longer time periods, which can result in challenges for maintainers to understand and modify the code  .
+- Programming in the large can benefit from the use of software engineering principles and practices, such as modularization, abstraction, encapsulation, information hiding, inheritance, polymorphism, design patterns, testing, debugging, documentation, etc.
+- Programming in the large can also benefit from the use of tools and techniques that support the development process, such as version control, configuration management, code analysis, code generation, code refactoring, code review, code reuse, etc.
+- Programming in the large can be contrasted with programming in the small, which refers to creating the smaller parts of a system by writing lines of code in a programming language, focusing on the syntax, semantics, and logic of the code.
+- Programming in the small can also refer to programming code that represents the low-level implementation details of a system, such as data structures, algorithms, control structures, etc.
+- Programming in the small requires a detailed view of the system functionality, the data manipulation, and the error handling.
+- Programming in the small can involve programming by individual programmers or by smaller groups of people over shorter time periods, which can result in challenges for ensuring the quality, reliability, and efficiency of the code.
+- Programming in the small can benefit from the use of programming languages and paradigms that suit the problem domain, such as imperative, declarative, functional, object-oriented, etc.
+- Programming in the small can also benefit from the use of tools and techniques that support the coding process, such as compilers, interpreters, debuggers, editors, IDEs, libraries, frameworks, etc.
+- Programming in the large and programming in the small are two different aspects of writing software, but they are not mutually exclusive. They can be seen as complementary and interdependent activities that require different skills and perspectives.
+- Programming in the large and programming in the small can be integrated and coordinated by using a software development methodology, such as waterfall, agile, spiral, etc, that defines the phases, tasks, roles, and deliverables of the project.

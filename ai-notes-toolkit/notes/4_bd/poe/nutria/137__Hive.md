@@ -1,0 +1,10 @@
+
+### Hive 
+
+Hive is an open source data warehouse software developed by Apache Software Foundation. It is used for data storage and analysis. It is also used for data warehousing and analytics. Hive is used for data storage and analysis in Hadoop. It provides an SQL-like language called HiveQL for querying data stored in Hadoop. Hive also provides a way to store and manage structured and semi-structured data. 
+
+Hive provides a way to store and manage data in a distributed and fault tolerant manner. It provides a SQL-like language called HiveQL for querying data stored in Hadoop. Hive also provides a way to store and manage structured and semi-structured data. Hive also provides a way to store and process data in a distributed and fault tolerant manner. Hive also provides a way to access data stored in Hadoop through a variety of languages including Java, Python, and R. 
+
+Hive also provides a way to access data stored in Hadoop through a variety of languages including Java, Python, and R. Hive provides a way to store and manage data in a distributed and fault tolerant manner. It also provides a way to access data stored in Hadoop through a variety of languages including Java, Python, and R. Hive also provides a way to store and process data in a distributed and fault tolerant manner. Hive also provides a way to store and analyze data in Hadoop. 
+
+Hive also provides a way to store and analyze data in Hadoop. It provides a SQL-like language called HiveQL for querying data stored in Hadoop. Hive also provides a way to store and manage structured and semi-structured data. Hive also provides a way to access data stored in Hadoop through a variety of languages including Java, Python, and R. Hive also provides a way to store and process data in a distributed and fault tolerant manner.

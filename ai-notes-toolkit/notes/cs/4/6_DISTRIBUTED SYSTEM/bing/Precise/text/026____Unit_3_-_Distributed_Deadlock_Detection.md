@@ -1,0 +1,13 @@
+## Unit 3 - Distributed Deadlock Detection
+
+1. **Introduction**: A deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process. In a distributed system, deadlock detection is more complex due to the lack of a central coordinator and the presence of multiple resource managers.
+
+2. **Distributed Deadlock Detection Algorithms**: There are several algorithms for detecting deadlocks in distributed systems, including the path-pushing algorithm, the edge-chasing algorithm, and the diffusing computation algorithm.
+
+3. **Path-Pushing Algorithm**: In the path-pushing algorithm, each process maintains a wait-for graph, which is a directed graph representing the dependencies between processes. When a process requests a resource, it sends a probe message to the resource manager. The resource manager adds an edge to the wait-for graph and forwards the probe message to the process holding the resource. If a cycle is detected in the wait-for graph, a deadlock is declared.
+
+4. **Edge-Chasing Algorithm**: In the edge-chasing algorithm, each process maintains a set of local wait-for graphs, one for each resource manager. When a process requests a resource, it sends a probe message to the resource manager. The resource manager adds an edge to the local wait-for graph and forwards the probe message to the process holding the resource. If a cycle is detected in any of the local wait-for graphs, a deadlock is declared.
+
+5. **Diffusing Computation Algorithm**: In the diffusing computation algorithm, each process maintains a set of local wait-for graphs, one for each resource manager. When a process requests a resource, it sends a probe message to the resource manager. The resource manager adds an edge to the local wait-for graph and forwards the probe message to the process holding the resource. If a cycle is detected in any of the local wait-for graphs, a deadlock is declared. The diffusing computation algorithm uses a distributed termination detection algorithm to determine when the deadlock detection process is complete.
+
+6. **Conclusion**: Distributed deadlock detection is a complex problem due to the lack of a central coordinator and the presence of multiple resource managers. Several algorithms have been proposed to detect deadlocks in distributed systems, including the path-pushing algorithm, the edge-chasing algorithm, and the diffusing computation algorithm. Each algorithm has its own advantages and disadvantages, and the choice of algorithm depends on the specific requirements of the distributed system.

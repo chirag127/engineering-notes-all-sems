@@ -1,0 +1,25 @@
+## Unit 4 - Mining Data Streams
+
+- Data streams are continuous and unbounded sequences of data elements that arrive at high speed and volume.
+- Data stream mining is the process of extracting useful information and knowledge from data streams in real time or near real time.
+- Data stream mining poses several challenges, such as:
+  - Limited memory and processing resources
+  - Dynamic and evolving data characteristics
+  - Concept drift and concept evolution
+  - Uncertainty and noise in data
+  - Need for timely and accurate results
+- Data stream mining techniques can be classified into two categories: online and offline.
+  - Online techniques process each data element as it arrives and update the mining model incrementally, without storing the entire data stream.
+  - Offline techniques store a summary or a sample of the data stream and apply batch mining algorithms periodically or on demand.
+- Data stream mining techniques can be applied to various tasks, such as:
+  - Classification and regression: predicting the class or value of a data element based on its features
+  - Clustering: grouping similar data elements together
+  - Frequent pattern mining: finding frequent and/or sequential patterns in the data stream
+  - Outlier detection: identifying data elements that deviate significantly from the normal behavior
+  - Change detection: detecting changes in the data distribution or the underlying concept
+- Data stream mining techniques can be evaluated using different metrics, such as:
+  - Accuracy: the degree of correctness of the mining results
+  - Efficiency: the amount of resources (time, space, etc.) required by the mining algorithm
+  - Robustness: the ability of the mining algorithm to handle noise, uncertainty, and concept drift
+  - Scalability: the ability of the mining algorithm to handle large and high-dimensional data streams
+  - Adaptability: the ability of the mining algorithm to adjust to the changing data characteristics and user feedback

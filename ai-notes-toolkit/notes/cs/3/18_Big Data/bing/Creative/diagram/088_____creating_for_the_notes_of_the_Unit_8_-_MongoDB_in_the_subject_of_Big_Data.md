@@ -1,0 +1,21 @@
+# Unit 8 - MongoDB
+
+MongoDB is a popular open source, nonrelational database management system that uses flexible documents instead of tables and rows to process and store various forms of data . MongoDB is a distributed database at its core, so high availability, horizontal scaling, and geographic distribution are built in and easy to use. MongoDB is also a document-oriented database, which means that data is stored as documents, and documents are grouped in collections. The document model is a lot more natural for developers to work with because documents are self-contained and can be treated as objects.
+
+Some of the key features and characteristics of MongoDB are:
+
+- **Dynamic schema**: MongoDB does not require a predefined schema for the documents in a collection. Documents can have different fields and structures, which allows for more flexibility and agility in data modeling and application development.
+- **JSON-like documents**: MongoDB uses a binary JSON format called BSON to store and transmit data. BSON supports various data types, such as strings, numbers, arrays, booleans, dates, and binary data. BSON also allows for embedding documents and arrays within other documents, which enables complex and hierarchical data structures.
+- **Ad-hoc queries**: MongoDB supports rich and expressive queries that can filter, sort, project, and aggregate data. Queries can also use indexes, text search, geospatial queries, and logical operators. MongoDB also provides a powerful aggregation framework that can perform complex data transformations and analysis.
+- **Secondary indexes**: MongoDB supports creating indexes on any field or combination of fields in a document. Indexes can improve the performance of queries by reducing the number of documents that need to be scanned. MongoDB also supports unique, sparse, compound, text, hashed, and geospatial indexes.
+- **Replication**: MongoDB provides high availability and data redundancy through replication. Replication is the process of synchronizing data across multiple servers. MongoDB uses a replica set, which is a group of servers that maintain the same data set and elect a primary server to handle write operations. The other servers, called secondaries, apply the operations from the primary and can serve read requests. If the primary fails, one of the secondaries is automatically elected as the new primary.
+- **Sharding**: MongoDB provides horizontal scaling and load balancing through sharding. Sharding is the process of partitioning data across multiple servers, called shards. Each shard holds a subset of the data and can handle read and write requests for that data. MongoDB uses a sharding key, which is a field or a compound field that determines how the data is distributed among the shards. MongoDB also uses a router, called mongos, that directs the requests from the clients to the appropriate shards.
+- **GridFS**: MongoDB provides a specification for storing and retrieving large files, such as images, videos, or audio files, in MongoDB. GridFS divides a file into chunks and stores each chunk as a separate document in a collection. GridFS also stores metadata about the file, such as its name, size, type, and checksum, in another collection. GridFS allows for efficient and partial access to the files, as well as concurrent uploads and downloads.
+- **MongoDB Atlas**: MongoDB Atlas is a fully managed cloud service that provides MongoDB as a service. MongoDB Atlas handles the deployment, configuration, backup, monitoring, and scaling of MongoDB clusters on various cloud platforms, such as AWS, Azure, and Google Cloud. MongoDB Atlas also offers security features, such as encryption, authentication, authorization, and auditing, as well as data governance features, such as data lake, charts, and realm.
+- **MongoDB Compass**: MongoDB Compass is a graphical user interface (GUI) tool that allows users to explore and manipulate MongoDB data. MongoDB Compass can connect to local or remote MongoDB instances, and provides features such as schema analysis, CRUD operations, index management, aggregation pipeline builder, performance metrics, and data visualization.
+
+: https://www.ibm.com/topics/mongodb
+: https://www.mongodb.com/what-is-mongodb
+: https://www.mongodb.com/features
+: https://www.mongodb.com/
+: https://www.mongodb.com/try/download/compass

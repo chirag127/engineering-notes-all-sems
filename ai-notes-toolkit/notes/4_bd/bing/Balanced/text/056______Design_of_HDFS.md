@@ -1,0 +1,7 @@
+#### Design of HDFS
+
+- HDFS stands for Hadoop Distributed File System. It is a distributed file system that runs on a cluster of commodity hardware and provides high availability, scalability, fault tolerance, and reliability.
+- HDFS follows a master-slave architecture, where there is one NameNode (master) and multiple DataNodes (slaves). The NameNode manages the namespace and the metadata of the file system, while the DataNodes store the actual data blocks of the files.
+- HDFS splits large files into fixed-size blocks (typically 128 MB or 256 MB) and distributes them across the DataNodes. Each block is replicated on multiple DataNodes (usually three) for fault tolerance. The NameNode maintains the mapping of files to blocks and blocks to DataNodes.
+- HDFS supports a write-once-read-many model, where files are written by a single client and then read by multiple clients. HDFS does not support random writes or updates to files, only appends. HDFS also supports atomic rename and delete operations on files and directories.
+- HDFS provides a Java API for clients to interact with the file system. HDFS also supports a web-based interface and a command-line interface. HDFS supports integration with other frameworks such as MapReduce, Spark, Hive, and HBase.

@@ -1,0 +1,9 @@
+### Display for the notes of the Unit 3 - Concept of CSS in the subject of Web Designing
+
+- CSS stands for **Cascading Style Sheets** and is used to **style and layout web pages**.
+- CSS is a **rule-based language** that allows you to define the **appearance and presentation** of HTML or XML elements on a web page .
+- CSS rules consist of **selectors** and **declarations**. Selectors are used to **specify which elements** the rules apply to, and declarations are used to **define the styles** for those elements.
+- CSS declarations are composed of **properties** and **values**. Properties are the **aspects of the elements** that can be styled, such as color, font, width, etc. Values are the **specific settings** for those properties, such as red, Arial, 50px, etc.
+- CSS rules can be **written in different ways**, such as inline, internal, or external. Inline CSS is when the style attribute is used **directly on an HTML element**. Internal CSS is when the style element is used **within the head section** of an HTML document. External CSS is when the link element is used to **refer to an external stylesheet file**.
+- CSS rules can also be **applied in different ways**, such as inheritance, specificity, or cascade. Inheritance is when some properties are **automatically passed down** from parent elements to child elements. Specificity is when some selectors have **higher priority** than others based on their **type, class, id, or attribute**. Cascade is when the **order of the rules** determines which ones **override** or **complement** each other.
+- CSS can be used to create various **effects and features** on web pages, such as colors, fonts, backgrounds, borders, margins, padding, alignment, display, position, float, flexbox, grid, animations, transitions, transforms, etc.

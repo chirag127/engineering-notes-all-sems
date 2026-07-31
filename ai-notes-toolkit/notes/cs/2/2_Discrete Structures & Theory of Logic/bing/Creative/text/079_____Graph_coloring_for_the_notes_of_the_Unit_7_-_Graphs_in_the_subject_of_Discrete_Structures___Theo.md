@@ -1,0 +1,9 @@
+### Graph coloring
+
+- Graph coloring is a special case of graph labeling, where each vertex of a graph is assigned a color, subject to some constraints.
+- One of the most common constraints is that no two adjacent vertices (vertices that are connected by an edge) have the same color. This is called a **proper coloring** or a **vertex coloring** .
+- Graph coloring is closely related to the concept of an **independent set**, which is a set of vertices in a graph that are not adjacent to each other. If a graph is properly colored, the vertices that have the same color form an independent set .
+- Graph coloring has many applications in computer science, such as scheduling, register allocation, map coloring, Sudoku, and cryptography .
+- The minimum number of colors needed to properly color a graph is called the **chromatic number** of the graph, denoted by χ(G). Finding the chromatic number of a graph is an NP-hard problem, meaning that there is no efficient algorithm to solve it in general .
+- Some special classes of graphs have known chromatic numbers, such as bipartite graphs (χ(G) = 2), complete graphs (χ(G) = n, where n is the number of vertices), and trees (χ(G) = 2, unless the graph has only one vertex, then χ(G) = 1) .
+- There are different types of graph coloring, such as **edge coloring** (assigning colors to the edges of a graph, such that no two adjacent edges have the same color), **face coloring** (assigning colors to the faces of a planar graph, such that no two adjacent faces have the same color), and **list coloring** (assigning colors to the vertices of a graph, such that each vertex has a list of available colors to choose from) .

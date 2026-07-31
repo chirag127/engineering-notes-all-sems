@@ -1,0 +1,7 @@
+### 1. Technical Communication, (Second Ed.); O.U.P., Meenakshi Raman & S.Sharma New Delhi
+
+- Technical Communication is a comprehensive textbook that covers the principles and practices of effective communication in engineering contexts.
+- The book is divided into four parts: Part I introduces the basics of communication, such as language skills, listening skills, and non-verbal communication. Part II deals with the forms and functions of written communication, such as letters, memos, reports, proposals, and emails. Part III focuses on the oral communication skills, such as presentations, meetings, interviews, and group discussions. Part IV explores the emerging trends and technologies in communication, such as digital media, social media, and online collaboration.
+- The book is designed to meet the needs of undergraduate students of engineering, as well as professionals and practitioners in the field. It provides numerous examples, exercises, case studies, and illustrations to enhance the understanding and application of communication concepts and skills.
+- The book also includes a companion website that offers additional resources, such as PowerPoint slides, quizzes, and videos.
+- The book is authored by Meenakshi Raman and Sangeeta Sharma, who are experienced teachers and researchers in the field of communication. They have published several books and articles on various aspects of communication and language studies. They are currently associated with the Birla Institute of Technology and Science, Pilani, India.

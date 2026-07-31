@@ -1,0 +1,12 @@
+### Raspberry Pi for the notes of the Unit 2 - SOFTWARE FRAMEWORKS in the subject of PROGRAMMING AND INTERFACING WITH MICROCONTROLLERS
+
+- A software framework is a set of tools, libraries, and conventions that provide a common structure and functionality for developing applications on a specific platform or environment.
+- A software framework can simplify the development process, reduce errors, and improve performance and compatibility of applications.
+- Raspberry Pi is a low-cost, single-board computer that can run various operating systems and software frameworks, depending on the needs and preferences of the user.
+- Some of the software frameworks that can be used on Raspberry Pi are:
+
+  - **Raspberry Pi OS**: The official operating system for Raspberry Pi, based on Debian Linux. It provides a graphical user interface, a set of pre-installed applications, and access to the Raspberry Pi hardware features, such as GPIO pins, camera, and display. It can be installed using the Raspberry Pi Imager tool.
+  - **Mono**: An open-source and cross-platform implementation of the .NET Framework, which supports C#, Visual Basic, and other .NET languages. It allows running .NET applications on Raspberry Pi and other Linux devices. It can be installed using the apt package manager.
+  - **openFrameworks**: An open-source and cross-platform toolkit for creative coding, which supports C++ and other languages. It provides a set of libraries and functions for graphics, sound, video, input, and communication. It can be installed using the official guide.
+  - **Duet Software Framework**: A bundle of software programs that connects and controls the Duet 3, a 3D printer controller board that can be attached to the Raspberry Pi. It provides a web interface, a command-line interface, and a set of APIs for configuring and managing the 3D printer. It can be installed using the official guide.
+  - **Framework Mainboards**: A set of standalone x86 mainboards that can be used as a replacement for the Raspberry Pi, offering higher performance and compatibility. They support Windows, Linux, and other operating systems, and can be customized with various modules and accessories. They can be purchased from the official website.

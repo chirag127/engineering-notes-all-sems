@@ -1,0 +1,11 @@
+# Telugu Literature
+
+- Telugu literature is the body of works written in the Telugu language, a Dravidian language spoken mainly in the states of Andhra Pradesh and Telangana in India.
+- Telugu literature consists of various genres, such as poetry, prose, drama, folklore, and song lyrics. Some of the prominent forms of Telugu literature are śataka, padya, gadya, kāvya, prabandha, nāṭaka, and janapada.
+- Telugu literature has a long and rich history, dating back to at least the 11th century CE, when the poet Nannaya translated the Mahabharata into Telugu. Some of the notable periods of Telugu literature are:
+  - The Age of Nannaya (11th-14th centuries), which saw the emergence of classical Telugu poetry and the development of Telugu grammar and lexicon.
+  - The Age of Tikkana (13th-14th centuries), which witnessed the completion of the Telugu Mahabharata by Tikkana and the rise of courtly and devotional poetry by poets like Nannechoda and Palkuriki Somanatha.
+  - The Age of Srinatha (14th-15th centuries), which marked the peak of Telugu kāvya (poetic composition) and prabandha (narrative prose) by Srinatha and other poets like Potana, Errana, and Somanatha.
+  - The Age of Krishnadevaraya (16th century), which coincided with the golden era of the Vijayanagara Empire and produced some of the finest Telugu poets and writers, such as Krishnadevaraya, Allasani Peddana, Pingali Surana, and Tenali Ramakrishna.
+  - The Age of Bhakti (15th-17th centuries), which saw the flourishing of devotional literature and the emergence of new sects and movements, such as Veerashaivism, Vaishnavism, and Shaktism. Some of the prominent bhakti poets were Annamacharya, Tyagaraja, Ramadasu, and Bhadrachala Ramadasu.
+  - The Age of Modernity (18th-20th centuries), which witnessed the influence of Western education, culture, and literature on Telugu literature and the emergence of new genres, such as novel, short story, essay, and biography. Some of the modern Telugu writers were Gurajada Apparao, Kandukuri Veeresalingam, Viswanatha Satyanarayana, Sri Sri, and R. K. Narayan.

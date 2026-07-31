@@ -1,0 +1,13 @@
+### Method for the notes of the Unit 3 - Technical Presentation in the subject of Technical Communication
+
+- A technical presentation is a form of oral communication that conveys technical information to a specific audience, such as engineers, managers, customers, or the general public.
+- A technical presentation has three main components: the content, the delivery, and the visual aids.
+- The content is the information that the presenter wants to communicate to the audience. It should be clear, concise, accurate, and relevant to the purpose and context of the presentation.
+- The delivery is the way the presenter speaks and behaves during the presentation. It should be confident, engaging, respectful, and appropriate to the audience and the situation.
+- The visual aids are the materials that the presenter uses to support and enhance the content, such as slides, charts, graphs, images, videos, or demonstrations. They should be simple, attractive, consistent, and easy to read and understand.
+- To prepare for a technical presentation, the presenter should follow these steps:
+  - Analyze the audience and the situation. Identify the audience's needs, expectations, background, and interests. Determine the purpose, scope, and objectives of the presentation. Consider the time, place, and format of the presentation.
+  - Plan the content and the structure. Decide on the main points and the supporting details of the presentation. Organize the content into a logical and coherent sequence, such as introduction, body, and conclusion. Use transitions and signposts to guide the audience through the presentation.
+  - Design the visual aids. Choose the appropriate type and number of visual aids for the content and the audience. Use consistent and clear design principles, such as color, font, layout, and alignment. Avoid clutter, distraction, and overload of information. Test the visual aids for functionality and compatibility.
+  - Practice the delivery. Rehearse the presentation several times, preferably in front of a mirror, a recorder, or a friend. Pay attention to the voice, body language, eye contact, and gestures. Adjust the speed, volume, tone, and pronunciation of the speech. Anticipate and prepare for possible questions and feedback from the audience.
+  - Deliver the presentation. Arrive early and check the equipment and the environment. Greet the audience and introduce yourself and the topic. Follow the planned structure and use the visual aids effectively. Maintain a positive and professional attitude throughout the presentation. Conclude with a summary and a call to action. Thank the audience and invite questions and comments.

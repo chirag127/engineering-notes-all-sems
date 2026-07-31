@@ -1,0 +1,13 @@
+### Markov models for the notes of the Unit 1 - Compression Techniques in the subject of Data Compression
+
+Markov models are a type of probabilistic model that can be used for data compression. Here are some key points to understand about Markov models in the context of compression techniques:
+
+- A Markov model is a statistical model that assumes the probability of a certain event depends only on the state of the system at the present time and not on any previous states. In other words, it assumes that the future is only dependent on the present and not the past.
+- Markov models can be applied to a wide range of data compression techniques, including lossless compression, lossy compression, and image and video compression.
+- In the context of lossless compression, Markov models can be used to predict the probability of a certain symbol occurring in a sequence of symbols based on the previous symbols in the sequence. This allows the compression algorithm to encode the sequence using fewer bits than would be required if each symbol were encoded independently.
+- Markov models can also be used in lossy compression techniques, such as audio and image compression, to predict the values of pixels or samples based on the values of neighboring pixels or samples. This can be used to reduce the amount of data that needs to be stored or transmitted without significantly affecting the quality of the output.
+- There are various types of Markov models that can be used for compression, including first-order Markov models, second-order Markov models, and higher-order Markov models. The order of the model refers to the number of previous symbols that are taken into account when predicting the probability of the next symbol.
+- Higher-order Markov models can be more accurate than lower-order models, but they can also be more computationally intensive to implement. The choice of model depends on the specific application and the trade-off between compression performance and computational complexity.
+- Markov models can also be combined with other compression techniques, such as Huffman coding or arithmetic coding, to further improve compression performance.
+
+Overall, Markov models are a powerful tool for data compression that can be applied to a wide range of applications. Understanding the principles and techniques behind Markov models can be valuable for anyone interested in the field of data compression.

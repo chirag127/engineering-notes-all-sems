@@ -1,0 +1,15 @@
+### Example of Reinforcement Learning in Practice
+
+Reinforcement learning (RL) is a type of machine learning that learns from its own actions and rewards in an environment. RL agents can learn to optimize their behavior for complex and dynamic tasks that require trial-and-error and exploration. Here are some examples of RL in practice:
+
+- **Playing games like Go**: Google has reinforcement learning agents that learn to solve problems by playing simple games like Go, which is a game of strategy. The agent learns from its own moves and the outcomes of the games, and improves its performance over time. The agent can also learn from human experts and other agents. One of the most famous RL agents is AlphaGo, which defeated the world champion of Go in 2016.
+- **Self-driving cars**: Reinforcement learning is used in self-driving cars for various purposes such as the following:
+  - Path planning and navigation: The agent learns to choose the optimal route and avoid obstacles and traffic based on the feedback from the sensors and the environment.
+  - Vehicle control: The agent learns to adjust the speed, steering, braking, and acceleration of the car based on the current state and the desired goal.
+  - Traffic light control: The agent learns to optimize the timing and coordination of the traffic lights to reduce congestion and improve safety.
+- **Data center automated cooling using Deep RL**: Google used deep reinforcement learning to automate the data center cooling system, which is responsible for maintaining the temperature and energy efficiency of the servers. The agent learns to control the cooling equipment based on the data from the sensors and the historical data, and reduces the energy consumption by 40%.
+- **Recommendation systems**: Reinforcement learning can be used to build recommendation systems that present users with content that they find interesting and relevant. The agent learns from the user feedback, such as clicks, ratings, purchases, etc., and adapts the recommendations accordingly. Some examples of domains that use recommendation systems are retail, music, movies, e-commerce, newsgroups, etc.
+- **Industry automation with Reinforcement Learning**: Reinforcement learning can be used to automate various industrial tasks that involve robots, such as manufacturing, assembly, inspection, etc. The agent learns from the feedback from the environment and the task, and improves its skills and efficiency over time. Some examples of industrial automation with RL are:
+  - Picking and placing objects: The agent learns to grasp and manipulate objects of different shapes and sizes using a robotic arm and a camera.
+  - Assembling parts: The agent learns to assemble complex parts using multiple robotic arms and tools.
+  - Welding and cutting: The agent learns to perform precise and accurate welding and cutting operations using a robotic arm and a laser.

@@ -1,0 +1,12 @@
+### Recovery in Concurrent Systems
+
+- Recovery in concurrent systems is the process of restoring the system to a consistent state after a failure, while multiple transactions are being executed simultaneously.
+- Recovery in concurrent systems is challenging because the interleaving of logs from different transactions makes it difficult to backtrack and undo the effects of failed transactions.
+- Recovery in concurrent systems can be done in two ways: backward recovery and forward recovery.
+- Backward recovery is the process of moving the system from its current state back to a previously correct state by undoing the changes made by failed transactions. This requires periodically recording the system's state (checkpoints) and restoring it when a failure occurs.
+- Forward recovery is the process of moving the system from its current state to a new correct state by redoing the changes made by committed transactions. This requires maintaining a log of all the actions performed by each transaction and applying them to the system after a failure.
+- Recovery in concurrent systems also depends on the concurrency control scheme that is used to ensure serializability and avoid conflicts among transactions. Some of the concurrency control schemes are:
+  - Locking: Transactions acquire locks on the data items they access and release them after they commit or abort. Locks prevent other transactions from accessing the same data items concurrently. Locking can be done at different levels of granularity, such as records, pages, or tables.
+  - Timestamping: Transactions are assigned timestamps based on their arrival order and use them to order their accesses to the data items. Timestamps ensure that older transactions have priority over newer transactions and avoid conflicts. Timestamping can be done in two ways: optimistic and pessimistic.
+  - Validation: Transactions execute without any concurrency control and validate their results before committing. Validation checks whether the transaction's execution is equivalent to some serial execution and aborts the transaction if it is not. Validation can be done in two ways: pre-validation and post-validation.
+  - Multiversion: Transactions access multiple versions of the data items and create new versions when they update them. Multiversion concurrency control allows transactions to read consistent snapshots of the database and avoid conflicts. Multiversion concurrency control can be done in two ways: multiversion timestamping and multiversion locking.

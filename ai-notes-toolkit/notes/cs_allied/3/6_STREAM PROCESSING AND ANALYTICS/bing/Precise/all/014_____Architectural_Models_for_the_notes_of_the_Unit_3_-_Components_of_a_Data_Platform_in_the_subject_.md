@@ -1,0 +1,8 @@
+# Architectural Models for the notes of the Unit 3 - Components of a Data Platform in the subject of STREAM PROCESSING AND ANALYTICS
+
+1. **Lambda Architecture**: This architecture is designed to handle massive quantities of data by taking advantage of both batch and stream processing methods. It divides the processing into three layers: batch, serving, and speed.
+2. **Kappa Architecture**: This architecture is a simplification of the Lambda architecture, where the batch processing layer is removed, and all data is treated as a stream. It is designed to handle real-time data processing and analysis.
+3. **Microservices Architecture**: This architecture is based on the concept of developing a single application as a suite of small, independently deployable services, each running in its own process and communicating with lightweight mechanisms.
+4. **Event-Driven Architecture**: This architecture is based on the production, detection, consumption, and reaction to events. It is designed to handle asynchronous data processing and analysis.
+
+These are some of the common architectural models used in the design of data platforms for stream processing and analytics. Each model has its own advantages and disadvantages, and the choice of architecture depends on the specific requirements of the system being designed. It is important to carefully evaluate the needs of the system and choose the appropriate architecture to ensure efficient and effective data processing and analysis.

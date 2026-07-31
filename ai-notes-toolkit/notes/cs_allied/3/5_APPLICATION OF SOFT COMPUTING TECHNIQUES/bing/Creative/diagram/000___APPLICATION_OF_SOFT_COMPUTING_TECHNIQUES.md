@@ -1,0 +1,17 @@
+# APPLICATION OF SOFT COMPUTING TECHNIQUES
+
+Soft computing is a set of computational techniques that are based on artificial intelligence and natural selection. They provide quick and cost-effective solutions to very complex problems for which analytical (hard computing) formulations do not exist. Soft computing techniques are tolerant of imprecision, uncertainty, partial truth and approximation. Some of the main soft computing techniques are:
+
+- Fuzzy logic: This technique uses fuzzy sets and fuzzy rules to model the uncertainty and vagueness in human reasoning and decision making. Fuzzy logic can handle linguistic variables and qualitative information that are not easily quantified .
+- Neural networks: This technique uses artificial neurons and learning algorithms to mimic the structure and function of biological neural networks. Neural networks can learn from data and adapt to changing environments. They can perform tasks such as pattern recognition, classification, regression, clustering and optimization .
+- Genetic algorithms: This technique uses evolutionary principles and operators to search for optimal or near-optimal solutions in large and complex search spaces. Genetic algorithms can handle discrete and nonlinear problems that are difficult to solve by conventional methods .
+- Support vector machines: This technique uses kernel functions and optimization techniques to find the optimal hyperplane that separates the data into different classes. Support vector machines can perform tasks such as classification, regression, anomaly detection and feature selection.
+
+Soft computing techniques can be applied to various domains and problems, such as:
+
+- Image processing and computer vision: Soft computing techniques can help in analyzing, enhancing, segmenting, compressing and recognizing images. They can also help in extracting features, detecting edges, faces and objects, and generating 3D models from images.
+- Data mining and machine learning: Soft computing techniques can help in discovering patterns, rules, associations and clusters from large and complex data sets. They can also help in building predictive models, classifiers, recommender systems and anomaly detectors.
+- Control systems and robotics: Soft computing techniques can help in designing, modeling, simulating and optimizing control systems and robots. They can also help in implementing adaptive, intelligent and autonomous behaviors for control systems and robots.
+- Bioinformatics and biomedical engineering: Soft computing techniques can help in analyzing, modeling and interpreting biological and medical data. They can also help in diagnosing diseases, designing drugs, predicting protein structures and functions, and modeling biological systems.
+- Natural language processing and speech recognition: Soft computing techniques can help in processing, understanding and generating natural language and speech. They can also help in performing tasks such as sentiment analysis, machine translation, text summarization, speech synthesis and speech recognition.
+- Web and social media: Soft computing techniques can help in analyzing, mining and extracting information from web and social media data. They can also help in performing tasks such as web search, information retrieval, web personalization, social network analysis and opinion mining.

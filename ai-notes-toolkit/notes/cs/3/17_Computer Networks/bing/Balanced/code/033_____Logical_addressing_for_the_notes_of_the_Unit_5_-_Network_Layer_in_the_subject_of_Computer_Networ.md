@@ -1,0 +1,9 @@
+### Logical Addressing
+
+Logical addressing is a scheme of identifying and locating network devices or hosts using software-based addresses. Logical addresses are also called network addresses or IP addresses. Logical addresses are used by the network layer protocols, such as IP, to route packets across different networks. Logical addresses are independent of the physical addresses, such as MAC addresses, which are used by the data link layer protocols, such as Ethernet, to deliver frames within the same network. Logical addresses can be translated to physical addresses by using address resolution protocols, such as ARP.
+
+Some features and functions of logical addressing are:
+
+- Logical addresses are hierarchical, meaning they have two parts: network part and host part. The network part identifies the network to which the host belongs, and the host part identifies the specific host within the network. The network part and the host part can have different lengths depending on the addressing scheme used, such as IPv4 or IPv6.
+- Logical addresses are global, meaning they are unique and can be used to communicate with any host on the internet. Logical addresses are assigned by the Internet Assigned Numbers Authority (IANA) and its regional registries, such as ARIN, RIPE, APNIC, etc. Logical addresses are also dynamic, meaning they can change over time due to various reasons, such as network reconfiguration, mobility, etc.
+- Logical addresses are logical, meaning they are not tied to the physical characteristics of the network devices or hosts. Logical addresses can be changed or modified by using software configuration or network protocols, such as DHCP, NAT, etc. Logical addresses can also be mapped to different physical addresses by using address translation techniques, such as PAT, NAPT, etc.

@@ -1,0 +1,26 @@
+### Commit Protocols
+
+- Commit protocols are used to ensure the atomicity and durability of transactions in distributed systems.
+- A transaction is a sequence of operations that must be executed as a unit, either completely or not at all.
+- A commit protocol coordinates the actions of multiple processes that participate in a transaction, and decides whether to commit or abort the transaction.
+- A commit protocol typically involves two phases: a voting phase and a decision phase.
+- In the voting phase, each participant process sends a vote to a coordinator process, indicating whether it is ready to commit or not.
+- In the decision phase, the coordinator process collects the votes and decides whether to commit or abort the transaction, and informs the participants of the decision.
+- A commit protocol must satisfy the following properties:
+  - Agreement: All participants agree on the same outcome of the transaction, either commit or abort.
+  - Validity: The transaction is committed only if all participants voted to commit.
+  - Termination: All participants eventually reach a decision, either commit or abort.
+  - Non-blocking: If the coordinator or some participants fail, the remaining participants can still reach a decision.
+- There are different types of commit protocols, such as two-phase commit (2PC), three-phase commit (3PC), and consensus-based commit (CBC).
+- Two-phase commit (2PC) is the simplest and most widely used commit protocol. It consists of two phases: a prepare phase and a commit phase.
+  - In the prepare phase, the coordinator sends a prepare message to all participants, asking them to vote. Each participant replies with a yes or no vote, indicating whether it is ready to commit or not. If a participant fails or does not reply, the coordinator assumes a no vote.
+  - In the commit phase, the coordinator decides whether to commit or abort the transaction, based on the votes. If all votes are yes, the coordinator commits the transaction and sends a commit message to all participants. If any vote is no, the coordinator aborts the transaction and sends an abort message to all participants. Each participant follows the coordinator's decision and commits or aborts the transaction accordingly.
+  - 2PC guarantees agreement, validity, and termination, but not non-blocking. If the coordinator fails after sending some commit messages and some abort messages, the participants may be in an inconsistent state and cannot reach a decision without the coordinator's recovery.
+- Three-phase commit (3PC) is an extension of 2PC that adds a pre-commit phase to avoid blocking in case of coordinator failure. It consists of three phases: a prepare phase, a pre-commit phase, and a commit phase.
+  - In the prepare phase, the coordinator sends a prepare message to all participants, asking them to vote. Each participant replies with a yes or no vote, indicating whether it is ready to commit or not. If a participant fails or does not reply, the coordinator assumes a no vote.
+  - In the pre-commit phase, the coordinator decides whether to commit or abort the transaction, based on the votes. If all votes are yes, the coordinator sends a pre-commit message to all participants, indicating that it intends to commit the transaction. If any vote is no, the coordinator aborts the transaction and sends an abort message to all participants. Each participant follows the coordinator's decision and pre-commits or aborts the transaction accordingly. A pre-committed participant waits for a commit message from the coordinator to finalize the transaction.
+  - In the commit phase, the coordinator sends a commit message to all pre-committed participants, confirming the transaction. Each participant follows the coordinator's decision and commits the transaction. If the coordinator fails or does not send a commit message, the pre-committed participants can communicate with each other and decide to commit the transaction without the coordinator.
+  - 3PC guarantees agreement, validity, termination, and non-blocking, but it requires more messages and time than 2PC. It also assumes that there are no network partitions, otherwise the participants may reach different decisions.
+- Consensus-based commit (CBC) is a generalization of commit protocols that uses a consensus algorithm to reach a decision. A consensus algorithm is a distributed algorithm that allows a set of processes to agree on a common value, even if some processes fail or behave maliciously.
+  - In CBC, the coordinator proposes a value to commit or abort the transaction, and sends it to all participants. Each participant votes on the proposed value, and sends its vote to all other participants. The participants use a consensus algorithm to agree on a final value, and commit or abort the transaction accordingly.
+  - CBC guarantees agreement, validity, termination, and non-blocking, but it requires more messages and time than 2PC and 3PC. It also requires a majority of correct and honest participants to reach a decision.

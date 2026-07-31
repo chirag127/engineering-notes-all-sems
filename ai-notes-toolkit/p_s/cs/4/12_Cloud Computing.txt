@@ -1,0 +1,55 @@
+## Unit 1 - Introduction To Cloud Computing
+### Definition of Cloud for the notes of the Unit 1 - Introduction To Cloud Computing in the subject of Cloud Computing
+### Evolution of Cloud Computing for the notes of the Unit 1 - Introduction To Cloud Computing in the subject of Cloud Computing
+### Underlying Principles of Parallel and Distributed Computing for the notes of the Unit 1 - Introduction To Cloud Computing in the subject of Cloud Computing
+### Cloud Characteristics for the notes of the Unit 1 - Introduction To Cloud Computing in the subject of Cloud Computing
+### Elasticity in Cloud for the notes of the Unit 1 - Introduction To Cloud Computing in the subject of Cloud Computing
+### On‐demand Provisioning for the notes of the Unit 1 - Introduction To Cloud Computing in the subject of Cloud Computing
+## Unit 2 - Cloud Enabling Technologies Service Oriented Architecture
+### REST and Systems of Systems for the notes of the Unit 2 - Cloud Enabling Technologies Service Oriented Architecture in the subject of Cloud Computing
+### Web Services for the notes of the Unit 2 - Cloud Enabling Technologies Service Oriented Architecture in the subject of Cloud Computing
+### Publish, Subscribe Model for the notes of the Unit 2 - Cloud Enabling Technologies Service Oriented Architecture in the subject of Cloud Computing
+### Basics of Virtualization for the notes of the Unit 2 - Cloud Enabling Technologies Service Oriented Architecture in the subject of Cloud Computing
+### Types of Virtualization for the notes of the Unit 2 - Cloud Enabling Technologies Service Oriented Architecture in the subject of Cloud Computing
+### Implementation Levels of Virtualization for the notes of the Unit 2 - Cloud Enabling Technologies Service Oriented Architecture in the subject of Cloud Computing
+### Virtualization Structures for the notes of the Unit 2 - Cloud Enabling Technologies Service Oriented Architecture in the subject of Cloud Computing
+### Tools and Mechanisms for the notes of the Unit 2 - Cloud Enabling Technologies Service Oriented Architecture in the subject of Cloud Computing
+### Virtualization of CPU for the notes of the Unit 2 - Cloud Enabling Technologies Service Oriented Architecture in the subject of Cloud Computing
+### Memory for the notes of the Unit 2 - Cloud Enabling Technologies Service Oriented Architecture in the subject of Cloud Computing
+### I/O Devices for the notes of the Unit 2 - Cloud Enabling Technologies Service Oriented Architecture in the subject of Cloud Computing
+### Virtualization Support and Disaster Recovery for the notes of the Unit 2 - Cloud Enabling Technologies Service Oriented Architecture in the subject of Cloud Computing
+## Unit 3 - Cloud Architecture, Services And Storage
+### Layered Cloud Architecture Design for the notes of the Unit 3 - Cloud Architecture, Services And Storage in the subject of Cloud Computing
+### NIST Cloud Computing Reference Architecture for the notes of the Unit 3 - Cloud Architecture, Services And Storage in the subject of Cloud Computing
+### Public, Private and Hybrid Clouds for the notes of the Unit 3 - Cloud Architecture, Services And Storage in the subject of Cloud Computing
+### laaS for the notes of the Unit 3 - Cloud Architecture, Services And Storage in the subject of Cloud Computing
+### PaaS for the notes of the Unit 3 - Cloud Architecture, Services And Storage in the subject of Cloud Computing
+### SaaS for the notes of the Unit 3 - Cloud Architecture, Services And Storage in the subject of Cloud Computing
+### Architectural Design Challenges for the notes of the Unit 3 - Cloud Architecture, Services And Storage in the subject of Cloud Computing
+### Cloud Storage for the notes of the Unit 3 - Cloud Architecture, Services And Storage in the subject of Cloud Computing
+### Storage‐as‐a‐Service for the notes of the Unit 3 - Cloud Architecture, Services And Storage in the subject of Cloud Computing
+### Advantages of Cloud Storage for the notes of the Unit 3 - Cloud Architecture, Services And Storage in the subject of Cloud Computing
+### Cloud Storage Providers for the notes of the Unit 3 - Cloud Architecture, Services And Storage in the subject of Cloud Computing
+### S3 for the notes of the Unit 3 - Cloud Architecture, Services And Storage in the subject of Cloud Computing
+## Unit 4 - Resource Management And Security In Cloud
+### Inter Cloud Resource Management for the notes of the Unit 4 - Resource Management And Security In Cloud in the subject of Cloud Computing
+### Resource Provisioning for the notes of the Unit 4 - Resource Management And Security In Cloud in the subject of Cloud Computing
+### Resource Provisioning Methods for the notes of the Unit 4 - Resource Management And Security In Cloud in the subject of Cloud Computing
+### Global Exchange of Cloud Resources for the notes of the Unit 4 - Resource Management And Security In Cloud in the subject of Cloud Computing
+### Security Overview for the notes of the Unit 4 - Resource Management And Security In Cloud in the subject of Cloud Computing
+### Cloud Security Challenges for the notes of the Unit 4 - Resource Management And Security In Cloud in the subject of Cloud Computing
+### Software‐as‐a‐Service Security for the notes of the Unit 4 - Resource Management And Security In Cloud in the subject of Cloud Computing
+### Security Governance for the notes of the Unit 4 - Resource Management And Security In Cloud in the subject of Cloud Computing
+### Virtual Machine Security for the notes of the Unit 4 - Resource Management And Security In Cloud in the subject of Cloud Computing
+### IAM for the notes of the Unit 4 - Resource Management And Security In Cloud in the subject of Cloud Computing
+### Security Standards for the notes of the Unit 4 - Resource Management And Security In Cloud in the subject of Cloud Computing
+## Unit 5 - Cloud Technologies And Advancements Hadoop
+### MapReduce for the notes of the Unit 5 - Cloud Technologies And Advancements Hadoop in the subject of Cloud Computing
+### Virtual Box for the notes of the Unit 5 - Cloud Technologies And Advancements Hadoop in the subject of Cloud Computing
+### Google App Engine for the notes of the Unit 5 - Cloud Technologies And Advancements Hadoop in the subject of Cloud Computing
+### Programming Environment for Google App Engine for the notes of the Unit 5 - Cloud Technologies And Advancements Hadoop in the subject of Cloud Computing
+### Open Stack for the notes of the Unit 5 - Cloud Technologies And Advancements Hadoop in the subject of Cloud Computing
+### Federation in the Cloud for the notes of the Unit 5 - Cloud Technologies And Advancements Hadoop in the subject of Cloud Computing
+### Four Levels of Federation for the notes of the Unit 5 - Cloud Technologies And Advancements Hadoop in the subject of Cloud Computing
+### Federated Services and Applications for the notes of the Unit 5 - Cloud Technologies And Advancements Hadoop in the subject of Cloud Computing
+### Future of Federation for the notes of the Unit 5 - Cloud Technologies And Advancements Hadoop in the subject of Cloud Computing

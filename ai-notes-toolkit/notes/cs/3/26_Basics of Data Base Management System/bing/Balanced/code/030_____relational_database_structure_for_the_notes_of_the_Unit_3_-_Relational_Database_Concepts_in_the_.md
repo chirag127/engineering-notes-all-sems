@@ -1,0 +1,9 @@
+### Relational Database Structure
+
+- A relational database is a collection of data organized into tables, also known as relations, that are linked by common attributes or keys.
+- A table consists of rows, also known as tuples or records, that store data about an entity or an object, and columns, also known as attributes or fields, that store data about a property or a characteristic of the entity.
+- A primary key is a column or a combination of columns that uniquely identifies each row in a table. A primary key cannot contain null values or duplicate values.
+- A foreign key is a column or a combination of columns that references the primary key of another table. A foreign key establishes a relationship between two tables and enforces referential integrity, which means that the values in the foreign key column must match the values in the referenced primary key column or be null.
+- A relational database can have many types of relationships between tables, such as one-to-one, one-to-many, many-to-one, or many-to-many. A relationship is represented by a line that connects the foreign key of one table to the primary key of another table.
+- A relational database can be normalized to reduce data redundancy and improve data integrity. Normalization is the process of organizing the data into tables that follow certain rules or normal forms. The most common normal forms are first normal form (1NF), second normal form (2NF), and third normal form (3NF).
+- A relational database can be queried using a structured query language (SQL), which is a standard language for manipulating and retrieving data from relational databases. SQL consists of commands, clauses, operators, functions, and expressions that specify the data to be retrieved or modified. SQL can also be used to create, alter, or delete tables and other database objects.

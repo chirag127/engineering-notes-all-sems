@@ -1,0 +1,25 @@
+## Unit 3 - Pollution and their Effects; Public Health Aspects of Environmental; Water Pollution, Air Pollution, Soil Pollution, Noise Pollution, Solid waste management.
+
+- Pollution is the introduction of harmful substances or energy into the environment that cause adverse effects on living and non-living things.
+- Pollution can be classified into different types based on the source, nature, and impact of the pollutants. Some of the common types of pollution are:
+  - Water pollution: The contamination of water bodies such as rivers, lakes, oceans, groundwater, etc. by chemicals, microorganisms, sewage, oil spills, etc. that affect the quality and availability of water for various purposes.
+  - Air pollution: The presence of harmful substances such as gases, dust, smoke, fumes, etc. in the atmosphere that affect the health and well-being of humans, animals, and plants, as well as the climate and weather.
+  - Soil pollution: The degradation of soil quality and fertility by the addition of chemicals, wastes, pesticides, fertilizers, etc. that affect the growth and productivity of crops, as well as the biodiversity and ecosystem of the soil.
+  - Noise pollution: The exposure to unwanted and excessive sounds that cause annoyance, stress, hearing loss, sleep disturbance, etc. to humans and animals, as well as interfere with the natural sounds of the environment.
+  - Solid waste pollution: The accumulation of solid materials such as garbage, plastics, metals, paper, etc. that are discarded or disposed of improperly, causing environmental and health hazards, as well as aesthetic problems.
+- Pollution has various causes and effects that vary depending on the type, source, and level of pollution. Some of the general causes and effects of pollution are:
+  - Causes of pollution:
+    - Human activities such as industrialization, urbanization, agriculture, transportation, mining, deforestation, etc. that generate large amounts of pollutants and wastes that are released into the environment .
+    - Natural phenomena such as volcanic eruptions, forest fires, dust storms, etc. that produce natural pollutants such as ash, smoke, dust, etc. that affect the air quality and climate.
+    - Lack of awareness, education, regulation, and enforcement of environmental laws and standards that allow the misuse and overuse of natural resources and the improper management and disposal of wastes.
+  - Effects of pollution:
+    - Environmental effects such as degradation of natural resources, loss of biodiversity, climate change, global warming, acid rain, ozone depletion, etc. that threaten the sustainability and balance of the environment  .
+    - Health effects such as respiratory diseases, cardiovascular diseases, cancer, allergies, infections, etc. that affect the physical and mental well-being of humans and animals, as well as increase the mortality and morbidity rates   .
+    - Social and economic effects such as reduced quality of life, increased poverty, inequality, conflict, migration, etc. that affect the development and stability of human societies and economies .
+- Public health aspects of environmental pollution refer to the study and management of the effects of pollution on the health and well-being of human populations, as well as the prevention and control of pollution-related diseases and risks.
+- Some of the public health aspects of environmental pollution are:
+  - Monitoring and assessment of the levels and sources of pollution and their impacts on human health and the environment.
+  - Development and implementation of policies, laws, standards, and regulations to reduce and prevent pollution and its adverse effects.
+  - Promotion and education of the public and stakeholders on the causes, effects, and solutions of pollution and its health implications.
+  - Provision and improvement of health care and services to prevent, diagnose, treat, and manage pollution-related diseases and conditions.
+  - Research and innovation of new technologies, methods, and strategies to address the challenges and opportunities of pollution and its health aspects.

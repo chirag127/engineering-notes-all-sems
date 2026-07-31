@@ -1,0 +1,24 @@
+### Electronic discussion networks
+
+- Electronic discussion networks are online platforms that enable communication and information exchange among people who share a common interest or topic.
+- Electronic discussion networks can take various forms, such as email lists, bulletin boards, forums, blogs, social media, etc .
+- Electronic discussion networks can have various benefits, such as:
+  - Providing access to diverse perspectives and expertise from different locations and backgrounds .
+  - Enhancing critical thinking and argumentation skills by allowing more time and space for reflection and feedback.
+  - Supporting collaborative learning and knowledge creation by facilitating peer interaction and feedback .
+  - Increasing engagement and motivation by allowing personalization and choice of topics and formats.
+- Electronic discussion networks can also have some challenges, such as:
+  - Requiring technical skills and access to reliable internet and devices.
+  - Demanding time and effort to participate and moderate effectively .
+  - Exposing participants to potential risks of privacy, security, and ethical issues .
+- Electronic discussion networks can be analyzed using social network analysis (SNA) methods, which can reveal the structure, dynamics, and patterns of interaction among participants.
+- SNA can help understand the characteristics and behaviors of electronic discussion networks, such as:
+  - The size, density, and centrality of the network and its nodes.
+  - The roles, positions, and influence of the participants in the network.
+  - The topics, themes, and sentiments of the messages in the network.
+  - The evolution, change, and stability of the network over time.
+- SNA can also help evaluate the outcomes and impacts of electronic discussion networks, such as:
+  - The quality, quantity, and diversity of the information and knowledge exchanged in the network.
+  - The level, type, and quality of the participation and engagement in the network.
+  - The formation, maintenance, and dissolution of relationships and communities in the network.
+  - The effects of the network on the individual and collective learning and performance of the participants.

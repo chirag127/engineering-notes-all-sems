@@ -1,0 +1,15 @@
+## Unit 3 - Divide and Conquer with Examples Such as Sorting, Matrix Multiplication, Convex Hull and Searching. Greedy Methods with Examples Such as Optimal Reliability Allocation, Knapsack, Minimum Spanning Trees – Prim’s and Kruskal’s Algorithms, Single Source Shortest Paths - Dijkstra’s and Bellman Ford Algorithms.
+
+- Divide and conquer is a technique of breaking a problem into smaller subproblems, solving them recursively, and combining the solutions to obtain the final answer.
+- Some examples of divide and conquer algorithms are:
+  - Sorting: Merge sort, quick sort, and heap sort are based on dividing the array into smaller parts, sorting them, and merging or rearranging them.
+  - Matrix multiplication: Strassen's algorithm is based on dividing the matrices into smaller submatrices, multiplying them recursively, and adding or subtracting the results to obtain the final product.
+  - Convex hull: The convex hull of a set of points is the smallest convex polygon that contains all the points. Graham scan and quick hull are algorithms that use divide and conquer to find the convex hull of a set of points.
+  - Searching: Binary search and interpolation search are based on dividing the search space into smaller intervals, and finding the target element by comparing it with the middle or a suitable point.
+
+- Greedy methods are a technique of making the best local choice at each step, hoping that it will lead to the optimal global solution.
+- Some examples of greedy algorithms are:
+  - Optimal reliability allocation: Given a system with n components, each having a reliability and a cost, and a budget B, the problem is to allocate the reliability to each component such that the overall system reliability is maximized. A greedy algorithm is to sort the components by their cost-reliability ratios, and allocate the reliability to the components with the lowest ratios until the budget is exhausted.
+  - Knapsack: Given a set of items, each having a weight and a value, and a capacity C, the problem is to select a subset of items such that the total weight does not exceed C and the total value is maximized. A greedy algorithm is to sort the items by their value-weight ratios, and select the items with the highest ratios until the capacity is reached or no more items can be added.
+  - Minimum spanning trees: Given a connected, undirected, weighted graph, the problem is to find a subset of edges that connects all the vertices and has the minimum total weight. Prim's algorithm and Kruskal's algorithm are greedy algorithms that find the minimum spanning tree by adding the edges with the lowest weights that do not create cycles.
+  - Single source shortest paths: Given a weighted graph and a source vertex, the problem is to find the shortest paths from the source to all other vertices. Dijkstra's algorithm and Bellman Ford algorithm are greedy algorithms that find the shortest paths by relaxing the edges in a certain order and updating the distances of the vertices.

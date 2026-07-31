@@ -1,0 +1,26 @@
+### Prototype Model
+
+- A prototype model is a **first or preliminary version** of the final software that has **limited functionality**, **low reliability**, and **inefficient performance**.
+- A prototype model is used when the **customers do not know the exact project requirements** beforehand or when the requirements are **complex** or **unclear** .
+- A prototype model helps to **obtain feedback** from the customers and **refine** the software as per their needs and expectations .
+- A prototype model can be **throwaway** or **evolutionary** .
+  - A throwaway prototype is a **temporary** model that is **discarded** after getting the feedback and **not used** for further development .
+  - An evolutionary prototype is a **permanent** model that is **incrementally improved** and **becomes** the final software .
+- A prototype model has the following **phases**  :
+  - **Requirement gathering and analysis**: The basic requirements of the software are **collected** and **analyzed** from the customers and stakeholders.
+  - **Quick design**: A **rough design** of the software is **created** based on the requirements, without focusing on the details or quality.
+  - **Build prototype**: A **working prototype** of the software is **built** based on the quick design, using tools and techniques that are **easy** and **fast**.
+  - **Customer evaluation**: The prototype is **presented** to the customers and stakeholders for **evaluation** and **feedback**. The prototype is **tested** for its functionality, usability, and suitability.
+  - **Refining prototype**: Based on the feedback, the prototype is **refined** and **modified** to meet the customer's expectations and requirements. This phase is **repeated** until the customer is **satisfied** with the prototype.
+  - **Engineer product**: The final software is **developed** using the **approved** prototype as a **basis**. The software is **coded**, **tested**, and **documented** using standard software engineering practices.
+- A prototype model has the following **advantages**    :
+  - It **reduces** the risk of **misunderstanding** or **miscommunication** between the developers and the customers.
+  - It **increases** the **involvement** and **satisfaction** of the customers and stakeholders.
+  - It **allows** for **early detection** and **correction** of errors and defects.
+  - It **facilitates** the **exploration** and **experimentation** of new ideas and features.
+  - It **saves** time and cost by **avoiding** major **changes** or **rework** in the later stages of development.
+- A prototype model has the following **disadvantages**    :
+  - It **requires** more **resources** and **effort** to build and maintain multiple prototypes.
+  - It **may** lead to **incomplete** or **inconsistent** requirements if the feedback is **not clear** or **adequate**.
+  - It **may** compromise the **quality** and **performance** of the software if the prototype is **not well-designed** or **documented**.
+  - It **may** create **unrealistic** or **high** expectations from the customers and stakeholders if the prototype is **not representative** of the final software.

@@ -1,0 +1,23 @@
+# I/O Systems
+
+- I/O systems are the components that enable an embedded system to interact with the external world, such as sensors, actuators, displays, keyboards, etc.
+- I/O systems can be classified into two types: parallel and serial.
+  - Parallel I/O systems transfer multiple bits of data simultaneously using multiple wires or pins. They are faster but require more hardware resources and wiring complexity.
+  - Serial I/O systems transfer one bit of data at a time using one or two wires or pins. They are slower but require less hardware resources and wiring complexity.
+- I/O systems can also be classified into two modes: synchronous and asynchronous.
+  - Synchronous I/O systems transfer data at a fixed rate and require a clock signal to synchronize the sender and receiver. They are more reliable but require more bandwidth and power consumption.
+  - Asynchronous I/O systems transfer data at a variable rate and do not require a clock signal to synchronize the sender and receiver. They are less reliable but require less bandwidth and power consumption.
+- I/O systems can use different protocols to communicate with the embedded system, such as SPI, I2C, UART, USB, etc.
+  - SPI (Serial Peripheral Interface) is a synchronous serial protocol that uses four wires: SCLK (serial clock), MOSI (master out slave in), MISO (master in slave out), and SS (slave select). It supports full-duplex communication and multiple slave devices.
+  - I2C (Inter-Integrated Circuit) is a synchronous serial protocol that uses two wires: SDA (serial data) and SCL (serial clock). It supports half-duplex communication and multiple master and slave devices.
+  - UART (Universal Asynchronous Receiver/Transmitter) is an asynchronous serial protocol that uses two wires: TX (transmit) and RX (receive). It supports full-duplex communication and requires a common baud rate and parity bit for both sender and receiver.
+  - USB (Universal Serial Bus) is a synchronous serial protocol that uses four wires: VCC (power supply), GND (ground), D+ (data plus), and D- (data minus). It supports full-duplex communication and multiple device classes and configurations.
+- I/O systems can have different impacts on the performance and functionality of an embedded system, such as latency, throughput, reliability, power consumption, etc.
+  - Latency is the delay between the initiation and completion of an I/O operation. It depends on the speed, mode, and protocol of the I/O system, as well as the processing and scheduling of the embedded system.
+  - Throughput is the amount of data transferred per unit of time. It depends on the bandwidth, mode, and protocol of the I/O system, as well as the processing and scheduling of the embedded system.
+  - Reliability is the probability of an I/O operation being completed without errors or failures. It depends on the noise, interference, and error detection and correction mechanisms of the I/O system, as well as the processing and scheduling of the embedded system.
+  - Power consumption is the amount of energy consumed by an I/O system during an I/O operation. It depends on the voltage, current, and frequency of the I/O system, as well as the processing and scheduling of the embedded system.
+- I/O systems can be integrated with an embedded system using different methods, such as polling, interrupts, DMA, etc.
+  - Polling is a method where the embedded system periodically checks the status of the I/O system and performs the I/O operation when the I/O system is ready. It is simple but inefficient and wasteful of CPU resources and power.
+  - Interrupts are a method where the I/O system notifies the embedded system when it is ready to perform the I/O operation by sending a signal to the CPU. The CPU then suspends the current task and executes the I/O operation. It is efficient but complex and requires a dedicated interrupt handler and priority mechanism.
+  - DMA (Direct Memory Access) is a method where the I/O system transfers the data directly to or from the memory without involving the CPU. The CPU only initiates and terminates the I/O operation. It is fast but requires a dedicated DMA controller and memory management unit.

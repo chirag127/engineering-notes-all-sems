@@ -1,0 +1,21 @@
+### Hashes
+
+- A hash function is a mathematical function that maps an arbitrary input to a fixed-length output, called a hash or a digest.
+- A hash function has the following properties:
+  - It is deterministic, meaning that the same input always produces the same output.
+  - It is efficient, meaning that it is easy to compute the output given the input.
+  - It is pre-image resistant, meaning that it is hard to find an input that produces a given output.
+  - It is second pre-image resistant, meaning that it is hard to find another input that produces the same output as a given input.
+  - It is collision resistant, meaning that it is hard to find two different inputs that produce the same output.
+- A hash function can be used for various purposes, such as:
+  - Data integrity, to verify that the data has not been altered or corrupted.
+  - Authentication, to prove the identity or origin of the data.
+  - Digital signatures, to sign the data with a private key and verify it with a public key.
+  - Key derivation, to generate cryptographic keys from a secret or a password.
+  - Proof of work, to demonstrate that a certain amount of computational effort has been expended.
+- Some examples of hash functions are:
+  - SHA-1, which produces a 160-bit output and is widely used but no longer considered secure due to collision attacks.
+  - SHA-2, which is a family of hash functions that produce outputs of 224, 256, 384 or 512 bits and are considered secure and standardized.
+  - SHA-3, which is a newer family of hash functions that produce outputs of 224, 256, 384 or 512 bits and are based on a different design than SHA-2, called the sponge construction.
+  - MD5, which produces a 128-bit output and is widely used but no longer considered secure due to collision attacks.
+  - BLAKE2, which is a fast and secure hash function that produces outputs of 160, 256, 384 or 512 bits and is based on the ChaCha stream cipher.

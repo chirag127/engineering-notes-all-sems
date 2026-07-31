@@ -1,0 +1,13 @@
+#### Channel allocation in medium access control
+
+- Channel allocation is the process of assigning channels (frequency bands, time slots, code sequences, etc.) to different users or applications that share a common communication medium.
+- Medium access control (MAC) is the sublayer of the data link layer that coordinates the access to the shared medium among multiple MAC entities (nodes, devices, etc.).
+- Channel allocation and medium access control are closely related, as the MAC protocol determines how the channels are allocated and accessed by the MAC entities.
+- There are different types of channel allocation schemes, such as:
+  - Fixed channel allocation: each channel is assigned to a specific user or application and remains fixed for the duration of the communication. This scheme is simple and efficient, but may result in underutilization or wastage of channels if the traffic is not uniform or predictable.
+  - Dynamic channel allocation: channels are assigned to users or applications on demand, based on the current traffic conditions and channel availability. This scheme is more flexible and adaptive, but may incur higher overhead and complexity in channel management and coordination.
+  - Hybrid channel allocation: a combination of fixed and dynamic channel allocation, where some channels are reserved for specific users or applications, while others are available for dynamic allocation. This scheme can balance the trade-off between efficiency and flexibility, but may require more sophisticated MAC protocols and algorithms.
+- There are different types of MAC protocols, such as:
+  - Contention-based MAC: MAC entities compete for the access to the channel, using random or deterministic methods to resolve the contention. This type of MAC is suitable for dynamic and bursty traffic, but may result in collisions, delays, and unfairness.
+  - Reservation-based MAC: MAC entities reserve the channel in advance, using a centralized or distributed mechanism to coordinate the reservations. This type of MAC is suitable for predictable and periodic traffic, but may result in inefficiency and overhead if the traffic is variable or unpredictable.
+  - Hybrid MAC: a combination of contention-based and reservation-based MAC, where some channels are accessed by contention, while others are accessed by reservation. This type of MAC can adapt to different traffic patterns and requirements, but may require more complex MAC protocols and algorithms.

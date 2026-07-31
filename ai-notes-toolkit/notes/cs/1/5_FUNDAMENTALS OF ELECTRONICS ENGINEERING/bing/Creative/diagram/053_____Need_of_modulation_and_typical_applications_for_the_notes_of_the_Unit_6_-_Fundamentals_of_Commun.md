@@ -1,0 +1,15 @@
+### Need of modulation and typical applications
+
+Modulation is the process of changing the characteristics of a carrier signal (such as amplitude, frequency or phase) according to the information signal (such as voice, data or video). Modulation is necessary for various reasons, such as:
+
+- To increase the range and quality of communication: Modulation enables the transmission of low-frequency signals over long distances by using high-frequency carrier waves. Modulation also improves the signal-to-noise ratio and reduces the effect of noise and interference on the received signal .
+- To reduce the size and cost of the antenna: Modulation allows the use of a smaller and cheaper antenna for transmitting and receiving signals. The antenna size is inversely proportional to the frequency of the signal. By using a high-frequency carrier wave, the antenna size can be reduced .
+- To enable multiplexing and sharing of the channel: Modulation allows the transmission of multiple signals over the same channel by using different carrier frequencies or modulation schemes. This is known as frequency division multiplexing (FDM) or modulation division multiplexing (MDM). Multiplexing increases the efficiency and capacity of the channel  .
+- To facilitate the conversion and processing of signals: Modulation enables the conversion of signals from one form to another, such as from analog to digital or vice versa. Modulation also facilitates the processing of signals, such as filtering, amplification, encryption, compression, etc.
+
+Some of the typical applications of modulation are:
+
+- Radio and television broadcasting: Modulation is used to transmit audio and video signals over the airwaves using radio frequency (RF) carrier waves. Different types of modulation, such as amplitude modulation (AM), frequency modulation (FM), phase modulation (PM), etc., are used for different purposes and quality of transmission .
+- Wireless communication: Modulation is used to transmit voice, data and video signals over wireless networks, such as cellular, Wi-Fi, Bluetooth, satellite, etc. Different types of modulation, such as quadrature amplitude modulation (QAM), quadrature phase shift keying (QPSK), orthogonal frequency division multiplexing (OFDM), etc., are used for different purposes and quality of transmission .
+- Optical communication: Modulation is used to transmit signals over optical fibers using light waves as carrier waves. Different types of modulation, such as intensity modulation, phase modulation, polarization modulation, etc., are used for different purposes and quality of transmission.
+- Digital communication: Modulation is used to transmit digital signals over analog baseband channels, such as telephone lines, coaxial cables, etc. Different types of modulation, such as pulse amplitude modulation (PAM), pulse code modulation (PCM), pulse position modulation (PPM), etc., are used for different purposes and quality of transmission.

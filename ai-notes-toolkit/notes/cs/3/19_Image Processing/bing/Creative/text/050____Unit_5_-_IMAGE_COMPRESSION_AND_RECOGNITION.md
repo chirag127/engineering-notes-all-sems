@@ -1,0 +1,22 @@
+## Unit 5 - IMAGE COMPRESSION AND RECOGNITION
+
+- Image compression is the process of reducing the file size of an image while still trying to preserve the quality of the image.
+- Image compression is useful for saving storage space, reducing bandwidth requirements, and improving the efficiency of image processing algorithms.
+- Image compression can be classified into two types: lossless and lossy.
+  - Lossless compression preserves the exact information of the original image, but achieves a lower compression ratio.
+  - Lossy compression discards some information of the original image, but achieves a higher compression ratio.
+- Image compression can be performed by applying the following basic steps:
+  - Applying an image transform to convert the image from the spatial domain to another domain, such as the frequency domain or the wavelet domain.
+  - Quantizing the transformed coefficients to reduce the number of bits required to represent them.
+  - Encoding the quantized coefficients using a suitable coding scheme, such as Huffman coding or arithmetic coding.
+- Image recognition is the process of identifying and classifying objects, faces, scenes, or actions in an image.
+- Image recognition is a subfield of computer vision and machine learning that has many applications, such as face recognition, object detection, scene understanding, and image retrieval.
+- Image recognition can be performed by applying the following basic steps:
+  - Preprocessing the image to enhance the quality, normalize the size, and extract features.
+  - Applying a recognition model to classify the image or detect the regions of interest.
+  - Postprocessing the recognition results to refine the accuracy, eliminate the false positives, and generate the output.
+- Image recognition can be based on traditional methods, such as template matching, histogram of oriented gradients, or scale-invariant feature transform.
+- Image recognition can also be based on deep learning methods, such as convolutional neural networks, generative adversarial networks, or transformers.
+- Deep learning methods have achieved remarkable performance in image recognition, surpassing the traditional methods in many tasks.
+- Deep learning methods can also be used for image compression, by learning the optimal transform, quantization, and encoding functions from the data.
+- Deep learning methods can also be used for recognition-aware image compression, by optimizing the compression quality for a specific recognition task, such as classification, object detection, or superresolution.

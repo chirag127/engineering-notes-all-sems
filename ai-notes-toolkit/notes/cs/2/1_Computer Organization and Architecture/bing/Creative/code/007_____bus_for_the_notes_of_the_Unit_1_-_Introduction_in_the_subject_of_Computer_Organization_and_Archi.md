@@ -1,0 +1,12 @@
+### Bus
+
+A bus is a communication system that transfers data between components inside a computer, or between computers. A bus consists of a set of wires or lines that carry signals. A bus can be classified into three types: data bus, address bus, and control bus.
+
+- Data bus: A data bus is a bidirectional bus that transfers data between the CPU, memory, and I/O devices. The width of the data bus determines how many bits of data can be transferred at a time. For example, a 32-bit data bus can transfer 32 bits of data in one cycle.
+- Address bus: An address bus is a unidirectional bus that carries the address of the memory location or I/O device that the CPU wants to access. The width of the address bus determines how many memory locations or I/O devices can be addressed by the CPU. For example, a 16-bit address bus can address 2^16 or 65,536 memory locations or I/O devices.
+- Control bus: A control bus is a bidirectional bus that carries control signals between the CPU, memory, and I/O devices. Control signals are used to coordinate the operations of the components and indicate the status of the data transfer. For example, some common control signals are read, write, memory request, I/O request, etc.
+
+A common bus system is a system where all the components of the computer share the same bus. This reduces the cost and complexity of the system, but also limits the performance and scalability of the system. A common bus system can be further divided into two types: single-bus system and multiple-bus system.
+
+- Single-bus system: A single-bus system is a system where there is only one bus for data, address, and control signals. This means that only one component can use the bus at a time, and the other components have to wait until the bus is free. This creates a bottleneck in the system and reduces the speed of data transfer. A single-bus system is also called a Von Neumann architecture or a Princeton architecture.
+- Multiple-bus system: A multiple-bus system is a system where there are separate buses for data, address, and control signals. This means that multiple components can use the buses simultaneously, and the data transfer can be faster and more efficient. A multiple-bus system is also called a Harvard architecture or a modified Harvard architecture.

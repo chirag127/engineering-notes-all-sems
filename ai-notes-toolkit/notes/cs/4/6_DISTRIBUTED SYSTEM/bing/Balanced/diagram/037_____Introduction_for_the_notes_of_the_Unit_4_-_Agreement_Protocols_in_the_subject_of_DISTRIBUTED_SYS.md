@@ -1,0 +1,22 @@
+### Introduction
+
+- Agreement protocols are a class of distributed algorithms that allow a set of processes to reach a common decision based on their individual inputs and preferences.
+- Agreement protocols are essential for ensuring consistency, reliability, fault-tolerance, and security in distributed systems.
+- Some examples of agreement problems are:
+  - Consensus: All processes agree on a single value from a set of proposed values.
+  - Atomic commit: All processes agree on whether to commit or abort a distributed transaction.
+  - Byzantine agreement: All processes agree on a single value from a set of proposed values, even if some processes are faulty or malicious.
+  - Leader election: All processes agree on a unique process to act as the coordinator or leader of the system.
+  - Mutual exclusion: All processes agree on which process can access a shared resource at a given time.
+- Agreement protocols are challenging to design and implement because of the inherent uncertainty and asynchrony in distributed systems. Processes may fail, messages may be lost or delayed, and clocks may be unsynchronized.
+- Agreement protocols must satisfy some desirable properties, such as:
+  - Validity: The agreed value must be one of the proposed values.
+  - Agreement: All correct processes must agree on the same value.
+  - Termination: All correct processes must eventually decide on a value.
+  - Fault-tolerance: The protocol must work correctly even if some processes fail or behave arbitrarily.
+  - Efficiency: The protocol must use a reasonable amount of time, space, and communication resources.
+- Agreement protocols can be classified into different categories based on the assumptions they make about the system model, such as:
+  - Synchronous vs. asynchronous: Whether the protocol assumes bounded or unbounded delays in message delivery and process execution.
+  - Crash vs. Byzantine: Whether the protocol assumes processes can only fail by crashing or can also behave arbitrarily or maliciously.
+  - Deterministic vs. randomized: Whether the protocol always produces the same output for the same input or can use randomization to break ties or increase the probability of success.
+  - Message-passing vs. shared-memory: Whether the protocol uses direct communication between processes or indirect communication via a shared data structure.

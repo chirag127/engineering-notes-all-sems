@@ -1,0 +1,15 @@
+### NIST Cloud Computing Reference Architecture
+
+- The NIST Cloud Computing Reference Architecture (NIST SP 500-292) is a document that defines a neutral and generic cloud computing architecture and taxonomy to facilitate communication and understanding of various cloud services and offerings .
+- The NIST Cloud Computing Reference Architecture consists of five major components: cloud consumer, cloud provider, cloud broker, cloud auditor, and cloud carrier .
+- Cloud consumer is the entity that uses cloud services from a cloud provider. Cloud consumer can be an individual, an organization, or a software system.
+- Cloud provider is the entity that provides cloud services to cloud consumers. Cloud provider can offer different types of cloud service models, such as Software as a Service (SaaS), Platform as a Service (PaaS), or Infrastructure as a Service (IaaS).
+- Cloud broker is an intermediary entity that manages the use, performance, and delivery of cloud services for cloud consumers. Cloud broker can provide three types of services: service intermediation, service aggregation, or service arbitrage.
+- Cloud auditor is an independent entity that conducts audits and assessments of cloud services, such as security, privacy, performance, or compliance.
+- Cloud carrier is the entity that provides connectivity and transport of cloud services between cloud consumers and cloud providers. Cloud carrier can be a network provider, a telecommunication provider, or an internet service provider.
+- The NIST Cloud Computing Reference Architecture also defines a set of roles and activities for each component, as well as the interactions and dependencies among them.
+- The NIST Cloud Computing Reference Architecture is intended to be a tool for describing, analyzing, and comparing different cloud services and architectures, and to provide a common vocabulary and framework for cloud computing.
+- The NIST Cloud Computing Reference Architecture is not a prescriptive or normative standard, but rather a descriptive and informative one. It does not specify any implementation details, technologies, or standards for cloud computing.
+- The NIST Cloud Computing Reference Architecture is based on the NIST Cloud Computing Definition (NIST SP 800-145), which defines cloud computing as a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources that can be rapidly provisioned and released with minimal management effort or service provider interaction .
+- The NIST Cloud Computing Reference Architecture is also aligned with the NIST Cloud Computing Standards Roadmap (NIST SP 500-291), which identifies the existing and emerging standards relevant for cloud computing, and the NIST Cloud Computing Technology Roadmap (NIST SP 500-293), which identifies the technical requirements and priorities for cloud computing .
+- The NIST Cloud Computing Reference Architecture is a living document that will be updated and revised as the cloud computing landscape evolves and new requirements and challenges emerge.

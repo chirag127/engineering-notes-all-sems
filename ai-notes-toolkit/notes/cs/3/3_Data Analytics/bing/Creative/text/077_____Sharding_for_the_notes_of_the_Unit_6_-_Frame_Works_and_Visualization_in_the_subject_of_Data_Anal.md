@@ -1,0 +1,9 @@
+### Sharding
+
+- Sharding is a database partitioning technique used by blockchain companies with the purpose of scalability, enabling them to process more transactions per second.
+- Sharding splits a blockchain company's entire network into smaller partitions, known as "shards" . Each shard contains a subset of the data and can operate independently from other shards .
+- Sharding reduces the load on each node in the network, as they only have to store and process data from their own shard, not the entire database . This improves the performance, availability, and security of the database .
+- Sharding can be implemented in different ways, such as horizontal sharding, vertical sharding, or hybrid sharding . Horizontal sharding divides the data by rows, vertical sharding divides the data by columns, and hybrid sharding combines both methods .
+- Sharding is not a new concept, as it has been used in traditional databases for a long time . However, applying sharding to blockchain networks poses some challenges, such as ensuring data consistency, integrity, and validity across shards .
+- Sharding is one of the proposed solutions to the scalability problem of blockchain networks, which face limitations in their throughput and latency due to the consensus mechanism and the distributed nature of the system .
+- Sharding is still an active area of research and development, as different blockchain platforms are experimenting with different sharding models and protocols . Some examples of blockchain platforms that use or plan to use sharding are Ethereum 2.0, Zilliqa, Harmony, and Polkadot .

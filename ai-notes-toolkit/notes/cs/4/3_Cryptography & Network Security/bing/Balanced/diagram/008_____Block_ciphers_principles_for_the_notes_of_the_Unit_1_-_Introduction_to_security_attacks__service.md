@@ -1,0 +1,10 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for Cryptography & Network Security. Here are some notes on the topic of block ciphers principles:
+
+### Block ciphers principles
+
+- A block cipher is a symmetric-key encryption algorithm that operates on fixed-length blocks of plaintext and ciphertext.
+- A block cipher consists of two functions: an encryption function E and a decryption function D, such that D(E(P, K), K) = P, where P is the plaintext block, K is the secret key, and C is the ciphertext block.
+- A block cipher can be characterized by its block size, key size, and number of rounds. The block size determines how much data can be encrypted or decrypted at a time. The key size determines the security level of the cipher. The number of rounds determines how complex the encryption or decryption process is.
+- A block cipher can be designed using different structures, such as substitution-permutation networks (SPNs) or Feistel networks. An SPN consists of alternating layers of substitution and permutation operations, while a Feistel network consists of repeated applications of a round function that splits the block into two halves and performs a non-linear transformation on one half using the other half and a subkey.
+- A block cipher should satisfy two main properties: confusion and diffusion. Confusion means that the relationship between the plaintext, ciphertext, and key should be complex and obscure, so that an attacker cannot deduce the key or the plaintext from the ciphertext. Diffusion means that a small change in the plaintext or the key should result in a large change in the ciphertext, so that an attacker cannot exploit statistical patterns or correlations in the data.
+- A block cipher can be used in different modes of operation, such as electronic codebook (ECB), cipher block chaining (CBC), cipher feedback (CFB), output feedback (OFB), or counter (CTR). Each mode has different advantages and disadvantages in terms of security, efficiency, and error propagation.

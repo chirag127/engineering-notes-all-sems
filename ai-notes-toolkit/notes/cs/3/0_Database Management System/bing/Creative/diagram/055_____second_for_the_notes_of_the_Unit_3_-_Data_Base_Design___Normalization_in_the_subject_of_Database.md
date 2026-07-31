@@ -1,0 +1,26 @@
+### Database Design and Normalization
+
+- Database design is the process of creating a logical and physical structure for storing and manipulating data in a database system.
+- Database normalization is a technique of database design that aims to reduce data redundancy and dependency by organizing data into smaller and more meaningful tables and defining relationships between them.
+- The benefits of database normalization are:
+  - Improved data integrity and consistency
+  - Reduced data anomalies and errors
+  - Enhanced query performance and efficiency
+  - Simplified database maintenance and modification
+- The drawbacks of database normalization are:
+  - Increased complexity and overhead of joining multiple tables
+  - Potential loss of information or performance due to decomposition
+  - Possible need for denormalization or optimization for specific purposes
+- The levels of database normalization are:
+  - First Normal Form (1NF): A table is in 1NF if it contains only atomic values and has no repeating groups or arrays.
+  - Second Normal Form (2NF): A table is in 2NF if it is in 1NF and every non-key attribute is fully functionally dependent on the primary key.
+  - Third Normal Form (3NF): A table is in 3NF if it is in 2NF and every non-key attribute is non-transitively dependent on the primary key.
+  - Boyce-Codd Normal Form (BCNF): A table is in BCNF if it is in 3NF and every determinant is a candidate key.
+  - Fourth Normal Form (4NF): A table is in 4NF if it is in BCNF and has no multi-valued dependencies.
+  - Fifth Normal Form (5NF): A table is in 5NF if it is in 4NF and has no join dependencies that are not implied by the candidate keys.
+- The process of database normalization involves:
+  - Identifying the functional dependencies and candidate keys of a table
+  - Decomposing the table into smaller tables based on the normal forms
+  - Defining the primary keys and foreign keys of the new tables
+  - Checking the new tables for anomalies and dependencies
+  - Repeating the steps until the desired level of normalization is achieved

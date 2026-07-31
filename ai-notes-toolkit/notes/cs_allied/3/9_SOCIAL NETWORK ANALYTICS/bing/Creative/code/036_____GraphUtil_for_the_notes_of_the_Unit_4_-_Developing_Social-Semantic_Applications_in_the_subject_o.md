@@ -1,0 +1,11 @@
+# GraphUtil for the notes of the Unit 4 - Developing Social-Semantic Applications in the subject of SOCIAL NETWORK ANALYTICS
+
+- GraphUtil is not a specific tool or library for social network analysis, but a general term that can refer to any software or code that can manipulate or visualize graphs.
+- Graphs are mathematical structures that consist of nodes (also called vertices or actors) and edges (also called links or relationships) that connect them. Graphs can be used to model social networks, where nodes represent individuals or groups and edges represent interactions or ties between them.
+- Social network analysis (SNA) is the process of investigating social structures through the use of networks and graph theory. SNA can reveal patterns, properties, and dynamics of social networks, such as centrality, density, clustering, community detection, information spread, etc  .
+- GraphUtil can help in developing social-semantic applications, which are applications that combine social network analysis with semantic web technologies, such as ontologies, RDF, SPARQL, etc. Semantic web technologies can provide a common framework for representing and querying data from different sources and domains, and enable reasoning and inference over the data. Social-semantic applications can leverage both the structure and the meaning of the data to provide more intelligent and personalized services and recommendations.
+- Some examples of GraphUtil for social network analysis are:
+
+  - NetworkX: A Python library for creating, manipulating, and studying the structure, dynamics, and functions of complex networks. It provides many algorithms and tools for network analysis, such as shortest paths, centrality, clustering, community detection, etc.
+  - Gephi: An open-source software for exploring and visualizing large graphs. It allows users to interact with the graph, filter, layout, and export it. It also supports various plugins and extensions for enhancing the functionality and appearance of the graph.
+  - Socilyzer: A web-based platform for conducting social network analysis and surveys. It helps users to collect, analyze, and visualize social network data, and provides insights and reports on the network structure, dynamics, and performance.

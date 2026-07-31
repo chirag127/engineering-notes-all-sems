@@ -1,0 +1,8 @@
+### CO-5 Develop the understanding of Chemical structure of polymers and its effect on their various properties
+
+Polymers are very long carbon-based molecules that have a wide range of beneficial structural (and sometimes thermal) properties. The chemical structure of polymers affects their properties in several ways, such as:
+
+- **Bonding and reactivity**: The strong covalent bond and other weak forces such as hydrogen bonding between the particles of polymers determine its property like reactivity. Generally, polymers are resistant to chemicals due to their low reactivity.
+- **Chain length and molecular weight**: The longer the polymer chain, the higher the molecular weight and the higher the viscosity, tensile strength, and melting point of the polymer. Longer chains also tend to form more crystalline regions, which increase the stiffness and rigidity of the polymer.
+- **Branching and cross-linking**: The degree of branching and cross-linking affects how the polymer chains can pack and orient in the solid state. Branching reduces the crystallinity and density of the polymer, while cross-linking increases the rigidity and stability of the polymer. Cross-linked polymers are also more resistant to heat, solvents, and mechanical stress .
+- **Side groups and functional groups**: The presence of different side groups and functional groups on the polymer chain can modify the polarity, solubility, and compatibility of the polymer with other materials. For example, adding fluorine atoms to a polymer can increase its hydrophobicity and chemical resistance, while adding carboxylic acid groups can increase its biodegradability and adhesion.

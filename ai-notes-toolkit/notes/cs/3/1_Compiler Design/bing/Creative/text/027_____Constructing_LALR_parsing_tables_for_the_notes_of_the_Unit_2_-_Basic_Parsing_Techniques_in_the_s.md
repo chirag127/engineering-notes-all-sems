@@ -1,0 +1,26 @@
+### Constructing LALR parsing tables
+
+- LALR stands for Lookahead LR, which is a type of bottom-up parser that can handle a large class of context-free grammars.
+- LALR parsing tables are constructed from the canonical collection of LR(1) items, which are sets of items that represent the possible states of the parser and the lookahead symbols that determine the next action.
+- LR(1) items have the form `[A -> α.β, a]`, where `A -> α.β` is a production of the grammar, `α` is the part of the right-hand side that has been parsed, `β` is the part that remains to be parsed, and `a` is the lookahead symbol that follows the production in the input.
+- The canonical collection of LR(1) items is obtained by applying two operations: closure and goto.
+- Closure of a set of items is the process of adding new items that can be derived from the existing ones by expanding the nonterminals that appear after the dot.
+- Goto of a set of items and a symbol is the process of moving the dot over the symbol and applying closure to the resulting set.
+- The canonical collection of LR(1) items is the set of all items that can be reached by applying goto to the closure of the start item `[S' -> .S, $]`, where `S'` is a new start symbol and `$` is the end-of-input marker.
+- The canonical collection of LR(1) items forms the states of the LALR parser, and the goto transitions form the edges of the parser automaton.
+- To construct the LALR parsing table, we need to assign actions to each state and symbol pair, based on the items in the state and the lookahead symbols.
+- There are three types of actions: shift, reduce, and accept.
+- Shift action means to read the next input symbol and move to the state indicated by the goto transition on that symbol.
+- Reduce action means to pop the right-hand side of a production from the stack, push the left-hand side of the production on the stack, and move to the state indicated by the goto transition on the left-hand side of the production.
+- Accept action means to stop parsing and report success.
+- The LALR parsing table is constructed as follows:
+  - For each state `I` and each terminal `a` in the grammar, if `[A -> α.aβ, b]` is in `I`, then set `action[I, a]` to `shift goto(I, a)`.
+  - For each state `I` and each terminal `a` in the grammar, if `[A -> α., a]` is in `I`, then set `action[I, a]` to `reduce A -> α`.
+  - For each state `I` and the end-of-input marker `$`, if `[S' -> S., $]` is in `I`, then set `action[I, $]` to `accept`.
+  - For each state `I` and each nonterminal `A` in the grammar, if `goto(I, A)` is defined, then set `goto[I, A]` to `goto(I, A)`.
+- The LALR parsing table may have conflicts, which are situations where more than one action is possible for a given state and symbol pair. Conflicts indicate that the grammar is not LALR(1) and the parser cannot handle it unambiguously.
+- There are two types of conflicts: shift-reduce and reduce-reduce.
+- Shift-reduce conflict occurs when both `shift` and `reduce` actions are possible for a given state and symbol pair. This means that the parser cannot decide whether to read the next input symbol or to reduce the current production.
+- Reduce-reduce conflict occurs when two or more `reduce` actions are possible for a given state and symbol pair. This means that the parser cannot decide which production to use for the reduction.
+- To resolve conflicts, some LALR parser generators allow the user to specify the precedence and associativity of the operators in the grammar, or to attach a precedence declaration to a production, to specify its priority. These declarations are used to break ties between conflicting actions by choosing the one with higher precedence or associativity.
+- Alternatively, some LALR parser generators use a different algorithm to construct the LALR parsing table, which avoids merging states that have different lookahead sets. This algorithm produces a smaller LR(1) parsing table, which is equivalent to the LALR parsing table, but may

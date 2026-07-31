@@ -1,0 +1,35 @@
+### Derivation and Parse Trees
+
+- A derivation is a sequence of applications of production rules that transforms the start symbol of a grammar into a string of terminals .
+- A parse tree is a hierarchical structure that represents the derivation of the grammar to yield input strings .
+- A parse tree has the following properties:
+  - The root node of the parse tree has the start symbol of the grammar.
+  - The leaf nodes of the parse tree are the terminals of the grammar.
+  - The internal nodes of the parse tree are the non-terminals of the grammar.
+  - The order of the children of a node corresponds to the order of the symbols on the right-hand side of the production rule.
+- A parse tree can be constructed from a derivation by following these steps:
+  - Start with a single node labeled with the start symbol.
+  - For each step of the derivation, find the leftmost non-terminal in the tree and replace it with a subtree whose root is labeled with the same non-terminal and whose children are labeled with the symbols on the right-hand side of the production rule.
+  - Repeat until all the non-terminals in the tree are replaced by terminals.
+- A parse tree can also be used to generate a derivation by following these steps:
+  - Start with the root node labeled with the start symbol.
+  - For each node in the tree, write the label of the node followed by a derivation arrow and the labels of its children from left to right.
+  - Repeat until all the leaf nodes are reached.
+- A parse tree is also called a concrete syntax tree or a derivation tree .
+- A parse tree shows the syntactic structure of the input string according to the grammar, but it may contain redundant or irrelevant information .
+- An abstract syntax tree (AST) is a simplified version of the parse tree that only retains the essential information for the semantic analysis and code generation .
+- An AST has the following properties:
+  - The root node of the AST represents the entire program or expression.
+  - The leaf nodes of the AST are the operands or literals of the program or expression.
+  - The internal nodes of the AST are the operators or keywords of the program or expression.
+  - The order and number of the children of a node may differ from the parse tree depending on the abstraction level.
+- An AST can be constructed from a parse tree by following these steps:
+  - Start with a copy of the parse tree.
+  - Eliminate the nodes that do not contribute to the meaning of the program or expression, such as parentheses, punctuation, or auxiliary symbols.
+  - Collapse the chains of single-child nodes into one node with the same label as the child.
+  - Introduce new nodes or labels to represent the semantic information that is not explicit in the parse tree, such as data types, scopes, or declarations.
+- An AST can also be used to generate a parse tree by following these steps:
+  - Start with a copy of the AST.
+  - Expand the nodes that have been collapsed or introduced in the AST to match the grammar rules of the parse tree, such as adding parentheses, punctuation, or auxiliary symbols.
+  - Split the nodes that have been merged or renamed in the AST to match the grammar symbols of the parse tree, such as separating data types, scopes, or declarations.
+- An AST is usually used in the subsequent phases of the compiler, such as semantic analysis, optimization, and code generation, because it is more concise and convenient than the parse tree .

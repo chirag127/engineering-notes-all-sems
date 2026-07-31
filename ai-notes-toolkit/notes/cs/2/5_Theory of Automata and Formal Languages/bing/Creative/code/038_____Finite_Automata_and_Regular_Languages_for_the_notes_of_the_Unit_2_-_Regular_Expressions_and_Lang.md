@@ -1,0 +1,21 @@
+# Finite Automata and Regular Languages
+
+- A **finite automaton** is a mathematical model of a machine that can accept or reject a string of symbols based on its states and transitions.
+- A **regular language** is a set of strings that can be described by a **regular expression**, which is a pattern of symbols that can match some strings and not others.
+- Finite automata and regular expressions are different ways to represent regular languages.
+- Finite automata can be used to generate strings in a regular language by following the transition functions from the initial state to the final state.
+- Regular expressions can be used to describe the strings in a regular language by using operators such as concatenation, union, and closure.
+- Regular languages and finite automata can model computational problems that require a very small amount of memory.
+- For example, a finite automaton can generate a regular language to describe if a light switch is on or off, but it cannot keep track of how many times the light was switched on or off.
+- There are different types of finite automata, such as deterministic finite automata (DFA), nondeterministic finite automata (NFA), and epsilon-NFA.
+- A DFA has exactly one transition for each symbol and state, and it accepts a string if it ends in a final state.
+- An NFA can have zero, one, or more transitions for each symbol and state, and it accepts a string if there is at least one path from the initial state to a final state.
+- An epsilon-NFA is an NFA that can also have transitions without any symbol, called epsilon-transitions.
+- There are algorithms to convert regular expressions to finite automata, and vice versa.
+- There are also algorithms to minimize finite automata, which means finding the smallest equivalent automaton for a given regular language.
+- The class of regular languages is closed under operations such as union, intersection, complement, concatenation, and closure.
+- This means that if L1 and L2 are regular languages, then so are L1 ∪ L2, L1 ∩ L2, L1^c, L1L2, and L1*.
+- There are some languages that are not regular, such as the language of balanced parentheses, or the language of strings with equal number of a's and b's.
+- These languages cannot be described by finite automata or regular expressions, and they require more powerful models, such as context-free grammars.
+- There are methods to prove that a language is not regular, such as the pumping lemma, which states that any sufficiently long string in a regular language can be pumped, or repeated, without leaving the language.
+- The pumping lemma can be used to show a contradiction, by finding a string that cannot be pumped in a supposed regular language.

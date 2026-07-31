@@ -1,0 +1,21 @@
+### Segmentation in Operating System
+
+- Segmentation is an operating system memory management technique of division of a computer's primary memory into segments or sections.
+- Segments are uneven-sized blocks of memory that correspond to logical units of a program, such as modules, functions, arrays, etc  .
+- Segmentation allows the programmer to view the memory as a collection of variable-sized segments, rather than a linear array of bytes or words.
+- Segmentation provides several benefits, such as:
+  - It reduces internal fragmentation, which occurs when a fixed-sized memory block is allocated to a process that requires less memory.
+  - It facilitates dynamic memory allocation, which allows the segments to grow or shrink during execution.
+  - It supports protection and sharing, which can be implemented by assigning different access rights and visibility to different segments .
+  - It simplifies the relocation of programs, which can be done by changing the base addresses of the segments without modifying the code .
+- Segmentation can be implemented in two ways:
+  - Simple segmentation, which requires all the segments of a process to be loaded into memory at run time.
+  - Virtual memory segmentation, which allows some segments of a process to be resident in memory and some to be swapped out to secondary storage.
+- Segmentation requires a hardware support in the form of a segment table, which stores the base address, limit, and attributes of each segment .
+- Segmentation also requires a software support in the form of a segment map, which maps the logical addresses of the segments to their physical addresses in memory.
+- Segmentation involves two types of address translation :
+  - Logical address, which consists of a segment number and an offset within the segment .
+  - Physical address, which is the actual location of the byte or word in memory .
+- Segmentation can cause external fragmentation, which occurs when the memory is divided into many small holes that cannot be used by any process .
+- Segmentation can be combined with paging, which is another memory management technique that divides the memory and the segments into fixed-sized blocks called pages and frames .
+- Segmentation with paging can overcome the drawbacks of both techniques, such as internal and external fragmentation, and provide more flexibility and efficiency in memory utilization .

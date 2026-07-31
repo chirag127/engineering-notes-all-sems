@@ -1,0 +1,21 @@
+# CSS Styling
+
+CSS stands for Cascading Style Sheets. It is a language that controls the appearance and layout of HTML elements on a web page. CSS can be used to change the colors, fonts, sizes, margins, borders, backgrounds, and more of HTML elements. CSS can also make web pages responsive and mobile-friendly.
+
+## Concept of CSS
+
+The concept of CSS is based on the following principles:
+
+- CSS rules are applied to HTML elements based on selectors. Selectors are patterns that match one or more elements in the HTML document. For example, `p` is a selector that matches all `<p>` elements, and `.red` is a selector that matches all elements with the class attribute `red`.
+- CSS rules consist of a selector and a declaration block. A declaration block contains one or more declarations, which are statements that define the style properties and values for the selected elements. For example, `color: blue;` is a declaration that sets the text color to blue. Declarations are separated by semicolons and enclosed in curly braces. For example, `p { color: blue; font-size: 20px; }` is a CSS rule that applies to all `<p>` elements.
+- CSS rules can be written in three ways: inline, internal, and external. Inline CSS rules are written inside the `style` attribute of an HTML element. Internal CSS rules are written inside the `<style>` tag in the `<head>` section of an HTML document. External CSS rules are written in a separate file with the `.css` extension and linked to the HTML document using the `<link>` tag. External CSS is the recommended way to write CSS rules, as it makes the code more organized and maintainable.
+- CSS rules are applied in a cascading order, which means that the later rules override the earlier rules if they have the same specificity. Specificity is a measure of how specific a selector is, based on the type and number of components it has. For example, an id selector (`#id`) has a higher specificity than a class selector (`.class`), which has a higher specificity than a type selector (`p`). If two selectors have the same specificity, the one that comes later in the code wins. To increase the specificity of a selector, you can use multiple components, such as `p.red` or `#id.class`. You can also use the `!important` keyword after a declaration to make it override any other declaration, regardless of specificity. However, this should be used sparingly, as it can make the code harder to debug and maintain.
+
+## CSS Styling Examples
+
+Here are some examples of how to use CSS to style HTML elements:
+
+- To change the background color of the body element, you can use the `background-color` property and a color value, such as `red`, `blue`, or `#ff0000`. For example, `body { background-color: red; }` will make the background of the web page red.
+- To change the font family, size, and style of the text, you can use the `font-family`, `font-size`, and `font-style` properties and their values, such as `Arial`, `20px`, or `italic`. For example, `p { font-family: Arial; font-size: 20px; font-style: italic; }` will make the text in the `<p>` elements Arial, 20 pixels, and italic.
+- To change the alignment of the text, you can use the `text-align` property and one of the values `left`, `right`, `center`, or `justify`. For example, `p { text-align: center; }` will make the text in the `<p>` elements centered.
+- To change the margin, padding, border, and outline of an element, you can use the `margin`, `padding`, `border`, and `outline` properties and their values, such as `10px`, `solid`, or `green`. Margin is the space outside the border of an element, padding is the space inside the border of an element, border is the line around the edge of an element, and outline is a line outside the border of an element. You can also use the `margin-top`, `margin-right`, `margin-bottom`, `margin-left`, `padding-top`, `padding-right`, `padding-bottom`, `padding-left`, `border-top`, `border-right`, `border-bottom`, `border-left`, `outline-top`, `outline-right`, `outline-bottom`, and `outline-left` properties to specify the values for each side of the element. For example, `

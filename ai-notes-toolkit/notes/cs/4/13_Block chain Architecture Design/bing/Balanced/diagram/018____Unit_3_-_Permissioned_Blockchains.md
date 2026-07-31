@@ -1,0 +1,21 @@
+## Unit 3 - Permissioned Blockchains
+
+- Permissioned blockchains are a type of distributed ledger technology (DLT) that allow only authorized participants to join the network, validate transactions, and execute smart contracts.
+- Permissioned blockchains are also known as private or consortium blockchains, depending on the degree of centralization and control over the network.
+- Permissioned blockchains offer some advantages over public or permissionless blockchains, such as:
+  - Higher scalability and performance, as the number of nodes and transactions are limited and optimized.
+  - Greater privacy and security, as the identity and role of the participants are verified and protected by encryption and access control mechanisms.
+  - Lower cost and energy consumption, as the consensus algorithm does not require intensive computation and competition among nodes.
+  - Easier compliance and governance, as the network rules and policies are defined and enforced by the authorized entities.
+- Permissioned blockchains also have some challenges and limitations, such as:
+  - Reduced decentralization and trustlessness, as the network relies on the authority and integrity of the permissioned entities.
+  - Increased complexity and coordination, as the network requires more layers of administration and management to maintain the permissions and roles of the participants.
+  - Potential vendor lock-in and interoperability issues, as the network may depend on specific platforms and standards that are not compatible with other blockchains or systems.
+- Permissioned blockchains are suitable for use cases that involve:
+  - Sensitive or confidential data and transactions, such as in healthcare, finance, or government sectors.
+  - Business-to-business or consortium collaborations, such as in supply chain, trade, or logistics domains.
+  - Regulatory or legal compliance and auditability, such as in identity, certification, or verification services.
+- Some examples of permissioned blockchains are:
+  - Hyperledger Fabric, a modular and flexible platform that supports pluggable consensus algorithms, smart contract languages, and membership services.
+  - Corda, a distributed ledger that enables direct and secure transactions among participants, with a focus on financial and legal applications.
+  - Quorum, a fork of Ethereum that adds privacy and permission features, such as private transactions, private smart contracts, and permissioned nodes.

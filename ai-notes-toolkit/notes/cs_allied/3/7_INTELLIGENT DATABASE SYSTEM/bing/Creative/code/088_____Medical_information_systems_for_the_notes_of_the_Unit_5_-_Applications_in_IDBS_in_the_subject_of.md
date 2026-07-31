@@ -1,0 +1,19 @@
+# Medical Information Systems
+
+Medical information systems are computer-based systems that store, process, and communicate health-related data for various purposes, such as patient care, clinical research, health administration, and public health . Medical information systems can be classified into different types, such as:
+
+- **Electronic medical records (EMRs)**: These are digital versions of the paper charts that contain the medical and treatment history of a patient in a single provider's office. EMRs allow providers to track data over time, identify patients who are due for preventive visits and screenings, monitor and improve quality of care, and share information with other providers and organizations.
+- **Electronic health records (EHRs)**: These are similar to EMRs, but they go beyond the data collected in a single provider's office and include a more comprehensive view of a patient's health. EHRs are designed to be shared with other providers and health care entities, such as laboratories, specialists, pharmacies, and hospitals, to facilitate coordinated and efficient care.
+- **Personal health records (PHRs)**: These are electronic applications that allow patients to access and manage their own health information in a private, secure, and confidential environment. PHRs can include information from various sources, such as providers, home monitoring devices, and patient input, and can enable patients to communicate with their providers, request prescription refills, schedule appointments, and view test results.
+- **Health information exchange (HIE)**: This is the electronic movement of health-related information among organizations according to nationally recognized standards. HIE can improve the quality, safety, and efficiency of health care by enabling providers to access and share vital health information at the point of care, reduce duplication of services and medical errors, and enhance public health reporting and surveillance.
+- **Clinical decision support systems (CDSSs)**: These are computer-based systems that provide health care professionals with knowledge and person-specific information, intelligently filtered and presented at appropriate times, to enhance health and health care. CDSSs can assist providers in diagnosis, treatment, prevention, and management of various health conditions, and can also provide alerts, reminders, guidelines, and feedback to improve the quality and safety of care.
+- **Artificial intelligence (AI) in medicine**: This is the application of AI techniques, such as machine learning, natural language processing, computer vision, and expert systems, to medical data and problems . AI in medicine can enable the analysis of large and complex data sets, the discovery of new knowledge and insights, the automation of tasks and processes, and the creation of intelligent and adaptive systems that can assist or augment human capabilities .
+- **Digital health**: This is the convergence of digital technologies with health, health care, living, and society to enhance the efficiency of health care delivery and make medicine more personalized and precise. Digital health encompasses various domains, such as telemedicine, mobile health, wearable devices, health information technology, genomics, and personalized medicine.
+
+: https://onlinemasters.ohio.edu/blog/health-information-systems/
+
+: https://www.usfhealthonline.com/resources/health-informatics/what-is-medical-informatics/
+
+: https://www.sciencedirect.com/topics/medicine-and-dentistry/medical-information-systems
+
+: https://www.fda.gov/medical-devices/digital-health-center-excellence/digital-health-reports

@@ -1,0 +1,8 @@
+
+### Regular Languages and Computers
+
+* Regular languages are languages that can be described using regular expressions. They are used to define the syntax of programming languages, and are used in many applications such as text processing, pattern matching, and data validation.
+* Regular expressions are a way of describing patterns in strings. They are composed of literals, special characters, and meta-characters. Literals are the exact characters that you want to match, while special characters are used to match any character in a given range. Meta-characters are used to match a certain number of characters or to perform other operations, such as look-ahead.
+* Computers can recognize regular languages using finite automata. Finite automata are machines that can recognize strings from a given regular language. They are composed of states, transitions, and an initial state. States represent the current state of the automaton, transitions define how it will move from one state to another, and the initial state is the first state that the machine will enter.
+* Regular languages can be used to define the syntax of programming languages. Syntax is the structure of a programming language, and is used to define how a program should be written. Regular expressions are used to define the syntax of programming languages by specifying the valid tokens and the order in which they should appear.
+* Regular languages are also used in many applications such as text processing, pattern matching, and data validation. Text processing involves finding patterns in strings and modifying them accordingly. Pattern matching is used to find strings that match a given pattern, and data validation is used to verify that data is valid.

@@ -1,0 +1,14 @@
+### Multisets
+
+- A multiset is a collection of objects that allows for multiple occurrences of the same element.
+- A multiset can be represented by listing its elements within curly braces, with repetition as needed. For example, {a, a, b, c, c, c} is a multiset with six elements, two of which are a, one of which is b, and three of which are c.
+- Alternatively, a multiset can be represented by using a function that maps each element to its multiplicity, which is the number of times it appears in the multiset. For example, the multiset {a, a, b, c, c, c} can be represented by the function f such that f(a) = 2, f(b) = 1, f(c) = 3, and f(x) = 0 for any other element x.
+- The size of a multiset is the sum of the multiplicities of its elements. For example, the size of the multiset {a, a, b, c, c, c} is 2 + 1 + 3 = 6.
+- Two multisets are equal if they have the same elements with the same multiplicities. For example, {a, a, b, c, c, c} and {c, c, c, a, b, a} are equal multisets, but {a, a, b, c, c, c} and {a, b, b, c, c, c} are not.
+- A multiset A is a subset of a multiset B if every element of A has a multiplicity that is less than or equal to the multiplicity of the same element in B. For example, {a, b, c} and {a, a, b} are subsets of {a, a, b, c, c, c}, but {a, a, a, b} and {a, b, d} are not.
+- The union of two multisets A and B is the multiset that contains every element of A and B with the maximum multiplicity of the two multisets. For example, the union of {a, a, b, c, c, c} and {a, b, b, c, d, d} is {a, a, b, b, c, c, c, d, d}.
+- The intersection of two multisets A and B is the multiset that contains every element of A and B with the minimum multiplicity of the two multisets. For example, the intersection of {a, a, b, c, c, c} and {a, b, b, c, d, d} is {a, b, c}.
+- The difference of two multisets A and B is the multiset that contains every element of A with the multiplicity of A minus the multiplicity of B, if it is positive, and zero otherwise. For example, the difference of {a, a, b, c, c, c} and {a, b, b, c, d, d} is {a, c, c}.
+- The complement of a multiset A with respect to a multiset B is the difference of B and A. For example, the complement of {a, a, b, c, c, c} with respect to {a, b, b, c, d, d} is {b, d, d}.
+- The Cartesian product of two multisets A and B is the multiset of all ordered pairs (a, b) where a is an element of A and b is an element of B, with the multiplicity of (a, b) being the product of the multiplicities of a and b. For example, the Cartesian product of {a, a, b} and {c, c, c, d} is {(a, c), (a, c), (a, d), (a, d), (a, c), (a, c), (a, d), (a, d), (b, c), (b, c), (b, c), (b, d)}.
+- The power multiset of a multiset A is the multiset of all subsets of A, with the multiplicity of a subset being the number of ways to form it from A. For example, the power multiset of {a, a, b} is {{}, {a}, {a}, {a, a}, {b}, {a, b}, {a, b}, {a, a, b}}.

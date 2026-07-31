@@ -1,0 +1,23 @@
+# Weighted Round Robin Approach
+
+- Weighted round robin is a generalisation of round-robin scheduling.
+- It is used for scheduling real-time traffic in high-speed switched networks  .
+- It builds on the basic round-robin scheme, which gives equal shares of the processor time to all the ready jobs.
+- Rather than giving equal shares, weighted round robin gives different weights to different jobs, which serve to influence the portion of service time they receive  .
+- The weight of a job can be determined by various factors, such as its priority, deadline, resource requirements, etc.
+- The algorithm works as follows :
+  - Assign a weight to each job in the ready queue.
+  - Calculate the total weight of all the jobs in the ready queue.
+  - Divide the time quantum by the total weight to get the unit time quantum.
+  - For each job in the ready queue, multiply its weight by the unit time quantum to get its allocated time quantum.
+  - Serve each job in the ready queue for its allocated time quantum, or until it finishes or blocks, whichever comes first.
+  - Repeat the above steps until all the jobs are completed or the ready queue is empty.
+- The advantages of weighted round robin are :
+  - It is simple and easy to implement.
+  - It can handle different types of jobs with different service requirements.
+  - It can achieve a fair and proportional allocation of the processor time among the jobs.
+  - It can reduce the response time and increase the throughput of the system.
+- The disadvantages of weighted round robin are :
+  - It may not be optimal for some jobs, especially those with strict deadlines or precedence constraints.
+  - It may cause a high context-switching overhead if the time quantum is too small or the number of jobs is too large.
+  - It may not be suitable for heterogeneous systems with different processor speeds or capacities.

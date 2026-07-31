@@ -1,0 +1,12 @@
+### Data Delivery Semantics: Microbatching and One-Element-at-a-Time
+
+- Data delivery semantics refer to how data is transferred from a source to a destination, and how the destination handles duplicates, missing data, or out-of-order data.
+- There are two main types of data delivery semantics: **exactly-once** and **at-least-once**.
+- Exactly-once semantics guarantee that each data element is delivered exactly once to the destination, without any duplicates or missing data. This is the ideal scenario, but it is also the most difficult and expensive to achieve.
+- At-least-once semantics guarantee that each data element is delivered at least once to the destination, but there may be duplicates or out-of-order data. This is a more realistic and practical scenario, but it requires the destination to handle the possible inconsistencies.
+- Microbatching and one-element-at-a-time are two techniques that can be used to implement data delivery semantics, depending on the trade-off between latency and throughput.
+- **Microbatching** is a technique where incoming data is grouped into small batches, and each batch is processed as a unit. This can improve the throughput and efficiency of the system, but it also introduces some latency for each data element, as it has to wait for the batch to be completed.
+- **One-element-at-a-time** is a technique where incoming data is processed as soon as it arrives, without waiting for any batching. This can reduce the latency and improve the responsiveness of the system, but it also increases the overhead and complexity of the system, as it has to handle each data element individually.
+- Spark's distributed processing model supports both microbatching and one-element-at-a-time techniques, depending on the type of data source and the configuration of the system.
+- Spark's structured streaming API provides a high-level abstraction for processing streaming data, and it supports exactly-once semantics by default, using a combination of microbatching and one-element-at-a-time techniques.
+- Spark's DStream API provides a low-level abstraction for processing streaming data, and it supports at-least-once semantics by default, using microbatching technique. However, it can also support exactly-once semantics by using checkpointing and write-ahead logs.

@@ -1,0 +1,22 @@
+### Calibration
+
+- Calibration is the action or process of comparing an instrument or experimental readings with a standard of known accuracy and adjusting the instrument or readings accordingly .
+- Calibration ensures that the instrument or readings are accurate, reliable, and consistent with the specified conditions and requirements .
+- Calibration can be done by using a calibration standard, which is a device or material that has a known or assigned value of a physical quantity, such as length, mass, temperature, or voltage .
+- Calibration standards are traceable to national or international standards held by metrology bodies, such as the International Bureau of Weights and Measures (BIPM) or the National Institute of Standards and Technology (NIST) .
+- Calibration can be classified into two types: static calibration and dynamic calibration .
+  - Static calibration is the calibration of an instrument or reading when there is no change in the input or output of the system .
+  - Dynamic calibration is the calibration of an instrument or reading when there is a change in the input or output of the system, such as frequency, speed, or acceleration .
+- Calibration can be expressed by using a calibration curve, which is a graph that shows the relationship between the output of the instrument or reading and the input of the standard .
+  - A calibration curve can be linear or nonlinear, depending on the nature of the system .
+  - A calibration curve can be used to calculate the unknown value of the input or output by using interpolation or extrapolation methods .
+- Calibration can be affected by various factors, such as environmental conditions, human errors, instrument drift, or measurement uncertainty .
+  - Environmental conditions, such as temperature, humidity, pressure, or vibration, can cause changes in the physical properties of the instrument or standard, which can affect the accuracy and stability of the calibration .
+  - Human errors, such as misreading, miscalculation, or misalignment, can introduce errors in the calibration process, which can affect the validity and repeatability of the calibration .
+  - Instrument drift, which is the gradual change in the performance or output of the instrument over time, can affect the consistency and reliability of the calibration .
+  - Measurement uncertainty, which is the doubt or error associated with the measurement result, can affect the confidence and precision of the calibration .
+- Calibration can be improved by using various methods, such as calibration intervals, calibration procedures, calibration certificates, or calibration software .
+  - Calibration intervals, which are the time periods between successive calibrations, can be determined by considering the frequency of use, the expected drift, the required accuracy, or the manufacturer's recommendations .
+  - Calibration procedures, which are the steps or instructions for performing the calibration, can be followed to ensure the correctness and completeness of the calibration .
+  - Calibration certificates, which are the documents that record the details and results of the calibration, can be issued to provide the evidence and traceability of the calibration .
+  - Calibration software, which is the computer program that automates the calibration process, can be used to simplify the data collection, analysis, and reporting of the calibration .

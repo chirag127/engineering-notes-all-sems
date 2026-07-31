@@ -1,0 +1,13 @@
+### Service Layer for the notes of the Unit 5 - Service Layer Protocols & Security in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- The service layer is the layer that differentiates the IoT networks or cloud networks from the typical internet networks. It is responsible for providing services and resources to the IoT devices and applications over the internet.
+- The service layer includes the following functions :
+  - Service discovery or service management: This function enables the IoT devices to find other devices, services and resources over the internet. It also involves the registration and management of the resources on the cloud networks.
+  - Data processing and analytics: This function involves the processing and analysis of the data collected from the IoT devices and sensors. It can provide insights, predictions and recommendations based on the data.
+  - Application enablement: This function enables the development and deployment of IoT applications that can use the services and resources provided by the service layer. It can also provide APIs and SDKs for the developers to access the data and services.
+  - Security: This function ensures the security and privacy of the data and services in the service layer. It can involve encryption, authentication, authorization and access control mechanisms.
+- The service layer protocols are the protocols that enable the communication and interaction between the service layer and the other layers of the IoT architecture. Some of the common service layer protocols are  :
+  - AMQP: Advanced Message Queuing Protocol is an open standard protocol for message-oriented middleware. It provides reliable and secure delivery of messages between the service layer and the application layer.
+  - CoAP: Constrained Application Protocol is a web protocol designed for constrained devices and networks. It provides a RESTful interface for the service layer and the network layer. It supports multicast, caching and asynchronous communication.
+  - MQTT: Message Queuing Telemetry Transport is a publish-subscribe protocol for lightweight and low-power communication. It provides a broker-based architecture for the service layer and the network layer. It supports QoS levels and topic-based filtering.
+  - XMPP: Extensible Messaging and Presence Protocol is an open standard protocol for instant messaging and presence. It provides a decentralized and federated architecture for the service layer and the application layer. It supports extensions and interoperability.

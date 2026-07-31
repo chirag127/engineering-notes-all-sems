@@ -1,0 +1,7 @@
+## LIST OF EXPERIMENTS
+
+1. **The Milgram Experiment:** A series of social psychology experiments conducted by Yale University psychologist Stanley Milgram in the 1960s, which measured the willingness of study participants to obey an authority figure who instructed them to perform acts conflicting with their personal conscience.
+2. **The Stanford Prison Experiment:** A social psychology experiment conducted at Stanford University in 1971, in which college students were randomly assigned to play the roles of prisoners or guards in a simulated prison environment. The study aimed to investigate the psychological effects of perceived power.
+3. **The Asch Conformity Experiment:** A series of studies conducted by Solomon Asch in the 1950s, which investigated the extent to which social pressure from a majority group could affect a person to conform.
+4. **The Pavlov's Dog Experiment:** A series of experiments conducted by Russian physiologist Ivan Pavlov in the 1890s, in which he demonstrated that dogs could be trained to associate a neutral stimulus, such as the sound of a bell, with an automatic behavior, such as salivating when presented with food.
+5. **The Marshmallow Test:** A study on delayed gratification conducted by psychologist Walter Mischel in the 1960s and 1970s, in which children were offered a choice between a small immediate reward or a larger reward if they waited for a short period of time.

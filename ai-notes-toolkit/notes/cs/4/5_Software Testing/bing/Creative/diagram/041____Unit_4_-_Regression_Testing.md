@@ -1,0 +1,9 @@
+## Unit 4 - Regression Testing
+
+- Regression testing is the process of retesting a software system after changes have been made to ensure that the changes have not introduced new defects or affected the existing functionality.
+- Regression testing can be done at different levels of testing, such as unit, integration, system, or acceptance testing.
+- Regression testing can be performed manually or automatically, depending on the availability of test cases, test tools, and resources.
+- Regression testing can be classified into three types: retest all, selective, and test suite minimization.
+  - Retest all: This approach involves re-executing all the existing test cases for the modified software system. This is the most comprehensive but also the most expensive and time-consuming approach.
+  - Selective: This approach involves re-executing only a subset of the existing test cases that are relevant to the changes made in the software system. This is the most commonly used approach, as it reduces the cost and time of regression testing while maintaining adequate coverage. However, selecting the appropriate test cases can be challenging and requires proper analysis and traceability of the test cases to the requirements and the code.
+  - Test suite minimization: This approach involves reducing the size of the test suite by eliminating redundant or obsolete test cases, while preserving the coverage and effectiveness of the test suite. This approach can further optimize the cost and time of regression testing, but it requires sophisticated techniques and tools to identify and remove the redundant or obsolete test cases.

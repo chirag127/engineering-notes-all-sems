@@ -1,0 +1,21 @@
+### Regression modeling
+
+- Regression modeling is a process of estimating the relationships between independent variables and a dependent variable in data    .
+- Independent variables are also called predictors, covariates, explanatory variables or features. They are the variables that are used to explain or predict the dependent variable.
+- Dependent variable is also called outcome, response, target or label. It is the variable that is of interest or the main focus of the analysis.
+- Regression modeling can be used to understand how different factors are related to one another, and to predict future values for the dependent variable based on the values of the independent variables    .
+- Regression modeling can also be used to test hypotheses about the effects of the independent variables on the dependent variable, and to measure the strength and direction of these effects  .
+- Regression modeling can be classified into different types based on the nature of the dependent variable and the relationship between the variables. Some common types of regression models are :
+  - Linear regression: The dependent variable is continuous and the relationship between the variables is linear. The model assumes that the dependent variable is a linear function of the independent variables plus an error term.
+  - Logistic regression: The dependent variable is binary (0 or 1) and the relationship between the variables is nonlinear. The model assumes that the dependent variable follows a logistic function of the independent variables.
+  - Poisson regression: The dependent variable is a count (non-negative integer) and the relationship between the variables is nonlinear. The model assumes that the dependent variable follows a Poisson distribution with a mean that is a function of the independent variables.
+  - Polynomial regression: The dependent variable is continuous and the relationship between the variables is nonlinear. The model assumes that the dependent variable is a polynomial function of the independent variables plus an error term.
+  - Multiple regression: The model has more than one independent variable and can be any of the above types. The model assumes that the dependent variable is a function of the independent variables plus an error term.
+- Regression modeling involves the following steps   :
+  - Define the research question and the variables of interest.
+  - Collect and prepare the data for analysis.
+  - Choose the appropriate type of regression model based on the data and the research question.
+  - Fit the regression model to the data using a software or a statistical method.
+  - Evaluate the quality and validity of the regression model using various criteria and tests.
+  - Interpret the results of the regression model and draw conclusions based on the research question.
+  - Communicate the findings and limitations of the regression model to the relevant audience.

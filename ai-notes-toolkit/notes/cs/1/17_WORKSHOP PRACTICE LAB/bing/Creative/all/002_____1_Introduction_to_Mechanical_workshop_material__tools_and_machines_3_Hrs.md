@@ -1,0 +1,27 @@
+# 1 Introduction to Mechanical Workshop Material, Tools and Machines
+
+- A mechanical workshop is a type of workshop that features a number of specialist tools and pieces of machinery.
+- Mechanical workshops are places where mechanical tasks such as welding, drilling and cutting take place.
+- Some heavy-duty pieces of machinery that can be found in mechanical workshops include lathes, milling machines, pillar drills and grinders.
+- A machine shop or engineering workshop is a room, building, or company where machining, a form of subtractive manufacturing, is done.
+- In a machine shop, machinists use machine tools and cutting tools to make parts, usually of metal or plastic (but sometimes of other materials such as glass or wood).
+- Machine tools and machines can be operated in different ways, depending on the model. They may be manually operated, or powered electronically, pneumatically, or hydraulically.
+- Some examples of machine tools and machines are: 
+  - Drills: used to create holes in materials by rotating a cutting tool called a drill bit.
+  - Hand cutters: used to cut materials by applying force with a sharp blade or a pair of scissors.
+  - Dremels: used to carve, engrave, sand, polish, or cut materials by spinning a variety of attachments at high speed.
+  - Lathes: used to shape materials by rotating them against a cutting tool.
+  - Milling machines: used to remove material from a workpiece by moving a cutting tool called a milling cutter.
+  - Pillar drills: used to drill holes in materials by holding a drill bit in a fixed position and moving the workpiece up and down.
+  - Grinders: used to grind, sharpen, or smooth materials by rubbing them against a rotating abrasive wheel or belt.
+- Some basic mechanical tools that are typically found in every workshop are:
+  - Wrenches: used to tighten or loosen nuts and bolts by applying torque.
+  - Screwdrivers: used to turn screws by applying rotational force.
+  - Hammers: used to strike or pry materials by applying impact force.
+  - Socket sets: used to attach or detach nuts and bolts of different sizes by using a ratchet handle and interchangeable sockets.
+  - Pliers: used to grip, bend, or cut materials by applying leverage.
+  - Crows foot wrenches: used to reach nuts and bolts in tight spaces by attaching to an extension bar.
+  - Tape measure: used to measure length or distance by using a flexible and retractable metal tape.
+  - Level: used to check if a surface is horizontal or vertical by using a bubble in a liquid-filled tube.
+  - Vice: used to hold a workpiece securely in place by using a screw mechanism.
+  - Safety glasses: used to protect the eyes from flying debris or sparks by wearing a transparent shield.

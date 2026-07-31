@@ -1,0 +1,12 @@
+# Grammar-based LM for the notes of the Unit 1 - INTRODUCTION in the subject of Natural Language Processing
+
+- Natural Language Processing (NLP) is a field of Artificial Intelligence (AI) and Computer Science that is concerned with the interactions between computers and humans in natural language  .
+- The goal of NLP is to develop algorithms and models that enable computers to understand, interpret, generate, and manipulate human language  .
+- Language Modeling (LM) is one of the most important parts of modern NLP. It is the task of estimating the probability of a word or a sequence of words given some context  .
+- There are many sorts of applications for LM, such as Machine Translation, Spell Correction, Speech Recognition, Summarization, Question Answering, Sentiment Analysis, etc .
+- A grammar-based LM is a type of LM that uses a formal grammar to generate and score sentences in a language.
+- A formal grammar is a set of rules that define the syntax and structure of a language. It consists of a finite set of symbols (called terminals), a finite set of variables (called non-terminals), a start symbol, and a finite set of production rules.
+- A grammar-based LM can be deterministic or probabilistic. A deterministic grammar-based LM assigns a binary score (0 or 1) to a sentence based on whether it conforms to the grammar rules or not. A probabilistic grammar-based LM assigns a probability score to a sentence based on the likelihood of generating it from the grammar rules.
+- A grammar-based LM can be context-free or context-sensitive. A context-free grammar-based LM uses rules that only depend on the current non-terminal symbol, and not on the surrounding context. A context-sensitive grammar-based LM uses rules that depend on the current and previous non-terminal symbols, and possibly on the whole sentence.
+- A grammar-based LM can capture the syntactic and structural properties of a language, but it may not capture the semantic and pragmatic properties. It may also suffer from data sparsity, overfitting, and computational complexity issues.
+- A grammar-based LM can be combined with other types of LM, such as n-gram LM or neural LM, to improve the performance and accuracy of NLP tasks .

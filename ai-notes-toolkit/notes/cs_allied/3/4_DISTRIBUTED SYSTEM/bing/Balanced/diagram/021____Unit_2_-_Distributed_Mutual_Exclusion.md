@@ -1,0 +1,10 @@
+## Unit 2 - Distributed Mutual Exclusion
+
+- Distributed mutual exclusion is a fundamental problem in distributed computing systems that ensures that concurrent access of processes to a shared resource or data is serialized, that is, executed in a mutually exclusive manner .
+- Mutual exclusion in a distributed system states that only one process is allowed to execute the critical section (CS) at any given time. In a distributed system, shared variables (semaphores) or a local kernel cannot be used to implement mutual exclusion. Message passing is the sole means for implementing distributed mutual exclusion.
+- There are two types of distributed mutual exclusion algorithms: permission-based and token-based .
+- Permission-based algorithms require a process to obtain permission from other processes before entering the CS. These algorithms can be further classified into centralized, distributed, and hierarchical algorithms .
+- Token-based algorithms use a special message called a token that circulates among the processes and grants the right to enter the CS. The process that holds the token can enter the CS, and then passes the token to another process. These algorithms can be further classified into ring-based, tree-based, and graph-based algorithms .
+- The performance of distributed mutual exclusion algorithms can be measured by the following criteria: message complexity, synchronization delay, system throughput, and fault tolerance .
+- Message complexity is the number of messages exchanged per CS execution. Synchronization delay is the time elapsed between a process requesting the CS and actually entering the CS. System throughput is the rate of CS executions in the system. Fault tolerance is the ability of the system to cope with failures of processes or communication links .
+- Some examples of distributed mutual exclusion algorithms are: Ricart-Agrawala algorithm, Lamport's algorithm, Suzuki-Kasami algorithm, Raymond's algorithm, and Maekawa's algorithm .

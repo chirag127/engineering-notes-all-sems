@@ -1,0 +1,24 @@
+# Threads and their management
+
+- A thread is a single sequence stream within a process. It is a lightweight process that the operating system can schedule and run concurrently with other threads.
+- Threads share the same data and code as the process that created them, so they have low operational cost and fast communication.
+- Threads can be used to improve the performance, responsiveness, and resource utilization of a system.
+- There are two major types of threads in operating systems: user threads and kernel threads .
+  - User threads are created and managed by user-level libraries, such as POSIX threads (pthreads) or Java threads. They are not visible to the kernel and do not require system calls to switch between them .
+  - Kernel threads are created and managed by the kernel, and can use system calls and access kernel resources. They are visible to the user and can be mapped to one or more user threads .
+- There are different ways of mapping user threads to kernel threads, such as one-to-one, many-to-one, many-to-many, or hybrid .
+  - One-to-one mapping assigns one user thread to one kernel thread, allowing concurrency and parallelism, but limiting the number of threads due to kernel overhead .
+  - Many-to-one mapping assigns many user threads to one kernel thread, allowing more threads but limiting concurrency and parallelism, and blocking the entire process if one thread makes a blocking system call .
+  - Many-to-many mapping assigns many user threads to a pool of kernel threads, allowing concurrency and parallelism, and balancing the load among the kernel threads .
+  - Hybrid mapping combines many-to-many mapping with one-to-one mapping for specific threads that need to access kernel resources or make system calls .
+- Threads can be in different states, such as new, ready, running, waiting, or terminated .
+  - New state is when a thread is created but not yet added to the ready queue .
+  - Ready state is when a thread is added to the ready queue and waiting for the CPU .
+  - Running state is when a thread is selected by the scheduler and executing on the CPU .
+  - Waiting state is when a thread is blocked by an event, such as I/O or synchronization, and removed from the ready queue .
+  - Terminated state is when a thread has completed its execution and is removed from the system .
+- Threads can be managed by the operating system using various techniques, such as thread scheduling, thread synchronization, thread communication, and thread termination .
+  - Thread scheduling is the process of selecting a thread from the ready queue and assigning it to the CPU. It can use different algorithms, such as round-robin, priority-based, or preemptive .
+  - Thread synchronization is the process of coordinating the access and modification of shared data and resources among multiple threads. It can use different mechanisms, such as locks, semaphores, monitors, or condition variables .
+  - Thread communication is the process of exchanging data and messages among threads. It can use different methods, such as shared memory, message passing, or signals .
+  - Thread termination is the process of ending the execution of a thread and releasing its resources. It can be done by the thread itself, by the parent process, or by the kernel .

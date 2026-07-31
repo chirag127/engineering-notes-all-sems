@@ -1,0 +1,9 @@
+### Local and Wide Area Networking for IoT
+
+- Local area networks (LAN) and personal area networks (PAN) are networks that cover relatively short distances, such as within a home, office, or building.
+- LAN and PAN technologies that are commonly used for IoT connectivity are WiFi and Bluetooth . These technologies can provide high data rates, low latency, and low power consumption for IoT devices.
+- WiFi can be used for both local and distributed applications, if there are multiple access points integrated into a larger network. WiFi can also support IP-based communication, which is essential for IoT devices to interact with the Internet.
+- Bluetooth can be used for low-power, short-range communication between IoT devices, such as sensors, wearables, or smart home appliances. Bluetooth can also form mesh networks, which are networks where devices relay data to each other without a central hub.
+- Wide area networks (WAN) are networks that cover large geographic areas, such as cities, countries, or continents. WAN technologies that are suitable for IoT connectivity are cellular and low power wide area networks (LPWAN).
+- Cellular networks use the same mobile networks as smartphones to allow IoT devices to communicate. Cellular networks can provide high data rates, long range, and global coverage for IoT devices. However, cellular networks also have high power consumption, high cost, and complex protocols for IoT devices.
+- LPWAN networks are networks that use low-frequency radio waves to enable IoT devices to communicate over long distances with low power consumption. LPWAN networks can support large numbers of IoT devices with low data rates and low cost. However, LPWAN networks also have high latency, low bandwidth, and limited security for IoT devices.

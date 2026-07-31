@@ -1,0 +1,12 @@
+### Protocols Governing Web
+
+- Protocols are a set of rules or standards that enable communication between different devices or applications over a network.
+- The web, or the World Wide Web, is a system of interlinked documents and resources that can be accessed via the internet using a web browser.
+- The web relies on various protocols to function properly and efficiently. Some of the most common protocols governing the web are:
+
+  - **TCP/IP (Transmission Control Protocol/Internet Protocol)**: This is the fundamental protocol suite that provides the basic functionality of the internet. It consists of two main protocols: TCP and IP. TCP is responsible for ensuring reliable and ordered delivery of data packets between hosts, while IP is responsible for routing and addressing the packets across the network. TCP/IP also supports other protocols such as UDP, ICMP, ARP, etc.  
+  - **HTTP (HyperText Transfer Protocol)**: This is the protocol that defines how web browsers and web servers communicate and exchange information. HTTP is based on a request-response model, where a client (browser) sends a request for a resource (such as a web page, an image, a video, etc.) to a server, and the server responds with the requested resource or an error message. HTTP also supports methods such as GET, POST, PUT, DELETE, etc. to perform different actions on the resources. HTTP is usually carried over TCP/IP. 
+  - **DNS (Domain Name System)**: This is the protocol that translates human-readable domain names (such as www.google.com) into numerical IP addresses (such as 172.217.14.206) that are used by TCP/IP to locate and connect to the hosts. DNS is a hierarchical and distributed system that consists of various servers and databases that store and resolve the domain name queries. DNS also supports other functions such as caching, load balancing, security, etc. 
+  - **FTP (File Transfer Protocol)**: This is the protocol that enables the transfer of files between hosts over the internet. FTP is based on a client-server model, where a client (user) establishes a connection with a server (host) and can upload or download files from or to the server. FTP also supports commands such as LIST, RETR, STOR, DELE, etc. to manipulate the files and directories on the server. FTP is usually carried over TCP/IP.  
+
+- These are some of the main protocols governing the web, but there are many more protocols that are used for different purposes and applications, such as SMTP, POP3, IMAP, SSL, HTTPS, etc.

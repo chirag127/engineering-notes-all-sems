@@ -1,0 +1,12 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on how HDFS stores data:
+
+### How does HDFS store data?
+
+- HDFS (Hadoop Distributed File System) is the primary storage system used by Hadoop applications. It is a distributed file system that can handle and store large amounts of unstructured data across multiple nodes in a cluster  .
+- HDFS has a master-slave architecture that consists of a NameNode and multiple DataNodes  .
+- The NameNode is the master node that manages the file system metadata, such as the directory tree, file permissions, and block locations. It also coordinates the data access and replication among the DataNodes  .
+- The DataNodes are the slave nodes that store the actual data in the form of blocks. Each block is a fixed-size chunk of data, typically 128 MB or 256 MB. A file can be split into one or more blocks and stored on different DataNodes for parallel processing and fault tolerance  .
+- HDFS follows a write-once-read-many model, which means that once a file is created, it cannot be modified. However, it can be appended to or deleted. HDFS also supports snapshots, which are point-in-time copies of the file system.
+- HDFS provides high availability, scalability, and reliability by replicating each block across multiple DataNodes, usually three. The replication factor can be configured for each file or directory. The NameNode periodically receives block reports and heartbeats from the DataNodes to monitor their status and the block locations. If a DataNode fails or a block becomes corrupted, the NameNode initiates the replication of the missing or corrupted block from another DataNode to maintain the desired replication factor .
+- HDFS also supports rack awareness, which means that it considers the physical location of the nodes in a cluster when placing the blocks. This improves the network bandwidth utilization and the data availability in case of rack failures. HDFS tries to place the replicas of a block on different racks, preferably in the same data center .
+- HDFS can be accessed by clients through various interfaces, such as the Hadoop Shell, the Java API, the WebHDFS REST API, or the HDFS NFS Gateway. The clients communicate with the NameNode to get the metadata and the block locations, and then directly read or write data from or to the DataNodes.

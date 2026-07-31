@@ -1,0 +1,26 @@
+### Fruit
+
+- A fruit is the **soft, pulpy part of a flowering plant that contains seeds** .
+- It is formed from the **ovaries of angiosperms** (plants that produce flowers and seeds enclosed in a carpel) and is exclusive only to this group of plants .
+- Fruits are a characteristic of flowering plants. As soon as **pollen and fertilization occur**, the ovary of a plant becomes a fruit and the ovules become a seed.
+- Fruits are classified into four types namely: **simple, aggregate, multiple, and accessory fruits** .
+  - Simple fruits are derived from a single ovary of a single flower, such as apples, cherries, and tomatoes .
+  - Aggregate fruits are formed from several ovaries of a single flower, such as raspberries, blackberries, and strawberries .
+  - Multiple fruits are developed from the fusion of ovaries of several flowers, such as pineapples, figs, and mulberries .
+  - Accessory fruits are derived from other parts of the flower besides the ovary, such as pears, watermelons, and pumpkins .
+- Fruits have various functions in the life cycle of plants, such as **protecting the seeds, dispersing the seeds, attracting pollinators, and providing food for animals and humans** .
+- Fruits can be classified into different categories based on their **edibility, taste, texture, color, shape, and size**.
+  - Edible fruits are those that can be consumed by humans or animals, such as bananas, grapes, and oranges.
+  - Inedible fruits are those that are poisonous, bitter, or hard to digest, such as poison ivy, castor beans, and acorns.
+  - Sweet fruits are those that have a high sugar content, such as mangoes, dates, and peaches.
+  - Sour fruits are those that have a high acid content, such as lemons, cranberries, and kiwis.
+  - Bitter fruits are those that have a high alkaloid content, such as grapefruits, olives, and bitter melons.
+  - Savory fruits are those that have a low sugar and acid content, such as tomatoes, cucumbers, and avocados.
+  - Fleshy fruits are those that have a soft and juicy pulp, such as plums, cherries, and berries.
+  - Dry fruits are those that have a hard and dry pericarp, such as nuts, grains, and beans.
+  - Colorful fruits are those that have a bright and attractive color, such as apples, oranges, and strawberries.
+  - Dull fruits are those that have a pale and unappealing color, such as potatoes, onions, and garlic.
+  - Round fruits are those that have a spherical or oval shape, such as grapes, melons, and peaches.
+  - Elongated fruits are those that have a cylindrical or oblong shape, such as bananas, cucumbers, and carrots.
+  - Small fruits are those that have a low weight and volume, such as blueberries, cherries, and grapes.
+  - Large fruits are those that have a high weight and volume, such as watermelons, pumpkins, and jackfruits.

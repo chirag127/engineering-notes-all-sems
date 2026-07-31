@@ -1,0 +1,23 @@
+### Concepts of Investigation for the notes of the Unit 3 - Cyber Investigation in the subject of CYBER FORENSIC ANALYTICS
+
+- Cyber forensics is a field that follows certain procedures to find the evidence to reach conclusions after proper investigation of matters.
+- Cyber forensics is also known as computer forensics or digital forensics .
+- Cyber forensics is needed for the investigation of crime and law enforcement, especially when the computer system is the crime scene or the source of evidence.
+- Cyber forensics involves the following steps :
+  - Identification: The first step is to identify what evidence is present, where it is stored, and in what format it is stored.
+  - Preservation: The second step is to preserve the evidence in a way that prevents any alteration, loss, or damage. This may involve making copies, securing the original device, or using write blockers.
+  - Extraction: The third step is to extract the evidence from the source using appropriate tools and techniques. This may involve decrypting, recovering, or analyzing the data.
+  - Analysis: The fourth step is to analyze the evidence and interpret the results. This may involve finding patterns, connections, or anomalies in the data, or using specialized software to perform tasks such as reverse steganography, malware analysis, or network forensics.
+  - Presentation: The fifth step is to present the evidence and the findings in a clear and concise manner. This may involve writing reports, creating charts, or testifying in court.
+- Cyber forensics requires a combination of technical skills, analytical skills, and legal knowledge .
+- Cyber forensics has many advantages, such as:
+  - Providing reliable and objective evidence for criminal or civil cases.
+  - Enhancing the security and integrity of computer systems and networks.
+  - Detecting and preventing cyberattacks and cybercrimes.
+  - Recovering lost or deleted data.
+  - Identifying and tracing the source of cyber threats.
+- Cyber forensics also has some challenges, such as :
+  - Dealing with the large and complex amount of data involved in cyber investigations.
+  - Keeping up with the rapid changes and developments in technology and cybercrime.
+  - Following the legal and ethical standards and procedures for collecting, handling, and presenting digital evidence.
+  - Protecting the privacy and rights of the individuals and organizations involved in cyber investigations.

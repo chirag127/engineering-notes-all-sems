@@ -1,0 +1,22 @@
+### IOT based Three Phase Power Failure Monitoring with SMS Alerts
+
+- This is a system that monitors the status of a three-phase power supply and alerts the authorized person through an SMS when there is a failure in one or more phases .
+- A three-phase power supply is a system that delivers alternating current (AC) power in three separate phases, each with a different voltage and frequency. This system is commonly used for industrial and commercial applications that require high power and efficiency.
+- A phase loss or single phasing occurs when one of the three phases gets lost due to a blown fuse, thermal overload, broken wire, worn contact or mechanical failure. This can cause damage to the equipment and appliances connected to the power supply, as well as increase the risk of fire and electric shock .
+- The system consists of the following components:
+  - A microcontroller that controls the logic and communication of the system.
+  - A GSM module that sends and receives SMS messages using a SIM card and a mobile network.
+  - A LCD display that shows the voltage values of the three phases and the status of the system.
+  - A voltage sensor that measures the voltage of each phase and sends it to the microcontroller.
+  - A buzzer that sounds an alarm when there is a phase loss.
+  - A relay that switches off the power supply when there is a phase loss.
+  - A power supply that provides the required voltage and current to the system.
+- The system works as follows:
+  - The system is connected to the three-phase power supply and the GSM module is configured with the phone number of the authorized person.
+  - The system continuously monitors the voltage of each phase using the voltage sensor and displays it on the LCD.
+  - If the voltage of any phase falls below a predefined threshold, the system detects a phase loss and triggers the buzzer and the relay.
+  - The system then sends an SMS to the authorized person with the details of the phase loss and the location of the system.
+  - The system also displays the message "Phase Loss" on the LCD and waits for the acknowledgement from the authorized person.
+  - If the authorized person replies with the message "OK", the system stops the buzzer and the relay and resumes the normal operation.
+  - If the authorized person does not reply within a predefined time limit, the system repeats the SMS alert and the buzzer until the acknowledgement is received or the power supply is restored.
+- The system can be used to solve the societal problem of power failure and its consequences on the industrial and commercial sectors. The system can prevent the damage and loss of equipment and appliances, reduce the energy wastage and cost, and improve the safety and reliability of the power supply  .

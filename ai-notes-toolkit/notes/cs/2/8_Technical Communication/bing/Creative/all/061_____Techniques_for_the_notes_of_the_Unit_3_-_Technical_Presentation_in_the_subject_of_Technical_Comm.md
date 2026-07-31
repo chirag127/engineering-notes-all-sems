@@ -1,0 +1,10 @@
+# Techniques for the notes of the Unit 3 - Technical Presentation in the subject of Technical Communication
+
+- A technical presentation is a form of oral communication that aims to convey technical information or concepts to a specific audience, such as engineers, scientists, managers, or customers.
+- A technical presentation requires careful planning, preparation, and practice to achieve its objectives and to engage the audience effectively.
+- Some of the techniques for the notes of the technical presentation are:
+
+  - **Identify the purpose and scope of the presentation.** The notes should clearly state the main goal, the key message, and the expected outcome of the presentation. The notes should also define the scope and limitations of the topic, and the level of detail and technicality that is appropriate for the audience.
+  - **Analyze the audience and their needs.** The notes should consider the background, interests, expectations, and preferences of the audience, and tailor the content, language, and style accordingly. The notes should also anticipate the possible questions, objections, or feedback from the audience, and prepare the responses or solutions in advance.
+  - **Organize the content logically and coherently.** The notes should follow a clear and consistent structure that guides the audience through the presentation. The notes should include an introduction, a body, and a conclusion, and use transitions, headings, and signposts to connect the main points and subpoints. The notes should also use visual aids, such as graphs, charts, diagrams, or images, to support the verbal explanation and to enhance the clarity and attractiveness of the presentation.
+  - **Use effective verbal and nonverbal communication skills.** The notes should use simple, precise, and concise language that avoids jargon, ambiguity, and redundancy. The notes should also use appropriate tone, voice, and pace that suit the purpose and the audience of the presentation. The notes should also include cues for the speaker to use eye contact, gestures, facial expressions, and body language that convey confidence, enthusiasm, and professionalism.

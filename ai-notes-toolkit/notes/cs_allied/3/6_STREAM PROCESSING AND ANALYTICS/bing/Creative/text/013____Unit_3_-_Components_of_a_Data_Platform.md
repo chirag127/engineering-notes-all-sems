@@ -1,0 +1,10 @@
+## Unit 3 - Components of a Data Platform
+
+A data platform is a collection of tools and technologies that enable data-driven decision making. A data platform typically consists of the following components:
+
+- Data sources: These are the original sources of data, such as databases, files, web services, sensors, etc. Data sources can be structured, semi-structured, or unstructured, and can vary in size, format, and quality.
+- Data ingestion: This is the process of collecting, transforming, and loading data from data sources into a data platform. Data ingestion can be batch, streaming, or hybrid, depending on the frequency and latency of data delivery. Data ingestion can also involve data validation, cleansing, enrichment, and encryption.
+- Data storage: This is the component that stores the ingested data in a data platform. Data storage can be relational, non-relational, or hybrid, depending on the type, volume, and velocity of data. Data storage can also support different access patterns, such as transactional, analytical, or operational.
+- Data processing: This is the component that performs computations and transformations on the stored data in a data platform. Data processing can be batch, streaming, or hybrid, depending on the nature and complexity of the data analysis. Data processing can also involve data integration, aggregation, filtering, sorting, joining, etc.
+- Data analysis: This is the component that enables data exploration, visualization, and reporting on the processed data in a data platform. Data analysis can be descriptive, diagnostic, predictive, or prescriptive, depending on the level and purpose of data insight. Data analysis can also involve data mining, machine learning, artificial intelligence, etc.
+- Data governance: This is the component that ensures the quality, security, privacy, and compliance of data in a data platform. Data governance can involve data cataloging, metadata management, data lineage, data quality, data security, data privacy, data ethics, data auditing, data policies, etc.

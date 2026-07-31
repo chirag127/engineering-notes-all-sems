@@ -1,0 +1,31 @@
+### Information Technology Act 2000
+
+- The Information Technology Act 2000 (also known as ITA-2000, or the IT Act) is an Act of the Indian Parliament (No 21 of 2000) notified on 17 October 2000 .
+- It is the primary law in India dealing with cybercrime and electronic commerce .
+- It came into force on October 17, 2000 and applies to the whole of India and to any offense committed inside or outside India by any person   .
+- It is based on the United Nations Model Law on Electronic Commerce 1996 (UNCITRAL Model) and the recommendations of the Information Technology Act Expert Committee.
+- It aims to provide legal recognition for transactions carried out by means of electronic data interchange and other means of electronic communication, commonly referred to as "electronic commerce", which involve the use of alternatives to paper-based methods of communication and storage of information.
+- It also aims to facilitate electronic filing of documents with the Government agencies and further to amend the Indian Penal Code, the Indian Evidence Act, 1872, the Bankers' Books Evidence Act, 1891 and the Reserve Bank of India Act, 1934 and for matters connected therewith or incidental thereto.
+- It has 13 chapters, 94 sections and 4 schedules.
+- Some of the important provisions of the IT Act are:
+  - Legal recognition of electronic records and digital signatures.
+  - Regulation of certifying authorities and electronic signature certificates.
+  - Offenses and penalties for cybercrimes such as hacking, tampering, publishing obscene material, breach of confidentiality, cyber terrorism, etc.
+  - Establishment of Cyber Appellate Tribunal and Cyber Regulations Advisory Committee.
+  - Admissibility of electronic records and digital signatures as evidence in courts.
+  - Protection of personal data and privacy of individuals.
+  - Intermediaries' liability and due diligence.
+  - Power of Controller, Adjudicating Officer and police to access, search, seize and intercept electronic records and devices.
+  - Exemption from liability of Government for any damage caused by any error in electronic record.
+  - Power of Central Government to make rules and regulations for the implementation of the IT Act.
+- The IT Act was amended in 2008 to address new challenges and issues arising from the advancement of technology and the growth of cyber space.
+- The IT (Amendment) Act 2008 introduced new provisions such as:
+  - Recognition of electronic signatures as a mode of authentication of electronic records.
+  - Expansion of the scope of cyber offenses and penalties.
+  - Inclusion of new offenses such as identity theft, phishing, spamming, child pornography, cyber stalking, etc.
+  - Establishment of Indian Computer Emergency Response Team (CERT-In) as the national agency for incident response.
+  - Protection of critical information infrastructure from unauthorized access or attacks.
+  - Obligation of intermediaries to preserve and retain information and cooperate with law enforcement agencies.
+  - Power of Central Government to monitor and intercept any information transmitted through any computer resource.
+  - Power of Central Government to block access to any information on the internet in the interest of sovereignty, security, public order, etc.
+  - Power of Central Government to prescribe guidelines for data security and data protection.

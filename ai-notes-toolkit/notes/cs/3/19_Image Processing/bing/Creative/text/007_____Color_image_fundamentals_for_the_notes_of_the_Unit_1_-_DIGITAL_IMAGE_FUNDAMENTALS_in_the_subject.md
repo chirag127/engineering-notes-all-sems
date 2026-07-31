@@ -1,0 +1,20 @@
+### Color image fundamentals
+
+- Color is a powerful descriptor that often simplifies object identification and extraction from a scene .
+- Color image processing is divided into two major areas: full-color and pseudo-color processing.
+  - Full-color processing: the images are acquired with a full-color sensor, such as a color TV camera or color scanner. The images have three components, usually red, green and blue (RGB), that represent the intensity of each primary color at each pixel .
+  - Pseudo-color processing: the images are derived from a single component, such as a gray-level image, by assigning colors to different intensity levels. The colors are chosen to enhance certain features of the image or to convey some additional information .
+- Color images can be represented and manipulated using different color spaces, which are abstract mathematical models that characterize the colors in terms of intensity values. Some common color spaces are :
+  - RGB: the most widely used color space, based on the additive color model. Each color is a combination of red, green and blue components, ranging from 0 to 255. RGB is suitable for display devices, such as monitors and projectors, but not for printing or image analysis .
+  - CMYK: the color space based on the subtractive color model, used for printing. Each color is a combination of cyan, magenta, yellow and black components, ranging from 0 to 100. CMYK is complementary to RGB, meaning that the colors are opposite to each other in the color wheel .
+  - HSV: the color space based on the hue, saturation and value components, which are more intuitive and perceptual than RGB. Hue represents the dominant color, ranging from 0 to 360 degrees. Saturation represents the purity of the color, ranging from 0 to 100%. Value represents the brightness of the color, ranging from 0 to 100%. HSV is useful for color segmentation, enhancement and editing .
+  - YCbCr: the color space based on the luminance and chrominance components, which are more suitable for compression and transmission. Luminance (Y) represents the brightness of the color, ranging from 16 to 235. Chrominance (Cb and Cr) represent the blue and red difference signals, ranging from 16 to 240. YCbCr is widely used in digital video standards, such as JPEG and MPEG .
+- Color image processing involves various techniques and applications, such as  :
+  - Color transformation: changing the color space or the color components of an image, such as converting RGB to CMYK or adjusting the hue, saturation and value of an image .
+  - Color enhancement: improving the appearance or the quality of an image, such as increasing the contrast, brightness or sharpness of an image, or correcting the color balance or the color cast of an image .
+  - Color segmentation: dividing an image into regions or objects based on their color, such as separating the foreground from the background or identifying different types of fruits or flowers in an image .
+  - Color edge detection: finding the boundaries or the contours of objects or regions in an image based on their color, such as detecting the edges of a building or a road in an aerial image or the edges of a face or a hand in a portrait image .
+  - Color feature extraction: extracting meaningful or distinctive information from an image based on its color, such as calculating the color histogram, the color moments, the color correlogram or the color texture of an image .
+  - Color image compression: reducing the size or the bit rate of an image without compromising its quality or its information content, such as using JPEG or MPEG standards or applying color quantization or color coding techniques .
+  - Color image restoration: recovering or reconstructing an image that has been degraded or corrupted by noise, blur, distortion or missing pixels, such as using filtering, deblurring, inpainting or super-resolution techniques .
+  - Color image fusion: combining two or more images of the same scene taken from different sources or

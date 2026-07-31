@@ -1,0 +1,12 @@
+# Transfer Characteristic of FET
+
+- A field-effect transistor (FET) is a type of transistor that uses an electric field to control the flow of current in a semiconductor.
+- A FET has three terminals: source, gate, and drain. The source and drain are connected by a channel of either n-type or p-type semiconductor material, and the gate is insulated from the channel by a thin layer of oxide or other dielectric material.
+- The transfer characteristic of a FET is a plot of the drain current (I_D) versus the gate-source voltage (V_GS) for a given value of the drain-source voltage (V_DS) .
+- The transfer characteristic shows how the FET behaves as a voltage-controlled current source, where the gate voltage controls the amount of current flowing through the channel.
+- The transfer characteristic can be derived from the drain characteristic, which is a plot of the drain current (I_D) versus the drain-source voltage (V_DS) for different values of the gate-source voltage (V_GS) .
+- To derive the transfer characteristic from the drain characteristic, a line is drawn vertically on the drain characteristic to represent a constant V_DS level. The corresponding I_D and V_GS values along this line are noted and then used to plot the transfer characteristic .
+- The shape of the transfer characteristic depends on the type of FET (JFET or MOSFET) and the type of channel (n-type or p-type) .
+- For a JFET, the transfer characteristic is nonlinear and has a negative slope, meaning that the drain current decreases as the gate voltage becomes more negative (for n-channel) or more positive (for p-type) .
+- For a MOSFET, the transfer characteristic has two regions: the cutoff region and the saturation region. In the cutoff region, the drain current is zero or very small, and the gate voltage is below a threshold value (V_T). In the saturation region, the drain current is constant and independent of V_DS, and the gate voltage is above V_T .
+- A universal transfer characteristic is a transfer characteristic plotted with normalized values of I_D and V_GS, such that I_DSS = 1 and V_P = 1, where I_DSS is the maximum drain current and V_P is the pinch-off voltage for a JFET. A universal transfer characteristic can be applied to analyze or design a circuit using virtually any JFET, as long as the values of I_DSS and V_P are known for the device.

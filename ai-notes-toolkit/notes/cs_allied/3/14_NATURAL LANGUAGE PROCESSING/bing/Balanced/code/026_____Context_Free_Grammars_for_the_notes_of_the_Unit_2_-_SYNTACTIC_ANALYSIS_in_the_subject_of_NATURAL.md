@@ -1,0 +1,26 @@
+### Context Free Grammars
+
+- A context-free grammar (CFG) is a list of rules that define the set of all well-formed sentences in a language.
+- Each rule has a left-hand side, which identifies a syntactic category, and a right-hand side, which defines its alternative component parts, reading from left to right.
+- A syntactic category is a label for a group of words or phrases that share some common properties, such as noun, verb, adjective, etc.
+- A context-free grammar is called so because the rules can be applied regardless of the surrounding context of the words or phrases.
+- A context-free grammar can be formally defined as a 4-tuple (N, Σ, R, S), where:
+  - N is a finite set of non-terminal symbols, which represent syntactic categories.
+  - Σ is a finite set of terminal symbols, which represent words or punctuation marks.
+  - R is a finite set of production rules, which have the form A → α, where A ∈ N and α ∈ (N ∪ Σ)*.
+  - S ∈ N is the start symbol, which represents the whole sentence.
+- A context-free grammar can be used to generate or parse sentences in a language.
+  - To generate a sentence, we start with the start symbol S and apply the rules recursively until we obtain a string of terminal symbols.
+  - To parse a sentence, we start with the string of terminal symbols and try to find a sequence of rule applications that can derive it from the start symbol S.
+- A context-free grammar can be represented by a parse tree, which is a graphical representation of the derivation process.
+  - A parse tree has a root node labeled with the start symbol S and branches for each rule application.
+  - The leaf nodes are labeled with the terminal symbols and the internal nodes are labeled with the non-terminal symbols.
+  - A parse tree shows the hierarchical structure and the constituent parts of a sentence.
+- A context-free grammar can be used to model the constituent structure of natural language, which is the way words and phrases are grouped together to form larger units of meaning.
+  - A commonly used mathematical system for modelling constituent structure in natural language is context-free grammar (CFG), which was first defined for natural language in (Chomsky 1957) and was independently discovered for the description of the Algol programming language by Backus (backus 1959) and Naur (Naur et al. 1960).
+  - A context-free grammar can capture some of the syntactic properties and regularities of natural language, such as recursion, coordination, subordination, etc.
+  - A context-free grammar can also be used to define the high level structure of a programming language.
+- However, a context-free grammar is not sufficient to account for all the aspects and complexities of natural language, such as agreement, anaphora, word order, etc.
+  - Natural languages are really not context-free: e.g. pronouns more likely in Object rather than Subject of a sentence.
+  - Parsing natural language with a context-free grammar is PSPACE-complete (Recognized by a Turing machine using a polynomial amount of memory, and unlimited time).
+  - Often, more expressive and powerful grammars are needed, such as mildly context-sensitive grammars, tree-adjoining grammars, etc.

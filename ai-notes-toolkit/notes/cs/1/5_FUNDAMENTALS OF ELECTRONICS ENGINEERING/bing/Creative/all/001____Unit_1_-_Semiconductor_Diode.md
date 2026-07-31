@@ -1,0 +1,12 @@
+# Unit 1 - Semiconductor Diode
+
+- A semiconductor diode is a device that allows current to flow in one direction, but blocks it in the opposite direction.
+- A semiconductor diode is made of two types of semiconductor materials: p-type and n-type. The p-type has more holes (positive charge carriers) than electrons, while the n-type has more electrons (negative charge carriers) than holes.
+- The junction of the p-type and n-type materials is called the p-n junction. The p-n junction forms a depletion region, where the electrons and holes recombine and create a barrier for current flow.
+- The p-type material is connected to the anode (positive terminal) of the diode, and the n-type material is connected to the cathode (negative terminal) of the diode.
+- When the anode is connected to a positive voltage and the cathode is connected to a negative voltage, the diode is said to be forward biased. In this condition, the depletion region becomes narrower and the barrier is reduced. The current can flow from the anode to the cathode through the p-n junction.
+- When the anode is connected to a negative voltage and the cathode is connected to a positive voltage, the diode is said to be reverse biased. In this condition, the depletion region becomes wider and the barrier is increased. The current is blocked from flowing from the anode to the cathode through the p-n junction.
+- The diode has a characteristic curve that shows the relationship between the voltage across the diode and the current through the diode. The curve has a knee point, where the diode starts to conduct current in the forward bias. The knee point voltage is also called the cut-in voltage or the threshold voltage.
+- The diode has a maximum reverse voltage that it can withstand before it breaks down and conducts current in the reverse bias. This voltage is also called the breakdown voltage or the peak inverse voltage.
+- Some diodes have a special property that allows them to maintain a constant voltage across them when they are reverse biased. These diodes are called Zener diodes and they are used for voltage regulation.
+- There are many types of diodes, such as signal diodes, rectifier diodes, switching diodes, light-emitting diodes, photodiodes, etc. Each type has a specific application and symbol .

@@ -1,0 +1,25 @@
+# IEEE Standard for Floating Point Numbers
+
+- Floating point numbers are a way to represent real numbers in hardware, such as computers, using a fixed number of bits.
+- IEEE 754 is the most widely used standard for floating point arithmetic, which specifies the formats, methods, and exception handling for binary and decimal floating point numbers  .
+- IEEE 754 defines two precisions for binary floating point numbers: single precision and double precision .
+  - Single precision numbers have 32 bits: 1 bit for the sign, 8 bits for the exponent, and 23 bits for the significand .
+  - Double precision numbers have 64 bits: 1 bit for the sign, 11 bits for the exponent, and 52 bits for the significand .
+- The sign bit indicates whether the number is positive or negative: 0 for positive, 1 for negative .
+- The exponent bits represent the exponent of the number in base 2, using a biased representation .
+  - The bias is 127 for single precision and 1023 for double precision .
+  - The exponent value is obtained by subtracting the bias from the exponent bits .
+  - For example, if the exponent bits are 10000001 for single precision, the exponent value is 10000001 - 127 = -126 .
+- The significand bits represent the fraction part of the number, using a normalized representation .
+  - The normalized representation assumes that there is an implied 1 to the left of the radix point .
+  - For example, if the significand bits are 01000000000000000000000 for single precision, the significand value is 1.01 .
+- The floating point number is obtained by multiplying the sign, the significand, and the base 2 raised to the exponent .
+  - For example, if the sign bit is 1, the exponent bits are 10000001, and the significand bits are 01000000000000000000000 for single precision, the floating point number is -1 x 1.01 x 2^-126 .
+- IEEE 754 also defines special values for some combinations of exponent and significand bits, such as zero, infinity, and NaN (not a number) .
+  - Zero is represented by all zero bits in the exponent and significand .
+  - Infinity is represented by all one bits in the exponent and all zero bits in the significand .
+  - NaN is represented by all one bits in the exponent and any non-zero bits in the significand .
+- IEEE 754 also specifies how to perform arithmetic operations on floating point numbers, such as addition, subtraction, multiplication, division, and square root .
+  - The operations are performed by aligning the exponents, adding or subtracting the significands, normalizing the result, and rounding to the nearest representable value .
+  - The operations may also generate exception conditions, such as overflow, underflow, inexact, invalid, and division by zero .
+  - The standard defines default handling for these exceptions, such as returning a special value, signaling an error, or using a user-defined handler .

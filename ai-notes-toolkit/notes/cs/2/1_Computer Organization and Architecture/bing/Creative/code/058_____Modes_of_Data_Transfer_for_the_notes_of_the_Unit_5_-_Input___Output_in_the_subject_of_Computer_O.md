@@ -1,0 +1,9 @@
+# Modes of Data Transfer
+
+Data transfer is the process of moving data from one device or location to another in a computer system. Data transfer can be between internal storage and external I/O devices, or between different components of the computer system, such as the CPU, memory, and I/O devices.
+
+There are three main modes of data transfer in computer organization and architecture:
+
+- **Programmed I/O**: In this mode, the CPU executes I/O instructions in the program to initiate and control the data transfer. The CPU monitors the status of the I/O device and waits for it to be ready before transferring each data item. This mode is simple but inefficient, as it wastes CPU time and resources.
+- **Interrupt-initiated I/O**: In this mode, the CPU executes I/O instructions in the program to initiate the data transfer, but does not wait for it to complete. Instead, the CPU continues to execute other tasks until the I/O device signals an interrupt to indicate that the data transfer is done or requires attention. This mode is more efficient than programmed I/O, as it allows the CPU to perform other work while the I/O device is busy.
+- **Direct memory access (DMA)**: In this mode, the CPU delegates the data transfer to a special hardware device called the DMA controller, which can access the memory and the I/O device directly. The CPU initiates the transfer by supplying the DMA controller with the starting address and the number of words to be transferred, and then proceeds to execute other tasks. The DMA controller transfers the data without CPU intervention, and signals an interrupt to the CPU when the transfer is complete. This mode is the most efficient of the three, as it frees the CPU from the details of the data transfer and reduces the number of interrupts.

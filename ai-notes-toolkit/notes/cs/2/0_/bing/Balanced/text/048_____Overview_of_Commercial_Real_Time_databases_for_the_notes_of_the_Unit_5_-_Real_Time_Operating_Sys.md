@@ -1,0 +1,22 @@
+### Overview of Commercial Real Time databases
+
+- A real-time database is a database system that uses real-time processing to handle workloads whose state is constantly changing.
+- Real-time databases are useful for accounting, banking, law, medical records, multi-media, process control, reservation systems, and scientific data analysis.
+- Real-time databases can be classified into two types: hard real-time and soft real-time.
+  - Hard real-time databases have strict timing constraints and must guarantee that transactions are completed within their deadlines, otherwise the system may fail.
+  - Soft real-time databases have more relaxed timing constraints and can tolerate some degree of deadline misses, but still aim to optimize the performance and quality of service.
+- Some of the attributes of live real-time databases are:
+  - Concurrency control: the ability to handle multiple transactions accessing the same data without compromising data integrity or consistency.
+  - Data freshness: the degree to which the data reflects the current state of the real world.
+  - Data distribution: the ability to store and access data across multiple nodes or locations for scalability and availability.
+  - Data replication: the ability to create and maintain copies of data for fault tolerance and load balancing.
+  - Data recovery: the ability to restore data in case of failures or errors.
+  - Data security: the ability to protect data from unauthorized access or modification.
+  - Data analysis: the ability to perform queries and computations on the data to derive insights and intelligence.
+  - Data visualization: the ability to present the data in a graphical or interactive form to facilitate understanding and decision making.
+- Some of the examples of commercial real-time databases are :
+  - Dealpath: a cloud-based platform that provides data and analytics for commercial real estate transactions and portfolios.
+  - Altus Group: a data provider that offers historical and current information on commercial real estate markets and deals.
+  - CoStar: a leading provider of commercial real estate data and analytics, covering properties, tenants, leases, sales, and trends.
+  - Google Cloud Firestore: a highly scalable and performant NoSQL database service that supports real-time data synchronization and offline access.
+  - Google Cloud Bigtable: a fully managed NoSQL database service that handles large analytical and operational workloads with high availability and low latency.

@@ -1,0 +1,15 @@
+### Recovery with Concurrent Transaction
+
+In database management, concurrent transactions are executed simultaneously, which can cause data inconsistency and loss of data. Hence, recovery with concurrent transactions is an essential technique that ensures the consistency and durability of data in case of system failure. Here are some techniques used for recovery with concurrent transactions:
+
+- **Shadow Paging:** It is a recovery technique that maintains a copy of the database while transactions are in progress. In this technique, a database is divided into pages, and a copy of each page is maintained in a separate area called the "shadow area." When a transaction modifies a page, the original page is copied to the shadow area, and the transaction modifies the copy. Once the transaction is committed, the copy is made permanent, and the original page is replaced with the copy. If a system failure occurs, the shadow area is used to recover the database to the last committed state.
+
+- **Write-Ahead Logging (WAL):** It is a recovery technique that ensures that all changes made to a database are recorded in a log before they are written to the database. In this technique, a log file is maintained, which records all the changes made to the database. The log file is updated before any changes are made to the database. If a system failure occurs, the log file is used to recover the database to the last committed state.
+
+- **Checkpointing:** It is a recovery technique that periodically saves the state of the database in a checkpoint file. In this technique, a checkpoint file is created periodically, which contains the state of the database at the time of the checkpoint. If a system failure occurs, the checkpoint file is used to recover the database to the last checkpoint state.
+
+- **Immediate Update Technique:** It is a recovery technique that updates the database immediately after a transaction is committed. In this technique, the database is updated immediately after a transaction is committed, and the log file is updated after the database is updated. If a system failure occurs, the log file is used to recover the database to the last checkpoint state.
+
+- **Deferred Update Technique:** It is a recovery technique that updates the database after all transactions are committed. In this technique, the database is updated after all the transactions are committed, and the log file is updated before the database is updated. If a system failure occurs, the log file is used to recover the database to the last committed state.
+
+In conclusion, recovery with concurrent transactions is a critical technique that ensures the consistency and durability of data in case of system failure. The above techniques are used to recover the database to the last committed state and prevent data inconsistency and loss of data.

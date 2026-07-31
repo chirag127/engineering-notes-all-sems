@@ -1,0 +1,22 @@
+# COSMIC Full Function Points in spm
+
+- COSMIC stands for Common Software Measurement International Consortium, which is an organization that develops and maintains a standard method for measuring software functional size  .
+- COSMIC function points are a unit of measure of software functional size, which is the amount of functionality that a software provides to its users  .
+- The functional size is consistent regardless of the technology used to build the software, and can be estimated or measured based on the requirements .
+- The process of estimating or measuring software functional size is called functional size measurement (FSM)  .
+- FSM is very useful for planning and managing software projects or products, as it can help to estimate effort, cost, duration, quality, and productivity .
+- COSMIC function points are based on the concept of data movements, which are the smallest units of functionality that a software can provide .
+- There are four types of data movements: Entry, Exit, Read, and Write .
+- Entry is a data movement that brings data from the user or another software into the software being measured .
+- Exit is a data movement that sends data from the software being measured to the user or another software .
+- Read is a data movement that retrieves data from persistent storage within the software being measured .
+- Write is a data movement that stores data in persistent storage within the software being measured .
+- Each data movement has a functional complexity, which is determined by the number and types of data attributes and data groups involved .
+- A data attribute is a single piece of data that can be identified and manipulated by the software .
+- A data group is a set of data attributes that are logically related and treated as a whole by the software .
+- The functional complexity can be Low, Average, or High, depending on the number of data attributes and data groups in a data movement .
+- A COSMIC function point is equal to one data movement of Low functional complexity .
+- A data movement of Average functional complexity is equal to two COSMIC function points, and a data movement of High functional complexity is equal to three COSMIC function points .
+- The total functional size of a software is the sum of all the COSMIC function points of all the data movements in the software .
+- COSMIC function points can be applied to any type of software, from the smallest to the largest, and from any application domain .
+- COSMIC function points have been empirically validated to correlate well with effort and other software metrics over a wide range of sizes and domains.

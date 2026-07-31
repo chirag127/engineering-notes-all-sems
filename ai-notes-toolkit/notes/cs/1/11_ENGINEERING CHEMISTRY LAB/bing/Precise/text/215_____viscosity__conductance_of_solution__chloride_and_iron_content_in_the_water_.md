@@ -1,0 +1,9 @@
+### Viscosity, Conductance of Solution, Chloride and Iron Content in the Water
+
+- **Viscosity** is a measure of a fluid's resistance to flow. It describes the internal friction of a moving fluid. A fluid with high viscosity resists motion because its molecular makeup gives it a lot of internal friction. A fluid with low viscosity flows easily because its molecular makeup results in very little friction when it is in motion.
+
+- **Conductance of a solution** is the ability of a solution to conduct an electric current. The more ions present in the solution, the higher the conductivity. For example, the conductivity of seawater, which contains a high concentration of ions, is much higher than that of pure water, which contains very few ions. The conductivity of waterways in the United States varies from 50 to 1500 µmhos/cm, and inland freshwater lake studies reveal a conductivity of 150 to 500 µmhos/cm .
+
+- **Chloride content in water** refers to the amount of chloride ions present in the water. Chloride ions are approximately 1.9 percent of the mass of seawater . The more chloride ions present in the water, the higher the conductivity .
+
+- **Iron content in water** refers to the amount of iron present in the water. Iron can be present in water in two forms: soluble ferrous iron or insoluble ferric iron. Water containing ferrous iron is clear and colorless because the iron is completely dissolved. When exposed to air in the pressure tank or atmosphere, the water turns cloudy and a reddish brown substance begins to form. This sediment is the oxidized or ferric form of iron that will not dissolve in water.

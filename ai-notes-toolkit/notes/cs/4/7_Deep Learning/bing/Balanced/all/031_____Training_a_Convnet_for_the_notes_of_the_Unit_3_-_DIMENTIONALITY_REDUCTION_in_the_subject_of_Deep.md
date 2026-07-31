@@ -1,0 +1,21 @@
+# Training a Convnet for the notes of the Unit 3 - DIMENTIONALITY REDUCTION in the subject of Deep Learning
+
+- A convolutional neural network (ConvNet or CNN) is a type of deep learning model that can process images and extract features from them.
+- A ConvNet consists of several layers, such as convolutional layers, pooling layers, fully connected layers, and activation functions.
+- Convolutional layers apply filters to the input image and produce feature maps that capture the spatial patterns in the image.
+- Pooling layers reduce the size of the feature maps and introduce some invariance to translation, rotation, and scaling.
+- Fully connected layers connect all the neurons from the previous layer to the output layer, where the final classification or regression is performed.
+- Activation functions introduce non-linearity to the model and allow it to learn complex functions.
+- Training a ConvNet involves finding the optimal values of the weights and biases of the filters and the neurons, such that the model can minimize a loss function on a given dataset.
+- The loss function measures the discrepancy between the model's predictions and the ground truth labels of the images.
+- The most common loss function for image classification is the cross-entropy loss, which penalizes the model for assigning low probabilities to the correct classes and high probabilities to the incorrect classes.
+- The most common optimization algorithm for training a ConvNet is stochastic gradient descent (SGD), which updates the weights and biases by taking small steps in the opposite direction of the gradient of the loss function.
+- The gradient of the loss function is computed using a technique called backpropagation, which propagates the errors from the output layer to the input layer, and calculates the partial derivatives of the loss function with respect to each weight and bias.
+- The learning rate is a hyperparameter that controls the size of the steps taken by SGD. A high learning rate can lead to faster convergence, but also to overshooting and divergence. A low learning rate can lead to slower convergence, but also to better accuracy and stability.
+- Other hyperparameters that affect the training of a ConvNet are the number and size of the filters, the stride and padding of the convolutional layers, the type and size of the pooling layers, the number and size of the fully connected layers, the type and parameters of the activation functions, the batch size, the number of epochs, and the regularization techniques.
+- Regularization techniques are methods that prevent overfitting, which is the phenomenon of the model performing well on the training set, but poorly on the test set. Overfitting occurs when the model learns the noise and the specificities of the training set, rather than the general patterns and the underlying distribution of the data.
+- Some common regularization techniques for ConvNets are dropout, weight decay, batch normalization, and data augmentation.
+- Dropout randomly drops out some neurons during training, which reduces the co-adaptation of features and forces the model to learn more robust representations.
+- Weight decay adds a penalty term to the loss function, which shrinks the weights towards zero and prevents them from growing too large and overfitting.
+- Batch normalization normalizes the inputs of each layer, which reduces the internal covariate shift and accelerates the training process.
+- Data augmentation applies random transformations to the images, such as flipping, rotating, cropping, scaling, and adding noise, which increases the diversity and the size of the training set and reduces overfitting.

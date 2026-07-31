@@ -1,0 +1,27 @@
+# Group Discussion for the notes of the Unit 4 - Technical Communication Skills in the subject of Technical Communication
+
+- A group discussion involves having a conversation with others in a group setting.
+- Group discussions encourage teamwork and allow participants to improve their speaking and listening skills.
+- Group discussions are also used to assess the candidates' suitability for a job, admission, or scholarship.
+- The three main types of group discussions are topic-based, case study-based, and abstract.
+  - Topic-based group discussions are about practical things and judge how a candidate processes information and analyses day-to-day topics or socio-economic issues.
+  - Case study-based group discussions are about hypothetical situations and judge how a candidate applies their knowledge and problem-solving skills to a given scenario.
+  - Abstract group discussions are about creative or unconventional topics and judge how a candidate thinks out of the box and expresses their imagination.
+- The purpose of group discussions can vary depending on the context and the objective. Some common purposes are :
+  - To generate ideas or solutions for a problem or a challenge.
+  - To share information or knowledge among the group members.
+  - To reach a consensus or a decision on a matter of interest or concern.
+  - To evaluate the pros and cons of different alternatives or options.
+  - To develop critical thinking and analytical skills among the group members.
+  - To enhance the communication and interpersonal skills of the group members.
+  - To build rapport and trust among the group members.
+- The prerequisites for a successful group discussion are :
+  - A clear and relevant topic or case that stimulates the interest and participation of the group members.
+  - A well-defined objective and scope of the discussion that guides the direction and outcome of the discussion.
+  - A suitable size and composition of the group that ensures diversity and balance of opinions and perspectives.
+  - A conducive environment and atmosphere that fosters respect, cooperation, and openness among the group members.
+  - A competent moderator or facilitator that initiates, regulates, and summarizes the discussion.
+- The steps for conducting a group discussion are :
+  - Introduction: The moderator or facilitator introduces the topic or case, the objective and scope of the discussion, the rules and norms of the discussion, and the roles and responsibilities of the group members.
+  - Discussion: The group members exchange their views, opinions, arguments, facts, and examples on the topic or case. The moderator or facilitator ensures that the discussion is relevant, constructive, and inclusive. The group members listen actively, respond respectfully, and ask questions or clarifications when needed.
+  - Conclusion: The moderator or facilitator summarizes the main points, highlights the areas of agreement and disagreement, and draws the conclusion or decision based on the consensus or majority of the group members. The group members give their feedback and suggestions for improvement.

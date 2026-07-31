@@ -1,0 +1,8 @@
+# Regression Analysis
+
+- Regression analysis is a **statistical technique** that aims to **estimate the relationships** between a **dependent variable** (also called the outcome, response, or label) and one or more **independent variables** (also called the predictors, covariates, explanatory variables, or features).
+- Regression analysis can be used to **test hypotheses**, **measure correlations**, **predict outcomes**, and **identify causal effects** among variables observed in data.
+- Regression analysis can be performed using **different types of models**, such as **linear regression**, **logistic regression**, **multiple regression**, **polynomial regression**, etc. Each model has its own **assumptions**, **advantages**, and **limitations**.
+- Regression analysis can be performed using **different methods of estimation**, such as **ordinary least squares (OLS)**, **maximum likelihood (ML)**, **generalized method of moments (GMM)**, etc. Each method has its own **criteria**, **properties**, and **applications**.
+- Regression analysis can be evaluated using **different measures of goodness-of-fit**, such as **R-squared**, **adjusted R-squared**, **root mean squared error (RMSE)**, **Akaike information criterion (AIC)**, etc. Each measure has its own **interpretation**, **strengths**, and **weaknesses**.
+- Regression analysis can be enhanced using **different techniques of model selection**, such as **stepwise regression**, **backward elimination**, **forward selection**, etc. Each technique has its own **algorithm**, **benefits**, and **drawbacks**.

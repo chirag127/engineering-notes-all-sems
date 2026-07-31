@@ -1,0 +1,41 @@
+# Dynamic System Development Method in spm
+
+- Dynamic System Development Method (DSDM) is an agile project delivery framework, initially used as a software development method.
+- DSDM is a rapid application development strategy that gives an agile project delivery structure.
+- DSDM is based on the following principles :
+  - Focus on the business need
+  - Deliver on time
+  - Collaborate
+  - Never compromise quality
+  - Build incrementally from firm foundations
+  - Develop iteratively
+  - Communicate continuously and clearly
+  - Demonstrate control
+- DSDM consists of the following phases :
+  - Pre-project: Define the project scope, feasibility, and business case.
+  - Project life cycle: Consists of four stages:
+    - Feasibility study: Establish the technical and business viability of the project.
+    - Business study: Define the business requirements and priorities.
+    - Functional model iteration: Develop and refine the functional model through prototyping and testing.
+    - Design and build iteration: Design and build the system according to the functional model and the technical standards.
+    - Implementation: Deploy the system to the users and provide training and support.
+  - Post-project: Review the project outcomes and benefits and identify the lessons learned.
+- DSDM uses the following roles and responsibilities :
+  - Executive sponsor: The senior manager who owns the business case and provides the resources and direction for the project.
+  - Visionary: The person who defines the vision and scope of the project and ensures that it meets the business needs.
+  - Project manager: The person who plans and controls the project and manages the risks and issues.
+  - Technical coordinator: The person who coordinates the technical aspects of the project and ensures the quality and consistency of the deliverables.
+  - Business analyst: The person who elicits and analyzes the business requirements and facilitates the communication between the business and technical teams.
+  - Solution developer: The person who designs and builds the system according to the functional model and the technical standards.
+  - Solution tester: The person who tests the system and verifies that it meets the requirements and quality criteria.
+  - Business ambassador: The person who represents the end-users and provides feedback and validation throughout the project.
+  - Business advisor: The person who provides domain expertise and advice to the project team.
+  - Workshop facilitator: The person who facilitates the workshops and meetings and ensures the participation and collaboration of the stakeholders.
+  - DSDM coach: The person who provides guidance and support on the application of the DSDM framework and principles.
+- DSDM aims to deliver the following benefits :
+  - Faster delivery of value to the business and the users
+  - Higher quality and customer satisfaction
+  - Greater flexibility and adaptability to changing requirements
+  - Improved collaboration and communication among the stakeholders
+  - Reduced risk and uncertainty
+  - Enhanced project governance and control

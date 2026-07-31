@@ -1,0 +1,33 @@
+# 2-Computer assisted software based Language Learning:
+
+- Computer assisted software based language learning (CASBLL) is a subset of computer assisted language learning (CALL) that uses software applications and programs to facilitate and enhance the learning of languages.
+- CASBLL can be used for various purposes, such as:
+  - Presenting and practicing language skills and knowledge, such as vocabulary, grammar, pronunciation, reading, writing, listening, and speaking.
+  - Providing feedback and assessment on learners' performance and progress.
+  - Creating interactive and authentic environments where learners can communicate with native speakers, other learners, or artificial agents.
+  - Supporting learners' autonomy, motivation, and metacognition.
+  - Developing learners' intercultural and digital competencies.
+- CASBLL can be classified into different types, such as:
+  - Drill and practice software, which provides repetitive exercises and drills to reinforce language rules and patterns.
+  - Tutorial software, which offers structured and guided instruction on language topics and skills.
+  - Simulation software, which creates realistic scenarios and tasks for learners to use language in meaningful contexts.
+  - Game software, which incorporates language learning into fun and engaging activities and challenges.
+  - Intelligent software, which adapts to learners' needs, preferences, and abilities, and provides personalized feedback and guidance.
+- CASBLL can be delivered through various platforms and devices, such as:
+  - Desktop computers and laptops, which offer a wide range of software options and features, but may require installation and updates.
+  - Mobile devices, such as smartphones and tablets, which offer portability and convenience, but may have limited storage and battery life.
+  - Web-based applications, which can be accessed through browsers and do not require installation, but may depend on internet connection and speed.
+  - Cloud-based applications, which store data and resources on remote servers and can be accessed from any device, but may raise security and privacy issues.
+- CASBLL can have various benefits and challenges for language learners and teachers, such as:
+  - Benefits:
+    - Enhancing learners' exposure and access to language input and output.
+    - Providing learners with immediate and individualized feedback and assessment.
+    - Increasing learners' autonomy, motivation, and engagement.
+    - Supporting learners' differentiation and personalization of learning.
+    - Developing learners' 21st century skills and competencies.
+  - Challenges:
+    - Requiring learners' and teachers' digital literacy and technical skills.
+    - Demanding learners' and teachers' time and effort to select, use, and evaluate software.
+    - Creating potential technical issues and glitches.
+    - Reducing learners' and teachers' social interaction and human touch.
+    - Raising ethical and pedagogical concerns about software quality and validity.

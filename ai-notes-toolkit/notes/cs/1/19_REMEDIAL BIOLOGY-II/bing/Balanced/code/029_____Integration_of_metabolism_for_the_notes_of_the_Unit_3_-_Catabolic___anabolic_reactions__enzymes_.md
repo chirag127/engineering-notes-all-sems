@@ -1,0 +1,33 @@
+### Integration of metabolism
+
+- Metabolism is the sum of all the chemical reactions that take place in a living cell to maintain its structure and function.
+- Metabolism can be divided into two major types: catabolism and anabolism.
+  - Catabolism is the breakdown of complex molecules into simpler ones, releasing energy in the process.
+  - Anabolism is the synthesis of complex molecules from simpler ones, requiring energy in the process.
+- Metabolism is regulated by various factors, such as enzymes, hormones, nutrients, oxygen, and cellular signals .
+  - Enzymes are biological catalysts that speed up the rate of metabolic reactions by lowering the activation energy.
+  - Hormones are chemical messengers that coordinate the metabolic activities of different tissues and organs.
+  - Nutrients are the sources of energy and building blocks for metabolic reactions.
+  - Oxygen is the final electron acceptor in aerobic respiration, which produces most of the energy in the cell.
+  - Cellular signals are molecules that transmit information and regulate the expression and activity of metabolic enzymes.
+- Metabolism is integrated by the interconnection and coordination of different metabolic pathways .
+  - A metabolic pathway is a series of connected chemical reactions that feed one another, converting one or more starting molecules into products.
+  - Metabolic pathways can be broadly divided into two categories based on their effects:
+    - Catabolic pathways are those that break down molecules and release energy, such as glycolysis, Krebs cycle, and oxidative phosphorylation.
+    - Anabolic pathways are those that synthesize molecules and require energy, such as gluconeogenesis, glycogen synthesis, and fatty acid synthesis.
+  - Metabolic pathways are interconnected by common intermediates, such as glucose, pyruvate, acetyl-CoA, and ATP .
+  - Metabolic pathways are coordinated by reciprocal regulation, which ensures that opposing pathways are not active at the same time .
+    - Reciprocal regulation involves allosteric and hormonal control of key enzymes in the pathways .
+    - Allosteric control is the binding of a molecule to an enzyme at a site other than the active site, changing its shape and activity.
+    - Hormonal control is the binding of a hormone to a receptor on the cell membrane or inside the cell, triggering a cascade of events that affect the enzyme activity.
+    - Examples of hormones that regulate metabolism are insulin, glucagon, and epinephrine.
+      - Insulin is secreted by the pancreas in response to high blood glucose levels, and stimulates the uptake and utilization of glucose by the cells, as well as the synthesis of glycogen, fatty acids, and proteins.
+      - Glucagon is secreted by the pancreas in response to low blood glucose levels, and stimulates the breakdown of glycogen, fatty acids, and proteins, as well as the production of glucose by the liver.
+      - Epinephrine is secreted by the adrenal glands in response to stress, and stimulates the mobilization of glucose and fatty acids from the storage sites, as well as the increase of heart rate and blood pressure.
+- Metabolism is also integrated by the metabolic diversity and pathways of energy use in different organisms and tissues .
+  - Metabolic diversity refers to the variation of metabolic pathways and capabilities among different organisms and tissues, depending on their environmental and physiological conditions .
+  - Examples of metabolic diversity are :
+    - Aerobic respiration, which uses oxygen as the final electron acceptor and produces 36-38 ATP per glucose molecule.
+    - Anaerobic respiration, which uses other molecules as the final electron acceptor, such as nitrate, sulfate, or carbon dioxide, and produces less ATP than aerobic respiration.
+    - Fermentation, which does not use an external electron acceptor and produces only 2 ATP per glucose molecule, along with ethanol or lactic acid as byproducts.
+    - Photosynthesis, which uses light energy to convert carbon dioxide and water into glucose and oxygen, and produces ATP

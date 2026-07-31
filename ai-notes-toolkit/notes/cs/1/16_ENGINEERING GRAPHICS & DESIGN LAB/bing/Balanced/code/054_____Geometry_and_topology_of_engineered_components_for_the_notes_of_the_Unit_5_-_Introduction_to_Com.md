@@ -1,0 +1,12 @@
+### Geometry and topology of engineered components
+
+- Geometry is the branch of mathematics that studies the properties, measurements, and relationships of points, lines, angles, surfaces, and solids in space.
+- Topology is the branch of mathematics that studies the properties of shapes that are preserved under continuous deformations, such as stretching, twisting, bending, and shrinking, but not tearing or gluing.
+- Geometry and topology are closely related, as many geometric concepts can be generalized and abstracted to topological ones, and many topological problems can be approached by geometric methods.
+- In engineering, geometry and topology are important for designing and analyzing the shape, size, structure, and function of components, systems, and materials.
+- Some examples of geometry and topology in engineering are:
+
+  - Computer-aided design (CAD) is the use of computer software to create, modify, analyze, and optimize geometric models of physical objects or systems. CAD can help engineers to design, test, and optimize components and systems in various fields, such as mechanical, electrical, civil, and biomedical engineering.
+  - Finite element analysis (FEA) is a numerical method for solving partial differential equations that arise from physical problems, such as heat transfer, fluid flow, stress, and deformation. FEA involves discretizing the domain of the problem into a finite number of elements, each with a simple geometry and topology, such as triangles, quadrilaterals, tetrahedra, or hexahedra. The solution of the problem is then approximated by a linear combination of basis functions defined on each element.
+  - Computational geometry is the study of algorithms and data structures for manipulating geometric objects and solving geometric problems, such as convex hulls, Voronoi diagrams, Delaunay triangulations, intersection detection, mesh generation, and geometric optimization. Computational geometry can be applied to various engineering problems, such as computer graphics, computer vision, robotics, geographic information systems, and computer-aided manufacturing.
+  - Computational topology is the study of algorithms and data structures for manipulating topological objects and solving topological problems, such as homology, homotopy, persistent homology, Morse theory, and Reeb graphs. Computational topology can be applied to various engineering problems, such as shape analysis, data analysis, image processing, and sensor networks.

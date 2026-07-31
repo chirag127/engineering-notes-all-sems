@@ -1,0 +1,18 @@
+### Wireless Medium Access Issues for the notes of the Unit 4 - Network & Communication aspects in IoT in the subject of Internet of Things
+
+- Wireless medium access is the process of coordinating the transmission and reception of data among multiple devices that share a common wireless channel.
+- Wireless medium access is challenging in IoT because of the following issues:
+  - **Interference**: IoT devices may operate in the same frequency band as other wireless technologies, such as WLAN, Bluetooth, or cellular networks, and cause or suffer from interference that degrades the network performance .
+  - **Energy efficiency**: IoT devices are often battery-powered and have limited energy resources, so they need to minimize the energy consumption of wireless communication, which is a major source of power drain .
+  - **Scalability**: IoT networks may consist of a large number of devices with diverse capabilities and requirements, so they need to support scalable and flexible wireless medium access that can adapt to the network dynamics and traffic patterns .
+  - **Reliability**: IoT applications may have strict quality of service (QoS) demands, such as low latency, high throughput, or high reliability, so they need to ensure reliable wireless medium access that can cope with the wireless channel variations and packet losses .
+- Wireless medium access is controlled by the medium access control (MAC) protocol, which is a sublayer of the data link layer in the network stack.
+- The MAC protocol is responsible for the following functions:
+  - **Channel access**: The MAC protocol determines when and how a device can access the wireless channel to transmit or receive data, and how to resolve the contention or collision among multiple devices that want to access the channel simultaneously.
+  - **Channel allocation**: The MAC protocol allocates the wireless channel resources, such as time slots, frequency bands, or codes, to the devices according to their needs and priorities, and manages the channel reuse or sharing among different devices or networks.
+  - **Channel coordination**: The MAC protocol coordinates the communication among the devices, such as by exchanging control messages, signaling the channel status, or synchronizing the clocks, to facilitate the data transmission and reception.
+  - **Channel adaptation**: The MAC protocol adapts to the wireless channel conditions, such as by adjusting the transmission power, modulation scheme, or coding rate, to optimize the network performance and efficiency.
+- There are different types of MAC protocols for wireless medium access, such as:
+  - **Contention-based MAC protocols**: These protocols allow the devices to access the channel in a random or probabilistic manner, without any centralized control or reservation. The devices compete for the channel access and may experience collisions or interference. Examples of contention-based MAC protocols are ALOHA, CSMA, and CSMA/CA.
+  - **Reservation-based MAC protocols**: These protocols require the devices to reserve the channel access in advance, either by a centralized controller or by a distributed negotiation. The devices access the channel in a deterministic or scheduled manner, without any contention or collision. Examples of reservation-based MAC protocols are TDMA, FDMA, CDMA, and OFDMA.
+  - **Hybrid MAC protocols**: These protocols combine the features of contention-based and reservation-based MAC protocols, such as by using contention for channel reservation and reservation for data transmission, or by switching between contention and reservation modes according to the network conditions. Examples of hybrid MAC protocols are CSMA/CD, MACA, and MACAW.

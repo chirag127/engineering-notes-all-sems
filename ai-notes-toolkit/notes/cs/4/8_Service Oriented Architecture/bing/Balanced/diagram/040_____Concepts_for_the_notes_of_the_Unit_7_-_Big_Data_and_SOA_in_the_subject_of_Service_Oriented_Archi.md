@@ -1,0 +1,13 @@
+### Concepts for the notes of the Unit 7 - Big Data and SOA in the subject of Service Oriented Architecture
+
+- Big data refers to the large and complex datasets that are generated from various sources and require advanced techniques and technologies to store, process, and analyze.
+- SOA (Service Oriented Architecture) is a design paradigm that promotes the development and integration of software applications as a collection of reusable, loosely coupled, and platform-independent services .
+- Big data and SOA can complement each other in the following ways :
+  - SOA services can leverage the power of big data analytics and AI to provide more value and intelligence to the users and stakeholders. For example, SOA services can use predictive models, natural language processing, computer vision, and machine learning to enhance the functionality and quality of the services.
+  - Big data platforms can adopt the SOA principles to enable the interoperability, scalability, and flexibility of the data processing and management systems. For example, big data platforms can use SOA services to expose the data sources, data transformations, data analysis, and data visualization as services that can be accessed and composed by different applications and users.
+  - SOA and big data can also benefit from the emerging technologies such as IoT (Internet of Things), cloud computing, and edge computing, which can provide more data sources, data storage, data processing, and data delivery options for the SOA services and big data platforms.
+- Some of the challenges and opportunities for SOA and big data are  :
+  - Data quality and governance: SOA and big data need to ensure the accuracy, completeness, consistency, and security of the data and the services, as well as comply with the ethical and regulatory standards and best practices.
+  - Data integration and interoperability: SOA and big data need to deal with the heterogeneity and diversity of the data and the services, as well as the complexity and dynamics of the data and service flows and dependencies.
+  - Data performance and scalability: SOA and big data need to cope with the high volume, variety, and velocity of the data and the services, as well as the increasing demands and expectations of the users and stakeholders.
+  - Data innovation and value creation: SOA and big data need to explore the new possibilities and potentials of the data and the services, as well as the new ways and methods to generate insights and solutions from the data and the services.

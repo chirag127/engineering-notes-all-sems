@@ -1,0 +1,25 @@
+### Threads and their management
+
+- A thread is a single sequence stream within a process. It is a lightweight process that the operating system can schedule and run concurrently with other threads.
+- Threads share the same data and code as the process that created them, so they have low operational cost and fast communication.
+- Threads can be used to improve the performance, responsiveness and parallelism of a program or an operating system.
+- There are two major types of threads in operating systems: user threads and kernel threads .
+  - User threads are created and managed by user-level libraries, such as POSIX threads (pthreads) or Java threads. They are not visible to the kernel and do not require system calls to switch between them. They have more flexibility and portability, but less efficiency and support from the kernel .
+  - Kernel threads are created and managed by the kernel, such as Windows threads or Linux threads. They are visible to the kernel and require system calls to switch between them. They have less flexibility and portability, but more efficiency and support from the kernel .
+- There are different ways of mapping user threads to kernel threads, such as one-to-one, many-to-one, many-to-many or hybrid.
+  - One-to-one mapping means each user thread is mapped to a kernel thread. This allows concurrency and parallelism, but also increases the overhead and the number of kernel threads.
+  - Many-to-one mapping means many user threads are mapped to a single kernel thread. This reduces the overhead and the number of kernel threads, but also limits the concurrency and parallelism. If one user thread blocks, the whole process blocks.
+  - Many-to-many mapping means many user threads are mapped to many kernel threads. This allows concurrency and parallelism, and also balances the overhead and the number of kernel threads. The kernel can assign user threads to available kernel threads dynamically.
+  - Hybrid mapping means many user threads are mapped to many kernel threads, but also allows multiple user threads to be mapped to a single kernel thread. This combines the advantages of many-to-one and many-to-many mappings, and also allows user-level thread management.
+- Threads can be in different states, such as new, ready, running, waiting, terminated or suspended .
+  - New state means the thread is created but not yet ready to run.
+  - Ready state means the thread is ready to run and waiting for the CPU to be assigned.
+  - Running state means the thread is running on the CPU.
+  - Waiting state means the thread is waiting for some event or resource to resume running.
+  - Terminated state means the thread has completed its execution and is no longer active.
+  - Suspended state means the thread is temporarily stopped by the user or the system and can be resumed later.
+- Threads can be managed by the operating system using various techniques, such as thread scheduling, thread synchronization, thread communication and thread termination .
+  - Thread scheduling is the process of selecting a thread from the ready queue and assigning it to the CPU. The operating system can use different scheduling algorithms, such as round-robin, priority-based, shortest job first, etc .
+  - Thread synchronization is the process of coordinating the execution of multiple threads that share data or resources. The operating system can use different synchronization mechanisms, such as locks, semaphores, monitors, condition variables, etc .
+  - Thread communication is the process of exchanging data or messages between threads. The operating system can use different communication methods, such as shared memory, message passing, signals, pipes, sockets, etc .
+  - Thread termination is the process of ending the execution of a thread and releasing its resources. The operating system can use different termination methods, such as explicit termination, implicit termination, cancellation, etc .

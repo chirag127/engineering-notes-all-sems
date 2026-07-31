@@ -1,0 +1,8 @@
+### 5. Personality Development & Soft Skills, Barun K.Mitra, Oxford University Press, New Delhi, 2012.
+
+- This is a book that aims to serve as a textbook for students of any discipline who are on the threshold of starting their careers. It also provides useful guidance to young managers who have already had a taste of corporate life  .
+- The book covers various aspects of developing one's personality, such as self-awareness, self-esteem, self-confidence, self-motivation, goal setting, time management, stress management, emotional intelligence, and interpersonal skills .
+- The book also focuses on improving one's communication skills, such as spoken English, phonetics, accent, intonation, resume writing, group discussion, interview skills, presentation skills, business writing, and business etiquette  .
+- The book is divided into 15 chapters, each of which contains theoretical concepts, examples, case studies, exercises, and self-assessment tests. The book also provides tips, suggestions, and quotations from eminent personalities to inspire and motivate the readers .
+- The book is written in a simple and lucid style, with ample illustrations, diagrams, and tables to enhance the understanding of the concepts. The book also provides references and web links for further reading and exploration .
+- The book is suitable for undergraduate and postgraduate students of any discipline, as well as for professionals who want to enhance their personality and soft skills. The book is also useful for trainers, teachers, and counselors who deal with personality development and soft skills .

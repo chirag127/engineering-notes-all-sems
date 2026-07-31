@@ -1,0 +1,10 @@
+### Creation of engineering models and their presentation in standard 2D blueprint form
+
+- Engineering models are representations of physical objects or systems that capture their essential features and behavior. They can be used for analysis, design, simulation, testing, or communication purposes.
+- Engineering models can be created using various methods, such as sketching, drafting, CAD (computer-aided design), CAE (computer-aided engineering), or CAM (computer-aided manufacturing).
+- Engineering models can be presented in different forms, such as 2D blueprints, 3D wireframes, 3D solids, or 3D meshes. Each form has its own advantages and limitations, depending on the intended use and audience of the model.
+- 2D blueprints are drawings that show the shape, size, and dimensions of an object or system in two dimensions. They use standard symbols, notation, and conventions to convey the geometric and dimensional information of the model. They are often used for fabrication, assembly, inspection, or documentation purposes.
+- 2D blueprints can be created manually using drafting tools, such as rulers, compasses, protractors, or pencils, or digitally using CAD software, such as AutoCAD, SolidWorks, or SketchUp. 2D blueprints can be printed on paper or displayed on a screen.
+- 2D blueprints can be classified into different types, such as orthographic projections, isometric projections, sectional views, auxiliary views, or detail views. Each type shows a different perspective or aspect of the model, depending on the level of detail and clarity required.
+- 2D blueprints can also include additional information, such as title blocks, notes, dimensions, tolerances, annotations, or references. These elements help to identify, describe, and specify the model and its features.
+- 2D blueprints must follow certain standards and rules, such as ISO (International Organization for Standardization) or ANSI (American National Standards Institute), to ensure consistency, accuracy, and readability of the drawings. These standards define the format, layout, symbols, notation, and conventions of the 2D blueprints.

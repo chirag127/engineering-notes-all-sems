@@ -1,0 +1,6 @@
+#### DHCP
+- DHCP stands for Dynamic Host Configuration Protocol. It is a network management protocol that automatically assigns IP addresses and other communication parameters to devices connected to a network using a client-server architecture .
+- DHCP operates on four basic steps: discover, offer, request, and acknowledge. A client device sends a broadcast message (discover) to the network, requesting an IP address. A DHCP server responds with an offer message, containing an available IP address and other configuration information. The client device accepts the offer and sends a request message to the server. The server acknowledges the request and assigns the IP address to the client device  .
+- DHCP has several advantages over manual IP configuration, such as reducing network administration, avoiding IP conflicts, improving network security, and supporting network mobility  .
+- DHCP can also provide other information to the client devices, such as the subnet mask, default gateway, domain name, DNS servers, and time servers  .
+- DHCP is defined by RFCs 2131 and 2132, and is an Internet Engineering Task Force (IETF) standard based on Bootstrap Protocol (BOOTP) .

@@ -1,0 +1,19 @@
+### Defense against Control Hijacking - Platform Defenses
+
+Control hijacking is a type of attack that exploits a vulnerability in a program to alter its execution flow and execute malicious code. Control hijacking can be performed by overwriting code pointers, such as return addresses, function pointers, or exception handlers, with the address of the attacker's payload. Control hijacking can compromise the security, integrity, and availability of a system.
+
+To defend against control hijacking, various platform defenses have been proposed and implemented. Platform defenses are mechanisms that are provided by the hardware, the operating system, or the compiler, to prevent or mitigate control hijacking attacks. Some of the common platform defenses are:
+
+- **Stack canaries**: Stack canaries are random values that are placed between the local variables and the return address on the stack. They are checked before returning from a function, and if they are modified, the program aborts. Stack canaries can protect against simple buffer overflow attacks that overwrite the return address, but they can be bypassed by more sophisticated attacks that use format string vulnerabilities, heap overflow, or return-oriented programming .
+
+- **Non-executable memory**: Non-executable memory is a feature that marks certain memory regions as non-executable, meaning that the processor will not execute any instructions from those regions. This can prevent the execution of injected code on the stack or the heap, but it does not prevent the overwriting of code pointers or the execution of existing code in unintended ways .
+
+- **Address space layout randomization (ASLR)**: ASLR is a technique that randomizes the base address of the code, the stack, the heap, and the libraries, making it harder for the attacker to predict the location of the payload or the existing code. ASLR can increase the difficulty of control hijacking attacks, but it can be defeated by brute force, information leakage, or return-oriented programming .
+
+- **Control flow integrity (CFI)**: CFI is a technique that enforces that the execution of a program follows a predefined control flow graph (CFG), which is derived from the source code or the binary. CFI can prevent the execution of arbitrary code or the deviation from the intended control flow, but it requires a precise and sound CFG, which is hard to obtain in practice. CFI can also be circumvented by attacks that respect the CFG or exploit its imprecision .
+
+- **Code pointer integrity (CPI)**: CPI is a technique that protects all the code pointers in a program from being overwritten by the attacker, by isolating them in a separate memory region and enforcing strict access control. CPI can prevent the corruption of code pointers, but it requires a precise and sound analysis of the code pointers, which is also hard to obtain in practice. CPI can also incur a significant performance overhead .
+
+- **Complete memory safety**: Complete memory safety is a property that guarantees that a program does not access or modify any memory location that it is not authorized to. Complete memory safety can prevent any control hijacking attack, as well as other types of memory corruption attacks, but it is very hard to achieve in practice, especially for low-level languages like C or C++. Complete memory safety can be enforced by using safe languages, such as Java or Python, or by using static or dynamic analysis tools, such as sanitizers or verifiers .
+
+These are some of the platform defenses that can be used to defend against control hijacking attacks. However, none of them are perfect or complete, and they all have some limitations, drawbacks, or trade-offs. Therefore, it is important to combine multiple defenses and to use secure coding practices to reduce the risk of control hijacking attacks.

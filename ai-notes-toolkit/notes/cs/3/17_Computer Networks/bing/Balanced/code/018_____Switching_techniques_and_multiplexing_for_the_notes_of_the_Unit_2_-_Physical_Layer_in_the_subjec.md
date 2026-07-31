@@ -1,0 +1,24 @@
+### Switching techniques and multiplexing
+
+Switching techniques and multiplexing are two important concepts in computer networks that enable efficient and reliable data transmission over shared communication links.
+
+#### Switching techniques
+
+Switching techniques are methods of connecting multiple devices in a network and allowing them to communicate with each other by sending and receiving data packets. There are three main types of switching techniques: circuit switching, message switching, and packet switching.
+
+- Circuit switching: In circuit switching, two nodes communicate with each other over a dedicated communication path. The path is established before the data transmission and remains active until the communication is terminated. Circuit switching is suitable for real-time applications that require constant and uninterrupted data flow, such as voice and video calls. However, circuit switching is inefficient in terms of bandwidth utilization, as the dedicated path cannot be used by other nodes even if there is no data to send or receive. 
+- Message switching: In message switching, the whole message is treated as a data unit and is stored and forwarded by intermediate nodes until it reaches the destination. Message switching does not require a dedicated path, and the intermediate nodes can buffer the messages until the next node is available. Message switching is suitable for applications that do not require real-time communication, such as email and file transfer. However, message switching has some drawbacks, such as variable delay, high storage requirement, and possible loss or duplication of messages. 
+- Packet switching: The packet switching technique is derived from message switching, where the message is broken down into smaller chunks called packets. Each packet has a header that contains the source and destination addresses, the sequence number, and other information. The packets are then transmitted independently over the network and are reassembled at the destination. Packet switching is more efficient than circuit switching and message switching, as it allows multiple nodes to share the same communication link and reduces the delay and storage requirement. However, packet switching also has some challenges, such as packet loss, packet reordering, packet duplication, and congestion control. 
+
+#### Multiplexing
+
+Multiplexing is a technique of combining multiple signals into one signal over a shared medium. Multiplexing allows the efficient utilization of the bandwidth and the transmission capacity of the medium. There are different types of multiplexing techniques, such as frequency division multiplexing (FDM), time division multiplexing (TDM), wavelength division multiplexing (WDM), and code division multiplexing (CDM).
+
+- Frequency division multiplexing (FDM): In FDM, the bandwidth of the medium is divided into several frequency bands, and each signal is modulated by a different carrier frequency. The modulated signals are then combined and transmitted over the medium. FDM is suitable for analog signals, such as radio and television broadcasts. However, FDM has some limitations, such as interference, crosstalk, and synchronization. 
+- Time division multiplexing (TDM): In TDM, the time of the medium is divided into several time slots, and each signal is assigned a different time slot. The signals are then transmitted over the medium in a sequential manner. TDM is suitable for digital signals, such as telephone and computer networks. However, TDM has some drawbacks, such as synchronization, overhead, and wastage of bandwidth. 
+- Wavelength division multiplexing (WDM): In WDM, the wavelength of the medium is divided into several channels, and each signal is modulated by a different wavelength of light. The modulated signals are then combined and transmitted over the medium, such as an optical fiber. WDM is suitable for high-speed and long-distance communication, such as internet backbone and submarine cables. However, WDM has some challenges, such as attenuation, dispersion, and amplification. 
+- Code division multiplexing (CDM): In CDM, each signal is assigned a different code, and the signals are then multiplied by the codes and transmitted over the medium. The receiver can recover the original signal by using the same code and a correlation technique. CDM is suitable for wireless communication, such as cellular and satellite networks. However, CDM has some issues, such as interference, noise, and power control. 
+
+#### Statistical multiplexing
+
+Statistical multiplexing is a communication link sharing technique, which is used in packet switching. The shared linking is variable in statistical multiplexing, whereas it is fixed in TDM or FDM. This is a strategic application for maximizing the utilization of bandwidth. This can increase the efficiency of the network, as

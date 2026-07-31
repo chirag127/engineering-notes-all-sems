@@ -1,0 +1,22 @@
+### Alphabet
+
+- An alphabet is a finite, non-empty set of symbols, usually denoted by Σ.
+- The symbols in an alphabet are called letters or characters.
+- Examples of alphabets are:
+  - Σ = {0, 1} (the binary alphabet)
+  - Σ = {a, b, c, ..., z} (the lowercase English alphabet)
+  - Σ = {a, b, c, ..., z, A, B, C, ..., Z} (the uppercase and lowercase English alphabet)
+  - Σ = {a, b, c, ..., z, A, B, C, ..., Z, 0, 1, 2, ..., 9} (the alphanumeric alphabet)
+- An alphabet can also contain symbols that are not letters or digits, such as punctuation marks, operators, or special characters.
+- Examples of such alphabets are:
+  - Σ = {+, -, *, /, (, )} (the arithmetic alphabet)
+  - Σ = {<, >, =, !, &, |, (, )} (the logical alphabet)
+  - Σ = {a, b, c, ..., z, A, B, C, ..., Z, 0, 1, 2, ..., 9, ., _, @} (the email alphabet)
+- An alphabet can be represented by listing its elements inside curly braces, separated by commas, or by using a shorthand notation, such as {a, b, ..., z} or {0, 1}^n^ (the set of all binary strings of length n).
+- The size or cardinality of an alphabet Σ is the number of symbols in it, denoted by |Σ|.
+- Examples of alphabet sizes are:
+  - |{0, 1}| = 2
+  - |{a, b, c, ..., z}| = 26
+  - |{a, b, c, ..., z, A, B, C, ..., Z}| = 52
+  - |{a, b, c, ..., z, A, B, C, ..., Z, 0, 1, 2, ..., 9}| = 62
+- The empty set ∅ is not an alphabet, since it has no symbols. The smallest possible alphabet is the singleton set {ε}, where ε is the empty string, which has no characters. However, this alphabet is rarely used in practice.

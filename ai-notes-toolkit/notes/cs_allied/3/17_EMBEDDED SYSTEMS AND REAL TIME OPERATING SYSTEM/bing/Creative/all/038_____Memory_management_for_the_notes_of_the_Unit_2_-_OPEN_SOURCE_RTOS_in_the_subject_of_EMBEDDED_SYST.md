@@ -1,0 +1,13 @@
+# Memory management for the notes of the Unit 2 - OPEN SOURCE RTOS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- Memory management is the process of allocating and deallocating memory for the tasks and objects in an RTOS.
+- Memory management can be done in two ways: static or dynamic.
+- Static memory management means that the memory is allocated at compile time and cannot be changed at run time. This method is simple, fast, and deterministic, but it can waste memory and limit flexibility.
+- Dynamic memory management means that the memory is allocated and freed at run time, depending on the needs of the application. This method is more flexible and efficient, but it can introduce overhead, fragmentation, and non-determinism.
+- An open source RTOS is an RTOS that is freely available and can be modified and distributed by anyone. Some examples of open source RTOS are FreeRTOS, Zephyr, and Linux.
+- An open source RTOS may use different memory management options, depending on the features and requirements of the system. Some of the common options are:
+  - Heap: A heap is a pool of memory that can be dynamically allocated and freed by the RTOS or the application. A heap can be implemented using different algorithms, such as first-fit, best-fit, or worst-fit. A heap can provide flexibility and efficiency, but it can also cause fragmentation, overhead, and non-determinism.
+  - Stack: A stack is a region of memory that is used to store the local variables and return addresses of the tasks. A stack is allocated and freed automatically by the RTOS when a task is created and deleted. A stack can provide speed and simplicity, but it can also cause overflow, underflow, and stack corruption.
+  - Static: Static memory is memory that is allocated at compile time and cannot be changed at run time. Static memory can be used to store the global variables and constants of the application. Static memory can provide determinism and reliability, but it can also waste memory and limit flexibility.
+  - Memory pool: A memory pool is a collection of fixed-size memory blocks that can be allocated and freed by the RTOS or the application. A memory pool can reduce fragmentation and overhead, but it can also waste memory and limit flexibility.
+  - Memory protection: Memory protection is a mechanism that prevents unauthorized access or modification of the memory by the tasks or the RTOS. Memory protection can improve the security and reliability of the system, but it can also introduce complexity and overhead. Memory protection can be implemented using hardware or software techniques, such as memory management unit (MMU), memory protection unit (MPU), or memory access control list (MACL).

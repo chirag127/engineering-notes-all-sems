@@ -1,0 +1,23 @@
+# Coding for the notes of the Unit 1 - Compression Techniques in the subject of Data Compression
+
+- Data compression is the process of encoding information using fewer bits than the original representation.
+- Data compression can reduce the storage space or transmission time of data, and improve the performance and efficiency of data processing.
+- Data compression can be classified into two types: lossless and lossy.
+  - Lossless compression preserves the exact information of the original data, and allows the original data to be reconstructed from the compressed data.
+  - Lossy compression discards some information of the original data, and allows the compressed data to be approximated to the original data.
+  - Lossless compression is suitable for text, audio, and executable files, while lossy compression is suitable for images, video, and speech files.
+- Data compression can be performed by using various techniques, such as:
+  - Run length encoding (RLE): a lossless technique that replaces repeated characters or pixels with a count and a symbol.
+  - Lempel-Ziv (LZ): a lossless technique that finds repeated patterns in a data set and replaces them with tokens or shortened sequences.
+  - Huffman coding: a lossless technique that assigns variable-length codes to symbols based on their frequencies.
+  - Arithmetic coding: a lossless technique that assigns codes to symbols based on their probabilities.
+  - Dictionary coding: a lossless technique that uses a predefined dictionary of symbols and codes.
+  - Transform coding: a lossy technique that transforms the data into a different domain, such as frequency or wavelet, and discards the less important components.
+  - Quantization: a lossy technique that reduces the number of possible values of a data set by rounding or grouping them.
+  - Predictive coding: a lossy technique that predicts the next value of a data set based on the previous values and encodes the difference.
+- Data compression can be improved by using best practices, such as:
+  - Determining the compression level: depending on the needs, the data can be compressed to a certain level, such as low, medium, or high.
+  - Choosing the appropriate compression type: for every file, the compression type should match the data type, such as lossless or lossy.
+  - Using a coprocessor: a dedicated hardware device that can perform compression faster and more efficiently than a general-purpose processor.
+  - Considering data deduplication: a technique that eliminates duplicate or redundant data blocks and stores only one copy of them.
+  - Determining if multi-stage compression is needed: a technique that applies more than one compression method to the data, such as RLE followed by LZ.

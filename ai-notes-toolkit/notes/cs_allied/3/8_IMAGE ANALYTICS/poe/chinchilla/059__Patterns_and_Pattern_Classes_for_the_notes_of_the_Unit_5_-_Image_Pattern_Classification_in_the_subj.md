@@ -1,0 +1,16 @@
+### Patterns and Pattern Classes
+
+In Unit 5 of Image Analytics, we will be discussing image pattern classification, which is the process of categorizing images based on their visual features. In this unit, we will focus on patterns and pattern classes, which are essential concepts in image pattern classification. Here are some key points to keep in mind:
+
+- A pattern is a visual feature that occurs in an image, such as edges, corners, or textures. These patterns can be used to identify and classify images.
+- Pattern classes are groups of images that exhibit similar patterns. For example, images of cats may belong to a pattern class that includes patterns such as fur, whiskers, and ears.
+- There are various approaches to pattern classification, such as supervised and unsupervised learning. In supervised learning, a machine learning model is trained on a labeled dataset to recognize patterns and assign images to their appropriate classes. In unsupervised learning, the model identifies patterns and groups images into classes without any prior knowledge of the classes.
+- Feature extraction is a crucial step in pattern classification, as it involves identifying and extracting relevant patterns from the images. This is typically done using techniques such as edge detection, texture analysis, and shape analysis.
+- Once the patterns have been extracted, they are usually represented as feature vectors, which are numerical representations of the patterns. These feature vectors can then be used to train machine learning models and classify images.
+- There are various pattern classes used in image pattern classification, such as texture patterns, shape patterns, color patterns, and object patterns. Each class has its own set of patterns and features that are used to classify images.
+- Texture patterns refer to the visual features of an object's surface, such as roughness, smoothness, and regularity. These patterns are commonly used in image classification tasks such as identifying different types of fabrics or materials.
+- Shape patterns refer to the visual features of an object's shape, such as its contour, size, and orientation. These patterns are commonly used in image classification tasks such as identifying different types of objects or animals.
+- Color patterns refer to the visual features of an object's color, such as its hue, saturation, and brightness. These patterns are commonly used in image classification tasks such as identifying different types of flowers or fruits.
+- Object patterns refer to the visual features of an object's structure, such as its parts, components, and relationships. These patterns are commonly used in image classification tasks such as identifying different types of vehicles or tools.
+
+In conclusion, patterns and pattern classes are essential concepts in image pattern classification. By understanding these concepts, we can identify and extract relevant patterns from images, represent them as feature vectors, and classify images into their appropriate classes.

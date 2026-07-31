@@ -1,0 +1,10 @@
+### Differential and Common-Mode Operation of Operational Amplifiers
+
+- An operational amplifier (op-amp) is a circuit that can amplify a small input signal into a large output signal, with high input impedance and low output impedance.
+- An op-amp can be used as a differential amplifier, which is a circuit that can accept two input signals and amplify the difference between them.
+- The differential mode of operation is when the input signals have opposite polarities and the output signal is proportional to their difference. The differential mode gain (Ad) is the ratio of the output voltage to the differential input voltage.
+- The common-mode of operation is when the input signals have the same polarity and the output signal is proportional to their average. The common-mode gain (Ac) is the ratio of the output voltage to the common-mode input voltage.
+- The common-mode rejection ratio (CMRR) is a measure of how well the op-amp can reject the common-mode signal and amplify only the differential signal. It is defined as the ratio of the differential mode gain to the common-mode gain, in decibels (dB).
+- The ideal op-amp has infinite differential mode gain, zero common-mode gain, and infinite CMRR. However, in reality, the op-amp has finite differential mode gain, non-zero common-mode gain, and finite CMRR.
+- The common-mode signal can be a source of noise or interference in the op-amp circuit, which can degrade the performance and accuracy of the op-amp. Therefore, it is desirable to minimize the common-mode signal and maximize the CMRR of the op-amp.
+- There are different configurations of op-amps that can be used for differential and common-mode operation, such as single-ended, dual-input balanced output, dual-input unbalanced output, and fully-differential. Each configuration has its own advantages and disadvantages, depending on the application and design requirements.

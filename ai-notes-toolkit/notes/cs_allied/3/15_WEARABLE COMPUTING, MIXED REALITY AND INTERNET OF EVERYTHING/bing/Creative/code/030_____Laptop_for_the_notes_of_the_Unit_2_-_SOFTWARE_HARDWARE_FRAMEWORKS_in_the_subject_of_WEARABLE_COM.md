@@ -1,0 +1,37 @@
+### Laptop for the notes of the Unit 2 - SOFTWARE HARDWARE FRAMEWORKS in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Wearable computing is the field of technology that involves devices that can be worn on the body, such as smartwatches, smart glasses, fitness trackers, etc.
+- Wearable devices usually have microprocessors, batteries, sensors, and connectivity to the internet or other devices, such as smartphones or laptops.
+- Wearable computing can be used for various applications, such as health monitoring, entertainment, education, communication, etc.
+- Some of the challenges and opportunities of wearable computing are:
+  - Designing devices that are comfortable, durable, and aesthetically pleasing.
+  - Ensuring the security and privacy of the data collected and transmitted by the devices.
+  - Developing user interfaces that are intuitive, natural, and adaptive to the context and the user's preferences.
+  - Integrating wearable devices with other technologies, such as mixed reality, internet of things, artificial intelligence, etc.
+- A laptop is a portable computer that can be used for various tasks, such as browsing the web, writing documents, playing games, etc.
+- A laptop can be a useful tool for taking notes of the Unit 2 - SOFTWARE HARDWARE FRAMEWORKS in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING, because:
+  - It can store and access a large amount of information, such as lecture slides, videos, articles, etc.
+  - It can run various software applications, such as word processors, spreadsheets, presentation tools, etc.
+  - It can connect to the internet and other devices, such as wearable devices, smart glasses, etc.
+  - It can support different input and output methods, such as keyboard, mouse, touch screen, microphone, speaker, etc.
+- Some of the factors to consider when choosing a laptop for taking notes of the Unit 2 - SOFTWARE HARDWARE FRAMEWORKS in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING are:
+  - Performance: The laptop should have enough processing power, memory, and storage to run the software applications and handle the data related to the subject.
+  - Battery life: The laptop should have a long-lasting battery that can support the usage during the lectures and the assignments.
+  - Portability: The laptop should be lightweight, compact, and easy to carry around.
+  - Durability: The laptop should be able to withstand the wear and tear of daily use and possible accidents, such as drops, spills, etc.
+  - Price: The laptop should fit the budget and the needs of the user.
+- One example of a laptop that meets these criteria is the **Getac B360**, which is a rugged laptop that offers full protection, a bright display, dual batteries, and a warranty. Some of the features and specifications of this laptop are:
+  - Processor: Intel Core i5-10210U or i7-10510U
+  - Memory: 8GB or 16GB DDR4
+  - Storage: 256GB or 512GB SSD
+  - Display: 13.3-inch FHD IPS LumiBond 2.0 touch screen
+  - Battery: Dual hot-swappable batteries with up to 21 hours of battery life
+  - Weight: 2.32 kg
+  - Dimensions: 343 x 281 x 34.9 mm
+  - Operating system: Windows 10 Pro
+  - Connectivity: Wi-Fi, Bluetooth, 4G LTE, GPS, NFC, etc.
+  - Ports: USB 3.1, USB 3.0, USB 2.0, HDMI, LAN, audio, etc.
+  - Keyboard: Backlit membrane or rubber keyboard
+  - Webcam: FHD webcam
+  - Security: TPM 2.0, fingerprint scanner, smart card reader, etc.
+  - Warranty: 3-year bumper-to-bumper warranty

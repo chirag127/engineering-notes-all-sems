@@ -1,0 +1,25 @@
+# Statistical Quality Control (SQC)
+
+- Statistical quality control (SQC) is a method of monitoring and controlling the quality of a product or process by using statistical tools and techniques .
+- SQC involves collecting data on the quality of a product or process and using statistical analysis to identify trends and patterns in the data .
+- SQC can be applied to both the inputs and outputs of a production process.
+- SQC can help to ensure that the process operates efficiently, producing more specification-conforming products with less waste, scrap, rework, or defects .
+- SQC can also help to improve customer satisfaction, reduce costs, and enhance competitiveness.
+- SQC can be classified into two main categories: descriptive statistics and inferential statistics.
+  - Descriptive statistics summarize the data collected from the process using measures of central tendency, dispersion, and shape.
+  - Inferential statistics use the data collected from a sample to make inferences or predictions about the population or the process.
+- SQC can use various statistical tools and techniques, such as:
+  - Control charts: graphical displays of the process performance over time, with upper and lower control limits that indicate the acceptable range of variation.
+  - Histograms: graphical displays of the frequency distribution of the data, showing the shape, spread, and central tendency of the data.
+  - Pareto charts: graphical displays of the relative importance of different causes of variation or defects, based on the 80/20 rule.
+  - Scatter diagrams: graphical displays of the relationship between two variables, showing the degree and direction of correlation.
+  - Cause-and-effect diagrams: graphical displays of the possible causes of a problem or an effect, using a fishbone or Ishikawa diagram.
+  - Check sheets: simple tools for collecting and organizing data, using a table or a list of items to be checked.
+  - Flow charts: graphical displays of the sequence of steps or activities in a process, showing the inputs, outputs, and decision points.
+  - Run charts: graphical displays of the process performance over time, showing the trends or patterns in the data.
+  - Box plots: graphical displays of the distribution of the data, showing the median, quartiles, and outliers of the data.
+  - Sampling techniques: methods of selecting a representative subset of the population or the process for data collection and analysis.
+  - Hypothesis testing: methods of testing a claim or an assumption about the population or the process using the sample data and a significance level.
+  - Analysis of variance (ANOVA): methods of comparing the means of two or more groups or factors to determine if there is a significant difference among them.
+  - Regression analysis: methods of modeling the relationship between a dependent variable and one or more independent variables, using a mathematical equation.
+  - Design of experiments (DOE): methods of planning and conducting experiments to optimize the process performance, using various factors and levels.

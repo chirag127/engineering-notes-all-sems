@@ -1,0 +1,16 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on domain constraints for the Unit 3 - Relational Database Concepts in the subject of Basics of Data Base Management System:
+
+### Domain Constraints
+- Domain constraints are a type of integrity constraints that specify the set of values that an attribute or a column can hold in a relational database table  .
+- Domain constraints are defined by the data type, size, format, range, or enumeration of possible values of an attribute or a column.
+- Domain constraints help to ensure the validity, accuracy, and consistency of the data in the database  .
+- Domain constraints can be enforced by using the following methods:
+  - **NOT NULL**: This constraint prevents the insertion of null values in an attribute or a column. Null values are unassigned or unknown values that may cause ambiguity or errors in the database operations. For example, the attribute `Student_ID` in the table `Student` can have a NOT NULL constraint to ensure that every student has a unique identifier.
+  - **CHECK**: This constraint defines a condition that each row must satisfy in order to be inserted or updated in the table. For example, the attribute `Age` in the table `Student` can have a CHECK constraint to ensure that the age of the student is between 18 and 25.
+  - **DEFAULT**: This constraint specifies a default value for an attribute or a column when no value is provided by the user. For example, the attribute `Gender` in the table `Student` can have a DEFAULT constraint to assign the value `M` or `F` if the user does not specify the gender of the student.
+  - **UNIQUE**: This constraint ensures that the values in an attribute or a column are distinct and do not repeat. For example, the attribute `Email` in the table `Student` can have a UNIQUE constraint to ensure that each student has a different email address.
+  - **PRIMARY KEY**: This constraint combines the NOT NULL and UNIQUE constraints to identify each row uniquely in the table. For example, the attribute `Student_ID` in the table `Student` can be the primary key of the table.
+  - **FOREIGN KEY**: This constraint establishes a relationship between two tables by referencing an attribute or a column in another table. For example, the attribute `Course_ID` in the table `Enrollment` can be a foreign key that references the attribute `Course_ID` in the table `Course`.
+- Domain constraints can be created, modified, or dropped using the SQL commands `CREATE TABLE`, `ALTER TABLE`, or `DROP TABLE` respectively.
+- Domain constraints can be violated by the user input or by the database operations. For example, if the user tries to insert a negative value for the attribute `Age` in the table `Student`, or if the database tries to delete a row from the table `Course` that is referenced by a foreign key in the table `Enrollment`, the domain constraints will be violated.
+- Domain constraints can be enforced by the database system by rejecting the invalid input or operation, or by taking some corrective action such as assigning a default value, cascading the changes, or setting the values to null.

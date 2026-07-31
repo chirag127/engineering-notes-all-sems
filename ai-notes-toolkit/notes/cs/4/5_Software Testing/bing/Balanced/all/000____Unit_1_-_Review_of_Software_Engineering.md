@@ -1,0 +1,25 @@
+## Unit 1 - Review of Software Engineering
+
+- Software engineering is the application of engineering principles and practices to the development, operation, and maintenance of software systems.
+- Software engineering covers a wide range of activities, such as:
+  - Requirements analysis: eliciting, specifying, and validating the needs and constraints of the stakeholders for a software system.
+  - Design: creating a high-level structure and architecture of the software system that meets the requirements and satisfies the quality attributes.
+  - Implementation: translating the design into executable code using programming languages, tools, and frameworks.
+  - Testing: verifying and validating that the software system meets the requirements and conforms to the design, as well as detecting and correcting defects.
+  - Deployment: delivering the software system to the intended users and environments, and ensuring its proper installation and configuration.
+  - Maintenance: providing support and updates to the software system to fix errors, improve performance, or add new features.
+  - Evolution: adapting the software system to changing requirements, technologies, or contexts.
+- Software engineering also involves managing the software development process, such as:
+  - Planning: defining the scope, objectives, schedule, budget, and resources for a software project.
+  - Estimation: predicting the effort, cost, and duration of a software project based on its size, complexity, and quality.
+  - Risk management: identifying, analyzing, and mitigating the potential threats and uncertainties that may affect a software project.
+  - Quality management: ensuring that the software system meets the expectations and standards of the stakeholders and customers, as well as complying with the relevant regulations and norms.
+  - Configuration management: controlling and tracking the changes and versions of the software system and its artifacts, such as code, documents, and data.
+  - Project management: coordinating and leading the software development team and its activities, as well as communicating and collaborating with the stakeholders and customers.
+- Software engineering is influenced by and interacts with other disciplines, such as:
+  - Computer science: providing the theoretical foundations and technical methods for software engineering, such as algorithms, data structures, programming languages, and software tools.
+  - Mathematics: providing the formal models and techniques for software engineering, such as logic, discrete mathematics, and statistics.
+  - Engineering: providing the general principles and practices for software engineering, such as problem-solving, design, testing, and optimization.
+  - Management: providing the organizational and business aspects of software engineering, such as leadership, teamwork, communication, and ethics.
+  - Psychology: providing the human and social aspects of software engineering, such as cognition, motivation, learning, and usability.
+  - Domain knowledge: providing the specific knowledge and expertise of the application domain of the software system, such as health, education, or finance.

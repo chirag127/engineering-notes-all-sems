@@ -1,0 +1,15 @@
+### Software Characteristics
+
+Software characteristics are the attributes or properties that describe the quality and behavior of a software product. Software engineering is the discipline that applies engineering principles and practices to the design, development, testing, and maintenance of software systems. Software engineering aims to produce software that meets the functional and non-functional requirements of the stakeholders, and that is delivered on time, within budget, and with minimal defects.
+
+There are several characteristics of software that are commonly recognized by software engineers, which are important to consider when developing a software system. These characteristics include:
+
+- **Functionality**: The software meets the requirements and specifications that it was designed for, and it behaves as expected in different scenarios and conditions. Functionality also covers the correctness, completeness, and interoperability of the software.
+- **Usability**: The software is easy to use and understand, and it provides a positive user experience. Usability also covers the learnability, efficiency, effectiveness, satisfaction, and accessibility of the software.
+- **Reliability**: The software performs consistently and reliably under normal and abnormal situations, and it recovers from failures gracefully. Reliability also covers the availability, fault tolerance, recoverability, and maturity of the software.
+- **Performance**: The software delivers the expected level of performance and responsiveness, and it utilizes the available resources efficiently. Performance also covers the throughput, response time, scalability, and resource consumption of the software.
+- **Security**: The software protects the confidentiality, integrity, and availability of the data and the system, and it prevents unauthorized access, modification, or damage. Security also covers the authentication, authorization, encryption, auditing, and compliance of the software.
+- **Maintainability**: The software is easy to modify and update, and it adapts to changing requirements and environments. Maintainability also covers the modularity, readability, testability, and documentation of the software.
+- **Reusability**: The software is designed and implemented in a way that allows its components or modules to be reused in other software projects, and it reduces the duplication of code and effort. Reusability also covers the portability, compatibility, and standardization of the software.
+
+These characteristics are not independent of each other, and they may have trade-offs or dependencies. For example, increasing the functionality of the software may affect its performance or security, or improving the usability of the software may require more maintenance or testing. Therefore, software engineers need to balance and optimize these characteristics according to the priorities and constraints of the project and the stakeholders.

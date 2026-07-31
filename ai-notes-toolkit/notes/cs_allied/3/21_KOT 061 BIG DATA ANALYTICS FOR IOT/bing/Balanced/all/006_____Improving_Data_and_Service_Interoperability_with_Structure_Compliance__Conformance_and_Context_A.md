@@ -1,0 +1,13 @@
+# Improving Data and Service Interoperability with Structure, Compliance, Conformance and Context Awareness
+
+- Interoperability is the ability of different systems, devices, or applications to exchange and use data or services without requiring special efforts from the users or developers.
+- Interoperability is a key challenge in the Internet of Things (IoT), where heterogeneous devices and data sources need to communicate and cooperate to provide value-added services.
+- This chapter revisits the interoperability problem in the IoT context and proposes an architectural style, Structural Services, which combines the service modelling capabilities of Service-Oriented Architecture (SOA) with the flexibility of structured resources in Representational State Transfer (REST).
+- Structural Services aim to improve interoperability at the data and service levels by using four main concepts: structure, compliance, conformance, and context awareness.
+- Structure refers to the use of a common data model, such as JSON or XML, to represent the data exchanged between services and clients, without requiring a predefined schema or ontology.
+- Compliance refers to the adherence of a service or a client to a set of rules or constraints that define the expected behavior or functionality of the service or the client, such as protocols, formats, or standards.
+- Conformance refers to the degree of similarity or compatibility between a service or a client and a reference model or specification, such as a service description or a service contract.
+- Context awareness refers to the ability of a service or a client to adapt to the changing conditions or situations of the environment, such as location, time, preferences, or events.
+- By using these concepts, Structural Services can achieve partial interoperability, which means that services and clients can interact with each other even if they do not share the same schema, ontology, or functionality, as long as they comply with some common rules or constraints and conform to some reference models or specifications.
+- Moreover, Structural Services can use context information to enhance the interoperability by providing more relevant and personalized data or services to the users or applications, depending on their current or past situations or needs.
+- The chapter also presents some examples and applications of Structural Services in different domains, such as smart cities, smart homes, or smart health, and discusses some of the benefits and challenges of this approach.

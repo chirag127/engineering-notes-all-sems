@@ -1,0 +1,11 @@
+### Examples of distributed systems
+
+A distributed system is a collection of independent computers that communicate and coordinate their actions by passing messages. The computers in a distributed system may be physically close or geographically dispersed, and they may be connected by a network or a bus. Distributed systems can provide higher performance, reliability, scalability, and availability than centralized systems.
+
+Some examples of distributed systems are:
+
+- **Telecommunication networks**: Telephone networks are an early example of a peer-to-peer network, where each node can initiate or receive calls. Cellular and telephone networks are forms and examples of distributed networks. They use protocols such as TCP/IP, HTTP, and SMTP to exchange data and messages.  
+- **Real-time systems**: Many industries use real-time systems distributed in various areas, locally and globally. For example, air traffic control systems, power grid systems, industrial control systems, and online gaming systems are all examples of real-time distributed systems. They require fast and accurate communication and synchronization among the components.  
+- **Distributed database systems**: A distributed database has locations across multiple servers, physical locations, or both. The data can be replicated or partitioned to improve performance, availability, and fault tolerance. Examples of distributed database systems are Google's Bigtable, Amazon's Dynamo, and MongoDB.  
+- **Distributed computing systems**: A distributed computing system is a system that uses the idle resources of many computers to perform a large-scale computation or task. Examples of distributed computing systems are the SETI@home project, which searches for extraterrestrial intelligence, and the Folding@home project, which simulates protein folding.  
+- **Content delivery networks**: A content delivery network (CDN) is a system that distributes web content to users based on their geographic location, network conditions, and content origin. A CDN consists of a network of servers that cache and deliver web pages, images, videos, and other content to users. Examples of CDNs are Akamai, Cloudflare, and Amazon CloudFront.

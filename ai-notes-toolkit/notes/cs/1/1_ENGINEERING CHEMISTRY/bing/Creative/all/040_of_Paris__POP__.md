@@ -1,0 +1,16 @@
+# Paris
+
+Paris is the capital and most populous city of France, with an estimated population of 2,165,423 residents in 2019 in an area of more than 105 km² (41 sq mi), making it the fourth-most populated city in the European Union as well as the 30th most densely populated city in the world in 2022. Paris is a global center for art, fashion, gastronomy, and culture, and is often regarded as the most romantic city in the world.
+
+Some of the main points to know about Paris are:
+
+- Paris is situated in the north-central part of France, along the Seine River, which divides the city into two parts: the Right Bank and the Left Bank.
+- Paris has a rich and turbulent history, dating back to the 3rd century BCE, when it was founded by a Celtic tribe called the Parisii. It became the capital of the Frankish kingdom in the 5th century CE, and later the center of the French monarchy, the French Revolution, the Napoleonic Empire, and the modern French Republic.
+- Paris is home to many iconic landmarks, such as the Eiffel Tower, the Arc de Triomphe, the Notre-Dame Cathedral, the Louvre Museum, the Musée d'Orsay, and the Sacré-Cœur Basilica. These attractions draw millions of tourists every year, making Paris one of the most visited cities in the world.
+- Paris is also known for its cultural and artistic influence, as it has been the birthplace or residence of many famous writers, artists, musicians, philosophers, and scientists, such as Victor Hugo, Voltaire, Émile Zola, Claude Monet, Edgar Degas, Pierre-Auguste Renoir, Édith Piaf, Jean-Paul Sartre, Simone de Beauvoir, and Marie Curie, among others.
+- Paris is a fashion capital, hosting the prestigious Paris Fashion Week twice a year, and being the headquarters of many renowned fashion houses, such as Chanel, Dior, Louis Vuitton, and Yves Saint Laurent.
+- Paris is also a gastronomic capital, offering a variety of cuisines, from traditional French dishes, such as croissants, macarons, frog legs, steak and frites, and onion soup, to international specialties, such as sushi, pizza, couscous, and falafel. Paris has more than 40,000 restaurants, cafes, and bistros, as well as many markets, bakeries, and cheese shops.
+- Paris is a city of contrasts, where the old and the new, the classic and the modern, the elegant and the bohemian, coexist and complement each other. Paris has 20 administrative districts, called arrondissements, each with its own character and atmosphere, from the historic and cultural center of the 1st arrondissement, to the trendy and artistic Montmartre in the 18th arrondissement, to the diverse and multicultural Belleville in the 20th arrondissement.
+- Paris is a city of light, as it was one of the first cities to adopt gas street lighting in the 19th century, and later electric lighting, giving it a distinctive charm and ambiance at night. Paris is also a city of love, as it has inspired many romantic stories, songs, and movies, and is a popular destination for couples, especially on Valentine's Day.
+
+These are some of the main points to know about Paris. If you want to learn more, you can visit the official website of Paris, the Wikipedia page of Paris, or the Britannica article on Paris. You can also check out some of the popular attractions, foods, souvenirs, and itineraries of Paris from the travel search results.

@@ -1,0 +1,21 @@
+### Rate Monotonic Algorithm
+
+- Rate Monotonic Algorithm (RMA) is a priority assignment algorithm used in real-time operating systems with a static-priority scheduling class .
+- The static priorities are assigned according to the cycle duration of the task, so that a shorter cycle duration results in a higher task priority   .
+- RMA is a preemptive scheduling algorithm, which means that a higher priority task can interrupt a lower priority task at any time.
+- RMA is a simple and efficient algorithm that can maximize the schedulability of a task set, which means that all tasks meet all deadlines all the time.
+- RMA has some assumptions and limitations, such as:
+  - All tasks are periodic and independent, with known and fixed periods and execution times    .
+  - All tasks have hard deadlines that are equal to their periods    .
+  - All tasks are ready to run at the beginning of their periods and have no blocking or synchronization    .
+  - The system has a single processor and no overhead for context switching or scheduling    .
+  - The system is not overloaded, which means that the total utilization of all tasks is less than or equal to 100%    .
+- RMA has some advantages and disadvantages, such as:
+  - Advantages:
+    - RMA is easy to implement and analyze   .
+    - RMA can guarantee the schedulability of a task set if it satisfies the Liu and Layland's utilization bound, which is given by U <= n(2^(1/n) - 1), where U is the total utilization and n is the number of tasks    .
+    - RMA can achieve a higher processor utilization than other static-priority algorithms, such as deadline monotonic scheduling    .
+  - Disadvantages:
+    - RMA may not be optimal for task sets that have deadlines shorter than their periods, or that have different criticalities    .
+    - RMA may not be suitable for task sets that have dynamic or unpredictable characteristics, such as aperiodic or sporadic tasks, variable execution times, or shared resources    .
+    - RMA may suffer from priority inversion, which occurs when a higher priority task is blocked by a lower priority task that holds a shared resource    .

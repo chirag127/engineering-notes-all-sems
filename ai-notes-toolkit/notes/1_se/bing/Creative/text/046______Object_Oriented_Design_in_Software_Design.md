@@ -1,0 +1,23 @@
+#### Object Oriented Design in Software Design
+
+- Object oriented design (OOD) is the process of planning a system of interacting objects for the purpose of solving a software problem.
+- An object is an entity that contains data and procedures (also known as methods or functions) that operate on the data.
+- Objects communicate with each other by sending and receiving messages.
+- OOD is based on the principles of abstraction, encapsulation, inheritance, and polymorphism.
+  - Abstraction is the process of hiding the details of an object and exposing only its essential features.
+  - Encapsulation is the process of bundling the data and the methods that operate on the data together in an object.
+  - Inheritance is the process of creating new classes (also known as subclasses or derived classes) from existing classes (also known as superclasses or base classes) by reusing their attributes and methods.
+  - Polymorphism is the ability of an object to behave differently depending on the context or the type of message it receives.
+- OOD aims to achieve the following benefits:
+  - Modularity: The system is divided into smaller and independent units (also known as modules or components) that can be developed, tested, and maintained separately.
+  - Reusability: The existing objects or classes can be reused in different contexts or applications, reducing the need to write new code.
+  - Extensibility: The system can be easily extended by adding new objects or classes without affecting the existing ones.
+  - Maintainability: The system can be easily modified or updated by changing the objects or classes without affecting the other parts of the system.
+  - Reliability: The system is less prone to errors or bugs because the objects or classes are well-defined and isolated from each other.
+- OOD follows some best practices or guidelines to ensure the quality and consistency of the design. One of the most popular sets of guidelines is the SOLID principles, which stand for:
+  - Single-responsibility principle: Each object or class should have only one responsibility or reason to change.
+  - Open-closed principle: Each object or class should be open for extension but closed for modification.
+  - Liskov substitution principle: Each subclass should be able to substitute its superclass without affecting the functionality of the system.
+  - Interface segregation principle: Each object or class should depend only on the interfaces that it needs, not on the ones that it does not need.
+  - Dependency inversion principle: Each object or class should depend on abstractions, not on concretions.
+- OOD is one of the most widely used and accepted approaches to software design, as it supports and encourages object-oriented programming (OOP), which is a paradigm that most modern programming languages support.

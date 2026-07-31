@@ -1,0 +1,26 @@
+#### Corrective Maintenance (CM) of Software
+
+- Corrective maintenance is the process of fixing errors or defects in a software system after it has been delivered to the users.
+- Corrective maintenance can be classified into two types: reactive and proactive.
+  - Reactive corrective maintenance is performed when a fault is detected by the users or the system itself, and reported to the developers or maintainers. The fault may cause the system to malfunction, produce incorrect results, or crash.
+  - Proactive corrective maintenance is performed when the developers or maintainers anticipate potential faults and take preventive measures to avoid them. This may involve updating the system to comply with new standards, regulations, or user requirements, or improving the system's performance, reliability, or security.
+- Corrective maintenance can be further categorized into four levels, according to the severity and scope of the fault:
+  - Emergency maintenance is performed when a critical fault threatens the system's functionality, availability, or safety, and requires immediate attention. For example, fixing a security breach or a data loss.
+  - Urgent maintenance is performed when a serious fault affects the system's performance, quality, or usability, and requires prompt attention. For example, fixing a bug that causes incorrect calculations or outputs.
+  - Routine maintenance is performed when a minor fault does not affect the system's functionality, but may cause inconvenience or dissatisfaction to the users. For example, fixing a typo or a cosmetic issue.
+  - Perfective maintenance is performed when there is no fault, but the system can be improved or enhanced to meet new or changing user needs or expectations. For example, adding a new feature or a user interface improvement.
+- Corrective maintenance can be performed using different methods, depending on the nature and complexity of the fault, and the availability of resources and documentation. Some common methods are:
+  - Debugging is the process of locating and removing errors or defects in the source code of the system. Debugging can be done manually, by inspecting the code and tracing the execution, or automatically, by using tools such as debuggers, profilers, or testers.
+  - Patching is the process of applying a small modification or update to the system, without changing its overall structure or functionality. Patching can be done by replacing or adding a few lines of code, or by using tools such as patch managers or version control systems.
+  - Refactoring is the process of improving the internal structure or design of the system, without changing its external behavior or functionality. Refactoring can be done by applying techniques such as renaming, reorganizing, simplifying, or modularizing the code, or by using tools such as refactoring tools or code analyzers.
+  - Rewriting is the process of creating a new version of the system, either partially or completely, to fix the fault or to meet new requirements. Rewriting can be done by using a different programming language, framework, or platform, or by using tools such as code generators or converters.
+- Corrective maintenance can have various benefits and drawbacks, depending on the type, level, and method of maintenance. Some possible benefits are:
+  - Increasing the system's functionality, performance, quality, reliability, security, or usability.
+  - Reducing the system's complexity, redundancy, inconsistency, or ambiguity.
+  - Enhancing the system's maintainability, modifiability, portability, or scalability.
+  - Satisfying the system's users, customers, or stakeholders.
+- Some possible drawbacks are:
+  - Introducing new errors or defects in the system, or causing regression or side effects.
+  - Increasing the system's size, cost, or resource consumption.
+  - Reducing the system's compatibility, interoperability, or standardization.
+  - Violating the system's original specifications, contracts, or agreements.

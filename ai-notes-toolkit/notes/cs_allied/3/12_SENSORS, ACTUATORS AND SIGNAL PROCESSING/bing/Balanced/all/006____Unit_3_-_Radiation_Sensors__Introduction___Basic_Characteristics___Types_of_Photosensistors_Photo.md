@@ -1,0 +1,30 @@
+## Unit 3 - Radiation Sensors
+
+- Radiation sensors are devices that can detect and measure different types of radiation, such as light, X-rays, gamma rays, neutrons, etc.
+- Radiation sensors have various applications in fields such as astronomy, medicine, nuclear power, security, industry, etc.
+- Radiation sensors have some basic characteristics that define their performance, such as sensitivity, responsivity, linearity, dynamic range, noise, bandwidth, etc.
+- Sensitivity is the ratio of output signal to input radiation power.
+- Responsivity is the ratio of output current to input radiation power.
+- Linearity is the ability of the sensor to produce a proportional output signal for a given range of input radiation power.
+- Dynamic range is the ratio of the maximum to the minimum detectable input radiation power.
+- Noise is the unwanted variation or fluctuation in the output signal that reduces the signal-to-noise ratio (SNR) and the accuracy of the sensor.
+- Bandwidth is the range of frequencies that the sensor can respond to without significant loss or distortion of the output signal.
+- Types of photosensors/photo detectors are devices that can convert light into electrical signals, such as photodiodes, phototransistors, photomultipliers, photovoltaic cells, etc.
+- Photodiodes are semiconductor devices that generate a current proportional to the incident light intensity when reverse biased.
+- Phototransistors are similar to photodiodes, but have an additional base terminal that can amplify the photocurrent.
+- Photomultipliers are vacuum tubes that use a series of electrodes to multiply the photocurrent by a factor of millions.
+- Photovoltaic cells are devices that generate a voltage proportional to the incident light intensity when connected in a circuit.
+- X-ray and nuclear radiation sensors are devices that can detect and measure high-energy radiation, such as X-rays, gamma rays, alpha particles, beta particles, neutrons, etc.
+- X-ray and nuclear radiation sensors have various applications in fields such as medicine, security, industry, research, etc.
+- X-ray and nuclear radiation sensors have some common types, such as gas-filled detectors, scintillation detectors, semiconductor detectors, etc.
+- Gas-filled detectors are devices that use a gas-filled chamber to ionize the gas molecules when exposed to radiation, and measure the resulting electric current or pulse.
+- Scintillation detectors are devices that use a scintillator material to emit light when exposed to radiation, and measure the resulting light intensity or pulse with a photodetector.
+- Semiconductor detectors are devices that use a semiconductor material to generate a charge carrier pair when exposed to radiation, and measure the resulting electric current or pulse.
+- Fiber optic sensors are devices that use optical fibers to transmit, modulate, or reflect light when exposed to a physical or chemical parameter, such as temperature, pressure, strain, pH, etc.
+- Fiber optic sensors have various advantages over conventional sensors, such as immunity to electromagnetic interference, high sensitivity, small size, low weight, multiplexing capability, etc.
+- Fiber optic sensors have various applications in fields such as biomedical, environmental, structural, aerospace, etc.
+- Fiber optic sensors have some common types, such as intensity-based sensors, interferometric sensors, polarimetric sensors, Bragg grating sensors, etc.
+- Intensity-based sensors are devices that measure the change in light intensity due to the modulation or attenuation of the light by the parameter of interest.
+- Interferometric sensors are devices that measure the change in light phase or wavelength due to the interference of two or more light beams by the parameter of interest.
+- Polarimetric sensors are devices that measure the change in light polarization due to the birefringence or rotation of the light by the parameter of interest.
+- Bragg grating sensors are devices that measure the change in light wavelength due to the reflection of the light by a periodic structure in the fiber by the parameter of interest.

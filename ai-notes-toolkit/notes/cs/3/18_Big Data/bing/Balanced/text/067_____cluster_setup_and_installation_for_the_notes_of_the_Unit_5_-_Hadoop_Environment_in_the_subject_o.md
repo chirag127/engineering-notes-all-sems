@@ -1,0 +1,25 @@
+### Cluster Setup and Installation for Hadoop Environment
+
+- A Hadoop cluster is a collection of machines that run the Hadoop software and store the data in a distributed manner.
+- There are three types of Hadoop clusters: standalone, pseudo-distributed and fully-distributed.
+- Standalone cluster: A single machine that runs all the Hadoop components without using the Hadoop Distributed File System (HDFS). It is useful for testing and debugging purposes.
+- Pseudo-distributed cluster: A single machine that runs all the Hadoop components and uses HDFS to store the data. It simulates a multi-node cluster on a single machine. It is useful for development and learning purposes.
+- Fully-distributed cluster: A multi-node cluster that runs all the Hadoop components and uses HDFS to store the data across the nodes. It is useful for production and performance purposes.
+- The steps to set up and install a Hadoop cluster vary depending on the type of cluster and the operating system.
+- For Windows, one can use the following steps to set up a single node cluster:
+  - Verify the Java installed by running `javac -version` in the command prompt.
+  - Extract Hadoop at `C:\Hadoop`.
+  - Set up the `HADOOP_HOME` and `JAVA_HOME` environment variables to point to the Hadoop and Java directories respectively.
+  - Set Hadoop and Java bin directory paths in the `Path` environment variable.
+  - Configure the Hadoop files in the `etc\hadoop` directory, such as `core-site.xml`, `hdfs-site.xml`, `mapred-site.xml` and `yarn-site.xml`.
+  - Format the namenode folder by running `hdfs namenode -format` in the command prompt.
+  - Test the setup by running `start-all.cmd` and `stop-all.cmd` in the command prompt and checking the web interfaces for HDFS and YARN.
+- For Linux, one can use the following steps to set up a fully-distributed cluster:
+  - Install Java on all the machines in the cluster.
+  - Download a stable version of Hadoop from Apache mirrors and unpack it on all the machines in the cluster.
+  - Divide up the hardware into functions, such as namenode, datanode, resourcemanager, nodemanager, etc.
+  - Configure the Hadoop files in the `etc/hadoop` directory, such as `core-site.xml`, `hdfs-site.xml`, `mapred-site.xml`, `yarn-site.xml` and `slaves`.
+  - Set up passphraseless ssh between the machines in the cluster.
+  - Format the namenode by running `hdfs namenode -format` on the namenode machine.
+  - Start the Hadoop cluster by running `sbin/start-dfs.sh` and `sbin/start-yarn.sh` on the namenode machine.
+  - Stop the Hadoop cluster by running `sbin/stop-dfs.sh` and `sbin/stop-yarn.sh` on the namenode machine.

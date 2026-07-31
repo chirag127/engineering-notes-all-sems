@@ -1,0 +1,26 @@
+### Regular Expressions for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+
+- A regular expression is a **pattern** that can be used to describe a **set of strings** that belong to a **regular language**.
+- A regular language is a language that can be **recognized** by a **finite automaton**.
+- Regular expressions are defined over an **alphabet** Σ, which is a finite set of symbols.
+- The set of regular expressions over Σ is defined **recursively** as follows:
+  - The empty set ∅ is a regular expression that denotes the language ∅.
+  - The empty string ε is a regular expression that denotes the language {ε}.
+  - For any symbol a ∈ Σ, a is a regular expression that denotes the language {a}.
+  - If R and S are regular expressions, then the following are also regular expressions:
+    - R + S (union): denotes the language L(R) ∪ L(S).
+    - RS (concatenation): denotes the language L(R)L(S).
+    - R* (Kleene star): denotes the language (L(R))*.
+    - (R) (parentheses): denotes the same language as R.
+- The **precedence** of the operators is as follows: * > concatenation > +.
+- A regular expression can be represented by a **regular grammar**, which is a grammar that has rules of the form A → a or A → aB or A → ε, where A and B are variables and a is a terminal.
+- A regular expression can also be represented by a **finite automaton**, which is a machine that has a finite number of states and transitions between them, and accepts a string if it reaches a final state after reading the string.
+- There are two types of finite automata: **deterministic** and **nondeterministic**. A deterministic finite automaton (DFA) has exactly one transition for each state and symbol, while a nondeterministic finite automaton (NFA) can have zero, one, or more transitions for each state and symbol.
+- Every NFA can be converted to an equivalent DFA using the **subset construction** algorithm, which constructs a new state for each subset of states of the NFA.
+- Every regular expression can be converted to an equivalent NFA using the **Thompson's construction** algorithm, which constructs a new NFA for each subexpression of the regular expression.
+- Every DFA can be converted to an equivalent regular expression using the **state elimination** algorithm, which eliminates one state at a time and replaces the transitions with regular expressions.
+- Regular expressions are useful for **specifying** and **searching** for patterns in text, such as identifiers, keywords, numbers, dates, etc.
+- Regular expressions can also be used to **validate** the input, such as email addresses, phone numbers, passwords, etc.
+- Regular expressions can also be used to **extract** information from text, such as names, locations, prices, etc.
+- Regular expressions can also be used to **modify** text, such as replacing, inserting, deleting, or rearranging parts of the text.
+- Regular expressions can also be used to **generate** text, such as random strings, test cases, or examples.

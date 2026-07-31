@@ -1,0 +1,38 @@
+#### Object Oriented Design in Software Design
+
+- Object Oriented Design (OOD) is the process of planning a system of interacting objects for the purpose of solving a software problem.
+- An object is an entity that contains data (attributes) and procedures (methods) that operate on the data.
+- OOD is based on the principles of abstraction, encapsulation, inheritance, and polymorphism.
+- Abstraction is the process of hiding the details and complexity of a system and exposing only the essential features and functionality.
+- Encapsulation is the process of bundling the data and methods of an object together and restricting access to them from outside the object.
+- Inheritance is the process of creating new classes (subclasses) from existing classes (superclasses) and inheriting their attributes and methods.
+- Polymorphism is the ability of an object to take different forms and behave differently depending on the context or input.
+- OOD aims to achieve the following benefits:
+  - Modularity: The system is divided into smaller and independent units (modules) that can be developed, tested, and maintained separately.
+  - Reusability: The modules can be reused in different systems or contexts, reducing the need to write new code.
+  - Extensibility: The system can be easily extended by adding new modules or modifying existing ones without affecting the rest of the system.
+  - Maintainability: The system can be easily modified or updated to meet changing requirements or fix errors.
+  - Reliability: The system is less prone to errors and failures as the modules are well-defined and isolated from each other.
+- OOD follows some design principles and patterns to achieve these benefits. Some of the most common ones are:
+  - SOLID: A set of five principles that guide the design of cohesive, loosely coupled, and easily maintainable modules. SOLID stands for:
+    - Single-responsibility Principle: A module should have only one reason to change and only one responsibility.
+    - Open-closed Principle: A module should be open for extension but closed for modification.
+    - Liskov Substitution Principle: A subclass should be substitutable for its superclass without breaking the system.
+    - Interface Segregation Principle: A module should depend on the smallest possible interface that provides the required functionality.
+    - Dependency Inversion Principle: A module should depend on abstractions rather than concretions.
+  - GRASP: A set of nine principles that assign responsibilities to modules and define the relationships among them. GRASP stands for:
+    - Creator: A module should be responsible for creating objects that it is closely related to.
+    - Information Expert: A module should be responsible for the information and actions related to that information.
+    - Low Coupling: A module should have minimal dependencies on other modules.
+    - High Cohesion: A module should have a single, well-defined purpose.
+    - Controller: A module should be responsible for handling user requests and delegating them to other modules.
+    - Indirection: A module should mediate between two or more modules to reduce coupling and increase flexibility.
+    - Polymorphism: A module should use polymorphism to handle variations in behavior based on the type of object.
+    - Protected Variations: A module should protect itself from the variations and changes in other modules by using abstractions.
+    - Pure Fabrication: A module should be created to fulfill a single responsibility that does not belong to any other module.
+  - Design Patterns: A set of reusable solutions to common design problems that can be applied in different contexts and domains. Some of the most common ones are:
+    - Creational Patterns: These patterns deal with the creation and initialization of objects, such as Factory, Singleton, Builder, Prototype, etc.
+    - Structural Patterns: These patterns deal with the composition and arrangement of objects, such as Adapter, Bridge, Composite, Decorator, Facade, etc.
+    - Behavioral Patterns: These patterns deal with the interaction and communication of objects, such as Observer, Strategy, Command, Iterator, Mediator, etc.
+
+- A possible mnemonic to remember the SOLID principles is: **S**ome **O**bjects **L**ike **I**ce-cream **

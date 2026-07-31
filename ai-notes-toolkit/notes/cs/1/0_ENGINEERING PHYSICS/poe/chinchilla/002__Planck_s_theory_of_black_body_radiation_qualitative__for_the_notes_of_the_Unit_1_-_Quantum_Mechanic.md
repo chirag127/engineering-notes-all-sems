@@ -1,0 +1,13 @@
+### Planck's Theory of Black Body Radiation (Qualitative)
+
+Planck's theory of black body radiation is an essential concept in the field of quantum mechanics. It describes the emission of electromagnetic radiation from a black body, which is an object that absorbs all radiation that falls on it and emits radiation at a particular temperature. Below are some key points to understand Planck's theory of black body radiation qualitatively:
+
+- A black body is an object that absorbs all the radiation that falls on it and emits radiation at a particular temperature.
+- According to classical physics, the energy of electromagnetic radiation emitted by a black body should increase continuously with the frequency of the radiation. However, experiments showed that this was not the case, and there was a mismatch between experimental results and classical theory.
+- Planck proposed that the energy of electromagnetic radiation is quantized, meaning that it can only take certain discrete values. This idea led to the development of the concept of photons, which are particles of light with discrete energy levels.
+- Planck's theory explains the black body radiation curve, which is a graph of the intensity of radiation emitted by a black body at different frequencies. The curve shows that the intensity of radiation increases with frequency up to a certain point, after which it begins to decrease. The frequency at which the intensity is maximum is called the peak frequency, and the corresponding wavelength is called the peak wavelength.
+- The shape of the black body radiation curve depends on the temperature of the black body. At lower temperatures, the peak of the curve is at longer wavelengths, while at higher temperatures, the peak shifts to shorter wavelengths.
+- Planck's theory also explains the photoelectric effect, which is the emission of electrons from a metal surface when it is exposed to light. The theory explains that the energy of the electrons emitted depends on the frequency of the light, not its intensity.
+- In summary, Planck's theory of black body radiation explains the quantization of energy in electromagnetic radiation, the shape of the black body radiation curve, and the photoelectric effect. It was a significant breakthrough in the development of quantum mechanics and laid the foundation for further research in this field.
+
+Understanding Planck's theory of black body radiation is crucial for students of engineering physics as it provides a foundation for many other concepts in quantum mechanics. It is essential to study this theory in detail and understand its implications to gain a deeper understanding of the behavior of electromagnetic radiation.

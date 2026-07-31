@@ -1,0 +1,26 @@
+### Information Retrieval for the notes of the Unit 5 - APPLICATIONS in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Information retrieval (IR) is the process of finding relevant information from a large collection of documents, such as web pages, books, articles, etc., based on a user's query.
+- Artificial intelligence (AI) is the branch of computer science that aims to create systems that can perform tasks that normally require human intelligence, such as reasoning, learning, planning, natural language processing, etc.
+- AI methods are employed throughout the standard IR process and for novel value added services, such as personalization, recommendation, summarization, etc.
+- The standard IR process consists of the following steps :
+  - Document collection: The IR system gathers the documents that are relevant to the domain of interest, such as web crawling, database querying, etc.
+  - Document preprocessing: The IR system transforms the documents into a suitable representation for indexing and retrieval, such as tokenization, stemming, stopword removal, etc.
+  - Indexing: The IR system creates an index that maps the terms in the documents to their locations and frequencies, such as inverted index, vector space model, etc.
+  - Query processing: The IR system interprets the user's query and converts it into a suitable representation for matching, such as query expansion, query reformulation, etc.
+  - Matching and ranking: The IR system compares the query representation with the document representations and assigns a score to each document based on its relevance to the query, such as cosine similarity, tf-idf, BM25, etc.
+  - Result presentation: The IR system displays the ranked list of documents to the user, along with some additional information, such as snippets, summaries, facets, etc.
+- AI techniques can be applied to each of the above steps to improve the performance and user satisfaction of the IR system, such as   :
+  - Document collection: AI can help to discover new sources of information, such as social media, blogs, forums, etc., and to filter out irrelevant or low-quality documents, such as spam, duplicates, etc.
+  - Document preprocessing: AI can help to extract useful information from the documents, such as named entities, topics, sentiments, etc., and to handle different languages, formats, and modalities, such as speech, images, videos, etc.
+  - Indexing: AI can help to create more expressive and flexible representations of the documents, such as semantic networks, ontologies, embeddings, etc., and to handle the dynamic and evolving nature of the document collection, such as incremental indexing, concept drift, etc.
+  - Query processing: AI can help to understand the user's information need, such as query intent, context, preferences, etc., and to generate more effective queries, such as natural language queries, conversational queries, etc.
+  - Matching and ranking: AI can help to measure the relevance of the documents to the query, such as learning to rank, neural ranking models, etc., and to incorporate various factors, such as user feedback, diversity, novelty, etc.
+  - Result presentation: AI can help to provide more interactive and personalized results, such as chatbots, question answering systems, recommender systems, etc., and to generate more informative and concise summaries, such as extractive, abstractive, or hybrid summarization, etc.
+- Some of the applications of AI in IR are  :
+  - Web search engines: The most popular and widely used IR systems that allow users to find information on the web, such as Google, Bing, etc.
+  - Information filtering systems: The IR systems that deliver information to users based on their profiles and preferences, such as email spam filters, news aggregators, etc.
+  - Recommender systems: The IR systems that suggest items to users based on their past behavior and similar users, such as Amazon, Netflix, etc.
+  - Question answering systems: The IR systems that provide direct answers to natural language questions, such as Siri, Alexa, etc.
+  - Text summarization systems: The IR systems that generate short and concise summaries of long documents, such as news articles, scientific papers, etc.
+  - Text generation systems: The IR systems that produce natural language texts from structured or unstructured data, such as captions, headlines, reviews, etc.

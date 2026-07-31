@@ -1,0 +1,15 @@
+### LPC for the notes of the Unit 5 - SPEECH-ANALYSIS in the subject of NATURAL LANGUAGE PROCESSING
+
+- LPC stands for Linear Predictive Coding, which is a method used mostly in audio signal processing and speech processing for representing the spectral envelope of a digital signal of speech in compressed form, using the information of a linear predictive model .
+- LPC analyzes the speech signal by estimating the formants, which are the resonant frequencies of the vocal tract, and removing their effects from the speech signal, resulting in a residual signal that contains the pitch and the glottal excitation.
+- The process of removing the formants is called inverse filtering, and the residual signal after the subtraction of the filtered modeled signal is called the residue.
+- The linear predictive model assumes that the current sample of the speech signal can be approximated as a linear combination of the previous samples, plus some error term .
+- The coefficients of the linear combination are called the linear prediction coefficients, and they can be obtained by minimizing the mean squared error between the original signal and the predicted signal .
+- The linear prediction coefficients can also be converted to the reflection coefficients, which are the ratios of the backward and forward traveling waves in a lossless transmission line model of the vocal tract .
+- The reflection coefficients have some advantages over the linear prediction coefficients, such as being more stable, having a smaller dynamic range, and being more suitable for quantization .
+- LPC can be used for speech coding and speech synthesis, as well as for speech enhancement, speech recognition, and speaker identification .
+- In speech coding, LPC can reduce the bit rate of the speech signal by transmitting only the linear prediction coefficients and the residual signal, which can be further compressed by using techniques such as adaptive differential pulse code modulation (ADPCM) .
+- In speech synthesis, LPC can generate synthetic speech by using the linear prediction coefficients and the residual signal as inputs to a synthesis filter, which reconstructs the speech signal by adding the formants back to the residual signal  .
+- LPC can also be used for speech enhancement, by using the linear prediction coefficients to estimate the noise spectrum and subtracting it from the noisy speech signal, resulting in a cleaner speech signal .
+- LPC can also be used for speech recognition, by using the linear prediction coefficients as features to represent the speech signal and compare it with the reference templates or models of different words or phonemes .
+- LPC can also be used for speaker identification, by using the linear prediction coefficients as features to represent the speaker's vocal characteristics and compare them with the reference templates or models of different speakers .

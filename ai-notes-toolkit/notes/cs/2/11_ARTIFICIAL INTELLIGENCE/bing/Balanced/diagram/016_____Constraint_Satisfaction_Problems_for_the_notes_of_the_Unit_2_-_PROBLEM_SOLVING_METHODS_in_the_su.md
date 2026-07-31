@@ -1,0 +1,23 @@
+### Constraint Satisfaction Problems
+
+- Constraint satisfaction problems (CSPs) are a class of problems in artificial intelligence that involve finding a solution that satisfies a set of constraints on a set of variables.
+- A CSP can be represented by a triple (X, D, C), where:
+  - X is a set of variables {x1, x2, ..., xn}
+  - D is a set of domains {D1, D2, ..., Dn}, where Di is the set of possible values for variable xi
+  - C is a set of constraints {c1, c2, ..., cm}, where each constraint ci specifies the allowable combinations of values for some subset of variables
+- A solution to a CSP is an assignment of values to all variables that satisfies all constraints.
+- Examples of CSPs include:
+  - Map coloring: assign a color to each region on a map such that no two adjacent regions have the same color.
+  - Sudoku: fill in a 9x9 grid with digits from 1 to 9 such that each row, column, and 3x3 subgrid contains each digit exactly once.
+  - Cryptarithmetic: find a way to replace letters with digits in a mathematical expression such that the expression is true.
+- CSPs can be solved by using general search algorithms, such as backtracking search, which tries different assignments to variables and backtracks when a constraint is violated.
+- CSPs can also be solved by using specialized techniques, such as constraint propagation, which reduces the domains of variables by applying constraints locally.
+- Some common methods of constraint propagation are:
+  - Forward checking: after assigning a value to a variable, eliminate any inconsistent values from the domains of its neighbors.
+  - Arc consistency: ensure that for every pair of variables (xi, xj) that share a constraint, every value in Di has a consistent value in Dj, and vice versa.
+  - Path consistency: ensure that for every triple of variables (xi, xj, xk) that share constraints, every pair of values in Di and Dj has a consistent value in Dk, and vice versa.
+- CSPs can be enhanced by using heuristics, such as:
+  - Minimum remaining values: choose the variable with the fewest possible values in its domain.
+  - Degree heuristic: choose the variable that is involved in the most constraints with other unassigned variables.
+  - Least constraining value: choose the value that rules out the fewest values in the domains of other unassigned variables.
+- CSPs are a useful abstraction for many real-world problems, such as scheduling, planning, configuration, and design.

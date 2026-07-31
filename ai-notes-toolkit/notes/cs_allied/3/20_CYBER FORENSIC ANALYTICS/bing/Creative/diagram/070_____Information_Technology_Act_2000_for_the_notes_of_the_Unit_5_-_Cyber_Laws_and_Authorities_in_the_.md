@@ -1,0 +1,37 @@
+### Information Technology Act 2000
+
+- The Information Technology Act, 2000 (also known as ITA-2000, or the IT Act) is an Act of the Indian Parliament (No 21 of 2000) notified on 17 October 2000 .
+- It is the primary law in India dealing with cybercrime and electronic commerce .
+- It came into force on October 17, 2000 and applies to the whole of India and to any offense committed inside or outside India's geographic boundaries and irrespective of nationality.
+- It has 13 chapters, 94 sections and 4 schedules .
+- The main objectives of the IT Act are:
+  - To provide legal recognition for transactions carried out by means of electronic data interchange and other means of electronic communication, commonly referred to as "electronic commerce", which involve the use of alternatives to paper-based methods of communication and storage of information.
+  - To facilitate electronic filing of documents with the Government agencies and further to amend the Indian Penal Code, the Indian Evidence Act, 1872, the Bankers' Books Evidence Act, 1891 and the Reserve Bank of India Act, 1934 and for matters connected therewith or incidental thereto .
+- The IT Act covers various aspects of cyber law, such as:
+  - Digital signature and electronic signature
+  - Electronic governance
+  - Attribution, acknowledgement and dispatch of electronic records
+  - Secure electronic records and secure digital signatures
+  - Regulation of certifying authorities
+  - Digital signature certificates
+  - Duties of subscribers
+  - Penalties and adjudication
+  - The Cyber Appellate Tribunal
+  - Offenses and contraventions
+  - Network service providers not to be liable in certain cases
+  - Miscellaneous provisions
+- The IT Act also provides for the establishment of the following authorities and bodies:
+  - The Controller of Certifying Authorities (CCA)
+  - The Cyber Regulations Advisory Committee (CRAC)
+  - The Adjudicating Officer
+  - The Cyber Appellate Tribunal (CAT)
+  - The Indian Computer Emergency Response Team (CERT-In)
+- The IT Act has been amended by the Information Technology (Amendment) Act, 2008, which came into force on October 27, 2009. The amendment introduced several changes, such as:
+  - Replacing the term "digital signature" with "electronic signature" and expanding its scope and methods
+  - Introducing the concept of "reasonable security practices and procedures" for data protection and imposing civil liability for breach of confidentiality and privacy
+  - Adding new offenses, such as cyber terrorism, identity theft, cheating by personation, violation of privacy, child pornography, etc.
+  - Enhancing the penalties and punishments for existing offenses
+  - Empowering the police to intercept, monitor and decrypt any information transmitted, received or stored in any computer resource
+  - Empowering the Government to block access to any information through any computer resource in the interest of sovereignty, integrity, defense, security, etc.
+  - Establishing a National Nodal Agency to coordinate cyber security activities
+  - Expanding the jurisdiction of the CAT to include appeals from the decisions of the CCA

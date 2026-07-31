@@ -1,0 +1,13 @@
+# Travel Techniques
+
+Travel techniques are 3D interaction techniques that allow the user to move between two locations in a virtual environment, setting the position and orientation of the user's viewpoint. Travel is the motor component of navigation, which also involves wayfinding (the cognitive process of determining and following a route) and cognitive mapping (the mental representation of the environment).
+
+Travel techniques can be classified by the metaphor they use, such as:
+
+- Walking: the user moves in the virtual environment by mimicking the natural walking motion, either with physical steps or with a controller that simulates the walking speed and direction. Walking techniques can provide a high sense of presence and spatial awareness, but they may also cause fatigue, motion sickness, or collisions with physical obstacles. Examples of walking techniques are treadmill-based interfaces, redirected walking, and gesture-based walking.
+
+- Steering: the user moves in the virtual environment by controlling a direction and a speed, either with a controller (such as a joystick, a mouse, or a hand-held device) or with a head-tracking device. Steering techniques can provide a fast and flexible way of traveling, but they may also cause disorientation, loss of spatial awareness, or simulator sickness. Examples of steering techniques are flying, driving, and orbiting.
+
+- Selection-based travel: the user moves in the virtual environment by selecting a target location or direction, either with a pointing device (such as a ray-casting or a cone-casting technique) or with a gaze-based device (such as a head-mounted display or an eye-tracker). Selection-based travel techniques can provide a precise and easy way of traveling, but they may also cause teleportation effects, such as spatial discontinuity, loss of context, or cognitive overload. Examples of selection-based travel techniques are world-in-miniature, image plane, and gaze-directed steering.
+
+- Manipulation-based travel: the user moves in the virtual environment by manipulating the virtual world or the user's viewpoint, either with a direct manipulation technique (such as grabbing, scaling, or rotating the virtual world) or with an indirect manipulation technique (such as using a map or a menu to control the travel parameters). Manipulation-based travel techniques can provide a natural and intuitive way of traveling, but they may also cause spatial distortion, loss of realism, or user fatigue. Examples of manipulation-based travel techniques are hand-held worlds, magic carpet, and bird's eye view.

@@ -1,0 +1,26 @@
+## Unit 3 - Introduction to Refrigeration and Air-Conditioning
+
+- Refrigeration and air-conditioning are the processes of maintaining a desired temperature and humidity level in an enclosed space by removing or adding heat from or to the space.
+- Refrigeration is the process of lowering the temperature of a substance or a space below the ambient temperature by transferring heat from the low-temperature region to the high-temperature region.
+- Air-conditioning is the process of controlling the temperature, humidity, cleanliness, and distribution of air in a space to provide comfort and health to the occupants.
+- Refrigeration and air-conditioning are based on the principles of thermodynamics, which deal with the interrelation of heat and work and the conversion of one into the other.
+- The basic components of a refrigeration and air-conditioning system are:
+  - A refrigerant, which is a substance that can change its phase (liquid or gas) easily and absorb or release a large amount of heat during the phase change.
+  - A compressor, which is a device that increases the pressure and temperature of the refrigerant by reducing its volume.
+  - A condenser, which is a device that transfers heat from the high-temperature and high-pressure refrigerant to the surrounding medium (air or water) and causes the refrigerant to change from gas to liquid.
+  - An expansion valve, which is a device that reduces the pressure and temperature of the refrigerant by increasing its volume and causes the refrigerant to change from liquid to gas partially or completely.
+  - An evaporator, which is a device that transfers heat from the low-temperature and low-pressure refrigerant to the medium to be cooled (air or water) and causes the refrigerant to change from liquid to gas completely or partially.
+- The basic cycle of a refrigeration and air-conditioning system consists of four processes:
+  - Compression, in which the refrigerant is compressed by the compressor from a low-pressure and low-temperature state to a high-pressure and high-temperature state.
+  - Condensation, in which the refrigerant is condensed by the condenser from a high-pressure and high-temperature state to a high-pressure and low-temperature state and releases heat to the surrounding medium.
+  - Expansion, in which the refrigerant is expanded by the expansion valve from a high-pressure and low-temperature state to a low-pressure and low-temperature state and absorbs heat from the surrounding medium.
+  - Evaporation, in which the refrigerant is evaporated by the evaporator from a low-pressure and low-temperature state to a low-pressure and high-temperature state and absorbs heat from the medium to be cooled.
+- The coefficient of performance (COP) is a measure of the efficiency of a refrigeration or air-conditioning system. It is defined as the ratio of the useful heat transfer (heat absorbed by the evaporator or heat rejected by the condenser) to the work input (work done by the compressor).
+  - COP = Q/W
+  - Where Q is the useful heat transfer and W is the work input.
+  - The higher the COP, the more efficient the system is.
+- The properties of air that are important for air-conditioning are:
+  - Temperature, which is a measure of the average kinetic energy of the air molecules and affects the sensation of warmth or coldness.
+  - Humidity, which is a measure of the amount of water vapor in the air and affects the sensation of dryness or wetness.
+  - Pressure, which is a measure of the force exerted by the air molecules on a unit area and affects the density and volume of the air.
+  - Quality, which is a measure of the purity and cleanliness of the air and affects the health and comfort of the occupants.

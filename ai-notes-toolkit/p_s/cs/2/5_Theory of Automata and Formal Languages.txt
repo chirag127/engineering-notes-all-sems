@@ -1,0 +1,84 @@
+## Unit 1 - Basic Concepts and Automata Theory
+### Introduction to Theory of Computation for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Automata for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Computability for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Complexity for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Alphabet for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Symbol for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### String for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Formal Languages for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Deterministic Finite Automaton (DFA) for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Definition for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Representation for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Acceptability of a String and Language for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Non Deterministic Finite Automaton (NFA) for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Equivalence of DFA and NFA for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### NFA with ε-Transition for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Equivalence of NFA’s with and without ε-Transition for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Finite Automata with output for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Moore Machine for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Mealy Machine for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Equivalence of Moore and Mealy Machine for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Minimization of Finite Automata for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Myhill-Nerode Theorem for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+### Simulation of DFA and NFA for the notes of the Unit 1 - Basic Concepts and Automata Theory in the subject of Theory of Automata and Formal Languages
+## Unit 2 - Regular Expressions and Languages
+### Regular Expressions for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+### Transition Graph for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+### Kleen’s Theorem for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+### Finite Automata and Regular Expression for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+### Arden’s theorem for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+### Algebraic Method Using Arden’s Theorem for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+### Regular and Non-Regular Languages for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+### Closure properties of Regular Languages for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+### Pigeonhole Principle for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+### Pumping Lemma for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+### Application of Pumping Lemma for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+### Decidability for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+### Decision properties for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+### Finite Automata and Regular Languages for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+### Regular Languages and Computers for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+### Simulation of Transition Graph and Regular language for the notes of the Unit 2 - Regular Expressions and Languages in the subject of Theory of Automata and Formal Languages
+## Unit 3 - Regular and Non-Regular Grammars
+### Context Free Grammar(CFG) for the notes of the Unit 3 - Regular and Non-Regular Grammars in the subject of Theory of Automata and Formal Languages
+### Definition for the notes of the Unit 3 - Regular and Non-Regular Grammars in the subject of Theory of Automata and Formal Languages
+### Derivations for the notes of the Unit 3 - Regular and Non-Regular Grammars in the subject of Theory of Automata and Formal Languages
+### Languages for the notes of the Unit 3 - Regular and Non-Regular Grammars in the subject of Theory of Automata and Formal Languages
+### Derivation Trees and Ambiguity for the notes of the Unit 3 - Regular and Non-Regular Grammars in the subject of Theory of Automata and Formal Languages
+### Regular Grammars for the notes of the Unit 3 - Regular and Non-Regular Grammars in the subject of Theory of Automata and Formal Languages
+### Right Linear and Left Linear grammars for the notes of the Unit 3 - Regular and Non-Regular Grammars in the subject of Theory of Automata and Formal Languages
+### Conversion of FA into CFG and Regular grammar into FA for the notes of the Unit 3 - Regular and Non-Regular Grammars in the subject of Theory of Automata and Formal Languages
+### Simplification of CFG for the notes of the Unit 3 - Regular and Non-Regular Grammars in the subject of Theory of Automata and Formal Languages
+### Normal Forms for the notes of the Unit 3 - Regular and Non-Regular Grammars in the subject of Theory of Automata and Formal Languages
+### Chomsky Normal Form(CNF) for the notes of the Unit 3 - Regular and Non-Regular Grammars in the subject of Theory of Automata and Formal Languages
+### Greibach Normal Form (GNF) for the notes of the Unit 3 - Regular and Non-Regular Grammars in the subject of Theory of Automata and Formal Languages
+### Chomsky Hierarchy for the notes of the Unit 3 - Regular and Non-Regular Grammars in the subject of Theory of Automata and Formal Languages
+### Programming problems based on the properties of CFGs for the notes of the Unit 3 - Regular and Non-Regular Grammars in the subject of Theory of Automata and Formal Languages
+## Unit 4 - Push Down Automata and Properties of Context Free Languages
+### Nondeterministic Pushdown Automata (NPDA) for the notes of the Unit 4 - Push Down Automata and Properties of Context Free Languages in the subject of Theory of Automata and Formal Languages
+### Definition for the notes of the Unit 4 - Push Down Automata and Properties of Context Free Languages in the subject of Theory of Automata and Formal Languages
+### Moves for the notes of the Unit 4 - Push Down Automata and Properties of Context Free Languages in the subject of Theory of Automata and Formal Languages
+### A Language Accepted by NPDA for the notes of the Unit 4 - Push Down Automata and Properties of Context Free Languages in the subject of Theory of Automata and Formal Languages
+### Deterministic Pushdown Automata(DPDA) for the notes of the Unit 4 - Push Down Automata and Properties of Context Free Languages in the subject of Theory of Automata and Formal Languages
+### Deterministic Context free Languages(DCFL) for the notes of the Unit 4 - Push Down Automata and Properties of Context Free Languages in the subject of Theory of Automata and Formal Languages
+### Pushdown Automata for Context Free Languages for the notes of the Unit 4 - Push Down Automata and Properties of Context Free Languages in the subject of Theory of Automata and Formal Languages
+### Context Free grammars for Pushdown Automata for the notes of the Unit 4 - Push Down Automata and Properties of Context Free Languages in the subject of Theory of Automata and Formal Languages
+### Two stack Pushdown Automata for the notes of the Unit 4 - Push Down Automata and Properties of Context Free Languages in the subject of Theory of Automata and Formal Languages
+### Pumping Lemma for CFL for the notes of the Unit 4 - Push Down Automata and Properties of Context Free Languages in the subject of Theory of Automata and Formal Languages
+### Closure properties of CFL for the notes of the Unit 4 - Push Down Automata and Properties of Context Free Languages in the subject of Theory of Automata and Formal Languages
+### Decision Problems of CFL for the notes of the Unit 4 - Push Down Automata and Properties of Context Free Languages in the subject of Theory of Automata and Formal Languages
+### Programming problems based on the properties of CFLs for the notes of the Unit 4 - Push Down Automata and Properties of Context Free Languages in the subject of Theory of Automata and Formal Languages
+## Unit 5 - Turing Machines and Recursive Function Theory
+### Basic Turing Machine Model for the notes of the Unit 5 - Turing Machines and Recursive Function Theory in the subject of Theory of Automata and Formal Languages
+### Representation of Turing Machines for the notes of the Unit 5 - Turing Machines and Recursive Function Theory in the subject of Theory of Automata and Formal Languages
+### Language Acceptability of Turing Machines for the notes of the Unit 5 - Turing Machines and Recursive Function Theory in the subject of Theory of Automata and Formal Languages
+### Techniques for Turing Machine Construction for the notes of the Unit 5 - Turing Machines and Recursive Function Theory in the subject of Theory of Automata and Formal Languages
+### Modifications of Turing Machine for the notes of the Unit 5 - Turing Machines and Recursive Function Theory in the subject of Theory of Automata and Formal Languages
+### Turing Machine as Computer of Integer Functions for the notes of the Unit 5 - Turing Machines and Recursive Function Theory in the subject of Theory of Automata and Formal Languages
+### Universal Turing machine for the notes of the Unit 5 - Turing Machines and Recursive Function Theory in the subject of Theory of Automata and Formal Languages
+### Linear Bounded Automata for the notes of the Unit 5 - Turing Machines and Recursive Function Theory in the subject of Theory of Automata and Formal Languages
+### Church’s Thesis for the notes of the Unit 5 - Turing Machines and Recursive Function Theory in the subject of Theory of Automata and Formal Languages
+### Recursive and Recursively Enumerable language for the notes of the Unit 5 - Turing Machines and Recursive Function Theory in the subject of Theory of Automata and Formal Languages
+### Halting Problem for the notes of the Unit 5 - Turing Machines and Recursive Function Theory in the subject of Theory of Automata and Formal Languages
+### Post’s Correspondance Problem for the notes of the Unit 5 - Turing Machines and Recursive Function Theory in the subject of Theory of Automata and Formal Languages
+### Introduction to Recursive Function Theory for the notes of the Unit 5 - Turing Machines and Recursive Function Theory in the subject of Theory of Automata and Formal Languages

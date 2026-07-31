@@ -1,0 +1,8 @@
+### Discrete Logarithm Problem
+
+- The discrete logarithm problem is defined as: given a group G, a generator g of the group and an element h of G, to find the discrete logarithm to the base g of h in the group G.
+- The discrete logarithm problem is not always hard. The hardness of finding discrete logarithms depends on the groups.
+- The discrete logarithm problem is considered to be computationally intractable. That is, no efficient classical algorithm is known for computing discrete logarithms in general.
+- A general algorithm for computing log<sub>g</sub>h in finite groups G is to raise g to larger and larger powers k until the desired h is found. This is called the **brute-force** or **exhaustive search** algorithm. It has a time complexity of O(|G|) and a space complexity of O(1).
+- There are some **specialized algorithms** for computing discrete logarithms in certain groups, such as the **Pohlig-Hellman algorithm**, the **index calculus algorithm**, the **number field sieve algorithm**, and the **Pollard's rho algorithm**. These algorithms have different time and space complexities depending on the properties of the group and the parameters involved  .
+- The discrete logarithm problem is the basis for many **cryptographic protocols** and schemes, such as the **Diffie-Hellman key exchange**, the **ElGamal encryption and signature schemes**, and the **Digital Signature Algorithm (DSA)**. These schemes rely on the assumption that the discrete logarithm problem is hard for the chosen group and parameters .

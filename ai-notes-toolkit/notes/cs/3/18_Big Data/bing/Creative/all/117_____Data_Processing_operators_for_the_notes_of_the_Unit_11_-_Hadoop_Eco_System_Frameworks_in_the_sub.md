@@ -1,0 +1,44 @@
+# Data Processing Operators for the Notes of the Unit 11 - Hadoop Eco System Frameworks in the Subject of Big Data
+
+- Hadoop is a framework that uses distributed storage and parallel processing to store and manage big data.
+- Hadoop consists of three components: Hadoop Distributed File System (HDFS), MapReduce, and YARN.
+- HDFS is a distributed file system that stores data across multiple nodes in a cluster.
+- MapReduce is a programming model that allows parallel processing of large data sets using key-value pairs.
+- YARN is a resource manager that allocates and schedules tasks on the cluster nodes.
+- Hadoop can handle any type of data: structured, semi-structured, and unstructured.
+- Hadoop utilizes the data locality concept to process the data on the nodes on which they are stored rather than moving the data over the network.
+- Hadoop also supports various data processing operators that can be used to transform, filter, join, group, and aggregate data .
+- Some of the data processing operators are:
+  - LOAD: loads data from a file or a directory into a relation.
+  - STORE: stores a relation into a file or a directory.
+  - FILTER: selects tuples from a relation that satisfy a given condition.
+  - FOREACH: applies an expression to every tuple in a relation and generates a new relation.
+  - JOIN: combines two relations based on a common attribute.
+  - GROUP: groups tuples in a relation by one or more attributes.
+  - COGROUP: groups tuples from two or more relations by a common attribute.
+  - ORDER: sorts a relation by one or more attributes.
+  - LIMIT: limits the number of tuples in a relation to a specified value.
+  - DISTINCT: removes duplicate tuples from a relation.
+  - UNION: combines two or more relations into one relation.
+  - SPLIT: splits a relation into two or more relations based on a condition.
+  - STREAM: transforms data in a relation using an external program or script.
+  - SAMPLE: randomly selects a fraction of tuples from a relation.
+  - CUBE: performs a multidimensional aggregation on a relation.
+  - ROLLUP: performs a hierarchical aggregation on a relation.
+  - RANK: assigns a rank to each tuple in a relation based on an attribute.
+- These operators can be used in a high-level procedural language called Pig Latin, which is a part of the Hadoop ecosystem.
+- Pig Latin statements are translated into MapReduce jobs by the Pig engine, which runs on top of Hadoop.
+- Pig Latin can also be extended by using user-defined functions (UDFs) written in Java, Python, or other languages.
+- Another data processing framework in the Hadoop ecosystem is Apache Spark, which is faster and more flexible than MapReduce.
+- Spark uses an in-memory computation model that reduces the disk I/O and network overhead of MapReduce.
+- Spark also supports various data processing operators, such as map, filter, reduce, join, groupBy, sortBy, distinct, union, etc.
+- Spark can be programmed in Scala, Python, Java, or R, and can run on Hadoop, Mesos, Kubernetes, or standalone clusters.
+- Spark also provides various libraries for machine learning, graph processing, streaming, and SQL.
+- Data processing in Hadoop can be summarized as follows:
+  - InputSplit: logically splits the data which resides on HDFS into several blocks of data. The decision on how to split the data is done by the InputFormat.
+  - RecordReader: converts the data into key-value pairs.
+  - Mapper: applies a user-defined function to each key-value pair and generates intermediate key-value pairs.
+  - Partitioner: partitions the intermediate key-value pairs based on a hash function of the key.
+  - Combiner: performs a local aggregation on the intermediate key-value pairs to reduce the data transfer.
+  - Shuffle and Sort: transfers the intermediate key-value pairs from the mappers to the reducers and sorts them by the key.
+  - Reducer: applies a user-defined function to the intermediate key-value pairs with the same key and generates the

@@ -1,0 +1,29 @@
+### Testing Suite for the notes of the Unit 1 - Review of Software Engineering
+
+- Software engineering is the application of engineering principles and practices to the development and maintenance of software systems.
+- Software testing is the process of verifying and validating that a software system meets the specified requirements and expectations of the stakeholders.
+- Software testing can be classified into different types based on the purpose, scope, and level of testing, such as:
+  - Unit testing: Testing individual units or components of a software system, such as classes, methods, or modules. It is typically done by developers and is used to ensure that the individual units of the software are working as intended.
+  - Integration testing: Testing the interactions and interfaces between different units or components of a software system. It is used to ensure that the software system functions as a whole and that the components are compatible and integrated correctly.
+  - System testing: Testing the software system as a whole in a simulated or real environment. It is used to ensure that the software system meets the functional and non-functional requirements and expectations of the stakeholders.
+  - Acceptance testing: Testing the software system by the end-users or customers to verify that the software system satisfies their needs and expectations. It is used to ensure that the software system is ready for deployment and use.
+  - Regression testing: Testing the software system after changes or modifications are made to the code or functionality. It is used to ensure that the changes do not introduce new defects or affect the existing functionality of the software system.
+- Software testing can also be classified into different types based on the technique, approach, or strategy of testing, such as:
+  - Black-box testing: Testing the software system without knowing or accessing its internal structure or logic. It is based on the input and output specifications of the software system and is used to test the functionality and behavior of the software system.
+  - White-box testing: Testing the software system by knowing and accessing its internal structure or logic. It is based on the code and implementation details of the software system and is used to test the quality and efficiency of the software system.
+  - Manual testing: Testing the software system by human testers who execute the test cases and observe the results. It is used to test the usability and user experience of the software system and to find complex or unpredictable defects.
+  - Automated testing: Testing the software system by using tools or scripts that execute the test cases and compare the results with the expected outcomes. It is used to test the functionality and performance of the software system and to find simple or predictable defects.
+- A test suite is a collection of related test cases that are designed to test a specific feature, functionality, or aspect of a software system.
+- A test suite can be organized into different levels or categories based on the type, scope, or level of testing, such as:
+  - Unit test suite: A test suite that contains test cases for testing individual units or components of a software system.
+  - Integration test suite: A test suite that contains test cases for testing the interactions and interfaces between different units or components of a software system.
+  - System test suite: A test suite that contains test cases for testing the software system as a whole in a simulated or real environment.
+  - Acceptance test suite: A test suite that contains test cases for testing the software system by the end-users or customers.
+  - Regression test suite: A test suite that contains test cases for testing the software system after changes or modifications are made to the code or functionality.
+- A test suite can also be organized into different types or categories based on the technique, approach, or strategy of testing, such as:
+  - Black-box test suite: A test suite that contains test cases for testing the software system without knowing or accessing its internal structure or logic.
+  - White-box test suite: A test suite that contains test cases for testing the software system by knowing and accessing its internal structure or logic.
+  - Manual test suite: A test suite that contains test cases for testing the software system by human testers.
+  - Automated test suite: A test suite that contains test cases for testing the software system by using tools or scripts.
+- A test suite can be designed by following some general steps, such as:
+  - Identify the test objectives and scope of the test suite based on the requirements and expectations of the stakeholders and the type, level, and technique of testing[^2

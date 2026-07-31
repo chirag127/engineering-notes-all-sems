@@ -1,0 +1,11 @@
+# Understanding of Chemistry of Engineering Materials (Cement)
+
+Cement is a binding material that is used in construction and civil engineering. It is composed of various chemical compounds that react with water to form a hard and durable mass. The following points summarize the chemistry of cement:
+
+- Cement is mainly classified into two types: hydraulic cement and non-hydraulic cement. Hydraulic cement hardens due to the addition of water, while non-hydraulic cement hardens by carbonation with the air.
+- The most common type of hydraulic cement is Portland cement, which is made up of four main compounds: tricalcium silicate (3CaO · SiO2), dicalcium silicate (2CaO · SiO2), tricalcium aluminate (3CaO · Al2O3), and a tetra-calcium aluminoferrite (4CaO · Al2O3Fe2O3) .
+- The raw materials for Portland cement are mainly limestone (calcium carbonate) and clay (alumino-silicates and oxides of Al and Fe). These materials are heated in a kiln at high temperatures to form clinker, which is a mixture of the four compounds.
+- The clinker is then ground with gypsum (calcium sulfate) to control the setting time of the cement. The final product is a fine powder that can be mixed with water, sand, and aggregates to form mortar and concrete .
+- The hydration of cement is the chemical reaction between the cement compounds and water that results in the formation of a solid matrix that binds the aggregates together. The hydration process is complex and depends on various factors, such as the composition, temperature, and curing conditions of the cement.
+- The main hydration products of cement are calcium silicate hydrate (C-S-H), calcium hydroxide (Ca(OH)2), and calcium aluminate hydrate (C-A-H). These products have different properties and roles in the strength and durability of the cement paste.
+- The hydration of cement is also accompanied by heat generation, volume change, and pore structure development. These phenomena affect the performance and serviceability of the cement-based materials.

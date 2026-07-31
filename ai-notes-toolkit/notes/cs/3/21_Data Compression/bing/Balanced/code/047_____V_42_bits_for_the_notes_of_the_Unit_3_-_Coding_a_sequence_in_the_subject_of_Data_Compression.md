@@ -1,0 +1,11 @@
+### V.42 bits for the notes of the Unit 3 - Coding a sequence in the subject of Data Compression
+
+- V.42bis is a data compression standard adopted by the CCITT (now ITU-T) in 1990 for data circuit terminating equipment (DCE) using error correcting procedures   .
+- V.42bis is based on the Lempel-Ziv-Welch (LZW) algorithm, which is a variant of the Ziv-Lempel family of algorithms that use dictionary-based encoding to compress data   .
+- V.42bis uses a dynamic dictionary of up to 2048 entries, which is initialized with 256 ASCII characters and then updated with new strings as they are encountered in the data stream    .
+- V.42bis can achieve compression ratios of up to 4:1 for text data and 2:1 for binary data, depending on the characteristics of the data and the dictionary size   .
+- V.42bis can operate in two modes: transparent mode and compressed mode. In transparent mode, the data is transmitted without compression, while in compressed mode, the data is compressed using the LZW algorithm    .
+- V.42bis can switch between the two modes dynamically, depending on the compressibility of the data and the availability of the dictionary. The mode switching is signaled by special escape sequences    .
+- V.42bis also supports two features to improve the compression performance: delayed innovation and limited recycling. Delayed innovation allows the encoder to defer the insertion of new strings into the dictionary until they are repeated, while limited recycling allows the encoder to discard the least recently used entries from the dictionary when it is full   .
+- V.42bis is compatible with the V.42 error correction standard, which provides reliable transmission of data over noisy channels. V.42bis can also be used with other modulation standards, such as V.32 and V.34, to achieve higher data rates    .
+- V.42bis is widely used by modem manufacturers and network operators, as it can reduce the transmission time and cost of data over the general switched telephone network (GSTN) and other networks    .

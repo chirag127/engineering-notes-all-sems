@@ -1,0 +1,21 @@
+## Designing Test Suites for the notes of the Software Engineering Mapping with Virtual Lab Lab in the subject of Software Engineering
+
+- A test suite is a collection of test cases that are intended to test a software program for its specified behaviors and requirements .
+- Test suites are created after the test plan, which defines the scope, objectives, strategy, and resources for testing.
+- Test suites can be organized based on the test cycle, such as unit testing, integration testing, system testing, and acceptance testing, or based on the test scope, such as functional testing, performance testing, security testing, and usability testing.
+- Test suites should include test parameters, such as the application name, version, environment, test data, expected results, and test execution status.
+- Test suites should also include test scripts, which are the detailed steps to execute the test cases and verify the expected results.
+- Test design is the process of creating test suites or test cases based on the software requirements and specifications.
+- Test design techniques are the methods or approaches to generate test cases or test suites that can effectively cover the test objectives and criteria.
+- Test design techniques can be classified into three categories: specification-based, structure-based, and experience-based.
+- Specification-based techniques, also known as black-box techniques, derive test cases from the external view of the software, such as the functional requirements, user stories, use cases, or user interface.
+- Structure-based techniques, also known as white-box techniques, derive test cases from the internal view of the software, such as the code, logic, or architecture.
+- Experience-based techniques, also known as exploratory techniques, derive test cases from the tester's knowledge, intuition, or creativity.
+- Some examples of specification-based techniques are equivalence partitioning, boundary value analysis, decision table testing, state transition testing, and use case testing.
+- Some examples of structure-based techniques are statement coverage, branch coverage, path coverage, and mutation testing.
+- Some examples of experience-based techniques are error guessing, checklist-based testing, and exploratory testing.
+- The choice of test design techniques depends on the type, complexity, and quality of the software, as well as the availability of resources, time, and tools.
+- The goal of test design is to create test suites that are effective, efficient, and maintainable.
+- Effective test suites can detect as many defects as possible with a high level of confidence and coverage.
+- Efficient test suites can minimize the cost and effort of testing while maximizing the value and benefit of testing.
+- Maintainable test suites can be easily updated, modified, or reused when the software changes or evolves.

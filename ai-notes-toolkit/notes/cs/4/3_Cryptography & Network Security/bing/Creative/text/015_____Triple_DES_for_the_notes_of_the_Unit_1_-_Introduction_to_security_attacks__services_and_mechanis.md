@@ -1,0 +1,13 @@
+### Triple DES
+- Triple DES (3DES) is a symmetric-key block cipher that applies the Data Encryption Standard (DES) algorithm three times to each data block.
+- The key size of 3DES is 168 bits, but due to the meet-in-the-middle attack, the effective security it provides is only 112 bits.
+- 3DES is designed to overcome the limitations of the original DES, which has a key size of only 56 bits and is vulnerable to brute-force attacks.
+- 3DES has three keying options:
+  - Option 1: All three keys are independent. This is the strongest option, providing 168 bits of security, but it requires 3x64 bits of key material.
+  - Option 2: K1 and K2 are independent, and K3 = K1. This option provides 112 bits of security, and requires 2x64 bits of key material. This is the most common option in practice.
+  - Option 3: All three keys are identical, i.e., K1 = K2 = K3. This option provides backward compatibility with DES, and requires only 64 bits of key material. However, it is not recommended for new applications.
+- 3DES uses the following algorithm for encryption and decryption:
+  - Encryption: C = E(K3, D(K2, E(K1, P)))
+  - Decryption: P = D(K1, E(K2, D(K3, C)))
+  - Where P is the plaintext block, C is the ciphertext block, E is the encryption function, D is the decryption function, and K1, K2, K3 are the subkeys.
+- 3DES is more secure than DES, but it is also slower and more complex. It is still widely used in applications that require high security and compatibility with legacy systems, such as banking, e-commerce, and government. However, it is being replaced by more efficient and secure algorithms, such as the Advanced Encryption Standard (AES).

@@ -1,0 +1,7 @@
+### ATM frauds
+
+- ATM frauds are cyber crimes that involve stealing or misusing the debit card number, personal identification number (PIN), or other sensitive data of the ATM users .
+- ATM frauds can be carried out by installing counterfeit or skimming devices on the ATM machines, the doors to the ATM rooms, or the point-of-sale (POS) terminals . These devices can capture or record the data on the card's magnetic strip, the user's PIN, or the user's biometric information.
+- ATM frauds can also be carried out by using cracking programs, phishing emails, or social engineering techniques to obtain the user's card details or PIN . These methods can trick the user into revealing their information or clicking on malicious links that can install malware or spyware on their devices.
+- ATM frauds can result in unauthorized withdrawals, transfers, or purchases from the user's account, or identity theft, money laundering, or drug trafficking using the user's information  .
+- ATM frauds can be prevented by using secure and updated devices, avoiding suspicious links or attachments, shielding the PIN pad while entering the PIN, checking the ATM machine for any signs of tampering, and reporting any lost or stolen cards immediately .

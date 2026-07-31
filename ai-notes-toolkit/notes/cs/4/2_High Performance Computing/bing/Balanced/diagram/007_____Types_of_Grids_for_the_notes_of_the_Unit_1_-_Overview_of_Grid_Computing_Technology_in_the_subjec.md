@@ -1,0 +1,13 @@
+### Types of Grids
+
+Grid computing is a distributed computing paradigm that allows multiple computers to share resources and solve complex problems. Grids can be classified into different types based on their purpose, architecture, and characteristics. Some of the common types of grids are:
+
+- **Computational grid**: This is a type of grid that acts as a mediator of many computers in a given network to solve one single problem at a time. Computational grids can be used for tasks that require high processing power, such as scientific simulations, weather forecasting, or cryptography. Computational grids can be further divided into subtypes, such as cluster grids, desktop grids, or volunteer computing grids, depending on the nature and location of the computers involved  .
+
+- **Data grid**: The grid that deals with the sharing and managing the distributed data in a controlled manner is term as a data grid. Data grids can be used for tasks that require large amounts of data, such as data mining, data analysis, or data-intensive applications. Data grids can provide features such as replication, caching, security, or metadata management to ensure the availability, consistency, and integrity of the data  .
+
+- **Collaborative grid**: Such types of grids help in solving collective problems that require the coordination and communication of multiple users or groups. Collaborative grids can be used for tasks that involve human interaction, such as online learning, video conferencing, or social networking. Collaborative grids can provide features such as messaging, file sharing, or collaboration tools to facilitate the exchange of information and ideas .
+
+- **Service grid**: The grid that provides access to various services or applications that are hosted on different computers or platforms is term as a service grid. Service grids can be used for tasks that require the integration and interoperability of heterogeneous systems, such as web services, cloud computing, or grid portals. Service grids can provide features such as service discovery, service composition, or service orchestration to enable the seamless delivery and consumption of the services.
+
+These are some of the types of grids that are commonly used in grid computing. However, there may be other types of grids that are specific to certain domains or applications, such as sensor grids, bioinformatics grids, or smart grids. Grid computing is a dynamic and evolving field that can offer many benefits and challenges for the users and developers.

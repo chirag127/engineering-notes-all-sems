@@ -1,0 +1,12 @@
+### TCP over wireless
+
+- Transmission Control Protocol (TCP) is a reliable and connection-oriented protocol that provides end-to-end data delivery over the Internet.
+- TCP assumes that most packet losses are due to network congestion and responds by reducing the sending rate to avoid further losses.
+- However, in wireless networks, packet losses can also occur due to wireless link errors, such as fading, shadowing, interference, and mobility.
+- TCP cannot distinguish between congestion losses and wireless losses and may unnecessarily reduce the sending rate, resulting in poor performance and low throughput.
+- Therefore, TCP needs to be adapted or enhanced to cope with the challenges of wireless networks, such as high delays, high error rates, variable bandwidth, and frequent handoffs.
+- Several mechanisms have been proposed to improve the performance of TCP over wireless networks, such as:
+  - Split-connection: The TCP connection is split into two sub-connections at the base station, one over the wired network and one over the wireless network. The base station acts as a proxy and handles the wireless losses locally, while hiding them from the end hosts. This approach maintains TCP end-to-end semantics, but requires modifications at the base station and may introduce security and scalability issues.
+  - Link layer protocols: The link layer provides error recovery and retransmission mechanisms to recover from wireless losses, while suppressing the duplicate acknowledgments (ACKs) or negative acknowledgments (NACKs) from reaching the TCP sender. This approach avoids unnecessary congestion control actions by TCP, but may introduce additional delays and overhead at the link layer and may interfere with TCP's end-to-end reliability.
+  - TCP-aware routing: The routing protocol selects the best path for TCP packets based on the link quality and the congestion status of the network. This approach reduces the packet losses and delays for TCP, but requires cooperation and coordination among the routers and may increase the routing complexity and overhead.
+  - TCP feedback: The TCP sender receives feedback from the intermediate nodes or the receiver about the cause and location of packet losses, such as congestion or wireless errors. This approach enables TCP to adjust its sending rate and retransmission strategy accordingly, but requires modifications at the TCP sender and the intermediate nodes and may introduce additional feedback messages and overhead.

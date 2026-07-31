@@ -1,0 +1,15 @@
+# Determination of pH by titrimetric method
+
+- Titrimetric method is a technique of quantitative analysis that involves measuring the volume of a solution of known concentration (titrant) that is required to react completely with a solution of unknown concentration (unknown).
+- pH is a measure of the acidity or alkalinity of a solution, defined as the negative logarithm of the hydrogen ion concentration: pH = -log[H+].
+- Determination of pH by titrimetric method involves using an acid-base titration, in which an acid or a base of known concentration is added to an unknown solution until the equivalence point is reached, where the moles of acid and base are equal.
+- The pH at the equivalence point depends on the strength of the acid and base involved in the titration. For a strong acid-strong base titration, the pH at the equivalence point is 7. For a weak acid-strong base titration, the pH at the equivalence point is greater than 7. For a strong acid-weak base titration, the pH at the equivalence point is less than 7. For a weak acid-weak base titration, the pH at the equivalence point depends on the dissociation constants of the acid and base.
+- To determine the pH at any point in the titration, the following steps are followed:
+  - Calculate the number of millimoles of H+ and OH- to determine which, if either, is in excess after the neutralization reaction has occurred. If one species is in excess, calculate the amount that remains after the neutralization reaction.
+  - Determine the final volume of the solution. Calculate the concentration of the species in excess and convert this value to pH.
+- To determine the pH at the equivalence point, the following steps are followed:
+  - Calculate the number of millimoles of H+ and OH- that are equal at the equivalence point. Use the stoichiometry of the reaction to find the moles of the salt formed.
+  - Determine the final volume of the solution. Calculate the concentration of the salt and use the dissociation constants of the acid and base to find the concentrations of H+ and OH-.
+  - Convert the concentration of H+ or OH- to pH.
+- To determine the pH by titrimetric method, an appropriate pH indicator is used in the titration chamber, which shows the pH of the solution by changing its color at a certain pH range. Alternatively, a potentiometric endpoint detection using a pH meter can be used, which measures the pH of the solution directly and displays it on a screen.
+- Titrimetric method is a versatile and accurate technique for determining the pH of a solution, as well as the concentration of an acid or a base. It can be applied to both aqueous and nonaqueous solvents, and to a variety of acid-base reactions. However, it requires careful selection of the titrant, the indicator, and the experimental conditions to ensure reliable results.

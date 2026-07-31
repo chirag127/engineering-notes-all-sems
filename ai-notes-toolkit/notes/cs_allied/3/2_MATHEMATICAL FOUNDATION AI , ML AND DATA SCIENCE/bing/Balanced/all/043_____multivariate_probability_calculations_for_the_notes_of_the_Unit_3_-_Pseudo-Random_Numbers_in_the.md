@@ -1,0 +1,13 @@
+# Multivariate Probability Calculations
+
+- Multivariate probability is the study of random variables that are jointly distributed over a sample space. It is used to model the outcomes of experiments that involve more than one variable or outcome. 
+- Multivariate probability distributions are functions that assign probabilities to every possible combination of values of the random variables. They can be discrete or continuous, depending on the nature of the variables.  
+- Some examples of multivariate probability distributions are:
+  - Multinomial distribution: It is a generalization of the binomial distribution that models the number of occurrences of each of k possible outcomes in n independent trials. The probability of each outcome is constant and the outcomes are mutually exclusive. 
+  - Multivariate normal distribution: It is a generalization of the normal distribution that models the joint behavior of a set of normally distributed variables that may have some linear correlation. It is characterized by a mean vector and a covariance matrix. 
+  - Wishart distribution: It is a generalization of the chi-square distribution that models the distribution of positive definite matrices. It is often used to model the covariance matrices of multivariate normal distributions. 
+- To calculate the probability of a multivariate event, we need to use the joint probability distribution of the variables involved. The joint probability distribution can be obtained from the marginal distributions and the conditional distributions using the chain rule or the Bayes' theorem.  
+- Some properties of multivariate probability calculations are:
+  - The sum rule: The probability of a union of disjoint events is equal to the sum of their individual probabilities. This can be extended to the marginal probability of a variable, which is equal to the sum of the joint probabilities over all possible values of the other variables. 
+  - The product rule: The probability of a conjunction of events is equal to the product of the probability of one event and the conditional probability of the other event given the first one. This can be extended to the joint probability of two variables, which is equal to the product of the marginal probability of one variable and the conditional probability of the other variable given the first one. 
+  - The independence rule: Two events are independent if the probability of one event does not depend on the occurrence of the other event. This can be extended to two variables, which are independent if their joint probability is equal to the product of their marginal probabilities.

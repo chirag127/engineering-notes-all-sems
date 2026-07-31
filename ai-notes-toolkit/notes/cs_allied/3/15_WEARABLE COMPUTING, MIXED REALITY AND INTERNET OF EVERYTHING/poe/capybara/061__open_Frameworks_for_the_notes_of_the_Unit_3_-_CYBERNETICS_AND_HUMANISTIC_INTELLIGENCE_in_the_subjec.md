@@ -1,0 +1,13 @@
+### Open Frameworks for the notes of the Unit 3 - CYBERNETICS AND HUMANISTIC INTELLIGENCE in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+In this unit, we will be discussing the open frameworks that are used in the field of wearable computing, mixed reality, and the internet of everything. These frameworks are important as they allow developers to create applications and systems that are interoperable with other devices and platforms.
+
+Here are some of the open frameworks that we will be discussing:
+
+- **Arduino:** This is an open-source electronics platform that is used to create interactive objects and environments. It is based on a simple microcontroller board and a development environment that allows developers to write code and upload it to the board. Arduino is widely used in the field of wearable computing and IoT.
+- **Raspberry Pi:** This is a small, affordable computer that is designed to promote the teaching of basic computer science in schools. It is also used for DIY projects and IoT applications. Raspberry Pi is an open platform, which means that developers can access the hardware and software specifications and modify them if needed.
+- **Unity:** This is a popular game engine that is used to create 3D and 2D games, as well as virtual and augmented reality experiences. Unity is an open platform that allows developers to create their own plugins and extensions, and it supports a wide range of platforms, including mobile devices and VR headsets.
+- **OpenCV:** This is an open-source computer vision library that is used to create computer vision applications. It provides developers with a set of functions that can be used to detect and recognize objects, track motion, and perform other tasks related to computer vision. OpenCV is widely used in the field of mixed reality and augmented reality.
+- **TensorFlow:** This is an open-source machine learning platform that is used to create artificial intelligence applications. It provides developers with a set of tools and libraries that can be used to train and deploy machine learning models. TensorFlow is widely used in the field of wearable computing and IoT.
+
+By using these open frameworks, developers can create innovative applications and systems that are interoperable with other devices and platforms. These frameworks also provide a way for developers to collaborate and share their work with others, which can lead to the development of new and exciting technologies.

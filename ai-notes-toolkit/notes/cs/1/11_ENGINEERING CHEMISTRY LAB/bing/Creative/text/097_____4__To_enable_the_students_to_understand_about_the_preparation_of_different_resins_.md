@@ -1,0 +1,13 @@
+### 4. To enable the students to understand about the preparation of different resins.
+
+- Resins are natural or synthetic organic substances that are usually solid or semi-solid at room temperature and have a high molecular weight.
+- Resins are widely used in various industries such as paints, adhesives, plastics, rubber, pharmaceuticals, cosmetics, etc.
+- Resins can be classified into two main types: thermoplastic and thermosetting.
+- Thermoplastic resins are resins that can be softened by heating and hardened by cooling repeatedly. They are usually prepared by polymerization or polycondensation of monomers or low molecular weight compounds. Examples of thermoplastic resins are polyethylene, polyvinyl chloride, polystyrene, nylon, etc.
+- Thermosetting resins are resins that can be hardened by heating or by the action of a catalyst or a hardener. They cannot be softened by heating again. They are usually prepared by cross-linking of linear or branched polymers or by condensation of polyfunctional compounds. Examples of thermosetting resins are phenol-formaldehyde, urea-formaldehyde, epoxy, polyester, etc.
+- The preparation of different resins involves the following steps:
+  - Selection of raw materials: The raw materials for resin synthesis should be chosen based on the desired properties, availability, cost, and environmental impact of the resin. The raw materials can be natural or synthetic, monomeric or polymeric, aliphatic or aromatic, etc.
+  - Reaction conditions: The reaction conditions for resin synthesis should be optimized to achieve the desired degree of polymerization, molecular weight distribution, functionality, branching, cross-linking, etc. The reaction conditions can include temperature, pressure, time, catalyst, solvent, etc.
+  - Purification: The purification of resins involves the removal of unreacted raw materials, by-products, impurities, etc. The purification methods can include filtration, distillation, extraction, precipitation, etc.
+  - Characterization: The characterization of resins involves the determination of the physical, chemical, and mechanical properties of the resin. The characterization methods can include spectroscopy, chromatography, thermal analysis, rheology, etc.
+  - Application: The application of resins involves the processing of the resin into the desired shape, size, and form. The processing methods can include molding, extrusion, injection, coating, curing, etc.

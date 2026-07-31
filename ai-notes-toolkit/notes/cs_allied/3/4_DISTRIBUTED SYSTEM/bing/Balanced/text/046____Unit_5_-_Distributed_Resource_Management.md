@@ -1,0 +1,26 @@
+## Unit 5 - Distributed Resource Management
+
+- Distributed resource management (DRM) is an evolving discipline that aims to enable distributed enterprise systems to operate effectively in production.
+- DRM involves a set of software, hardware, network tools, procedures and policies for managing various types of resources in a distributed system, such as computing, storage, communication, energy, and data.
+- DRM can be applied to different domains and scenarios, such as cloud computing, grid computing, edge computing, Internet of Things, smart grid, and distributed energy resources.
+- DRM can provide various benefits to the distributed system, such as:
+  - Improving performance, scalability, availability, and reliability of the system.
+  - Optimizing resource utilization, allocation, and scheduling.
+  - Enhancing system security, privacy, and resilience.
+  - Supporting dynamic adaptation and reconfiguration of the system.
+  - Enabling interoperability and coordination among heterogeneous and autonomous resources.
+- DRM faces various challenges and issues, such as:
+  - Dealing with resource heterogeneity, diversity, and complexity.
+  - Handling resource uncertainty, variability, and volatility.
+  - Balancing resource supply and demand.
+  - Resolving resource conflicts and dependencies.
+  - Achieving resource efficiency, fairness, and quality of service.
+  - Coping with resource failures and faults.
+  - Ensuring resource compliance and accountability.
+- DRM can be implemented using different approaches and techniques, such as:
+  - Centralized, decentralized, or hybrid resource management architectures.
+  - Resource discovery, monitoring, and modeling methods.
+  - Resource allocation, scheduling, and negotiation algorithms.
+  - Resource coordination, collaboration, and consensus protocols.
+  - Resource control, feedback, and adaptation mechanisms.
+  - Resource security, privacy, and trust solutions.

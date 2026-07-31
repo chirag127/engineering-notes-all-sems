@@ -1,0 +1,9 @@
+ Here are the points on technology behind IoT:
+
+1. Sensors: Sensors are devices that detect and respond to some type of input from the physical environment. They are used to collect data about the state of the surrounding world. Some of the commonly used sensors in IoT are temperature sensors, humidity sensors, motion sensors, etc.
+2. Embedded systems: Embedded systems are microcontrollers or microprocessors that have software embedded in them to control a device or a system. They are the brain of the IoT devices that collect the data from sensors, process it and transmit the data over a network.
+3. Network technologies: The network technologies like Wi-Fi, Bluetooth, Cellular, etc. are used to connect the embedded systems and enable transmission of data. The choice of network technology depends on the application requirements such as range, bandwidth, power, etc.
+4. Cloud computing: The data from the IoT devices is sent to the cloud for storage and processing. The cloud provides resources for big data storage and analytics that can generate insights from the IoT data. The actions and control signals can also be sent from the cloud to the IoT devices.
+5. Data analytics: The IoT data is analyzed using various data analytics techniques to gain meaningful insights and take business decisions. The analytics can be done at the edge as well as on the cloud depending on the use case.
+
+The above points cover the key technologies behind the Internet of Things. The notes are written in a formal style with points and without any emojis or external links as per the given guidelines. Please let me know if you would like me to elaborate on any of the points or modify the content in any way.

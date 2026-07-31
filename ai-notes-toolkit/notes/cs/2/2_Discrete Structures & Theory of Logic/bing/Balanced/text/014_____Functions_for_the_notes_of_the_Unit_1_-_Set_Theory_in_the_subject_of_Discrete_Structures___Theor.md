@@ -1,0 +1,21 @@
+### Functions
+
+- A function is a special kind of relation between two sets, called the domain and the codomain, that assigns exactly one element of the codomain to each element of the domain  .
+- A function can be represented by a set of ordered pairs, a table, a graph, or a formula .
+- The notation f:A→B means that f is a function from the set A to the set B  .
+- The element of A that is mapped by f to an element of B is called the argument or input of f, and the element of B that is assigned to it is called the value or output of f  .
+- The notation f(a) = b means that the value of f at a is b, or equivalently, that f maps a to b  .
+- The set of all possible arguments of f is called the domain of f, and the set of all possible values of f is called the range of f  .
+- The range of f is always a subset of the codomain of f, but it may not be equal to it  .
+- A function is said to be well-defined if it assigns a unique value to each argument in its domain .
+- A function is said to be one-to-one or injective if it maps different arguments to different values, that is, if f(a) = f(b) implies a = b for any a and b in the domain of f  .
+- A function is said to be onto or surjective if its range is equal to its codomain, that is, if every element of the codomain is mapped by f to some element of the domain  .
+- A function is said to be bijective or invertible if it is both one-to-one and onto, that is, if it establishes a one-to-one correspondence between the elements of its domain and codomain  .
+- A function f has an inverse function f^-1 if f is bijective, and f^-1 maps each element of the codomain of f to the unique element of the domain of f that is mapped to it by f, that is, if f^-1(f(a)) = a and f(f^-1(b)) = b for any a in the domain of f and b in the codomain of f  .
+- Two functions f and g are said to be equal if they have the same domain, the same codomain, and the same value for every argument in their domain, that is, if f(a) = g(a) for any a in the domain of f and g  .
+- Two functions f and g are said to be compatible if they have the same codomain  .
+- The composition of two compatible functions f and g, denoted by f∘g, is a function that maps each element of the domain of g to the value of f at the value of g at that element, that is, if f∘g(a) = f(g(a)) for any a in the domain of g  .
+- The identity function on a set A, denoted by id_A, is a function that maps each element of A to itself, that is, if id_A(a) = a for any a in A  .
+- A function f is said to be an identity function if f = id_A for some set A  .
+- A function f is said to be constant if it has the same value for every argument in its domain, that is, if f(a) = f(b) for any a and b in the domain of f  .
+- A function f is said to be periodic if there exists a positive number

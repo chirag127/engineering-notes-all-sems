@@ -1,0 +1,11 @@
+#### Failures in MapReduce
+
+- MapReduce is a programming model and framework for processing large-scale data sets in parallel and distributed environments.
+- MapReduce consists of two phases: map and reduce, where the map phase applies a user-defined function to each input record and emits intermediate key-value pairs, and the reduce phase aggregates the intermediate values associated with the same key and produces the final output.
+- MapReduce relies on a master-slave architecture, where a master node coordinates the execution of multiple worker nodes that perform the actual map and reduce tasks.
+- Failures are inevitable in MapReduce, due to the large number of nodes, the long-running jobs, and the heterogeneous and unreliable hardware and network conditions.
+- MapReduce handles failures by using fault tolerance mechanisms, such as replication, checkpointing, and re-execution.
+- Replication: MapReduce replicates the input data across multiple nodes to ensure data availability and locality. The master node also maintains backup workers that can take over the tasks of failed workers.
+- Checkpointing: MapReduce periodically checkpoints the intermediate data and the state of the workers to a distributed file system, such as HDFS. This allows the system to recover from failures without losing the progress of the job.
+- Re-execution: MapReduce detects failures by using heartbeats and timeouts. If a worker fails to send a heartbeat to the master within a certain interval, the master assumes that the worker has failed and re-assigns its tasks to another worker. If a task takes longer than a specified threshold, the master may launch a speculative copy of the task on another worker to speed up the job completion.
+- MapReduce can tolerate different types of failures, such as node failures, task failures, and network failures, by using the above mechanisms. However, some failures may still cause the job to fail, such as master node failure, data corruption, or malicious attacks. Therefore, MapReduce also requires backup and recovery strategies, such as storing the output data in a reliable storage system, verifying the integrity of the data, and securing the communication channels.

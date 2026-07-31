@@ -1,0 +1,22 @@
+### Individual conferencing for the notes of the Unit 3 - Technical Presentation in the subject of Technical Communication
+
+- Individual conferencing is a process of meeting one-on-one with a teacher or a peer to discuss and improve a presentation.
+- The purpose of individual conferencing is to provide feedback, guidance, and support to the presenter, as well as to identify and address any issues or challenges that may arise during the presentation.
+- The benefits of individual conferencing include:
+  - Enhancing the presenter's confidence and skills
+  - Clarifying the presenter's goals and expectations
+  - Improving the presenter's organization and delivery of the presentation
+  - Developing the presenter's critical thinking and problem-solving abilities
+  - Strengthening the presenter's relationship and communication with the teacher or the peer
+- The steps of individual conferencing are:
+  - Scheduling a meeting time and place that is convenient for both parties
+  - Preparing for the meeting by reviewing the presentation materials and criteria
+  - Conducting the meeting by following a respectful and constructive dialogue
+  - Giving and receiving feedback by using specific and actionable suggestions
+  - Following up on the meeting by implementing the feedback and revising the presentation
+- The best practices of individual conferencing are:
+  - Being punctual and professional
+  - Being attentive and engaged
+  - Being honest and respectful
+  - Being supportive and encouraging
+  - Being flexible and open-minded

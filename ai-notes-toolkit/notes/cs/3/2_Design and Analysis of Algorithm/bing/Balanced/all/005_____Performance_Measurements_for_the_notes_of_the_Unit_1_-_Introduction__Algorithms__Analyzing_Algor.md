@@ -1,0 +1,12 @@
+# Performance Measurements
+
+Performance measurements are used to evaluate the efficiency and effectiveness of an algorithm in solving a problem. They help to compare different algorithms and choose the best one for a given situation. Performance measurements can be based on various factors, such as:
+
+- **Space complexity**: The amount of memory or space required by an algorithm to perform its task. It consists of both program and data space. Space complexity can be measured in terms of the input size, the output size, or the total size of the algorithm.
+- **Time complexity**: The amount of time or number of steps required by an algorithm to perform its task. It depends on the speed of the processor, the size and nature of the input, and the design of the algorithm. Time complexity can be measured in terms of the best case, the worst case, or the average case scenario.
+- **Network complexity**: The amount of communication or data transfer required by an algorithm to perform its task. It depends on the network topology, the bandwidth, the latency, and the protocol. Network complexity can be measured in terms of the number of messages, the size of messages, or the total amount of data exchanged.
+- **Other factors**: Depending on the problem domain, there may be other factors that affect the performance of an algorithm, such as accuracy, reliability, security, scalability, etc. These factors can be measured in terms of the error rate, the failure rate, the encryption level, the number of users, etc.
+
+One of the common ways to measure the performance of an algorithm is to use the **Big O notation**, which expresses the asymptotic behavior of the algorithm as the input size grows. The Big O notation gives an upper bound on the growth rate of the algorithm's complexity, ignoring the constant factors and the lower order terms. For example, an algorithm with a time complexity of O(n^2) means that the algorithm's running time is proportional to the square of the input size, and it will grow faster than an algorithm with a time complexity of O(n) or O(log n).
+
+Performance measurements are important for designing and analyzing algorithms, as they help to understand the trade-offs and limitations of different approaches, and to optimize the algorithm's performance for a given problem.

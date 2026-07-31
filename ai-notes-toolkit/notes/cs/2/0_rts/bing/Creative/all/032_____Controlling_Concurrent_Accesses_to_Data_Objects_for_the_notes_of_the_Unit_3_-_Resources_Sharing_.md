@@ -1,0 +1,11 @@
+# Controlling Concurrent Accesses to Data Objects
+
+- Data objects are a special type of shared resources that store information and can be accessed by multiple jobs or transactions in a real time system.
+- When jobs are scheduled preemptively, their accesses to data objects may be interleaved, resulting in inconsistent or incorrect data values.
+- To ensure data consistency and correctness, concurrent accesses to data objects must be controlled by using some concurrency control protocols or algorithms.
+- Concurrency control protocols or algorithms aim to prevent or resolve conflicts among concurrent accesses to data objects, while satisfying the timing constraints of the jobs or transactions.
+- There are different types of concurrency control protocols or algorithms, such as locking-based, timestamp-based, optimistic, and hybrid protocols.
+- Locking-based protocols use locks to grant or deny access to data objects. A job or transaction must acquire a lock on a data object before accessing it, and release the lock after finishing the access. Locks can be exclusive or shared, depending on the type of access (read or write).
+- Timestamp-based protocols use timestamps to order the accesses to data objects. A job or transaction is assigned a timestamp when it is activated, and its accesses to data objects are compared with the timestamps of other concurrent accesses. If the timestamp order is violated, the access is aborted or restarted.
+- Optimistic protocols assume that conflicts among concurrent accesses to data objects are rare, and allow the accesses to proceed without any control. However, before committing the changes to the data objects, the accesses are validated to check for any conflicts. If a conflict is detected, the access is aborted or restarted.
+- Hybrid protocols combine the features of locking-based, timestamp-based, and optimistic protocols to achieve better performance and flexibility. For example, a protocol may use locks for some data objects and timestamps for others, or use optimistic validation for some accesses and locking or timestamping for others.

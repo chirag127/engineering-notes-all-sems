@@ -1,0 +1,11 @@
+### Introduction to machine learning
+
+Machine learning is a subfield of artificial intelligence, which is broadly defined as the capability of a machine to imitate intelligent human behavior. Machine learning systems are used to perform complex tasks in a way that is similar to how humans solve problems, by using data and algorithms to learn and adapt without following explicit instructions  .
+
+Some of the main concepts and topics in machine learning are:
+
+- **Data**: Data is the raw material that machine learning systems use to learn from. Data can be structured (such as tables, numbers, or labels) or unstructured (such as text, images, or audio). Data can be collected from various sources, such as sensors, databases, or the web. Data can also be preprocessed, cleaned, or transformed to make it more suitable for machine learning algorithms .
+- **Algorithms**: Algorithms are the mathematical rules or procedures that machine learning systems use to learn from data. Algorithms can be classified into different types, such as supervised learning, unsupervised learning, or reinforcement learning, depending on the goal and the availability of labeled data. Algorithms can also be evaluated, compared, or optimized based on various criteria, such as accuracy, speed, or complexity .
+- **Models**: Models are the outputs or results of machine learning algorithms. Models are representations of the patterns or relationships that the algorithms have learned from the data. Models can be used to make predictions, classifications, or recommendations based on new or unseen data. Models can also be updated, refined, or deployed to different environments or applications .
+
+Machine learning is a rapidly evolving and expanding field, with many applications and challenges in various domains, such as computer vision, natural language processing, speech recognition, robotics, healthcare, or finance. Machine learning is also closely related to other fields, such as statistics, optimization, or data science  .

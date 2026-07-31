@@ -1,0 +1,9 @@
+### Metallurgy in India and Ancient India
+
+Metallurgy is the science and art of extracting and processing metals from ores and other sources. Metallurgy in India and ancient India has a long and rich history, dating back to the 3rd millennium BCE. Some of the main points about metallurgy in India and ancient India are:
+
+- Copper was one of the first metals to be used by humans in India, as evidenced by copper artefacts from the Chalcolithic period (c. 2500-1500 BCE) found in various sites such as Khetri in Rajasthan and Mitathal in Haryana .
+- The Rigveda, one of the oldest texts in the world, mentions the term Ayas (आयस), which means metal, and refers to various metals such as gold, silver, copper, iron and tin .
+- Iron metallurgy in India began around 1800 BCE, and reached its peak in the early centuries CE, when India became a major exporter of iron and steel to various regions such as West Asia, Europe and China  . Indian iron and steel were known for their high quality, strength and resistance to corrosion.
+- Zinc metallurgy in India was another remarkable achievement, as India was the first civilization to produce zinc on an industrial scale by using a sophisticated distillation technique that involved heating zinc ore in a closed vessel and condensing the vapour in a separate chamber . This technique was developed around 1200 CE at Zawar in Rajasthan, and was later adopted by China and Europe.
+- Other metals that were known and used in India and ancient India include lead, tin, mercury, silver, gold, brass, bronze and alloys such as panchaloha (five metals) and ashtadhatu (eight metals) . Indian metallurgists also developed various methods of casting, forging, welding, tempering, quenching, polishing and ornamenting metals .

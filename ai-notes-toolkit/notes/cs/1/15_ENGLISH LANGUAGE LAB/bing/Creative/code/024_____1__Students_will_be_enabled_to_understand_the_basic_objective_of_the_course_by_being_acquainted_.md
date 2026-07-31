@@ -1,0 +1,16 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the content for the topic you requested:
+
+### 1. Students will be enabled to understand the basic objective of the course by being acquainted with specific dimensions of communication skills i.e. Reading, Writing, Listening, Thinking and Speaking.
+
+- Communication skills are essential for academic and professional success, as well as personal and social well-being.
+- Communication skills involve the ability to use language effectively and appropriately in various contexts and situations, such as formal and informal, oral and written, verbal and non-verbal, etc.
+- Communication skills can be classified into five main dimensions: reading, writing, listening, thinking and speaking. Each dimension has its own purpose, process and outcome.
+- Reading is the process of decoding and comprehending written texts, such as books, articles, reports, etc. Reading skills include the ability to identify the main idea, supporting details, tone, purpose and audience of a text, as well as to infer, analyze, evaluate and synthesize information from different sources.
+- Writing is the process of encoding and producing written texts, such as essays, letters, emails, etc. Writing skills include the ability to organize, develop and express ideas clearly, coherently and accurately, as well as to use appropriate grammar, vocabulary, style and format for different purposes and audiences.
+- Listening is the process of receiving and interpreting oral messages, such as lectures, speeches, conversations, etc. Listening skills include the ability to pay attention, understand, remember and respond to what is heard, as well as to identify the speaker's intention, attitude and emotion.
+- Thinking is the process of using cognitive skills to generate, explore and evaluate ideas, arguments, solutions, etc. Thinking skills include the ability to apply logic, reasoning, creativity and critical thinking to various problems and situations, as well as to reflect, self-assess and learn from feedback.
+- Speaking is the process of delivering and exchanging oral messages, such as presentations, discussions, debates, etc. Speaking skills include the ability to speak fluently, confidently and appropriately, as well as to use effective verbal and non-verbal communication strategies, such as tone, pitch, gesture, eye contact, etc.
+
+- The basic objective of the course is to enable students to develop and improve their communication skills in all five dimensions, by providing them with theoretical knowledge, practical exercises and feedback.
+- By being acquainted with the specific dimensions of communication skills, students will be able to understand the nature, scope and importance of communication in various contexts and situations, as well as to identify their strengths and weaknesses and work on them accordingly.
+- By the end of the course, students will be able to communicate effectively and appropriately in different modes, media and genres, as well as to demonstrate their communication skills in various academic and professional tasks and activities.

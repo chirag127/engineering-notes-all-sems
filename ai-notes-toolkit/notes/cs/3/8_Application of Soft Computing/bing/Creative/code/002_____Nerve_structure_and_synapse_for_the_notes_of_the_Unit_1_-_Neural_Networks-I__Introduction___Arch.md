@@ -1,0 +1,23 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic. Here are some notes on nerve structure and synapse:
+
+### Nerve structure and synapse
+
+- A nerve is a bundle of nerve fibres (axons) that transmit electrical impulses from one part of the body to another.
+- A nerve fibre is a long extension of a nerve cell (neuron) that carries the electrical impulse from the cell body to the nerve terminal.
+- A neuron is a specialized cell that can generate and conduct electrical impulses. It has three main parts: the cell body (soma), the dendrites, and the axon.
+- The cell body contains the nucleus and other organelles that maintain the cell's function and metabolism. It also has Nissl granules, which are clusters of rough endoplasmic reticulum and ribosomes that synthesize proteins for the neuron.
+- The dendrites are short, branched processes that extend from the cell body and receive signals from other neurons or sensory stimuli. They convey the signals to the cell body.
+- The axon is a long, thin process that extends from the cell body and carries the electrical impulse away from the cell body to the nerve terminal. It is usually covered by a myelin sheath, which is a fatty layer that insulates the axon and speeds up the impulse transmission. The myelin sheath is interrupted by gaps called nodes of Ranvier, where the axon membrane is exposed and the impulse can be regenerated.
+- The nerve terminal is the end of the axon that forms a connection with another neuron or a target cell, such as a muscle cell or a gland cell. The connection is called a synapse.
+- A synapse is a structure that allows a neuron to communicate with another neuron or a target cell by passing an electrical or chemical signal across a small gap called the synaptic cleft.
+- There are two types of synapses: electrical and chemical.
+- An electrical synapse is a direct connection between two cells that allows the electrical impulse to flow from one cell to another without any delay or modification. Electrical synapses are rare and mostly found in the brain and the heart, where they enable fast and synchronized communication.
+- A chemical synapse is an indirect connection between two cells that involves the release and reception of chemical messengers called neurotransmitters. Chemical synapses are the most common and diverse type of synapses in the nervous system, and they allow for modulation and integration of signals.
+- At a chemical synapse, the presynaptic cell is the neuron that sends the signal, and the postsynaptic cell is the neuron or the target cell that receives the signal. The presynaptic cell has a swelling at the end of the axon called the synaptic knob, which contains synaptic vesicles that store neurotransmitters. The postsynaptic cell has a specialized region on its membrane called the postsynaptic density, which contains receptors that bind to neurotransmitters.
+- The transmission of a signal at a chemical synapse involves the following steps:
+  - The electrical impulse reaches the synaptic knob and triggers the opening of voltage-gated calcium channels on the presynaptic membrane.
+  - Calcium ions enter the synaptic knob and cause the synaptic vesicles to fuse with the presynaptic membrane and release neurotransmitters into the synaptic cleft by exocytosis.
+  - The neurotransmitters diffuse across the synaptic cleft and bind to the receptors on the postsynaptic membrane, which can be either ionotropic or metabotropic.
+  - Ionotropic receptors are ligand-gated ion channels that open or close in response to the binding of neurotransmitters, allowing the flow of ions across the postsynaptic membrane and changing its electrical potential. This can result in either an excitatory postsynaptic potential (EPSP), which depolarizes the membrane and makes the postsynaptic cell more likely to fire an impulse, or an inhibitory postsynaptic potential (IPSP), which hyperpolarizes the membrane and makes the postsynaptic cell less likely to fire an impulse.
+  - Metabotropic receptors are G protein-coupled receptors that activate a second messenger system in response to the binding of neurotransmitters, which can modulate the activity of ion channels or enzymes on the postsynaptic membrane or in the cytoplasm. This can result in either a long-term or a short-term effect on the postsynaptic cell, such as enhancing or reducing its sensitivity to neurotransmitters, altering its gene expression, or triggering other cellular responses.
+  - The neurotransmitters are removed from the synaptic cleft by either reuptake into the presynaptic cell or the surrounding glial

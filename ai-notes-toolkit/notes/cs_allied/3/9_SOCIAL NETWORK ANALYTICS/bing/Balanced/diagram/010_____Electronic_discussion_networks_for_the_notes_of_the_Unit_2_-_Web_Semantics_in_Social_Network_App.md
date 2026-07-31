@@ -1,0 +1,21 @@
+### Electronic discussion networks
+
+- Electronic discussion networks are online platforms that allow users to communicate and exchange information on a certain topic or interest area.
+- Electronic discussion networks can be implemented using different technologies, such as electronic mailing lists, computer bulletin boards, web forums, blogs, social media, etc .
+- Electronic discussion networks can have various benefits for users, such as:
+  - Providing access to diverse and relevant information sources.
+  - Enabling asynchronous and geographically distributed communication.
+  - Supporting social interaction and community building.
+  - Enhancing critical thinking and argumentation skills.
+  - Facilitating learning and knowledge sharing.
+- Electronic discussion networks can also pose some challenges for users, such as:
+  - Managing information overload and filtering noise.
+  - Ensuring quality and credibility of information.
+  - Maintaining privacy and security of data.
+  - Dealing with conflicts and disagreements.
+  - Motivating and engaging users to participate.
+- Electronic discussion networks can be analyzed using social network analysis techniques, such as:
+  - Identifying the network structure and properties, such as nodes, edges, degree, centrality, density, etc.
+  - Measuring the network dynamics and patterns, such as frequency, duration, direction, reciprocity, etc.
+  - Examining the network content and context, such as topics, keywords, sentiments, emotions, etc.
+  - Exploring the network outcomes and impacts, such as influence, reputation, trust, satisfaction, etc.

@@ -1,0 +1,31 @@
+## Unit 1 - Introduction to Engineering Drawing and Orthographic Projections
+
+- Engineering drawing is a graphical language used by engineers and other technical personnel to communicate design ideas, specifications, and dimensions of physical objects or systems.
+- Engineering drawing can be divided into two types: artistic drawing and technical drawing.
+  - Artistic drawing is used to express aesthetic or creative ideas, such as sketches, paintings, or illustrations.
+  - Technical drawing is used to convey precise and accurate information, such as dimensions, tolerances, materials, or assembly instructions.
+- Engineering drawing follows a set of standards and conventions that ensure clarity, consistency, and accuracy of the drawings.
+  - Standards are rules or guidelines that specify the format, layout, symbols, notation, and terminology of engineering drawings.
+  - Conventions are common practices or customs that are widely accepted and followed by engineers and drafters.
+- Engineering drawing can be done manually or with the help of computer-aided design (CAD) software.
+  - Manual drawing involves using instruments such as pencils, rulers, compasses, protractors, and scales to create drawings on paper or other media.
+  - CAD software allows engineers to create, modify, and store drawings electronically using a computer and a mouse or a keyboard.
+- Engineering drawing can be classified into different types based on the purpose, content, and perspective of the drawings.
+  - Some common types of engineering drawings are:
+    - Sketches: rough or freehand drawings that show the basic shape, size, and features of an object or a system.
+    - Diagrams: simplified drawings that show the functional or logical relationships of the components or elements of an object or a system.
+    - Schematics: drawings that show the electrical or electronic connections and circuits of an object or a system.
+    - Working drawings: detailed and accurate drawings that show the complete specifications and dimensions of an object or a system, and are used for fabrication, assembly, or installation.
+    - Assembly drawings: drawings that show how the parts or components of an object or a system fit together and are arranged in relation to each other.
+    - Exploded views: drawings that show the parts or components of an object or a system separated from each other and their relative positions.
+    - Sectional views: drawings that show the internal features or cross-sections of an object or a system by cutting through it along a plane.
+    - Isometric views: drawings that show the three-dimensional shape of an object or a system from a single viewpoint, using 30-degree angles for the axes.
+    - Orthographic views: drawings that show the two-dimensional shape of an object or a system from different viewpoints, using 90-degree angles for the axes.
+- Orthographic projection is a method of representing the three-dimensional shape of an object or a system on a two-dimensional plane, such as a paper or a screen, using parallel lines of projection.
+  - Orthographic projection is based on the principle that an object or a system can be viewed from six principal directions: front, top, bottom, left, right, and back.
+  - Each direction corresponds to a plane of projection, which is perpendicular to the line of sight of the viewer.
+  - Each plane of projection produces a view of the object or the system, which is a projection of its shape onto the plane.
+  - The views are arranged in a standard layout, called the first-angle projection or the third-angle projection, depending on the relative positions of the object, the planes, and the viewer.
+  - The views are aligned with each other along the edges or the centerlines of the object or the system, and are scaled to the same size.
+  - The views are labeled with letters or numbers to indicate their orientation and location.
+  - The views are drawn with lines, symbols, and notation to show the features, dimensions, and specifications of the object or the system.

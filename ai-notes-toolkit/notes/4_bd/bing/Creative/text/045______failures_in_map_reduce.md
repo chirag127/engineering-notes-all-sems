@@ -1,0 +1,11 @@
+#### Failures in MapReduce
+
+- MapReduce is a programming model and framework for processing large-scale data sets in parallel and distributed environments.
+- MapReduce consists of two phases: map and reduce. The map phase applies a user-defined function to each input key-value pair and produces a set of intermediate key-value pairs. The reduce phase applies another user-defined function to all the values associated with the same intermediate key and produces a set of output key-value pairs.
+- MapReduce can handle failures of individual machines or tasks by re-executing them on other available machines or tasks. However, failures can still affect the performance and correctness of MapReduce applications in various ways.
+- Some of the common types of failures in MapReduce are:
+
+  - **Worker failures**: A worker is a machine or a process that executes map or reduce tasks. A worker can fail due to hardware faults, network errors, software bugs, or resource exhaustion. Worker failures can cause the loss of intermediate or output data, or delay the completion of the MapReduce job.
+  - **Master failures**: A master is a machine or a process that coordinates the execution of MapReduce jobs. It assigns tasks to workers, monitors their progress, and handles failures. A master can fail due to similar reasons as workers. Master failures can cause the loss of the entire MapReduce job, or require restarting the job from scratch.
+  - **Task failures**: A task is a unit of work assigned to a worker by the master. A task can fail due to incorrect or invalid input data, user-defined function errors, or worker failures. Task failures can cause the loss of intermediate or output data, or require re-executing the task on another worker.
+  - **Data failures**: A data failure occurs when the input, intermediate, or output data of a MapReduce job is corrupted, missing, or inaccessible. Data failures can be caused by disk failures, network failures, or human errors. Data failures can cause the failure of tasks or workers that depend on the data, or require re-generating or re-fetching the data from other sources.

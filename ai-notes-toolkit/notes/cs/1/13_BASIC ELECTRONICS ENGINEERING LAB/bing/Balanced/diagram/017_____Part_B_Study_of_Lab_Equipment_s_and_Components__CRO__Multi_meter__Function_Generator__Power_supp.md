@@ -1,0 +1,13 @@
+### Part B Study of Lab Equipment’s and Components: CRO, Multi meter, Function Generator, Power supplyActive, Passive Components and Bread Board
+
+The aim of this part is to study the basic features, functions and applications of some common lab equipment and components used in electronics engineering. These include:
+
+- CRO: Cathode Ray Oscilloscope, a device that displays the waveform of an electrical signal on a screen. It can measure voltage, frequency, phase, and other parameters of a signal. It consists of a cathode ray tube, a vertical and a horizontal amplifier, a time base generator, and a trigger circuit.
+- Multimeter: A device that can measure multiple electrical quantities, such as voltage, current, resistance, capacitance, and continuity. It can be analog or digital, and can have different modes and ranges of measurement. It consists of a display, a selector switch, and probes.
+- Function Generator: A device that can generate different types of periodic signals, such as sine, square, triangle, and sawtooth waves. It can vary the frequency, amplitude, and shape of the output signal. It consists of a signal generator, a frequency control, an amplitude control, and an output terminal.
+- Power supply: A device that converts AC mains voltage to DC voltage for powering electronic circuits. It can be fixed or variable, and can have different levels of regulation and protection. It consists of a transformer, a rectifier, a filter, a regulator, and an output terminal.
+- Active Components: Electronic components that can control the flow of current or voltage in a circuit, such as transistors, diodes, LEDs, and integrated circuits. They usually require an external power source to operate.
+- Passive Components: Electronic components that do not control the flow of current or voltage in a circuit, but only store or dissipate energy, such as resistors, capacitors, inductors, and switches. They do not require an external power source to operate.
+- Bread Board: A device that allows the temporary connection of electronic components and wires without soldering. It consists of a plastic board with rows and columns of holes, and metal strips or springs underneath that connect the holes. It can be used to prototype and test electronic circuits.
+
+These test equipment can be demonstrated online from any lab of ECE department or physical mode is only option depending on the availability and accessibility of the equipment, the internet connection, and the software or platform used for the demonstration. Online mode may have some advantages, such as convenience, safety, and cost-effectiveness, but also some disadvantages, such as limited interaction, technical issues, and reduced realism.

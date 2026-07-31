@@ -1,0 +1,10 @@
+### Verification Methods
+
+Verification methods are the techniques that are used to check that a software system meets its specifications and requirements. Verification ensures that the software is built correctly and fulfills its intended purpose. Verification is also known as static testing, as it does not involve executing the software.
+
+Some of the common verification methods are:
+
+- **Peer reviews**: Peer reviews are informal and collaborative ways of reviewing the documents or the source code of the software. The purpose of peer reviews is to find errors, improve quality, and share knowledge among the team members. Peer reviews can be done by anyone who has some knowledge of the software, such as developers, testers, managers, or customers.
+- **Walk-throughs**: Walk-throughs are formal and systematic ways of reviewing the documents or the source code of the software. The purpose of walk-throughs is to verify the logic, functionality, and design of the software. Walk-throughs are done by a group of people who have different roles and perspectives, such as authors, reviewers, moderators, and observers. Walk-throughs follow a predefined agenda and a checklist of items to be verified.
+- **Inspections**: Inspections are more rigorous and structured ways of reviewing the documents or the source code of the software. The purpose of inspections is to detect defects, measure quality, and improve processes. Inspections are done by a team of experts who have specific roles and responsibilities, such as inspectors, leaders, readers, recorders, and checkers. Inspections follow a formal procedure and a set of standards and guidelines.
+- **Analysis**: Analysis is a testing method that involves using mathematical or logical techniques to verify the properties and behavior of the software. The purpose of analysis is to prove the correctness, completeness, and consistency of the software. Analysis can be done by using tools or models, such as formal methods, static analysis, or simulation. Analysis can also be used to validate the software, which means to check that the software meets the user's needs and expectations.

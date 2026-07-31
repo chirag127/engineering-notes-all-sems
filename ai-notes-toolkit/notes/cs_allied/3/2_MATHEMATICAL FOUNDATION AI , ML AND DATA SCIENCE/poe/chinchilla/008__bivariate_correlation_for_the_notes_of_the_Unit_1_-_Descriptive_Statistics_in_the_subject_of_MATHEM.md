@@ -1,0 +1,12 @@
+### Bivariate Correlation
+
+Bivariate correlation is a statistical method used to measure the strength and direction of the relationship between two variables. It is an important concept in the field of statistics and is widely used in various fields, including AI, ML and data science. The following are some key points to understand bivariate correlation:
+
+- Bivariate correlation measures the degree of association between two variables. It helps in understanding the relationship between two variables and the direction in which they move.
+- The most common method used for measuring bivariate correlation is Pearson correlation coefficient. It is a measure of the linear relationship between two variables and ranges from -1 to +1.
+- A correlation coefficient of +1 indicates a perfect positive correlation, meaning that when one variable increases, the other variable also increases. A correlation coefficient of -1 indicates a perfect negative correlation, meaning that when one variable increases, the other variable decreases. A correlation coefficient of 0 indicates no relationship between the two variables.
+- Bivariate correlation can be represented graphically using a scatter plot. A scatter plot helps in visualizing the relationship between the two variables and identifying any outliers or patterns in the data.
+- Bivariate correlation is useful in various fields, including AI, ML, and data science. It helps in identifying important variables that are correlated with the target variable, which can be useful in building predictive models.
+- However, it is important to note that correlation does not imply causation. Just because two variables are correlated does not mean that one variable causes the other variable. It is important to use other statistical methods, such as regression analysis, to establish causality.
+
+In conclusion, bivariate correlation is an important statistical method used to measure the relationship between two variables. It helps in understanding the strength and direction of the relationship and is useful in various fields, including AI, ML, and data science. It is important to use other statistical methods to establish causality and avoid making incorrect conclusions based solely on correlation.

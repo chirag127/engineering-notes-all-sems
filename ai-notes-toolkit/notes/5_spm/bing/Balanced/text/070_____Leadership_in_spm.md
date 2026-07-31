@@ -1,0 +1,25 @@
+### Leadership in SPM
+
+- Leadership is the ability to influence, motivate, and guide others to achieve a common goal or vision.
+- Leadership in SPM (Strategic Performance Management) is a process that helps an organization's leaders design and revise a system of strategic performance management that aligns with the organization's mission, values, and objectives.
+- Leadership in SPM involves the following steps:
+  - Establishing a clear and compelling vision for the organization and communicating it to all stakeholders.
+  - Developing and implementing a strategy that defines the goals, priorities, and measures of success for the organization and its units.
+  - Creating and maintaining a culture of accountability, feedback, and learning that supports the strategy and fosters continuous improvement.
+  - Engaging and empowering employees, teams, and partners to contribute to the strategy and achieve the desired outcomes.
+  - Monitoring and evaluating the performance and impact of the strategy and making adjustments as needed.
+- Leadership in SPM requires both leadership and management skills, such as:
+  - Planning and organizing resources, tasks, and schedules.
+  - Coordinating and collaborating with internal and external stakeholders.
+  - Solving problems and making decisions based on data and evidence.
+  - Inspiring and motivating others to perform at their best and overcome challenges.
+  - Developing and mentoring others to grow their potential and capabilities.
+  - Communicating effectively and transparently with diverse audiences and media.
+  - Adapting and innovating in response to changing needs and opportunities.
+- Leadership in SPM can be demonstrated by various roles and levels in the organization, such as:
+  - Directors, who are responsible for the strategic direction, financial planning, administration, and building services of the organization or its units .
+  - SPM Leaders, who are students who mentor and guide their peers in engineering and other disciplines .
+  - Senior Leaders, who are executives who set the vision and strategy for the organization and foster a culture of performance and excellence .
+  - Managers, who are supervisors who oversee the implementation and execution of the strategy and the performance of their teams .
+  - Project Managers, who are coordinators who plan and manage the scope, schedule, budget, and quality of specific projects .
+- Leadership in SPM is a dynamic and evolving process that requires constant learning, reflection, and improvement. Leaders in SPM should seek feedback, seek opportunities for professional development, and seek best practices and benchmarks from other organizations and sectors.

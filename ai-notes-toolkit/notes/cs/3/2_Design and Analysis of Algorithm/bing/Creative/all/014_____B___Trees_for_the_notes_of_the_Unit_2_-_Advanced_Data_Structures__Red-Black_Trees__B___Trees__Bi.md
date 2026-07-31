@@ -1,0 +1,15 @@
+# B-Trees
+
+- A B-tree is a self-balancing tree data structure that maintains sorted data and allows searches, insertions, and deletions in logarithmic time  .
+- A B-tree is optimized for systems that read and write large blocks of data, such as database and file systems .
+- A B-tree generalizes the binary search tree, allowing for nodes with more than two children. It is also known as a height-balanced m-way tree.
+- A B-tree has the following properties  :
+  - Every node has a maximum of m children, where m is the order of the tree.
+  - Every node (except the root and the leaves) has a minimum of ⌈m/2⌉ children.
+  - The root has a minimum of two children if it is not a leaf node.
+  - All the leaves are at the same level, and they have no children.
+  - Every non-leaf node has one more key than the number of its children. The keys are stored in sorted order.
+- A B-tree supports the following operations  :
+  - Search: To find a key in the tree, we start from the root and compare the key with the keys in the node. If the key is found, we return the node. If the key is smaller than the smallest key, we go to the leftmost child. If the key is larger than the largest key, we go to the rightmost child. Otherwise, we go to the child that corresponds to the interval of the keys that contains the key. We repeat this process until we find the key or reach a leaf node.
+  - Insert: To insert a key in the tree, we first search for the key and find the leaf node where the key should be inserted. If the leaf node has less than m-1 keys, we simply insert the key in the correct position. If the leaf node is full, we split the node into two nodes and move the middle key to the parent node. We then check if the parent node is full, and repeat the splitting process until we reach a node that is not full or the root. If the root is full, we create a new root with the middle key and make the old root and the new node its children.
+  - Delete: To delete a key from the tree, we first search for the key and find the node that contains the key. If the key is in a leaf node, we simply remove the key from the node. If the key is in a non-leaf node, we replace the key with its predecessor (the largest key in its left subtree) or its successor (the smallest key in its right subtree), and then delete the predecessor or the successor from the leaf node. After deleting the key, we check if the node has less than ⌈m/2⌉-1 keys, and if so, we perform a balancing operation to restore the B-tree properties. The balancing operation can be either borrowing a key from a sibling node or merging two sibling nodes and moving a key from the parent node. We then check if the parent node is underflow, and repeat the balancing process until we reach a node that is not underflow or the root. If the root has only one key and two children, we make the root the only child and delete the old root.

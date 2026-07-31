@@ -1,0 +1,26 @@
+### Bi-level image compression-The JBIG standard
+
+- Bi-level images are images that have only two possible pixel values, usually black and white.
+- Bi-level image compression is the process of reducing the amount of data needed to represent a bi-level image, without losing any information or quality.
+- The JBIG standard (Joint Bi-level Image Experts Group) is an early lossless image compression standard for bi-level images, standardized as ISO/IEC 11544 and ITU-T T.82 in March 1993.
+- The JBIG standard is widely implemented in fax machines and can also be used on other bi-level images.
+- The JBIG standard offers between a 20% and 50% increase in compression efficiency over Fax Group 4 compression, and in some situations, it offers a 30-fold improvement.
+- The JBIG standard uses a combination of arithmetic coding and adaptive template matching to achieve high compression ratios.
+- The JBIG standard consists of three main components: the encoder, the decoder, and the arithmetic coder.
+- The encoder divides the input image into stripes of 128 rows each and processes each stripe independently.
+- The encoder assigns a context number to each pixel based on the values of its neighboring pixels and the template used.
+- The encoder sends the context number and the pixel value to the arithmetic coder, which produces a compressed bitstream.
+- The decoder receives the compressed bitstream and performs the inverse operations of the encoder to reconstruct the original image.
+- The arithmetic coder is a key component of the JBIG standard, as it provides the entropy coding of the context numbers and pixel values.
+- The arithmetic coder uses a probability model that adapts to the statistics of the input data and assigns shorter codes to more probable symbols.
+- The arithmetic coder can achieve near-optimal compression performance, as it approaches the entropy limit of the input data.
+- The JBIG standard also supports progressive transmission, which allows the decoder to display a low-resolution version of the image before receiving the full bitstream.
+- The JBIG standard also supports multiple resolution coding, which allows the encoder to produce different versions of the image at different resolutions and quality levels.
+- The JBIG standard also supports lossy compression, which allows the encoder to reduce the image quality by merging similar contexts or using fewer bits per pixel.
+- The JBIG standard is also known as JBIG1, as it was superseded by the JBIG2 standard in 2000.
+- The JBIG2 standard is a newer image compression standard for bi-level images, developed by the Joint Bi-level Image Experts Group.
+- The JBIG2 standard is suitable for both lossless and lossy compression and can achieve higher compression ratios than the JBIG standard.
+- The JBIG2 standard exploits model-based coding for text and halftones, as well as nearby neighbor based coding for generic bi-level images.
+- The JBIG2 standard also uses arithmetic coding and adaptive context formation, but with more sophisticated techniques than the JBIG standard.
+- The JBIG2 standard can compress bi-level images up to 10 times better than the JBIG standard and up to 100 times better than Fax Group 4 compression.
+- The JBIG2 standard is widely used in document imaging, such as PDF files and scanned documents.

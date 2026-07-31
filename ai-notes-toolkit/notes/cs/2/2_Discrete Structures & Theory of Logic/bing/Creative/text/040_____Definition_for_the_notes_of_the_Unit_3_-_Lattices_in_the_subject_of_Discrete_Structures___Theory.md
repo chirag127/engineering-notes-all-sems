@@ -1,0 +1,14 @@
+### Definition for the notes of the Unit 3 - Lattices in the subject of Discrete Structures & Theory of Logic
+
+- A **lattice** is a partially ordered set (poset) in which every pair of elements has a **greatest lower bound** and a **least upper bound** .
+- A greatest lower bound of two elements a and b in a poset is an element c such that c ≤ a and c ≤ b, and there is no other element d that satisfies these conditions and is greater than c. It is also called the **meet** or the **infimum** of a and b, and denoted by a ∧ b .
+- A least upper bound of two elements a and b in a poset is an element c such that a ≤ c and b ≤ c, and there is no other element d that satisfies these conditions and is less than c. It is also called the **join** or the **supremum** of a and b, and denoted by a ∨ b .
+- A lattice can be represented by a **Hasse diagram**, which is a graphical representation of the partial order relation. In a Hasse diagram, each element of the poset is represented by a point, and a line segment is drawn between two points if and only if they are comparable and there is no other element between them. The lower elements are placed below the higher elements .
+- A lattice can also be defined as an algebraic structure with two binary operations, called meet and join, that satisfy certain properties. These properties are: commutativity, associativity, idempotence, absorption, and the existence of a least element and a greatest element .
+- A lattice is a special case of a **semilattice**, which is a poset that has either a meet or a join operation for every pair of elements, but not necessarily both.
+- A lattice is also a special case of a **distributive lattice**, which is a lattice that satisfies the **distributive law**: a ∧ (b ∨ c) = (a ∧ b) ∨ (a ∧ c) and a ∨ (b ∧ c) = (a ∨ b) ∧ (a ∨ c) for all elements a, b, and c in the lattice .
+- A lattice is also a special case of a **modular lattice**, which is a lattice that satisfies the **modular law**: a ∧ (b ∨ (a ∧ c)) = (a ∧ b) ∨ (a ∧ c) and a ∨ (b ∧ (a ∨ c)) = (a ∨ b) ∧ (a ∨ c) for all elements a, b, and c in the lattice .
+- A lattice is also a special case of a **complete lattice**, which is a lattice that has a meet and a join operation for every subset of the lattice, not just for pairs of elements .
+- A lattice is also a special case of a **bounded lattice**, which is a lattice that has a least element and a greatest element, denoted by 0 and 1 respectively .
+- A lattice is also a special case of a **complemented lattice**, which is a bounded lattice that has a **complement** for every element, that is, an element a' such that a ∧ a' = 0 and a ∨ a' = 1 .
+- A lattice is also a special case of a **Boolean algebra**, which is a complemented distributive lattice that satisfies the **duality principle**: for any statement involving the lattice operations and elements, the statement remains true if we interchange ∧ and ∨, and 0 and 1 .

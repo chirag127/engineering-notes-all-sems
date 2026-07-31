@@ -1,0 +1,7 @@
+### Dynamic Batch Interval
+
+- Several Distributed Stream Processing Systems (DSPSs) have adopted a batch-at-a-time processing model to improve processing throughput. These DSPSs are often referred to as micro-batch stream processing systems.
+- The batch interval is the time in seconds for how long data will be collected before dispatching processing on it. For example, if you set the batch interval to 5 seconds, Spark Streaming will collect data for 5 seconds and then kick out calculation on RDD with that data.
+- Apache Spark Structured Streaming processes data incrementally. Controlling the trigger interval for batch processing allows you to use Structured Streaming for workloads including near-real-time processing, refreshing databases every 5 minutes or once per hour, or batch processing all new data for a day or week.
+- The trigger settings of a streaming query define the timing of streaming data processing, whether the query is going to be executed as a micro-batch query with a fixed batch interval or as a continuous processing query.
+- There is an expert fuzzy control mechanism that can dynamically adjust the length of each batch interval in response to time-varying streaming workload and system processing rate.

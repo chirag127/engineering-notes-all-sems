@@ -1,0 +1,11 @@
+### Geography for the notes of the Module 4-Science, Management and Indian Knowledge System in the subject of INDIAN TRADITIONS, CULTURAL AND SOCIETY
+
+- Geography is the study of the physical features of the earth and its atmosphere, and of human activity as it affects and is affected by these.
+- Geography is an important subject for various competitive examinations, as it covers topics related to India's location, climate, natural resources, population, agriculture, transport, etc.
+- Geography also helps to understand the cultural and historical aspects of India, as well as its role in the world.
+- Some of the topics that are covered in the module 4 of the subject of Indian Traditions, Culture and Society are    :
+  - Harappan Technologies: This topic deals with the scientific and technological achievements of the Harappan civilization, such as urban planning, drainage system, weights and measures, metallurgy, pottery, seals, etc.
+  - Geography in India: This topic deals with the geographical knowledge and concepts of the ancient and medieval Indian scholars, such as Varahamihira, Aryabhata, Bhaskara, Alberuni, etc. It also covers the contributions of Indian geographers to the fields of cartography, climatology, oceanography, etc.
+  - Agriculture in India: This topic deals with the development and diversity of agriculture in India, from the ancient times to the modern era. It covers the aspects of irrigation, crop rotation, soil fertility, land use, etc. It also highlights the role of agriculture in the Indian economy and society.
+  - Medicine in India: This topic deals with the history and evolution of medicine in India, from the Vedic times to the modern era. It covers the concepts and practices of Ayurveda, Siddha, Unani, Yoga, etc. It also discusses the achievements and challenges of Indian medicine in the fields of surgery, pharmacology, anatomy, etc.
+- The module 4 of the subject of Indian Traditions, Culture and Society aims to provide a comprehensive and holistic understanding of the science, management and Indian knowledge system, and to appreciate the contributions of India to the world.

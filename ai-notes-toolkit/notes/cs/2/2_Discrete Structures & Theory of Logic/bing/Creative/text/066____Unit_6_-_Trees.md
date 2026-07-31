@@ -1,0 +1,33 @@
+## Unit 6 - Trees
+
+- A tree is a nonlinear data structure that consists of nodes connected by edges.
+- A tree has the following properties:
+  - There is one node called the root, which has no parent.
+  - Every node except the root has exactly one parent node.
+  - A node can have zero or more child nodes.
+  - There is a unique path from the root to every node.
+  - A node with no children is called a leaf node.
+- Some common types of trees are:
+  - Binary tree: A tree where each node has at most two children.
+  - Binary search tree: A binary tree where the left subtree of a node contains only nodes with values less than the node's value, and the right subtree contains only nodes with values greater than or equal to the node's value.
+  - Balanced binary tree: A binary tree where the height of the left and right subtrees of every node differ by at most one.
+  - AVL tree: A balanced binary search tree where the balance factor of every node is either -1, 0, or 1. The balance factor is the difference between the heights of the left and right subtrees.
+  - Red-black tree: A balanced binary search tree where every node is either red or black, and the following properties hold:
+    - The root is black.
+    - Every leaf is black.
+    - If a node is red, then both its children are black.
+    - Every simple path from a node to a descendant leaf has the same number of black nodes.
+  - B-tree: A tree where each node has a variable number of children, and the following properties hold:
+    - The root has at least two children, unless it is the only node.
+    - Every node except the root and the leaves has at least t children and at most 2t children, where t is a fixed positive integer.
+    - Every leaf has the same depth, which is the height of the tree.
+    - Every node contains at most 2t-1 keys, which are stored in sorted order.
+    - The keys of a node divide the range of keys in its subtrees. For example, if a node has three keys a, b, and c, and four children x, y, z, and w, then all the keys in x are less than a, all the keys in y are between a and b, all the keys in z are between b and c, and all the keys in w are greater than c.
+- Some common operations on trees are:
+  - Traversal: Visiting every node in the tree in a specific order. There are three types of traversal for binary trees:
+    - Preorder: Visit the root, then the left subtree, then the right subtree.
+    - Inorder: Visit the left subtree, then the root, then the right subtree.
+    - Postorder: Visit the left subtree, then the right subtree, then the root.
+  - Search: Finding a node with a given value or key in the tree. The search algorithm depends on the type of the tree. For example, for a binary search tree, we can compare the value with the root, and then recursively search in the left or right subtree depending on the result of the comparison.
+  - Insertion: Adding a new node with a given value or key to the tree. The insertion algorithm depends on the type of the tree. For example, for a binary search tree, we can search for the position where the new node should be inserted, and then link it to its parent. For a B-tree, we may need to split a node if it is full, and then adjust the keys and links accordingly.
+  - Deletion: Removing a node with a given value or key from the tree. The deletion algorithm depends on the type of the tree. For example, for a binary search tree, we can find the node to be deleted, and then replace it with its successor or predecessor, or remove it if it is a leaf. For a B-tree, we may need to merge or redistribute nodes if they become too small, and then adjust the keys and links accordingly.

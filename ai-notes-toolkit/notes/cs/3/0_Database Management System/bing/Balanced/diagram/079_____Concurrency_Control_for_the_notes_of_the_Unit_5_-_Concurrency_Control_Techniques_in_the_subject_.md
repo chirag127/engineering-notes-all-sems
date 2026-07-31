@@ -1,0 +1,17 @@
+### Concurrency Control
+
+Concurrency control is a database management systems (DBMS) concept that is used to address the problems that occur with a multi-user system. Concurrency control, when applied to a DBMS, is meant to coordinate simultaneous transactions while preserving data integrity of the respective databases .
+
+The main objectives of concurrency control are:
+
+- To ensure the **isolation** of transactions, that is, to prevent interference or conflicts between concurrent transactions.
+- To resolve **read-write** and **write-write** conflicts, that is, to handle situations where a transaction reads or writes a data item that is concurrently modified by another transaction.
+- To preserve the **consistency** of the database, that is, to ensure that the execution of concurrent transactions does not violate the integrity constraints of the database.
+- To improve the **performance** of the system, that is, to maximize the throughput and minimize the response time of transactions.
+
+The main techniques of concurrency control are:
+
+- **Lock-based protocols**: These protocols use locks to control the access of transactions to data items. A lock is a mechanism that grants or denies permission to a transaction to read or write a data item. There are different types of locks, such as binary locks, shared/exclusive locks, and multiple granularity locks. Lock-based protocols ensure serializability, but may cause problems such as deadlock, starvation, and cascading rollback .
+- **Timestamp-based protocols**: These protocols use timestamps to order the transactions and determine their precedence. A timestamp is a unique identifier that indicates the time at which a transaction is started. Timestamp-based protocols assign a timestamp to each transaction and each data item, and use them to decide whether a transaction can read or write a data item. Timestamp-based protocols ensure serializability and avoid deadlock, but may cause problems such as abortion, starvation, and cascading rollback .
+- **Validation-based protocols**: These protocols use a validation or certification phase to check whether a transaction can be committed or not. A validation-based protocol divides the execution of a transaction into three phases: read phase, validation phase, and write phase. In the read phase, the transaction reads the data items from the database but does not modify them. In the validation phase, the transaction checks whether it can commit without violating serializability. In the write phase, the transaction writes the modified data items to the database. Validation-based protocols ensure serializability and avoid deadlock, but may cause problems such as abortion, starvation, and wasted work .
+- **Multiversion protocols**: These protocols use multiple versions of data items to allow concurrent transactions to access different versions of the same data item. A multiversion protocol maintains a history of the values of each data item, and assigns a timestamp to each version. A transaction can read the most recent version of a data item that is older than its timestamp, and can write a new version of a data item with its timestamp. Multiversion protocols ensure serializability and avoid write-write conflicts, but may cause problems such as abortion, starvation, and storage overhead .

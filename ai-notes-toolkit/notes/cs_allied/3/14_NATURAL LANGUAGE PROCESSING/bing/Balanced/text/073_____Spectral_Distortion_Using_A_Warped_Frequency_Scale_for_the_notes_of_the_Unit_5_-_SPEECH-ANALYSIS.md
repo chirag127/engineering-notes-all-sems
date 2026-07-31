@@ -1,0 +1,10 @@
+### Spectral Distortion Using A Warped Frequency Scale
+
+- Spectral distortion is the difference between the original and the reconstructed spectra of a speech signal, usually measured in decibels (dB).
+- A warped frequency scale is a nonlinear transformation of the frequency axis that changes the resolution and spacing of the frequency bins.
+- Warping the frequency scale can improve the perceptual accuracy and robustness of spectral analysis and modeling techniques, such as linear prediction (LP) and cepstral analysis.
+- A common example of a warped frequency scale is the Bark scale, which is based on the critical band-rate of the human auditory system. The Bark scale compresses the high frequencies and expands the low frequencies, reflecting the higher sensitivity and resolution of the human ear at lower frequencies.
+- Another example of a warped frequency scale is the Mel scale, which is based on the just noticeable differences in frequency of the human ear. The Mel scale is similar to the Bark scale, but it has a linear segment at low frequencies and a logarithmic segment at high frequencies.
+- To apply a warped frequency scale to spectral analysis, the speech signal is first filtered by a bank of band-pass filters that have center frequencies and bandwidths corresponding to the warped scale. Then, the spectral coefficients are computed from the filtered signal using a suitable technique, such as LP or cepstral analysis.
+- To measure the spectral distortion between the original and the reconstructed spectra on a warped frequency scale, the inverse warping function is applied to the spectral coefficients, and then the distortion is computed in dB using a suitable metric, such as log-spectral distortion or cepstral distortion.
+- The advantage of using a warped frequency scale for spectral distortion measurement is that it can reduce the influence of the harmonic peaks and the spectral tilt of the speech signal, and focus more on the spectral envelope, which is more relevant for speech perception and recognition.

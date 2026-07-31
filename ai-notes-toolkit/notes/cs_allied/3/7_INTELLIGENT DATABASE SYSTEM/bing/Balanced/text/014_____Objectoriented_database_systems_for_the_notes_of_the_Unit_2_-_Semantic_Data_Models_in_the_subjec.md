@@ -1,0 +1,15 @@
+### Object-oriented database systems
+
+- An object-oriented database (OOD) is a database system that can work with complex data objects — that is, objects that mirror those used in object-oriented programming languages .
+- In object-oriented programming (OOP), everything is an object. An object has a unique identity, a state, and a behavior. An object can also have attributes (properties) and methods (functions) that define its characteristics and operations .
+- An object-oriented database system (OODS) is a database management system (DBMS) that supports the modelling and creation of data as objects. An OODS allows users to define, store, manipulate, and query objects in a database .
+- An OODS differs from a relational database system (RDBS) in several ways. An RDBS is based on the relational model, which organizes data into tables (relations) of rows (tuples) and columns (attributes). An RDBS uses structured query language (SQL) to manipulate data in tables .
+- Some of the advantages of an OODS over an RDBS are :
+  - An OODS can handle complex data types, such as multimedia, spatial, temporal, and graphical data, that are difficult to represent in tables.
+  - An OODS can preserve the integrity and consistency of objects by enforcing encapsulation, inheritance, and polymorphism. Encapsulation means that an object's state and behavior are hidden from other objects. Inheritance means that an object can inherit the attributes and methods of another object. Polymorphism means that an object can behave differently depending on the context.
+  - An OODS can improve the performance and scalability of applications by avoiding the impedance mismatch problem. Impedance mismatch is the difference between the object-oriented model and the relational model, which requires mapping objects to tables and vice versa. This mapping can be costly and error-prone.
+  - An OODS can support object-oriented features, such as classes, methods, constructors, destructors, overloading, overriding, and exceptions, that are not available in SQL.
+- Some of the disadvantages of an OODS over an RDBS are :
+  - An OODS is less mature and standardized than an RDBS. There are fewer OODS products and tools available in the market, and they may not interoperate well with each other or with existing RDBS systems.
+  - An OODS may have lower query efficiency and optimization than an RDBS. An OODS may not support declarative queries, such as SQL, that can be easily optimized by the DBMS. An OODS may rely on navigational queries, such as object traversal, that can be more complex and time-consuming.
+  - An OODS may have lower data independence and security than an RDBS. Data independence means that the logical structure of data is independent of its physical storage and implementation. Data security means that the access and manipulation of data are controlled by the DBMS. An OODS may expose more details of the data objects and their implementation to the users, which can compromise data independence and security.

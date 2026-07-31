@@ -1,0 +1,21 @@
+### Feature structures for the notes of the Unit 3 - SYNTACTIC ANALYSIS in the subject of Natural Language Processing
+
+- Natural Language Processing (NLP) is a branch of artificial intelligence that attempts to bridge the gap between what a machine recognizes as input and the human language.
+- NLP combines artificial intelligence, computational linguistics and machine learning to enable computers and humans to communicate seamlessly.
+- NLP can be divided into three main tasks: speech recognition, natural language understanding and natural language generation.
+- Speech recognition is the translation of spoken language into text.
+- Natural language understanding (NLU) is the computer's ability to understand what we say.
+- Natural language generation (NLG) is the generation of natural language by a computer.
+- Syntactic analysis is a subtask of NLU that deals with the structure and rules of language.
+- Syntactic analysis involves parsing sentences into their constituent parts and assigning grammatical roles and relations to them.
+- Syntactic analysis can be done using different types of grammars, such as context-free grammars, dependency grammars and feature-based grammars.
+- Feature-based grammars are a type of grammars that use features to describe the properties and constraints of linguistic units, such as words, phrases and sentences.
+- Features are attributes that have values, such as number, gender, case, tense, mood, etc.
+- Feature structures are representations of features and their values, usually in the form of attribute-value matrices (AVMs).
+- Feature structures can be used to encode various kinds of linguistic information, such as morphology, syntax, semantics and pragmatics.
+- Feature structures can also be used to model agreement, subcategorization, selectional restrictions, anaphora resolution and other phenomena that require complex interactions between linguistic units.
+- Feature structures can be manipulated using the operation of unification, which allows us to combine the information contained in two different feature structures.
+- Unification is the process of finding a feature structure that is compatible with both input feature structures, or failing if there is no such feature structure.
+- Unification can be used to check the well-formedness of sentences, to resolve ambiguities, to infer missing information and to generate output sentences.
+- Feature-based grammars can be implemented using various formalisms, such as Head-Driven Phrase Structure Grammar (HPSG), Lexical Functional Grammar (LFG) and Tree Adjoining Grammar (TAG).
+- Feature-based grammars can be processed using various tools, such as the Natural Language Toolkit (NLTK), which provides a module for building and manipulating feature structures in Python.

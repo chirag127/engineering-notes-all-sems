@@ -1,0 +1,10 @@
+### Hardware Controls for Augmented and Virtual Reality
+
+- Hardware controls are the devices and components that enable users to interact with augmented and virtual reality applications and environments.
+- Hardware controls can be classified into three main categories: input, output, and tracking.
+- Input controls are the devices that allow users to provide commands, gestures, and feedback to the system. Examples of input controls are keyboards, mice, gamepads, touchscreens, voice recognition, eye tracking, and motion controllers .
+- Output controls are the devices that display the augmented and virtual reality content to the users. Examples of output controls are monitors, projectors, head-mounted displays (HMDs), smart glasses, and audio devices  .
+- Tracking controls are the devices that measure the position and orientation of the users and the objects in the environment. Examples of tracking controls are cameras, sensors, gyroscopes, accelerometers, and GPS  .
+- Hardware controls can vary in their level of immersion, realism, and interactivity. Immersion refers to the degree to which the user feels present in the virtual or augmented environment. Realism refers to the degree to which the virtual or augmented content matches the real world. Interactivity refers to the degree to which the user can manipulate and affect the virtual or augmented content.
+- Hardware controls can also vary in their compatibility and availability. Compatibility refers to the degree to which the hardware controls can work with different platforms, applications, and standards. Availability refers to the degree to which the hardware controls are accessible, affordable, and user-friendly .
+- Hardware controls are constantly evolving and improving to provide better augmented and virtual reality experiences. Some of the current trends and challenges in hardware controls are: using artificial intelligence to enhance 3D displays and rendering, developing wireless and standalone HMDs and controllers , integrating haptic and olfactory feedback, and creating mixed reality devices that combine virtual and augmented reality .

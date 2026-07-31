@@ -1,0 +1,22 @@
+# Counting Oneness in a Window
+
+- Counting oneness in a window is a problem of estimating the number of 1's in the last k bits of a data stream, where k is a large number that cannot be stored in memory.
+- One possible solution is to use the DGIM algorithm, which uses O(log2 N) bits to represent a window of N bits, and allows us to estimate the number of 1's in the window with an error of no more than 50% .
+- The DGIM algorithm works as follows:
+  - Each bit of the stream has a timestamp, the position in which it arrives. The first bit has timestamp 1, the second has timestamp 2, and so on.
+  - The algorithm divides the window into buckets, each consisting of:
+    - The timestamp of its right (most recent) end.
+    - The number of 1's in the bucket.
+  - The algorithm maintains the following invariants for the buckets:
+    - There are at most two buckets with the same number of 1's.
+    - The buckets are ordered by their timestamps, from left (oldest) to right (most recent).
+    - The number of 1's in a bucket is a power of 2.
+  - When a new bit arrives, the algorithm updates the buckets as follows:
+    - If the new bit is 0, it is ignored.
+    - If the new bit is 1, it forms a new bucket with timestamp equal to the current position and number of 1's equal to 1.
+    - If there are now three buckets with the same number of 1's, the two rightmost buckets are merged into one, with the timestamp of the rightmost bucket and the number of 1's equal to the sum of the two buckets.
+    - If the oldest bit in the window is 1, the oldest bucket is dropped.
+  - To estimate the number of 1's in the last k bits, the algorithm does the following:
+    - Find the rightmost bucket whose timestamp is at least k positions from the current position.
+    - Sum the number of 1's in all the buckets to the right of this bucket, and add half of the number of 1's in this bucket.
+    - This sum is an approximation of the number of 1's in the last k bits, with an error of at most 50%.

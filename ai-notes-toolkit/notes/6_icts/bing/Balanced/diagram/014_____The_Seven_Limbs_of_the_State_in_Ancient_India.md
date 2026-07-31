@@ -1,0 +1,11 @@
+The Seven Limbs of the State in Ancient India
+
+The seven limbs of the state (saptanga) were the essential components of a political system according to Kautilya, the author of Arthashastra, a treatise on statecraft and governance in ancient India. The seven limbs were:
+
+- King (swamin): The king was the supreme authority and the head of the state. He was responsible for maintaining peace, justice, and stability in the realm. He was expected to be virtuous, wise, brave, and benevolent. He was assisted by a council of ministers and advisors.
+- Minister (amatya): The minister was the chief executive officer of the state. He was in charge of the administration, taxation, law and order, and foreign affairs. He was expected to be loyal, efficient, skilled, and experienced. He was selected by the king based on merit and ability.
+- Territory (janapada): The territory was the land and the people of the state. It was the source of revenue, resources, and manpower for the state. It was expected to be fertile, prosperous, and populous. It was protected by the fort and the army.
+- Fort (durga): The fort was the defensive structure of the state. It was the place where the king, the minister, and the treasury were located. It was expected to be strong, secure, and well-equipped. It was built in strategic locations such as mountains, forests, or islands.
+- Treasury (kosa): The treasury was the financial resource of the state. It was the accumulation of taxes, tributes, fines, and spoils of war. It was expected to be abundant, well-managed, and well-spent. It was used for the maintenance of the state, the welfare of the people, and the expansion of the territory.
+- Army (danda): The army was the coercive power of the state. It was the force that enforced the law, defended the territory, and subdued the enemies. It was expected to be disciplined, trained, and loyal. It was composed of four branches: infantry, cavalry, chariots, and elephants.
+- Ally (mitra): The ally was the external support of the state. It was the friendly state that shared common interests, values, and enemies with the state. It was expected to be reliable, trustworthy, and helpful. It was formed by treaties, marriages, or gifts.

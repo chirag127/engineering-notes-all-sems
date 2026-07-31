@@ -1,0 +1,10 @@
+# Code for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication
+
+- Dimensions of oral communication are the aspects that affect the effectiveness and quality of spoken messages.
+- Voice dynamics are the features of voice that convey meaning, emotion, and personality, such as pitch, tone, volume, rate, and pauses.
+- The main topics covered in this unit are:
+
+  - Code and content: The code is the system of symbols, signs, or words that are used to communicate a message. The content is the meaning or information that is conveyed by the code. For example, in oral communication, the code is the language and the content is the message.
+  - Stimulus and response: The stimulus is the event or situation that triggers a communication. The response is the reaction or feedback that is given by the receiver of the communication. For example, in oral communication, the stimulus can be a question, a request, or a statement, and the response can be an answer, an agreement, or a disagreement.
+  - Encoding and decoding: Encoding is the process of converting the content into a code that can be transmitted and understood by the receiver. Decoding is the process of interpreting the code and extracting the content from the message. For example, in oral communication, encoding is the process of choosing the words, phrases, and sentences that express the message, and decoding is the process of listening, comprehending, and evaluating the message.
+  - Pronunciation, syllables, vowel sounds, and consonant sounds: Pronunciation is the way of producing the sounds of a language. Syllables are the units of sound that make up a word. Vowel sounds are the sounds that are produced by the vibration of the vocal cords without any obstruction in the mouth. Consonant sounds are the sounds that are produced by the partial or complete closure of the air passage in the mouth. For example, in oral communication, pronunciation, syllables, vowel sounds, and consonant sounds affect the clarity, accuracy, and intelligibility of the message.

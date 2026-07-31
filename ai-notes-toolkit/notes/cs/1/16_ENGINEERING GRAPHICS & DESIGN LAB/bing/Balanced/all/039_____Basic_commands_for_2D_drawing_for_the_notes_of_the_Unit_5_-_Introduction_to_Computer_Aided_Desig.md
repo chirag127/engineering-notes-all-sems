@@ -1,0 +1,15 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the Unit 5 - Introduction to Computer Aided Design in the subject of Engineering Graphics & Design Lab. Here are some basic commands for 2D drawing:
+
+# Basic commands for 2D drawing
+
+- **LINE**: This command is used to draw straight lines between two points. You can specify the start and end points of the line by clicking on the screen or entering the coordinates. You can also draw multiple lines by entering more points after the first line is drawn. To end the command, press Enter or Esc.
+
+- **CIRCLE**: This command is used to draw circles with a given radius or diameter. You can specify the center point of the circle by clicking on the screen or entering the coordinates. You can also specify the radius or diameter of the circle by entering a value or clicking on another point on the screen. To end the command, press Enter or Esc.
+
+- **ARC**: This command is used to draw arcs with a given radius, angle, or length. You can specify the start point of the arc by clicking on the screen or entering the coordinates. You can then specify the end point of the arc by entering an angle, a length, or clicking on another point on the screen. You can also specify the center point of the arc by entering a third point or using the Center option. To end the command, press Enter or Esc.
+
+- **RECTANGLE**: This command is used to draw rectangles with a given length and width. You can specify the first corner point of the rectangle by clicking on the screen or entering the coordinates. You can then specify the opposite corner point of the rectangle by entering a value or clicking on another point on the screen. You can also specify the length and width of the rectangle by using the Dimensions option. To end the command, press Enter or Esc.
+
+- **POLYGON**: This command is used to draw regular polygons with a given number of sides and radius. You can specify the center point of the polygon by clicking on the screen or entering the coordinates. You can then specify the number of sides of the polygon by entering a value or using the up and down arrow keys. You can also specify the radius of the polygon by entering a value or clicking on another point on the screen. To end the command, press Enter or Esc.
+
+- **ELLIPSE**: This command is used to draw ellipses with a given axis ratio and rotation angle. You can specify the center point of the ellipse by clicking on the screen or entering the coordinates. You can then specify the endpoint of the first axis of the ellipse by entering a value or clicking on another point on the screen. You can also specify the endpoint of the second axis of the ellipse by entering a value, a ratio, or clicking on another point on the screen. You can also specify the rotation angle of the ellipse by entering a value or using the Rotate option. To end the command, press Enter or Esc.

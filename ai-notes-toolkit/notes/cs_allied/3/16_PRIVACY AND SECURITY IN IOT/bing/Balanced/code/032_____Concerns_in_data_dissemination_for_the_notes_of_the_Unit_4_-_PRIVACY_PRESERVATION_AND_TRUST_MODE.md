@@ -1,0 +1,8 @@
+### Concerns in data dissemination for IoT
+
+- Data dissemination is the process of distributing and sharing data among different entities in a network, such as IoT devices, cloud servers, and end-users.
+- Data dissemination for IoT involves various challenges and concerns, such as:
+  - Security: IoT devices are more prone to attacks because of their interconnectivity to the Internet. Secure data dissemination schemes need to ensure the confidentiality, integrity, and availability of the data, as well as the authentication and authorization of the entities involved.
+  - Privacy: IoT devices collect and transmit sensitive and personal data, such as location, health, and behavior, which may be accessed by unauthorized parties or used for malicious purposes. Privacy-preserving data dissemination schemes need to protect the identity and preferences of the data owners and users, as well as the content and context of the data.
+  - Reliability: IoT devices operate in dynamic and heterogeneous environments, where network conditions, device availability, and data quality may vary. Reliable data dissemination schemes need to ensure the delivery and accuracy of the data, as well as the fault tolerance and resilience of the network.
+  - Efficiency: IoT devices have limited resources, such as battery, memory, and bandwidth, which may affect their performance and functionality. Efficient data dissemination schemes need to optimize the use of the resources, as well as the network latency and overhead.

@@ -1,0 +1,15 @@
+### Learning Models for Reinforcement Learning
+
+Reinforcement learning is a type of machine learning that enables an agent to learn from its own actions and rewards in an environment. The agent and the environment interact in a sequence of time steps, and the agent aims to maximize the cumulative reward over time.
+
+There are two important learning models in reinforcement learning:
+
+- **Markov Decision Process (MDP)**: This is a mathematical framework that models the agent-environment interaction as a discrete-time stochastic control process. An MDP is defined by a set of states, a set of actions, a transition function that gives the probability of reaching a new state given the current state and action, and a reward function that gives the immediate reward for each state-action pair.
+- **Q-learning**: This is a model-free reinforcement learning algorithm that learns a value function that estimates the expected future reward for each state-action pair. The agent updates the value function using a learning rate and a discount factor, and follows an exploration-exploitation trade-off strategy to balance between exploiting the current knowledge and exploring new actions.
+
+Some other learning models for reinforcement learning are:
+
+- **State-action-reward-state-action (SARSA)**: This is a model-free reinforcement learning algorithm that is similar to Q-learning, but it updates the value function using the next action that the agent actually takes, rather than the optimal action. This makes it an on-policy algorithm, meaning that it learns the value function for the current policy that the agent follows.
+- **Deep Q-Networks (DQN)**: These are neural networks that approximate the Q-learning value function using deep learning techniques. DQN can handle high-dimensional and complex state and action spaces, and use various tricks such as experience replay, target networks, and double Q-learning to improve the stability and performance of the learning process.
+- **Model-Based Policy Optimization (MBPO)**: This is a model-based reinforcement learning algorithm that uses a probabilistic neural network to learn a dynamics model of the environment, and then uses this model to generate synthetic data for training a policy network. MBPO can achieve the same performance as the best model-free algorithms, but with much less data and computational resources.
+- **Structured State Space Sequence (S4)**: This is a model-based reinforcement learning algorithm that uses a variant of S4, a recurrent neural network that can model long-range dependencies in sequential data, to learn a state space model of the environment. S4 can initialize and reset the hidden state in parallel, and use a latent variable to capture the uncertainty in the state transitions. S4 can handle complex and partially observable environments, and learn policies that generalize well to new contexts.

@@ -1,0 +1,26 @@
+# Decision Tables in Software Requirement Specification (SRS)
+
+- A decision table is a tabular representation of several input values, cases, rules, and test conditions  .
+- A decision table is a highly effective tool utilized for both requirements management and complex software testing .
+- A decision table helps to check and verify all possible combinations of testing conditions and to identify missed conditions easily .
+- A decision table can also be represented as decision trees or in a programming language using if-then-else and switch-case statements.
+- A decision table consists of four quadrants: condition stubs, action stubs, condition entries, and action entries .
+- Condition stubs are the input values or conditions that affect the actions or outcomes .
+- Action stubs are the actions or outcomes that depend on the conditions .
+- Condition entries are the possible values or states of the condition stubs .
+- Action entries are the actions or outcomes that are executed for each combination of condition entries .
+- A decision table can have different types of condition entries, such as boolean (Y/N), multiple values (A/B/C), or ranges (1-10) .
+- A decision table can have different types of action entries, such as single (X), multiple (X/Y/Z), or conditional (X if Y) .
+- A decision table can have different formats, such as limited entry, extended entry, or mixed entry .
+- A decision table can have different levels of complexity, such as simple, complex, or nested .
+- A decision table can have different methods of simplification, such as dominance, consistency, completeness, or minimality .
+- A decision table can have different advantages, such as clarity, completeness, consistency, traceability, and testability .
+- A decision table can have different disadvantages, such as redundancy, complexity, maintenance, and scalability .
+- A decision table can be used for different purposes, such as defining business rules, specifying functional requirements, designing test cases, and verifying test results .
+- A decision table can be created using different steps, such as identifying conditions and actions, defining condition entries and action entries, simplifying the table, and validating the table .
+- A decision table can be illustrated using different examples, such as loan eligibility, discount calculation, ATM withdrawal, and flight booking .
+- A decision table can be integrated with a software requirement specification (SRS) document, which is a document that describes what the software will do and how it will be expected to perform.
+- A decision table can be included in the SRS document as a part of the functional requirements section, which describes the functionality the product needs to fulfill the needs of all stakeholders.
+- A decision table can be referenced in the SRS document using a unique identifier, a title, and a description.
+- A decision table can be linked to the SRS document using traceability matrices, which show the relationships between the requirements and the decision tables.
+- A decision table can be updated in the SRS document using change management processes, which ensure that the changes are consistent, documented, and approved.

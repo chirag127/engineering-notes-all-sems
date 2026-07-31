@@ -1,0 +1,23 @@
+### Digital sensors for the notes of the Unit 2 - Hardware for IoT in the subject of Internet of Things
+
+- Digital sensors are pieces of hardware that detect changes in an environment and collect data in a digital format .
+- Digital sensors are connected to a network, such as the Internet of Things (IoT), and share data with the network .
+- Digital sensors are used in various applications, such as consumer devices, industry 4.0, medical applications, smart cities, smart homes, and more  .
+- Some examples of digital sensors are:
+  - Temperature sensors: measure the heat or cold of an object or environment .
+  - Pressure sensors: measure the force exerted by a fluid or gas on a surface .
+  - Motion sensors: detect the movement or presence of an object or person .
+  - Light sensors: measure the intensity or brightness of light .
+  - Humidity sensors: measure the amount of water vapor in the air .
+  - Gas sensors: detect the presence or concentration of a specific gas .
+  - Sound sensors: measure the level or frequency of sound waves .
+  - Radar sensors: use electromagnetic waves to detect the distance, speed, or angle of an object.
+  - Environmental sensors: measure various parameters of the environment, such as air quality, weather, or soil moisture .
+- Digital sensors have some advantages over analog sensors, such as:
+  - Higher accuracy and resolution.
+  - Easier integration and communication with IoT microcontrollers and devices.
+  - Lower power consumption and cost.
+- Digital sensors also have some challenges, such as:
+  - Interference and noise from other sources.
+  - Calibration and maintenance requirements.
+  - Security and privacy risks.

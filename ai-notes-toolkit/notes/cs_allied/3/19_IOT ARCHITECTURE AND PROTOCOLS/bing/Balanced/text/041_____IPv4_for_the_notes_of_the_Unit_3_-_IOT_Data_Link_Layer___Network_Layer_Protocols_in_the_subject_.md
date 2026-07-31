@@ -1,0 +1,21 @@
+### IPv4
+
+- IPv4 stands for Internet Protocol version 4, which is the fourth version in the development of the Internet Protocol (IP) and the first version of the protocol to be widely deployed.
+- IPv4 is a connectionless protocol that operates on the network layer of the OSI model and the internet layer of the TCP/IP model.
+- IPv4 uses 32-bit binary numbers to create a single unique address on the network, which can be represented by four decimal numbers separated by dots, also called dotted decimal notation.
+- For example, an IPv4 address can be written as 192.168.0.1, where each number is between 0 and 255.
+- IPv4 addresses are divided into two parts: network ID and host ID, which identify the network and the device within the network respectively.
+- IPv4 addresses are also classified into five classes: A, B, C, D, and E, based on the first four bits of the address and the size of the network and host ID.
+- Class A addresses have the first bit as 0, and can support up to 126 networks and 16,777,214 hosts per network.
+- Class B addresses have the first two bits as 10, and can support up to 16,384 networks and 65,534 hosts per network.
+- Class C addresses have the first three bits as 110, and can support up to 2,097,152 networks and 254 hosts per network.
+- Class D addresses have the first four bits as 1110, and are reserved for multicast purposes.
+- Class E addresses have the first four bits as 1111, and are reserved for experimental purposes.
+- IPv4 supports various types of addresses, such as unicast, broadcast, multicast, anycast, and geocast, which are used for different purposes and scenarios.
+- Unicast addresses are used to identify a single device on the network and deliver packets to that device only.
+- Broadcast addresses are used to identify all devices on the network and deliver packets to all of them simultaneously.
+- Multicast addresses are used to identify a group of devices on the network and deliver packets to only those devices that belong to the group.
+- Anycast addresses are used to identify multiple devices on the network that provide the same service and deliver packets to the nearest or best device among them.
+- Geocast addresses are used to identify a geographical area on the network and deliver packets to all devices within that area.
+- IPv4 has a header of 20 bytes, which contains 12 fields that provide various information about the packet, such as source and destination addresses, version, length, type of service, identification, flags, fragment offset, time to live, protocol, header checksum, and options.
+- IPv4 has some limitations, such as the exhaustion of address space, lack of security, and fragmentation issues, which led to the development of IPv6, the next generation of IP.

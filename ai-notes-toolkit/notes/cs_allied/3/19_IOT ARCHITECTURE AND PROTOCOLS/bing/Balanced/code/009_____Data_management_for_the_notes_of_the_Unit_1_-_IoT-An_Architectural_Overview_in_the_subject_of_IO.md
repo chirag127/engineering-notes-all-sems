@@ -1,0 +1,12 @@
+### Data management for the notes of the Unit 1 - IoT-An Architectural Overview in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+Data management is the process of collecting, storing, processing, and analyzing data from various sources, such as sensors, devices, applications, and networks, in order to generate insights and value for the business or organization. Data management is a crucial aspect of the Internet of Things (IoT), which is the network of physical objects that are embedded with sensors, software, and other technologies to connect and exchange data with other devices and systems over the Internet.
+
+Some of the key points to consider for data management for IoT are:
+
+- Identify the business needs and objectives for implementing IoT and how it will benefit the organization. For example, IoT can help improve operational efficiency, customer satisfaction, product quality, safety, and sustainability.
+- Ensure that the network connectivity is reliable, secure, and scalable to support the data transmission and communication between the IoT devices and the cloud or edge platforms. Network connectivity can be achieved through various protocols, such as Wi-Fi, Bluetooth, Zigbee, LoRaWAN, or cellular networks.
+- Set up connectivity to the right platform that can handle the data ingestion, storage, processing, and analysis for IoT. The platform can be cloud-based, edge-based, or hybrid, depending on the latency, bandwidth, security, and cost requirements. The platform should also provide tools and services for data integration, quality, governance, and security.
+- Assign roles and responsibilities for data collection and analysis, such as data engineers, data scientists, data analysts, and business users. Data collection and analysis can involve various methods and techniques, such as data cleansing, filtering, aggregation, transformation, visualization, and machine learning.
+- Analyze data to generate insights and actions that can improve the performance, efficiency, and value of the IoT system. Data analysis can help identify patterns, trends, anomalies, and correlations in the data, and provide recommendations, predictions, and alerts for decision making and optimization.
+- Review and update the data management strategy regularly to ensure that it meets the changing needs and expectations of the organization and the IoT system. Data management strategy should be aligned with the business goals and objectives, and should be flexible and adaptable to the evolving technologies and standards of IoT.

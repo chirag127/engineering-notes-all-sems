@@ -1,0 +1,22 @@
+### File Transfer Protocol
+
+- File Transfer Protocol (FTP) is a standard communication protocol used for the transfer of computer files from a server to a client on a computer network.
+- FTP is built on a client–server model architecture using separate control and data connections between the client and the server.
+- The control connection is used to authenticate the user and send commands, while the data connection is used to transfer the files.
+- FTP can operate in two modes: active and passive.
+  - In active mode, the client starts listening for incoming data connections from the server on a specific port.
+  - In passive mode, the client initiates the data connection to the server on a random port.
+- FTP can transfer files in two modes: binary and ASCII.
+  - In binary mode, the files are transferred as raw data without any conversion.
+  - In ASCII mode, the files are converted to a standard text format before transferring.
+- FTP can support various types of file operations, such as uploading, downloading, renaming, deleting, and listing files and directories.
+- FTP can also support resume and append features, which allow the user to resume an interrupted transfer or append data to an existing file.
+- FTP is widely used for transferring files over the Internet and between computer systems, but it has some limitations and security risks .
+  - FTP does not encrypt the data or the credentials, which makes it vulnerable to eavesdropping, tampering, and spoofing attacks .
+  - FTP does not support compression, encryption, authentication, or integrity verification of the transferred files .
+  - FTP does not handle network errors, timeouts, or interruptions gracefully, which can result in corrupted or incomplete transfers .
+- To overcome these limitations and risks, various extensions and alternatives to FTP have been developed, such as FTPS, SFTP, SCP, and WebDAV .
+  - FTPS is FTP with SSL/TLS encryption, which adds security and privacy to the FTP protocol.
+  - SFTP is SSH File Transfer Protocol, which uses the Secure Shell (SSH) protocol to provide file access, file transfer, and file management over any reliable data stream.
+  - SCP is Secure Copy Protocol, which is a subset of SFTP that only supports file transfer over SSH.
+  - WebDAV is Web Distributed Authoring and Versioning, which is an extension of the HTTP protocol that allows users to collaboratively edit and manage files on remote web servers.

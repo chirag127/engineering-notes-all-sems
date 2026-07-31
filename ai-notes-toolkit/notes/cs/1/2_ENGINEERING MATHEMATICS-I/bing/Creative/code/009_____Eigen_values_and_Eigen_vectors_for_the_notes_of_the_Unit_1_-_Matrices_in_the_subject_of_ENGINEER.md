@@ -1,0 +1,21 @@
+# Eigenvalues and Eigenvectors
+
+- Eigenvalues and eigenvectors are concepts related to linear transformations of vector spaces.
+- A linear transformation is a function that maps vectors to vectors, such that the sum and scalar multiplication of vectors are preserved.
+- A matrix is a rectangular array of numbers that can represent a linear transformation by multiplying it with a vector.
+- An eigenvector of a matrix is a nonzero vector that does not change its direction when multiplied by the matrix. It may only change its length or sign.
+- An eigenvalue of a matrix is a scalar that corresponds to an eigenvector. It is the factor by which the eigenvector is scaled when multiplied by the matrix.
+- Geometrically, an eigenvector points in a direction that is invariant under the linear transformation, and the eigenvalue is the amount of stretching or shrinking in that direction.
+- Mathematically, an eigenvector **v** and an eigenvalue **λ** of a matrix **A** satisfy the equation **Av = λv**.
+- To find the eigenvalues and eigenvectors of a matrix, one can solve the characteristic equation **det(A - λI) = 0**, where **I** is the identity matrix and **det** is the determinant function.
+- The characteristic equation is a polynomial of degree **n**, where **n** is the size of the matrix. Therefore, there are at most **n** distinct eigenvalues for a matrix.
+- The eigenvectors corresponding to a given eigenvalue can be found by solving the system of linear equations **(A - λI)v = 0**.
+- Some properties of eigenvalues and eigenvectors are:
+  - If **A** is triangular, then the diagonal elements of **A** are the eigenvalues of **A**.
+  - If **λ** is an eigenvalue of **A** with eigenvector **v**, then **1/λ** is an eigenvalue of **A**<sup>-1</sup> with eigenvector **v**.
+  - If **λ** is an eigenvalue of **A** then **λ** is an eigenvalue of **A**<sup>T</sup>, where **T** denotes the transpose operation.
+  - The sum of the eigenvalues of **A** is equal to the trace of **A**, which is the sum of the diagonal elements of **A**.
+  - The product of the eigenvalues of **A** is equal to the determinant of **A**.
+  - If **A** and **B** are similar matrices, meaning that **A = PBP**<sup>-1</sup> for some invertible matrix **P**, then they have the same eigenvalues.
+  - If **A** is symmetric, meaning that **A = A**<sup>T</sup>, then its eigenvalues are real and its eigenvectors are orthogonal, meaning that they are perpendicular to each other.
+  - If **A** is positive definite, meaning that **x**<sup>T</sup>**Ax** > 0 for any nonzero vector **x**, then its eigenvalues are positive and its eigenvectors are linearly independent, meaning that they span the whole vector space.

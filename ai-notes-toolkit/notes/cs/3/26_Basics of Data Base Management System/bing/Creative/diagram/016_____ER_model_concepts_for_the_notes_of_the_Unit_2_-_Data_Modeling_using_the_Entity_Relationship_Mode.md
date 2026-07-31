@@ -1,0 +1,22 @@
+### ER model concepts
+
+- The ER model is a conceptual data model that describes the entities, attributes, and relationships in a database .
+- An entity is a real-world object or concept that can be identified by a unique identifier and has some properties . For example, a student entity can have attributes such as name, roll number, age, etc.
+- An entity type is a collection of entities that share the same attributes and can be represented by a rectangle in an ER diagram . For example, student is an entity type that contains all the student entities in a database.
+- An entity set is a subset of an entity type that contains the entities that participate in a particular relationship. For example, enrolled is an entity set that contains the students who are enrolled in a course.
+- A relationship is an association among two or more entities that expresses a logical connection or dependency . For example, enrolled is a relationship that connects the student and course entities.
+- A relationship type is a collection of relationships that share the same meaning and can be represented by a diamond in an ER diagram . For example, enrolled is a relationship type that contains all the enrolled relationships in a database.
+- A relationship set is a subset of a relationship type that contains the relationships that involve a particular entity set. For example, enrolled is a relationship set that contains the enrolled relationships that involve the student entity set.
+- An attribute is a property or characteristic of an entity or a relationship and can be represented by an oval in an ER diagram . For example, name is an attribute of the student entity and grade is an attribute of the enrolled relationship.
+- An attribute can be classified into different types based on its value and role in the ER model. Some of the common types are:
+  - Key attribute: An attribute that uniquely identifies an entity or a relationship and is underlined in an ER diagram. For example, roll number is a key attribute of the student entity and course code is a key attribute of the course entity.
+  - Composite attribute: An attribute that can be divided into smaller sub-attributes and is represented by an oval with ovals inside it. For example, address is a composite attribute of the student entity that can be divided into street, city, state, etc.
+  - Multivalued attribute: An attribute that can have more than one value for a given entity or relationship and is represented by a double oval. For example, phone number is a multivalued attribute of the student entity.
+  - Derived attribute: An attribute that can be derived from other attributes and is represented by a dashed oval. For example, age is a derived attribute of the student entity that can be calculated from the date of birth attribute.
+- A relationship can also have different types based on its degree, cardinality, and participation. Some of the common types are:
+  - Unary relationship: A relationship that involves only one entity type and is represented by a loop in an ER diagram. For example, manages is a unary relationship that connects the employee entity to itself.
+  - Binary relationship: A relationship that involves two entity types and is represented by a line in an ER diagram. For example, enrolled is a binary relationship that connects the student and course entity types.
+  - Ternary relationship: A relationship that involves three entity types and is represented by a triangle in an ER diagram. For example, works on is a ternary relationship that connects the employee, project, and department entity types.
+  - One-to-one relationship: A relationship that has a one-to-one cardinality, meaning that each entity in one entity set can be related to at most one entity in another entity set and vice versa. For example, married to is a one-to-one relationship that connects the person entity type to itself.
+  - One-to-many relationship: A relationship that has a one-to-many cardinality, meaning that each entity in one entity set can be related to many entities in another entity set, but each entity in the other entity set can be related to at most one entity in the first entity set. For example, teaches is a one-to-many relationship that connects the instructor and course entity types.
+  - Many-to-many relationship: A relationship that has a many-to-many cardinality, meaning that each entity in one entity set can be related to many entities in another entity set and vice versa. For example, enrolled is a many-to-many relationship that connects

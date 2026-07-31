@@ -1,0 +1,12 @@
+### Other Relevant Architectural Views for IoT
+
+- Apart from the functional view, which describes the components and interactions of an IoT system, there are other relevant architectural views that can help to understand and design IoT systems at different levels of abstraction and perspectives.
+- Some of the other architectural views are:
+
+  - **Contextual view**: This view shows the context and scope of the IoT system, including the stakeholders, goals, requirements, and boundaries. It helps to identify the purpose and value proposition of the IoT system, as well as the assumptions and constraints that affect its design and implementation. 
+  - **Conceptual view**: This view shows the high-level concepts and principles that guide the design of the IoT system, such as the data model, the communication paradigm, the security and privacy policies, and the governance model. It helps to establish a common vocabulary and understanding among the stakeholders, and to align the IoT system with the business and technical objectives. 
+  - **Logical view**: This view shows the logical structure and behavior of the IoT system, such as the entities, relationships, processes, and rules that define the system's functionality and logic. It helps to specify the requirements and constraints of the IoT system, and to design the system's architecture and components. 
+  - **Physical view**: This view shows the physical deployment and configuration of the IoT system, such as the devices, networks, platforms, and services that constitute the system's infrastructure and resources. It helps to implement, deploy, and operate the IoT system, and to optimize its performance, scalability, and reliability. 
+  - **Operational view**: This view shows the operational aspects and characteristics of the IoT system, such as the monitoring, management, maintenance, and evolution of the system's components and processes. It helps to ensure the quality and availability of the IoT system, and to address the challenges and risks that arise during its lifecycle. 
+
+- These views are not mutually exclusive, but rather complementary and interrelated. They can be used to describe different aspects and perspectives of the same IoT system, or to compare and contrast different IoT systems. They can also be refined and extended according to the specific needs and preferences of the stakeholders and the domain of the IoT system.

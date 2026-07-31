@@ -1,0 +1,30 @@
+## Unit 4 - Symbol Tables
+
+- A symbol table is a data structure that stores information about the identifiers (symbols) used in a program, such as variables, constants, functions, etc.
+- A symbol table is usually implemented as a hash table, a binary search tree, or a linked list, depending on the trade-off between search time and insertion time.
+- A symbol table supports the following operations:
+  - Insert: add a new symbol and its attributes to the table
+  - Lookup: find the attributes of a given symbol in the table
+  - Delete: remove a symbol and its attributes from the table
+- A symbol table is used by the compiler or interpreter to perform various tasks, such as:
+  - Lexical analysis: recognize the tokens in the source code and assign them to the corresponding symbols
+  - Syntax analysis: check the grammatical structure of the source code and build a parse tree
+  - Semantic analysis: check the meaning and validity of the source code and annotate the parse tree with type information
+  - Code generation: translate the source code into executable code and allocate memory for the symbols
+- A symbol table may have different scopes, depending on the visibility and lifetime of the symbols. For example:
+  - Global scope: the symbols are visible and accessible throughout the program
+  - Local scope: the symbols are visible and accessible only within a specific block or function
+  - Nested scope: the symbols are visible and accessible within a block or function and its inner blocks or functions
+- A symbol table may have different levels, depending on the abstraction and granularity of the symbols. For example:
+  - Program level: the symbols are the names of the modules, classes, functions, etc. in the program
+  - Class level: the symbols are the names of the fields, methods, constructors, etc. in a class
+  - Function level: the symbols are the names of the parameters, local variables, etc. in a function
+- A symbol table may have different attributes, depending on the information needed for the symbols. For example:
+  - Name: the identifier of the symbol
+  - Type: the data type of the symbol
+  - Address: the memory location of the symbol
+  - Scope: the visibility and lifetime of the symbol
+  - Value: the initial or current value of the symbol
+  - Size: the amount of memory allocated for the symbol
+  - Offset: the relative position of the symbol within a structure or an array
+  - Reference: the number of times the symbol is used in the program

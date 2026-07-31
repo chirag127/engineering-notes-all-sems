@@ -1,0 +1,24 @@
+#### Inheritance in Scala
+
+- Inheritance is a mechanism that allows a class to inherit the features and behavior of another class.
+- The class that inherits is called the **subclass** or the **derived class**.
+- The class that is inherited is called the **superclass** or the **base class**.
+- In Scala, a subclass can inherit from a superclass using the `extends` keyword.
+- For example, `class Dog extends Animal` means that the class `Dog` is a subclass of the class `Animal`.
+- A subclass can access the public and protected members of its superclass, but not the private members.
+- A subclass can also override the methods of its superclass using the `override` keyword.
+- For example, `override def speak(): Unit = println("Woof")` means that the subclass `Dog` overrides the method `speak` of its superclass `Animal`.
+- A subclass can also call the methods of its superclass using the `super` keyword.
+- For example, `super.speak()` means that the subclass `Dog` calls the method `speak` of its superclass `Animal`.
+- In Scala, a class can inherit from only one superclass, but it can implement multiple **traits** using the `with` keyword.
+- A trait is a collection of abstract and concrete methods and fields that can be mixed into a class.
+- For example, `class Dog extends Animal with Friendly with Furry` means that the class `Dog` inherits from the class `Animal` and implements the traits `Friendly` and `Furry`.
+- A class that implements a trait must provide concrete definitions for all the abstract members of the trait.
+- A class can also override the concrete members of the trait using the `override` keyword.
+- For example, `override def greet(): Unit = println("Hello")` means that the class `Dog` overrides the method `greet` of the trait `Friendly`.
+- A class can also call the methods of the trait using the `super` keyword.
+- For example, `super.greet()` means that the class `Dog` calls the method `greet` of the trait `Friendly`.
+- In Scala, the order of the traits matters when a class implements multiple traits.
+- The traits are mixed in from right to left, and the rightmost trait is the first to be called when a method is invoked.
+- For example, `class Dog extends Animal with Friendly with Furry` means that the trait `Furry` is the first to be called when a method is invoked, followed by the trait `Friendly`, and then the class `Animal`.
+- This is called the **linearization** of the class hierarchy.

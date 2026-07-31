@@ -1,0 +1,27 @@
+### Data Processing Operators for the Notes of the Unit 11 - Hadoop Eco System Frameworks in the Subject of Big Data
+
+- Hadoop is a framework that uses distributed storage and parallel processing to store and manage big data.
+- Hadoop consists of three components: Hadoop Distributed File System (HDFS), MapReduce, and YARN.
+- HDFS is a distributed file system that stores data across multiple nodes in a cluster.
+- MapReduce is a programming model that allows parallel processing of large data sets using key-value pairs.
+- YARN is a resource manager that allocates and schedules tasks on the cluster nodes.
+- Hadoop also supports a variety of tools and frameworks that can be used for data processing, such as Pig, Hive, Spark, HBase, etc.
+- Pig is a high-level procedural language for querying large data sets using Hadoop and MapReduce.
+- Pig provides various data processing operators that can be used to transform, filter, join, group, sort, and aggregate data .
+- Some of the common data processing operators in Pig are:
+  - LOAD: reads data from a file or a directory and creates a relation.
+  - STORE: writes data from a relation to a file or a directory.
+  - FILTER: selects tuples from a relation that satisfy a given condition.
+  - FOREACH: applies a set of expressions to each tuple in a relation and generates a new relation.
+  - JOIN: combines two or more relations based on a common field or expression.
+  - GROUP: groups tuples in a relation by one or more fields or expressions.
+  - ORDER: sorts tuples in a relation by one or more fields or expressions.
+  - LIMIT: returns a specified number of tuples from a relation.
+  - DISTINCT: removes duplicate tuples from a relation.
+  - UNION: combines two or more relations into one relation.
+  - COGROUP: groups tuples from two or more relations by a common field or expression and creates a nested relation.
+  - STREAM: transforms data in a relation using an external program or script.
+  - SPLIT: divides a relation into two or more relations based on a given condition.
+  - SAMPLE: returns a random sample of tuples from a relation.
+  - CUBE: performs a multidimensional grouping and aggregation of data in a relation.
+  - RANK: assigns a rank to each tuple in a relation based on a given order.

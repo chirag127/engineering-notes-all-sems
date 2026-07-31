@@ -1,0 +1,8 @@
+### Fuzzy and Crisp Relations
+
+- A **crisp relation** is a binary relation that defines the presence or absence of association, interaction or interconnection between the elements of two or more sets  .
+- A **fuzzy relation** is a generalization of a crisp relation that defines the degree or strength of association, interaction or interconnection between the elements of two or more sets using membership grades  .
+- A fuzzy relation can be represented as a fuzzy set defined on the Cartesian product of crisp sets .
+- For example, let A = {a1, a2} and B = {b1, b2} be two crisp sets. A crisp relation R between A and B can be represented as a subset of A x B, such as R = {(a1, b1), (a2, b2)}. A fuzzy relation R' between A and B can be represented as a fuzzy set on A x B, such as R' = {(a1, b1)/0.8, (a1, b2)/0.2, (a2, b1)/0.4, (a2, b2)/0.9}, where the numbers after the slash indicate the membership grades of the pairs in the fuzzy relation.
+- Fuzzy relations can be used for fuzzy modeling, fuzzy diagnosis, and fuzzy control, as they can capture the uncertainty and vagueness in the real-world phenomena.
+- Fuzzy relations can be manipulated using various operations, such as union, intersection, complement, composition, projection, and inversion . These operations are similar to the ones defined for crisp relations, but they use different operators to combine the membership grades of the fuzzy relations. For example, the union of two fuzzy relations R and S is defined as R ∪ S = {(x, y)/max(μR(x, y), μS(x, y))}, where μR and μS are the membership functions of R and S, respectively.

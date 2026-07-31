@@ -1,0 +1,15 @@
+### Concept of Measurement
+
+Measurement is an essential part of any engineering field, and it involves quantifying physical quantities. In the field of mechanical engineering, measurement plays a crucial role in the design, development, and testing of mechanical systems. The following are some key points to understand the concept of measurement:
+
+- Measurement is the process of assigning a numerical value to a physical quantity. The numerical value is obtained by comparing the physical quantity with a standard unit of measurement.
+- The standard unit of measurement is a well-defined and internationally accepted unit that is used to measure physical quantities. For example, the standard unit of length is meter (m), the standard unit of mass is kilogram (kg), and the standard unit of time is second (s).
+- There are two types of physical quantities: scalar and vector. Scalar quantities have only magnitude, while vector quantities have both magnitude and direction. Examples of scalar quantities include temperature, mass, and volume, while examples of vector quantities include velocity, force, and acceleration.
+- The accuracy of the measurement depends on the precision of the measuring instrument used. Precision refers to the degree of closeness between the measured value and the true value. The precision of the measuring instrument is determined by its sensitivity and resolution.
+- Sensitivity refers to the smallest change in the physical quantity that can be detected by the measuring instrument. The sensitivity of the measuring instrument is determined by its range and resolution.
+- Range refers to the maximum and minimum values of the physical quantity that can be measured by the instrument. Resolution refers to the smallest increment that can be detected by the instrument.
+- The error in the measurement can be classified as systematic and random errors. Systematic errors arise due to the limitations of the measuring instrument or the measuring technique, while random errors arise due to the unpredictable variations in the physical quantity being measured.
+- The uncertainty in the measurement is a measure of the degree of confidence in the measured value. It is affected by the accuracy and precision of the measuring instrument and the measuring technique used.
+- Calibration is the process of adjusting the measuring instrument to ensure its accuracy and precision. It involves comparing the readings of the measuring instrument with the readings of a standard instrument and adjusting the measuring instrument accordingly.
+
+In conclusion, the concept of measurement is critical in mechanical engineering, as it helps in designing, developing, and testing mechanical systems. A proper understanding of the various aspects of measurement, such as accuracy, precision, sensitivity, and calibration, is essential for accurate and reliable measurements.

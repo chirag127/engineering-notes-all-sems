@@ -1,0 +1,22 @@
+### IOT based Three Phase Power Failure Monitoring with SMS Alerts
+
+- This is a system that monitors the power supply of a three-phase system and alerts the authorized person through an SMS when there is a failure in any of the phases   .
+- A three-phase system is a type of electrical power distribution that uses three alternating currents of the same frequency and amplitude, but with a phase difference of 120 degrees.
+- A phase loss or single phasing occurs when one of the phases gets lost due to a blown fuse, thermal overload, broken wire, worn contact or mechanical failure  .
+- A phase loss can cause damage to the electrical equipment, reduce the efficiency and performance, and increase the power consumption and cost.
+- The system consists of the following components:
+  - A microcontroller that controls the logic and communication of the system .
+  - A voltage sensor that measures the voltage of each phase and sends the data to the microcontroller .
+  - A GSM module that connects the system to the cellular network and sends the SMS to the authorized person   .
+  - An LCD display that shows the voltage values of each phase and the status of the system .
+- The system works as follows:
+  - The system is powered by a 12V DC supply.
+  - The system is initialized and configured by sending a call to the GSM module .
+  - The system monitors the voltage of each phase continuously and displays the values on the LCD .
+  - If the voltage of any phase falls below a threshold value, the system detects a phase loss and sends an SMS to the authorized person with the details of the failure   .
+  - The system also indicates the phase loss by blinking an LED.
+- The system has the following advantages:
+  - It can prevent damage to the electrical equipment and reduce the power loss and cost.
+  - It can alert the authorized person in real time and enable quick action and restoration   .
+  - It can be easily implemented and customized using the IOT platform and the GSM module   .
+  - It can be integrated with other IOT devices and applications for further analysis and control .

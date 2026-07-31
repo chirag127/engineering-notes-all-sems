@@ -1,0 +1,16 @@
+# Activation functions for the notes of the Unit 1 - Neural Networks-I (Introduction & Architecture) in the subject of APPLICATION OF SOFT COMPUTING TECHNIQUES
+
+- Activation functions are mathematical equations that determine the output of a neural network model.
+- Activation functions also have a major effect on the neural network’s ability to converge and the convergence speed, or in some cases, activation functions might prevent neural networks from converging in the first place.
+- Activation functions shape the outputs of artificial neurons and, therefore, are integral parts of neural networks in general and deep learning in particular.
+- Activation functions decide whether a neuron should be activated or not. This means that it will decide whether the neuron’s input to the network is important or not in the process of prediction using simpler mathematical operations.
+- Activation functions can be linear or nonlinear, depending on whether they have a constant or variable slope.
+- Some activation functions, such as logistic and relu, have been used for many decades, while others, such as swish and mish, have been proposed more recently.
+- Some of the most common activation functions are:
+
+  - Sigmoid: It is a nonlinear function that maps any input value to a value between 0 and 1. It is useful for binary classification problems and for modeling probabilities. However, it suffers from the vanishing gradient problem, which means that the gradient becomes very small for large positive or negative inputs, making the learning process slow or ineffective .
+  - Tanh: It is a nonlinear function that maps any input value to a value between -1 and 1. It is similar to the sigmoid function, but it is centered at zero. It also suffers from the vanishing gradient problem, but less severely than the sigmoid function .
+  - ReLU: It is a nonlinear function that maps any input value to a value greater than or equal to zero. It is defined as max(0, x), where x is the input. It is simple and fast to compute, and it does not suffer from the vanishing gradient problem. However, it suffers from the dying ReLU problem, which means that some neurons may become inactive and stop learning if the input is negative .
+  - Leaky ReLU: It is a nonlinear function that maps any input value to a value greater than or equal to a small constant. It is defined as max(0.01x, x), where x is the input and 0.01 is the constant. It is similar to the ReLU function, but it avoids the dying ReLU problem by allowing a small gradient for negative inputs .
+  - Swish: It is a nonlinear function that maps any input value to a value between 0 and x. It is defined as x * sigmoid(x), where x is the input. It is a smooth and self-gated function that adapts to the input and has a strong gradient for positive inputs. It has been shown to perform better than ReLU on some tasks.
+  - Mish: It is a nonlinear function that maps any input value to a value between 0 and x. It is defined as x * tanh(softplus(x)), where x is the input and softplus(x) is ln(1 + e^x). It is a smooth and self-regularized function that preserves the input range and has a strong gradient for positive inputs. It has been shown to perform better than Swish on some tasks.

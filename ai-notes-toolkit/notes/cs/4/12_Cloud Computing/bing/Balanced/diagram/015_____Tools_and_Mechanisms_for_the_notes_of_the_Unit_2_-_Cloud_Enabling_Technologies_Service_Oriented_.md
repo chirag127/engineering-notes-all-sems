@@ -1,0 +1,11 @@
+### Tools and Mechanisms for Service Oriented Architecture
+
+Service Oriented Architecture (SOA) is an architectural style that enables the development and integration of software services that are loosely coupled, self-contained, and interoperable  . SOA supports the reuse of existing services to create new applications and workflows, as well as the adaptation and evolution of services to meet changing requirements  . SOA is based on the service concept, which is a unit of functionality that can be accessed and used through a well-defined interface .
+
+Some of the tools and mechanisms that are used to implement and manage SOA are:
+
+- **Service interface**: This is the contract that defines the inputs, outputs, and behavior of a service. It is usually expressed in a standard language, such as Web Services Description Language (WSDL) or OpenAPI Specification (OAS), that can be understood by both service providers and consumers  .
+- **Service registry**: This is a repository that stores and publishes the metadata of available services, such as their interfaces, locations, and policies. It enables service discovery and governance by allowing service consumers to find and select the most suitable services for their needs  .
+- **Service bus**: This is a middleware component that facilitates the communication and integration of services across different platforms, protocols, and formats. It provides features such as routing, transformation, mediation, orchestration, and security  .
+- **Service composition**: This is the process of creating new applications or workflows by combining existing services in a coordinated manner. It can be achieved through various techniques, such as service orchestration, which uses a central controller to coordinate the execution of services, or service choreography, which relies on the collaboration of services without a central controller  .
+- **Service adaptation**: This is the ability of a service to adjust its behavior or functionality according to the context or requirements of the service consumer. It can be achieved through various mechanisms, such as service versioning, which allows the coexistence of multiple versions of a service, or service customization, which allows the service consumer to specify the desired features or parameters of a service.

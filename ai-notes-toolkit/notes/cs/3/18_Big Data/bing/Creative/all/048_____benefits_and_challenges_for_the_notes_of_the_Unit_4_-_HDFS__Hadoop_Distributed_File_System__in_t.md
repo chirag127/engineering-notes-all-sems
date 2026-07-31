@@ -1,0 +1,16 @@
+# Benefits and Challenges of HDFS
+
+HDFS is a distributed file system that handles large data sets running on commodity hardware. It is one of the core components of Apache Hadoop, a framework for distributed processing and analysis of big data. HDFS has some benefits and challenges that are important to understand for the subject of Big Data.
+
+## Benefits of HDFS
+
+- **Fault tolerance**: HDFS has been designed to detect faults and automatically recover quickly ensuring continuity and reliability. It replicates data blocks across multiple nodes and can tolerate the failure of some nodes without losing data. It also has a backup namenode that can take over in case of the primary namenode failure .
+- **Speed**: HDFS can deliver more than 2 GB of data per second thanks to its cluster architecture. It splits large files into smaller blocks and distributes them across the cluster. It also uses a local computation model, where the processing is done near the data, reducing the network overhead and increasing the performance .
+- **Scalability**: HDFS can scale to hundreds or even thousands of nodes and store petabytes or exabytes of data. It can handle any type of data, whether structured, unstructured, or semi-structured. It can also add or remove nodes dynamically without disrupting the system .
+- **Cost-effectiveness**: HDFS is an open-source software that comes with no licensing or support fees. It also runs on commodity hardware, which is much cheaper than the enterprise-grade storage media. It can store large amounts of data at a low cost per terabyte .
+
+## Challenges of HDFS
+
+- **Security**: HDFS does not provide strong security mechanisms by default. It relies on the underlying operating system for authentication and authorization, which can be easily bypassed. It also does not support encryption of data at rest or in transit, exposing the data to potential attacks. To overcome these limitations, HDFS can be integrated with external security tools such as Kerberos, Apache Ranger, or Apache Knox .
+- **Availability**: HDFS does not guarantee high availability of data, as it depends on the availability of the namenode. The namenode is a single point of failure, as it stores the metadata of the file system and coordinates the access to the data blocks. If the namenode fails, the entire file system becomes inaccessible until it is restored. To mitigate this risk, HDFS can use a secondary or standby namenode that can take over in case of the primary namenode failure .
+- **Consistency**: HDFS does not provide strong consistency of data, as it follows a relaxed consistency model. It allows multiple writers to append data to the same file, but does not guarantee the order of the writes. It also does not ensure that the data is immediately visible to all the readers, as it may take some time for the data blocks to be replicated across the cluster. To achieve stronger consistency, HDFS can use a write-once-read-many (WORM) approach, where the files are not modified after they are created .

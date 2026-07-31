@@ -1,0 +1,7 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic of Strategies for the notes of the Unit 3 - Technical Presentation in the subject of Technical Communication. Here are some points to consider:
+
+- Notes are brief reminders or cues that help you deliver your presentation effectively and confidently. They should not be a full script of your speech, but rather a summary of the main points, examples, data, and transitions.
+- Notes can be written on index cards, paper, or a digital device, depending on your preference and the context of your presentation. You should use a format that is easy to read, organize, and access during your presentation.
+- Notes should be prepared in advance, based on your outline and research. You should practice your presentation with your notes several times, and revise them as needed to make them more clear and concise.
+- Notes should be used sparingly and discreetly during your presentation. You should not read from your notes word for word, but rather glance at them occasionally to jog your memory or check your accuracy. You should maintain eye contact with your audience and use a natural and conversational tone.
+- Notes should be tailored to your specific presentation goals, audience, and style. You should use keywords, phrases, symbols, or abbreviations that make sense to you and help you recall your content. You should also use visual aids, such as graphs, charts, or images, to supplement your notes and enhance your presentation.

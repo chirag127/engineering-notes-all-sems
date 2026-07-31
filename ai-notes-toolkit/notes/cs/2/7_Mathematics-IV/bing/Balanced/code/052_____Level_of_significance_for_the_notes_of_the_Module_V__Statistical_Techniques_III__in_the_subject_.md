@@ -1,0 +1,22 @@
+### Level of Significance for the notes of the Module V: Statistical Techniques III: in the subject of Mathematics-IV KCS
+
+- The level of significance is a concept used frequently in statistics to determine whether the null hypothesis must be accepted or rejected  .
+- The null hypothesis is a statement that assumes there is no difference or relationship between two variables or populations.
+- The level of significance is defined as the fixed probability of wrong elimination of null hypothesis when in fact, it is true .
+- It is mainly a Type I error probability that is predetermined by the researcher before the collection of data, together with the outcomes of error.
+- A Type I error occurs when the null hypothesis is rejected when it is true.
+- The level of significance is usually denoted by the Greek letter alpha (α) and is expressed as a percentage or a decimal .
+- The level of significance is also known as the significance level or the alpha level  .
+- The level of significance is the measurement of the statistical significance of the results.
+- Statistical significance means that the results are unlikely to occur by chance under the null hypothesis.
+- The level of significance is used to calculate the p-value, which is the probability of obtaining the observed results or more extreme results under the null hypothesis .
+- The p-value is compared with the level of significance to decide whether to reject or fail to reject the null hypothesis .
+- If the p-value is less than or equal to the level of significance, the null hypothesis is rejected and the results are considered statistically significant .
+- If the p-value is greater than the level of significance, the null hypothesis is not rejected and the results are considered not statistically significant .
+- Usually, the level of significance is set to 0.05 or 5%. That means your results must have a 5% or lower chance of occurring under the null hypothesis to be considered statistically significant.
+- The level of significance can be lowered for a more conservative test. That means an effect has to be larger to be considered statistically significant.
+- The level of significance can be raised for a more liberal test. That means an effect can be smaller to be considered statistically significant.
+- The level of significance depends on the context and the purpose of the research. It should be chosen carefully and justified logically.
+- The level of significance is related to the confidence level, which is the complement of the level of significance. The confidence level is the probability of not making a Type I error.
+- For example, if the level of significance is 0.05, the confidence level is 0.95 or 95%. That means there is a 95% chance of not rejecting the null hypothesis when it is true.
+- The level of significance is used in various statistical tests, such as t-tests, ANOVA, chi-square tests, etc. to test the hypotheses and draw conclusions .

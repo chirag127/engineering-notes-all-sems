@@ -1,0 +1,9 @@
+
+### File Systems for the Notes of the Unit 2 - Open Source RTOS in the Subject of Embedded Systems and Real Time Operating System
+1. A file system is a type of software that manages the data stored on a computer system. It is responsible for organizing, storing, and retrieving data from storage devices such as hard disks, flash memory cards, and USB drives.
+2. The most common type of file system is the hierarchical file system, which stores data in a tree-like structure. This type of file system is used in most operating systems, including Windows, macOS, and Linux.
+3. File systems can also be used to manage data stored on remote servers and cloud storage services. Cloud storage services such as Dropbox and Google Drive use file systems to store and manage data.
+4. Open source RTOS (Real-Time Operating System) is an operating system that is available for anyone to use, modify, and distribute. It is typically used in embedded systems, such as those found in consumer electronics, industrial automation, and automotive systems.
+5. Open source RTOS typically has a smaller footprint than other operating systems, making it ideal for embedded systems with limited memory and processing power. It is also more secure than other operating systems, as it does not require a license or authentication.
+6. Open source RTOS typically supports a range of file systems, including FAT, NTFS, and ext4. Each file system has its own advantages and disadvantages, and should be chosen based on the requirements of the system.
+7. When using an open source RTOS, it is important to ensure that the file system is properly configured and optimized for the system. This includes setting the correct permissions, allocating the correct amount of storage space, and optimizing the file system for performance.

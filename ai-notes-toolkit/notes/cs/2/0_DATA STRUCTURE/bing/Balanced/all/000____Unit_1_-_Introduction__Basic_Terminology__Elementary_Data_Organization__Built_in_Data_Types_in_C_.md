@@ -1,0 +1,22 @@
+## Unit 1 - Introduction: Basic Terminology, Elementary Data Organization, Built in Data Types in C. Algorithm, Efficiency of an Algorithm, Time and Space Complexity, Asymptotic notations: Big Oh, Big Theta and Big Omega, Time-Space trade-off. Abstract Data Types (ADT)
+
+- Basic Terminology: 
+  - Data: Data is any information that can be processed by a computer. Data can be of different types, such as numbers, characters, strings, images, etc.
+  - Data Structure: Data structure is a way of organizing and storing data in a computer memory, so that it can be accessed and manipulated efficiently. Data structures can be classified into two categories: primitive and non-primitive. Primitive data structures are the basic building blocks of data, such as integers, floats, characters, etc. Non-primitive data structures are composed of primitive data structures, such as arrays, lists, stacks, queues, trees, graphs, etc.
+  - Data Type: Data type is a set of values and operations that can be performed on those values. Data types can be predefined or user-defined. Predefined data types are those that are provided by the programming language, such as int, char, float, etc. User-defined data types are those that are created by the programmer, such as structures, unions, enums, etc.
+  - Data Object: Data object is an instance of a data type. For example, x is a data object of type int, and s is a data object of type char.
+  - Data Element: Data element is the smallest unit of data that can be accessed and manipulated independently. For example, in an array of integers, each integer is a data element.
+  - Data Item: Data item is a collection of one or more data elements that are logically related. For example, in a student record, name, roll number, marks, etc. are data items.
+- Elementary Data Organization: 
+  - Linear Data Organization: Linear data organization is a way of storing data in a sequential manner, such that each data element has a unique successor and predecessor, except the first and last elements. For example, arrays, lists, stacks, and queues are linear data structures.
+  - Non-linear Data Organization: Non-linear data organization is a way of storing data in a hierarchical or networked manner, such that each data element can have more than one successor or predecessor. For example, trees and graphs are non-linear data structures.
+- Built in Data Types in C: 
+  - int: int is a data type that can store integer values, such as 1, -5, 0, etc. The size of int depends on the compiler and the platform, but it is usually 2 or 4 bytes. The range of int values is from -2^(n-1) to 2^(n-1)-1, where n is the number of bits in int.
+  - char: char is a data type that can store single characters, such as 'a', 'B', '*', etc. The size of char is 1 byte. The range of char values is from -128 to 127, or from 0 to 255, depending on whether it is signed or unsigned.
+  - float: float is a data type that can store floating-point values, such as 3.14, -0.5, 1.0e6, etc. The size of float is 4 bytes. The range of float values is from -3.4e38 to 3.4e38, with a precision of 6 to 7 digits.
+  - double: double is a data type that can store double-precision floating-point values, such as 3.14159, -1.23e-45, 6.02e23, etc. The size of double is 8 bytes. The range of double values is from -1.7e308 to 1.7e308, with a precision of 15 to 16 digits.
+  - void: void is a data type that can store no value. It is used to indicate the absence of a return value in a function, or the absence of a parameter list in a function declaration.
+- Algorithm: Algorithm is a finite set of instructions that can be followed to solve a problem or perform a task. An algorithm must have the following properties:
+  - Input: An algorithm must have zero or more inputs, which are the data or information that are given to the algorithm.
+  - Output: An algorithm must have one or more outputs, which are the data or information that are produced by the algorithm.
+  - Definiteness: An algorithm must have clear and unambiguous instructions, which can be understood and executed by a human or

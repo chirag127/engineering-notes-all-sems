@@ -1,0 +1,23 @@
+### I2C/IIC
+
+- I2C or IIC stands for Inter-Integrated Circuit, a serial communication protocol made by Philips Semiconductor (now NXP Semiconductor) in 1982 .
+- It is designed for communication between chips on the same Printed Circuit Board (PCB) or within a short distance .
+- It is a synchronous, multi-master/multi-slave, packet switched, single-ended bus that uses two wires: Serial Data Line (SDA) and Serial Clock Line (SCL)  .
+- The SDA line carries the data bits, while the SCL line provides the clock signal to synchronize the data transfer .
+- The master device initiates and controls the communication, while the slave device responds to the master's requests .
+- Each device on the bus has a unique address that is used to identify it during communication .
+- The communication consists of the following steps :
+  - The master sends a start condition, which is a high-to-low transition on the SDA line while the SCL line is high.
+  - The master sends the address of the slave device it wants to communicate with, along with a read/write bit to indicate the direction of the data transfer.
+  - The slave device acknowledges the address by pulling the SDA line low for one clock cycle.
+  - The master and the slave exchange data bytes, each followed by an acknowledge bit from the receiver.
+  - The master sends a stop condition, which is a low-to-high transition on the SDA line while the SCL line is high, to end the communication.
+- The advantages of I2C are :
+  - It is simple and easy to implement, requiring only two wires and no additional hardware.
+  - It supports multiple masters and slaves, allowing for flexible and complex communication scenarios.
+  - It is robust and reliable, with built-in error detection and recovery mechanisms.
+  - It is fast and efficient, with a maximum data rate of 3.4 Mbps (in high-speed mode) and a minimum overhead of 2 bits per byte.
+- The disadvantages of I2C are :
+  - It is limited by the length and capacitance of the bus, which affects the signal quality and speed.
+  - It is not suitable for long-distance or noisy environments, as it is susceptible to interference and signal degradation.
+  - It requires a unique address for each device on the bus, which may cause conflicts or limitations.

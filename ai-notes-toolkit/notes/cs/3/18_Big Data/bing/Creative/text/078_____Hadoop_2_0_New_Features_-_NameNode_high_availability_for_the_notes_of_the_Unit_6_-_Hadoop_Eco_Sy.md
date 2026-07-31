@@ -1,0 +1,12 @@
+### Hadoop 2.0 New Features - NameNode high availability
+
+- NameNode is the master node in HDFS that maintains the filesystem tree and the metadata of all the files and directories.
+- In Hadoop 1.x, NameNode was a single point of failure (SPOF) in an HDFS cluster. If the NameNode failed, the cluster would become unavailable until the NameNode was restored or replaced.
+- Hadoop 2.0 overcomes this SPOF problem by providing support for multiple NameNodes. It introduces Hadoop 2.0 High Availability feature that brings in an extra NameNode (Passive Standby NameNode) to the Hadoop Architecture which is configured for automatic failover .
+- The Active NameNode and the Standby NameNode use a shared storage to store the edit log, which is a persistent record of changes made to the filesystem metadata. The shared storage can be a NFS or a Quorum Journal Manager (QJM), which is a dedicated Hadoop daemon that coordinates updates to the edit log from multiple NameNodes.
+- The Standby NameNode keeps track of the latest state of the edit log by reading from the shared storage. It also applies the changes to its own namespace in memory, so that it is always in sync with the Active NameNode.
+- The DataNodes send block reports and heartbeats to both the Active and the Standby NameNodes, so that they are aware of the location and health of the blocks.
+- The clients communicate with the Active NameNode for any filesystem operations. The Standby NameNode does not serve any client requests.
+- In case of a failure or a planned maintenance of the Active NameNode, the Standby NameNode takes over the role of the Active NameNode and starts serving the client requests. This process is called failover and can be triggered manually or automatically by using a ZooKeeper-based Failover Controller (ZKFC).
+- The ZKFC is a daemon that runs on each of the NameNode machines and monitors the health and status of the NameNode. It also manages a ZooKeeper-based namespace (or znode) that represents the NameNode. The ZKFC uses a leader election algorithm to ensure that only one of the NameNodes is Active at any given time.
+- The Hadoop 2.0 High Availability feature enables the HDFS cluster to run with redundant NameNodes in an Active/Passive configuration with a hot standby. This eliminates the NameNode as a potential single point of failure and improves the availability and reliability of the HDFS cluster.

@@ -1,0 +1,9 @@
+### Live Network feeds
+
+- Live network feeds are streams of data that are continuously transmitted over a network, such as the Internet, from one or more sources to one or more destinations.
+- Live network feeds can be used for various purposes, such as broadcasting audio or video content, monitoring network traffic or performance, or providing real-time updates or notifications.
+- Live network feeds can be implemented using different protocols, such as HTTP, RTP, RTSP, RTCP, or WebSockets, depending on the type and quality of the data, the bandwidth and latency requirements, and the security and reliability constraints.
+- Live network feeds can be classified into two types: push and pull. Push feeds are initiated by the source and sent to the destination without any request from the destination. Pull feeds are initiated by the destination and requested from the source on demand.
+- Live network feeds can be further categorized into unicast, multicast, or broadcast, depending on the number and identity of the sources and destinations. Unicast feeds are sent from one source to one destination. Multicast feeds are sent from one source to multiple destinations that have joined a multicast group. Broadcast feeds are sent from one source to all destinations on the network.
+- Live network feeds can have different characteristics, such as synchronous or asynchronous, reliable or unreliable, ordered or unordered, and encrypted or unencrypted, depending on the protocol and the application requirements.
+- Live network feeds can pose some challenges, such as packet loss, jitter, buffering, congestion, synchronization, and security, that need to be addressed by using appropriate techniques, such as error correction, adaptive bitrate, buffering, congestion control, clock synchronization, and encryption.

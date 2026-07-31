@@ -1,0 +1,23 @@
+### Sustainability Data and Analytics in Cloud-Based M2M Systems
+
+- M2M stands for machine-to-machine communication, which enables devices to exchange data without human intervention.
+- Cloud-based M2M systems can provide scalable, flexible and cost-effective solutions for sustainability governance, such as monitoring and optimizing energy consumption in smart buildings.
+- Sustainability data refers to the data collected from various sensors and devices that measure the environmental, social and economic impacts of human activities.
+- Sustainability analytics refers to the process of analyzing, visualizing and interpreting sustainability data to support decision making and improve performance.
+- Cloud-based M2M systems can offer a Platform-as-a-Service (PaaS) model, which allows users to access and manage sustainability data and analytics applications through a web interface, without having to install or maintain any software or hardware.
+- A PaaS for sustainability data and analytics should address the following challenges:
+  - Identifying and satisfying the diverse and dynamic needs of different stakeholders, such as building owners, managers, tenants, regulators and researchers.
+  - Linking, enriching and managing large-scale and heterogeneous sustainability data from multiple sources and formats, such as sensor readings, weather data, building information models and user feedback.
+  - Providing a flexible and extensible analytics framework that supports various types of analysis, such as descriptive, diagnostic, predictive and prescriptive, as well as various methods, such as statistical, machine learning, optimization and simulation.
+  - Ensuring the quality, security and privacy of sustainability data and analytics, such as ensuring data accuracy, completeness, timeliness, consistency, confidentiality and compliance.
+- A PaaS for sustainability data and analytics should provide the following features:
+  - A data ingestion and integration module that collects, cleans, transforms and stores sustainability data from various sources and formats.
+  - A data management and enrichment module that organizes, indexes, annotates and links sustainability data using semantic technologies, such as ontologies, vocabularies and linked data.
+  - A data access and query module that enables users to retrieve, filter, aggregate and join sustainability data using standard or customized queries, such as SQL, SPARQL and RESTful APIs.
+  - A data analysis and visualization module that enables users to perform various types of analysis and generate various types of visualizations, such as charts, graphs, maps and dashboards, using predefined or user-defined algorithms and tools, such as R, Python, MATLAB and Tableau.
+  - A data sharing and collaboration module that enables users to share, publish and reuse sustainability data and analytics, as well as to communicate and cooperate with other users, using social media, web services and cloud storage.
+- A PaaS for sustainability data and analytics should also provide the following benefits:
+  - Reduced cost and complexity of sustainability data and analytics, as users do not need to invest in or maintain any software or hardware infrastructure.
+  - Increased scalability and flexibility of sustainability data and analytics, as users can access and manage data and applications from anywhere and anytime, and can easily scale up or down the resources and services according to their needs and demands.
+  - Improved quality and reliability of sustainability data and analytics, as users can leverage the expertise and experience of the cloud provider and the community, and can benefit from the high availability, redundancy and backup of the cloud infrastructure.
+  - Enhanced innovation and creativity of sustainability data and analytics, as users can access and utilize a wide range of data and tools, and can experiment and explore new ideas and solutions.

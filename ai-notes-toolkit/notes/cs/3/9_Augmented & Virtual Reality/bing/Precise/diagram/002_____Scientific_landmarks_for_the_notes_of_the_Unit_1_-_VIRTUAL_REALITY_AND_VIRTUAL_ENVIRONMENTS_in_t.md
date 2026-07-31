@@ -1,0 +1,8 @@
+### Scientific landmarks for the notes of the Unit 1 - VIRTUAL REALITY AND VIRTUAL ENVIRONMENTS in the subject of Augmented & Virtual Reality
+
+1. **Virtual Reality (VR)** uses a headset to place you in a computer-generated world that you can explore.
+2. **Augmented Reality (AR)** is a technology that superimposes virtual generated images on the real world. The coexistence of virtual objects and real environments have encouraged experimentation and developments in educational settings which are not possible in the real world.
+3. VR and AR are examples of emerging technologies that are characterized by their novelty, rapid development and effects on human existence. New capabilities are easily embraced by product makers and turned into useful goods.
+4. VR applications immerse the user in a computer-generated environment that simulates reality through the use of interactive devices, which send and receive information.
+5. Virtual reality technologies developed under Goddard and NASA research and development programs make designing spacecraft, instruments and repair missions easier, allowing engineers to experience the space before they start to build it.
+6. The VR-SIM is presented, a virtual reality simulation tool, intended to support software engineers in the validation of RTS, and the following topics are covered: characteristics and overview of the tool; detailing of the virtual reality component; and examples of use.

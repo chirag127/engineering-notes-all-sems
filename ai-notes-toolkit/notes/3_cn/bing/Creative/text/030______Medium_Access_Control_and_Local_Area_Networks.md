@@ -1,0 +1,11 @@
+#### Medium Access Control and Local Area Networks
+
+- Medium Access Control (MAC) is a sublayer of the data link layer that regulates the access of multiple devices to a shared medium, such as a wireless channel or a wired network.
+- MAC protocols are designed to avoid or resolve collisions, which occur when two or more devices transmit data at the same time on the same medium.
+- There are two main approaches to MAC in Local Area Networks (LANs): contention and token-passing.
+  - Contention is a first-come, first-serve approach, where devices compete for the medium and back off when they detect a collision. An example of a contention-based MAC protocol is Carrier Sense Multiple Access with Collision Detection (CSMA/CD), which is used in Ethernet networks.
+  - Token-passing is a cooperative approach, where devices take turns to access the medium by passing a token among themselves. An example of a token-passing MAC protocol is Token Ring, which was used in some early LANs.
+- MAC protocols can also be classified as centralized or distributed, depending on whether there is a central controller or not that coordinates the access to the medium.
+  - Centralized MAC protocols rely on a master device or an access point that grants or denies the requests of other devices to access the medium. An example of a centralized MAC protocol is Wireless Fidelity (Wi-Fi), which uses a Distributed Coordination Function (DCF) based on CSMA/CA (Collision Avoidance) and an optional Point Coordination Function (PCF) based on polling.
+  - Distributed MAC protocols allow devices to access the medium without any coordination from a central controller. An example of a distributed MAC protocol is Bluetooth, which uses a Frequency Hopping Spread Spectrum (FHSS) technique and a Time Division Multiple Access (TDMA) scheme.
+- MAC protocols are designed to meet the specific requirements and characteristics of different LANs, such as the physical layer, the topology, the traffic patterns, the quality of service, the security, and the scalability.

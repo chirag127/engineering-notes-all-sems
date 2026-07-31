@@ -1,0 +1,10 @@
+### Recoverability
+- Recoverability is the property of a schedule that ensures that the database state is consistent after a transaction failure or system crash .
+- A schedule is recoverable if it does not contain any **dirty read** operations, which occur when a transaction reads a data item that is modified by another uncommitted transaction .
+- A schedule is irrecoverable if it contains any dirty read operations, which can lead to data inconsistency and loss of information.
+- A schedule can be classified into three types of recoverable schedules based on the order of commit operations :
+  - **Cascadeless schedule**: A schedule in which a transaction reads a data item only after all transactions that have written it commit. This type of schedule avoids cascading aborts, which occur when a transaction aborts and causes other transactions that have read its data to abort as well .
+  - **Strict schedule**: A schedule in which a transaction accesses a data item only after all transactions that have written it commit, and releases the data item only after it commits. This type of schedule ensures that no transaction can read or write a data item that is modified by an active transaction .
+  - **Non-strict schedule**: A schedule that is neither cascadeless nor strict, but still recoverable. This type of schedule allows a transaction to read a data item that is modified by an active transaction, but not to write it until the active transaction commits .
+- Recoverability is an important principle for online transaction processing (OLTP) systems, which handle a large number of concurrent transactions that access and modify a shared database .
+- Recoverability is achieved by using various recovery techniques, such as logging, checkpointing, shadow paging, and backup and restore .

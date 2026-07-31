@@ -1,0 +1,22 @@
+# Exploratory Testing
+
+- Exploratory testing is an approach to software testing that is often described as simultaneous learning, test design, and execution.
+- It focuses on discovery and relies on the guidance of the individual tester to uncover defects that are not easily covered in the scope of other tests.
+- It is often thought of as a black box testing technique, but it can be applied to any test technique, at any stage in the development process.
+- It emphasizes the tester's autonomy, skill and creativity, much as other Agile practices emphasize these qualities in developers.
+- Some of the benefits of exploratory testing are:
+  - It can find bugs that are missed by scripted testing or automated testing.
+  - It can adapt to changing requirements and feedback quickly.
+  - It can leverage the tester's intuition and experience.
+  - It can provide fast and valuable feedback to the developers and stakeholders.
+- Some of the challenges of exploratory testing are:
+  - It can be difficult to document and reproduce the test cases and results.
+  - It can be hard to measure the test coverage and quality.
+  - It can be dependent on the tester's skill and availability.
+  - It can be seen as unstructured and unprofessional by some managers or auditors.
+- Some of the best practices for exploratory testing are:
+  - Define a clear scope and objective for the testing session.
+  - Use a variety of test techniques and heuristics to explore the system.
+  - Use tools and techniques to record and report the test activities and findings.
+  - Collaborate with other testers and stakeholders to share insights and feedback.
+  - Review and refine the test strategy based on the test outcomes and learning.

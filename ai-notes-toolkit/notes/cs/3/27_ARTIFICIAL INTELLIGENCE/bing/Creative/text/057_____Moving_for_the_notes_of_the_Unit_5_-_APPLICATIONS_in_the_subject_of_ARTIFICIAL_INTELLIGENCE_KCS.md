@@ -1,0 +1,10 @@
+### Moving
+
+Moving is the process of changing the location or position of an object or agent. Moving can be done by physical force, mechanical devices, or autonomous agents. Moving is one of the basic tasks that artificial intelligence (AI) can perform, and it has many applications in different domains.
+
+Some of the applications of moving in AI are:
+
+- Robotics: Robots can move in various ways, such as walking, rolling, flying, or swimming, depending on their design and environment. Robots can use sensors, actuators, and algorithms to navigate and manipulate their surroundings. Robots can perform tasks that are dangerous, repetitive, or impossible for humans, such as exploring space, defusing bombs, or performing surgery.
+- Autonomous vehicles: Autonomous vehicles are vehicles that can drive themselves without human intervention. They can use cameras, radars, lidars, GPS, and AI to perceive the road, traffic, and obstacles, and to plan and execute their movements. Autonomous vehicles can improve safety, efficiency, and convenience of transportation, and reduce greenhouse gas emissions and congestion.
+- Computer games: Computer games can use AI to create realistic and interactive virtual worlds, where the characters and objects can move according to the game rules and physics. AI can also control the behavior and actions of the non-player characters (NPCs), such as enemies, allies, or animals, to make them more challenging, adaptive, or believable.
+- Animation: Animation is the art of creating the illusion of movement by displaying a sequence of images or frames. AI can help animators to create more realistic and expressive movements for the characters and objects, by using techniques such as motion capture, inverse kinematics, or generative adversarial networks (GANs). AI can also automate some of the tedious and time-consuming tasks in animation, such as lip-syncing, facial expressions, or background generation.

@@ -1,0 +1,24 @@
+## Unit 3 - Catabolic & anabolic reactions: enzymes, energy production and carbohydrate metabolism. Lipid & protein catabolism, Energy production mechanism, metabolic diversity & pathways of energy use. Integration of metabolism
+
+- Catabolic reactions are those that break down complex molecules into simpler ones, releasing energy in the process. Anabolic reactions are those that build up complex molecules from simpler ones, consuming energy in the process.
+- Enzymes are biological catalysts that speed up the rate of chemical reactions by lowering the activation energy. They are highly specific for their substrates and can be regulated by various factors such as temperature, pH, inhibitors, activators, and feedback mechanisms.
+- Energy production in living cells involves the transfer of electrons from reduced molecules (such as glucose, fatty acids, and amino acids) to electron acceptors (such as oxygen, NAD+, and FAD) in a series of oxidation-reduction reactions. The energy released from these reactions is used to synthesize ATP, the universal energy currency of the cell.
+- Carbohydrate metabolism is the process of converting carbohydrates (such as glucose, glycogen, starch, and cellulose) into other forms of energy or storage molecules. The main pathways of carbohydrate metabolism are glycolysis, gluconeogenesis, glycogenesis, glycogenolysis, pentose phosphate pathway, and citric acid cycle.
+- Lipid catabolism is the process of breaking down lipids (such as triglycerides, phospholipids, and cholesterol) into smaller molecules (such as glycerol, fatty acids, and acetyl-CoA) that can be used for energy production or biosynthesis. The main pathways of lipid catabolism are lipolysis, beta-oxidation, ketogenesis, and cholesterol metabolism.
+- Protein catabolism is the process of breaking down proteins (such as enzymes, hormones, and antibodies) into amino acids that can be used for energy production or biosynthesis. The main pathways of protein catabolism are proteolysis, deamination, transamination, and urea cycle.
+- Energy production mechanism is the process of coupling the electron transport chain (ETC) and oxidative phosphorylation (OXPHOS) to generate ATP from the oxidation of NADH and FADH2. The ETC consists of four complexes of proteins and coenzymes that transfer electrons from NADH and FADH2 to oxygen, forming water and a proton gradient across the inner mitochondrial membrane. The OXPHOS consists of a fifth complex of proteins and coenzymes that use the proton gradient to drive the synthesis of ATP from ADP and Pi.
+- Metabolic diversity is the ability of different organisms to use different sources of energy and carbon for their growth and survival. Some examples of metabolic diversity are:
+  - Phototrophs: use light as the source of energy
+  - Chemotrophs: use chemical compounds as the source of energy
+  - Autotrophs: use carbon dioxide as the source of carbon
+  - Heterotrophs: use organic compounds as the source of carbon
+  - Aerobes: use oxygen as the final electron acceptor
+  - Anaerobes: use other molecules (such as nitrate, sulfate, or carbon dioxide) as the final electron acceptor
+- Pathways of energy use are the processes of utilizing the energy stored in ATP for various cellular functions. Some examples of pathways of energy use are:
+  - Biosynthesis: the synthesis of macromolecules (such as nucleic acids, proteins, lipids, and polysaccharides) from simpler precursors
+  - Transport: the movement of molecules and ions across membranes (such as active transport, endocytosis, and exocytosis)
+  - Mechanical work: the generation of force and movement (such as muscle contraction, flagellar rotation, and cytoskeletal dynamics)
+  - Signal transduction: the transmission and amplification of signals from the extracellular environment to the intracellular response (such as hormone-receptor binding, second messenger production, and gene expression)
+- Integration of metabolism is the coordination and regulation of the various metabolic pathways to maintain the homeostasis and adaptability of the cell. The integration of metabolism is achieved by various mechanisms such as:
+  - Hormonal regulation: the modulation of metabolic enzymes and transporters by hormones (such as insulin, glucagon, and adrenaline) that are secreted by endocrine glands in response to the physiological state of the organism
+  - Allosteric regulation: the modulation of metabolic enzymes by small molecules (such as ATP, ADP, AMP, NAD+, NADH, acetyl-CoA, and citrate) that bind to their regulatory sites and affect their activity

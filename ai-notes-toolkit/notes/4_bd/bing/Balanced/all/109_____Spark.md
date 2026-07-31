@@ -1,0 +1,25 @@
+# Spark
+
+- Spark is a word that has two distinct meanings. As a noun, it means a small fiery particle thrown off from a fire, alight in ashes, or produced by striking together two hard surfaces such as stone or metal. Or as a verb, it means emit sparks of fire or electricity    .
+- Some examples of sparks are:
+  - A log fire was sending sparks onto the rug.
+  - Angry sparks were flashing in her eyes.
+  - There was a spark of light.
+  - A tiny spark of anger flared within her.
+  - There was a spark between them at their first meeting.
+  - The ignition sparks as soon as the gas is turned on.
+  - The explosion sparked a fire.
+  - The severity of the plan sparked off street protests.
+  - He went a sparking among the rosy country girls.
+- Some synonyms of spark are:
+  - Flash, flicker, flare, glint, twinkle, scintillation, streak, spot, pinprick, particle, iota, jot, whit, glimmer, atom, speck, bit, trace, vestige, ounce, shred, crumb, morsel, fragment, grain, drop, mite, tittle, jot or tittle, modicum, hint, touch, suggestion, whisper, suspicion, scintilla, scantling, scruple, liveliness, animation, life, bounce, sparkle, effervescence, fizz, verve, spirit, pep, spiritedness, ebullience, high spirits, enthusiasm, initiative, vitality, vivacity, fire, dash, go, panache, elan, snap, zest, zeal, exuberance, vigor, energy, gusto, drive, push, brio, dynamism, give rise to, cause, lead to, set in motion, occasion, bring about, bring on, begin, start, initiate, precipitate, prompt, trigger (off), set off, touch off, provoke, incite, stimulate, stir up.
+- Some antonyms of spark are:
+  - Bring to an end.
+- The word origin of spark is:
+  - Old English spærca, spearca, of unknown origin.
+- The pronunciation of spark is:
+  - spärk.
+- The provider name of the dictionary result is:
+  - OxfordDictionaries.
+- The provider URL of the dictionary result is:
+  - http://www.oxforddictionaries.com/us/.

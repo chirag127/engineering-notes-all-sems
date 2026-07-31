@@ -1,0 +1,8 @@
+## Unit 8 - Recurrence Relation & Generating Function
+
+- A **recurrence relation** is an equation that defines a sequence of numbers in terms of previous terms. For example, the Fibonacci sequence is defined by the recurrence relation F_n = F_n-1 + F_n-2, with initial values F_0 = 0 and F_1 = 1.
+- A **generating function** is a (possibly infinite) polynomial whose coefficients correspond to terms in a sequence of numbers. For example, the generating function for the Fibonacci sequence is G(x) = x/(1-x-x^2), where the coefficient of x^n is F_n.
+- Generating functions are useful for solving recurrence relations, proving combinatorial identities, and finding asymptotic formulas for sequences. Some techniques for using generating functions are:
+  - **Partial fractions**: This method involves expressing a generating function as a sum of simpler fractions, which can be easier to manipulate and expand. For example, G(x) = x/(1-x-x^2) can be written as G(x) = 1/(1-phi*x) - 1/(1-psi*x), where phi and psi are the roots of 1-x-x^2.
+  - **Polynomial multiplication**: This method involves multiplying a generating function by another polynomial, which can help eliminate some terms or simplify the expression. For example, multiplying G(x) by 1-x-x^2 gives x, which implies that G(x) = x/(1-x-x^2) satisfies the recurrence relation F_n = F_n-1 + F_n-2.
+  - **Derivatives**: This method involves taking the derivative of a generating function, which can help relate the coefficients of different powers of x. For example, taking the derivative of G(x) gives G'(x) = 1/(1-x-x^2) + x*(1-2x)/(1-x-x^2)^2, which implies that F_n = n*F_n-1 + (n-1)*F_n-2.

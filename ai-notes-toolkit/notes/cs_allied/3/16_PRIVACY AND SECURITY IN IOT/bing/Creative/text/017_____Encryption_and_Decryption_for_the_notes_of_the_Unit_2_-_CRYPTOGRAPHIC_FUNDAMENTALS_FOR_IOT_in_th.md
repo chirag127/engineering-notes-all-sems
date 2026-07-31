@@ -1,0 +1,9 @@
+### Encryption and Decryption
+
+- Encryption is the process of transforming plaintext (readable data) into ciphertext (unreadable data) using a secret key and an encryption algorithm.
+- Decryption is the reverse process of encryption, where ciphertext is transformed back into plaintext using the same or a different secret key and a decryption algorithm.
+- Encryption and decryption are used to provide confidentiality, integrity, and authenticity of data in transit or at rest, especially in IoT devices and networks.
+- There are two main types of encryption: symmetric and asymmetric.
+  - Symmetric encryption uses the same secret key for both encryption and decryption. It is fast and efficient, but requires a secure way to distribute and manage the keys. Examples of symmetric encryption algorithms are AES, DES, and RC4.
+  - Asymmetric encryption uses a pair of keys: a public key and a private key. The public key can be shared with anyone, while the private key is kept secret by the owner. The public key is used to encrypt data, and the private key is used to decrypt it. Alternatively, the private key can be used to sign data, and the public key can be used to verify it. Asymmetric encryption is more secure and scalable, but also more computationally intensive and slower. Examples of asymmetric encryption algorithms are RSA, ECC, and ElGamal.
+- Encryption and decryption can be combined to achieve different security goals and trade-offs. For example, hybrid encryption uses both symmetric and asymmetric encryption to encrypt data. The data is encrypted with a symmetric key, and then the symmetric key is encrypted with the public key of the receiver. The receiver can decrypt the symmetric key with their private key, and then decrypt the data with the symmetric key. This way, the data is protected by the strength of asymmetric encryption, and the speed of symmetric encryption.

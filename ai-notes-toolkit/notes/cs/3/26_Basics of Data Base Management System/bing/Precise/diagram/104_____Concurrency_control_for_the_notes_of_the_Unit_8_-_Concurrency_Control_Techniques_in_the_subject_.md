@@ -1,0 +1,5 @@
+### Concurrency Control Techniques
+
+Concurrency control in DBMS is a procedure of managing simultaneous transactions ensuring their atomicity, isolation, consistency, and serializability. In a multi-user system, multiple users can access and use the same database at one time, which is known as the concurrent execution of the database. Concurrency control in Database management systems (DBMS) ensures that database transactions are performed concurrently without violating the data integrity of the respective databases.
+
+Concurrency control is an important concept that is related to the transactions and data consistency of the database management systems. It refers to the process of managing independent operations of the database that are simultaneous and considered as a transaction in DBMS. Concurrency Control is the working concept that is required for controlling and managing the concurrent execution of database operations and thus avoiding the inconsistencies in the database. Thus, for maintaining the concurrency of the database, we have the concurrency control protocols.

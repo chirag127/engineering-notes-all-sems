@@ -1,0 +1,17 @@
+### Causal Order for the Notes of the Unit 1 - Characterization of Distributed Systems in the Subject of Distributed System
+
+- Causal order is a way of ordering events in a distributed system based on their causal relationships, rather than their physical timestamps or locations.
+- Causal order captures the notion of "happened before" or "influenced by" among events, regardless of when or where they occurred.
+- Causal order is important for ensuring consistency, correctness, and coordination in distributed systems, especially for applications that involve communication, replication, synchronization, or concurrency control.
+- Causal order can be defined formally using Lamport's logical clocks, which assign logical timestamps to events based on their causal dependencies, rather than their actual occurrence times.
+- Causal order can be implemented using various algorithms or protocols, such as vector clocks, causal broadcast, causal multicast, or causal memory.
+- Causal order can be classified into different types or levels, depending on how strict or relaxed the ordering constraints are. Some examples are:
+  - Total-causal order: the strictest ordering in distributed systems; it establishes only one linearization, consistent with the causal ordering, among all the events that occur in the system, even those that occur concurrently .
+  - Causal order: the standard ordering in distributed systems; it ensures that causally related events are ordered, but allows concurrent events to be unordered or differently ordered by different processes or observers .
+  - Causal consistency: a weaker form of ordering in distributed systems; it guarantees that causally related events are seen in the same order by all processes or observers, but does not enforce any order on concurrent events.
+- Causal order can be applied to various aspects or components of distributed systems, such as messages, operations, transactions, data, or processes. Some examples are:
+  - Causal ordering of messages: a property of communication in distributed systems; it ensures that messages that are causally related are delivered in the same order by all receivers, and messages that are concurrent can be delivered in any order or different orders by different receivers.
+  - Causal ordering of operations: a property of execution in distributed systems; it ensures that operations that are causally related are performed in the same order by all processes, and operations that are concurrent can be performed in any order or different orders by different processes.
+  - Causal ordering of transactions: a property of concurrency control in distributed systems; it ensures that transactions that are causally related are committed in the same order by all participants, and transactions that are concurrent can be committed in any order or different orders by different participants.
+  - Causal ordering of data: a property of consistency in distributed systems; it ensures that data that are causally related are updated in the same order by all replicas, and data that are concurrent can be updated in any order or different orders by different replicas.
+  - Causal ordering of processes: a property of coordination in distributed systems; it ensures that processes that are causally related are synchronized in the same order by all participants, and processes that are concurrent can be synchronized in any order or different orders by different participants.

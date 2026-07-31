@@ -1,0 +1,11 @@
+### Protected Members
+- In the context of Object Oriented System Design, inheritance is a mechanism that allows a class to inherit properties and methods from another class.
+- The class that is being inherited from is called the base class or superclass, while the class that is inheriting is called the derived class or subclass.
+- Inheritance allows for code reuse and can make the design of a program more modular and easier to maintain.
+- When a class inherits from another class, it has access to all of the public and protected members of the base class.
+- Protected members are members of a class that are accessible within the class itself and within its derived classes, but not accessible from outside the class.
+- This means that protected members can be accessed by the derived class, but not by other classes or objects.
+- Protected members are declared using the `protected` keyword in the class definition.
+- Using protected members can help to encapsulate data and behavior within a class and its derived classes, while still allowing for some flexibility in the design of the program.
+- Protected members can be useful when designing a class hierarchy where some members should only be accessible to derived classes, but not to other classes or objects.
+- It is important to carefully consider the use of protected members and to use them judiciously in order to maintain the encapsulation and modularity of the program design.

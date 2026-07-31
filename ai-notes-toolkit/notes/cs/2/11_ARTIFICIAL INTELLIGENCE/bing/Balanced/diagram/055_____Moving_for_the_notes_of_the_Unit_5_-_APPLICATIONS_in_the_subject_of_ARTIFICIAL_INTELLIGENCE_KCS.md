@@ -1,0 +1,11 @@
+### Moving
+
+Moving is the process of changing the position or location of an object or agent in a physical or virtual environment. Moving can be performed by various types of agents, such as humans, animals, robots, vehicles, or software agents. Moving can have different purposes, such as exploring, navigating, transporting, or escaping.
+
+Some of the applications of moving in artificial intelligence are:
+
+- **Robotics**: AI can enable robots to move autonomously and intelligently in complex and dynamic environments, such as factories, warehouses, hospitals, or homes. AI can also help robots to coordinate their movements with other robots or humans, such as in swarm robotics, collaborative robotics, or human-robot interaction. AI can also help robots to learn from their own movements and improve their performance over time, such as in reinforcement learning, imitation learning, or self-supervised learning. Some examples of AI-powered robots that can move are self-driving cars, drones, industrial robots, service robots, and social robots .
+
+- **Gaming**: AI can enable video game characters or agents to move realistically and interactively in virtual worlds, such as in simulation games, role-playing games, or strategy games. AI can also help game developers to create and optimize complex and diverse game environments, such as in procedural content generation, level design, or game testing. AI can also help game players to improve their skills and enjoy their gaming experience, such as in adaptive difficulty, personalized feedback, or game analytics. Some examples of AI-powered games that involve moving are The Sims, Grand Theft Auto, StarCraft, and Minecraft.
+
+- **Education**: AI can enable learners to move and explore in immersive and engaging learning environments, such as in virtual reality, augmented reality, or mixed reality. AI can also help educators to design and deliver effective and personalized learning experiences, such as in adaptive learning, intelligent tutoring systems, or learning analytics. AI can also help learners to develop and assess their cognitive and motor skills, such as in gamification, serious games, or skill assessment. Some examples of AI-powered learning environments that involve moving are Google Expeditions, Microsoft HoloLens, Duolingo, and Code.org.

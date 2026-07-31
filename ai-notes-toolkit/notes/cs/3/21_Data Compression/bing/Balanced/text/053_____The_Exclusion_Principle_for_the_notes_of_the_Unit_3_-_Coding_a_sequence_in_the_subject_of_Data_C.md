@@ -1,0 +1,7 @@
+### The Exclusion Principle for the notes of the Unit 3 - Coding a sequence in the subject of Data Compression
+
+- The exclusion principle is a technique for encoding a sequence of symbols by using a prefix code that avoids any ambiguity in decoding.
+- A prefix code is a code where no codeword is a prefix of another codeword. For example, the code {0, 10, 11} is a prefix code, but the code {0, 01, 10} is not, because 0 is a prefix of 01 and 10.
+- The exclusion principle states that if we want to encode a symbol x that has not appeared before in the sequence, we can use any codeword that is not a prefix of any existing codeword. For example, if the existing codewords are {0, 10, 11}, we can use 01, 001, 0001, etc. to encode x, but not 0, 100, 110, etc.
+- The exclusion principle ensures that the decoder can uniquely recover the original sequence from the encoded sequence, by using a greedy algorithm that matches the longest possible prefix at each step. For example, if the encoded sequence is 0110010, the decoder can split it into 01|10|010, and decode each codeword according to the code table.
+- The exclusion principle can be used to construct a dynamic code that adapts to the frequency of the symbols in the sequence. For example, we can start with an empty code table, and assign a new codeword to each new symbol that appears, using the exclusion principle. This way, the code will assign shorter codewords to more frequent symbols, and longer codewords to less frequent symbols, achieving some compression.

@@ -1,0 +1,22 @@
+### Arduino IDE
+
+- Arduino IDE is an open-source programming tool, which lets users upload or write code for Arduino boards.
+- Arduino boards are microcontrollers that can be used to create interactive electronic devices, such as sensors, robots, or games.
+- Arduino IDE connects to the Arduino boards via a USB cable or a wireless connection, and allows users to communicate with them.
+- Programs written using Arduino IDE are called sketches. These sketches are written in the text editor and are saved with the file extension .ino.
+- Arduino IDE uses a simplified version of C++ as the programming language, which is easy to learn and use.
+- Arduino IDE provides a built-in library of functions and commands that can be used to control the Arduino boards and their components.
+- Arduino IDE also supports external libraries that can be downloaded and installed to add more functionality and features to the sketches.
+- Arduino IDE has a serial monitor that can be used to display data sent from or to the Arduino boards, such as sensor readings, messages, or debug information.
+- Arduino IDE has a verify button that can be used to check the syntax and errors of the sketches before uploading them to the Arduino boards.
+- Arduino IDE has an upload button that can be used to transfer the sketches from the computer to the Arduino boards, and run them on the boards.
+- Arduino IDE has a board manager that can be used to select the type and model of the Arduino boards that are connected to the computer.
+- Arduino IDE has a port menu that can be used to select the communication port that is used to connect to the Arduino boards.
+- Arduino IDE has a preferences menu that can be used to customize the settings and options of the Arduino IDE, such as the theme, the font size, the editor mode, and the language.
+- Arduino IDE has a tools menu that can be used to access various features and utilities, such as the serial plotter, the network port, the programmer, and the burn bootloader.
+- Arduino IDE has a help menu that can be used to access the online documentation, the reference, the examples, and the troubleshooting guide.
+- Arduino IDE has a file menu that can be used to create, open, save, and export sketches, as well as to access the recent sketches and the examples.
+- Arduino IDE has an edit menu that can be used to perform basic editing operations, such as cut, copy, paste, undo, redo, find, replace, and comment.
+- Arduino IDE has a sketch menu that can be used to perform sketch-related operations, such as include library, show sketch folder, export compiled binary, and upload using programmer.
+- Arduino IDE has a code editor that can be used to write, edit, and format the sketches, as well as to access the auto-complete, the auto-format, and the indent features.
+- Arduino IDE has a status bar that can be used to display the current board, port, and sketch information, as well as the compilation and upload status and messages.

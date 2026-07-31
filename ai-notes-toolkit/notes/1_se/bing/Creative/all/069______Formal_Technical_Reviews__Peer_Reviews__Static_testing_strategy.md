@@ -1,0 +1,21 @@
+#### Formal Technical Reviews (Peer Reviews) Static testing strategy
+
+- Formal technical reviews (FTRs) or peer reviews are a type of static testing strategy that involves a structured and systematic examination of software artifacts by a team of qualified reviewers.
+- The main objectives of FTRs are to find defects, improve quality, verify compliance with standards, and facilitate knowledge transfer among team members.
+- FTRs can be applied to various software artifacts, such as requirements, design, code, test cases, user manuals, etc.
+- FTRs follow a predefined process that consists of the following steps:
+  - Planning: The review leader selects the review team, assigns roles and responsibilities, schedules the review meeting, and distributes the review materials to the reviewers.
+  - Preparation: The reviewers study the review materials and identify potential defects, questions, and comments. They also prepare a checklist of items to be verified during the review meeting.
+  - Review meeting: The review team meets to discuss the review materials and reach a consensus on the defects, recommendations, and actions. The review leader moderates the meeting and ensures that the review objectives are met and the review rules are followed. The review scribe records the review findings and outcomes.
+  - Rework: The author of the review materials corrects the defects and implements the recommendations identified during the review meeting. The author also provides evidence of the rework to the review leader or a designated reviewer.
+  - Follow-up: The review leader or a designated reviewer verifies that the rework has been done correctly and that no new defects have been introduced. The review leader also prepares a review report that summarizes the review process, findings, and outcomes.
+- FTRs have several advantages, such as:
+  - They can detect defects early in the software development life cycle, which reduces the cost and effort of fixing them later.
+  - They can improve the quality and reliability of the software products by ensuring that they meet the specified requirements and standards.
+  - They can enhance the skills and knowledge of the review team members by facilitating learning and feedback.
+  - They can foster collaboration and communication among the review team members and other stakeholders by promoting a common understanding and shared vision of the software products.
+- FTRs also have some disadvantages, such as:
+  - They can be time-consuming and resource-intensive, especially if the review materials are large, complex, or poorly written.
+  - They can be affected by human factors, such as bias, ego, personality, or group dynamics, which may compromise the objectivity and effectiveness of the review process.
+  - They can be difficult to implement and maintain, especially if the review team members are distributed, have different backgrounds and expertise, or have conflicting schedules and priorities.
+- A mnemonic to remember the steps of FTRs is: **P**lan, **P**repare, **R**eview, **R**ework, **F**ollow-up, or **PPRRF**.

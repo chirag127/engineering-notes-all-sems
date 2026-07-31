@@ -1,0 +1,22 @@
+### Disconnected operations
+
+- Disconnected operation is a mode of operation in mobile computing that allows users to execute applications during temporary failures in networks or when they explicitly decide to work off-line .
+- Disconnected operation is a key enabling technology for mobile computing, as it increases the availability and reliability of data and services in the presence of network limitations such as short range, inability to operate underground and in steel-framed buildings, or line-of-sight constraints .
+- Disconnected operation requires mechanisms to handle the following issues :
+  - Data consistency: how to ensure that the data accessed by the mobile client is up-to-date and consistent with the data stored in the server, and vice versa.
+  - Data replication: how to replicate data between the mobile client and the server, and among multiple servers, to improve data availability and performance.
+  - Data reconciliation: how to resolve conflicts that may arise due to concurrent updates on the same data by different clients or servers, or due to network partitions and merges.
+  - Data adaptation: how to adapt the data to the varying resource constraints and preferences of the mobile client, such as bandwidth, battery, storage, screen size, etc.
+  - Data caching: how to cache data locally on the mobile client to reduce network traffic and latency, and to enable offline access.
+  - Data hoarding: how to select and prefetch data that is likely to be needed by the mobile client in the future, based on the user's profile, behavior, and context.
+  - Data dissemination: how to push data from the server to the mobile client, or from one mobile client to another, based on the user's interests, subscriptions, and location.
+- Disconnected operation can be classified into two types :
+  - Voluntary disconnection: when the user intentionally decides to work offline, for example, to save battery power, to avoid network charges, or to have more privacy.
+  - Involuntary disconnection: when the user is forced to work offline, for example, due to network failures, congestion, or mobility.
+- Disconnected operation can be implemented using different techniques, such as :
+  - Mobile computation: using mobile agents or code to migrate between the mobile client and the server, or among multiple servers, to perform tasks on behalf of the user.
+  - Server replication: replicating the server functionality on the mobile client, or on multiple servers, to provide local or distributed services to the user.
+  - Client caching: caching data or code on the mobile client, or on multiple clients, to provide fast and offline access to the user.
+  - Data synchronization: synchronizing data or code between the mobile client and the server, or among multiple clients or servers, to ensure data consistency and reconciliation.
+  - Data adaptation: adapting data or code to the resource constraints and preferences of the mobile client, or to the network conditions and context of the user.
+  - Data dissemination: disseminating data or code from the server to the mobile client, or from one mobile client to another, to provide timely and relevant information to the user.

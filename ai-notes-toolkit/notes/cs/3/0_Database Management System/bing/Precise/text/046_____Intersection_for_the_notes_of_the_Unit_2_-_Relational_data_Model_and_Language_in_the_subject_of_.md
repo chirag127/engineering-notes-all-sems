@@ -1,0 +1,11 @@
+### Intersection
+- Intersection is a set operation in relational algebra.
+- It is denoted by the symbol ∩.
+- The intersection operation takes two relations as input and produces a new relation as output.
+- The resulting relation contains all tuples that are common to both input relations.
+- The two input relations must be union-compatible, meaning they must have the same number of attributes and the corresponding attributes must have the same domain.
+- The resulting relation has the same schema as the input relations.
+- Intersection is a commutative operation, meaning the order of the input relations does not matter.
+- Intersection can be used to find common data between two relations.
+- For example, if we have two relations R1 and R2 representing the employees of two different departments, the intersection R1 ∩ R2 would give us the employees that work in both departments.
+- Intersection can be expressed in terms of other relational algebra operations, such as difference and union. The expression R1 ∩ R2 is equivalent to R1 - (R1 - R2).

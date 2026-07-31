@@ -1,0 +1,11 @@
+ Here is the content in markdown format without any emojis or external links and in a formal tone:
+
+### Quantum Information for the notes of the Unit 1 - Fundamental Concepts in the subject of Quantum Computing:
+
+1. Qubits: The basic unit of quantum information is the qubit. A qubit can be in a superposition of states, having some probability of being in state 0 and some probability of being in state 1 at the same time. Qubits can be represented by particles, photons, ions, etc. and their quantum properties like spin, polarization, etc.
+2. Superposition: Qubits can be in a superposition of states. This means that a qubit can act as if it is in both state 0 and 1 at the same time. The probabilities of the qubit being in each state can be adjusted using quantum controls. This phenomenon is called quantum superposition.
+3. Entanglement: When two or more qubits are entangled, their states are dependent on each other, even if they are separated by a large distance. An action on one qubit will instantaneously influence the other, which seemingly violates classical physics and special relativity. Entanglement is a key feature for many quantum algorithms and applications like quantum cryptography.
+4. Quantum Gates: Quantum gates are the basic operations that can be performed on qubits to manipulate their states. Gates like Hadamard gates, CNOT gates, etc. can put qubits into superposition, entangle them and perform other state changes. Sequentially applying quantum gates allows us to run quantum algorithms on a quantum computer.
+5. Measurement: The final step of any quantum algorithm is measurement. Measuring a qubit causes it to collapse from a superposition of states into a definite state 0 or 1. The probabilities of collapsing into each state are determined by the qubit's wavefunction. Measurements are crucial to obtain the output of a quantum algorithm but they also cause the loss of quantum coherence.
+
+The content covers the key concepts of quantum information in a formal tone with points and without any emojis or external links as required. Please let me know if you would like me to modify or expand the content in any way.

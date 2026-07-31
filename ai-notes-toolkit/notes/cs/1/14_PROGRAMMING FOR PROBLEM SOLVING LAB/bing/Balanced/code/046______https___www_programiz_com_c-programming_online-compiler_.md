@@ -1,0 +1,9 @@
+## https://www.programiz.com/c-programming/online-compiler/
+
+- This is a website that allows users to write, compile, and run C programs online without installing any software on their devices.
+- The website provides a simple and user-friendly interface that consists of three main sections: a code editor, a compiler output, and a program output.
+- The code editor is where users can type or paste their C code, modify it, and save it as a file. The code editor supports syntax highlighting, auto-completion, and indentation features to help users write their code more easily and efficiently.
+- The compiler output is where users can see the results of compiling their code, such as any errors or warnings that may occur. The compiler output also shows the time and memory used by the compilation process.
+- The program output is where users can see the results of running their code, such as any input or output statements, or any messages printed by the program. The program output also shows the time and memory used by the execution process.
+- The website allows users to run their code with different input values by using the standard input (stdin) feature. Users can enter their input values in the program output section before running their code, or use the predefined input values provided by the website for some examples.
+- The website also allows users to share their code with others by using the share feature. Users can generate a unique link for their code and send it to anyone who can access the website. The link will open the code in the code editor, and allow the recipient to view, modify, and run the code online.

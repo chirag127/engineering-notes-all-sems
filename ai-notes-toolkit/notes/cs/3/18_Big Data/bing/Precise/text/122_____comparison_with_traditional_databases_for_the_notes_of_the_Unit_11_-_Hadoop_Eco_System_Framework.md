@@ -1,0 +1,7 @@
+### Comparison with Traditional Databases
+
+- Traditional database systems function better when the volume of the data is low, that is, in gigabytes at most. The database system may fail to give smooth results if the data size is in terabytes or petabytes. On the other hand, the Hadoop system works better even if the data size is huge.
+- Hadoop can be used to process a huge volume of data effectively compared to the traditional relational database management systems.
+- Hadoop’s ability to join, aggregate, and analyze vast stores of multi-source data without having to structure it first allows organizations to gain deeper insights quickly. Thus Hadoop is a perfect fit for companies looking to store, manage, and analyze large volumes of unstructured data.
+- Both Hadoop and traditional relational databases require technical know-how and getting this knowledge is expensive. Generally speaking, most relational databases are arguably easier to use. This is because there are fewer moving pieces in comparison.
+- Many firms understand the value of organizing data using relational database technologies. However, both data warehouses and Hadoop need to factor into a company’s Data Architecture.

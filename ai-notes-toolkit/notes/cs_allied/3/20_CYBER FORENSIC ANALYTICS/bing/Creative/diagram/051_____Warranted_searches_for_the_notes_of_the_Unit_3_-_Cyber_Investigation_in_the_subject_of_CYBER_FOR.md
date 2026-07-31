@@ -1,0 +1,12 @@
+### Warranted Searches
+
+- A warranted search is a search that is authorized by a court order based on probable cause that a crime has been committed and that evidence of the crime may be found in a specific location or device .
+- A warranted search of a computer or electronic device may involve seizing, copying, or analyzing the data stored on the device, using manual or forensic methods .
+- A manual search is a search that involves visually inspecting the contents of the device, such as files, folders, emails, photos, etc., without using any specialized software or tools .
+- A forensic search is a search that involves using specialized software or tools to extract, recover, or decrypt data from the device, such as deleted files, hidden partitions, encryption keys, etc .
+- A warranted search of a computer or electronic device must comply with the Fourth Amendment of the U.S. Constitution, which protects the right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures .
+- The Fourth Amendment requires that a search warrant be executed within a reasonable time of issuance, and that the scope and manner of the search be reasonable and proportional to the crime and the evidence sought .
+- The Fourth Amendment also allows for some exceptions to the warrant requirement, such as the border search exception, which permits the government to conduct routine inspections and searches of individuals and their belongings at the U.S. border without a warrant or any individualized suspicion of criminal activity.
+- However, the border search exception is not unlimited, and some courts have held that more intrusive or non-routine searches of electronic devices at the border, such as forensic searches, require reasonable suspicion that the device contains contraband or evidence of a crime.
+- A warranted search of a computer or electronic device is an important tool for law enforcement agencies to fight e-crime and to collect relevant digital evidence for all crimes, but it also raises significant privacy and security concerns for the owners and users of the devices.
+- Therefore, a warranted search of a computer or electronic device must balance the interests of law enforcement and the rights of the individuals, and follow the legal and ethical principles of digital forensics.

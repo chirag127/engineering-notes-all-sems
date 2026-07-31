@@ -1,0 +1,25 @@
+# Synthesis of Adipic Acid
+
+- Adipic acid is a dicarboxylic acid with the formula C6H10O4. It is mainly used for the production of nylon, polyurethanes, and other polymers.
+- The conventional method for the synthesis of adipic acid is the oxidation of a mixture of cyclohexanone and cyclohexanol (KA oil) with nitric acid  .
+- The oxidation of KA oil involves several steps and intermediate products, such as cyclohexanone oxime, 6-hydroxyimino-6-nitrohexanoic acid, and 6-aminohexanoic acid.
+- The oxidation of KA oil also generates nitrous oxide (N2O), a greenhouse gas and an ozone-depleting substance, as a by-product .
+- The conventional method for the synthesis of adipic acid has several drawbacks, such as high energy consumption, low selectivity, and environmental pollution  .
+- Alternative methods for the synthesis of adipic acid have been explored, such as the oxidation of cyclohexene, the hydrocarboxylation of butadiene, the carbonylation of ethylene glycol, and the bioconversion of glucose and its derivatives .
+- These alternative methods aim to use renewable and less toxic feedstocks, to reduce the formation of by-products, and to improve the catalytic efficiency and selectivity .
+- The synthesis of adipic acid from glucose and its derivatives is a promising approach, as it can utilize biomass as a renewable and abundant source of carbon.
+- However, the synthesis of adipic acid from glucose and its derivatives faces several challenges, such as the low yield, the high reaction temperature and pressure, the complex reaction mechanism, and the design of suitable nanocatalysts.
+- Nanocatalysts are materials with nanoscale dimensions that can enhance the rate and selectivity of chemical reactions.
+- Nanocatalysts for the synthesis of adipic acid from glucose and its derivatives should have the following properties:
+  - High activity and stability for the oxidation of glucose and its derivatives to adipic acid.
+  - High selectivity and specificity for the formation of adipic acid and the suppression of side reactions and by-products.
+  - High recyclability and reusability for the reduction of catalyst consumption and waste generation.
+  - Low toxicity and environmental impact for the safety and sustainability of the process.
+- Some examples of nanocatalysts that have been reported for the synthesis of adipic acid from glucose and its derivatives are:
+  - Gold nanoparticles supported on carbon nanotubes (Au/CNTs).
+  - Palladium nanoparticles supported on carbon nanofibers (Pd/CNFs).
+  - Ruthenium nanoparticles supported on carbon nanospheres (Ru/CNSs).
+  - Bimetallic nanoparticles of platinum and palladium supported on carbon nanotubes (PtPd/CNTs).
+  - Bimetallic nanoparticles of platinum and ruthenium supported on carbon nanotubes (PtRu/CNTs).
+  - Bimetallic nanoparticles of platinum and gold supported on carbon nanotubes (PtAu/CNTs).
+- The synthesis of adipic acid from glucose and its derivatives is still an active area of research, and further optimization and innovation are needed to overcome the challenges and to achieve a green and efficient process.

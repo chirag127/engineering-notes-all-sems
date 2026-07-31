@@ -1,0 +1,26 @@
+### Theory of Inference for the notes of the Unit 4 - Propositional Logic in the subject of Discrete Structures & Theory of Logic
+
+- Propositional logic is the branch of logic that studies ways of combining or altering statements or propositions to form more complicated statements or propositions.
+- A proposition is a declarative sentence that is either true or false, but not both.
+- Examples of propositions are: "It is raining.", "2 + 2 = 4.", "Sydney is an AI assistant."
+- Examples of non-propositions are: "What time is it?", "x + y = z.", "Hello."
+- Propositional logic uses symbols to represent propositions and logical connectives to join them.
+- Examples of symbols and connectives are: p, q, r, ¬ (not), ∧ (and), ∨ (or), → (implies), ↔ (if and only if).
+- A truth table is a table that shows the truth value of a compound proposition for every possible combination of truth values of its components.
+- A tautology is a compound proposition that is always true, regardless of the truth values of its components.
+- A contradiction is a compound proposition that is always false, regardless of the truth values of its components.
+- A contingency is a compound proposition that is neither a tautology nor a contradiction, meaning that it can be true or false depending on the truth values of its components.
+- A logical equivalence is a relation between two propositions that have the same truth value in every possible situation.
+- A logical implication is a relation between two propositions that says that whenever the first proposition is true, the second proposition must also be true.
+- A logical argument is a sequence of propositions that ends with a conclusion, which is supposed to follow from the preceding propositions, called premises.
+- A valid argument is a logical argument in which the conclusion is logically implied by the premises, meaning that it is impossible for the premises to be true and the conclusion to be false.
+- An invalid argument is a logical argument in which the conclusion is not logically implied by the premises, meaning that it is possible for the premises to be true and the conclusion to be false.
+- A sound argument is a valid argument in which the premises are also true.
+- An unsound argument is an invalid argument or a valid argument with at least one false premise.
+- A rule of inference is a logical rule that allows us to derive a new proposition from one or more existing propositions, based on the logical structure of the propositions.
+- A popular rule of inference in propositional logic is modus ponens, which says that if p implies q and p is true, then q is also true .
+- Another popular rule of inference in propositional logic is modus tollens, which says that if p implies q and q is false, then p is also false.
+- A third popular rule of inference in propositional logic is contraposition, which says that if p implies q, then not q implies not p.
+- Rules of inference can be used to construct logical proofs, which are sequences of propositions that use rules of inference to show that a conclusion follows from a set of premises.
+- A proof is valid if it uses only valid rules of inference and the premises are true.
+- A proof is invalid if it uses an invalid rule of inference or the premises are false.

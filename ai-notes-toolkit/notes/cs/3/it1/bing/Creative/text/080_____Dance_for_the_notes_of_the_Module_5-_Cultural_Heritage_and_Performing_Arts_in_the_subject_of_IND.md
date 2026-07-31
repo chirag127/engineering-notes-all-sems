@@ -1,0 +1,8 @@
+### Dance
+
+Dance is an ancient and celebrated cultural tradition in India. It comprises numerous styles of dances, generally classified as classical or folk. As with other aspects of Indian culture, different forms of dances originated in different parts of India, developed according to the local traditions and also imbibed elements from other parts of the country.
+
+- Classical dances are those that have a codified and well-established set of rules and techniques, and are usually performed on religious or cultural occasions. There are six forms of classical dances recognised by India on a national level. They are Bharatnatyam, Kathak, Kathakali, Manipuri, Kuchipudi, and Odissi .
+- Folk dances are those that are performed by the common people, often spontaneously, and reflect the regional and ethnic diversity of India. They are usually associated with festivals, seasons, harvests, weddings, or other social occasions. Some examples of folk dances are Bhangra, Garba, Dandiya, Bihu, Lavani, and Chhau.
+- In traditional Indian culture, the function of dance was to give symbolic expression to religious ideas. The figure of Lord Shiva as Nataraja represents the creation and destruction of the cosmic cycle. The popular image of Shiva in the form of Nataraja clearly shows the popularity of dance form on the Indian people.
+- Dance and song features heavily in Indian cinema (so-called “Bollywood” films), too. These films often incorporate elements of classical and folk dances, as well as modern and western styles, to create a unique and popular genre of entertainment.

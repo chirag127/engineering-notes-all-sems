@@ -1,0 +1,12 @@
+#### c) Get the status of a bulb at a remote place (on the LAN) through web.
+
+Here are some important points to consider when trying to get the status of a bulb at a remote location on a LAN through a web interface:
+
+- A Local Area Network (LAN) is a network that is confined to a relatively small area, such as a home or office building. It is typically used for connecting devices to each other, such as computers, printers, and smart home devices like bulbs.
+- In order to get the status of a bulb on a remote LAN, you will need to use a web interface that is connected to the same network as the bulb. This can typically be accessed through a web browser, such as Google Chrome or Mozilla Firefox.
+- One common protocol for communicating with smart home devices on a LAN is the Simple Service Discovery Protocol (SSDP). This protocol allows devices to announce their presence on the network and provide information about their capabilities.
+- Another protocol that is commonly used for smart home devices is the Home Automation Protocol (HAP). This protocol is used by Apple's HomeKit platform, and provides a secure way to communicate with smart home devices over a LAN.
+- In order to get the status of a bulb on a remote LAN, you will need to know the IP address of the device. This can typically be found by looking at the settings for the bulb, or by using a network scanner tool to discover all devices on the network.
+- Once you have the IP address of the bulb, you can use a web browser to connect to the web interface for the device. This will typically involve entering the IP address into the address bar of the browser, along with any login credentials that are required.
+- Once you are connected to the web interface for the bulb, you should be able to see the current status of the device. This may be displayed as a simple on/off switch, or as a more detailed interface that allows you to control the brightness or color of the bulb.
+- It is important to note that in order to access the web interface for a bulb on a remote LAN, you will need to have the appropriate permissions and access rights. This may require you to be on the same network as the bulb, or to have a VPN connection that allows you to access the network remotely.

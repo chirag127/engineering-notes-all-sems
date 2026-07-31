@@ -1,0 +1,22 @@
+# Basic concepts for the notes of the Unit 2 - Semantic Data Models in the subject of INTELLIGENT DATABASE SYSTEM
+
+- A semantic data model (SDM) is a high-level semantics-based database description and structuring formalism (database model) for databases.
+- This database model is designed to capture more of the meaning of an application environment than is possible with contemporary database models.
+- A semantic data model is a conceptual data model that includes semantic information that adds a basic meaning to the data and the relationships that lie between them.
+- A semantic data model is an abstraction that defines how the stored symbols (the instance data) relate to the real world.
+- A semantic data model can express and exchange information that enables interoperability, integration, and reasoning.
+- A semantic data model can use various techniques to represent the data and the relationships, such as:
+  - Classification: This classifies different objects in objective reality by using “instance of” relations, such as “John is an instance of Person”.
+  - Aggregation: Aggregation defines a new object from a set of objects that become its components using “has a” relations, such as “A car has a wheel”.
+  - Generalization: Generalization defines a new object from a set of objects that share some common characteristics using “is a” relations, such as “A dog is a mammal”.
+  - Association: Association defines a new relationship between two or more objects using “related to” relations, such as “Alice is related to Bob”.
+- A semantic data model can use various notations to represent the data and the relationships, such as:
+  - Entity-relationship diagrams (ERDs): These use graphical symbols to show the entities, attributes, and relationships in a database.
+  - Unified Modeling Language (UML): This is a standard language for modeling software systems that can also be used to model databases.
+  - Resource Description Framework (RDF): This is a framework for representing information on the web using triples of subject, predicate, and object.
+  - Web Ontology Language (OWL): This is a language for defining and reasoning about ontologies, which are formal descriptions of concepts and their relationships.
+- A semantic data model can provide various benefits, such as:
+  - Improving the communication and understanding between the users and the developers of a database system.
+  - Enhancing the quality and consistency of the data and the relationships.
+  - Facilitating the integration and interoperability of heterogeneous data sources.
+  - Enabling the inference and discovery of new knowledge from the existing data.

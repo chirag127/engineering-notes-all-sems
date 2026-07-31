@@ -1,0 +1,26 @@
+### Keys for the notes of the Unit 2 - Data Modeling using the Entity Relationship Model in the subject of Basics of Data Base Management System
+
+- Data modeling is a method for designing and representing complex data systems.
+- Entity Relationship Model (ER Model) is a type of data modeling that uses diagrams to show the structure and relationships of entities in a database .
+- An entity is an object or concept that can be identified and distinguished from others, such as a person, place, or thing .
+- An attribute is a property or characteristic of an entity, such as a name, age, or address .
+- A relationship is an association or connection between two or more entities, such as a student enrolls in a course, or a customer orders a product .
+- An Entity Relationship Diagram (ER Diagram) is a graphical representation of the ER Model, using symbols and notation to show the entities, attributes, and relationships in a database  .
+- An ER Diagram can be drawn at three different levels: conceptual, logical, or physical, depending on the level of detail and purpose of the design.
+- A conceptual ER Diagram shows the high-level view of the database, without specifying the data types or constraints of the attributes or relationships.
+- A logical ER Diagram shows the detailed view of the database, including the data types and constraints of the attributes and relationships, as well as the primary keys and foreign keys.
+- A primary key is an attribute or a combination of attributes that uniquely identifies each entity in a relation .
+- A foreign key is an attribute or a combination of attributes that references the primary key of another relation, to establish a relationship between them .
+- A physical ER Diagram shows the implementation view of the database, including the specific names and formats of the tables, columns, and indexes.
+- ER Diagrams use different symbols and notation to represent the entities, attributes, and relationships in a database, such as rectangles, ovals, diamonds, lines, and crow's feet   .
+- A rectangle represents an entity, and the name of the entity is written inside the rectangle   .
+- An oval represents an attribute, and the name of the attribute is written inside the oval   .
+- A line connects an entity and an attribute, to show that the attribute belongs to the entity   .
+- A diamond represents a relationship, and the name of the relationship is written inside the diamond   .
+- A line connects two entities and a relationship, to show that the entities participate in the relationship   .
+- A crow's foot at the end of a line indicates the cardinality of the relationship, which is the number of instances of one entity that can be associated with one instance of another entity   .
+- A single line indicates a one-to-one relationship, which means that one instance of an entity can be associated with at most one instance of another entity   .
+- A double line indicates a one-to-many relationship, which means that one instance of an entity can be associated with many instances of another entity   .
+- A three-pronged line indicates a many-to-many relationship, which means that many instances of an entity can be associated with many instances of another entity   .
+- An attribute can be classified as simple or composite, single-valued or multi-valued, derived or stored, or key or non-key  .
+- A simple attribute is an attribute that cannot be divided into sub-attributes, such as a name or a phone number[^2

@@ -1,0 +1,22 @@
+### Peer-to-Peer Computing
+
+- Peer-to-peer (P2P) computing is a distributed application architecture that partitions tasks or workloads between peers.
+- Peers are equally privileged, equipotent participants in the network. They are said to form a peer-to-peer network of nodes.
+- In a P2P network, the peers are computer systems which are connected to each other via the Internet. Files can be shared directly between systems on the network without the need of a central server. In other words, each computer on a P2P network becomes a file server as well as a client.
+- P2P computing has several advantages over the traditional client-server model, such as:
+  - Scalability: P2P networks can handle more users and traffic by adding more peers, without requiring expensive and centralized servers.
+  - Fault-tolerance: P2P networks can tolerate failures of some peers, as the data and services are replicated among other peers.
+  - Autonomy: P2P networks allow peers to control their own resources and data, without depending on a central authority or intermediary.
+  - Performance: P2P networks can reduce network congestion and latency by using local or nearby peers for data transfer, instead of distant servers.
+- P2P computing also has some challenges and limitations, such as:
+  - Security: P2P networks are vulnerable to attacks and malicious activities by some peers, such as spreading viruses, stealing data, or compromising privacy.
+  - Quality: P2P networks may not guarantee the quality or availability of the data and services provided by the peers, as they may be outdated, incomplete, or unreliable.
+  - Management: P2P networks may be difficult to manage and coordinate, as they lack a central authority or standard protocol for communication and collaboration among the peers.
+  - Legal: P2P networks may raise legal and ethical issues, such as copyright infringement, piracy, or censorship.
+- P2P computing can be classified into different types, based on the degree of centralization, the structure of the network, or the nature of the application. Some examples of P2P types are:
+  - Pure P2P: There is no central server or coordinator, and all peers are equal and autonomous. Examples: Gnutella, Freenet, BitTorrent.
+  - Hybrid P2P: There is a central server or coordinator that provides some services or functions, but the peers still communicate and share data directly. Examples: Napster, Skype, Spotify.
+  - Structured P2P: The network is organized into a specific topology or structure, such as a ring, a tree, or a grid, to facilitate routing and lookup of data and services. Examples: Chord, Pastry, CAN.
+  - Unstructured P2P: The network has no specific topology or structure, and the peers are connected randomly or dynamically. Examples: Gnutella, Freenet, BitTorrent.
+  - Content-based P2P: The network is based on the content or data that the peers provide or request, such as files, documents, or media. Examples: Napster, Gnutella, BitTorrent.
+  - Service-based P2P: The network is based on the services or functions that the peers provide or request, such as computation, communication, or collaboration. Examples: Skype, SETI@home, JXTA.

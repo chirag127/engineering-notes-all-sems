@@ -1,0 +1,24 @@
+### Alternative hypothesis
+
+- An alternative hypothesis in statistics refers to a proposed statement or argument in the hypothesis test.
+- It indicates the existence of the statistical relationship between variables and usually aligns with the research hypothesis.
+- It is often denoted as Ha or H1.
+- It is the complement to the null hypothesis, which is the default assumption that there is no relationship between variables or no difference between groups.
+- In statistical hypothesis testing, the null hypothesis and alternative hypothesis are two mutually exclusive statements.
+- The alternative hypothesis can be one-sided or two-sided, depending on the direction of the relationship or difference that is being tested.
+- For example, if we want to test whether the mean height of students in a class is different from 170 cm, we can formulate the following hypotheses:
+  - Null hypothesis: The mean height of students is equal to 170 cm.
+  - Alternative hypothesis: The mean height of students is not equal to 170 cm.
+- This is a two-sided alternative hypothesis, because it does not specify whether the mean height is greater or less than 170 cm, only that it is different.
+- Another example, if we want to test whether girls take longer to get ready for school than boys, we can formulate the following hypotheses:
+  - Null hypothesis: The mean time taken by girls to get ready for school is less than or equal to the mean time taken by boys.
+  - Alternative hypothesis: The mean time taken by girls to get ready for school is greater than the mean time taken by boys.
+- This is a one-sided alternative hypothesis, because it specifies the direction of the difference, that is, girls take longer than boys.
+- The alternative hypothesis is the idea, phenomenon, or observation that we want to prove in the hypothesis test.
+- The alternative hypothesis is evaluated against the null hypothesis using a significance level, which is the probability of rejecting the null hypothesis when it is true.
+- The significance level is usually denoted by alpha, and is often set at 0.05 or 5%.
+- If the p-value of the test statistic is less than or equal to the significance level, we reject the null hypothesis and accept the alternative hypothesis.
+- If the p-value of the test statistic is greater than the significance level, we fail to reject the null hypothesis and do not accept the alternative hypothesis.
+- The p-value is the probability of obtaining the observed or more extreme results under the null hypothesis.
+- The p-value depends on the type of test statistic, the sample size, and the assumed distribution of the population.
+- The alternative hypothesis is important for scientific research, as it allows us to test the validity of our assumptions and hypotheses, and to draw conclusions based on statistical evidence.

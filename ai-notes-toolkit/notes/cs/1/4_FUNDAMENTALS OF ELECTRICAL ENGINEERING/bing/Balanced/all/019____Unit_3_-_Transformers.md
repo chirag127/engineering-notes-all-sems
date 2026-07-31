@@ -1,0 +1,16 @@
+## Unit 3 - Transformers
+
+- A transformer is a device that converts alternating current (AC) from one voltage level to another voltage level by using the principle of electromagnetic induction    .
+- A transformer consists of two or more coils of wire, called the primary and secondary coils, that are wound around a common core, usually made of iron or steel .
+- The primary coil is connected to the AC source, and the secondary coil is connected to the load. When an AC voltage is applied to the primary coil, it creates a changing magnetic field in the core, which induces an AC voltage in the secondary coil .
+- The ratio of the number of turns of wire in the primary and secondary coils determines the voltage transformation. If the secondary coil has more turns than the primary coil, the output voltage is higher than the input voltage, and the transformer is called a step-up transformer. If the secondary coil has fewer turns than the primary coil, the output voltage is lower than the input voltage, and the transformer is called a step-down transformer .
+- Transformers are used for various purposes, such as to increase or decrease the voltage of AC power circuits, to isolate different parts of a circuit, to match the impedance of different devices, to transmit electrical energy over long distances, and to control the frequency and phase of AC signals .
+- Transformers are passive components, meaning they do not require any external power source to operate. They are also very efficient, meaning they transfer almost all the input power to the output, with minimal losses due to heat and resistance .
+- Transformers are classified into different types based on their construction, function, and application. Some common types of transformers are:
+
+  - Power transformers: These are large transformers used to transmit high-voltage AC power over long distances. They usually have multiple windings and taps to adjust the output voltage as needed.
+  - Distribution transformers: These are smaller transformers used to distribute low-voltage AC power to residential and commercial buildings. They usually have a single primary winding and multiple secondary windings to provide different voltage levels.
+  - Instrument transformers: These are transformers used to measure or monitor the voltage, current, power, or energy of AC circuits. They usually have a high-accuracy ratio and a low-power output. Examples of instrument transformers are current transformers (CTs) and potential transformers (PTs).
+  - Isolation transformers: These are transformers used to isolate different parts of a circuit or to provide safety and protection from electric shocks. They usually have a 1:1 ratio and a high insulation between the windings.
+  - Auto-transformers: These are transformers that have only one winding, which acts as both the primary and secondary. They are used to provide a small change in voltage or to couple different circuits. They are more compact and efficient than conventional transformers, but they do not provide isolation.
+  - Audio transformers: These are transformers used to transfer audio signals between different devices, such as microphones, amplifiers, speakers, etc. They are used to match the impedance, balance the signal, and reduce noise and interference.

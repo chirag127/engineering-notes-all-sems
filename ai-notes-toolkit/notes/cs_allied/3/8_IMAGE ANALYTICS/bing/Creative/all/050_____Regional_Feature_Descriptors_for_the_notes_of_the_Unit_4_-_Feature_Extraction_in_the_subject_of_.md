@@ -1,0 +1,11 @@
+# Regional Feature Descriptors for Image Analytics
+
+- Regional feature descriptors are methods to extract and describe distinctive and invariant regions in an image, such as corners, edges, blobs, etc.
+- Regional feature descriptors can be used for various image analysis tasks, such as image matching, registration, retrieval, classification, etc.
+- Regional feature descriptors can be divided into two categories: hand-crafted and learned.
+- Hand-crafted feature descriptors are designed based on some prior knowledge or assumptions about the image structure, such as gradient, intensity, color, texture, etc. Examples of hand-crafted feature descriptors are SIFT, SURF, ORB, HOG, LBP, etc.
+- Learned feature descriptors are obtained by training a machine learning or deep learning model on a large dataset of images, such as CNN, autoencoder, etc. Learned feature descriptors can capture more complex and high-level semantic information from the image regions, such as shape, context, object category, etc. Examples of learned feature descriptors are LIFT, HardNet, SuperPoint, etc.
+- Regional feature descriptors can be further classified based on the type and size of the regions they describe, such as point-based, patch-based, or region-based.
+- Point-based feature descriptors are computed from a single pixel or a small neighborhood around a pixel, such as Harris corner, FAST, etc. Point-based feature descriptors are fast and efficient, but they may not be robust to noise, occlusion, or illumination changes.
+- Patch-based feature descriptors are computed from a larger and fixed-size neighborhood around a pixel, such as SIFT, SURF, ORB, etc. Patch-based feature descriptors are more robust and discriminative, but they may not be invariant to scale, rotation, or affine transformations.
+- Region-based feature descriptors are computed from a variable-size and adaptive region around a pixel, such as MSER, KAZE, AKAZE, etc. Region-based feature descriptors are more invariant and flexible, but they may be computationally expensive and sensitive to region detection algorithms.

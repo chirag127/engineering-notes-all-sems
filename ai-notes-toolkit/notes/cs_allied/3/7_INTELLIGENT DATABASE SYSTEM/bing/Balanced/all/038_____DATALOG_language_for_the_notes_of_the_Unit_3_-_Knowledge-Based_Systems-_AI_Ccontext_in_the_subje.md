@@ -1,0 +1,11 @@
+# DATALOG Language
+
+Datalog is a declarative logic programming language that is based on Horn clauses. It is a subset of Prolog, but it uses a bottom-up evaluation model instead of a top-down one. Datalog is often used as a query language for deductive databases, which are databases that can derive new facts from existing facts using logical rules. Datalog can also be used for other applications, such as data integration, information extraction, program analysis, security, and machine learning.
+
+Some of the main features of Datalog are:
+
+- Datalog programs consist of a set of facts and rules. Facts are statements that are true in the database, such as `parent(alice, bob)`. Rules are statements that define how new facts can be derived from existing facts, such as `ancestor(X, Y) :- parent(X, Y)`.
+- Datalog queries are also rules, but they have a special symbol `?` in the head of the clause, such as `?- ancestor(X, bob)`. Queries ask for the values of the variables that make the rule true in the database.
+- Datalog uses a bottom-up evaluation model, which means that it starts from the facts and applies the rules repeatedly until no new facts can be derived. This process is called fixpoint computation. The result of a query is the set of facts that match the query rule in the final database state.
+- Datalog is a logic language, which means that it is based on formal logic and has a well-defined semantics. Datalog programs are declarative, which means that they specify what the desired result is, not how to compute it. Datalog programs are also relational, which means that they use relations (or predicates) to represent data and queries.
+- Datalog has some limitations compared to Prolog, such as the absence of function symbols, negation, and recursion through negation. These limitations make Datalog more efficient and easier to analyze, but also less expressive. However, there are some extensions of Datalog that overcome some of these limitations, such as Datalog with negation, Datalog with aggregates, and Datalog with constraints.

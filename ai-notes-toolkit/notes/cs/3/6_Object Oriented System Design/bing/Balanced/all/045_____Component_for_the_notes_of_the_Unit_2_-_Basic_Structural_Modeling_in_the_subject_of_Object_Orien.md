@@ -1,0 +1,8 @@
+# Component for the notes of the Unit 2 - Basic Structural Modeling in the subject of Object Oriented System Design
+
+- Basic structural modeling is the process of identifying and describing the static structure of a system using object-oriented concepts and notations.
+- The static structure of a system consists of the classes, objects, attributes, operations, and relationships that define the system's behavior and state.
+- Basic structural modeling uses three types of diagrams to represent the static structure of a system: class diagrams, object diagrams, and CRC cards.
+- Class diagrams show the classes and their relationships in a system. Classes are the templates or blueprints for creating objects. Classes have attributes (data) and operations (functions) that define the state and behavior of the objects of that class. Relationships between classes include association, aggregation, composition, generalization, and realization.
+- Object diagrams show the instances of classes and their relationships in a system. Objects are the concrete entities that exist in the system at runtime. Objects have identity, state, and behavior. Objects are linked by references or pointers that represent the relationships between them. Object diagrams are useful for showing examples of scenarios or test cases.
+- CRC cards are index cards that show the class name, its responsibilities, and its collaborators in a system. Responsibilities are the tasks or services that a class performs or provides. Collaborators are the other classes that a class interacts with to fulfill its responsibilities. CRC cards are useful for brainstorming, identifying, and assigning classes and their relationships in a system.

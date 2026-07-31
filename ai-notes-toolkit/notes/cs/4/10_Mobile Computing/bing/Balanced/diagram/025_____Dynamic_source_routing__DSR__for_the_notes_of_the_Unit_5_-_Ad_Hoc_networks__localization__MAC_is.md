@@ -1,0 +1,27 @@
+# Dynamic Source Routing (DSR)
+
+- Dynamic Source Routing (DSR) is a routing protocol for wireless mesh networks .
+- It is an on-demand protocol that forms a route when a source node requests one .
+- It uses source routing instead of relying on the routing table at each intermediate node .
+- Source routing means that the source node specifies the complete sequence of nodes to the destination in the packet header .
+- DSR consists of two main mechanisms: route discovery and route maintenance .
+- Route discovery is the process of finding a route from the source to the destination when there is no cached route available .
+- Route discovery involves sending a route request packet that is flooded through the network until it reaches the destination or a node with a cached route .
+- The route request packet contains the source and destination addresses, a unique identification number, and a list of nodes that have forwarded the packet .
+- The destination or the intermediate node with a cached route sends a route reply packet back to the source along the reverse path of the route request packet .
+- The route reply packet contains the source and destination addresses, the identification number, and the list of nodes that form the route .
+- The source node caches the route and uses it to send data packets to the destination .
+- Route maintenance is the process of detecting and repairing link failures in the route .
+- Route maintenance involves sending route error packets when a node detects a link failure in the route .
+- The route error packet contains the source and destination addresses, the identification number, and the list of nodes that are unreachable due to the link failure .
+- The node that receives the route error packet removes the failed link from its cache and propagates the route error packet to the source node .
+- The source node initiates a new route discovery if it still needs to communicate with the destination .
+- DSR has some advantages and disadvantages over other routing protocols .
+- Advantages:
+  - It reduces the control overhead by eliminating periodic table updates and using caching .
+  - It supports multiple routes to the same destination and allows load balancing and route selection .
+  - It adapts quickly to topology changes and node mobility .
+- Disadvantages:
+  - It consumes more bandwidth and memory due to the source routing header .
+  - It may suffer from stale routes and route loops due to caching .
+  - It may not scale well to large networks due to flooding .

@@ -1,0 +1,9 @@
+### Optimum Notch Filtering
+
+- Optimum notch filtering is a technique for reducing periodic noise in images by minimizing the local variance of the restored image .
+- Periodic noise is a type of noise that has a regular pattern in the spatial or frequency domain, such as interference lines, stripes, or grids.
+- Optimum notch filtering consists of three steps :
+  - First, the regions of noise frequencies are determined by analyzing the spectrum of the noisy image. This can be done by using a threshold or a peak detection algorithm.
+  - Second, the repetitive pattern of the periodic noise is extracted from the noisy image by applying a notch-pass filter on every noise frequency in the frequency domain. A notch-pass filter is a type of filter that passes a narrow range of frequencies around a center frequency, while rejecting the rest of the frequencies. The extracted pattern is then transformed back to the spatial domain by using an inverse 2-D Fourier transform .
+  - Third, the output image is restored by subtracting a variable weighted portion of the extracted pattern from the noisy image. The weight is determined by the optimum notch filter criterion, which tries to minimize the local variance of the restored image .
+- Optimum notch filtering can effectively remove periodic noise from images, while preserving the image details and edges . However, it requires the accurate detection of the noise frequencies and the proper design of the notch-pass filters . Moreover, it may introduce some artifacts or distortions in the restored image if the noise pattern is not completely removed or if the weight is not optimal .

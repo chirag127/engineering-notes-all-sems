@@ -1,0 +1,17 @@
+# Artificial Intelligence
+
+- Artificial intelligence (AI) is the ability of a machine or a computer system to perform tasks that normally require human intelligence, such as learning, reasoning, perception, decision making, and problem solving.
+- AI can be classified into two main types: narrow AI and general AI. Narrow AI is designed to perform specific tasks, such as face recognition, speech recognition, or chess playing. General AI is the hypothetical ability of a machine to exhibit human-like intelligence across a wide range of domains and tasks.
+- AI can be applied to various fields and industries, such as finance, healthcare, education, manufacturing, transportation, entertainment, and security. Some examples of AI applications are:
+  - Personal assistants, such as Siri, Alexa, and Cortana, that can understand natural language and respond to user queries and commands.
+  - Self-driving cars, such as Tesla, Waymo, and Uber, that can navigate complex road environments and avoid collisions.
+  - Recommendation systems, such as Netflix, Amazon, and Spotify, that can analyze user preferences and behavior and suggest relevant products or content.
+  - Fraud detection, such as PayPal, Mastercard, and IBM, that can identify and prevent fraudulent transactions and activities.
+  - Medical diagnosis, such as IBM Watson, Google DeepMind, and Babylon Health, that can analyze medical data and images and provide accurate and timely diagnosis and treatment suggestions.
+- AI can be developed using various methods and techniques, such as machine learning, deep learning, natural language processing, computer vision, expert systems, and neural networks. Some examples of AI methods and techniques are:
+  - Machine learning, which is the process of enabling machines to learn from data and experience without explicit programming. Machine learning can be further divided into supervised learning, unsupervised learning, and reinforcement learning, depending on the type and availability of data and feedback.
+  - Deep learning, which is a subset of machine learning that uses multiple layers of artificial neural networks to learn from large and complex data. Deep learning can perform tasks such as image recognition, natural language generation, and speech synthesis, that are difficult or impossible for traditional machine learning algorithms.
+  - Natural language processing, which is the branch of AI that deals with the interaction between machines and human languages. Natural language processing can perform tasks such as text analysis, sentiment analysis, machine translation, and text summarization, that require understanding and generating natural language.
+  - Computer vision, which is the branch of AI that deals with the processing and understanding of visual information. Computer vision can perform tasks such as face detection, object recognition, scene segmentation, and optical character recognition, that require analyzing and interpreting images and videos.
+  - Expert systems, which are computer programs that emulate the knowledge and reasoning of human experts in a specific domain. Expert systems can perform tasks such as medical diagnosis, legal advice, and financial planning, that require applying domain-specific rules and facts.
+  - Neural networks, which are computational models that mimic the structure and function of biological neurons and synapses. Neural networks can perform tasks such as pattern recognition, function approximation, and data compression, that require learning from nonlinear and noisy data.

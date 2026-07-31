@@ -1,0 +1,23 @@
+### Concepts for the notes of the Unit 2 - Basic Structural Modeling in the subject of Object Oriented System Design
+
+- Basic structural modeling is the process of identifying and describing the static structure of a system using object-oriented concepts and notation.
+- The static structure of a system consists of the objects, classes, attributes, operations, associations, and constraints that define the system's state and behavior.
+- The main concepts and elements of basic structural modeling are:
+  - Object: An instance of a class that has a unique identity, state, and behavior.
+  - Class: A description of a set of objects that share the same attributes, operations, associations, and constraints.
+  - Attribute: A property or characteristic of an object or a class that describes its state or data.
+  - Operation: A function or method that defines the behavior or action of an object or a class.
+  - Association: A relationship between two or more classes that specifies how they are connected or related.
+  - Multiplicity: A specification of how many instances of one class can be associated with one instance of another class.
+  - Role: A name that describes the purpose or function of a class in an association.
+  - Aggregation: A special type of association that represents a whole-part relationship between two classes.
+  - Composition: A stronger form of aggregation that implies that the part cannot exist without the whole.
+  - Generalization: A relationship between a more general class (superclass) and a more specific class (subclass) that inherits the attributes and operations of the superclass.
+  - Abstract class: A class that cannot be instantiated and is used to represent a general concept or behavior.
+  - Interface: A specification of a set of operations that a class must implement to provide a certain service or functionality.
+  - Constraint: A rule or condition that restricts the values or states of an object or a class.
+- The main notation and diagrams for basic structural modeling are:
+  - Unified Modeling Language (UML): A standard graphical language for modeling object-oriented systems using various types of diagrams.
+  - Class diagram: A diagram that shows the classes, attributes, operations, associations, and constraints of a system or a subsystem.
+  - Object diagram: A diagram that shows the objects, values, and links of a system or a subsystem at a specific point in time.
+  - Package diagram: A diagram that shows the organization and dependencies of the classes and subsystems of a system.

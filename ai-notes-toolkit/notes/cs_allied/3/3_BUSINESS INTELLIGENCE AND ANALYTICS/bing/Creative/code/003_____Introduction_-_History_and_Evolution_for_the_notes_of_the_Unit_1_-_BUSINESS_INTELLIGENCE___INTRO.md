@@ -1,0 +1,12 @@
+### Introduction - History and Evolution
+
+- Business intelligence (BI) is the process of collecting, analyzing, and presenting data to support decision making in various domains of business.
+- The term BI was coined in 1989 by Howard Dresner, a former Gartner analyst, who defined it as "concepts and methods to improve business decision making by using fact-based support systems."
+- However, the origins of BI can be traced back to the 19th century, when Richard Millar Devens described how a banker used information about market trends to gain a competitive advantage in his book "Cyclopaedia of Commercial and Business Anecdotes" in 1865.
+- The evolution of BI can be divided into four stages, according to the development of technology and the needs of users:
+  - **Pre-digital era (before 1950s)**: BI was mainly based on manual methods of data collection and analysis, such as census, surveys, and accounting records. The data was often limited, inaccurate, and outdated.
+  - **Early digital era (1950s-1970s)**: BI was influenced by the emergence of computers, databases, and statistical software. The first computerized decision support systems (DSS) were developed to help managers with complex and unstructured problems. The data was stored in centralized mainframes and accessed through terminals.
+  - **Modern digital era (1980s-1990s)**: BI was driven by the proliferation of personal computers, spreadsheets, graphical user interfaces, and online analytical processing (OLAP) tools. The data was extracted from various sources, transformed, and loaded into data warehouses and data marts. The users could perform multidimensional analysis and generate reports and dashboards.
+  - **Post-modern digital era (2000s-present)**: BI was enhanced by the advent of the internet, cloud computing, big data, and artificial intelligence. The data was collected from multiple channels, such as web, social media, sensors, and mobile devices. The users could access and analyze data anytime, anywhere, and on any device. The BI tools became more interactive, visual, and self-service oriented.
+
+- The future of BI is expected to be more automated, intelligent, and collaborative, leveraging technologies such as machine learning, natural language processing, and augmented reality. The data will be more diverse, dynamic, and real-time. The users will be able to ask questions, get insights, and share findings with ease and efficiency.

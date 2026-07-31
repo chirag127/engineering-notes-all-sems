@@ -1,0 +1,24 @@
+# Unit 7 - SPEECH MODELING
+
+- Speech modeling is the process of using speech and language to help the development of speech and language skills in others, especially children or users of augmentative and alternative communication (AAC) tools .
+- Speech modeling can be used for different purposes, such as:
+  - Teaching new words, phrases, or sentence structures
+  - Expanding vocabulary and grammar
+  - Encouraging communication and interaction
+  - Providing feedback and reinforcement
+  - Correcting errors or misconceptions
+- Speech modeling can be done in various ways, such as:
+  - Imitating the target speech or language
+  - Expanding or extending the target speech or language
+  - Recasting or reformulating the target speech or language
+  - Prompting or eliciting the target speech or language
+  - Narrating or describing the target speech or language
+- Speech modeling can be applied to various domains, such as:
+  - Speech recognition: the task of converting speech signals into text or commands
+  - Speech synthesis: the task of generating speech signals from text or commands
+  - Natural language processing: the task of understanding and generating natural language from speech or text
+  - Speech translation: the task of translating speech from one language to another
+- Speech modeling can be enhanced by using machine learning techniques, such as:
+  - Neural networks: a type of artificial intelligence that can learn from data and perform complex tasks
+  - Universal speech model: a family of state-of-the-art speech models that can recognize and understand speech across different languages and accents 
+  - Neural text to speech: a type of speech synthesis that can produce realistic and expressive voices

@@ -1,0 +1,26 @@
+## Modeling Data Flow Diagrams for the notes of the Software Engineering Mapping with Virtual Lab Lab in the subject of Software Engineering
+
+- Data Flow Diagrams (DFDs) are graphical representations of the flow of data and information in a software system. They show how data is input, processed, stored, and output by different entities and processes within the system.   
+- DFDs are useful for modeling the functional aspects of a software system, as they focus on what the system does rather than how it does it. They can also help to identify the sources and destinations of data, the data dependencies, and the data transformations.   
+- DFDs consist of four main components: processes, data stores, data flows, and external entities. 
+  - Processes are the functions or activities that transform data from one form to another. They are represented by circles or rounded rectangles with descriptive names. 
+  - Data stores are the places where data is stored or accessed by the system. They are represented by open-ended rectangles with names. 
+  - Data flows are the paths or channels through which data moves from one component to another. They are represented by arrows with labels indicating the data content and direction. 
+  - External entities are the sources or destinations of data that are outside the scope of the system. They are represented by squares or rectangles with names. 
+- DFDs can be drawn at different levels of abstraction, depending on the level of detail required. The most common levels are:   
+  - Context diagram: This is the highest-level DFD, which shows the system as a single process and its interactions with external entities. It provides an overview of the system's scope and boundaries.  
+  - Level 0 diagram: This is the next level of DFD, which shows the main processes or functions of the system and how they are connected by data flows. It provides a general view of the system's functionality.  
+  - Level 1 diagram: This is the next level of DFD, which shows the sub-processes or modules of each main process and how they are connected by data flows. It provides a detailed view of the system's functionality.  
+  - Level 2 diagram: This is the lowest level of DFD, which shows the elementary processes or tasks of each sub-process and how they are connected by data flows. It provides a very detailed view of the system's functionality.  
+- DFDs follow some basic rules and conventions, such as:   
+  - Every process must have at least one input and one output data flow.  
+  - Every data flow must have a unique name and a clear direction.  
+  - Every data store must be connected to at least one process by a data flow.  
+  - Every external entity must be connected to at least one process by a data flow.  
+  - Data flows cannot cross each other or split into multiple flows.  
+  - Processes cannot have data flows between them without a data store.  
+  - Processes cannot have feedback loops without a data store.  
+  - Processes at the same level of abstraction should have the same level of complexity and detail.  
+- DFDs can be created using various tools and techniques, such as:   
+  - Paper and pencil: This is the simplest and most flexible way of creating DFDs, but it can be prone to errors and inconsistencies. 
+  - Diagramming software: This is the most common and convenient way of creating DFDs, as it provides various features and functions to facilitate the drawing and editing of DFDs. Some examples of diagramming software are Lucidchart, Visio, Draw.io, etc.

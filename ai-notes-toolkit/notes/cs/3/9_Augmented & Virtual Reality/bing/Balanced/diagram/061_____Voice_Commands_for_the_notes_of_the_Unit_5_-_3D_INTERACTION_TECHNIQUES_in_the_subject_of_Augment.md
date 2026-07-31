@@ -1,0 +1,22 @@
+### Voice Commands for the notes of the Unit 5 - 3D INTERACTION TECHNIQUES in the subject of Augmented & Virtual Reality
+
+- Voice commands are a system control technique that allows users to interact with 3D environments using speech input.
+- Voice commands are hands-free and natural, but users may need to learn the specific phrases that the system recognizes.
+- Voice commands can be used to perform actions that require a single activation, such as selecting an object, changing a mode, or issuing a command.
+- Voice commands can also be combined with other input modalities, such as gestures, to create hybrid interfaces that can mitigate the limitations of each technique.
+- Voice commands can be useful for hybrid interfaces or handheld AR, where voice recognition is supported by smartphones or other devices.
+- Voice commands can be used to control various aspects of 3D interaction, such as navigation, manipulation, selection, system control, and symbolic input.
+- Voice commands can be classified into two types: direct and indirect.
+  - Direct voice commands are those that directly map to a specific action or function, such as "rotate", "zoom", or "delete".
+  - Indirect voice commands are those that require some interpretation or inference by the system, such as "make it bigger", "move it there", or "show me more options".
+- Voice commands can have advantages and disadvantages, depending on the context and the application.
+  - Advantages of voice commands include:
+    - They are natural and intuitive for users, especially for commands that are commonly used in natural language.
+    - They are hands-free and do not require any physical device or gesture, which can reduce fatigue and occlusion.
+    - They can be faster and more efficient than other input techniques, especially for complex or long commands.
+    - They can enhance the immersion and realism of the 3D environment, especially for applications that simulate natural scenarios or dialogues.
+  - Disadvantages of voice commands include:
+    - They may have low accuracy and reliability, depending on the quality of the voice recognition system and the background noise.
+    - They may have high cognitive load and memory demand, as users need to remember the correct phrases and syntax for each command.
+    - They may have low privacy and social acceptability, as users may not want to speak out loud in public or in front of others.
+    - They may have low feedback and error correction, as users may not know if the system understood their command or how to undo or modify it.

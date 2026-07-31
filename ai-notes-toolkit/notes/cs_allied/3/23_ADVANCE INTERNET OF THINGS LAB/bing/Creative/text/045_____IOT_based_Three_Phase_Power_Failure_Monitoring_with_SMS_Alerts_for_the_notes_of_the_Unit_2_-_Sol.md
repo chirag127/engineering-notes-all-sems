@@ -1,0 +1,9 @@
+### IOT based Three Phase Power Failure Monitoring with SMS Alerts
+
+- This is a system that monitors the status of a three-phase power supply and alerts the authorized person via SMS in case of any failure in one or more phases.
+- A three-phase power supply is a common form of electric power transmission and distribution that consists of three alternating currents of equal frequency and amplitude that are offset in phase by 120 degrees.
+- A phase loss or single phasing occurs when one of the three phases is lost due to a blown fuse, thermal overload, broken wire, worn contact or mechanical failure. This can cause damage to the equipment and appliances connected to the power supply, as well as increase the risk of fire and electric shock.
+- The system uses an IOT device such as Arduino or Raspberry Pi to measure the voltage of each phase using potential transformers and display the values on an LCD screen. The device is also connected to a GSM module that can send SMS messages to a predefined mobile number using a SIM card.
+- The system can be configured to set a threshold voltage for each phase, below which the system will consider it as a failure and send an SMS alert. The system can also send periodic SMS updates on the power status to the authorized person.
+- The system can be deployed in various applications such as industrial plants, commercial buildings, residential complexes, hospitals, schools, etc. where uninterrupted power supply is essential for safety and efficiency.
+- The system can help in reducing the downtime and maintenance costs of the power supply, as well as improving the reliability and quality of the power service. The system can also prevent the wastage of energy and resources due to power failures.

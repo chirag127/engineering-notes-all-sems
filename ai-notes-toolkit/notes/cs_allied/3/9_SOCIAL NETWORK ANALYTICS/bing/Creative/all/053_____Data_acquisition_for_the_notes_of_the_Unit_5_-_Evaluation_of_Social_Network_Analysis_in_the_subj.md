@@ -1,0 +1,22 @@
+# Data acquisition for social network analysis
+
+- Data acquisition is the process of collecting and preparing data from various sources for social network analysis (SNA).
+- SNA is the process of investigating social structures through the use of networks and graph theory.
+- SNA can be applied to various domains, such as sociology, communication, marketing, politics, biology, and computer science.
+- Data acquisition for SNA involves the following steps:
+  - Define the research question and the scope of the network to be analyzed.
+  - Identify the data sources and the types of data available, such as textual, numerical, relational, or multimedia data.
+  - Choose the appropriate data acquisition technique, such as network traffic analysis, application programming interfaces (APIs), or web crawling.
+  - Extract the relevant data from the sources, such as nodes (actors), ties (relationships), and attributes (properties) of the network.
+  - Clean, transform, and integrate the data to ensure its quality, consistency, and compatibility.
+  - Store, manage, and access the data using suitable data structures and formats, such as matrices, lists, graphs, or databases.
+- Data acquisition for SNA poses several challenges, such as:
+  - Data availability and accessibility, which depend on the policies and permissions of the data sources, such as social media platforms, websites, or organizations.
+  - Data volume and variety, which require efficient and scalable data processing and storage techniques, such as distributed computing, cloud computing, or big data analytics.
+  - Data validity and reliability, which depend on the accuracy, completeness, and timeliness of the data, as well as the potential biases, errors, and noise in the data.
+  - Data ethics and privacy, which require respecting the rights and preferences of the data owners and users, such as informed consent, anonymity, confidentiality, and security.
+- Data acquisition for SNA can be improved by:
+  - Using multiple and complementary data sources and techniques to increase the coverage and diversity of the data.
+  - Applying data quality assessment and improvement methods, such as data cleaning, validation, verification, and imputation.
+  - Adopting data governance and management practices, such as data documentation, metadata, provenance, and standards.
+  - Following data ethics and privacy principles and regulations, such as data minimization, anonymization, encryption, and consent.

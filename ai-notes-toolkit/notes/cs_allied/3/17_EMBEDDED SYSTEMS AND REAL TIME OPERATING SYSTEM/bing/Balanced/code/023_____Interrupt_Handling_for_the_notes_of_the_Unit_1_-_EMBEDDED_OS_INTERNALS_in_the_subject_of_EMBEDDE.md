@@ -1,0 +1,21 @@
+### Interrupt Handling for the notes of the Unit 1 - EMBEDDED OS INTERNALS in the subject of EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM
+
+- An interrupt is a signal to the processor emitted by hardware or software indicating an event that needs immediate attention.
+- Interrupts are indispensable when writing any practical embedded firmware, as they allow the CPU to respond to external events that are not synchronized to the software running on the system .
+- Interrupts can be classified into two types: software interrupts and hardware interrupts.
+  - Software interrupts are called from software, using a specified command. They are used to invoke system calls or exception handlers.
+  - Hardware interrupts are triggered by peripheral devices outside the micro-controller. For instance, your embedded system may contain a timer that sends a pulse to the controller every second, or a button that generates a signal when pressed.
+- Interrupts have several advantages over polling, such as reducing CPU overhead, improving responsiveness, and simplifying the software design.
+- Interrupts also have some challenges, such as handling multiple interrupts, prioritizing interrupts, saving and restoring the CPU context, and synchronizing with the main program .
+- Interrupt handling in embedded systems involves the following steps :
+  - When an interrupt occurs, the CPU executes the current running instruction then stores the necessary stack pointer and program counter (PC) information somewhere in RAM allocated for the current function.
+  - The CPU then jumps to a predefined address in the memory, called the interrupt vector table, which contains the addresses of the interrupt service routines (ISRs) for each interrupt source.
+  - The CPU executes the ISR corresponding to the interrupt source, which performs the necessary actions to handle the interrupt, such as reading or writing data from or to the peripheral device, clearing the interrupt flag, and sending an acknowledgment to the device.
+  - The ISR then returns from the interrupt, restoring the CPU context from the RAM and resuming the execution of the main program from where it was interrupted.
+- Interrupt handling in embedded systems requires careful design and testing, as it can affect the performance, reliability, and security of the system . Some of the best practices for interrupt handling are:
+  - Keep the ISRs as short and simple as possible, and avoid blocking or waiting operations in them.
+  - Use interrupt priorities to handle multiple interrupts and avoid missing or delaying critical interrupts.
+  - Use semaphores, mutexes, or flags to synchronize the ISRs with the main program and prevent data corruption or race conditions.
+  - Use interrupt masking or disabling to protect critical sections of code from being interrupted by lower priority interrupts.
+  - Use nested interrupts to allow higher priority interrupts to interrupt lower priority interrupts, if supported by the hardware and the OS.
+  - Use interrupt latency analysis to measure and optimize the time taken by the CPU to respond to an interrupt and complete the ISR.

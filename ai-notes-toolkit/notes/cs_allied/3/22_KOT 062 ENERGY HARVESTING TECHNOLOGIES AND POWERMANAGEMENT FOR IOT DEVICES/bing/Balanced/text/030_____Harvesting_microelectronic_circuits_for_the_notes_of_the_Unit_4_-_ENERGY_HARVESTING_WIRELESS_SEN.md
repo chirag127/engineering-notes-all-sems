@@ -1,0 +1,10 @@
+### Harvesting Microelectronic Circuits
+
+- Harvesting microelectronic circuits are circuits that can extract and convert ambient energy sources, such as light, heat, vibration, or radio waves, into electrical energy for powering low-power devices, such as wireless sensors, biomedical implants, or wearable electronics .
+- Harvesting microelectronic circuits typically consist of three main components: a transducer, a power converter, and a power management unit .
+  - A transducer is a device that converts one form of energy into another, such as a photovoltaic cell, a thermoelectric generator, a piezoelectric element, or an antenna .
+  - A power converter is a circuit that adapts the output voltage and current of the transducer to the input requirements of the load, such as a boost converter, a buck converter, or a charge pump .
+  - A power management unit is a circuit that regulates and controls the power flow between the source, the storage, and the load, such as a voltage regulator, a battery charger, or a power switch .
+- Harvesting microelectronic circuits face several challenges and trade-offs, such as low and variable input power, high conversion efficiency, low quiescent power, small size and weight, and compatibility with the application .
+- Harvesting microelectronic circuits require careful design and optimization of the transducer, the power converter, and the power management unit, as well as the integration and coordination of these components, to achieve the best performance and reliability .
+- Harvesting microelectronic circuits have many advantages and applications, such as extending the battery life or eliminating the need for batteries, reducing the maintenance and environmental costs, enabling new functionalities and features, and enhancing the mobility and autonomy of the devices .

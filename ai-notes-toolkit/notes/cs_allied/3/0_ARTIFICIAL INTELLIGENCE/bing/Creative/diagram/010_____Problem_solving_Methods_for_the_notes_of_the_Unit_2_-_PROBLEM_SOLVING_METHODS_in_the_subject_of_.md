@@ -1,0 +1,16 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the Unit 2 - PROBLEM SOLVING METHODS in the subject of ARTIFICIAL INTELLIGENCE KCS. Here is the content I have generated for you in markdown format:
+
+### Problem solving Methods
+
+- Problem solving methods are general strategies or techniques that can be applied to different types of problems in AI.
+- Problem solving methods can be classified into two categories: **search-based methods** and **knowledge-based methods**.
+- Search-based methods involve exploring a large space of possible solutions or states, and finding the one that satisfies some goal or criteria. Search-based methods can be further divided into **uninformed search** and **informed search**.
+- Uninformed search methods do not use any domain-specific knowledge or heuristics to guide the search. They rely on brute-force or trial-and-error approaches. Examples of uninformed search methods are **breadth-first search**, **depth-first search**, **uniform-cost search**, and **iterative deepening search**.
+- Informed search methods use some domain-specific knowledge or heuristics to guide the search. They try to find the most promising or optimal solution or state. Examples of informed search methods are **greedy search**, **A* search**, **hill-climbing search**, and **simulated annealing**.
+- Knowledge-based methods involve using some domain-specific knowledge or rules to solve the problem. Knowledge-based methods can be further divided into **logic-based methods** and **non-logic-based methods**.
+- Logic-based methods use formal logic systems, such as **propositional logic**, **predicate logic**, or **modal logic**, to represent and reason about the problem. Logic-based methods can be further divided into **deductive methods** and **inductive methods**.
+- Deductive methods use logical rules and facts to derive new conclusions or facts. Examples of deductive methods are **resolution**, **forward chaining**, and **backward chaining**.
+- Inductive methods use logical rules and facts to infer new rules or generalizations. Examples of inductive methods are **inductive logic programming**, **decision trees**, and **neural networks**.
+- Non-logic-based methods use other forms of knowledge representation and reasoning, such as **frames**, **scripts**, **semantic networks**, **ontologies**, or **fuzzy logic**, to solve the problem. Non-logic-based methods can be further divided into **declarative methods** and **procedural methods**.
+- Declarative methods use knowledge structures that describe the problem or the solution in a declarative way, without specifying how to achieve or use them. Examples of declarative methods are **frames**, **scripts**, and **semantic networks**.
+- Procedural methods use knowledge structures that describe the problem or the solution in a procedural way, specifying how to achieve or use them. Examples of procedural methods are **production systems**, **planning systems**, and **expert systems**.

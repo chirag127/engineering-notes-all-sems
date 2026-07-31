@@ -1,0 +1,9 @@
+### Estimating Moments
+
+- Estimating moments is a generalization of the problem of counting distinct elements in a stream. The problem, called computing "moments," involves the distribution of frequencies of different elements in the stream .
+- Suppose a stream consists of elements chosen from a universal set. Let $m_i$ be the number of occurrences of the $i$-th element for any $i$. The $p$-th frequency moment of the stream is defined as $F_p = \sum_i m_i^p$ for any $p > 0$  .
+- Estimating frequency moments is useful for various applications, such as estimating all-pairs distances in a large data matrix, machine learning, and data stream computation .
+- Estimating frequency moments exactly requires storing the entire stream or the frequency vector, which is not feasible for large or unbounded streams. Therefore, approximate algorithms using sublinear space are needed  .
+- Two simple sketches for estimating frequency moments are the Alon-Matias-Szegedy (AMS) sketch and the Flajolet-Martin (FM) sketch.
+  - The AMS sketch is based on sampling a random position in the stream and storing the element and its frequency at that position. The sketch can be repeated multiple times and the median of the estimates can be used to reduce the variance. The AMS sketch can estimate any $F_p$ for $p > 0$ with high probability.
+  - The FM sketch is based on hashing each element to a binary string and storing the maximum number of trailing zeros among all the hashed values. The sketch can be repeated multiple times and the average of the estimates can be used to reduce the variance. The FM sketch can estimate $F_0$, the number of distinct elements, with high probability.

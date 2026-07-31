@@ -1,0 +1,13 @@
+### Relational Data Model Concepts
+
+The relational data model is a widely used data model for storing and processing data in a database. It is based on the concept of relations, which are logical structures that represent data as a collection of rows and columns. Each row in a relation is called a tuple, and each column is called an attribute. A relation has a name and a set of attributes that define its schema. The values of the attributes in a relation must be atomic, meaning they cannot be further divided into smaller parts.
+
+Some of the major concepts of the relational data model are:
+
+- **Primary key**: A primary key is an attribute or a combination of attributes that uniquely identifies each tuple in a relation. A primary key cannot have null values or duplicate values. A relation can have only one primary key, which is also called the candidate key.
+- **Foreign key**: A foreign key is an attribute or a combination of attributes in one relation that references the primary key of another relation. A foreign key establishes a link or a relationship between two relations. A foreign key can have null values or duplicate values, but it must match the values of the referenced primary key or be null.
+- **Referential integrity**: Referential integrity is a constraint that ensures that the foreign key values in a relation are consistent with the primary key values of the referenced relation. If a foreign key value is not null, it must exist in the referenced relation. If a primary key value is deleted or updated in the referenced relation, the corresponding foreign key values must be deleted or updated accordingly in the referencing relation.
+- **Domain**: A domain is a set of possible values for an attribute. A domain defines the data type, format, range, and constraints of an attribute. For example, a domain for a student ID attribute could be a set of integers between 1000 and 9999.
+- **Degree**: The degree of a relation is the number of attributes in its schema. For example, a relation with three attributes has a degree of three.
+- **Cardinality**: The cardinality of a relation is the number of tuples in it. For example, a relation with 10 tuples has a cardinality of 10.
+- **Relation instance**: A relation instance is a snapshot of the data in a relation at a given point in time. A relation instance can change over time as tuples are inserted, deleted, or updated. A relation instance is also called a relation state or a relation value.

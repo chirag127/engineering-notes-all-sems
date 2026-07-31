@@ -1,0 +1,26 @@
+### IOT based Three Phase Power Failure Monitoring with SMS Alerts
+
+- This is a system that monitors the status of a three-phase power supply and alerts the authorized person via SMS in case of a phase loss or failure   .
+- A phase loss occurs when one of the three phases of a three-phase system gets disconnected or damaged, resulting in a single phasing condition  .
+- A phase loss can cause serious damage to the equipment and appliances connected to the power supply, as well as increase the risk of fire and electric shock  .
+- The system consists of the following components:
+  - A microcontroller that controls the logic and communication of the system .
+  - A GSM module that sends and receives SMS messages to and from the authorized person   .
+  - A LCD display that shows the voltage values of the three phases .
+  - Three voltage sensors that measure the voltage levels of the three phases .
+  - Three relays that switch on and off the power supply of the three phases .
+  - A power supply unit that provides the required voltage and current to the system .
+- The system works as follows:
+  - The system is initialized by sending an SMS to the GSM module with the phone number of the authorized person.
+  - The system continuously monitors the voltage levels of the three phases using the voltage sensors .
+  - The system displays the voltage values of the three phases on the LCD display .
+  - If the system detects a phase loss, it switches off the power supply of the affected phase using the relay .
+  - The system sends an SMS to the authorized person with the details of the phase loss and the voltage values of the three phases   .
+  - The system waits for an acknowledgement SMS from the authorized person before switching on the power supply of the affected phase.
+  - The system repeats the above steps until the power supply is restored to normal .
+- The system has the following advantages:
+  - It prevents damage to the equipment and appliances connected to the power supply by switching off the affected phase  .
+  - It reduces the risk of fire and electric shock by isolating the faulty phase  .
+  - It informs the authorized person about the power failure and the status of the three phases via SMS   .
+  - It allows the authorized person to remotely control the power supply of the three phases via SMS.
+  - It uses IOT technology to enable real-time monitoring and communication of the power supply   .

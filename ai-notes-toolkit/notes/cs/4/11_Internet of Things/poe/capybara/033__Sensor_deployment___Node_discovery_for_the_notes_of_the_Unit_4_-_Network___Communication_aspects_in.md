@@ -1,0 +1,11 @@
+### Sensor Deployment & Node Discovery
+
+Internet of Things (IoT) is a growing technology that enables communication between various devices. In order to establish communication, sensors are deployed to collect data and transmit it to the network. Node discovery is the process of identifying and connecting these sensors to the network. Here are some key points to understand sensor deployment and node discovery in IoT:
+
+- Sensor deployment is a crucial step in IoT. Sensors are deployed to collect data from the physical world. These sensors can be of various types, such as temperature sensors, humidity sensors, light sensors, and more.
+- Sensors can be connected to the network using various wireless communication technologies such as Wi-Fi, Bluetooth, Zigbee, and LoRaWAN. Each technology has its own advantages and disadvantages, and the choice of technology depends on the use case.
+- Node discovery is the process of identifying and connecting these sensors to the network. It is important to discover the nodes to ensure that the collected data is transmitted to the network accurately.
+- Node discovery can be done using various techniques such as manual configuration, automatic discovery, and dynamic discovery. Manual configuration involves manually adding the sensors to the network, while automatic discovery involves the sensors automatically connecting to the network. Dynamic discovery involves the sensors connecting to the network based on certain triggers or events.
+- Once the sensors are connected to the network, they can be managed and monitored using various management tools. These tools enable the administrators to monitor the status of the sensors and troubleshoot any issues that may arise.
+- In addition to sensors, other devices such as gateways and edge devices play a crucial role in IoT. Gateways act as a bridge between the sensors and the network, while edge devices process the data collected by the sensors before transmitting it to the network.
+- Overall, sensor deployment and node discovery are crucial aspects of IoT. They enable the collection and transmission of data, which forms the backbone of IoT applications. It is important to choose the right sensors and communication technologies, and to ensure that the nodes are discovered and connected to the network accurately.

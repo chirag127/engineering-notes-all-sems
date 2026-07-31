@@ -1,0 +1,27 @@
+# Object Oriented Design for the notes of the Unit 3 - Software Design in the subject of Software Engineering
+
+- Object Oriented Design (OOD) is the process of planning a system of interacting objects for the purpose of solving a software problem.
+- OOD transforms the analysis model created using Object Oriented Analysis (OOA) into a design model that serves as a blueprint for software construction.
+- OOD is based on the object oriented paradigm, which is a common approach to modeling applications, systems, and business domains by using the concepts of objects, classes, inheritance, polymorphism, and encapsulation.
+- OOD aims to achieve the following benefits:
+  - Reusability: Objects and classes can be reused in different contexts and applications, reducing the development time and cost.
+  - Modularity: Objects and classes can be organized into modules that have well-defined interfaces and responsibilities, increasing the cohesion and reducing the coupling of the system.
+  - Extensibility: Objects and classes can be extended or modified to accommodate new requirements or changes, enhancing the maintainability and adaptability of the system.
+  - Abstraction: Objects and classes can hide the implementation details and expose only the essential features and behaviors, simplifying the complexity and increasing the readability of the system.
+- OOD follows some principles and guidelines to ensure the quality and effectiveness of the design, such as:
+  - SOLID: A set of five principles that establish practices for developing software with considerations for maintaining and extending as the project grows. The principles are:
+    - Single Responsibility Principle: A class should have only one reason to change, meaning that a class should have only one job or responsibility.
+    - Open/Closed Principle: A class should be open for extension, but closed for modification, meaning that a class should allow its behavior to be extended without altering its source code.
+    - Liskov Substitution Principle: A subclass should be substitutable for its superclass, meaning that a subclass should follow the contract and behavior of its superclass without breaking the functionality of the system.
+    - Interface Segregation Principle: A client should not be forced to depend on methods it does not use, meaning that a class should not implement an interface that contains more methods than it needs.
+    - Dependency Inversion Principle: A class should depend on abstractions, not concretions, meaning that a class should not depend on another class directly, but rather on an interface or an abstract class that defines the required behavior.
+  - GRASP: A set of nine patterns or principles that assign responsibilities to classes and objects in a system. The principles are:
+    - Information Expert: A class should have the information necessary to fulfill a responsibility, meaning that a class should encapsulate the data and methods related to its domain concept.
+    - Creator: A class should be responsible for creating objects of another class, meaning that a class should instantiate objects that it is closely related to or that it contains or aggregates.
+    - Controller: A class should be responsible for handling system events and coordinating the response, meaning that a class should act as a mediator between the user interface and the domain classes.
+    - Low Coupling: A class should have minimal dependencies on other classes, meaning that a class should reduce the impact of changes and increase the reusability and maintainability of the system.
+    - High Cohesion: A class should have a single, well-defined purpose, meaning that a class should have a clear and consistent responsibility and avoid doing too much or too little.
+    - Polymorphism: A class should use abstract methods or interfaces to handle variations in behavior, meaning that a class should allow subclasses to override or implement the behavior according to their specific needs.
+    - Pure Fabrication: A class should be invented to fulfill a responsibility, meaning that a class should be created when there is no natural or obvious place to assign a responsibility in the domain model.
+    - Indirection: A class should delegate a responsibility to another class, meaning that a class should avoid direct coupling and increase the flexibility and modularity of the system.
+    - Protected Variations: A class should protect elements from the variations on other elements, meaning that a class should use abstractions or interfaces to isolate the impact of changes and increase the stability of the system.

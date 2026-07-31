@@ -1,0 +1,22 @@
+### Overview of Commercial Real Time databases
+
+- A real-time database is a database system that uses real-time processing to handle workloads whose state is constantly changing.
+- Real-time databases are useful for accounting, banking, law, medical records, multi-media, process control, reservation systems, and scientific data analysis.
+- Real-time databases can be classified into two types: hard real-time and soft real-time.
+  - Hard real-time databases have strict timing constraints and must guarantee that transactions are completed within their deadlines, otherwise the system may fail or cause severe consequences.
+  - Soft real-time databases have more relaxed timing constraints and can tolerate some degree of deadline misses, but still aim to optimize the performance and quality of service of the system.
+- Some of the attributes of live real-time databases are:
+  - High availability: the database must be accessible and operational at all times, even in the event of failures or disasters.
+  - High performance: the database must be able to process large volumes of data and transactions with low latency and high throughput.
+  - High scalability: the database must be able to handle increasing workloads and data sizes without compromising the availability and performance.
+  - High reliability: the database must be able to ensure the consistency and integrity of the data and transactions, even in the presence of errors or faults.
+  - High security: the database must be able to protect the data and transactions from unauthorized access or modification, as well as comply with the relevant regulations and standards.
+  - High adaptability: the database must be able to adjust to the changing requirements and conditions of the system and the environment, such as workload fluctuations, data updates, or network conditions.
+  - High interoperability: the database must be able to communicate and integrate with other systems and applications, using common protocols and standards.
+  - High maintainability: the database must be easy to manage and monitor, as well as support backup, recovery, and replication functions.
+  - High usability: the database must be user-friendly and provide intuitive interfaces and tools for the developers and users of the system.
+- Some of the examples of commercial real-time databases are :
+  - Dealpath: a cloud-based platform that provides data and analytics for commercial real estate transactions, such as deal sourcing, pipeline management, due diligence, and reporting.
+  - Altus Group: a global provider of software and data solutions for the commercial real estate industry, such as valuation, investment, development, and asset management.
+  - CoStar: a leading provider of information, analytics, and online marketplaces for the commercial real estate sector, such as property listings, sales, leases, and trends.
+  - Google Cloud Firestore: a highly performant, fully managed NoSQL database service for large analytical and operational workloads, such as web, mobile, and IoT applications.

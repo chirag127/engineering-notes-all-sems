@@ -1,0 +1,15 @@
+### Application of Agreement problem for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+In distributed systems, agreement protocols are essential to ensure that all nodes or processes agree on a certain value or decision. The agreement problem arises when the nodes or processes have to agree on a certain value, but they may have different inputs or may fail. In this context, the application of agreement protocols is crucial to ensure the correctness and consistency of the system. Here are some important applications of agreement protocols:
+
+1. Consensus: Consensus is the most common application of agreement protocols in distributed systems. Consensus is the process of agreeing on a single value among a group of nodes or processes, even when some of them may fail or have different inputs. Agreement protocols such as Paxos, Raft, and Zab are widely used to solve the consensus problem in distributed systems.
+
+2. Leader Election: In a distributed system, it is often necessary to elect a leader or coordinator to perform certain tasks. Leader election is the process of selecting a node or process to act as a leader in the system. Agreement protocols such as Bully algorithm and Ring algorithm are commonly used to elect a leader in a distributed system.
+
+3. Atomic Commitment: In a distributed transaction, all nodes or processes must commit to the transaction or abort it. Atomic commitment is the process of ensuring that all nodes or processes either commit or abort the transaction atomically. Agreement protocols such as Two-Phase Commit (2PC) and Three-Phase Commit (3PC) are widely used to solve the atomic commitment problem in distributed systems.
+
+4. Byzantine Fault Tolerance: Byzantine Fault Tolerance (BFT) is the ability of a distributed system to tolerate malicious or faulty nodes or processes. BFT protocols, such as Practical Byzantine Fault Tolerance (PBFT), are used to ensure that a distributed system can continue to operate correctly even when some of its nodes or processes are compromised.
+
+5. Replication: In a distributed system, data or resources may need to be replicated across multiple nodes or processes for fault tolerance and load balancing. Agreement protocols such as Primary-Backup replication and Multi-Primary replication are used to ensure that all replicas agree on the same value or decision.
+
+In conclusion, agreement protocols are crucial to ensure the correctness and consistency of distributed systems. The applications of agreement protocols, such as consensus, leader election, atomic commitment, Byzantine Fault Tolerance, and replication, are essential to solve various problems in distributed systems. Understanding the principles and techniques of agreement protocols is essential for designing and developing reliable and scalable distributed systems.

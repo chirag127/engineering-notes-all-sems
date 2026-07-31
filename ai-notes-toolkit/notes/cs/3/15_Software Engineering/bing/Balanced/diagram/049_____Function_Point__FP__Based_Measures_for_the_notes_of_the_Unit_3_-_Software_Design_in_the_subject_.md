@@ -1,0 +1,22 @@
+### Function Point (FP) Based Measures
+
+- Function points are a measure of software size based on the functionality of the system from the user's point of view .
+- Function points can be used to estimate the cost, effort and duration of software development projects .
+- Function points are calculated by counting the number of inputs, outputs, queries, internal files and external files in the system and adjusting that total for the functional complexity of the system  .
+- The steps for counting function points are :
+  - Identify the type and number of each of the five components (inputs, outputs, queries, internal files and external files) in the system and assign a weight to each component based on its complexity (low, average or high).
+  - Calculate the unadjusted function point (UFP) by multiplying the number and weight of each component and summing up the results.
+  - Identify the general system characteristics (GSCs) that affect the system's functionality, such as data communications, distributed functions, performance, reusability, etc. and assign a value to each GSC based on its degree of influence (from 0 to 5).
+  - Calculate the complexity adjustment factor (CAF) by adding 0.65 to the sum of the GSC values divided by 100.
+  - Calculate the adjusted function point (AFP) by multiplying the UFP and the CAF.
+- Function points can be converted to other measures of software size, such as lines of code, by using conversion factors that depend on the programming language and the development environment .
+- Function points have some advantages and disadvantages as a measure of software size :
+  - Advantages:
+    - They are independent of the programming language and the development environment.
+    - They are based on the user's perspective and requirements.
+    - They can be estimated early in the development process.
+    - They can be used to compare the productivity and quality of different software projects and organizations.
+  - Disadvantages:
+    - They are subjective and may vary depending on the experience and judgment of the analyst.
+    - They are not suitable for measuring the size of non-functional aspects of the system, such as algorithms, data structures, security, etc.
+    - They may not reflect the actual effort and complexity of the system development.

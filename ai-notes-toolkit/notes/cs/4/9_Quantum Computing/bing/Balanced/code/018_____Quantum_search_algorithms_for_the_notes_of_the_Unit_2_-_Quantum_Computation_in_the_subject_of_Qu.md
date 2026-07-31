@@ -1,0 +1,9 @@
+### Quantum search algorithms
+
+Quantum search algorithms are quantum algorithms that can find a target element in an unsorted database or a solution to a problem faster than classical algorithms. They exploit the quantum parallelism and interference to speed up the search process.
+
+Some of the main quantum search algorithms are:
+
+- **Grover's algorithm** : This algorithm can find a unique input to a black box function that produces a particular output value, using only O(sqrt(N)) evaluations of the function, where N is the size of the function's domain. This is quadratically faster than the classical algorithm that requires O(N) evaluations. Grover's algorithm uses two main operations: an oracle that marks the target element, and a diffusion operator that amplifies the amplitude of the target element.
+- **Quantum walk algorithms**: These algorithms use quantum walks, which are quantum counterparts of classical random walks, to explore a graph or a database. Quantum walks can achieve faster mixing and spreading than classical walks, and can be used to design quantum search algorithms for various problems, such as element distinctness, triangle finding, graph isomorphism, etc. Quantum walk algorithms typically use a coin operator that controls the direction of the walk, and a shift operator that moves the walker along the graph.
+- **Quantum annealing algorithms**: These algorithms use quantum annealing, which is a quantum technique for finding the global minimum of a cost function, to solve optimization and search problems. Quantum annealing algorithms use a quantum system that is initially in a superposition of all possible states, and gradually evolves to the state that minimizes the cost function. Quantum annealing algorithms can exploit quantum tunneling and avoid getting stuck in local minima.

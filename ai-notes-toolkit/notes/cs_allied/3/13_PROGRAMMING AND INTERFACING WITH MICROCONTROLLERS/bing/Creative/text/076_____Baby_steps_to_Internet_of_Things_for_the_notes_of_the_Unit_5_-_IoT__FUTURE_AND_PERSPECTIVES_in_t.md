@@ -1,0 +1,17 @@
+### Baby steps to Internet of Things
+
+- The Internet of Things (IoT) is a network of physical objects that are embedded with sensors, software, and other technologies to connect and exchange data with other devices and systems over the internet  .
+- IoT devices can range from ordinary household objects to sophisticated industrial tools, and can collect and share data about their usage and environment  .
+- IoT devices can communicate with each other and with cloud services, enabling applications such as smart homes, smart cities, smart agriculture, smart healthcare, smart manufacturing, and more .
+- The four pillars of IoT are data, device, analytics, and connectivity:
+  - Data: IoT devices collect data from the physical world using sensors, cameras, microphones, etc. Data is the fuel of IoT and is used to monitor, control, and optimize processes and outcomes.
+  - Device: IoT devices are the physical components or things that collect and transmit data. They can be simple, such as a temperature sensor, or complex, such as a smart robot.
+  - Analytics: IoT devices can process and analyze data locally or remotely using cloud services. Analytics can provide insights, predictions, and recommendations based on data.
+  - Connectivity: IoT devices can communicate with each other and with cloud services using various wireless or wired technologies, such as Wi-Fi, Bluetooth, cellular, or Ethernet. Connectivity enables data transfer and coordination among IoT devices.
+- To get started with IoT, one needs to understand the basic concepts, components, and technologies involved in IoT systems, such as:
+  - Sensors and actuators: Sensors are devices that measure physical quantities, such as temperature, humidity, motion, etc. Actuators are devices that perform physical actions, such as turning on a light, opening a valve, etc. Sensors and actuators are the interface between the physical and digital worlds.
+  - Microcontrollers and microprocessors: Microcontrollers and microprocessors are small computers that can run programs and control IoT devices. Microcontrollers are typically low-power, low-cost, and embedded in IoT devices, while microprocessors are more powerful, expensive, and used in servers or gateways.
+  - Embedded systems and software: Embedded systems are IoT devices that have a specific function and are designed for a particular environment. Embedded software is the code that runs on embedded systems and controls their behavior and communication.
+  - Cloud computing and services: Cloud computing is the delivery of computing resources and services over the internet, such as storage, processing, analytics, etc. Cloud services are the applications and platforms that provide specific functions and features for IoT systems, such as data management, security, device management, etc.
+  - Networking and protocols: Networking is the process of connecting IoT devices and cloud services using various technologies and standards. Protocols are the rules and formats that define how data is transmitted and received among IoT devices and cloud services. Some common IoT protocols are MQTT, CoAP, HTTP, etc.
+  - Security and privacy: Security and privacy are the measures and practices that protect IoT devices, data, and systems from unauthorized access, manipulation, or disclosure. Security and privacy are essential for ensuring the reliability, trustworthiness, and safety of IoT systems.

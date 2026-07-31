@@ -1,0 +1,14 @@
+# Stored Values Cards
+
+- Stored value cards (SVCs) are cards with data encoded in either a magnetic strip or a computer chip that are preloaded with a fixed amount of electronic currency or value.
+- SVCs can be classified into three types: closed system, semi-closed system, and open system.
+- Closed system cards are issued by a specific merchant or group of merchants and can only be used to purchase goods or services from those merchants. Examples are gift cards, phone cards, and transit cards.
+- Semi-closed system cards are issued by a non-financial institution and can be used to purchase goods or services from a network of merchants that accept the card. Examples are loyalty cards, campus cards, and payroll cards.
+- Open system cards are issued by a financial institution and can be used to purchase goods or services from any merchant that accepts the card. Examples are prepaid debit cards, travel cards, and remittance cards.
+- SVCs offer convenience, security, and flexibility to consumers and merchants, but they also pose money laundering and cybercrime risks .
+- The widespread availability of SVCs (particularly at non-financial outlets), the high loading and card balance value limits of open system cards, and the anonymity offered by closed and semi-closed system cards could be abused by organised criminals for illicit financial transactions, money laundering and bulk cash smuggling, particularly as value limits increase.
+- Stored value cards have been identified in several reports as a potential tool for organised crime groups to launder their illicit crime proceeds.
+- A study on cross-border electronic funds transfer systems raises similar concerns: "The use of stored value cards to move funds across borders is a relatively new phenomenon, but one that is likely to grow in importance. The cards are easy to conceal and transport, and can be used to access funds in any country where there is an ATM or a merchant that accepts the card. The cards can also be reloaded remotely, making them an attractive alternative to wire transfers or cash couriers."
+- Cybercriminals can also exploit SVCs to commit fraud, theft, and identity theft. This is typically done through the compromise of a legitimate user’s account credentials. Fraudulent monetary transfers and counterfeiting of stored value cards are the most common result of exploits against financial institutions, payment processors, and merchants.
+- Cybersecurity measures are needed to protect SVCs from cyberattacks and to prevent their misuse for money laundering and other criminal activities. These measures include encryption, authentication, verification, monitoring, reporting, and cooperation among stakeholders .
+- Electronic Crimes Task Forces (ECTF) are operated by the U.S. Secret Service (USSS) out of their field offices to assist local law enforcement in investigating computer crimes, including those involving SVCs.

@@ -1,0 +1,24 @@
+# Learning Bridge and Spanning Tree Algorithms
+
+- A **bridge** is a device that connects two or more LAN segments and forwards frames between them based on the MAC addresses of the frames.
+- A **spanning tree** is a subset of the network topology that connects all the bridges without forming any loops.
+- The **spanning tree protocol (STP)** is a network protocol that builds a loop-free logical topology for Ethernet networks by selecting a spanning tree from the available paths.
+- The basic function of STP is to prevent bridge loops and the broadcast radiation that results from them. Spanning tree also allows a network design to include backup links providing fault tolerance if an active link fails.
+- The bridges that participate in STP are often called **spanning tree bridges**. Each bridge has a unique identifier (ID) and a priority value. The bridge with the lowest priority value and ID is selected as the **root bridge** of the spanning tree.
+- Each bridge also has a **root port**, which is the port that is closest to the root bridge in terms of path cost. The path cost is a function of the link bandwidth and the bridge priority.
+- Each LAN segment has a **designated bridge**, which is the bridge that has the lowest path cost to the root bridge. The port of the designated bridge that connects to the LAN segment is called the **designated port**.
+- The ports that are neither root ports nor designated ports are called **blocked ports**. They are disabled by STP to prevent loops.
+- To construct a spanning tree, the bridges run a distributed algorithm. Each bridge periodically broadcasts a configuration message called a **bridge protocol data unit (BPDU)** out all of its ports to its neighbors and processes the messages it receives from other bridges .
+- The BPDU contains the following information:
+  - The ID and priority of the root bridge
+  - The path cost to the root bridge
+  - The ID and priority of the sending bridge
+  - The port ID and priority of the sending port
+- The bridges use the BPDUs to determine the root bridge, the root port, the designated bridge, the designated port, and the blocked port for each LAN segment.
+- The algorithm works as follows :
+  - Initially, each bridge assumes that it is the root bridge and sends BPDUs with its own ID and priority as the root bridge ID and priority, and zero as the path cost.
+  - When a bridge receives a BPDU, it compares the root bridge ID and priority in the BPDU with its own. If the BPDU has a lower root bridge ID or priority, it updates its own root bridge information and recalculates its root port and path cost. It then forwards the BPDU to its other ports with its own ID and priority as the sending bridge ID and priority, and the updated path cost.
+  - If the BPDU has the same root bridge ID and priority as the bridge, it compares the path cost in the BPDU with its own. If the BPDU has a lower path cost, it updates its own path cost and root port, and forwards the BPDU to its other ports with its own ID and priority as the sending bridge ID and priority, and the updated path cost.
+  - If the BPDU has a higher root bridge ID or priority, or a higher path cost, the bridge discards the BPDU and does not forward it.
+  - If the BPDU has the same root bridge ID and priority, and the same path cost as the bridge, it compares the sending bridge ID and priority in the BPDU with its own. If the BPDU has a lower sending bridge ID or priority, it updates its designated bridge information and designated port for the LAN segment from which it received the BPDU, and forwards the BPDU to its other ports. If the BPDU has a higher sending bridge ID or priority, it discards the BPDU and does not forward it.
+  - If the BPDU has the same root bridge ID and priority, the same path cost, and the same sending bridge ID and priority as the bridge, it compares the sending port ID and priority in the BPDU with its own. If the BPDU has a lower sending port ID or priority, it updates its designated port for the LAN segment from which it received the BPDU, and forwards the BPDU to its other ports. If the BP

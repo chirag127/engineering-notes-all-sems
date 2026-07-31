@@ -1,0 +1,22 @@
+## Unit 2 - Basic Structural Modeling
+
+- Basic structural modeling is the process of creating and manipulating geometric representations of the physical components of a structure, such as beams, columns, slabs, walls, foundations, etc.
+- Basic structural modeling can be done using various software tools, such as Revit, AutoCAD, Tekla, etc.
+- Basic structural modeling involves the following steps:
+  - Define the project parameters, such as units, levels, grids, materials, etc.
+  - Create the structural elements, such as columns, beams, slabs, walls, etc., using the appropriate tools and commands.
+  - Modify the structural elements, such as changing their dimensions, properties, alignment, orientation, etc., using the appropriate tools and commands.
+  - Add the structural supports, such as foundations, footings, piles, etc., using the appropriate tools and commands.
+  - Add the structural loads, such as dead, live, wind, seismic, etc., using the appropriate tools and commands.
+  - Analyze the structural model, such as checking for errors, warnings, interferences, etc., using the appropriate tools and commands.
+  - Document the structural model, such as creating views, sheets, schedules, annotations, etc., using the appropriate tools and commands.
+  - Export the structural model, such as saving, printing, sharing, etc., using the appropriate tools and commands.
+- Basic structural modeling requires the following skills and knowledge:
+  - Understanding of the structural design principles, such as load paths, stability, strength, stiffness, etc.
+  - Familiarity with the structural codes and standards, such as ASCE, ACI, AISC, etc.
+  - Proficiency with the structural modeling software, such as Revit, AutoCAD, Tekla, etc.
+  - Ability to create and modify structural elements, such as columns, beams, slabs, walls, etc., using the appropriate tools and commands.
+  - Ability to add and modify structural supports, such as foundations, footings, piles, etc., using the appropriate tools and commands.
+  - Ability to add and modify structural loads, such as dead, live, wind, seismic, etc., using the appropriate tools and commands.
+  - Ability to analyze and document the structural model, such as checking for errors, warnings, interferences, etc., using the appropriate tools and commands.
+  - Ability to export and share the structural model, such as saving, printing, sharing, etc., using the appropriate tools and commands.

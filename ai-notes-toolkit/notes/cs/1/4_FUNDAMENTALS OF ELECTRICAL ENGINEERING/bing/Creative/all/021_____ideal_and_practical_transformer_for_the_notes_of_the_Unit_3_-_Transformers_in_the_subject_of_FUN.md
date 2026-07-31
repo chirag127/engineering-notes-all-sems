@@ -1,0 +1,12 @@
+# Ideal and Practical Transformer
+
+- A transformer is a device that transfers electrical energy from one circuit to another through mutual induction, without changing the frequency of the alternating current.
+- An ideal transformer is a hypothetical transformer that has no energy losses, no winding resistance, no leakage flux, infinite permeability of the core, and 100% efficiency.
+- A practical transformer is a real transformer that has some energy losses, finite winding resistance, some leakage flux, finite permeability of the core, and less than 100% efficiency.
+- The main differences between an ideal and practical transformer are:
+
+  - Efficiency: An ideal transformer has 100% efficiency, which means that the input power is equal to the output power. A practical transformer has less than 100% efficiency, which means that some power is lost as heat, core loss, and copper loss. The efficiency of a practical transformer depends on the power factor and loading of the transformer.
+  - Winding resistance: An ideal transformer has zero (or negligible) winding resistance, which means that there is no voltage drop across the windings. A practical transformer has finite winding resistance, which means that there is some voltage drop across the windings, and hence the output voltage is less than the input voltage.
+  - Leakage flux: An ideal transformer has no leakage flux, which means that the whole flux of the magnetic circuit links both the primary and secondary coils. A practical transformer has some leakage flux, which means that some flux does not link both the coils, and hence the mutual inductance is less than the self-inductance of the coils.
+  - Core permeability: An ideal transformer has infinite core permeability, which means that the core can carry any amount of flux without saturation. A practical transformer has finite core permeability, which means that the core has a limit to the amount of flux it can carry, and beyond that it saturates and causes distortion in the output voltage.
+  - Core loss: An ideal transformer has zero core loss, which means that there is no hysteresis loss or eddy current loss in the core. A practical transformer has some core loss, which means that some energy is dissipated as heat in the core due to the reversal of magnetization and the circulation of induced currents in the core.

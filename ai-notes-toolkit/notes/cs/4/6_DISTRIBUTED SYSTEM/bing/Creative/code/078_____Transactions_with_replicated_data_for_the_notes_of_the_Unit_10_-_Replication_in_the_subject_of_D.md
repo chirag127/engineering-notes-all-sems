@@ -1,0 +1,16 @@
+### Transactions with replicated data
+
+- A transaction is a sequence of operations that transforms a consistent state of a database into another consistent state.
+- Data replication is the process of copying data and storing it in different locations, such as multiple servers or nodes in a distributed system.
+- The main benefits of data replication are improved availability, fault tolerance, performance, and scalability.
+- The main challenges of data replication are maintaining consistency, concurrency control, and recovery .
+- Consistency means that all copies of the same data should have the same value at any given time, or at least eventually converge to the same value .
+- Concurrency control means that concurrent transactions on replicated data should not interfere with each other and should preserve the serializability property, which means that the final result should be the same as if the transactions executed in some serial order .
+- Recovery means that the system should be able to restore the consistency and integrity of the replicated data in case of failures, such as network partitions, node crashes, or communication errors .
+- There are different types and schemes of data replication, depending on the degree of replication, the location of replicas, the frequency of updates, the direction of updates, and the conflict resolution strategy  .
+- The degree of replication refers to how many copies of the same data are stored in the system. It can be full replication, where every node has a copy of the entire database, or partial replication, where only some nodes have some subsets of the database .
+- The location of replicas refers to where the copies of the data are stored. It can be centralized, where there is a master node that holds the primary copy of the data and other nodes have secondary copies, or decentralized, where there is no master node and every node can have a primary or secondary copy of the data .
+- The frequency of updates refers to how often the replicas are synchronized with the source or the primary copy of the data. It can be synchronous, where the updates are propagated to all replicas immediately after a transaction commits, or asynchronous, where the updates are propagated to the replicas periodically or on demand .
+- The direction of updates refers to who can initiate the updates on the replicated data. It can be unidirectional, where only the source or the primary copy of the data can be updated and the replicas are read-only, or bidirectional, where any replica can be updated and the updates are propagated to the source or the primary copy of the data .
+- The conflict resolution strategy refers to how the system handles the situations where different replicas have different values for the same data due to concurrent or asynchronous updates. It can be based on timestamps, versions, majority voting, quorums, or application-specific rules  .
+- Transactions with replicated data require special protocols and algorithms to ensure consistency, concurrency control, and recovery across the distributed system. Some examples of such protocols and algorithms are two-phase commit, three-phase commit, Paxos, Raft, primary-backup, and optimistic replication  .

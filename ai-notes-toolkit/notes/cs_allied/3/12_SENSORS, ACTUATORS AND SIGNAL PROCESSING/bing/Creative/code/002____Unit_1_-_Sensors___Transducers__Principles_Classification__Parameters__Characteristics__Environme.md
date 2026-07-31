@@ -1,0 +1,11 @@
+# Unit 1 - Sensors / Transducers: Principles Classification, Parameters, Characteristics, Environmental Parameters (EP), Characterization
+
+- A **sensor** is an element that senses a variation in input energy to produce a variation in another or same form of energy . A **transducer** is an element that converts one form of energy to another form . The process of conversion of energy from one form to another is called **transduction**.
+- Sensors and transducers can be classified based on different criteria, such as:
+  - The principle of transduction form used: This classification is based on the principle of transduction as resistive, inductive, capacitive, etc. depending on their conversion into resistance, inductance or capacitance respectively.
+  - The type of input and output energy: This classification is based on the type of input and output energy as mechanical, electrical, thermal, optical, chemical, biological, etc. depending on the nature of the energy involved in the transduction process .
+  - The mode of operation: This classification is based on the mode of operation as active or passive. Active sensors require an external source of power (excitation voltage) that provides the majority of the output power of the signal. Passive sensors do not require an external source of power and the output power is almost entirely provided by the measured signal.
+- Sensors and transducers have various parameters that describe their performance and behavior, such as:
+  - **Characteristics**: These are the parameters that define the static and dynamic response of the sensor or transducer to the input signal, such as sensitivity, range, resolution, accuracy, precision, repeatability, hysteresis, linearity, etc .
+  - **Environmental Parameters (EP)**: These are the parameters that define the influence of the external environment on the sensor or transducer, such as temperature, humidity, pressure, vibration, electromagnetic interference, etc.
+  - **Characterization**: This is the process of measuring and analyzing the characteristics and environmental parameters of the sensor or transducer to evaluate its performance and suitability for a specific application . Characterization can be done in different ways depending on the types of sensors, such as electrical, mechanical, thermal, optical, chemical, biological, etc.

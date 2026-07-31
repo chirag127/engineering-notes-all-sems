@@ -1,0 +1,14 @@
+### Concurrency control in distributed transactions
+
+- Concurrency control is the process of ensuring that multiple transactions can access and modify shared data in a consistent and correct manner, without violating the ACID properties of transactions.
+- Distributed transactions are transactions that span multiple data servers that are connected by a network, and may involve data replication, fragmentation, or partitioning .
+- Distributed concurrency control provides a mechanism to synchronize distributed transactions in such a way that the ACID properties are not violated by their interleaved execution .
+- There are different types of distributed concurrency control algorithms, such as locking-based, timestamp-based, and optimistic algorithms.
+- Locking-based algorithms use locks to prevent concurrent transactions from accessing or modifying the same data item. Locks can be exclusive (write lock) or shared (read lock), and can be granted or denied by a lock manager. Locking-based algorithms can be centralized, decentralized, or hierarchical, depending on the location and structure of the lock manager.
+- Timestamp-based algorithms use timestamps to order transactions and determine their precedence. Timestamps can be assigned by a global clock, a logical clock, or a hybrid clock. Timestamp-based algorithms can be basic, Thomas' write rule, or multiversion, depending on how they handle read and write operations.
+- Optimistic algorithms assume that conflicts among transactions are rare, and allow transactions to execute without any synchronization. However, before committing, transactions have to validate their read and write sets to ensure that they do not conflict with other transactions. If a conflict is detected, the transaction has to abort and restart. Optimistic algorithms can be centralized, decentralized, or distributed, depending on the location and structure of the validation process.
+- Some of the challenges and trade-offs of distributed concurrency control are:
+  - Maintaining global serializability, which is the property that the concurrent execution of distributed transactions is equivalent to some serial execution of the same transactions .
+  - Dealing with network delays, failures, and partitions, which can affect the performance, availability, and consistency of distributed transactions .
+  - Balancing between the degree of concurrency, which is the number of transactions that can execute simultaneously, and the degree of synchronization, which is the amount of coordination and communication among transactions .
+  - Choosing between pessimistic and optimistic approaches, which have different advantages and disadvantages in terms of blocking, aborting, and validating transactions.

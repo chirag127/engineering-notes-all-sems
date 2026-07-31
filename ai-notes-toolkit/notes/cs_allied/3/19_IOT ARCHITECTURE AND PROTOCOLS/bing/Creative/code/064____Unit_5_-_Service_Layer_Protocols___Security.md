@@ -1,0 +1,24 @@
+## Unit 5 - Service Layer Protocols & Security
+
+- Service layer protocols are the protocols that provide specific functions or services to applications or users on the network.
+- Service layer protocols are usually implemented at the application layer of the OSI model or the application layer and the presentation layer of the TCP/IP model.
+- Some examples of service layer protocols are HTTP, FTP, SMTP, DNS, DHCP, SNMP, SSH, SSL/TLS, etc.
+- Service layer protocols can be classified into two categories: request-response protocols and message-oriented protocols.
+- Request-response protocols are the protocols that use a client-server model, where the client sends a request to the server and the server responds with the requested information or service.
+- Message-oriented protocols are the protocols that use a peer-to-peer model, where the peers exchange messages without a central server or authority.
+- Some advantages of request-response protocols are: simplicity, scalability, reliability, and security.
+- Some disadvantages of request-response protocols are: latency, overhead, and statelessness.
+- Some advantages of message-oriented protocols are: flexibility, efficiency, and resilience.
+- Some disadvantages of message-oriented protocols are: complexity, inconsistency, and vulnerability.
+- Security is the process of protecting the confidentiality, integrity, and availability of data and resources on the network.
+- Security can be achieved by using various techniques, such as encryption, authentication, authorization, access control, auditing, etc.
+- Encryption is the process of transforming data into an unreadable form using a secret key or algorithm.
+- Authentication is the process of verifying the identity of a user or device on the network.
+- Authorization is the process of granting or denying access to data or resources based on the identity or role of the user or device.
+- Access control is the process of enforcing policies or rules that define who can access what data or resources on the network.
+- Auditing is the process of recording and analyzing the activities or events that occur on the network.
+- Some examples of security protocols are: IPsec, SSL/TLS, SSH, Kerberos, etc.
+- IPsec is a security protocol that provides encryption, authentication, and integrity for IP packets.
+- SSL/TLS is a security protocol that provides encryption, authentication, and integrity for TCP connections.
+- SSH is a security protocol that provides encryption, authentication, and integrity for remote shell access.
+- Kerberos is a security protocol that provides authentication, authorization, and encryption for distributed systems.

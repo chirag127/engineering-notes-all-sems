@@ -1,0 +1,12 @@
+### Extensibility for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Extensibility is the ability of a software system to accommodate changes or additions to its functionality or structure without affecting the existing system.
+- Extensibility is one of the main advantages of object-oriented programming (OOP), as it allows objects to be extended to include new attributes and behaviors, and to be reused within and across applications .
+- Extensibility can be achieved by using various mechanisms, such as inheritance, polymorphism, composition, delegation, and design patterns .
+- Extensibility can be classified into two types: white-box and black-box.
+  - White-box extensibility refers to the ways in which a software system can be extended by modifying or adding to the source code. This is the least restrictive and most flexible form of extensibility, but it also requires more knowledge and effort from the developers and may introduce errors or inconsistencies.
+  - Black-box extensibility refers to the ways in which a software system can be extended by using predefined interfaces or hooks that allow external modules or components to be plugged in or out. This is the most restrictive and least flexible form of extensibility, but it also provides more abstraction and encapsulation and reduces the complexity and dependency of the system.
+- Object-oriented analysis (OOA) is the process of identifying and modeling the problem domain in terms of objects, classes, attributes, methods, associations, and behaviors.
+- OOA aims to produce a conceptual model that captures the essential features and requirements of the system, and that can be used as a basis for the subsequent design and implementation phases.
+- OOA can benefit from extensibility, as it allows the analysts to refine, modify, or extend the conceptual model as the problem domain evolves or new requirements emerge.
+- OOA can also support extensibility, as it helps to identify and define the interfaces and contracts between the objects and classes, and to apply the principles of abstraction, cohesion, coupling, and inheritance to ensure the quality and maintainability of the system.

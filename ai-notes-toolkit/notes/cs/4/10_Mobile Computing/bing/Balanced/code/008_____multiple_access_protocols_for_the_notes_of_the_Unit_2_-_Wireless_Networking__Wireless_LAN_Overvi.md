@@ -1,0 +1,15 @@
+# Multiple Access Protocols
+
+- Multiple access protocols are techniques that allow multiple nodes or users to share a common communication channel or medium.
+- They are used to coordinate the access to the channel and avoid collisions or interference among the transmissions.
+- They are especially important for wireless networking, where the channel is a shared radio spectrum that can be accessed by anyone within the range.
+- There are different types of multiple access protocols, depending on the characteristics of the channel and the network.
+- Some of the common multiple access protocols that are used in wireless networking are:
+
+  - **Carrier-sense multiple access with collision avoidance (CSMA/CA)**: This protocol is used in IEEE 802.11 / WiFi networks, where nodes sense the channel before transmitting and back off if the channel is busy. They also use a distributed coordination function (DCF) to exchange control frames before sending data frames, to avoid collisions and increase efficiency.   
+  - **ALOHA and slotted ALOHA**: These protocols are used in ALOHAnet, the first wireless packet network. Nodes transmit frames whenever they have data to send, without sensing the channel. Collisions may occur and the nodes have to retransmit the frames after a random time. Slotted ALOHA divides the time into slots and nodes transmit only at the beginning of a slot, which reduces the collision probability.   
+  - **Code-division multiple access (CDMA)**: This protocol is used in cellular networks, where nodes use different codes to modulate their signals and transmit simultaneously on the same channel. The receiver can recover the signal of a node by using the same code and canceling out the interference from other nodes. CDMA allows multiple users to share the same channel without collisions, but with some degradation in quality.  
+  - **Orthogonal frequency-division multiple access (OFDMA)**: This protocol is used in 4G and 5G cellular networks, where nodes transmit on different subcarriers or frequencies that are orthogonal to each other. The channel is divided into multiple subchannels, each with a different frequency, and nodes are assigned a subset of subchannels to transmit. OFDMA allows multiple users to share the same channel without interference, and also improves the spectral efficiency and robustness against fading.  
+  - **Orthogonal frequency-division multiplexing (OFDM)**: This protocol is used in IEEE 802.11a/g/n/ac/ax WiFi networks, where nodes transmit on different subcarriers or frequencies that are orthogonal to each other. The channel is divided into multiple subchannels, each with a different frequency, and nodes transmit on one or more subchannels depending on the data rate and channel conditions. OFDM allows multiple users to share the same channel without interference, and also improves the spectral efficiency and robustness against fading.  
+
+- These are some of the multiple access protocols that are used in wireless networking. They have different advantages and disadvantages, and they are suitable for different scenarios and applications.

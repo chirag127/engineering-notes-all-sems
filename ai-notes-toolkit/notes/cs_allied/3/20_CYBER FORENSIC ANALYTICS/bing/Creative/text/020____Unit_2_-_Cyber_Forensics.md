@@ -1,0 +1,23 @@
+## Unit 2 - Cyber Forensics
+
+- Cyber forensics is the process of collecting, preserving, analyzing and presenting digital evidence in a legally acceptable manner.
+- Cyber forensics can be used to investigate various types of cyber crimes, such as hacking, phishing, identity theft, fraud, cyber terrorism, cyber stalking, cyber bullying, etc.
+- Cyber forensics can also be used to recover lost or deleted data, trace the source of malicious attacks, identify the perpetrators and their motives, and provide evidence for legal proceedings.
+- Cyber forensics involves four main phases: acquisition, examination, analysis and reporting.
+  - Acquisition: This phase involves the identification, collection and preservation of digital evidence from various sources, such as computers, mobile devices, networks, cloud services, etc. The evidence should be handled carefully to avoid any alteration, damage or loss. The evidence should also be documented and stored securely using proper chain of custody procedures.
+  - Examination: This phase involves the extraction and identification of relevant data from the digital evidence using various tools and techniques, such as disk imaging, file carving, hashing, encryption, decryption, etc. The examiner should verify the integrity and authenticity of the data and filter out any irrelevant or redundant information.
+  - Analysis: This phase involves the interpretation and evaluation of the data to draw logical conclusions and hypotheses about the cyber crime. The analyst should use various methods and frameworks, such as timeline analysis, link analysis, network analysis, malware analysis, etc. to reconstruct the events and activities of the cyber crime and identify the actors and their roles.
+  - Reporting: This phase involves the presentation and communication of the findings and recommendations of the cyber forensics investigation to the relevant stakeholders, such as law enforcement, prosecutors, judges, clients, etc. The report should be clear, concise, accurate and unbiased. The report should also include the evidence, the methods, the tools, the results and the limitations of the cyber forensics investigation.
+- Cyber forensics faces various challenges and issues, such as:
+  - The large and diverse amount of digital evidence and data sources
+  - The dynamic and volatile nature of digital evidence and data
+  - The encryption and obfuscation of data by cyber criminals
+  - The legal and ethical implications of cyber forensics
+  - The lack of standardization and regulation of cyber forensics
+  - The shortage of skilled and qualified cyber forensics professionals
+- Cyber forensics requires various skills and competencies, such as:
+  - Technical skills: The ability to use various hardware and software tools and techniques to collect, preserve, examine and analyze digital evidence and data
+  - Analytical skills: The ability to apply logical and critical thinking to interpret and evaluate data and draw conclusions and hypotheses
+  - Communication skills: The ability to present and communicate the findings and recommendations of the cyber forensics investigation in a clear, concise, accurate and unbiased manner
+  - Legal skills: The ability to understand and comply with the legal and ethical principles and procedures of cyber forensics
+  - Professional skills: The ability to work independently and collaboratively, manage time and resources, and maintain confidentiality and integrity

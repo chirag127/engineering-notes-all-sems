@@ -1,0 +1,22 @@
+### Basic indexing methods for the notes of the Unit 5 - Applications in IDBS in the subject of INTELLIGENT DATABASE SYSTEM
+
+- Indexing is a way to optimize the performance of a database by minimizing the number of disk accesses required when a query is processed.
+- Indexing is a data structure technique which is used to quickly locate and access the data in a database.
+- Indexes are created using a few database columns.
+- Indexing in Database is defined based on its indexing attributes.
+- Two main types of indexing methods are: Primary Indexing and Secondary Indexing.
+- Primary Indexing is defined on an ordered data file, where the data file is ordered on a key field .
+- Primary Index is an ordered file which is fixed length size with two fields: the first field is the same as the primary key and the second field is a pointer to that specific data block.
+- Primary Indexing is further divided into two types: Dense Index and Sparse Index.
+- In a dense index, a record is created for every search key value in the database.
+- In a sparse index, a record is created for only some of the search key values.
+- Secondary Indexing is defined on a field which is a candidate key and has a unique value in every record, or a non-key with duplicate values.
+- Secondary Index is an ordered file with two fields: the first field is the same as the secondary key and the second field is a pointer to the record that contains that key value.
+- Secondary Indexing allows fast access to data on the basis of non-key attributes.
+- There are other methods of indexing, such as Clustered Indexing, Multilevel Indexing, Hash Indexing, Bitmap Indexing, etc .
+- Clustered Indexing is when more than two records are stored in the same file, and the records are grouped on the basis of some attribute.
+- Multilevel Indexing is when the primary index does not fit in the main memory, and a secondary index is created on the primary index.
+- Hash Indexing is when a hash function is applied to the key attribute to generate the address of the data block.
+- Bitmap Indexing is when a bit vector is used to represent the existence of a value in a data set.
+- Indexing methods can be applied to different types of data, such as relational, spatial, temporal, multimedia, etc.
+- Indexing methods can improve the efficiency and effectiveness of intelligent database systems, which are databases that incorporate artificial intelligence techniques, such as machine learning, natural language processing, knowledge representation, etc.

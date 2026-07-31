@@ -1,0 +1,8 @@
+
+### Public, Private and Hybrid Clouds 
+
+- **Public Clouds** are cloud computing services that are open to the general public, usually provided by third-party companies. They are typically used to store, manage and process data on the internet. Generally, public clouds are more cost-effective than private clouds as they can leverage economies of scale. Examples of public cloud services include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform. 
+
+- **Private Clouds** are cloud computing services that are only accessible to a single organization. They are typically hosted on-premise or in a dedicated data center and provide the organization with increased control over the security and privacy of their data. Private clouds are often more expensive than public clouds as they require more resources to maintain and manage. Examples of private cloud services include VMware vCloud, OpenStack, and Microsoft Private Cloud.
+
+- **Hybrid Clouds** are a combination of public and private cloud services. They are typically used to store, manage and process sensitive data on the private cloud while using the public cloud for non-sensitive data. Hybrid clouds provide organizations with increased flexibility and control over their data while still leveraging the cost-effectiveness of public cloud services. Examples of hybrid cloud services include Amazon Web Services (AWS) Hybrid Cloud, Microsoft Azure Hybrid Cloud, and Google Cloud Platform Hybrid Cloud.

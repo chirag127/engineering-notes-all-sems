@@ -1,0 +1,15 @@
+### Need of modulation and typical applications
+
+Modulation is the process of changing one or more properties of a carrier wave (such as amplitude, frequency or phase) according to the information signal (such as voice, data or video) to be transmitted. Modulation is essential for various reasons, such as:
+
+- To increase the range and quality of communication by using high-frequency carrier waves that can travel longer distances and overcome noise and interference.
+- To reduce the size and cost of the antenna by using high-frequency carrier waves that require smaller antennas than low-frequency signals.
+- To enable multiplexing of multiple signals by using different types of modulation (such as amplitude, frequency or phase) or different carrier frequencies to avoid overlapping and interference of signals.
+- To facilitate the transmission of digital signals over analog channels by using digital modulation techniques (such as amplitude shift keying, frequency shift keying or phase shift keying) that convert binary data into analog waveforms.
+
+Some of the typical applications of modulation are:
+
+- Radio broadcasting: Modulation is used to transmit audio signals over radio waves using amplitude modulation (AM) or frequency modulation (FM) techniques. AM radio uses a constant carrier frequency and varies its amplitude according to the audio signal, while FM radio uses a constant carrier amplitude and varies its frequency according to the audio signal.
+- Television broadcasting: Modulation is used to transmit video and audio signals over radio waves using amplitude modulation (AM) or frequency modulation (FM) techniques. AM television uses a constant carrier frequency and varies its amplitude according to the video signal, while FM television uses a constant carrier amplitude and varies its frequency according to the video signal. The audio signal is usually modulated separately using FM technique and transmitted along with the video signal.
+- Mobile communication: Modulation is used to transmit voice and data signals over cellular networks using digital modulation techniques (such as amplitude shift keying, frequency shift keying or phase shift keying) that convert binary data into analog waveforms. The carrier frequency is usually divided into multiple channels and assigned to different users to enable multiple access and avoid interference.
+- Satellite communication: Modulation is used to transmit signals from earth stations to satellites and vice versa using microwave frequencies that can penetrate the atmosphere and travel long distances. The signals are usually modulated using digital modulation techniques (such as amplitude shift keying, frequency shift keying or phase shift keying) that convert binary data into analog waveforms. The signals are also encrypted and compressed to enhance security and efficiency.

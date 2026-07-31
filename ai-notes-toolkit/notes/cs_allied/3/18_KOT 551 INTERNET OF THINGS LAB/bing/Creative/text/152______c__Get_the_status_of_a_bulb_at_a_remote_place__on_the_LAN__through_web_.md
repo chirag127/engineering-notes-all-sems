@@ -1,0 +1,15 @@
+#### c) Get the status of a bulb at a remote place (on the LAN) through web.
+
+- To get the status of a bulb at a remote place (on the LAN) through web, we need to have the following components:
+  - A bulb that can be controlled by a microcontroller such as Arduino or Raspberry Pi.
+  - A microcontroller that can connect to the LAN and send or receive data through HTTP requests.
+  - A web server that can host a web page that displays the status of the bulb and allows the user to change it.
+  - A web browser that can access the web page and interact with the web server.
+
+- The steps to get the status of a bulb at a remote place (on the LAN) through web are as follows:
+  - Connect the bulb to the microcontroller using appropriate wires and circuits. For example, if we use an Arduino, we can connect the bulb to a digital pin and use the digitalWrite() function to turn it on or off.
+  - Connect the microcontroller to the LAN using an Ethernet shield or a Wi-Fi module. For example, if we use an Arduino, we can use the Ethernet library or the WiFi library to initialize the network connection and assign an IP address to the microcontroller.
+  - Write a sketch or a program for the microcontroller that can handle HTTP requests from the web server. For example, if we use an Arduino, we can use the EthernetServer or the WiFiServer class to create a server object that can listen for incoming connections and respond to them. The sketch or the program should be able to read the status of the bulb from the digital pin and send it as a response to the web server, or change the status of the bulb according to the request from the web server.
+  - Upload the sketch or the program to the microcontroller and test the connection by sending HTTP requests from a web browser or a tool such as Postman. For example, if we use an Arduino, we can type the IP address of the microcontroller in the web browser and append a query string such as ?status=on or ?status=off to turn the bulb on or off, or ?status=read to read the current status of the bulb.
+  - Set up a web server that can host a web page that displays the status of the bulb and allows the user to change it. For example, we can use a platform such as Node.js, Python, or PHP to create a web server that can serve static or dynamic web pages. The web page should be able to send HTTP requests to the microcontroller using JavaScript or a library such as jQuery or Axios, and update the web page accordingly.
+  - Access the web page from a web browser and interact with the web server and the microcontroller. For example, we can type the IP address or the domain name of the web server in the web browser and see the status of the bulb on the web page. We can also click a button or a switch on the web page to change the status of the bulb and see the result on the web page and the bulb.

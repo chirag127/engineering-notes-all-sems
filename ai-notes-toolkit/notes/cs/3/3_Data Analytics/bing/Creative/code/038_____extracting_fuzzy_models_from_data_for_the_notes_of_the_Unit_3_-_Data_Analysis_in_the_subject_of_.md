@@ -1,0 +1,25 @@
+### Extracting fuzzy models from data
+
+- Fuzzy models are mathematical means of representing vagueness and imprecise information (hence the term fuzzy) .
+- Fuzzy models have the capability of recognising, representing, manipulating, interpreting, and using data and information that are vague and lack certainty .
+- Fuzzy models are useful for dealing with complex and uncertain phenomena, such as human reasoning, natural language, decision making, and machine learning .
+- Fuzzy models can be classified into two main types: fuzzy sets and fuzzy logic .
+- Fuzzy sets are generalisations of classical sets, where each element has a degree of membership in the range [0,1], instead of a binary membership (0 or 1) .
+- Fuzzy logic is a form of multi-valued logic, where the truth value of a proposition can be any real number in the range [0,1], instead of a binary value (0 or 1) .
+- Fuzzy logic can be used to construct fuzzy rules, which are conditional statements that express the relationship between fuzzy sets .
+- Fuzzy rules can be combined to form fuzzy systems, which are collections of fuzzy rules that perform a specific task, such as classification, regression, or control .
+- Extracting fuzzy models from data is the process of learning fuzzy sets, fuzzy logic, fuzzy rules, and fuzzy systems from data, using various methods and algorithms .
+- Extracting fuzzy models from data can be done in different ways, such as:
+  - Supervised learning, where the data is labelled with the desired output and the fuzzy model is trained to minimise the error between the output and the label .
+  - Unsupervised learning, where the data is not labelled and the fuzzy model is trained to discover the underlying structure or patterns in the data .
+  - Semi-supervised learning, where the data is partially labelled and the fuzzy model is trained to use both the labelled and the unlabelled data .
+  - Reinforcement learning, where the fuzzy model is trained to interact with an environment and learn from its own actions and rewards .
+- Extracting fuzzy models from data can be done using different techniques, such as:
+  - Clustering, where the data is partitioned into groups of similar or related elements, and each group is represented by a fuzzy set .
+  - Fuzzy c-means, where the data is clustered using a distance-based criterion and each element has a degree of membership to each cluster .
+  - Subtractive clustering, where the data is clustered using a density-based criterion and each cluster is represented by a prototype element .
+  - Fuzzy association rules, where the data is analysed to find frequent patterns or associations between fuzzy sets .
+  - Fuzzy decision trees, where the data is split into smaller subsets based on fuzzy rules, and each subset is assigned a class or a value .
+  - Fuzzy neural networks, where the data is processed by a network of interconnected fuzzy nodes, which can learn and adapt to the data .
+  - Genetic fuzzy systems, where the data is used to evolve fuzzy rules or systems using genetic algorithms or other evolutionary methods .
+  - Distributed fuzzy systems, where the data is processed by multiple fuzzy systems that cooperate or communicate with each other .

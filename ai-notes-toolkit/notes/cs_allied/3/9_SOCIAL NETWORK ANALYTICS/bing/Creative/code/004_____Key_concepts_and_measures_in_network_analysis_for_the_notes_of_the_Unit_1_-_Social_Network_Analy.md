@@ -1,0 +1,14 @@
+### Key concepts and measures in network analysis
+
+- Network analysis is a method of studying the structure and behavior of complex systems composed of many interacting elements, such as social networks, computer networks, biological networks, etc.  
+- Network analysis involves the following key concepts and measures:
+  - **Network**: A network is a representation of a system as a set of nodes and links, where nodes are the elements of the system and links are the connections or interactions between them.
+  - **Node**: A node is an individual unit or entity in a network, such as a person, a computer, a gene, etc. Nodes can have attributes or properties that describe their characteristics or features. 
+  - **Link**: A link is a connection or relationship between two nodes in a network, such as a friendship, a communication, a co-occurrence, etc. Links can have attributes or properties that describe their strength, direction, type, etc. 
+  - **Degree**: Degree is a measure of the number of links that a node has in a network. It indicates how connected or popular a node is. Degree can be divided into in-degree and out-degree, which count the number of incoming and outgoing links, respectively. 
+  - **Path**: Path is a sequence of links that connects two nodes in a network. It represents a possible way of reaching one node from another. The length of a path is the number of links in the path. 
+  - **Distance**: Distance is a measure of the shortest path between two nodes in a network. It indicates how close or far apart two nodes are. Distance can be used to calculate the diameter of a network, which is the longest distance between any pair of nodes. 
+  - **Centrality**: Centrality is a measure of the importance or influence of a node in a network. It reflects how central or peripheral a node is. There are different types of centrality, such as degree centrality, closeness centrality, betweenness centrality, eigenvector centrality, etc. 
+  - **Clustering**: Clustering is a measure of the tendency of nodes to form groups or communities in a network. It reflects how dense or sparse a network is. Clustering can be calculated at the level of individual nodes, links, or the whole network. 
+  - **Modularity**: Modularity is a measure of the quality of a partition of a network into clusters or communities. It reflects how well the network is divided into groups of nodes that are more connected within than between them. 
+  - **Network analysis methods**: Network analysis methods are techniques or algorithms that are used to analyze, visualize, model, or manipulate networks. Some examples of network analysis methods are nodal analysis, mesh analysis, matrix methods, graph theory, network models, network visualization, network statistics, etc.

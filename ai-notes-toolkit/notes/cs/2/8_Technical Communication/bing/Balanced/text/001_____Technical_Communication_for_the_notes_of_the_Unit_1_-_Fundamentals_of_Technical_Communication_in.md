@@ -1,0 +1,33 @@
+### Technical Communication for the notes of the Unit 1 - Fundamentals of Technical Communication
+
+- Technical communication is the process of conveying expert, technical, or highly complex information to a non-expert or more general audience in a clear, concise, and effective manner .
+- Technical communication is different from general communication in terms of its features, such as:
+  - Purpose: Technical communication aims to get something done within an organization or help a customer, client, or colleague get something done.
+  - Knowledge: Technical communication requires a greater level of knowledge and expertise on the topic than general communication.
+  - Audience: Technical communication often addresses multiple audiences with varying technical backgrounds, needs, and expectations.
+  - Format: Technical communication often uses specialized formats, such as reports, manuals, proposals, memos, etc., to organize and present information.
+  - Style: Technical communication follows certain conventions and standards of language, tone, grammar, and design to ensure clarity, accuracy, and professionalism.
+- Technical communication is also a rhetorical activity, which means it is goal-driven, audience-focused, and dynamic. Technical communication responds to a specific rhetorical situation, which consists of:
+  - Exigence: The problem or opportunity that motivates the communication.
+  - Audience: The people who will receive, use, or act on the communication.
+  - Constraints: The factors that limit or shape the communication, such as time, budget, resources, ethics, etc..
+  - Context: The circumstances or background that affect the communication, such as culture, history, politics, etc..
+- Technical communication involves various skills and processes, such as:
+  - Research: The process of finding, evaluating, and using relevant and reliable information to support the communication.
+  - Analysis: The process of breaking down complex information into simpler and more manageable parts.
+  - Synthesis: The process of combining and organizing information from various sources into a coherent and logical whole.
+  - Design: The process of creating and arranging visual and textual elements to enhance the communication.
+  - Revision: The process of reviewing and improving the communication based on feedback and criteria.
+  - Delivery: The process of presenting and distributing the communication to the intended audience.
+- Technical communication can be classified into different types or genres, depending on the purpose, audience, and format of the communication. Some common types of technical communication are:
+  - Instructions: A type of technical communication that guides the audience through a series of steps to perform a task or achieve a goal.
+  - Descriptions: A type of technical communication that provides details and characteristics of an object, process, or phenomenon.
+  - Definitions: A type of technical communication that explains the meaning and usage of a term, concept, or principle.
+  - Summaries: A type of technical communication that condenses the main points and findings of a longer document or source.
+  - Proposals: A type of technical communication that persuades the audience to accept a plan, idea, or solution to a problem or opportunity.
+  - Reports: A type of technical communication that presents and analyzes data, facts, and evidence to inform or persuade the audience about a topic or issue.
+  - Memos: A type of technical communication that communicates brief and informal messages within an organization.
+  - Emails: A type of technical communication that communicates brief and formal messages to external or internal audiences.
+  - Letters: A type of technical communication that communicates formal and courteous messages to external audiences.
+  - Resumes: A type of technical communication that showcases the qualifications and achievements of a job applicant.
+  - Presentations: A type of technical communication that delivers oral and visual information to a live audience.

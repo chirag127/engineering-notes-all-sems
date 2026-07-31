@@ -1,0 +1,21 @@
+## Unit 5 - Input / Output
+
+- Input/output (I/O) is the process of transferring data between a computer system and its external devices, such as keyboards, mice, printers, monitors, disks, networks, etc.
+- I/O devices can be classified into two categories: **character devices** and **block devices**.
+  - Character devices transfer data one character at a time, such as keyboards and terminals.
+  - Block devices transfer data in fixed-size blocks, such as disks and tapes.
+- I/O devices can also be classified into two types: **synchronous devices** and **asynchronous devices**.
+  - Synchronous devices perform I/O operations at a fixed rate, such as audio and video devices.
+  - Asynchronous devices perform I/O operations at variable rates, depending on the availability of data, such as keyboards and disks.
+- I/O operations can be performed in different modes: **polling mode**, **interrupt mode**, and **direct memory access (DMA) mode**.
+  - Polling mode is the simplest mode, where the CPU repeatedly checks the status of the I/O device until it is ready to perform an I/O operation.
+  - Interrupt mode is a more efficient mode, where the CPU is notified by the I/O device when it is ready to perform an I/O operation, using a special signal called an interrupt.
+  - DMA mode is the most advanced mode, where the CPU delegates the I/O operation to a special hardware controller called a DMA controller, which transfers data directly between the I/O device and the main memory, without involving the CPU.
+- I/O operations can be performed using different methods: **programmed I/O**, **interrupt-driven I/O**, and **I/O using system calls**.
+  - Programmed I/O is the method where the CPU executes a sequence of instructions to perform an I/O operation, such as reading or writing a byte of data from or to an I/O device.
+  - Interrupt-driven I/O is the method where the CPU executes an interrupt handler routine to perform an I/O operation, in response to an interrupt signal from an I/O device.
+  - I/O using system calls is the method where the CPU executes a special instruction called a system call to request the operating system to perform an I/O operation, such as opening or closing a file on a disk.
+- I/O operations can be performed using different interfaces: **device registers**, **memory-mapped I/O**, and **port-mapped I/O**.
+  - Device registers are special memory locations that store the status and control information of an I/O device, such as the data to be read or written, the device address, the command to be executed, etc.
+  - Memory-mapped I/O is the interface where the device registers are mapped to the main memory address space, and can be accessed by the CPU using the same instructions as accessing the main memory.
+  - Port-mapped I/O is the interface where the device registers are mapped to a separate I/O address space, and can be accessed by the CPU using special instructions for I/O operations.

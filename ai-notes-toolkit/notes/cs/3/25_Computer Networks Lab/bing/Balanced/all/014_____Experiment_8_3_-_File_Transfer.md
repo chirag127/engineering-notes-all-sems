@@ -1,0 +1,23 @@
+# Experiment 8.3 - File Transfer
+
+- The objective of this experiment is to learn how to transfer files between different devices using various protocols and tools.
+- The prerequisites for this experiment are:
+  - Basic knowledge of networking concepts and protocols such as TCP/IP, FTP, HTTP, etc.
+  - Access to at least two devices that can communicate over a network, such as computers, smartphones, tablets, etc.
+  - Access to a file server that supports FTP or HTTP, such as Apache, IIS, etc.
+- The steps for this experiment are:
+  - Create a text file on one device and name it test.txt. Write some content in the file, such as "Hello, world!".
+  - Transfer the file to another device using FTP. FTP stands for File Transfer Protocol and it is a standard network protocol for transferring files between hosts. To use FTP, you need an FTP client and an FTP server. You can use any FTP client software, such as FileZilla, WinSCP, etc. You also need to know the IP address, username, and password of the FTP server. To transfer the file, follow these steps:
+    - Launch the FTP client and connect to the FTP server by entering the IP address, username, and password.
+    - Navigate to the directory where you want to upload the file on the server.
+    - Drag and drop the file from your device to the server directory or use the upload button.
+    - Verify that the file has been uploaded successfully by checking the file size and timestamp on the server.
+  - Transfer the file back to the original device using HTTP. HTTP stands for Hypertext Transfer Protocol and it is a standard network protocol for transferring data over the web. To use HTTP, you need a web browser and a web server. You can use any web browser, such as Chrome, Firefox, Safari, etc. You also need to know the URL of the web server where the file is located. To transfer the file, follow these steps:
+    - Launch the web browser and enter the URL of the web server, followed by the file name. For example, http://192.168.1.100/test.txt.
+    - The browser will display the file content or prompt you to download the file, depending on the file type and browser settings.
+    - Save the file to your device or open it with a text editor.
+    - Verify that the file has been downloaded successfully by checking the file size and content on your device.
+- The expected outcomes of this experiment are:
+  - You will learn how to use FTP and HTTP to transfer files between different devices over a network.
+  - You will understand the differences and similarities between FTP and HTTP in terms of functionality, security, and performance.
+  - You will be able to compare and contrast FTP and HTTP with other file transfer protocols, such as SCP, SFTP, TFTP, etc.

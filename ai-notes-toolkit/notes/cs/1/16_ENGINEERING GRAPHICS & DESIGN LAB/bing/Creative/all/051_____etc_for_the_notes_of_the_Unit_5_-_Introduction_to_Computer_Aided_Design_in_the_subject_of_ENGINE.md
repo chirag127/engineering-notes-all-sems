@@ -1,0 +1,26 @@
+# Unit 5 - Introduction to Computer Aided Design
+
+- Computer Aided Design (CAD) is a manufacturing process that allows us to digitally create 2D drawings or 3D models of future products.
+- CAD helps designers and engineers visualize a product’s construction, before fabricating it.
+- CAD also enables the analysis and optimization of the product’s performance, functionality, and quality.
+- CAD software can be classified into two categories: 2D CAD and 3D CAD.
+  - 2D CAD software allows the creation of flat drawings of products, such as floor plans, elevations, and sections.
+  - 3D CAD software allows the creation of solid models of products, which can be viewed from any angle, and can be manipulated, modified, and assembled.
+- Some examples of CAD software are AutoCAD, SolidWorks, Creo Parametric, CATIA, and Inventor.
+- The benefits of using CAD software are:
+  - Increased productivity and efficiency of the design process.
+  - Improved accuracy and quality of the design output.
+  - Enhanced communication and collaboration among the design team and stakeholders.
+  - Reduced cost and time of the design cycle.
+  - Easier integration with other engineering tools, such as computer-aided manufacturing (CAM), computer-aided engineering (CAE), and product lifecycle management (PLM).
+- The challenges of using CAD software are:
+  - The need for adequate training and skills to use the software effectively.
+  - The need for compatible hardware and software systems to run the software smoothly.
+  - The need for proper data management and security to protect the design information.
+  - The need for ethical and legal considerations to avoid plagiarism, infringement, and liability issues.
+- The objectives of this unit are:
+  - To introduce the fundamentals of engineering graphics using solid modeling as opposed to a user course in the specific solid modeling software.
+  - To provide the students with an opportunity to use solid modeling as an engineering tool for conceptual design, detailed design and engineering analysis.
+  - To teach the students how to use Creo Parametric, a specific CAD software, to create and manipulate solid models of products.
+  - To expose the students to the various features and functions of Creo Parametric, such as sketching, extruding, revolving, sweeping, blending, patterning, assembling, dimensioning, and annotating.
+  - To assess the students' understanding and skills of CAD through assignments, quizzes, and projects.

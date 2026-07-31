@@ -1,0 +1,11 @@
+## Unit 2 - Solving Societal Problems with the help of IOT
+
+- IOT stands for Internet of Things, which refers to the network of physical devices, sensors, actuators, and software that can collect, process, and exchange data over the internet.
+- IOT can help solve various societal problems by providing smart solutions that are efficient, cost-effective, and sustainable.
+- Some examples of societal problems that can be solved with the help of IOT are:
+
+  - **Smart Cities**: IOT can enable smart urban planning, management, and governance by integrating data from various sources such as traffic, pollution, energy, waste, water, etc. IOT can also improve the quality of life of citizens by providing smart services such as public transportation, parking, lighting, security, health, education, etc.
+  - **Smart Agriculture**: IOT can enhance the productivity, quality, and profitability of agriculture by enabling precision farming, irrigation, pest control, soil monitoring, crop health, etc. IOT can also reduce the environmental impact of agriculture by optimizing the use of resources such as water, fertilizer, pesticides, etc.
+  - **Smart Healthcare**: IOT can improve the accessibility, affordability, and quality of healthcare by enabling remote monitoring, diagnosis, treatment, and prevention of diseases. IOT can also empower patients and caregivers by providing personalized and timely information, feedback, and support.
+  - **Smart Energy**: IOT can optimize the generation, distribution, and consumption of energy by enabling smart grids, smart meters, smart appliances, smart buildings, etc. IOT can also promote the use of renewable and clean energy sources by integrating them with the existing power systems.
+  - **Smart Environment**: IOT can monitor and protect the environment by enabling smart sensors, actuators, and software that can detect, measure, and respond to various environmental parameters such as air quality, water quality, noise, temperature, humidity, etc. IOT can also help mitigate the effects of climate change by reducing greenhouse gas emissions, enhancing carbon sequestration, and adapting to changing weather patterns.

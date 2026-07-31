@@ -1,0 +1,23 @@
+### Flow Charts for the notes of the Unit 3 - Software Design in the subject of Software Engineering
+
+- A flow chart is a graphical representation of an algorithm or a process that uses basic shapes and symbols to show the flow of information and processing .
+- Flow charts are useful for programmers to plan and design software solutions, as well as to communicate and document the logic and structure of the program .
+- Flow charts consist of the following elements:
+  - Start and end symbols: usually represented by circles or ovals, they mark the beginning and the end of the flow chart.
+  - Process symbols: usually represented by rectangles, they show the steps or actions that are performed in the algorithm or process.
+  - Decision symbols: usually represented by diamonds, they show the points where a condition is checked and a branch is taken based on the result.
+  - Input/output symbols: usually represented by parallelograms, they show the points where data is entered or displayed by the program.
+  - Flow lines: usually represented by arrows, they show the direction and sequence of the flow of information and processing.
+- Flow charts follow some basic rules and conventions, such as:
+  - The flow chart should have a clear start and end point, and should not have any loops or dead ends.
+  - The flow chart should be drawn from top to bottom or left to right, and the flow lines should not cross each other.
+  - The flow chart should use standard symbols and labels, and should be clear and concise.
+  - The flow chart should be modular and hierarchical, and should avoid unnecessary details and complexity.
+- Flow charts have some advantages and disadvantages, such as:
+  - Advantages: they are easy to understand and visualize, they can help identify errors and inefficiencies, they can facilitate testing and debugging, they can improve communication and documentation.
+  - Disadvantages: they can be time-consuming and tedious to create and maintain, they can become cluttered and confusing for large and complex programs, they can be ambiguous and inconsistent, they can not capture all the aspects and features of the program.
+- Flow charts are related to other diagrams and tools used in software engineering, such as:
+  - Data flow diagrams (DFDs): they show the flow of data between different components or functions of a system, and the sources and destinations of the data.
+  - Unified modeling language (UML) activity diagrams: they show the flow of control and object interactions in a system, and the states and transitions of the system.
+  - Business process modeling and notation (BPMN): they show the flow of activities and events in a business process, and the roles and responsibilities of the participants.
+  - Flowchart software and diagramming tools: they are applications that help create, edit, and share flow charts and other diagrams, and offer various features and templates .

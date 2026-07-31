@@ -1,0 +1,13 @@
+### Learning Bridge and Spanning Tree Algorithms
+
+In this unit, we will delve into the topic of Medium Access Control (MAC) and Local Area Networks (LAN), with a focus on learning bridge and spanning tree algorithms. Here are some key points to keep in mind:
+
+- A learning bridge is a device that connects LAN segments and learns the MAC addresses of devices on each segment. This allows the bridge to forward frames to the correct segment without flooding the entire network.
+- The process of learning MAC addresses involves the bridge examining the source address of each frame that it receives. It then adds the source address to its address table along with the port that the frame was received on.
+- If the destination MAC address of a frame is not in the bridge's address table, the bridge will flood the frame to all ports except the one that it was received on. This ensures that the frame reaches the correct destination even if the destination device is on a different segment.
+- However, flooding can create loops in the network, which can cause frames to circulate indefinitely and consume network resources. To prevent this, we use a spanning tree algorithm.
+- The spanning tree algorithm creates a tree-like structure that connects all LAN segments while avoiding loops. This is accomplished by designating one bridge as the root bridge and then disabling some of the ports on the other bridges so that there is only one path from each segment to the root bridge.
+- The process of determining the root bridge and the port roles on each bridge involves exchanging Bridge Protocol Data Units (BPDUs) between the bridges. BPDUs contain information such as the bridge's MAC address, the root bridge's MAC address, and the cost of each path to the root bridge.
+- The spanning tree algorithm can take some time to converge, especially if there are changes in the network topology. During this convergence time, some frames may be lost or delayed. To minimize this, we can use techniques such as Rapid Spanning Tree Protocol (RSTP) or Multiple Spanning Tree Protocol (MSTP).
+
+In summary, learning bridge and spanning tree algorithms are important concepts in the field of computer networking. They allow us to connect LAN segments while avoiding loops and ensuring that frames reach their intended destinations efficiently. By understanding these concepts, you will be better equipped to design and troubleshoot local area networks.

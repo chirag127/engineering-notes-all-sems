@@ -1,0 +1,25 @@
+# Workshop Practice Lab:
+
+- Workshop practice lab is a common theory/lab course for all engineering students in the first and second semester  .
+- The objective of this lab is to get a hands-on knowledge of several workshop practices like carpentry, fitting, welding, machining, etc. and learn safety regulations to be maintained in a shop floor.
+- Workshop practice is the backbone of the real industrial environment which helps to develop and enhance relevant technical hand skills required by the technician working in the various engineering industries and workshops.
+- The lab syllabus may vary depending on the university or college, but some of the common experiments are  :
+  - Introduction to workshop tools and safety precautions
+  - Carpentry: making various joints and patterns using wood and nails
+  - Fitting: filing, sawing, drilling, tapping and making various joints using metal pieces
+  - Welding: electric arc welding and gas welding of metal plates and rods
+  - Machining: turning, facing, threading and knurling operations on a lathe machine
+  - Sheet metal work: cutting, bending, folding and riveting of metal sheets
+  - Plumbing: cutting, threading and joining of pipes and fittings
+  - Electrical and electronics: soldering, desoldering and testing of electrical and electronic components and circuits
+- The lab work consists of four parts:
+  - A pre-lab homework that must be completed before coming to the lab
+  - The lab itself, answering all the warm-ups and predictions, and attaching data, results, graphs and analysis
+  - A post-lab report that summarizes the objectives, procedures, observations, calculations and conclusions of the experiment
+  - A viva or oral examination that tests the understanding and application of the concepts and skills learned in the lab
+- The lab work is evaluated based on the following criteria :
+  - Attendance and participation
+  - Quality and accuracy of data and results
+  - Clarity and completeness of report and analysis
+  - Demonstration of skills and knowledge in viva
+  - Adherence to safety rules and regulations

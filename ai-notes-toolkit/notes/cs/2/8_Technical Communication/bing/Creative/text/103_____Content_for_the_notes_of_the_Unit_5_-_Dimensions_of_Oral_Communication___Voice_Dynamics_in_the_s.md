@@ -1,0 +1,35 @@
+### Content for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication
+
+- Oral communication is the verbal and visual transmission of information from one person to another.
+- Oral communication can be classified into two dimensions: formal and informal.
+  - Formal oral communication follows a set of rules and conventions, such as presentations, speeches, interviews, and meetings.
+  - Informal oral communication is more spontaneous and casual, such as conversations, chats, and gossip.
+- Oral communication involves both verbal and nonverbal elements, such as words, tone, pitch, volume, gestures, facial expressions, and eye contact.
+- Oral communication requires effective vocal delivery, which is the use of voice to convey the message and create an impression on the audience.
+- Vocal delivery consists of several aspects, such as:
+  - Volume: the loudness or softness of the voice, which should match the size of the room and the number of listeners.
+  - Rate: the speed of speaking, which should vary according to the purpose and mood of the message.
+  - Pitch: the highness or lowness of the voice, which should reflect the emotion and emphasis of the message.
+  - Articulation: the clarity and accuracy of pronouncing words, which should avoid mumbling, slurring, or skipping sounds.
+  - Fluency: the smoothness and continuity of speaking, which should avoid pauses, fillers, or repetitions.
+  - Pronunciation: the correctness and appropriateness of saying words, which should follow the standard or accepted norms of the language.
+  - Accent: the distinctive way of speaking a language, which should be understandable and respectful to the listeners.
+  - Inflection: the variation of pitch and tone to express meaning and emotion, which should avoid monotony or sarcasm.
+  - Modulation: the adjustment of voice to suit the situation and the audience, which should consider the purpose, context, and feedback of the message.
+- Oral communication also requires appropriate audiovisual aids to support the message and enhance the understanding and interest of the audience.
+- Audiovisual aids can be classified into two types: analog and digital.
+  - Analog audiovisual aids are physical or tangible objects, such as charts, graphs, models, posters, or handouts.
+  - Digital audiovisual aids are electronic or computer-based devices, such as slides, videos, animations, or audio clips.
+- Audiovisual aids should be selected and designed based on the following criteria:
+  - Relevance: the aid should be related to the topic and the objective of the message.
+  - Simplicity: the aid should be easy to understand and use, without unnecessary details or distractions.
+  - Visibility: the aid should be clear and visible to the audience, with appropriate size, color, and contrast.
+  - Accuracy: the aid should be factual and reliable, with proper sources and references.
+  - Creativity: the aid should be original and attractive, with appropriate use of images, sounds, and effects.
+  - Compatibility: the aid should be compatible with the equipment and the environment, with proper testing and backup.
+- Oral communication can be evaluated based on the following criteria:
+  - Content: the message should be clear, coherent, and complete, with relevant and sufficient information and evidence.
+  - Organization: the message should be structured, logical, and sequential, with an introduction, a body, and a conclusion.
+  - Language: the message should be appropriate, accurate, and effective, with correct grammar, spelling, and punctuation.
+  - Delivery: the message should be confident, expressive, and engaging, with effective vocal and nonverbal skills.
+  - Interaction: the message should be responsive, respectful, and collaborative, with appropriate feedback and questions.

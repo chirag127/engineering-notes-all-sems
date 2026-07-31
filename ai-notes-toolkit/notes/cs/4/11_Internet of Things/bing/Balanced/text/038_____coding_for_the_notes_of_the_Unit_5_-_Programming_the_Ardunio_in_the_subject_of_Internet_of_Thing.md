@@ -1,0 +1,15 @@
+### Coding for the notes of the Unit 5 - Programming the Arduino in the subject of Internet of Things
+
+- Arduino is an open-source platform that consists of a hardware board and a software environment for creating interactive electronic projects.
+- The Arduino board is based on a microcontroller, which is a small computer chip that can be programmed to perform various tasks, such as reading sensors, controlling motors, or communicating with other devices.
+- The Arduino software, also known as the Arduino IDE (Integrated Development Environment), is a program that allows you to write, edit, compile, and upload code to the Arduino board. The code is written in a language that is similar to C, but with some simplifications and extensions.
+- To program the Arduino, you need to follow these steps:
+  - Connect your Arduino board to your computer using a USB cable.
+  - Launch the Arduino IDE and select the right board and port from the Tools menu.
+  - Write your code in the text editor, or open an example sketch from the File menu.
+  - Verify your code by clicking the check mark button, which will compile it and check for errors.
+  - Upload your code to the Arduino board by clicking the arrow button, which will transfer it to the microcontroller and run it.
+  - Monitor the output of your code by opening the Serial Monitor from the Tools menu, which will display any messages sent by the Arduino board.
+- The basic structure of the Arduino code consists of two required functions: setup() and loop(). The setup() function runs once when the board is powered on or reset, and is used to initialize variables, pin modes, or libraries. The loop() function runs repeatedly and is used to implement the main logic of the program.
+- The Arduino code can use various values, such as variables, constants, operators, and expressions, to store and manipulate data. Variables are named containers that can hold different types of data, such as numbers, characters, or strings. Constants are fixed values that cannot be changed, such as HIGH, LOW, or PI. Operators are symbols that perform mathematical or logical operations on values, such as +, -, or ==. Expressions are combinations of values and operators that produce a result, such as x + y or z < 10.
+- The Arduino code can also use various functions, such as built-in functions, user-defined functions, or library functions, to perform specific tasks. Built-in functions are predefined functions that are part of the Arduino language, such as pinMode(), digitalWrite(), or analogRead(). User-defined functions are custom functions that are created by the programmer, and can have parameters and return values. Library functions are functions that are provided by external libraries, which are collections of code that extend the functionality of the Arduino, such as Servo, LiquidCrystal, or WiFi.

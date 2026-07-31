@@ -1,0 +1,21 @@
+#### Resilient Distributed Databases in Spark
+
+- Resilient Distributed Databases (RDDs) are the primary data structure in Spark    .
+- RDDs are immutable distributed collections of objects that can be operated on in parallel  .
+- RDDs can contain any type of Python, Java, or Scala objects, including user-defined classes .
+- RDDs are reliable and memory-efficient when it comes to parallel processing .
+- RDDs are created from any storage source supported by Hadoop, such as local file system, HDFS, Cassandra, HBase, Amazon S3, etc.
+- RDDs support two types of operations: transformations and actions   .
+  - Transformations create a new RDD from an existing one, such as map, filter, join, etc   .
+  - Actions return a value to the driver program or write data to an external storage system, such as count, collect, save, etc   .
+- RDDs support lazy evaluation, which means that the computation is only performed when an action is triggered  .
+- RDDs can be cached or persisted in memory or disk for faster access   .
+- RDDs can be created from two ways: parallelizing an existing collection in the driver program or referencing a dataset in an external storage system .
+- RDDs have two properties: lineage and partitioning .
+  - Lineage is the sequence of transformations that produced an RDD .
+  - Partitioning is the way an RDD is split into multiple pieces that can be processed on different nodes of the cluster .
+- RDDs can be classified into two types: narrow and wide .
+  - Narrow RDDs have one-to-one dependency between partitions of the parent and child RDDs, such as map, filter, etc .
+  - Wide RDDs have many-to-one or many-to-many dependency between partitions of the parent and child RDDs, such as join, groupBy, etc .
+- RDDs are resilient because they can recover from failures using their lineage information .
+- RDDs are the core of Spark's programming model and enable scalable, fault-tolerant, and efficient data processing   .

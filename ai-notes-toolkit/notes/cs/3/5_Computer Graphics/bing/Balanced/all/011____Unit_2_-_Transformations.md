@@ -1,0 +1,8 @@
+## Unit 2 - Transformations
+
+A transformation is a change in the position, size, or shape of a figure. There are four types of transformations: translations, reflections, rotations, and dilations.
+
+- A translation is a transformation that moves every point of a figure the same distance and in the same direction. The figure does not change its size or orientation. A translation can be described by a vector, which has a magnitude (length) and a direction.
+- A reflection is a transformation that flips a figure over a line of symmetry, called the axis of reflection. The figure and its image are congruent and opposite. A reflection can be described by the equation of the axis of reflection, or by the angle of incidence and the angle of reflection.
+- A rotation is a transformation that turns a figure around a fixed point, called the center of rotation. The figure and its image are congruent and have the same orientation. A rotation can be described by the angle of rotation, the direction of rotation (clockwise or counterclockwise), and the center of rotation.
+- A dilation is a transformation that changes the size of a figure, but not its shape or orientation. The figure and its image are similar, meaning they have the same angles and proportional sides. A dilation can be described by the scale factor, which is the ratio of the lengths of corresponding sides, and the center of dilation, which is the fixed point that the figure is enlarged or reduced from.

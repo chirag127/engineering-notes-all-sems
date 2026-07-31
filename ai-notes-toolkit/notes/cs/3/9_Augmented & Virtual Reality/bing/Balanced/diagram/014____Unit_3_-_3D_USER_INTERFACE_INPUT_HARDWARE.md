@@ -1,0 +1,12 @@
+## Unit 3 - 3D User Interface Input Hardware
+
+- 3D user interface input hardware are devices that capture and interpret the actions performed by the user in a 3D environment.
+- The main characteristics of these devices are:
+  - Degrees of freedom (DOF): the number of independent ways that a body can move in space. For example, a 3D mouse can have six DOF: three for translation and three for rotation.
+  - Input type/frequency of data: the kind and amount of data that the device generates. For example, discrete input devices produce single data values, such as a button press, while continuous input devices produce multiple data values, such as a position or orientation.
+  - Physical interaction: the amount and type of physical effort required by the user to operate the device. For example, some devices are passive, meaning they do not require any external power or force, while others are active, meaning they provide some form of feedback or resistance to the user.
+- Some examples of 3D user interface input hardware are:
+  - Keyboards: a set of keys that can be used to enter text, commands, or shortcuts. They are typically used in desktop 3D UIs, where they can complement other input devices such as mice or trackballs. They have low DOF, discrete input, and passive interaction.
+  - 2D mice and trackballs: devices that can sense the movement of a user's hand on a flat surface or a ball. They are also typically used in desktop 3D UIs, where they can provide 2D cursor control or 3D navigation. They have two or three DOF, continuous input, and passive interaction.
+  - Pen- and touch-based tablets: devices that can sense the position and pressure of a user's finger or stylus on a flat surface. They can be used in desktop or immersive 3D UIs, where they can provide direct manipulation, sketching, or gesture input. They have two or three DOF, continuous input, and passive or active interaction.
+  - Joysticks: devices that can sense the direction and magnitude of a user's hand movement on a stick. They can be used in desktop or immersive 3D UIs, where they can provide 3D navigation, selection, or manipulation. They have two to six DOF, continuous input, and passive or active interaction.

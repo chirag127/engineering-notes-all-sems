@@ -1,0 +1,11 @@
+### Functions
+- A function is a block of code that performs a specific task and can be reused in a program.
+- A function can have zero or more parameters that are passed as input values and can return zero or more values as output.
+- A function can be defined using the `function` keyword followed by the function name and a list of parameters in parentheses.
+- A function can be called by using the function name followed by a list of arguments in parentheses that match the parameters of the function.
+- A function can be declared before or after the code that calls it, as long as it is in the same scope.
+- A function can be assigned to a variable or passed as an argument to another function.
+- A function can be nested inside another function and have access to the variables and parameters of the outer function.
+- A function can be anonymous, meaning it does not have a name and is usually used as a callback or a closure.
+- A function can be a constructor, meaning it is used to create objects using the `new` keyword and the `this` keyword.
+- A function can be a method, meaning it is a property of an object and can access the object's properties and methods using the `this` keyword.

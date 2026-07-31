@@ -1,0 +1,11 @@
+# Clusters Classifications for the notes of the Unit 3 - Overview of Cluster Computing in the subject of High Performance Computing
+
+- Cluster computing is a form of distributed computing that involves a group of interconnected computers (nodes) that work together as a single system to perform parallel tasks.
+- Cluster computing can provide various benefits, such as high performance, high availability, load balancing, scalability, and cost-effectiveness.
+- Cluster computing can be classified into three main types, depending on the purpose and design of the cluster:
+
+  - **High performance (HP) clusters**: HP clusters use computer clusters and supercomputers to solve advanced computational problems that require high-speed processing and communication among nodes. HP clusters are often used for scientific and engineering applications, such as weather forecasting, fluid dynamics, molecular modeling, and artificial intelligence. HP clusters typically have a dedicated network, a centralized management system, and specialized hardware and software to optimize performance and efficiency   .
+
+  - **Load-balancing clusters**: Load-balancing clusters distribute incoming requests for resources among several nodes running similar programs or having similar content. Load-balancing clusters are often used for web servers, database servers, and application servers that need to handle high volumes of traffic and provide fast and consistent responses. Load-balancing clusters can improve the availability, reliability, and scalability of the services by distributing the workload and avoiding overloading or failure of any single node .
+
+  - **High availability (HA) clusters**: HA clusters provide continuous operation of critical services by ensuring that at least one node is always available to take over the role of another node that fails or goes offline. HA clusters are often used for mission-critical applications, such as banking, e-commerce, and health care, that need to maintain data integrity and minimize downtime. HA clusters typically have a redundant network, a shared storage system, and a failover mechanism to detect and recover from node failures .

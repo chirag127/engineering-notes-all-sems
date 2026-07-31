@@ -1,0 +1,13 @@
+# Avoidance and Detection for the Notes of the Unit 3 - CPU Scheduling in the Subject of Operating System
+
+- CPU scheduling is the process of allocating CPU time to different processes based on their priority, resource requirements, and system state.
+- Deadlock is a situation where a set of processes are blocked and cannot proceed because they are waiting for some resources that are held by other processes in the same set.
+- Deadlock avoidance and detection are two methods to prevent or resolve deadlocks in an operating system.
+- Deadlock avoidance is a proactive approach that ensures that the system never enters an unsafe state that could lead to a deadlock. It requires the processes to declare their maximum resource needs in advance and the operating system to check the availability of resources before granting any request.
+- Deadlock detection is a reactive approach that allows the system to enter a deadlock state and then tries to recover from it by detecting the deadlock and breaking it. It requires the operating system to periodically monitor the resource allocation and process states and to apply some recovery strategies such as aborting or preempting some processes.
+- Some of the algorithms used for deadlock avoidance are:
+  - Banker's algorithm: It simulates the allocation of resources to processes and checks if the system is in a safe state after each request. A safe state is one where there is at least one sequence of processes that can finish without causing a deadlock. 
+  - Resource allocation graph: It represents the processes and resources as nodes and the requests and assignments as edges. A cycle in the graph indicates a deadlock. The graph can be modified by applying some conditions such as no multiple instances of resources, no resource sharing, or no preemption. 
+- Some of the algorithms used for deadlock detection are:
+  - Wait-for graph: It represents the processes and resources as nodes and the waiting relationships as edges. A cycle in the graph indicates a deadlock. The graph can be reduced by removing the nodes that are not involved in any cycle. 
+  - Matrix algorithm: It uses two matrices to store the current allocation and request of resources for each process. It also uses a vector to store the available resources. It compares the request matrix and the available vector to find the processes that can finish and updates the matrices and the vector accordingly. If no process can finish, a deadlock is detected.

@@ -1,0 +1,34 @@
+### Visualization and Analysis for the notes of the Unit 5 - Evaluation of Social Network Analysis
+
+- Visualization is the process of representing the data and relationships in a social network graphically, using nodes and links to show the actors and ties respectively .
+- Visualization helps to explore the structure and patterns of the network, identify important actors and subgroups, and communicate the results to others .
+- Analysis is the process of applying mathematical and statistical methods to measure and interpret the properties and dynamics of the social network .
+- Analysis helps to quantify the relative importance of nodes and links, understand how the network interacts and evolves, and test hypotheses and theories about the network .
+- Some common tools for visualization and analysis of social networks are:
+  - NodeXL: a free software for analysis and visualization of large networks, integrated with Microsoft Excel.
+  - Gephi: an open source graph visualization and manipulation software, with interactive and dynamic features.
+  - VOSViewer: a software for bibliometric data analysis and visualization, with clustering and mapping capabilities.
+  - Cytoscape: an open source software for complex network analysis and visualization, with plugins for bioinformatics, social network analysis, and semantic web.
+  - KeyLines: a JavaScript library for social network visualization, with advanced data visualization features and social network analysis measures.
+- Some common measures and techniques for social network analysis are:
+  - Centrality: a measure of the importance or influence of a node in the network, based on its position and connections .
+    - Degree centrality: the number of links a node has with other nodes.
+    - Betweenness centrality: the extent to which a node lies on the shortest paths between other nodes.
+    - Closeness centrality: the average distance of a node to all other nodes in the network.
+    - Eigenvector centrality: the influence of a node based on the centrality of its neighbors.
+    - PageRank: a variant of eigenvector centrality that accounts for the direction and weight of the links.
+  - Subgroups: subsets of nodes that have more or stronger ties with each other than with the rest of the network.
+    - Cliques: subgroups where every node is directly connected to every other node.
+    - Components: subgroups where every node is reachable from every other node by following the links.
+    - Communities: subgroups where nodes have more links within the group than outside the group.
+  - Network properties: characteristics of the whole network that describe its structure and behavior .
+    - Size: the number of nodes in the network.
+    - Density: the proportion of actual links to possible links in the network.
+    - Diameter: the longest shortest path between any pair of nodes in the network.
+    - Clustering coefficient: the extent to which nodes tend to form triangles with their neighbors.
+    - Modularity: the extent to which the network can be divided into communities.
+  - Network dynamics: the changes and evolution of the network over time .
+    - Timeline view: a way to visualize the network as a sequence of snapshots or events.
+    - Network growth: the addition or removal of nodes and links over time.
+    - Network diffusion: the spread of information, behavior, or influence through the network.
+    - Network resilience: the ability of the network to withstand shocks or attacks.

@@ -1,0 +1,18 @@
+## Unit 5 - Concurrency Control Techniques
+
+Concurrency control techniques are methods to ensure the correctness and consistency of data in a database system when multiple transactions are executed concurrently. Concurrency control techniques can be classified into two categories: pessimistic and optimistic.
+
+- Pessimistic concurrency control techniques assume that conflicts are likely to occur and prevent them by locking the data items that are accessed by transactions. Locking can be done at different levels of granularity, such as records, pages, tables, or the entire database. Locking can also be done in different modes, such as shared, exclusive, or update. Pessimistic concurrency control techniques ensure serializability, which means that the concurrent execution of transactions is equivalent to some serial execution of the same transactions.
+
+- Optimistic concurrency control techniques assume that conflicts are rare and allow transactions to execute without locking. However, before committing, each transaction has to validate its read and write sets against the database state to ensure that no conflicts have occurred. If a conflict is detected, the transaction is aborted and restarted. Optimistic concurrency control techniques ensure correctness, but not necessarily serializability. They may allow some non-serializable schedules that are still correct, such as view serializable or conflict serializable schedules.
+
+Some examples of pessimistic concurrency control techniques are:
+
+- Two-phase locking (2PL): A transaction acquires all the locks it needs before releasing any lock. This ensures that no cycles of dependencies can occur among transactions, which could lead to deadlock. 2PL can be strict, rigorous, or conservative, depending on when locks are released and acquired.
+- Timestamp ordering (TO): A transaction is assigned a unique timestamp when it starts, and the data items have read and write timestamps that record the last transaction that accessed them. A transaction can read or write a data item only if its timestamp is greater than the read and write timestamps of the data item, respectively. Otherwise, the transaction is aborted and restarted with a new timestamp. This ensures that transactions are executed in a chronological order according to their timestamps.
+- Multiversion concurrency control (MVCC): A transaction can read the latest committed version of a data item, and write a new version of a data item without locking. The versions are maintained by the database system using timestamps or version numbers. A transaction has to validate its read and write sets before committing, and abort if a conflict is detected. This allows transactions to read consistent snapshots of the database without blocking each other.
+
+Some examples of optimistic concurrency control techniques are:
+
+- Validation-based concurrency control (VBCC): A transaction executes without locking, and records its read and write sets in a private workspace. Before committing, the transaction validates its read and write sets against the database state using a validation test, such as the Thomas' write rule or the Kung-Robinson test. If the validation test fails, the transaction is aborted and restarted.
+- Commitment ordering (CO): A transaction executes without locking, and records its read and write sets in a private workspace. Before committing, the transaction has to obtain a commit order from a centralized or distributed coordinator, which ensures that the commit order is compatible with the precedence order of transactions. If the commit order is obtained, the transaction commits and writes its updates to the database. Otherwise, the transaction is aborted and restarted.

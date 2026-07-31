@@ -1,0 +1,11 @@
+### Architecture for the notes of the Unit 2 - Neural Networks-II (Back propagation networks) in the subject of Application of Soft Computing
+
+- A back propagation network is a type of artificial neural network that uses a supervised learning algorithm to produce a desired output .
+- The algorithm adjusts the weights of the connections between the nodes in the network according to a feedback signal that indicates the error rate of a forward propagation .
+- The goal of back propagation is to minimize the error or loss function by fine-tuning the weights of the network .
+- The basic architecture of a back propagation network consists of three layers: an input layer, a hidden layer, and an output layer .
+- The input layer receives the input data and passes it to the hidden layer. The hidden layer performs some nonlinear transformations on the input data and passes it to the output layer. The output layer produces the output data and compares it with the desired output or target .
+- The error or difference between the output and the target is then propagated back through the network, from the output layer to the hidden layer and then to the input layer. The weights of the connections are updated according to a learning rule that depends on the error and the activation function of the nodes  .
+- The back propagation algorithm consists of two phases: a forward pass and a backward pass. In the forward pass, the input data is fed to the network and the output data is computed. In the backward pass, the error is calculated and the weights are updated  .
+- The back propagation algorithm can be applied to any feedforward artificial neural network with differentiable activation functions. It can also be generalized to other artificial neural networks and functions.
+- The back propagation algorithm is widely used for training artificial neural networks for various applications, such as classification, regression, pattern recognition, image processing, natural language processing, etc   .

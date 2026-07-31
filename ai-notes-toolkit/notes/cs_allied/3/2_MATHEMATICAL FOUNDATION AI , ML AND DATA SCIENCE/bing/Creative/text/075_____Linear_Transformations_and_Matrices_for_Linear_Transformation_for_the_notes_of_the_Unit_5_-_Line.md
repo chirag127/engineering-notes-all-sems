@@ -1,0 +1,9 @@
+### Linear Transformations and Matrices for Linear Transformation
+
+- A linear transformation is a function that maps vectors from one vector space to another vector space, preserving the operations of vector addition and scalar multiplication.
+- A linear transformation can be represented by a matrix, which is a rectangular array of numbers that encodes the action of the transformation on the basis vectors of the domain and the codomain.
+- The matrix of a linear transformation is not unique, as it depends on the choice of bases for the domain and the codomain. However, any two matrices that represent the same linear transformation are related by a similarity transformation.
+- To find the matrix of a linear transformation with respect to the standard basis, we can apply the transformation to each standard basis vector and write the resulting vectors as the columns of the matrix .
+- To find the matrix of a linear transformation with respect to arbitrary bases, we can use the change of basis formula, which involves multiplying the matrix of the transformation with respect to the standard basis by the inverse of the matrix of the change of basis .
+- To determine the action of a linear transformation on a vector in Rn, we can multiply the matrix of the transformation by the vector, using the rules of matrix multiplication.
+- Matrices can be interpreted as transformations of geometric objects, such as points, lines, planes, and shapes. For example, a 2x2 matrix can transform a 2-dimensional space by scaling, rotating, reflecting, or shearing it. A 3x3 matrix can transform a 3-dimensional space by similar operations, as well as projecting it onto a lower-dimensional subspace.

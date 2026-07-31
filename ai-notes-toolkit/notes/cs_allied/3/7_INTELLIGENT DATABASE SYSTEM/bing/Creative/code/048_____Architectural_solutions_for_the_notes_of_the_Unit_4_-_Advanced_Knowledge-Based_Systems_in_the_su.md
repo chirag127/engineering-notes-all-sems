@@ -1,0 +1,13 @@
+### Architectural solutions for the notes of the Unit 4 - Advanced Knowledge-Based Systems in the subject of INTELLIGENT DATABASE SYSTEM
+
+- Advanced knowledge-based systems (AKBS) are software systems that use artificial intelligence techniques to perform complex tasks that require human expertise and reasoning.
+- AKBS typically consist of three main components: a knowledge base, an inference engine, and a user interface.
+- The knowledge base stores the domain-specific facts and rules that represent the expert knowledge of the problem domain.
+- The inference engine applies logical reasoning and problem-solving methods to the knowledge base to derive new facts and conclusions.
+- The user interface facilitates the interaction between the system and the human users, such as providing queries, explanations, and feedback.
+- Architectural solutions for AKBS aim to address the challenges and requirements of designing, developing, and maintaining such systems, such as scalability, reliability, security, adaptability, and usability.
+- Some of the architectural solutions for AKBS are:
+
+  - Layered architecture: This architecture organizes the system into a hierarchy of layers, each of which provides a specific functionality and communicates with the adjacent layers. For example, a three-layered architecture for AKBS may consist of a presentation layer, a logic layer, and a data layer. This architecture facilitates the separation of concerns, modularity, and reusability of the system components.
+  - Service-oriented architecture: This architecture decomposes the system into a set of loosely coupled and interoperable services, each of which provides a specific functionality and communicates with other services through standardized protocols and interfaces. For example, a service-oriented architecture for AKBS may consist of a knowledge service, an inference service, and a user service. This architecture enables the flexibility, scalability, and integration of the system components.
+  - Self-adaptive architecture: This architecture enables the system to monitor its own behavior and environment, and adjust its structure and parameters accordingly to achieve its goals and maintain its quality attributes. For example, a self-adaptive architecture for AKBS may consist of a feedback loop that involves four phases: sensing, analyzing, planning, and executing. This architecture enhances the robustness, resilience, and efficiency of the system.

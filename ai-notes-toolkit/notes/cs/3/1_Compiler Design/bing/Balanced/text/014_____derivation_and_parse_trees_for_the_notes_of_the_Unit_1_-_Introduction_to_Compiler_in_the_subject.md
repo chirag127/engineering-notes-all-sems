@@ -1,0 +1,22 @@
+### Derivation and Parse Trees
+
+- A derivation is a sequence of applications of production rules that transforms the start symbol of a grammar into a string of terminals.
+- A parse tree is a hierarchical structure that represents the derivation of the grammar to yield input strings .
+- A parse tree has the following properties :
+  - The root node of the parse tree has the start symbol of the grammar.
+  - The internal nodes of the parse tree are non-terminals of the grammar.
+  - The leaf nodes of the parse tree are terminals of the grammar.
+  - The order of the children of a node corresponds to the order of the symbols on the right-hand side of the production rule used to derive the node.
+  - The inorder traversal of the leaf nodes gives the input string derived from the grammar.
+- A parse tree can be constructed from a derivation by following these steps:
+  - Start with a single node labeled with the start symbol of the grammar.
+  - For each step of the derivation, replace a non-terminal node with a subtree whose root is the non-terminal and whose children are the symbols on the right-hand side of the production rule used.
+  - Repeat until all the non-terminal nodes are replaced by terminal nodes.
+- A parse tree can also be used to construct a derivation by following these steps:
+  - Start with the root node labeled with the start symbol of the grammar.
+  - For each non-terminal node, write the production rule that corresponds to its subtree, with the non-terminal on the left-hand side and its children on the right-hand side.
+  - Repeat until all the non-terminal nodes are written as production rules.
+  - Concatenate the production rules from top to bottom to get the derivation.
+- A parse tree is also called a concrete syntax tree, because it directly corresponds to the context-free grammar.
+- A parse tree can be simplified by removing unnecessary nodes, such as parentheses, punctuation, or keywords, to get an abstract syntax tree, which corresponds to a simplified or abstract grammar .
+- An abstract syntax tree is usually used in compiler design, because it captures the essential structure and meaning of the input string, while ignoring the syntactic details .

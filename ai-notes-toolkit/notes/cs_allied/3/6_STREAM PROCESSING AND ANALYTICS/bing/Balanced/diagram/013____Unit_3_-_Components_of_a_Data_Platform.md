@@ -1,0 +1,10 @@
+## Unit 3 - Components of a Data Platform
+
+A data platform is a collection of tools and technologies that enable data-driven decision making. A data platform typically consists of the following components:
+
+- Data sources: These are the original sources of data, such as databases, files, APIs, sensors, etc. Data sources can be internal or external to the organization, and can have different formats, structures, and quality levels.
+- Data ingestion: This is the process of collecting, transforming, and loading data from data sources into a data platform. Data ingestion can be batch or streaming, depending on the frequency and volume of data. Data ingestion can also involve data validation, cleansing, enrichment, and encryption.
+- Data storage: This is the component that stores the ingested data in a data platform. Data storage can be relational or non-relational, depending on the type and structure of data. Data storage can also be categorized into hot, warm, or cold, depending on the frequency and speed of data access.
+- Data processing: This is the component that performs various operations on the stored data, such as querying, filtering, aggregating, joining, transforming, analyzing, and modeling. Data processing can be done using SQL or other programming languages, such as Python, R, or Scala. Data processing can also leverage frameworks and tools, such as Spark, Hadoop, or Databricks.
+- Data visualization: This is the component that presents the processed data in a graphical or interactive form, such as charts, dashboards, reports, or maps. Data visualization can help users explore, understand, and communicate data insights. Data visualization can use tools, such as Power BI, Tableau, or Qlik.
+- Data governance: This is the component that ensures the quality, security, privacy, and compliance of data in a data platform. Data governance involves defining and enforcing policies, standards, and roles for data access, usage, and management. Data governance also involves monitoring and auditing data activities and performance. Data governance can use tools, such as Azure Purview, Data Catalog, or Data Quality Services.

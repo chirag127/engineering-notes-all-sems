@@ -1,0 +1,16 @@
+### Reasoning Systems for Categories
+
+- Reasoning is the process of drawing logical conclusions from given facts and premises.
+- Reasoning systems are software systems that can perform reasoning tasks, such as inference, planning, diagnosis, and decision making.
+- Reasoning systems can be classified into different categories based on the type of reasoning they use, the type of knowledge they represent, and the type of problems they solve.
+- Some of the common categories of reasoning systems are:
+
+  - **Deductive reasoning systems**: These systems use rules and facts to derive conclusions that are logically valid. For example, a deductive reasoning system can infer that Socrates is mortal from the facts that Socrates is a human and all humans are mortal. Deductive reasoning systems are also known as rule-based systems or logic-based systems .
+  - **Inductive reasoning systems**: These systems use examples and observations to induce general rules or patterns that can explain or predict new cases. For example, an inductive reasoning system can learn that birds can fly from observing many examples of flying birds. Inductive reasoning systems are also known as learning systems or data-driven systems .
+  - **Abductive reasoning systems**: These systems use facts and rules to generate hypotheses that can best explain the observed data. For example, an abductive reasoning system can infer that it is raining from the fact that the ground is wet and the rule that rain causes wetness. Abductive reasoning systems are also known as diagnostic systems or hypothesis-driven systems .
+  - **Common sense reasoning systems**: These systems use general knowledge and common sense to reason about everyday situations and problems. For example, a common sense reasoning system can infer that a person is hungry from the fact that they have not eaten for a long time and the knowledge that hunger is caused by lack of food. Common sense reasoning systems are also known as knowledge-based systems or semantic systems.
+  - **Monotonic reasoning systems**: These systems use reasoning that is consistent and does not change with the addition of new facts or rules. For example, a monotonic reasoning system can infer that John is taller than Mary from the fact that John is 6 feet tall and Mary is 5 feet tall, and this conclusion will not change even if new facts or rules are added. Monotonic reasoning systems are also known as classical systems or sound systems .
+  - **Non-monotonic reasoning systems**: These systems use reasoning that can change or retract with the addition of new facts or rules. For example, a non-monotonic reasoning system can infer that John is taller than Mary from the fact that John is 6 feet tall and Mary is 5 feet tall, but this conclusion can change if a new fact is added that Mary is wearing high heels. Non-monotonic reasoning systems are also known as non-classical systems or defeasible systems .
+
+- Reasoning systems can also be categorized based on the type of knowledge they represent, such as propositional logic, predicate logic, modal logic, fuzzy logic, probabilistic logic, etc.
+- Reasoning systems can also be categorized based on the type of problems they solve, such as planning, scheduling, diagnosis, classification, optimization, etc.

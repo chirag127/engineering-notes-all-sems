@@ -1,0 +1,10 @@
+## Unit 7 - Creating packages and triggers
+
+- A package is a collection of related procedures, functions, variables, constants, and cursors that are stored together in the database.
+- A package has two parts: a specification and a body. The specification declares the public elements of the package that can be accessed by other programs. The body defines the implementation of the package elements and can also contain private elements that are only visible within the package.
+- A package can provide modularity, reusability, performance, and information hiding benefits for PL/SQL programs.
+- To create a package, use the CREATE PACKAGE and CREATE PACKAGE BODY statements. To modify an existing package, use the ALTER PACKAGE statement. To remove a package, use the DROP PACKAGE statement.
+- A trigger is a named PL/SQL block that is stored in the database and executed automatically when a certain event occurs, such as inserting, updating, or deleting data in a table or view.
+- A trigger can be classified by its timing (before, after, or instead of) and its level (row or statement). A before trigger executes before the triggering event, an after trigger executes after the triggering event, and an instead of trigger executes in place of the triggering event. A row trigger executes for each row affected by the triggering event, and a statement trigger executes once for the whole statement that causes the triggering event.
+- A trigger can be used for various purposes, such as enforcing business rules, maintaining data integrity, auditing data changes, generating derived values, implementing complex security policies, and publishing information about database events.
+- To create a trigger, use the CREATE TRIGGER statement. To modify an existing trigger, use the ALTER TRIGGER statement. To remove a trigger, use the DROP TRIGGER statement. To enable or disable a trigger, use the ENABLE or DISABLE clause of the ALTER TRIGGER statement. To view information about triggers, use the data dictionary views, such as USER_TRIGGERS, ALL_TRIGGERS, and DBA_TRIGGERS.

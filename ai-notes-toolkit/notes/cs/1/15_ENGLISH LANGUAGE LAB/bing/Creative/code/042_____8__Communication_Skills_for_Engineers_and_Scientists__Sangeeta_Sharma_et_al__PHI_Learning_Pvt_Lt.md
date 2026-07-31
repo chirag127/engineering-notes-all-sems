@@ -1,0 +1,7 @@
+### 8. Communication Skills for Engineers and Scientists, Sangeeta Sharma et.al. PHI Learning Pvt.Ltd, 2011, New Delhi.
+
+- This book is a comprehensive guide for undergraduate students of engineering and science to improve their communication skills in various situations and applications.
+- The book is divided into two parts: Part A covers the principles and practices of technical communication, such as report writing, communication breakdown, listening, business letters, advertising, and non-verbal communication. Part B covers the skills and strategies for effective communication, such as group discussions, presentations, interviews, resumes, and intercultural communication.
+- The book aims to help students develop their ability to communicate clearly, concisely, and confidently in professional contexts, as well as to enhance their interpersonal and emotional intelligence.
+- The book provides numerous examples, exercises, case studies, and illustrations to reinforce the concepts and techniques of communication. It also includes a glossary of key terms and a bibliography for further reading.
+- The book is written by Sangeeta Sharma, Ph.D., a professor of English at the Birla Institute of Technology and Science, Pilani, and Binod Mishra, Ph.D., an associate professor of English at the Indian Institute of Technology, Roorkee. They have both authored several books and articles on technical communication and English language teaching.

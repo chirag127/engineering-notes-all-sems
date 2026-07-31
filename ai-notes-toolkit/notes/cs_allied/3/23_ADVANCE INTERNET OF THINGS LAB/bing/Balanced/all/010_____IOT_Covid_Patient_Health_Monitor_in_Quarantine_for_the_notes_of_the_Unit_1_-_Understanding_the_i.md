@@ -1,0 +1,14 @@
+# IOT Covid Patient Health Monitor in Quarantine
+
+- IOT stands for Internet of Things, which is a network of physical devices, sensors, actuators, and software that can collect and exchange data over the internet.
+- Covid-19 is a highly contagious respiratory disease caused by a novel coronavirus that emerged in late 2019 and has spread worldwide, causing a global pandemic.
+- Covid-19 patients who have mild or moderate symptoms are often advised to isolate themselves at home or in designated quarantine facilities to prevent further transmission of the virus and to reduce the burden on the health care system.
+- However, these patients still need to monitor their vital signs, such as body temperature, pulse rate, blood oxygen saturation, and blood pressure, which are indicators of their health condition and potential complications.
+- IOT Covid Patient Health Monitor in Quarantine is a system that uses wearable or portable devices, such as smart watches, bracelets, thermometers, oximeters, and blood pressure monitors, that can measure and transmit the vital signs of the patients to a cloud server or a mobile application via wireless communication protocols, such as Bluetooth, Wi-Fi, or cellular networks.
+- The system allows the patients to self-monitor their health status and to receive alerts or feedback from the system or the medical staff if their vital signs are abnormal or out of range.
+- The system also enables the medical staff, such as doctors, nurses, or health workers, to remotely monitor multiple patients simultaneously and to access their health data in real-time or in historical trends, using a web portal or a mobile application.
+- The system can also provide analytics, visualization, and decision support tools to help the medical staff to diagnose, treat, and manage the patients more effectively and efficiently.
+- The system can also integrate with other IOT devices, such as smart speakers, cameras, or door locks, to provide additional services, such as voice assistance, video consultation, or contactless delivery, to the patients in quarantine.
+- The system can also leverage artificial intelligence, machine learning, or big data techniques to enhance the accuracy, reliability, and scalability of the system and to provide personalized and predictive health care solutions to the patients.
+- The system can also support interoperability, security, and privacy standards to ensure the compatibility, safety, and confidentiality of the system and the health data.
+- The system can also be customized and adapted to different scenarios, such as home, hotel, hospital, or community, and to different regions, cultures, or regulations, to meet the diverse and dynamic needs of the patients and the medical staff.

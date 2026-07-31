@@ -1,0 +1,11 @@
+## Unit 4 - BI – DATA ANALYTICS PROCESS
+
+Business intelligence (BI) is the process of transforming data into insights that help businesses make better decisions and improve performance. BI involves collecting, analyzing, and visualizing data from various sources, such as internal systems, external databases, or online platforms. BI can be applied to both operational and strategic decisions, such as optimizing processes, increasing sales, reducing costs, or identifying new opportunities.
+
+The BI process typically consists of the following steps :
+
+- **Data preparation**: This step involves organizing and modeling the data sets for analysis. Data preparation may include data cleaning, integration, transformation, validation, and enrichment. Data preparation can be done manually or with the help of tools and software.
+- **Analytical querying**: This step involves running queries against the prepared data to extract insights and patterns. Analytical querying can be done using various methods, such as descriptive, diagnostic, predictive, or prescriptive analytics. Analytical querying can also use techniques such as data mining, machine learning, or artificial intelligence.
+- **Data visualization**: This step involves creating data visualizations, such as charts, graphs, maps, or dashboards, to present the analytical results in an easy-to-understand and interactive way. Data visualization can help users explore, compare, and communicate the data insights.
+- **Data distribution**: This step involves sharing the data visualizations and reports to the relevant business users and stakeholders, such as managers, executives, or customers. Data distribution can be done through various channels, such as email, web, mobile, or cloud. Data distribution can also include alerts, notifications, or recommendations based on the data insights.
+- **Data-driven decision making**: This step involves using the data insights to help influence and drive business decisions and actions. Data-driven decision making can help businesses achieve their goals and objectives, improve their strategies and tactics, and optimize their operations and performance. Data-driven decision making can also help businesses monitor and measure their results and outcomes.

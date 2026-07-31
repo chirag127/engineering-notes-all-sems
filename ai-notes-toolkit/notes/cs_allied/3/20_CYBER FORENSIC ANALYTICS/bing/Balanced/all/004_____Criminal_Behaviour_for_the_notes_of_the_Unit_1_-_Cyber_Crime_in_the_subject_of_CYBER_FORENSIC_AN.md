@@ -1,0 +1,28 @@
+# Criminal Behaviour for the notes of the Unit 1 - Cyber Crime in the subject of CYBER FORENSIC ANALYTICS
+
+- Cybercrime is criminal activity that either targets or uses a computer, a computer network or a networked device.
+- Cybercrime can be motivated by various reasons, such as profit, ideology, revenge, curiosity, or thrill-seeking.
+- Cybercrime can include many different types of illegal activities, such as:
+  - Ransomware attacks, where malicious software encrypts the victim's data and demands payment for decryption.
+  - Email and internet fraud, where cybercriminals use deception or impersonation to trick the victim into sending money or revealing personal information.
+  - Identity fraud, where cybercriminals use stolen or forged identities to access the victim's accounts, credit cards, or other benefits.
+  - Child pornography, where cybercriminals produce, distribute, or access illegal images or videos of minors.
+  - Intellectual property theft, where cybercriminals copy, sell, or use the victim's copyrighted or patented material without authorization.
+  - Cyberterrorism, where cybercriminals use cyberattacks to cause fear, harm, or disruption to the victim or society.
+  - Cyberespionage, where cybercriminals use cyberattacks to steal or manipulate the victim's confidential or sensitive information or data.
+  - Cyberwarfare, where cybercriminals use cyberattacks to damage or disrupt the victim's military or critical infrastructure.
+- Cybercrime is an extension of existing criminal behaviour alongside some novel illegal activities.
+- Cybercrime is carried out by individuals or organizations, such as cybercriminals, hackers, hacktivists, cyberterrorists, or nation-states  .
+- Cybercrime poses a serious threat to the security, privacy, and economy of the victim and society  .
+- Cybercrime prevention and security measures include:
+  - Using antivirus software, firewalls, encryption, and strong passwords to protect the devices and networks from cyberattacks.
+  - Avoiding opening suspicious emails, links, or attachments, and verifying the identity and legitimacy of the sender or website before providing any information or payment .
+  - Educating oneself and others about the risks and consequences of cybercrime and the best practices to avoid becoming a victim .
+  - Reporting any suspected or actual cybercrime incidents to the relevant authorities and seeking professional help if needed  .
+- Cyber forensic analytics is the process of collecting, analyzing, and presenting digital evidence related to cybercrime investigations.
+- Cyber forensic analytics can help to identify, track, and prosecute the cybercriminals, as well as to recover the lost or damaged data or assets.
+- Cyber forensic analytics can use various techniques and tools, such as:
+  - Data extraction, where the digital evidence is retrieved from the devices or networks involved in the cybercrime.
+  - Data analysis, where the digital evidence is examined and interpreted to find patterns, anomalies, or connections related to the cybercrime.
+  - Data visualization, where the digital evidence is presented in a graphical or interactive form to facilitate understanding and communication of the cybercrime.
+  - Data preservation, where the digital evidence is stored and protected from tampering or alteration to maintain its integrity and admissibility in court.

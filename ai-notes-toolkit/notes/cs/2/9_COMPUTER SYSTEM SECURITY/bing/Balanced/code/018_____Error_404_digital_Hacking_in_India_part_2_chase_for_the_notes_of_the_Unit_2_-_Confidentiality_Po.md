@@ -1,0 +1,14 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic. Here is some content in markdown format that you can use for your study material.
+
+### Error 404 digital Hacking in India part 2 chase for the notes of the Unit 2 - Confidentiality Policies in the subject of COMPUTER SYSTEM SECURITY
+
+- Confidentiality policies are rules that protect the privacy and secrecy of information from unauthorized access, disclosure, or modification.
+- Confidentiality policies can be classified into two types: discretionary and mandatory.
+- Discretionary policies allow the owner or creator of the information to decide who can access it and under what conditions. For example, a file may have a password or a permission list that specifies who can read, write, or execute it.
+- Mandatory policies enforce a system-wide classification of information based on its sensitivity and the clearance level of the users. For example, a document may be labeled as top secret, secret, confidential, or unclassified, and only users with the appropriate clearance can access it.
+- Confidentiality policies can be implemented using various mechanisms, such as encryption, access control, authentication, auditing, and firewalls.
+- Encryption is the process of transforming information into an unreadable form using a secret key. Only users who have the key can decrypt the information and restore its original form. Encryption can protect information in transit (e.g., over a network) or in storage (e.g., on a disk).
+- Access control is the process of granting or denying access to information based on the identity and attributes of the users and the information. Access control can be enforced by the operating system, the application, or the database. Access control can use different models, such as access control lists, role-based access control, or attribute-based access control.
+- Authentication is the process of verifying the identity of a user or a system. Authentication can use different methods, such as passwords, tokens, biometrics, or certificates. Authentication can prevent unauthorized users from accessing information or impersonating legitimate users.
+- Auditing is the process of recording and analyzing the activities of users and systems related to information. Auditing can help detect and deter unauthorized access, disclosure, or modification of information. Auditing can also help identify and correct errors, anomalies, or violations of policies.
+- Firewalls are devices or software that monitor and filter the network traffic between different domains or zones of trust. Firewalls can prevent unauthorized or malicious users or systems from accessing or attacking information or resources in a protected domain or zone. Firewalls can use different techniques, such as packet filtering, stateful inspection, or application proxy.

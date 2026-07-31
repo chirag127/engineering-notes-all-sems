@@ -1,0 +1,21 @@
+### Non-convex optimization for deep networks
+
+- Non-convex optimization (NCO) is the study of finding the global minimum of a function that is not convex, meaning it may have multiple local minima and maxima.
+- NCO is relevant for deep learning because many problems of interest, such as training deep neural networks and learning latent variable models, are non-convex and cannot be solved exactly by traditional convex optimization methods.
+- NCO is challenging because it is often NP-hard to find the global minimum of a non-convex function, and gradient-based methods may get stuck in local minima or saddle points.
+- NCO techniques for deep learning include:
+  - Initialization: choosing a good starting point for the optimization algorithm, such as random initialization, pre-training, or orthogonal initialization.
+  - Regularization: adding constraints or penalties to the optimization problem, such as sparsity, dropout, weight decay, or batch normalization.
+  - Optimization algorithms: using variants of gradient descent that can escape local minima or saddle points, such as stochastic gradient descent (SGD), momentum, adaptive learning rates, stochastic variance-reduced gradient (SVRG), or second-order methods.
+  - Generalization: ensuring that the optimization solution can perform well on unseen data, such as cross-validation, early stopping, or model selection.
+- NCO theory for deep learning aims to provide convergence guarantees, complexity bounds, and generalization bounds for the optimization algorithms and the non-convex problems they solve.
+- NCO theory for deep learning is based on assumptions and tools such as:
+  - Smoothness: the function has bounded derivatives or gradients, which implies local Lipschitz continuity and gradient descent convergence.
+  - Strong convexity: the function has a lower bound on its curvature, which implies strong local Lipschitz continuity and faster gradient descent convergence.
+  - Convexity relaxation: the non-convex problem is approximated by a convex problem that has the same global minimum or a close one, such as semidefinite programming or nuclear norm minimization.
+  - Restricted strong convexity: the function is strongly convex in a restricted subspace or near the optimal solution, which implies local quadratic convergence of gradient descent.
+  - Restricted isometry property: the function preserves the norm of sparse vectors, which implies sparse recovery and compressed sensing.
+  - Smoothness and strong convexity under random perturbations: the function becomes smoother and more strongly convex when perturbed by random noise, which implies robustness and stability of the optimization solution.
+  - Gradient dominance: the function has a lower bound on its gradient norm, which implies the absence of spurious local minima and the existence of descent directions.
+  - Polyak-Lojasiewicz (PL) inequality: the function has a lower bound on the difference between its value and the optimal value, which implies the convergence of gradient descent to a critical point.
+  - Kurdyka-Lojasiewicz (KL) property: the function has a lower bound on the rate of decrease of its value, which implies the convergence of gradient descent to a local minimum.

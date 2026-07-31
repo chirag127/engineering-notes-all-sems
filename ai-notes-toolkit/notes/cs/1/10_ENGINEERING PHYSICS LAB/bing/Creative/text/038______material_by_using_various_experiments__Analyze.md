@@ -1,0 +1,34 @@
+#### Material by using various experiments. Analyze
+
+- Material is any substance that has a definite composition and can be used for a specific purpose.
+- Material analysis is the process of studying the properties, structure, and behavior of materials using various experiments and methods.
+- Material analysis can be done for different purposes, such as:
+  - Identifying the type and composition of a material
+  - Testing the quality and performance of a material
+  - Improving the design and fabrication of a material
+  - Developing new materials or applications
+- Material analysis can be done at different levels, such as:
+  - Macroscopic level: the analysis of the overall shape, size, and appearance of a material
+  - Microscopic level: the analysis of the internal structure and features of a material using magnification tools
+  - Atomic level: the analysis of the arrangement and bonding of atoms in a material using spectroscopic or diffraction techniques
+- Material analysis can involve different types of experiments, such as:
+  - Mechanical tests: the experiments that measure the strength, stiffness, hardness, ductility, and fracture resistance of a material under various loads and conditions
+  - Thermal tests: the experiments that measure the heat capacity, thermal conductivity, thermal expansion, and melting point of a material under various temperatures and pressures
+  - Electrical tests: the experiments that measure the electrical conductivity, resistivity, dielectric constant, and capacitance of a material under various voltages and currents
+  - Optical tests: the experiments that measure the reflectance, transmittance, absorption, and emission of light by a material under various wavelengths and angles
+  - Chemical tests: the experiments that measure the chemical composition, reactivity, and corrosion resistance of a material under various environments and agents
+  - Biological tests: the experiments that measure the biocompatibility, toxicity, and degradation of a material under various biological conditions and organisms
+- Material analysis can be done using various instruments and equipment, such as:
+  - Microscopes: the instruments that magnify the image of a material using lenses, light, or electrons
+  - Spectrometers: the instruments that measure the spectrum of light emitted or absorbed by a material using prisms, gratings, or detectors
+  - Diffractometers: the instruments that measure the diffraction pattern of X-rays or neutrons scattered by a material using crystals, slits, or detectors
+  - Calorimeters: the instruments that measure the heat transfer or change in a material using thermometers, heaters, or sensors
+  - Rheometers: the instruments that measure the flow or deformation of a material under shear stress or strain using plates, cylinders, or cones
+  - Potentiostats: the instruments that measure the electrochemical potential or current of a material under controlled voltage or current using electrodes, cells, or circuits
+  - Bioreactors: the instruments that culture or expose a material to biological fluids or cells using chambers, pumps, or sensors
+- Material analysis can be done following various standards and protocols, such as:
+  - ASTM: the American Society for Testing and Materials, an international organization that develops and publishes standards for materials, products, systems, and services
+  - ISO: the International Organization for Standardization, an international organization that develops and publishes standards for materials, products, systems, and services
+  - DIN: the Deutsches Institut für Normung, the German national organization for standardization that develops and publishes standards for materials, products, systems, and services
+  - JIS: the Japanese Industrial Standards, the Japanese national organization for standardization that develops and publishes standards for materials, products, systems, and services
+  - NIST: the National Institute of Standards and Technology, a US federal agency that develops and publishes standards, measurements, and data for materials, products, systems, and services

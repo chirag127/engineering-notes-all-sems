@@ -1,0 +1,23 @@
+# Priority-Based Service and Weighted Round-Robin Service Disciplines for Switched Networks
+
+- Priority-based service disciplines are scheduling algorithms that assign different priorities to different packets or flows in a switched network, such as a router or a switch.
+- The priority of a packet or a flow determines the order in which it is transmitted or forwarded by the network device, and the amount of bandwidth or resources it receives.
+- Priority-based service disciplines can improve the quality of service (QoS) for real-time communication, such as voice or video, by reducing the delay, jitter, and packet loss for high-priority packets or flows.
+- Some examples of priority-based service disciplines are:
+
+  - Weighted Fair Queuing (WFQ): This discipline assigns a weight to each packet or flow, and serves them in proportion to their weights. The weight can reflect the priority, the size, or the rate of the packet or flow. WFQ can achieve fairness and differentiation among different packets or flows, and can approximate the ideal Generalized Processor Sharing (GPS) discipline.
+  - Weighted Round Robin (WRR): This discipline assigns a weight to each packet or flow, and serves them in a round-robin fashion, but with a variable number of packets or bytes per round. The number of packets or bytes per round is proportional to the weight of the packet or flow. WRR can achieve fairness and differentiation among different packets or flows, but it can introduce more delay and jitter than WFQ.
+  - Strict Priority (SP): This discipline assigns a fixed priority to each packet or flow, and serves them in a strict order, from the highest priority to the lowest priority. SP can achieve the lowest delay and jitter for the highest priority packets or flows, but it can cause starvation or unfairness for the lower priority packets or flows.
+  - Probabilistic Priority (PP): This discipline assigns a fixed priority and a parameter to each packet or flow, and serves them in a probabilistic manner. The parameter determines the probability with which the packet or flow is served when it is polled by the server. PP can achieve a trade-off between SP and WRR, by allowing some flexibility and randomness in the service order.
+
+- Some variations or extensions of these priority-based service disciplines are:
+
+  - Class-Based Weighted Fair Queuing (CBWFQ): This discipline classifies the packets or flows into different classes, and assigns a weight to each class. Within each class, the packets or flows are served in a FIFO manner. Between different classes, the packets or flows are served in proportion to their class weights. CBWFQ can achieve fairness and differentiation among different classes of packets or flows, and can support hierarchical or nested classes.
+  - Weighted Fair Priority Queuing (WFPQ): This discipline classifies the packets or flows into different classes, and assigns a priority and a weight to each class. Within each class, the packets or flows are served in a FIFO manner. Between different classes, the packets or flows are served in a strict priority order, but with a variable number of packets or bytes per priority level. The number of packets or bytes per priority level is proportional to the class weight. WFPQ can achieve a trade-off between SP and CBWFQ, by allowing some flexibility and differentiation in the service order.
+  - Rate-Controlled Frame-Based Weighted Round Robin (RFWRR): This discipline divides the packets or flows into different classes, and assigns a rate and a weight to each class. The rate determines the maximum bandwidth or resources that the class can receive. The weight determines the relative share of the bandwidth or resources that the class can receive. The discipline also divides the time into frames, and serves the packets or flows in a round-robin fashion within each frame, but with a variable number of packets or bytes per round. The number of packets or bytes per round is proportional to the class weight. RFWRR can achieve fairness and differentiation among different classes of packets or flows, and can guarantee the delay jitter bound and satisfy a diverse set of delay requirements.
+
+: https://benchpartner.com/priority-based-service-disciplines-for-switched-network
+: https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.24.5285
+: https://www.sciencedirect.com/science/article/abs/pii/S0045790612002285
+: https://ieeexplore.ieee.org/document/896391/
+[assistant

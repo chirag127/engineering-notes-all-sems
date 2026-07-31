@@ -1,0 +1,45 @@
+# JS Arrays
+
+- An array is a data structure that can store multiple values of the same or different types in a single variable.
+- An array is created by using square brackets `[]` and separating the values by commas `,`.
+- Example: `var fruits = ["apple", "banana", "orange"];`
+- An array can also be created by using the `new Array()` constructor, but this is not recommended as it can cause confusion and errors.
+- Example: `var fruits = new Array("apple", "banana", "orange");`
+- An array is an object, and it has properties and methods that can be used to manipulate the data.
+- The most important property of an array is its `length`, which returns the number of elements in the array.
+- Example: `fruits.length; // returns 3`
+- The elements of an array are accessed by using their index, which is a zero-based number that represents their position in the array.
+- Example: `fruits[0]; // returns "apple"`
+- The index can also be used to assign or modify the values of the array elements.
+- Example: `fruits[1] = "pear"; // changes the second element to "pear"`
+- An array can store any type of data, including numbers, strings, booleans, objects, functions, and even other arrays.
+- Example: `var mixed = [1, "hello", true, {name: "Sydney"}, function() {console.log("I am a function");}, [2, 3, 4]];`
+- An array can be nested inside another array, creating a multidimensional array. The elements of a nested array are accessed by using multiple indexes.
+- Example: `var matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];`
+- `matrix[0][0]; // returns 1`
+- `matrix[1][2]; // returns 6`
+- `matrix[2][1]; // returns 8`
+- Some of the most common methods of an array are:
+  - `push()` - adds one or more elements to the end of the array and returns the new length.
+  - `pop()` - removes and returns the last element of the array.
+  - `shift()` - removes and returns the first element of the array.
+  - `unshift()` - adds one or more elements to the beginning of the array and returns the new length.
+  - `splice()` - adds or removes elements from any position of the array and returns the removed elements as a new array.
+  - `slice()` - returns a new array that contains a copy of a portion of the original array.
+  - `concat()` - returns a new array that is the result of joining two or more arrays.
+  - `join()` - returns a string that is the result of joining all the elements of the array, separated by a specified separator.
+  - `reverse()` - reverses the order of the elements in the array and returns the modified array.
+  - `sort()` - sorts the elements of the array in ascending order by default, or according to a custom compare function, and returns the modified array.
+  - `indexOf()` - returns the index of the first occurrence of a specified value in the array, or -1 if not found.
+  - `lastIndexOf()` - returns the index of the last occurrence of a specified value in the array, or -1 if not found.
+  - `includes()` - returns true if the array contains a specified value, or false otherwise.
+  - `forEach()` - executes a provided function for each element of the array.
+  - `map()` - returns a new array that contains the results of applying a provided function to each element of the array.
+  - `filter()` - returns a new array that contains the elements of the array that pass a provided test function.
+  - `reduce()` - returns a single value that is the result of applying a provided function to each element of the array, from left to right, and accumulating the result.
+  - `some()` - returns true if at least one element of the array passes a provided test function, or false otherwise.
+  - `every()` - returns true if all the elements of the array pass a provided test function, or false otherwise.
+  - `find()` - returns the first element of the array that passes a provided test function, or undefined if not found.
+  - `findIndex()` - returns the index of the first element of the array that passes a provided test function, or -1 if not found.
+- For more information and examples on JS arrays, please refer to the following resources:
+  - [MDN

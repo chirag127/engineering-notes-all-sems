@@ -1,0 +1,10 @@
+### Combining three models for the notes of the Unit 3 - Object Oriented Analysis in the subject of Object Oriented System Design
+
+- Object Oriented Analysis (OOA) is the first technical activity performed as part of object-oriented software engineering. It aims to model the functional requirements of the software while remaining independent of any implementation details .
+- OOA introduces new concepts to investigate a problem, such as objects, classes, inheritance, polymorphism, encapsulation, and abstraction .
+- OOA uses three analysis techniques in conjunction with each other: object modelling, dynamic modelling, and functional modelling.
+- Object modelling develops the static structure of the software system in terms of objects, their attributes, methods, and relationships . It can use tools such as class diagrams, object diagrams, and association diagrams.
+- Dynamic modelling describes the behavior of the objects and how they interact with each other over time. It can use tools such as state diagrams, sequence diagrams, and collaboration diagrams.
+- Functional modelling captures the functionality of the system and how it is triggered by external events. It can use tools such as use case diagrams, activity diagrams, and data flow diagrams.
+- The three models are combined to form a complete and consistent representation of the system's requirements and behavior . They are validated and verified by checking for completeness, correctness, consistency, and clarity.
+- The output of OOA is an analysis model that serves as the input for Object Oriented Design (OOD), which transforms it into a design model that works as a plan for software creation . OOD adds more details and constraints to the analysis model, such as design patterns, algorithms, data structures, and interfaces .

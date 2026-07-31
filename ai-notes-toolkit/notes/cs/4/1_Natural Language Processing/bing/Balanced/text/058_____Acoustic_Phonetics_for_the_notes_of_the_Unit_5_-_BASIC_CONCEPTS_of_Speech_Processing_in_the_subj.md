@@ -1,0 +1,7 @@
+### Acoustic Phonetics
+
+- Acoustic phonetics is the study of the acoustic characteristics of speech, including an analysis and description of speech in terms of its physical properties, such as frequency, intensity, and duration .
+- Acoustic phonetics is an instrumental science that depends on ways to store, replicate, visualize, and analyze the speech signal. Acoustic phonetics is also a cumulative science in which older research continues to be influential.
+- Acoustic phonetics investigates time domain features such as the mean squared amplitude of a waveform, its duration, its fundamental frequency, or frequency domain features such as the frequency spectrum, or even combined spectrotemporal features and the relationship of these properties to other branches of phonetics (e.g. articulatory or auditory phonetics), and to abstract linguistic concepts such as phonemes, phrases, or utterances.
+- Acoustic phonetics uses various tools and techniques to measure and represent the speech signal, such as oscilloscopes, sound spectrographs, spectrograms, pitch trackers, formant trackers, etc.
+- Acoustic phonetics can be applied to various areas of linguistics, such as phonology, morphology, syntax, semantics, pragmatics, sociolinguistics, psycholinguistics, etc., as well as to speech technology, such as speech recognition, speech synthesis, speech enhancement, speech coding, etc.

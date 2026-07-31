@@ -1,0 +1,4 @@
+### Disconnected operations
+- Disconnected operations refer to the ability of mobile users to work without a wireless connection due to poor or even non-existent connections.
+- This is an important aspect of mobile computing, as it allows users to access data stored in repositories of their organizations (i.e. the DBs of the company in which they work) from anywhere and at anytime.
+- Disconnected operations are part of Unit 3 in the subject of Mobile Computing, which also covers data management issues, data replication for mobile computers, adaptive clustering for mobile wireless networks, file system, mobile agents computing, security and fault tolerance, and transaction processing in a mobile computing environment  .

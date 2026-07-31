@@ -1,0 +1,10 @@
+### Comparison to the Unified Modelling Language(UML)
+
+- The Unified Modelling Language (UML) is a general-purpose, developmental modelling language in the field of software engineering that is intended to provide a standard way to visualize the design of a system.
+- UML supports the modelling of software systems using different types of diagrams, such as use case diagrams, class diagrams, sequence diagrams, activity diagrams, etc. Each diagram has a specific notation and semantics to represent different aspects of the system.
+- UML is not a language for knowledge representation (KR) in a semantic perspective. UML does not have a formal semantics or a logic-based syntax that can be used to reason about the system.
+- UML is mainly used for software development, whereas Web Semantics is mainly used for data integration and interoperability on the web.
+- Web Semantics uses languages such as RDF, RDFS, OWL, and SPARQL to represent and query data and metadata on the web. These languages have a formal semantics and a logic-based syntax that can be used to reason about the data and infer new knowledge.
+- Web Semantics also uses ontologies to define the concepts and relationships in a domain of interest. Ontologies are similar to UML class diagrams, but they have more expressive power and can capture more complex constraints and axioms.
+- UML and Web Semantics can be used together to model and develop software systems that use semantic web technologies. For example, UML can be used to design the software architecture and the user interface, while Web Semantics can be used to design the data model and the business logic.
+- UML and Web Semantics can also be transformed from one to another using various tools and methods. For example, UML class diagrams can be transformed to OWL ontologies, and vice versa, using mapping rules and algorithms.

@@ -1,0 +1,21 @@
+## Unit 3 - Structural Testing
+
+- Structural testing, also known as white-box testing, is a technique that tests the internal structure and logic of the software code.
+- Structural testing aims to verify that each statement, branch, condition, loop, and path in the code is executed correctly and meets the specifications.
+- Structural testing can be applied at different levels of testing, such as unit testing, integration testing, and system testing.
+- Structural testing requires knowledge of the code structure and design, and often uses tools such as code analyzers, debuggers, and coverage analyzers to measure and improve the test coverage.
+- Structural testing can be performed using different criteria, such as statement coverage, branch coverage, condition coverage, path coverage, and data flow coverage.
+- Statement coverage measures the percentage of executable statements in the code that are executed by the test cases.
+- Branch coverage measures the percentage of branches or decision points in the code that are executed by the test cases.
+- Condition coverage measures the percentage of logical conditions in the code that are evaluated to both true and false by the test cases.
+- Path coverage measures the percentage of paths or sequences of statements and branches in the code that are executed by the test cases.
+- Data flow coverage measures the percentage of data flow anomalies or defects in the code that are detected by the test cases.
+- Structural testing has some advantages and disadvantages compared to functional testing, also known as black-box testing.
+- Advantages of structural testing include:
+  - It can detect errors that are not visible at the functional level, such as memory leaks, buffer overflows, and uninitialized variables.
+  - It can improve the quality and maintainability of the code by enforcing coding standards and conventions.
+  - It can measure the test coverage and identify the untested or redundant parts of the code.
+- Disadvantages of structural testing include:
+  - It can be time-consuming and complex to design and execute the test cases, especially for large and complex systems.
+  - It can be difficult to achieve high levels of coverage, especially for path coverage and data flow coverage, due to the combinatorial explosion of possible paths and data flows.
+  - It can be biased by the tester's knowledge and assumptions about the code, and may miss some functional requirements or user expectations.

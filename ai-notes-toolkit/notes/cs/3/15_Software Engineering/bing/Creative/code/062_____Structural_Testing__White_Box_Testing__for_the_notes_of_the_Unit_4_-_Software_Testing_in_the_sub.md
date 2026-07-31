@@ -1,0 +1,26 @@
+### Structural Testing (White Box Testing) for the notes of the Unit 4 - Software Testing in the subject of Software Engineering
+
+- Structural testing, also known as white box testing, is a method of software testing that tests the internal structure, logic, and code of the software system  .
+- The tester has access to the source code and can create test cases based on the code paths, branches, conditions, loops, and statements  .
+- The main objective of structural testing is to verify the quality, reliability, security, and performance of the software system  .
+- The advantages of structural testing are:
+  - It can detect errors and bugs that are not visible at the functional level .
+  - It can improve the code coverage and optimize the code quality  .
+  - It can facilitate debugging and maintenance of the software system .
+- The disadvantages of structural testing are:
+  - It requires skilled and experienced testers who can understand the code and design test cases .
+  - It can be time-consuming and costly as it involves testing every possible path and scenario .
+  - It can miss some errors and bugs that are related to the functionality or usability of the software system .
+- The types of structural testing are:
+  - Statement coverage: It measures the percentage of statements that are executed by the test cases  .
+  - Branch coverage: It measures the percentage of branches or decision points that are executed by the test cases  .
+  - Path coverage: It measures the percentage of paths or sequences of statements and branches that are executed by the test cases  .
+  - Condition coverage: It measures the percentage of conditions or logical expressions that are evaluated to true and false by the test cases  .
+  - Loop coverage: It measures the percentage of loops that are executed for different number of iterations by the test cases.
+  - Data flow coverage: It measures the percentage of data flow or variables that are defined and used by the test cases.
+- The techniques of structural testing are:
+  - Control flow testing: It involves creating test cases based on the control flow graph of the software system  .
+  - Data flow testing: It involves creating test cases based on the data flow graph of the software system  .
+  - Mutation testing: It involves creating test cases based on the mutated versions of the software system  .
+  - Fault injection testing: It involves creating test cases based on the injected faults or errors in the software system  .
+  - Basis path testing: It involves creating test cases based on the independent paths or cyclomatic complexity of the software system  .

@@ -1,0 +1,20 @@
+# Viscosity, Conductance of Solution, Chloride and Iron Content in Water
+
+## Viscosity
+- Viscosity is a measure of a fluid's resistance to flow.
+- The viscosity of formation water is a function of pressure, temperature, and dissolved solids.
+- In general, brine viscosity increases with increasing pressure, increasing salinity, and decreasing temperature.
+- Dissolved gas in the formation water at reservoir conditions generally results in a negligible effect on water viscosity.
+
+## Conductance of Solution
+- Conductivity is a measure of a solution's ability to conduct an electric current.
+- High quality deionized water has a conductivity of about 0.05 μS/cm at 25 °C, typical drinking water is in the range of 200–800 μS/cm, while sea water is about 50 mS/cm (or 0.05 S/cm).
+- The more chloride ions present in the water, the higher the conductivity.
+- In general, the conductivity of waterways in the United States varies from 50 to 1500 µmhos/cm, and inland freshwater lake studies reveal a conductivity of 150 to 500 µmhos/cm.
+
+## Chloride and Iron Content in Water
+- Chloride ions are approximately 1.9 percent of the mass of seawater.
+- The presence of chloride ions in water can affect its conductivity, as mentioned above.
+- Iron content in water can affect its color, taste, and odor, and can also stain laundry and fixtures.
+- Iron can be present in water in two forms: soluble ferrous iron or insoluble ferric iron.
+- Water treatment methods for removing iron from water include ion exchange, oxidation and filtration, and sequestration.

@@ -1,0 +1,17 @@
+### Different Types of Tasks for the notes of the Unit 6 - Introduction to Visualization in the subject of INTRODUCTION TO DATA ANALYTICS AND VISUALIZATION
+
+Data visualization is the process of transforming data into graphical or visual forms, such as charts, graphs, maps, or diagrams, to communicate information effectively and efficiently. Data visualization can help users to explore, analyze, and understand data, as well as to present insights and findings to others.
+
+There are different types of tasks that data visualization can support, depending on the purpose and the audience of the visualization. Some of the common tasks are:
+
+- **Showing change over time**: This task involves displaying how a variable or a set of variables changes over a period of time, such as days, months, years, or centuries. This can help users to identify trends, patterns, cycles, or anomalies in the data. Examples of visualizations that can show change over time are line charts, area charts, stacked area charts, or timeline charts.
+
+- **Showing a part-to-whole composition**: This task involves displaying how a whole is composed of different parts or categories, and how the parts relate to each other and to the whole. This can help users to compare the proportions, percentages, or fractions of the parts, and to see the hierarchical or nested structure of the data. Examples of visualizations that can show a part-to-whole composition are pie charts, donut charts, treemaps, or sunburst charts.
+
+- **Looking at how data is distributed**: This task involves displaying how the values of a variable or a set of variables are spread out or clustered, and how they vary or deviate from a central tendency, such as the mean or the median. This can help users to examine the shape, range, outliers, or gaps of the data. Examples of visualizations that can show how data is distributed are histograms, box plots, violin plots, or scatter plots.
+
+- **Comparing values between groups**: This task involves displaying how a variable or a set of variables differs or relates across different groups, segments, or categories, such as gender, age, region, or product. This can help users to evaluate the performance, ranking, or correlation of the groups, and to identify similarities or differences among them. Examples of visualizations that can compare values between groups are bar charts, column charts, stacked bar charts, or bubble charts.
+
+- **Observing relationships between variables**: This task involves displaying how two or more variables interact or influence each other, and how they are associated or correlated. This can help users to discover causal, predictive, or explanatory patterns in the data, and to test hypotheses or assumptions. Examples of visualizations that can observe relationships between variables are scatter plots, line charts, bubble charts, or heat maps.
+
+- **Looking at geographical data**: This task involves displaying how a variable or a set of variables varies or relates across different locations, regions, or areas, such as countries, states, cities, or neighborhoods. This can help users to explore the spatial or contextual aspects of the data, and to compare or contrast the geographical patterns or clusters. Examples of visualizations that can look at geographical data are maps, choropleth maps, or cartograms.

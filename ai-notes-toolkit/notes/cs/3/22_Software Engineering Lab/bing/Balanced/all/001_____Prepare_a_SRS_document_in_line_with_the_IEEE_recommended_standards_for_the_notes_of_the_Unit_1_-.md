@@ -1,0 +1,10 @@
+# Prepare a SRS document in line with the IEEE recommended standards for the notes of the Unit 1 - Introduction of Software Engineering Lab in the subject of Software Engineering Lab
+
+- A software requirements specification (SRS) is a description of a software system to be developed. It is modeled after business requirements specification (CONOPS) .
+- A SRS document should follow the IEEE recommended standards, such as IEEE 29148, which covers the processes and information it recommends for a SRS document, as well as its format .
+- A SRS document should include the following sections  :
+  - Introduction: This section should provide an overview of the software system, its purpose, scope, objectives, and intended users. It should also identify any assumptions, dependencies, constraints, and risks that may affect the software development.
+  - System overview: This section should provide a high-level description of the software system, its architecture, components, interfaces, and interactions. It should also describe the system context, environment, and operational scenarios.
+  - Requirements: This section should specify the functional and nonfunctional requirements of the software system, as well as any quality attributes, performance criteria, and design constraints. The requirements should be clear, concise, consistent, complete, verifiable, and traceable. The IEEE standard provides several suggestions of how to organize functional requirements: by mode, user class, object, feature, stimulus, functional hierarchy or combinations of these criteria .
+  - Validation: This section should describe how the software system will be validated and verified to ensure that it meets the requirements and expectations of the stakeholders. It should also specify the acceptance criteria, test cases, test procedures, and test results.
+  - Appendices: This section should provide any additional information that may be useful for the software development, such as glossary, acronyms, references, diagrams, tables, etc.

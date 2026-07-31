@@ -1,0 +1,10 @@
+### Development of Social Network Analysis
+
+- Social network analysis (SNA) is the study of patterns of relationships that connect social actors, such as individuals, groups, organizations, or communities.
+- SNA has its theoretical roots in the work of early sociologists such as Georg Simmel and Émile Durkheim, who wrote about the importance of studying social structures and networks.
+- SNA emerged as a distinct field in the 1930s, when Jacob Moreno introduced the concepts of sociometry and sociograms, which are graphical representations of social networks .
+- SNA developed further in the 1950s and 1960s, with the contributions of researchers such as Alex Bavelas, Anatol Rapoport, Harrison White, and James Coleman, who applied mathematical and statistical methods to analyze social networks .
+- SNA gained popularity in the 1970s and 1980s, with the publication of influential books and articles by researchers such as Mark Granovetter, Stanley Milgram, Barry Wellman, Linton Freeman, and Ronald Burt, who introduced new concepts and measures of network properties, such as centrality, density, cohesion, embeddedness, weak ties, and structural holes .
+- SNA has expanded its scope and applications in the 1990s and 2000s, with the advent of new technologies and data sources, such as the internet, social media, and online platforms, which enable the collection and analysis of large-scale and dynamic network data .
+- SNA has also become an interdisciplinary and multidisciplinary field, drawing on theories and methods from various disciplines, such as anthropology, biology, communication, economics, geography, history, information science, organizational studies, political science, psychology, public health, and sociology .
+- SNA has been used to study a wide range of topics and phenomena, such as social movements, diffusion of innovations, social capital, social support, social influence, social networks and health, organizational networks, community networks, online networks, and historical networks  .

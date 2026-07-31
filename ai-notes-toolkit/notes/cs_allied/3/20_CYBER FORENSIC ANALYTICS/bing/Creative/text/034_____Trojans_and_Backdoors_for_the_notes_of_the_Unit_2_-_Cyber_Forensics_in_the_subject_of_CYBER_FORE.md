@@ -1,0 +1,27 @@
+### Trojans and Backdoors
+
+- A **trojan** is a type of malware that masquerades as a legitimate program to trick the recipient into running it.
+- A **backdoor** is a malicious software program that provides unauthorized access to a computer in order to launch a remote attack.
+- A **backdoor trojan** is a trojan that creates a backdoor on the infected device, allowing the attacker to take control of it remotely .
+- Some of the common types of backdoor trojans are:
+  - **Remote Access Trojans (RATs)**: These allow the attacker to perform various actions on the compromised device, such as stealing, deleting, or modifying files, installing other malware, capturing keystrokes, screenshots, or webcam images, etc.
+  - **Rootkit Trojans**: These hide the presence of other malware or malicious activities on the device by modifying the system files or processes, making them difficult to detect or remove.
+  - **Proxy Trojans**: These use the infected device as a proxy server to relay the attacker's traffic, making it appear as if the traffic originates from the device. This can be used to bypass security measures, hide the attacker's identity, or perform distributed denial-of-service (DDoS) attacks.
+- Backdoor trojans pose a serious threat to the security and privacy of the device owners, as well as the integrity and availability of the device and its data. They can also compromise the network and other devices connected to it.
+- To prevent backdoor trojans, some of the best practices are:
+  - Use a reputable antivirus or anti-malware software and keep it updated regularly.
+  - Avoid opening suspicious or unsolicited email attachments or links, or downloading files from untrusted sources.
+  - Scan removable media such as USB drives or CDs before using them on your device.
+  - Use strong passwords and change them frequently, and avoid using the same password for multiple accounts or services.
+  - Enable firewall and other security features on your device and network, and disable unnecessary services or ports.
+  - Keep your operating system and applications updated with the latest security patches and updates.
+- To detect and remove backdoor trojans, some of the tools and techniques are:
+  - Use a malware scanner or remover to scan your device for any signs of infection, and follow the instructions to quarantine or delete the detected malware.
+  - Use a network analyzer or monitor to check for any unusual or suspicious network traffic or activity, and identify the source and destination of the traffic.
+  - Use a process explorer or manager to view the running processes on your device, and look for any unknown or suspicious processes that consume a lot of resources or have unusual names or properties.
+  - Use a registry editor or cleaner to check the registry entries on your device, and look for any changes or additions that may indicate a backdoor trojan.
+  - Use a system restore or backup to restore your device to a previous state before the infection, or use a recovery disk or mode to reinstall your operating system and applications.
+- To perform cyber forensics on backdoor trojans, some of the steps and methods are:
+  - Collect and preserve the evidence from the infected device, such as the malware files, logs, registry entries, network traffic, etc., and document the process and chain of custody.
+  - Analyze the evidence using various tools and techniques, such as static or dynamic analysis, reverse engineering, malware signature or behavior analysis, etc., and identify the type, source, purpose, and impact of the backdoor trojan.
+  - Report the findings and conclusions of the analysis, such as the origin, timeline, scope, and severity of the attack, the attacker's identity, motive, and methods, the damage or loss caused by the backdoor trojan, the recommendations or remediation measures, etc., and present them in a clear and concise manner.

@@ -1,0 +1,22 @@
+# Bootstrapping methods
+
+- Bootstrapping methods are a class of semi-supervised learning techniques that use a small set of labeled data and a large set of unlabeled data to learn a model for a natural language processing task.
+- Bootstrapping methods follow a general format:
+  - Start with an empty list of things, such as words, phrases, or relations.
+  - Initialize the list with carefully chosen seeds, such as manually annotated examples or heuristics.
+  - Leverage the things in the list to find more things from the unlabeled data, such as by using pattern matching, parsing, or classification.
+  - Repeat the previous step until a stopping criterion is met, such as a fixed number of iterations, a threshold on the confidence score, or a convergence measure.
+- Bootstrapping methods can be applied to various natural language processing tasks, such as:
+  - Named entity recognition: identifying and classifying proper names in text, such as persons, locations, or organizations.
+  - Relation extraction: extracting semantic relations between entities in text, such as part-of, cause-effect, or synonymy.
+  - Word sense disambiguation: determining the meaning of a word in a given context, such as bank as a financial institution or a river bank.
+  - Semantic role labeling: identifying the semantic roles of the arguments of a predicate in a sentence, such as agent, patient, or instrument.
+- Bootstrapping methods have some advantages and disadvantages :
+  - Advantages:
+    - They can reduce the need for manual annotation, which is costly and time-consuming.
+    - They can exploit the redundancy and regularity of natural language to discover new knowledge from unlabeled data.
+    - They can adapt to new domains or languages with minimal supervision.
+  - Disadvantages:
+    - They can suffer from semantic drift, which is the gradual deviation from the original meaning of the seeds due to noise or ambiguity in the unlabeled data.
+    - They can be sensitive to the quality and quantity of the seeds, which can affect the precision and recall of the model.
+    - They can be hard to evaluate, as there is no ground truth for the unlabeled data.

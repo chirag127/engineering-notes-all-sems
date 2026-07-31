@@ -1,0 +1,44 @@
+## Unit 4 - Curves and Surfaces
+
+- In this unit, we will learn about the mathematical representation and manipulation of curves and surfaces, which are essential for computer graphics and animation.
+- A curve is a one-dimensional object that can be defined by a function, a parametric equation, or a set of control points.
+- A surface is a two-dimensional object that can be defined by a function, a parametric equation, or a set of control points.
+- Some common types of curves and surfaces are:
+  - Line: a straight curve defined by two points or a slope and an intercept.
+  - Circle: a curve defined by a center point and a radius.
+  - Ellipse: a curve defined by a center point, two axes, and two radii.
+  - Parabola: a curve defined by a focus point and a directrix line.
+  - Hyperbola: a curve defined by two focus points and two asymptotes.
+  - Bezier curve: a curve defined by a set of control points and a degree.
+  - B-spline curve: a curve defined by a set of control points and a knot vector.
+  - NURBS curve: a curve defined by a set of control points, a knot vector, and a weight vector.
+  - Plane: a flat surface defined by a normal vector and a distance from the origin.
+  - Sphere: a surface defined by a center point and a radius.
+  - Ellipsoid: a surface defined by a center point, three axes, and three radii.
+  - Cylinder: a surface defined by a center line, a radius, and two end points.
+  - Cone: a surface defined by a vertex point, a base circle, and a height.
+  - Torus: a surface defined by a center point, a major radius, and a minor radius.
+  - Bezier surface: a surface defined by a grid of control points and two degrees.
+  - B-spline surface: a surface defined by a grid of control points and two knot vectors.
+  - NURBS surface: a surface defined by a grid of control points, two knot vectors, and a weight matrix.
+- To manipulate curves and surfaces, we can use various operations such as:
+  - Translation: moving a curve or surface by a vector.
+  - Rotation: rotating a curve or surface by an angle around an axis.
+  - Scaling: resizing a curve or surface by a factor along each axis.
+  - Shearing: skewing a curve or surface by an angle along each axis.
+  - Affine transformation: a combination of translation, rotation, scaling, and shearing.
+  - Homogeneous transformation: an affine transformation that preserves the perspective of a curve or surface.
+  - Inverse transformation: the opposite of a transformation that restores the original curve or surface.
+  - Composition: applying multiple transformations in sequence to a curve or surface.
+  - Interpolation: finding a curve or surface that passes through a given set of points.
+  - Approximation: finding a curve or surface that is close to a given set of points.
+  - Subdivision: dividing a curve or surface into smaller segments or patches.
+  - Blending: combining two or more curves or surfaces into a smooth transition.
+  - Extrusion: creating a surface by sweeping a curve along a path.
+  - Revolution: creating a surface by rotating a curve around an axis.
+  - Lofting: creating a surface by interpolating between two or more curves.
+  - Deformation: changing the shape of a curve or surface by moving its control points.
+  - Evaluation: finding the point, tangent, normal, or curvature of a curve or surface at a given parameter value.
+  - Intersection: finding the point or curve where two curves or surfaces meet.
+  - Clipping: removing the parts of a curve or surface that are outside a given region.
+  - Tessellation: converting a curve or surface into a mesh of triangles or polygons.

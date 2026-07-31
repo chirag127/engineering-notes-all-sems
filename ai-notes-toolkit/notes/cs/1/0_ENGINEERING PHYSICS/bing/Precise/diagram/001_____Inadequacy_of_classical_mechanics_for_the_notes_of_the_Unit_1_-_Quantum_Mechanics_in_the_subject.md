@@ -1,0 +1,9 @@
+### Inadequacy of classical mechanics for the notes of the Unit 1 - Quantum Mechanics in the subject of ENGINEERING PHYSICS
+
+1. Classical mechanics, also known as Newtonian mechanics, is a branch of physics that deals with the motion of macroscopic objects based on the three laws of motion formulated by Sir Isaac Newton.
+2. Classical mechanics is highly successful in explaining the motion of macroscopic objects, but it fails to explain the behavior of microscopic particles such as atoms and subatomic particles.
+3. Some phenomena that cannot be explained by classical mechanics include the photoelectric effect, blackbody radiation, and the stability of atoms.
+4. The photoelectric effect is the emission of electrons from a metal surface when light shines on it. According to classical mechanics, the energy of the emitted electrons should increase with the intensity of the light, but experiments showed that the energy of the emitted electrons depends only on the frequency of the light and not on its intensity.
+5. Blackbody radiation is the electromagnetic radiation emitted by a body in thermal equilibrium. Classical mechanics predicts that the energy emitted by a blackbody at high frequencies should be infinite, but this is not observed in experiments. This problem is known as the ultraviolet catastrophe.
+6. According to classical mechanics, electrons orbiting the nucleus of an atom should continuously lose energy and eventually spiral into the nucleus, but this is not observed in nature. Atoms are stable and electrons do not spiral into the nucleus.
+7. These phenomena and others led to the development of quantum mechanics, a new branch of physics that successfully explains the behavior of microscopic particles.

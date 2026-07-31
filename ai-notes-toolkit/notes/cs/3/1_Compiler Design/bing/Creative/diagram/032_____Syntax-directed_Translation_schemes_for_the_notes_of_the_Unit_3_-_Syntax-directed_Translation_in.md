@@ -1,0 +1,22 @@
+### Syntax-directed Translation schemes
+
+- A syntax-directed translation scheme is a notation that combines a context-free grammar with semantic actions .
+- Semantic actions are fragments of code that specify how to generate intermediate code or perform other tasks related to the translation.
+- Each production of the grammar is associated with a set of semantic rules or actions, and each grammar symbol is associated with a set of attributes .
+- Attributes are values that are computed from the input or from other attributes during the translation process.
+- There are two types of attributes: synthesized and inherited .
+  - Synthesized attributes are computed from the attributes of the children of a node in the parse tree or syntax tree .
+  - Inherited attributes are computed from the attributes of the parent or siblings of a node in the parse tree or syntax tree .
+- A syntax-directed translation scheme can be implemented by embedding the semantic actions in the productions of the grammar and executing them during parsing .
+- The order of execution of the semantic actions depends on the parsing method and the placement of the actions in the productions .
+- There are two common ways of placing the semantic actions in the productions: prefix and postfix .
+  - Prefix actions are executed before the corresponding grammar symbol is parsed .
+  - Postfix actions are executed after the corresponding grammar symbol is parsed .
+- The advantages of syntax-directed translation schemes are:
+  - They allow the compiler designer to define the generation of intermediate code directly in terms of the syntactic structure of the source language.
+  - They simplify the implementation of the semantic analysis phase in the compiler.
+  - They can be easily integrated with top-down or bottom-up parsers.
+- The disadvantages of syntax-directed translation schemes are:
+  - They may not be able to handle complex semantic rules that require more information than the attributes of the grammar symbols.
+  - They may not be able to handle semantic errors or ambiguities in the source language.
+  - They may not be able to optimize the intermediate code or perform other tasks that require a global view of the program.

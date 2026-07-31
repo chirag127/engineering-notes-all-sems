@@ -1,0 +1,11 @@
+# Humidity
+
+Humidity is a measure of the amount of water vapor present in the air. Water vapor, the gaseous state of water, is generally invisible to the human eye. Humidity indicates the likelihood for precipitation, dew, or fog to be present. Humidity depends on the temperature and pressure of the system of interest.
+
+There are three primary measurements of humidity that are widely employed: absolute, relative, and specific.
+
+- **Absolute humidity** describes the water content present in the air and is expressed in either gram per cubic meter or grams per kilogram. The absolute humidity in the atmosphere ranges from near zero to roughly 30 grams per cubic metre. Absolute humidity is not affected by the temperature or pressure of the air, but it changes when the air expands or contracts.
+- **Relative humidity** is the ratio of the partial pressure of water vapor to the equilibrium vapor pressure of water at the same temperature. It is expressed as a percentage and indicates how close the air is to saturation. Relative humidity depends on both the temperature and the pressure of the air, and it changes when the air is heated or cooled. Relative humidity is often used to describe the comfort level of the air, as high humidity can make people feel hot and sticky, while low humidity can cause dryness and irritation.
+- **Specific humidity** is the ratio of water vapor mass to total moist air mass. It is expressed in grams of water vapor per kilogram of moist air. Specific humidity is a measure of the actual amount of water vapor in the air, regardless of the air's temperature or pressure. Specific humidity is conserved in an air parcel as long as no water is added or removed. Specific humidity is useful for comparing the humidity of different air masses at different locations and altitudes.
+
+Humidity can be measured by various instruments, such as hygrometers, psychrometers, dew point meters, and humidity sensors. These instruments can measure one or more of the humidity parameters mentioned above, depending on their design and principle of operation. Humidity measurement is important for various applications, such as weather forecasting, air conditioning, industrial processes, agriculture, and health.

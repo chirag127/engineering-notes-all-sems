@@ -1,0 +1,11 @@
+### 6. Effective Communication Skill, Kulbhusan Kumar, RS Salaria, Khanna Publishing House
+
+- Effective communication skill is the ability to convey information and ideas clearly, accurately, and persuasively to others, using verbal and non-verbal means.
+- Effective communication skill is essential for personal and professional success, as it helps to build trust, rapport, and understanding with others, and to achieve desired outcomes and goals.
+- Effective communication skill involves four main components: sender, message, channel, and receiver. The sender is the person who initiates the communication, the message is the information or idea that is being communicated, the channel is the medium or mode of communication, and the receiver is the person who receives and interprets the message.
+- Effective communication skill also requires awareness of the context, purpose, and audience of the communication, as well as the feedback and response from the receiver. The context is the situation or environment in which the communication takes place, the purpose is the reason or objective of the communication, and the audience is the intended or actual group of people who receive the message. The feedback is the reaction or response of the receiver to the message, and the response is the action or outcome that follows the communication.
+- Effective communication skill can be improved by following some general principles and guidelines, such as:
+  - Be clear and concise: use simple and precise language, avoid jargon and ambiguity, and organize your message logically and coherently.
+  - Be respectful and courteous: use polite and appropriate tone, words, and gestures, avoid offensive or insensitive language and behavior, and acknowledge and appreciate the receiver's perspective and feelings.
+  - Be attentive and responsive: listen actively and empathetically, show interest and engagement, ask questions and clarify doubts, and provide constructive and timely feedback and response.
+  - Be adaptable and flexible: adjust your message and style according to the context, purpose, and audience, use different channels and modes of communication as needed, and be open to feedback and suggestions for improvement.

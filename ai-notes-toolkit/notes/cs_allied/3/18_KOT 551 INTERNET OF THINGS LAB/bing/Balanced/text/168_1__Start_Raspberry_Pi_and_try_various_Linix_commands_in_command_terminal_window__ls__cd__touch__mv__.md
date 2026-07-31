@@ -1,0 +1,17 @@
+# 1. Start Raspberry Pi and try various Linux commands in command terminal window: ls, cd, touch, mv, rm, man
+
+- Raspberry Pi is a small computer that runs on Linux, a free and open source operating system.
+- To start Raspberry Pi, you need to connect it to a power source, a monitor, a keyboard, and a mouse. You also need to insert a microSD card with a pre-installed operating system image into the slot on the board.
+- Once Raspberry Pi boots up, you will see a graphical user interface (GUI) with icons and menus. You can use the mouse and keyboard to interact with the GUI.
+- To open a command terminal window, you can either click on the terminal icon on the taskbar, or press Ctrl+Alt+T on the keyboard. A command terminal window is a text-based interface that allows you to enter commands and see the output.
+- Linux commands are case-sensitive, meaning that uppercase and lowercase letters matter. For example, `ls` and `LS` are different commands.
+- Linux commands can have options, which are additional letters or symbols that modify the behavior of the command. Options are usually preceded by a dash (-) or two dashes (--). For example, `ls -l` and `ls --all` are different options for the `ls` command.
+- Linux commands can have arguments, which are the names of files, directories, or other objects that the command operates on. Arguments are usually separated by spaces. For example, `mv file1 file2` and `rm file3` are different arguments for the `mv` and `rm` commands.
+- Some of the most common and useful Linux commands are:
+
+  - `ls`: lists the contents of the current directory. You can use options to change the format or the scope of the listing. For example, `ls -l` shows the long format with more details, and `ls -a` shows all files, including hidden ones.
+  - `cd`: changes the current directory. You can use an argument to specify the name or the path of the directory you want to go to. For example, `cd Documents` changes the current directory to Documents, and `cd ..` goes up one level in the directory hierarchy.
+  - `touch`: creates a new empty file or updates the timestamp of an existing file. You can use an argument to specify the name of the file you want to create or update. For example, `touch file4` creates a new file named file4, and `touch file1` updates the timestamp of file1.
+  - `mv`: moves or renames a file or a directory. You can use two arguments to specify the source and the destination of the move or rename operation. For example, `mv file1 file2` renames file1 to file2, and `mv file1 Documents` moves file1 to the Documents directory.
+  - `rm`: removes a file or a directory. You can use an argument to specify the name or the path of the file or directory you want to remove. For example, `rm file1` removes file1, and `rm -r Documents` removes the Documents directory and all its contents recursively.
+  - `man`: shows the manual page for a command or a topic. You can use an argument to specify the name of the command or the topic you want to learn more about. For example, `man ls` shows the manual page for the `ls` command, and `man intro` shows the introduction to Linux commands. You can use the arrow keys, the Page Up and Page Down keys, or the spacebar to scroll through the manual page. You can press Q to quit the manual page.

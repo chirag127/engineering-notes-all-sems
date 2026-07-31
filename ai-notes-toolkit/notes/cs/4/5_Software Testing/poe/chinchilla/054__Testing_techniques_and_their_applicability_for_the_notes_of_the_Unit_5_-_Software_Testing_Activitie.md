@@ -1,0 +1,17 @@
+### Testing Techniques and Their Applicability for the Notes of Unit 5 - Software Testing Activities in the Subject of Software Testing
+
+Software testing is an essential activity in the software development life cycle. Testing helps to identify defects in software products and ensures that the software is of high quality. There are various testing techniques available for testing software products. In this section, we will discuss some of the testing techniques and their applicability for the notes of Unit 5 - Software Testing Activities in the subject of Software Testing.
+
+1. **Black Box Testing:** Black box testing is a testing technique in which the tester does not have any knowledge of the internal workings of the software. The tester only focuses on the inputs and outputs of the software. This technique is useful for testing the functionality of the software. It is applicable for the notes of Unit 5 because it helps to test the functionality of software products.
+
+2. **White Box Testing:** White box testing is a testing technique in which the tester has knowledge of the internal workings of the software. The tester focuses on testing the code and the logic of the software. This technique is useful for testing the code quality of the software. It is applicable for the notes of Unit 5 because it helps to test the code quality of software products.
+
+3. **Regression Testing:** Regression testing is a testing technique in which the tester retests the software after making changes to the software. This technique is useful for ensuring that the changes made to the software do not introduce new defects. It is applicable for the notes of Unit 5 because it helps to ensure that changes made to software products do not introduce new defects.
+
+4. **Load Testing:** Load testing is a testing technique in which the software is tested under heavy loads. The purpose of this testing technique is to identify performance issues in the software. It is applicable for the notes of Unit 5 because it helps to identify performance issues in software products.
+
+5. **Boundary Value Testing:** Boundary value testing is a testing technique in which the tester tests the software at the boundaries of the input values. The purpose of this testing technique is to identify defects that may occur at the boundaries of the input values. It is applicable for the notes of Unit 5 because it helps to identify defects in software products that may occur at the boundaries of the input values.
+
+6. **Exploratory Testing:** Exploratory testing is a testing technique in which the tester explores the software to identify defects. The purpose of this testing technique is to identify defects that may not be identified using other testing techniques. It is applicable for the notes of Unit 5 because it helps to identify defects in software products that may not be identified using other testing techniques.
+
+In conclusion, software testing is an essential activity in the software development life cycle, and there are various testing techniques available for testing software products. The testing techniques discussed in this section are useful for testing different aspects of software products and are applicable for the notes of Unit 5 - Software Testing Activities in the subject of Software Testing.

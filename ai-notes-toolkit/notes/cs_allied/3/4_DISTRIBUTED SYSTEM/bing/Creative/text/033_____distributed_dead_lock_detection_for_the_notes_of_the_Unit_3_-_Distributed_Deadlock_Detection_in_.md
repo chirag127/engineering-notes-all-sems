@@ -1,0 +1,10 @@
+### Distributed Deadlock Detection
+
+- A deadlock is a condition where a set of processes request resources that are held by other processes in the set.
+- Distributed deadlocks can occur when distributed transactions or concurrency control are utilized in distributed systems.
+- Deadlock detection in distributed systems entails addressing two basic issues: detection of existing deadlocks and resolution of detected deadlocks.
+- Deadlock detection requires examination of the status of process-resource interactions for presence of cyclic wait.
+- There are three main approaches to detect deadlocks in distributed systems:
+  - Centralized approach: A single site is designated as the deadlock detector and collects the local wait-for graphs from all the sites to construct a global wait-for graph. The deadlock detector periodically runs a cycle detection algorithm on the global wait-for graph and initiates the resolution of any detected deadlock.
+  - Hierarchical approach: The sites are organized into a hierarchy of clusters, each with a local deadlock detector. The local deadlock detectors send their local wait-for graphs to their parent clusters, which construct a cluster wait-for graph. The cycle detection algorithm is run on the cluster wait-for graphs and the global wait-for graph at the root cluster. The resolution of any detected deadlock is delegated to the appropriate cluster or site.
+  - Distributed approach: There is no central or hierarchical deadlock detector. Each site maintains its own local wait-for graph and participates in a distributed cycle detection algorithm. The distributed cycle detection algorithm can be based on edge chasing, diffusing computation, or probe propagation. The resolution of any detected deadlock is done by the site that initiated the cycle detection algorithm.

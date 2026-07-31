@@ -1,0 +1,23 @@
+# Technical Communication, (Second Ed.); O.U.P., Meenakshi Raman & S.Sharma New Delhi
+
+- Technical communication is the process of conveying information and instructions to various audiences using appropriate language, style, format, and media.
+- The second edition of Technical Communication: Principles and Practice by Meenakshi Raman and Sangeeta Sharma is a comprehensive textbook tailored to meet the requirements of undergraduate students of engineering at Gujarat Technological University.
+- The book covers the following topics:
+  - Basics of technical communication: definition, scope, purpose, types, and modes of communication.
+  - Writing skills: grammar, vocabulary, sentence construction, paragraph development, coherence, and cohesion.
+  - Technical writing: features, style, structure, and formats of various technical documents such as letters, memos, reports, proposals, manuals, and resumes.
+  - Oral communication: principles, techniques, and types of oral presentations, group discussions, and interviews.
+  - Non-verbal communication: body language, gestures, facial expressions, eye contact, and voice modulation.
+  - Listening and reading skills: barriers, strategies, and comprehension techniques for effective listening and reading.
+  - Visual communication: elements, principles, and types of visual aids such as graphs, charts, tables, diagrams, and photographs.
+  - Communication across cultures: dimensions, challenges, and strategies for intercultural communication.
+  - Communication ethics: values, norms, and guidelines for ethical communication in professional and social contexts.
+- The book also provides numerous examples, exercises, case studies, and activities to help students apply the concepts and skills learned.
+- The book is divided into four units: Unit I: Fundamentals of Technical Communication, Unit II: Forms of Technical Communication, Unit III: Technical Communication in Practice, and Unit IV: Communication for Professional Development.
+- The book is designed to help students develop the following competencies:
+  - Communicate effectively and appropriately in various technical situations and contexts.
+  - Write clear, concise, accurate, and coherent technical documents for different purposes and audiences.
+  - Deliver confident, persuasive, and engaging oral presentations using suitable verbal and non-verbal skills.
+  - Use appropriate visual aids to enhance the impact and appeal of technical messages.
+  - Listen and read critically and analytically to comprehend and evaluate technical information.
+  - Adapt to the cultural and ethical expectations and norms of diverse communication situations and scenarios.

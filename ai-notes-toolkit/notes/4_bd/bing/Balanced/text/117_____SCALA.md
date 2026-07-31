@@ -1,0 +1,21 @@
+### SCALA
+
+- Scala is a **general-purpose**, **high-level**, **multi-paradigm** programming language that supports both **object-oriented** and **functional** programming  .
+- Scala is **strongly** and **statically** typed, which means that the type of every variable and expression is checked at compile time and cannot be changed at run time .
+- Scala is designed to be **concise** and **expressive**, avoiding boilerplate code and allowing programmers to write less code for the same functionality .
+- Scala runs on the **Java Virtual Machine (JVM)** and can interoperate with Java code and libraries. It also has a **JavaScript** runtime that allows Scala code to run on web browsers and other JavaScript platforms .
+- Scala has many features that make it a powerful and versatile language, such as:
+  - **Case classes** and **pattern matching**, which enable concise and elegant data structures and algorithms .
+  - **Traits** and **mixins**, which allow multiple inheritance and code reuse .
+  - **Higher-order functions** and **closures**, which enable functional programming and abstraction .
+  - **Implicits** and **type classes**, which enable ad-hoc polymorphism and extension methods .
+  - **Lazy evaluation** and **streams**, which enable efficient and expressive computation of infinite and large data structures .
+  - **Macros** and **metaprogramming**, which enable code generation and manipulation at compile time .
+- Scala is an **evolving** language that has undergone several major versions since its inception in 2004. The latest version is **Scala 3**, which introduces many new features and improvements, such as:
+  - **Union types** and **intersection types**, which enable more precise and flexible type definitions .
+  - **Enums** and **algebraic data types**, which enable more concise and safe representation of data .
+  - **Opaque types** and **type lambdas**, which enable more powerful and modular abstraction .
+  - **Top-level definitions** and **export clauses**, which enable more flexible and modular code organization .
+  - **Given instances** and **using clauses**, which replace implicits and simplify the syntax and semantics of context parameters .
+  - **Extension methods** and **contextual abstractions**, which enable more natural and expressive extension of existing types and libraries .
+  - **Optional braces** and **significant indentation**, which enable more concise and readable syntax .

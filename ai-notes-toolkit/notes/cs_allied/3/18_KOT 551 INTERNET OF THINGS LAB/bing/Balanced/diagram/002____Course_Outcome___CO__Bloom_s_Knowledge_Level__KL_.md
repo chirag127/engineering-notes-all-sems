@@ -1,0 +1,9 @@
+## Course Outcome (CO) Bloom's Knowledge Level (KL)
+
+- Course outcomes are statements that describe what students should be able to do or demonstrate after completing a course.
+- Bloom's knowledge level is a classification of cognitive skills that students need to master a subject matter, based on the revised Bloom's taxonomy of learning domains.
+- The six levels of Bloom's knowledge level are: remember, understand, apply, analyze, evaluate, and create.
+- Each course outcome should be aligned with one or more of the Bloom's knowledge levels, depending on the complexity and depth of the learning objective.
+- For example, a course outcome for a mathematics course could be: "Apply the concepts of calculus to solve problems involving rates of change, optimization, and integration." This outcome aligns with the apply level of Bloom's knowledge level, as it requires students to use their knowledge of calculus in different contexts and situations.
+- A course outcome for a history course could be: "Evaluate the causes and consequences of the American Civil War from multiple perspectives and sources." This outcome aligns with the evaluate level of Bloom's knowledge level, as it requires students to judge the validity and relevance of information, arguments, and claims about the historical event.
+- A course outcome for an art course could be: "Create original artworks that express personal ideas and emotions using various media and techniques." This outcome aligns with the create level of Bloom's knowledge level, as it requires students to generate new and original products that demonstrate their artistic skills and creativity.

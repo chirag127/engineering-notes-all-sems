@@ -1,0 +1,7 @@
+### Drama as Cultural Heritage of India
+
+- Traditional theatre has been prevalent in India since ancient times. It was enacted by bards who traveled from one village to another, and the stories were based on epics of Mahabharat and Ramayan, as well as, the Puranas and Upanishads .
+- Indian drama has originated and developed from the storehouse of Sanskrit in India. It has given its incredible impact and limit to perfection since ancient times. Drama is basically a form of performing arts, where stories are enacted by the utilization of dialogue, music, signal, and dance .
+- Since the beginning of civilization, music, dance, and drama have been an integral aspect of Indian culture. Initially, these art forms were used as a medium of propagation for religion and social reforms in which music and dance were incorporated to gain popularity. From the Vedic era to the medieval period, the performing arts remained an important source of educating the masses .
+- Indian drama is a performance style all its own, including combinations of speech, gesture, music, dance, and sound. Indian drama was highly uninfluenced by other cultures .
+- Urdu Drama evolved from the prevailing dramatic traditions of North India shaping Rahas or Raas as practiced by exponents like Wajid Ali Shah, Nawab of Awadh. His dramatic experiments led to the famous Inder Sabha of Agha Hasan Amanat and later this tradition took the shape of Parsi theatre .

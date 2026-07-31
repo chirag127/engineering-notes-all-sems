@@ -1,0 +1,16 @@
+# Multiple Granularity for the Notes of the Unit 8 - Concurrency Control Techniques in the Subject of Basics of Data Base Management System
+
+- Multiple granularity is a database locking technique that allows various data items of different sizes and set locks on them and also defines the hierarchy of data granularity where small granularities are nested within the larger granularity.
+- Multiple granularity breaks the database into a number of blocks that can be locked to increase the concurrency and decrease the lock overhead. It also makes it easy to decide which segment or part of data to lock or which one to unlock .
+- There are three types of lock granularity:
+  - Fine granularity: It locks the smallest data items, such as records or fields. It provides high concurrency but also high locking overhead and high risk of deadlock.
+  - Coarse granularity: It locks the largest data items, such as files or tables. It provides low concurrency but also low locking overhead and low risk of deadlock.
+  - Medium granularity: It locks the intermediate data items, such as pages or blocks. It provides a balance between concurrency and overhead, but also requires a more complex locking mechanism.
+- Multiple granularity locking protocol is a locking protocol that allows transactions to lock data items at different levels of granularity, depending on their access patterns and concurrency requirements.
+- Multiple granularity locking protocol follows these rules :
+  - Follow multi-granularity compatibility function: This function defines which lock modes are compatible with each other at different levels of granularity. For example, an S lock on a file is compatible with an IS lock on a record, but not with an X lock on a record.
+  - Lock root of tree first, any mode: This rule ensures that every transaction locks the root node of the hierarchy, which represents the entire database, before locking any other node. The lock mode can be any of the six modes: S, X, IS, IX, SIX, or NL.
+  - Node Q can be locked by T i in S or IS only if parent(Q) locked by T i in IX or IS: This rule ensures that a transaction can lock a node in shared or intention-shared mode only if it has locked its parent node in intention-exclusive or intention-shared mode. This prevents conflicts between transactions that lock different levels of granularity.
+  - Node Q can be locked by T i in X, SIX, IX only if parent(Q) locked by T i in IX, SIX: This rule ensures that a transaction can lock a node in exclusive, shared-intent-exclusive, or intention-exclusive mode only if it has locked its parent node in intention-exclusive or shared-intent-exclusive mode. This prevents conflicts between transactions that lock different levels of granularity.
+  - T i is two-phase: This rule ensures that every transaction follows the two-phase locking protocol, which means that it acquires all the locks before releasing any lock. This guarantees serializability of transactions.
+  - T i can unlock node Q only if none of Q’s descendants are locked by T i: This rule ensures that a transaction can unlock a node only if it has unlocked all its descendant nodes. This prevents the violation of the lock hierarchy and the compatibility function.

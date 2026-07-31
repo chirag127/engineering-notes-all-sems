@@ -1,0 +1,21 @@
+### Desktop for the notes of the Unit 2 - SOFTWARE HARDWARE FRAMEWORKS in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Wearable computing is the use of devices that are worn on the body or attached to clothing, such as smartwatches, fitness trackers, smart glasses, or virtual reality headsets.
+- Mixed reality is the blending of the physical and digital worlds, where virtual objects can interact with real environments and vice versa, such as in augmented reality or spatial computing.
+- Internet of everything (IoE) is the network of connections between people, things, data, and processes that provide general intelligence and improved cognition across the networked environment.
+- Software hardware frameworks are the architectures and platforms that enable the development and deployment of wearable computing, mixed reality, and internet of everything applications and services.
+- Some examples of software hardware frameworks are:
+  - Android Wear: a version of Google's Android operating system designed for smartwatches and other wearables.
+  - Magic Leap One: a wearable device that projects digital content onto the user's field of view, creating a mixed reality experience.
+  - Arduino: an open-source hardware and software platform that allows users to create interactive electronic projects, such as sensors, actuators, or IoT devices.
+  - Raspberry Pi: a low-cost, credit-card sized computer that can run various operating systems and be used for various projects, such as robotics, gaming, or IoT applications.
+  - AWS IoT: a cloud service that provides secure and scalable connectivity and management for IoT devices and applications.
+- Some benefits of software hardware frameworks are:
+  - They provide a standardized and modular approach to developing and deploying applications and services for wearable computing, mixed reality, and internet of everything.
+  - They enable interoperability and compatibility between different devices, platforms, and protocols.
+  - They facilitate innovation and creativity by allowing users to customize and experiment with different features and functionalities.
+  - They reduce the cost and complexity of developing and maintaining applications and services for wearable computing, mixed reality, and internet of everything.
+- Some challenges of software hardware frameworks are:
+  - They require high performance and reliability to handle the large amount of data and computation involved in wearable computing, mixed reality, and internet of everything.
+  - They pose security and privacy risks, as they involve the collection and transmission of sensitive and personal data, such as biometric, location, or behavioral information.
+  - They raise ethical and social issues, such as the impact of wearable computing, mixed reality, and internet of everything on human behavior, identity, and society.

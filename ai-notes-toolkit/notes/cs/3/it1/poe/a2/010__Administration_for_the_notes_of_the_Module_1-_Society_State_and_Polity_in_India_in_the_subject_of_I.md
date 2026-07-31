@@ -1,0 +1,10 @@
+ Here is the content in markdown format without any emojis or external links:
+
+### Administration for the notes of the Module 1- Society State and Polity in India in the subject of INDIAN TRADITIONS, CULTURAL AND SOCIETY.
+
+- The administration of India during ancient period was carried out by the village assemblies or Panchayat system. The village headman or the Patwari implemented the rules and regulations set by the Panchayat.
+- During the Sultanate and Mughal period, the administration was highly centralized under the ruler. The revenue administration was headed by Diwan who was assisted by other officials. Police administration was looked after by Kotwal while justice was dispensed by Qazis at local level and Sadar-ul-Kotla at provincial level.
+- The British followed the system of bureaucratic machinery for administration and governance in India. The hierarchy of officials consisted of Secretary of State for India at the top, then the Viceroy and Governor-Generals, Governors and Commissioners, Collectors and other lower officials. The revenue administration was looked after by Board of Revenue and later Financial Commissioner. Police administration was under Inspector General of Police. Judiciary was independent of the executive.
+- After Independence, India adopted a parliamentary system of government with Prime Minister as the head of the government. The country has been divided into states and union territories with a hierarchical administrative set up under Governor/Lieutenant Governor and Chief Minister/Administrator heading the state and union territories respectively. At district level, there is District Magistrate/Collector and Deputy Commissioner of Police to look after the administration. Judiciary is independent of the executive in India.
+
+I hope this content serves your purpose. Please let me know if you would like me to modify or add anything.

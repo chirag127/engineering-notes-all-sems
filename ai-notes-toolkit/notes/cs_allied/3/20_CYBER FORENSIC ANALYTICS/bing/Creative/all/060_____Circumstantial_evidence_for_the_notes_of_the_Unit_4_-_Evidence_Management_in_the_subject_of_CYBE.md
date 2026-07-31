@@ -1,0 +1,13 @@
+# Circumstantial evidence
+
+- Circumstantial evidence is evidence that **indirectly** proves a fact or a connection between facts by **inference** or **reasoning**.
+- Circumstantial evidence is **not** direct evidence that **clearly** shows the truth of a fact or a connection between facts by **observation** or **testimony**.
+- Circumstantial evidence is often used in **cyber forensics** to establish the **identity**, **intent**, **motive**, **opportunity**, **means**, or **alibi** of a suspect or a perpetrator of a cybercrime.
+- Circumstantial evidence can be derived from various sources of **digital evidence**, such as **computer hard drives**, **mobile phones**, **smart devices**, **social media accounts**, **network logs**, **email messages**, **digital documents**, **metadata**, **encryption keys**, **malware**, **digital fingerprints**, **IP addresses**, **GPS coordinates**, etc .
+- Circumstantial evidence can be **corroborated** or **contradicted** by other evidence, such as **physical evidence**, **eyewitness testimony**, **expert testimony**, **confessions**, **admissions**, etc.
+- Circumstantial evidence can be **classified** into two types: **physical circumstantial evidence** and **behavioral circumstantial evidence**.
+  - Physical circumstantial evidence is evidence that is **tangible** and can be **examined** or **measured**, such as **digital devices**, **storage media**, **hardware components**, **software applications**, **digital files**, **network packets**, etc.
+  - Behavioral circumstantial evidence is evidence that is **intangible** and can be **inferred** or **interpreted**, such as **actions**, **reactions**, **patterns**, **preferences**, **habits**, **associations**, **communications**, **emotions**, etc.
+- Circumstantial evidence can be **evaluated** by using various **criteria**, such as **relevance**, **reliability**, **authenticity**, **integrity**, **accuracy**, **completeness**, **consistency**, **timeliness**, **admissibility**, etc .
+- Circumstantial evidence can be **presented** in a **logical** and **persuasive** manner by using various **techniques**, such as **narratives**, **diagrams**, **charts**, **tables**, **graphs**, **timelines**, **maps**, **scenarios**, **hypotheses**, **arguments**, etc .
+- Circumstantial evidence can be **challenged** or **refuted** by using various **strategies**, such as **raising doubts**, **pointing out flaws**, **offering alternatives**, **discrediting sources**, **questioning methods**, **exposing biases**, **demanding proofs**, etc .

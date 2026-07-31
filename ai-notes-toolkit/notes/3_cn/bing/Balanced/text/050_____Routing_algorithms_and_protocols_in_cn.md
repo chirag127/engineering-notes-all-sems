@@ -1,0 +1,15 @@
+### Routing algorithms and protocols in computer networks
+
+- Routing is the process of finding and selecting the best path for data transmission from source to destination in a computer network.
+- Routing algorithms are the software programs that implement the logic of routing, i.e., they decide the optimal path for each packet based on some criteria or metric.
+- Routing protocols are the set of rules and procedures that routers use to exchange routing information and update their routing tables.
+- Routing algorithms and protocols can be classified into different types based on various factors, such as:
+  - Static vs dynamic: Static routing algorithms are fixed and do not change with the network topology or traffic conditions. Dynamic routing algorithms are adaptive and update their routing decisions based on the current network state.
+  - Centralized vs distributed: Centralized routing algorithms are executed by a single node that has the complete knowledge of the network topology and traffic. Distributed routing algorithms are executed by each node independently based on the local information and messages from neighboring nodes.
+  - Single-path vs multipath: Single-path routing algorithms select only one path for each source-destination pair. Multipath routing algorithms can select multiple paths for load balancing, fault tolerance, or quality of service.
+  - Flat vs hierarchical: Flat routing algorithms treat all nodes as equal and use the same addressing scheme for the whole network. Hierarchical routing algorithms divide the network into regions or domains and use different levels of addressing and routing for each level.
+  - Intra-domain vs inter-domain: Intra-domain routing algorithms are used within a single network domain or autonomous system, which is a group of nodes under the same administrative control. Inter-domain routing algorithms are used between different network domains or autonomous systems, which may have different policies and preferences.
+- Some examples of routing protocols are:
+  - Distance vector protocols: These protocols use the distance (or hop count) to each destination as the metric and exchange their routing tables with their direct neighbors periodically or when there is a change. They use the Bellman-Ford algorithm to calculate the shortest paths. Examples are RIP, IGRP, EIGRP, etc.
+  - Link state protocols: These protocols use the cost of each link as the metric and exchange their link state information with all other nodes in the network periodically or when there is a change. They use the Dijkstra's algorithm to calculate the shortest paths. Examples are OSPF, IS-IS, etc.
+  - Path vector protocols: These protocols use the path (or sequence of autonomous systems) to each destination as the metric and exchange their path information with their direct neighbors periodically or when there is a change. They use the BGP algorithm to calculate the best paths. Examples are BGP, IDRP, etc.

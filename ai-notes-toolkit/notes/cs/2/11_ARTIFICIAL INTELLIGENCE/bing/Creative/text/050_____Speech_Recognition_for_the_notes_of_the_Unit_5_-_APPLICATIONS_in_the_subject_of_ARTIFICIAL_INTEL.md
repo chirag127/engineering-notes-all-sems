@@ -1,0 +1,14 @@
+### Speech Recognition
+
+Speech recognition is the process of converting spoken words into machine-readable input. It is one of the applications of artificial intelligence (AI) that enables a computer to understand and respond to spoken language. Speech recognition can be used for various purposes, such as voice control, dictation, transcription, translation, authentication, and natural language processing.
+
+Some of the key concepts and components of speech recognition are:
+
+- **Speech input**: The speech input is the source of the spoken words that the speech recognition system receives. It can be a microphone, a telephone, a recording, or any other device that captures the sound waves of the speaker.
+- **Feature extraction**: Feature extraction is the process of extracting relevant information from the speech input, such as the frequency, amplitude, pitch, duration, and energy of the sound waves. Feature extraction reduces the dimensionality and complexity of the speech input and transforms it into a format that the speech recognition system can process.
+- **Feature vectors**: Feature vectors are the numerical representations of the extracted features of the speech input. They are usually arranged in a sequence that corresponds to the time frames of the speech input. Feature vectors are the input for the decoder of the speech recognition system.
+- **Decoder**: The decoder is the core component of the speech recognition system that converts the feature vectors into words or sentences. The decoder uses various models and algorithms to find the most likely sequence of words that matches the feature vectors. Some of the models and algorithms used by the decoder are:
+  - **Acoustic models**: Acoustic models are statistical models that represent the relationship between the feature vectors and the phonetic units of the spoken language, such as phonemes, syllables, or words. Acoustic models are trained on large corpora of speech data and their corresponding transcriptions.
+  - **Pronunciation dictionary**: A pronunciation dictionary is a database that contains the mappings between the words of the spoken language and their possible pronunciations in terms of phonetic units. A pronunciation dictionary helps the decoder to handle different accents, dialects, and variations of the spoken language.
+  - **Language models**: Language models are statistical models that represent the probability of occurrence of a word or a sequence of words in a given language. Language models are trained on large corpora of text data and help the decoder to select the most likely words or sentences based on the context and grammar of the language.
+- **Word output**: The word output is the final output of the speech recognition system that contains the words or sentences that correspond to the speech input. The word output can be displayed on a screen, spoken by a text-to-speech system, or used for further processing by other applications.

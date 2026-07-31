@@ -1,0 +1,15 @@
+#### Components of Hadoop
+
+Hadoop is a framework for distributed storage and processing of large-scale data sets. It consists of the following core components:
+
+- **Hadoop Distributed File System (HDFS)**: This is the storage layer of Hadoop that stores data in a distributed manner across multiple nodes in a cluster. HDFS provides high availability, fault tolerance, scalability, and data locality. HDFS splits the data into fixed-size blocks (default 128 MB) and replicates them across different nodes (default 3 replicas) for redundancy and reliability. HDFS also maintains a master-slave architecture, where one node acts as the NameNode (master) that manages the metadata and namespace of the file system, and the other nodes act as DataNodes (slaves) that store the actual data blocks. HDFS allows users to access the data through a standard interface such as Java API, command-line, or web browser.
+
+- **MapReduce**: This is the processing layer of Hadoop that provides a parallel programming model for processing large sets of data in a distributed manner. MapReduce consists of two phases: Map and Reduce. In the Map phase, the input data is divided into key-value pairs and assigned to different mappers (workers) that run on different nodes. The mappers apply a user-defined function to each key-value pair and generate intermediate key-value pairs as output. In the Reduce phase, the intermediate key-value pairs are shuffled and sorted by their keys and assigned to different reducers (workers) that run on different nodes. The reducers apply another user-defined function to each key and its associated values and generate the final output. MapReduce also maintains a master-slave architecture, where one node acts as the JobTracker (master) that coordinates the execution of the MapReduce jobs, and the other nodes act as TaskTrackers (slaves) that run the map and reduce tasks.
+
+- **YARN (Yet Another Resource Negotiator)**: This is the resource management layer of Hadoop that allocates and manages the resources (CPU, memory, disk, network) for the applications running on the cluster. YARN also maintains a master-slave architecture, where one node acts as the ResourceManager (master) that oversees the global resource allocation and scheduling, and the other nodes act as NodeManagers (slaves) that monitor and report the resource usage and availability of each node. YARN also introduces the concept of ApplicationMaster, which is a process that runs on a node and negotiates the resources for a specific application (such as MapReduce, Spark, Hive, etc.) from the ResourceManager and communicates with the NodeManagers to launch and monitor the application tasks.
+
+Some mnemonics and learning tricks for the components of Hadoop are:
+
+- HDFS: **H**uge **D**ata **F**or **S**torage
+- MapReduce: **Map** the data, **Reduce** the results
+- YARN: **Y**ou **A**llocate **R**esources **N**ow

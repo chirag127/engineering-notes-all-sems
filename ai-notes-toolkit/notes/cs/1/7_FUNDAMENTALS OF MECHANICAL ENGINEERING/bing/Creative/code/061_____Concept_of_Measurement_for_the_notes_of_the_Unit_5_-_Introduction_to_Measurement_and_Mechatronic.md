@@ -1,0 +1,24 @@
+### Concept of Measurement
+
+- Measurement is the process of assigning numbers or symbols to physical quantities or attributes of objects or phenomena, according to certain rules or standards .
+- Measurement is done to know whether the component which has been manufactured is as per the requirements or not.
+- Measurement is also done to compare, evaluate, monitor, control, calibrate, or test the performance of a system or a process.
+- Measurement is essential for engineering design, analysis, and quality control.
+- Measurement can be classified into two types: direct and indirect.
+  - Direct measurement is the process of obtaining the value of a quantity by comparing it with a standard or a known quantity of the same kind. For example, measuring the length of a rod with a ruler.
+  - Indirect measurement is the process of obtaining the value of a quantity by using other related quantities that can be measured directly. For example, measuring the speed of a car by measuring the time and distance traveled.
+- Measurement can also be classified into three categories: nominal, ordinal, and interval.
+  - Nominal measurement is the process of assigning names or labels to objects or phenomena, without implying any order or magnitude. For example, classifying fruits into apples, oranges, bananas, etc.
+  - Ordinal measurement is the process of assigning ranks or positions to objects or phenomena, based on some criterion or preference. For example, grading students into A, B, C, D, etc.
+  - Interval measurement is the process of assigning numbers to objects or phenomena, such that the differences between the numbers reflect the differences between the quantities or attributes measured. For example, measuring the temperature in degrees Celsius or Fahrenheit.
+- Measurement involves four basic elements: the measurand, the instrument, the method, and the result.
+  - The measurand is the quantity or attribute that is to be measured. For example, the length of a rod, the mass of a ball, the temperature of a room, etc.
+  - The instrument is the device or tool that is used to perform the measurement. For example, a ruler, a balance, a thermometer, etc.
+  - The method is the procedure or technique that is followed to perform the measurement. For example, using a ruler to measure the length of a rod by aligning it with the scale, using a balance to measure the mass of a ball by comparing it with a known weight, using a thermometer to measure the temperature of a room by inserting it into the air, etc.
+  - The result is the outcome or output of the measurement, expressed in a numerical or symbolic form. For example, the length of a rod is 10 cm, the mass of a ball is 50 g, the temperature of a room is 25 °C, etc.
+- Measurement is subject to errors and uncertainties, which affect the accuracy and precision of the result .
+  - Accuracy is the degree of closeness of the result to the true or accepted value of the measurand . For example, if the true length of a rod is 10 cm, and the measured length is 9.8 cm, then the result is accurate to 0.2 cm or 2%.
+  - Precision is the degree of consistency or repeatability of the result, when the measurement is performed under the same conditions . For example, if the measured length of a rod is 9.8 cm, 9.9 cm, and 9.7 cm, in three successive trials, then the result is precise to 0.1 cm or 1%.
+  - Errors are the deviations or differences between the result and the true or accepted value of the measurand . Errors can be classified into two types: systematic and random .
+    - Systematic errors are the errors that are caused by some constant or predictable factors, such as faulty instruments, incorrect methods, or human bias . Systematic errors can be detected and corrected by using calibration, standardization, or adjustment techniques .
+    - Random errors are the errors that are caused by some unpredictable or uncontrollable factors, such as environmental disturbances, human variations, or instrument limitations[^1^

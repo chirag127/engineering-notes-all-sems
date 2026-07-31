@@ -1,0 +1,23 @@
+## Unit 1 - Introduction: SOA and MSA Basics
+
+- SOA stands for Service-Oriented Architecture, which is a design paradigm for building distributed systems that are composed of loosely coupled, reusable, and interoperable services.
+- MSA stands for Microservice Architecture, which is a variant of SOA that focuses on developing small, independent, and self-contained services that communicate through lightweight protocols.
+- The main benefits of SOA and MSA are:
+  - Increased modularity, scalability, and availability of the system.
+  - Reduced complexity, coupling, and dependency of the system components.
+  - Improved agility, flexibility, and maintainability of the system development and deployment.
+  - Enhanced reusability, testability, and quality of the system functionality.
+- The main challenges of SOA and MSA are:
+  - Increased network latency, overhead, and failure rate of the system communication.
+  - Reduced consistency, reliability, and security of the system data and transactions.
+  - Increased difficulty of system monitoring, debugging, and governance.
+  - Required cultural and organizational changes for the system development and operation.
+- The main principles of SOA and MSA are:
+  - Service contract: The service interface and behavior are defined by a formal specification that is independent of the service implementation and technology.
+  - Service abstraction: The service hides the details of its implementation and technology from the service consumers and providers.
+  - Service loose coupling: The service minimizes the dependencies and assumptions between the service consumers and providers.
+  - Service reusability: The service is designed to be used by multiple service consumers and providers in different contexts and scenarios.
+  - Service autonomy: The service has control over its own logic and resources and can operate independently of other services.
+  - Service statelessness: The service does not maintain any state information between service invocations and relies on the service consumers and providers to manage the state data.
+  - Service discoverability: The service can be easily discovered and understood by the service consumers and providers through a service registry or a service catalog.
+  - Service composability: The service can be composed with other services to create higher-level services and business processes.

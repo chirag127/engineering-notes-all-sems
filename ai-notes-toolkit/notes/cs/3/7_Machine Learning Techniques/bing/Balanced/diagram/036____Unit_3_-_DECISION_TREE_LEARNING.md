@@ -1,0 +1,28 @@
+## Unit 3 - DECISION TREE LEARNING
+
+- Decision tree learning is a supervised machine learning technique that can be used for classification or regression problems.
+- A decision tree is a graphical representation of a hierarchical structure that consists of nodes, branches, and leaves.
+- A node represents a test or a condition on an attribute or a feature of the data.
+- A branch represents the outcome of the test or the condition.
+- A leaf represents a class label or a predicted value for the data.
+- The root node is the topmost node that has no parent node.
+- The internal nodes are the nodes that have at least one child node.
+- The terminal nodes are the nodes that have no child node.
+- The depth of a node is the number of edges from the root node to the node.
+- The height of a tree is the maximum depth of any node in the tree.
+- The path from the root node to a leaf node is called a decision path or a rule.
+- The goal of decision tree learning is to construct a tree that can accurately classify or predict the data based on the given attributes or features.
+- The process of decision tree learning involves two main steps: tree induction and tree pruning.
+- Tree induction is the process of recursively splitting the data into smaller subsets based on the best attribute or feature that maximizes the information gain or minimizes the impurity of the data.
+- Tree pruning is the process of removing or collapsing the nodes or branches that do not contribute to the accuracy or generalization of the tree.
+- Some of the common algorithms for decision tree learning are ID3, C4.5, CART, and CHAID.
+- Some of the advantages of decision tree learning are:
+  - It is easy to understand and interpret.
+  - It can handle both numerical and categorical data.
+  - It can handle missing values and outliers.
+  - It can handle nonlinear relationships and interactions among the attributes or features.
+- Some of the disadvantages of decision tree learning are:
+  - It can be prone to overfitting or underfitting the data.
+  - It can be sensitive to noise and small changes in the data.
+  - It can be biased towards the attributes or features that have more levels or values.
+  - It can be computationally expensive to construct and prune the tree.

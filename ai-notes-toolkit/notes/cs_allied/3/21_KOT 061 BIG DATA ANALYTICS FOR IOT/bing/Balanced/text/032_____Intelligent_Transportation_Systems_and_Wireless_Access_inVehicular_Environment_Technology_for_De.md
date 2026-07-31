@@ -1,0 +1,23 @@
+### Intelligent Transportation Systems and Wireless Access in Vehicular Environment Technology for Developing Smart Cities
+
+- Intelligent Transportation Systems (ITS) are the application of advanced technologies to improve the efficiency, safety, and sustainability of transportation systems in urban areas.
+- ITS involve the use of sensors, communication devices, data analytics, and artificial intelligence to monitor, control, and optimize the movement of people and goods in smart cities.
+- Wireless Access in Vehicular Environment (WAVE) is a set of standards and protocols for enabling wireless communication among vehicles and between vehicles and infrastructure in ITS.
+- WAVE supports various applications and services for ITS, such as traffic management, road safety, navigation, infotainment, and environmental monitoring.
+- WAVE consists of several components, such as:
+  - Dedicated Short Range Communication (DSRC), which is a radio technology for short-range and high-speed communication in the 5.9 GHz band.
+  - IEEE 1609 family of standards, which define the security, networking, and transport services for WAVE.
+  - SAE J2735 standard, which specifies the message format and content for WAVE applications.
+- WAVE enables Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I) communication, which are collectively known as Vehicle-to-Everything (V2X) communication.
+- V2X communication can enhance the situational awareness, coordination, and cooperation among vehicles and infrastructure, and thus improve the safety, efficiency, and comfort of transportation in smart cities.
+- Some of the benefits and challenges of ITS and WAVE for smart cities are:
+  - Benefits:
+    - Reduced traffic congestion and emissions by optimizing traffic flow and routing.
+    - Improved road safety and accident prevention by alerting drivers of potential hazards and collisions.
+    - Enhanced mobility and accessibility by providing real-time information and guidance to travelers.
+    - Increased user satisfaction and convenience by offering personalized and context-aware services and entertainment.
+  - Challenges:
+    - High cost and complexity of deploying and maintaining ITS and WAVE infrastructure and devices.
+    - Security and privacy issues related to the protection and management of sensitive data and communication in ITS and WAVE.
+    - Interoperability and compatibility issues among different ITS and WAVE systems and standards.
+    - Regulatory and legal issues related to the liability and responsibility of ITS and WAVE users and providers.

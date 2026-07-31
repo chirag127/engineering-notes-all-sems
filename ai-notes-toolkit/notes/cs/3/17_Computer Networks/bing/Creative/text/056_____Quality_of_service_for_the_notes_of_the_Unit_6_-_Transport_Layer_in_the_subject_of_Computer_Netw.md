@@ -1,0 +1,9 @@
+### Quality of service for the notes of the Unit 6 - Transport Layer in the subject of Computer Networks
+
+- Quality of service (QoS) is the use of mechanisms or technologies that work on a network to control traffic and ensure the performance of critical applications with limited network capacity .
+- The transport layer also determines what type of service to provide to the session layer, and, ultimately, to the users of the network. The most popular type of transport connection is an error-free point-to-point channel that delivers messages or bytes in the order in which they were sent.
+- Some techniques that can be used to improve the quality of service are :
+  - Scheduling: It is the process of deciding which packet to send next on a link. It can be used to allocate different priorities to different packets or flows, and to prevent the starvation of low-priority packets.
+  - Traffic shaping: It is the process of controlling the rate and burstiness of traffic sent to the network. It can be used to smooth out traffic bursts and to conform to the traffic contract agreed with the network.
+  - Admission control: It is the process of deciding whether to accept or reject a new flow request based on the current network conditions and the QoS requirements of the flow. It can be used to prevent the network from being overloaded and to guarantee the QoS for the accepted flows.
+  - Resource reservation: It is the process of allocating network resources (such as bandwidth, buffer space, etc.) to the accepted flows based on their QoS requirements. It can be used to ensure that the network can deliver the QoS for the accepted flows.

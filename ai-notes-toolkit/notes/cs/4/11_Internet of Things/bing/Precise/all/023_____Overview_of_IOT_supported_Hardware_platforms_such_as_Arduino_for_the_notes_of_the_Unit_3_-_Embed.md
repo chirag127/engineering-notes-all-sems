@@ -1,0 +1,6 @@
+# Overview of IOT supported Hardware platforms such as Arduino
+
+- The **Arduino** platform was created back in 2005 by the Arduino company and allows for open source prototyping and flexible software development and back-end deployment while providing significant ease of use to developers, even those with very little experience building IoT solutions .
+- The **Arduino Nano 33 IOT** board has WiFi and Bluetooth connectivity. The **MKR Fox 1200** board (available in Europe only) supports the Sigfox architecture. The **MKR GSM 1400** board supports GSM .
+- Several development platforms mainly based on microcontrollers or embedded systems with wireless communication capabilities (e.g., development boards like Arduino, ESP32, Raspberry Pi, Adafruit, etc.) are being employed as enabling tools in the prototyping process of IoT devices, given its versatility, peripheral integration structure, among others features .
+- The main advantage Arduino has over other providers is being a well-developed name in the electronic development space .

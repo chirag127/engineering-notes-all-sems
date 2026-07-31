@@ -1,0 +1,10 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here is the content for the topic of working with hyperlinks in HTML.
+
+# Working with Hyperlinks
+
+- Hyperlinks are one of the most important features of HTML, as they allow users to navigate from one web page to another, or to other resources on the web, such as images, videos, or documents.
+- Hyperlinks are created using the `<a>` element, which stands for anchor. The `<a>` element has an attribute called `href`, which specifies the URL (uniform resource locator) of the destination resource. The URL can be absolute or relative, depending on whether it includes the full address of the resource or only a part of it.
+- The content of the `<a>` element is the text or image that the user can click on to follow the link. For example, `<a href="https://www.example.com">Example</a>` creates a hyperlink with the text "Example" that leads to the website https://www.example.com.
+- Hyperlinks can also have other attributes, such as `target`, which specifies where the destination resource should open, either in the same window or tab, or in a new one. For example, `<a href="https://www.example.com" target="_blank">Example</a>` opens the website https://www.example.com in a new tab or window.
+- Hyperlinks can also link to different parts of the same web page, using the `id` attribute of the destination element and the `#` symbol in the `href` attribute of the `<a>` element. For example, `<a href="#section1">Go to section 1</a>` links to the element with the `id` of "section1" on the same page.
+- Hyperlinks can also link to email addresses, using the `mailto:` protocol in the `href` attribute of the `<a>` element. For example, `<a href="mailto:example@example.com">Email me</a>` creates a hyperlink that opens the user's default email client with the address example@example.com pre-filled.

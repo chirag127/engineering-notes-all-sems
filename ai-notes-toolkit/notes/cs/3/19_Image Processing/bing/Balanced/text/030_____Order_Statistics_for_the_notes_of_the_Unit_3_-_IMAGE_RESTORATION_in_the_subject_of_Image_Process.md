@@ -1,0 +1,18 @@
+### Order Statistics for the notes of the Unit 3 - IMAGE RESTORATION in the subject of Image Processing
+
+- Image restoration is the process of recovering an image that has been degraded by a degradation phenomenon, such as noise, blur, or distortion.
+- Order statistics are the values obtained by sorting a set of data in ascending or descending order and selecting a specific position in the sorted sequence.
+- Order statistic filters are non-linear spatial filters that use order statistics to process an image. They are useful for removing noise and preserving edges in an image.
+- Some common order statistic filters are:
+
+  - The linear average filter, which replaces the center pixel with the mean of the pixels in the filter window. It is equivalent to an order statistic filter with equal coefficients for all positions in the sorted sequence.
+  - The median filter, which replaces the center pixel with the median of the pixels in the filter window. It is equivalent to an order statistic filter with a coefficient of one for the middle position and zero for the rest in the sorted sequence.
+  - The minimum filter, which replaces the center pixel with the minimum of the pixels in the filter window. It is equivalent to an order statistic filter with a coefficient of one for the first position and zero for the rest in the sorted sequence.
+  - The maximum filter, which replaces the center pixel with the maximum of the pixels in the filter window. It is equivalent to an order statistic filter with a coefficient of one for the last position and zero for the rest in the sorted sequence.
+  - The alpha-trimmed mean filter, which replaces the center pixel with the mean of the pixels in the filter window after discarding a fraction of the highest and lowest values. It is equivalent to an order statistic filter with coefficients of zero for the first and last alpha positions and equal coefficients for the rest in the sorted sequence.
+  - The midpoint filter, which replaces the center pixel with the average of the minimum and maximum of the pixels in the filter window. It is equivalent to an order statistic filter with coefficients of 0.5 for the first and last positions and zero for the rest in the sorted sequence.
+  - The harmonic mean filter, which replaces the center pixel with the harmonic mean of the pixels in the filter window. It is equivalent to an order statistic filter with coefficients of one divided by the pixel values for all positions in the sorted sequence.
+  - The contraharmonic mean filter, which replaces the center pixel with the contraharmonic mean of the pixels in the filter window. It is equivalent to an order statistic filter with coefficients of the pixel values raised to a power Q for all positions in the sorted sequence.
+
+- Higher order statistics are the statistics that involve more than two moments of a distribution, such as skewness, kurtosis, or cumulants. They are useful for characterizing the non-Gaussian nature of an image or a noise source.
+- Higher order statistics can be used for image restoration by measuring them around random samples of each pixel to identify the noise pixels and applying a blind deconvolution technique to restore the color images. They can also be used for image steganography by rearranging the pixels to preserve the first order statistics of the stego image and avoid histogram based steganalytic attacks.

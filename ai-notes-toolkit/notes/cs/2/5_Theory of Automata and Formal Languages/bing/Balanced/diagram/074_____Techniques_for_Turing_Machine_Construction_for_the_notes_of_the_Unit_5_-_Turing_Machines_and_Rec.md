@@ -1,0 +1,13 @@
+### Techniques for Turing Machine Construction
+
+A Turing machine is a theoretical model of computation that can simulate any algorithm or program. A Turing machine consists of a finite control, a tape, a tape head, and a transition function. The finite control is like a state machine that determines the next action of the machine based on the current state and the input symbol. The tape is an infinite sequence of cells that can store symbols from a finite alphabet. The tape head can read and write symbols on the tape, and move left or right. The transition function specifies how the machine will change its state, symbol, and tape head position for each possible combination of state and input symbol.
+
+There are various techniques for designing and constructing Turing machines for different purposes and languages. Some of the common techniques are:
+
+- **Storage in finite control**: This technique uses the finite control to store some information or data that is needed for the computation. For example, to construct a Turing machine that accepts the language L = {a^n b^n | n>=1}, we can use the finite control to store the number of a's read from the tape, and compare it with the number of b's read later. This technique is useful when the amount of data to be stored is small and finite.
+
+- **Multi-tracks**: This technique uses multiple tracks on the tape to store different types of information or data. For example, to construct a Turing machine that computes the sum of two binary numbers, we can use one track to store the first number, another track to store the second number, and a third track to store the result. This technique is useful when the amount of data to be stored is large and variable.
+
+- **Checking off symbols**: This technique uses a special symbol to mark or erase some symbols on the tape that are already processed or not needed for the computation. For example, to construct a Turing machine that accepts the language L = {0^n 1^n | n>=1}, we can use a symbol X to replace the 0's and 1's that are matched, and move the tape head back and forth to check if there are any unmatched symbols left. This technique is useful when the data to be processed is sequential and repetitive.
+
+- **Subroutine**: This technique uses a part of the Turing machine to perform a specific task or function that is needed for the computation. For example, to construct a Turing machine that multiplies two binary numbers, we can use a subroutine that adds two binary numbers, and call it repeatedly with different arguments. This technique is useful when the computation involves complex or modular operations.

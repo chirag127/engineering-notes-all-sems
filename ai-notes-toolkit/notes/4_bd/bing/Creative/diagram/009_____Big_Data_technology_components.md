@@ -1,0 +1,10 @@
+### Big Data Technology Components
+
+Big data technology refers to the methods and tools used to collect, store, process, analyze, and visualize large and complex datasets. Big data technology can enable organizations to gain insights, improve decision making, and create value from their data. Some of the main components of big data technology are:
+
+- **Data sources**: These are the origins of the data that are used for big data solutions. Data sources can be static files produced by applications (such as web server log files), application data stores (such as relational databases), or real-time data sources (such as IoT devices) .
+- **Data ingestion**: This is the process of acquiring, importing, and validating the data from various sources. Data ingestion can be done in batch mode (where data is transferred periodically in large volumes) or in stream mode (where data is transferred continuously in small increments) .
+- **Data storage**: This is the component that provides the infrastructure and services to store and manage the data. Data storage can be done in different formats and systems, such as file systems, databases, data warehouses, data lakes, or cloud storage .
+- **Data processing**: This is the component that performs the operations and transformations on the data, such as cleansing, filtering, aggregating, joining, or enriching. Data processing can be done using different frameworks and paradigms, such as MapReduce, Spark, Flink, or Storm .
+- **Data analysis**: This is the component that applies various techniques and algorithms to the data, such as machine learning, natural language processing, business intelligence, or statistics. Data analysis can be done using different tools and languages, such as Python, R, SQL, or SAS  .
+- **Data visualization**: This is the component that presents the data and the results of the analysis in a graphical or interactive form, such as charts, dashboards, or reports. Data visualization can be done using different tools and libraries, such as Tableau, Power BI, D3.js, or Matplotlib .

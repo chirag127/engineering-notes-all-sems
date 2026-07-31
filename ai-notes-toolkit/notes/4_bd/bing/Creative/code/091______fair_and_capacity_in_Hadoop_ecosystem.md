@@ -1,0 +1,11 @@
+#### Fair and Capacity in Hadoop Ecosystem
+
+- Hadoop is a batch processing ecosystem that can handle large-scale data analysis using distributed computing.
+- Hadoop has a resource management layer called YARN (Yet Another Resource Negotiator) that allocates resources to different applications running on the cluster.
+- Hadoop also has a scheduling layer that decides the order and priority of the applications that request resources from YARN.
+- There are mainly three types of schedulers in Hadoop: FIFO, Capacity, and Fair.
+- FIFO (First In First Out) scheduler is the simplest and default scheduler that assigns resources to applications based on their submission time. It does not consider the priority, size, or resource requirements of the applications. It can cause resource starvation and low cluster utilization if some applications are long-running or large.
+- Capacity scheduler is a more advanced scheduler that allows multiple queues to be created, each with a predefined capacity of resources. Each queue can have sub-queues and different policies for resource allocation and preemption. Capacity scheduler can support multi-tenancy, resource sharing, and isolation. It can also consider the priority and resource requirements of the applications within each queue .
+- Fair scheduler is another advanced scheduler that aims to provide fair and equal share of resources to all applications over time. It dynamically balances the resources between the running applications based on their demand and weight. It can also support multiple queues, sub-queues, and preemption. Fair scheduler can improve the cluster utilization and throughput by avoiding resource starvation and idle slots  .
+- Both capacity and fair schedulers can be configured and customized using XML files. They can also be integrated with other Hadoop components such as Hive, Spark, and MapReduce .
+- The choice of scheduler depends on the use case, workload, and performance goals of the Hadoop cluster. Some factors to consider are the number and type of applications, the resource availability and demand, the fairness and isolation requirements, and the trade-off between latency and throughput.

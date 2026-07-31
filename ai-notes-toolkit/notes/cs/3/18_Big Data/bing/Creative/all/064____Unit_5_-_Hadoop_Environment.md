@@ -1,0 +1,21 @@
+## Unit 5 - Hadoop Environment
+
+- Hadoop is an open source software framework that allows for the distributed storage and processing of large data sets across clusters of computers using simple programming models  .
+- Hadoop is based on the MapReduce programming model, which enables parallel processing of large data sets by dividing them into smaller chunks and assigning them to different nodes in the cluster.
+- Hadoop has two main components: Hadoop Distributed File System (HDFS) and Hadoop MapReduce.
+  - HDFS is a distributed file system that provides high-throughput access to data and handles failures by replicating data across multiple nodes.
+  - Hadoop MapReduce is a software framework that implements the MapReduce programming model and provides the scheduling, monitoring, and execution of tasks on the cluster.
+- Hadoop also has a rich ecosystem of tools and applications that extend its functionality and support various use cases, such as data ingestion, data analysis, data mining, machine learning, etc. Some of the popular tools and applications in the Hadoop ecosystem are:
+  - Apache Pig: a high-level scripting language for data analysis and transformation.
+  - Apache Hive: a data warehouse system that provides a SQL-like interface for querying and analyzing data stored in HDFS.
+  - Apache HBase: a distributed, column-oriented database that provides random access and consistent updates to large data sets.
+  - Apache Spark: a fast and general engine for large-scale data processing that supports batch, streaming, and interactive applications.
+  - Apache Kafka: a distributed messaging system that enables high-throughput and low-latency data ingestion and integration.
+  - Apache Flume: a service that collects, aggregates, and moves large amounts of log data from various sources to HDFS or other destinations.
+  - Apache Sqoop: a tool that transfers data between HDFS and relational databases.
+  - Apache Oozie: a workflow scheduler that coordinates and executes Hadoop jobs.
+  - Apache ZooKeeper: a service that provides distributed coordination and configuration management for Hadoop clusters.
+- Hadoop requires the Java Runtime Environment (JRE) 1.6 or higher and Secure Shell (SSH) to be set up between nodes in the cluster.
+- Hadoop can run on various platforms, such as Linux, Windows, Mac OS X, etc., but Linux is the most common and recommended platform for Hadoop deployment.
+- Hadoop can be installed in different modes, such as standalone mode, pseudo-distributed mode, and fully distributed mode, depending on the number and configuration of nodes in the cluster.
+- Hadoop is one of the key technologies that enable big data analytics and is widely used by many organizations for various purposes, such as web search, social media, e-commerce, fraud detection, recommendation systems, etc. .

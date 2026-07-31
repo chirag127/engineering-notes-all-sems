@@ -1,0 +1,14 @@
+# Program Control
+
+Program control is the process of directing the execution of instructions in a computer program. Program control can be achieved by using different types of instructions, such as:
+
+- **Arithmetic and logic instructions**: These instructions perform operations on data, such as addition, subtraction, multiplication, division, and, or, not, etc. These instructions can also affect the status flags, such as zero, carry, overflow, etc., which can be used for conditional branching.
+- **Data transfer instructions**: These instructions move data between registers, memory, and input/output devices. These instructions can also load or store immediate values, addresses, or offsets.
+- **Branching instructions**: These instructions alter the normal sequential flow of execution by changing the program counter (PC) to a different value. Branching instructions can be unconditional or conditional, depending on the status flags or the result of a comparison. Branching instructions can also be direct or indirect, depending on whether the target address is specified explicitly or stored in a register or memory location.
+- **Subroutine instructions**: These instructions allow the program to call a subprogram or a function, which can perform a specific task and return to the caller. Subroutine instructions involve saving the return address (usually in a stack) and jumping to the subprogram entry point. The subprogram can also pass parameters and return values using registers, memory, or stack.
+- **Interrupt instructions**: These instructions allow the program to request the attention of the operating system or the hardware, which can handle an exceptional event or a service request. Interrupt instructions involve saving the current state of the program (usually in a stack) and jumping to an interrupt handler, which can perform the required action and resume the program execution.
+
+Program control can also be influenced by the design of the control unit, which is the part of the processor that generates the control signals for the execution of instructions. The control unit can be implemented in two ways:
+
+- **Hardwired control**: In this method, the control unit is designed using combinational logic circuits, which generate the control signals based on the opcode and the current state of the processor. Hardwired control is faster and simpler, but less flexible and more difficult to modify.
+- **Microprogrammed control**: In this method, the control unit is designed using a microprogram, which is a sequence of microinstructions stored in a special memory called the control store. Each microinstruction specifies the control signals for one or more micro-operations, which are the elementary operations performed by the processor. Microprogrammed control is slower and more complex, but more flexible and easier to modify.

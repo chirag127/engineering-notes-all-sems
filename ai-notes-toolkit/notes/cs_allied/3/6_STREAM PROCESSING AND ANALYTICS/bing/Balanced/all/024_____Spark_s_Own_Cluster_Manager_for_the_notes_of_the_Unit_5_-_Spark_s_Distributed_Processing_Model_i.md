@@ -1,0 +1,21 @@
+# Spark’s Own Cluster Manager
+
+- Spark’s own cluster manager is also known as standalone mode .
+- It is a simple cluster manager that is included with Spark and can run on Linux, Windows, or Mac OSX .
+- It is often the simplest way to run Spark applications in a clustered environment.
+- It allows Spark to manage its own cluster and allocate resources across applications.
+- It supports both static and dynamic resource allocation.
+- It does not support advanced features like high availability, security, or resource isolation.
+- It requires a master node and one or more worker nodes to form a cluster .
+- The master node runs a master daemon that coordinates the worker nodes and assigns tasks to them .
+- The worker nodes run worker daemons that execute the tasks assigned by the master node .
+- The driver program (the main program that creates the SparkContext) can run either on the master node or on a separate node .
+- The driver program communicates with the master daemon to request resources for its executors (the processes that run the Spark tasks).
+- The master daemon launches the executors on the worker nodes and sends the application code and configuration to them.
+- The executors register themselves with the driver program and receive tasks from it.
+- The driver program also monitors the status of the executors and the tasks.
+- To launch a Spark application in standalone mode, the user needs to specify the master URL as spark://<master-hostname>:<master-port> when creating the SparkContext .
+- The user can also use the spark-submit script to submit the application to the cluster .
+- The user can configure various parameters for the cluster, such as the number of cores, the amount of memory, the number of retries, etc. using the spark-defaults.conf file or the command-line options .
+- The user can also use the web UI to monitor the cluster and the applications .
+- The user can stop the cluster by stopping the master and worker daemons .

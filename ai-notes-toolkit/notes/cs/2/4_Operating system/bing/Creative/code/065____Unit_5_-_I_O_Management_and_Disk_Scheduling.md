@@ -1,0 +1,29 @@
+## Unit 5 - I/O Management and Disk Scheduling
+
+- I/O management is the process of controlling the input and output devices of a computer system, such as disks, keyboards, printers, terminals, etc.
+- I/O management involves several tasks, such as:
+  - allocating and deallocating I/O devices to processes
+  - buffering and caching data to improve I/O performance
+  - providing device drivers and interfaces to communicate with I/O devices
+  - handling errors and exceptions in I/O operations
+  - implementing security and protection mechanisms for I/O devices
+- Disk scheduling is a specific aspect of I/O management that deals with the order in which disk requests are serviced by the disk controller.
+- Disk scheduling is important because:
+  - multiple I/O requests may arrive by different processes and only one I/O request can be served at a time by the disk controller
+  - disk requests may have different priorities and deadlines
+  - disk access time depends on the physical location of the data on the disk and the current position of the disk head
+  - disk scheduling can affect the performance, throughput, and fairness of the disk I/O system
+- Disk scheduling algorithms are the methods used to decide which disk request to service next, based on some criteria, such as:
+  - minimizing the total seek time, which is the time spent by the disk head to move from one track to another
+  - minimizing the rotational latency, which is the time spent by the disk to rotate the desired sector under the disk head
+  - maximizing the disk utilization, which is the percentage of time the disk is busy servicing requests
+  - maximizing the request throughput, which is the number of requests serviced per unit time
+  - minimizing the variance of response time, which is the difference between the maximum and minimum response time for requests
+  - ensuring fairness and avoiding starvation, which means that every request should eventually be serviced and no request should be indefinitely postponed
+- Some examples of disk scheduling algorithms are:
+  - First Come First Served (FCFS), which services the requests in the order they arrive in the queue
+  - Shortest Seek Time First (SSTF), which services the request that requires the least seek time from the current position of the disk head
+  - SCAN, which services the requests in one direction until the end of the disk is reached, then reverses the direction and services the requests in the other direction
+  - C-SCAN, which is similar to SCAN, but instead of reversing the direction at the end of the disk, it jumps to the other end and continues in the same direction
+  - LOOK and C-LOOK, which are variations of SCAN and C-SCAN, but they stop moving the disk head when there are no more requests in that direction
+  - Priority, which services the requests based on their assigned priority values, which may depend on factors such as process type, deadline, etc.

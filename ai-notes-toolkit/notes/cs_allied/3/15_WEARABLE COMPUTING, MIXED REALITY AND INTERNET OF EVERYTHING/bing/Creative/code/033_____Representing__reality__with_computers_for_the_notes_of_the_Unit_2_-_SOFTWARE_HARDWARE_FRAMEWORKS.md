@@ -1,0 +1,18 @@
+### Representing “reality” with computers
+
+- Computers can model some aspects of reality by using data, algorithms and simulations.
+- Data is a collection of facts, measurements or observations that can be processed by a computer. Data can be represented in binary, which is a system of two symbols (0 and 1) that can encode any information.
+- Algorithms are a set of instructions or rules that tell a computer how to perform a specific task or solve a problem. Algorithms can be designed to mimic the behavior or logic of physical processes, such as physics, chemistry, biology, etc.
+- Simulations are the use of computers to create virtual environments or scenarios that resemble or imitate some aspects of reality. Simulations can be used for various purposes, such as testing, training, entertainment, research, etc.
+- There are different levels of modeling reality with computers, such as:
+  - Physical conversion of input signals into digital signals (as well as converting digital signals into an output signal). This involves using sensors, transducers, analog-to-digital converters, digital-to-analog converters, etc.
+  - Encoding schemes for representing information in binary. This involves using different methods, such as ASCII, Unicode, binary-coded decimal, floating-point, etc.
+  - Algorithmic modeling of physical processes. This involves using mathematical equations, rules, logic, etc. to describe how a system or phenomenon works or behaves.
+- There are different types of data models for representing reality with computers, such as:
+  - Raster data model. This is a grid-based representation of spatial data, where each cell or pixel has a value that corresponds to an attribute or characteristic of the real world, such as elevation, temperature, land use, etc.
+  - Vector data model. This is a point-based representation of spatial data, where each point has a location (coordinates) and a value that corresponds to an attribute or characteristic of the real world, such as name, population, speed, etc. Points can be connected to form lines or polygons to represent features, such as roads, rivers, buildings, etc.
+  - Network data model. This is a graph-based representation of spatial data, where nodes and edges represent features and relationships of the real world, such as intersections, roads, routes, etc. Nodes have attributes, such as name, type, etc. and edges have attributes, such as length, direction, speed limit, etc.
+- There are different types of computer simulations for representing reality with computers, such as:
+  - Discrete-event simulation. This is a simulation where the state of the system changes only at discrete points in time, such as when an event occurs. Events are occurrences that affect the system, such as arrivals, departures, failures, etc. Discrete-event simulation can be used for modeling queuing systems, traffic systems, manufacturing systems, etc.
+  - Continuous simulation. This is a simulation where the state of the system changes continuously over time, such as when a variable changes its value. Variables are quantities that describe the system, such as position, velocity, temperature, etc. Continuous simulation can be used for modeling physical systems, such as mechanical, electrical, thermal, etc.
+  - Agent-based simulation. This is a simulation where the system is composed of autonomous entities or agents that interact with each other and their environment. Agents have attributes, such as state, behavior, goals, etc. and can adapt, learn, cooperate, compete, etc. Agent-based simulation can be used for modeling complex systems, such as social, biological, ecological, etc.

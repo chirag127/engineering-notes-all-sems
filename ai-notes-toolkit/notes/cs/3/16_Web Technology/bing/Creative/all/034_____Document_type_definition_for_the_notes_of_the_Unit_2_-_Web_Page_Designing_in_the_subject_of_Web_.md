@@ -1,0 +1,21 @@
+# Document type definition for the notes of the Unit 2 - Web Page Designing in the subject of Web Technology
+
+- A document type definition (DTD) is a set of rules that defines the structure and the legal elements and attributes of an XML document.
+- A DTD can be declared inside an XML document as an internal DTD or as an external reference to a DTD file.
+- A DTD helps to ensure the validity and interoperability of XML documents by specifying the allowed syntax and semantics of the markup language.
+- A DTD can also be used to declare entities, notations, and processing instructions that can be referenced in the XML document.
+- A DTD can be written in two syntaxes: SGML or XML. The XML syntax is more concise and compatible with XML parsers.
+- A DTD starts with the keyword `<!DOCTYPE` followed by the name of the root element of the XML document and the type of DTD declaration.
+- An internal DTD declaration is enclosed in square brackets `[...]` and placed after the root element name.
+- An external DTD declaration can be either a system identifier or a public identifier that points to the location of the DTD file.
+- A system identifier is a URL that specifies the exact location of the DTD file on the web or on the local system.
+- A public identifier is a unique name that identifies the DTD file in a public repository. It is usually preceded by the keyword `PUBLIC` and followed by a system identifier as a fallback option.
+- A DTD can also be a combination of internal and external declarations, in which case the internal declaration overrides the external one.
+- A DTD can define elements, attributes, entities, notations, and processing instructions using different declarations.
+- An element declaration specifies the name and the content model of an element. The content model defines what child elements and text can appear inside the element.
+- An attribute declaration specifies the name, the type, and the default value of an attribute. The type defines the allowed values and the syntax of the attribute.
+- An entity declaration defines a named replacement text that can be used in the XML document. Entities can be general or parameter entities, and internal or external entities.
+- A notation declaration defines a name and a system identifier for a non-XML data format, such as an image or a sound file. Notations can be used to annotate elements or entities that contain non-XML data.
+- A processing instruction declaration defines a name and a system identifier for a processing instruction, which is a special instruction for the XML processor or application.
+- A DTD can also include comments, which are ignored by the XML processor. Comments start with `<!--` and end with `-->`.
+- A DTD can be validated using a DTD validator, which is a tool that checks if the DTD conforms to the syntax and semantics of the DTD specification.

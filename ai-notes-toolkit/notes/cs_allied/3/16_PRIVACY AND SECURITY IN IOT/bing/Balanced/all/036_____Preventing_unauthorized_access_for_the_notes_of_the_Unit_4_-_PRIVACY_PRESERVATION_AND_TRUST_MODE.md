@@ -1,0 +1,13 @@
+# Preventing unauthorized access for the notes of the Unit 4 - PRIVACY PRESERVATION AND TRUST MODELS FOR IOT in the subject of PRIVACY AND SECURITY IN IOT
+
+- Unauthorized access is the act of gaining access to an IoT device or system without permission or authorization, which can compromise the privacy and security of the device, the data, and the network.
+- Unauthorized access can be caused by various factors, such as weak passwords, default settings, unencrypted data, outdated software, physical tampering, or malicious attacks.
+- Unauthorized access can have serious consequences, such as data theft, data manipulation, device malfunction, device hijacking, denial-of-service attacks, or network breaches.
+- To prevent unauthorized access, the following steps can be taken:
+
+  - Change the default password: Many IoT devices have default passwords that are easily guessed or publicly available. Changing the password to a strong and unique one can prevent unauthorized access by brute force or dictionary attacks.
+  - Use a firewall: A firewall can be used to block unwanted incoming connections and protect your IoT devices from malicious attacks. A firewall can also isolate the IoT devices from other devices on the network, creating a separate network for IoT devices .
+  - Encrypt data: Use strong encryption to protect data both in transit and at rest, to prevent unauthorized access or theft. Encryption can also ensure data integrity and authenticity, preventing data manipulation or spoofing .
+  - Regularly update and patch devices: Ensure IoT devices are regularly updated with security patches and software updates to address known vulnerabilities and improve performance. Updating and patching devices can also prevent unauthorized access by exploiting bugs or flaws in the software .
+  - Implement access control: Manage user access through an appropriate access control model, such as role-based or attribute-based access control, which can grant or deny access based on predefined rules or attributes. Access control can also limit the access points to IoT devices and cloud applications, ensuring only authorized users can access them .
+  - Build mechanisms to prevent and detect physical device tampering: Physical device tampering can compromise the security of the device and the data, by altering or removing components, inserting malicious hardware, or extracting data. To prevent and detect physical device tampering, mechanisms such as tamper-evident seals, tamper-resistant hardware, or tamper-detection sensors can be used .

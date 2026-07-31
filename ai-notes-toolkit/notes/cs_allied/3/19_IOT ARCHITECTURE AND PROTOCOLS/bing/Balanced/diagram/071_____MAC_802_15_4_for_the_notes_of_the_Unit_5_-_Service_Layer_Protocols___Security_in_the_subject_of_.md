@@ -1,0 +1,11 @@
+### MAC 802.15.4
+
+- MAC 802.15.4 is a standard for low-rate wireless personal area networks (LR-WPANs) that defines the physical layer (PHY) and medium access control (MAC) sublayer specifications  .
+- MAC 802.15.4 supports low-data-rate wireless connectivity with fixed, portable, and moving devices with no battery or very limited battery consumption requirements .
+- MAC 802.15.4 provides the basis of other higher-layer standards, such as ZigBee, WirelessHart, 6LoWPAN and MiWi.
+- MAC 802.15.4 supports multiple PHY options, such as frequency-hopping spread spectrum (FHSS), direct-sequence spread spectrum (DSSS), orthogonal frequency-division multiplexing (OFDM), and high-rate pulse ultra-wideband (HRP UWB) .
+- MAC 802.15.4 defines two types of devices: full-function devices (FFDs) and reduced-function devices (RFDs). FFDs can operate in any topology and communicate with any other device, while RFDs can only operate in star topology and communicate with FFDs .
+- MAC 802.15.4 defines two types of networks: star networks and peer-to-peer networks. In star networks, a single FFD acts as a coordinator and controls the communication with other devices. In peer-to-peer networks, any FFD can act as a coordinator and devices can communicate with each other directly or through intermediate devices .
+- MAC 802.15.4 uses a superframe structure to organize the channel access. A superframe consists of an active period and an inactive period. The active period is divided into 16 equally sized slots, which can be allocated for contention-based or contention-free access. The inactive period is used for power saving .
+- MAC 802.15.4 supports two types of channel access methods: slotted carrier sense multiple access with collision avoidance (CSMA-CA) and guaranteed time slot (GTS). Slotted CSMA-CA is used for contention-based access, where devices compete for the channel using a random backoff algorithm. GTS is used for contention-free access, where devices request and receive a fixed number of slots from the coordinator .
+- MAC 802.15.4 provides security services such as data encryption, data integrity, and data authentication using the advanced encryption standard (AES) algorithm. MAC 802.15.4 also supports key management and device management functions .

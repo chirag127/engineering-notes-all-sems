@@ -1,0 +1,12 @@
+## Unit 5 - Turing Machines and Recursive Function Theory
+
+- A **Turing machine** is a theoretical model of computation that consists of a finite set of states, a finite alphabet of symbols, a tape that can store symbols, and a read-write head that can move along the tape and change the symbols according to a set of transition rules.
+- A Turing machine can accept or reject an input string by reaching a final state or halting. A Turing machine can also compute a function by writing the output on the tape before halting.
+- A **recursive function** is a function that can be defined by a finite set of equations, where each equation either specifies the value of the function for a base case, or expresses the value of the function for a general case in terms of the function itself applied to smaller arguments.
+- A recursive function is also called a **computable function** or a **Turing computable function**, because it can be computed by a Turing machine that halts for every input.
+- The **Church-Turing thesis** is a conjecture that states that any function that can be effectively computed by a human using a finite set of instructions and unlimited time and memory can also be computed by a Turing machine.
+- The Church-Turing thesis implies that there is no more powerful model of computation than a Turing machine, and that any function that is not Turing computable is uncomputable in principle.
+- The theory of Turing machines and recursive functions is part of the theory of **computability**, which studies the limits and possibilities of what can be computed.
+- The theory of computability also explores the existence of **undecidable problems**, which are problems that cannot be solved by any Turing machine, and **uncomputable functions**, which are functions that cannot be computed by any Turing machine.
+- Some examples of undecidable problems are the **halting problem**, which asks whether a given Turing machine will halt on a given input, and the **Entscheidungsproblem**, which asks whether a given logical formula is valid or not.
+- Some examples of uncomputable functions are the **busy beaver function**, which gives the maximum number of steps that a Turing machine with a given number of states can perform before halting, and the **Kolmogorov complexity function**, which gives the shortest description of a given string in a given language .

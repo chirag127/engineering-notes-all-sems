@@ -1,0 +1,10 @@
+# Recovery from Transaction Failures
+
+- A transaction failure is an event that causes a transaction to abort or terminate before it can commit its changes to the database.
+- Transaction failures can occur due to various reasons, such as network failures, deadlock, or errors in application logic.
+- Transaction failures can leave the database in an inconsistent state, violating the ACID properties of transactions.
+- Recovery mechanisms are techniques that can help restore the database to a consistent state after transaction failures.
+- Recovery mechanisms are based on the use of logs, which are records of the operations performed by transactions on the database.
+- There are two major techniques for recovery from transaction failures: deferred updates and immediate updates.
+  - Deferred update: This technique does not physically update the database on disk until a transaction has reached its commit point. Instead, it records the updates in the log and marks the transaction as committed. If a transaction fails before reaching its commit point, no recovery is needed. If a system failure occurs, the recovery manager can redo the committed transactions from the log to bring the database to a consistent state.
+  - Immediate update: This technique allows the database to be updated on disk before a transaction reaches its commit point. However, it also records the updates in the log and maintains a before-image and an after-image of each updated data item. A before-image is the value of the data item before the update, and an after-image is the value of the data item after the update. If a transaction fails before reaching its commit point, the recovery manager can undo the effects of the transaction by restoring the before-images from the log. If a system failure occurs, the recovery manager can redo the committed transactions and undo the uncommitted transactions from the log to bring the database to a consistent state.

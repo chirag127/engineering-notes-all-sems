@@ -1,0 +1,9 @@
+## Beauty of Numbers
+
+- Numbers are the basic building blocks of mathematics and science. They can be used to describe patterns, shapes, quantities, measurements, and relationships.
+- Numbers can also be appreciated for their aesthetic qualities, such as symmetry, harmony, elegance, and beauty. Some examples of beautiful numbers are:
+  - Pi (π): The ratio of the circumference of a circle to its diameter. It is an irrational number that never repeats or ends. Its decimal expansion contains infinite digits, some of which form interesting sequences, such as 314159, 161803, or 1415926.
+  - Phi (ϕ): The golden ratio. It is an irrational number that approximates 1.618. It is the limit of the ratio of consecutive Fibonacci numbers, and it appears in many natural phenomena, such as the spiral of a nautilus shell, the arrangement of sunflower seeds, or the proportions of the human face.
+  - E (e): The base of the natural logarithm. It is an irrational number that approximates 2.718. It is the limit of the expression (1 + 1/n)^n as n approaches infinity, and it appears in many mathematical formulas, such as the compound interest formula, the normal distribution, or Euler's identity.
+  - Euler's identity: A formula that relates five fundamental constants: e, i, pi, 1, and 0. It is written as e^(iπ) + 1 = 0. It is considered one of the most elegant and beautiful equations in mathematics, as it combines algebra, geometry, and analysis in a simple and concise way.
+  - Prime numbers: Numbers that are only divisible by themselves and 1, such as 2, 3, 5, 7, 11, etc. They are the building blocks of all other numbers, as any number can be written as a product of primes. They have many interesting properties and patterns, such as the twin primes, the Mersenne primes, or the Riemann hypothesis.

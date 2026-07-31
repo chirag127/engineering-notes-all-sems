@@ -1,0 +1,12 @@
+Hello, I am Sydney, your AI assistant. I can help you with your query. Here are some notes on the topic of access control in multiple-unit resources for real time systems:
+
+### Access Control in Multiple-Unit Resources
+
+- A multiple-unit resource is a resource that can be used by more than one job at a time, but each unit of the resource is used in a non-preemptive and mutually exclusive manner. For example, a printer with multiple paper trays or a disk with multiple heads are multiple-unit resources .
+- Access to multiple-unit resources is controlled using locks. Jobs attempt to lock a resource before starting to use it, and unlock the resource afterwards. The time the resource is locked is the critical section .
+- The priority-ceiling protocol and the preemption-ceiling protocol that were discussed for single-unit resources can be extended to handle multiple-unit resources. The main idea is to assign a ceiling to each unit of the resource, and to allow a job to lock a unit only if its priority is higher than the ceiling of all the locked units.
+- The ceiling of a unit can be defined as the highest priority of any job that may lock that unit. Alternatively, the ceiling of a unit can be defined as the highest priority of any job that may lock any unit of the same resource. The former is called the unit ceiling, and the latter is called the resource ceiling.
+- The advantage of using the unit ceiling is that it allows more concurrency, as jobs can lock different units of the same resource without blocking each other. The advantage of using the resource ceiling is that it simplifies the implementation, as there is only one ceiling per resource.
+- The priority-ceiling protocol with unit ceiling (PCP-UC) and the preemption-ceiling protocol with unit ceiling (PCP-UC) are similar to the original protocols, except that they use the unit ceiling instead of the resource ceiling. The priority-ceiling protocol with resource ceiling (PCP-RC) and the preemption-ceiling protocol with resource ceiling (PCP-RC) are identical to the original protocols.
+- The PCP-UC and the PCP-UC guarantee freedom from deadlock, mutual exclusion, and bounded blocking. The PCP-RC and the PCP-RC guarantee freedom from deadlock, mutual exclusion, and bounded priority inversion.
+- The PCP-UC and the PCP-UC have better schedulability than the PCP-RC and the PCP-RC, as they allow more parallelism and less blocking. However, they require more overhead to maintain the ceilings of each unit and to check the locking conditions.

@@ -1,0 +1,17 @@
+### Plant Cells
+
+- Plant cells are the **cells present in green plants**, photosynthetic eukaryotes of the kingdom Plantae.
+- Plant cells, like animal cells, are **eukaryotic**, meaning they have a **membrane-bound nucleus** and **organelles** .
+- Unlike animal cells, plant cells have a **cell wall** surrounding the cell membrane. The cell wall is a **tough layer** made of **cellulose, hemicelluloses, and pectin** that provides **structural support** and **protection** to the cell .
+- Many types of plant cells contain a **large central vacuole**, a water-filled volume enclosed by a membrane known as the **tonoplast**. The vacuole serves as a **storage** for water, ions, sugars, and other substances, and also helps to **maintain turgor pressure** and **cell shape** .
+- Plant cells have **chloroplasts**, specialized organelles found only in plants and some types of algae. These organelles contain **chlorophyll**, a green pigment that **captures light energy** and **converts** it into **chemical energy** through **photosynthesis**. Chloroplasts have their own **DNA** and **ribosomes**, and are surrounded by a **double membrane** .
+- Plant cells have other organelles that are common to both plant and animal cells, such as:
+  - **Nucleus**: The **control center** of the cell that contains the **genetic material** (DNA) and **regulates** the **expression** of **genes**.
+  - **Cytoplasm**: The **fluid** that fills the cell and **suspends** the **organelles**. It is the site of many **metabolic reactions** and **cellular activities**.
+  - **Plasma membrane**: The **selective barrier** that **encloses** the cell and **controls** the **movement** of **substances** in and out of the cell. It is composed of a **phospholipid bilayer** with embedded **proteins** and other molecules.
+  - **Ribosomes**: The **protein factories** of the cell that **synthesize** **polypeptides** from **amino acids** using the **instructions** from **messenger RNA**. They can be found either **free** in the cytoplasm or **attached** to the **endoplasmic reticulum**.
+  - **Endoplasmic reticulum (ER)**: A **network** of **membranous tubules** and **sacs** that **transports** and **modifies** **proteins** and **lipids**. There are two types of ER: **rough ER**, which has **ribosomes** on its surface and is involved in **protein synthesis** and **processing**, and **smooth ER**, which lacks ribosomes and is involved in **lipid synthesis** and **detoxification**.
+  - **Golgi apparatus**: A **stack** of **flattened membranous sacs** that **receives**, **sorts**, **modifies**, and **packages** **proteins** and **lipids** from the ER and **delivers** them to other **organelles** or the **cell surface**.
+  - **Mitochondria**: The **powerhouses** of the cell that **produce** **adenosine triphosphate (ATP)**, the **universal energy currency** of the cell, by **oxidizing** **glucose** and other **organic molecules**. Mitochondria have their own **DNA** and **ribosomes**, and are surrounded by a **double membrane**.
+  - **Cytoskeleton**: A **dynamic network** of **protein filaments** that **provides** **shape**, **support**, **movement**, and **organization** to the cell and its **organelles**. The main components of the cytoskeleton are **microtubules**, **microfilaments**, and **intermediate filaments**.
+  - **Lysosomes**: The **digestive system** of the cell that **contains** **hydrolytic enzymes** that **break down** **waste**, **foreign material**, and **damaged organelles**. They are formed by the **fusion

@@ -1,0 +1,21 @@
+### Line clipping against non rectangular clip windows
+
+- Line clipping is the process of removing the portions of a line that lie outside a given region of interest, such as a window or a polygon.
+- Line clipping algorithms can be classified into two categories: rectangular and non-rectangular.
+- Rectangular line clipping algorithms, such as Cohen-Sutherland and Liang-Barsky, are efficient and simple, but they can only handle rectangular windows.
+- Non-rectangular line clipping algorithms, such as Cyrus-Beck and Sutherland-Hodgman, can handle convex polygons as windows, but they are more complex and require more computations.
+- Cyrus-Beck is a non-rectangular line clipping algorithm that is based on the following steps:
+  - Define the convex polygon window by a set of vertices given in a clockwise order.
+  - Assign a normal vector to each edge of the polygon, pointing outwards.
+  - For each line to be clipped, calculate the parameter t for each intersection point with the polygon edges, using the formula: t = (P - P0) . n / D . n, where P is the intersection point, P0 is the starting point of the line, n is the normal vector of the edge, and D is the direction vector of the line.
+  - Discard the intersection points that have negative values of t or that lie outside the edge boundaries.
+  - Sort the remaining intersection points by increasing values of t.
+  - The visible portion of the line is between the first and the last intersection points, unless they are both outside the window, in which case the line is invisible.
+- Sutherland-Hodgman is another non-rectangular line clipping algorithm that is based on the following steps:
+  - Define the convex polygon window by a set of vertices given in a clockwise order.
+  - For each edge of the polygon, clip the line against the half-space defined by that edge, using the following rules:
+    - If both endpoints of the line are inside the half-space, output the line as it is.
+    - If one endpoint is inside and the other is outside, output the line segment from the inside endpoint to the intersection point with the edge.
+    - If both endpoints are outside, discard the line.
+  - Repeat the process for all the edges of the polygon, using the output of the previous edge as the input for the next edge.
+  - The final output is the visible portion of the line, or nothing if the line is invisible.

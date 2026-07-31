@@ -1,0 +1,13 @@
+# Unit 3 - Dimensionality Reduction
+
+- Dimensionality reduction is the process of transforming data from a high-dimensional space into a low-dimensional space so that the low-dimensional representation retains some meaningful properties of the original data.
+- Dimensionality reduction can be done for various reasons, such as to reduce the complexity of a model, to improve the performance of a learning algorithm, or to make it easier to visualize the data.
+- Dimensionality reduction can be divided into two categories: feature selection and feature extraction.
+  - Feature selection is the process of selecting a subset of the original features that are relevant and non-redundant. Feature selection can be done using various criteria, such as correlation, mutual information, or statistical tests.
+  - Feature extraction is the process of creating new features from the original features that capture the essential information of the data. Feature extraction can be done using various techniques, such as principal component analysis, singular value decomposition, or linear discriminant analysis.
+- Some of the common techniques for dimensionality reduction are :
+  - Principal component analysis (PCA): PCA is a technique that finds the directions of maximum variance in the data and projects the data onto a lower-dimensional space spanned by these directions. PCA can be used to reduce noise, redundancy, and correlation in the data.
+  - Singular value decomposition (SVD): SVD is a technique that decomposes a matrix into three matrices: a left singular matrix, a diagonal matrix of singular values, and a right singular matrix. SVD can be used to reduce the rank of a matrix, to find the best approximation of a matrix, or to solve linear systems.
+  - Linear discriminant analysis (LDA): LDA is a technique that finds the directions that maximize the separation between different classes in the data and projects the data onto a lower-dimensional space spanned by these directions. LDA can be used to perform supervised dimensionality reduction for classification problems.
+  - Non-negative matrix factorization (NMF): NMF is a technique that decomposes a non-negative matrix into two non-negative matrices: a basis matrix and a coefficient matrix. NMF can be used to find the latent factors or topics in the data, to perform clustering, or to perform image analysis.
+  - t-distributed stochastic neighbor embedding (t-SNE): t-SNE is a technique that maps the data from a high-dimensional space to a low-dimensional space in a way that preserves the local structure and distances between the data points. t-SNE can be used to perform unsupervised dimensionality reduction for visualization or exploration purposes.

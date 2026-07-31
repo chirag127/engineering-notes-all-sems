@@ -1,0 +1,8 @@
+# Normal Forms for Grammar
+
+Normal forms for grammar are ways of transforming a grammar into a simpler or more restricted form without changing the language it generates. Normal forms are useful for natural language processing (NLP) because they make parsing and analyzing natural language sentences easier using efficient algorithms. Some common normal forms for grammar are:
+
+- **Chomsky Normal Form (CNF)**: A grammar is in CNF if every production rule has the form A -> BC or A -> a, where A, B, and C are non-terminal symbols and a is a terminal symbol. CNF is widely used in NLP for parsing and analyzing natural language sentences using the CYK algorithm.
+- **Greibach Normal Form (GNF)**: A grammar is in GNF if every production rule has the form A -> aB1B2...Bn, where A and Bi are non-terminal symbols and a is a terminal symbol. GNF is useful for NLP because it allows for a simple top-down parsing algorithm that can parse a sentence in linear time.
+- **Backus-Naur Form (BNF)**: A grammar is in BNF if every production rule has the form A -> X1X2...Xn, where A is a non-terminal symbol and Xi are either terminal or non-terminal symbols. BNF is a notation for describing the syntax of programming languages, data formats, and communication protocols. BNF is also used in NLP for defining the syntax of natural languages.
+- **Extended Backus-Naur Form (EBNF)**: A grammar is in EBNF if it is a BNF grammar with some additional features, such as optional symbols, repetition symbols, grouping symbols, and alternative symbols. EBNF is a more expressive and concise notation for describing the syntax of languages. EBNF is also used in NLP for defining the syntax of natural languages.

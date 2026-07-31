@@ -1,0 +1,7 @@
+### Transducers for lexicon
+
+- A transducer is a device or a model that converts one form of data into another. In natural language processing (NLP), a transducer can be used to map between different levels of linguistic representation, such as surface forms and lexical forms, or words and syntactic structures.
+- A lexical transducer is a specialized finite-state transducer that maps inflected surface forms to lexical forms, and vice versa . For example, a lexical transducer can map the word "dogs" to its lexical form "dog+N+PL", indicating that it is a noun with plural number, or generate the word "dogs" from its lexical form.
+- Lexical transducers can be used for various NLP tasks, such as morphological analysis, generation, normalization, and correction. They can also be composed with other transducers, such as context dependency transducers or language models, to form more complex NLP pipelines .
+- Lexical transducers can be constructed using finite-state methods, such as regular expressions, rewrite rules, or weighted finite-state machines. They can also be learned from data, such as lexicons, corpora, or annotated texts, using machine learning techniques, such as neural networks, transductive learning, or expectation-maximization algorithms .
+- Lexical transducers can be evaluated and compared based on various criteria, such as accuracy, coverage, efficiency, size, and compression. Different methods of constructing or learning lexical transducers may have different trade-offs between these criteria .

@@ -1,0 +1,11 @@
+# Soft and Hard Real-Time Communication Systems
+
+- Real-time communication systems are systems that exchange information between two or more entities with strict timing constraints.
+- Real-time communication systems are generally understood as one of two types: Hard Real-Time (HRT) and Soft Real-Time (SRT).
+- The difference between a hard and soft real-time communication system is the consequences of incorrect operation .
+- A hard real-time communication system is one that must meet its deadlines, otherwise it may cause catastrophic failure or unacceptable losses  . For example, a communication system for a nuclear power plant or an aircraft control system is a hard real-time communication system.
+- A soft real-time communication system is one that can tolerate some deadline misses, without causing severe damage or degradation of performance  . For example, a communication system for a video conference or a multimedia streaming service is a soft real-time communication system.
+- Hard real-time communication systems are deterministic in nature, while soft real-time communication systems are probabilistic. This means that hard real-time communication systems can guarantee the worst-case execution time and response time, while soft real-time communication systems can only provide statistical guarantees or average values.
+- Hard real-time communication systems require more stringent design and verification methods, such as formal methods, model checking, or schedulability analysis . Soft real-time communication systems can use more flexible and adaptive techniques, such as feedback control, quality of service, or resource reservation .
+- Hard real-time communication systems are often implemented using specialized hardware and software platforms, such as real-time operating systems, real-time networks, or real-time middleware . Soft real-time communication systems can use more general-purpose or standard platforms, such as Linux, TCP/IP, or HTTP .
+- Hard real-time communication systems are more expensive and complex to develop and maintain, but they offer higher reliability and safety  . Soft real-time communication systems are more affordable and scalable, but they may suffer from occasional delays or quality degradation  .

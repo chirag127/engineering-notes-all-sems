@@ -1,0 +1,22 @@
+### Electronic discussion networks
+
+- Electronic discussion networks are online platforms that enable communication and information exchange among people who share a common interest or topic.
+- Electronic discussion networks can take various forms, such as email lists, bulletin boards, forums, blogs, social media, etc .
+- Electronic discussion networks can have various benefits, such as:
+  - Providing access to diverse perspectives and expertise from different locations and backgrounds .
+  - Enhancing critical thinking and argumentation skills by allowing more time and space for reflection and feedback.
+  - Supporting collaborative learning and knowledge creation by facilitating peer interaction and feedback .
+  - Promoting social presence and engagement by creating a sense of community and belonging .
+- Electronic discussion networks can also have some challenges, such as:
+  - Requiring technical skills and access to reliable internet and devices.
+  - Demanding time and effort to participate and moderate effectively .
+  - Exposing participants to potential risks of privacy, security, and ethical issues .
+- Electronic discussion networks can be analyzed using social network analysis (SNA), which is a method of studying the structure and dynamics of social relationships among actors in a network.
+- SNA can help understand various aspects of electronic discussion networks, such as:
+  - The size, density, and centrality of the network, which indicate the number, intensity, and importance of connections among actors.
+  - The patterns, clusters, and roles of the network, which reveal the subgroups, communities, and positions of actors in the network.
+  - The evolution, influence, and diffusion of the network, which show how the network changes over time, how actors affect each other, and how information flows in the network.
+- SNA can also help evaluate the effectiveness and impact of electronic discussion networks, such as:
+  - The quality, quantity, and diversity of the communication and information exchange among actors.
+  - The learning outcomes, satisfaction, and retention of the participants.
+  - The innovation, collaboration, and performance of the network.

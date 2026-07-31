@@ -1,0 +1,23 @@
+### POSIX Issues
+
+- POSIX stands for Portable Operating System Interface, which is a set of standards that define how an application should interact with an operating system.
+- POSIX aims to achieve portability, interoperability, and compatibility among different operating systems, especially for applications that require long-term maintenance and support.
+- POSIX covers various aspects of operating system services, such as file operations, process management, signals, devices, threads, and real-time extensions.
+- POSIX real-time extensions are defined in the POSIX.1b and POSIX.1j standards, which specify the requirements and interfaces for real-time operating systems .
+- POSIX real-time extensions include features such as:
+  - Priority-based preemptive scheduling
+  - Real-time signals and timers
+  - Semaphores and message queues
+  - Memory locking and shared memory
+  - Asynchronous and synchronous I/O
+  - Clocks and timers
+  - Sporadic server scheduling
+  - Trace and performance analysis
+- POSIX real-time extensions aim to provide a common and consistent way for real-time applications to access the operating system services that are needed for deterministic and predictable behavior.
+- POSIX real-time extensions also aim to enhance the performance, reliability, and scalability of real-time systems by reducing the overhead and latency of system calls and context switches.
+- However, POSIX real-time extensions also face some challenges and limitations, such as:
+  - The lack of a widely accepted conformance testing suite and certification process for POSIX-compliant operating systems.
+  - The difficulty of achieving real-time performance guarantees on general-purpose operating systems that are not designed for real-time applications.
+  - The trade-off between portability and performance, as some operating system features may not be supported or optimized by all POSIX-compliant platforms.
+  - The complexity and diversity of real-time applications and requirements, which may not be fully addressed by the POSIX standards.
+  - The evolution and innovation of operating system technologies and architectures, which may introduce new challenges and opportunities for real-time systems.

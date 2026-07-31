@@ -1,0 +1,22 @@
+### Raspberry Pi for the notes of the Unit 1 - INTRODUCTION in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Raspberry Pi is a low-cost, low-power, credit-card-sized single-board computer that can connect to a variety of devices and sensors .
+- Raspberry Pi was developed by the Raspberry Pi Foundation, a UK-based charity, to promote computing education and digital skills for people of all ages .
+- Raspberry Pi can plug into a computer monitor or TV, and use a standard keyboard and mouse. It can run various operating systems, such as Linux, Windows, and Android .
+- Raspberry Pi has different models and versions, each with different specifications and features. Some of the common specifications are:
+  - CPU speed: ranging from 700 MHz to 1.5 GHz
+  - RAM: ranging from 256 MB to 8 GB
+  - Weight: ranging from 9 grams to 50 grams
+  - GPIO pins: ranging from 26 to 40 pins
+  - USB ports: ranging from 1 to 4 ports
+  - Ethernet port: available in some models
+  - Wi-Fi and Bluetooth: available in some models
+  - HDMI port: available in all models
+  - Micro SD card slot: available in all models
+- Raspberry Pi can be used for various applications, such as :
+  - Learning how to program in languages like Scratch and Python
+  - Creating projects with electronics, robotics, and IoT
+  - Making games, music, and art
+  - Building web servers, media centers, and smart home devices
+  - Exploring artificial intelligence, machine learning, and data science
+- Raspberry Pi is a versatile and powerful computer that can enable people to create, innovate, and solve problems with technology. It is also a fun and engaging way to learn about computing and digital making.

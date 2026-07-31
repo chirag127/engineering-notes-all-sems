@@ -1,0 +1,4 @@
+
+### IOT Water Pollution Monitor RC Boat 
+
+This unit focuses on how the Internet of Things (IoT) can be used to solve societal problems. One example of this is the IOT Water Pollution Monitor RC Boat. This boat is designed to autonomously monitor water pollution levels in rivers, lakes, and other bodies of water. It is equipped with sensors that can detect pollutants, such as heavy metals, organic compounds, and other contaminants. The boat is also equipped with a camera and can be remotely operated to collect data and images. The data collected is then sent to a cloud platform where it can be analyzed and used to determine the water quality of the area. This information can then be used to inform environmental protection and conservation efforts.

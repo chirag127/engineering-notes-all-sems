@@ -1,0 +1,22 @@
+### Presentation information simply and meaningfully for the notes of the Unit 3 - Screen Designing in the subject of Human Computer Interface
+
+- Screen design is the process of creating graphical user interfaces (GUIs) that are easy to use, effective, and appealing for human-computer interaction (HCI) .
+- Screen design involves the following aspects :
+  - Layout: the arrangement of interface elements on the screen, such as windows, menus, icons, buttons, etc.
+  - Typography: the choice and use of fonts, sizes, colors, and styles for text and labels.
+  - Color: the selection and application of colors for backgrounds, foregrounds, highlights, and contrasts.
+  - Graphics: the creation and use of images, icons, logos, and other visual elements to convey information and aesthetics.
+  - Animation: the use of motion and transitions to enhance interactivity and feedback.
+  - Sound: the use of audio cues, effects, and music to complement the visual design and provide feedback.
+- Screen design should follow some general principles to ensure that the information is presented simply and meaningfully for the users :
+  - Visibility: the interface elements should be clearly visible and recognizable, and the most important or frequent ones should be easily accessible.
+  - Affordance: the interface elements should suggest their functionality and how they can be interacted with, such as by using familiar shapes, symbols, or labels.
+  - Feedback: the interface should provide immediate and appropriate feedback to the user's actions, such as by changing the appearance, sound, or position of the elements.
+  - Consistency: the interface should use consistent and predictable design elements, such as colors, fonts, icons, and terminology, across the screens and applications.
+  - Simplicity: the interface should avoid unnecessary complexity and clutter, and present only the essential and relevant information and options to the user.
+  - Structure: the interface should organize the information and options in a logical and hierarchical manner, such as by using headings, subheadings, groups, and categories.
+  - Alignment: the interface should align the elements on the screen in a balanced and symmetrical way, such as by using grids, margins, and spacing.
+  - Contrast: the interface should use contrast to emphasize the differences and relationships between the elements, such as by using colors, sizes, shapes, and positions.
+  - Repetition: the interface should repeat some design elements to create a sense of unity and harmony, such as by using similar colors, fonts, icons, and styles.
+  - Proximity: the interface should place the related elements close to each other, and the unrelated elements far from each other, to create a sense of grouping and separation.
+  - Balance: the interface should distribute the elements on the screen in a balanced and proportional way, such as by using the rule of thirds, the golden ratio, or the Fibonacci sequence.

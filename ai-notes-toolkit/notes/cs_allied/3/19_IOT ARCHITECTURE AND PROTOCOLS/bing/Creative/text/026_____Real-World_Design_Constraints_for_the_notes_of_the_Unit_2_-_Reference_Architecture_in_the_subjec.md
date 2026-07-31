@@ -1,0 +1,11 @@
+### Real-World Design Constraints for IoT Systems
+
+- Real-world design constraints are the limitations and challenges that affect the design, development, deployment and operation of IoT systems in practical scenarios.
+- Some of the common real-world design constraints for IoT systems are:
+
+  - **Power consumption**: IoT devices often need to operate on batteries or harvested energy sources, which require them to conserve power as much as possible. This affects the choice of hardware components, communication protocols, data processing and transmission strategies, and update mechanisms for IoT devices .
+  - **Hardware capabilities**: IoT devices typically have limited memory, CPU and flash memory, which restrict the amount of data they can store, process and update. This affects the complexity and functionality of the software running on IoT devices, as well as the security and reliability of the system .
+  - **Network connectivity**: IoT devices often have slow, intermittent or unreliable network connections, which affect the quality and availability of data and services. This affects the design of network protocols, data synchronization and replication mechanisms, and fault tolerance and recovery strategies for IoT systems .
+  - **Time synchronization**: IoT devices may not have accurate or consistent time sources, which affect the coordination and consistency of data and actions among distributed devices. This affects the design of time synchronization protocols, data timestamping and ordering mechanisms, and event detection and processing strategies for IoT systems.
+  - **Update cost**: IoT devices may need to be updated frequently to fix bugs, improve performance, or add new features, but failed updates can be expensive or even catastrophic for the system. This affects the design of update protocols, verification and validation mechanisms, and rollback and recovery strategies for IoT systems.
+  - **System complexity**: IoT systems involve a large number of heterogeneous devices, networks, data sources, and applications, which increase the complexity and diversity of the system. This affects the design of system architecture, interoperability standards, data integration and analysis techniques, and system management and optimization methods for IoT systems .

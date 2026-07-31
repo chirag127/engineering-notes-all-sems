@@ -1,0 +1,21 @@
+### Gradient descent and the Delta rule
+
+- Gradient descent is a way to find a minimum in a high-dimensional space. You go in direction of the steepest descent  .
+- The Delta rule is an update rule for single layer perceptrons. It makes use of gradient descent to adjust the weights of the network to minimize the error between the desired and actual output    .
+- The Delta rule can be derived as follows :
+  - Let E be the error function that measures the difference between the desired output d and the actual output y of the network for a given input x.
+  - E = 1/2 (d - y)^2
+  - The goal is to minimize E by changing the weights w of the network.
+  - Using the chain rule, we can compute the partial derivative of E with respect to each weight w_i as follows:
+  - dE/dw_i = dE/dy * dy/dw_i
+  - dE/dy = -(d - y)
+  - dy/dw_i = x_i * y * (1 - y) (assuming a sigmoid activation function)
+  - Therefore, dE/dw_i = -(d - y) * x_i * y * (1 - y)
+  - This is the gradient of E with respect to w_i, which tells us the direction of the steepest ascent of E.
+  - To move in the opposite direction, i.e., the direction of the steepest descent of E, we need to subtract a small fraction of the gradient from the current weight.
+  - This fraction is called the learning rate and is denoted by alpha.
+  - The update rule for w_i is then:
+  - w_i = w_i - alpha * dE/dw_i
+  - w_i = w_i + alpha * (d - y) * x_i * y * (1 - y)
+  - This is the Delta rule, where the term (d - y) * x_i is called the delta and is proportional to the error and the input.
+- The Delta rule can be generalized to multilayer networks using the backpropagation algorithm, which propagates the error from the output layer to the hidden layers and updates the weights accordingly  .

@@ -1,0 +1,22 @@
+# Transducers for Lexicon
+
+- A **transducer** is a device or a model that converts one form of data into another, such as speech to text, text to speech, or text to text.
+- A **lexical transducer** is a specialized finite-state automaton that maps inflected surface forms to lexical forms, and vice versa .
+- A **lexical form** is a representation of a word that contains its lemma (base form) and its morphosyntactic features, such as part of speech, number, gender, tense, etc.
+- A **surface form** is a representation of a word that appears in a text, which may be different from its lexical form due to inflection, derivation, or other morphological processes.
+- For example, the surface form "dogs" has the lexical form "dog+N+PL", where N stands for noun and PL stands for plural.
+- A lexical transducer can be used for various natural language processing tasks, such as:
+  - **Morphological analysis**: given a surface form, output its lexical form or a set of possible lexical forms.
+  - **Morphological generation**: given a lexical form, output its surface form or a set of possible surface forms.
+  - **Morphological normalization**: given a surface form, output a normalized form that is consistent with a standard or a reference corpus.
+  - **Morphological segmentation**: given a surface form, output its constituent morphemes (smallest meaningful units) and their boundaries.
+  - **Morphological synthesis**: given a set of morphemes, output a surface form that combines them according to the rules of the language.
+- A lexical transducer can be constructed using various methods, such as:
+  - **Rule-based**: define a set of rules that specify how to transform a surface form into a lexical form or vice versa, and apply them sequentially or in parallel.
+  - **Data-driven**: learn a statistical model from a corpus of surface forms and lexical forms, and use it to predict the most likely output for a given input.
+  - **Hybrid**: combine rule-based and data-driven methods, such as using rules to generate candidates and a statistical model to rank them, or using a statistical model to generate candidates and rules to filter them.
+- A lexical transducer can be evaluated using various metrics, such as:
+  - **Accuracy**: the percentage of inputs that are correctly mapped to outputs by the transducer.
+  - **Coverage**: the percentage of inputs that are mapped to at least one output by the transducer.
+  - **Efficiency**: the time and space complexity of the transducer, measured by the number of states, transitions, and operations it requires.
+  - **Compression**: the ratio of the size of the transducer to the size of the lexicon it represents, measured by the number of bytes or bits.

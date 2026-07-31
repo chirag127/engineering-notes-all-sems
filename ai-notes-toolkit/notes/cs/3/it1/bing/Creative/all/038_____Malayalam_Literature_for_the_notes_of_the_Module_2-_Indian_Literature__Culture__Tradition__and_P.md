@@ -1,0 +1,25 @@
+# Malayalam Literature
+
+- Malayalam literature is the body of writing in the Malayalam language, a South-Dravidian language spoken in the Indian state of Kerala .
+- The earliest extant literary work in Malayalam is **Ramacharitam** (late 12th or early 13th century), an epic poem based on the Sanskrit Ramayana .
+- The subsequent period saw the emergence of two distinct styles of literature: **pattu** (song) and **manipravalam** (ruby-coral).
+  - Pattu literature was composed in pure Malayalam, using native meters and vocabulary. It was mainly influenced by folk songs and ballads, and often had a popular and secular appeal .
+  - Manipravalam literature was composed in a mixture of Malayalam and Sanskrit, using sophisticated meters and vocabulary. It was mainly influenced by classical Sanskrit literature, and often had a courtly and erotic appeal .
+- Some of the notable works and authors of pattu literature are:
+  - **Thirunizhalmala** (14th century), a collection of devotional poems in praise of Vishnu.
+  - **Krishnagatha** (15th century), a poem narrating the childhood exploits of Krishna, by **Cherussery Namboothiri**.
+  - **Ramakathapattu** (16th century), a folk version of the Ramayana, by **Kadungathur Narayanan Nambudiri**.
+  - **Thunchaththu Ezhuthachan** (16th century), considered the father of Malayalam literature, who composed **Adhyathmaramayanam** and **Mahabharatham** in Malayalam, based on the Sanskrit epics.
+- Some of the notable works and authors of manipravalam literature are:
+  - **Lilathilakam** (14th century), a treatise on grammar and rhetoric, by an anonymous author.
+  - **Unnunilisandesam** (14th century), a love poem in the form of a messenger's report, by an anonymous author.
+  - **Nalacharitham** (15th century), a poem based on the Sanskrit Mahabharata, by **Punam Namboothiri**.
+  - **Kannassaramayanam** (15th century), a poem based on the Sanskrit Ramayana, by **Kannassa Nambudiri**.
+- The modern period of Malayalam literature began in the 19th century, with the influence of Western education, journalism, and social reform movements.
+  - The first novel in Malayalam was **Kundalatha** (1887), by **Appu Nedungadi**.
+  - The first short story in Malayalam was **Vasanavikriti** (1891), by **Kerala Varma Valiya Koil Thampuran**.
+  - The first drama in Malayalam was **Adukkalayil Ninnu Arangathekku** (1909), by **V. T. Bhattathiripad**.
+- Some of the prominent writers and works of modern Malayalam literature are:
+  - **Kumaran Asan** (1873-1924), a poet and social reformer, who wrote **Veena Poovu** (The Fallen Flower), **Nalini** (The Lotus), **Leela** (The Play), **Chinthavishtayaya Sita** (Sita Lost in Thought), and **Duravastha** (The Wretched State).
+  - **Vallathol Narayana Menon** (1878-1958), a poet and nationalist, who wrote **Mahakavi Kalidasan** (The Great Poet Kalidasa), **Chitrayogam** (The Art of Painting), **Magdalana Mariyam** (Magdalene Mary), and **Bandhanasthanaya Aniruddhan** (Aniruddha Imprisoned).
+  - **Ulloor S. Parameswara Iyer** (1877-1949), a

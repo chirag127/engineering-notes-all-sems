@@ -1,0 +1,15 @@
+### Intro to Neural Nets
+
+Neural networks are a type of machine learning model that are inspired by the structure and function of biological neurons. They consist of artificial neurons or nodes that can receive and process input data, and produce output data. Neural networks can learn from data and improve their performance by adjusting their parameters, such as weights and biases.
+
+Some key concepts and terms related to neural networks are:
+
+- **Input layer**: The first layer of a neural network that receives the input data, such as images, text, or numbers. Each input node represents a feature or variable of the data.
+- **Hidden layer**: One or more layers of a neural network that are between the input and output layers. They perform intermediate computations and transformations on the input data. Each hidden node represents a combination or abstraction of the input features.
+- **Output layer**: The last layer of a neural network that produces the output data, such as predictions, classifications, or scores. Each output node represents a target or outcome of the data.
+- **Activation function**: A function that determines the output of a node based on its input. It introduces non-linearity to the neural network, allowing it to learn complex patterns and relationships. Some common activation functions are sigmoid, tanh, ReLU, and softmax.
+- **Weight**: A parameter that represents the strength or importance of the connection between two nodes. It determines how much the input of one node affects the output of another node. Weights are initialized randomly and updated during the learning process.
+- **Bias**: A parameter that represents the offset or preference of a node. It determines how much the node is activated regardless of its input. Biases are also initialized randomly and updated during the learning process.
+- **Cost function**: A function that measures how well the neural network predicts the output data on the test set. It quantifies the difference or error between the actual and predicted outputs. The goal is to minimize the cost function by finding the optimal values of the weights and biases.
+- **Backpropagation**: A technique that updates the weights and biases of the neural network by propagating the error from the output layer to the input layer. It uses the chain rule of calculus to compute the gradients of the cost function with respect to each parameter, and then adjusts them in the opposite direction of the gradient.
+- **Learning rate**: A hyperparameter that controls how much the weights and biases are updated in each iteration of the learning process. It determines the speed and accuracy of the convergence to the optimal values. A too high learning rate may cause overshooting or divergence, while a too low learning rate may cause underfitting or slow convergence.

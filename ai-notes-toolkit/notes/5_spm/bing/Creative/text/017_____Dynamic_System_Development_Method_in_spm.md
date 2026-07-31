@@ -1,0 +1,40 @@
+### Dynamic System Development Method in spm
+
+- Dynamic System Development Method (DSDM) is an agile project delivery framework that was initially used as a software development method.
+- DSDM aims to deliver projects that satisfy the needs of stakeholders by following a set of principles, roles, processes, and products .
+- DSDM is based on the following eight principles :
+  - Focus on the business need: The project should deliver what the business requires, not what the technical team prefers.
+  - Deliver on time: The project should adhere to the agreed schedule and budget, and prioritize the most important features.
+  - Collaborate: The project team should work closely with the business users and other stakeholders, and empower them to make decisions.
+  - Never compromise quality: The project should ensure that the delivered products meet the agreed quality standards and acceptance criteria.
+  - Build incrementally from firm foundations: The project should start with a clear and stable vision and scope, and then develop the products in small increments that can be tested and reviewed.
+  - Develop iteratively: The project should use feedback loops to refine and improve the products based on user input and changing requirements.
+  - Communicate continuously and clearly: The project should use effective communication methods and tools to share information and knowledge among the project team and stakeholders.
+  - Demonstrate control: The project should use appropriate management techniques and tools to monitor and control the project progress and risks.
+- DSDM defines the following roles and responsibilities for the project team :
+  - Business Sponsor: The person who owns the business case and funds the project.
+  - Business Visionary: The person who defines the business vision and scope of the project.
+  - Project Manager: The person who plans and coordinates the project activities and resources.
+  - Technical Coordinator: The person who oversees the technical aspects and quality of the project.
+  - Business Analyst: The person who analyzes the business requirements and facilitates the communication between the business and technical teams.
+  - Solution Developer: The person who designs and builds the technical solution for the project.
+  - Solution Tester: The person who tests and verifies the technical solution for the project.
+  - Business Ambassador: The person who represents the end users and provides feedback and validation for the project.
+  - Business Advisor: The person who provides expert advice and guidance on specific business areas or domains for the project.
+  - Workshop Facilitator: The person who facilitates the workshops and meetings for the project.
+  - DSDM Coach: The person who mentors and supports the project team in applying the DSDM principles and practices.
+- DSDM follows a five-stage process model that consists of the following phases :
+  - Feasibility: The phase where the project team evaluates the feasibility and viability of the project, and produces a feasibility report and an outline plan.
+  - Foundations: The phase where the project team defines the business vision and scope, the solution architecture and design, the prioritized requirements, and the delivery plan.
+  - Evolutionary Development: The phase where the project team develops the solution in timeboxed iterations, each delivering a tested and usable increment of the solution.
+  - Deployment: The phase where the project team deploys the solution to the live environment, and conducts the final testing and user acceptance.
+  - Post-Project: The phase where the project team reviews the project outcomes and benefits, and identifies the lessons learned and best practices.
+- DSDM uses the following products or deliverables throughout the project lifecycle :
+  - Terms of Reference: A document that describes the purpose, scope, objectives, and constraints of the project.
+  - Prioritized Requirements List: A list that captures and prioritizes the functional and non-functional requirements of the project.
+  - Solution Architecture Definition: A document that defines the high-level structure and design of the solution, and the technical standards and guidelines to be followed.
+  - Development Approach Definition: A document that defines the development strategy and methods to be used for the project, and the roles and responsibilities of the development team.
+  - Delivery Plan: A document that defines the schedule, budget, resources, and milestones of the project.
+  - Timebox Plan: A document that defines the scope, objectives, tasks, and deliverables of each iteration within the evolutionary development phase.
+  - Timebox Review Record: A document that records the results and feedback of each iteration, and the changes and actions to be taken for the next iteration.
+  - Solution Prototype:

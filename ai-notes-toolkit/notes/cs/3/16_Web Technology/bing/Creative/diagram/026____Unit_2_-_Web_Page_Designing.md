@@ -1,0 +1,10 @@
+## Unit 2 - Web Page Designing
+
+Web page designing is the process of creating and arranging the content of a web page, such as text, images, links, videos, etc. Web page designing involves both the aesthetic and functional aspects of a web page, such as layout, color scheme, navigation, interactivity, etc. Web page designing can be done using various tools and languages, such as HTML, CSS, JavaScript, etc.
+
+Some of the topics covered in this unit are:
+
+- **Web page structure**: This topic explains the basic structure of a web page, such as the head, body, and footer sections, and the elements and attributes that can be used in each section. It also covers the use of meta tags, title tags, and links in the head section, and the use of headings, paragraphs, lists, tables, images, forms, etc. in the body section.
+- **Web page layout**: This topic covers the different ways of arranging the content of a web page, such as using tables, divs, spans, etc. It also covers the use of CSS to style and position the elements of a web page, such as using selectors, properties, values, units, etc. It also covers the use of CSS layouts, such as fixed, fluid, responsive, etc.
+- **Web page interactivity**: This topic covers the use of JavaScript to add dynamic and interactive features to a web page, such as using variables, operators, data types, functions, events, etc. It also covers the use of jQuery, a JavaScript library, to simplify the manipulation of the HTML elements and the use of AJAX, a technique, to exchange data with a server without reloading the page.
+- **Web page accessibility**: This topic covers the principles and guidelines of making a web page accessible to all users, regardless of their abilities, devices, or preferences. It also covers the use of HTML attributes, such as alt, lang, etc., and the use of ARIA, a set of attributes, to enhance the semantic meaning and accessibility of the web page elements. It also covers the use of tools and techniques, such as validators, screen readers, etc., to test and improve the accessibility of a web page.

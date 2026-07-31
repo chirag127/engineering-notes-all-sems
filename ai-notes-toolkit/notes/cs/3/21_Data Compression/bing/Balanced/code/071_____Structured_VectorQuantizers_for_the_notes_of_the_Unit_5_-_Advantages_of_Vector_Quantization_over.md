@@ -1,0 +1,23 @@
+### Structured Vector Quantizers
+
+- Vector quantization is a technique that compresses data by representing a set of input vectors (such as image blocks) by a smaller set of output vectors (called code vectors or codewords) that are stored in a codebook.
+- The codebook is designed to minimize the distortion (such as mean squared error) between the input and output vectors, subject to a constraint on the size of the codebook or the number of bits per vector.
+- The encoding process consists of finding the closest code vector to each input vector and transmitting its index in the codebook. The decoding process consists of retrieving the code vector from the codebook using the index and reconstructing the output vector.
+- Vector quantization has several advantages over scalar quantization, which operates on single variables (such as pixels) instead of vectors. Some of these advantages are :
+  - Vector quantization can exploit the correlation among the variables in a vector, resulting in lower distortion and higher compression ratio.
+  - Vector quantization can avoid the blocking artifacts and contouring effects that are common in scalar quantization, especially at low bit rates.
+  - Vector quantization can adapt to the local statistics of the input data, resulting in better performance for nonstationary sources.
+  - Vector quantization can handle multidimensional data (such as color images or video) more efficiently than scalar quantization, which requires separate quantization of each dimension.
+- However, vector quantization also has some drawbacks, such as the high complexity of the encoding and decoding processes, the large storage requirement for the codebook, and the sensitivity to channel errors .
+- Structured vector quantizers are a class of vector quantizers that aim to overcome some of these drawbacks by imposing some structure on the codebook or the partitioning of the input space  .
+- Structured vector quantizers can be classified into two main types: tree-structured vector quantizers and lattice vector quantizers.
+- Tree-structured vector quantizers (TSVQ) use a hierarchical partitioning of the input space, such that each node in the tree corresponds to a region and a code vector. The root node corresponds to the entire input space and the code vector is the mean of all input vectors. The leaf nodes correspond to the final regions and code vectors that are used for encoding and decoding.
+- TSVQ reduces the complexity of the encoding and decoding processes by using a fast search algorithm that traverses the tree from the root to the leaf node that is closest to the input vector. The index of the code vector is obtained by concatenating the branch labels along the path.
+- TSVQ also reduces the storage requirement for the codebook by using a variable-length code for the index, such that shorter codes are assigned to more probable regions and code vectors. The codebook can be stored implicitly by storing only the branch labels and the code vectors at the leaf nodes.
+- However, TSVQ also has some limitations, such as the suboptimality of the tree structure, the difficulty of designing optimal trees, and the dependence of the performance on the order of the input vectors.
+- Lattice vector quantizers (LVQ) use a regular geometric structure for the codebook, such that the code vectors are generated algorithmically from a lattice (a discrete subset of a vector space that is closed under addition and subtraction). The lattice can be chosen to match the shape of the input space or the distribution of the input vectors.
+- LVQ eliminates the need for storing the codebook explicitly, as the code vectors can be computed on the fly using simple arithmetic operations. The index of the code vector can be obtained by mapping the lattice point to a unique integer using a one-to-one function.
+- LVQ also simplifies the encoding and decoding processes by using fast algorithms that exploit the symmetry and regularity of the lattice. The encoding algorithm can use a nearest-neighbor search or a successive approximation search to find the closest lattice point to the input vector. The decoding algorithm can use the inverse mapping function to retrieve the lattice point from the index and compute the code vector.
+- However, LVQ also has some drawbacks, such as the limited choice of lattices that can achieve good performance, the difficulty of adapting the lattice to the input data, and the sensitivity to channel errors and quantization noise.
+
+: On the structure of

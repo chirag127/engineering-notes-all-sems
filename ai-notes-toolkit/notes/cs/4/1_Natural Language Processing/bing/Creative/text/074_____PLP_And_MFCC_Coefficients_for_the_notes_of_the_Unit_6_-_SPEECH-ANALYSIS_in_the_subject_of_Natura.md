@@ -1,0 +1,10 @@
+### PLP And MFCC Coefficients for Speech Analysis
+
+- Speech analysis is the process of extracting meaningful information from speech signals, such as the speaker's identity, emotion, language, accent, etc.
+- Speech analysis often involves feature extraction, which is the computation of a compact and representative representation of the speech signal, usually in the form of a vector of numerical values.
+- Feature extraction methods aim to capture the salient characteristics of the speech signal, while discarding the irrelevant or redundant information.
+- Some of the most widely used feature extraction methods for speech analysis are Perceptual Linear Prediction (PLP), Mel Frequency Cepstral Coefficients (MFCC), and Linear Predictive Coding (LPC).
+- PLP is a method that mimics the human auditory system, by applying a psychoacoustic model to the speech signal. PLP transforms the speech signal into a perceptual spectrum, which is then converted into cepstral coefficients using an inverse Fourier transform. PLP is designed to be robust to noise and channel distortions .
+- MFCC is a method that also models the human auditory system, by applying a filter bank that approximates the frequency response of the cochlea. MFCC transforms the speech signal into a mel-frequency spectrum, which is then converted into cepstral coefficients using a discrete cosine transform. MFCC is designed to capture the spectral envelope of the speech signal .
+- LPC is a method that models the speech signal as a linear combination of past samples, using an all-pole filter. LPC transforms the speech signal into a set of linear predictive coefficients, which represent the filter parameters. LPC is designed to capture the vocal tract characteristics of the speech signal .
+- PLP, MFCC, and LPC are often used for speech recognition, speaker identification, speech synthesis, and speech enhancement applications. They have different advantages and disadvantages, depending on the task and the conditions of the speech signal. For example, PLP and MFCC are more robust to noise than LPC, but LPC is more efficient and accurate for speech synthesis  .

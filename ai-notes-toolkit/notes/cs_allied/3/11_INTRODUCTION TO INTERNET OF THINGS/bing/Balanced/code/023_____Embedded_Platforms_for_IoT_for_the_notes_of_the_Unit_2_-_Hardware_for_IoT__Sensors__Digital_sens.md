@@ -1,0 +1,14 @@
+# Embedded Platforms for IoT
+
+- Embedded platforms for IoT are hardware and software systems that enable the development and deployment of IoT applications on embedded devices, such as microcontrollers, microprocessors, sensors, and actuators.
+- Embedded platforms for IoT typically provide features such as connectivity, security, real-time performance, low power consumption, and scalability.
+- Embedded platforms for IoT can be classified into two categories: general-purpose and domain-specific.
+  - General-purpose platforms are designed to support a wide range of IoT applications and devices, such as Mbed OS, Amazon FreeRTOS, Azure RTOS, and Linux .
+  - Domain-specific platforms are tailored to specific IoT domains and use cases, such as industrial, automotive, medical, and smart home, such as Cisco Embedded Services, AMD Embedded Solutions, and Intel IoT Platform .
+- Some of the popular embedded platforms for IoT are:
+  - Arduino: an open-source platform that consists of a series of microcontroller boards and a software development environment. Arduino is widely used for prototyping and education purposes, as it supports various sensors, actuators, and communication modules.
+  - Netduino: a platform that is compatible with Arduino, but uses the .NET Micro Framework as the software development environment. Netduino supports C# and Visual Basic programming languages, and offers more memory and processing power than Arduino.
+  - Raspberry Pi: a platform that consists of a series of single-board computers that run Linux or other operating systems. Raspberry Pi can be used for various IoT applications, such as smart home, media center, robotics, and machine learning, as it supports various peripherals, such as cameras, displays, and keyboards.
+  - BeagleBone: a platform that consists of a series of single-board computers that run Linux or other operating systems. BeagleBone is similar to Raspberry Pi, but offers more GPIO pins, analog inputs, and hardware interfaces, such as CAN bus and PRU.
+  - Intel Galileo: a platform that consists of a series of microcontroller boards that are compatible with Arduino, but use the Intel Quark SoC as the processor. Intel Galileo supports Linux and Windows operating systems, and offers more memory and connectivity options than Arduino.
+  - ARM Cortex: a platform that consists of a series of microcontroller and microprocessor cores that are widely used in embedded and IoT devices. ARM Cortex supports various operating systems, such as Linux, Android, and RTOS, and offers various features, such as low power modes, security extensions, and DSP instructions.

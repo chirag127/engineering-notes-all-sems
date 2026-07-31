@@ -1,0 +1,13 @@
+### Capabilities for the notes of the Unit 2 - Open Grid Services Architecture in the subject of High Performance Computing
+
+The Open Grid Services Architecture (OGSA) is a service-oriented architecture for a grid computing environment that uses web services standards and technologies. OGSA defines a set of core capabilities and behaviors that address key concerns in grid systems, such as resource management, data access, security, self-management, and information provision. OGSA aims to be largely agnostic in relation to the transport-level handling of data upon the grid.
+
+The following are the main capabilities of OGSA, as described in the version 1.5 of the specification:
+
+- **Infrastructure services**: These are the basic services that provide the foundation for the OGSA framework, such as service creation, naming, discovery, and lifecycle management. They also include common utilities such as logging, notification, and policy management.
+- **Execution Management services**: These are the services that enable the execution of user tasks on the grid, such as job submission, scheduling, monitoring, and accounting. They also include services for managing workflows, reservations, and agreements.
+- **Data services**: These are the services that enable the access, manipulation, and transfer of data on the grid, such as data sources, replicas, catalogs, and transformations. They also include services for managing metadata, provenance, and quality of service.
+- **Resource Management services**: These are the services that enable the allocation and management of shared resources on the grid, such as processors, memory, storage, and network. They also include services for managing virtualization, reservation, and provisioning.
+- **Security services**: These are the services that enable the secure operation of the grid, such as authentication, authorization, encryption, and auditing. They also include services for managing credentials, policies, and trust relationships.
+- **Self-management services**: These are the services that enable the grid to adapt to changing conditions and requirements, such as fault tolerance, load balancing, and optimization. They also include services for managing policies, goals, and feedback loops.
+- **Information services**: These are the services that enable the provision and discovery of information about the grid, such as resources, services, data, and events. They also include services for managing schemas, registries, and subscriptions.

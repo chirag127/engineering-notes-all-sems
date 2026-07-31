@@ -1,0 +1,29 @@
+# State Machine Diagram for the notes of the Unit 2 - Basic Structural Modeling in the subject of Object Oriented System Design
+
+- A state machine diagram is a type of behavioral diagram in the Unified Modeling Language (UML) that shows the discrete behavior of a part of a system through finite state transitions.
+- A state machine diagram can model the behavior of a class, a subsystem, a package, or a complete system .
+- A state machine diagram consists of the following elements :
+  - States: The possible configurations or conditions of an object during its lifetime. A state is represented by a rounded rectangle with the name of the state inside.
+  - Transitions: The changes of states triggered by events or conditions. A transition is represented by a solid arrow from the source state to the target state, with an optional label indicating the event or condition that causes the transition.
+  - Initial state: The state of an object before any event occurs. An initial state is represented by a solid circle.
+  - Final state: The state of an object when it is terminated or no longer exists. A final state is represented by a solid circle inside another circle.
+  - Choice: A branching point that selects one outgoing transition based on a condition. A choice is represented by a diamond with one incoming transition and multiple outgoing transitions, each with a guard condition.
+  - Junction: A merging point that combines multiple incoming transitions into one outgoing transition. A junction is represented by a diamond with multiple incoming transitions and one outgoing transition, without any guard conditions.
+  - History: A pseudo-state that remembers the previous state of an object and restores it when re-entered. A history is represented by a circle with a letter H inside, and can be shallow or deep depending on whether it remembers the most recent state or the whole state configuration.
+  - Entry point: A pseudo-state that marks the entry point of a composite state or a submachine state. An entry point is represented by a small circle on the border of the state, with an incoming transition from another state.
+  - Exit point: A pseudo-state that marks the exit point of a composite state or a submachine state. An exit point is represented by a small circle on the border of the state, with an outgoing transition to another state.
+  - Composite state: A state that contains other states as its substates. A composite state is represented by a rounded rectangle with a dashed line dividing the name of the state and the substates. A composite state can have an optional entry action and exit action, which are executed when the state is entered or exited.
+  - Submachine state: A state that refers to another state machine diagram as its substates. A submachine state is represented by a rounded rectangle with a small icon in the lower right corner, indicating the name of the referenced state machine diagram.
+- A state machine diagram can be used to express the usage protocol of a part of a system, the dynamic behavior of a system, or the detailed design of a system  .
+- A state machine diagram can also be used for system design and simulation/code generation.
+- A state machine diagram can be drawn using the following steps:
+  - Identify the states of the system or the object and name them clearly.
+  - Identify the initial state and the final state of the system or the object.
+  - Identify the events or conditions that trigger the transitions between the states.
+  - Identify the actions or activities that occur during the transitions or within the states.
+  - Draw the states as rounded rectangles and label them with the state names and actions (if any).
+  - Draw the transitions as arrows and label them with the events or conditions and actions (if any).
+  - Draw the initial state as a solid circle and the final state as a solid circle inside another circle.
+  - Draw the choice, junction, history, entry point, and exit point pseudo-states as needed and label them accordingly.
+  - Draw the composite states and submachine states as needed and label them accordingly.
+  - Check the completeness and consistency of the state machine diagram.

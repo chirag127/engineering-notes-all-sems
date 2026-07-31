@@ -1,0 +1,22 @@
+### Regression modeling
+
+- Regression modeling is a statistical technique that aims to describe the relationship between a dependent variable (also called the response or outcome variable) and one or more independent variables (also called the predictors or explanatory variables).
+- Regression models can be used for various purposes, such as:
+  - Exploring the nature and strength of the relationship between the variables of interest.
+  - Testing hypotheses about the effects of the independent variables on the dependent variable.
+  - Estimating the value of the dependent variable for a given set of values of the independent variables.
+  - Predicting the value of the dependent variable for new or unseen values of the independent variables.
+- There are different types of regression models, depending on the nature and distribution of the variables involved, such as:
+  - Linear regression: Assumes that the dependent variable is continuous and has a linear relationship with the independent variables.
+  - Logistic regression: Assumes that the dependent variable is binary (0 or 1) and has a logistic relationship with the independent variables.
+  - Poisson regression: Assumes that the dependent variable is a count (non-negative integer) and has a Poisson relationship with the independent variables.
+  - Multinomial regression: Assumes that the dependent variable is categorical (with more than two possible values) and has a multinomial relationship with the independent variables.
+  - Cox regression: Assumes that the dependent variable is a survival time (non-negative continuous) and has a proportional hazards relationship with the independent variables.
+- To fit a regression model to a given data set, the following steps are usually involved:
+  - Selecting the appropriate type of regression model based on the research question and the characteristics of the data.
+  - Choosing the independent variables that are relevant and meaningful for the analysis.
+  - Checking the assumptions and conditions of the regression model, such as linearity, normality, homoscedasticity, independence, etc.
+  - Estimating the parameters of the regression model using a suitable method, such as ordinary least squares, maximum likelihood, etc.
+  - Evaluating the goodness of fit and the significance of the regression model using various criteria, such as R-squared, p-values, confidence intervals, etc.
+  - Interpreting the results and drawing conclusions from the regression model.
+  - Validating and testing the regression model using cross-validation, residual analysis, diagnostic plots, etc.

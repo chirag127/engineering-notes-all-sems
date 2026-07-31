@@ -1,0 +1,8 @@
+#### Spark Applications
+
+Spark applications are programs that use the Apache Spark framework to process large-scale data in parallel and distributed manner. Spark applications can be written in various languages, such as Scala, Python, Java, R, or C#. Some of the features and benefits of Spark applications are:
+
+- They consist of a driver process and a set of executor processes that run on a cluster of nodes . The driver process is responsible for maintaining information about the application, responding to user input, and analyzing, distributing, and scheduling work across the executors. The executor processes are responsible for executing the tasks assigned by the driver and storing the data in memory or disk.
+- They use the SparkSession object to create and manage the Spark context, which is the main entry point for accessing the Spark functionality . The SparkSession object can also be used to create and manipulate Spark data structures, such as RDDs, DataFrames, and Datasets.
+- They can run on various cluster managers, such as Apache Hadoop YARN, Apache Mesos, Kubernetes, or standalone mode  . The cluster manager allocates resources across the applications and manages the lifecycle of the Spark processes .
+- They can leverage the rich set of libraries and APIs that Spark provides, such as Spark SQL, Spark Streaming, Spark MLlib, Spark GraphX, and SparkR. These libraries and APIs enable Spark applications to perform various tasks, such as querying structured and semi-structured data, processing real-time data streams, applying machine learning algorithms, analyzing graphs, and integrating with R language.

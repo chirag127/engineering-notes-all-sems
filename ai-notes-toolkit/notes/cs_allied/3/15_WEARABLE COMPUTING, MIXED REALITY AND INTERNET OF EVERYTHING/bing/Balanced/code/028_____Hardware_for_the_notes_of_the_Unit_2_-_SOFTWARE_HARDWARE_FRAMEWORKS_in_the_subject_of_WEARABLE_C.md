@@ -1,0 +1,24 @@
+### Hardware for the notes of the Unit 2 - SOFTWARE HARDWARE FRAMEWORKS in the subject of WEARABLE COMPUTING, MIXED REALITY AND INTERNET OF EVERYTHING
+
+- Hardware refers to the physical components of a computing system that enable the execution of software and the interaction with users and the environment.
+- Hardware for wearable computing, mixed reality and internet of everything (IoE) systems must be designed to meet the specific requirements and challenges of these domains, such as:
+  - Portability: the hardware should be lightweight, compact, ergonomic and wearable, without compromising the performance or functionality of the system.
+  - Power efficiency: the hardware should consume minimal energy and have long battery life, as well as support energy harvesting and wireless charging techniques.
+  - Sensing and actuation: the hardware should provide rich and diverse input and output modalities, such as cameras, microphones, speakers, haptic devices, biometric sensors, environmental sensors, etc.
+  - Connectivity: the hardware should enable seamless and secure communication and data exchange with other devices, networks and cloud services, using various wireless protocols and standards, such as Bluetooth, Wi-Fi, NFC, 5G, etc.
+  - Scalability: the hardware should be able to handle large amounts of data and support distributed and parallel processing, as well as integrate with other hardware components and platforms, such as smartphones, tablets, laptops, smart glasses, etc.
+  - Reliability: the hardware should be robust and resilient to failures, errors, noise, interference, and environmental conditions, such as temperature, humidity, dust, etc.
+  - Security and privacy: the hardware should protect the data and the system from unauthorized access, modification, or leakage, as well as respect the user's preferences and rights regarding their personal information and activities.
+- Some examples of hardware components and devices for wearable computing, mixed reality and IoE systems are:
+  - Microcontrollers: small and low-power integrated circuits that contain a processor, memory, and input/output peripherals, such as Arduino, Raspberry Pi, etc.
+  - Microprocessors: larger and more powerful integrated circuits that contain a processor, memory, and input/output peripherals, such as Intel, AMD, ARM, etc.
+  - Sensors: devices that measure physical quantities, such as light, sound, temperature, pressure, motion, etc., and convert them into electrical signals, such as cameras, microphones, accelerometers, gyroscopes, etc.
+  - Actuators: devices that convert electrical signals into physical actions, such as light, sound, vibration, motion, etc., such as speakers, LEDs, motors, solenoids, etc.
+  - Displays: devices that present visual information to the user, such as LCD, OLED, e-ink, etc.
+  - Projectors: devices that project visual information onto a surface or a medium, such as DLP, LCoS, laser, etc.
+  - Optics: devices that manipulate light, such as lenses, mirrors, prisms, filters, etc.
+  - Transceivers: devices that transmit and receive wireless signals, such as antennas, modems, routers, etc.
+  - Batteries: devices that store and supply electrical energy, such as Li-ion, Ni-MH, etc.
+  - Wearable devices: devices that are worn on or attached to the body, such as smart watches, smart glasses, smart clothing, smart jewelry, etc.
+  - Mixed reality devices: devices that create and display virtual or augmented reality content, such as head-mounted displays, handheld devices, spatial audio devices, etc.
+  - IoE devices: devices that are connected to the internet and can communicate and interact with other devices, networks and cloud services, such as smart home appliances, smart vehicles, smart city infrastructure, etc.

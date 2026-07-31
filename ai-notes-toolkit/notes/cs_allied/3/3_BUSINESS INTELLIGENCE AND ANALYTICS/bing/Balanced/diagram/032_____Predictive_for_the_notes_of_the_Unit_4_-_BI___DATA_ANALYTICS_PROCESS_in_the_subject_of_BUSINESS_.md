@@ -1,0 +1,12 @@
+### Predictive Analytics
+
+- Predictive analytics is a key discipline in the field of data analytics, an umbrella term for the use of quantitative methods and expert knowledge to derive meaning from data and answer fundamental questions about a business, the weather, healthcare, scientific research and other areas of inquiry.
+- Predictive analytics looks at current and historical data patterns to determine if those patterns are likely to emerge again, and makes predictions about future outcomes and performance.
+- Predictive analytics is a branch of advanced analytics that uses statistical modeling, data mining techniques and machine learning to uncover relationships and patterns within large volumes of data.
+- Predictive analytics is a form of technology that makes predictions about certain unknowns in the future, such as customer behavior, market trends, fraud detection, risk assessment, demand forecasting, etc.
+- Predictive analytics is forward-looking, using past events to anticipate the future, unlike other business intelligence (BI) technologies that are descriptive (what happened) or diagnostic (why it happened).
+- Predictive analytics can help organizations optimize their decision-making processes, improve their performance, reduce their costs, increase their revenues, enhance their customer satisfaction and loyalty, and gain a competitive advantage in the market.
+- Predictive analytics can be applied to various domains and industries, such as retail, banking, insurance, healthcare, manufacturing, education, government, etc.
+- Predictive analytics requires a combination of skills, tools and techniques, such as data collection, data preparation, data analysis, data modeling, data validation, data visualization, data interpretation, data communication, etc.
+- Predictive analytics involves different types of models, such as regression, classification, clustering, association, time series, etc, depending on the type of data and the business problem.
+- Predictive analytics faces some challenges and limitations, such as data quality, data privacy, data security, data ethics, data governance, data integration, data scalability, data complexity, data uncertainty, model accuracy, model validation, model interpretation, model deployment, model maintenance, etc.

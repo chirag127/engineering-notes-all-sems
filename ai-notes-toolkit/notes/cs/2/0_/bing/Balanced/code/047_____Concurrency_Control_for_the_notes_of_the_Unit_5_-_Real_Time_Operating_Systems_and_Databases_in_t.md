@@ -1,0 +1,14 @@
+### Concurrency Control for the notes of the Unit 5 - Real Time Operating Systems and Databases in the subject of Real Time System
+
+- Concurrency control is the process of managing the access and modification of shared data resources by multiple concurrent processes or transactions in a system.
+- Concurrency control is essential for ensuring both logical and timing correctness of real-time systems (RTS), which are systems that respond to their environment within specified time constraints.
+- Concurrency control can be classified into two main categories: pessimistic and optimistic.
+  - Pessimistic concurrency control prevents conflicts from occurring by locking or reserving the data resources before accessing or modifying them. Examples of pessimistic concurrency control methods are two-phase locking, timestamp ordering, and priority inheritance.
+  - Optimistic concurrency control allows conflicts to occur and then resolves them by aborting or restarting the conflicting processes or transactions. Examples of optimistic concurrency control methods are optimistic locking, multiversion concurrency control, and validation.
+- Concurrency control methods for RTS must consider both the data consistency and the timing constraints of the processes or transactions. Data consistency means that the shared data resources must reflect a correct and coherent state of the system. Timing constraints mean that the processes or transactions must meet their deadlines and avoid blocking or starvation.
+- Concurrency control methods for RTS must also be compatible with the scheduling policies and the resource allocation strategies of the system. Scheduling policies determine the order and priority of the processes or transactions to be executed. Resource allocation strategies determine how the system resources, such as CPU, memory, and disk, are assigned to the processes or transactions.
+- Concurrency control methods for RTS can be evaluated based on several criteria, such as correctness, performance, complexity, and robustness.
+  - Correctness refers to the ability of the concurrency control method to ensure both data consistency and timing constraints of the processes or transactions.
+  - Performance refers to the efficiency and effectiveness of the concurrency control method in terms of throughput, response time, utilization, and overhead.
+  - Complexity refers to the difficulty and cost of implementing and maintaining the concurrency control method in terms of algorithm, data structure, and communication.
+  - Robustness refers to the adaptability and reliability of the concurrency control method in terms of handling failures, errors, and uncertainties.

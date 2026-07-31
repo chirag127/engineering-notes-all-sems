@@ -1,0 +1,11 @@
+### Architectural models for the notes of the Unit 1 - Characterization of Distributed Systems in the subject of DISTRIBUTED SYSTEM
+
+- Architectural models are a type of system model that describe the organization and interrelationship of components in a distributed system .
+- Architectural models can help to understand the design trade-offs, performance, scalability, reliability, and security of distributed systems .
+- Architectural models can be classified into different styles, such as:
+  - Layered architecture: Components are organized in layers, each layer communicates with its adjacent layer by sending requests and getting responses. For example, a web application can have a presentation layer, a business logic layer, and a data access layer.
+  - Client-server architecture: Components are divided into clients and servers, clients request services from servers and servers provide services to clients. For example, a web browser is a client that requests web pages from a web server.
+  - Broker architecture: Components are connected by a broker that mediates communication and coordination among them. For example, CORBA is a broker architecture that allows components written in different languages and running on different platforms to interoperate.
+  - Service-oriented architecture: Components are loosely coupled services that can be discovered, composed, and invoked over a network. For example, SOAP and REST are protocols for implementing service-oriented architectures.
+  - Peer-to-peer architecture: Components are peers that can act as both clients and servers, and communicate directly with each other without a central authority. For example, BitTorrent is a peer-to-peer architecture for file sharing.
+  - Distributed network architecture: Components are networks that can interact with other networks for service resiliency, performance gains, and resource sharing. For example, the Internet is a distributed network architecture that connects millions of networks around the world.

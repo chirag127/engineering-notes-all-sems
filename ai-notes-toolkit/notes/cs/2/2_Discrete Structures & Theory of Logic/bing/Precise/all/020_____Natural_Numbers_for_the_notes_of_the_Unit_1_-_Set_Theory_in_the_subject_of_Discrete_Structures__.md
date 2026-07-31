@@ -1,0 +1,24 @@
+# Natural Numbers
+
+- Natural numbers are a part of the real number system.
+- They are used to count and measure.
+- The set of natural numbers is denoted by the symbol `N`.
+- The set of natural numbers is infinite and starts from 1.
+- The set of natural numbers can be represented as `{1, 2, 3, 4, 5, ...}`.
+- Natural numbers are also called counting numbers or positive integers.
+- The set of natural numbers is closed under addition and multiplication, meaning that the sum or product of any two natural numbers is also a natural number.
+- The set of natural numbers is not closed under subtraction or division, meaning that the difference or quotient of two natural numbers may not be a natural number.
+- The set of natural numbers has no upper bound, meaning that there is no largest natural number.
+- The set of natural numbers has a lower bound of 1, meaning that 1 is the smallest natural number.
+- The set of natural numbers is well-ordered, meaning that every non-empty subset of natural numbers has a least element.
+- The set of natural numbers is countably infinite, meaning that it has the same cardinality as the set of integers or the set of rational numbers.
+- The set of natural numbers is a subset of the set of whole numbers, integers, rational numbers, and real numbers.
+- The set of natural numbers is not a subset of the set of irrational numbers.
+- The set of natural numbers is not a field, meaning that it does not have all the properties of a field such as the existence of additive and multiplicative inverses for all elements.
+- The set of natural numbers is a well-defined set, meaning that it is possible to determine whether a given number is a natural number or not.
+- The set of natural numbers is an ordered set, meaning that there is a relation of order between its elements.
+- The set of natural numbers is a discrete set, meaning that there are no natural numbers between any two consecutive natural numbers.
+- The set of natural numbers is a dense set, meaning that between any two natural numbers, there is an infinite number of natural numbers.
+- The set of natural numbers is a totally ordered set, meaning that for any two natural numbers, one is greater than, equal to, or less than the other.
+- The set of natural numbers is a well-founded set, meaning that every non-empty subset of natural numbers has a minimal element.
+- The set of natural numbers is a complete set, meaning that every Cauchy sequence of natural numbers has a limit that is a natural number.

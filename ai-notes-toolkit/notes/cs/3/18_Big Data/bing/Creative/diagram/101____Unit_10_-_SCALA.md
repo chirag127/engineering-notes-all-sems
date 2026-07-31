@@ -1,0 +1,10 @@
+## Unit 10 - SCALA
+
+- Scala is a **general-purpose**, **high-level**, **multi-paradigm** programming language that supports both **object-oriented** and **functional** programming  .
+- Scala is designed to be **concise**, **expressive** and **interoperable** with Java . It can run on the **Java Virtual Machine (JVM)** and interoperate with Java libraries . It can also compile to **JavaScript** and run on the web browser or Node.js.
+- Scala has a **strong** and **static** type system that helps to avoid bugs and enforce abstraction . It also supports **type inference**, which allows the compiler to infer the types of variables and parameters from the context .
+- Scala has many features that support functional programming, such as **immutable** data structures, **higher-order** functions, **pattern matching**, **lazy evaluation**, **currying**, **tail recursion** and **monads**  .
+- Scala also supports object-oriented programming, such as **classes**, **objects**, **traits**, **inheritance**, **polymorphism**, **abstract types** and **generics**  .
+- Scala has a **unified** syntax that treats everything as an expression and allows nested definitions . It also has a **flexible** syntax that allows operators to be defined as methods and methods to be used as infix or postfix operators .
+- Scala has a **powerful** and **extensible** mechanism for **metaprogramming**, which allows the programmer to manipulate the code at compile time or runtime . Some examples of metaprogramming features are **macros**, **implicits**, **reflection** and **quoted expressions**  .
+- Scala has a **modular** and **scalable** architecture that supports **concurrent** and **distributed** programming . It also has a **reactive** and **non-blocking** approach to handle asynchronous and event-driven scenarios. Some examples of libraries and frameworks that support these paradigms are **Akka**, **Spark**, **Play** and **Lagom**.

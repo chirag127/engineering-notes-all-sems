@@ -1,0 +1,11 @@
+### Characteristics of Data
+
+Data is any form of information that has been gathered and organized in a meaningful format that can be processed further . Data can be quantitative (numerical) or qualitative (categorical) and can be used for various purposes such as analysis, decision making, communication, etc. Data quality is an important aspect of data that affects its usability and value. Data quality can be measured by five characteristics:
+
+- **Accuracy**: The degree to which data is free of errors, mistakes, or biases. Accurate data reflects the true state of reality and is consistent with the source of data. Accuracy can be improved by using reliable methods of data collection, validation, and verification.
+- **Completeness**: The degree to which data has all the required or expected elements, attributes, or values. Complete data does not have any missing, null, or empty values. Completeness can be improved by using standard formats, definitions, and rules for data entry, storage, and processing.
+- **Reliability**: The degree to which data is consistent and trustworthy over time and across different systems, sources, or users. Reliable data does not have any discrepancies, contradictions, or anomalies. Reliability can be improved by using clear and common standards, protocols, and procedures for data generation, transmission, and integration.
+- **Relevance**: The degree to which data is suitable and applicable for the intended use or context. Relevant data meets the needs and expectations of the data users and helps them achieve their goals or objectives. Relevance can be improved by using appropriate methods of data analysis, interpretation, and presentation.
+- **Uniqueness**: The degree to which data is distinct and non-redundant. Unique data does not have any duplicates, copies, or repetitions. Uniqueness can be improved by using proper methods of data identification, classification, and deduplication.
+
+Data can also be described by its two statistical characteristics: central tendency and dispersion. Central tendency refers to the average or typical value of data, such as the mean, median, or mode. Dispersion refers to the spread or variation of data, such as the range, standard deviation, or variance. These characteristics help to summarize and compare data sets and to understand their distribution and probability.

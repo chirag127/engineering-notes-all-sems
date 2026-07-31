@@ -1,0 +1,24 @@
+## Experiment 2 - Study of Socket Programming and Client – Server model
+
+- Socket programming is a way of enabling two programs to communicate over a network using a well-established protocol.
+- A socket is a simple communication channel that supports two-way communication between a client and a server.
+- A client is a program that requests a service or resource from a server.
+- A server is a program that provides a service or resource to a client.
+- The client and the server must follow the same protocol to establish a connection and exchange data.
+- A protocol is a set of rules and behavior that both the client and the server must follow in order to communicate.
+- There are two types of sockets: stream sockets and datagram sockets.
+- Stream sockets, also known as connection-oriented sockets, establish a connection before transferring data.
+- Stream sockets are reliable and in-order, meaning that the data is guaranteed to arrive at the destination without errors or duplication, and in the same order as it was sent.
+- Stream sockets use Transmission Control Protocol (TCP) as the underlying protocol.
+- Datagram sockets, also known as connectionless sockets, do not establish a connection before transferring data.
+- Datagram sockets are unreliable and out-of-order, meaning that the data may be lost, corrupted, duplicated, or arrive in a different order than it was sent.
+- Datagram sockets use User Datagram Protocol (UDP) as the underlying protocol.
+- A socket has a typical flow of events in the client-server model:
+  - The server creates a socket and binds it to an address that clients can use to find the server.
+  - The server listens for incoming connection requests from clients on the socket.
+  - The client creates a socket and connects it to the server's address.
+  - The server accepts the connection request from the client and creates a new socket for the communication.
+  - The client and the server exchange data using read and write operations on the sockets.
+  - The client and the server close the sockets when the communication is over.
+- Socket programming can be done in various programming languages, such as C, C++, Python, Java, etc .
+- Socket programming can be used for various applications, such as web browsing, email, file transfer, chat, etc .

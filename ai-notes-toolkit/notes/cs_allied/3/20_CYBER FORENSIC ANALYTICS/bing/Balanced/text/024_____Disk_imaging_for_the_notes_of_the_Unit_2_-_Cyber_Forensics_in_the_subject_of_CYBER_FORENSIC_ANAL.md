@@ -1,0 +1,8 @@
+### Disk imaging for the notes of the Unit 2 - Cyber Forensics in the subject of CYBER FORENSIC ANALYTICS
+
+- Disk imaging is the process of creating an electronic copy of a drive (e.g. a hard drive, USB, etc.) that preserves all the data and metadata in the original media .
+- Disk imaging is a crucial technique in cyber forensics, as it allows investigators to examine the contents of a drive without altering or damaging the evidence  .
+- Disk imaging can be performed using various tools, such as hardware devices, software applications, or command-line utilities   . Some examples of disk imaging tools are Tableau TD3 Forensic Imager, Computer Forensic Tool (CFT), and Dc3dd.
+- Disk imaging can be done in different modes, such as logical, physical, or raw  . Logical imaging copies only the files and folders that are accessible by the operating system, while physical imaging copies the entire drive sector by sector, including the unallocated and slack space. Raw imaging is a type of physical imaging that creates a single file with no metadata or compression .
+- Disk imaging can also be done in different formats, such as Advanced Forensic Format (AFF), Expert Witness Format (EWF), or Raw Format (DD)  . Each format has its own advantages and disadvantages, such as file size, compatibility, integrity, and encryption  .
+- Disk imaging should follow certain best practices, such as verifying the hash values of the source and the image, documenting the process and the chain of custody, and using write blockers to prevent accidental modification of the evidence  .

@@ -1,0 +1,13 @@
+#### 4. CNC Fundamentals and Programming, By P. M. Agrawal, V. J. Patel, Charotar Publication
+
+- CNC stands for Computer Numerical Control, which is a technology that uses computers to control the motion and operation of machine tools.
+- CNC machine tools can perform various machining operations such as turning, milling, drilling, tapping, etc. with high accuracy, speed and flexibility.
+- CNC machine tools consist of three main components: the machine tool, the controller and the programming device.
+- The machine tool is the physical device that performs the machining operation on the workpiece. It has various components such as spindle, table, slide, tool holder, etc. that are driven by motors and actuators.
+- The controller is the electronic device that receives the instructions from the programming device and converts them into signals that control the motion and operation of the machine tool. It has various components such as CPU, memory, input/output devices, etc.
+- The programming device is the device that creates and stores the instructions for the controller. It can be a computer, a keyboard, a tape reader, etc. The instructions are written in a special language called CNC part program or G-code.
+- CNC part program is a sequence of commands that specify the coordinates, feed rate, spindle speed, tool selection, etc. for the machine tool to perform the machining operation. It uses alphanumeric codes and symbols to represent the commands.
+- CNC part program can be created manually by the programmer or automatically by a software called Computer Aided Part Programming (CAPP). CAPP can generate the part program from a geometric model of the workpiece or from a process plan.
+- CNC part program can be transferred to the controller by various methods such as direct numerical control (DNC), tape, disk, etc. DNC is a method that allows the controller to communicate with the programming device through a network or a cable.
+- CNC part program can be modified or edited by the programmer or the operator using the programming device or the controller. Some controllers also allow the operator to create or edit the part program using a conversational mode or a graphical user interface.
+- CNC part program can be enhanced by using macro programming, which is a technique that allows the programmer to define and use variables, expressions, loops, subprograms, etc. in the part program. Macro programming can simplify the part program and make it more flexible and adaptable.

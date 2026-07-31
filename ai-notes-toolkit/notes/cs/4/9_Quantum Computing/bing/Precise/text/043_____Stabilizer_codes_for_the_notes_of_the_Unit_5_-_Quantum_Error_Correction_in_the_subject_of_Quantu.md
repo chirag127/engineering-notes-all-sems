@@ -1,0 +1,6 @@
+### Stabilizer codes for the notes of the Unit 5 - Quantum Error Correction in the subject of Quantum Computing
+
+- Stabilizer codes are a subclass of quantum codes that have proved particularly fruitful in producing codes and in understanding the structure of both specific codes and classes of codes.
+- The stabilizer theory of quantum error correction allows one to import some classical binary or quaternary codes for use as a quantum code. However, when importing the classical code, it must satisfy the dual-containing (or self-orthogonality) constraint.
+- The five-qubit error correcting code is the smallest quantum error correcting code that can protect a logical qubit from any arbitrary single qubit error. In this code, 5 physical qubits are used to encode the logical qubit.
+- To implement logical quantum gates on our code space, we can apply elements in the normalizer N (S) that map the code space into itself. Thus we have expressed error detection, error correction and logical operations entirely in terms of the stabilizer group and the language of group theory.

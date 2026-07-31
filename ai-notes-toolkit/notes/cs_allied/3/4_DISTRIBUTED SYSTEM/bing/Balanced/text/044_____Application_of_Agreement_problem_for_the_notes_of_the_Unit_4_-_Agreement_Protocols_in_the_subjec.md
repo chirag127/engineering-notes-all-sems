@@ -1,0 +1,10 @@
+### Application of Agreement problem for the notes of the Unit 4 - Agreement Protocols in the subject of DISTRIBUTED SYSTEM
+
+- Agreement problem is a fundamental problem in distributed computing and multi-agent systems, where a set of processes need to coordinate and reach a common decision or value .
+- Agreement problem can be classified into different types, such as consensus, atomic commitment, atomic broadcast, and group membership.
+- Consensus is the problem of getting all the processes to agree on a single value, which can be proposed by any process . Consensus is useful for implementing fault-tolerant services, such as replicated state machines, leader election, and distributed transactions.
+- Atomic commitment is the problem of getting all the processes to agree on whether to commit or abort a transaction, which involves multiple resources . Atomic commitment is useful for ensuring the atomicity and consistency properties of distributed transactions .
+- Atomic broadcast is the problem of getting all the processes to deliver the same set of messages in the same order . Atomic broadcast is useful for implementing reliable and consistent communication channels, such as message queues, publish-subscribe systems, and distributed logs .
+- Group membership is the problem of getting all the processes to agree on the current set of active processes in the system . Group membership is useful for managing the dynamic changes of the system, such as failures, recoveries, and joins .
+- Agreement problem is challenging to solve in the presence of failures, such as crash, omission, or Byzantine failures   . Different types of failures require different assumptions and algorithms to achieve agreement   .
+- Agreement protocols are the algorithms that aim to solve the agreement problem under various assumptions and conditions . Some examples of agreement protocols are Paxos, Raft, Two-Phase Commit, Three-Phase Commit, and Byzantine Agreement  .

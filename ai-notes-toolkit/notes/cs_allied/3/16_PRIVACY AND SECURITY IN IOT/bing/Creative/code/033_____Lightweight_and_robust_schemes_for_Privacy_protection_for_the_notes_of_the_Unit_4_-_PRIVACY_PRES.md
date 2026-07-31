@@ -1,0 +1,13 @@
+### Lightweight and robust schemes for Privacy protection for the notes of the Unit 4 - PRIVACY PRESERVATION AND TRUST MODELS FOR IOT in the subject of PRIVACY AND SECURITY IN IOT
+
+- Privacy protection is a crucial issue for the Internet of Things (IoT), which involves massive data collection, processing, and sharing among heterogeneous devices and entities.
+- Privacy protection schemes aim to prevent unauthorized access, disclosure, or inference of sensitive information from the IoT data, while preserving the utility and functionality of the IoT applications.
+- Some of the challenges for designing privacy protection schemes for IoT are:
+  - The heterogeneity and diversity of IoT devices and data sources, which require different levels of protection and adaptation.
+  - The resource constraints and dynamic nature of IoT devices, which limit the computational and communication capabilities and affect the reliability and availability of the devices and data.
+  - The trade-off between privacy and utility, which requires balancing the degree of data anonymization, encryption, or aggregation and the quality of service and performance of the IoT applications.
+- Some of the lightweight and robust schemes for privacy protection for IoT are:
+  - Fully homomorphic encryption (FHE), which allows performing arbitrary computations on encrypted data without decrypting it, thus preserving the data privacy and integrity. However, FHE is still computationally expensive and requires optimization techniques to improve its efficiency and scalability.
+  - Blockchain, which is a distributed ledger that records and verifies transactions in a decentralized and transparent manner, thus ensuring the data provenance and accountability. Blockchain can also enable smart contracts, which are self-executing agreements that can enforce the data access and usage policies and protect the data ownership and rights.
+  - Privacy set intersection (PSI), which is a cryptographic technique that allows two or more parties to compute the intersection of their private sets without revealing any other information about their sets. PSI can be used to achieve private matching, querying, or sharing of IoT data among different entities, while minimizing the data leakage and exposure.
+  - Time and frequency limitation, which is a technique that restricts the data access and decryption based on the time and frequency parameters, thus preventing unauthorized or excessive data usage. This technique can be combined with homomorphic encryption to allow legitimate users to obtain the original data, while others can only perform operations on the encrypted data.

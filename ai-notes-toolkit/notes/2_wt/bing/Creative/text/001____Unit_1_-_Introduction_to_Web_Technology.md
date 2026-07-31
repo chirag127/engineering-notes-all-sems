@@ -1,0 +1,29 @@
+## Unit 1 - Introduction to Web Technology
+
+- Web technology is the use of various tools and protocols to create and deliver information and services over the internet or a network of computers.
+- Web technology consists of two main components: the client and the server.
+  - The client is the device or software that requests and displays web content, such as a web browser, a mobile app, or a smart TV.
+  - The server is the device or software that responds to the client's requests and provides web content, such as a web server, a database, or an application server.
+- Web technology enables various types of web applications, such as websites, web services, web portals, web games, and web-based software.
+- Web technology is based on a set of standards and protocols that define how web content is formatted, transmitted, and processed.
+  - Some of the common web standards and protocols are:
+    - HTML (HyperText Markup Language): the language that defines the structure and content of web pages.
+    - CSS (Cascading Style Sheets): the language that defines the presentation and layout of web pages.
+    - JavaScript: the language that enables dynamic and interactive features on web pages.
+    - HTTP (HyperText Transfer Protocol): the protocol that governs the communication between the client and the server.
+    - URL (Uniform Resource Locator): the address that identifies the location and name of a web resource.
+    - XML (Extensible Markup Language): the language that defines the syntax and rules for creating and exchanging structured data.
+    - JSON (JavaScript Object Notation): the language that defines a lightweight and human-readable format for data interchange.
+    - REST (Representational State Transfer): the architectural style that defines a set of principles and constraints for designing web services.
+    - SOAP (Simple Object Access Protocol): the protocol that defines a standard format for exchanging messages between web services.
+    - WSDL (Web Services Description Language): the language that defines the interface and functionality of web services.
+    - AJAX (Asynchronous JavaScript and XML): the technique that enables the client to send and receive data from the server without reloading the web page.
+    - WebSockets: the protocol that enables bidirectional and real-time communication between the client and the server.
+- Web technology is constantly evolving and improving to meet the changing needs and expectations of users and developers.
+  - Some of the current trends and challenges in web technology are:
+    - Responsive web design: the approach that enables web pages to adapt to different screen sizes and devices.
+    - Progressive web apps: the approach that enables web pages to offer native-like features and performance, such as offline access, push notifications, and home screen icons.
+    - Single-page applications: the approach that enables web pages to load and update content dynamically without refreshing the entire page.
+    - WebAssembly: the technology that enables web pages to run compiled code at near-native speed, such as C, C++, or Rust.
+    - Web security: the practice that ensures the confidentiality, integrity, and availability of web content and services, such as encryption, authentication, and authorization.
+    - Web accessibility: the practice that ensures that web content and services are usable and understandable by people with different abilities and preferences, such as screen readers, keyboard navigation, and color contrast.

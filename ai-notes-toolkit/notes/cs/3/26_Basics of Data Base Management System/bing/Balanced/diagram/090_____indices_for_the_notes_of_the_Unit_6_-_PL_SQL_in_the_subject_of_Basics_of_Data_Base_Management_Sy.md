@@ -1,0 +1,41 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material. Here are some indices for the notes of the Unit 6 - PL/SQL in the subject of Basics of Data Base Management System:
+
+- Introduction to PL/SQL
+  - What is PL/SQL and why is it used?
+  - Features and advantages of PL/SQL
+  - Basic structure and syntax of PL/SQL
+  - Data types and variables in PL/SQL
+  - Operators and expressions in PL/SQL
+- Control structures in PL/SQL
+  - Conditional statements: IF, CASE, and NULLIF
+  - Looping statements: FOR, WHILE, and LOOP
+  - Branching statements: GOTO, EXIT, and CONTINUE
+  - Exception handling: RAISE, EXCEPTION, and PRAGMA
+- Cursors and subprograms in PL/SQL
+  - What are cursors and how to use them?
+  - Types of cursors: implicit and explicit
+  - Attributes and operations of cursors
+  - What are subprograms and how to create them?
+  - Types of subprograms: procedures and functions
+  - Parameters and return values of subprograms
+- Triggers and packages in PL/SQL
+  - What are triggers and how to create them?
+  - Types of triggers: row-level and statement-level
+  - Timing of triggers: BEFORE, AFTER, and INSTEAD OF
+  - What are packages and how to create them?
+  - Types of packages: specification and body
+  - Advantages and disadvantages of packages
+- PL/SQL collections and records
+  - What are collections and how to use them?
+  - Types of collections: associative arrays, nested tables, and varrays
+  - Attributes and methods of collections
+  - What are records and how to use them?
+  - Types of records: user-defined and predefined
+  - Operations and functions on records
+- Dynamic SQL and object-oriented features in PL/SQL
+  - What is dynamic SQL and how to execute it?
+  - Types of dynamic SQL: native and DBMS_SQL
+  - Advantages and disadvantages of dynamic SQL
+  - What are object-oriented features and how to use them?
+  - Types of object-oriented features: object types, methods, and inheritance
+  - Advantages and disadvantages of object-oriented features

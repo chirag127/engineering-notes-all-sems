@@ -1,0 +1,11 @@
+### A brief introduction to information theory for the notes of the Unit 1 - Compression Techniques in the subject of Data Compression
+
+- Information theory is a branch of mathematics that deals with the quantification, transmission, and processing of information  .
+- Information theory was founded by Claude Shannon in the mid-20th century, who introduced the concepts of entropy, mutual information, channel capacity, and coding theorems  .
+- Information theory is based on probability theory and statistics, where quantified information is usually described in terms of bits. A bit is the basic unit of information that can have two possible values, 0 or 1.
+- Information theory often concerns itself with measures of information of the distributions associated with random variables. Some of these measures are:
+  - Entropy: the average amount of information contained in a random variable. It represents the uncertainty or unpredictability of the variable. The higher the entropy, the more information is needed to describe the variable.
+  - Mutual information: the amount of information that is shared by two random variables. It represents the reduction in uncertainty about one variable given the knowledge of the other. The higher the mutual information, the more dependent the variables are.
+  - Channel capacity: the maximum rate at which information can be reliably transmitted over a communication channel. It depends on the characteristics of the channel, such as the noise level and the bandwidth. The higher the channel capacity, the more information can be sent per unit time.
+  - Coding theorems: the fundamental limits and methods for compressing and transmitting information over noisy channels. They show that there exists an optimal code for any given source and channel, and that the code can achieve the channel capacity with arbitrarily low error probability.
+- Information theory has many applications in various fields, such as communication, cryptography, data compression, machine learning, statistical inference, and thermodynamics   .

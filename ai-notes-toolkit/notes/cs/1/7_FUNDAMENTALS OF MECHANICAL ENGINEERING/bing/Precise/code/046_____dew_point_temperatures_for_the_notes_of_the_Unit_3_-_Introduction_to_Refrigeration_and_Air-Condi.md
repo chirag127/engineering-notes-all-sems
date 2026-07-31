@@ -1,0 +1,7 @@
+### Dew Point Temperatures
+
+- The dew point temperature, commonly termed dew point, DP, is the temperature to which a parcel of moist air must be cooled at constant atmospheric pressure and constant water vapor content in order for saturation to occur.
+- The hydrocarbon dew point temperature (also called the dew point) is the temperature at which, when the natural gas is cooled under a certain pressure, the first hydrocarbon liquid appears. Similarly, under a certain pressure, the bubble point is the temperature at which, when the liquid mixture of natural gas is heated, the first bubble appears.
+- Dewpoint temperature, Td, is the temperature at which the water vapor in air at constant barometric pressure condenses into liquid water at the same rate at which it evaporates.
+- Most people are comfortable with a dew-point temperature of 60 degrees Fahrenheit (16 degrees Celsius) or lower. At a higher dew point of, for example, 70 F (21 C), most people feel hot or uncomfortable.
+- Generally, a dew point at or lower than 55 F is comfortable but more than 65 F feels oppressive. When you have a high temperature and a high humidity level or dew point, you have a higher heat index as well. For example, it may only be 90 F, but it actually feels like 96 because of the high humidity.

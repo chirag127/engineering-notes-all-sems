@@ -1,0 +1,7 @@
+### Feedback for the notes of the Unit 4 - SOFTWARE TECHNOLOGIES in the subject of Augmented & Virtual Reality
+
+- The notes are well-organized and cover the main topics of the unit, such as the types of software technologies for AR and VR, the advantages and disadvantages of each type, and the examples of applications and platforms that use them.
+- The notes are clear and concise, using simple and precise language, diagrams, and tables to explain the concepts and terms. The notes also provide references and links to further resources for more information.
+- The notes are engaging and interactive, using quizzes, exercises, and examples to test the understanding and application of the concepts. The notes also provide feedback and hints for the quizzes and exercises.
+- The notes are accurate and up-to-date, reflecting the current state and trends of the software technologies for AR and VR. The notes also mention the challenges and limitations of the software technologies and the possible future directions and developments.
+- The notes are comprehensive and thorough, covering all the learning outcomes and assessment criteria of the unit. The notes also provide tips and guidance for the assignments and projects of the unit.

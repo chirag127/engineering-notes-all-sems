@@ -1,0 +1,9 @@
+### Weather Imaging CubeSat with Telemetry Transmission
+
+- A CubeSat is a type of miniaturized satellite that has a standard size of 10x10x10 cm and a mass of up to 1.33 kg. CubeSats can be deployed in low Earth orbit for various purposes, such as communication, GPS, remote sensing, and scientific research .
+- Weather imaging CubeSats are used to transmit data about weather parameters, such as temperature, humidity, pressure, wind speed, and cloud cover, that can be used for prediction and forecasting systems .
+- Weather imaging CubeSats typically use a camera or a radiometer to capture images of the Earth's atmosphere and surface at different wavelengths, such as visible, infrared, or microwave .
+- Weather imaging CubeSats also use a telemetry system to transmit the data back to the ground station, where it can be processed and analyzed. The telemetry system consists of a transmitter, a receiver, an antenna, and a power source .
+- Weather imaging CubeSats can provide high-resolution and frequent observations of weather phenomena, such as storms, hurricanes, and tropical systems, that can improve the accuracy and timeliness of weather forecasts and warnings .
+- Weather imaging CubeSats can also contribute to the understanding of the climate system and the effects of human activities on the environment, such as greenhouse gas emissions, aerosols, and land use changes.
+- Weather imaging CubeSats are examples of how the Internet of Things (IoT) can be used to solve societal problems, such as natural disasters, food security, and public health, by collecting and sharing large amounts of data from various sources and devices.

@@ -1,0 +1,6 @@
+# Quantum algorithms for the notes of the Unit 2 - Quantum Computation in the subject of Quantum Computing
+
+1. Quantum computing relates to computing made by a quantum computer. Compared to traditional computing done by a classical computer, a quantum computer should be able to store much more information and operate with more efficient algorithms. This translates to solving extremely complex tasks faster .
+2. One of the goals of quantum computing research is to study which problems can be solved by a quantum computer faster than a classical computer and how large the speedup can be. Two well-known examples are Grover's algorithm and Shor's algorithm, which yield a polynomial and an exponential speedup, respectively, over their classical counterparts .
+3. The main purpose of the lecture notes is to introduce quantum phase estimation (QPE) and ``post-QPE'' methods such as block encoding, quantum signal processing, and quantum singular value transformation, and to demonstrate their applications in solving eigenvalue problems, linear systems of equations, and differential equations .
+4. A second algorithm introduced in the paper, dubbed the quantum mean estimation algorithm, allows scientists to estimate the average rating of all the records. In other words, it can assess how “jazzy” the stack is as a whole .

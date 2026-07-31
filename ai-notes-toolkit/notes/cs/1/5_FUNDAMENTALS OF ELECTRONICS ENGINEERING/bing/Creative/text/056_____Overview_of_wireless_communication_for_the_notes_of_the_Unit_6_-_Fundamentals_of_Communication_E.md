@@ -1,0 +1,16 @@
+### Overview of wireless communication
+
+- Wireless communication is the transfer of information (telecommunication) between two or more points without the use of an electrical conductor, optical fiber or other continuous guided medium for the transfer.
+- Wireless communication generally works through electromagnetic signals that are broadcast by an enabled device within the air, physical environment or atmosphere. The sending device can be a sender or an intermediate device with the ability to propagate wireless signals.
+- Wireless communication can be classified into different types based on the frequency, range, modulation, multiplexing, and application of the signals. Some of the common types are:
+  - Radio communication: It uses radio waves, which are electromagnetic waves with frequencies below 300 GHz, to transmit and receive information. Radio communication can be further divided into subtypes such as AM, FM, shortwave, satellite, cellular, and Wi-Fi.
+  - Microwave communication: It uses microwaves, which are electromagnetic waves with frequencies between 300 MHz and 300 GHz, to transmit and receive information. Microwave communication can be further divided into subtypes such as point-to-point, broadcast, radar, and satellite.
+  - Infrared communication: It uses infrared light, which is electromagnetic radiation with wavelengths between 700 nm and 1 mm, to transmit and receive information. Infrared communication can be further divided into subtypes such as remote control, optical wireless, and fiber optics.
+  - Optical communication: It uses visible light, which is electromagnetic radiation with wavelengths between 380 nm and 750 nm, to transmit and receive information. Optical communication can be further divided into subtypes such as laser, LED, and Li-Fi.
+- Wireless communication can also be classified into different types based on the topology, architecture, and protocol of the network. Some of the common types are:
+  - Wireless personal area network (WPAN): It is a network that connects devices within a short range, typically a few meters, such as Bluetooth, NFC, and ZigBee.
+  - Wireless local area network (WLAN): It is a network that connects devices within a limited area, typically a few hundred meters, such as Wi-Fi, WiMAX, and mesh.
+  - Wireless metropolitan area network (WMAN): It is a network that connects devices within a large area, typically a few kilometers, such as cellular, 4G, and 5G.
+  - Wireless wide area network (WWAN): It is a network that connects devices across a global area, such as satellite, GPS, and LoRaWAN.
+- Wireless communication has many advantages over wired communication, such as mobility, scalability, flexibility, and cost-effectiveness. However, wireless communication also faces many challenges, such as interference, noise, security, and power consumption.
+- Wireless communication is widely used in various fields and applications, such as telephony, broadcasting, navigation, remote sensing, internet, entertainment, military, and healthcare.

@@ -1,0 +1,16 @@
+# ENGINEERING GRAPHICS LAB KCS
+
+- Engineering graphics is the discipline of creating and interpreting graphical representations of engineering objects, such as mechanical parts, structures, circuits, etc.
+- Engineering graphics lab is a practical course that teaches students how to use various tools and techniques to create and analyze engineering drawings, such as sketching, orthographic projection, isometric projection, dimensioning, scaling, etc.
+- Engineering graphics lab also helps students to develop spatial visualization skills, which are essential for understanding and designing three-dimensional objects and systems.
+- Engineering graphics lab is divided into several modules, each covering a specific topic or skill related to engineering graphics. Some of the modules are:
+
+  - Introduction to engineering graphics: This module introduces the basic concepts and terminology of engineering graphics, such as point, line, plane, angle, etc. It also covers the types and formats of engineering drawings, such as multiview, pictorial, sectional, etc.
+  - Classical geometry: This module covers the construction and properties of various geometric figures, such as triangles, quadrilaterals, circles, polygons, etc. It also teaches how to use compass, ruler, protractor, and other instruments to draw accurate geometric shapes.
+  - Projection of points, lines, and planes: This module covers the principles and methods of orthographic projection, which is a technique to represent three-dimensional objects on a two-dimensional plane. It also teaches how to project points, lines, and planes in different quadrants and positions, and how to find their true lengths, inclinations, and traces.
+  - Projection of solids: This module covers the projection of various solids, such as prisms, pyramids, cylinders, cones, spheres, etc. It also teaches how to find their true shapes, dimensions, and sections, and how to draw their development and intersection with other solids.
+  - Isometric projection: This module covers the isometric projection, which is a technique to represent three-dimensional objects in a pictorial form. It also teaches how to draw isometric views of various solids and their combinations, and how to convert orthographic views to isometric views and vice versa.
+  - Dimensioning and scaling: This module covers the rules and conventions of dimensioning and scaling, which are techniques to indicate the size and proportion of engineering objects on a drawing. It also teaches how to use different types of dimensions, such as linear, angular, radial, etc., and how to use different types of scales, such as plain, diagonal, vernier, etc.
+
+- Engineering graphics lab requires students to perform various exercises and assignments based on the topics covered in each module. The exercises and assignments are designed to test the students' understanding and application of the concepts and skills learned in the lab.
+- Engineering graphics lab also requires students to use various software tools, such as AutoCAD, SolidWorks, etc., to create and manipulate engineering drawings on a computer. The software tools help the students to enhance their productivity and accuracy, and to explore more complex and realistic engineering problems.

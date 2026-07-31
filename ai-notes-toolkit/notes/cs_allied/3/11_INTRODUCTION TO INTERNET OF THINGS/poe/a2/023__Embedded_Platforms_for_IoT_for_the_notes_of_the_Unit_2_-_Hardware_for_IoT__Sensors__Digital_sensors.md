@@ -1,0 +1,13 @@
+ Here are the points on Embedded Platforms for IoT:
+
+1. Embedded Computing Basics: Embedded systems are dedicated computer systems that are embedded inside other devices to control, monitor or assist their operation. They are designed to perform specific tasks and are constrained in terms of resources such as memory and processing power. Embedded systems are the core components powering IoT devices and networks.
+
+2. Arduino: Arduino is an open-source electronics prototyping platform based on flexible, easy-to-use hardware and software. It consists of microcontrollers, add-on modules called shields and the Arduino Software (IDE) which is the programming environment that runs on your computer, used to write and upload programs to the board. The inexpensive and easy-to-use Arduino boards are ideal for hobbyists, students and artists interested in creating interactive objects or environments.
+
+3. Raspberry Pi: Raspberry Pi is a series of small single-board computers developed in the UK by the Raspberry Pi Foundation to promote teaching of basic computer science in schools and developing countries. It provides a low-cost and high-performance platform for various IoT applications. The Raspberry Pi boards come with a range of interfaces that allows one to connect additional components such as displays, cameras, motors etc. to create a customized system.
+
+4. BeagleBone: BeagleBone is a low-cost, community-supported development platform for developers and hobbyists. It is similar to Raspberry Pi but has more powerful processors and additional interfaces for connecting to external hardware. It is highly expandable through add-on boards called 'capes' and is suitable for industrial automation and robotic applications in addition to learning and prototyping.
+
+5. Intel Galileo and Edison: Intel Galileo and Edison are development boards from Intel based on Intel processors and designed for rapid prototyping of Intel architecture-based designs. They support Arduino shields and have applications in wearables, smart homes, education etc. Intel Edison is a very small compute module useful for space-constrained IoT devices. These boards provide high performance and compatibility with x86 platforms while being easy to program through Arduino and Linux.
+
+6. ARM Cortex: ARM Cortex is a group of 32-bit and 64-bit RISC processor cores designed by ARM Holdings for a range of applications. Low-cost ARM Cortex microcontrollers and system-on-chips are widely used in IoT devices. Their low power consumption and RISC architecture that enables efficient processing make them suitable for resource-constrained IoT systems. Examples of ARM Cortex boards include STM32, Tiva C LaunchPad, Mbed etc.

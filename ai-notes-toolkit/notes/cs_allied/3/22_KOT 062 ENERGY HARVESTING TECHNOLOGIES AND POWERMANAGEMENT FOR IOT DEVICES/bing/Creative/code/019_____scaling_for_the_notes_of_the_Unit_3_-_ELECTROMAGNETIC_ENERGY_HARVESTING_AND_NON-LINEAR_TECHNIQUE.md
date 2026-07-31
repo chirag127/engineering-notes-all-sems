@@ -1,0 +1,24 @@
+# Scaling for the notes of the Unit 3 - ELECTROMAGNETIC ENERGY HARVESTING AND NON-LINEAR TECHNIQUES
+
+- Electromagnetic energy harvesting (EMEH) is a technique to convert ambient mechanical vibrations into electrical energy using electromagnetic induction .
+- EMEH devices typically consist of a coil and a magnet, which can be arranged in different configurations depending on the design and application  .
+- EMEH devices can be classified into four categories based on the magnetic levitation principle:
+  - Fixed magnet and moving coil (FM-MC)
+  - Moving magnet and fixed coil (MM-FC)
+  - Moving magnet and moving coil (MM-MC)
+  - Fixed magnet and fixed coil (FM-FC)
+- EMEH devices can also be classified into linear and nonlinear systems based on the restoring force of the mechanical oscillator  .
+  - Linear systems have a constant restoring force and a fixed natural frequency, which limits their bandwidth and power output.
+  - Nonlinear systems have a variable restoring force and a tunable natural frequency, which enables them to operate over a wider range of frequencies and enhance their power output.
+- Nonlinear EMEH systems can be realized by using different mechanisms, such as:
+  - Magnetic repulsion or attraction between magnets 
+  - Bistable or snap-through behavior of springs or beams
+  - Impact or collision between components
+- Nonlinear EMEH systems require appropriate interface circuits and power management circuits to optimize the energy conversion and storage.
+  - Interface circuits can be passive or active, and can be designed to match the load resistance, control the voltage or current, or regulate the power flow.
+  - Power management circuits can be based on DC-DC converters, charge pumps, or voltage multipliers, and can be used to boost the output voltage, charge batteries or capacitors, or power wireless sensor nodes.
+- EMEH devices have advantages such as low cost, high reliability, and long lifetime, but also face challenges such as low power density, low efficiency, and environmental dependence.
+  - EMEH devices can be improved by using novel materials, structures, and methods, such as:
+    - Nanomaterials, composites, or metamaterials to enhance the electromagnetic properties
+    - Flexible, stretchable, or wearable structures to enable new applications
+    - Hybrid or multi-modal methods to harvest multiple types of energy simultaneously

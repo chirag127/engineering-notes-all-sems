@@ -1,0 +1,12 @@
+### Locks for the notes of the Unit 8 - Transactions and Concurrency Control in the subject of DISTRIBUTED SYSTEM
+
+Locks are essential components of concurrency control mechanisms for distributed databases. They help in ensuring the consistency and correctness of data in a distributed system by preventing concurrent access to shared resources. Here are some key points to consider regarding locks in distributed systems:
+
+- **Lock Types:** There are two types of locks: shared and exclusive. Shared locks allow several transactions to read a resource simultaneously, while exclusive locks allow only one transaction to write to a resource at any given time.
+- **Lock Granularity:** Locks can be applied at different levels of granularity, including database, table, row, and even individual fields. Coarser-grained locks are easier to manage but may lead to lower concurrency, while finer-grained locks can increase concurrency but require more complex management.
+- **Lock Modes:** Locks can be acquired in different modes, including read, write, and intent. Read locks allow multiple transactions to read a resource simultaneously, while write locks prevent other transactions from accessing the resource until the lock is released. Intent locks indicate an intention to acquire a lock in the future and are used to prevent deadlocks.
+- **Deadlocks:** Deadlocks occur when two or more transactions are waiting for each other to release locks they hold. To avoid deadlocks, distributed systems use techniques such as timeout-based lock acquisition, deadlock detection, and prevention algorithms.
+- **Lock Management:** Lock management is critical in distributed systems to avoid contention and improve performance. Techniques such as lock escalation, lock promotion, and lock demotion can help optimize lock usage and reduce overhead.
+- **Lock Synchronization:** Synchronization is necessary to ensure consistency and correctness when multiple transactions are accessing the same resources concurrently. Distributed systems use techniques such as two-phase locking, timestamp ordering, and optimistic concurrency control to manage synchronization and ensure consistency.
+
+In conclusion, locks are crucial components of concurrency control in distributed systems. They help in ensuring the consistency and correctness of data by preventing concurrent access to shared resources. Understanding the types, granularity, modes, deadlocks, management, and synchronization of locks is essential for designing and implementing efficient and robust distributed systems.

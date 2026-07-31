@@ -1,0 +1,9 @@
+## Unit 1 - Neural Networks-I (Introduction & Architecture)
+
+- Neural networks are computational models that are inspired by the structure and function of biological neurons and the brain.
+- Neural networks can learn from data and perform tasks such as classification, regression, clustering, dimensionality reduction, etc.
+- Neural networks consist of artificial neurons or nodes that are connected by weighted links. Each node can receive inputs from other nodes or external sources, and produce an output based on a nonlinear activation function.
+- Neural networks can be represented by a graph, where nodes are the vertices and links are the edges. The graph can have different topologies or architectures, depending on the number and arrangement of nodes and links.
+- The most common architecture of neural networks is the feedforward neural network, where the nodes are organized into layers and the links are directed from one layer to the next. The first layer is called the input layer, the last layer is called the output layer, and the intermediate layers are called hidden layers.
+- The feedforward neural network can be trained using a supervised learning algorithm, such as the backpropagation algorithm, which adjusts the weights of the links based on the error between the actual and desired outputs.
+- Other architectures of neural networks include recurrent neural networks, where the links can form cycles and the nodes can have memory, convolutional neural networks, where the nodes are arranged in a grid-like structure and the links are local and shared, and deep neural networks, where the number of hidden layers is large and the nodes can have complex features.

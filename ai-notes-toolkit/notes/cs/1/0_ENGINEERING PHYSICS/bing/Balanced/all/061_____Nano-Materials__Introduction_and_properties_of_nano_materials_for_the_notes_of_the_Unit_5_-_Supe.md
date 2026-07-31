@@ -1,0 +1,7 @@
+# Nano-Materials: Introduction and Properties of Nano Materials
+
+- Nano-materials are materials composed of a set of substances where at least one dimension is less than approximately 100 nm, providing unique physical and chemical properties that exist at the nanoscale.
+- The quantum properties of the materials get affected as the sizes are reduced, resulting in changes in conductivity, reactivity, optical behavior, and mechanical strength .
+- Some examples of nano-materials are titanium oxide (used in sunscreens), carbon nanotubes (used in electronics and nanomedicine), silver nanoparticles (used in antibacterial products), and graphene (used in sensors and batteries) .
+- Nano-materials can be classified based on various approaches, such as dimensionality, morphology, composition, origin, and functionality. For example, nano-materials can be one-dimensional (nanowires, nanotubes), two-dimensional (nanofilms, nanosheets), or three-dimensional (nanoparticles, nanocrystals).
+- Nano-materials have many advantages and disadvantages, depending on their applications and potential risks. Some of the advantages are: enhanced performance, reduced weight, improved durability, and lower energy consumption. Some of the disadvantages are: high cost, environmental and health hazards, ethical and social issues, and lack of regulation and standardization.

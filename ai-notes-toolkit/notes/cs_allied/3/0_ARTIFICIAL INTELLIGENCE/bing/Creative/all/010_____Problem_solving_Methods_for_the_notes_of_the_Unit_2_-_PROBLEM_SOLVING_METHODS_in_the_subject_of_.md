@@ -1,0 +1,32 @@
+# Problem Solving Methods for the notes of the Unit 2 - PROBLEM SOLVING METHODS in the subject of ARTIFICIAL INTELLIGENCE KCS
+
+- Problem solving is the process of finding a solution to a given problem by applying knowledge, skills, and strategies.
+- In artificial intelligence, problem solving often involves investigating potential solutions to problems through reasoning techniques, making use of polynomial and differential equations, and carrying them out and use modelling frameworks.
+- A same problem may have multiple solutions, that are all accomplished using a unique algorithm.
+- Problem solving in AI can be classified into three types based on the nature of the problem:
+  - Ignorable: In which solution steps can be ignored.
+  - Recoverable: In which solution steps can be undone.
+  - Irrecoverable: In which solution steps cannot be undone.
+- Problem solving in AI can also be classified into two types based on the nature of the solution:
+  - Single-state: In which the solution is a single state or configuration of the world.
+  - Multiple-state: In which the solution is a sequence of states or actions that lead to the goal state.
+- Problem solving in AI requires the following components:
+  - Initial state: The state of the world before the problem is solved.
+  - Goal state: The state of the world after the problem is solved.
+  - Operators: The actions that can be performed to change the state of the world.
+  - Path cost: The measure of the cost or difficulty of a solution path.
+- Problem solving in AI can be done by using various methods, such as :
+  - Search algorithms: These are methods that explore the space of possible solutions and find the optimal or satisfactory one. Examples of search algorithms are:
+    - Uninformed search: These are methods that do not use any domain-specific knowledge and rely only on the problem definition. Examples of uninformed search are:
+      - Breadth-first search: This is a method that expands the shallowest nodes first and explores all the nodes at a given depth before moving to the next depth level.
+      - Depth-first search: This is a method that expands the deepest nodes first and explores one branch of the search tree until a dead end or a goal is reached, then backtracks and explores another branch.
+      - Uniform-cost search: This is a method that expands the node with the lowest path cost first and explores all the nodes with the same cost before moving to the next cost level.
+    - Informed search: These are methods that use some domain-specific knowledge or heuristics to guide the search and reduce the search space. Examples of informed search are:
+      - Greedy search: This is a method that expands the node that is closest to the goal according to a heuristic function, which estimates the distance or cost from a node to the goal.
+      - A* search: This is a method that expands the node that has the lowest value of f(n) = g(n) + h(n), where g(n) is the path cost from the initial state to node n, and h(n) is the heuristic function for node n.
+      - Hill-climbing search: This is a method that starts from a random initial state and moves to a neighboring state that has a higher value of the objective function, which measures the quality of a solution. It repeats this process until a local maximum or a goal is reached.
+  - Evolutionary algorithms: These are methods that mimic the natural process of evolution and use a population of candidate solutions that undergo selection, crossover, and mutation to generate new solutions. Examples of evolutionary algorithms are:
+    - Genetic algorithms: These are methods that use a binary representation of solutions and apply genetic operators such as selection, crossover, and mutation to create new solutions that are more fit according to a fitness function, which evaluates the quality of a solution.
+    - Genetic programming: These are methods that use a tree representation of solutions and apply genetic operators such as selection, crossover, and mutation to create new solutions that are more fit according to a fitness function, which evaluates the quality of a solution.
+    - Differential evolution: These are methods that use a vector representation of solutions and apply differential operators such as mutation, crossover, and selection to create new solutions that are more fit according to a fitness function, which evaluates the quality of a solution.
+  - Knowledge representation and reasoning: These are methods that use a formal language to represent the knowledge about the problem domain and the rules of inference to deduce new facts or conclusions from the given facts or premises.

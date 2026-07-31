@@ -1,0 +1,7 @@
+### Web-based networks for the notes of the Unit 2 - Web Semantics in Social Network Applications in the subject of SOCIAL NETWORK ANALYTICS
+
+1. **Semantic networks** help extract meanings that consumers give to a brand or company based on the text they use in social media posts. Instead of connecting people to people, semantic networks connect words to words, based on their co-occurrence .
+2. The **Social Semantic Web** can be seen as a Web of collective knowledge systems, which are able to provide useful information based on human contributions and which get better as more people participate. The Social Semantic Web combines technologies, strategies and methodologies from the Semantic Web, social software and the Web 2.0 .
+3. The **Semantic Web**, Web 3.0, the Linked Data Web, the Web of Data represents the next major evolution in connecting and representing information. It enables data to be linked from a source to any other source and to be understood by computers so that they can perform increasingly sophisticated tasks on our behalf .
+4. Data mining on complex social networks using **ontology-based metadata** can be considered as a very promising approach .
+5. The content of **Web pages** is the most inexhaustible source of information for social network analysis. This content is not only vast, diverse and free to access but also in many cases more up to date than any specialized database .

@@ -1,0 +1,30 @@
+### Pig - Introduction to PIG for the notes of the Unit 11 - Hadoop Eco System Frameworks in the subject of Big Data
+
+- Apache Pig is a high-level platform for creating MapReduce programs used with Hadoop.
+- Pig enables data workers to write complex data transformations without knowing Java.
+- Pig’s simple SQL-like scripting language is called Pig Latin.
+- Pig Latin abstracts the programming from the Java MapReduce idiom into a notation which makes MapReduce programming high level, similar to that of SQL for RDBMS systems.
+- Pig Latin can be extended using User Defined Functions (UDFs) which the user can write in Java, Python, JavaScript, Ruby or Groovy and then call directly from the language.
+- Pig was originally developed at Yahoo Research around 2006 for researchers to have an ad-hoc way of creating and executing MapReduce jobs on very large data sets.
+- In 2007, Pig became an open source project of the Apache Software Foundation.
+- Pig is intended to handle any kind of data, structured or unstructured, and is able to perform many data manipulation operations.
+- Pig excels at describing data analysis problems as data flows.
+- Pig is complete in that you can do all the required data manipulations in Apache Hadoop with Pig.
+- Through the User Defined Functions(UDF) facility in Pig, Pig can invoke code in many languages like JRuby, Jython and Java.
+- Pig also provides a number of built-in functions for common data operations and has extensive support for various data types, including complex, nested data structures.
+- Pig can read data from files, streams or other external sources using the LOAD operator.
+- Pig can store the results of a data flow into one or more output files using the STORE operator.
+- Pig can also output the results of a data flow to the screen using the DUMP operator.
+- Pig Latin is a procedural language and it fits in a sweet spot between the declarative style of SQL and the low-level, procedural style of MapReduce.
+- Pig Latin statements are organized as a data flow sequence, where the output of one statement is the input to the next statement.
+- Pig Latin is a data flow language, where the data is transformed through a series of steps, each step producing a new data set as output.
+- Pig Latin scripts are translated into a series of MapReduce jobs that are run on the Apache Hadoop cluster.
+- Pig is generally used with Hadoop; you can perform all the data manipulation operations in Hadoop using Pig.
+- Pig provides many built-in operators to support data operations like joins, filters, ordering, etc. as well as the ability to write User Defined Functions (UDFs) for more complex processing.
+- Pig is a high-level platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs.
+- The salient property of Pig programs is that their structure is amenable to substantial parallelization, which in turns enables them to handle very large data sets.
+- Pig’s infrastructure layer consists of a compiler that produces sequences of Map-Reduce programs, for which large-scale parallel implementations already exist (e.g., the Hadoop subproject).
+- Pig’s language layer currently consists of a textual language called Pig Latin, which has the following key properties:
+    - Ease of programming. It is trivial to achieve parallel execution of simple, “embarrassingly parallel” data analysis tasks. Complex tasks comprised of multiple interrelated data transformations are explicitly encoded as data flow sequences, making them easy to write, understand, and maintain.
+    - Optimization opportunities. The way in which tasks are encoded permits the system to optimize their execution automatically, allowing the user to focus on semantics rather than efficiency.
+    - Extensibility. Users can create their own functions to do special-purpose processing.

@@ -1,0 +1,7 @@
+## Unit 2 - Steady State Analysis of Single Phase AC Circuits
+
+1. **Introduction:** Steady state analysis of single phase AC circuits involves the calculation of voltage, current, and power in circuits that are powered by a single phase AC source.
+2. **AC Fundamentals:** An AC source produces a voltage that varies sinusoidally with time. The voltage can be represented mathematically as V(t) = Vm * sin(ωt + φ), where Vm is the peak voltage, ω is the angular frequency, and φ is the phase angle.
+3. **Impedance and Admittance:** Impedance (Z) is the opposition to the flow of current in an AC circuit. It is a complex quantity, with a real part (resistance) and an imaginary part (reactance). Admittance (Y) is the reciprocal of impedance, and represents the ease with which current can flow in an AC circuit.
+4. **Series and Parallel Circuits:** In a series circuit, the current is the same through all components, while the voltage is divided among the components according to their impedances. In a parallel circuit, the voltage is the same across all components, while the current is divided among the components according to their admittances.
+5. **Power in AC Circuits:** In an AC circuit, the power consumed by a load is not constant, but varies with time. The average power consumed by a load over one cycle is known as the real power, while the peak power consumed by a load is known as the apparent power. The ratio of real power to apparent power is known as the power factor.

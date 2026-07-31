@@ -1,0 +1,14 @@
+### Operation for the notes of the Unit 2 - Bipolar Junction Transistor in the subject of FUNDAMENTALS OF ELECTRONICS ENGINEERING
+
+Bipolar Junction Transistor, commonly known as BJT, is a three-layer semiconductor device that consists of two p-n junctions. It is one of the most important components in electronics that is extensively used in various applications such as amplifiers, switches, oscillators, and many more. In this unit, we will study the operation of BJT in detail. Here are the key points to understand the operation of BJT:
+
+- BJT consists of three regions - emitter, base, and collector. The emitter is heavily doped, the base is lightly doped, and the collector is moderately doped.
+- BJT works on the principle of minority carrier injection. When a small current flows in the base region, it injects minority carriers (holes in case of NPN transistor and electrons in case of PNP transistor) into the base region.
+- These minority carriers diffuse towards the opposite region (collector in case of NPN transistor and emitter in case of PNP transistor) and get collected by the majority carriers.
+- This process results in a large current flow between the collector and emitter regions, which is controlled by the small current flowing in the base region.
+- The current amplification factor of BJT is denoted by beta (β), which is defined as the ratio of collector current to base current. A typical value of β is 100, which means that the collector current is 100 times larger than the base current.
+- BJT can be operated in two modes - active mode and saturation mode. In the active mode, the collector current is proportional to the base current, and the transistor acts as an amplifier. In the saturation mode, the collector current is independent of the base current, and the transistor acts as a switch.
+- BJT has some important parameters that affect its operation, such as saturation voltage, cutoff frequency, and temperature coefficient. These parameters need to be considered while designing a circuit using BJT.
+- BJT also has some limitations, such as the low input impedance, high output impedance, and poor temperature stability. These limitations can be overcome by using other devices such as field-effect transistors (FETs) or operational amplifiers (op-amps).
+
+In conclusion, the operation of BJT is an essential topic to understand in electronics engineering. It is crucial to comprehend the working principles and limitations of BJT to design and analyze various electronic circuits. The above key points will help you to gain a better understanding of the operation of BJT.

@@ -1,0 +1,8 @@
+#### Introduction to BI standards and reading of welding drawings. Practice of Making following operations Butt Joint Lap Joint TIG Welding MIG Welding
+
+- BI standards are the British standards for welding and fabrication. They specify the requirements for materials, design, execution, testing and inspection of welded structures and components.
+- Reading of welding drawings involves interpreting the symbols, dimensions, annotations and references that indicate the type, location, size and quality of welds and joints.
+- A butt joint is a type of joint where two pieces of metal are joined along their edges by welding. The edges can be square, beveled, V-grooved, U-grooved or J-grooved depending on the thickness and angle of the joint.
+- A lap joint is a type of joint where two pieces of metal are overlapped and welded together. The overlap can be parallel, staggered or offset depending on the alignment and orientation of the joint.
+- TIG welding (tungsten inert gas welding) is a type of arc welding that uses a non-consumable tungsten electrode and an inert gas (usually argon) to create a weld pool. The filler metal is added separately if needed. TIG welding is suitable for thin and delicate materials, and produces high-quality welds with minimal distortion and spatter.
+- MIG welding (metal inert gas welding) is a type of arc welding that uses a consumable wire electrode and an inert gas (usually argon or carbon dioxide) to create a weld pool. The wire electrode is fed continuously through a welding gun and acts as both the filler metal and the arc source. MIG welding is suitable for thick and heavy materials, and produces fast and strong welds with moderate distortion and spatter.

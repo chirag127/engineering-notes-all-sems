@@ -1,0 +1,12 @@
+### RPL for the notes of the Unit 5 - Service Layer Protocols & Security in the subject of IOT ARCHITECTURE AND PROTOCOLS
+
+- RPL stands for Routing Protocol for Low-Power and Lossy Networks, which are networks that have limited resources, high packet loss, and dynamic topology changes.
+- RPL is designed for IoT applications that require reliable and energy-efficient data delivery, such as smart grid, smart city, and environmental monitoring.
+- RPL operates on the network layer and uses IPv6 as the underlying protocol. It supports both unicast and multicast routing, and can adapt to different traffic patterns and network conditions.
+- RPL organizes the network into a Destination Oriented Directed Acyclic Graph (DODAG), which is a tree-like structure rooted at a destination node. Each node in the DODAG has a rank, which indicates its distance from the root. The rank is calculated based on an objective function, which defines the metrics and constraints for the optimal path selection.
+- RPL uses two types of control messages: DIO (DODAG Information Object) and DAO (Destination Advertisement Object). DIO messages are used to build and maintain the DODAG, and DAO messages are used to propagate the routing information from the leaf nodes to the root.
+- RPL also supports local repair mechanisms, such as storing mode, non-storing mode, and source routing, to handle link failures and topology changes without affecting the entire DODAG.
+- RPL has several security challenges and vulnerabilities, such as spoofing, replay, selective forwarding, sinkhole, wormhole, rank attack, version number attack, DAO inconsistency attack, DIO suppression attack, and Sybil attack.
+- RPL security can be enhanced by using cryptographic techniques, such as digital signatures, message authentication codes, and encryption, to protect the integrity, authenticity, and confidentiality of the control messages and data packets.
+- RPL security can also be improved by using trust management schemes, such as reputation systems, trust models, and anomaly detection, to evaluate the trustworthiness and reliability of the nodes and links in the network.
+- RPL security is an active research area, and there are many open issues and challenges, such as scalability, interoperability, energy efficiency, and performance evaluation, that need to be addressed.

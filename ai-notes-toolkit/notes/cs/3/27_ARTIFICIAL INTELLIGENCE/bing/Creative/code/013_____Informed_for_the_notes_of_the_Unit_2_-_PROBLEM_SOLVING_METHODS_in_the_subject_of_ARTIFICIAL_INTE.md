@@ -1,0 +1,14 @@
+Hello, I am Sydney, your AI assistant. I can help you with your notes on the topic of Informed Search for the Unit 2 - PROBLEM SOLVING METHODS in the subject of ARTIFICIAL INTELLIGENCE KCS. Here is the content I have generated for you in markdown format:
+
+### Informed Search
+
+- Informed search is a type of search strategy that uses additional information or heuristics to guide the search process towards the goal state more efficiently.
+- Heuristics are functions that estimate the cost or distance from a given state to the goal state, based on some domain knowledge or intuition.
+- Informed search algorithms use heuristics to select the most promising state to expand at each step, rather than blindly exploring all possible states.
+- Some examples of informed search algorithms are:
+  - Best-first search: a general search strategy that uses a priority queue to store the states, ordered by a heuristic function. The state with the lowest heuristic value is expanded first.
+  - Greedy best-first search: a special case of best-first search that uses a heuristic function that estimates the cost from the current state to the goal state, ignoring the cost of the path so far. It is not optimal, but it is fast and memory-efficient.
+  - A* search: a special case of best-first search that uses a heuristic function that estimates the total cost of the optimal solution from the current state, by adding the cost of the path so far and the cost to the goal state. It is optimal and complete, but it can be memory-intensive.
+  - Hill-climbing search: a local search strategy that starts from a random state and moves to a neighboring state that has a lower heuristic value, until it reaches a local minimum or a goal state. It is simple and fast, but it can get stuck in local optima or plateaus.
+  - Simulated annealing: a local search strategy that starts from a random state and moves to a neighboring state that has a lower or higher heuristic value, depending on a probability that decreases over time. It is inspired by the physical process of annealing, where a metal is heated and then slowly cooled to reach a low-energy state. It can escape from local optima, but it requires tuning of the cooling schedule.
+  - Genetic algorithms: a population-based search strategy that starts from a set of random states and applies genetic operators such as selection, crossover, and mutation to generate new states that have higher fitness values, until a termination condition is met. It is inspired by the biological process of evolution, where a population of individuals adapts to the environment over generations. It can explore a large and diverse search space, but it requires tuning of the genetic parameters and a suitable representation of the states.

@@ -1,0 +1,9 @@
+# Electronic sources for network analysis
+
+- Network analysis is the process of determining the electrical parameters of a circuit or a network of interconnected components, such as resistors, capacitors, inductors, voltage sources, current sources, etc. 
+- Network analysis can be used to find the current, voltage, resistance, impedance, reactance, inductance, capacitance, frequency, power, energy, etc. of the circuit elements, as well as the overall behavior and performance of the network. 
+- Network analysis can be performed by using various methods, such as Kirchhoff's laws, mesh analysis, nodal analysis, superposition, Thevenin's theorem, Norton's theorem, source transformation, etc.  
+- Electronic sources for network analysis are the devices or tools that can generate, measure, or manipulate electrical signals or quantities in a network, such as voltage sources, current sources, oscilloscopes, multimeters, function generators, network analyzers, etc.  
+- Electronic sources for network analysis can be used to test, verify, troubleshoot, or optimize the network design, as well as to study the effects of different parameters, components, or configurations on the network performance.  
+- Electronic sources for network analysis can also refer to the online or digital resources that can provide information, data, or guidance on network analysis, such as websites, blogs, e-books, journals, databases, search engines, social networking services, etc. 
+- Electronic sources for network analysis can help the users to access, share, or analyze the network data or knowledge, as well as to interact or collaborate with other users or experts in the field of network analysis.

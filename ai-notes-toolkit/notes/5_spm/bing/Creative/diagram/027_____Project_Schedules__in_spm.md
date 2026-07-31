@@ -1,0 +1,14 @@
+### Project Schedules in SPM
+
+- A project schedule is a graphical representation of the sequence and duration of the activities or tasks that need to be performed to complete a project.
+- A project schedule helps to plan, coordinate, monitor, and control the project activities, resources, and deliverables.
+- A project schedule also shows the dependencies, milestones, and critical path of the project, which are essential for managing the project risks and expectations.
+- A project schedule can be created using different methods, tools, and techniques, depending on the complexity, uncertainty, and constraints of the project.
+- Some of the common methods for creating a project schedule are:
+  - Critical Path Method (CPM): A technique that identifies the longest sequence of activities that determines the minimum duration of the project. The activities on the critical path have zero or negative float, which means they cannot be delayed without affecting the project completion date.
+  - Program Evaluation and Review Technique (PERT): A technique that uses three estimates (optimistic, most likely, and pessimistic) for each activity duration to account for the uncertainty and variability of the project. The expected duration of each activity is calculated using a weighted average formula, and the critical path is determined based on the expected durations.
+  - Critical Chain Method (CCM): A technique that focuses on the availability and utilization of the resources required for the project activities. The critical chain is the longest sequence of resource-dependent activities that determines the minimum duration of the project. The activities on the critical chain have zero or negative buffer, which means they cannot be delayed without affecting the project completion date.
+- Some of the common tools for creating a project schedule are:
+  - Gantt Chart: A graphical tool that shows the start and finish dates, durations, and progress of the project activities in a horizontal bar chart. The Gantt chart can also show the dependencies, milestones, and critical path of the project.
+  - Network Diagram: A graphical tool that shows the logical sequence and interrelationships of the project activities in a flowchart. The network diagram can also show the dependencies, float, and critical path of the project.
+  - Software Applications: Various software applications, such as MS Project, OmniPlan, Merlin Project, GanttPRO, etc., can be used to create, update, and manage the project schedule. These applications can also perform various calculations, analyses, and simulations to optimize the project schedule.

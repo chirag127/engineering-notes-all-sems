@@ -1,0 +1,11 @@
+### Connection management in transport layer
+
+Connection management is a crucial aspect of the transport layer. It ensures that data is transmitted smoothly and efficiently between the sender and the receiver. The following are the key points to understand connection management in the transport layer:
+
+- The transport layer provides connection-oriented and connectionless services. Connection-oriented services establish a virtual connection before transmitting data, while connectionless services do not establish a connection before transmitting data.
+- Connection-oriented services use a three-way handshake process to establish a connection. The sender sends a SYN packet to the receiver, the receiver responds with a SYN-ACK packet, and the sender sends an ACK packet to finalize the connection. This process ensures that both parties are aware of the connection and ready to transmit data.
+- Connection-oriented services maintain the connection until it is explicitly terminated by either party. This ensures that data is transmitted efficiently without the overhead of re-establishing the connection for each transmission.
+- Connectionless services do not establish a connection before transmitting data. Instead, each packet is individually transmitted and handled by the receiver. This approach is useful for applications that require low latency and do not require reliability.
+- Connection management also includes flow control and congestion control mechanisms. Flow control ensures that the sender does not overwhelm the receiver with too much data, while congestion control ensures that the network is not overwhelmed with too much traffic.
+- Transport layer protocols, such as TCP and UDP, implement connection management differently. TCP is a connection-oriented protocol that provides reliable, ordered, and error-checked delivery of data. UDP is a connectionless protocol that provides fast and low-overhead delivery of data but without the reliability guarantees of TCP.
+- In summary, connection management is a critical aspect of the transport layer that ensures efficient and reliable transmission of data between the sender and receiver. It includes connection-oriented and connectionless services, flow control, and congestion control mechanisms, and is implemented differently by different transport layer protocols.

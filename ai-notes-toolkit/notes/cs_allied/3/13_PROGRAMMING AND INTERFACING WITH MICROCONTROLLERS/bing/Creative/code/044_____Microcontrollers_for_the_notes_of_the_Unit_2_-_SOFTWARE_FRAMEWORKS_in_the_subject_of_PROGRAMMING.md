@@ -1,0 +1,14 @@
+### Microcontrollers for the notes of the Unit 2 - SOFTWARE FRAMEWORKS in the subject of PROGRAMMING AND INTERFACING WITH MICROCONTROLLERS
+
+- A software framework is a set of libraries, drivers, modules and tools that provide an abstraction layer to the hardware and simplify the development of embedded applications for microcontrollers .
+- A software framework can reduce the design time, improve the code quality, enhance the portability and scalability, and enable the integration of value-added features .
+- A software framework typically consists of the following components :
+  - Core: The core component provides the basic system services, such as memory management, interrupt handling, system clock, and startup code.
+  - Device: The device component provides the device-specific definitions, such as register maps, peripheral drivers, and configuration options.
+  - Board: The board component provides the board-specific definitions, such as pin assignments, external components, and initialization routines.
+  - RTOS: The RTOS component provides the real-time operating system services, such as task scheduling, synchronization, communication, and timing.
+  - Middleware: The middleware component provides the high-level software modules, such as file system, network stack, graphics library, and USB stack.
+  - Application: The application component provides the user-defined code, such as business logic, user interface, and algorithms.
+- A software framework may follow a standard or a convention to ensure the compatibility and interoperability of the components. For example, the Cortex Microcontroller Software Interface Standard (CMSIS) is a software framework for embedded applications that run on Cortex-M based microcontrollers. It defines the interfaces and specifications for the core, device, RTOS, and DSP components.
+- A software framework may also provide a graphical user interface (GUI) or a code generator tool to assist the developers in configuring and generating the code for the components. For example, the MPLAB® Code Configurator (MCC) is a free plug-in of MPLAB® X IDE, which provides an easy setup and configuration experience for supported microcontrollers. It allows the developers to select the peripherals, libraries, and middleware, and generate the initialization code and drivers.
+- A software framework may also support testing and debugging tools to help the developers verify and validate the code. For example, Unity is a commonly used framework that is written in ‘C’ and has been explicitly designed to run within constrained microcontrollers. It provides a test runner, assertions, and reporting functions to perform unit testing and code coverage analysis.

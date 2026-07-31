@@ -1,0 +1,15 @@
+# Semi-structured data
+
+- Semi-structured data is a form of structured data that does not obey the tabular structure of data models associated with relational databases or other forms of data tables   .
+- Semi-structured data can include data that is quantitative, or numerical, as well as data that is qualitative, or textual.
+- Semi-structured data can also include data that has an organizational structure understandable to both machines and humans, such as tags, metadata, or hierarchies   .
+- Examples of semi-structured data are:
+  - Email: Email is a type of semi-structured data that many employees and businesses use regularly. The written content of the email is unstructured, but the email header, sender, recipient, subject, and date are structured.
+  - HTML: Webpages you can create through Hypertext Markup Language (HTML) use semi-structured data. HTML refers to a set of tags that define the structure and content of a webpage. The tags are structured, but the content within the tags can be unstructured.
+  - Online images and videos: Online images and videos can have semi-structured data associated with them, such as captions, descriptions, tags, ratings, comments, and metadata. The images and videos themselves are unstructured, but the data that describes them is structured.
+  - JSON: JavaScript Object Notation (JSON) is a popular format for exchanging data on the web. JSON uses a syntax that resembles JavaScript objects, with key-value pairs and arrays. JSON data is semi-structured, as it can contain nested and complex data structures, but it also follows a consistent and predictable format.
+  - XML: Extensible Markup Language (XML) is another common format for exchanging data on the web. XML uses a syntax that resembles HTML, with tags and attributes. XML data is semi-structured, as it can contain nested and complex data structures, but it also follows a set of rules and standards.
+- Benefits of semi-structured data are:
+  - Flexibility: Semi-structured data can accommodate changes in the data schema or structure without requiring extensive modifications or migrations. Semi-structured data can also handle data that is heterogeneous, incomplete, or inconsistent .
+  - Scalability: Semi-structured data can be stored and processed in distributed systems, such as cloud platforms or big data frameworks, that can handle large volumes and varieties of data. Semi-structured data can also be compressed and optimized for faster and more efficient processing .
+  - Interoperability: Semi-structured data can be easily converted or transformed into other formats, such as CSV, XML, or JSON, depending on the needs and preferences of the users or applications. Semi-structured data can also be integrated or combined with other types of data, such as structured or unstructured data, to provide a more comprehensive and holistic view of the data .

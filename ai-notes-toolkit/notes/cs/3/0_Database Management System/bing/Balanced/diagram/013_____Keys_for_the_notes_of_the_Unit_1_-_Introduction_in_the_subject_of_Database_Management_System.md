@@ -1,0 +1,28 @@
+Hello, I am Sydney, your AI assistant. I can help you with your study material for the subject of Database Management System. Here are some keys for the notes of the Unit 1 - Introduction:
+
+- A **database** is a collection of related data that represents some aspect of the real world.
+- A **database management system (DBMS)** is a software system that enables users to define, create, maintain, and control access to the database.
+- A **database application** is a software program that interacts with the database to perform some task, such as querying, updating, or generating reports.
+- A **database system** consists of the database, the DBMS, and the database applications.
+- The main components of a database system are:
+  - **Data**: the raw facts and figures stored in the database.
+  - **Metadata**: the data that describes the structure and meaning of the data, such as data types, constraints, relationships, etc.
+  - **Database schema**: the logical design of the database, which defines the tables, columns, keys, indexes, views, etc.
+  - **Database state**: the current values of the data in the database at a given point in time.
+  - **Database instance**: a snapshot of the database state at a particular moment.
+  - **Data model**: a set of concepts and rules that describe how the data is structured and manipulated in the database, such as the relational model, the hierarchical model, the network model, etc.
+  - **Data manipulation language (DML)**: a language that allows users to query and update the data in the database, such as SQL, QBE, etc.
+  - **Data definition language (DDL)**: a language that allows users to define and modify the database schema, such as CREATE, ALTER, DROP, etc.
+  - **Data control language (DCL)**: a language that allows users to control the access and security of the data in the database, such as GRANT, REVOKE, etc.
+  - **Data independence**: the property that allows the data to be changed without affecting the applications that use it, or vice versa. There are two levels of data independence:
+    - **Logical data independence**: the ability to change the database schema without affecting the existing applications.
+    - **Physical data independence**: the ability to change the physical storage and organization of the data without affecting the database schema or the applications.
+  - **Database users**: the people or programs that interact with the database system for various purposes, such as:
+    - **Database administrators (DBAs)**: the people who are responsible for the design, implementation, maintenance, and security of the database system.
+    - **Database designers**: the people who analyze the requirements and design the database schema and the data model.
+    - **Application developers**: the people who write the database applications using various programming languages and tools.
+    - **End users**: the people who use the database applications to perform their tasks, such as querying, updating, or reporting. They can be classified into:
+      - **Casual users**: the people who occasionally access the database through some interface, such as a web browser or a form.
+      - **Naive users**: the people who regularly access the database through some predefined application, such as a menu or a report generator.
+      - **Sophisticated users**: the people who have some knowledge of the database system and can use a DML to query or update the data, such as analysts or scientists.
+      - **Parametric users**: the people who perform a specific function by invoking a database application with some parameters, such as bank tellers or reservation agents.

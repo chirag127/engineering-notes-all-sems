@@ -1,0 +1,19 @@
+### 16. Element detection and identification of functional groups in organic compounds.
+
+- Organic compounds are composed of carbon, hydrogen, and other elements such as oxygen, nitrogen, sulfur, phosphorus, halogens, etc.
+- The detection and identification of these elements and functional groups in organic compounds is an important part of organic chemistry.
+- There are various methods and tests to detect and identify the elements and functional groups in organic compounds, such as:
+
+  - **Element detection**: The presence of carbon and hydrogen can be confirmed by heating the organic compound with copper oxide, which produces carbon dioxide and water. The presence of other elements can be detected by various tests, such as:
+
+    - **Nitrogen**: The organic compound is heated with sodium metal, which forms sodium cyanide. The sodium cyanide is then treated with iron(II) sulfate and sulfuric acid, which produces Prussian blue color if nitrogen is present.
+    - **Sulfur**: The organic compound is heated with sodium metal, which forms sodium sulfide. The sodium sulfide is then treated with lead acetate, which produces a black precipitate of lead sulfide if sulfur is present.
+    - **Halogens**: The organic compound is heated with sodium metal, which forms sodium halide. The sodium halide is then treated with silver nitrate, which produces a white, yellow, or cream-colored precipitate of silver halide if halogens are present.
+    - **Phosphorus**: The organic compound is heated with sodium peroxide, which forms sodium phosphate. The sodium phosphate is then treated with ammonium molybdate and nitric acid, which produces a yellow precipitate of ammonium phosphomolybdate if phosphorus is present.
+
+  - **Functional group identification**: The presence of various functional groups in organic compounds can be identified by specific chemical reactions, such as:
+
+    - **Alcohols**: The organic compound is treated with sodium metal, which produces hydrogen gas and sodium alkoxide if alcohols are present. The organic compound is also treated with Lucas reagent (zinc chloride and hydrochloric acid), which produces a turbidity or a second layer if alcohols are present. The rate of turbidity depends on the type of alcohol: tertiary alcohols react immediately, secondary alcohols react within 5 minutes, and primary alcohols do not react.
+    - **Aldehydes and ketones**: The organic compound is treated with Fehling's solution (copper(II) sulfate, sodium hydroxide, and potassium sodium tartrate), which produces a red precipitate of copper(I) oxide if aldehydes are present. The organic compound is also treated with Tollens' reagent (silver nitrate and ammonia), which produces a silver mirror on the inner surface of the test tube if aldehydes are present. Ketones do not react with either of these reagents.
+    - **Carboxylic acids**: The organic compound is treated with sodium bicarbonate, which produces carbon dioxide gas and sodium salt of the carboxylic acid if carboxylic acids are present. The organic compound is also treated with neutral iron(III) chloride, which produces a red or violet color if carboxylic acids are present.
+    - **Amines**: The organic compound is treated with nitrous acid (sodium nitrite and hydrochloric acid), which produces different products depending on the type of amine: primary amines produce nitrogen gas and alcohols, secondary amines produce nitrosamines, and tertiary amines do not react. The organic compound is also treated with Hinsberg reagent (benzenesulfonyl chloride and sodium hydroxide), which produces a soluble or insoluble salt depending on the type of amine: primary amines produce a soluble salt, secondary amines produce an insoluble salt, and tertiary amines do not react.

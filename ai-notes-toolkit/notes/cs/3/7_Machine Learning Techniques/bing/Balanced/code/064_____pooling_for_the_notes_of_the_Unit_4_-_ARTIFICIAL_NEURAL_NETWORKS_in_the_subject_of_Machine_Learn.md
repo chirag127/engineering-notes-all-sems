@@ -1,0 +1,8 @@
+### Pooling for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+
+- Artificial neural networks (ANNs) are computational models that are inspired by the structure and function of biological neural networks, such as the human brain .
+- ANNs consist of layers of interconnected nodes, called artificial neurons, that can process and transmit information. Each node has a set of inputs, a weight vector, a bias term, an activation function, and an output .
+- The input layer receives the data from the external source, such as an image, a text, or a sound. The output layer produces the desired result, such as a classification, a prediction, or a decision. The hidden layers are the intermediate layers that perform the computations and transformations on the data .
+- The learning process of ANNs involves adjusting the weights and biases of the nodes based on the error between the actual output and the expected output. This can be done using various algorithms, such as gradient descent, backpropagation, or stochastic gradient descent .
+- ANNs can be classified into different types based on their architecture, such as feedforward neural networks, recurrent neural networks, convolutional neural networks, or deep neural networks. Each type has its own advantages and disadvantages, depending on the problem domain and the data characteristics .
+- ANNs have many applications in machine learning, such as image recognition, natural language processing, speech recognition, computer vision, data mining, and pattern recognition. They can also be used for solving complex and nonlinear problems that are difficult for traditional algorithms .

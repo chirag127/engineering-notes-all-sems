@@ -1,0 +1,27 @@
+### IOT Temperature & Mask Scan Entry System
+
+- An IoT-based solution to increase COVID-19 indoor safety by checking the temperature and mask status of the visitors or employees before allowing entry.
+- The system consists of the following components:
+  - A contactless temperature scanner that uses a thermal camera or a sensor to measure the body temperature of the person (temperature measurement precision ± 0.3 °C)  .
+  - A mask detector that uses a video camera and an image processing algorithm to detect the presence or absence of a mask on the person's face   .
+  - A gate or a barrier that controls the entry of the person based on the temperature and mask scan results. The gate can be a flap barrier, a turnstile, a door, or a similar mechanism  .
+  - A Raspberry Pi system that acts as the central controller of the system. It receives the data from the scanner and the detector, compares them with the predefined thresholds, and sends the commands to the gate accordingly   .
+  - A 7-inch touch screen that displays the temperature and mask scan results, as well as the instructions for the person to follow .
+  - An IoT platform that connects the system to the internet and allows remote monitoring and data analysis  .
+- The system works as follows:
+  - The person approaches the system and stands in front of the scanner and the detector.
+  - The system captures the temperature and the image of the person and displays them on the screen.
+  - The system compares the temperature and the mask status with the predefined criteria. For example, the temperature should be below 37.5 °C and the mask should cover the nose and mouth  .
+  - If the person meets the criteria, the system allows the entry by opening the gate and displays a green message on the screen. For example, "Welcome, you are safe to enter"  .
+  - If the person does not meet the criteria, the system denies the entry by closing the gate and displays a red message on the screen. For example, "Sorry, you are not allowed to enter. Please check your temperature and wear a mask properly"  .
+  - The system sends the data to the IoT platform for further analysis and reporting  .
+- The system has the following advantages:
+  - It reduces the risk of COVID-19 transmission by screening the visitors or employees for fever and mask compliance   .
+  - It automates the entry process and eliminates the need for manual checking and intervention   .
+  - It provides real-time feedback and guidance to the person and improves the user experience  .
+  - It collects and stores the data for future reference and decision making  .
+- The system has the following challenges and limitations:
+  - It requires a reliable power supply and internet connection to function properly  .
+  - It may not be able to detect the temperature and mask accurately in some cases, such as when the person wears glasses, a hat, or a scarf, or when the ambient temperature is too high or low  .
+  - It may not be able to prevent the entry of asymptomatic or presymptomatic carriers of COVID-19, who may not have fever or mask  .
+  - It may raise some privacy and ethical concerns regarding the collection and use of the personal data  .

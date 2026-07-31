@@ -1,0 +1,26 @@
+# KOT 553 INTERNET OF THINGS LAB KCS
+
+- KOT 553 is a lab course for the third year students of Computer Science and Engineering (IoT) at Dr. A.P.J. Abdul Kalam Technical University (AKTU).
+- The course aims to provide hands-on experience and practical skills in developing and deploying IoT applications using various hardware devices and sensors.
+- The course covers the following topics:
+  - Introduction to IoT and its applications
+  - IoT architecture and protocols
+  - IoT hardware devices and sensors
+  - IoT platforms and cloud services
+  - IoT data processing and analytics
+  - IoT security and privacy
+- The course has a total of 60 hours of lab work, divided into 15 sessions of 4 hours each.
+- The course has a total of 100 marks, divided into 50 marks for internal assessment and 50 marks for external assessment.
+- The internal assessment consists of 10 marks for attendance, 10 marks for lab record, 10 marks for viva, and 20 marks for lab test.
+- The external assessment consists of 30 marks for practical exam and 20 marks for project presentation.
+- The course has the following prerequisites:
+  - KOT 501 Introduction to Internet of Things
+  - KCS 501 Data Structures
+  - KCS 502 Computer Networks
+  - KCS 503 Database Management Systems
+- The course has the following learning outcomes:
+  - Demonstrate the basic concepts, principles and challenges in IoT
+  - Illustrate the functioning of hardware devices and sensors used for IoT
+  - Design and implement IoT applications using various IoT platforms and cloud services
+  - Analyze and visualize IoT data using various tools and techniques
+  - Evaluate and address the security and privacy issues in IoT

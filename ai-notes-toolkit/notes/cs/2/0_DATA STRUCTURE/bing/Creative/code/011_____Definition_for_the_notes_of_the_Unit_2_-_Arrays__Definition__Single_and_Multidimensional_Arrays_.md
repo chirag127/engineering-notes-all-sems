@@ -1,0 +1,21 @@
+# Definition for the notes of the Unit 2 - Arrays: Definition, Single and Multidimensional Arrays, Representation of Arrays: Row Major Order, and Column Major Order, Derivation of Index Formulae for 1-D,2-D,3-D and n-D Array Application of arrays, Sparse Matrices and their representations. Linked lists: Array Implementation and Pointer Implementation of Singly Linked Lists, Doubly Linked List, Circularly Linked List, Operations on a Linked List. Insertion, Deletion, Traversal, Polynomial Representation and Addition Subtraction & Multiplications of Single variable & Two variables Polynomial. in the subject of DATA STRUCTURE
+
+- An array is a data structure that consists of a collection of elements, each identified by at least one index or key.
+- An array is stored in contiguous memory locations, such that the position of each element can be computed from its index by a mathematical formula.
+- An array can have one or more dimensions, depending on the number of indices or keys required to access its elements.
+- A one-dimensional array (1-D array) is a linear array, where each element has a single index or key.
+- A two-dimensional array (2-D array) is a rectangular array, where each element has two indices or keys, one for the row and one for the column.
+- A three-dimensional array (3-D array) is a cuboidal array, where each element has three indices or keys, one for the height, one for the row, and one for the column.
+- An n-dimensional array (n-D array) is a generalization of the above arrays, where each element has n indices or keys.
+- The representation of arrays in memory can be done in two ways: row major order and column major order.
+- In row major order, the elements of an array are stored row by row, such that the elements of the first row are stored first, followed by the elements of the second row, and so on.
+- In column major order, the elements of an array are stored column by column, such that the elements of the first column are stored first, followed by the elements of the second column, and so on.
+- The derivation of index formulae for 1-D, 2-D, 3-D and n-D arrays is based on the following factors: the base address of the array, the size of each element, the number of elements in each dimension, and the order of storage.
+- For a 1-D array A of size n, stored in row major order, the index formula for the element A[i] is: A[i] = base address + i * size of element.
+- For a 2-D array A of size m x n, stored in row major order, the index formula for the element A[i][j] is: A[i][j] = base address + (i * n + j) * size of element.
+- For a 3-D array A of size l x m x n, stored in row major order, the index formula for the element A[i][j][k] is: A[i][j][k] = base address + (i * m * n + j * n + k) * size of element.
+- For an n-D array A of size d1 x d2 x ... x dn, stored in row major order, the index formula for the element A[i1][i2]...[in] is: A[i1][i2]...[in] = base address + (i1 * d2 * d3 * ... * dn + i2 * d3 * d4 * ... * dn + ... + in-1 * dn + in) * size of element.
+- The index formulae for column major order can be derived by reversing the order of the indices and dimensions in the above formulae.
+- Arrays can be used for various applications, such as storing and manipulating data, implementing matrices, vectors, and tensors, implementing other data structures, such as stacks, queues, heaps, and hash tables, and solving computational problems, such as sorting, searching, and dynamic programming .
+- A sparse matrix is a matrix that has a large number of zero elements, compared to the non-zero elements.
+- Sparse matrices can be represented in various ways, such as using arrays, linked lists, or trees[^

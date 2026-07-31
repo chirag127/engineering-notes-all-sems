@@ -1,0 +1,11 @@
+#### Various Size Oriented Measures in Software Design
+
+Size oriented measures are derived by normalizing quality and productivity measures by considering the size of the software that has been produced. The size of the software can be measured in different ways, such as lines of code (LOC), function points (FP), or object points (OP). Size oriented measures can be used to compare the performance of different software projects or developers, as well as to estimate the effort, cost, and duration of future projects.
+
+Some examples of size oriented measures are:
+
+- **Lines of code (LOC)**: This is the most common and simple measure of software size. It counts the number of lines of code in the source code of the software, excluding comments and blank lines. LOC can be measured in physical lines (actual lines in the source code file) or logical lines (statements or instructions). LOC can vary depending on the programming language, coding style, and level of abstraction used. Therefore, it is not a reliable measure for comparing software written in different languages or by different developers.
+
+- **Function points (FP)**: This is a measure of software size based on the functionality provided by the software to the user. It counts the number of inputs, outputs, inquiries, files, and interfaces in the software, and assigns a weight to each based on its complexity. FP can be used to estimate the effort and cost of software development, as well as to measure the productivity and quality of the software. FP are independent of the programming language, coding style, and level of abstraction used, and therefore can be used to compare software written in different languages or by different developers.
+
+- **Object points (OP)**: This is a measure of software size based on the number and complexity of objects in the software. It counts the number of screens, reports, and components in the software, and assigns a weight to each based on its complexity. OP can be used to estimate the effort and cost of software development, as well as to measure the productivity and quality of the software. OP are independent of the programming language, coding style, and level of abstraction used, and therefore can be used to compare software written in different languages or by different developers.

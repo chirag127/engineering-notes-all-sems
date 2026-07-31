@@ -1,0 +1,7 @@
+### Definition for the notes of the Unit 6 - Object Oriented Testing in the subject of Software Testing
+
+- Object Oriented Testing (OOT) is a type of software testing that is based on the concepts and principles of Object Oriented Programming (OOP)   .
+- OOP is a programming paradigm that uses classes and objects as the basic building blocks of software  . Classes are blueprints that define the attributes and behaviors of objects, and objects are instances of classes that can interact with each other  .
+- OOT aims to verify and validate the functionality, quality, and reliability of object oriented software by testing its classes, objects, methods, inheritance, polymorphism, encapsulation, and other OOP features    .
+- OOT involves three levels of testing: unit testing, subsystem testing, and system testing . Unit testing focuses on testing individual classes and methods, subsystem testing focuses on testing groups of classes and their interactions, and system testing focuses on testing the whole software system and its integration with other systems .
+- OOT requires different techniques and tools than conventional testing, as it has to deal with the complexity, abstraction, and dynamic behavior of object oriented software    . Some of the common techniques and tools for OOT are class testing, state-based testing, scenario-based testing, fault-based testing, mutation testing, and test case generation tools    .

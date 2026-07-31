@@ -1,0 +1,7 @@
+### Link layer connectivity and TCP IP connectivity
+
+- The link layer of the TCP/IP model is often compared directly with the combination of the data link layer and the physical layer in the Open Systems Interconnection (OSI) protocol stack. Although they are congruent to some degree in technical coverage of protocols, they are not identical .
+- The link layer in the TCP/IP model is a descriptive realm of networking protocols that operate only on the local network segment (link) that a host is connected to. Such protocol packets are not routed to other networks .
+- In the Internet Protocol Suite (TCP/IP), the data link layer functionality is contained within the link layer, the lowest layer of the descriptive model, which is assumed to be independent of physical infrastructure. The data link provides for the transfer of data frames between hosts connected to the physical link .
+- A layer is a way of categorizing and grouping functionality and behavior on and of a network. In the OSI model, layers are organized from the most tangible and most physical, to less tangible and less physical but closer to the end user. Each layer abstracts lower level functionality away until by the time you get to the highest layer .
+- The data link layer is just the first, or bottom, layer of a layered model called the TCP/IP model. TCP stands for Transmission Control Protocol, and IP stands for Internet Protocol .

@@ -1,0 +1,21 @@
+## Unit 3 - Modelling and Aggregating Social Network Data
+
+- This unit covers the basic concepts and methods for modelling and analysing social network data.
+- A social network is a set of actors (nodes) and their relationships (edges).
+- Social network data can be represented by graphs, matrices, or tables.
+- Graphs are visual representations of nodes and edges, where nodes are usually drawn as circles or points, and edges are usually drawn as lines or curves.
+- Matrices are numerical representations of nodes and edges, where rows and columns correspond to nodes, and entries indicate the presence or absence of an edge, or the strength or weight of an edge.
+- Tables are textual representations of nodes and edges, where each row corresponds to an edge, and each column corresponds to an attribute of the edge, such as the source node, the target node, the type of relationship, or the time of occurrence.
+- Social network data can be analysed using various measures and methods, such as:
+  - Degree centrality: the number of edges incident to a node, indicating the popularity or activity of a node.
+  - Betweenness centrality: the number of shortest paths between pairs of nodes that pass through a node, indicating the influence or brokerage of a node.
+  - Closeness centrality: the inverse of the average distance from a node to all other nodes, indicating the accessibility or efficiency of a node.
+  - Eigenvector centrality: the sum of the centrality values of the neighbours of a node, indicating the prestige or reputation of a node.
+  - Clustering coefficient: the ratio of the number of triangles (closed triads) to the number of triples (open or closed triads) involving a node, indicating the tendency of a node to form cliques or groups.
+  - Modularity: the extent to which a network can be partitioned into communities or clusters of densely connected nodes, indicating the structure or diversity of a network.
+  - Homophily: the tendency of nodes to connect with similar nodes, indicating the similarity or diversity of a network.
+  - Assortativity: the correlation between the attributes of nodes that are connected by edges, indicating the mixing or segregation of a network.
+  - Network density: the ratio of the number of actual edges to the number of possible edges, indicating the completeness or sparseness of a network.
+  - Network diameter: the maximum distance between any pair of nodes, indicating the size or complexity of a network.
+  - Network reciprocity: the ratio of the number of mutual edges to the number of directed edges, indicating the symmetry or asymmetry of a network.
+  - Network transitivity: the ratio of the number of triangles to the number of triples, indicating the cohesion or fragmentation of a network.

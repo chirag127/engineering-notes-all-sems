@@ -1,0 +1,22 @@
+### Code Generator for the notes of the Unit 5 - Code Generation in the subject of Compiler Design
+
+- Code generation is the final phase of compilation, where the intermediate representation of the source program is translated into the target program, which is usually machine-dependent executable code .
+- The code generator performs three main tasks:
+  - Instruction selection: choosing the appropriate instructions from the target machine's instruction set to implement the operations in the intermediate code.
+  - Register allocation: assigning the variables and temporary values to the available registers in the target machine, or to memory locations if registers are not enough.
+  - Instruction scheduling: ordering the instructions to improve the performance and efficiency of the target code, taking into account the dependencies and latencies of the instructions.
+- Code generation can be done in different ways, depending on the intermediate representation and the target machine. Some common methods are :
+  - Recursive traversal: visiting the nodes of the abstract syntax tree or the directed acyclic graph in a recursive manner, and generating the target code for each node according to its type and attributes.
+  - Pattern matching: finding the patterns of intermediate code that match the templates of target code, and replacing them with the corresponding target code. This can be done using tree pattern matching or peephole optimization techniques.
+  - Dynamic programming: finding the optimal way of generating the target code for a given intermediate code, by considering the cost and benefit of each possible instruction sequence. This can be done using algorithms such as Sethi-Ullman or BURS (Bottom-Up Rewrite System).
+- Code generation can also be done at the design stage, before the actual compilation, using tools that generate code from models, templates, or specifications. This can help to automate the development process, reduce errors, and improve productivity and quality.
+- Some examples of design-time code generation tools are:
+  - XLS Transformation templates: using XML-based templates to generate code from XML data or schemas.
+  - UML-based tools: using Unified Modeling Language diagrams to generate code for different platforms or languages.
+  - Razor Generator: using Razor syntax to generate code for ASP.NET web applications.
+  - Metadrone: using a graphical interface to generate code from database schemas or queries.
+  - Reegenerator: using C# attributes to generate code from methods or classes.
+  - T4 templates: using Text Template Transformation Toolkit to generate code from text files or other sources.
+  - Radzen: using a web-based interface to generate code for Angular, Blazor, or React applications.
+  - CodeSmith Generator: using a template engine to generate code from various sources or formats.
+  - ASP.Net Zero: using a framework to generate code for ASP.NET Core web applications.

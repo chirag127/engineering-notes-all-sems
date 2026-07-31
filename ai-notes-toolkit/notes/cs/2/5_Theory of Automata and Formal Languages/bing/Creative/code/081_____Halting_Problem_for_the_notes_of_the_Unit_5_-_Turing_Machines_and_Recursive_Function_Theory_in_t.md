@@ -1,0 +1,9 @@
+### Halting Problem
+
+- The halting problem is a decision problem about properties of computer programs on a fixed Turing-complete model of computation, i.e., all programs that can be written in some given programming language that is general enough to be equivalent to a Turing machine.
+- The problem is to determine, from a description of an arbitrary computer program and an input, whether the program will finish running, or continue to run forever.
+- Alan Turing proved in 1936 that a general algorithm to solve the halting problem for all possible program–input pairs cannot exist.
+- The proof is based on a contradiction: suppose there exists a program H that can decide the halting problem, then we can construct a program R that uses H to reverse its output, i.e., R halts if and only if H says that R does not halt. This leads to a paradox, since R cannot be both halting and non-halting.
+- The halting problem is an example of an undecidable problem, which means that there is no effective method to determine the answer for all possible inputs.
+- The halting problem is also a good example of the limits of determinism in computer science, since it shows that there are some questions that cannot be answered by any algorithm, no matter how powerful or clever.
+- The universal halting problem, also known as totality, is the problem of determining whether a given computer program will halt for every input. This problem is not only undecidable, as the halting problem is, but highly undecidable, which means that there is no algorithm that can even partially solve it, i.e., correctly answer yes for some inputs and no for others.

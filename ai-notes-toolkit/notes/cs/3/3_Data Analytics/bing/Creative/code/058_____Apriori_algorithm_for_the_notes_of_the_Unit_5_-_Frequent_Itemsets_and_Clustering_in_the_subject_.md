@@ -1,0 +1,26 @@
+### Apriori algorithm
+
+- The Apriori algorithm is an algorithm for **frequent itemset mining** and **association rule learning** over relational databases  .
+- Frequent itemsets are sets of items that appear together in a database with a minimum frequency or support  .
+- Association rules are implications of the form X -> Y, where X and Y are itemsets, meaning that if X is present in a transaction, then Y is likely to be present as well  .
+- The Apriori algorithm was proposed by **Agrawal and Srikant** in 1994 .
+- The Apriori algorithm is designed to operate on databases containing **transactions** (for example, collections of items bought by customers, or details of a website frequentation or IP addresses)  .
+- The Apriori algorithm uses a **bottom-up** or **level-wise** approach, where it starts from the frequent individual items (1-itemsets) and extends them to larger and larger itemsets as long as they are frequent in the database  .
+- The Apriori algorithm uses the property that **all subsets of a frequent itemset are also frequent** (called the **Apriori property** or **anti-monotonicity**), which allows it to prune the search space and avoid testing all possible itemsets  .
+- The Apriori algorithm consists of two main steps: **join** and **prune**  .
+  - The join step generates candidate itemsets of size k by joining frequent itemsets of size k-1 with themselves  .
+  - The prune step eliminates the candidate itemsets that have infrequent subsets by using the Apriori property  .
+- The Apriori algorithm repeats the join and prune steps until no more frequent or candidate itemsets can be generated  .
+- The Apriori algorithm can also generate association rules from the frequent itemsets by applying a minimum confidence threshold  .
+  - The confidence of a rule X -> Y is the ratio of the support of X union Y to the support of X  .
+  - The confidence measures how often the items in Y appear in transactions that contain X  .
+- The Apriori algorithm has some limitations, such as:
+  - It may require multiple scans of the database, which can be costly for large or disk-resident databases  .
+  - It may generate a huge number of candidate itemsets, especially for long patterns or low support thresholds  .
+  - It may not be efficient for sparse data, where there are few frequent itemsets  .
+- The Apriori algorithm can be improved or modified by using various techniques, such as:
+  - Hash-based itemset counting, which uses a hash function to reduce the size of the candidate itemsets  .
+  - Transaction reduction, which removes the transactions that do not contain any frequent itemsets from the database  .
+  - Partitioning, which divides the database into smaller subsets and applies the Apriori algorithm on each subset  .
+  - Sampling, which selects a random sample of the database and applies the Apriori algorithm on the sample  .
+  - Dynamic itemset counting, which counts the support of the candidate itemsets on the fly and avoids generating unnecessary candidates  .

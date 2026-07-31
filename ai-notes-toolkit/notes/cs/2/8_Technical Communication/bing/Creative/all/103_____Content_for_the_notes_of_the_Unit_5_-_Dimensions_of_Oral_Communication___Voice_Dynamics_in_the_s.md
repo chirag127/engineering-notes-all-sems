@@ -1,0 +1,22 @@
+# Content for the notes of the Unit 5 - Dimensions of Oral Communication & Voice Dynamics in the subject of Technical Communication
+
+- Oral communication is the verbal and visual transmission of information from one person to another.
+- Oral communication can be classified into two dimensions: formal and informal.
+  - Formal oral communication follows a set of rules and conventions, such as presentations, speeches, interviews, and meetings.
+  - Informal oral communication is more spontaneous and casual, such as conversations, chats, and gossip.
+- Oral communication involves both verbal and nonverbal elements, such as words, tone, pitch, volume, gestures, facial expressions, and eye contact.
+- Oral communication requires effective vocal delivery, which is the use of voice to convey the message and create an impression on the audience.
+- Vocal delivery includes the following aspects:
+  - Volume: the loudness or softness of the voice, which should be appropriate for the size of the room and the number of listeners.
+  - Rate: the speed of speaking, which should be neither too fast nor too slow, and should vary according to the content and the mood.
+  - Pitch: the highness or lowness of the voice, which should be modulated to avoid monotony and to emphasize key points.
+  - Articulation: the clarity and accuracy of pronouncing words, which should avoid mumbling, slurring, or dropping sounds.
+  - Fluency: the smoothness and continuity of speaking, which should avoid hesitations, fillers, and repetitions.
+  - Pronunciation: the correctness and appropriateness of saying words, which should follow the standard or accepted norms of the language and the context.
+  - Accent: the distinctive way of saying words, which should be understandable and respectful of the listeners' backgrounds and preferences.
+- Oral communication also requires effective use of audiovisual aids, such as slides, charts, graphs, images, videos, and sounds, to support and enhance the message.
+- Audiovisual aids should be relevant, clear, simple, attractive, and consistent with the oral communication objectives and audience needs.
+- Oral communication can be evaluated based on the following criteria:
+  - Content: the quality and accuracy of the information, the organization and coherence of the ideas, and the suitability and relevance of the message for the purpose and the audience.
+  - Delivery: the effectiveness and appropriateness of the vocal and nonverbal elements, the use of audiovisual aids, and the engagement and rapport with the audience.
+  - Feedback: the response and reaction of the audience, the questions and comments raised, and the suggestions and recommendations given.

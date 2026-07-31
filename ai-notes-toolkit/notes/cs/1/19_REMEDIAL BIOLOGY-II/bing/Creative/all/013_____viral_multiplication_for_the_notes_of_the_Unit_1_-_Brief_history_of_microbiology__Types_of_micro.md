@@ -1,0 +1,17 @@
+# Viral Multiplication
+
+Viral multiplication is the process of producing new viruses using the host cell's machinery and resources. Viruses are infectious particles that consist of a nucleic acid genome (DNA or RNA) enclosed in a protein shell called a capsid. Some viruses also have a lipid envelope surrounding the capsid. Viruses can only replicate inside living cells, and they have a specific host range and tissue tropism, meaning they can only infect certain types of cells and organs.
+
+The general steps of viral multiplication are:
+
+- **Attachment**: The virus binds to specific receptors on the surface of the host cell, using proteins or glycoproteins on its capsid or envelope. This determines the specificity and susceptibility of the virus to the host cell.
+- **Penetration**: The virus enters the host cell by different mechanisms, depending on the type of virus. Some viruses fuse their envelope with the host cell membrane and release their nucleocapsid into the cytoplasm. Some viruses are endocytosed by the host cell and escape from the endosome. Some viruses inject their genome into the host cell, leaving the capsid outside.
+- **Uncoating**: The virus releases its genome from the capsid, making it available for transcription and replication. This may occur in the cytoplasm or in the nucleus, depending on the type of virus and its genome.
+- **Biosynthesis**: The virus uses the host cell's enzymes, ribosomes, and other components to synthesize its own proteins and nucleic acids. The viral genome is transcribed into mRNA, which is translated into viral proteins. The viral genome is also replicated, using either the host cell's DNA or RNA polymerases, or the virus's own polymerases.
+- **Assembly**: The newly synthesized viral components are assembled into new virions, either in the cytoplasm or in the nucleus, depending on the type of virus. The assembly process may involve the formation of a capsid around the genome, the acquisition of an envelope from the host cell membrane, and the incorporation of viral proteins into the capsid or envelope.
+- **Release**: The new virions exit the host cell by different mechanisms, depending on the type of virus. Some viruses cause the host cell to lyse, breaking the cell membrane and releasing the virions. Some viruses bud from the host cell membrane, taking a portion of the membrane as their envelope. Some viruses are exocytosed by the host cell, using vesicles to transport the virions to the cell surface.
+
+The viral multiplication cycle can be classified into two types, based on the fate of the host cell and the viral genome:
+
+- **Lytic cycle**: The virus replicates and produces new virions that kill the host cell upon release. The viral genome does not integrate into the host cell's genome, and the infection is usually acute and self-limiting. Examples of viruses that undergo the lytic cycle are influenza virus, poliovirus, and rhinovirus.
+- **Lysogenic cycle**: The virus integrates its genome into the host cell's genome, forming a provirus that remains latent and does not produce new virions. The provirus can be activated by certain stimuli, such as stress, UV light, or chemicals, and enter the lytic cycle. The infection is usually chronic and persistent, and can lead to oncogenesis or transformation of the host cell. Examples of viruses that undergo the lysogenic cycle are herpesvirus, HIV, and hepatitis B virus.

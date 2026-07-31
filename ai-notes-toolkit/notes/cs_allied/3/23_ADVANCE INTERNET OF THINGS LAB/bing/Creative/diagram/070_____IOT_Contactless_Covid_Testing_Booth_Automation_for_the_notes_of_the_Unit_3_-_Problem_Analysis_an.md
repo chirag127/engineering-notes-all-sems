@@ -1,0 +1,22 @@
+### IOT Contactless Covid Testing Booth Automation
+
+- The main aim of this project is to design a completely automated instant contactless covid testing booth system by which person details is monitored using RFID technology .
+- This system helps to make Covid center automated and contactless which helps to reduce spreading of virus in the Covid testing centers.
+- This system utilizes microcontroller, MATLAB, GSM modem, RFID reader, RFID tags, LCD display, buzzer, and swab collection kit .
+- The system works as follows:
+  - The person who wants to get tested has to register online and get a unique RFID tag.
+  - The person has to scan the RFID tag at the entrance of the booth and the system will display the person's name and contact number on the LCD display .
+  - The system will also send a confirmation message to the person's mobile number using GSM modem .
+  - The person has to enter the booth and follow the instructions on the LCD display to collect the swab sample using the swab collection kit.
+  - The person has to place the swab sample in a sealed container and exit the booth.
+  - The system will send the swab sample to the lab for testing using a conveyor belt.
+  - The system will also send a message to the person's mobile number with the test result and the QR code for the test report.
+  - The person can scan the QR code to access the test report online.
+- The system has the following advantages:
+  - It reduces the human contact and the risk of infection for the health workers and the test takers  .
+  - It reduces the time and cost of testing and increases the efficiency and accuracy of testing  .
+  - It provides a secure and convenient way of testing and reporting  .
+- The system has the following challenges:
+  - It requires a reliable and stable internet connection and power supply .
+  - It requires a proper maintenance and calibration of the hardware components .
+  - It requires a high level of security and privacy for the data transmission and storage .

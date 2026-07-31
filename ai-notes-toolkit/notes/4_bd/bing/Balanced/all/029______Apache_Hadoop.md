@@ -1,0 +1,35 @@
+#### Apache Hadoop
+
+- Apache Hadoop is a collection of open-source software utilities that facilitates using a network of many computers to solve problems involving massive amounts of data and computation .
+- Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models .
+- Apache Hadoop is designed to scale up from single servers to thousands of machines, each offering local computation and storage.
+- Apache Hadoop consists of four main modules: Hadoop Common, Hadoop Distributed File System (HDFS), Hadoop MapReduce, and Hadoop YARN .
+  - Hadoop Common: The common utilities that support the other Hadoop modules.
+  - Hadoop Distributed File System (HDFS): A distributed file system that provides high-throughput access to application data.
+  - Hadoop MapReduce: A programming model for large-scale data processing.
+  - Hadoop YARN: A framework for job scheduling and cluster resource management.
+- Apache Hadoop also has several subprojects that provide additional features and functionality, such as Hadoop ZooKeeper, Hadoop Hive, Hadoop HBase, Hadoop Spark, and Hadoop Oozie .
+  - Hadoop ZooKeeper: A service for coordinating processes of distributed applications.
+  - Hadoop Hive: A data warehouse system for data summarization, analysis, and querying.
+  - Hadoop HBase: A distributed, scalable, big data store.
+  - Hadoop Spark: A fast and general engine for large-scale data processing.
+  - Hadoop Oozie: A workflow scheduler system to manage Hadoop jobs.
+- Apache Hadoop is widely used for big data analytics, machine learning, data mining, web indexing, and scientific computing.
+- Apache Hadoop has several advantages, such as:
+  - Scalability: Hadoop can handle petabytes of data and thousands of nodes without losing performance or reliability.
+  - Fault-tolerance: Hadoop can automatically recover from failures and continue processing without data loss or corruption.
+  - Cost-effectiveness: Hadoop can run on commodity hardware and use open-source software, reducing the cost of ownership and maintenance.
+  - Flexibility: Hadoop can process any type of data, structured or unstructured, and support various programming languages and frameworks.
+  - Security: Hadoop can provide authentication, authorization, encryption, and auditing features to protect data and access.
+- Apache Hadoop also has some disadvantages, such as:
+  - Complexity: Hadoop requires a lot of configuration and tuning to optimize performance and resource utilization.
+  - Latency: Hadoop is not suitable for real-time or interactive applications that require low latency and fast response times.
+  - Skills: Hadoop requires specialized skills and knowledge to develop, deploy, and manage applications and clusters.
+  - Compatibility: Hadoop may not be compatible with some existing tools and systems that are not designed for distributed and parallel processing.
+
+- A possible mnemonic to remember the four main modules of Hadoop is: **H**ave **C**ommon **F**iles **M**apped **Y**et?
+  - H: Hadoop
+  - C: Common
+  - F: File System
+  - M: MapReduce
+  - Y: YARN

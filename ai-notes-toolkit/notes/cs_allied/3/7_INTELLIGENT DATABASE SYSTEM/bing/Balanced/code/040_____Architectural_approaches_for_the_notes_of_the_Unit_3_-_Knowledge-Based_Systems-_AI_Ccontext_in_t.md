@@ -1,0 +1,13 @@
+### Architectural approaches for knowledge-based systems
+
+- A knowledge-based system (KBS) is a computer system that uses artificial intelligence techniques to solve problems that normally require human expertise.
+- The typical architecture of a KBS consists of two main components: a knowledge base and an inference engine.
+- The knowledge base contains a collection of facts, rules, heuristics, and other forms of knowledge in a specific domain, such as medical diagnosis, engineering design, or legal reasoning.
+- The inference engine is a software program that applies logical reasoning and search methods to the knowledge base in order to derive conclusions or recommendations from the given problem situation.
+- There are different types of KBS, depending on the nature of the knowledge representation and the inference mechanism. Some common types are:
+  - Rule-based systems: These systems use a set of if-then rules to represent the knowledge and a forward or backward chaining algorithm to infer new facts or goals from the existing ones.
+  - Frame-based systems: These systems use a hierarchical structure of frames to represent the knowledge, where each frame is a collection of slots that store attributes and values of a concept or an object. The inference engine uses inheritance and default reasoning to fill in missing or uncertain information in the frames.
+  - Logic-based systems: These systems use a formal logic language, such as propositional logic, predicate logic, or description logic, to represent the knowledge and a theorem prover or a model builder to infer logical consequences or solutions from the premises.
+  - Semantic network systems: These systems use a graph structure of nodes and links to represent the knowledge, where each node is a concept or an object and each link is a relation or an attribute. The inference engine uses graph traversal and pattern matching techniques to find relevant information or paths in the network.
+  - Case-based systems: These systems use a database of past cases or examples to represent the knowledge and a similarity-based retrieval and adaptation method to infer solutions or actions from the current case or situation.
+  - Neural network systems: These systems use a network of interconnected units or neurons to represent the knowledge and a learning algorithm to adjust the weights or connections of the network based on the input and output data. The inference engine uses the trained network to perform classification, prediction, or optimization tasks.

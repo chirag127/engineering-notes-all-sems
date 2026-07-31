@@ -1,0 +1,34 @@
+### Manipulation Techniques and Input Devices for 3D Interaction
+
+- Manipulation techniques are methods for controlling the position, orientation, size, shape, or appearance of 3D objects in virtual environments.
+- Input devices are hardware components that allow users to provide input to the system by making movements or gestures in physical or virtual 3D space.
+- Some common manipulation tasks are:
+  - Translation: moving an object along one or more axes
+  - Rotation: rotating an object around one or more axes
+  - Scaling: changing the size of an object uniformly or non-uniformly
+  - Deformation: changing the shape of an object by applying forces or constraints
+  - Appearance: changing the color, texture, transparency, or other visual properties of an object
+- Some common input devices for 3D interaction are:
+  - Mouse: a 2D pointing device that can be used to control a cursor or a virtual hand in 3D space
+  - Keyboard: a set of keys that can be used to trigger commands or enter text
+  - Joystick: a 3D pointing device that can be used to control the direction and speed of movement in 3D space
+  - Trackball: a 3D pointing device that can be used to control the orientation of an object or a viewpoint in 3D space
+  - 3D Mouse: a 3D pointing device that can be used to control the position and orientation of an object or a viewpoint in 3D space
+  - Data glove: a wearable device that can be used to capture the hand posture and gestures of the user in 3D space
+  - Haptic device: a device that can provide force or tactile feedback to the user in 3D space
+  - Motion tracker: a device that can capture the position and orientation of the user's head, body, or limbs in 3D space
+  - Eye tracker: a device that can capture the direction and focus of the user's gaze in 3D space
+  - Biosensor: a device that can capture the physiological signals of the user, such as brain waves, heart rate, or skin conductance
+  - Mobile device: a device that can be used to provide multi-touch input and device movement in 3D space
+- Some common manipulation techniques for 3D interaction are:
+  - Virtual hand: a technique that simulates the natural interaction of the user's hand with the 3D objects, using a data glove or a 3D mouse as input
+  - Ray-casting: a technique that uses a ray emanating from the user's hand or viewpoint to select and manipulate 3D objects, using a mouse, a joystick, or a motion tracker as input
+  - Go-Go: a technique that extends the reach of the user's virtual hand by increasing the mapping ratio between the physical and virtual hand movements, using a data glove or a motion tracker as input
+  - HOMER: a technique that allows the user to manipulate distant objects by bringing them closer to the user's hand, using a data glove or a motion tracker as input
+  - Widget: a technique that uses graphical user interface elements, such as handles, dials, or sliders, to manipulate 3D objects, using a mouse, a joystick, or a 3D mouse as input
+  - 6-DOF: a technique that allows the user to manipulate 3D objects in six degrees of freedom (three for translation and three for rotation), using a 3D mouse, a haptic device, or a motion tracker as input
+  - Multi-touch: a technique that allows the user to manipulate 3D objects using multiple fingers or hands on a touch-sensitive surface, such as a mobile device or a tabletop
+  - Device movement: a technique that allows the user to manipulate 3D objects by moving or tilting the mobile device in 3D space
+  - Combination: a technique that combines multi-touch input and device movement to manipulate 3D objects in a more natural and efficient way
+- Some factors that affect the performance and usability of manipulation techniques and input devices are:
+  - Number of control dimensions: the number of degrees of freedom that the user can control with the input device[^

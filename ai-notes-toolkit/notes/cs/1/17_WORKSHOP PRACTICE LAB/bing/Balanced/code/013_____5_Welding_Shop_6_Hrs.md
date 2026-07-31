@@ -1,0 +1,24 @@
+### 5 Welding Shop 6 Hrs
+
+- Welding is a process of joining two or more metal pieces by applying heat, pressure, or both, and with or without filler material.
+- Welding can be classified into two main types: fusion welding and solid-state welding.
+- Fusion welding is a type of welding where the base metal is melted and fused together, with or without filler metal. Examples of fusion welding are arc welding, gas welding, and resistance welding.
+- Solid-state welding is a type of welding where the base metal is not melted, but joined by applying pressure and/or heat below the melting point of the metal. Examples of solid-state welding are forge welding, cold welding, and friction welding.
+- Welding can also be classified based on the energy source used, such as electric, chemical, thermal, or mechanical.
+- Welding can be performed manually, semi-automatically, or automatically, depending on the level of human involvement and control.
+- Welding shop is a place where welding operations are carried out, using various welding equipment, tools, and materials.
+- Welding shop safety is important to prevent injuries, accidents, and hazards, such as electric shock, fire, explosion, fumes, radiation, and burns.
+- Welding shop safety rules include:
+  - Wear appropriate personal protective equipment (PPE), such as gloves, goggles, helmet, apron, and boots.
+  - Inspect the welding equipment and tools before use, and report any defects or damages.
+  - Use the correct welding technique and parameters for the type and thickness of the metal.
+  - Keep the welding area clean and free of flammable or combustible materials.
+  - Do not weld near gas cylinders, pipes, or electrical wires.
+  - Do not touch the electrode, workpiece, or any metal parts when the welding machine is on.
+  - Do not look directly at the welding arc or flame, as it can cause eye damage or blindness.
+  - Do not inhale the welding fumes, as they can cause respiratory problems or poisoning.
+  - Use proper ventilation and exhaust systems to remove the welding fumes and gases.
+  - Do not weld in wet or damp conditions, as it can increase the risk of electric shock.
+  - Do not weld alone, and have a fire extinguisher nearby in case of emergency.
+  - Follow the manufacturer's instructions and guidelines for the welding equipment and materials.
+  - Report any injuries, accidents, or hazards to the supervisor or the authority.

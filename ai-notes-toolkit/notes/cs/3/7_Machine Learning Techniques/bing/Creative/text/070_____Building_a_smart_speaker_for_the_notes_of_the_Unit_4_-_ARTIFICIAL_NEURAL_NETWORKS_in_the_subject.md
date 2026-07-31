@@ -1,0 +1,10 @@
+### Building a smart speaker for the notes of the Unit 4 - ARTIFICIAL NEURAL NETWORKS in the subject of Machine Learning Techniques
+
+- A smart speaker is a voice-activated device that has a virtual assistant that can help with everyday tasks, such as playing music, setting reminders, checking the weather, controlling smart home devices, and answering questions .
+- A smart speaker can be built using a combination of hardware and software components, such as a microphone, a speaker, a processor, a wireless connection, a cloud service, and a natural language processing (NLP) system .
+- A smart speaker can use artificial neural networks (ANNs) to perform various tasks, such as speech recognition, speech synthesis, natural language understanding, natural language generation, and dialogue management  .
+- ANNs are computational models that are inspired by the structure and function of biological neural networks, which are composed of interconnected units called neurons that can process and transmit information  .
+- ANNs can learn from data and adjust their parameters (such as weights and biases) using optimization algorithms, such as gradient descent, to minimize a loss function that measures the difference between the desired and the actual output  .
+- ANNs can have different architectures, such as feedforward, recurrent, convolutional, and attention-based, depending on the type and complexity of the task and the data  .
+- ANNs can be trained and deployed using various frameworks and tools, such as TensorFlow, PyTorch, Keras, and Amazon Lex, that provide high-level APIs and libraries for building and running neural network models  .
+- A smart speaker can benefit from using ANNs, as they can provide high accuracy, scalability, adaptability, and flexibility for handling various voice and natural language tasks, and can also improve over time with more data and feedback  .

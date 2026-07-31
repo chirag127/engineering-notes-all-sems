@@ -1,0 +1,23 @@
+# Problem Solving Approach to Typical AI Problems
+
+- Problem solving in AI is the process of finding solutions to complex or ill-defined problems by applying knowledge, heuristics, algorithms, and reasoning techniques.
+- Problem solving in AI can be classified into two types: search problems and optimization problems.
+- Search problems are those where the goal is to find a path or a sequence of actions that leads from an initial state to a goal state, satisfying some constraints or criteria. Examples of search problems are pathfinding, planning, game playing, and theorem proving.
+- Optimization problems are those where the goal is to find the best or optimal solution among a set of possible solutions, according to some objective function or measure of quality. Examples of optimization problems are scheduling, resource allocation, machine learning, and design.
+- Problem solving in AI can be further categorized into four levels of abstraction: knowledge level, logical level, algorithmic level, and implementation level.
+- Knowledge level is the highest level of abstraction, where the problem is described in terms of the domain knowledge, the goals, and the assumptions. This level focuses on what to solve and why to solve it.
+- Logical level is the next level of abstraction, where the problem is formalized in terms of a logic language, such as propositional logic, predicate logic, or modal logic. This level focuses on how to represent the problem and how to reason about it.
+- Algorithmic level is the next level of abstraction, where the problem is solved by applying a specific algorithm or a method, such as search, constraint propagation, heuristics, or local search. This level focuses on how to solve the problem efficiently and effectively.
+- Implementation level is the lowest level of abstraction, where the problem is solved by using a specific programming language, data structure, or software tool. This level focuses on how to implement the solution and how to test it.
+
+Some of the common methods and techniques for problem solving in AI are:
+
+- Search algorithms: These are methods that systematically explore the space of possible solutions, either exhaustively or selectively, until a goal is found or proven to be unreachable. Examples of search algorithms are breadth-first search, depth-first search, uniform-cost search, greedy search, A* search, and iterative deepening search.
+- Constraint propagation: This is a method that reduces the size of the search space by applying constraints or rules that eliminate inconsistent or infeasible solutions. Examples of constraint propagation techniques are arc consistency, path consistency, and node consistency.
+- Backtracking search: This is a method that explores the search space by making a sequence of choices, and then backtracks or reverses the choices when a dead end or a contradiction is encountered. Examples of backtracking search techniques are chronological backtracking, backjumping, and conflict-directed backtracking.
+- Heuristics: These are methods that use domain-specific knowledge or intuition to guide the search process, by providing an estimate of the quality or the distance of a solution. Examples of heuristics are evaluation functions, heuristic functions, and pruning rules.
+- Local search algorithms: These are methods that start from an initial solution and iteratively improve it by making small changes or moves, until a local optimum or a global optimum is reached. Examples of local search algorithms are hill climbing, simulated annealing, genetic algorithms, and tabu search.
+- Searching with partial observations: These are methods that deal with problems where the agent does not have complete or accurate information about the state of the world or the effects of its actions. Examples of searching with partial observations techniques are belief state search, sensorless search, and conformant search.
+- Alpha-beta pruning: This is a method that improves the efficiency of minimax search, which is a search algorithm for two-player zero-sum games, by eliminating branches of the search tree that are provably worse than the best current option.
+- Stochastic games: These are games where the outcome of each move is uncertain or probabilistic, and the agent has to deal with risk and uncertainty. Examples of stochastic games are backgammon, poker, and bridge.
+- Game playing: This is a special case of problem solving in AI, where the agent has to compete with another agent or a human player, by applying strategies, tactics, and heuristics. Examples of game playing problems are chess, checkers, tic-tac-toe, and go.

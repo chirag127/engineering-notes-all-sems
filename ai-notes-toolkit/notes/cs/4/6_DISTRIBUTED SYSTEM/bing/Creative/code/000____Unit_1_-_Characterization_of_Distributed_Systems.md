@@ -1,0 +1,22 @@
+## Unit 1 - Characterization of Distributed Systems
+
+- A distributed system is a collection of independent computers that appear to the users as a single coherent system.
+- The main characteristics of distributed systems are:
+  - Concurrency: Multiple components can execute simultaneously and interact with each other.
+  - No global clock: There is no shared physical clock among the components, so synchronization and coordination are challenging.
+  - Independent failures: Each component can fail independently, without affecting the rest of the system, unless there is a dependency.
+  - Heterogeneity: The components can have different hardware, software, network, data, and protocols.
+  - Scalability: The system can grow in size and complexity without losing its functionality and performance.
+  - Transparency: The system should hide its complexity and heterogeneity from the users and provide a consistent and uniform interface.
+- The main advantages of distributed systems are:
+  - Resource sharing: The system can share physical and logical resources, such as files, printers, databases, services, etc.
+  - Fault tolerance: The system can tolerate and recover from failures of some components, by using replication, redundancy, or backup mechanisms.
+  - Performance: The system can achieve higher throughput and lower latency by distributing the workload among multiple components and using parallelism.
+  - Availability: The system can provide continuous and reliable service to the users, by using load balancing, caching, or replication techniques.
+  - Modularity: The system can be composed of smaller and simpler components, which can be developed, tested, and maintained independently.
+- The main challenges of distributed systems are:
+  - Coordination: The system needs to coordinate the actions and states of the components, by using algorithms, protocols, or middleware.
+  - Consistency: The system needs to ensure that the components have a consistent view of the data and the system state, by using synchronization, replication, or consensus techniques.
+  - Security: The system needs to protect the data and the communication from unauthorized access, modification, or disclosure, by using encryption, authentication, or authorization techniques.
+  - Fault detection: The system needs to detect and identify the failures of the components, by using heartbeat, timeout, or gossip protocols.
+  - Fault recovery: The system needs to restore the normal operation of the system after a failure, by using checkpoint, rollback, or recovery protocols.

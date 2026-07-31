@@ -1,0 +1,11 @@
+### Effort and Cost Estimation Techniques in SPM
+
+- Effort and cost estimation are important parts of software project management (SPM) that help in planning, budgeting, and controlling a software project.
+- Effort estimation is the process of predicting the amount of human resources and time required to complete a software project .
+- Cost estimation is the process of predicting the monetary expenses involved in developing, testing, and maintaining a software project .
+- There are various techniques for effort and cost estimation, which can be classified into three categories :
+  - Expert judgment: This technique relies on the experience and intuition of experts who have worked on similar projects before. The experts provide their estimates based on their knowledge and judgment, without using any formal models or tools. Examples of this technique are Delphi method, analogy, and expert opinion .
+  - Algorithmic models: This technique uses mathematical formulas or equations to calculate the effort and cost based on some input parameters, such as the size, complexity, and quality of the software. The formulas are derived from historical data and empirical studies of software projects. Examples of this technique are Function Point Analysis (FPA), Constructive Cost Model (COCOMO), and Putnam model  .
+  - Machine learning: This technique uses artificial intelligence and data mining techniques to learn from past data and generate estimates for new projects. The machine learning models can be trained and validated using historical data and can adapt to changing environments and requirements. Examples of this technique are neural networks, regression trees, and support vector machines .
+- The choice of the estimation technique depends on various factors, such as the availability and quality of data, the type and size of the project, the accuracy and reliability of the estimates, and the cost and time of the estimation process  .
+- The estimation process is iterative and dynamic, and it should be updated and refined throughout the project life cycle as more information and feedback become available .

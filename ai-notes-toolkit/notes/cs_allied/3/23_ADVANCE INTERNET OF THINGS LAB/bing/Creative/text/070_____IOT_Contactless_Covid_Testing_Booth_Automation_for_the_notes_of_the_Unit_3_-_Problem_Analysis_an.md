@@ -1,0 +1,25 @@
+### IOT Contactless Covid Testing Booth Automation
+
+- The main aim of this project is to design a completely automated instant contactless covid testing booth system by which person details is monitored using RFID technology .
+- This system helps to make Covid center automated and contactless which helps to reduce spreading of virus in the Covid testing centers.
+- This system utilizes microcontroller, MATLAB, GSM modem, RFID reader, RFID tags, LCD display, buzzer, and swab collection mechanism .
+- The system works as follows:
+  - The person who wants to get tested has to register online and get a unique RFID tag.
+  - The person has to scan the RFID tag at the booth entrance and the system will display the person's name and contact number on the LCD display .
+  - The system will also send a confirmation message to the person's mobile number using GSM modem .
+  - The person has to enter the booth and sit on the chair provided.
+  - The system will activate the swab collection mechanism which will take the nasal or oral swab sample from the person.
+  - The system will store the swab sample in a container and label it with the person's RFID tag.
+  - The system will also send the swab sample details to the cloud server using IoT technology.
+  - The system will alert the person to exit the booth using a buzzer and display a thank you message on the LCD display.
+  - The system will sanitize the booth using UV light or disinfectant spray after each test.
+- The advantages of this system are:
+  - It reduces the human contact and risk of infection for the health workers and the test takers  .
+  - It reduces the time and cost of covid testing .
+  - It increases the accuracy and efficiency of covid testing .
+  - It provides real-time data and analysis of covid testing using IoT technology .
+- The challenges of this system are:
+  - It requires reliable and secure communication between the booth and the cloud server.
+  - It requires proper maintenance and calibration of the swab collection mechanism and the sanitization system.
+  - It requires adequate power supply and backup for the booth and the devices.
+  - It requires ethical and legal considerations for the privacy and consent of the test takers.

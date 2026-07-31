@@ -1,0 +1,27 @@
+# Optimal Decisions in Games
+
+- In a normal search problem, the optimal solution would be a sequence of actions leading to a goal state-a terminal state that is a win .
+- In a game, the optimal solution would be a strategy-a contingency plan that specifies the move for every possible situation throughout the game.
+- A strategy is optimal if it guarantees the best possible outcome against any strategy of the opponent.
+- Given a game tree, the optimal strategy can be determined from the minimax value of each node, which we write as MINIMAX(n) .
+- The minimax value of a node is the utility (for MAX) of being in the corresponding state, assuming that both players play optimally from there to the end of the game .
+- The minimax value of a terminal node is just the utility of that node .
+- The minimax value of a non-terminal node can be computed recursively from the minimax values of its children .
+- If the node is a MAX node, the minimax value is the maximum of the minimax values of its children .
+- If the node is a MIN node, the minimax value is the minimum of the minimax values of its children .
+- The minimax algorithm is a depth-first, exhaustive search that computes the minimax values of all the nodes in the game tree .
+- The minimax algorithm can be improved by using alpha-beta pruning, which eliminates branches of the game tree that are provably irrelevant .
+- Alpha-beta pruning maintains two values, alpha and beta, that represent the lower and upper bounds of the possible minimax values of the nodes along the path to the root .
+- Alpha is the value of the best (highest-value) choice found so far at any MAX node along the path .
+- Beta is the value of the best (lowest-value) choice found so far at any MIN node along the path .
+- Alpha-beta pruning can be applied whenever the value of the current node is worse than the value of the parent node for the parent's player .
+- Alpha-beta pruning does not affect the final result of the minimax algorithm, but it can reduce the number of nodes that need to be examined .
+- The effectiveness of alpha-beta pruning depends on the order in which the children of each node are examined .
+- The best case scenario is when the best moves are examined first, which leads to the maximum number of prunings .
+- The worst case scenario is when the best moves are examined last, which leads to no pruning at all .
+- The average case scenario is somewhere in between, depending on the game and the heuristic function used to order the moves .
+- The minimax algorithm and alpha-beta pruning are examples of rule-based systems, which use a set of fixed rules to play the game.
+- Another approach to game playing in AI is machine learning-based systems, which use algorithms to learn from experience and make decisions based on that experience.
+- Machine learning-based systems can use techniques such as reinforcement learning, neural networks, genetic algorithms, and Monte Carlo tree search to play games.
+- Machine learning-based systems can potentially achieve better performance than rule-based systems, especially in complex and uncertain games.
+- However, machine learning-based systems also face challenges such as scalability, explainability, and generalization.

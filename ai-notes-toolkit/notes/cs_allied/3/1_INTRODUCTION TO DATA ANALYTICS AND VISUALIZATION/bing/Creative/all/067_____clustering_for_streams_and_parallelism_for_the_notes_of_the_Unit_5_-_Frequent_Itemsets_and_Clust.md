@@ -1,0 +1,17 @@
+# Clustering for Streams and Parallelism
+
+Clustering is a technique for finding groups of similar data points in a dataset. Clustering can be applied to different types of data, such as text, images, graphs, or time series. Clustering can also be performed on data streams, which are sequences of data points that arrive continuously and may change over time. Clustering data streams can help discover patterns, trends, and outliers in the data, as well as reduce the storage and processing costs of the data.
+
+However, clustering data streams poses several challenges, such as:
+
+- The data may be infinite, noisy, or evolving, which requires the clustering algorithm to be adaptive, robust, and scalable.
+- The data may be distributed over multiple sources or locations, which requires the clustering algorithm to be parallel, distributed, or decentralized.
+- The data may have high dimensionality, which requires the clustering algorithm to be efficient, effective, and interpretable.
+
+To address these challenges, various clustering algorithms have been proposed for data streams and parallelism. Some of the main concepts and techniques are:
+
+- Online-offline scheme: A common approach for clustering data streams is to use a two-phase scheme, which consists of an online component and an offline component. The online component processes the data stream points as they arrive and produces summary statistics, such as micro-clusters, sketches, or histograms. The offline component uses the summary data to generate the final clusters, using a traditional clustering algorithm or a merging strategy. This scheme can reduce the memory and computation requirements of the clustering algorithm, as well as handle concept drift and outliers in the data stream.
+- Parallel and distributed clustering: Another approach for clustering data streams is to use parallel or distributed computing frameworks, such as MapReduce, Spark, or Storm. These frameworks can enable the clustering algorithm to handle large-scale, distributed, or heterogeneous data streams, by partitioning the data into multiple subsets and processing them in parallel or distributed manner. The clustering algorithm can then combine the results from different subsets using a global aggregation or consensus mechanism. This approach can improve the scalability, performance, and fault-tolerance of the clustering algorithm, as well as handle data privacy and security issues.
+- Correlation-based clustering: A specific problem for clustering parallel data streams is to group multiple streams with similar behavior and trend together, instead of clustering the data points within one data stream. This problem can be solved by using correlation-based clustering, which measures the similarity between data streams based on their correlation coefficients, such as Pearson's correlation or Spearman's rank correlation. The correlation coefficients can be computed efficiently and incrementally using summary statistics, such as mean, variance, or covariance. The correlation-based clustering can then use a threshold or a clustering algorithm to group the data streams into clusters based on their correlation values  .
+
+These are some of the main concepts and techniques for clustering data streams and parallelism. Clustering data streams and parallelism is an active and important research area, as it can provide valuable insights and applications for various domains, such as sensor networks, social media, web mining, or anomaly detection.

@@ -1,0 +1,15 @@
+### Environments and Tools for the notes of the Unit 3 - Overview of Cluster Computing in the subject of High Performance Computing
+
+In this unit, we will be discussing the different environments and tools that are commonly used for cluster computing. The following are some of the key points to keep in mind:
+
+- The most commonly used environments for cluster computing are Linux and Unix. These operating systems are preferred due to their stability, security and scalability. 
+- In addition to the operating system, a number of tools are required to effectively manage a cluster. These tools include job schedulers, resource managers, and workload managers. Some of the commonly used tools include SLURM, LSF, and PBS.
+- SLURM (Simple Linux Utility for Resource Management) is a widely popular open-source job scheduler and resource manager that is used in many high-performance computing environments. It provides a simple and flexible interface for managing resources, scheduling jobs, and monitoring performance.
+- LSF (Load Sharing Facility) is another popular job scheduler and resource manager that is widely used in academic and research environments. It provides a powerful set of tools for managing resources and scheduling jobs across a large cluster.
+- PBS (Portable Batch System) is a widely used open-source job scheduler and resource manager that is used primarily in academic and research environments. It provides a simple and flexible interface for managing resources and scheduling jobs across a large cluster.
+- In addition to the above tools, there are a number of other tools and frameworks that are used for cluster computing. Some of these include Apache Hadoop, Spark, and MPI (Message Passing Interface).
+- Apache Hadoop is an open-source software framework that is used for distributed storage and processing of large data sets. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage.
+- Spark is a fast and general-purpose cluster computing system that is designed for large-scale data processing. It provides a simple and flexible interface for distributed data processing, and is widely used in data analytics and machine learning applications.
+- MPI (Message Passing Interface) is a widely used standard for programming parallel computers. It provides a standard interface for sending and receiving messages between processes, and is widely used in scientific computing and engineering simulations.
+
+In conclusion, understanding the various environments and tools that are used in cluster computing is essential for any student of high-performance computing. By understanding these tools and how they are used, students can gain a deeper understanding of the challenges and opportunities presented by large-scale computing environments.

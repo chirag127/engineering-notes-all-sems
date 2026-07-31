@@ -1,0 +1,17 @@
+### The Quantization problem
+
+- Quantization is a process of mapping a large set of input values to a smaller set of output values, with a finite number of levels.
+- Quantization is a lossy compression technique, which means that some information is lost in the process and cannot be recovered exactly.
+- Quantization is used to reduce the bit rate or storage space required for representing a signal, such as an image or a sound.
+- Quantization introduces an error or distortion between the original signal and the quantized signal, which affects the quality of the reconstruction.
+- The quantization problem is to find the optimal way of quantizing a signal, such that the distortion is minimized for a given bit rate, or the bit rate is minimized for a given distortion.
+- The quantization problem can be formulated as a rate-distortion optimization problem, where the rate is the number of bits per sample and the distortion is a measure of the difference between the original and the quantized signal, such as mean squared error or perceptual distortion.
+- The quantization problem can be solved by different methods, depending on the type and dimensionality of the signal, the number and shape of the quantization levels, and the constraints on the rate and distortion.
+- Some of the methods for solving the quantization problem are:
+
+  - Uniform quantization: The input range is divided into equal-sized intervals, and each interval is assigned a fixed output value. This method is simple and fast, but may not be optimal for non-uniform signals or perceptual distortion measures.
+  - Non-uniform quantization: The input range is divided into variable-sized intervals, and each interval is assigned a fixed output value. This method can adapt to the statistics or characteristics of the signal, and achieve lower distortion or higher quality for the same bit rate.
+  - Scalar quantization: The input signal is quantized sample by sample, independently of each other. This method is easy to implement and analyze, but may not exploit the correlation or redundancy among the samples.
+  - Vector quantization: The input signal is quantized in blocks or vectors of samples, jointly and dependently. This method can exploit the correlation or redundancy among the samples, and achieve higher compression or lower distortion for the same bit rate.
+  - Lloyd algorithm: An iterative algorithm for finding the optimal set of quantization levels for a given set of training samples, based on minimizing the mean squared error distortion. The algorithm alternates between assigning each sample to the closest level and updating each level to the centroid of the assigned samples, until convergence.
+  - Rate-distortion theory: A mathematical framework for studying the fundamental limits and trade-offs of lossy compression, based on information theory and statistics. The theory provides the optimal rate-distortion function, which gives the minimum achievable rate for a given distortion, or the minimum achievable distortion for a given rate, for a given source and distortion measure. The theory also provides the optimal coding schemes, such as entropy coding and arithmetic coding, for achieving the rate-distortion function.

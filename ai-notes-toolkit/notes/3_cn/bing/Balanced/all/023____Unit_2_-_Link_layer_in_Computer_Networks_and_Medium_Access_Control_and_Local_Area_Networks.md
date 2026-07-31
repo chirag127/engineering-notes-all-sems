@@ -1,0 +1,13 @@
+## Unit 2 - Link layer in Computer Networks and Medium Access Control and Local Area Networks
+
+- The link layer is the second layer of the OSI model of computer networking. It is responsible for transferring data between nodes on a network segment across the physical layer.
+- The link layer is divided into two sublayers: the logical link control (LLC) sublayer and the medium access control (MAC) sublayer.
+- The LLC sublayer provides an abstraction of the physical layer to the upper layers of the OSI model. It also performs error control, flow control, and framing of data packets.
+- The MAC sublayer is responsible for managing the access to the shared physical medium among multiple nodes. It also performs addressing, channel allocation, and collision avoidance.
+- There are different types of link layer protocols depending on the type of network, such as Ethernet, Wi-Fi, Bluetooth, etc. Each protocol has its own MAC sublayer protocol that defines how the nodes communicate with each other.
+- A local area network (LAN) is a network that connects devices within a limited geographic area, such as a home, office, or campus. A LAN can be organized in four different ways from a physical layer perspective: a bus-shaped network, a ring-shaped network, a star-shaped network, or a mesh-shaped network.
+- A bus-shaped network is a network where all nodes are attached to the same physical cable. A ring-shaped network is a network where the nodes are connected in a circular fashion. A star-shaped network is a network where the nodes are connected to a central hub or switch. A mesh-shaped network is a network where the nodes are connected to each other in a flexible way.
+- The MAC sublayer protocols for LANs can be classified into two categories: contention-based protocols and reservation-based protocols.
+- Contention-based protocols are protocols where the nodes compete for the access to the channel. They use a random access method, such as ALOHA, CSMA, or CSMA/CD, to transmit data. These protocols are simple, but they may suffer from collisions and low efficiency.
+- Reservation-based protocols are protocols where the nodes reserve the access to the channel in advance. They use a deterministic access method, such as TDMA, FDMA, or CDMA, to transmit data. These protocols are more complex, but they can avoid collisions and achieve higher efficiency.
+- A mnemonic to remember the difference between contention-based and reservation-based protocols is: **C**ontention-based protocols use **C**hance, while **R**eservation-based protocols use **R**ules.

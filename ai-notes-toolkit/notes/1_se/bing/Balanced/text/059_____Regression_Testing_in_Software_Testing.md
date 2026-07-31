@@ -1,0 +1,12 @@
+### Regression Testing in Software Testing
+
+- Regression testing is the process of verifying that a software system or application does not have any new or existing defects after a change is made to it, such as adding a new feature, fixing a bug, or updating a dependency.
+- Regression testing helps to ensure that the software system or application meets the expected quality standards and functional requirements, and that the change does not introduce any unintended side effects or errors.
+- Regression testing can be performed at different levels of testing, such as unit testing, integration testing, system testing, or acceptance testing, depending on the scope and impact of the change.
+- Regression testing can be done manually or automatically, depending on the availability and suitability of test cases, test tools, and test resources. Manual regression testing involves executing the test cases by human testers, while automated regression testing involves using test scripts or tools to run the test cases automatically.
+- Regression testing can be classified into different types, such as:
+
+  - Retest all: This type of regression testing involves re-executing all the test cases in the test suite, regardless of whether they are related to the change or not. This type of regression testing is comprehensive, but also time-consuming and resource-intensive.
+  - Selective: This type of regression testing involves re-executing only the test cases that are directly or indirectly affected by the change, based on some criteria or analysis. This type of regression testing is more efficient and focused, but also requires more effort and expertise to identify the relevant test cases.
+  - Progressive: This type of regression testing involves re-executing the existing test cases that are related to the change, as well as adding new test cases to cover the new functionality or behavior introduced by the change. This type of regression testing is more effective and thorough, but also requires more maintenance and update of the test suite.
+  - Complete: This type of regression testing involves re-executing the entire test suite, as well as adding new test cases to cover the new functionality or behavior introduced by the change. This type of regression testing is the most comprehensive and rigorous, but also the most time-consuming and resource-intensive.

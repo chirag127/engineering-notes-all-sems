@@ -1,0 +1,26 @@
+### IOT based Three Phase Power Failure Monitoring with SMS Alerts
+
+- This is a system that monitors the power supply of a three-phase system and alerts the authorized person through SMS when there is a failure in any of the phases.
+- A three-phase system is a type of electrical power distribution that uses three alternating currents of the same frequency and amplitude, but with a phase difference of 120 degrees. This system is widely used for industrial and commercial applications that require high power and efficiency.
+- A phase failure, also known as a single phasing, is a condition where one of the phases of a three-phase system is lost or interrupted. This can cause serious damage to the equipment and appliances connected to the system, as well as pose a safety hazard to the users. Some of the common causes of phase failure are blown fuses, thermal overload, broken wires, worn contacts, or mechanical failure.
+- The system consists of the following components:
+  - A microcontroller that acts as the brain of the system and controls the logic and communication functions.
+  - A GSM module that enables the system to send and receive SMS messages using a SIM card and a mobile network.
+  - A LCD display that shows the status of the power supply and the voltage values of each phase.
+  - A voltage sensor that measures the voltage of each phase and sends the data to the microcontroller.
+  - A relay that switches on or off the power supply to the load depending on the condition of the phases.
+  - A buzzer that sounds an alarm when there is a phase failure.
+  - A power supply that provides the required voltage and current to the system.
+- The working of the system is as follows:
+  - The system is connected to the three-phase power supply and the load that needs to be monitored.
+  - The system is configured with the mobile number of the authorized person who will receive the SMS alerts.
+  - The system continuously monitors the voltage of each phase using the voltage sensor and displays the values on the LCD screen.
+  - If the voltage of any phase falls below a predefined threshold, the system detects a phase failure and sends an SMS to the authorized person with the details of the failed phase.
+  - The system also activates the relay to cut off the power supply to the load and the buzzer to sound an alarm.
+  - The system waits for the phase to be restored and then sends another SMS to the authorized person with the status of the power supply.
+  - The system also deactivates the relay and the buzzer and resumes the normal operation of the load.
+- The advantages of the system are:
+  - It provides a reliable and real-time monitoring of the power supply and alerts the user in case of any failure.
+  - It prevents the damage and malfunction of the equipment and appliances connected to the three-phase system.
+  - It reduces the downtime and maintenance cost of the system and improves the efficiency and safety of the operation.
+  - It uses the IOT technology to enable the remote and wireless communication and control of the system.

@@ -1,0 +1,8 @@
+#### Challenges faced by Women in Society in Ancient India
+
+- A historical understanding of the status of women in early Indian society shows a declining trend in the position of women. Women did not share an equal position with men and were recognized only as wives and mothers. Their position was subordinate to men.
+- Women in ancient India enjoyed high status in society and their condition was good. The Vedic women had economic freedom. Some women were engaged in teaching work. Home was the place of production. Spinning and weaving of clothes were done at home. Women also helped their husbands in agricultural pursuit. In the religious field, wife enjoyed full rights and regularly participated in religious ceremonies with her husband. Religious ceremonies and sacrifices were performed jointly by the husband and wife. Women even participated actively in religious discourses.
+- The status of women improved a little during the Buddhist period though there was no tremendous change. The role of women in Ancient Indian Literature is immense. Ancient India had many learned ladies.
+- The Medieval period (Period between 500 A.D to 1500 A.D) proved to be highly disappointing for the Indian women, for their status further deteriorated during this period.
+- The Smritishastras abused them; Manu dictated a woman would be dependent on her father in childhood, on her husband in youth and on her son in old age. Apart from child marriage and sati, prostitution and Devadasi system became widespread.
+- The Vedic dasi was also a part of ancient Indian society; however, she disappeared, leaving out any trace of herself in the Nineteenth-century history.

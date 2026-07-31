@@ -1,0 +1,27 @@
+### Domain Name System
+
+- The Domain Name System (DNS) is a service that translates domain names into IP addresses and vice versa.
+- Domain names are human-friendly names that identify websites or other resources on the internet, such as google.com or wikipedia.org.
+- IP addresses are numerical identifiers that computers use to communicate with each other over the internet, such as 142.250.74.238 or 208.80.154.224.
+- DNS allows users to access websites or resources by typing domain names instead of IP addresses, which are easier to remember and type.
+- DNS also allows websites or resources to change their IP addresses without affecting their domain names, which provides flexibility and scalability.
+- DNS works as a distributed and hierarchical database that consists of many servers around the world that store and exchange information about domain names and IP addresses.
+- The hierarchy of DNS is divided into levels, each with a different scope and authority. The levels are:
+  - The root level, which is the highest level and contains information about the top-level domains (TLDs), such as .com, .org, .net, etc.
+  - The top-level domains (TLDs), which are the second level and contain information about the second-level domains (SLDs), such as google.com, wikipedia.org, etc.
+  - The second-level domains (SLDs), which are the third level and contain information about the subdomains or hosts, such as mail.google.com, en.wikipedia.org, etc.
+  - The subdomains or hosts, which are the lowest level and contain information about the specific resources or services, such as www.mail.google.com, en.m.wikipedia.org, etc.
+- The process of resolving a domain name into an IP address or vice versa is called DNS lookup or DNS query. It involves the following steps:
+  - The user types a domain name into a web browser or an application, such as google.com.
+  - The web browser or the application sends a DNS query to a local DNS server, which is usually provided by the user's internet service provider (ISP) or network administrator.
+  - The local DNS server checks its cache to see if it has the answer to the query. If it does, it returns the answer to the web browser or the application. If it does not, it forwards the query to a root DNS server.
+  - The root DNS server checks its records to see which TLD server is responsible for the domain name. It returns the IP address of the TLD server to the local DNS server.
+  - The local DNS server sends a new query to the TLD server, asking for the IP address of the SLD server that handles the domain name.
+  - The TLD server returns the IP address of the SLD server to the local DNS server.
+  - The local DNS server sends another query to the SLD server, asking for the IP address of the host or subdomain that corresponds to the domain name.
+  - The SLD server returns the IP address of the host or subdomain to the local DNS server.
+  - The local DNS server returns the final answer to the web browser or the application, which can then connect to the website or the resource using the IP address.
+- DNS lookup can be iterative or recursive. In iterative lookup, the local DNS server only asks for a referral to the next server in the hierarchy, and then sends a new query to that server. In recursive lookup, the local DNS server asks the next server in the hierarchy to resolve the query and return the final answer, without sending a new query.
+- DNS lookup can also be forward or reverse. In forward lookup, the domain name is translated into an IP address. In reverse lookup, the IP address is translated into a domain name.
+- DNS uses two types of records to store and exchange information: resource records (RRs) and name server records (NSs). RRs contain the mapping between domain names and IP addresses, or other information such as mail servers, text records, etc. NSs contain the information about the authoritative servers for each domain or subdomain.
+- DNS uses the User Datagram Protocol (UDP) as the default transport protocol for sending and receiving queries and responses. UDP is a connectionless and unreliable protocol that does not guarantee the delivery, order, or integrity of the messages. However, UDP is faster and more efficient than the alternative protocol, the Transmission Control Protocol (TCP), which is a connection-oriented and reliable protocol that guarantees the delivery, order, and integrity of the messages. TCP is used by DNS only when the message size exceeds the UDP limit of 512 bytes, or when the query or response is encrypted

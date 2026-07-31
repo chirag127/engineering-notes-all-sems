@@ -1,0 +1,15 @@
+# Architecture for Intelligent Agents
+
+- An **intelligent agent** is a system that perceives its environment via sensors and acts rationally upon that environment with its effectors.
+- The **architecture** of an agent describes its modules and capabilities, and how these operate together.
+- The architecture of an agent determines how it processes the information from its sensors and how it selects the actions to perform with its effectors.
+- There are different types of agent architectures, depending on the level of complexity and intelligence of the agent.
+- Some of the common types of agent architectures are:
+
+  - **Reactive agents**: Reactive agents are the simplest type of AI agent. They do not have any internal state or memory, and they act only based on the current percept. They do not have any goals or plans, and they do not reason about the consequences of their actions. Reactive agents are fast and robust, but they are limited in their capabilities and flexibility.
+  - **Model-based reflex agents**: Model-based reflex agents are more sophisticated than reactive agents. They have an internal state that represents some aspects of the environment, and they update this state based on their percepts. They also have a set of rules that specify how to act based on the state and the percept. Model-based reflex agents can handle partially observable and dynamic environments, but they still do not have any goals or plans.
+  - **Goal-based agents**: Goal-based agents are more advanced than model-based reflex agents. They have a set of goals that they want to achieve, and they use their state and percept to generate and evaluate possible actions that can lead to their goals. They select the action that is most likely to achieve their goals. Goal-based agents can act more flexibly and rationally, but they may not have a way to measure their performance or satisfaction.
+  - **Utility-based agents**: Utility-based agents are more refined than goal-based agents. They have a utility function that assigns a numerical value to each state of the environment, and they use this function to compare and rank different actions. They select the action that maximizes their expected utility. Utility-based agents can handle uncertainty and trade-offs, and they can measure their performance and satisfaction.
+  - **Learning agents**: Learning agents are the most sophisticated type of AI agent. They have the ability to improve their performance and adapt to changing environments by learning from their experience. They have a learning component that updates their state, rules, goals, or utility function based on their feedback. They also have a performance component that selects the actions, a critic component that evaluates the actions, and a problem generator component that explores new situations.
+
+- The choice of the agent architecture depends on the characteristics of the environment, the task, and the resources available. Different architectures have different advantages and disadvantages, and they may be suitable for different applications.

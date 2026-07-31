@@ -1,0 +1,7 @@
+### Blobby objects
+
+- Blobby objects are a type of implicit modeling technique in computer graphics that can represent non-rigid and fluid-like objects, such as cloth, rubber, liquids, water droplets, etc.  
+- Blobby objects are defined by a set of points, called **metaballs**, that have a scalar field associated with them. The scalar field represents the influence or intensity of each metaball at a given point in space.
+- The surface of a blobby object is determined by an **isovalue**, which is a threshold that defines the boundary of the object. The surface is the set of points where the sum of the scalar fields of all the metaballs is equal to the isovalue.
+- Blobby objects can change their shape and size based on their states, such as temperature, pressure, or interaction with other objects. For example, when two blobby objects come close to each other, they can merge or blend together to form a single object. 
+- Blobby objects can be rendered using various techniques, such as ray tracing, polygonization, or splines. Ray tracing is a method that traces rays of light from the eye to the object and calculates the color and shading of each pixel. Polygonization is a method that approximates the surface of the object by a mesh of polygons. Splines are a method that uses curves or patches to define the surface of the object.

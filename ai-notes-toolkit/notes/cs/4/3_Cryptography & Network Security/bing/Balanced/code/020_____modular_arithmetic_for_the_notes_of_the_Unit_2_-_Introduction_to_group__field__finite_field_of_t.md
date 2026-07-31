@@ -1,0 +1,23 @@
+### Modular Arithmetic
+
+- Modular arithmetic is a system of arithmetic for integers, where numbers "wrap around" when reaching a certain value, called the modulus.
+- The modulus is denoted by a positive integer m, and the set of all integers that are congruent modulo m is denoted by Z_m.
+- Two integers a and b are said to be congruent modulo m, written as a ≡ b (mod m), if they have the same remainder when divided by m, or equivalently, if m divides their difference, i.e., m | (a - b).
+- Congruence modulo m is an equivalence relation, meaning that it satisfies the following properties:
+  - Reflexive: a ≡ a (mod m) for any integer a.
+  - Symmetric: if a ≡ b (mod m), then b ≡ a (mod m).
+  - Transitive: if a ≡ b (mod m) and b ≡ c (mod m), then a ≡ c (mod m).
+- Congruence modulo m also preserves the operations of addition, subtraction, and multiplication, meaning that the following properties hold:
+  - Closure: if a ≡ b (mod m) and c ≡ d (mod m), then a + c ≡ b + d (mod m) and a - c ≡ b - d (mod m) and a * c ≡ b * d (mod m).
+  - Associative: if a, b, and c are any integers, then (a + b) + c ≡ a + (b + c) (mod m) and (a - b) - c ≡ a - (b - c) (mod m) and (a * b) * c ≡ a * (b * c) (mod m).
+  - Commutative: if a and b are any integers, then a + b ≡ b + a (mod m) and a - b ≡ -(b - a) (mod m) and a * b ≡ b * a (mod m).
+  - Distributive: if a, b, and c are any integers, then a * (b + c) ≡ a * b + a * c (mod m) and (a + b) * c ≡ a * c + b * c (mod m).
+- However, congruence modulo m does not preserve the operation of division, meaning that the following property does not hold in general:
+  - Inverse: if a ≡ b (mod m) and c ≡ d (mod m), then a / c ≡ b / d (mod m).
+- This is because division by c is only defined if c has a multiplicative inverse modulo m, i.e., an integer x such that c * x ≡ 1 (mod m).
+- Not every integer has a multiplicative inverse modulo m. For example, 2 has no multiplicative inverse modulo 4, because 2 * x ≡ 1 (mod 4) has no integer solution for x.
+- A necessary and sufficient condition for an integer c to have a multiplicative inverse modulo m is that c and m are coprime, i.e., they have no common positive divisor other than 1, or equivalently, their greatest common divisor (gcd) is 1, i.e., gcd(c, m) = 1.
+- If c and m are coprime, then there exists a unique multiplicative inverse of c modulo m, denoted by c^-1 or c^(-1) (mod m), such that c * c^-1 ≡ 1 (mod m).
+- The multiplicative inverse of c modulo m can be found using the extended Euclidean algorithm, which also computes the gcd of c and m and expresses it as a linear combination of c and m, i.e., gcd(c, m) = s * c + t * m for some integers s and t. Then, s is the multiplicative inverse of c modulo m, i.e., c^-1 ≡ s (mod m).
+- Modular arithmetic is useful for many applications in cryptography, such as encryption, decryption, digital signatures, hash functions, and public-key systems. Some examples of cryptographic algorithms that use modular arithmetic are:
+  - Advanced Encryption Standard (AES): a symmetric-key block cipher that operates on 128-bit blocks of data and uses a 128, 192, or 256-bit key. AES performs a series of transformations on each block, such as substitution, permutation, addition, and multiplication, all in the finite field GF(2^8), which is a special case of modular arithmetic where the modulus is 2^8 = 256 and

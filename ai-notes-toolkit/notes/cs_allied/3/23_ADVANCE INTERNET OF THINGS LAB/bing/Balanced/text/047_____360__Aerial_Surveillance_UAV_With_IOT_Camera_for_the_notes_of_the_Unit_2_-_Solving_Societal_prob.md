@@ -1,0 +1,26 @@
+### 360° Aerial Surveillance UAV With IOT Camera
+
+- Aerial surveillance is the key to security and military based operations. It provides real time information on enemy movements which plays a key role in precision strikes  .
+- Large drones are very large in size which can be easily detected by enemy radars and shot down. Small drones are difficult to detect but have limited range and battery life  .
+- 360° Aerial Surveillance UAV Drone With IOT Camera is a project that aims to develop a small, lightweight and stealthy drone that can perform 360-degree surveillance using a spherical camera and transmit the data to a remote server using IOT  .
+- The drone consists of the following components  :
+  - A quadcopter frame with four brushless motors and propellers
+  - A flight controller board with an Arduino Nano microcontroller and a gyroscope sensor
+  - A wireless transmitter and receiver module for remote control
+  - A battery and a voltage regulator for power supply
+  - A Garmin VIRB 360 camera for capturing 360-degree video and images
+  - An ESP8266 Wi-Fi module for connecting to the internet and sending the data to a cloud server
+- The drone can be controlled by a joystick or a smartphone app. The user can also view the live video feed from the camera on the app or a web browser  .
+- The drone can be used for various applications such as    :
+  - Border security and patrol
+  - Disaster management and rescue operations
+  - Traffic monitoring and management
+  - Crowd surveillance and face recognition
+  - Wildlife conservation and poaching prevention
+  - Agriculture and crop monitoring
+- The drone has the following advantages over conventional drones   :
+  - It can cover a larger area and capture more details with a single camera
+  - It can avoid blind spots and occlusions with a 360-degree view
+  - It can reduce the data transmission and storage costs by compressing the video and images
+  - It can enhance the security and privacy of the data by encrypting it before sending it to the cloud
+  - It can improve the performance and reliability of the drone by using IOT and cloud computing

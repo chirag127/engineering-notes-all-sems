@@ -1,0 +1,9 @@
+### Signed operand multiplication
+
+- Signed operand multiplication is the process of multiplying two binary numbers that have a sign bit, usually in 2's complement or signed-magnitude representation.
+- The sign bit is the most significant bit of the number, and it indicates whether the number is positive (0) or negative (1).
+- The sign of the product is determined by the XOR operation of the sign bits of the operands, i.e., if the signs are different, the product is negative, and if the signs are the same, the product is positive.
+- The magnitude of the product is obtained by multiplying the absolute values of the operands, using the shift-and-add algorithm or other methods such as Booth's algorithm.
+- The shift-and-add algorithm involves shifting the multiplicand left by one bit position and adding it to a partial product register if the corresponding bit of the multiplier is 1, or leaving the partial product unchanged if the bit is 0. This is repeated for each bit of the multiplier, starting from the least significant bit.
+- Booth's algorithm is an optimization of the shift-and-add algorithm that reduces the number of additions and subtractions by encoding the multiplier into groups of 0s and 1s, and performing different operations based on the encoded value. For example, a group of 1s means to subtract the multiplicand from the partial product, a group of 0s means to do nothing, and a transition from 0 to 1 or 1 to 0 means to add or subtract the multiplicand and then shift the partial product right by one bit.
+- The result of the signed operand multiplication is usually twice the size of the operands, and it may need to be sign-extended or truncated to fit the desired format. For example, multiplying two 8-bit numbers may produce a 16-bit product, which can be stored in a register pair or a memory location. If the product is larger than the available space, an overflow flag may be set to indicate the error.

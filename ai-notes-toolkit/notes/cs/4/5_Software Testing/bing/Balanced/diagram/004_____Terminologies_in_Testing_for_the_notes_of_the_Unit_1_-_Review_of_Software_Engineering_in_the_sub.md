@@ -1,0 +1,22 @@
+### Terminologies in Testing
+
+- Testing is the process of verifying and validating that a software product or system meets the specified requirements and expectations of the stakeholders.
+- Testing can be performed at different levels and types, depending on the objectives, scope, and context of the testing process.
+- Some of the common terminologies used in testing are:
+
+  - **SDLC (Software Development Life Cycle)**: It is an international standard for software life-cycle processes that defines all the tasks required for developing and maintaining software. It consists of several phases, such as planning, analysis, design, implementation, testing, deployment, and maintenance .
+  - **Test Level**: It is a specific instantiation of a test process that corresponds to a particular phase or stage of the SDLC. For example, unit testing, integration testing, system testing, and acceptance testing are different test levels .
+  - **Test Type**: It is a group of test activities that are aimed at testing a specific characteristic or quality attribute of the software product or system. For example, functional testing, non-functional testing, regression testing, and security testing are different test types .
+  - **Test Design Technique**: It is a method or procedure for deriving and selecting test cases based on the test objectives, test basis, and test criteria. For example, specification-based testing, structure-based testing, and experience-based testing are different test design techniques .
+  - **STLC (Software Testing Life Cycle)**: It is a systematic approach for planning, designing, executing, evaluating, and reporting the testing activities and results. It consists of several phases, such as test planning, test analysis, test design, test implementation, test execution, test evaluation, and test closure .
+  - **Informal Testing**: It is a type of testing that is performed without any formal test plan, test design, test cases, or test documentation. It is usually done by the developers or testers during the early stages of the development or testing process to find obvious errors or defects .
+  - **Test Planning**: It is the activity of defining the test objectives, test scope, test strategy, test resources, test schedule, test risks, and test deliverables for a test project or a test level .
+  - **Test Documentation**: It is the set of documents that describe the test basis, test design, test cases, test procedures, test data, test results, test reports, and test logs for a test project or a test level. Test documentation provides evidence of the testing process and its outcomes  .
+  - **Test Case**: It is a set of input values, execution preconditions, expected results, and execution postconditions that are developed for a particular test objective or test condition .
+  - **Test Procedure**: It is a set of instructions for the execution of a test or a test suite. It specifies the sequence of test cases, the test environment, the test data, and the test tools to be used .
+  - **Test Suite**: It is a collection of test cases or test procedures that are intended to be executed together to achieve a specific test objective or test coverage .
+  - **Test Execution**: It is the activity of running the test cases or test procedures on the software product or system under test and recording the test results .
+  - **Test Result**: It is the outcome of a test execution that shows the actual behavior or performance of the software product or system under test compared to the expected behavior or performance .
+  - **Test Report**: It is a document that summarizes the test activities, test results, test evaluation, and test conclusions for a test project or a test level. It provides information about the quality and status of the software product or system under test  .
+  - **Test Log**: It is a chronological record of the test execution that shows the test cases or test procedures executed, the test data used, the test results obtained, and the test incidents encountered .
+  - **Test Evaluation**: It is the activity of assessing the test results and the test coverage against the test objectives and the test criteria to determine the quality and the status of

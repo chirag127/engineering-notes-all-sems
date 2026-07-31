@@ -1,0 +1,23 @@
+### Audio Compression for the notes of the Unit 2 - The Huffman coding algorithm in the subject of Data Compression
+
+- Audio compression is the process of reducing the size of an audio file by removing or encoding redundant or irrelevant information.
+- Huffman coding is a method of data compression that is independent of the data type, that is, the data could represent an image, audio or spreadsheet.
+- Huffman coding works by looking at the data stream that makes up the file to be compressed and assigning variable-length codes to each symbol based on their frequency of occurrence .
+- The symbols that occur more often are assigned shorter codes, while the symbols that occur less often are assigned longer codes.
+- Huffman coding produces a prefix-free code, which means that no code for any symbol will be at the beginning of the code for another symbol. This makes decoding easier and unambiguous.
+- Huffman coding is an optimal method of compression, which means that it minimizes the average code length for a given set of symbols and probabilities.
+- Huffman coding can be implemented using a binary tree data structure, where each leaf node represents a symbol and its code, and each internal node represents the combined frequency of its children.
+- To construct a Huffman tree, the following steps are followed:
+  - Create a leaf node for each symbol and add it to a priority queue based on its frequency.
+  - While there is more than one node in the queue:
+    - Remove the two nodes with the lowest frequency from the queue.
+    - Create a new internal node with these two nodes as children and with frequency equal to the sum of their frequencies.
+    - Add the new node to the queue.
+  - The remaining node in the queue is the root of the Huffman tree.
+- To encode a symbol, follow the path from the root to the leaf node representing that symbol and append a 0 for each left branch and a 1 for each right branch.
+- To decode a bit stream, start from the root and follow the branches according to the bits until reaching a leaf node, which represents the decoded symbol.
+- Huffman coding can be static or dynamic, depending on whether the code table is fixed or updated during the compression process.
+- Static Huffman coding uses a predefined code table that is known to both the encoder and the decoder, and does not change during the compression process.
+- Dynamic Huffman coding adapts the code table based on the data being compressed, and transmits the code table along with the compressed data.
+- Dynamic Huffman coding can achieve better compression ratios than static Huffman coding, especially for non-uniform data distributions.
+- Huffman coding can be combined with other compression techniques, such as subband coding, run-length encoding, or differential coding, to improve the compression performance .

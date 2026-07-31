@@ -1,0 +1,9 @@
+### Error Detection and Correction in Link Layer
+
+- Error control in link layer is the process of detecting and correcting data frames that have been corrupted or lost during transmission  .
+- Error detection is the process of identifying errors in the received data frames by using some techniques such as parity checks, checksums, or cyclic redundancy checks (CRC) .
+- Error correction is the process of recovering the original data frames from the corrupted or lost ones by using some techniques such as retransmission, forward error correction (FEC), or hybrid schemes .
+- Error control in link layer can be classified into two types: automatic repeat request (ARQ) and forward error correction (FEC) .
+- ARQ is a technique that uses error detection and retransmission to correct errors. The sender sends a data frame and waits for an acknowledgment (ACK) from the receiver. If the receiver detects an error in the received frame, it discards the frame and sends a negative acknowledgment (NAK) to the sender. The sender then retransmits the frame until it receives an ACK or a timeout occurs .
+- FEC is a technique that uses error detection and correction codes to correct errors. The sender encodes the data frame with some redundant bits that can be used by the receiver to detect and correct errors without requesting retransmission. The receiver decodes the received frame and corrects the errors if possible. If the errors are too many or too severe, the receiver discards the frame and may request retransmission .
+- Hybrid schemes are techniques that combine ARQ and FEC to achieve better performance and reliability. For example, the sender may use FEC to correct some errors and ARQ to correct the remaining errors. Alternatively, the sender may use ARQ to correct errors in some frames and FEC to correct errors in other frames .

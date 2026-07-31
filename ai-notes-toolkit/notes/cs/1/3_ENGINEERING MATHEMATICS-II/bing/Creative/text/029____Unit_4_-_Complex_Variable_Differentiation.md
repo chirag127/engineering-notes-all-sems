@@ -1,0 +1,16 @@
+## Unit 4 - Complex Variable–Differentiation
+
+- A complex variable is a variable that can take on values in the complex plane, i.e., numbers of the form $z = x + iy$, where $x$ and $y$ are real numbers and $i$ is the imaginary unit.
+- A complex function is a function that maps complex variables to complex values, i.e., $f: \mathbb{C} \to \mathbb{C}$.
+- A complex function can be written in terms of its real and imaginary parts, i.e., $f(z) = u(x,y) + iv(x,y)$, where $u$ and $v$ are real-valued functions of two real variables.
+- A complex function is said to be differentiable at a point $z_0$ if the limit $$f'(z_0) = \lim_{\Delta z \to 0} \frac{f(z_0 + \Delta z) - f(z_0)}{\Delta z}$$ exists and is independent of the direction of $\Delta z$.
+- A complex function is said to be analytic at a point $z_0$ if it is differentiable at $z_0$ and in some neighborhood of $z_0$.
+- A complex function is said to be analytic in a domain $D$ if it is analytic at every point in $D$.
+- A complex function that is analytic in the whole complex plane is called entire.
+- The derivative of a complex function has the same properties as the derivative of a real function, such as the chain rule, the product rule, and the quotient rule.
+- The Cauchy-Riemann equations are necessary and sufficient conditions for a complex function to be differentiable at a point, i.e., $f(z) = u(x,y) + iv(x,y)$ is differentiable at $(x_0,y_0)$ if and only if $$\frac{\partial u}{\partial x} (x_0,y_0) = \frac{\partial v}{\partial y} (x_0,y_0)$$ and $$\frac{\partial u}{\partial y} (x_0,y_0) = - \frac{\partial v}{\partial x} (x_0,y_0)$$
+- The Cauchy-Riemann equations can also be written in polar coordinates, i.e., $f(z) = u(r,\theta) + iv(r,\theta)$ is differentiable at $(r_0,\theta_0)$ if and only if $$\frac{\partial u}{\partial r} (r_0,\theta_0) = \frac{1}{r} \frac{\partial v}{\partial \theta} (r_0,\theta_0)$$ and $$\frac{\partial u}{\partial \theta} (r_0,\theta_0) = - r \frac{\partial v}{\partial r} (r_0,\theta_0)$$
+- The harmonic conjugate of a real-valued function $u(x,y)$ is a real-valued function $v(x,y)$ such that $f(z) = u(x,y) + iv(x,y)$ is analytic. The harmonic conjugate can be found by integrating the Cauchy-Riemann equations.
+- A harmonic function is a real-valued function that satisfies Laplace's equation, i.e., $$\nabla^2 u = \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} = 0$$
+- A harmonic function is the real or imaginary part of an analytic function, and vice versa. A harmonic function has the mean value property, i.e., the value of the function at a point is equal to the average value of the function on a circle centered at that point.
+- A conformal mapping is a complex function that preserves angles and orientation. A conformal mapping is analytic and has a nonzero derivative everywhere in its domain. A conformal mapping can be used to transform a complex domain into a simpler one for solving problems. Some examples of conformal mappings are the exponential function, the logarithmic function, and the power function.

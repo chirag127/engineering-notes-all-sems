@@ -1,0 +1,9 @@
+### 2. To acquaint students with specific dimensions of communication skills i.e. Reading, Writing, Listening, Thinking and Speaking.
+
+- Communication skills are essential for academic and professional success, as well as for personal and social development.
+- Communication skills can be classified into five main dimensions: reading, writing, listening, thinking and speaking.
+- Reading is the process of extracting meaning from written texts, such as books, articles, reports, etc. Reading skills include the ability to comprehend, analyze, evaluate and synthesize information from various sources.
+- Writing is the process of producing written texts, such as essays, letters, emails, reports, etc. Writing skills include the ability to organize, express, argue and support ideas clearly and coherently, using appropriate language, style and format.
+- Listening is the process of receiving and interpreting oral messages, such as lectures, presentations, conversations, etc. Listening skills include the ability to pay attention, understand, remember and respond to what is heard.
+- Thinking is the process of using cognitive abilities, such as reasoning, problem-solving, decision-making, creativity, etc. to generate and apply knowledge. Thinking skills include the ability to identify, analyze, evaluate and solve problems, as well as to generate and implement ideas.
+- Speaking is the process of delivering oral messages, such as speeches, discussions, debates, etc. Speaking skills include the ability to communicate effectively, confidently and persuasively, using appropriate language, voice and body language.

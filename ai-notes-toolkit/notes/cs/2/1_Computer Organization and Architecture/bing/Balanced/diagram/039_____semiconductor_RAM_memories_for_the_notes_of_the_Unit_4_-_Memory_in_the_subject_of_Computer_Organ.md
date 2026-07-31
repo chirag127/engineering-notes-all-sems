@@ -1,0 +1,10 @@
+### Semiconductor RAM Memories
+
+Semiconductor RAM memories are a type of volatile memory that store data in metal-oxide-semiconductor (MOS) memory cells on a silicon chip. They allow random access to data, meaning that any data can be read or written in any order. They are used for applications such as computer or processor memory, where data needs to be accessed quickly and frequently.
+
+Some of the main points to know about semiconductor RAM memories are:
+
+- There are two basic types of RAM: static RAM (SRAM) and dynamic RAM (DRAM). SRAM uses flip-flops to store each bit of data, while DRAM uses capacitors that need to be refreshed periodically. SRAM is faster and more expensive than DRAM, and consumes less power. DRAM is cheaper and denser than SRAM, and consumes more power.
+- There are various subtypes of RAM that have different features and performance. For example, synchronous DRAM (SDRAM) synchronizes with the system clock to improve speed, while magnetoresistive RAM (MRAM) uses magnetic elements to store data non-volatily and reduce power consumption.
+- The capacity and speed of RAM are measured by different parameters. The capacity is measured by the number of bits or bytes that can be stored, such as kilobits (Kb), megabits (Mb), or gigabits (Gb). The speed is measured by the access time, which is the time it takes to read or write a bit of data, or the bandwidth, which is the amount of data that can be transferred per unit of time, such as megabytes per second (MB/s) or gigabytes per second (GB/s).
+- The performance and reliability of RAM are affected by various factors, such as temperature, voltage, noise, radiation, and aging. These factors can cause errors or failures in the data stored or transferred. To prevent or correct these errors, various techniques are used, such as error detection and correction (EDAC) codes, parity bits, checksums, or redundancy.
